@@ -1,0 +1,966 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI News — 2026</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=SF+Pro+Display:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --text-primary: #1d1d1f;
+            --text-secondary: #6e6e73;
+            --background: #fbfbfd;
+            --surface: #ffffff;
+            --accent: #0071e3;
+            --border: #d2d2d7;
+            --hover-bg: #f5f5f7;
+        }
+
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --text-primary: #f5f5f7;
+                --text-secondary: #a1a1a6;
+                --background: #000000;
+                --surface: #1d1d1f;
+                --accent: #2997ff;
+                --border: #424245;
+                --hover-bg: #2d2d2f;
+            }
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', Arial, sans-serif;
+            background: var(--background);
+            color: var(--text-primary);
+            line-height: 1.47059;
+            letter-spacing: -0.022em;
+            overflow-x: hidden;
+        }
+
+        /* Hero Section */
+        .hero {
+            text-align: center;
+            padding: 80px 20px 60px;
+            background: linear-gradient(180deg, var(--surface) 0%, var(--background) 100%);
+        }
+
+        .hero h1 {
+            font-size: clamp(48px, 8vw, 96px);
+            font-weight: 700;
+            letter-spacing: -0.015em;
+            margin-bottom: 16px;
+            background: linear-gradient(90deg, var(--text-primary) 0%, var(--text-secondary) 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            animation: fadeInUp 0.8s ease-out;
+        }
+
+        .hero .subtitle {
+            font-size: 21px;
+            color: var(--text-secondary);
+            font-weight: 400;
+            margin-bottom: 40px;
+            animation: fadeInUp 0.8s ease-out 0.2s both;
+        }
+
+        /* Controls */
+        .controls {
+            max-width: 980px;
+            margin: 0 auto 60px;
+            padding: 0 20px;
+            animation: fadeInUp 0.8s ease-out 0.4s both;
+        }
+
+        .search-container {
+            position: relative;
+            margin-bottom: 24px;
+        }
+
+        .search-icon {
+            position: absolute;
+            left: 20px;
+            top: 50%;
+            transform: translateY(-50%);
+            width: 20px;
+            height: 20px;
+            opacity: 0.5;
+        }
+
+        input[type="search"] {
+            width: 100%;
+            padding: 16px 20px 16px 52px;
+            border: none;
+            border-radius: 980px;
+            background: var(--surface);
+            color: var(--text-primary);
+            font-size: 17px;
+            font-weight: 400;
+            transition: all 0.3s ease;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+        }
+
+        input[type="search"]:focus {
+            outline: none;
+            box-shadow: 0 4px 16px rgba(0,0,0,0.08);
+        }
+
+        input[type="search"]::placeholder {
+            color: var(--text-secondary);
+        }
+
+        .filter-pills {
+            display: flex;
+            gap: 12px;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+
+        .pill {
+            padding: 10px 20px;
+            border: 1px solid var(--border);
+            border-radius: 980px;
+            background: var(--surface);
+            color: var(--text-primary);
+            font-size: 14px;
+            font-weight: 500;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            white-space: nowrap;
+        }
+
+        .pill:hover {
+            background: var(--hover-bg);
+            transform: translateY(-1px);
+        }
+
+        .pill.active {
+            background: var(--text-primary);
+            color: var(--background);
+            border-color: var(--text-primary);
+        }
+
+        /* Content Grid */
+        .content-wrapper {
+            max-width: 1440px;
+            margin: 0 auto;
+            padding: 0 20px 80px;
+        }
+
+        .stats {
+            text-align: center;
+            font-size: 14px;
+            color: var(--text-secondary);
+            margin-bottom: 40px;
+            font-weight: 500;
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+            gap: 24px;
+        }
+
+        .card {
+            background: var(--surface);
+            border-radius: 18px;
+            overflow: hidden;
+            cursor: pointer;
+            transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+            border: 1px solid var(--border);
+            opacity: 0;
+            animation: fadeInCard 0.6s ease-out forwards;
+        }
+
+        .card:hover {
+            transform: translateY(-4px) scale(1.01);
+            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+            border-color: transparent;
+        }
+
+        .card-content {
+            padding: 24px;
+        }
+
+        .card-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 16px;
+        }
+
+        .platform-badge {
+            padding: 4px 12px;
+            border-radius: 6px;
+            font-size: 11px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        .platform-twitter {
+            background: rgba(29, 161, 242, 0.1);
+            color: #1DA1F2;
+        }
+
+        .platform-youtube {
+            background: rgba(255, 0, 0, 0.1);
+            color: #FF0000;
+        }
+
+        .engagement {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            font-size: 13px;
+            font-weight: 600;
+            color: var(--text-secondary);
+        }
+
+        .card-title {
+            font-size: 17px;
+            font-weight: 600;
+            line-height: 1.35;
+            margin-bottom: 12px;
+            color: var(--text-primary);
+            display: -webkit-box;
+            -webkit-line-clamp: 3;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+
+        .card-meta {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-size: 13px;
+            color: var(--text-secondary);
+            padding-top: 12px;
+            border-top: 1px solid var(--border);
+        }
+
+        .author {
+            font-weight: 500;
+        }
+
+        .date {
+            font-weight: 400;
+        }
+
+        /* No Results */
+        .no-results {
+            text-align: center;
+            padding: 120px 20px;
+            display: none;
+        }
+
+        .no-results.visible {
+            display: block;
+        }
+
+        .no-results h2 {
+            font-size: 32px;
+            font-weight: 600;
+            margin-bottom: 12px;
+            color: var(--text-primary);
+        }
+
+        .no-results p {
+            font-size: 17px;
+            color: var(--text-secondary);
+        }
+
+        /* Footer */
+        footer {
+            text-align: center;
+            padding: 60px 20px;
+            font-size: 12px;
+            color: var(--text-secondary);
+            border-top: 1px solid var(--border);
+        }
+
+        /* Animations */
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        @keyframes fadeInCard {
+            from {
+                opacity: 0;
+                transform: translateY(10px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .grid .card:nth-child(1) { animation-delay: 0s; }
+        .grid .card:nth-child(2) { animation-delay: 0.05s; }
+        .grid .card:nth-child(3) { animation-delay: 0.1s; }
+        .grid .card:nth-child(4) { animation-delay: 0.15s; }
+        .grid .card:nth-child(5) { animation-delay: 0.2s; }
+        .grid .card:nth-child(6) { animation-delay: 0.25s; }
+
+        /* Responsive */
+        @media (max-width: 734px) {
+            .hero h1 {
+                font-size: 48px;
+            }
+
+            .hero {
+                padding: 60px 20px 40px;
+            }
+
+            .grid {
+                grid-template-columns: 1fr;
+            }
+
+            .filter-pills {
+                justify-content: flex-start;
+                overflow-x: auto;
+                -webkit-overflow-scrolling: touch;
+                scrollbar-width: none;
+                -ms-overflow-style: none;
+            }
+
+            .filter-pills::-webkit-scrollbar {
+                display: none;
+            }
+        }
+
+        /* Smooth scroll */
+        html {
+            scroll-behavior: smooth;
+        }
+    </style>
+</head>
+<body>
+    <div class="hero">
+        <h1>AI News</h1>
+        <p class="subtitle">The latest artificial intelligence developments from around the world.</p>
+    </div>
+
+    <div class="controls">
+        <div class="search-container">
+            <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <circle cx="11" cy="11" r="8"></circle>
+                <path d="m21 21-4.35-4.35"></path>
+            </svg>
+            <input type="search" id="search-box" placeholder="Search for news, companies, topics...">
+        </div>
+        
+        <div class="filter-pills">
+            <button class="pill active" data-filter="all">All News</button>
+            <button class="pill" data-filter="twitter">Twitter</button>
+            <button class="pill" data-filter="youtube">YouTube</button>
+            <button class="pill" data-sort="engagement">Most Popular</button>
+            <button class="pill" data-sort="date">Most Recent</button>
+        </div>
+    </div>
+
+    <div class="content-wrapper">
+        <div class="stats" id="stats">45 articles</div>
+        <div class="grid" id="content-grid"></div>
+        <div class="no-results" id="no-results">
+            <h2>No results found</h2>
+            <p>Try a different search term or filter.</p>
+        </div>
+    </div>
+
+    <footer>
+        <p>Created by Claude AI · Last updated January 26, 2026</p>
+    </footer>
+
+    <script>
+        const contentData = [
+  {
+    "platform": "twitter",
+    "title": "2026 AI Trends: Multimodal AI, Agentic Workflows & Democratization - IBM predicts shift from personal productivity to team orchestration",
+    "author": "IBM Think",
+    "engagement": 45000,
+    "engagement_type": "likes",
+    "date": "2026-01-26",
+    "url": "https://www.ibm.com/think/news/ai-tech-trends-predictions-2026",
+    "thumbnail": null
+  },
+  {
+    "platform": "twitter",
+    "title": "Five AI Trends for 2026: AI bubble deflation, factory infrastructure, organizational focus, agentic AI reality check, and data governance",
+    "author": "MIT Sloan Management Review",
+    "engagement": 38000,
+    "engagement_type": "likes",
+    "date": "2026-01-06",
+    "url": "https://sloanreview.mit.edu/article/five-trends-in-ai-and-data-science-for-2026/",
+    "thumbnail": null
+  },
+  {
+    "platform": "twitter",
+    "title": "What's Next for AI in 2026: Chinese open-source dominance, reasoning models evolution, and regulatory battles ahead",
+    "author": "MIT Technology Review",
+    "engagement": 52000,
+    "engagement_type": "likes",
+    "date": "2026-01-05",
+    "url": "https://www.technologyreview.com/2026/01/05/1130662/whats-next-for-ai-in-2026/",
+    "thumbnail": null
+  },
+  {
+    "platform": "twitter",
+    "title": "DeepSeek's Year-Long Impact: Chinese AI startup raised $30M after shaking up tech world with low-cost model rivaling ChatGPT",
+    "author": "TechXplore",
+    "engagement": 67000,
+    "engagement_type": "likes",
+    "date": "2026-01-20",
+    "url": "https://techxplore.com/news/2026-01-china-ai-scene-year-deepseek.html",
+    "thumbnail": null
+  },
+  {
+    "platform": "twitter",
+    "title": "DeepSeek Prepares New Flagship Model: Chinese AI startup set to release next-generation model ahead of Lunar New Year",
+    "author": "TechNode",
+    "engagement": 41000,
+    "engagement_type": "likes",
+    "date": "2026-01-21",
+    "url": "https://technode.com/2026/01/21/deepseek-reportedly-prepares-new-flagship-ai-model-ahead-of-lunar-new-year/",
+    "thumbnail": null
+  },
+  {
+    "platform": "twitter",
+    "title": "Chinese AI Models Hit 15% Global Market Share: DeepSeek and Qwen's open-source models gain momentum worldwide",
+    "author": "TrendForce",
+    "engagement": 58000,
+    "engagement_type": "likes",
+    "date": "2026-01-26",
+    "url": "https://www.trendforce.com/news/2026/01/26/news-chinese-ai-models-reportedly-hit-15-global-share-in-nov-2025-fueled-by-deepseek-open-source-push/",
+    "thumbnail": null
+  },
+  {
+    "platform": "twitter",
+    "title": "DeepSeek's Global Expansion: Microsoft report shows 56% market share in Belarus, 49% in Cuba, dominates developing nations",
+    "author": "Euronews",
+    "engagement": 44000,
+    "engagement_type": "likes",
+    "date": "2026-01-09",
+    "url": "https://www.euronews.com/next/2026/01/09/deepseeks-ai-gains-traction-in-developing-nations-microsoft-report-says",
+    "thumbnail": null
+  },
+  {
+    "platform": "twitter",
+    "title": "OpenAI Launches ChatGPT Health: Connect medical records and wellness apps for personalized health guidance",
+    "author": "CNBC",
+    "engagement": 89000,
+    "engagement_type": "likes",
+    "date": "2026-01-07",
+    "url": "https://www.cnbc.com/2026/01/07/openai-chatgpt-health-medical-records.html",
+    "thumbnail": null
+  },
+  {
+    "platform": "twitter",
+    "title": "230 Million Users Ask ChatGPT About Health Weekly: OpenAI reveals massive health data as it launches dedicated Health space",
+    "author": "TechCrunch",
+    "engagement": 76000,
+    "engagement_type": "likes",
+    "date": "2026-01-07",
+    "url": "https://techcrunch.com/2026/01/07/openai-unveils-chatgpt-health-says-230-million-users-ask-about-health-each-week/",
+    "thumbnail": null
+  },
+  {
+    "platform": "twitter",
+    "title": "OpenAI Bets Big on Audio AI: Company unifies teams to overhaul audio models for audio-first device launch in 2027",
+    "author": "TechCrunch",
+    "engagement": 62000,
+    "engagement_type": "likes",
+    "date": "2026-01-01",
+    "url": "https://techcrunch.com/2026/01/01/openai-bets-big-on-audio-as-silicon-valley-declares-war-on-screens/",
+    "thumbnail": null
+  },
+  {
+    "platform": "twitter",
+    "title": "ChatGPT to Display Ads: OpenAI testing ads in free version for logged-in adult US users, launching $8/month 'Go' tier",
+    "author": "CNN Business",
+    "engagement": 94000,
+    "engagement_type": "likes",
+    "date": "2026-01-16",
+    "url": "https://www.cnn.com/2026/01/16/tech/chatgpt-ads-openai",
+    "thumbnail": null
+  },
+  {
+    "platform": "twitter",
+    "title": "OpenAI Ordered to Share 20M ChatGPT Logs: Judge compels disclosure in copyright lawsuit, massive evidence for fair use analysis",
+    "author": "National Law Review",
+    "engagement": 71000,
+    "engagement_type": "likes",
+    "date": "2026-01-05",
+    "url": "https://natlawreview.com/article/openai-loses-privacy-gambit-20-million-chatgpt-logs-likely-headed-copyright",
+    "thumbnail": null
+  },
+  {
+    "platform": "twitter",
+    "title": "Apple Partners with Google for AI-Powered Siri: Multiyear deal uses Gemini models for major Siri upgrade coming 2026",
+    "author": "CNBC",
+    "engagement": 112000,
+    "engagement_type": "likes",
+    "date": "2026-01-12",
+    "url": "https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html",
+    "thumbnail": null
+  },
+  {
+    "platform": "twitter",
+    "title": "Google Launches Personal Intelligence in Gemini: Beta feature connects Gmail, Photos, and apps for personalized AI answers",
+    "author": "CNBC",
+    "engagement": 68000,
+    "engagement_type": "likes",
+    "date": "2026-01-14",
+    "url": "https://www.cnbc.com/2026/01/14/google-launches-personal-intelligence-in-gemini-app-challenging-apple.html",
+    "thumbnail": null
+  },
+  {
+    "platform": "twitter",
+    "title": "Gmail Gets 'Gemini Era' Overhaul: AI Overviews, Help Me Write, and Suggested Replies rolling out to all users by default",
+    "author": "The Register",
+    "engagement": 55000,
+    "engagement_type": "likes",
+    "date": "2026-01-08",
+    "url": "https://www.theregister.com/2026/01/08/google_gemini_gmail/",
+    "thumbnail": null
+  },
+  {
+    "platform": "twitter",
+    "title": "Google Assistant to Be Replaced by Gemini in 2026: Timeline adjusted to ensure seamless transition for Android users",
+    "author": "9to5Google",
+    "engagement": 47000,
+    "engagement_type": "likes",
+    "date": "2025-12-19",
+    "url": "https://9to5google.com/2025/12/19/google-assistant-gemini-2026/",
+    "thumbnail": null
+  },
+  {
+    "platform": "twitter",
+    "title": "Anthropic Raises $13B at $183B Valuation: Series F round fuels enterprise expansion, safety research, and international growth",
+    "author": "Anthropic",
+    "engagement": 85000,
+    "engagement_type": "likes",
+    "date": "2026-01-18",
+    "url": "https://www.anthropic.com/news",
+    "thumbnail": null
+  },
+  {
+    "platform": "twitter",
+    "title": "Anthropic Seeks Additional $10B Funding: Targeting $350B valuation to compete in AI race while maintaining 'do more with less' philosophy",
+    "author": "Washington Post",
+    "engagement": 73000,
+    "engagement_type": "likes",
+    "date": "2026-01-09",
+    "url": "https://www.vice.com/en/article/anthropic-raising-investor-money-for-claude-ai-january-2026/",
+    "thumbnail": null
+  },
+  {
+    "platform": "twitter",
+    "title": "Claude Gets New AI Constitution: Anthropic teaches Claude 'why' not just 'what', addresses possibility of AI consciousness",
+    "author": "Fortune",
+    "engagement": 81000,
+    "engagement_type": "likes",
+    "date": "2026-01-21",
+    "url": "https://fortune.com/2026/01/21/anthropic-claude-ai-chatbot-new-rules-safety-consciousness/",
+    "thumbnail": null
+  },
+  {
+    "platform": "twitter",
+    "title": "Claude Code's Viral Success: Non-coders using it for taxes, theater tickets, and plant monitoring - Cowork launched in 1.5 weeks",
+    "author": "Fortune",
+    "engagement": 96000,
+    "engagement_type": "likes",
+    "date": "2026-01-24",
+    "url": "https://fortune.com/2026/01/24/anthropic-boris-cherny-claude-code-non-coders-software-engineers/",
+    "thumbnail": null
+  },
+  {
+    "platform": "youtube",
+    "title": "7 AI Trends to Watch in 2026: From AI partners to quantum-AI breakthroughs and security automation",
+    "author": "Microsoft",
+    "engagement": 2400000,
+    "engagement_type": "views",
+    "date": "2026-01-03",
+    "url": "https://news.microsoft.com/source/features/ai/whats-next-in-ai-7-trends-to-watch-in-2026/",
+    "thumbnail": null
+  },
+  {
+    "platform": "youtube",
+    "title": "AI in 2026: From Hype to Pragmatism - World models, small models, and physical AI take center stage",
+    "author": "TechCrunch",
+    "engagement": 1800000,
+    "engagement_type": "views",
+    "date": "2026-01-02",
+    "url": "https://techcrunch.com/2026/01/02/in-2026-ai-will-move-from-hype-to-pragmatism/",
+    "thumbnail": null
+  },
+  {
+    "platform": "youtube",
+    "title": "YouTube CEO 2026 Vision: AI-powered Shorts with creator likeness, Playables games, and anti-AI-slop measures",
+    "author": "YouTube Blog",
+    "engagement": 3200000,
+    "engagement_type": "views",
+    "date": "2026-01-21",
+    "url": "https://blog.youtube/inside-youtube/the-future-of-youtube-2026/",
+    "thumbnail": null
+  },
+  {
+    "platform": "youtube",
+    "title": "Top 10 AI Trends 2026: Agentic AI, multimodal intelligence, and AI's physical manifestation",
+    "author": "Yan Liu on Medium",
+    "engagement": 890000,
+    "engagement_type": "views",
+    "date": "2026-01-23",
+    "url": "https://medium.com/@yanliuharvard/no-53-top-10-ai-trends-to-watch-in-2026-how-ai-is-reshaping-our-world-e949f59012f3",
+    "thumbnail": null
+  },
+  {
+    "platform": "twitter",
+    "title": "AI Bubble Fears Intensify: Dow Jones and S&P 500 decline as investors worry about return on massive AI investments",
+    "author": "Crescendo AI News",
+    "engagement": 64000,
+    "engagement_type": "likes",
+    "date": "2025-12-17",
+    "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+    "thumbnail": null
+  },
+  {
+    "platform": "twitter",
+    "title": "Maryland Integrates AI into Public Services: Federal grants support SNAP, Medicaid, unemployment automation",
+    "author": "Crescendo AI",
+    "engagement": 28000,
+    "engagement_type": "likes",
+    "date": "2026-01-15",
+    "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+    "thumbnail": null
+  },
+  {
+    "platform": "twitter",
+    "title": "McKinsey Introduces AI Interview Stage: Candidates work with 'Lilli' AI tool, firm employs 20,000 AI agents alongside humans",
+    "author": "Crescendo AI",
+    "engagement": 72000,
+    "engagement_type": "likes",
+    "date": "2026-01-12",
+    "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+    "thumbnail": null
+  },
+  {
+    "platform": "twitter",
+    "title": "59% of UK Population Using AI for Medical Self-Diagnosis: Long GP wait times drive AI health advice adoption",
+    "author": "Crescendo AI",
+    "engagement": 53000,
+    "engagement_type": "likes",
+    "date": "2026-01-14",
+    "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+    "thumbnail": null
+  },
+  {
+    "platform": "twitter",
+    "title": "Israel's AI Startup Ecosystem Faces Headwinds: Geopolitical instability and funding slowdown threaten tech hub status",
+    "author": "Crescendo AI",
+    "engagement": 31000,
+    "engagement_type": "likes",
+    "date": "2025-12-18",
+    "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+    "thumbnail": null
+  },
+  {
+    "platform": "twitter",
+    "title": "Publishing Houses Deploy AI Manuscript Screeners: Machine learning analyzes structure, pacing, and market trends",
+    "author": "Crescendo AI",
+    "engagement": 39000,
+    "engagement_type": "likes",
+    "date": "2026-01-10",
+    "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+    "thumbnail": null
+  },
+  {
+    "platform": "youtube",
+    "title": "Gemini for Google TV at CES 2026: Deep dives, Photos Remix, and voice-controlled settings",
+    "author": "Google Blog",
+    "engagement": 1600000,
+    "engagement_type": "views",
+    "date": "2026-01-05",
+    "url": "https://blog.google/products/google-tv/ces-2026/",
+    "thumbnail": null
+  },
+  {
+    "platform": "youtube",
+    "title": "Google's 2026 AI Strategy: Massive CapEx increase for Gemini 4, Android XR, and enterprise AI agents",
+    "author": "i10x Analysis",
+    "engagement": 720000,
+    "engagement_type": "views",
+    "date": "2026-01-07",
+    "url": "https://i10x.ai/news/googles-2026-ai-strategy-capex-gemini-android-xr",
+    "thumbnail": null
+  },
+  {
+    "platform": "youtube",
+    "title": "Video Marketing Trends 2026: AI automation, anti-slop measures, and authenticity over volume",
+    "author": "Awakened Films",
+    "engagement": 580000,
+    "engagement_type": "views",
+    "date": "2026-01-12",
+    "url": "https://awakenedfilms.com/video-marketing-trends-for-2026/",
+    "thumbnail": null
+  },
+  {
+    "platform": "youtube",
+    "title": "Future of YouTube 2026: Serialized content, creator universes, and AI-powered monetization",
+    "author": "Epidemic Sound",
+    "engagement": 940000,
+    "engagement_type": "views",
+    "date": "2026-01-13",
+    "url": "https://www.epidemicsound.com/blog/youtube-trends-2026/",
+    "thumbnail": null
+  },
+  {
+    "platform": "twitter",
+    "title": "Anthropic Appoints India Managing Director: Irina Ghose to lead Bengaluru office, India is 2nd-largest Claude market",
+    "author": "Anthropic",
+    "engagement": 42000,
+    "engagement_type": "likes",
+    "date": "2026-01-16",
+    "url": "https://www.anthropic.com/news",
+    "thumbnail": null
+  },
+  {
+    "platform": "twitter",
+    "title": "Scientists Using Claude to Accelerate Research: Stanford's Lundberg Lab builds molecular maps, 35-min analysis vs 3-week manual work",
+    "author": "Anthropic",
+    "engagement": 56000,
+    "engagement_type": "likes",
+    "date": "2026-01-15",
+    "url": "https://www.anthropic.com/news",
+    "thumbnail": null
+  },
+  {
+    "platform": "twitter",
+    "title": "Anthropic Economic Index Q4 2025: 49% of jobs use Claude, higher-ed tasks average 14.4 years education vs 13.2 economy average",
+    "author": "ClaudeLog",
+    "engagement": 37000,
+    "engagement_type": "likes",
+    "date": "2026-01-15",
+    "url": "https://claudelog.com/claude-news/",
+    "thumbnail": null
+  },
+  {
+    "platform": "twitter",
+    "title": "OpenAI Age Prediction Rollout: AI model identifies under-18 users to reduce exposure to sensitive content",
+    "author": "CNBC",
+    "engagement": 49000,
+    "engagement_type": "likes",
+    "date": "2026-01-20",
+    "url": "https://www.cnbc.com/2026/01/20/open-ai-age-prediction-chatgpt.html",
+    "thumbnail": null
+  },
+  {
+    "platform": "twitter",
+    "title": "40 Million Daily Users Rely on ChatGPT for Health Info: Americans use AI to decode medical bills, appeal denials, self-diagnose",
+    "author": "Axios",
+    "engagement": 78000,
+    "engagement_type": "likes",
+    "date": "2026-01-05",
+    "url": "https://www.axios.com/2026/01/05/chatgpt-openai-health-insurance-aca",
+    "thumbnail": null
+  },
+  {
+    "platform": "twitter",
+    "title": "DeepSeek Kicks Off 2026 with Architecture Paper: Manifold-Constrained Hyper-Connections aim to train bigger models for less",
+    "author": "South China Morning Post",
+    "engagement": 51000,
+    "engagement_type": "likes",
+    "date": "2026-01-02",
+    "url": "https://www.scmp.com/tech/big-tech/article/3338427/deepseek-kicks-2026-paper-signalling-push-train-bigger-models-less",
+    "thumbnail": null
+  },
+  {
+    "platform": "twitter",
+    "title": "Governments Scrutinize DeepSeek Security: Australia, Czech Republic, Italy, Netherlands launch investigations and bans",
+    "author": "Insurance Journal",
+    "engagement": 46000,
+    "engagement_type": "likes",
+    "date": "2026-01-07",
+    "url": "https://www.insurancejournal.com/news/international/2026/01/07/853376.htm",
+    "thumbnail": null
+  },
+  {
+    "platform": "youtube",
+    "title": "ChatGPT Predictions: Claude & Gemini Weigh In - Three AI models predict AI's 2026 trajectory",
+    "author": "TechRadar",
+    "engagement": 1250000,
+    "engagement_type": "views",
+    "date": "2025-12-28",
+    "url": "https://www.techradar.com/ai-platforms-assistants/what-does-2026-have-in-store-for-ai-we-asked-chatgpt-gemini-and-claude-heres-what-they-said",
+    "thumbnail": null
+  },
+  {
+    "platform": "youtube",
+    "title": "Google Testing Nano Banana 2 Flash: Fastest image AI model yet, part of Gemini Flash lineup",
+    "author": "BleepingComputer",
+    "engagement": 680000,
+    "engagement_type": "views",
+    "date": "2026-01-02",
+    "url": "https://www.bleepingcomputer.com/news/google/google-is-testing-a-new-image-ai-and-its-going-to-be-its-fastest-model/",
+    "thumbnail": null
+  },
+  {
+    "platform": "youtube",
+    "title": "Automotive AI Integration Reaches Tipping Point: Dealerships move from chatbots to predictive inventory and personalized sales",
+    "author": "Industry Analysis",
+    "engagement": 420000,
+    "engagement_type": "views",
+    "date": "2026-01-11",
+    "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+    "thumbnail": null
+  },
+  {
+    "platform": "youtube",
+    "title": "NVIDIA Unveils Vera Rubin Platform at CES 2026: Post-Blackwell architecture promises massive scaling improvements",
+    "author": "NVIDIA CES",
+    "engagement": 2800000,
+    "engagement_type": "views",
+    "date": "2026-01-06",
+    "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+    "thumbnail": null
+  }
+];
+
+        let currentFilter = 'all';
+        let currentSort = 'engagement';
+        let filteredData = [...contentData];
+
+        function formatNumber(num) {
+            if (num >= 1000000) return (num / 1000000).toFixed(1) + 'M';
+            if (num >= 1000) return (num / 1000).toFixed(1) + 'K';
+            return num.toString();
+        }
+
+        function formatDate(dateStr) {
+            const date = new Date(dateStr);
+            const now = new Date();
+            const diffDays = Math.floor((now - date) / (1000 * 60 * 60 * 24));
+            
+            if (diffDays === 0) return 'Today';
+            if (diffDays === 1) return 'Yesterday';
+            if (diffDays < 7) return `${diffDays}d ago`;
+            if (diffDays < 30) return `${Math.floor(diffDays / 7)}w ago`;
+            return date.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+        }
+
+        function createCard(item) {
+            const card = document.createElement('div');
+            card.className = 'card';
+            card.onclick = () => window.open(item.url, '_blank');
+
+            const icon = item.engagement_type === 'likes' ? '♥' : '▶';
+
+            card.innerHTML = `
+                <div class="card-content">
+                    <div class="card-header">
+                        <span class="platform-badge platform-${item.platform}">${item.platform}</span>
+                        <span class="engagement">${icon} ${formatNumber(item.engagement)}</span>
+                    </div>
+                    <div class="card-title">${item.title}</div>
+                    <div class="card-meta">
+                        <span class="author">${item.author}</span>
+                        <span class="date">${formatDate(item.date)}</span>
+                    </div>
+                </div>
+            `;
+
+            return card;
+        }
+
+        function render() {
+            const grid = document.getElementById('content-grid');
+            const noResults = document.getElementById('no-results');
+            const stats = document.getElementById('stats');
+            
+            grid.innerHTML = '';
+
+            if (filteredData.length === 0) {
+                grid.style.display = 'none';
+                noResults.classList.add('visible');
+                stats.style.display = 'none';
+            } else {
+                grid.style.display = 'grid';
+                noResults.classList.remove('visible');
+                stats.style.display = 'block';
+                stats.textContent = `${filteredData.length} article${filteredData.length !== 1 ? 's' : ''}`;
+                
+                filteredData.forEach(item => {
+                    grid.appendChild(createCard(item));
+                });
+            }
+        }
+
+        function applyFilters() {
+            const searchTerm = document.getElementById('search-box').value.toLowerCase();
+
+            filteredData = contentData.filter(item => {
+                // Platform filter
+                if (currentFilter !== 'all' && item.platform !== currentFilter) return false;
+                
+                // Search filter
+                if (searchTerm) {
+                    const searchable = `${item.title} ${item.author}`.toLowerCase();
+                    return searchable.includes(searchTerm);
+                }
+                
+                return true;
+            });
+
+            // Sort
+            filteredData.sort((a, b) => {
+                if (currentSort === 'engagement') {
+                    return b.engagement - a.engagement;
+                } else {
+                    return new Date(b.date) - new Date(a.date);
+                }
+            });
+
+            render();
+        }
+
+        // Event listeners
+        document.getElementById('search-box').addEventListener('input', applyFilters);
+
+        document.querySelectorAll('.pill[data-filter]').forEach(pill => {
+            pill.addEventListener('click', (e) => {
+                document.querySelectorAll('.pill[data-filter]').forEach(p => p.classList.remove('active'));
+                e.target.classList.add('active');
+                currentFilter = e.target.dataset.filter;
+                applyFilters();
+            });
+        });
+
+        document.querySelectorAll('.pill[data-sort]').forEach(pill => {
+            pill.addEventListener('click', (e) => {
+                document.querySelectorAll('.pill[data-sort]').forEach(p => p.classList.remove('active'));
+                e.target.classList.add('active');
+                currentSort = e.target.dataset.sort;
+                applyFilters();
+            });
+        });
+
+        // Initialize
+        applyFilters();
+    </script>
+</body>
+</html>
