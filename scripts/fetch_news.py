@@ -107,16 +107,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-```
-
-4. 点击 **"Commit new file"**
-
----
-
-### 第3步：上传第二个Python脚本
-
-1. 再次点击 **"Add file"** → **"Create new file"**
-
-2. 文件名输入：
-```
-   scripts/update_html.py
