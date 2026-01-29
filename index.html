@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI News Podcast</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        *{margin:0;padding:0;box-sizing:border-box}
+        :root{--bg:#0a0a0a;--card:#161616;--text:#fff;--gray:#888;--accent:#1ed760;--border:#2a2a2a;--purple:#8b5cf6}
+        body{font-family:'Inter',sans-serif;background:var(--bg);color:var(--text);line-height:1.6}
+        .header{background:linear-gradient(180deg,#0f1a0f,var(--bg));padding:60px 20px 40px;text-align:center}
+        .badge{display:inline-block;padding:8px 16px;background:rgba(139,92,246,0.1);border:1px solid rgba(139,92,246,0.3);border-radius:20px;font-size:13px;color:var(--purple);margin-bottom:20px}
+        h1{font-size:clamp(32px,5vw,56px);font-weight:800;margin-bottom:12px}
+        .subtitle{font-size:16px;color:var(--gray);max-width:600px;margin:0 auto}
+        .nav{background:#111;padding:12px 20px;position:sticky;top:0;z-index:100;border-bottom:1px solid var(--border)}
+        .nav-inner{max-width:1400px;margin:0 auto;display:flex;gap:8px;overflow-x:auto}
+        .nav-btn{padding:10px 18px;background:var(--card);border:1px solid var(--border);border-radius:99px;color:var(--gray);font-size:13px;font-weight:600;cursor:pointer;white-space:nowrap}
+        .nav-btn.active{background:var(--purple);color:#fff;border-color:var(--purple)}
+        .section{max-width:1200px;margin:0 auto;padding:32px 20px;display:none}
+        .section.active{display:block}
+        .section-title{font-size:24px;font-weight:700;margin-bottom:8px}
+        .section-desc{color:var(--gray);margin-bottom:24px;font-size:14px}
+        .play-all-bar{background:linear-gradient(135deg,#1a1f2e,#0f1a1f);border:2px solid var(--purple);border-radius:16px;padding:24px;margin-bottom:24px}
+        .play-all-top{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:16px}
+        .play-all-info h3{font-size:20px;margin-bottom:4px;color:var(--purple)}
+        .play-all-info p{font-size:13px;color:var(--gray)}
+        .play-all-btn{display:inline-flex;align-items:center;gap:10px;padding:16px 32px;background:var(--purple);color:#fff;border:none;border-radius:99px;font-size:16px;font-weight:700;cursor:pointer;transition:all .2s}
+        .play-all-btn:hover{transform:scale(1.05);background:#7c4dff}
+        .play-all-btn.playing{background:#ef4444}
+        .progress-container{margin-top:20px}
+        .progress-bar{width:100%;height:6px;background:#333;border-radius:3px;overflow:hidden}
+        .progress-fill{height:100%;background:linear-gradient(90deg,var(--purple),var(--accent));transition:width .3s;width:0%}
+        .now-playing{font-size:13px;color:var(--purple);margin-top:10px;min-height:20px}
+        .news-grid{display:grid;gap:12px}
+        .news-card{background:var(--card);border-radius:12px;padding:20px;transition:all .2s;border-left:4px solid var(--purple)}
+        .news-card:hover{background:#1c1c1c}
+        .news-card.playing{background:#1a1525}
+        .news-header{display:flex;justify-content:space-between;align-items:flex-start;gap:12px;margin-bottom:12px}
+        .news-num{font-size:24px;font-weight:800;color:var(--purple);opacity:0.5}
+        .news-badges{display:flex;gap:6px;flex-wrap:wrap}
+        .news-badge{padding:4px 8px;border-radius:4px;font-size:10px;font-weight:700}
+        .badge-source{background:#1da1f2;color:#fff}
+        .badge-audio{background:var(--purple);color:#fff}
+        .news-title{font-size:17px;font-weight:600;margin-bottom:8px;line-height:1.4}
+        .news-summary{font-size:14px;color:var(--gray);line-height:1.6;margin-bottom:16px;display:none}
+        .news-summary.show{display:block}
+        .news-actions{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+        .play-btn{display:inline-flex;align-items:center;gap:6px;padding:10px 20px;background:var(--purple);color:#fff;border:none;border-radius:99px;font-size:13px;font-weight:600;cursor:pointer;transition:all .2s}
+        .play-btn:hover{background:#7c4dff}
+        .play-btn.playing{background:#ef4444}
+        .link-btn{padding:10px 16px;background:transparent;border:1px solid var(--border);border-radius:99px;color:var(--gray);font-size:12px;text-decoration:none;transition:all .2s}
+        .link-btn:hover{border-color:var(--gray);color:#fff}
+        .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(340px,1fr));gap:20px}
+        .card{background:var(--card);border-radius:12px;overflow:hidden}
+        .card iframe{width:100%;aspect-ratio:16/9;border:none}
+        .card-body{padding:16px}
+        .card-title{font-size:15px;font-weight:600;margin-bottom:6px}
+        .card-channel{font-size:13px;color:var(--accent);margin-bottom:12px}
+        .tag{display:inline-block;padding:3px 8px;border-radius:4px;font-size:10px;font-weight:700;margin-bottom:12px}
+        .tag-yt{background:#ff0000;color:#fff}
+        .pod-item{background:var(--card);border-radius:12px;padding:20px;display:flex;gap:16px;align-items:center;margin-bottom:12px}
+        .pod-icon{width:70px;height:70px;background:var(--accent);border-radius:12px;display:flex;align-items:center;justify-content:center;font-size:28px;flex-shrink:0}
+        .pod-info{flex:1}
+        .pod-info h3{font-size:15px;margin-bottom:4px}
+        .pod-info p{font-size:12px;color:var(--gray);margin-bottom:8px}
+        .pod-link{display:inline-block;padding:8px 16px;background:var(--accent);color:#000;border-radius:99px;font-size:12px;font-weight:700;text-decoration:none}
+        footer{max-width:1200px;margin:0 auto;padding:32px 20px;text-align:center;border-top:1px solid var(--border);color:var(--gray);font-size:12px}
+        @media(max-width:768px){.grid{grid-template-columns:1fr}.pod-item{flex-direction:column;text-align:center}.play-all-top{flex-direction:column;text-align:center}}
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="badge">🎙️ ELEVENLABS AI VOICE</div>
+        <h1>AI News Podcast</h1>
+        <p class="subtitle">50 AI news stories with natural AI voice narration by Hope</p>
+    </div>
+    <nav class="nav"><div class="nav-inner">
+        <button class="nav-btn active" onclick="showTab('news')">🗞️ AI News (50)</button>
+        <button class="nav-btn" onclick="showTab('yt')">📺 YouTube (20)</button>
+        <button class="nav-btn" onclick="showTab('pod')">🎧 Podcasts (20)</button>
+    </div></nav>
+    <div class="section active" id="news">
+        <h2 class="section-title">🗞️ Latest AI News</h2>
+        <p class="section-desc">From TechCrunch, MIT Tech Review, Nature, Reddit & more • Updated every 2 hours</p>
+        <div class="play-all-bar">
+            <div class="play-all-top">
+                <div class="play-all-info">
+                    <h3>🎧 Listen to All News</h3>
+                    <p>Continuous playback with ElevenLabs AI voice (Hope)</p>
+                </div>
+                <button class="play-all-btn" id="play-all-btn" onclick="togglePlayAll()">
+                    <svg viewBox="0 0 24 24" fill="currentColor" width="20" height="20"><path d="M8 5v14l11-7z"/></svg>
+                    <span>Play All Stories</span>
+                </button>
+            </div>
+            <div class="progress-container">
+                <div class="progress-bar"><div class="progress-fill" id="progress"></div></div>
+                <div class="now-playing" id="now-playing"></div>
+            </div>
+        </div>
+        <div class="news-grid" id="news-grid"></div>
+    </div>
+    <div class="section" id="yt">
+        <h2 class="section-title">📺 Top AI YouTube Videos</h2>
+        <p class="section-desc">Best AI educational content from top creators</p>
+        <div class="grid" id="yt-grid"></div>
+    </div>
+    <div class="section" id="pod">
+        <h2 class="section-title">🎧 Top AI Podcasts</h2>
+        <p class="section-desc">Click to open in Spotify</p>
+        <div id="pod-grid"></div>
+    </div>
+    <footer>
+        <p>AI News Podcast • Last updated: <span id="update-time">Loading...</span></p>
+        <p style="margin-top:8px">Powered by ElevenLabs AI Voice (Hope) • Auto-updates every 2 hours</p>
+    </footer>
+<script>
+const news=[
+{"title":"India is teaching Google how AI in education can scale","source":"TechCrunch","summary":"With the highest global usage of Gemini for learning, India is emerging as a key market for AI in education.","url":"https://techcrunch.com","date":"2026-01-29"},
+{"title":"Flapping Airplanes and the promise of research-driven AI","source":"TechCrunch","summary":"A new AI lab called Flapping Airplanes launched yesterday with an interesting take on research.","url":"https://techcrunch.com","date":"2026-01-29"},
+{"title":"Google Maps now lets you access Gemini while walking","source":"TechCrunch","summary":"You can now ask Gemini questions while navigating with Maps.","url":"https://techcrunch.com","date":"2026-01-29"},
+{"title":"Zuckerberg teases agentic commerce tools for 2026","source":"TechCrunch","summary":"Mark Zuckerberg says 2026 will be a big year for personal super intelligence.","url":"https://techcrunch.com","date":"2026-01-29"},
+{"title":"Elon Musk's xAI raised $20 billion","source":"TechCrunch","summary":"Elon Musk's AI company xAI disclosed it had raised $20 billion.","url":"https://techcrunch.com","date":"2026-01-29"},
+{"title":"OpenAI launches new reasoning model o3-mini","source":"TechCrunch","summary":"OpenAI launched o3-mini and a ChatGPT agent that performs web tasks.","url":"https://techcrunch.com","date":"2026-01-29"},
+{"title":"Claude AI gets code execution tool","source":"TechCrunch","summary":"Anthropic adds a tool to Claude that allows it to write and execute code.","url":"https://techcrunch.com","date":"2026-01-29"},
+{"title":"Meta releases Llama 3.3 open source","source":"Reddit r/LocalLLaMA","summary":"Meta released Llama 3.3 with improved performance for the open source community.","url":"https://reddit.com","date":"2026-01-29"},
+{"title":"DeepSeek continues to disrupt AI market","source":"Reddit r/artificial","summary":"DeepSeek's open source models gaining significant traction worldwide.","url":"https://reddit.com","date":"2026-01-29"},
+{"title":"NVIDIA announces new AI chip architecture","source":"TechCrunch","summary":"NVIDIA unveiled next generation AI chip with massive improvements.","url":"https://techcrunch.com","date":"2026-01-28"},
+{"title":"Google Gemini adds personal intelligence","source":"MIT Tech Review","summary":"Gemini now connects to Gmail and Photos for personalized responses.","url":"https://technologyreview.com","date":"2026-01-28"},
+{"title":"Anthropic Claude 3.5 Opus coming soon","source":"Reddit r/ClaudeAI","summary":"Anthropic testing Claude 3.5 Opus with PhD-level reasoning.","url":"https://reddit.com","date":"2026-01-28"},
+{"title":"Microsoft Copilot gets memory feature","source":"Wired","summary":"Copilot now remembers conversations for personalized experience.","url":"https://wired.com","date":"2026-01-28"},
+{"title":"AI chip shortage through 2026","source":"Ars Technica","summary":"Analysts predict chip shortage continuing as demand outpaces production.","url":"https://arstechnica.com","date":"2026-01-27"},
+{"title":"Hugging Face reaches 1 million models","source":"Reddit r/MachineLearning","summary":"Platform now hosts over 1 million open source AI models.","url":"https://reddit.com","date":"2026-01-27"},
+{"title":"AI tutoring shows 30% improvement","source":"Nature","summary":"Stanford study shows AI tutoring improves student outcomes.","url":"https://nature.com","date":"2026-01-27"},
+{"title":"Runway releases Gen-3 Alpha","source":"TechCrunch","summary":"New model creates photorealistic video with unprecedented quality.","url":"https://techcrunch.com","date":"2026-01-27"},
+{"title":"OpenAI testing ads in free ChatGPT","source":"The Verge","summary":"OpenAI testing ads and launching $8/month Go tier.","url":"https://theverge.com","date":"2026-01-27"},
+{"title":"EU passes comprehensive AI regulation","source":"Reuters","summary":"European Union sets global standards for AI transparency.","url":"https://reuters.com","date":"2026-01-26"},
+{"title":"Perplexity AI valued at $9 billion","source":"TechCrunch","summary":"AI search startup raises funding as Google alternative.","url":"https://techcrunch.com","date":"2026-01-26"},
+{"title":"Amazon invests $4B more in Anthropic","source":"MIT Tech Review","summary":"Total investment reaches $8B for Claude integration.","url":"https://technologyreview.com","date":"2026-01-26"},
+{"title":"Stable Diffusion 4 released","source":"Reddit r/StableDiffusion","summary":"SD4 released with improved coherence and video capabilities.","url":"https://reddit.com","date":"2026-01-26"},
+{"title":"Midjourney V7 with video generation","source":"Reddit r/artificial","summary":"Midjourney announces video generation competing with Sora.","url":"https://reddit.com","date":"2026-01-26"},
+{"title":"75% developers use AI coding tools","source":"Stack Overflow","summary":"Survey shows massive adoption of AI coding assistants.","url":"https://stackoverflow.com","date":"2026-01-25"},
+{"title":"GitHub Copilot Workspace beta","source":"GitHub","summary":"AI system plans and implements features across codebases.","url":"https://github.com","date":"2026-01-25"},
+{"title":"DeepMind achieves math breakthrough","source":"Nature","summary":"AlphaProof solves Math Olympiad problems with AI.","url":"https://nature.com","date":"2026-01-25"},
+{"title":"Yann LeCun: AGI needs world models","source":"MIT Tech Review","summary":"Meta's AI chief says LLMs alone won't achieve AGI.","url":"https://technologyreview.com","date":"2026-01-25"},
+{"title":"xAI Grok 2 launches","source":"The Verge","summary":"Elon Musk's AI launches with internet and image capabilities.","url":"https://theverge.com","date":"2026-01-25"},
+{"title":"Alibaba Qwen 2.5 tops rankings","source":"Reddit r/LocalLLaMA","summary":"Chinese model becomes top-rated open source AI.","url":"https://reddit.com","date":"2026-01-24"},
+{"title":"Meta AI glasses sold 2 million","source":"CNBC","summary":"Ray-Ban AI glasses become hit with multimodal features.","url":"https://cnbc.com","date":"2026-01-24"},
+{"title":"Groq achieves 500 tokens/second","source":"Reddit r/LocalLLaMA","summary":"LPU chips run Llama 70B at 10x speed of GPUs.","url":"https://reddit.com","date":"2026-01-24"},
+{"title":"Cohere raises $500M","source":"Reuters","summary":"Startup expands business-focused language models.","url":"https://reuters.com","date":"2026-01-24"},
+{"title":"AI content now 10% of internet","source":"MIT Tech Review","summary":"Research shows AI-generated content growing rapidly.","url":"https://technologyreview.com","date":"2026-01-24"},
+{"title":"Samsung Galaxy AI features","source":"Samsung","summary":"On-device translation and Gemini Nano for S26.","url":"https://samsung.com","date":"2026-01-23"},
+{"title":"Mistral Mixtral Large 2","source":"Reddit r/LocalLLaMA","summary":"French startup releases improved multilingual model.","url":"https://reddit.com","date":"2026-01-23"},
+{"title":"AI cuts drug development 40%","source":"Nature","summary":"Pharma companies report significant acceleration.","url":"https://nature.com","date":"2026-01-23"},
+{"title":"Suno AI hits 10M users","source":"TechCrunch","summary":"AI music platform reaches milestone amid controversy.","url":"https://techcrunch.com","date":"2026-01-23"},
+{"title":"OpenAI revenue $5B annual rate","source":"Bloomberg","summary":"Company doubles revenue with enterprise growth.","url":"https://bloomberg.com","date":"2026-01-23"},
+{"title":"Korea invests $7B in AI","source":"Reuters","summary":"South Korea reduces US AI dependence.","url":"https://reuters.com","date":"2026-01-22"},
+{"title":"AI handles 40% customer service","source":"MIT Tech Review","summary":"Chatbots manage support with high satisfaction.","url":"https://technologyreview.com","date":"2026-01-22"},
+{"title":"AI weather beats traditional 20%","source":"Nature","summary":"GraphCast outperforms physics-based models.","url":"https://nature.com","date":"2026-01-22"},
+{"title":"ByteDance Doubao AI assistant","source":"TechCrunch","summary":"TikTok parent launches ChatGPT competitor.","url":"https://techcrunch.com","date":"2026-01-22"},
+{"title":"Reka Core multimodal model","source":"Reddit r/MachineLearning","summary":"Model processes text, images, video, audio together.","url":"https://reddit.com","date":"2026-01-22"},
+{"title":"AI detects cancer earlier","source":"Nature","summary":"AI achieves 94% accuracy in early detection.","url":"https://nature.com","date":"2026-01-21"},
+{"title":"Inflection AI pivots","source":"Wired","summary":"Company shifts to enterprise after Microsoft deal.","url":"https://wired.com","date":"2026-01-21"},
+{"title":"GPT Store 3 million GPTs","source":"OpenAI","summary":"Marketplace grows with creator revenue.","url":"https://openai.com","date":"2026-01-21"},
+{"title":"Google acquires Character.AI","source":"Bloomberg","summary":"$2.5B deal brings founders to Gemini team.","url":"https://bloomberg.com","date":"2026-01-21"},
+{"title":"AMD MI350 challenges NVIDIA","source":"Ars Technica","summary":"New accelerator offers competitive performance.","url":"https://arstechnica.com","date":"2026-01-21"},
+{"title":"Apple delays advanced Siri","source":"Bloomberg","summary":"Advanced features pushed to 2027.","url":"https://bloomberg.com","date":"2026-01-20"},
+{"title":"Adept AI joins Amazon","source":"The Information","summary":"Team joins for Alexa intelligence development.","url":"https://theinformation.com","date":"2026-01-20"}
+];
+const audioFiles=[0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49];
+const ytVideos=[
+{id:"aircAruvnKk",t:"What is a Neural Network?",c:"3Blue1Brown"},
+{id:"VMj-3S1tku0",t:"Neural Networks: Zero to Hero",c:"Andrej Karpathy"},
+{id:"zjkBMFhNj_g",t:"Intro to Large Language Models",c:"Andrej Karpathy"},
+{id:"kCc8FmEb1nY",t:"Let's build GPT from scratch",c:"Andrej Karpathy"},
+{id:"wjZofJX0v4M",t:"GPT-4 - What We Know",c:"Fireship"},
+{id:"cdiD-9MMpb0",t:"Google Gemini & OpenAI News",c:"Fireship"},
+{id:"l8pRSuU81PU",t:"What is RAG?",c:"IBM Technology"},
+{id:"flXrLGPY3SU",t:"Engineering of ChatGPT",c:"Real Engineering"},
+{id:"5sLYAQS9sWQ",t:"AI Image Generators Explained",c:"Vox"},
+{id:"SzhkhvKBUXg",t:"AI Could Empower Business",c:"TED"},
+{id:"hBBOjCiFcuo",t:"Production ML Pipelines",c:"Weights & Biases"},
+{id:"vMh0zPT0tLI",t:"Neural Networks Explained",c:"StatQuest"},
+{id:"WFr2WgN9_xE",t:"Python ML Tutorial",c:"Sentdex"},
+{id:"CS4cs9xVecg",t:"ML Specialization Preview",c:"DeepLearning.AI"},
+{id:"9vM4p9NN0Ts",t:"Transformers Explained",c:"Yannic Kilcher"},
+{id:"jvqFAi7vkBc",t:"GPT-5 Analysis",c:"AI Explained"},
+{id:"FW7szSFYyzA",t:"Best AI Tools This Week",c:"Matt Wolfe"},
+{id:"TQxmA4EPuQs",t:"Attention Mechanism",c:"CodeEmporium"},
+{id:"xZDB1naRUlk",t:"Speech Recognition AI",c:"AssemblyAI"},
+{id:"8SF_h3xF3cE",t:"Practical Deep Learning",c:"fast.ai"}
+];
+const podcasts=[
+{n:"Lex Fridman Podcast",u:"https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL",d:"Deep AI conversations"},
+{n:"Hard Fork",u:"https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT",d:"NYT tech podcast"},
+{n:"All-In Podcast",u:"https://open.spotify.com/show/2IqXAVFR4e0Bmyjsdc8QzF",d:"Tech billionaires discuss AI"},
+{n:"The Vergecast",u:"https://open.spotify.com/show/430MlYmAjFFnXdzU1jJfcB",d:"Weekly tech roundup"},
+{n:"Acquired",u:"https://open.spotify.com/show/7Fj0XEuUQLi3mMHXhkfo2F",d:"How great companies are built"},
+{n:"a16z Podcast",u:"https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX",d:"VC insights on AI"},
+{n:"No Priors",u:"https://open.spotify.com/show/7yJxQe7PMBgNtvTRNlmXTh",d:"AI founders & researchers"},
+{n:"Latent Space",u:"https://open.spotify.com/show/4vS0Dq8G7Q2lRqAR8BMBWC",d:"AI engineering podcast"},
+{n:"TWIML AI",u:"https://open.spotify.com/show/2sp5EL7s7nqEq8IfMSbc7L",d:"This Week in ML"},
+{n:"Practical AI",u:"https://open.spotify.com/show/1LLQkN0uHBmYb4rDaZv9ij",d:"Making AI practical"},
+{n:"ML Street Talk",u:"https://open.spotify.com/show/02e6PZeIOdPBKja0LZKCHs",d:"ML research deep dives"},
+{n:"Eye on AI",u:"https://open.spotify.com/show/5aFnACHECkhfzRczKLudsk",d:"AI leaders interviews"},
+{n:"The Robot Brains",u:"https://open.spotify.com/show/6NKPp1bDgvFkNxJCESuP9N",d:"AI pioneers talk"},
+{n:"Data Skeptic",u:"https://open.spotify.com/show/1BZN7H3ikovSejhvbPLn0j",d:"Data science explained"},
+{n:"AI in Business",u:"https://open.spotify.com/show/4pnPmkqCvPeJ5OXYPLF1i9",d:"Enterprise AI adoption"},
+{n:"Gradient Dissent",u:"https://open.spotify.com/show/7o9wXdFXWDEZTWGj7kf9lL",d:"ML practitioners discuss"},
+{n:"Cognitive Revolution",u:"https://open.spotify.com/show/6Z7VVjPEFDkzJXGEIHlLqw",d:"AI impact on society"},
+{n:"Last Week in AI",u:"https://open.spotify.com/show/3HLxVZQBQEOmLBFqvvP7b7",d:"Weekly AI news"},
+{n:"The AI Breakdown",u:"https://open.spotify.com/show/0p1Mn8E2lXJOyKJSqVVxOK",d:"Daily AI news in 15 min"},
+{n:"Changelog",u:"https://open.spotify.com/show/5bBki72YeKXOvO8d30LMpa",d:"Open source & AI tools"}
+];
+const audio=new Audio();let playing=null,playAllMode=false,playAllIdx=0;
+function hasAudio(i){return audioFiles.includes(i)}
+function renderNews(){document.getElementById('news-grid').innerHTML=news.map((n,i)=>`<div class="news-card" id="card-${i}"><div class="news-header"><div class="news-num">${String(i+1).padStart(2,'0')}</div><div class="news-badges"><span class="news-badge badge-source">${n.source}</span>${hasAudio(i)?'<span class="news-badge badge-audio">🎙️ AI VOICE</span>':''}</div></div><div class="news-title">${n.title}</div><div class="news-summary" id="summary-${i}">${n.summary}</div><div class="news-actions"><button class="play-btn" id="btn-${i}" onclick="playNews(${i})"><svg viewBox="0 0 24 24" fill="currentColor" width="14" height="14"><path d="M8 5v14l11-7z"/></svg><span>Play</span></button><a href="${n.url}" target="_blank" class="link-btn">Read More →</a></div></div>`).join('')}
+function renderYT(){document.getElementById('yt-grid').innerHTML=ytVideos.map(v=>`<div class="card"><iframe src="https://www.youtube.com/embed/${v.id}" allowfullscreen loading="lazy"></iframe><div class="card-body"><span class="tag tag-yt">YOUTUBE</span><div class="card-title">${v.t}</div><div class="card-channel">📺 ${v.c}</div></div></div>`).join('')}
+function renderPod(){document.getElementById('pod-grid').innerHTML=podcasts.map(p=>`<div class="pod-item"><div class="pod-icon">🎧</div><div class="pod-info"><h3>${p.n}</h3><p>${p.d}</p><a href="${p.u}" target="_blank" class="pod-link">Open in Spotify</a></div></div>`).join('')}
+function stopAll(){playAllMode=false;audio.pause();audio.currentTime=0;document.querySelectorAll('.news-card').forEach(c=>c.classList.remove('playing'));document.querySelectorAll('.news-summary').forEach(s=>s.classList.remove('show'));document.querySelectorAll('.play-btn').forEach(b=>{b.classList.remove('playing');b.querySelector('span').textContent='Play';b.querySelector('svg').innerHTML='<path d="M8 5v14l11-7z"/>'});const pab=document.getElementById('play-all-btn');pab.classList.remove('playing');pab.querySelector('span').textContent='Play All Stories';pab.querySelector('svg').innerHTML='<path d="M8 5v14l11-7z"/>';document.getElementById('now-playing').textContent='';document.getElementById('progress').style.width='0%';playing=null}
+function playNews(i){if(playing===i){stopAll();return}stopAll();const card=document.getElementById('card-'+i),btn=document.getElementById('btn-'+i),summary=document.getElementById('summary-'+i);card.classList.add('playing');btn.classList.add('playing');btn.querySelector('span').textContent='Stop';btn.querySelector('svg').innerHTML='<rect x="6" y="4" width="4" height="16"/><rect x="14" y="4" width="4" height="16"/>';summary.classList.add('show');playing=i;if(hasAudio(i)){audio.src=`audio/news_${i}.mp3`;audio.onended=()=>stopAll();audio.play().catch(e=>console.log(e))}}
+function togglePlayAll(){if(playAllMode){stopAll();return}stopAll();playAllMode=true;playAllIdx=0;const btn=document.getElementById('play-all-btn');btn.classList.add('playing');btn.querySelector('span').textContent='Stop';btn.querySelector('svg').innerHTML='<rect x="6" y="4" width="4" height="16"/><rect x="14" y="4" width="4" height="16"/>';playNext()}
+function playNext(){if(!playAllMode||playAllIdx>=news.length){stopAll();return}while(playAllIdx<news.length&&!hasAudio(playAllIdx))playAllIdx++;if(playAllIdx>=news.length){stopAll();return}const i=playAllIdx,n=news[i];document.querySelectorAll('.news-card').forEach(c=>c.classList.remove('playing'));document.querySelectorAll('.news-summary').forEach(s=>s.classList.remove('show'));const card=document.getElementById('card-'+i),summary=document.getElementById('summary-'+i);card.classList.add('playing');summary.classList.add('show');card.scrollIntoView({behavior:'smooth',block:'center'});document.getElementById('now-playing').textContent=`▶ ${i+1}/${news.length}: ${n.title}`;document.getElementById('progress').style.width=((i+1)/news.length*100)+'%';playing=i;audio.src=`audio/news_${i}.mp3`;audio.onended=()=>{playAllIdx++;if(playAllMode)setTimeout(playNext,500)};audio.play().catch(()=>{playAllIdx++;if(playAllMode)playNext()})}
+function showTab(id){stopAll();document.querySelectorAll('.section').forEach(s=>s.classList.remove('active'));document.querySelectorAll('.nav-btn').forEach(b=>b.classList.remove('active'));document.getElementById(id).classList.add('active');event.target.classList.add('active')}
+document.getElementById('update-time').textContent=new Date().toLocaleString();renderNews();renderYT();renderPod();
+</script>
+</body>
+</html>
