@@ -1,54 +1,59 @@
-#!/usr/bin/env python3
-"""
-Update HTML with fetched news data
-"""
-
 import json
+import os
 from datetime import datetime
 
-def update_html():
-    """Read news data and update HTML"""
+def main():
+    # Load news
+    if not os.path.exists('news_data.json'):
+        print("No news data found")
+        return
     
-    # Read news data
-    with open('news_data.json', 'r', encoding='utf-8') as f:
-        news_data = json.load(f)
+    with open('news_data.json', 'r') as f:
+        news = json.load(f)
     
-    # Read HTML template
+    # Check for audio files
+    audio_files = []
+    for i in range(10):
+        if os.path.exists(f'audio/news_{i}.mp3'):
+            audio_files.append(i)
+    
+    print(f"Found {len(audio_files)} audio files")
+    
+    # Read current HTML
     with open('index.html', 'r', encoding='utf-8') as f:
-        html_content = f.read()
+        html = f.read()
     
-    # Find and replace data
-    start_marker = "const episodes = ["
-    end_marker = "];"
+    # Generate news JSON for JavaScript
+    news_json = json.dumps(news[:50])
+    audio_json = json.dumps(audio_files)
     
-    start_idx = html_content.find(start_marker)
-    end_idx = html_content.find(end_marker, start_idx)
+    # Find and replace the news data in HTML
+    # Look for: const news=[...];
+    import re
     
-    if start_idx != -1 and end_idx != -1:
-        # Generate new data string
-        new_data = json.dumps(news_data, ensure_ascii=False, indent=2)
-        
-        # Replace
-        new_html = (
-            html_content[:start_idx + len(start_marker)] +
-            "\n" + new_data + "\n        " +
-            html_content[end_idx:]
-        )
-        
-        # Update timestamp
-        update_time = datetime.now().strftime('%B %d, %Y')
-        new_html = new_html.replace(
-            'Updated January 29, 2026',
-            f'Updated {update_time}'
-        )
-        
-        # Write file
-        with open('index.html', 'w', encoding='utf-8') as f:
-            f.write(new_html)
-        
-        print(f"HTML updated with {len(news_data)} news items")
-    else:
-        print("Could not find data placeholder in HTML")
+    # Update news data
+    pattern = r'const news=\[[\s\S]*?\];'
+    replacement = f'const news={news_json};'
+    html = re.sub(pattern, replacement, html)
+    
+    # Update audio index
+    pattern2 = r'const audioFiles=\[[\s\S]*?\];'
+    replacement2 = f'const audioFiles={audio_json};'
+    if 'const audioFiles=' in html:
+        html = re.sub(pattern2, replacement2, html)
+    
+    # Update timestamp
+    timestamp = datetime.now().strftime("%Y-%m-%d %H:%M UTC")
+    pattern3 = r'Last updated:.*?</span>'
+    replacement3 = f'Last updated: {timestamp}</span>'
+    html = re.sub(pattern3, replacement3, html)
+    
+    # Write updated HTML
+    with open('index.html', 'w', encoding='utf-8') as f:
+        f.write(html)
+    
+    print(f"✓ Updated HTML with {len(news)} news items")
+    print(f"✓ Audio available for indices: {audio_files}")
 
-if __name__ == '__main__':
-    update_html()
+if __name__ == "__main__":
+    main()
