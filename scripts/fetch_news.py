@@ -1,110 +1,118 @@
 import json
 import feedparser
 import requests
-from datetime import datetime, timedelta
+from datetime import datetime
+import re
 
-def fetch_rss_news():
-    """Fetch news from RSS feeds"""
+def clean_html(text):
+    """Remove HTML tags and clean text"""
+    text = re.sub(r'<[^>]+>', '', text)
+    text = re.sub(r'http\S+', '', text)
+    text = re.sub(r'\s+', ' ', text).strip()
+    return text[:400] if len(text) > 400 else text
+
+def fetch_rss():
+    """Fetch from RSS feeds"""
     feeds = [
         ("https://techcrunch.com/category/artificial-intelligence/feed/", "TechCrunch"),
         ("https://www.technologyreview.com/feed/", "MIT Tech Review"),
         ("https://www.theverge.com/rss/ai-artificial-intelligence/index.xml", "The Verge"),
         ("https://www.wired.com/feed/tag/ai/latest/rss", "Wired"),
+        ("https://www.nature.com/subjects/artificial-intelligence.rss", "Nature"),
+        ("https://feeds.arstechnica.com/arstechnica/technology-lab", "Ars Technica"),
     ]
     
     news = []
     for url, source in feeds:
         try:
             feed = feedparser.parse(url)
-            for entry in feed.entries[:5]:
+            for entry in feed.entries[:8]:
+                summary = entry.get('summary', entry.get('description', entry.title))
                 news.append({
-                    "title": entry.title,
+                    "title": clean_html(entry.title),
                     "source": source,
-                    "summary": entry.get('summary', entry.title)[:300],
+                    "summary": clean_html(summary),
                     "url": entry.link,
                     "date": datetime.now().strftime("%Y-%m-%d")
                 })
+                print(f"  + {source}: {entry.title[:50]}...")
         except Exception as e:
-            print(f"Error fetching {source}: {e}")
-    
+            print(f"  ! Error {source}: {e}")
     return news
 
-def fetch_reddit_news():
+def fetch_reddit():
     """Fetch from Reddit AI subreddits"""
-    subreddits = ["artificial", "MachineLearning", "OpenAI", "LocalLLaMA"]
+    subs = ["artificial", "MachineLearning", "OpenAI", "LocalLLaMA", "ChatGPT"]
     news = []
+    headers = {"User-Agent": "AI-News-Bot/2.0"}
     
-    headers = {"User-Agent": "AI-News-Bot/1.0"}
-    
-    for sub in subreddits:
+    for sub in subs:
         try:
-            url = f"https://www.reddit.com/r/{sub}/hot.json?limit=5"
-            response = requests.get(url, headers=headers, timeout=10)
-            if response.status_code == 200:
-                data = response.json()
-                for post in data["data"]["children"]:
+            url = f"https://www.reddit.com/r/{sub}/hot.json?limit=8"
+            r = requests.get(url, headers=headers, timeout=10)
+            if r.status_code == 200:
+                for post in r.json()["data"]["children"]:
                     p = post["data"]
-                    if not p.get("stickied"):
+                    if not p.get("stickied") and p.get("score", 0) > 50:
+                        summary = p.get("selftext", "") or p["title"]
                         news.append({
-                            "title": p["title"],
-                            "source": f"r/{sub}",
-                            "summary": p.get("selftext", p["title"])[:300] or p["title"],
+                            "title": clean_html(p["title"]),
+                            "source": f"Reddit r/{sub}",
+                            "summary": clean_html(summary),
                             "url": f"https://reddit.com{p['permalink']}",
+                            "score": p.get("score", 0),
                             "date": datetime.now().strftime("%Y-%m-%d")
                         })
+                        print(f"  + r/{sub}: {p['title'][:50]}... (score: {p.get('score', 0)})")
         except Exception as e:
-            print(f"Error fetching r/{sub}: {e}")
-    
+            print(f"  ! Error r/{sub}: {e}")
     return news
 
-def clean_summary(text):
-    """Clean up summary text for TTS"""
-    import re
-    # Remove HTML tags
-    text = re.sub(r'<[^>]+>', '', text)
-    # Remove URLs
-    text = re.sub(r'http\S+', '', text)
-    # Remove extra whitespace
-    text = ' '.join(text.split())
-    # Limit length
-    if len(text) > 300:
-        text = text[:297] + "..."
-    return text
-
 def main():
-    print("Fetching RSS news...")
-    rss_news = fetch_rss_news()
-    print(f"Got {len(rss_news)} items from RSS")
+    print("\n=== Fetching AI News ===\n")
     
-    print("Fetching Reddit news...")
-    reddit_news = fetch_reddit_news()
-    print(f"Got {len(reddit_news)} items from Reddit")
+    print("📰 Fetching RSS feeds...")
+    rss = fetch_rss()
+    print(f"   Got {len(rss)} from RSS\n")
     
-    # Combine and deduplicate
-    all_news = rss_news + reddit_news
+    print("🔥 Fetching Reddit...")
+    reddit = fetch_reddit()
+    print(f"   Got {len(reddit)} from Reddit\n")
     
-    # Clean summaries
-    for item in all_news:
-        item["summary"] = clean_summary(item["summary"])
+    # Combine all
+    all_news = rss + reddit
     
-    # Remove duplicates by title similarity
-    seen_titles = set()
-    unique_news = []
-    for item in all_news:
-        title_lower = item["title"].lower()[:50]
-        if title_lower not in seen_titles:
-            seen_titles.add(title_lower)
-            unique_news.append(item)
+    # Sort Reddit by score, keep RSS at top
+    rss_news = [n for n in all_news if "Reddit" not in n["source"]]
+    reddit_news = sorted([n for n in all_news if "Reddit" in n["source"]], 
+                         key=lambda x: x.get("score", 0), reverse=True)
     
-    # Sort by date and limit to 50
-    unique_news = unique_news[:50]
+    # Interleave: RSS first, then Reddit by popularity
+    combined = []
+    for i in range(max(len(rss_news), len(reddit_news))):
+        if i < len(rss_news):
+            combined.append(rss_news[i])
+        if i < len(reddit_news):
+            combined.append(reddit_news[i])
     
-    print(f"Saving {len(unique_news)} unique news items")
+    # Remove duplicates
+    seen = set()
+    unique = []
+    for item in combined:
+        key = item["title"].lower()[:40]
+        if key not in seen:
+            seen.add(key)
+            unique.append(item)
     
-    with open("news_data.json", "w") as f:
-        json.dump(unique_news, f, indent=2)
+    # Take top 50
+    final = unique[:50]
     
-    print("Done!")
+    print(f"✅ Total unique news: {len(final)}")
+    
+    with open("news_data.json", "w", encoding="utf-8") as f:
+        json.dump(final, f, indent=2, ensure_ascii=False)
+    
+    print("💾 Saved to news_data.json\n")
 
 if __name__ == "__main__":
     main()
