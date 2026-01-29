@@ -1,6 +1,20 @@
 [
   {
-    "title": "I built marshmallow castles in Google’s new AI world generator",
+    "title": "Elon Musk’s SpaceX and xAI in talks to merge, report says",
+    "source": "TechCrunch",
+    "summary": "This merger would bring the Grok chatbot, Starlink satellites, and SpaceX rockets together under one corporation.",
+    "url": "https://techcrunch.com/2026/01/29/elon-musk-spacex-xai-merger-talks-ipo-reuters/",
+    "date": "2026-01-29"
+  },
+  {
+    "title": "Apple buys Israeli startup Q.ai as the AI race heats up",
+    "source": "TechCrunch",
+    "summary": "Q.ai is an Israeli startup specializing in imaging and machine learning, particularly technologies that enable devices to interpret whispered speech and enhance audio in noisy environments.",
+    "url": "https://techcrunch.com/2026/01/29/apple-buys-israeli-startup-q-ai-as-the-ai-race-heats-up/",
+    "date": "2026-01-29"
+  },
+  {
+    "title": "I built marshmallow castles in Google’s new AI-world generator",
     "source": "TechCrunch",
     "summary": "Starting Thursday, Google AI Ultra subscribers in the U.S. can play around with Project Genie, which is powered by a combination of Google’s latest world model Genie 3, its image generation model Nano Banana Pro, and Gemini.",
     "url": "https://techcrunch.com/2026/01/29/i-built-marshmallow-castles-in-googles-new-ai-world-generator-project-genie/",
@@ -9,7 +23,7 @@
   {
     "title": "OpenAI’s Sora app is struggling after its stellar launch",
     "source": "TechCrunch",
-    "summary": "Sora's mobile app downloads fell 45% in January, and consumer spending dropped.",
+    "summary": "New data suggests the app is seeing declines in both app downloads and consumer spending, as the early hype about the AI video social network wears off.",
     "url": "https://techcrunch.com/2026/01/29/openais-sora-app-is-struggling-after-its-stellar-launch/",
     "date": "2026-01-29"
   },
@@ -42,17 +56,10 @@
     "date": "2026-01-29"
   },
   {
-    "title": "Zuckerberg teases agentic commerce tools and major AI rollout in 2026",
-    "source": "TechCrunch",
-    "summary": "Mark Zuckerberg says 2026 will be \"a big year for delivering personal super intelligence.\"",
-    "url": "https://techcrunch.com/2026/01/28/zuckerberg-teases-agentic-commerce-tools-and-major-ai-rollout-in-2026/",
-    "date": "2026-01-29"
-  },
-  {
-    "title": "Mark Zuckerberg says a future without smart glasses is ‘hard to imagine’",
-    "source": "TechCrunch",
-    "summary": "Take Zuckerberg's outlook with a grain of salt. After all, he thought we'd all be hanging out in the metaverse by now.",
-    "url": "https://techcrunch.com/2026/01/28/mark-zuckerberg-future-smart-glasses/",
+    "title": "DHS is using Google and Adobe AI to make videos",
+    "source": "MIT Tech Review",
+    "summary": "The US Department of Homeland Security is using AI video generators from Google and Adobe to make and edit content shared with the public, a new document reveals. It comes as immigration agencies have flooded social media with content to support President Trump&#8217;s mass deportation agenda—some of which appears to be made with AI—and as&#8230;",
+    "url": "https://www.technologyreview.com/2026/01/29/1131938/dhs-is-using-google-and-adobe-ai-to-make-videos/",
     "date": "2026-01-29"
   },
   {
@@ -105,10 +112,24 @@
     "date": "2026-01-29"
   },
   {
-    "title": "The first human test of a rejuvenation method will begin “shortly”",
-    "source": "MIT Tech Review",
-    "summary": "When Elon Musk was at Davos last week, an interviewer asked him if he thought aging could be reversed. Musk said he hasn’t put much time into the problem but suspects it is “very solvable” and that when scientists discover why we age, it’s going to be something “obvious.” Not long after, the Harvard professor&#8230;",
-    "url": "https://www.technologyreview.com/2026/01/27/1131796/the-first-human-test-of-a-rejuvenation-method-will-begin-shortly/",
+    "title": "Apple’s second biggest acquisition ever is an AI company that listens to ‘silent speech’",
+    "source": "The Verge",
+    "summary": "Apple's biggest acquisition ever is still its $3 billion Beats buy in 2014, but now the second biggest deal is bringing in Q.ai, a four-year-old AI audio startup. Apple did not disclose the terms, but Financial Times reports that Apple is spending $2 billion on the company. It also mentioned Q.ai patents for optical sensor [&#8230;]",
+    "url": "https://www.theverge.com/news/870353/apple-q-ai-acquisition-silent-speech",
+    "date": "2026-01-29"
+  },
+  {
+    "title": "Half of developers think gen AI is bad for the gaming industry",
+    "source": "The Verge",
+    "summary": "While generative AI is being adopted at various levels of game development, a new survey suggests that developers increasingly think the technology is bad for the industry. According to the most recent survey from the Game Developers Conference, 52 percent of respondents said that gen AI is having a \"negative\" impact on the games industry, [&#8230;]",
+    "url": "https://www.theverge.com/entertainment/869386/ai-game-development-gdc-survey",
+    "date": "2026-01-29"
+  },
+  {
+    "title": "Google’s AI helped me make bad Nintendo knockoffs",
+    "source": "The Verge",
+    "summary": "This week, a new generative AI tool from Google let me create bad knockoffs of 3D Nintendo worlds. Check out my version of something like Super Mario 64: I didn't like Metroid Prime 4: Beyond, but it's better than my version of a Metroid Prime experience: Or how about my take on The Legend of [&#8230;]",
+    "url": "https://www.theverge.com/news/869726/google-ai-project-genie-3-world-model-hands-on",
     "date": "2026-01-29"
   },
   {
@@ -147,30 +168,23 @@
     "date": "2026-01-29"
   },
   {
-    "title": "Grok is the most antisemitic chatbot according to the ADL",
-    "source": "The Verge",
-    "summary": "Across six top large language models, xAI's Grok performed the worst at identifying and countering antisemitic content, according to a study published Wednesday by the Anti-Defamation League. On the other end of the spectrum, Anthropic's Claude performed the best according to the report's metrics, but the ADL said all models had gaps that required improvement. [&#8230;]",
-    "url": "https://www.theverge.com/news/868925/adl-ai-antisemitism-report-grok-chatgpt-gemini-claude-deepseek-llama-elon-musk",
+    "title": "AI-Generated Anti-ICE Videos Are Getting the Fanfic Treatment",
+    "source": "Wired",
+    "summary": "Across Instagram and Facebook, AI-generated videos show people of color putting ICE agents in their place. Are they cathartic or just adding to a stew of misinformation?",
+    "url": "https://www.wired.com/story/anti-ice-videos-are-getting-the-ai-fanfic-treatment-online/",
     "date": "2026-01-29"
   },
   {
-    "title": "Astronomers used AI to find 1,400 ‘anomalous objects’ from Hubble archives",
-    "source": "The Verge",
-    "summary": "A pair of astronomers at the European Space Agency (ESA) discovered more than 800 previously undocumented \"astrophysical anomalies\" hiding in Hubble's archives. To do so, researchers David O'Ryan and Pablo G&#243;mez trained an AI model to comb through Hubble's 35-year dataset, hunting for strange objects and flagging them for manual review. It's \"a treasure trove [&#8230;]",
-    "url": "https://www.theverge.com/news/869182/astronomers-ai-discover-cosmic-anomalies-hubble-archives",
-    "date": "2026-01-29"
-  },
-  {
-    "title": "Meta is spending millions to convince people that data centers are cool and you like them",
-    "source": "The Verge",
-    "summary": "Over the last few months of 2025, Meta spent $6.4 million on an ad campaign running in cities across the country, from Sacramento to Washington, with a clear mission: win over viewers on the construction of new data centers. As the New York Times reports, the ad campaign is anchored by short, folksy video spotlights [&#8230;]",
-    "url": "https://www.theverge.com/news/869008/meta-data-centers-ad-campaign",
+    "title": "A Yann LeCun–Linked Startup Charts a New Path to AGI",
+    "source": "Wired",
+    "summary": "As the world’s largest companies pour hundreds of billions of dollars into large language models, San Francisco-based Logical Intelligence is trying something different in pursuit of AI that can mimic the human brain.",
+    "url": "https://www.wired.com/story/logical-intelligence-yann-lecun-startup-chart-new-course-agi/",
     "date": "2026-01-29"
   },
   {
     "title": "An AI Toy Exposed 50,000 Logs of Its Chats With Kids to Anyone With a Gmail Account",
     "source": "Wired",
-    "summary": "AI chat toy company Bondu left its web console almost entirely unprotected. Researchers who accessed it found nearly all the conversations children had with the company's stuffed animals.",
+    "summary": "AI chat toy company Bondu left its web console almost entirely unprotected. Researchers who accessed it found nearly all the conversations children had with the company’s stuffed animals.",
     "url": "https://www.wired.com/story/an-ai-toy-exposed-50000-logs-of-its-chats-with-kids-to-anyone-with-a-gmail-account/",
     "date": "2026-01-29"
   },
@@ -210,17 +224,10 @@
     "date": "2026-01-29"
   },
   {
-    "title": "Amazon Alexa+ Is Becoming Available to Everyone. Here’s How to Turn It Off (2026)",
-    "source": "Wired",
-    "summary": "Alexa+ has been rolling out to everyone with a Prime membership, even if you didn’t ask for it. Here’s how to change it back.",
-    "url": "https://www.wired.com/story/alexa-plus-early-access-rollout-2026/",
-    "date": "2026-01-29"
-  },
-  {
-    "title": "The State-Led Crackdown on Grok and xAI Has Begun",
-    "source": "Wired",
-    "summary": "At least 37 attorneys general for US states and territories are taking action against xAI after Grok generated a flood of nonconsensual sexual images of women and minors.",
-    "url": "https://www.wired.com/story/the-state-led-crackdown-on-grok-and-xai-has-begun/",
+    "title": "County pays $600,000 to pentesters it arrested for assessing courthouse security",
+    "source": "Ars Technica",
+    "summary": "Settlement comes more than 6 years after Gary DeMercurio and Justin Wynn's ordeal began.",
+    "url": "https://arstechnica.com/security/2026/01/county-pays-600000-to-pentesters-it-arrested-for-assessing-courthouse-security/",
     "date": "2026-01-29"
   },
   {
@@ -270,13 +277,6 @@
     "source": "Ars Technica",
     "summary": "Company's autodiscover caused users' test credentials to be sent outside Microsoft networks.",
     "url": "https://arstechnica.com/information-technology/2026/01/odd-anomaly-caused-microsofts-network-to-mishandle-example-com-traffic/",
-    "date": "2026-01-29"
-  },
-  {
-    "title": "Overrun with AI slop, cURL scraps bug bounties to ensure \"intact mental health\"",
-    "source": "Ars Technica",
-    "summary": "The onslaught includes LLMs finding bogus vulnerabilities and code that won't compile.",
-    "url": "https://arstechnica.com/security/2026/01/overrun-with-ai-slop-curl-scraps-bug-bounties-to-ensure-intact-mental-health/",
     "date": "2026-01-29"
   }
 ]
