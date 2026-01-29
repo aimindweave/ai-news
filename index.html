@@ -3,254 +3,151 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AI News Podcast</title>
+    <title>AI News Podcast - Top AI Content Hub</title>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     <style>
         *{margin:0;padding:0;box-sizing:border-box}
         :root{--bg-primary:#121212;--bg-secondary:#1a1a1a;--bg-card:#242424;--text-primary:#ffffff;--text-secondary:#b3b3b3;--accent:#1ed760;--border:#2a2a2a}
         body{font-family:'Inter',sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}
-        .header{background:linear-gradient(180deg,var(--bg-secondary),var(--bg-primary));padding:60px 20px 40px;text-align:center}
-        .podcast-badge{display:inline-flex;padding:8px 16px;background:rgba(30,215,96,0.1);border:1px solid rgba(30,215,96,0.3);border-radius:20px;font-size:13px;font-weight:600;color:var(--accent);margin-bottom:20px}
-        h1{font-size:clamp(40px,6vw,72px);font-weight:800;margin-bottom:16px}
-        .subtitle{font-size:18px;color:var(--text-secondary);max-width:600px;margin:0 auto 30px}
-        
-        .podcast-section{max-width:1200px;margin:40px auto;padding:0 20px}
-        .section-title{font-size:24px;font-weight:700;margin-bottom:24px;display:flex;align-items:center;gap:12px}
-        .section-title span{font-size:28px}
-        
-        .podcast-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(350px,1fr));gap:24px;margin-bottom:60px}
-        .podcast-card{background:var(--bg-card);border-radius:12px;overflow:hidden}
-        .podcast-card h3{padding:16px;font-size:16px;font-weight:600}
-        .podcast-card iframe{width:100%;border:none}
-        
-        .news-section{max-width:1200px;margin:0 auto;padding:0 20px 80px}
-        .news-grid{display:grid;gap:16px}
-        .news-card{background:var(--bg-card);border-radius:12px;padding:20px;transition:all 0.2s}
-        .news-card:hover{background:var(--bg-secondary)}
-        .news-header{display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:12px}
-        .news-meta{display:flex;align-items:center;gap:12px}
-        .news-platform{padding:4px 10px;border-radius:4px;font-size:11px;font-weight:700;text-transform:uppercase;background:rgba(29,161,242,0.15);color:#1DA1F2}
-        .news-date{color:var(--text-secondary);font-size:13px}
-        .news-title{font-size:18px;font-weight:600;margin-bottom:8px;line-height:1.4}
+        .header{background:linear-gradient(180deg,#1a1a2e,var(--bg-primary));padding:60px 20px 40px;text-align:center}
+        .badge{display:inline-flex;padding:8px 16px;background:rgba(30,215,96,0.1);border:1px solid rgba(30,215,96,0.3);border-radius:20px;font-size:13px;font-weight:600;color:var(--accent);margin-bottom:20px}
+        h1{font-size:clamp(36px,5vw,64px);font-weight:800;margin-bottom:16px}
+        .subtitle{font-size:18px;color:var(--text-secondary);max-width:700px;margin:0 auto}
+        .stats{display:flex;justify-content:center;gap:40px;margin-top:30px}
+        .stat-number{font-size:32px;font-weight:800;color:var(--accent)}
+        .stat-label{font-size:14px;color:var(--text-secondary)}
+        .nav{background:var(--bg-secondary);padding:16px 20px;position:sticky;top:0;z-index:100}
+        .nav-inner{max-width:1400px;margin:0 auto;display:flex;gap:12px;overflow-x:auto}
+        .nav-btn{padding:10px 20px;background:var(--bg-card);border:1px solid var(--border);border-radius:500px;color:var(--text-secondary);font-size:14px;font-weight:600;cursor:pointer}
+        .nav-btn.active{background:var(--accent);color:#000}
+        .section{max-width:1400px;margin:0 auto;padding:40px 20px;display:none}
+        .section.active{display:block}
+        .section-title{font-size:28px;font-weight:700;margin-bottom:24px}
+        .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:20px}
+        .card{background:var(--bg-card);border-radius:12px;overflow:hidden}
+        .card h3{padding:16px;font-size:14px;font-weight:600}
+        .card iframe{width:100%;border:none}
+        .card-info{padding:0 16px 16px;font-size:12px;color:var(--text-secondary)}
+        .news-card{background:var(--bg-card);border-radius:12px;padding:20px;margin-bottom:16px}
+        .news-title{font-size:18px;font-weight:600;margin:12px 0 8px}
         .news-author{color:var(--text-secondary);font-size:14px;margin-bottom:16px}
-        
-        .play-btn{display:inline-flex;align-items:center;gap:8px;padding:12px 24px;background:var(--accent);color:#000;border:none;border-radius:500px;font-size:14px;font-weight:700;cursor:pointer;transition:all 0.2s}
-        .play-btn:hover{transform:scale(1.05)}
+        .play-btn{display:inline-flex;align-items:center;gap:8px;padding:12px 24px;background:var(--accent);color:#000;border:none;border-radius:500px;font-size:14px;font-weight:700;cursor:pointer}
         .play-btn.playing{background:#ff4444}
-        .play-btn svg{width:16px;height:16px}
-        
-        .script-box{margin-top:16px;padding:16px;background:var(--bg-primary);border-radius:8px;display:none;max-height:200px;overflow-y:auto}
+        .script-box{margin-top:16px;padding:16px;background:var(--bg-primary);border-radius:8px;display:none}
         .script-box.visible{display:block}
         .script-box p{font-size:14px;line-height:1.8;color:var(--text-secondary)}
-        .script-box .highlight{background:var(--accent);color:#000;padding:2px 4px;border-radius:4px}
-        
-        .controls{display:flex;gap:12px;align-items:center;flex-wrap:wrap}
-        .speed-btn{padding:8px 12px;background:var(--bg-primary);border:1px solid var(--border);border-radius:6px;color:var(--text-secondary);font-size:12px;cursor:pointer}
-        .speed-btn.active{background:var(--accent);color:#000;border-color:var(--accent)}
-        
-        footer{max-width:1200px;margin:0 auto;padding:40px 20px;text-align:center;border-top:1px solid var(--border);color:var(--text-secondary);font-size:13px}
-        
-        @media(max-width:768px){.podcast-grid{grid-template-columns:1fr}.controls{flex-direction:column;align-items:flex-start}}
+        .controls{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+        .speed-btn{padding:6px 12px;background:var(--bg-primary);border:1px solid var(--border);border-radius:6px;color:var(--text-secondary);font-size:12px;cursor:pointer}
+        .speed-btn.active{background:var(--accent);color:#000}
+        .tag{display:inline-block;padding:4px 8px;background:#1DB954;color:#000;border-radius:4px;font-size:10px;font-weight:700;margin-right:8px}
+        .tag-yt{background:#FF0000;color:#fff}
+        footer{max-width:1400px;margin:0 auto;padding:40px 20px;text-align:center;border-top:1px solid var(--border);color:var(--text-secondary);font-size:13px}
+        @media(max-width:768px){.grid{grid-template-columns:1fr}.stats{gap:20px}}
     </style>
 </head>
 <body>
     <div class="header">
-        <div class="podcast-badge">▶ AI NEWS PODCAST</div>
-        <h1>AI News</h1>
-        <p class="subtitle">Listen to the latest AI developments. Real podcasts + AI-narrated news briefs.</p>
-    </div>
-
-    <div class="podcast-section">
-        <h2 class="section-title"><span>🎧</span> Featured AI Podcasts</h2>
-        <div class="podcast-grid">
-            <div class="podcast-card">
-                <h3>Lex Fridman Podcast - AI Conversations</h3>
-                <iframe height="152" src="https://open.spotify.com/embed/show/2MAi0BvDc6GTFvKFPXnkCL?utm_source=generator&theme=0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-            </div>
-            <div class="podcast-card">
-                <h3>The AI Podcast by NVIDIA</h3>
-                <iframe height="152" src="https://open.spotify.com/embed/show/5gAgUCEYW6mS6k5AiPbFAV?utm_source=generator&theme=0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-            </div>
-            <div class="podcast-card">
-                <h3>Eye on AI</h3>
-                <iframe height="152" src="https://open.spotify.com/embed/show/5aFnACHECkhfzRczKLudsk?utm_source=generator&theme=0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-            </div>
-        </div>
-
-        <h2 class="section-title"><span>📺</span> AI Video Podcasts</h2>
-        <div class="podcast-grid">
-            <div class="podcast-card">
-                <h3>Two Minute Papers - AI Research Explained</h3>
-                <iframe height="200" src="https://www.youtube.com/embed/videoseries?list=PLujxSBD-JXgnqDD1n-V30pKtp6Q886x7e" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-            </div>
-            <div class="podcast-card">
-                <h3>AI Explained</h3>
-                <iframe height="200" src="https://www.youtube.com/embed/videoseries?list=PLwFaZuSL_mfp3X9SEuRe3bJnLhPqc9msC" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-            </div>
-            <div class="podcast-card">
-                <h3>Yannic Kilcher - ML Paper Reviews</h3>
-                <iframe height="200" src="https://www.youtube.com/embed?listType=user_uploads&list=UCZHmQk67mSJgfCCTn7xBfew" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-            </div>
+        <div class="badge">▶ AI CONTENT HUB</div>
+        <h1>AI News Podcast</h1>
+        <p class="subtitle">Top podcasts, YouTube channels, and AI-narrated news - all in one place</p>
+        <div class="stats">
+            <div class="stat"><div class="stat-number">20</div><div class="stat-label">Spotify Podcasts</div></div>
+            <div class="stat"><div class="stat-number">20</div><div class="stat-label">YouTube Channels</div></div>
+            <div class="stat"><div class="stat-number">∞</div><div class="stat-label">News Updates</div></div>
         </div>
     </div>
-
-    <div class="news-section">
-        <h2 class="section-title"><span>🗞️</span> AI News Briefs (AI Narrated)</h2>
-        <p style="color:var(--text-secondary);margin-bottom:24px">Click play to hear AI-narrated news with live transcript</p>
-        <div class="news-grid" id="news-grid"></div>
+    <nav class="nav"><div class="nav-inner">
+        <button class="nav-btn active" onclick="show('spotify')">🎧 Spotify Podcasts</button>
+        <button class="nav-btn" onclick="show('youtube')">📺 YouTube Channels</button>
+        <button class="nav-btn" onclick="show('news')">🗞️ AI News Briefs</button>
+    </div></nav>
+    <div class="section active" id="spotify">
+        <h2 class="section-title">🎧 Top 20 AI Podcasts on Spotify</h2>
+        <div class="grid" id="spotify-grid"></div>
     </div>
-
-    <footer>
-        <p>AI News Podcast • Powered by Browser TTS • Updated Daily</p>
-    </footer>
-
-    <script>
-const newsItems = [
-    {
-        title: "OpenAI Launches ChatGPT Health Feature",
-        author: "CNBC",
-        date: "2026-01-29",
-        script: "OpenAI has launched a new ChatGPT Health feature that allows users to connect their medical records and wellness apps. The feature provides personalized health guidance based on your data. Over 230 million users already ask ChatGPT about health topics every week, making this a natural evolution of the platform."
-    },
-    {
-        title: "Apple Partners with Google for AI-Powered Siri",
-        author: "CNBC", 
-        date: "2026-01-29",
-        script: "Apple has announced a multi-year partnership with Google to use Gemini AI models to power a major Siri upgrade. The new AI-powered Siri is expected to launch in 2026 and will feature significantly improved natural language understanding and contextual awareness."
-    },
-    {
-        title: "Anthropic Raises $13 Billion at $183 Billion Valuation",
-        author: "TechCrunch",
-        date: "2026-01-28",
-        script: "AI safety company Anthropic has raised 13 billion dollars in a Series F funding round, valuing the company at 183 billion dollars. The funding will be used for enterprise expansion, safety research, and international growth. Anthropic is the creator of Claude, one of the leading AI assistants."
-    },
-    {
-        title: "DeepSeek's Impact: Chinese AI Reaches 15% Global Market Share",
-        author: "TrendForce",
-        date: "2026-01-28",
-        script: "Chinese AI models, led by DeepSeek and Alibaba's Qwen, have reached 15 percent global market share. DeepSeek's open-source approach and cost-effective training methods have disrupted the AI industry, proving that cutting-edge AI can be developed without massive budgets."
-    },
-    {
-        title: "NVIDIA Unveils Vera Rubin Platform at CES 2026",
-        author: "NVIDIA",
-        date: "2026-01-27",
-        script: "NVIDIA has unveiled its next-generation Vera Rubin AI platform at CES 2026. The post-Blackwell architecture promises massive performance improvements for AI training and inference, continuing NVIDIA's dominance in the AI chip market."
-    },
-    {
-        title: "Google Launches Personal Intelligence in Gemini",
-        author: "CNBC",
-        date: "2026-01-27",
-        script: "Google has launched a new Personal Intelligence feature in the Gemini app. This beta feature connects your Gmail, Google Photos, and other apps to provide highly personalized AI responses. Google says this is a direct challenge to Apple's on-device AI approach."
-    }
+    <div class="section" id="youtube">
+        <h2 class="section-title">📺 Top 20 AI YouTube Channels</h2>
+        <div class="grid" id="youtube-grid"></div>
+    </div>
+    <div class="section" id="news">
+        <h2 class="section-title">🗞️ AI News Briefs (AI Narrated)</h2>
+        <p style="color:var(--text-secondary);margin-bottom:24px">Click play to hear AI-narrated news with transcript</p>
+        <div id="news-grid"></div>
+    </div>
+    <footer><p>AI News Podcast • Updated Every 2 Hours</p></footer>
+<script>
+const podcasts=[
+{n:"Lex Fridman Podcast",id:"2MAi0BvDc6GTFvKFPXnkCL",d:"Deep AI conversations"},
+{n:"Hard Fork (NYT)",id:"44fllCS2FTFr2x2kjP9xeT",d:"Tech news from NY Times"},
+{n:"The Vergecast",id:"430MlYmAjFFnXdzU1jJfcB",d:"Weekly tech roundup"},
+{n:"Acquired",id:"7Fj0XEuUQLi3mMHXhkfo2F",d:"Company stories"},
+{n:"All-In Podcast",id:"2IqXAVFR4e0Bmyjsdc8QzF",d:"Tech & politics with VCs"},
+{n:"The AI Breakdown",id:"0p1Mn8E2lXJOyKJSqVVxOK",d:"Daily AI news"},
+{n:"Practical AI",id:"1LLQkN0uHBmYb4rDaZv9ij",d:"Making AI practical"},
+{n:"TWIML AI Podcast",id:"2sp5EL7s7nqEq8IfMSbc7L",d:"This Week in ML"},
+{n:"Eye on AI",id:"5aFnACHECkhfzRczKLudsk",d:"AI news & interviews"},
+{n:"The Robot Brains",id:"6NKPp1bDgvFkNxJCESuP9N",d:"AI pioneers talk"},
+{n:"AI in Business",id:"4pnPmkqCvPeJ5OXYPLF1i9",d:"Enterprise AI"},
+{n:"Data Skeptic",id:"1BZN7H3ikovSejhvbPLn0j",d:"Data science & ML"},
+{n:"a16z Podcast",id:"5bC65RDvs3oxnLyqqvkUYX",d:"Tech VC insights"},
+{n:"Gradient Dissent",id:"7o9wXdFXWDEZTWGj7kf9lL",d:"ML practitioners"},
+{n:"ML Street Talk",id:"02e6PZeIOdPBKja0LZKCHs",d:"ML research deep dives"},
+{n:"No Priors",id:"7yJxQe7PMBgNtvTRNlmXTh",d:"AI with top VCs"},
+{n:"Latent Space",id:"4vS0Dq8G7Q2lRqAR8BMBWC",d:"AI engineering"},
+{n:"Cognitive Revolution",id:"6Z7VVjPEFDkzJXGEIHlLqw",d:"AI & society"},
+{n:"Last Week in AI",id:"3HLxVZQBQEOmLBFqvvP7b7",d:"Weekly AI roundup"},
+{n:"Changelog",id:"5bBki72YeKXOvO8d30LMpa",d:"Developer podcasts"}
 ];
-
-let currentSpeech = null;
-let currentCard = null;
-
-function formatDate(d) {
-    const days = Math.floor((new Date() - new Date(d)) / (1000*60*60*24));
-    if (days === 0) return 'Today';
-    if (days === 1) return 'Yesterday';
-    return days + 'd ago';
-}
-
-function createNewsCard(item, index) {
-    const card = document.createElement('div');
-    card.className = 'news-card';
-    card.id = 'card-' + index;
-    card.innerHTML = `
-        <div class="news-header">
-            <div class="news-meta">
-                <span class="news-platform">NEWS</span>
-                <span class="news-date">${formatDate(item.date)}</span>
-            </div>
-        </div>
-        <div class="news-title">${item.title}</div>
-        <div class="news-author">${item.author}</div>
-        <div class="controls">
-            <button class="play-btn" onclick="toggleSpeech(${index})">
-                <svg viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
-                <span>Play News Brief</span>
-            </button>
-            <button class="speed-btn" onclick="setSpeed(0.8, this)">0.8x</button>
-            <button class="speed-btn active" onclick="setSpeed(1, this)">1x</button>
-            <button class="speed-btn" onclick="setSpeed(1.2, this)">1.2x</button>
-            <button class="speed-btn" onclick="setSpeed(1.5, this)">1.5x</button>
-        </div>
-        <div class="script-box" id="script-${index}">
-            <p>${item.script}</p>
-        </div>
-    `;
-    return card;
-}
-
-let speechRate = 1;
-
-function setSpeed(rate, btn) {
-    speechRate = rate;
-    document.querySelectorAll('.speed-btn').forEach(b => b.classList.remove('active'));
-    btn.classList.add('active');
-    if (currentSpeech) {
-        speechSynthesis.cancel();
-    }
-}
-
-function toggleSpeech(index) {
-    const item = newsItems[index];
-    const btn = document.querySelector(`#card-${index} .play-btn`);
-    const scriptBox = document.getElementById('script-' + index);
-    
-    // Stop any current speech
-    if (currentSpeech) {
-        speechSynthesis.cancel();
-        if (currentCard !== null) {
-            document.querySelector(`#card-${currentCard} .play-btn`).classList.remove('playing');
-            document.querySelector(`#card-${currentCard} .play-btn span`).textContent = 'Play News Brief';
-            document.getElementById('script-' + currentCard).classList.remove('visible');
-        }
-        if (currentCard === index) {
-            currentCard = null;
-            currentSpeech = null;
-            return;
-        }
-    }
-    
-    // Start new speech
-    const utterance = new SpeechSynthesisUtterance(item.script);
-    utterance.rate = speechRate;
-    utterance.pitch = 1;
-    
-    // Try to use a good voice
-    const voices = speechSynthesis.getVoices();
-    const preferredVoice = voices.find(v => v.name.includes('Google') || v.name.includes('Samantha') || v.name.includes('Daniel'));
-    if (preferredVoice) utterance.voice = preferredVoice;
-    
-    utterance.onstart = () => {
-        btn.classList.add('playing');
-        btn.querySelector('span').textContent = 'Stop';
-        btn.querySelector('svg').innerHTML = '<rect x="6" y="4" width="4" height="16"/><rect x="14" y="4" width="4" height="16"/>';
-        scriptBox.classList.add('visible');
-    };
-    
-    utterance.onend = () => {
-        btn.classList.remove('playing');
-        btn.querySelector('span').textContent = 'Play News Brief';
-        btn.querySelector('svg').innerHTML = '<path d="M8 5v14l11-7z"/>';
-        currentCard = null;
-        currentSpeech = null;
-    };
-    
-    speechSynthesis.speak(utterance);
-    currentSpeech = utterance;
-    currentCard = index;
-}
-
-// Load voices
-speechSynthesis.onvoiceschanged = () => speechSynthesis.getVoices();
-
-// Render news
-const grid = document.getElementById('news-grid');
-newsItems.forEach((item, i) => grid.appendChild(createNewsCard(item, i)));
-    </script>
+const videos=[
+{n:"Two Minute Papers",v:"u1kAEDEOoMQ",d:"AI research explained",s:"1.5M"},
+{n:"Fireship",v:"cdiD-9MMpb0",d:"Fast tech news",s:"3M"},
+{n:"AI Explained",v:"jvqFAi7vkBc",d:"AI developments",s:"500K"},
+{n:"Yannic Kilcher",v:"9vM4p9NN0Ts",d:"ML paper reviews",s:"250K"},
+{n:"Andrej Karpathy",v:"VMj-3S1tku0",d:"AI education",s:"800K"},
+{n:"Sentdex",v:"WFr2WgN9_xE",d:"Python & ML",s:"1.3M"},
+{n:"3Blue1Brown",v:"aircAruvnKk",d:"Math visualizations",s:"6M"},
+{n:"Matt Wolfe",v:"FW7szSFYyzA",d:"AI tools",s:"700K"},
+{n:"The AI Advantage",v:"zR_X2AaC2jU",d:"Practical AI",s:"400K"},
+{n:"AI Jason",v:"2IK3DFHRFfw",d:"AI tutorials",s:"200K"},
+{n:"Prompt Engineering",v:"QDUkpK9Dqxs",d:"AI prompting",s:"300K"},
+{n:"David Shapiro",v:"TDx5x5Cc7a0",d:"AI philosophy",s:"150K"},
+{n:"Sam Witteveen",v:"J8TgKxomS2g",d:"LLM development",s:"80K"},
+{n:"Nicholas Renotte",v:"jztwpsIzEGc",d:"AI projects",s:"400K"},
+{n:"Code Emporium",v:"TQxmA4EPuQs",d:"ML explained",s:"100K"},
+{n:"AssemblyAI",v:"xZDB1naRUlk",d:"Speech AI",s:"50K"},
+{n:"Weights & Biases",v:"hBBOjCiFcuo",d:"MLOps",s:"40K"},
+{n:"DeepLearning.AI",v:"CS4cs9xVecg",d:"AI courses",s:"300K"},
+{n:"StatQuest",v:"vMh0zPT0tLI",d:"Stats & ML",s:"1.2M"},
+{n:"Jeremy Howard",v:"8SF_h3xF3cE",d:"Fast.ai creator",s:"100K"}
+];
+const news=[
+{t:"OpenAI Launches ChatGPT Health Feature",a:"CNBC",d:"2026-01-29",s:"OpenAI has launched ChatGPT Health, allowing users to connect medical records and wellness apps for personalized health guidance. Over 230 million users already ask ChatGPT about health weekly."},
+{t:"Apple Partners with Google for AI-Powered Siri",a:"CNBC",d:"2026-01-29",s:"Apple announced a multi-year partnership with Google to use Gemini AI models for a major Siri upgrade. The new AI-powered Siri launches in 2026 with improved natural language understanding."},
+{t:"Anthropic Raises $13B at $183B Valuation",a:"TechCrunch",d:"2026-01-28",s:"AI safety company Anthropic raised 13 billion dollars, valuing it at 183 billion. Funding supports enterprise expansion, safety research, and international growth. Anthropic created Claude."},
+{t:"DeepSeek Reaches 15% Global AI Market Share",a:"TrendForce",d:"2026-01-28",s:"Chinese AI models led by DeepSeek and Qwen reached 15 percent global market share. DeepSeek's open-source approach proves cutting-edge AI can be built without massive budgets."},
+{t:"NVIDIA Unveils Vera Rubin Platform at CES",a:"NVIDIA",d:"2026-01-27",s:"NVIDIA unveiled its next-generation Vera Rubin AI platform at CES 2026. The post-Blackwell architecture promises massive performance improvements for AI training and inference."},
+{t:"Google Launches Personal Intelligence in Gemini",a:"CNBC",d:"2026-01-27",s:"Google launched Personal Intelligence in Gemini, connecting Gmail, Photos, and apps for personalized AI responses. This directly challenges Apple's on-device AI approach."},
+{t:"Claude Code Goes Viral Among Non-Programmers",a:"Fortune",d:"2026-01-26",s:"Anthropic's Claude Code went viral with non-programmers using it for taxes, ticket booking, and plant monitoring. Anthropic launched Cowork desktop tool in just one and a half weeks."},
+{t:"Microsoft Reports 7 AI Trends for 2026",a:"Microsoft",d:"2026-01-26",s:"Microsoft published 7 AI trends for 2026 including AI partners, quantum AI breakthroughs, and security automation. AI moves from experimental to essential across industries."},
+{t:"EU Passes Comprehensive AI Regulation",a:"Reuters",d:"2026-01-25",s:"The European Union passed comprehensive AI regulation setting global standards for AI development. Requirements include transparency, safety testing, and human oversight of high-risk AI."},
+{t:"OpenAI Testing Ads in Free ChatGPT",a:"CNN",d:"2026-01-25",s:"OpenAI began testing ads in free ChatGPT for US users. They're also launching an 8 dollar per month Go tier as alternative to the 20 dollar Plus subscription."}
+];
+document.getElementById('spotify-grid').innerHTML=podcasts.map(p=>`<div class="card"><h3><span class="tag">SPOTIFY</span>${p.n}</h3><iframe src="https://open.spotify.com/embed/show/${p.id}?theme=0" height="152" loading="lazy"></iframe><p class="card-info">${p.d}</p></div>`).join('');
+document.getElementById('youtube-grid').innerHTML=videos.map(v=>`<div class="card"><h3><span class="tag tag-yt">YOUTUBE</span>${v.n}</h3><iframe height="180" src="https://www.youtube.com/embed/${v.v}" loading="lazy" allowfullscreen></iframe><p class="card-info">${v.d} • ${v.s} subs</p></div>`).join('');
+let speech=null,card=null,rate=1;
+function fmtDate(d){const x=Math.floor((new Date()-new Date(d))/864e5);return x===0?'Today':x===1?'Yesterday':x+'d ago'}
+document.getElementById('news-grid').innerHTML=news.map((n,i)=>`<div class="news-card" id="c${i}"><div style="color:var(--text-secondary);font-size:13px">NEWS • ${fmtDate(n.d)}</div><div class="news-title">${n.t}</div><div class="news-author">${n.a}</div><div class="controls"><button class="play-btn" onclick="play(${i})"><svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg><span>Play</span></button><button class="speed-btn" onclick="spd(0.8,this)">0.8x</button><button class="speed-btn active" onclick="spd(1,this)">1x</button><button class="speed-btn" onclick="spd(1.2,this)">1.2x</button><button class="speed-btn" onclick="spd(1.5,this)">1.5x</button></div><div class="script-box" id="s${i}"><p>${n.s}</p></div></div>`).join('');
+function spd(r,b){rate=r;document.querySelectorAll('.speed-btn').forEach(x=>x.classList.remove('active'));b.classList.add('active')}
+function play(i){
+const btn=document.querySelector(`#c${i} .play-btn`),box=document.getElementById('s'+i);
+if(speech){speechSynthesis.cancel();if(card!==null){const pb=document.querySelector(`#c${card} .play-btn`);if(pb){pb.classList.remove('playing');pb.querySelector('span').textContent='Play';pb.querySelector('svg').innerHTML='<path d="M8 5v14l11-7z"/>';}document.getElementById('s'+card).classList.remove('visible')}if(card===i){card=null;speech=null;return}}
+const u=new SpeechSynthesisUtterance(news[i].s);u.rate=rate;
+const v=speechSynthesis.getVoices().find(x=>x.lang.startsWith('en'));if(v)u.voice=v;
+u.onstart=()=>{btn.classList.add('playing');btn.querySelector('span').textContent='Stop';btn.querySelector('svg').innerHTML='<rect x="6" y="4" width="4" height="16"/><rect x="14" y="4" width="4" height="16"/>';box.classList.add('visible')};
+u.onend=()=>{btn.classList.remove('playing');btn.querySelector('span').textContent='Play';btn.querySelector('svg').innerHTML='<path d="M8 5v14l11-7z"/>';card=null;speech=null};
+speechSynthesis.speak(u);speech=u;card=i}
+function show(id){document.querySelectorAll('.section').forEach(s=>s.classList.remove('active'));document.querySelectorAll('.nav-btn').forEach(b=>b.classList.remove('active'));document.getElementById(id).classList.add('active');event.target.classList.add('active')}
+speechSynthesis.onvoiceschanged=()=>speechSynthesis.getVoices();
+</script>
 </body>
 </html>
