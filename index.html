@@ -3,79 +3,98 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AI News Podcast - Top AI Content Hub</title>
+    <title>AI News Podcast</title>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     <style>
         *{margin:0;padding:0;box-sizing:border-box}
-        :root{--bg-primary:#121212;--bg-secondary:#1a1a1a;--bg-card:#242424;--text-primary:#ffffff;--text-secondary:#b3b3b3;--accent:#1ed760;--border:#2a2a2a}
-        body{font-family:'Inter',sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}
-        .header{background:linear-gradient(180deg,#1a1a2e,var(--bg-primary));padding:60px 20px 40px;text-align:center}
-        .badge{display:inline-flex;padding:8px 16px;background:rgba(30,215,96,0.1);border:1px solid rgba(30,215,96,0.3);border-radius:20px;font-size:13px;font-weight:600;color:var(--accent);margin-bottom:20px}
+        :root{--bg:#121212;--card:#242424;--text:#fff;--gray:#b3b3b3;--accent:#1ed760;--border:#2a2a2a}
+        body{font-family:'Inter',sans-serif;background:var(--bg);color:var(--text);line-height:1.6}
+        .header{background:linear-gradient(180deg,#1a1a2e,var(--bg));padding:60px 20px 40px;text-align:center}
+        .badge{display:inline-block;padding:8px 16px;background:rgba(30,215,96,0.1);border:1px solid rgba(30,215,96,0.3);border-radius:20px;font-size:13px;color:var(--accent);margin-bottom:20px}
         h1{font-size:clamp(36px,5vw,64px);font-weight:800;margin-bottom:16px}
-        .subtitle{font-size:18px;color:var(--text-secondary);max-width:700px;margin:0 auto}
-        .stats{display:flex;justify-content:center;gap:40px;margin-top:30px}
-        .stat-number{font-size:32px;font-weight:800;color:var(--accent)}
-        .stat-label{font-size:14px;color:var(--text-secondary)}
-        .nav{background:var(--bg-secondary);padding:16px 20px;position:sticky;top:0;z-index:100}
+        .subtitle{font-size:18px;color:var(--gray);max-width:700px;margin:0 auto}
+        .nav{background:#1a1a1a;padding:16px 20px;position:sticky;top:0;z-index:100}
         .nav-inner{max-width:1400px;margin:0 auto;display:flex;gap:12px;overflow-x:auto}
-        .nav-btn{padding:10px 20px;background:var(--bg-card);border:1px solid var(--border);border-radius:500px;color:var(--text-secondary);font-size:14px;font-weight:600;cursor:pointer}
+        .nav-btn{padding:10px 20px;background:var(--card);border:1px solid var(--border);border-radius:500px;color:var(--gray);font-size:14px;font-weight:600;cursor:pointer}
         .nav-btn.active{background:var(--accent);color:#000}
         .section{max-width:1400px;margin:0 auto;padding:40px 20px;display:none}
         .section.active{display:block}
-        .section-title{font-size:28px;font-weight:700;margin-bottom:24px}
-        .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:20px}
-        .card{background:var(--bg-card);border-radius:12px;overflow:hidden}
+        .section-title{font-size:28px;font-weight:700;margin-bottom:8px}
+        .section-desc{color:var(--gray);margin-bottom:24px}
+        .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(380px,1fr));gap:24px}
+        .card{background:var(--card);border-radius:12px;overflow:hidden}
         .card h3{padding:16px;font-size:14px;font-weight:600}
         .card iframe{width:100%;border:none}
-        .card-info{padding:0 16px 16px;font-size:12px;color:var(--text-secondary)}
-        .news-card{background:var(--bg-card);border-radius:12px;padding:20px;margin-bottom:16px}
-        .news-title{font-size:18px;font-weight:600;margin:12px 0 8px}
-        .news-author{color:var(--text-secondary);font-size:14px;margin-bottom:16px}
-        .play-btn{display:inline-flex;align-items:center;gap:8px;padding:12px 24px;background:var(--accent);color:#000;border:none;border-radius:500px;font-size:14px;font-weight:700;cursor:pointer}
+        .card-info{padding:0 16px 16px;font-size:12px;color:var(--gray)}
+        .video-card{background:var(--card);border-radius:16px;overflow:hidden}
+        .video-card iframe{width:100%;aspect-ratio:16/9;border:none}
+        .video-content{padding:20px}
+        .video-title{font-size:18px;font-weight:700;margin-bottom:8px;line-height:1.3}
+        .video-channel{color:var(--accent);font-size:14px;margin-bottom:16px}
+        .summary-label{font-size:12px;color:var(--gray);text-transform:uppercase;letter-spacing:0.05em;margin-bottom:8px}
+        .play-btn{display:inline-flex;align-items:center;gap:8px;padding:12px 24px;background:var(--accent);color:#000;border:none;border-radius:500px;font-size:14px;font-weight:700;cursor:pointer;transition:all 0.2s}
+        .play-btn:hover{transform:scale(1.05)}
         .play-btn.playing{background:#ff4444}
-        .script-box{margin-top:16px;padding:16px;background:var(--bg-primary);border-radius:8px;display:none}
+        .script-box{margin-top:16px;padding:16px;background:var(--bg);border-radius:12px;display:none}
         .script-box.visible{display:block}
-        .script-box p{font-size:14px;line-height:1.8;color:var(--text-secondary)}
-        .controls{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
-        .speed-btn{padding:6px 12px;background:var(--bg-primary);border:1px solid var(--border);border-radius:6px;color:var(--text-secondary);font-size:12px;cursor:pointer}
+        .script-box p{font-size:14px;line-height:1.8;color:var(--gray)}
+        .controls{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin-top:16px}
+        .speed-btn{padding:6px 12px;background:var(--bg);border:1px solid var(--border);border-radius:6px;color:var(--gray);font-size:12px;cursor:pointer}
         .speed-btn.active{background:var(--accent);color:#000}
         .tag{display:inline-block;padding:4px 8px;background:#1DB954;color:#000;border-radius:4px;font-size:10px;font-weight:700;margin-right:8px}
-        .tag-yt{background:#FF0000;color:#fff}
-        footer{max-width:1400px;margin:0 auto;padding:40px 20px;text-align:center;border-top:1px solid var(--border);color:var(--text-secondary);font-size:13px}
-        @media(max-width:768px){.grid{grid-template-columns:1fr}.stats{gap:20px}}
+        .news-card{background:var(--card);border-radius:12px;padding:20px;margin-bottom:16px}
+        .news-title{font-size:18px;font-weight:600;margin:12px 0 8px}
+        .news-author{color:var(--gray);font-size:14px;margin-bottom:16px}
+        footer{max-width:1400px;margin:0 auto;padding:40px 20px;text-align:center;border-top:1px solid var(--border);color:var(--gray);font-size:13px}
+        @media(max-width:768px){.grid{grid-template-columns:1fr}}
     </style>
 </head>
 <body>
     <div class="header">
         <div class="badge">▶ AI CONTENT HUB</div>
         <h1>AI News Podcast</h1>
-        <p class="subtitle">Top podcasts, YouTube channels, and AI-narrated news - all in one place</p>
-        <div class="stats">
-            <div class="stat"><div class="stat-number">20</div><div class="stat-label">Spotify Podcasts</div></div>
-            <div class="stat"><div class="stat-number">20</div><div class="stat-label">YouTube Channels</div></div>
-            <div class="stat"><div class="stat-number">∞</div><div class="stat-label">News Updates</div></div>
-        </div>
+        <p class="subtitle">Watch videos + Listen to AI summaries as podcasts</p>
     </div>
     <nav class="nav"><div class="nav-inner">
-        <button class="nav-btn active" onclick="show('spotify')">🎧 Spotify Podcasts</button>
-        <button class="nav-btn" onclick="show('youtube')">📺 YouTube Channels</button>
+        <button class="nav-btn active" onclick="show('youtube')">📺 YouTube + AI Summary</button>
+        <button class="nav-btn" onclick="show('spotify')">🎧 Spotify Podcasts</button>
         <button class="nav-btn" onclick="show('news')">🗞️ AI News Briefs</button>
     </div></nav>
-    <div class="section active" id="spotify">
-        <h2 class="section-title">🎧 Top 20 AI Podcasts on Spotify</h2>
-        <div class="grid" id="spotify-grid"></div>
-    </div>
-    <div class="section" id="youtube">
-        <h2 class="section-title">📺 Top 20 AI YouTube Channels</h2>
+
+    <div class="section active" id="youtube">
+        <h2 class="section-title">📺 Top AI Videos + Podcast Summaries</h2>
+        <p class="section-desc">Watch the video or click "Play Summary" to hear the AI-generated podcast summary</p>
         <div class="grid" id="youtube-grid"></div>
     </div>
+
+    <div class="section" id="spotify">
+        <h2 class="section-title">🎧 Top 20 AI Podcasts</h2>
+        <p class="section-desc">Curated list of the best AI podcasts on Spotify</p>
+        <div class="grid" id="spotify-grid"></div>
+    </div>
+
     <div class="section" id="news">
-        <h2 class="section-title">🗞️ AI News Briefs (AI Narrated)</h2>
-        <p style="color:var(--text-secondary);margin-bottom:24px">Click play to hear AI-narrated news with transcript</p>
+        <h2 class="section-title">🗞️ AI News Briefs</h2>
+        <p class="section-desc">Latest AI news with podcast-style narration</p>
         <div id="news-grid"></div>
     </div>
-    <footer><p>AI News Podcast • Updated Every 2 Hours</p></footer>
+
+    <footer><p>AI News Podcast • Videos + AI Summaries • Updated Daily</p></footer>
+
 <script>
+const videos=[
+{id:"aircAruvnKk",title:"But what is a neural network? | Deep learning chapter 1",channel:"3Blue1Brown",summary:"This video explains neural networks from the ground up. It starts with the basic concept of neurons as mathematical functions that take inputs and produce outputs. The video uses handwritten digit recognition as an example, showing how a network with 784 input neurons for pixels, two hidden layers, and 10 output neurons can learn to recognize numbers. The key insight is that neural networks learn by adjusting weights and biases through training, essentially finding patterns in data that humans might not explicitly program."},
+{id:"VMj-3S1tku0",title:"The spelled-out intro to neural networks and backpropagation",channel:"Andrej Karpathy",summary:"Andrej Karpathy, former Tesla AI director, provides a comprehensive introduction to neural networks and backpropagation. He builds a neural network from scratch, explaining how gradients flow backward through the network to update weights. The video covers the chain rule, computational graphs, and why backpropagation is so efficient. Karpathy emphasizes understanding the fundamentals rather than just using libraries, making this essential viewing for anyone serious about deep learning."},
+{id:"zjkBMFhNj_g",title:"Intro to Large Language Models",channel:"Andrej Karpathy",summary:"This one-hour talk by Andrej Karpathy explains large language models like GPT. He describes LLMs as compressed versions of the internet, trained to predict the next word. The video covers how these models work, their capabilities and limitations, emerging behaviors like in-context learning, and future directions. Karpathy explains concepts like tokenization, attention mechanisms, and scaling laws in an accessible way, making this the definitive introduction to understanding ChatGPT and similar models."},
+{id:"wjZofJX0v4M",title:"GPT-4 is Here - What We Know So Far",channel:"Fireship",summary:"Fireship breaks down GPT-4's capabilities in his signature fast-paced style. The video covers GPT-4's multimodal abilities, allowing it to understand images and text together. It demonstrates improved reasoning, longer context windows of 32,000 tokens, and better performance on standardized tests. The video also discusses pricing, API access, and how GPT-4 compares to previous versions, all delivered in under 5 minutes with Fireship's trademark humor and efficiency."},
+{id:"kCc8FmEb1nY",title:"Let's build GPT: from scratch, in code",channel:"Andrej Karpathy",summary:"In this two-hour tutorial, Andrej Karpathy builds a GPT language model from scratch using Python and PyTorch. Starting from a simple bigram model, he progressively adds self-attention, multi-head attention, feedforward layers, and residual connections. The video provides deep intuition about how transformers work, including the attention mechanism that allows tokens to communicate. By the end, viewers understand every component of GPT architecture and can build their own small language model."},
+{id:"l8pRSuU81PU",title:"What is Retrieval Augmented Generation (RAG)?",channel:"IBM Technology",summary:"IBM explains Retrieval Augmented Generation, or RAG, a technique that enhances large language models with external knowledge. The video describes how RAG works in three steps: retrieving relevant documents from a knowledge base, augmenting the prompt with this context, and generating responses grounded in real data. This approach reduces hallucinations, keeps information current without retraining, and allows companies to use LLMs with their proprietary data while maintaining accuracy."},
+{id:"SzhkhvKBUXg",title:"How AI Could Empower Any Business",channel:"TED",summary:"Andrew Ng presents his vision for democratizing AI at TED. He argues that while large tech companies have benefited from AI, small businesses have been left behind. Ng introduces the concept of AI platforms that allow domain experts to build custom AI solutions without coding. He provides examples from manufacturing, agriculture, and healthcare where specialized AI tools could transform operations. The talk emphasizes that the next wave of AI value will come from millions of customized applications."},
+{id:"cdiD-9MMpb0",title:"AI News: Google's Gemini, OpenAI's Drama",channel:"Fireship",summary:"Fireship covers major AI news including Google's Gemini launch and OpenAI's boardroom drama. The video explains Gemini's multimodal capabilities, its performance benchmarks against GPT-4, and Google's three model sizes: Ultra, Pro, and Nano. It also recaps the OpenAI leadership crisis, Sam Altman's brief firing and return, and what this means for AI development. Delivered in Fireship's rapid-fire style, this is the perfect way to catch up on AI news in under 10 minutes."},
+{id:"5sLYAQS9sWQ",title:"The AI that creates any picture you want, explained",channel:"Vox",summary:"Vox explains how text-to-image AI models like DALL-E and Stable Diffusion work. The video covers diffusion models, which learn to gradually remove noise from images, and how text prompts guide this process through a technique called CLIP. It discusses the training data, copyright concerns, and societal implications of AI-generated images. The explainer makes complex concepts accessible while raising important questions about creativity, ownership, and the future of visual media."},
+{id:"flXrLGPY3SU",title:"The Insane Engineering of ChatGPT",channel:"Real Engineering",summary:"Real Engineering dives into the technical architecture behind ChatGPT. The video explains transformer architecture, the attention mechanism, and how models are trained on massive text datasets. It covers Reinforcement Learning from Human Feedback, the technique that makes ChatGPT helpful and safe. The video also discusses computational requirements, the environmental cost of training large models, and engineering challenges in deploying AI at scale to hundreds of millions of users."}
+];
+
 const podcasts=[
 {n:"Lex Fridman Podcast",id:"2MAi0BvDc6GTFvKFPXnkCL",d:"Deep AI conversations"},
 {n:"Hard Fork (NYT)",id:"44fllCS2FTFr2x2kjP9xeT",d:"Tech news from NY Times"},
@@ -87,65 +106,90 @@ const podcasts=[
 {n:"TWIML AI Podcast",id:"2sp5EL7s7nqEq8IfMSbc7L",d:"This Week in ML"},
 {n:"Eye on AI",id:"5aFnACHECkhfzRczKLudsk",d:"AI news & interviews"},
 {n:"The Robot Brains",id:"6NKPp1bDgvFkNxJCESuP9N",d:"AI pioneers talk"},
-{n:"AI in Business",id:"4pnPmkqCvPeJ5OXYPLF1i9",d:"Enterprise AI"},
-{n:"Data Skeptic",id:"1BZN7H3ikovSejhvbPLn0j",d:"Data science & ML"},
 {n:"a16z Podcast",id:"5bC65RDvs3oxnLyqqvkUYX",d:"Tech VC insights"},
-{n:"Gradient Dissent",id:"7o9wXdFXWDEZTWGj7kf9lL",d:"ML practitioners"},
-{n:"ML Street Talk",id:"02e6PZeIOdPBKja0LZKCHs",d:"ML research deep dives"},
 {n:"No Priors",id:"7yJxQe7PMBgNtvTRNlmXTh",d:"AI with top VCs"},
 {n:"Latent Space",id:"4vS0Dq8G7Q2lRqAR8BMBWC",d:"AI engineering"},
+{n:"ML Street Talk",id:"02e6PZeIOdPBKja0LZKCHs",d:"ML research deep dives"},
+{n:"Gradient Dissent",id:"7o9wXdFXWDEZTWGj7kf9lL",d:"ML practitioners"},
+{n:"Data Skeptic",id:"1BZN7H3ikovSejhvbPLn0j",d:"Data science & ML"},
+{n:"AI in Business",id:"4pnPmkqCvPeJ5OXYPLF1i9",d:"Enterprise AI"},
 {n:"Cognitive Revolution",id:"6Z7VVjPEFDkzJXGEIHlLqw",d:"AI & society"},
 {n:"Last Week in AI",id:"3HLxVZQBQEOmLBFqvvP7b7",d:"Weekly AI roundup"},
 {n:"Changelog",id:"5bBki72YeKXOvO8d30LMpa",d:"Developer podcasts"}
 ];
-const videos=[
-{n:"Two Minute Papers",v:"u1kAEDEOoMQ",d:"AI research explained",s:"1.5M"},
-{n:"Fireship",v:"cdiD-9MMpb0",d:"Fast tech news",s:"3M"},
-{n:"AI Explained",v:"jvqFAi7vkBc",d:"AI developments",s:"500K"},
-{n:"Yannic Kilcher",v:"9vM4p9NN0Ts",d:"ML paper reviews",s:"250K"},
-{n:"Andrej Karpathy",v:"VMj-3S1tku0",d:"AI education",s:"800K"},
-{n:"Sentdex",v:"WFr2WgN9_xE",d:"Python & ML",s:"1.3M"},
-{n:"3Blue1Brown",v:"aircAruvnKk",d:"Math visualizations",s:"6M"},
-{n:"Matt Wolfe",v:"FW7szSFYyzA",d:"AI tools",s:"700K"},
-{n:"The AI Advantage",v:"zR_X2AaC2jU",d:"Practical AI",s:"400K"},
-{n:"AI Jason",v:"2IK3DFHRFfw",d:"AI tutorials",s:"200K"},
-{n:"Prompt Engineering",v:"QDUkpK9Dqxs",d:"AI prompting",s:"300K"},
-{n:"David Shapiro",v:"TDx5x5Cc7a0",d:"AI philosophy",s:"150K"},
-{n:"Sam Witteveen",v:"J8TgKxomS2g",d:"LLM development",s:"80K"},
-{n:"Nicholas Renotte",v:"jztwpsIzEGc",d:"AI projects",s:"400K"},
-{n:"Code Emporium",v:"TQxmA4EPuQs",d:"ML explained",s:"100K"},
-{n:"AssemblyAI",v:"xZDB1naRUlk",d:"Speech AI",s:"50K"},
-{n:"Weights & Biases",v:"hBBOjCiFcuo",d:"MLOps",s:"40K"},
-{n:"DeepLearning.AI",v:"CS4cs9xVecg",d:"AI courses",s:"300K"},
-{n:"StatQuest",v:"vMh0zPT0tLI",d:"Stats & ML",s:"1.2M"},
-{n:"Jeremy Howard",v:"8SF_h3xF3cE",d:"Fast.ai creator",s:"100K"}
-];
+
 const news=[
-{t:"OpenAI Launches ChatGPT Health Feature",a:"CNBC",d:"2026-01-29",s:"OpenAI has launched ChatGPT Health, allowing users to connect medical records and wellness apps for personalized health guidance. Over 230 million users already ask ChatGPT about health weekly."},
-{t:"Apple Partners with Google for AI-Powered Siri",a:"CNBC",d:"2026-01-29",s:"Apple announced a multi-year partnership with Google to use Gemini AI models for a major Siri upgrade. The new AI-powered Siri launches in 2026 with improved natural language understanding."},
-{t:"Anthropic Raises $13B at $183B Valuation",a:"TechCrunch",d:"2026-01-28",s:"AI safety company Anthropic raised 13 billion dollars, valuing it at 183 billion. Funding supports enterprise expansion, safety research, and international growth. Anthropic created Claude."},
-{t:"DeepSeek Reaches 15% Global AI Market Share",a:"TrendForce",d:"2026-01-28",s:"Chinese AI models led by DeepSeek and Qwen reached 15 percent global market share. DeepSeek's open-source approach proves cutting-edge AI can be built without massive budgets."},
-{t:"NVIDIA Unveils Vera Rubin Platform at CES",a:"NVIDIA",d:"2026-01-27",s:"NVIDIA unveiled its next-generation Vera Rubin AI platform at CES 2026. The post-Blackwell architecture promises massive performance improvements for AI training and inference."},
-{t:"Google Launches Personal Intelligence in Gemini",a:"CNBC",d:"2026-01-27",s:"Google launched Personal Intelligence in Gemini, connecting Gmail, Photos, and apps for personalized AI responses. This directly challenges Apple's on-device AI approach."},
-{t:"Claude Code Goes Viral Among Non-Programmers",a:"Fortune",d:"2026-01-26",s:"Anthropic's Claude Code went viral with non-programmers using it for taxes, ticket booking, and plant monitoring. Anthropic launched Cowork desktop tool in just one and a half weeks."},
-{t:"Microsoft Reports 7 AI Trends for 2026",a:"Microsoft",d:"2026-01-26",s:"Microsoft published 7 AI trends for 2026 including AI partners, quantum AI breakthroughs, and security automation. AI moves from experimental to essential across industries."},
-{t:"EU Passes Comprehensive AI Regulation",a:"Reuters",d:"2026-01-25",s:"The European Union passed comprehensive AI regulation setting global standards for AI development. Requirements include transparency, safety testing, and human oversight of high-risk AI."},
-{t:"OpenAI Testing Ads in Free ChatGPT",a:"CNN",d:"2026-01-25",s:"OpenAI began testing ads in free ChatGPT for US users. They're also launching an 8 dollar per month Go tier as alternative to the 20 dollar Plus subscription."}
+{t:"OpenAI Launches ChatGPT Health",a:"CNBC",d:"2026-01-29",s:"OpenAI launched ChatGPT Health allowing users to connect medical records for personalized guidance. Over 230 million users ask ChatGPT health questions weekly."},
+{t:"Apple Partners with Google for Siri AI",a:"CNBC",d:"2026-01-29",s:"Apple announced a partnership with Google to use Gemini AI for a major Siri upgrade launching in 2026."},
+{t:"Anthropic Raises $13B at $183B",a:"TechCrunch",d:"2026-01-28",s:"Anthropic raised 13 billion dollars at 183 billion valuation for enterprise expansion and safety research."},
+{t:"DeepSeek Reaches 15% Global Market",a:"TrendForce",d:"2026-01-28",s:"Chinese AI models led by DeepSeek reached 15 percent global market share with cost-effective training."},
+{t:"NVIDIA Unveils Vera Rubin at CES",a:"NVIDIA",d:"2026-01-27",s:"NVIDIA unveiled Vera Rubin AI platform with massive performance improvements for AI training."},
+{t:"Claude Code Goes Viral",a:"Fortune",d:"2026-01-26",s:"Anthropic's Claude Code went viral with non-programmers using it for taxes and automation."}
 ];
+
+// Render YouTube with summaries
+document.getElementById('youtube-grid').innerHTML=videos.map((v,i)=>`
+<div class="video-card">
+    <iframe src="https://www.youtube.com/embed/${v.id}" allowfullscreen loading="lazy"></iframe>
+    <div class="video-content">
+        <div class="video-title">${v.title}</div>
+        <div class="video-channel">📺 ${v.channel}</div>
+        <div class="summary-label">🎙️ AI SUMMARY PODCAST</div>
+        <button class="play-btn" onclick="playVideo(${i})">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
+            <span>Play Summary</span>
+        </button>
+        <div class="controls">
+            <button class="speed-btn" onclick="spd(0.8,this)">0.8x</button>
+            <button class="speed-btn active" onclick="spd(1,this)">1x</button>
+            <button class="speed-btn" onclick="spd(1.2,this)">1.2x</button>
+            <button class="speed-btn" onclick="spd(1.5,this)">1.5x</button>
+        </div>
+        <div class="script-box" id="vs${i}"><p>${v.summary}</p></div>
+    </div>
+</div>`).join('');
+
+// Render Spotify
 document.getElementById('spotify-grid').innerHTML=podcasts.map(p=>`<div class="card"><h3><span class="tag">SPOTIFY</span>${p.n}</h3><iframe src="https://open.spotify.com/embed/show/${p.id}?theme=0" height="152" loading="lazy"></iframe><p class="card-info">${p.d}</p></div>`).join('');
-document.getElementById('youtube-grid').innerHTML=videos.map(v=>`<div class="card"><h3><span class="tag tag-yt">YOUTUBE</span>${v.n}</h3><iframe height="180" src="https://www.youtube.com/embed/${v.v}" loading="lazy" allowfullscreen></iframe><p class="card-info">${v.d} • ${v.s} subs</p></div>`).join('');
+
+// Render News
 let speech=null,card=null,rate=1;
 function fmtDate(d){const x=Math.floor((new Date()-new Date(d))/864e5);return x===0?'Today':x===1?'Yesterday':x+'d ago'}
-document.getElementById('news-grid').innerHTML=news.map((n,i)=>`<div class="news-card" id="c${i}"><div style="color:var(--text-secondary);font-size:13px">NEWS • ${fmtDate(n.d)}</div><div class="news-title">${n.t}</div><div class="news-author">${n.a}</div><div class="controls"><button class="play-btn" onclick="play(${i})"><svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg><span>Play</span></button><button class="speed-btn" onclick="spd(0.8,this)">0.8x</button><button class="speed-btn active" onclick="spd(1,this)">1x</button><button class="speed-btn" onclick="spd(1.2,this)">1.2x</button><button class="speed-btn" onclick="spd(1.5,this)">1.5x</button></div><div class="script-box" id="s${i}"><p>${n.s}</p></div></div>`).join('');
+document.getElementById('news-grid').innerHTML=news.map((n,i)=>`<div class="news-card" id="c${i}"><div style="color:var(--gray);font-size:13px">NEWS • ${fmtDate(n.d)}</div><div class="news-title">${n.t}</div><div class="news-author">${n.a}</div><div class="controls"><button class="play-btn" onclick="playNews(${i})"><svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg><span>Play</span></button><button class="speed-btn" onclick="spd(0.8,this)">0.8x</button><button class="speed-btn active" onclick="spd(1,this)">1x</button><button class="speed-btn" onclick="spd(1.2,this)">1.2x</button><button class="speed-btn" onclick="spd(1.5,this)">1.5x</button></div><div class="script-box" id="s${i}"><p>${n.s}</p></div></div>`).join('');
+
 function spd(r,b){rate=r;document.querySelectorAll('.speed-btn').forEach(x=>x.classList.remove('active'));b.classList.add('active')}
-function play(i){
-const btn=document.querySelector(`#c${i} .play-btn`),box=document.getElementById('s'+i);
-if(speech){speechSynthesis.cancel();if(card!==null){const pb=document.querySelector(`#c${card} .play-btn`);if(pb){pb.classList.remove('playing');pb.querySelector('span').textContent='Play';pb.querySelector('svg').innerHTML='<path d="M8 5v14l11-7z"/>';}document.getElementById('s'+card).classList.remove('visible')}if(card===i){card=null;speech=null;return}}
-const u=new SpeechSynthesisUtterance(news[i].s);u.rate=rate;
-const v=speechSynthesis.getVoices().find(x=>x.lang.startsWith('en'));if(v)u.voice=v;
-u.onstart=()=>{btn.classList.add('playing');btn.querySelector('span').textContent='Stop';btn.querySelector('svg').innerHTML='<rect x="6" y="4" width="4" height="16"/><rect x="14" y="4" width="4" height="16"/>';box.classList.add('visible')};
-u.onend=()=>{btn.classList.remove('playing');btn.querySelector('span').textContent='Play';btn.querySelector('svg').innerHTML='<path d="M8 5v14l11-7z"/>';card=null;speech=null};
-speechSynthesis.speak(u);speech=u;card=i}
+
+function stopAll(){
+    if(speech){speechSynthesis.cancel();speech=null}
+    document.querySelectorAll('.play-btn').forEach(b=>{b.classList.remove('playing');b.querySelector('span').textContent=b.closest('.video-card')?'Play Summary':'Play';b.querySelector('svg').innerHTML='<path d="M8 5v14l11-7z"/>'});
+    document.querySelectorAll('.script-box').forEach(s=>s.classList.remove('visible'));
+    card=null;
+}
+
+function playVideo(i){
+    const btn=document.querySelectorAll('.video-card')[i].querySelector('.play-btn');
+    const box=document.getElementById('vs'+i);
+    if(card==='v'+i){stopAll();return}
+    stopAll();
+    const u=new SpeechSynthesisUtterance(videos[i].summary);u.rate=rate;
+    const v=speechSynthesis.getVoices().find(x=>x.lang.startsWith('en'));if(v)u.voice=v;
+    u.onstart=()=>{btn.classList.add('playing');btn.querySelector('span').textContent='Stop';btn.querySelector('svg').innerHTML='<rect x="6" y="4" width="4" height="16"/><rect x="14" y="4" width="4" height="16"/>';box.classList.add('visible')};
+    u.onend=()=>{stopAll()};
+    speechSynthesis.speak(u);speech=u;card='v'+i;
+}
+
+function playNews(i){
+    const btn=document.querySelector(`#c${i} .play-btn`);
+    const box=document.getElementById('s'+i);
+    if(card==='n'+i){stopAll();return}
+    stopAll();
+    const u=new SpeechSynthesisUtterance(news[i].s);u.rate=rate;
+    const v=speechSynthesis.getVoices().find(x=>x.lang.startsWith('en'));if(v)u.voice=v;
+    u.onstart=()=>{btn.classList.add('playing');btn.querySelector('span').textContent='Stop';btn.querySelector('svg').innerHTML='<rect x="6" y="4" width="4" height="16"/><rect x="14" y="4" width="4" height="16"/>';box.classList.add('visible')};
+    u.onend=()=>{stopAll()};
+    speechSynthesis.speak(u);speech=u;card='n'+i;
+}
+
 function show(id){document.querySelectorAll('.section').forEach(s=>s.classList.remove('active'));document.querySelectorAll('.nav-btn').forEach(b=>b.classList.remove('active'));document.getElementById(id).classList.add('active');event.target.classList.add('active')}
 speechSynthesis.onvoiceschanged=()=>speechSynthesis.getVoices();
 </script>
