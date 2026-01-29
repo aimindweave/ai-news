@@ -7,394 +7,327 @@
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     <style>
         *{margin:0;padding:0;box-sizing:border-box}
-        :root{--bg:#0a0a0a;--card:#161616;--text:#fff;--gray:#888;--accent:#1ed760;--border:#2a2a2a}
+        :root{--bg:#0a0a0a;--card:#161616;--text:#fff;--gray:#888;--accent:#1ed760;--border:#2a2a2a;--purple:#8b5cf6}
         body{font-family:'Inter',sans-serif;background:var(--bg);color:var(--text);line-height:1.6}
         .header{background:linear-gradient(180deg,#0f1a0f,var(--bg));padding:60px 20px 40px;text-align:center}
-        .badge{display:inline-block;padding:8px 16px;background:rgba(30,215,96,0.1);border:1px solid rgba(30,215,96,0.3);border-radius:20px;font-size:13px;color:var(--accent);margin-bottom:20px}
+        .badge{display:inline-block;padding:8px 16px;background:rgba(139,92,246,0.1);border:1px solid rgba(139,92,246,0.3);border-radius:20px;font-size:13px;color:var(--purple);margin-bottom:20px}
         h1{font-size:clamp(32px,5vw,56px);font-weight:800;margin-bottom:12px}
         .subtitle{font-size:16px;color:var(--gray);max-width:600px;margin:0 auto}
         .nav{background:#111;padding:12px 20px;position:sticky;top:0;z-index:100;border-bottom:1px solid var(--border)}
         .nav-inner{max-width:1400px;margin:0 auto;display:flex;gap:8px;overflow-x:auto}
-        .nav-btn{padding:10px 18px;background:var(--card);border:1px solid var(--border);border-radius:99px;color:var(--gray);font-size:13px;font-weight:600;cursor:pointer}
-        .nav-btn.active{background:var(--accent);color:#000}
-        .section{max-width:1400px;margin:0 auto;padding:32px 20px;display:none}
+        .nav-btn{padding:10px 18px;background:var(--card);border:1px solid var(--border);border-radius:99px;color:var(--gray);font-size:13px;font-weight:600;cursor:pointer;white-space:nowrap}
+        .nav-btn.active{background:var(--purple);color:#fff;border-color:var(--purple)}
+        .section{max-width:1200px;margin:0 auto;padding:32px 20px;display:none}
         .section.active{display:block}
         .section-title{font-size:24px;font-weight:700;margin-bottom:8px}
         .section-desc{color:var(--gray);margin-bottom:24px;font-size:14px}
+        
+        .play-all-bar{background:linear-gradient(135deg,#1a1f2e,#0f1a1f);border:2px solid var(--purple);border-radius:16px;padding:24px;margin-bottom:24px}
+        .play-all-top{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:16px}
+        .play-all-info h3{font-size:20px;margin-bottom:4px;color:var(--purple)}
+        .play-all-info p{font-size:13px;color:var(--gray)}
+        .play-all-btn{display:inline-flex;align-items:center;gap:10px;padding:16px 32px;background:var(--purple);color:#fff;border:none;border-radius:99px;font-size:16px;font-weight:700;cursor:pointer;transition:all .2s}
+        .play-all-btn:hover{transform:scale(1.05);background:#7c4dff}
+        .play-all-btn.playing{background:#ef4444}
+        .progress-container{margin-top:20px}
+        .progress-bar{width:100%;height:6px;background:#333;border-radius:3px;overflow:hidden}
+        .progress-fill{height:100%;background:linear-gradient(90deg,var(--purple),var(--accent));transition:width .3s;width:0%}
+        .now-playing{font-size:13px;color:var(--purple);margin-top:10px;min-height:20px}
+        
+        .news-grid{display:grid;gap:12px}
+        .news-card{background:var(--card);border-radius:12px;padding:20px;transition:all .2s;border-left:4px solid transparent}
+        .news-card:hover{background:#1c1c1c}
+        .news-card.playing{border-left-color:var(--purple);background:#1a1525}
+        .news-card.has-audio{border-left-color:var(--purple)}
+        .news-header{display:flex;justify-content:space-between;align-items:flex-start;gap:12px;margin-bottom:12px}
+        .news-num{font-size:24px;font-weight:800;color:var(--purple);opacity:0.5}
+        .news-badges{display:flex;gap:6px;flex-wrap:wrap}
+        .news-badge{padding:4px 8px;border-radius:4px;font-size:10px;font-weight:700}
+        .badge-source{background:#1da1f2;color:#fff}
+        .badge-audio{background:var(--purple);color:#fff}
+        .news-title{font-size:17px;font-weight:600;margin-bottom:8px;line-height:1.4}
+        .news-summary{font-size:14px;color:var(--gray);line-height:1.6;margin-bottom:16px;display:none}
+        .news-summary.show{display:block}
+        .news-actions{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+        .play-btn{display:inline-flex;align-items:center;gap:6px;padding:10px 20px;background:var(--purple);color:#fff;border:none;border-radius:99px;font-size:13px;font-weight:600;cursor:pointer;transition:all .2s}
+        .play-btn:hover{background:#7c4dff}
+        .play-btn.playing{background:#ef4444}
+        .link-btn{padding:10px 16px;background:transparent;border:1px solid var(--border);border-radius:99px;color:var(--gray);font-size:12px;text-decoration:none;transition:all .2s}
+        .link-btn:hover{border-color:var(--gray);color:#fff}
+        
         .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(340px,1fr));gap:20px}
         .card{background:var(--card);border-radius:12px;overflow:hidden}
-        .card iframe{width:100%;border:none}
+        .card iframe{width:100%;aspect-ratio:16/9;border:none}
         .card-body{padding:16px}
         .card-title{font-size:15px;font-weight:600;margin-bottom:6px}
         .card-channel{font-size:13px;color:var(--accent);margin-bottom:12px}
         .tag{display:inline-block;padding:3px 8px;border-radius:4px;font-size:10px;font-weight:700;margin-bottom:12px}
         .tag-yt{background:#ff0000;color:#fff}
-        .tag-news{background:#1da1f2;color:#fff}
-        .tag-ai{background:#8b5cf6;color:#fff}
-        .play-btn{display:inline-flex;align-items:center;gap:6px;padding:10px 20px;background:var(--accent);color:#000;border:none;border-radius:99px;font-size:13px;font-weight:700;cursor:pointer}
-        .play-btn:hover{opacity:0.9}
-        .play-btn.playing{background:#ef4444}
-        .play-btn:disabled{opacity:0.5;cursor:not-allowed}
-        .script{margin-top:12px;padding:12px;background:var(--bg);border-radius:8px;display:none}
-        .script.show{display:block}
-        .script p{font-size:13px;line-height:1.7;color:var(--gray)}
-        .controls{display:flex;gap:6px;margin-top:12px}
-        .spd-btn{padding:5px 10px;background:#222;border:1px solid var(--border);border-radius:4px;color:var(--gray);font-size:11px;cursor:pointer}
-        .spd-btn.active{background:var(--accent);color:#000}
-        .news-card{background:var(--card);border-radius:12px;padding:16px;margin-bottom:12px;transition:all .2s}
-        .news-card.active{border:2px solid var(--accent);background:#1a2f1a}
-        .news-card.has-audio{border-left:3px solid #8b5cf6}
-        .news-title{font-size:16px;font-weight:600;margin:8px 0 6px}
-        .news-src{font-size:13px;color:var(--accent);margin-bottom:12px}
         .pod-item{background:var(--card);border-radius:12px;padding:20px;display:flex;gap:16px;align-items:center;margin-bottom:12px}
-        .pod-icon{width:80px;height:80px;background:var(--accent);border-radius:12px;display:flex;align-items:center;justify-content:center;font-size:32px;flex-shrink:0}
+        .pod-icon{width:70px;height:70px;background:var(--accent);border-radius:12px;display:flex;align-items:center;justify-content:center;font-size:28px;flex-shrink:0}
         .pod-info{flex:1}
-        .pod-info h3{font-size:16px;margin-bottom:4px}
-        .pod-info p{font-size:13px;color:var(--gray);margin-bottom:8px}
+        .pod-info h3{font-size:15px;margin-bottom:4px}
+        .pod-info p{font-size:12px;color:var(--gray);margin-bottom:8px}
         .pod-link{display:inline-block;padding:8px 16px;background:var(--accent);color:#000;border-radius:99px;font-size:12px;font-weight:700;text-decoration:none}
-        .play-all-bar{background:linear-gradient(90deg,#1a1f2e,#0f1a1f);border:1px solid #8b5cf6;border-radius:12px;padding:20px;margin-bottom:24px;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:16px}
-        .play-all-info h3{font-size:18px;margin-bottom:4px}
-        .play-all-info p{font-size:13px;color:var(--gray)}
-        .play-all-btn{display:inline-flex;align-items:center;gap:8px;padding:14px 28px;background:#8b5cf6;color:#fff;border:none;border-radius:99px;font-size:15px;font-weight:700;cursor:pointer}
-        .play-all-btn.playing{background:#ef4444}
-        .progress-bar{width:100%;height:4px;background:#333;border-radius:2px;margin-top:12px;overflow:hidden}
-        .progress-fill{height:100%;background:#8b5cf6;transition:width .3s}
-        .now-playing{font-size:12px;color:#8b5cf6;margin-top:8px}
-        .audio-badge{display:inline-block;padding:2px 6px;background:#8b5cf6;color:#fff;border-radius:4px;font-size:9px;font-weight:700;margin-left:8px}
-        footer{max-width:1400px;margin:0 auto;padding:32px 20px;text-align:center;border-top:1px solid var(--border);color:var(--gray);font-size:12px}
-        .update-time{color:var(--accent)}
-        @media(max-width:768px){.grid{grid-template-columns:1fr}.pod-item{flex-direction:column;text-align:center}.play-all-bar{flex-direction:column;text-align:center}}
+        
+        footer{max-width:1200px;margin:0 auto;padding:32px 20px;text-align:center;border-top:1px solid var(--border);color:var(--gray);font-size:12px}
+        @media(max-width:768px){.grid{grid-template-columns:1fr}.pod-item{flex-direction:column;text-align:center}.play-all-top{flex-direction:column;text-align:center}}
     </style>
 </head>
 <body>
     <div class="header">
-        <div class="badge">🎙️ AI NEWS PODCAST</div>
-        <h1>AI News</h1>
-        <p class="subtitle">Top AI content with ElevenLabs AI voice narration</p>
+        <div class="badge">🎙️ ELEVENLABS AI VOICE</div>
+        <h1>AI News Podcast</h1>
+        <p class="subtitle">50 AI news stories with natural AI voice narration by Hope</p>
     </div>
+    
     <nav class="nav"><div class="nav-inner">
-        <button class="nav-btn active" onclick="showTab('news')">🗞️ News + AI Voice</button>
+        <button class="nav-btn active" onclick="showTab('news')">🗞️ AI News (50)</button>
         <button class="nav-btn" onclick="showTab('yt')">📺 YouTube (20)</button>
         <button class="nav-btn" onclick="showTab('pod')">🎧 Podcasts (20)</button>
     </div></nav>
 
     <div class="section active" id="news">
         <h2 class="section-title">🗞️ Latest AI News</h2>
-        <p class="section-desc">Top 10 stories have AI-generated voice (purple badge). Others use browser TTS.</p>
+        <p class="section-desc">From TechCrunch, MIT Tech Review, Nature, Reddit & more • Updated every 2 hours</p>
         
         <div class="play-all-bar">
-            <div class="play-all-info">
-                <h3>🎧 Continuous Play - AI Voice</h3>
-                <p>Listen to all news with ElevenLabs AI voice</p>
+            <div class="play-all-top">
+                <div class="play-all-info">
+                    <h3>🎧 Listen to All News</h3>
+                    <p>Continuous playback with ElevenLabs AI voice (Hope)</p>
+                </div>
+                <button class="play-all-btn" id="play-all-btn" onclick="togglePlayAll()">
+                    <svg viewBox="0 0 24 24" fill="currentColor" width="20" height="20"><path d="M8 5v14l11-7z"/></svg>
+                    <span>Play All 50 Stories</span>
+                </button>
+            </div>
+            <div class="progress-container">
                 <div class="progress-bar"><div class="progress-fill" id="progress"></div></div>
                 <div class="now-playing" id="now-playing"></div>
             </div>
-            <div>
-                <button class="play-all-btn" id="play-all-btn" onclick="togglePlayAll()">
-                    <svg viewBox="0 0 24 24" fill="currentColor" width="20" height="20"><path d="M8 5v14l11-7z"/></svg>
-                    <span>Play All</span>
-                </button>
-            </div>
         </div>
         
-        <div id="news-grid"></div>
+        <div class="news-grid" id="news-grid"></div>
     </div>
 
     <div class="section" id="yt">
-        <h2 class="section-title">📺 Top 20 AI YouTube Videos</h2>
-        <p class="section-desc">Watch or listen to AI summaries</p>
+        <h2 class="section-title">📺 Top AI YouTube Videos</h2>
+        <p class="section-desc">Best AI educational content</p>
         <div class="grid" id="yt-grid"></div>
     </div>
 
     <div class="section" id="pod">
-        <h2 class="section-title">🎧 Top 20 AI Podcasts</h2>
+        <h2 class="section-title">🎧 Top AI Podcasts</h2>
         <p class="section-desc">Click to open in Spotify</p>
         <div id="pod-grid"></div>
     </div>
 
     <footer>
-        <p>AI News Podcast • Last updated: <span class="update-time" id="update-time">Loading...</span></p>
-        <p style="margin-top:8px">Powered by ElevenLabs AI Voice • Auto-updates every 2 hours</p>
+        <p>AI News Podcast • Last updated: <span id="update-time">Loading...</span></p>
+        <p style="margin-top:8px">Powered by ElevenLabs AI Voice (Hope) • Auto-updates every 2 hours</p>
     </footer>
 
 <script>
-// News data - will be updated by GitHub Actions
-const news=[
-{"title":"OpenAI Launches ChatGPT Health","source":"CNBC","summary":"OpenAI has launched ChatGPT Health for personalized medical guidance.","url":"#","date":"2025-01-29"},
-{"title":"Anthropic Raises $13B","source":"TechCrunch","summary":"Anthropic raised 13 billion at 183 billion valuation.","url":"#","date":"2025-01-29"},
-{"title":"DeepSeek Reaches 15% Market Share","source":"TrendForce","summary":"Chinese AI models reached 15 percent global share.","url":"#","date":"2025-01-29"}
-];
+// News data - updated by GitHub Actions
+const news=[{"title":"Loading news...","source":"System","summary":"Please wait for the first update.","url":"#","date":"2025-01-29"}];
 
-// Audio files available (indices) - will be updated by GitHub Actions
-const audioFiles=[0,1,2,3,4,5,6,7,8,9];
+// Audio files available - updated by GitHub Actions  
+const audioFiles=[0];
 
-// YouTube videos
+// YouTube
 const ytVideos=[
-{id:"aircAruvnKk",t:"But what is a neural network?",c:"3Blue1Brown",s:"Beautifully animated explanation of neural networks from scratch."},
-{id:"VMj-3S1tku0",t:"Neural Networks: Zero to Hero",c:"Andrej Karpathy",s:"Build neural networks from scratch with clear explanations."},
-{id:"zjkBMFhNj_g",t:"Intro to Large Language Models",c:"Andrej Karpathy",s:"One-hour talk explaining how LLMs work."},
-{id:"kCc8FmEb1nY",t:"Let's build GPT from scratch",c:"Andrej Karpathy",s:"Hands-on tutorial building GPT in Python."},
-{id:"wjZofJX0v4M",t:"GPT-4 - What We Know",c:"Fireship",s:"Fast breakdown of GPT-4 capabilities."},
-{id:"cdiD-9MMpb0",t:"Google Gemini & OpenAI News",c:"Fireship",s:"AI news in rapid-fire style."},
-{id:"l8pRSuU81PU",t:"What is RAG?",c:"IBM Technology",s:"Retrieval Augmented Generation explained."},
-{id:"flXrLGPY3SU",t:"Engineering of ChatGPT",c:"Real Engineering",s:"Deep dive into ChatGPT architecture."},
-{id:"5sLYAQS9sWQ",t:"AI Image Generators Explained",c:"Vox",s:"How DALL-E and Stable Diffusion work."},
-{id:"SzhkhvKBUXg",t:"AI Could Empower Any Business",c:"TED",s:"Andrew Ng on democratizing AI."},
-{id:"hBBOjCiFcuo",t:"Production ML Pipelines",c:"Weights & Biases",s:"Building ML pipelines for production."},
-{id:"vMh0zPT0tLI",t:"Neural Networks Explained",c:"StatQuest",s:"Neural networks with entertaining style."},
-{id:"WFr2WgN9_xE",t:"Python ML Tutorial",c:"Sentdex",s:"Comprehensive Python ML tutorial."},
-{id:"CS4cs9xVecg",t:"Machine Learning Course",c:"DeepLearning.AI",s:"Andrew Ng's renowned ML course."},
-{id:"9vM4p9NN0Ts",t:"Transformer Networks",c:"Yannic Kilcher",s:"Deep explanation of transformers."},
-{id:"jvqFAi7vkBc",t:"GPT-5 Analysis",c:"AI Explained",s:"What GPT-5 might bring."},
-{id:"FW7szSFYyzA",t:"Best AI Tools This Week",c:"Matt Wolfe",s:"Weekly AI tools roundup."},
-{id:"TQxmA4EPuQs",t:"Attention Mechanism",c:"CodeEmporium",s:"Visual explanation of attention."},
-{id:"xZDB1naRUlk",t:"Speech Recognition AI",c:"AssemblyAI",s:"Building speech recognition apps."},
-{id:"8SF_h3xF3cE",t:"Practical Deep Learning",c:"fast.ai",s:"Jeremy Howard's practical approach."}
+{id:"aircAruvnKk",t:"What is a Neural Network?",c:"3Blue1Brown"},
+{id:"VMj-3S1tku0",t:"Neural Networks: Zero to Hero",c:"Andrej Karpathy"},
+{id:"zjkBMFhNj_g",t:"Intro to Large Language Models",c:"Andrej Karpathy"},
+{id:"kCc8FmEb1nY",t:"Let's build GPT from scratch",c:"Andrej Karpathy"},
+{id:"wjZofJX0v4M",t:"GPT-4 - What We Know",c:"Fireship"},
+{id:"cdiD-9MMpb0",t:"Google Gemini & OpenAI News",c:"Fireship"},
+{id:"l8pRSuU81PU",t:"What is RAG?",c:"IBM Technology"},
+{id:"flXrLGPY3SU",t:"Engineering of ChatGPT",c:"Real Engineering"},
+{id:"5sLYAQS9sWQ",t:"AI Image Generators",c:"Vox"},
+{id:"SzhkhvKBUXg",t:"AI Could Empower Business",c:"TED"},
+{id:"hBBOjCiFcuo",t:"Production ML Pipelines",c:"Weights & Biases"},
+{id:"vMh0zPT0tLI",t:"Neural Networks",c:"StatQuest"},
+{id:"WFr2WgN9_xE",t:"Python ML Tutorial",c:"Sentdex"},
+{id:"CS4cs9xVecg",t:"ML Specialization",c:"DeepLearning.AI"},
+{id:"9vM4p9NN0Ts",t:"Transformers",c:"Yannic Kilcher"},
+{id:"jvqFAi7vkBc",t:"GPT-5 Analysis",c:"AI Explained"},
+{id:"FW7szSFYyzA",t:"Best AI Tools",c:"Matt Wolfe"},
+{id:"TQxmA4EPuQs",t:"Attention Mechanism",c:"CodeEmporium"},
+{id:"xZDB1naRUlk",t:"Speech Recognition",c:"AssemblyAI"},
+{id:"8SF_h3xF3cE",t:"Practical Deep Learning",c:"fast.ai"}
 ];
 
 // Podcasts
 const podcasts=[
-{n:"Lex Fridman Podcast",u:"https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL",s:"Deep conversations with AI leaders."},
-{n:"Hard Fork",u:"https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT",s:"NYT tech podcast on AI news."},
-{n:"All-In Podcast",u:"https://open.spotify.com/show/2IqXAVFR4e0Bmyjsdc8QzF",s:"Tech billionaires discuss AI."},
-{n:"The Vergecast",u:"https://open.spotify.com/show/430MlYmAjFFnXdzU1jJfcB",s:"Weekly tech roundup."},
-{n:"Acquired",u:"https://open.spotify.com/show/7Fj0XEuUQLi3mMHXhkfo2F",s:"How great companies were built."},
-{n:"a16z Podcast",u:"https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX",s:"VC insights on AI startups."},
-{n:"No Priors",u:"https://open.spotify.com/show/7yJxQe7PMBgNtvTRNlmXTh",s:"AI founders and researchers."},
-{n:"Latent Space",u:"https://open.spotify.com/show/4vS0Dq8G7Q2lRqAR8BMBWC",s:"AI engineering podcast."},
-{n:"TWIML AI",u:"https://open.spotify.com/show/2sp5EL7s7nqEq8IfMSbc7L",s:"This Week in ML interviews."},
-{n:"Practical AI",u:"https://open.spotify.com/show/1LLQkN0uHBmYb4rDaZv9ij",s:"Making AI practical."},
-{n:"ML Street Talk",u:"https://open.spotify.com/show/02e6PZeIOdPBKja0LZKCHs",s:"ML research deep dives."},
-{n:"Eye on AI",u:"https://open.spotify.com/show/5aFnACHECkhfzRczKLudsk",s:"AI leaders interviews."},
-{n:"The Robot Brains",u:"https://open.spotify.com/show/6NKPp1bDgvFkNxJCESuP9N",s:"Pieter Abbeel with AI pioneers."},
-{n:"Data Skeptic",u:"https://open.spotify.com/show/1BZN7H3ikovSejhvbPLn0j",s:"Data science explained."},
-{n:"AI in Business",u:"https://open.spotify.com/show/4pnPmkqCvPeJ5OXYPLF1i9",s:"Enterprise AI adoption."},
-{n:"Gradient Dissent",u:"https://open.spotify.com/show/7o9wXdFXWDEZTWGj7kf9lL",s:"ML practitioners discuss."},
-{n:"Cognitive Revolution",u:"https://open.spotify.com/show/6Z7VVjPEFDkzJXGEIHlLqw",s:"AI impact on society."},
-{n:"Last Week in AI",u:"https://open.spotify.com/show/3HLxVZQBQEOmLBFqvvP7b7",s:"Weekly AI news roundup."},
-{n:"The AI Breakdown",u:"https://open.spotify.com/show/0p1Mn8E2lXJOyKJSqVVxOK",s:"Daily AI news in 15 min."},
-{n:"Changelog",u:"https://open.spotify.com/show/5bBki72YeKXOvO8d30LMpa",s:"Open source and AI tools."}
+{n:"Lex Fridman Podcast",u:"https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"},
+{n:"Hard Fork",u:"https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"},
+{n:"All-In Podcast",u:"https://open.spotify.com/show/2IqXAVFR4e0Bmyjsdc8QzF"},
+{n:"The Vergecast",u:"https://open.spotify.com/show/430MlYmAjFFnXdzU1jJfcB"},
+{n:"Acquired",u:"https://open.spotify.com/show/7Fj0XEuUQLi3mMHXhkfo2F"},
+{n:"a16z Podcast",u:"https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"},
+{n:"No Priors",u:"https://open.spotify.com/show/7yJxQe7PMBgNtvTRNlmXTh"},
+{n:"Latent Space",u:"https://open.spotify.com/show/4vS0Dq8G7Q2lRqAR8BMBWC"},
+{n:"TWIML AI",u:"https://open.spotify.com/show/2sp5EL7s7nqEq8IfMSbc7L"},
+{n:"Practical AI",u:"https://open.spotify.com/show/1LLQkN0uHBmYb4rDaZv9ij"},
+{n:"ML Street Talk",u:"https://open.spotify.com/show/02e6PZeIOdPBKja0LZKCHs"},
+{n:"Eye on AI",u:"https://open.spotify.com/show/5aFnACHECkhfzRczKLudsk"},
+{n:"The Robot Brains",u:"https://open.spotify.com/show/6NKPp1bDgvFkNxJCESuP9N"},
+{n:"Data Skeptic",u:"https://open.spotify.com/show/1BZN7H3ikovSejhvbPLn0j"},
+{n:"AI in Business",u:"https://open.spotify.com/show/4pnPmkqCvPeJ5OXYPLF1i9"},
+{n:"Gradient Dissent",u:"https://open.spotify.com/show/7o9wXdFXWDEZTWGj7kf9lL"},
+{n:"Cognitive Revolution",u:"https://open.spotify.com/show/6Z7VVjPEFDkzJXGEIHlLqw"},
+{n:"Last Week in AI",u:"https://open.spotify.com/show/3HLxVZQBQEOmLBFqvvP7b7"},
+{n:"The AI Breakdown",u:"https://open.spotify.com/show/0p1Mn8E2lXJOyKJSqVVxOK"},
+{n:"Changelog",u:"https://open.spotify.com/show/5bBki72YeKXOvO8d30LMpa"}
 ];
 
 // Audio player
-let audioPlayer = new Audio();
-let currentPlaying = null;
+const audio = new Audio();
+let playing = null;
 let playAllMode = false;
-let playAllIndex = 0;
+let playAllIdx = 0;
 
-// Check if audio file exists for this news index
-function hasAudio(index) {
-    return audioFiles.includes(index);
-}
+function hasAudio(i) { return audioFiles.includes(i); }
 
-// Render News
 function renderNews() {
-    const grid = document.getElementById('news-grid');
-    grid.innerHTML = news.map((n, i) => `
-        <div class="news-card ${hasAudio(i) ? 'has-audio' : ''}" id="news-card-${i}">
-            <span class="tag tag-news">NEWS</span>
-            ${hasAudio(i) ? '<span class="audio-badge">AI VOICE</span>' : ''}
+    document.getElementById('news-grid').innerHTML = news.map((n,i) => `
+        <div class="news-card ${hasAudio(i)?'has-audio':''}" id="card-${i}">
+            <div class="news-header">
+                <div class="news-num">${String(i+1).padStart(2,'0')}</div>
+                <div class="news-badges">
+                    <span class="news-badge badge-source">${n.source}</span>
+                    ${hasAudio(i)?'<span class="news-badge badge-audio">AI VOICE</span>':''}
+                </div>
+            </div>
             <div class="news-title">${n.title}</div>
-            <div class="news-src">${n.source}</div>
-            <button class="play-btn" onclick="playNews(${i})">
-                <svg viewBox="0 0 24 24" fill="currentColor" width="14" height="14"><path d="M8 5v14l11-7z"/></svg>
-                <span>Play</span>
-            </button>
-            <div class="script" id="script-${i}"><p>${n.summary}</p></div>
+            <div class="news-summary" id="summary-${i}">${n.summary}</div>
+            <div class="news-actions">
+                <button class="play-btn" id="btn-${i}" onclick="playNews(${i})">
+                    <svg viewBox="0 0 24 24" fill="currentColor" width="14" height="14"><path d="M8 5v14l11-7z"/></svg>
+                    <span>Play</span>
+                </button>
+                <a href="${n.url}" target="_blank" class="link-btn">Read More →</a>
+            </div>
         </div>
     `).join('');
 }
 
-// Render YouTube
 function renderYT() {
-    document.getElementById('yt-grid').innerHTML = ytVideos.map((v, i) => `
+    document.getElementById('yt-grid').innerHTML = ytVideos.map(v => `
         <div class="card">
             <iframe src="https://www.youtube.com/embed/${v.id}" allowfullscreen loading="lazy"></iframe>
             <div class="card-body">
                 <span class="tag tag-yt">YOUTUBE</span>
                 <div class="card-title">${v.t}</div>
                 <div class="card-channel">📺 ${v.c}</div>
-                <button class="play-btn" onclick="playYT(${i})">
-                    <svg viewBox="0 0 24 24" fill="currentColor" width="14" height="14"><path d="M8 5v14l11-7z"/></svg>
-                    <span>Play Summary</span>
-                </button>
-                <div class="script" id="yt-script-${i}"><p>${v.s}</p></div>
             </div>
         </div>
     `).join('');
 }
 
-// Render Podcasts
 function renderPod() {
-    document.getElementById('pod-grid').innerHTML = podcasts.map((p, i) => `
+    document.getElementById('pod-grid').innerHTML = podcasts.map(p => `
         <div class="pod-item">
             <div class="pod-icon">🎧</div>
             <div class="pod-info">
                 <h3>${p.n}</h3>
-                <p>${p.s}</p>
                 <a href="${p.u}" target="_blank" class="pod-link">Open in Spotify</a>
             </div>
         </div>
     `).join('');
 }
 
-// Stop everything
 function stopAll() {
     playAllMode = false;
-    audioPlayer.pause();
-    audioPlayer.currentTime = 0;
-    speechSynthesis.cancel();
-    
+    audio.pause();
+    audio.currentTime = 0;
+    document.querySelectorAll('.news-card').forEach(c => c.classList.remove('playing'));
+    document.querySelectorAll('.news-summary').forEach(s => s.classList.remove('show'));
     document.querySelectorAll('.play-btn').forEach(b => {
         b.classList.remove('playing');
-        b.querySelector('span').textContent = b.textContent.includes('Summary') ? 'Play Summary' : 'Play';
+        b.querySelector('span').textContent = 'Play';
         b.querySelector('svg').innerHTML = '<path d="M8 5v14l11-7z"/>';
     });
-    document.querySelectorAll('.script').forEach(s => s.classList.remove('show'));
-    document.querySelectorAll('.news-card').forEach(c => c.classList.remove('active'));
-    
-    const playAllBtn = document.getElementById('play-all-btn');
-    playAllBtn.classList.remove('playing');
-    playAllBtn.querySelector('span').textContent = 'Play All';
-    playAllBtn.querySelector('svg').innerHTML = '<path d="M8 5v14l11-7z"/>';
-    
+    const pab = document.getElementById('play-all-btn');
+    pab.classList.remove('playing');
+    pab.querySelector('span').textContent = 'Play All 50 Stories';
+    pab.querySelector('svg').innerHTML = '<path d="M8 5v14l11-7z"/>';
     document.getElementById('now-playing').textContent = '';
     document.getElementById('progress').style.width = '0%';
-    
-    currentPlaying = null;
+    playing = null;
 }
 
-// Play single news with AI audio or TTS fallback
-function playNews(index) {
-    if (currentPlaying === 'news-' + index) {
-        stopAll();
-        return;
-    }
+function playNews(i) {
+    if (playing === i) { stopAll(); return; }
     stopAll();
     
-    const btn = document.querySelector(`#news-card-${index} .play-btn`);
-    const script = document.getElementById('script-' + index);
-    const card = document.getElementById('news-card-' + index);
+    const card = document.getElementById('card-'+i);
+    const btn = document.getElementById('btn-'+i);
+    const summary = document.getElementById('summary-'+i);
     
+    card.classList.add('playing');
     btn.classList.add('playing');
     btn.querySelector('span').textContent = 'Stop';
     btn.querySelector('svg').innerHTML = '<rect x="6" y="4" width="4" height="16"/><rect x="14" y="4" width="4" height="16"/>';
-    script.classList.add('show');
-    card.classList.add('active');
+    summary.classList.add('show');
     
-    currentPlaying = 'news-' + index;
+    playing = i;
     
-    if (hasAudio(index)) {
-        // Use ElevenLabs audio
-        audioPlayer.src = `audio/news_${index}.mp3`;
-        audioPlayer.onended = () => stopAll();
-        audioPlayer.onerror = () => {
-            console.log('Audio failed, falling back to TTS');
-            playTTS(news[index].summary, () => stopAll());
-        };
-        audioPlayer.play();
-    } else {
-        // Fallback to browser TTS
-        playTTS(`${news[index].title}. From ${news[index].source}. ${news[index].summary}`, () => stopAll());
+    if (hasAudio(i)) {
+        audio.src = `audio/news_${i}.mp3`;
+        audio.onended = () => stopAll();
+        audio.play().catch(e => console.log('Play error:', e));
     }
 }
 
-// Browser TTS fallback
-function playTTS(text, onEnd) {
-    const utterance = new SpeechSynthesisUtterance(text);
-    utterance.rate = 1;
-    utterance.pitch = 1;
-    const voices = speechSynthesis.getVoices();
-    const voice = voices.find(v => v.name.includes('Google') || v.name.includes('Samantha')) || voices.find(v => v.lang.startsWith('en'));
-    if (voice) utterance.voice = voice;
-    utterance.onend = onEnd;
-    speechSynthesis.speak(utterance);
-}
-
-// Play All News
 function togglePlayAll() {
-    if (playAllMode) {
-        stopAll();
-        return;
-    }
-    
+    if (playAllMode) { stopAll(); return; }
     stopAll();
     playAllMode = true;
-    playAllIndex = 0;
+    playAllIdx = 0;
     
     const btn = document.getElementById('play-all-btn');
     btn.classList.add('playing');
-    btn.querySelector('span').textContent = 'Stop All';
-    btn.querySelector('svg').innerHTML = '<rect x="6" y="4" width="4" height="16"/><rect x="14" y="4" width="4" height="16"/>';
-    
-    playNextInQueue();
-}
-
-function playNextInQueue() {
-    if (!playAllMode || playAllIndex >= news.length) {
-        stopAll();
-        return;
-    }
-    
-    const i = playAllIndex;
-    const n = news[i];
-    
-    // Update UI
-    document.querySelectorAll('.news-card').forEach(c => c.classList.remove('active'));
-    document.querySelectorAll('.script').forEach(s => s.classList.remove('show'));
-    
-    const card = document.getElementById('news-card-' + i);
-    const script = document.getElementById('script-' + i);
-    card.classList.add('active');
-    script.classList.add('show');
-    card.scrollIntoView({ behavior: 'smooth', block: 'center' });
-    
-    document.getElementById('now-playing').textContent = `Playing ${i + 1}/${news.length}: ${n.title}`;
-    document.getElementById('progress').style.width = ((i + 1) / news.length * 100) + '%';
-    
-    currentPlaying = 'all-' + i;
-    
-    const onFinish = () => {
-        playAllIndex++;
-        if (playAllMode) {
-            setTimeout(playNextInQueue, 500);
-        }
-    };
-    
-    if (hasAudio(i)) {
-        audioPlayer.src = `audio/news_${i}.mp3`;
-        audioPlayer.onended = onFinish;
-        audioPlayer.onerror = () => {
-            playTTS(`Story ${i + 1}. ${n.title}. ${n.summary}`, onFinish);
-        };
-        audioPlayer.play();
-    } else {
-        playTTS(`Story ${i + 1}. ${n.title}. From ${n.source}. ${n.summary}`, onFinish);
-    }
-}
-
-// Play YouTube summary with TTS
-function playYT(index) {
-    if (currentPlaying === 'yt-' + index) {
-        stopAll();
-        return;
-    }
-    stopAll();
-    
-    const btn = document.querySelectorAll('#yt-grid .play-btn')[index];
-    const script = document.getElementById('yt-script-' + index);
-    
-    btn.classList.add('playing');
     btn.querySelector('span').textContent = 'Stop';
     btn.querySelector('svg').innerHTML = '<rect x="6" y="4" width="4" height="16"/><rect x="14" y="4" width="4" height="16"/>';
-    script.classList.add('show');
     
-    currentPlaying = 'yt-' + index;
-    
-    playTTS(ytVideos[index].s, () => stopAll());
+    playNext();
 }
 
-// Tab navigation
+function playNext() {
+    if (!playAllMode) return;
+    if (playAllIdx >= news.length || !hasAudio(playAllIdx)) {
+        // Find next available audio
+        while (playAllIdx < news.length && !hasAudio(playAllIdx)) playAllIdx++;
+        if (playAllIdx >= news.length) { stopAll(); return; }
+    }
+    
+    const i = playAllIdx;
+    const n = news[i];
+    
+    document.querySelectorAll('.news-card').forEach(c => c.classList.remove('playing'));
+    document.querySelectorAll('.news-summary').forEach(s => s.classList.remove('show'));
+    
+    const card = document.getElementById('card-'+i);
+    const summary = document.getElementById('summary-'+i);
+    card.classList.add('playing');
+    summary.classList.add('show');
+    card.scrollIntoView({behavior:'smooth',block:'center'});
+    
+    document.getElementById('now-playing').textContent = `▶ ${i+1}/${news.length}: ${n.title}`;
+    document.getElementById('progress').style.width = ((i+1)/news.length*100)+'%';
+    
+    playing = i;
+    audio.src = `audio/news_${i}.mp3`;
+    audio.onended = () => {
+        playAllIdx++;
+        if (playAllMode) setTimeout(playNext, 300);
+    };
+    audio.play().catch(e => console.log('Play error:', e));
+}
+
 function showTab(id) {
     stopAll();
     document.querySelectorAll('.section').forEach(s => s.classList.remove('active'));
@@ -404,7 +337,6 @@ function showTab(id) {
 }
 
 // Init
-speechSynthesis.onvoiceschanged = () => speechSynthesis.getVoices();
 document.getElementById('update-time').textContent = new Date().toLocaleString();
 renderNews();
 renderYT();
