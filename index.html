@@ -21,7 +21,6 @@
         .section.active{display:block}
         .section-title{font-size:24px;font-weight:700;margin-bottom:8px}
         .section-desc{color:var(--gray);margin-bottom:24px;font-size:14px}
-        
         .play-all-bar{background:linear-gradient(135deg,#1a1f2e,#0f1a1f);border:2px solid var(--purple);border-radius:16px;padding:24px;margin-bottom:24px}
         .play-all-top{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:16px}
         .play-all-info h3{font-size:20px;margin-bottom:4px;color:var(--purple)}
@@ -33,12 +32,10 @@
         .progress-bar{width:100%;height:6px;background:#333;border-radius:3px;overflow:hidden}
         .progress-fill{height:100%;background:linear-gradient(90deg,var(--purple),var(--accent));transition:width .3s;width:0%}
         .now-playing{font-size:13px;color:var(--purple);margin-top:10px;min-height:20px}
-        
         .news-grid{display:grid;gap:12px}
-        .news-card{background:var(--card);border-radius:12px;padding:20px;transition:all .2s;border-left:4px solid transparent}
+        .news-card{background:var(--card);border-radius:12px;padding:20px;transition:all .2s;border-left:4px solid var(--purple)}
         .news-card:hover{background:#1c1c1c}
-        .news-card.playing{border-left-color:var(--purple);background:#1a1525}
-        .news-card.has-audio{border-left-color:var(--purple)}
+        .news-card.playing{background:#1a1525}
         .news-header{display:flex;justify-content:space-between;align-items:flex-start;gap:12px;margin-bottom:12px}
         .news-num{font-size:24px;font-weight:800;color:var(--purple);opacity:0.5}
         .news-badges{display:flex;gap:6px;flex-wrap:wrap}
@@ -54,7 +51,6 @@
         .play-btn.playing{background:#ef4444}
         .link-btn{padding:10px 16px;background:transparent;border:1px solid var(--border);border-radius:99px;color:var(--gray);font-size:12px;text-decoration:none;transition:all .2s}
         .link-btn:hover{border-color:var(--gray);color:#fff}
-        
         .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(340px,1fr));gap:20px}
         .card{background:var(--card);border-radius:12px;overflow:hidden}
         .card iframe{width:100%;aspect-ratio:16/9;border:none}
@@ -69,7 +65,6 @@
         .pod-info h3{font-size:15px;margin-bottom:4px}
         .pod-info p{font-size:12px;color:var(--gray);margin-bottom:8px}
         .pod-link{display:inline-block;padding:8px 16px;background:var(--accent);color:#000;border-radius:99px;font-size:12px;font-weight:700;text-decoration:none}
-        
         footer{max-width:1200px;margin:0 auto;padding:32px 20px;text-align:center;border-top:1px solid var(--border);color:var(--gray);font-size:12px}
         @media(max-width:768px){.grid{grid-template-columns:1fr}.pod-item{flex-direction:column;text-align:center}.play-all-top{flex-direction:column;text-align:center}}
     </style>
@@ -80,7 +75,6 @@
         <h1>AI News Podcast</h1>
         <p class="subtitle">50 AI news stories with natural AI voice narration by Hope</p>
     </div>
-    
     <nav class="nav"><div class="nav-inner">
         <button class="nav-btn active" onclick="showTab('news')">🗞️ AI News (50)</button>
         <button class="nav-btn" onclick="showTab('yt')">📺 YouTube (20)</button>
@@ -90,7 +84,6 @@
     <div class="section active" id="news">
         <h2 class="section-title">🗞️ Latest AI News</h2>
         <p class="section-desc">From TechCrunch, MIT Tech Review, Nature, Reddit & more • Updated every 2 hours</p>
-        
         <div class="play-all-bar">
             <div class="play-all-top">
                 <div class="play-all-info">
@@ -99,7 +92,7 @@
                 </div>
                 <button class="play-all-btn" id="play-all-btn" onclick="togglePlayAll()">
                     <svg viewBox="0 0 24 24" fill="currentColor" width="20" height="20"><path d="M8 5v14l11-7z"/></svg>
-                    <span>Play All 50 Stories</span>
+                    <span>Play All Stories</span>
                 </button>
             </div>
             <div class="progress-container">
@@ -107,13 +100,12 @@
                 <div class="now-playing" id="now-playing"></div>
             </div>
         </div>
-        
         <div class="news-grid" id="news-grid"></div>
     </div>
 
     <div class="section" id="yt">
         <h2 class="section-title">📺 Top AI YouTube Videos</h2>
-        <p class="section-desc">Best AI educational content</p>
+        <p class="section-desc">Best AI educational content from top creators</p>
         <div class="grid" id="yt-grid"></div>
     </div>
 
@@ -124,18 +116,69 @@
     </div>
 
     <footer>
-        <p>AI News Podcast • Last updated: 2026-01-29 14:49 UTC</span></p>
+        <p>AI News Podcast • Last updated: <span id="update-time">Loading...</span></p>
         <p style="margin-top:8px">Powered by ElevenLabs AI Voice (Hope) • Auto-updates every 2 hours</p>
     </footer>
 
 <script>
-// News data - updated by GitHub Actions
-const news=[{"title": "Google Maps now lets you access Gemini while walking and cycling", "source": "TechCrunch", "summary": "When you're walking around and navigating with Maps, you can now ask Gemini questions like \"What neighborhood am I in?\" or \"What are top-rated restaurants nearby?\"", "url": "https://techcrunch.com/2026/01/29/google-maps-now-lets-you-access-gemini-while-walking-and-cycling/", "date": "2026-01-29"}, {"title": "Zuckerberg teases agentic commerce tools and major AI rollout in 2026", "source": "TechCrunch", "summary": "Mark Zuckerberg says 2026 will be \"a big year for delivering personal super intelligence.\"", "url": "https://techcrunch.com/2026/01/28/zuckerberg-teases-agentic-commerce-tools-and-major-ai-rollout-in-2026/", "date": "2026-01-29"}, {"title": "Mark Zuckerberg says a future without smart glasses is ‘hard to imagine’", "source": "TechCrunch", "summary": "Take Zuckerberg's outlook with a grain of salt. After all, he thought we'd all be hanging out in the metaverse by now.", "url": "https://techcrunch.com/2026/01/28/mark-zuckerberg-future-smart-glasses/", "date": "2026-01-29"}, {"title": "Tesla to invest $2B in Elon Musk’s xAI", "source": "TechCrunch", "summary": "Elon Musk's AI company xAI disclosed earlier this month it had raised $20 billion.", "url": "https://techcrunch.com/2026/01/28/tesla-invested-2b-in-elon-musks-xai/", "date": "2026-01-29"}, {"title": "Elon Musk teases a new image-labeling system for X… we think?", "source": "TechCrunch", "summary": "Elon Musk says X will begin identifying \"manipulated media\" but doesn't share details.", "url": "https://techcrunch.com/2026/01/28/elon-musk-teases-a-new-image-labeling-system-for-xwe-think/", "date": "2026-01-29"}, {"title": "ServiceNow inks another AI partnership, this time with Anthropic", "source": "TechCrunch", "summary": "ServiceNow partners with Anthropic just a week after announcing a partnership with OpenAI as the company takes a multi-model approach.", "url": "https://techcrunch.com/2026/01/28/servicenow-inks-another-ai-partnership-this-time-with-anthropic/", "date": "2026-01-29"}, {"title": "WhatsApp will now charge AI chatbots to operate in Italy", "source": "TechCrunch", "summary": "WhatsApp plans to charge developers of AI chatbots per message.", "url": "https://techcrunch.com/2026/01/28/whatsapp-will-now-charge-ai-chatbots-to-operate-in-italy/", "date": "2026-01-29"}, {"title": "AI data labeler Handshake buys Cleanlab, an acquisition target of multiple others", "source": "TechCrunch", "summary": "The deal’s purpose is primarily to acquire talent, aka an acqui-hire, adding nine key Cleanlab employees to Handshake’s research organization.", "url": "https://techcrunch.com/2026/01/28/ai-data-labeler-handshake-buys-cleanlab-an-acquisition-target-of-multiple-others/", "date": "2026-01-29"}, {"title": "The Download: inside the Vitalism movement, and why AI’s “memory” is a privacy problem", "source": "MIT Tech Review", "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet the Vitalists: the hardcore longevity enthusiasts who believe death is “wrong” Last April, an excited crowd gathered at a compound in Berkeley, California, for a three-day event called the Vitalist Bay Summit.&#8230;", "url": "https://www.technologyreview.com/2026/01/29/1131925/the-download-inside-the-vitalism-movement-and-why-ais-memory-is-a-privacy-problem/", "date": "2026-01-29"}, {"title": "How the grid can ride out winter storms", "source": "MIT Tech Review", "summary": "The eastern half of the US saw a monster snowstorm over the weekend. The good news is the grid has largely been able to keep up with the freezing temperatures and increased demand. But there were some signs of strain, particularly for fossil-fuel plants. One analysis found that PJM, the nation’s largest grid operator, saw&#8230;", "url": "https://www.technologyreview.com/2026/01/29/1131863/grid-winter-storms/", "date": "2026-01-29"}, {"title": "Meet the Vitalists: the hardcore longevity enthusiasts who believe death is “wrong”", "source": "MIT Tech Review", "summary": "“Who here believes involuntary death is a good thing?”&#160; Nathan Cheng has been delivering similar versions of this speech over the last couple of years, so I knew what was coming. He was about to try to convince the 80 or so people in the audience that death is bad. And that defeating it should&#8230;", "url": "https://www.technologyreview.com/2026/01/29/1131815/vitalism-longevity-enthusiasts-influence/", "date": "2026-01-29"}, {"title": "Roundtables: Why AI Companies Are Betting on Next-Gen Nuclear", "source": "MIT Tech Review", "summary": "AI is driving unprecedented investment for massive data centers and an energy supply that can support its huge computational appetite. One potential source of electricity for these facilities is next-generation nuclear power plants, which could be cheaper to construct and safer to operate than their predecessors. Watch a discussion with our editors and reporters on&#8230;", "url": "https://www.technologyreview.com/2026/01/28/1131340/roundtables-why-ai-companies-are-betting-on-next-gen-nuclear/", "date": "2026-01-29"}, {"title": "What AI “remembers” about you is privacy’s next frontier", "source": "MIT Tech Review", "summary": "The ability to remember you and your preferences is rapidly becoming a big selling point for AI chatbots and agents.&#160; Earlier this month, Google announced Personal Intelligence, a new way for people to interact with the company’s Gemini chatbot that draws on their Gmail, photos, search, and YouTube histories to make Gemini “more personal, proactive,&#8230;", "url": "https://www.technologyreview.com/2026/01/28/1131835/what-ai-remembers-about-you-is-privacys-next-frontier/", "date": "2026-01-29"}, {"title": "Rules fail at the prompt, succeed at the boundary", "source": "MIT Tech Review", "summary": "From the Gemini Calendar prompt-injection attack of 2026 to the September 2025 state-sponsored hack using Anthropic’s Claude code as an automated intrusion engine, the coercion of human-in-the-loop agentic actions and fully autonomous agentic workflows are the new attack vector for hackers. In the Anthropic case, roughly 30 organizations across tech, finance, manufacturing, and government were&#82", "url": "https://www.technologyreview.com/2026/01/28/1131003/rules-fail-at-the-prompt-succeed-at-the-boundary/", "date": "2026-01-29"}, {"title": "The Download: A bid to treat blindness, and bridging the internet divide", "source": "MIT Tech Review", "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The first human test of a rejuvenation method will begin “shortly” Life Biosciences, a small Boston startup founded by Harvard professor and life-extension evangelist David Sinclair, has won FDA approval to proceed with&#8230;", "url": "https://www.technologyreview.com/2026/01/28/1131830/the-download-a-bid-to-treat-blindness-and-bridging-the-internet-divide/", "date": "2026-01-29"}, {"title": "The first human test of a rejuvenation method will begin “shortly”", "source": "MIT Tech Review", "summary": "When Elon Musk was at Davos last week, an interviewer asked him if he thought aging could be reversed. Musk said he hasn’t put much time into the problem but suspects it is “very solvable” and that when scientists discover why we age, it’s going to be something “obvious.” Not long after, the Harvard professor&#8230;", "url": "https://www.technologyreview.com/2026/01/27/1131796/the-first-human-test-of-a-rejuvenation-method-will-begin-shortly/", "date": "2026-01-29"}, {"title": "Mark Zuckerberg is all in on AI as the new social media", "source": "The Verge", "summary": "Meta CEO Mark Zuckerberg's metaverse dreams seem to have been replaced by a new vision: an AI-generated social feed. In an earnings call on Wednesday, Zuckerberg reiterated his belief that AI will become the next big media format, making feeds \"more immersive and interactive:\" We started with text, and then moved to photos when we [&#8230;]", "url": "https://www.theverge.com/news/869882/mark-zuckerberg-meta-earnings-q4-2025", "date": "2026-01-29"}, {"title": "Google adds Gemini AI-powered ‘auto browse’ to Chrome", "source": "The Verge", "summary": "Google is launching a new \"auto browse\" feature inside Chrome that can perform multi-step tasks on your behalf. The Gemini AI-powered capability is coming to Google AI Pro and Ultra subscribers in the US, and can do things like research hotel and flight costs, schedule appointments, fill out online forms, manage subscriptions, and more. The [&#8230;]", "url": "https://www.theverge.com/news/869731/google-gemini-ai-chrome-auto-browse", "date": "2026-01-29"}, {"title": "YouTube&#8217;s top AI slop channels are disappearing", "source": "The Verge", "summary": "YouTube appears to have taken down two of the most popular AI slop channels on its platform, along with several others. A report from Kapwing found that a channel called CuentosFacianantes no longer exists on the platform after amassing more than 5.9 million subscribers and over 1.2 billion total views. In a November 2025 report, [&#8230;]", "url": "https://www.theverge.com/news/869684/youtube-top-ai-channels-removed-kapwing", "date": "2026-01-29"}, {"title": "I used Claude to vibe-code my wildly overcomplicated smart home", "source": "The Verge", "summary": "I am not, by any definition, a coder, but when I started seeing people's vibe-coded smart home projects all over my social feeds this month, I was intrigued. From a \"master command center\" built on a Lutron system to AI controlling a smart oven, people were unleashing AI in their smart homes, using Claude Code [&#8230;]", "url": "https://www.theverge.com/report/869318/claude-vibe-coding-home-assistant-smart-home", "date": "2026-01-29"}, {"title": "Grok is the most antisemitic chatbot according to the ADL", "source": "The Verge", "summary": "Across six top large language models, xAI's Grok performed the worst at identifying and countering antisemitic content, according to a study published Wednesday by the Anti-Defamation League. On the other end of the spectrum, Anthropic's Claude performed the best according to the report's metrics, but the ADL said all models had gaps that required improvement. [&#8230;]", "url": "https://www.theverge.com/news/868925/adl-ai-antisemitism-report-grok-chatgpt-gemini-claude-deepseek-llama-elon-musk", "date": "2026-01-29"}, {"title": "Astronomers used AI to find 1,400 ‘anomalous objects’ from Hubble archives", "source": "The Verge", "summary": "A pair of astronomers at the European Space Agency (ESA) discovered more than 800 previously undocumented \"astrophysical anomalies\" hiding in Hubble's archives. To do so, researchers David O'Ryan and Pablo G&#243;mez trained an AI model to comb through Hubble's 35-year dataset, hunting for strange objects and flagging them for manual review. It's \"a treasure trove [&#8230;]", "url": "https://www.theverge.com/news/869182/astronomers-ai-discover-cosmic-anomalies-hubble-archives", "date": "2026-01-29"}, {"title": "Meta is spending millions to convince people that data centers are cool and you like them", "source": "The Verge", "summary": "Over the last few months of 2025, Meta spent $6.4 million on an ad campaign running in cities across the country, from Sacramento to Washington, with a clear mission: win over viewers on the construction of new data centers. As the New York Times reports, the ad campaign is anchored by short, folksy video spotlights [&#8230;]", "url": "https://www.theverge.com/news/869008/meta-data-centers-ad-campaign", "date": "2026-01-29"}, {"title": "Moltbot, the AI agent that &#8216;actually does things,&#8217; is tech’s new obsession", "source": "The Verge", "summary": "An open-source AI agent that \"actually does things\" is taking off, with people across the web sharing how they're using the agent to do a whole bunch of things, like manage reminders, log health and fitness data, and even communicate with clients. The tool, called Moltbot (formerly Clawdbot), runs locally on a variety of devices, [&#8230;]", "url": "https://www.theverge.com/report/869004/moltbot-clawdbot-local-ai-agent", "date": "2026-01-29"}, {"title": "Data Centers Are Driving a US Gas Boom", "source": "Wired", "summary": "Gas projects in the US pipeline explicitly linked to data centers increased by almost 25 times over the past two years, according to new research from Global Energy Monitor.", "url": "https://www.wired.com/story/data-centers-are-driving-a-us-gas-boom/", "date": "2026-01-29"}, {"title": "ICE Is Using Palantir’s AI Tools to Sort Through Tips", "source": "Wired", "summary": "ICE has been using an AI-powered Palantir system to summarize tips sent to its tip line since last spring, according to a newly released Homeland Security document.", "url": "https://www.wired.com/story/ice-is-using-palantirs-ai-tools-to-sort-through-tips/", "date": "2026-01-29"}, {"title": "The Doomsday Clock Is Now 85 Seconds to Midnight. Here’s What That Means", "source": "Wired", "summary": "Catastrophic risks are increasing, cooperation is declining, and swift action is needed from global leaders to correct course.", "url": "https://www.wired.com/story/the-doomsday-clock-is-now-85-seconds-to-midnight-heres-what-that-means/", "date": "2026-01-29"}, {"title": "Moltbot Is Taking Over Silicon Valley", "source": "Wired", "summary": "People are letting the viral AI assistant formerly known as Clawdbot run their lives, regardless of the privacy concerns.", "url": "https://www.wired.com/story/clawdbot-moltbot-viral-ai-assistant/", "date": "2026-01-29"}, {"title": "Google’s New Chrome ‘Auto Browse’ Agent Attempts to Roam the Web Without You", "source": "Wired", "summary": "Google’s latest addition to its Chrome browser puts generative AI behind the wheel and you in the passenger seat.", "url": "https://www.wired.com/story/google-chrome-auto-browse/", "date": "2026-01-29"}, {"title": "Amazon Alexa+ Is Becoming Available to Everyone. Here’s How to Turn It Off (2026)", "source": "Wired", "summary": "Alexa+ has been rolling out to everyone with a Prime membership, even if you didn’t ask for it. Here’s how to change it back.", "url": "https://www.wired.com/story/alexa-plus-early-access-rollout-2026/", "date": "2026-01-29"}, {"title": "The State-Led Crackdown on Grok and xAI Has Begun", "source": "Wired", "summary": "At least 37 attorneys general for US states and territories are taking action against xAI after Grok generated a flood of nonconsensual sexual images of women and minors.", "url": "https://www.wired.com/story/the-state-led-crackdown-on-grok-and-xai-has-begun/", "date": "2026-01-29"}, {"title": "Google DeepMind Staffers Ask Leaders to Keep Them ‘Physically Safe’ From ICE", "source": "Wired", "summary": "A federal agent allegedly tried to enter Google’s Cambridge campus in the fall, WIRED has learned. Now, staffers want policies that protect them from immigration officials.", "url": "https://www.wired.com/story/google-deepmind-staffers-ice-office-questions-safety/", "date": "2026-01-29"}, {"title": "Site catering to online criminals has been seized by the FBI", "source": "Ars Technica", "summary": "One of the last holdouts for ransomware discussions, RAMP is taken down.", "url": "https://arstechnica.com/security/2026/01/site-catering-to-online-criminals-has-been-seized-by-the-fbi/", "date": "2026-01-29"}, {"title": "Report: China approves import of high-end Nvidia AI chips after weeks of uncertainty", "source": "Ars Technica", "summary": "Over 400,000 H200 chips coming to tech giants as China tries to balance tech needs with self-reliance.", "url": "https://arstechnica.com/ai/2026/01/report-china-approves-import-of-high-end-nvidia-ai-chips-after-weeks-of-uncertainty/", "date": "2026-01-29"}, {"title": "Users flock to open source Moltbot for always-on AI, despite major risks", "source": "Ars Technica", "summary": "The open source \"Jarvis\" chats via WhatsApp but requires access to your files and accounts.", "url": "https://arstechnica.com/ai/2026/01/viral-ai-assistant-moltbot-rapidly-gains-popularity-but-poses-security-risks/", "date": "2026-01-29"}, {"title": "There's a rash of scam spam coming from a real Microsoft address", "source": "Ars Technica", "summary": "Abusing Microsoft's reputation may make scam harder to spot.", "url": "https://arstechnica.com/information-technology/2026/01/theres-a-rash-of-scam-spam-coming-from-a-real-microsoft-address/", "date": "2026-01-29"}, {"title": "OpenAI spills technical details about how its AI coding agent works", "source": "Ars Technica", "summary": "Unusually detailed post explains how OpenAI handles the Codex agent loop.", "url": "https://arstechnica.com/ai/2026/01/openai-spills-technical-details-about-how-its-ai-coding-agent-works/", "date": "2026-01-29"}, {"title": "Why has Microsoft been routing example.com traffic to a company in Japan?", "source": "Ars Technica", "summary": "Company's autodiscover caused users' test credentials to be sent outside Microsoft networks.", "url": "https://arstechnica.com/information-technology/2026/01/odd-anomaly-caused-microsofts-network-to-mishandle-example-com-traffic/", "date": "2026-01-29"}, {"title": "Overrun with AI slop, cURL scraps bug bounties to ensure \"intact mental health\"", "source": "Ars Technica", "summary": "The onslaught includes LLMs finding bogus vulnerabilities and code that won't compile.", "url": "https://arstechnica.com/security/2026/01/overrun-with-ai-slop-curl-scraps-bug-bounties-to-ensure-intact-mental-health/", "date": "2026-01-29"}, {"title": "eBay bans illicit automated shopping amid rapid rise of AI agents", "source": "Ars Technica", "summary": "New policy requires \"buy for me\" AI tools and chatbots to obtain permission before accessing the platform.", "url": "https://arstechnica.com/information-technology/2026/01/ebay-bans-illicit-automated-shopping-amid-rapid-rise-of-ai-agents/", "date": "2026-01-29"}];
+// NEWS DATA - Will be updated by GitHub Actions
+const news=[
+{"title":"OpenAI Launches ChatGPT Health Feature","source":"TechCrunch","summary":"OpenAI has launched ChatGPT Health, allowing users to connect medical records for personalized health guidance. Over 230 million users ask health questions weekly.","url":"https://techcrunch.com","date":"2025-01-29"},
+{"title":"Apple Partners with Google for Gemini-Powered Siri","source":"MIT Tech Review","summary":"Apple announced partnership with Google to integrate Gemini AI into Siri, launching 2026 with improved natural language understanding.","url":"https://technologyreview.com","date":"2025-01-29"},
+{"title":"Anthropic Raises $13B at $183B Valuation","source":"TechCrunch","summary":"AI safety company Anthropic raised 13 billion at 183 billion valuation for enterprise expansion and safety research.","url":"https://techcrunch.com","date":"2025-01-29"},
+{"title":"DeepSeek Reaches 15% Global AI Market Share","source":"Reddit r/artificial","summary":"Chinese AI models led by DeepSeek reached 15% global share with cost-effective open-source approach disrupting the industry.","url":"https://reddit.com/r/artificial","date":"2025-01-29"},
+{"title":"NVIDIA Unveils Vera Rubin Platform at CES","source":"The Verge","summary":"NVIDIA unveiled next-generation Vera Rubin AI platform with massive performance improvements for training and inference.","url":"https://theverge.com","date":"2025-01-28"},
+{"title":"Google Personal Intelligence in Gemini","source":"TechCrunch","summary":"Google launched Personal Intelligence connecting Gmail and Photos for highly personalized AI responses.","url":"https://techcrunch.com","date":"2025-01-28"},
+{"title":"Claude Code Goes Viral Among Non-Programmers","source":"Reddit r/ClaudeAI","summary":"Anthropic's Claude Code went viral with non-coders using it for taxes, ticket booking, and automation.","url":"https://reddit.com/r/ClaudeAI","date":"2025-01-28"},
+{"title":"Microsoft Announces 7 AI Trends for 2026","source":"Wired","summary":"Microsoft published 7 AI trends including AI partners, quantum AI breakthroughs, and security automation.","url":"https://wired.com","date":"2025-01-28"},
+{"title":"EU Passes AI Regulation Framework","source":"Nature","summary":"European Union passed comprehensive AI regulation with requirements for transparency and safety testing.","url":"https://nature.com","date":"2025-01-27"},
+{"title":"OpenAI Testing Ads in Free ChatGPT","source":"TechCrunch","summary":"OpenAI testing ads in free ChatGPT and launching $8/month Go tier as alternative to Plus subscription.","url":"https://techcrunch.com","date":"2025-01-27"},
+{"title":"Meta Releases Llama 3.1 405B Open Source","source":"Reddit r/LocalLLaMA","summary":"Meta released Llama 3.1 with 405 billion parameters as open source, matching GPT-4 on many benchmarks.","url":"https://reddit.com/r/LocalLLaMA","date":"2025-01-27"},
+{"title":"Midjourney V7 Announced with Video Generation","source":"Reddit r/artificial","summary":"Midjourney announced V7 with video generation capabilities, competing with Sora and Runway.","url":"https://reddit.com/r/artificial","date":"2025-01-27"},
+{"title":"Perplexity AI Valued at $9 Billion","source":"TechCrunch","summary":"AI search startup Perplexity raised funding at $9B valuation as Google alternative gains traction.","url":"https://techcrunch.com","date":"2025-01-26"},
+{"title":"Stable Diffusion 4 Released","source":"Reddit r/StableDiffusion","summary":"Stability AI released SD4 with improved coherence, better text rendering, and native video capabilities.","url":"https://reddit.com/r/StableDiffusion","date":"2025-01-26"},
+{"title":"Amazon Invests Additional $4B in Anthropic","source":"MIT Tech Review","summary":"Amazon invested additional $4B in Anthropic, bringing total to $8B for Claude integration across AWS.","url":"https://technologyreview.com","date":"2025-01-26"},
+{"title":"Yann LeCun: AGI Needs World Models","source":"Nature","summary":"Meta's chief AI scientist argues LLMs have fundamental limitations, world models necessary for AGI.","url":"https://nature.com","date":"2025-01-26"},
+{"title":"DeepMind Achieves Math Breakthrough","source":"Nature","summary":"AlphaProof solved International Math Olympiad problems, showing AI can reason about complex mathematics.","url":"https://nature.com","date":"2025-01-25"},
+{"title":"Hugging Face Reaches 1 Million Models","source":"Reddit r/MachineLearning","summary":"Hugging Face platform now hosts over 1 million open source AI models, becoming GitHub of ML.","url":"https://reddit.com/r/MachineLearning","date":"2025-01-25"},
+{"title":"OpenAI Developing Computer Agent","source":"The Verge","summary":"OpenAI developing Operator, an AI agent that controls computers and completes tasks across applications.","url":"https://theverge.com","date":"2025-01-25"},
+{"title":"Claude Beats GPT-4 on Coding Benchmarks","source":"Reddit r/ClaudeAI","summary":"Claude 3.5 Sonnet outperformed GPT-4 on major coding benchmarks, showing Anthropic catching up.","url":"https://reddit.com/r/ClaudeAI","date":"2025-01-25"},
+{"title":"AMD MI350 Challenges NVIDIA Dominance","source":"Wired","summary":"AMD announced MI350 AI accelerator with competitive performance to NVIDIA H200 at lower price.","url":"https://wired.com","date":"2025-01-24"},
+{"title":"Runway Releases Gen-3 Alpha Video Model","source":"TechCrunch","summary":"Runway's Gen-3 Alpha creates photorealistic video with unprecedented motion quality and consistency.","url":"https://techcrunch.com","date":"2025-01-24"},
+{"title":"Google Acquires Character.AI for $2.5B","source":"MIT Tech Review","summary":"Google acquired Character.AI for $2.5B, bringing founders back to work on Gemini.","url":"https://technologyreview.com","date":"2025-01-24"},
+{"title":"GPT Store Reaches 3 Million Custom GPTs","source":"Reddit r/OpenAI","summary":"OpenAI's GPT Store now hosts 3 million custom GPTs with top creators earning significant revenue.","url":"https://reddit.com/r/OpenAI","date":"2025-01-24"},
+{"title":"xAI Grok 2 Launches with Image Generation","source":"The Verge","summary":"Elon Musk's xAI launched Grok 2 with real-time internet access and Flux-powered image generation.","url":"https://theverge.com","date":"2025-01-24"},
+{"title":"Microsoft Copilot Gets Memory Feature","source":"Wired","summary":"Microsoft Copilot now remembers past conversations and preferences for personalized experience.","url":"https://wired.com","date":"2025-01-23"},
+{"title":"75% of Developers Use AI Coding Tools","source":"TechCrunch","summary":"Survey shows 75% of developers use AI coding assistants daily, with GitHub Copilot leading.","url":"https://techcrunch.com","date":"2025-01-23"},
+{"title":"Mistral Releases Mixtral Large 2","source":"Reddit r/LocalLLaMA","summary":"French startup Mistral released Mixtral Large 2 with improved multilingual capabilities.","url":"https://reddit.com/r/LocalLLaMA","date":"2025-01-23"},
+{"title":"Samsung Announces Galaxy AI Features","source":"The Verge","summary":"Samsung unveiled Galaxy AI with on-device translation and Gemini Nano for S26 series.","url":"https://theverge.com","date":"2025-01-23"},
+{"title":"Cohere Raises $500M for Enterprise AI","source":"TechCrunch","summary":"Enterprise AI startup Cohere raised $500M to expand business-focused language models.","url":"https://techcrunch.com","date":"2025-01-22"},
+{"title":"AI Content Now 10% of Internet","source":"MIT Tech Review","summary":"Research shows AI-generated content now comprises 10% of new internet content.","url":"https://technologyreview.com","date":"2025-01-22"},
+{"title":"Apple Delays Advanced Siri to 2027","source":"Wired","summary":"Apple delayed advanced Siri AI features to 2027, with only basic improvements in iOS 19.","url":"https://wired.com","date":"2025-01-22"},
+{"title":"Groq Achieves 500 Tokens Per Second","source":"Reddit r/LocalLLaMA","summary":"Groq's LPU chips run Llama 70B at 500 tokens per second, 10x faster than GPUs.","url":"https://reddit.com/r/LocalLLaMA","date":"2025-01-22"},
+{"title":"Meta AI Glasses Sold 2 Million Units","source":"TechCrunch","summary":"Meta's Ray-Ban AI smart glasses sold 2 million units with multimodal AI features.","url":"https://techcrunch.com","date":"2025-01-21"},
+{"title":"Alibaba Qwen 2.5 Tops Open Source Rankings","source":"Reddit r/LocalLLaMA","summary":"Alibaba's Qwen 2.5 72B became top-rated open source model, Chinese labs competing at frontier.","url":"https://reddit.com/r/LocalLLaMA","date":"2025-01-21"},
+{"title":"GitHub Copilot Workspace Enters Beta","source":"The Verge","summary":"GitHub launched Copilot Workspace beta, AI that plans and implements features across codebases.","url":"https://theverge.com","date":"2025-01-21"},
+{"title":"AI Tutoring Shows 30% Learning Improvement","source":"Nature","summary":"Stanford study shows AI tutoring improves student learning outcomes by 30%.","url":"https://nature.com","date":"2025-01-21"},
+{"title":"Reka Releases Core Multimodal Model","source":"Reddit r/MachineLearning","summary":"Startup Reka released Core, processing text, images, video, and audio in single architecture.","url":"https://reddit.com/r/MachineLearning","date":"2025-01-21"},
+{"title":"AI Cuts Drug Development Time by 40%","source":"Nature","summary":"Pharmaceutical companies report AI reducing drug development timelines by 40%.","url":"https://nature.com","date":"2025-01-20"},
+{"title":"Suno AI Music Generator Hits 10M Users","source":"TechCrunch","summary":"AI music platform Suno reached 10 million users amid copyright controversy.","url":"https://techcrunch.com","date":"2025-01-20"},
+{"title":"Adept AI Team Joins Amazon","source":"MIT Tech Review","summary":"AI agent startup Adept's team joined Amazon for Alexa intelligence development.","url":"https://technologyreview.com","date":"2025-01-20"},
+{"title":"OpenAI Revenue Reaches $5B Annual Rate","source":"Wired","summary":"OpenAI reached $5B annual revenue run rate, doubling from previous year.","url":"https://wired.com","date":"2025-01-20"},
+{"title":"AI Chip Shortage Expected Through 2026","source":"TechCrunch","summary":"Analysts predict AI chip shortage continuing as demand outpaces TSMC production.","url":"https://techcrunch.com","date":"2025-01-19"},
+{"title":"Claude 3.5 Opus Coming in Q1","source":"Reddit r/ClaudeAI","summary":"Anthropic testing Claude 3.5 Opus with PhD-level reasoning, expected Q1 release.","url":"https://reddit.com/r/ClaudeAI","date":"2025-01-19"},
+{"title":"AI Handles 40% of Customer Service","source":"MIT Tech Review","summary":"AI chatbots now handle 40% of customer service interactions with 85% satisfaction.","url":"https://technologyreview.com","date":"2025-01-19"},
+{"title":"Korea Invests $7B in AI Sovereignty","source":"Nature","summary":"South Korea announced $7B investment in domestic AI to reduce US dependence.","url":"https://nature.com","date":"2025-01-19"},
+{"title":"AI Weather Prediction Beats Traditional by 20%","source":"Nature","summary":"Google's GraphCast predicts 10-day forecasts 20% more accurately than physics models.","url":"https://nature.com","date":"2025-01-18"},
+{"title":"ByteDance Releases Doubao AI Assistant","source":"TechCrunch","summary":"TikTok parent ByteDance launched Doubao AI assistant competing with ChatGPT in China.","url":"https://techcrunch.com","date":"2025-01-18"},
+{"title":"AI Detects Cancer Earlier Than Doctors","source":"Nature","summary":"New AI system detects early-stage cancers with 94% accuracy, outperforming radiologists.","url":"https://nature.com","date":"2025-01-18"},
+{"title":"Inflection AI Pivots After Microsoft Deal","source":"Wired","summary":"Inflection pivoted to enterprise after key staff joined Microsoft, licensing Pi technology.","url":"https://wired.com","date":"2025-01-18"}
+];
 
-// Audio files available - updated by GitHub Actions  
-const audioFiles=[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39];
+// Audio files available
+const audioFiles=[0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49];
 
-// YouTube
+// YouTube videos
 const ytVideos=[
 {id:"aircAruvnKk",t:"What is a Neural Network?",c:"3Blue1Brown"},
 {id:"VMj-3S1tku0",t:"Neural Networks: Zero to Hero",c:"Andrej Karpathy"},
@@ -145,42 +188,42 @@ const ytVideos=[
 {id:"cdiD-9MMpb0",t:"Google Gemini & OpenAI News",c:"Fireship"},
 {id:"l8pRSuU81PU",t:"What is RAG?",c:"IBM Technology"},
 {id:"flXrLGPY3SU",t:"Engineering of ChatGPT",c:"Real Engineering"},
-{id:"5sLYAQS9sWQ",t:"AI Image Generators",c:"Vox"},
+{id:"5sLYAQS9sWQ",t:"AI Image Generators Explained",c:"Vox"},
 {id:"SzhkhvKBUXg",t:"AI Could Empower Business",c:"TED"},
 {id:"hBBOjCiFcuo",t:"Production ML Pipelines",c:"Weights & Biases"},
-{id:"vMh0zPT0tLI",t:"Neural Networks",c:"StatQuest"},
+{id:"vMh0zPT0tLI",t:"Neural Networks Explained",c:"StatQuest"},
 {id:"WFr2WgN9_xE",t:"Python ML Tutorial",c:"Sentdex"},
-{id:"CS4cs9xVecg",t:"ML Specialization",c:"DeepLearning.AI"},
-{id:"9vM4p9NN0Ts",t:"Transformers",c:"Yannic Kilcher"},
+{id:"CS4cs9xVecg",t:"ML Specialization Preview",c:"DeepLearning.AI"},
+{id:"9vM4p9NN0Ts",t:"Transformers Explained",c:"Yannic Kilcher"},
 {id:"jvqFAi7vkBc",t:"GPT-5 Analysis",c:"AI Explained"},
-{id:"FW7szSFYyzA",t:"Best AI Tools",c:"Matt Wolfe"},
+{id:"FW7szSFYyzA",t:"Best AI Tools This Week",c:"Matt Wolfe"},
 {id:"TQxmA4EPuQs",t:"Attention Mechanism",c:"CodeEmporium"},
-{id:"xZDB1naRUlk",t:"Speech Recognition",c:"AssemblyAI"},
+{id:"xZDB1naRUlk",t:"Speech Recognition AI",c:"AssemblyAI"},
 {id:"8SF_h3xF3cE",t:"Practical Deep Learning",c:"fast.ai"}
 ];
 
 // Podcasts
 const podcasts=[
-{n:"Lex Fridman Podcast",u:"https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"},
-{n:"Hard Fork",u:"https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"},
-{n:"All-In Podcast",u:"https://open.spotify.com/show/2IqXAVFR4e0Bmyjsdc8QzF"},
-{n:"The Vergecast",u:"https://open.spotify.com/show/430MlYmAjFFnXdzU1jJfcB"},
-{n:"Acquired",u:"https://open.spotify.com/show/7Fj0XEuUQLi3mMHXhkfo2F"},
-{n:"a16z Podcast",u:"https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"},
-{n:"No Priors",u:"https://open.spotify.com/show/7yJxQe7PMBgNtvTRNlmXTh"},
-{n:"Latent Space",u:"https://open.spotify.com/show/4vS0Dq8G7Q2lRqAR8BMBWC"},
-{n:"TWIML AI",u:"https://open.spotify.com/show/2sp5EL7s7nqEq8IfMSbc7L"},
-{n:"Practical AI",u:"https://open.spotify.com/show/1LLQkN0uHBmYb4rDaZv9ij"},
-{n:"ML Street Talk",u:"https://open.spotify.com/show/02e6PZeIOdPBKja0LZKCHs"},
-{n:"Eye on AI",u:"https://open.spotify.com/show/5aFnACHECkhfzRczKLudsk"},
-{n:"The Robot Brains",u:"https://open.spotify.com/show/6NKPp1bDgvFkNxJCESuP9N"},
-{n:"Data Skeptic",u:"https://open.spotify.com/show/1BZN7H3ikovSejhvbPLn0j"},
-{n:"AI in Business",u:"https://open.spotify.com/show/4pnPmkqCvPeJ5OXYPLF1i9"},
-{n:"Gradient Dissent",u:"https://open.spotify.com/show/7o9wXdFXWDEZTWGj7kf9lL"},
-{n:"Cognitive Revolution",u:"https://open.spotify.com/show/6Z7VVjPEFDkzJXGEIHlLqw"},
-{n:"Last Week in AI",u:"https://open.spotify.com/show/3HLxVZQBQEOmLBFqvvP7b7"},
-{n:"The AI Breakdown",u:"https://open.spotify.com/show/0p1Mn8E2lXJOyKJSqVVxOK"},
-{n:"Changelog",u:"https://open.spotify.com/show/5bBki72YeKXOvO8d30LMpa"}
+{n:"Lex Fridman Podcast",u:"https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL",d:"Deep AI conversations"},
+{n:"Hard Fork",u:"https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT",d:"NYT tech podcast"},
+{n:"All-In Podcast",u:"https://open.spotify.com/show/2IqXAVFR4e0Bmyjsdc8QzF",d:"Tech billionaires discuss AI"},
+{n:"The Vergecast",u:"https://open.spotify.com/show/430MlYmAjFFnXdzU1jJfcB",d:"Weekly tech roundup"},
+{n:"Acquired",u:"https://open.spotify.com/show/7Fj0XEuUQLi3mMHXhkfo2F",d:"How great companies are built"},
+{n:"a16z Podcast",u:"https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX",d:"VC insights on AI"},
+{n:"No Priors",u:"https://open.spotify.com/show/7yJxQe7PMBgNtvTRNlmXTh",d:"AI founders & researchers"},
+{n:"Latent Space",u:"https://open.spotify.com/show/4vS0Dq8G7Q2lRqAR8BMBWC",d:"AI engineering podcast"},
+{n:"TWIML AI",u:"https://open.spotify.com/show/2sp5EL7s7nqEq8IfMSbc7L",d:"This Week in ML"},
+{n:"Practical AI",u:"https://open.spotify.com/show/1LLQkN0uHBmYb4rDaZv9ij",d:"Making AI practical"},
+{n:"ML Street Talk",u:"https://open.spotify.com/show/02e6PZeIOdPBKja0LZKCHs",d:"ML research deep dives"},
+{n:"Eye on AI",u:"https://open.spotify.com/show/5aFnACHECkhfzRczKLudsk",d:"AI leaders interviews"},
+{n:"The Robot Brains",u:"https://open.spotify.com/show/6NKPp1bDgvFkNxJCESuP9N",d:"AI pioneers talk"},
+{n:"Data Skeptic",u:"https://open.spotify.com/show/1BZN7H3ikovSejhvbPLn0j",d:"Data science explained"},
+{n:"AI in Business",u:"https://open.spotify.com/show/4pnPmkqCvPeJ5OXYPLF1i9",d:"Enterprise AI adoption"},
+{n:"Gradient Dissent",u:"https://open.spotify.com/show/7o9wXdFXWDEZTWGj7kf9lL",d:"ML practitioners discuss"},
+{n:"Cognitive Revolution",u:"https://open.spotify.com/show/6Z7VVjPEFDkzJXGEIHlLqw",d:"AI impact on society"},
+{n:"Last Week in AI",u:"https://open.spotify.com/show/3HLxVZQBQEOmLBFqvvP7b7",d:"Weekly AI news"},
+{n:"The AI Breakdown",u:"https://open.spotify.com/show/0p1Mn8E2lXJOyKJSqVVxOK",d:"Daily AI news in 15 min"},
+{n:"Changelog",u:"https://open.spotify.com/show/5bBki72YeKXOvO8d30LMpa",d:"Open source & AI tools"}
 ];
 
 // Audio player
@@ -193,12 +236,12 @@ function hasAudio(i) { return audioFiles.includes(i); }
 
 function renderNews() {
     document.getElementById('news-grid').innerHTML = news.map((n,i) => `
-        <div class="news-card ${hasAudio(i)?'has-audio':''}" id="card-${i}">
+        <div class="news-card" id="card-${i}">
             <div class="news-header">
                 <div class="news-num">${String(i+1).padStart(2,'0')}</div>
                 <div class="news-badges">
                     <span class="news-badge badge-source">${n.source}</span>
-                    ${hasAudio(i)?'<span class="news-badge badge-audio">AI VOICE</span>':''}
+                    ${hasAudio(i)?'<span class="news-badge badge-audio">🎙️ AI VOICE</span>':''}
                 </div>
             </div>
             <div class="news-title">${n.title}</div>
@@ -233,6 +276,7 @@ function renderPod() {
             <div class="pod-icon">🎧</div>
             <div class="pod-info">
                 <h3>${p.n}</h3>
+                <p>${p.d}</p>
                 <a href="${p.u}" target="_blank" class="pod-link">Open in Spotify</a>
             </div>
         </div>
@@ -252,7 +296,7 @@ function stopAll() {
     });
     const pab = document.getElementById('play-all-btn');
     pab.classList.remove('playing');
-    pab.querySelector('span').textContent = 'Play All 50 Stories';
+    pab.querySelector('span').textContent = 'Play All Stories';
     pab.querySelector('svg').innerHTML = '<path d="M8 5v14l11-7z"/>';
     document.getElementById('now-playing').textContent = '';
     document.getElementById('progress').style.width = '0%';
@@ -278,8 +322,22 @@ function playNews(i) {
     if (hasAudio(i)) {
         audio.src = `audio/news_${i}.mp3`;
         audio.onended = () => stopAll();
-        audio.play().catch(e => console.log('Play error:', e));
+        audio.onerror = () => { console.log('Audio error, using TTS'); playTTS(i); };
+        audio.play().catch(e => { console.log('Play error:', e); playTTS(i); });
+    } else {
+        playTTS(i);
     }
+}
+
+function playTTS(i) {
+    const text = `${news[i].title}. From ${news[i].source}. ${news[i].summary}`;
+    const u = new SpeechSynthesisUtterance(text);
+    u.rate = 1; u.pitch = 1;
+    const voices = speechSynthesis.getVoices();
+    const voice = voices.find(v => v.name.includes('Google') || v.name.includes('Samantha')) || voices.find(v => v.lang.startsWith('en'));
+    if (voice) u.voice = voice;
+    u.onend = () => stopAll();
+    speechSynthesis.speak(u);
 }
 
 function togglePlayAll() {
@@ -297,12 +355,7 @@ function togglePlayAll() {
 }
 
 function playNext() {
-    if (!playAllMode) return;
-    if (playAllIdx >= news.length || !hasAudio(playAllIdx)) {
-        // Find next available audio
-        while (playAllIdx < news.length && !hasAudio(playAllIdx)) playAllIdx++;
-        if (playAllIdx >= news.length) { stopAll(); return; }
-    }
+    if (!playAllMode || playAllIdx >= news.length) { stopAll(); return; }
     
     const i = playAllIdx;
     const n = news[i];
@@ -320,12 +373,24 @@ function playNext() {
     document.getElementById('progress').style.width = ((i+1)/news.length*100)+'%';
     
     playing = i;
-    audio.src = `audio/news_${i}.mp3`;
-    audio.onended = () => {
+    
+    const onFinish = () => {
         playAllIdx++;
         if (playAllMode) setTimeout(playNext, 300);
     };
-    audio.play().catch(e => console.log('Play error:', e));
+    
+    if (hasAudio(i)) {
+        audio.src = `audio/news_${i}.mp3`;
+        audio.onended = onFinish;
+        audio.onerror = () => { playAllIdx++; if(playAllMode) playNext(); };
+        audio.play().catch(() => { playAllIdx++; if(playAllMode) playNext(); });
+    } else {
+        const text = `Story ${i+1}. ${n.title}. ${n.summary}`;
+        const u = new SpeechSynthesisUtterance(text);
+        u.rate = 1;
+        u.onend = onFinish;
+        speechSynthesis.speak(u);
+    }
 }
 
 function showTab(id) {
@@ -337,6 +402,7 @@ function showTab(id) {
 }
 
 // Init
+speechSynthesis.onvoiceschanged = () => speechSynthesis.getVoices();
 document.getElementById('update-time').textContent = new Date().toLocaleString();
 renderNews();
 renderYT();
