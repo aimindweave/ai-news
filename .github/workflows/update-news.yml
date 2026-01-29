@@ -1,42 +1,43 @@
-name: Update AI News Every 2 Hours
+name: Update AI News
 
 on:
   schedule:
     - cron: '0 */2 * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
-  update-news:
+  update:
     runs-on: ubuntu-latest
-    
-    permissions:
-      contents: write
-    
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.11'
       
       - name: Install dependencies
         run: |
-          pip install requests beautifulsoup4 feedparser
+          pip install requests feedparser
       
-      - name: Fetch latest AI news
-        run: |
-          python scripts/fetch_news.py
+      - name: Fetch news
+        run: python scripts/fetch_news.py
       
-      - name: Update HTML file
-        run: |
-          python scripts/update_html.py
+      - name: Generate audio
+        env:
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+        run: python scripts/generate_audio.py
+      
+      - name: Update HTML
+        run: python scripts/update_html.py
       
       - name: Commit and push
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
           git add -A
-          git commit -m "Auto-update AI news" || echo "No changes to commit"
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update news and audio"
           git push
