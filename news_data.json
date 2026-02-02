@@ -1,8 +1,29 @@
 [
   {
+    "title": "Ring brings its ‘Search Party’ feature for finding lost dogs to non-Ring camera owners",
+    "source": "TechCrunch",
+    "summary": "Ring's Search Party feature for finding lost dogs is now available across the U.S. — even if you don't own a Ring camera.",
+    "url": "https://techcrunch.com/2026/02/02/ring-brings-its-search-party-feature-for-finding-lost-dogs-to-non-ring-camera-owners/",
+    "date": "2026-02-02"
+  },
+  {
+    "title": "Carbon Robotics built an AI model that detects and identifies plants",
+    "source": "TechCrunch",
+    "summary": "Carbon Robotics' Large Plant Model will allow farmers to kill new types of weeds without having to retrain the machines.",
+    "url": "https://techcrunch.com/2026/02/02/carbon-robotics-built-an-ai-model-that-detects-and-identifies-plants/",
+    "date": "2026-02-02"
+  },
+  {
+    "title": "Coalition demands federal Grok ban over nonconsensual sexual content",
+    "source": "TechCrunch",
+    "summary": "Nonprofits urge the U.S. government to suspend Grok in federal agencies after the xAI chatbot generated thousands of nonconsensual sexual images, raising national security and child safety concerns.",
+    "url": "https://techcrunch.com/2026/02/02/coalition-demands-federal-grok-ban-over-nonconsensual-sexual-content/",
+    "date": "2026-02-02"
+  },
+  {
     "title": "Linq raises $20M to enable AI assistants to live within messaging apps",
     "source": "TechCrunch",
-    "summary": "Linq offers an API that lets companies offer their AI assistants via iMessage, RCS and SMS.",
+    "summary": "Linq offers an API that lets companies offer their AI assistants via iMessage, RCS, and SMS.",
     "url": "https://techcrunch.com/2026/02/02/linq-raises-20m-to-enable-ai-assistants-to-live-within-messaging-apps/",
     "date": "2026-02-02"
   },
@@ -35,24 +56,10 @@
     "date": "2026-02-02"
   },
   {
-    "title": "India offers zero taxes through 2047 to lure global AI workloads",
-    "source": "TechCrunch",
-    "summary": "New Delhi's latest move comes as Amazon, Google, and Microsoft expand data center investments in India.",
-    "url": "https://techcrunch.com/2026/02/01/india-offers-zero-taxes-through-2047-to-lure-global-ai-workloads/",
-    "date": "2026-02-02"
-  },
-  {
-    "title": "Bye-bye corporate conglomerates. Hello personal conglomerates.",
-    "source": "TechCrunch",
-    "summary": "Elon Musk's reported merging of SpaceX, xAI, and Tesla harkens back to the heyday of General Electric — or maybe the robber barons of the Gilded Age.",
-    "url": "https://techcrunch.com/2026/02/01/bye-bye-corporate-conglomerates-hello-personal-conglomerates/",
-    "date": "2026-02-02"
-  },
-  {
-    "title": "Nvidia CEO pushes back against report that his company’s $100B OpenAI investment has stalled",
-    "source": "TechCrunch",
-    "summary": "Nvidia CEO Jensen Huang said that a recent report of friction between his company and OpenAI was “nonsense.”",
-    "url": "https://techcrunch.com/2026/01/31/nvidia-ceo-pushes-back-against-report-that-his-companys-100b-openai-investment-has-stalled/",
+    "title": "The crucial first step for designing a successful enterprise AI system",
+    "source": "MIT Tech Review",
+    "summary": "Many organizations rushed into generative AI, only to see pilots fail to deliver value. Now, companies want measurable outcomes—but how do you design for success? At Mistral AI, we partner with global industry leaders to co-design tailored AI solutions that solve their most difficult problems. Whether it’s increasing CX productivity with Cisco, building a more&#8230;",
+    "url": "https://www.technologyreview.com/2026/02/02/1131822/the-crucial-first-step-for-designing-a-successful-enterprise-ai-system/",
     "date": "2026-02-02"
   },
   {
@@ -105,10 +112,17 @@
     "date": "2026-02-02"
   },
   {
-    "title": "The Download: inside the Vitalism movement, and why AI’s “memory” is a privacy problem",
-    "source": "MIT Tech Review",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet the Vitalists: the hardcore longevity enthusiasts who believe death is “wrong” Last April, an excited crowd gathered at a compound in Berkeley, California, for a three-day event called the Vitalist Bay Summit.&#8230;",
-    "url": "https://www.technologyreview.com/2026/01/29/1131925/the-download-inside-the-vitalism-movement-and-why-ais-memory-is-a-privacy-problem/",
+    "title": "OpenClaw: all the news about the trending AI agent",
+    "source": "The Verge",
+    "summary": "An open-source AI agent called OpenClaw (formerly known as both Clawdbot and Moltbot) that runs on your own computer and &#8220;actually does things&#8221; is taking off inside tech circles. Users interact with OpenClaw via messaging apps like WhatsApp, Telegram, Signal, Discord, and iMessage, giving it the keys to operate independently, managing reminders, writing emails, or [&#8230;]",
+    "url": "https://www.theverge.com/news/872091/openclaw-moltbot-clawdbot-ai-agent-news",
+    "date": "2026-02-02"
+  },
+  {
+    "title": "Docusign&#8217;s CEO on the dangers of trusting AI to read, and write, your contracts",
+    "source": "The Verge",
+    "summary": "Today, I’m talking with Allan Thygesen, who is the CEO of Docusign. You know Docusign; it’s the platform where you sign things online. It turns out 7,000 people work there, which is one of those facts you see flying around sometimes that’s always felt like perfect Decoder bait. What are all those people doing? And [&#8230;]",
+    "url": "https://www.theverge.com/podcast/871205/docusign-ceo-allan-thygesen-ai-contracts-e-signature-interview",
     "date": "2026-02-02"
   },
   {
@@ -151,20 +165,6 @@
     "source": "The Verge",
     "summary": "The stock prices of some major video game companies, including Take-Two Interactive, Roblox, and Unity, had notable declines on Friday, just a day after Google announced its Project Genie tool that lets users prompt AI to generate interactive experiences, Reuters reports. Take-Two's stock price closed at $220.30 (down 7.93 percent from yesterday), Roblox's closed at [&#8230;]",
     "url": "https://www.theverge.com/games/871348/google-project-genie-take-two-roblox-unity",
-    "date": "2026-02-02"
-  },
-  {
-    "title": "There’s a social network for AI agents, and it’s getting weird",
-    "source": "The Verge",
-    "summary": "Yes, you read that right. \"Moltbook\" is a social network of sorts for AI agents, particularly ones offered by OpenClaw (a viral AI assistant project that was formerly known as Moltbot, and before that, known as Clawdbot - until a legal dispute with Anthropic). Moltbook, which is set up similarly to Reddit and was built [&#8230;]",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/871006/social-network-facebook-for-ai-agents-moltbook-moltbot-openclaw",
-    "date": "2026-02-02"
-  },
-  {
-    "title": "It’s a new heyday for gas thanks to data centers",
-    "source": "The Verge",
-    "summary": "The US is now leading a global surge in new gas power plants being built in large part to satisfy growing energy demand for data centers. And more gas means more planet-heating pollution. Gas-fired power generation in development globally rose by 31 percent in 2025. Almost a quarter of that added capacity is slated for [&#8230;]",
-    "url": "https://www.theverge.com/news/870422/data-center-ai-gas-power-surge",
     "date": "2026-02-02"
   },
   {
