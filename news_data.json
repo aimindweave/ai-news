@@ -1,5 +1,33 @@
 [
   {
+    "title": "Elon Musk’s SpaceX officially acquires Elon Musk’s xAI, with plan to build data centers in space",
+    "source": "TechCrunch",
+    "summary": "The merger creates the world's most valuable private company, and paves the way for Musk to try and prove out the usefulness of space-based data centers.",
+    "url": "https://techcrunch.com/2026/02/02/elon-musk-spacex-acquires-xai-data-centers-space-merger/",
+    "date": "2026-02-02"
+  },
+  {
+    "title": "What Snowflake’s deal with OpenAI tells us about the enterprise AI race",
+    "source": "TechCrunch",
+    "summary": "Snowflake is the latest enterprise to sign multi-year deals with multiple AI companies in what could be a sign to come of a future trend.",
+    "url": "https://techcrunch.com/2026/02/02/what-snowflakes-deal-with-openai-tells-us-about-the-enterprise-ai-race/",
+    "date": "2026-02-02"
+  },
+  {
+    "title": "Firefox will soon let you block all of its generative AI features",
+    "source": "TechCrunch",
+    "summary": "Starting with Firefox 148 arriving later this month, users will find a new AI controls section within the desktop browser settings.",
+    "url": "https://techcrunch.com/2026/02/02/firefox-will-soon-let-you-block-all-of-its-generative-ai-features/",
+    "date": "2026-02-02"
+  },
+  {
+    "title": "OpenAI launches new macOS app for agentic coding",
+    "source": "TechCrunch",
+    "summary": "OpenAI has released a new macOS app for Codex, integrating many of the agentic coding practices that have become popular since Codex launched last year.",
+    "url": "https://techcrunch.com/2026/02/02/openai-launches-new-macos-app-for-agentic-coding/",
+    "date": "2026-02-02"
+  },
+  {
     "title": "Ring brings its ‘Search Party’ feature for finding lost dogs to non-Ring camera owners",
     "source": "TechCrunch",
     "summary": "Ring's Search Party feature for finding lost dogs is now available across the U.S. — even if you don't own a Ring camera.",
@@ -28,31 +56,10 @@
     "date": "2026-02-02"
   },
   {
-    "title": "These AI notetaking devices can help you record and transcribe your meetings",
-    "source": "TechCrunch",
-    "summary": "These physical notetakers transcribe audio and give users summaries and action items of meetings using AI. Some even offer live translation.",
-    "url": "https://techcrunch.com/2026/02/02/ai-notetaker-hardware-devices-pins-pendants-record-transcribe/",
-    "date": "2026-02-02"
-  },
-  {
-    "title": "AI layoffs or ‘AI-washing’?",
-    "source": "TechCrunch",
-    "summary": "How many of the companies with recent layoffs are just using AI as an excuse?",
-    "url": "https://techcrunch.com/2026/02/01/ai-layoffs-or-ai-washing/",
-    "date": "2026-02-02"
-  },
-  {
-    "title": "Why Tether’s CEO is everywhere right now",
-    "source": "TechCrunch",
-    "summary": "For years, Tether's CEO avoided the United States, watching from offshore as regulators circled and prosecutors investigated. Those days are over.",
-    "url": "https://techcrunch.com/2026/02/01/why-tethers-ceo-is-everywhere-right-now/",
-    "date": "2026-02-02"
-  },
-  {
-    "title": "Indonesia ‘conditionally’ lifts ban on Grok",
-    "source": "TechCrunch",
-    "summary": "Indonesia has followed Malaysia and the Philippines in lifting a ban on xAI’s chatbot Grok.",
-    "url": "https://techcrunch.com/2026/02/01/indonesia-conditionally-lifts-ban-on-grok/",
+    "title": "What we’ve been getting wrong about AI’s truth crisis",
+    "source": "MIT Tech Review",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. What would it take to convince you that the era of truth decay we were long warned about—where AI content dupes us, shapes our beliefs even when we catch the lie, and&#8230;",
+    "url": "https://www.technologyreview.com/2026/02/02/1132068/what-weve-been-getting-wrong-about-ais-truth-crisis/",
     "date": "2026-02-02"
   },
   {
@@ -105,10 +112,17 @@
     "date": "2026-02-02"
   },
   {
-    "title": "DHS is using Google and Adobe AI to make videos",
-    "source": "MIT Tech Review",
-    "summary": "The US Department of Homeland Security is using AI video generators from Google and Adobe to make and edit content shared with the public, a new document reveals. It comes as immigration agencies have flooded social media with content to support President Trump&#8217;s mass deportation agenda—some of which appears to be made with AI—and as&#8230;",
-    "url": "https://www.technologyreview.com/2026/01/29/1131938/dhs-is-using-google-and-adobe-ai-to-make-videos/",
+    "title": "Elon Musk merges SpaceX with xAI (and X)",
+    "source": "The Verge",
+    "summary": "Elon Musk is merging two of the companies that he leads, SpaceX and xAI (which also owns X), into one. According to an announcement from Musk: SpaceX has acquired xAI to form the most ambitious, vertically-integrated innovation engine on (and off) Earth, with AI, rockets, space-based internet, direct-to-mobile device communications and the world's foremost real-time [&#8230;]",
+    "url": "https://www.theverge.com/tech/872619/elon-musk-merges-spacex-with-xai-and-x",
+    "date": "2026-02-02"
+  },
+  {
+    "title": "Firefox is adding a switch to turn AI features off",
+    "source": "The Verge",
+    "summary": "Unlike many of the companies stuffing AI into their browsers, Mozilla will soon give you a way to turn all of these features off. An update coming on February 24th will add a new \"AI control\" option to Firefox's settings menu, allowing you to disable or enable the browser's individual AI features, including access to [&#8230;]",
+    "url": "https://www.theverge.com/news/872489/mozilla-firefox-ai-features-off-button",
     "date": "2026-02-02"
   },
   {
@@ -154,17 +168,17 @@
     "date": "2026-02-02"
   },
   {
-    "title": "ChatGPT isn’t the only chatbot pulling answers from Elon Musk’s Grokipedia",
-    "source": "The Verge",
-    "summary": "ChatGPT is using Grokipedia as a source, and it's not the only AI tool to do so. Citations to Elon Musk's AI-generated encyclopedia are starting to appear in answers from Google's AI Overviews, AI Mode, and Gemini, too. Data suggests that's on the rise, heightening concerns about accuracy and misinformation as Musk seeks to reshape [&#8230;]",
-    "url": "https://www.theverge.com/report/870910/ai-chatbots-citing-grokipedia",
+    "title": "Elon Musk Rolls His AI Startup Into SpaceX, Creating the World’s Most Valuable Company",
+    "source": "Wired",
+    "summary": "By fusing SpaceX and xAI—which acquired X last year—Elon Musk tightens his grip over technologies that shape national security, social media, and artificial intelligence.",
+    "url": "https://www.wired.com/story/spacex-acquires-xai-elon-musk/",
     "date": "2026-02-02"
   },
   {
-    "title": "Video game company stock prices dip after Google introduces an AI world-generation tool",
-    "source": "The Verge",
-    "summary": "The stock prices of some major video game companies, including Take-Two Interactive, Roblox, and Unity, had notable declines on Friday, just a day after Google announced its Project Genie tool that lets users prompt AI to generate interactive experiences, Reuters reports. Take-Two's stock price closed at $220.30 (down 7.93 percent from yesterday), Roblox's closed at [&#8230;]",
-    "url": "https://www.theverge.com/games/871348/google-project-genie-take-two-roblox-unity",
+    "title": "HHS Is Using AI Tools From Palantir to Target ‘DEI’ and ‘Gender Ideology’ in Grants",
+    "source": "Wired",
+    "summary": "Since March of 2025, the Department of Health and Human Services has been using tools from Palantir and the startup Credal AI to weed out perceived alignment with “DEI” or “gender ideology.”",
+    "url": "https://www.wired.com/story/hhs-is-using-ai-tools-from-palantir-to-target-dei-and-gender-ideology-in-grants/",
     "date": "2026-02-02"
   },
   {
@@ -210,17 +224,10 @@
     "date": "2026-02-02"
   },
   {
-    "title": "Data Centers Are Driving a US Gas Boom",
-    "source": "Wired",
-    "summary": "Gas projects in the US pipeline explicitly linked to data centers increased by almost 25 times over the past two years, according to new research from Global Energy Monitor.",
-    "url": "https://www.wired.com/story/data-centers-are-driving-a-us-gas-boom/",
-    "date": "2026-02-02"
-  },
-  {
-    "title": "ICE Is Using Palantir’s AI Tools to Sort Through Tips",
-    "source": "Wired",
-    "summary": "ICE has been using an AI-powered Palantir system to summarize tips sent to its tip line since last spring, according to a newly released Homeland Security document.",
-    "url": "https://www.wired.com/story/ice-is-using-palantirs-ai-tools-to-sort-through-tips/",
+    "title": "Notepad++ users take note: It's time to check if you're hacked",
+    "source": "Ars Technica",
+    "summary": "Suspected China-state hackers used update infrastructure to deliver backdoored version.",
+    "url": "https://arstechnica.com/security/2026/02/notepad-updater-was-compromised-for-6-months-in-supply-chain-attack/",
     "date": "2026-02-02"
   },
   {
@@ -270,13 +277,6 @@
     "source": "Ars Technica",
     "summary": "The open source \"Jarvis\" chats via WhatsApp but requires access to your files and accounts.",
     "url": "https://arstechnica.com/ai/2026/01/viral-ai-assistant-moltbot-rapidly-gains-popularity-but-poses-security-risks/",
-    "date": "2026-02-02"
-  },
-  {
-    "title": "There's a rash of scam spam coming from a real Microsoft address",
-    "source": "Ars Technica",
-    "summary": "Abusing Microsoft's reputation may make scam harder to spot.",
-    "url": "https://arstechnica.com/information-technology/2026/01/theres-a-rash-of-scam-spam-coming-from-a-real-microsoft-address/",
     "date": "2026-02-02"
   }
 ]
