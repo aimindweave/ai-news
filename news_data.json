@@ -1,9 +1,16 @@
 [
   {
-    "title": "Agentic coding comes to Apple’s Xcode with agents from Anthropic and OpenAI",
+    "title": "Intel will start making GPUs, a market dominated by Nvidia",
+    "source": "TechCrunch",
+    "summary": "Intel has been bulking up a team to focus on this effort and will develop its GPU strategy around customer needs.",
+    "url": "https://techcrunch.com/2026/02/03/intel-will-start-making-gpus-a-market-dominated-by-nvidia/",
+    "date": "2026-02-03"
+  },
+  {
+    "title": "Xcode moves into agentic coding with deeper OpenAI and Anthropic integrations",
     "source": "TechCrunch",
     "summary": "Xcode 26.3 offers agentic coding capabilities with Anthropic's Claude Agent and OpenAI's Codex.",
-    "url": "https://techcrunch.com/2026/02/03/agentic-coding-comes-to-apples-xcode-26-3-with-agents-from-anthropic-and-openai/",
+    "url": "https://techcrunch.com/2026/02/03/xcode-moves-into-agentic-coding-with-deeper-openai-and-anthropic-integrations/",
     "date": "2026-02-03"
   },
   {
@@ -46,13 +53,6 @@
     "source": "TechCrunch",
     "summary": "Starting with Firefox 148 arriving later this month, users will find a new AI controls section within the desktop browser settings.",
     "url": "https://techcrunch.com/2026/02/02/firefox-will-soon-let-you-block-all-of-its-generative-ai-features/",
-    "date": "2026-02-03"
-  },
-  {
-    "title": "OpenAI launches new macOS app for agentic coding",
-    "source": "TechCrunch",
-    "summary": "OpenAI has released a new macOS app for Codex, integrating many of the agentic coding practices that have become popular since Codex launched last year.",
-    "url": "https://techcrunch.com/2026/02/02/openai-launches-new-macos-app-for-agentic-coding/",
     "date": "2026-02-03"
   },
   {
@@ -112,6 +112,27 @@
     "date": "2026-02-03"
   },
   {
+    "title": "Elon Musk is merging SpaceX and xAI to build data centers in space — or so he says",
+    "source": "The Verge",
+    "summary": "On Monday, Elon Musk announced that he was merging two of his companies, SpaceX and xAI, in a deal said to be worth $1.25 trillion. The reason, Musk said in an announcement, was that in order for AI to grow, it needed to go to space. AI relies on \"large terrestrial data centers\" that run [&#8230;]",
+    "url": "https://www.theverge.com/transportation/873203/elon-musk-spacex-xai-merge-data-centers-space-tesla-ipo",
+    "date": "2026-02-03"
+  },
+  {
+    "title": "Microsoft says it’s building an app store for AI content licensing",
+    "source": "The Verge",
+    "summary": "Microsoft says it is working on the Publisher Content Marketplace (PCM), an AI licensing hub that shows usage terms set by publishers. That way, AI companies can easily shop the terms and set up deals to use online content for \"grounding\" their AI models, while the content owners get usage-based reporting to help set prices. [&#8230;]",
+    "url": "https://www.theverge.com/news/873296/microsoft-publisher-content-marketplace-ai-licensing",
+    "date": "2026-02-03"
+  },
+  {
+    "title": "Apple’s Xcode adds OpenAI and Anthropic’s coding agents",
+    "source": "The Verge",
+    "summary": "Apple is building OpenAI and Anthropic's AI-powered coding agents directly into Xcode. New integrations in Xcode 26.3 will give developers the ability to call upon Anthropic's Claude Agent and OpenAI's Codex to write and edit code, update project settings, search documentation, and more. Xcode is the software developers can use to create and test apps [&#8230;]",
+    "url": "https://www.theverge.com/news/873300/apple-xcode-openai-anthropic-ai-agentic-coding",
+    "date": "2026-02-03"
+  },
+  {
     "title": "French police raid X&#8217;s Paris office as UK investigation continues",
     "source": "The Verge",
     "summary": "A raid on X's Paris office was carried out by the Paris prosecutor's cybercrime unit on Tuesday with Europol and French police as part of an ongoing investigation that expanded in July to include Grok. As previously reported by Reuters, Elon Musk and former X CEO Linda Yaccarino were also summoned for hearings in April. [&#8230;]",
@@ -147,24 +168,10 @@
     "date": "2026-02-03"
   },
   {
-    "title": "Firefox is adding a switch to turn AI features off",
-    "source": "The Verge",
-    "summary": "Unlike many of the companies stuffing AI into their browsers, Mozilla will soon give you a way to turn all of these features off. An update coming on February 24th will add a new \"AI control\" option to Firefox's settings menu, allowing you to disable or enable the browser's individual AI features, including access to [&#8230;]",
-    "url": "https://www.theverge.com/news/872489/mozilla-firefox-ai-features-off-button",
-    "date": "2026-02-03"
-  },
-  {
-    "title": "OpenClaw: all the news about the trending AI agent",
-    "source": "The Verge",
-    "summary": "An open-source AI agent called OpenClaw (formerly known as both Clawdbot and Moltbot) that runs on your own computer and &#8220;actually does things&#8221; is taking off inside tech circles. Users interact with OpenClaw via messaging apps like WhatsApp, Telegram, Signal, Discord, and iMessage, giving it the keys to operate independently, managing reminders, writing emails, or [&#8230;]",
-    "url": "https://www.theverge.com/news/872091/openclaw-moltbot-clawdbot-ai-agent-news",
-    "date": "2026-02-03"
-  },
-  {
-    "title": "Docusign&#8217;s CEO on the dangers of trusting AI to read, and write, your contracts",
-    "source": "The Verge",
-    "summary": "Today, I’m talking with Allan Thygesen, who is the CEO of Docusign. You know Docusign; it’s the platform where you sign things online. It turns out 7,000 people work there, which is one of those facts you see flying around sometimes that’s always felt like perfect Decoder bait. What are all those people doing? And [&#8230;]",
-    "url": "https://www.theverge.com/podcast/871205/docusign-ceo-allan-thygesen-ai-contracts-e-signature-interview",
+    "title": "I Infiltrated Moltbook, the AI-Only Social Network Where Humans Aren’t Allowed",
+    "source": "Wired",
+    "summary": "I went undercover on Moltbook and loved role-playing as a conscious bot. But rather than a novel breakthrough, the AI-only site is a crude rehashing of sci-fi fantasies.",
+    "url": "https://www.wired.com/story/i-infiltrated-moltbook-ai-only-social-network/",
     "date": "2026-02-03"
   },
   {
@@ -214,13 +221,6 @@
     "source": "Wired",
     "summary": "Across Instagram and Facebook, AI-generated videos show people of color putting ICE agents in their place. Are they cathartic or just adding to a stew of misinformation?",
     "url": "https://www.wired.com/story/anti-ice-videos-are-getting-the-ai-fanfic-treatment-online/",
-    "date": "2026-02-03"
-  },
-  {
-    "title": "A Yann LeCun–Linked Startup Charts a New Path to AGI",
-    "source": "Wired",
-    "summary": "As the world’s largest companies pour hundreds of billions of dollars into large language models, San Francisco-based Logical Intelligence is trying something different in pursuit of AI that can mimic the human brain.",
-    "url": "https://www.wired.com/story/logical-intelligence-yann-lecun-startup-chart-new-course-agi/",
     "date": "2026-02-03"
   },
   {
