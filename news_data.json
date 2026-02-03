@@ -1,5 +1,26 @@
 [
   {
+    "title": "Agentic coding comes to Apple’s Xcode with agents from Anthropic and OpenAI",
+    "source": "TechCrunch",
+    "summary": "Xcode 26.3 offers agentic coding capabilities with Anthropic's Claude Agent and OpenAI's Codex.",
+    "url": "https://techcrunch.com/2026/02/03/agentic-coding-comes-to-apples-xcode-26-3-with-agents-from-anthropic-and-openai/",
+    "date": "2026-02-03"
+  },
+  {
+    "title": "Lotus Health nabs $35M for AI doctor that sees patients for free",
+    "source": "TechCrunch",
+    "summary": "This AI doctor is licensed in all 50 states, the startup says. The deal was led by CRV and Kleiner Perkins.",
+    "url": "https://techcrunch.com/2026/02/03/lotus-health-nabs-35m-for-ai-doctor-that-sees-patients-for-free/",
+    "date": "2026-02-03"
+  },
+  {
+    "title": "Fitbit founders launch AI platform to help families monitor their health",
+    "source": "TechCrunch",
+    "summary": "Luffu uses AI in the background to gather and organize family information, learn day-to-day patterns, and flag notable changes so families can stay aligned and address potential well-being issues.",
+    "url": "https://techcrunch.com/2026/02/03/fitbit-founders-launch-ai-platform-to-help-families-monitor-their-health/",
+    "date": "2026-02-03"
+  },
+  {
     "title": "Peak XV says internal disagreement led to partner exits as it doubles down on AI",
     "source": "TechCrunch",
     "summary": "Peak XV is transitioning board roles and opening a U.S. office while continuing to view India as its largest market.",
@@ -32,27 +53,6 @@
     "source": "TechCrunch",
     "summary": "OpenAI has released a new macOS app for Codex, integrating many of the agentic coding practices that have become popular since Codex launched last year.",
     "url": "https://techcrunch.com/2026/02/02/openai-launches-new-macos-app-for-agentic-coding/",
-    "date": "2026-02-03"
-  },
-  {
-    "title": "Ring brings its ‘Search Party’ feature for finding lost dogs to non-Ring camera owners",
-    "source": "TechCrunch",
-    "summary": "Ring's Search Party feature for finding lost dogs is now available across the U.S. — even if you don't own a Ring camera.",
-    "url": "https://techcrunch.com/2026/02/02/ring-brings-its-search-party-feature-for-finding-lost-dogs-to-non-ring-camera-owners/",
-    "date": "2026-02-03"
-  },
-  {
-    "title": "Carbon Robotics built an AI model that detects and identifies plants",
-    "source": "TechCrunch",
-    "summary": "Carbon Robotics' Large Plant Model will allow farmers to kill new types of weeds without having to retrain the machines.",
-    "url": "https://techcrunch.com/2026/02/02/carbon-robotics-built-an-ai-model-that-detects-and-identifies-plants/",
-    "date": "2026-02-03"
-  },
-  {
-    "title": "Coalition demands federal Grok ban over nonconsensual sexual content",
-    "source": "TechCrunch",
-    "summary": "Nonprofits urge the U.S. government to suspend Grok in federal agencies after the xAI chatbot generated thousands of nonconsensual sexual images, raising national security and child safety concerns.",
-    "url": "https://techcrunch.com/2026/02/02/coalition-demands-federal-grok-ban-over-nonconsensual-sexual-content/",
     "date": "2026-02-03"
   },
   {
@@ -112,7 +112,28 @@
     "date": "2026-02-03"
   },
   {
-    "title": "Humans are infiltrating the Reddit for AI bots",
+    "title": "French police raid X&#8217;s Paris office as UK investigation continues",
+    "source": "The Verge",
+    "summary": "A raid on X's Paris office was carried out by the Paris prosecutor's cybercrime unit on Tuesday with Europol and French police as part of an ongoing investigation that expanded in July to include Grok. As previously reported by Reuters, Elon Musk and former X CEO Linda Yaccarino were also summoned for hearings in April. [&#8230;]",
+    "url": "https://www.theverge.com/tech/873142/french-police-raid-x-investigation",
+    "date": "2026-02-03"
+  },
+  {
+    "title": "Claude Code was down, forcing developers to take a long coffee break",
+    "source": "The Verge",
+    "summary": "Anthropic's Claude AI models experienced a major outage today, impacting products like Claude Code. Developers were seeing a 500 error when trying to use Claude Code, and Anthropic said that it was seeing elevated error rates on its APIs \"across all Claude models.\" Anthropic quickly identified the root cause and implemented a fix within around [&#8230;]",
+    "url": "https://www.theverge.com/news/873093/claude-code-down-outage-anthropic",
+    "date": "2026-02-03"
+  },
+  {
+    "title": "Millions of books died so Claude could live",
+    "source": "The Verge",
+    "summary": "When ChatGPT launched, in November of 2022, it started a race that almost immediately consumed the tech industry. OpenAI didn't invent the concept of AI, but most of the state-of-the-art technology was confined to research labs at companies and institutions around the world. Then, suddenly, it was everywhere. And better than anyone expected. So many [&#8230;]",
+    "url": "https://www.theverge.com/podcast/872998/anthropic-claude-books-netflix-theaters-vergecast",
+    "date": "2026-02-03"
+  },
+  {
+    "title": "Humans are infiltrating the social network for AI bots",
     "source": "The Verge",
     "summary": "Ordinary social networks face a constant onslaught of chatbots pretending to be human. A new social platform for AI agents may face the opposite problem: getting clogged up by humans pretending to post as bots. Moltbook - a website meant for conversations between agents from the platform OpenClaw - went viral this weekend for its [&#8230;]",
     "url": "https://www.theverge.com/ai-artificial-intelligence/872961/humans-infiltrating-moltbook-openclaw-reddit-ai-bots",
@@ -144,27 +165,6 @@
     "source": "The Verge",
     "summary": "Today, I’m talking with Allan Thygesen, who is the CEO of Docusign. You know Docusign; it’s the platform where you sign things online. It turns out 7,000 people work there, which is one of those facts you see flying around sometimes that’s always felt like perfect Decoder bait. What are all those people doing? And [&#8230;]",
     "url": "https://www.theverge.com/podcast/871205/docusign-ceo-allan-thygesen-ai-contracts-e-signature-interview",
-    "date": "2026-02-03"
-  },
-  {
-    "title": "Elon Musk’s Grok is still undressing men",
-    "source": "The Verge",
-    "summary": "After weeks of flooding the internet with nonconsensual sexual deepfakes, X has finally reined in Elon Musk's rogue chatbot Grok. Musk claims Grok obeys local laws and refuses to produce anything illegal - except it hasn't and it can. My testing shows Grok still readily undresses men and is still churning out intimate images on [&#8230;]",
-    "url": "https://www.theverge.com/report/872062/grok-still-undressing-men",
-    "date": "2026-02-03"
-  },
-  {
-    "title": "Shedding light on Iran’s longest internet blackout",
-    "source": "The Verge",
-    "summary": "After protests broke out in early January, the Iranian regime shut down the internet, starting the longest blackout in Iranian history. Despite this attempt to stop the protests from spreading, they did not stop. Still, the internet shutdown slowed down the spread of information both inside and outside Iran. Behind the heavily policed borders and [&#8230;]",
-    "url": "https://www.theverge.com/policy/871848/iran-blackout-internet-mahsa-alimardani",
-    "date": "2026-02-03"
-  },
-  {
-    "title": "Nvidia CEO denies he’s ‘unhappy’ with OpenAI",
-    "source": "The Verge",
-    "summary": "Nvidia's CEO Jensen Huang denied reports that he was unhappy with OpenAI and said his company still planned to make a \"huge\" investment in the ChatGPT firm. Nvidia announced in September that it would invest up to $100 billion in OpenAI, but recently, there have been suggestions that the deal might not happen. While Huang [&#8230;]",
-    "url": "https://www.theverge.com/tech/871818/nvidia-ceo-jensen-huang-unhappy-openai",
     "date": "2026-02-03"
   },
   {
