@@ -1,5 +1,33 @@
 [
   {
+    "title": "Google’s Gemini app has surpassed 750M monthly active users",
+    "source": "TechCrunch",
+    "summary": "Google revealed a significant milestone for it's Gemini app, announcing over 750 million monthly active users as it competes with ChatGPT and Meta AI.",
+    "url": "https://techcrunch.com/2026/02/04/googles-gemini-app-has-surpassed-750m-monthly-active-users/",
+    "date": "2026-02-04"
+  },
+  {
+    "title": "Meet Gizmo: A TikTok for interactive, vibe-coded mini apps",
+    "source": "TechCrunch",
+    "summary": "Gizmo's app is like a TikTok for vibe-coded mini apps... and it's a lot of fun.",
+    "url": "https://techcrunch.com/2026/02/04/meet-gizmo-a-tiktok-for-interactive-vibe-coded-mini-apps/",
+    "date": "2026-02-04"
+  },
+  {
+    "title": "AI SRE Resolve AI confirms $125M raise, unicorn valuation",
+    "source": "TechCrunch",
+    "summary": "The two-year-old startup confirms that it closed a Series A led by Lightspeed at $1 billion valuation.",
+    "url": "https://techcrunch.com/2026/02/04/ai-sre-resolve-ai-confirms-125m-raise-unicorn-valuation/",
+    "date": "2026-02-04"
+  },
+  {
+    "title": "Amazon to begin testing AI tools for film and TV production next month",
+    "source": "TechCrunch",
+    "summary": "Amazon MGM Studios will reportedly begin a closed beta program in March to test its AI tools to help with film and TV production.",
+    "url": "https://techcrunch.com/2026/02/04/amazon-to-begin-testing-ai-tools-for-film-and-tv-production-next-month/",
+    "date": "2026-02-04"
+  },
+  {
     "title": "A16z just raised $1.7B for AI infrastructure. Here’s where it’s going.",
     "source": "TechCrunch",
     "summary": "Andreessen Horowitz just raised&#160;a whopping&#160;⁠new&#160;$15 billion&#160;in funding⁠.&#160;And a&#160;$1.7 billion&#160;chunk&#160;of that is going to&#160;its&#160;⁠infrastructure&#160;team⁠,&#160;the one responsible for some of its biggest, most prominent&#160;AI investments including&#160;Black Forrest Labs, Cursor, OpenAI,&#160;⁠ElevenLabs⁠, Ideogram,&#160;⁠Fal⁠&#160;and dozens of other",
@@ -9,7 +37,7 @@
   {
     "title": "What a16z is actually funding (and what it’s ignoring) when it comes to AI infra",
     "source": "TechCrunch",
-    "summary": "Andreessen Horowitz just raised&#160;a whopping&#160;new&#160;$15 billion&#160;in funding.&#160;And a&#160;$1.7 billion&#160;chunk&#160;of that is going to&#160;its&#160;infrastructure&#160;team,&#160;the one responsible for some of its biggest, most prominent&#160;AI investments including&#160;Black Forrest Labs, Cursor, OpenAI,&#160;ElevenLabs, Ideogram,&#160;Fal&#160;and dozens of others.&#160;",
+    "summary": "Andreessen Horowitz just raised&#160;a whopping&#160;new&#160;$15 billion&#160;in funding.&#160;And a&#160;$1.7 billion&#160;chunk&#160;of that is going to&#160;its&#160;infrastructure&#160;team,&#160;the one responsible for some of its biggest, most prominent&#160;AI investments, including&#160;Black Forest Labs, Cursor, OpenAI,&#160;ElevenLabs, Ideogram,&#160;Fal,&#160;and dozens of others.&#160",
     "url": "https://techcrunch.com/podcast/what-a16z-is-actually-funding-and-what-its-ignoring-when-it-comes-to-ai-infra/",
     "date": "2026-02-04"
   },
@@ -25,34 +53,6 @@
     "source": "TechCrunch",
     "summary": "Roblox's highly anticipated 4D creation feature has officially arrived in open beta.",
     "url": "https://techcrunch.com/2026/02/04/robloxs-4d-creation-feature-is-now-available-in-open-beta/",
-    "date": "2026-02-04"
-  },
-  {
-    "title": "ElevenLabs raises $500M from Sequoia at an $11 billion valuation",
-    "source": "TechCrunch",
-    "summary": "ElevenLabs' valuation has raised more than three times in the last 12 months.",
-    "url": "https://techcrunch.com/2026/02/04/elevenlabs-raises-500m-from-sequioia-at-a-11-billion-valuation/",
-    "date": "2026-02-04"
-  },
-  {
-    "title": "Alexa+, Amazon’s AI assistant, is now available to everyone in the US",
-    "source": "TechCrunch",
-    "summary": "Amazon opens Alexa+ to everyone in the U.S. The AI feature is free for Prime members across devices, and free for everyone on mobile and web.",
-    "url": "https://techcrunch.com/2026/02/04/alexa-amazons-ai-assistant-is-now-available-to-everyone-in-the-u-s/",
-    "date": "2026-02-04"
-  },
-  {
-    "title": "Accel doubles down on Fibr AI as agents turn static websites into one-to-one experiences",
-    "source": "TechCrunch",
-    "summary": "Fibr AI replaces marketing agency- and engineering-heavy website personalization with autonomous systems designed for enterprise scale.",
-    "url": "https://techcrunch.com/2026/02/04/accel-doubles-down-on-fibr-ai-as-agents-turn-static-websites-into-one-to-one-experiences/",
-    "date": "2026-02-04"
-  },
-  {
-    "title": "Exclusive: Positron raises $230M Series B to take on Nvidia’s AI chips",
-    "source": "TechCrunch",
-    "summary": "The investment comes from backers including the Qatar Investment Authority as demand for chips beyond Nvidia soars and as Qatar aims to build out its AI infrastructure.",
-    "url": "https://techcrunch.com/2026/02/04/exclusive-positron-raises-230m-series-b-to-take-on-nvidias-ai-chips/",
     "date": "2026-02-04"
   },
   {
@@ -112,6 +112,13 @@
     "date": "2026-02-04"
   },
   {
+    "title": "Sam Altman responds to Anthropic’s ‘funny’ Super Bowl ads",
+    "source": "The Verge",
+    "summary": "Sam Altman responded to Anthropic's new Super Bowl ad in an X post on Wednesday, saying the OpenAI competitor's campaign is \"clearly dishonest,\" and called it \"on brand\" for Anthropic to \"doublespeak.\" \"We would obviously never run ads in the way Anthropic depicts them,\" he wrote. \"We are not stupid and we know our users [&#8230;]",
+    "url": "https://www.theverge.com/news/874084/ai-chatgpt-claude-super-bowl-ads-openai-anthropic",
+    "date": "2026-02-04"
+  },
+  {
     "title": "OpenClaw&#8217;s AI &#8216;skill&#8217; extensions are a security nightmare",
     "source": "The Verge",
     "summary": "OpenClaw, the AI agent that has exploded in popularity over the past week, is raising new security concerns after researchers uncovered malware in hundreds of user-submitted \"skill\" add-ons on its marketplace. In a post on Monday, 1Password product VP Jason Meller says OpenClaw's skill hub has become \"an attack surface,\" with the most-downloaded add-on serving [&#8230;]",
@@ -158,13 +165,6 @@
     "source": "The Verge",
     "summary": "Apple is building OpenAI and Anthropic's AI-powered coding agents directly into Xcode. New integrations in Xcode 26.3 will give developers the ability to call upon Anthropic's Claude Agent and OpenAI's Codex to write and edit code, update project settings, search documentation, and more. Xcode is the software developers can use to create and test apps [&#8230;]",
     "url": "https://www.theverge.com/news/873300/apple-xcode-openai-anthropic-ai-agentic-coding",
-    "date": "2026-02-04"
-  },
-  {
-    "title": "French police raid X&#8217;s Paris office as UK investigation continues",
-    "source": "The Verge",
-    "summary": "A raid on X's Paris office was carried out by the Paris prosecutor's cybercrime unit on Tuesday with Europol and French police as part of an ongoing investigation that expanded in July to include Grok. As previously reported by Reuters, Elon Musk and former X CEO Linda Yaccarino were also summoned for hearings in April. [&#8230;]",
-    "url": "https://www.theverge.com/tech/873142/french-police-raid-x-investigation",
     "date": "2026-02-04"
   },
   {
@@ -224,6 +224,13 @@
     "date": "2026-02-04"
   },
   {
+    "title": "Should AI chatbots have ads? Anthropic says no.",
+    "source": "Ars Technica",
+    "summary": "ChatGPT competitor comes out swinging with Super Bowl ad mocking AI product pitches.",
+    "url": "https://arstechnica.com/ai/2026/02/should-ai-chatbots-have-ads-anthropic-says-no/",
+    "date": "2026-02-04"
+  },
+  {
     "title": "So yeah, I vibe-coded a log colorizer—and I feel good about it",
     "source": "Ars Technica",
     "summary": "Some semi-unhinged musings on where LLMs fit into my life—and how I'll keep using them.",
@@ -270,13 +277,6 @@
     "source": "Ars Technica",
     "summary": "Settlement comes more than 6 years after Gary DeMercurio and Justin Wynn's ordeal began.",
     "url": "https://arstechnica.com/security/2026/01/county-pays-600000-to-pentesters-it-arrested-for-assessing-courthouse-security/",
-    "date": "2026-02-04"
-  },
-  {
-    "title": "Does Anthropic believe its AI is conscious, or is that just what it wants Claude to think?",
-    "source": "Ars Technica",
-    "summary": "We have no proof that AI models suffer, but Anthropic acts like they might for training purposes.",
-    "url": "https://arstechnica.com/information-technology/2026/01/does-anthropic-believe-its-ai-is-conscious-or-is-that-just-what-it-wants-claude-to-think/",
     "date": "2026-02-04"
   }
 ]
