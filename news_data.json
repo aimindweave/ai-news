@@ -1,5 +1,19 @@
 [
   {
+    "title": "Alexa+, Amazon’s AI assistant, is now available to everyone in the U.S.",
+    "source": "TechCrunch",
+    "summary": "Amazon opens Alexa+ to everyone in the U.S. The AI feature is free for Prime members across devices, and free for everyone on mobile and web.",
+    "url": "https://techcrunch.com/2026/02/04/alexa-amazons-ai-assistant-is-now-available-to-everyone-in-the-u-s/",
+    "date": "2026-02-04"
+  },
+  {
+    "title": "Accel doubles down on Fibr AI as agents turn static websites into one-to-one experiences",
+    "source": "TechCrunch",
+    "summary": "Fibr AI replaces marketing agency– and engineering-heavy website personalization with autonomous systems designed for enterprise scale.",
+    "url": "https://techcrunch.com/2026/02/04/accel-doubles-down-on-fibr-ai-as-agents-turn-static-websites-into-one-to-one-experiences/",
+    "date": "2026-02-04"
+  },
+  {
     "title": "Exclusive: Positron raises $230M Series B to take on Nvidia’s AI chips",
     "source": "TechCrunch",
     "summary": "The investment comes from backers including the Qatar Investment Authority as demand for chips beyond Nvidia soars and as Qatar aims to build out its AI infrastructure.",
@@ -42,17 +56,17 @@
     "date": "2026-02-04"
   },
   {
-    "title": "Elon Musk’s SpaceX officially acquires Elon Musk’s xAI, with plan to build data centers in space",
-    "source": "TechCrunch",
-    "summary": "The merger creates the world's most valuable private company and paves the way for Musk to try and prove out the usefulness of space-based data centers.",
-    "url": "https://techcrunch.com/2026/02/02/elon-musk-spacex-acquires-xai-data-centers-space-merger/",
+    "title": "From guardrails to governance: A CEO’s guide for securing agentic systems",
+    "source": "MIT Tech Review",
+    "summary": "The previous article in this series, “Rules fail at the prompt, succeed at the boundary,” focused on the first AI-orchestrated espionage campaign and the failure of prompt-level control. This article is the prescription. The question every CEO is now getting from their board is some version of: What do we do about agent risk? Across&#8230;",
+    "url": "https://www.technologyreview.com/2026/02/04/1131014/from-guardrails-to-governance-a-ceos-guide-for-securing-agentic-systems/",
     "date": "2026-02-04"
   },
   {
-    "title": "What Snowflake’s deal with OpenAI tells us about the enterprise AI race",
-    "source": "TechCrunch",
-    "summary": "Snowflake is the latest enterprise to sign multi-year deals with multiple AI companies in what could be a sign to come of a future trend.",
-    "url": "https://techcrunch.com/2026/02/02/what-snowflakes-deal-with-openai-tells-us-about-the-enterprise-ai-race/",
+    "title": "The Download: the future of nuclear power plants, and social media-fueled AI hype",
+    "source": "MIT Tech Review",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Why AI companies are betting on next-gen nuclear AI is driving unprecedented investment for massive data centers and an energy supply that can support its huge computational appetite. One potential source of electricity&#8230;",
+    "url": "https://www.technologyreview.com/2026/02/04/1132115/the-download-the-future-of-nuclear-power-plants-and-social-media-fueled-ai-hype/",
     "date": "2026-02-04"
   },
   {
@@ -98,17 +112,17 @@
     "date": "2026-02-04"
   },
   {
-    "title": "Inside the marketplace powering bespoke AI deepfakes of real women",
-    "source": "MIT Tech Review",
-    "summary": "Civitai—an online marketplace for buying and selling AI-generated content, backed by the venture capital firm Andreessen Horowitz—is letting users buy custom instruction files for generating celebrity deepfakes. Some of these files were specifically designed to make pornographic images banned by the site, a new analysis has found. The study, from researchers at Stanford and Indiana&#8230;",
-    "url": "https://www.technologyreview.com/2026/01/30/1131945/inside-the-marketplace-powering-bespoke-ai-deepfakes-of-real-women/",
+    "title": "Anthropic says ‘Claude will remain ad-free,’ unlike ChatGPT",
+    "source": "The Verge",
+    "summary": "Anthropic has announced that it won't be bringing ads to its AI chatbot Claude, in sharp contrast to confirmed plans from OpenAI to allow advertising in ChatGPT. To hammer the point home further, the company is releasing a Super Bowl commercial that makes fun of unnamed rivals adding adverts to their AI. \"We want Claude [&#8230;]",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/873686/anthropic-claude-ai-ad-free-super-bowl-advert-chatgpt",
     "date": "2026-02-04"
   },
   {
-    "title": "The Download: US immigration agencies’ AI videos, and inside the Vitalism movement",
-    "source": "MIT Tech Review",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. DHS is using Google and Adobe AI to make videos The news: The US Department of Homeland Security is using AI video generators from Google and Adobe to make and edit content shared&#8230;",
-    "url": "https://www.technologyreview.com/2026/01/30/1132022/the-download-us-immigration-agencies-ai-videos-and-inside-the-vitalism-movement/",
+    "title": "Sen. Warren wants to know what Google Gemini’s built-in checkout means for user privacy",
+    "source": "The Verge",
+    "summary": "Sen. Elizabeth Warren (D-MA) is pressing Google for more information about its plans to build a checkout feature into its Gemini AI chatbot. In a letter to Google CEO Sundar Pichai, Warren expresses concerns that the integration could allow Google and retailers \"to exploit sensitive user data\" or \"manipulate consumers into spending more and paying [&#8230;]",
+    "url": "https://www.theverge.com/news/873476/senator-elizabeth-warren-google-gemini-ai-shopping-privacy",
     "date": "2026-02-04"
   },
   {
@@ -154,17 +168,10 @@
     "date": "2026-02-04"
   },
   {
-    "title": "Humans are infiltrating the social network for AI bots",
-    "source": "The Verge",
-    "summary": "Ordinary social networks face a constant onslaught of chatbots pretending to be human. A new social platform for AI agents may face the opposite problem: getting clogged up by humans pretending to post as bots. Moltbook - a website meant for conversations between agents from the platform OpenClaw - went viral this weekend for its [&#8230;]",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/872961/humans-infiltrating-moltbook-openclaw-reddit-ai-bots",
-    "date": "2026-02-04"
-  },
-  {
-    "title": "Elon Musk merges SpaceX with xAI (and X)",
-    "source": "The Verge",
-    "summary": "Elon Musk is merging two of the companies that he leads, SpaceX and xAI (which also owns X), into one. According to an announcement from Musk: SpaceX has acquired xAI to form the most ambitious, vertically-integrated innovation engine on (and off) Earth, with AI, rockets, space-based internet, direct-to-mobile device communications and the world's foremost real-time [&#8230;]",
-    "url": "https://www.theverge.com/tech/872619/elon-musk-merges-spacex-with-xai-and-x",
+    "title": "AI Bots Are Now a Signifigant Source of Web Traffic",
+    "source": "Wired",
+    "summary": "New data shows AI bots pushing deeper into the web, prompting publishers to roll out more aggressive defenses.",
+    "url": "https://www.wired.com/story/ai-bots-are-now-a-signifigant-source-of-web-traffic/",
     "date": "2026-02-04"
   },
   {
@@ -217,10 +224,10 @@
     "date": "2026-02-04"
   },
   {
-    "title": "‘Uncanny Valley’: Minneapolis Misinformation, TikTok’s New Owners, and Moltbot Hype",
-    "source": "Wired",
-    "summary": "On this episode of Uncanny Valley, we dive into the news that's held our attention this week: ICE activity as it's been unfolding in Minnesota.",
-    "url": "https://www.wired.com/story/uncanny-valley-podcast-ice-minneapolis-tiktok-moltbot/",
+    "title": "So yeah, I vibe-coded a log colorizer—and I feel good about it",
+    "source": "Ars Technica",
+    "summary": "Some semi-unhinged musings on where LLMs fit into my life—and how I'll keep using them.",
+    "url": "https://arstechnica.com/features/2026/02/so-yeah-i-vibe-coded-a-log-colorizer-and-i-feel-good-about-it/",
     "date": "2026-02-04"
   },
   {
@@ -270,13 +277,6 @@
     "source": "Ars Technica",
     "summary": "We have no proof that AI models suffer, but Anthropic acts like they might for training purposes.",
     "url": "https://arstechnica.com/information-technology/2026/01/does-anthropic-believe-its-ai-is-conscious-or-is-that-just-what-it-wants-claude-to-think/",
-    "date": "2026-02-04"
-  },
-  {
-    "title": "Site catering to online criminals has been seized by the FBI",
-    "source": "Ars Technica",
-    "summary": "One of the last holdouts for ransomware discussions, RAMP is taken down.",
-    "url": "https://arstechnica.com/security/2026/01/site-catering-to-online-criminals-has-been-seized-by-the-fbi/",
     "date": "2026-02-04"
   }
 ]
