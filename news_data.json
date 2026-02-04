@@ -1,6 +1,27 @@
 [
   {
-    "title": "Alexa+, Amazon’s AI assistant, is now available to everyone in the U.S.",
+    "title": "Tinder looks to AI to help fight ‘swipe fatigue’ and dating app burnout",
+    "source": "TechCrunch",
+    "summary": "Tinder is testing AI recommendations and insight from your Camera Roll for better matches.",
+    "url": "https://techcrunch.com/2026/02/04/tinder-looks-to-ai-to-help-fight-swipe-fatigue-and-dating-app-burnout/",
+    "date": "2026-02-04"
+  },
+  {
+    "title": "Roblox’s 4D creation feature is now available in open beta",
+    "source": "TechCrunch",
+    "summary": "Roblox's highly anticipated 4D creation feature has officially arrived in open beta.",
+    "url": "https://techcrunch.com/2026/02/04/robloxs-4d-creation-feature-is-now-available-in-open-beta/",
+    "date": "2026-02-04"
+  },
+  {
+    "title": "ElevenLabs raises $500M from Sequoia at an $11 billion valuation",
+    "source": "TechCrunch",
+    "summary": "ElevenLabs' valuation has raised more than three times in the last 12 months.",
+    "url": "https://techcrunch.com/2026/02/04/elevenlabs-raises-500m-from-sequioia-at-a-11-billion-valuation/",
+    "date": "2026-02-04"
+  },
+  {
+    "title": "Alexa+, Amazon’s AI assistant, is now available to everyone in the US",
     "source": "TechCrunch",
     "summary": "Amazon opens Alexa+ to everyone in the U.S. The AI feature is free for Prime members across devices, and free for everyone on mobile and web.",
     "url": "https://techcrunch.com/2026/02/04/alexa-amazons-ai-assistant-is-now-available-to-everyone-in-the-u-s/",
@@ -32,27 +53,6 @@
     "source": "TechCrunch",
     "summary": "Xcode 26.3 offers agentic coding capabilities with Anthropic's Claude Agent and OpenAI's Codex.",
     "url": "https://techcrunch.com/2026/02/03/xcode-moves-into-agentic-coding-with-deeper-openai-and-anthropic-integrations/",
-    "date": "2026-02-04"
-  },
-  {
-    "title": "Lotus Health nabs $35M for AI doctor that sees patients for free",
-    "source": "TechCrunch",
-    "summary": "This AI doctor is licensed in all 50 states, the startup says. The deal was led by CRV and Kleiner Perkins.",
-    "url": "https://techcrunch.com/2026/02/03/lotus-health-nabs-35m-for-ai-doctor-that-sees-patients-for-free/",
-    "date": "2026-02-04"
-  },
-  {
-    "title": "Fitbit founders launch AI platform to help families monitor their health",
-    "source": "TechCrunch",
-    "summary": "Luffu uses AI in the background to gather and organize family information, learn day-to-day patterns, and flag notable changes so families can stay aligned and address potential well-being issues.",
-    "url": "https://techcrunch.com/2026/02/03/fitbit-founders-launch-ai-platform-to-help-families-monitor-their-health/",
-    "date": "2026-02-04"
-  },
-  {
-    "title": "Peak XV says internal disagreement led to partner exits as it doubles down on AI",
-    "source": "TechCrunch",
-    "summary": "Peak XV is transitioning board roles and opening a U.S. office while continuing to view India as its largest market.",
-    "url": "https://techcrunch.com/2026/02/03/peak-xv-says-internal-disagreement-led-to-partner-exits-as-it-doubles-down-on-ai/",
     "date": "2026-02-04"
   },
   {
@@ -112,6 +112,13 @@
     "date": "2026-02-04"
   },
   {
+    "title": "GitHub adds Claude and Codex AI coding agents",
+    "source": "The Verge",
+    "summary": "GitHub is making Claude by Anthropic and OpenAI's Codex AI coding agents directly available inside GitHub today. A new public preview adds Claude and Codex to GitHub, GitHub Mobile, and Visual Studio Code, for users with a Copilot Pro Plus or Copilot Enterprise subscription. The move is part of Agent HQ, GitHub's vision to make [&#8230;]",
+    "url": "https://www.theverge.com/news/873665/github-claude-codex-ai-agents",
+    "date": "2026-02-04"
+  },
+  {
     "title": "Anthropic says ‘Claude will remain ad-free,’ unlike ChatGPT",
     "source": "The Verge",
     "summary": "Anthropic has announced that it won't be bringing ads to its AI chatbot Claude, in sharp contrast to confirmed plans from OpenAI to allow advertising in ChatGPT. To hammer the point home further, the company is releasing a Super Bowl commercial that makes fun of unnamed rivals adding adverts to their AI. \"We want Claude [&#8230;]",
@@ -161,10 +168,10 @@
     "date": "2026-02-04"
   },
   {
-    "title": "Millions of books died so Claude could live",
-    "source": "The Verge",
-    "summary": "When ChatGPT launched, in November of 2022, it started a race that almost immediately consumed the tech industry. OpenAI didn't invent the concept of AI, but most of the state-of-the-art technology was confined to research labs at companies and institutions around the world. Then, suddenly, it was everywhere. And better than anyone expected. So many [&#8230;]",
-    "url": "https://www.theverge.com/podcast/872998/anthropic-claude-books-netflix-theaters-vergecast",
+    "title": "Mistral's New Ultra-Fast Translation Model Gives Big AI Labs a Run for Their Money",
+    "source": "Wired",
+    "summary": "“Too many GPUs makes you lazy,” says the French startup's vice president of science operations, as the company carves out a different path than the major US AI companies.",
+    "url": "https://www.wired.com/story/mistral-voxtral-real-time-ai-translation/",
     "date": "2026-02-04"
   },
   {
@@ -214,13 +221,6 @@
     "source": "Wired",
     "summary": "Plus: AI agent OpenClaw gives cybersecurity experts the willies, China executes 11 scam compound bosses, a $40 million crypto theft has an unexpected alleged culprit, and more.",
     "url": "https://www.wired.com/story/security-news-this-week-jeffrey-epstein-had-a-personal-hacker-informant-claims/",
-    "date": "2026-02-04"
-  },
-  {
-    "title": "I Let Google’s ‘Auto Browse’ AI Agent Take Over Chrome. It Didn’t Quite Click",
-    "source": "Wired",
-    "summary": "Auto Browse can shop for clothes, plan a trip, and buy tickets for you. Or at least, that’s the idea.",
-    "url": "https://www.wired.com/story/google-chrome-auto-browse-hands-on/",
     "date": "2026-02-04"
   },
   {
