@@ -1,5 +1,19 @@
 [
   {
+    "title": "A16z just raised $1.7B for AI infrastructure. Here’s where it’s going.",
+    "source": "TechCrunch",
+    "summary": "Andreessen Horowitz just raised&#160;a whopping&#160;⁠new&#160;$15 billion&#160;in funding⁠.&#160;And a&#160;$1.7 billion&#160;chunk&#160;of that is going to&#160;its&#160;⁠infrastructure&#160;team⁠,&#160;the one responsible for some of its biggest, most prominent&#160;AI investments including&#160;Black Forrest Labs, Cursor, OpenAI,&#160;⁠ElevenLabs⁠, Ideogram,&#160;⁠Fal⁠&#160;and dozens of other",
+    "url": "https://techcrunch.com/video/a16z-just-raised-1-7b-for-ai-infrastructure-heres-where-its-going/",
+    "date": "2026-02-04"
+  },
+  {
+    "title": "What a16z is actually funding (and what it’s ignoring) when it comes to AI infra",
+    "source": "TechCrunch",
+    "summary": "Andreessen Horowitz just raised&#160;a whopping&#160;new&#160;$15 billion&#160;in funding.&#160;And a&#160;$1.7 billion&#160;chunk&#160;of that is going to&#160;its&#160;infrastructure&#160;team,&#160;the one responsible for some of its biggest, most prominent&#160;AI investments including&#160;Black Forrest Labs, Cursor, OpenAI,&#160;ElevenLabs, Ideogram,&#160;Fal&#160;and dozens of others.&#160;",
+    "url": "https://techcrunch.com/podcast/what-a16z-is-actually-funding-and-what-its-ignoring-when-it-comes-to-ai-infra/",
+    "date": "2026-02-04"
+  },
+  {
     "title": "Tinder looks to AI to help fight ‘swipe fatigue’ and dating app burnout",
     "source": "TechCrunch",
     "summary": "Tinder is testing AI recommendations and insight from your Camera Roll for better matches.",
@@ -30,7 +44,7 @@
   {
     "title": "Accel doubles down on Fibr AI as agents turn static websites into one-to-one experiences",
     "source": "TechCrunch",
-    "summary": "Fibr AI replaces marketing agency– and engineering-heavy website personalization with autonomous systems designed for enterprise scale.",
+    "summary": "Fibr AI replaces marketing agency- and engineering-heavy website personalization with autonomous systems designed for enterprise scale.",
     "url": "https://techcrunch.com/2026/02/04/accel-doubles-down-on-fibr-ai-as-agents-turn-static-websites-into-one-to-one-experiences/",
     "date": "2026-02-04"
   },
@@ -39,20 +53,6 @@
     "source": "TechCrunch",
     "summary": "The investment comes from backers including the Qatar Investment Authority as demand for chips beyond Nvidia soars and as Qatar aims to build out its AI infrastructure.",
     "url": "https://techcrunch.com/2026/02/04/exclusive-positron-raises-230m-series-b-to-take-on-nvidias-ai-chips/",
-    "date": "2026-02-04"
-  },
-  {
-    "title": "Intel will start making GPUs, a market dominated by Nvidia",
-    "source": "TechCrunch",
-    "summary": "Intel has been bulking up a team to focus on this effort and will develop its GPU strategy around customer needs.",
-    "url": "https://techcrunch.com/2026/02/03/intel-will-start-making-gpus-a-market-dominated-by-nvidia/",
-    "date": "2026-02-04"
-  },
-  {
-    "title": "Xcode moves into agentic coding with deeper OpenAI and Anthropic integrations",
-    "source": "TechCrunch",
-    "summary": "Xcode 26.3 offers agentic coding capabilities with Anthropic's Claude Agent and OpenAI's Codex.",
-    "url": "https://techcrunch.com/2026/02/03/xcode-moves-into-agentic-coding-with-deeper-openai-and-anthropic-integrations/",
     "date": "2026-02-04"
   },
   {
@@ -112,6 +112,13 @@
     "date": "2026-02-04"
   },
   {
+    "title": "OpenClaw&#8217;s AI &#8216;skill&#8217; extensions are a security nightmare",
+    "source": "The Verge",
+    "summary": "OpenClaw, the AI agent that has exploded in popularity over the past week, is raising new security concerns after researchers uncovered malware in hundreds of user-submitted \"skill\" add-ons on its marketplace. In a post on Monday, 1Password product VP Jason Meller says OpenClaw's skill hub has become \"an attack surface,\" with the most-downloaded add-on serving [&#8230;]",
+    "url": "https://www.theverge.com/news/874011/openclaw-ai-skill-clawhub-extensions-security-nightmare",
+    "date": "2026-02-04"
+  },
+  {
     "title": "GitHub adds Claude and Codex AI coding agents",
     "source": "The Verge",
     "summary": "GitHub is making Claude by Anthropic and OpenAI's Codex AI coding agents directly available inside GitHub today. A new public preview adds Claude and Codex to GitHub, GitHub Mobile, and Visual Studio Code, for users with a Copilot Pro Plus or Copilot Enterprise subscription. The move is part of Agent HQ, GitHub's vision to make [&#8230;]",
@@ -161,10 +168,10 @@
     "date": "2026-02-04"
   },
   {
-    "title": "Claude Code was down, forcing developers to take a long coffee break",
-    "source": "The Verge",
-    "summary": "Anthropic's Claude AI models experienced a major outage today, impacting products like Claude Code. Developers were seeing a 500 error when trying to use Claude Code, and Anthropic said that it was seeing elevated error rates on its APIs \"across all Claude models.\" Anthropic quickly identified the root cause and implemented a fix within around [&#8230;]",
-    "url": "https://www.theverge.com/news/873093/claude-code-down-outage-anthropic",
+    "title": "A New AI Math Startup Just Cracked 4 Previously Unsolved Problems",
+    "source": "Wired",
+    "summary": "Axiom says its AI found solutions to several long-standing math problems, a sign of the technology’s steadily advancing reasoning capabilities.",
+    "url": "https://www.wired.com/story/a-new-ai-math-ai-startup-just-cracked-4-previously-unsolved-problems/",
     "date": "2026-02-04"
   },
   {
@@ -214,13 +221,6 @@
     "source": "Wired",
     "summary": "Since March of 2025, the Department of Health and Human Services has been using tools from Palantir and the startup Credal AI to weed out perceived alignment with “DEI” or “gender ideology.”",
     "url": "https://www.wired.com/story/hhs-is-using-ai-tools-from-palantir-to-target-dei-and-gender-ideology-in-grants/",
-    "date": "2026-02-04"
-  },
-  {
-    "title": "Jeffrey Epstein Had a ‘Personal Hacker,’ Informant Claims",
-    "source": "Wired",
-    "summary": "Plus: AI agent OpenClaw gives cybersecurity experts the willies, China executes 11 scam compound bosses, a $40 million crypto theft has an unexpected alleged culprit, and more.",
-    "url": "https://www.wired.com/story/security-news-this-week-jeffrey-epstein-had-a-personal-hacker-informant-claims/",
     "date": "2026-02-04"
   },
   {
