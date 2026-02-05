@@ -1,5 +1,19 @@
 [
   {
+    "title": "OpenAI launches new agentic coding model only minutes after Anthropic drops its own",
+    "source": "TechCrunch",
+    "summary": "The new model is build to accelerate the capabilities of Codex, the agentic coding tool OpenAI launched earlier this week.",
+    "url": "https://techcrunch.com/2026/02/05/openai-launches-new-agentic-coding-model-only-minutes-after-anthropic-drops-its-own/",
+    "date": "2026-02-05"
+  },
+  {
+    "title": "Elon Musk is getting serious about orbital data centers",
+    "source": "TechCrunch",
+    "summary": "We’re starting to see the idea of Musk-owned orbital AI data clusters cohere into an actual plan.",
+    "url": "https://techcrunch.com/2026/02/05/elon-musk-is-getting-serious-about-orbital-data-centers/",
+    "date": "2026-02-05"
+  },
+  {
     "title": "OpenAI launches a way for enterprises to build and manage AI agents",
     "source": "TechCrunch",
     "summary": "OpenAI launched Frontier, a new platform designed for enterprises to build and deploy agents while treating them like human employees.",
@@ -9,19 +23,19 @@
   {
     "title": "Anthropic releases Opus 4.6 with new ‘agent teams’",
     "source": "TechCrunch",
-    "summary": "The newest version of Anthropic's model is designed to broaden its appeal.",
+    "summary": "The newest version of Anthropic's model is designed to broaden its capabilities and appeal, allowing for a greater variety of uses and customers.",
     "url": "https://techcrunch.com/2026/02/05/anthropic-releases-opus-4-6-with-new-agent-teams/",
     "date": "2026-02-05"
   },
   {
-    "title": "Meta tests a standalone app for its AI-generated ‘Vibes’ videos",
+    "title": "Meta tests a stand-alone app for its AI-generated ‘Vibes’ videos",
     "source": "TechCrunch",
     "summary": "Launched last September, Vibes lets you create and share short-form AI-generated videos and access a dedicated feed that displays AI videos from others.",
     "url": "https://techcrunch.com/2026/02/05/meta-tests-a-standalone-app-for-its-ai-generated-vibes-videos/",
     "date": "2026-02-05"
   },
   {
-    "title": "Fundamental raises $255 million Series A with a new take on big data analysis",
+    "title": "Fundamental raises $255M Series A with a new take on big data analysis",
     "source": "TechCrunch",
     "summary": "Fundamental has built a new foundation model to solve an old problem: how to draw insights from the huge quantities of structured data produced by enterprises.",
     "url": "https://techcrunch.com/2026/02/05/fundamental-raises-255-million-series-a-with-a-new-take-on-big-data-analysis/",
@@ -39,20 +53,6 @@
     "source": "TechCrunch",
     "summary": "He posted a novella-sized rant that devolved into to calling his rival \"dishonest\" and \"authoritarian.\"",
     "url": "https://techcrunch.com/2026/02/04/sam-altman-got-exceptionally-testy-over-claude-super-bowl-ads/",
-    "date": "2026-02-05"
-  },
-  {
-    "title": "Alphabet won’t talk about the Google-Apple AI deal, even to investors",
-    "source": "TechCrunch",
-    "summary": "Alphabet CEO skipped an analyst's question about Apple on the company's earnings call.",
-    "url": "https://techcrunch.com/2026/02/04/alphabet-wont-talk-about-the-google-apple-ai-deal-even-to-investors/",
-    "date": "2026-02-05"
-  },
-  {
-    "title": "Google’s Gemini app has surpassed 750M monthly active users",
-    "source": "TechCrunch",
-    "summary": "Google revealed a significant milestone for its Gemini app, announcing over 750 million monthly active users as it competes with ChatGPT and Meta AI.",
-    "url": "https://techcrunch.com/2026/02/04/googles-gemini-app-has-surpassed-750m-monthly-active-users/",
     "date": "2026-02-05"
   },
   {
@@ -168,6 +168,13 @@
     "date": "2026-02-05"
   },
   {
+    "title": "ICE and CBP’s Face-Recognition App Can’t Actually Verify Who People Are",
+    "source": "Wired",
+    "summary": "ICE has used Mobile Fortify to identify immigrants and citizens alike over 100,000 times, by one estimate. It wasn't built to work like that—and only got approved after DHS abandoned its own privacy rules.",
+    "url": "https://www.wired.com/story/cbp-ice-dhs-mobile-fortify-face-recognition-verify-identity/",
+    "date": "2026-02-05"
+  },
+  {
     "title": "Hollywood Is Losing Audiences to AI Fatigue",
     "source": "Wired",
     "summary": "Entertainment about or made with artificial intelligence has been missing the mark with viewers over the past year.",
@@ -217,10 +224,10 @@
     "date": "2026-02-05"
   },
   {
-    "title": "Elon Musk Is Rolling xAI Into SpaceX—Creating the World’s Most Valuable Private Company",
-    "source": "Wired",
-    "summary": "By fusing SpaceX and xAI—which acquired X last year—Elon Musk tightens his grip over technologies that shape national security, social media, and artificial intelligence.",
-    "url": "https://www.wired.com/story/spacex-acquires-xai-elon-musk/",
+    "title": "OpenAI is hoppin' mad about Anthropic's new Super Bowl TV ads",
+    "source": "Ars Technica",
+    "summary": "Sam Altman calls AI competitor \"dishonest\" and \"authoritarian\" in lengthy post on X.",
+    "url": "https://arstechnica.com/information-technology/2026/02/openai-is-hoppin-mad-about-anthropics-new-super-bowl-tv-ads/",
     "date": "2026-02-05"
   },
   {
@@ -270,13 +277,6 @@
     "source": "Ars Technica",
     "summary": "Suspected China-state hackers used update infrastructure to deliver backdoored version.",
     "url": "https://arstechnica.com/security/2026/02/notepad-updater-was-compromised-for-6-months-in-supply-chain-attack/",
-    "date": "2026-02-05"
-  },
-  {
-    "title": "AI agents now have their own Reddit-style social network, and it's getting weird fast",
-    "source": "Ars Technica",
-    "summary": "Moltbook lets 32,000 AI bots trade jokes, tips, and complaints about humans.",
-    "url": "https://arstechnica.com/information-technology/2026/01/ai-agents-now-have-their-own-reddit-style-social-network-and-its-getting-weird-fast/",
     "date": "2026-02-05"
   }
 ]
