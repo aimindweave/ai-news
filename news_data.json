@@ -1,5 +1,40 @@
 [
   {
+    "title": "OpenAI launches a way for enterprises to build and manage AI agents",
+    "source": "TechCrunch",
+    "summary": "OpenAI launched Frontier, a new platform designed for enterprises to build and deploy agents while treating them like human employees.",
+    "url": "https://techcrunch.com/2026/02/05/openai-launches-a-way-for-enterprises-to-build-and-manage-ai-agents/",
+    "date": "2026-02-05"
+  },
+  {
+    "title": "Anthropic releases Opus 4.6 with new ‘agent teams’",
+    "source": "TechCrunch",
+    "summary": "The newest version of Anthropic's model is designed to broaden its appeal.",
+    "url": "https://techcrunch.com/2026/02/05/anthropic-releases-opus-4-6-with-new-agent-teams/",
+    "date": "2026-02-05"
+  },
+  {
+    "title": "Meta tests a standalone app for its AI-generated ‘Vibes’ videos",
+    "source": "TechCrunch",
+    "summary": "Launched last September, Vibes lets you create and share short-form AI-generated videos and access a dedicated feed that displays AI videos from others.",
+    "url": "https://techcrunch.com/2026/02/05/meta-tests-a-standalone-app-for-its-ai-generated-vibes-videos/",
+    "date": "2026-02-05"
+  },
+  {
+    "title": "Fundamental raises $255 million Series A with a new take on big data analysis",
+    "source": "TechCrunch",
+    "summary": "Fundamental has built a new foundation model to solve an old problem: how to draw insights from the huge quantities of structured data produced by enterprises.",
+    "url": "https://techcrunch.com/2026/02/05/fundamental-raises-255-million-series-a-with-a-new-take-on-big-data-analysis/",
+    "date": "2026-02-05"
+  },
+  {
+    "title": "ElevenLabs CEO: Voice is the next interface for AI",
+    "source": "TechCrunch",
+    "summary": "ElevenLabs CEO argued at Web Summit Qatar that voice is the next interface for AI, as OpenAI, Google, and Apple push conversational systems into wearables, new hardware, and everyday interactions.",
+    "url": "https://techcrunch.com/2026/02/05/elevenlabs-ceo-voice-is-the-next-interface-for-ai/",
+    "date": "2026-02-05"
+  },
+  {
     "title": "Sam Altman got exceptionally testy over Claude Super Bowl ads",
     "source": "TechCrunch",
     "summary": "He posted a novella-sized rant that devolved into to calling his rival \"dishonest\" and \"authoritarian.\"",
@@ -21,38 +56,10 @@
     "date": "2026-02-05"
   },
   {
-    "title": "Meet Gizmo: A TikTok for interactive, vibe-coded mini apps",
-    "source": "TechCrunch",
-    "summary": "Gizmo's app is like a TikTok for vibe-coded mini apps... and it's a lot of fun.",
-    "url": "https://techcrunch.com/2026/02/04/meet-gizmo-a-tiktok-for-interactive-vibe-coded-mini-apps/",
-    "date": "2026-02-05"
-  },
-  {
-    "title": "AI SRE Resolve AI confirms $125M raise, unicorn valuation",
-    "source": "TechCrunch",
-    "summary": "The two-year-old startup confirms that it closed a Series A led by Lightspeed at $1 billion valuation.",
-    "url": "https://techcrunch.com/2026/02/04/ai-sre-resolve-ai-confirms-125m-raise-unicorn-valuation/",
-    "date": "2026-02-05"
-  },
-  {
-    "title": "Amazon to begin testing AI tools for film and TV production next month",
-    "source": "TechCrunch",
-    "summary": "Amazon MGM Studios will reportedly begin a closed beta program in March to test its AI tools to help with film and TV production.",
-    "url": "https://techcrunch.com/2026/02/04/amazon-to-begin-testing-ai-tools-for-film-and-tv-production-next-month/",
-    "date": "2026-02-05"
-  },
-  {
-    "title": "A16z just raised $1.7B for AI infrastructure. Here’s where it’s going.",
-    "source": "TechCrunch",
-    "summary": "Andreessen Horowitz just raised&#160;a whopping&#160;⁠new&#160;$15 billion&#160;in funding⁠.&#160;And a&#160;$1.7 billion&#160;chunk&#160;of that is going to&#160;its&#160;⁠infrastructure&#160;team⁠,&#160;the one responsible for some of its biggest, most prominent&#160;AI investments including&#160;Black Forrest Labs, Cursor, OpenAI,&#160;⁠ElevenLabs⁠, Ideogram,&#160;⁠Fal⁠&#160;and dozens of other",
-    "url": "https://techcrunch.com/video/a16z-just-raised-1-7b-for-ai-infrastructure-heres-where-its-going/",
-    "date": "2026-02-05"
-  },
-  {
-    "title": "What a16z is actually funding (and what it’s ignoring) when it comes to AI infra",
-    "source": "TechCrunch",
-    "summary": "Andreessen Horowitz just raised&#160;a whopping&#160;new&#160;$15 billion&#160;in funding.&#160;And a&#160;$1.7 billion&#160;chunk&#160;of that is going to&#160;its&#160;infrastructure&#160;team,&#160;the one responsible for some of its biggest, most prominent&#160;AI investments, including&#160;Black Forest Labs, Cursor, OpenAI,&#160;ElevenLabs, Ideogram,&#160;Fal,&#160;and dozens of others.&#160",
-    "url": "https://techcrunch.com/podcast/what-a16z-is-actually-funding-and-what-its-ignoring-when-it-comes-to-ai-infra/",
+    "title": "Consolidating systems for AI with iPaaS",
+    "source": "MIT Tech Review",
+    "summary": "For decades, enterprises reacted to shifting business pressures with stopgap technology solutions. To rein in rising infrastructure costs, they adopted cloud services that could scale on demand. When customers shifted their lives onto smartphones, companies rolled out mobile apps to keep pace. And when businesses began needing real-time visibility into factories and stockrooms, they layered&#8230;",
+    "url": "https://www.technologyreview.com/2026/02/05/1132200/consolidating-systems-for-ai-with-ipaas/",
     "date": "2026-02-05"
   },
   {
@@ -105,10 +112,38 @@
     "date": "2026-02-05"
   },
   {
-    "title": "What we’ve been getting wrong about AI’s truth crisis",
-    "source": "MIT Tech Review",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. What would it take to convince you that the era of truth decay we were long warned about—where AI content dupes us, shapes our beliefs even when we catch the lie, and&#8230;",
-    "url": "https://www.technologyreview.com/2026/02/02/1132068/what-weve-been-getting-wrong-about-ais-truth-crisis/",
+    "title": "Super Bowl LX ads: all AI everything",
+    "source": "The Verge",
+    "summary": "Super Bowl LX is nearly here, with the Seattle Seahawks taking on the New England Patriots. While Bad Bunny will be the star of the halftime show, AI could be the star of the commercial breaks, much like crypto was a few years ago. Last year’s Super Bowl featured a Google Gemini ad that fumbled [&#8230;]",
+    "url": "https://www.theverge.com/entertainment/874504/super-bowl-lx-ads-big-game",
+    "date": "2026-02-05"
+  },
+  {
+    "title": "Claude has been having a moment — can it keep it up?",
+    "source": "The Verge",
+    "summary": "Boris Cherny gets recognized in public relatively often. At the bar, at the airport, and in generally any public space, people want to take selfies with the creator and head of Claude Code. For the last couple of months, Anthropic's Claude and its coding platform have been having a moment - on social media, in [&#8230;]",
+    "url": "https://www.theverge.com/report/874308/anthropic-claude-code-opus-hype-moment",
+    "date": "2026-02-05"
+  },
+  {
+    "title": "Anthropic debuts new model with hopes to corner the market beyond coding",
+    "source": "The Verge",
+    "summary": "Anthropic's \"smartest model\" is getting a major boost, the company said in a blog post announcing Claude Opus 4.6. It called the new model a \"direct upgrade\" from its predecessor in a release, noting that it can better take on complex, multi-step tasks and get \"much closer to production-ready quality on the first try than [&#8230;]",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/874440/anthropic-opus-4-6-new-model-claude",
+    "date": "2026-02-05"
+  },
+  {
+    "title": "Nvidia&#8217;s RTX 50-series Super refresh is delayed, and the RTX 60-series might miss 2027",
+    "source": "The Verge",
+    "summary": "The Super refresh to Nvidia's RTX 50-series GPUs was expected at CES 2026 in January, but it didn't make an appearance. The Information reports that in December, Nvidia managers decided not to release the new cards as scheduled, choosing to prioritize AI chips instead due to the limited supply of RAM currently available. On top [&#8230;]",
+    "url": "https://www.theverge.com/tech/874439/nvidia-rtx-50-super-60-series-delay",
+    "date": "2026-02-05"
+  },
+  {
+    "title": "Reality is losing the deepfake war",
+    "source": "The Verge",
+    "summary": "Today, we’re going to talk about reality, and whether we can label photos and videos to protect our shared understanding of the world around us. No really, we’re gonna go there. It’s a deep one. To do this, I’m going to bring on Verge reporter Jess Weatherbed, who covers creative tools for us — a [&#8230;]",
+    "url": "https://www.theverge.com/podcast/874038/ai-deepfakes-war-on-reality-c2pa-labels",
     "date": "2026-02-05"
   },
   {
@@ -130,41 +165,6 @@
     "source": "The Verge",
     "summary": "Sam Altman responded to Anthropic's new Super Bowl ad in an X post on Wednesday, saying the OpenAI competitor's campaign is \"clearly dishonest,\" and called it \"on brand\" for Anthropic to \"doublespeak.\" \"We would obviously never run ads in the way Anthropic depicts them,\" he wrote. \"We are not stupid and we know our users [&#8230;]",
     "url": "https://www.theverge.com/news/874084/ai-chatgpt-claude-super-bowl-ads-openai-anthropic",
-    "date": "2026-02-05"
-  },
-  {
-    "title": "OpenClaw&#8217;s AI &#8216;skill&#8217; extensions are a security nightmare",
-    "source": "The Verge",
-    "summary": "OpenClaw, the AI agent that has exploded in popularity over the past week, is raising new security concerns after researchers uncovered malware in hundreds of user-submitted \"skill\" add-ons on its marketplace. In a post on Monday, 1Password product VP Jason Meller says OpenClaw's skill hub has become \"an attack surface,\" with the most-downloaded add-on serving [&#8230;]",
-    "url": "https://www.theverge.com/news/874011/openclaw-ai-skill-clawhub-extensions-security-nightmare",
-    "date": "2026-02-05"
-  },
-  {
-    "title": "GitHub adds Claude and Codex AI coding agents",
-    "source": "The Verge",
-    "summary": "GitHub is making Claude by Anthropic and OpenAI's Codex AI coding agents directly available inside GitHub today. A new public preview adds Claude and Codex to GitHub, GitHub Mobile, and Visual Studio Code, for users with a Copilot Pro Plus or Copilot Enterprise subscription. The move is part of Agent HQ, GitHub's vision to make [&#8230;]",
-    "url": "https://www.theverge.com/news/873665/github-claude-codex-ai-agents",
-    "date": "2026-02-05"
-  },
-  {
-    "title": "Anthropic says ‘Claude will remain ad-free,’ unlike ChatGPT",
-    "source": "The Verge",
-    "summary": "Anthropic has announced that it won't be bringing ads to its AI chatbot Claude, in sharp contrast to confirmed plans from OpenAI to allow advertising in ChatGPT. To hammer the point home further, the company is releasing a Super Bowl commercial that makes fun of unnamed rivals adding adverts to their AI. \"We want Claude [&#8230;]",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/873686/anthropic-claude-ai-ad-free-super-bowl-advert-chatgpt",
-    "date": "2026-02-05"
-  },
-  {
-    "title": "Sen. Warren wants to know what Google Gemini’s built-in checkout means for user privacy",
-    "source": "The Verge",
-    "summary": "Sen. Elizabeth Warren (D-MA) is pressing Google for more information about its plans to build a checkout feature into its Gemini AI chatbot. In a letter to Google CEO Sundar Pichai, Warren expresses concerns that the integration could allow Google and retailers \"to exploit sensitive user data\" or \"manipulate consumers into spending more and paying [&#8230;]",
-    "url": "https://www.theverge.com/news/873476/senator-elizabeth-warren-google-gemini-ai-shopping-privacy",
-    "date": "2026-02-05"
-  },
-  {
-    "title": "Elon Musk is merging SpaceX and xAI to build data centers in space — or so he says",
-    "source": "The Verge",
-    "summary": "On Monday, Elon Musk announced that he was merging two of his companies, SpaceX and xAI, in a deal said to be worth $1.25 trillion. The reason, Musk said in an announcement, was that in order for AI to grow, it needed to go to space. AI relies on \"large terrestrial data centers\" that run [&#8230;]",
-    "url": "https://www.theverge.com/transportation/873203/elon-musk-spacex-xai-merge-data-centers-space-tesla-ipo",
     "date": "2026-02-05"
   },
   {
@@ -224,6 +224,13 @@
     "date": "2026-02-05"
   },
   {
+    "title": "Increase of AI bots on the Internet sparks arms race",
+    "source": "Ars Technica",
+    "summary": "Publishers are rolling out more aggressive defenses.",
+    "url": "https://arstechnica.com/ai/2026/02/increase-of-ai-bots-on-the-internet-sparks-arms-race/",
+    "date": "2026-02-05"
+  },
+  {
     "title": "Microsoft releases urgent Office patch. Russian-state hackers pounce.",
     "source": "Ars Technica",
     "summary": "The window to patch vulnerabilities is shrinking rapidly.",
@@ -270,13 +277,6 @@
     "source": "Ars Technica",
     "summary": "Moltbook lets 32,000 AI bots trade jokes, tips, and complaints about humans.",
     "url": "https://arstechnica.com/information-technology/2026/01/ai-agents-now-have-their-own-reddit-style-social-network-and-its-getting-weird-fast/",
-    "date": "2026-02-05"
-  },
-  {
-    "title": "Developers say AI coding tools work—and that's precisely what worries them",
-    "source": "Ars Technica",
-    "summary": "Ars spoke to several software devs about AI and found enthusiasm tempered by unease.",
-    "url": "https://arstechnica.com/ai/2026/01/developers-say-ai-coding-tools-work-and-thats-precisely-what-worries-them/",
     "date": "2026-02-05"
   }
 ]
