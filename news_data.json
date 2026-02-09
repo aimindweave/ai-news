@@ -1,5 +1,26 @@
 [
   {
+    "title": "Databricks CEO says SaaS isn’t dead, but AI will soon make it irrelevant",
+    "source": "TechCrunch",
+    "summary": "AI isn't going to replace major SaaS apps with vibe-coded versions, Databricks CEO Ali Ghodsi believes. But it could give rise to competitors.",
+    "url": "https://techcrunch.com/2026/02/09/databricks-ceo-says-saas-isnt-dead-but-ai-will-soon-make-it-irrelevant/",
+    "date": "2026-02-09"
+  },
+  {
+    "title": "Anthropic’s India expansion collides with a local company that already had the name",
+    "source": "TechCrunch",
+    "summary": "India's Anthropic Software has taken the U.S. AI giant to court over a name dispute.",
+    "url": "https://techcrunch.com/2026/02/09/anthropics-india-expansion-collides-with-a-local-company-that-already-had-the-name/",
+    "date": "2026-02-09"
+  },
+  {
+    "title": "ChatGPT rolls out ads",
+    "source": "TechCrunch",
+    "summary": "OpenAI faced a backlash late last year when it tested app suggestions that looked like unwanted ads. Still, the AI company needs to generate revenue from its popular chatbot to cover the costs of developing its technology and growing the business.",
+    "url": "https://techcrunch.com/2026/02/09/chatgpt-rolls-out-ads/",
+    "date": "2026-02-09"
+  },
+  {
     "title": "Workday CEO Eschenbach departs, with co-founder Aneel Bhusri returning as CEO",
     "source": "TechCrunch",
     "summary": "Bhusri said in a statement that the company's next chapter would be focused on AI.",
@@ -32,27 +53,6 @@
     "source": "TechCrunch",
     "summary": "The purchase rewrites the domain record books -- not that the crypto industry has ever been accused of restraint when it comes to spending.",
     "url": "https://techcrunch.com/2026/02/08/crypto-com-places-70m-bet-on-ai-com-domain-ahead-of-super-bowl/",
-    "date": "2026-02-09"
-  },
-  {
-    "title": "Okay, I’m slightly less mad about that ‘Magnificent Ambersons’ AI project",
-    "source": "TechCrunch",
-    "summary": "But this is still a bad idea.",
-    "url": "https://techcrunch.com/2026/02/08/okay-im-slightly-less-mad-about-that-magnificent-ambersons-ai-project/",
-    "date": "2026-02-09"
-  },
-  {
-    "title": "From Svedka to Anthropic, brands make bold plays with AI in Super Bowl ads",
-    "source": "TechCrunch",
-    "summary": "From the first AI-generated Big Game ad courtesy of Svedka to Anthropic's beef with OpenAI, here are the biggest ads from Super Bowl LX.",
-    "url": "https://techcrunch.com/2026/02/08/super-bowl-60-ai-ads-svedka-anthropic-brands-commercials/",
-    "date": "2026-02-09"
-  },
-  {
-    "title": "New York lawmakers propose a 3-year pause on new data centers",
-    "source": "TechCrunch",
-    "summary": "Although the bill’s prospects are uncertain, New York is at least the sixth state to consider pausing construction of new data centers.",
-    "url": "https://techcrunch.com/2026/02/07/new-york-lawmakers-propose-a-three-year-pause-on-new-data-centers/",
     "date": "2026-02-09"
   },
   {
@@ -112,6 +112,13 @@
     "date": "2026-02-09"
   },
   {
+    "title": "ChatGPT&#8217;s cheapest options now show you ads",
+    "source": "The Verge",
+    "summary": "ChatGPT users may soon start seeing ads in their chats, as OpenAI announced on Monday that it's officially beginning to test ads on its AI platform. They'll appear as labeled \"sponsored\" links at the bottom of ChatGPT answers, but OpenAI says the ads \"do not influence the answers ChatGPT gives you.\" Currently, ads will only [&#8230;]",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/876029/openai-testing-ads-in-chatgpt",
+    "date": "2026-02-09"
+  },
+  {
     "title": "AI-generated ads dropped the ball at this year&#8217;s Super Bowl",
     "source": "The Verge",
     "summary": "It feels like everyone who produced ad spots for this year's Super Bowl with generative AI failed in terms of making gen AI seem useful or like something worth getting excited about. Though we've seen plenty of AI-generated commercials before (at previous Super Bowls, no less), this year's event was oversaturated with them. That's in [&#8230;]",
@@ -158,13 +165,6 @@
     "source": "The Verge",
     "summary": "CarPlay users could soon be able to use their chatbot of choice instead of Siri. As Bloomberg reports, Apple is working to add support for CarPlay voice control apps from OpenAI, Anthropic, Google, and others. Previously, users who wanted to access third-party chatbots in the car would need to go through their iPhone, but soon [&#8230;]",
     "url": "https://www.theverge.com/transportation/875199/apple-carplay-third-party-chatbots-rumor",
-    "date": "2026-02-09"
-  },
-  {
-    "title": "What happens when Waymo runs into a tornado? Or an elephant?",
-    "source": "The Verge",
-    "summary": "An autonomous vehicle drives down a lonely stretch of highway. Suddenly, a massive tornado appears in the distance. What does the driverless vehicle do next? This is just one of the scenarios that Waymo can simulate in the \"hyper realistic\" virtual world that it has just created with help from Google's DeepMind. Waymo's World Model [&#8230;]",
-    "url": "https://www.theverge.com/transportation/874771/waymo-world-model-simulation-google-deepmind-genie-3",
     "date": "2026-02-09"
   },
   {
