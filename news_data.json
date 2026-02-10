@@ -1,5 +1,40 @@
 [
   {
+    "title": "Amazon may launch a marketplace where media sites can sell their content to AI companies",
+    "source": "TechCrunch",
+    "summary": "A new report claims the e-commerce giant is looking to create a pipeline of licensable content between media publishers and AI companies.",
+    "url": "https://techcrunch.com/2026/02/10/amazon-may-launch-a-marketplace-where-media-sites-can-sell-their-content-to-ai-companies/",
+    "date": "2026-02-10"
+  },
+  {
+    "title": "An ice dance duo skated to AI music at the Olympics",
+    "source": "TechCrunch",
+    "summary": "Czech ice dancers Katerina Mrazkova and Daniel Mrazek are learning the hard way that LLMs sometimes spit out straight-up plagiarism.",
+    "url": "https://techcrunch.com/2026/02/10/olympics-czech-ice-dancers-duo-ai-music/",
+    "date": "2026-02-10"
+  },
+  {
+    "title": "This Sequoia-backed lab thinks the brain is ‘the floor, not the ceiling’ for AI",
+    "source": "TechCrunch",
+    "summary": "AI lab&#160;Flapping Airplanes&#160;just landed $180 million in seed funding from the likes of Google Ventures, Sequoia, and Index to do something most labs have quietly given up on: making models learn like humans instead of vacuuming up the internet. The founding team, made up of brothers Ben and Asher Spector and co-founder Aidan Smith, is [&#8230;]",
+    "url": "https://techcrunch.com/podcast/this-sequoia-backed-lab-thinks-the-brain-is-the-floor-not-the-ceiling-for-ai/",
+    "date": "2026-02-10"
+  },
+  {
+    "title": "Boston Dynamics CEO Robert Playter steps down after 30 years at the company",
+    "source": "TechCrunch",
+    "summary": "Robert Playter announcd he is leaving Boston Dynamics after 30 years at the company in various roles, including six years as CEO.",
+    "url": "https://techcrunch.com/2026/02/10/boston-dynamics-ceo-robert-playter-steps-down-after-30-years-at-the-company/",
+    "date": "2026-02-10"
+  },
+  {
+    "title": "Nearly half of xAI’s founding team has now left the company",
+    "source": "TechCrunch",
+    "summary": "Whatever the cause of the departures, the cumulative impact is alarming. There is a lot of work left to do at xAI, and an IPO will bring more scrutiny than the lab has ever faced before.",
+    "url": "https://techcrunch.com/2026/02/10/nearly-half-of-xais-founding-team-has-now-left-the-company/",
+    "date": "2026-02-10"
+  },
+  {
     "title": "Facebook adds new AI features, animated profile photos, and backgrounds for text posts",
     "source": "TechCrunch",
     "summary": "Facebook's new AI features let users animate their profile pics, restyle their Stories and Memories, and add backgrounds to text posts.",
@@ -18,41 +53,6 @@
     "source": "TechCrunch",
     "summary": "Hauler Hero has seen its customer base, revenue, and head count double since the company raised its seed round in 2024.",
     "url": "https://techcrunch.com/2026/02/10/hauler-hero-collects-16m-for-its-ai-waste-management-software/",
-    "date": "2026-02-10"
-  },
-  {
-    "title": "India orders social media platforms to take down deepfakes faster",
-    "source": "TechCrunch",
-    "summary": "India’s new rules take effect February 20, tightening deepfake oversight and shrinking takedown windows to as little as two hours.",
-    "url": "https://techcrunch.com/2026/02/10/india-orders-social-media-platforms-to-take-down-deepfakes-faster/",
-    "date": "2026-02-10"
-  },
-  {
-    "title": "Former GitHub CEO raises record $60M dev tool seed round at $300M valuation",
-    "source": "TechCrunch",
-    "summary": "Thomas Dohmke's new startup offers an AI system to allow developers to better manage all the code AI agents produce.",
-    "url": "https://techcrunch.com/2026/02/10/former-github-ceo-raises-record-60m-dev-tool-seed-round-at-300m-valuation/",
-    "date": "2026-02-10"
-  },
-  {
-    "title": "AI video startup Runway raises $315M at $5.3B valuation, eyes more capable world models",
-    "source": "TechCrunch",
-    "summary": "Startup Runway has raised a $315 million round at a $5.3 billion valuation, funds it will use to expand beyond AI video generation and into world models.",
-    "url": "https://techcrunch.com/2026/02/10/ai-video-startup-runway-raises-315m-at-5-3b-valuation-eyes-more-capable-world-models/",
-    "date": "2026-02-10"
-  },
-  {
-    "title": "The first signs of burnout are coming from the people who embrace AI the most",
-    "source": "TechCrunch",
-    "summary": "Because employees could do more, work began bleeding into lunch breaks and late evenings. The employees' to-do lists expanded to fill every hour that AI freed up, and then kept going.",
-    "url": "https://techcrunch.com/2026/02/09/the-first-signs-of-burnout-are-coming-from-the-people-who-embrace-ai-the-most/",
-    "date": "2026-02-10"
-  },
-  {
-    "title": "Databricks CEO says SaaS isn’t dead, but AI will soon make it irrelevant",
-    "source": "TechCrunch",
-    "summary": "AI isn't going to replace major SaaS apps with vibe-coded versions, Databricks CEO Ali Ghodsi believes. But it could give rise to competitors.",
-    "url": "https://techcrunch.com/2026/02/09/databricks-ceo-says-saas-isnt-dead-but-ai-will-soon-make-it-irrelevant/",
     "date": "2026-02-10"
   },
   {
@@ -112,6 +112,13 @@
     "date": "2026-02-10"
   },
   {
+    "title": "ChatGPT’s deep research tool adds a built-in document viewer so you can read its reports",
+    "source": "The Verge",
+    "summary": "OpenAI is updating ChatGPT's deep research tool with a full-screen viewer that you can use to scroll through and navigate to specific areas of its AI-generated reports. As shown in a video shared by OpenAI, the built-in viewer allows you to open ChatGPT's reports in a window separate from your chat, while showing a table [&#8230;]",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/876775/openai-deep-research-chatgpt-full-screen-report-viewer",
+    "date": "2026-02-10"
+  },
+  {
     "title": "Facebook can animate your profile pic with AI",
     "source": "The Verge",
     "summary": "Facebook is rolling out new AI features that let you animate your profile picture and restyle Stories and Memories. You'll also be able to add animated backgrounds to text posts to make them pop in the feed. With the animated profile pictures, you'll be able to give a still photo motion with some preset types [&#8230;]",
@@ -161,10 +168,10 @@
     "date": "2026-02-10"
   },
   {
-    "title": "OpenAI will reportedly start testing ads in ChatGPT today",
-    "source": "The Verge",
-    "summary": "OpenAI plans to start testing ads in ChatGPT today, according to a report from CNBC. The \"clearly labeled\" ads will appear in a separate area beneath your chat, OpenAI announced last month. A source close to the situation tells CNBC that OpenAI \"expects ads to make up less than half of its revenue long term.\" [&#8230;]",
-    "url": "https://www.theverge.com/news/875724/openai-chatgpt-ads-test-launch",
+    "title": "RFK Jr. Says Americans Need More Protein. His Grok-Powered Food Website Disagrees",
+    "source": "Wired",
+    "summary": "The site Realfood.gov uses Elon Musk’s Grok chatbot to dispense nutrition information—some of which contradicts the government’s new guidelines.",
+    "url": "https://www.wired.com/story/rfk-jr-says-americans-need-more-protein-his-grok-powered-food-website-disagrees/",
     "date": "2026-02-10"
   },
   {
@@ -214,13 +221,6 @@
     "source": "Wired",
     "summary": "As AI systems grow more powerful, Anthropic’s resident philosopher says the startup is betting Claude itself can learn the wisdom needed to avoid disaster.",
     "url": "https://www.wired.com/story/the-only-thing-standing-between-humanity-and-ai-apocalypse-is-claude/",
-    "date": "2026-02-10"
-  },
-  {
-    "title": "Loyalty Is Dead in Silicon Valley",
-    "source": "Wired",
-    "summary": "Founders used to be wedded to their companies. Now, anyone can be lured away for the right price.",
-    "url": "https://www.wired.com/story/model-behavior-loyalty-is-dead-in-silicon-valley/",
     "date": "2026-02-10"
   },
   {
