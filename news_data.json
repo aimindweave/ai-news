@@ -1,5 +1,19 @@
 [
   {
+    "title": "Spotify says its best developers haven’t written a line of code since December, thanks to AI",
+    "source": "TechCrunch",
+    "summary": "Spotify credits Claude Code and its internal AI system Honk with speeding up development.",
+    "url": "https://techcrunch.com/2026/02/12/spotify-says-its-best-developers-havent-written-a-line-of-code-since-december-thanks-to-ai/",
+    "date": "2026-02-12"
+  },
+  {
+    "title": "A new version of OpenAI’s Codex is powered by a new dedicated chip",
+    "source": "TechCrunch",
+    "summary": "OpenAI calls the new coding tool the \"first milestone\" in its relationship with the chipmaker.",
+    "url": "https://techcrunch.com/2026/02/12/a-new-version-of-openais-codex-is-powered-by-a-new-dedicated-chip/",
+    "date": "2026-02-12"
+  },
+  {
     "title": "xAI lays out interplanetary ambitions in public all-hands",
     "source": "TechCrunch",
     "summary": "On Wednesday, xAI took the rare step of publishing its full 45-minute all-hands presentation to the X platform, making it widely available.",
@@ -39,20 +53,6 @@
     "source": "TechCrunch",
     "summary": "Enterprise AI is shifting fast from chatbots that answer questions to systems that actually do the work across an organization. But who will own the AI layer that powers all of it?&#160; Glean, which started as an enterprise search product, has evolved into what it calls an “AI work assistant,” aiming to sit beneath other AI [&#8230;]",
     "url": "https://techcrunch.com/podcast/glean-arvind-jain-equity-podcast-own-the-ai-layer-inside-every-company/",
-    "date": "2026-02-12"
-  },
-  {
-    "title": "Who will own your company’s AI layer? Glean’s CEO explains",
-    "source": "TechCrunch",
-    "summary": "Enterprise AI is shifting fast from chatbots that answer questions to systems that actually do the work across an organization. But who will own the AI layer that powers all of it?&#160; Glean, which started as an enterprise search product, has evolved into what it calls an “AI work assistant,” aiming to sit underneath other AI [&#8230;]",
-    "url": "https://techcrunch.com/video/who-will-own-your-companys-ai-layer-gleans-ceo-explains/",
-    "date": "2026-02-12"
-  },
-  {
-    "title": "Elon Musk suggests spate of xAI exits have been push, not pull",
-    "source": "TechCrunch",
-    "summary": "At least nine engineers, including two co-founders, have announced their exits from xAI in the past week, fueling online speculation and raising questions about stability at Musk’s AI company amid mounting controversy.",
-    "url": "https://techcrunch.com/2026/02/11/senior-engineers-including-co-founders-exit-xai-amid-controversy/",
     "date": "2026-02-12"
   },
   {
@@ -112,6 +112,27 @@
     "date": "2026-02-12"
   },
   {
+    "title": "Good Luck, Have Fun, Don’t Die is a rollicking parable about this moment in tech",
+    "source": "The Verge",
+    "summary": "We are all guilty of pulling out our phones and doomscrolling through stressful headlines or mindnumbing videos when we should be doing anything else. We know it's bad, but we still do it because it's hard to resist when much of our time is spent living and working on our devices. And even though we [&#8230;]",
+    "url": "https://www.theverge.com/entertainment/877244/good-luck-have-fun-dont-die-review",
+    "date": "2026-02-12"
+  },
+  {
+    "title": "The surprising case for AI judges",
+    "source": "The Verge",
+    "summary": "Today, we’re going to talk about the role AI might play in deciding legal disputes. Not just drafting memos and doing research — actually deciding who’s right and who’s wrong, and who should pay. My guest today is Bridget McCormack, the former chief justice for the Michigan Supreme Court and now president and CEO of [&#8230;]",
+    "url": "https://www.theverge.com/podcast/877299/ai-arbitrator-bridget-mccormack-aaa-arbitration-interview",
+    "date": "2026-02-12"
+  },
+  {
+    "title": "ByteDance’s next-gen AI model can generate clips based on text, images, audio, and video",
+    "source": "The Verge",
+    "summary": "Big Tech's race to leapfrog the latest AI models continues with the launch of ByteDance's next-gen video generator. In a blog post, ByteDance - the China-based company behind TikTok - says Seedance 2.0 supports prompts that combine text, images, video, and audio. The company claims it \"delivers a substantial leap in generation quality,\" offering improvements [&#8230;]",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/877931/bytedance-seedance-2-video-generator-ai-launch",
+    "date": "2026-02-12"
+  },
+  {
     "title": "This $7,999 robot will fold (some of) your laundry",
     "source": "The Verge",
     "summary": "If you have a spare $7,999 (plus a $250 deposit), hate folding laundry, and happen to live in the Bay Area, one-and-a-half-year-old startup Weave has the robot for you: Isaac 0. It takes Isaac 0 around 30-90 minutes to fold a load of laundry, Weave says. That's all it does - it's stationary and needs [&#8230;]",
@@ -147,24 +168,10 @@
     "date": "2026-02-12"
   },
   {
-    "title": "Here are the brands bringing ads to ChatGPT",
-    "source": "The Verge",
-    "summary": "OpenAI officially launched its advertising pilot in ChatGPT, leaving us with a better idea of the kinds of products we might see stuffed beneath our conversations with the AI chatbot. Several companies have announced plans to show ads inside ChatGPT - placements that will reportedly cost them a pretty penny - ranging from major retailers [&#8230;]",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/877148/openai-chatgpt-advertisers-target-adobe-audible",
-    "date": "2026-02-12"
-  },
-  {
-    "title": "How an ‘icepocalypse’ raises more questions about Meta’s biggest data center project",
-    "source": "The Verge",
-    "summary": "Donna Collins lives about 20 miles from where Meta's biggest data center is being built, in a house her family has lived in for five generations. Construction has thrown the small agricultural community in North Louisiana into the spotlight as a high-profile example of how the infrastructure behind generative AI could impact nearby residents. For [&#8230;]",
-    "url": "https://www.theverge.com/science/876555/meta-data-center-winter-power-outages-storm-ice",
-    "date": "2026-02-12"
-  },
-  {
-    "title": "T-Mobile will live translate regular phone calls without an app",
-    "source": "The Verge",
-    "summary": "T-Mobile is preparing to test a new AI feature that translates live phone calls into more than 50 languages. Live Translation is launching in beta \"this Spring,\" according to a press release, with registration for eligible T-Mobile customers available starting today. \"Some of the biggest barriers wireless customers face are the simplest ones - like [&#8230;]",
-    "url": "https://www.theverge.com/tech/877008/t-mobile-live-translation-languages-ai-network",
+    "title": "OpenAI’s President Gave Millions to Trump. He Says It’s for Humanity",
+    "source": "Wired",
+    "summary": "In an interview with WIRED, Greg Brockman says his political donations support OpenAI's mission—even if some employees at the company disagree.",
+    "url": "https://www.wired.com/story/openai-president-greg-brockman-political-donations-trump-humanity/",
     "date": "2026-02-12"
   },
   {
@@ -214,13 +221,6 @@
     "source": "Wired",
     "summary": "A court filing in a trademark lawsuit reveals OpenAI won't use the name “io” for its AI hardware device, which isn't expected to ship until 2027.",
     "url": "https://www.wired.com/story/openai-drops-io-branding-hardware-devices/",
-    "date": "2026-02-12"
-  },
-  {
-    "title": "No Company Has Admitted to Replacing Workers With AI in New York",
-    "source": "Wired",
-    "summary": "New York state has required companies to disclose if “technological innovation or automation” was the cause of job loss for nearly a year. So far, none has.",
-    "url": "https://www.wired.com/story/no-company-has-admitted-to-replacing-workers-with-ai-in-new-york/",
     "date": "2026-02-12"
   },
   {
