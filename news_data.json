@@ -1,5 +1,19 @@
 [
   {
+    "title": "Didero lands $30M to put manufacturing procurement on ‘agentic’ autopilot",
+    "source": "TechCrunch",
+    "summary": "Didero functions as an agentic AI layer that sits on top of a company’s existing ERP, acting as a coordinator that reads incoming communications and automatically executes the necessary updates and tasks.",
+    "url": "https://techcrunch.com/2026/02/12/didero-lands-30m-to-put-manufacturing-procurement-on-agentic-autopilot/",
+    "date": "2026-02-12"
+  },
+  {
+    "title": "Anthropic raises another $30B in Series G, with a new value of $380B",
+    "source": "TechCrunch",
+    "summary": "The infusion of funding for the AI startup takes place as it is vying for customers and cultural attention with its competitor, OpenAI.",
+    "url": "https://techcrunch.com/2026/02/12/anthropic-raises-another-30-billion-in-series-g-with-a-new-value-of-380-billion/",
+    "date": "2026-02-12"
+  },
+  {
     "title": "Spotify says its best developers haven’t written a line of code since December, thanks to AI",
     "source": "TechCrunch",
     "summary": "Spotify credits Claude Code and its internal AI system Honk with speeding up development.",
@@ -39,20 +53,6 @@
     "source": "TechCrunch",
     "summary": "While the new Siri was expected to launch with the upcoming iOS 26.4 update in March, now, the changes are expected to roll out more slowly over time, reportedly postponing some features until the May iOS update, or even until the release of iOS 27 in September.",
     "url": "https://techcrunch.com/2026/02/11/apples-siri-revamp-reportedly-delayed-again/",
-    "date": "2026-02-12"
-  },
-  {
-    "title": "Uber Eats launches AI assistant to help with grocery cart creation",
-    "source": "TechCrunch",
-    "summary": "Uber Eats launched a new AI feature, “Cart Assistant,” that can automatically add items to your cart based on text or image prompts.",
-    "url": "https://techcrunch.com/2026/02/11/uber-eats-launches-ai-assistant-to-help-with-grocery-cart-creation/",
-    "date": "2026-02-12"
-  },
-  {
-    "title": "Glean’s fight to own the AI layer inside every company",
-    "source": "TechCrunch",
-    "summary": "Enterprise AI is shifting fast from chatbots that answer questions to systems that actually do the work across an organization. But who will own the AI layer that powers all of it?&#160; Glean, which started as an enterprise search product, has evolved into what it calls an “AI work assistant,” aiming to sit beneath other AI [&#8230;]",
-    "url": "https://techcrunch.com/podcast/glean-arvind-jain-equity-podcast-own-the-ai-layer-inside-every-company/",
     "date": "2026-02-12"
   },
   {
@@ -168,6 +168,13 @@
     "date": "2026-02-12"
   },
   {
+    "title": "A Wave of Unexplained Bot Traffic Is Sweeping the Web",
+    "source": "Wired",
+    "summary": "From small publishers to US federal agencies, websites are reporting unusual spikes in automated traffic linked to IP addresses in Lanzhou, China.",
+    "url": "https://www.wired.com/story/made-in-china-niche-websites-are-seeing-a-surge-of-mysterious-traffic-from-china/",
+    "date": "2026-02-12"
+  },
+  {
     "title": "OpenAI’s President Gave Millions to Trump. He Says It’s for Humanity",
     "source": "Wired",
     "summary": "In an interview with WIRED, Greg Brockman says his political donations support OpenAI's mission—even if some employees at the company disagree.",
@@ -217,10 +224,10 @@
     "date": "2026-02-12"
   },
   {
-    "title": "OpenAI Abandons ‘io’ Branding for Its AI Hardware",
-    "source": "Wired",
-    "summary": "A court filing in a trademark lawsuit reveals OpenAI won't use the name “io” for its AI hardware device, which isn't expected to ship until 2027.",
-    "url": "https://www.wired.com/story/openai-drops-io-branding-hardware-devices/",
+    "title": "Attackers prompted Gemini over 100,000 times while trying to clone it, Google says",
+    "source": "Ars Technica",
+    "summary": "Distillation technique lets copycats mimic Gemini at a fraction of the development cost.",
+    "url": "https://arstechnica.com/ai/2026/02/attackers-prompted-gemini-over-100000-times-while-trying-to-clone-it-google-says/",
     "date": "2026-02-12"
   },
   {
@@ -270,13 +277,6 @@
     "source": "Ars Technica",
     "summary": "Publishers are rolling out more aggressive defenses.",
     "url": "https://arstechnica.com/ai/2026/02/increase-of-ai-bots-on-the-internet-sparks-arms-race/",
-    "date": "2026-02-12"
-  },
-  {
-    "title": "Microsoft releases urgent Office patch. Russian-state hackers pounce.",
-    "source": "Ars Technica",
-    "summary": "The window to patch vulnerabilities is shrinking rapidly.",
-    "url": "https://arstechnica.com/security/2026/02/russian-state-hackers-exploit-office-vulnerability-to-infect-computers/",
     "date": "2026-02-12"
   }
 ]
