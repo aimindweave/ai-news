@@ -1,5 +1,33 @@
 [
   {
+    "title": "Anthropic’s Super Bowl ads mocking AI with ads helped push Claude’s app into the top 10",
+    "source": "TechCrunch",
+    "summary": "The numbers suggest that Anthropic's Super Bowl commercials, combined with Anthropic's recent release of its new Opus 4.6 model, worked to drive attention to Claude's app and its key differentiator from ChatGPT.",
+    "url": "https://techcrunch.com/2026/02/13/anthropics-super-bowl-ads-mocking-ai-with-ads-helped-push-claudes-app-into-the-top-10/",
+    "date": "2026-02-13"
+  },
+  {
+    "title": "Elon Musk suggests spate of xAI exits have been push, not pull",
+    "source": "TechCrunch",
+    "summary": "At least nine engineers, including two co-founders, have announced their exits from xAI in the past week, fueling online speculation and raising questions about stability at Musk’s AI company amid mounting controversy.",
+    "url": "https://techcrunch.com/2026/02/13/elon-musk-suggests-spate-of-xai-exits-have-been-push-not-pull/",
+    "date": "2026-02-13"
+  },
+  {
+    "title": "Cohere’s $240M year sets stage for IPO",
+    "source": "TechCrunch",
+    "summary": "Cohere surpassed $240 million in annual recurring revenue in 2025, highlighting strong enterprise AI demand as the Canadian startup positions itself for a potential IPO amid intensifying competition from OpenAI and Anthropic.",
+    "url": "https://techcrunch.com/2026/02/13/coheres-240m-year-sets-stage-for-ipo/",
+    "date": "2026-02-13"
+  },
+  {
+    "title": "Meta plans to add facial recognition to its smart glasses, report claims",
+    "source": "TechCrunch",
+    "summary": "The feature, internally known as “Name Tag,” would allow smart glasses wearers to identify people and get information about them via Meta's AI assistant.",
+    "url": "https://techcrunch.com/2026/02/13/meta-plans-to-add-facial-recognition-to-its-smart-glasses-report-claims/",
+    "date": "2026-02-13"
+  },
+  {
     "title": "Amid disappointing earnings, Pinterest claims it sees more searches than ChatGPT",
     "source": "TechCrunch",
     "summary": "Pinterest's stock tumbles after an earnings miss, with higher-than-expected usage its only bright spot.",
@@ -28,31 +56,10 @@
     "date": "2026-02-13"
   },
   {
-    "title": "Anthropic raises another $30B in Series G, with a new value of $380B",
-    "source": "TechCrunch",
-    "summary": "The infusion of funding for the AI startup takes place as it is vying for customers and cultural attention with its competitor, OpenAI.",
-    "url": "https://techcrunch.com/2026/02/12/anthropic-raises-another-30-billion-in-series-g-with-a-new-value-of-380-billion/",
-    "date": "2026-02-13"
-  },
-  {
-    "title": "Spotify says its best developers haven’t written a line of code since December, thanks to AI",
-    "source": "TechCrunch",
-    "summary": "Spotify credits Claude Code and its internal AI system Honk with speeding up development.",
-    "url": "https://techcrunch.com/2026/02/12/spotify-says-its-best-developers-havent-written-a-line-of-code-since-december-thanks-to-ai/",
-    "date": "2026-02-13"
-  },
-  {
-    "title": "A new version of OpenAI’s Codex is powered by a new dedicated chip",
-    "source": "TechCrunch",
-    "summary": "OpenAI calls the new coding tool the \"first milestone\" in its relationship with the chipmaker.",
-    "url": "https://techcrunch.com/2026/02/12/a-new-version-of-openais-codex-is-powered-by-a-new-dedicated-chip/",
-    "date": "2026-02-13"
-  },
-  {
-    "title": "xAI lays out interplanetary ambitions in public all-hands",
-    "source": "TechCrunch",
-    "summary": "On Wednesday, xAI took the rare step of publishing its full 45-minute all-hands presentation to the X platform, making it widely available.",
-    "url": "https://techcrunch.com/2026/02/11/xai-lays-out-interplanetary-ambitions-in-public-all-hands/",
+    "title": "ALS stole this musician’s voice. AI let him sing again.",
+    "source": "MIT Tech Review",
+    "summary": "There are tears in the audience as Patrick Darling’s song begins to play. It’s a heartfelt song written for his great-grandfather, whom he never got the chance to meet. But this performance is emotional for another reason: It’s Darling’s first time on stage with his bandmates since he lost the ability to sing two years&#8230;",
+    "url": "https://www.technologyreview.com/2026/02/13/1132913/als-stole-this-musicians-voice-ai-sing/",
     "date": "2026-02-13"
   },
   {
@@ -105,10 +112,24 @@
     "date": "2026-02-13"
   },
   {
-    "title": "What’s next for Chinese open-source AI",
-    "source": "MIT Tech Review",
-    "summary": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them&#160;here. The past year has marked a turning point for Chinese AI. Since DeepSeek released its R1 reasoning model in January 2025, Chinese companies have repeatedly delivered AI&#8230;",
-    "url": "https://www.technologyreview.com/2026/02/12/1132811/whats-next-for-chinese-open-source-ai/",
+    "title": "What’s behind the mass exodus at xAI?",
+    "source": "The Verge",
+    "summary": "The past few days have been a wild ride for xAI, which is racking up staff and cofounder departure announcements left and right. On Tuesday and Wednesday, cofounder Yuhuai (Tony) Wu announced his departure and that it was \"time for [his] next chapter,\" with cofounder Jimmy Ba following with a similar post later that day, [&#8230;]",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/878761/mass-exodus-at-xai-grok-elon-musk-restructuring",
+    "date": "2026-02-13"
+  },
+  {
+    "title": "Ring&#8217;s adorable surveillance hellscape",
+    "source": "The Verge",
+    "summary": "You can watch Ring's recent Super Bowl ad and see a cute story about dogs being reunited with their families. You can also watch the very same ad and see the seeds being planted for a massively connected, utterly ubiquitous surveillance system that will end the concept of privacy forever. Maybe you can even see [&#8230;]",
+    "url": "https://www.theverge.com/podcast/878797/ring-super-bowl-ad-backlash-epstein-files-chatgpt-vergecast",
+    "date": "2026-02-13"
+  },
+  {
+    "title": "Meta reportedly wants to add face recognition to smart glasses while privacy advocates are distracted",
+    "source": "The Verge",
+    "summary": "Meta aims to introduce facial recognition to its smart glasses while its biggest critics are distracted, according to a report from The New York Times. In an internal document reviewed by The Times, Meta says it will launch the feature \"during a dynamic political environment where many civil society groups that we would expect to [&#8230;]",
+    "url": "https://www.theverge.com/tech/878725/meta-facial-recognition-smart-glasses-name-tag-privacy-advoates",
     "date": "2026-02-13"
   },
   {
@@ -147,24 +168,10 @@
     "date": "2026-02-13"
   },
   {
-    "title": "Anthropic says it&#8217;ll try to keep its data centers from raising electricity costs",
-    "source": "The Verge",
-    "summary": "Anthropic is the latest AI company promising to limit the impact its data centers have on nearby residents' electricity bills. The company said it would pay higher monthly electricity charges in order to cover 100 percent of the upgrades needed to connect its data centers to power grids. \"This includes the shares of these costs [&#8230;]",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/877526/anthropic-ai-electricity-costs-data-center-pledge",
-    "date": "2026-02-13"
-  },
-  {
-    "title": "Apple keeps hitting bumps with its overhauled Siri",
-    "source": "The Verge",
-    "summary": "Apple had been reportedly pushing to introduce some big changes to Siri with iOS 26.4, but now the company is planning to introduce them in later versions of iOS, including iOS 26.5 and iOS 27, Bloomberg reports. Nearly a year ago, Apple delayed planned features for Siri that would let it understand your personal context [&#8230;]",
-    "url": "https://www.theverge.com/tech/877494/apple-siri-ai-overhaul-ios-personalized",
-    "date": "2026-02-13"
-  },
-  {
-    "title": "Instagram and X have an impossible deepfake detection deadline",
-    "source": "The Verge",
-    "summary": "The best methods we currently have for detecting and labelling deepfakes online are about to get a stress test. India announced mandates on Tuesday that require social media platforms to remove illegal AI-generated materials much faster, and ensure that all synthetic content is clearly labeled. Tech companies have said for years that they wanted to [&#8230;]",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/877206/youtube-instagram-x-india-deepfake-detection-deadline",
+    "title": "Zillow Has Gone Wild—for AI",
+    "source": "Wired",
+    "summary": "As the housing market stalls, Zillow’s CEO sees AI as “an ingredient rather than a threat” that can both help the company protect its turf and reinvent how people search for homes.",
+    "url": "https://www.wired.com/story/backchannel-how-artificial-intelligence-changed-zillow/",
     "date": "2026-02-13"
   },
   {
@@ -214,13 +221,6 @@
     "source": "Wired",
     "summary": "I used the viral AI helper to order groceries, sort emails, and negotiate deals. Then it decided to scam me.",
     "url": "https://www.wired.com/story/malevolent-ai-agent-openclaw-clawdbot/",
-    "date": "2026-02-13"
-  },
-  {
-    "title": "CBP Signs Clearview AI Deal to Use Face Recognition for ‘Tactical Targeting’",
-    "source": "Wired",
-    "summary": "US Border Patrol intelligence units will gain access to a face recognition tool built on billions of images scraped from the internet.",
-    "url": "https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/",
     "date": "2026-02-13"
   },
   {
