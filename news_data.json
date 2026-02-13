@@ -1,5 +1,12 @@
 [
   {
+    "title": "Airbnb says a third of its customer support is now handled by AI in the US and Canada",
+    "source": "TechCrunch",
+    "summary": "Airbnb was poised to introduce an app that doesn't just search for you, but one that \"knows you.\" CEO Brian Chesky said, \"It will help guests plan their entire trip, help hosts better run their businesses, and help the company operate more efficiently at scale.\"",
+    "url": "https://techcrunch.com/2026/02/13/airbnb-says-a-third-of-its-customer-support-is-now-handled-by-ai-in-the-u-s-and-canada/",
+    "date": "2026-02-13"
+  },
+  {
     "title": "Why top talent is walking away from OpenAI and xAI",
     "source": "TechCrunch",
     "summary": "AI companies have been hemorrhaging&#160;talent&#160;the past few weeks. Half of&#160;xAI’s&#160;founding team&#160;has left the company — some on their own, others through “restructuring” — while OpenAI is facing its own shakeups, from the&#160;disbanding of its&#160;mission alignment team&#160;to the firing of a policy exec who opposed its “adult mode” feature.&#160; Watch as TechCrunch’s Equity",
@@ -46,13 +53,6 @@
     "source": "TechCrunch",
     "summary": "The feature, internally known as “Name Tag,” would allow smart glasses wearers to identify people and get information about them via Meta's AI assistant.",
     "url": "https://techcrunch.com/2026/02/13/meta-plans-to-add-facial-recognition-to-its-smart-glasses-report-claims/",
-    "date": "2026-02-13"
-  },
-  {
-    "title": "Amid disappointing earnings, Pinterest claims it sees more searches than ChatGPT",
-    "source": "TechCrunch",
-    "summary": "Pinterest's stock tumbles after an earnings miss, with higher-than-expected usage its only bright spot.",
-    "url": "https://techcrunch.com/2026/02/12/amid-disappointing-earnings-pinterest-claims-it-sees-more-searches-than-chatgpt/",
     "date": "2026-02-13"
   },
   {
@@ -168,6 +168,13 @@
     "date": "2026-02-13"
   },
   {
+    "title": "OpenAI Is Nuking Its 4o Model. China’s ChatGPT Fans Aren’t OK",
+    "source": "Wired",
+    "summary": "As OpenAI removed access to GPT-4o in its app on Friday, people who have come to rely on the chatbot for companionship are mourning the loss all over the world.",
+    "url": "https://www.wired.com/story/openai-nuking-4o-model-china-chatgpt-fans-arent-ok/",
+    "date": "2026-02-13"
+  },
+  {
     "title": "Zillow Has Gone Wild—for AI",
     "source": "Wired",
     "summary": "As the housing market stalls, Zillow’s CEO sees AI as “an ingredient rather than a threat” that can both help the company protect its turf and reinvent how people search for homes.",
@@ -217,20 +224,6 @@
     "date": "2026-02-13"
   },
   {
-    "title": "I Loved My OpenClaw AI Agent—Until It Turned on Me",
-    "source": "Wired",
-    "summary": "I used the viral AI helper to order groceries, sort emails, and negotiate deals. Then it decided to scam me.",
-    "url": "https://www.wired.com/story/malevolent-ai-agent-openclaw-clawdbot/",
-    "date": "2026-02-13"
-  },
-  {
-    "title": "After a routine code rejection, an AI agent published a hit piece on someone by name",
-    "source": "Ars Technica",
-    "summary": "One developer is struggling with the social implications of a drive-by AI character attack.",
-    "url": "https://arstechnica.com/ai/2026/02/after-a-routine-code-rejection-an-ai-agent-published-a-hit-piece-on-someone-by-name/",
-    "date": "2026-02-13"
-  },
-  {
     "title": "OpenAI sidesteps Nvidia with unusually fast coding model on plate-sized chips",
     "source": "Ars Technica",
     "summary": "OpenAI's new GPT‑5.3‑Codex‑Spark is 15 times faster at coding than its predecessor.",
@@ -277,6 +270,13 @@
     "source": "Ars Technica",
     "summary": "Claude Opus 4.6 and OpenAI Frontier pitch a future of supervising AI agents.",
     "url": "https://arstechnica.com/information-technology/2026/02/ai-companies-want-you-to-stop-chatting-with-bots-and-start-managing-them/",
+    "date": "2026-02-13"
+  },
+  {
+    "title": "OpenAI is hoppin' mad about Anthropic's new Super Bowl TV ads",
+    "source": "Ars Technica",
+    "summary": "Sam Altman calls AI competitor \"dishonest\" and \"authoritarian\" in lengthy post on X.",
+    "url": "https://arstechnica.com/information-technology/2026/02/openai-is-hoppin-mad-about-anthropics-new-super-bowl-tv-ads/",
     "date": "2026-02-13"
   }
 ]
