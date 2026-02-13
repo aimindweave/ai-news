@@ -1,5 +1,26 @@
 [
   {
+    "title": "Why top talent is walking away from OpenAI and xAI",
+    "source": "TechCrunch",
+    "summary": "AI companies have been hemorrhaging&#160;talent&#160;the past few weeks. Half of&#160;xAI’s&#160;founding team&#160;has left the company — some on their own, others through “restructuring” — while OpenAI is facing its own shakeups, from the&#160;disbanding of its&#160;mission alignment team&#160;to the firing of a policy exec who opposed its “adult mode” feature.&#160; Watch as TechCrunch’s Equity",
+    "url": "https://techcrunch.com/video/why-top-talent-is-walking-away-from-openai-and-xai/",
+    "date": "2026-02-13"
+  },
+  {
+    "title": "OpenAI removes access to sycophancy-prone GPT-4o model",
+    "source": "TechCrunch",
+    "summary": "The model is known for its overly sycophantic nature and its role in several lawsuits involving users' unhealthy relationships with the chatbot.",
+    "url": "https://techcrunch.com/2026/02/13/openai-removes-access-to-sycophancy-prone-gpt-4o-model/",
+    "date": "2026-02-13"
+  },
+  {
+    "title": "AI burnout, billion-dollar bets, and Silicon Valley’s Epstein problem",
+    "source": "TechCrunch",
+    "summary": "AI companies have been hemorrhaging&#160;talent&#160;the past few weeks. Half of&#160;xAI’s&#160;founding team&#160;has left the company — some on their own, others through “restructuring” — while OpenAI is facing its own shakeups, from the&#160;disbanding of its&#160;mission alignment team&#160;to the firing of a policy exec who opposed its “adult mode” feature.&#160; On this episode of TechCrunc",
+    "url": "https://techcrunch.com/podcast/ai-burnout-billion-dollar-bets-and-silicon-valleys-epstein-problem/",
+    "date": "2026-02-13"
+  },
+  {
     "title": "Anthropic’s Super Bowl ads mocking AI with ads helped push Claude’s app into the top 10",
     "source": "TechCrunch",
     "summary": "The numbers suggest that Anthropic's Super Bowl commercials, combined with Anthropic's recent release of its new Opus 4.6 model, worked to drive attention to Claude's app and its key differentiator from ChatGPT.",
@@ -35,27 +56,6 @@
     "date": "2026-02-13"
   },
   {
-    "title": "IBM will hire your entry-level talent in the age of AI",
-    "source": "TechCrunch",
-    "summary": "IBM plans to triple its entry-level hiring in the U.S. in 2026, but these jobs will have different tasks than in previous years.",
-    "url": "https://techcrunch.com/2026/02/12/ibm-will-hire-your-entry-level-talent-in-the-age-of-ai/",
-    "date": "2026-02-13"
-  },
-  {
-    "title": "Musk needed a new vision for SpaceX and xAI. He landed on Moonbase Alpha.",
-    "source": "TechCrunch",
-    "summary": "\"I really want to see a mass driver on the moon that is shooting AI satellites into deep space.\"",
-    "url": "https://techcrunch.com/2026/02/12/musk-needed-a-new-vision-for-spacex-and-xai-he-landed-on-moonbase-alpha/",
-    "date": "2026-02-13"
-  },
-  {
-    "title": "Didero lands $30M to put manufacturing procurement on ‘agentic’ autopilot",
-    "source": "TechCrunch",
-    "summary": "Didero functions as an agentic AI layer that sits on top of a company’s existing ERP, acting as a coordinator that reads incoming communications and automatically executes the necessary updates and tasks.",
-    "url": "https://techcrunch.com/2026/02/12/didero-lands-30m-to-put-manufacturing-procurement-on-agentic-autopilot/",
-    "date": "2026-02-13"
-  },
-  {
     "title": "ALS stole this musician’s voice. AI let him sing again.",
     "source": "MIT Tech Review",
     "summary": "There are tears in the audience as Patrick Darling’s song begins to play. It’s a heartfelt song written for his great-grandfather, whom he never got the chance to meet. But this performance is emotional for another reason: It’s Darling’s first time on stage with his bandmates since he lost the ability to sing two years&#8230;",
@@ -79,7 +79,7 @@
   {
     "title": "US deputy health secretary: Vaccine guidelines are still subject to change",
     "source": "MIT Tech Review",
-    "summary": "Over the past year, Jim O’Neill has become one of the most powerful people in public health. As the US deputy health secretary, he holds two roles at the top of the country’s federal health and science agencies. He oversees a department with a budget of over a trillion dollars. And he signed the decision&#8230;",
+    "summary": "Following publication of this story, Politico reported Jim O’Neill would be leaving his current roles within the Department of Health and Human Services. Over the past year, Jim O’Neill has become one of the most powerful people in public health. As the US deputy health secretary, he holds two roles at the top of the&#8230;",
     "url": "https://www.technologyreview.com/2026/02/13/1132889/us-deputy-health-secretary-vaccine-guidelines-longevity-arpa-h-cdc-nih/",
     "date": "2026-02-13"
   },
@@ -224,6 +224,13 @@
     "date": "2026-02-13"
   },
   {
+    "title": "After a routine code rejection, an AI agent published a hit piece on someone by name",
+    "source": "Ars Technica",
+    "summary": "One developer is struggling with the social implications of a drive-by AI character attack.",
+    "url": "https://arstechnica.com/ai/2026/02/after-a-routine-code-rejection-an-ai-agent-published-a-hit-piece-on-someone-by-name/",
+    "date": "2026-02-13"
+  },
+  {
     "title": "OpenAI sidesteps Nvidia with unusually fast coding model on plate-sized chips",
     "source": "Ars Technica",
     "summary": "OpenAI's new GPT‑5.3‑Codex‑Spark is 15 times faster at coding than its predecessor.",
@@ -270,13 +277,6 @@
     "source": "Ars Technica",
     "summary": "Claude Opus 4.6 and OpenAI Frontier pitch a future of supervising AI agents.",
     "url": "https://arstechnica.com/information-technology/2026/02/ai-companies-want-you-to-stop-chatting-with-bots-and-start-managing-them/",
-    "date": "2026-02-13"
-  },
-  {
-    "title": "OpenAI is hoppin' mad about Anthropic's new Super Bowl TV ads",
-    "source": "Ars Technica",
-    "summary": "Sam Altman calls AI competitor \"dishonest\" and \"authoritarian\" in lengthy post on X.",
-    "url": "https://arstechnica.com/information-technology/2026/02/openai-is-hoppin-mad-about-anthropics-new-super-bowl-tv-ads/",
     "date": "2026-02-13"
   }
 ]
