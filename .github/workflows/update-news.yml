@@ -46,10 +46,11 @@ jobs:
       - name: Update HTML
         run: python scripts/update_html.py
       
-      - name: Commit and push
+     - name: Commit and push
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
           git commit -m "Update news $(date +'%Y-%m-%d %H:%M')" || echo "No changes"
+          git pull --rebase origin main || true
           git push
