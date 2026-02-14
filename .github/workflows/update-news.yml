@@ -30,7 +30,7 @@ jobs:
       - name: Generate audio
         env:
           ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
-        run: python scripts/generate_audio.py
+        run: python generate_audio.py
       
       - name: Update HTML
         run: python scripts/update_html.py
