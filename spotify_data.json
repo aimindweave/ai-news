@@ -1,194 +1,276 @@
 {
   "shows": [
     {
-      "id": "1",
+      "id": "Lex Frid",
       "name": "Lex Fridman Podcast",
-      "publisher": "Lex Fridman",
-      "description": "Conversations about AI, science, technology, history, philosophy and the nature of intelligence, consciousness, love, and power.",
-      "total_episodes": 400,
+      "publisher": "",
+      "description": "Latest AI and tech discussions",
+      "total_episodes": 0,
       "image": "",
       "url": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"
     },
     {
-      "id": "2",
+      "id": "Hard For",
       "name": "Hard Fork",
-      "publisher": "The New York Times",
-      "description": "A show about the future that's already here. Each week, journalists Kevin Roose and Casey Newton explore and make sense of the latest in the rapidly changing world of tech.",
-      "total_episodes": 150,
+      "publisher": "",
+      "description": "Latest AI and tech discussions",
+      "total_episodes": 0,
       "image": "",
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
-      "id": "3",
+      "id": "All-In P",
       "name": "All-In Podcast",
-      "publisher": "All-In Podcast, LLC",
-      "description": "Industry veterans, bestie, and billionaires: Chamath, Jason, Sacks & Friedberg cover all things economic, tech, political, and social.",
-      "total_episodes": 200,
+      "publisher": "",
+      "description": "Latest AI and tech discussions",
+      "total_episodes": 0,
       "image": "",
       "url": "https://open.spotify.com/show/2IqXAVFR4e0Bmyjsdc8QzF"
     },
     {
-      "id": "4",
-      "name": "The AI Podcast",
-      "publisher": "NVIDIA",
-      "description": "Interviews with the world's leading experts in AI, deep learning, and machine learning to explain how it works, how it's evolving, and how it intersects with every facet of human endeavor.",
-      "total_episodes": 250,
+      "id": "The AI P",
+      "name": "The AI Podcast (NVIDIA)",
+      "publisher": "",
+      "description": "Latest AI and tech discussions",
+      "total_episodes": 0,
       "image": "",
       "url": "https://open.spotify.com/show/0e1X4kJVfwQRPF8lZzqqfX"
     },
     {
-      "id": "5",
-      "name": "Practical AI",
-      "publisher": "Changelog Media",
-      "description": "Making artificial intelligence practical, productive, and accessible to everyone.",
-      "total_episodes": 300,
-      "image": "",
-      "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
-    },
-    {
-      "id": "6",
-      "name": "The TWIML AI Podcast",
-      "publisher": "Sam Charrington",
-      "description": "Machine learning and AI for the motivated, curious learner. The TWIML AI Podcast brings the top minds and ideas from the world of ML and AI.",
-      "total_episodes": 700,
-      "image": "",
-      "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
-    },
-    {
-      "id": "7",
-      "name": "Eye on AI",
-      "publisher": "Craig S. Smith",
-      "description": "A podcast about artificial intelligence and the people building it.",
-      "total_episodes": 200,
-      "image": "",
-      "url": "https://open.spotify.com/show/6V5BH7kcwmhBXI3mWqn9Ky"
-    },
-    {
-      "id": "8",
+      "id": "Latent S",
       "name": "Latent Space",
-      "publisher": "Alessio + swyx",
-      "description": "The podcast by and for AI Engineers. We interview AI researchers, founders, and engineers building the future.",
-      "total_episodes": 100,
+      "publisher": "",
+      "description": "Latest AI and tech discussions",
+      "total_episodes": 0,
       "image": "",
       "url": "https://open.spotify.com/show/4vS0Dq8G7Q2lRqAR8BMBWC"
     },
     {
-      "id": "9",
+      "id": "The AI B",
       "name": "The AI Breakdown",
-      "publisher": "Nathaniel Whittemore",
-      "description": "Daily coverage of the most important news and conversations in AI.",
-      "total_episodes": 500,
+      "publisher": "",
+      "description": "Latest AI and tech discussions",
+      "total_episodes": 0,
       "image": "",
       "url": "https://open.spotify.com/show/45VeQGMfNRXvgONvVh6bqZ"
     },
     {
-      "id": "10",
+      "id": "Practica",
+      "name": "Practical AI",
+      "publisher": "",
+      "description": "Latest AI and tech discussions",
+      "total_episodes": 0,
+      "image": "",
+      "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
+    },
+    {
+      "id": "The TWIM",
+      "name": "The TWIML AI Podcast",
+      "publisher": "",
+      "description": "Latest AI and tech discussions",
+      "total_episodes": 0,
+      "image": "",
+      "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
+    },
+    {
+      "id": "No Prior",
       "name": "No Priors",
-      "publisher": "Conviction",
-      "description": "AI and the future of technology with Sarah Guo and Elad Gil.",
-      "total_episodes": 80,
+      "publisher": "",
+      "description": "Latest AI and tech discussions",
+      "total_episodes": 0,
       "image": "",
       "url": "https://open.spotify.com/show/4gvlPPLfvu3j0GCoq9XSLW"
     },
     {
-      "id": "11",
-      "name": "AI with AI",
-      "publisher": "CNA",
-      "description": "Discussions on AI developments, applications, and implications.",
-      "total_episodes": 150,
+      "id": "a]6z Pod",
+      "name": "a]6z Podcast",
+      "publisher": "",
+      "description": "Latest AI and tech discussions",
+      "total_episodes": 0,
       "image": "",
-      "url": "https://open.spotify.com/show/7c7YAAXQMSv0BuXGFe4Bvn"
-    },
-    {
-      "id": "12",
-      "name": "Gradient Dissent",
-      "publisher": "Weights & Biases",
-      "description": "Interviews with ML practitioners about real-world machine learning.",
-      "total_episodes": 100,
-      "image": "",
-      "url": "https://open.spotify.com/show/7o9C3Q0N2k5agHZS1e34lp"
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     }
   ],
   "episodes": [
     {
-      "id": "e1",
-      "name": "Sam Altman: OpenAI, GPT-5, Sora, Board Saga",
-      "show": "Lex Fridman Podcast",
-      "description": "Sam Altman is the CEO of OpenAI, the company behind GPT-4, ChatGPT, Sora, and more.",
-      "release_date": "2024-03-18",
-      "duration_min": 147,
-      "image": "",
-      "url": "https://open.spotify.com/episode/2MAi0BvDc6GTFvKFPXnkCL"
-    },
-    {
-      "id": "e2",
-      "name": "Anthropic CEO Dario Amodei on Claude and AI Safety",
-      "show": "Lex Fridman Podcast",
-      "description": "Dario Amodei is the CEO of Anthropic, creator of Claude AI.",
-      "release_date": "2024-02-15",
-      "duration_min": 180,
-      "image": "",
-      "url": "https://open.spotify.com/episode/example2"
-    },
-    {
-      "id": "e3",
-      "name": "The AI Election",
+      "id": "Hard For_0",
+      "name": "‘Something Big Is Happening’ + A.I. Rocks the Romance Novel Industry + One Good Thing",
       "show": "Hard Fork",
-      "description": "How AI is changing political campaigns and elections.",
-      "release_date": "2024-03-15",
-      "duration_min": 55,
-      "image": "",
-      "url": "https://open.spotify.com/episode/example3"
-    },
-    {
-      "id": "e4",
-      "name": "GPT-5 is Coming",
-      "show": "The AI Breakdown",
-      "description": "Breaking down what we know about OpenAI's next model.",
-      "release_date": "2024-03-20",
-      "duration_min": 22,
-      "image": "",
-      "url": "https://open.spotify.com/episode/example4"
-    },
-    {
-      "id": "e5",
-      "name": "The State of AI in 2024",
-      "show": "All-In Podcast",
-      "description": "Besties discuss the latest AI developments and investments.",
-      "release_date": "2024-03-10",
-      "duration_min": 95,
-      "image": "",
-      "url": "https://open.spotify.com/episode/example5"
-    },
-    {
-      "id": "e6",
-      "name": "Building AI Agents",
-      "show": "Latent Space",
-      "description": "Deep dive into autonomous AI agents and their architecture.",
-      "release_date": "2024-03-12",
-      "duration_min": 75,
-      "image": "",
-      "url": "https://open.spotify.com/episode/example6"
-    },
-    {
-      "id": "e7",
-      "name": "Jensen Huang on NVIDIA's AI Future",
-      "show": "The AI Podcast",
-      "description": "NVIDIA CEO discusses the future of AI computing.",
-      "release_date": "2024-03-01",
-      "duration_min": 45,
-      "image": "",
-      "url": "https://open.spotify.com/episode/example7"
-    },
-    {
-      "id": "e8",
-      "name": "RAG vs Fine-Tuning",
-      "show": "Practical AI",
-      "description": "When to use retrieval augmented generation vs fine-tuning.",
-      "release_date": "2024-03-08",
+      "description": "This week, we discuss Wall Street’s software-stock sell-off and a viral essay on X about the potential for widespread job displacement from A.I. Then, the New York Times reporter Alexandra Alter wa",
+      "release_date": "2026-02-13",
       "duration_min": 60,
       "image": "",
-      "url": "https://open.spotify.com/episode/example8"
+      "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
+    },
+    {
+      "id": "Practica_0",
+      "name": "AI incidents, audits, and the limits of benchmarks",
+      "show": "Practical AI",
+      "description": "\n        AI is moving fast from research to real-world deployment, and when things go wrong, the consequences are no longer hypothetical. In this episode, Sean McGregor, co-founder of the AI Verifi",
+      "release_date": "2026-02-13",
+      "duration_min": 42,
+      "image": "",
+      "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
+    },
+    {
+      "id": "a]6z Pod_0",
+      "name": "Balaji and Dan Wang: The Engineering State vs Lawyerly State",
+      "show": "a]6z Podcast",
+      "description": "Balaji Srinivasan speaks with Dan Wang, author of Breakneck, about China's industrial rise, America's competing strengths in software and finance, and what happens when an engineering state and a l",
+      "release_date": "2026-02-13",
+      "duration_min": 63,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
+      "id": "Lex Frid_0",
+      "name": "#491 – OpenClaw: The Viral AI Agent that Broke the Internet – Peter Steinberger",
+      "show": "Lex Fridman Podcast",
+      "description": "Peter Steinberger is the creator of OpenClaw, an open-source AI agent framework that&#8217;s the fastest-growing project in GitHub history.<br />\nThank you for listening ❤ Check out our sponsors: <",
+      "release_date": "2026-02-12",
+      "duration_min": 0,
+      "image": "",
+      "url": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"
+    },
+    {
+      "id": "a]6z Pod_1",
+      "name": "Anish Acharya: Is SaaS Dead in a World of AI?",
+      "show": "a]6z Podcast",
+      "description": "In this episode from 20VC, Harry Stebbings talks with Anish Acharya, general partner at a16z, about the future of SaaS in an AI world. Anish argues that software is completely oversold and that the",
+      "release_date": "2026-02-12",
+      "duration_min": 81,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
+      "id": "The AI P_0",
+      "name": "Driving Safer AVs Faster with Smart Simulation, Neural Reconstruction, and Data-Centric Tools - Ep. 289",
+      "show": "The AI Podcast (NVIDIA)",
+      "description": "How can AV teams stop drowning in petabytes of data and actually ship safer autonomy faster? Fortellix’s Rohan Bhasin and Voxel51’s Dan Gural explain how neural reconstruction, scenario-driven data cu",
+      "release_date": "2026-02-11",
+      "duration_min": 45,
+      "image": "",
+      "url": "https://open.spotify.com/show/0e1X4kJVfwQRPF8lZzqqfX"
+    },
+    {
+      "id": "a]6z Pod_2",
+      "name": "How Magic Johnson Built a Billion-Dollar Portfolio in 30 Years",
+      "show": "a]6z Podcast",
+      "description": "a16z’s Chris Lyons speaks with Earvin \"Magic\" Johnson about his 30-year journey from athlete to billionaire businessman. They cover the art of deal-making, lessons from mentors Michael Ovitz and Dr",
+      "release_date": "2026-02-11",
+      "duration_min": 65,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
+      "id": "Hard For_1",
+      "name": "Elon Musk’s Mega-Merger + We Test Google’s Project Genie + What’s Next for Moltbook Creator",
+      "show": "Hard Fork",
+      "description": "This week, the A.I. initial-public-offering race is heating up! We break down SpaceX’s acquisition of xAI, as well as OpenAI and Nvidia’s messy situationship. Then, it’s time for show and tell. We ",
+      "release_date": "2026-02-06",
+      "duration_min": 64,
+      "image": "",
+      "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
+    },
+    {
+      "id": "Hard For_2",
+      "name": "Moltbook Mania Explained",
+      "show": "Hard Fork",
+      "description": "A Reddit-style web forum for A.I. agents has captured the attention of the tech world. According to the site, called Moltbook, more than 1.5 million agents have contributed to over 150,000 posts, m",
+      "release_date": "2026-02-04",
+      "duration_min": 27,
+      "image": "",
+      "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
+    },
+    {
+      "id": "The AI P_1",
+      "name": "How AI-Powered Holograms Are Reimagining Fan Experiences at the Big Game - Ep. 288",
+      "show": "The AI Podcast (NVIDIA)",
+      "description": "How are real‑time 4K holograms that look, sound, and respond like people changing fan engagement? Jia Li, co‑founder, president, and chief AI officer of LiveX AI, shares how human‑like AI agents bridg",
+      "release_date": "2026-02-04",
+      "duration_min": 38,
+      "image": "",
+      "url": "https://open.spotify.com/show/0e1X4kJVfwQRPF8lZzqqfX"
+    },
+    {
+      "id": "Practica_1",
+      "name": "Inside an AI-Run Company",
+      "show": "Practical AI",
+      "description": "\n        AI agents are moving from demos to real workplaces, but what actually happens when they run a company? In this episode, journalist Evan Ratliff, host of <em>Shell Game</em>, joins Chris to",
+      "release_date": "2026-02-02",
+      "duration_min": 49,
+      "image": "",
+      "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
+    },
+    {
+      "id": "Lex Frid_1",
+      "name": "#490 – State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI",
+      "show": "Lex Fridman Podcast",
+      "description": "Nathan Lambert and Sebastian Raschka are machine learning researchers, engineers, and educators. Nathan is the post-training lead at the Allen Institute for AI (Ai2) and the author of The RLHF Book",
+      "release_date": "2026-02-01",
+      "duration_min": 0,
+      "image": "",
+      "url": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"
+    },
+    {
+      "id": "The TWIM_0",
+      "name": "The Evolution of Reasoning in Small Language Models with Yejin Choi - #761",
+      "show": "The TWIML AI Podcast",
+      "description": "Today, we're joined by Yejin Choi, professor and senior fellow at Stanford University in the Computer Science Department and the Institute for Human-Centered AI (HAI). In this conversation, we explore",
+      "release_date": "2026-01-29",
+      "duration_min": 66,
+      "image": "",
+      "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
+    },
+    {
+      "id": "The AI P_2",
+      "name": "Accelerating Disaster Response with GiveDirectly's Nick Allardice - Ep. 287",
+      "show": "The AI Podcast (NVIDIA)",
+      "description": "GiveDirectly president and CEO Nick Allardice explains how his team uses AI, mobile money, and satellite imagery to send cash directly to people living in poverty and crisis, often within days of a di",
+      "release_date": "2026-01-28",
+      "duration_min": 48,
+      "image": "",
+      "url": "https://open.spotify.com/show/0e1X4kJVfwQRPF8lZzqqfX"
+    },
+    {
+      "id": "Practica_2",
+      "name": "How is AI shaping democracy?",
+      "show": "Practical AI",
+      "description": "\n        As AI increasingly shapes geopolitics, elections, and civic life, its impact on democracy is becoming impossible to ignore. In this episode, Daniel and Chris are joined by security expert ",
+      "release_date": "2026-01-27",
+      "duration_min": 48,
+      "image": "",
+      "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
+    },
+    {
+      "id": "Lex Frid_2",
+      "name": "#489 – Paul Rosolie: Uncontacted Tribes in the Amazon Jungle",
+      "show": "Lex Fridman Podcast",
+      "description": "Paul Rosolie is a naturalist, explorer, author of a new book titled Junglekeeper, and is someone who has dedicated his life to protecting the Amazon rainforest.<br />\nThank you for listening ❤ Chec",
+      "release_date": "2026-01-13",
+      "duration_min": 194,
+      "image": "",
+      "url": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"
+    },
+    {
+      "id": "The TWIM_1",
+      "name": "Intelligent Robots in 2026: Are We There Yet? with Nikita Rudin - #760",
+      "show": "The TWIML AI Podcast",
+      "description": "Today, we're joined by Nikita Rudin, co-founder and CEO of Flexion Robotics to discuss the gap between current robotic capabilities and what’s required to deploy fully autonomous robots in the real wo",
+      "release_date": "2026-01-08",
+      "duration_min": 66,
+      "image": "",
+      "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
+    },
+    {
+      "id": "The TWIM_2",
+      "name": "Rethinking Pre-Training for Agentic AI with Aakanksha Chowdhery - #759",
+      "show": "The TWIML AI Podcast",
+      "description": "Today, we're joined by Aakanksha Chowdhery, member of technical staff at Reflection, to explore the fundamental shifts required to build true agentic AI. While the industry has largely focused on post",
+      "release_date": "2025-12-17",
+      "duration_min": 52,
+      "image": "",
+      "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
     }
   ]
 }
