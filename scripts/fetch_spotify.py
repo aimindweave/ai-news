@@ -6,16 +6,33 @@ import base64
 CLIENT_ID = os.environ.get('SPOTIFY_CLIENT_ID')
 CLIENT_SECRET = os.environ.get('SPOTIFY_CLIENT_SECRET')
 
+# AI 播客搜索词
 SEARCH_KEYWORDS = [
     "artificial intelligence",
-    "machine learning podcast",
-    "AI news",
+    "machine learning",
+    "AI podcast",
     "deep learning",
-    "GPT LLM"
+    "ChatGPT",
+    "large language model",
+    "AI technology",
+    "data science",
+    "neural network",
+    "tech AI news",
+]
+
+# 知名 AI 播客节目 ID
+KNOWN_SHOWS = [
+    "2MAi0BvDc6GTFvKFPXnkCL",  # Lex Fridman Podcast
+    "44fllCS2FTFr2x2kjP9xeT",  # Hard Fork
+    "2IqXAVFR4e0Bmyjsdc8QzF",  # All-In Podcast
+    "0e1X4kJVfwQRPF8lZzqqfX",  # The AI Podcast (NVIDIA)
+    "6VABdvNnQr42r4NxBdwMhF",  # Practical AI
+    "6V5BH7kcwmhBXI3mWqn9Ky",  # Eye on AI
+    "7c7YAAXQMSv0BuXGFe4Bvn",  # AI with AI
+    "2p7zIfJoBKIQdJO02kdXtj",  # The TWIML AI Podcast
 ]
 
 def get_access_token():
-    """获取 Spotify Access Token"""
     if not CLIENT_ID or not CLIENT_SECRET:
         print("No Spotify credentials!")
         return None
@@ -33,20 +50,19 @@ def get_access_token():
         if r.status_code == 200:
             return r.json().get("access_token")
         else:
-            print(f"Token error: {r.status_code}")
+            print(f"Token error: {r.status_code} - {r.text[:100]}")
     except Exception as e:
         print(f"Error: {e}")
     return None
 
-def search_podcasts(token, keyword):
-    """搜索播客"""
+def search_shows(token, keyword):
     url = "https://api.spotify.com/v1/search"
     headers = {"Authorization": f"Bearer {token}"}
     params = {
         "q": keyword,
         "type": "show",
         "market": "US",
-        "limit": 10
+        "limit": 20
     }
     
     try:
@@ -58,20 +74,32 @@ def search_podcasts(token, keyword):
     return []
 
 def search_episodes(token, keyword):
-    """搜索最新单集"""
     url = "https://api.spotify.com/v1/search"
     headers = {"Authorization": f"Bearer {token}"}
     params = {
         "q": keyword,
         "type": "episode",
         "market": "US",
-        "limit": 10
+        "limit": 20
     }
     
     try:
         r = requests.get(url, headers=headers, params=params, timeout=15)
         if r.status_code == 200:
             return r.json().get("episodes", {}).get("items", [])
+    except Exception as e:
+        print(f"Error: {e}")
+    return []
+
+def get_show_episodes(token, show_id):
+    url = f"https://api.spotify.com/v1/shows/{show_id}/episodes"
+    headers = {"Authorization": f"Bearer {token}"}
+    params = {"market": "US", "limit": 5}
+    
+    try:
+        r = requests.get(url, headers=headers, params=params, timeout=15)
+        if r.status_code == 200:
+            return r.json().get("items", [])
     except Exception as e:
         print(f"Error: {e}")
     return []
@@ -91,16 +119,26 @@ def main():
     seen_show_ids = set()
     seen_episode_ids = set()
     
+    # 从已知节目获取最新单集
+    for show_id in KNOWN_SHOWS:
+        episodes = get_show_episodes(token, show_id)
+        for ep in episodes:
+            if ep and ep.get("id") and ep["id"] not in seen_episode_ids:
+                seen_episode_ids.add(ep["id"])
+                all_episodes.append(ep)
+        print(f"  Show {show_id[:8]}: {len(episodes)} episodes")
+    
+    # 搜索更多节目和单集
     for keyword in SEARCH_KEYWORDS:
-        # 获取播客节目
-        shows = search_podcasts(token, keyword)
+        # 搜索节目
+        shows = search_shows(token, keyword)
         for show in shows:
-            if show["id"] not in seen_show_ids:
+            if show and show.get("id") and show["id"] not in seen_show_ids:
                 seen_show_ids.add(show["id"])
                 all_shows.append(show)
         print(f"  Shows '{keyword}': {len(shows)}")
         
-        # 获取单集
+        # 搜索单集
         episodes = search_episodes(token, keyword)
         for ep in episodes:
             if ep and ep.get("id") and ep["id"] not in seen_episode_ids:
@@ -108,9 +146,11 @@ def main():
                 all_episodes.append(ep)
         print(f"  Episodes '{keyword}': {len(episodes)}")
     
-    # 整理播客节目数据
+    # 整理节目数据
     shows_data = []
     for show in all_shows:
+        if not show:
+            continue
         shows_data.append({
             "id": show.get("id"),
             "name": show.get("name", ""),
@@ -126,10 +166,14 @@ def main():
     for ep in all_episodes:
         if not ep:
             continue
+        show_name = ""
+        if ep.get("show"):
+            show_name = ep["show"].get("name", "")
+        
         episodes_data.append({
             "id": ep.get("id"),
             "name": ep.get("name", ""),
-            "show": ep.get("show", {}).get("name", "") if ep.get("show") else "",
+            "show": show_name,
             "description": ep.get("description", "")[:200],
             "release_date": ep.get("release_date", ""),
             "duration_min": round(ep.get("duration_ms", 0) / 60000),
@@ -137,19 +181,19 @@ def main():
             "url": ep.get("external_urls", {}).get("spotify", "")
         })
     
-    # 按时间排序单集
+    # 按日期排序单集
     episodes_data.sort(key=lambda x: x.get("release_date", ""), reverse=True)
     
     # 保存
     result = {
-        "shows": shows_data[:20],
-        "episodes": episodes_data[:20]
+        "shows": shows_data[:30],
+        "episodes": episodes_data[:50]
     }
     
     with open("spotify_data.json", "w", encoding="utf-8") as f:
         json.dump(result, f, indent=2, ensure_ascii=False)
     
-    print(f"\nSaved {len(shows_data[:20])} shows, {len(episodes_data[:20])} episodes")
+    print(f"\nSaved {len(result['shows'])} shows, {len(result['episodes'])} episodes")
 
 if __name__ == "__main__":
     main()
