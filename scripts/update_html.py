@@ -1,5 +1,6 @@
 import os
 import json
+import re
 
 def main():
     print("Updating HTML...")
@@ -48,19 +49,18 @@ def main():
     
     # 替换数据
     def replace_array(html, var_name, data):
-        import re
         pattern = rf'const {var_name}=\[.*?\];'
         replacement = f'const {var_name}=' + json.dumps(data, ensure_ascii=False) + ';'
         new_html, count = re.subn(pattern, replacement, html, flags=re.DOTALL)
         if count == 0:
-            print(f"Warning: {var_name} not found in HTML")
+            print(f"Warning: {var_name} not found")
         return new_html
     
     html = replace_array(html, 'news', news[:50])
     html = replace_array(html, 'audioFiles', audio_files)
-    html = replace_array(html, 'ytVideos', youtube[:20])
-    html = replace_array(html, 'spotifyShows', spotify.get('shows', [])[:20])
-    html = replace_array(html, 'spotifyEpisodes', spotify.get('episodes', [])[:20])
+    html = replace_array(html, 'ytVideos', youtube[:50])
+    html = replace_array(html, 'spotifyShows', spotify.get('shows', [])[:30])
+    html = replace_array(html, 'spotifyEpisodes', spotify.get('episodes', [])[:50])
     
     # 保存
     with open('index.html', 'w', encoding='utf-8') as f:
