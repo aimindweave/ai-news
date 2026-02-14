@@ -1,31 +1,5 @@
 import os
 import json
-import re
-
-def clean_text(text):
-    """清理文本中的特殊字符"""
-    if not text:
-        return ""
-    # 移除可能破坏 JS 的字符
-    text = text.replace('\\', '\\\\')
-    text = text.replace('\n', ' ')
-    text = text.replace('\r', ' ')
-    text = text.replace('\t', ' ')
-    text = text.replace('</script>', '<\\/script>')
-    # 移除 HTML 实体
-    text = re.sub(r'&#\d+;', ' ', text)
-    text = re.sub(r'&[a-zA-Z]+;', ' ', text)
-    return text
-
-def clean_data(data):
-    """递归清理数据"""
-    if isinstance(data, str):
-        return clean_text(data)
-    elif isinstance(data, list):
-        return [clean_data(item) for item in data]
-    elif isinstance(data, dict):
-        return {k: clean_data(v) for k, v in data.items()}
-    return data
 
 def main():
     print("Updating HTML...")
@@ -35,21 +9,18 @@ def main():
     if os.path.exists('news_data.json'):
         with open('news_data.json', 'r', encoding='utf-8') as f:
             news = json.load(f)
-    news = clean_data(news)
     print(f"News: {len(news)}")
     
     youtube = []
     if os.path.exists('youtube_data.json'):
         with open('youtube_data.json', 'r', encoding='utf-8') as f:
             youtube = json.load(f)
-    youtube = clean_data(youtube)
     print(f"YouTube: {len(youtube)}")
     
     spotify = {"shows": [], "episodes": []}
     if os.path.exists('spotify_data.json'):
         with open('spotify_data.json', 'r', encoding='utf-8') as f:
             spotify = json.load(f)
-    spotify = clean_data(spotify)
     print(f"Spotify shows: {len(spotify.get('shows', []))}")
     print(f"Spotify episodes: {len(spotify.get('episodes', []))}")
     
@@ -71,15 +42,35 @@ def main():
         print("ERROR: Invalid HTML!")
         return
     
-    # 替换数据
+    # 简单字符串替换（不用正则）
     def replace_array(html, var_name, data):
-        pattern = rf'const {var_name}=\[.*?\];'
-        json_str = json.dumps(data, ensure_ascii=True)
-        replacement = f'const {var_name}={json_str};'
-        new_html, count = re.subn(pattern, replacement, html, flags=re.DOTALL)
-        if count == 0:
+        start_marker = f'const {var_name}=['
+        start_idx = html.find(start_marker)
+        if start_idx == -1:
             print(f"Warning: {var_name} not found")
-        return new_html
+            return html
+        
+        # 找到数组结束位置
+        bracket_count = 0
+        end_idx = start_idx + len(start_marker) - 1
+        for i in range(start_idx + len(start_marker) - 1, len(html)):
+            if html[i] == '[':
+                bracket_count += 1
+            elif html[i] == ']':
+                bracket_count -= 1
+                if bracket_count == 0:
+                    end_idx = i + 1
+                    break
+        
+        # 找到分号
+        if end_idx < len(html) and html[end_idx] == ';':
+            end_idx += 1
+        
+        # 生成新 JSON
+        json_str = json.dumps(data, ensure_ascii=True)
+        new_declaration = f'const {var_name}={json_str};'
+        
+        return html[:start_idx] + new_declaration + html[end_idx:]
     
     html = replace_array(html, 'news', news[:50])
     html = replace_array(html, 'audioFiles', audio_files)
