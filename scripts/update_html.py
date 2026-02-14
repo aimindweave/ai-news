@@ -15,6 +15,12 @@ def main():
             news = json.load(f)
     print(f"News: {len(news)}")
     
+    trending = []
+    if os.path.exists("trending_data.json"):
+        with open("trending_data.json", "r", encoding="utf-8") as f:
+            trending = json.load(f)
+    print(f"Trending: {len(trending)}")
+    
     youtube = []
     if os.path.exists("youtube_data.json"):
         with open("youtube_data.json", "r", encoding="utf-8") as f:
@@ -33,6 +39,8 @@ def main():
     
     html = html.replace('var defined_news = "__NEWS_DATA__";', 
                         'var defined_news = ' + repr(safe_json(news[:50])) + ';')
+    html = html.replace('var defined_trending = "__TRENDING_DATA__";', 
+                        'var defined_trending = ' + repr(safe_json(trending[:30])) + ';')
     html = html.replace('var defined_youtube = "__YOUTUBE_DATA__";', 
                         'var defined_youtube = ' + repr(safe_json(youtube[:50])) + ';')
     html = html.replace('var defined_podcasts = "__PODCAST_DATA__";', 
