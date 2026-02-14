@@ -1,44 +1,121 @@
 import json
+import requests
+import xml.etree.ElementTree as ET
+from datetime import datetime
+
+# AI 播客 RSS Feeds
+PODCAST_FEEDS = [
+    {"name": "Lex Fridman Podcast", "rss": "https://lexfridman.com/feed/podcast/", "spotify": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"},
+    {"name": "Hard Fork", "rss": "https://feeds.simplecast.com/l2i9YnTd", "spotify": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"},
+    {"name": "All-In Podcast", "rss": "https://feeds.megaphone.fm/all-in-with-chamath-jason-sacks-friedberg", "spotify": "https://open.spotify.com/show/2IqXAVFR4e0Bmyjsdc8QzF"},
+    {"name": "The AI Podcast (NVIDIA)", "rss": "https://feeds.soundcloud.com/users/soundcloud:users:264034133/sounds.rss", "spotify": "https://open.spotify.com/show/0e1X4kJVfwQRPF8lZzqqfX"},
+    {"name": "Latent Space", "rss": "https://api.substack.com/feed/podcast/1084089.rss", "spotify": "https://open.spotify.com/show/4vS0Dq8G7Q2lRqAR8BMBWC"},
+    {"name": "The AI Breakdown", "rss": "https://feeds.transistor.fm/the-ai-breakdown-daily-artificial-intelligence-news-and-discussions", "spotify": "https://open.spotify.com/show/45VeQGMfNRXvgONvVh6bqZ"},
+    {"name": "Practical AI", "rss": "https://changelog.com/practicalai/feed", "spotify": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"},
+    {"name": "The TWIML AI Podcast", "rss": "https://twimlai.com/feed/", "spotify": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"},
+    {"name": "No Priors", "rss": "https://feeds.transistor.fm/no-priors-ai-machine-learning-tech-and-the-future", "spotify": "https://open.spotify.com/show/4gvlPPLfvu3j0GCoq9XSLW"},
+    {"name": "a]6z Podcast", "rss": "https://feeds.simplecast.com/JGE3yC0V", "spotify": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"},
+]
+
+def parse_rss(feed_info):
+    """解析 RSS Feed 获取最新单集"""
+    episodes = []
+    try:
+        r = requests.get(feed_info["rss"], timeout=15, headers={"User-Agent": "Mozilla/5.0"})
+        if r.status_code != 200:
+            print(f"  {feed_info['name']}: HTTP {r.status_code}")
+            return []
+        
+        root = ET.fromstring(r.content)
+        channel = root.find("channel")
+        if channel is None:
+            return []
+        
+        for item in channel.findall("item")[:3]:  # 每个播客取最新3集
+            title = item.findtext("title", "")
+            desc = item.findtext("description", "")[:200] if item.findtext("description") else ""
+            pub_date = item.findtext("pubDate", "")
+            link = item.findtext("link", feed_info["spotify"])
+            
+            # 解析日期
+            release_date = ""
+            if pub_date:
+                try:
+                    for fmt in ["%a, %d %b %Y %H:%M:%S %z", "%a, %d %b %Y %H:%M:%S %Z", "%Y-%m-%d"]:
+                        try:
+                            dt = datetime.strptime(pub_date.strip(), fmt)
+                            release_date = dt.strftime("%Y-%m-%d")
+                            break
+                        except:
+                            continue
+                    if not release_date:
+                        release_date = pub_date[:10]
+                except:
+                    release_date = ""
+            
+            # 获取时长
+            duration = item.findtext("{http://www.itunes.com/dtds/podcast-1.0.dtd}duration", "0")
+            try:
+                if ":" in str(duration):
+                    parts = duration.split(":")
+                    if len(parts) == 3:
+                        duration_min = int(parts[0]) * 60 + int(parts[1])
+                    else:
+                        duration_min = int(parts[0])
+                else:
+                    duration_min = int(duration) // 60
+            except:
+                duration_min = 0
+            
+            episodes.append({
+                "id": f"{feed_info['name'][:8]}_{len(episodes)}",
+                "name": title,
+                "show": feed_info["name"],
+                "description": desc.replace("<p>", "").replace("</p>", "")[:200],
+                "release_date": release_date,
+                "duration_min": duration_min,
+                "image": "",
+                "url": feed_info["spotify"]
+            })
+        
+        print(f"  {feed_info['name']}: {len(episodes)} episodes")
+    except Exception as e:
+        print(f"  {feed_info['name']}: Error - {e}")
+    
+    return episodes
 
 def main():
-    print("Creating Spotify podcast data...")
+    print("Fetching podcasts via RSS...")
     
-    # 手动添加知名 AI 播客
-    shows = [
-        {"id": "1", "name": "Lex Fridman Podcast", "publisher": "Lex Fridman", "description": "Conversations about AI, science, technology, history, philosophy and the nature of intelligence, consciousness, love, and power.", "total_episodes": 400, "image": "", "url": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"},
-        {"id": "2", "name": "Hard Fork", "publisher": "The New York Times", "description": "A show about the future that's already here. Each week, journalists Kevin Roose and Casey Newton explore and make sense of the latest in the rapidly changing world of tech.", "total_episodes": 150, "image": "", "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"},
-        {"id": "3", "name": "All-In Podcast", "publisher": "All-In Podcast, LLC", "description": "Industry veterans, bestie, and billionaires: Chamath, Jason, Sacks & Friedberg cover all things economic, tech, political, and social.", "total_episodes": 200, "image": "", "url": "https://open.spotify.com/show/2IqXAVFR4e0Bmyjsdc8QzF"},
-        {"id": "4", "name": "The AI Podcast", "publisher": "NVIDIA", "description": "Interviews with the world's leading experts in AI, deep learning, and machine learning to explain how it works, how it's evolving, and how it intersects with every facet of human endeavor.", "total_episodes": 250, "image": "", "url": "https://open.spotify.com/show/0e1X4kJVfwQRPF8lZzqqfX"},
-        {"id": "5", "name": "Practical AI", "publisher": "Changelog Media", "description": "Making artificial intelligence practical, productive, and accessible to everyone.", "total_episodes": 300, "image": "", "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"},
-        {"id": "6", "name": "The TWIML AI Podcast", "publisher": "Sam Charrington", "description": "Machine learning and AI for the motivated, curious learner. The TWIML AI Podcast brings the top minds and ideas from the world of ML and AI.", "total_episodes": 700, "image": "", "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"},
-        {"id": "7", "name": "Eye on AI", "publisher": "Craig S. Smith", "description": "A podcast about artificial intelligence and the people building it.", "total_episodes": 200, "image": "", "url": "https://open.spotify.com/show/6V5BH7kcwmhBXI3mWqn9Ky"},
-        {"id": "8", "name": "Latent Space", "publisher": "Alessio + swyx", "description": "The podcast by and for AI Engineers. We interview AI researchers, founders, and engineers building the future.", "total_episodes": 100, "image": "", "url": "https://open.spotify.com/show/4vS0Dq8G7Q2lRqAR8BMBWC"},
-        {"id": "9", "name": "The AI Breakdown", "publisher": "Nathaniel Whittemore", "description": "Daily coverage of the most important news and conversations in AI.", "total_episodes": 500, "image": "", "url": "https://open.spotify.com/show/45VeQGMfNRXvgONvVh6bqZ"},
-        {"id": "10", "name": "No Priors", "publisher": "Conviction", "description": "AI and the future of technology with Sarah Guo and Elad Gil.", "total_episodes": 80, "image": "", "url": "https://open.spotify.com/show/4gvlPPLfvu3j0GCoq9XSLW"},
-        {"id": "11", "name": "AI with AI", "publisher": "CNA", "description": "Discussions on AI developments, applications, and implications.", "total_episodes": 150, "image": "", "url": "https://open.spotify.com/show/7c7YAAXQMSv0BuXGFe4Bvn"},
-        {"id": "12", "name": "Gradient Dissent", "publisher": "Weights & Biases", "description": "Interviews with ML practitioners about real-world machine learning.", "total_episodes": 100, "image": "", "url": "https://open.spotify.com/show/7o9C3Q0N2k5agHZS1e34lp"},
-    ]
+    all_episodes = []
+    shows = []
     
-    episodes = [
-        {"id": "e1", "name": "Sam Altman: OpenAI, GPT-5, Sora, Board Saga", "show": "Lex Fridman Podcast", "description": "Sam Altman is the CEO of OpenAI, the company behind GPT-4, ChatGPT, Sora, and more.", "release_date": "2024-03-18", "duration_min": 147, "image": "", "url": "https://open.spotify.com/episode/2MAi0BvDc6GTFvKFPXnkCL"},
-        {"id": "e2", "name": "Anthropic CEO Dario Amodei on Claude and AI Safety", "show": "Lex Fridman Podcast", "description": "Dario Amodei is the CEO of Anthropic, creator of Claude AI.", "release_date": "2024-02-15", "duration_min": 180, "image": "", "url": "https://open.spotify.com/episode/example2"},
-        {"id": "e3", "name": "The AI Election", "show": "Hard Fork", "description": "How AI is changing political campaigns and elections.", "release_date": "2024-03-15", "duration_min": 55, "image": "", "url": "https://open.spotify.com/episode/example3"},
-        {"id": "e4", "name": "GPT-5 is Coming", "show": "The AI Breakdown", "description": "Breaking down what we know about OpenAI's next model.", "release_date": "2024-03-20", "duration_min": 22, "image": "", "url": "https://open.spotify.com/episode/example4"},
-        {"id": "e5", "name": "The State of AI in 2024", "show": "All-In Podcast", "description": "Besties discuss the latest AI developments and investments.", "release_date": "2024-03-10", "duration_min": 95, "image": "", "url": "https://open.spotify.com/episode/example5"},
-        {"id": "e6", "name": "Building AI Agents", "show": "Latent Space", "description": "Deep dive into autonomous AI agents and their architecture.", "release_date": "2024-03-12", "duration_min": 75, "image": "", "url": "https://open.spotify.com/episode/example6"},
-        {"id": "e7", "name": "Jensen Huang on NVIDIA's AI Future", "show": "The AI Podcast", "description": "NVIDIA CEO discusses the future of AI computing.", "release_date": "2024-03-01", "duration_min": 45, "image": "", "url": "https://open.spotify.com/episode/example7"},
-        {"id": "e8", "name": "RAG vs Fine-Tuning", "show": "Practical AI", "description": "When to use retrieval augmented generation vs fine-tuning.", "release_date": "2024-03-08", "duration_min": 60, "image": "", "url": "https://open.spotify.com/episode/example8"},
-    ]
+    for feed in PODCAST_FEEDS:
+        episodes = parse_rss(feed)
+        all_episodes.extend(episodes)
+        
+        shows.append({
+            "id": feed["name"][:8],
+            "name": feed["name"],
+            "publisher": "",
+            "description": f"Latest AI and tech discussions",
+            "total_episodes": 0,
+            "image": "",
+            "url": feed["spotify"]
+        })
+    
+    # 按日期排序
+    all_episodes.sort(key=lambda x: x.get("release_date", ""), reverse=True)
     
     result = {
         "shows": shows,
-        "episodes": episodes
+        "episodes": all_episodes[:30]
     }
     
     with open("spotify_data.json", "w", encoding="utf-8") as f:
         json.dump(result, f, indent=2, ensure_ascii=False)
     
-    print(f"Saved {len(shows)} shows, {len(episodes)} episodes")
+    print(f"\nSaved {len(shows)} shows, {len(all_episodes[:30])} episodes")
 
 if __name__ == "__main__":
     main()
