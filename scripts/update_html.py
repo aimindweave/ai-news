@@ -6,6 +6,7 @@ def safe_json(data):
     s = json.dumps(data, ensure_ascii=True)
     s = s.replace("</", "<\\/")
     s = s.replace("<!--", "<\\!--")
+    s = s.replace("'", "\\'")
     return s
 
 def clean_fields(items, fields):
@@ -20,7 +21,7 @@ def clean_fields(items, fields):
 
 def replace_var(html, var_name, json_str):
     lines = html.split('\n')
-    new_val = 'var ' + var_name + ' = ' + repr(json_str) + ';'
+    new_val = "var " + var_name + " = '" + json_str + "';"
     for i, line in enumerate(lines):
         stripped = line.strip()
         if stripped.startswith('var ' + var_name + ' =') or stripped.startswith('var ' + var_name + '='):
