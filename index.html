@@ -4,175 +4,251 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>AI News Podcast</title>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     <style>
         *{margin:0;padding:0;box-sizing:border-box}
-        :root{--bg:#0a0a0a;--card:#161616;--text:#fff;--gray:#888;--accent:#1ed760;--border:#2a2a2a;--purple:#8b5cf6}
-        body{font-family:'Inter',sans-serif;background:var(--bg);color:var(--text);line-height:1.6}
-        .header{background:linear-gradient(180deg,#0f1a0f,var(--bg));padding:60px 20px 40px;text-align:center}
-        .badge{display:inline-block;padding:8px 16px;background:rgba(139,92,246,0.1);border:1px solid rgba(139,92,246,0.3);border-radius:20px;font-size:13px;color:var(--purple);margin-bottom:20px}
-        h1{font-size:clamp(32px,5vw,56px);font-weight:800;margin-bottom:12px}
-        .subtitle{font-size:16px;color:var(--gray);max-width:600px;margin:0 auto}
-        .nav{background:#111;padding:12px 20px;position:sticky;top:0;z-index:100;border-bottom:1px solid var(--border)}
-        .nav-inner{max-width:1400px;margin:0 auto;display:flex;gap:8px;overflow-x:auto}
-        .nav-btn{padding:10px 18px;background:var(--card);border:1px solid var(--border);border-radius:99px;color:var(--gray);font-size:13px;font-weight:600;cursor:pointer;white-space:nowrap}
-        .nav-btn.active{background:var(--purple);color:#fff;border-color:var(--purple)}
-        .section{max-width:1200px;margin:0 auto;padding:32px 20px;display:none}
+        body{font-family:system-ui,sans-serif;background:#0a0a0a;color:#fff;line-height:1.6}
+        .header{background:linear-gradient(180deg,#1a1a2e,#0a0a0a);padding:40px 20px;text-align:center}
+        .badge{display:inline-block;padding:6px 12px;background:rgba(139,92,246,0.2);border:1px solid #8b5cf6;border-radius:20px;font-size:12px;color:#8b5cf6;margin-bottom:16px}
+        h1{font-size:2.5rem;margin-bottom:8px}
+        .subtitle{color:#888;font-size:14px}
+        .nav{background:#111;padding:12px 20px;position:sticky;top:0;z-index:100;border-bottom:1px solid #222}
+        .nav-inner{max-width:1200px;margin:0 auto;display:flex;gap:8px}
+        .nav-btn{padding:8px 16px;background:#1a1a1a;border:1px solid #333;border-radius:20px;color:#888;font-size:13px;cursor:pointer}
+        .nav-btn.active{background:#8b5cf6;color:#fff;border-color:#8b5cf6}
+        .section{max-width:1200px;margin:0 auto;padding:24px 20px;display:none}
         .section.active{display:block}
-        .section-title{font-size:24px;font-weight:700;margin-bottom:8px}
-        .section-desc{color:var(--gray);margin-bottom:24px;font-size:14px}
-        .play-all-bar{background:linear-gradient(135deg,#1a1f2e,#0f1a1f);border:2px solid var(--purple);border-radius:16px;padding:24px;margin-bottom:24px}
-        .play-all-top{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:16px}
-        .play-all-info h3{font-size:20px;margin-bottom:4px;color:var(--purple)}
-        .play-all-info p{font-size:13px;color:var(--gray)}
-        .play-all-btn{display:inline-flex;align-items:center;gap:10px;padding:16px 32px;background:var(--purple);color:#fff;border:none;border-radius:99px;font-size:16px;font-weight:700;cursor:pointer;transition:all .2s}
-        .play-all-btn:hover{transform:scale(1.05);background:#7c4dff}
-        .play-all-btn.playing{background:#ef4444}
-        .progress-container{margin-top:20px}
-        .progress-bar{width:100%;height:6px;background:#333;border-radius:3px;overflow:hidden}
-        .progress-fill{height:100%;background:linear-gradient(90deg,var(--purple),var(--accent));transition:width .3s;width:0%}
-        .now-playing{font-size:13px;color:var(--purple);margin-top:10px;min-height:20px}
-        .news-grid{display:grid;gap:12px}
-        .news-card{background:var(--card);border-radius:12px;padding:20px;transition:all .2s;border-left:4px solid var(--purple)}
-        .news-card:hover{background:#1c1c1c}
-        .news-card.playing{background:#1a1525}
-        .news-header{display:flex;justify-content:space-between;align-items:flex-start;gap:12px;margin-bottom:12px}
-        .news-num{font-size:24px;font-weight:800;color:var(--purple);opacity:0.5}
-        .news-badges{display:flex;gap:6px;flex-wrap:wrap}
-        .news-badge{padding:4px 8px;border-radius:4px;font-size:10px;font-weight:700}
-        .badge-source{background:#1da1f2;color:#fff}
-        .badge-audio{background:var(--purple);color:#fff}
-        .news-title{font-size:17px;font-weight:600;margin-bottom:8px;line-height:1.4}
-        .news-summary{font-size:14px;color:var(--gray);line-height:1.6;margin-bottom:16px;display:none}
-        .news-summary.show{display:block}
-        .news-actions{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
-        .play-btn{display:inline-flex;align-items:center;gap:6px;padding:10px 20px;background:var(--purple);color:#fff;border:none;border-radius:99px;font-size:13px;font-weight:600;cursor:pointer;transition:all .2s}
-        .play-btn:hover{background:#7c4dff}
+        .play-all{background:linear-gradient(135deg,#1a1a2e,#0f0f1a);border:2px solid #8b5cf6;border-radius:12px;padding:20px;margin-bottom:20px}
+        .play-all-top{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:12px}
+        .play-all h3{color:#8b5cf6;margin-bottom:4px}
+        .play-all p{color:#888;font-size:13px}
+        .play-btn{padding:12px 24px;background:#8b5cf6;color:#fff;border:none;border-radius:20px;font-size:14px;font-weight:600;cursor:pointer}
+        .play-btn:hover{background:#7c3aed}
         .play-btn.playing{background:#ef4444}
-        .link-btn{padding:10px 16px;background:transparent;border:1px solid var(--border);border-radius:99px;color:var(--gray);font-size:12px;text-decoration:none;transition:all .2s}
-        .link-btn:hover{border-color:var(--gray);color:#fff}
-        .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(340px,1fr));gap:20px}
-        .card{background:var(--card);border-radius:12px;overflow:hidden}
-        .card iframe{width:100%;aspect-ratio:16/9;border:none}
-        .card-body{padding:16px}
-        .card-title{font-size:15px;font-weight:600;margin-bottom:6px}
-        .card-channel{font-size:13px;color:var(--accent);margin-bottom:12px}
-        .tag{display:inline-block;padding:3px 8px;border-radius:4px;font-size:10px;font-weight:700;margin-bottom:12px}
-        .tag-yt{background:#ff0000;color:#fff}
-        .pod-item{background:var(--card);border-radius:12px;padding:20px;display:flex;gap:16px;align-items:center;margin-bottom:12px}
-        .pod-icon{width:70px;height:70px;background:var(--accent);border-radius:12px;display:flex;align-items:center;justify-content:center;font-size:28px;flex-shrink:0}
-        .pod-info{flex:1}
-        .pod-info h3{font-size:15px;margin-bottom:4px}
-        .pod-info p{font-size:12px;color:var(--gray);margin-bottom:8px}
-        .pod-link{display:inline-block;padding:8px 16px;background:var(--accent);color:#000;border-radius:99px;font-size:12px;font-weight:700;text-decoration:none}
-        footer{max-width:1200px;margin:0 auto;padding:32px 20px;text-align:center;border-top:1px solid var(--border);color:var(--gray);font-size:12px}
-        @media(max-width:768px){.grid{grid-template-columns:1fr}.pod-item{flex-direction:column;text-align:center}.play-all-top{flex-direction:column;text-align:center}}
+        .progress{margin-top:16px}
+        .progress-bar{height:4px;background:#333;border-radius:2px}
+        .progress-fill{height:100%;background:#8b5cf6;border-radius:2px;width:0%;transition:width 0.3s}
+        .now-playing{color:#8b5cf6;font-size:12px;margin-top:8px;min-height:18px}
+        .news-list{display:flex;flex-direction:column;gap:8px}
+        .news-item{background:#161616;border-radius:8px;padding:16px;border-left:3px solid #8b5cf6}
+        .news-item.playing{background:#1a1525}
+        .news-header{display:flex;justify-content:space-between;align-items:start;gap:12px;margin-bottom:8px}
+        .news-num{color:#8b5cf6;font-weight:700;opacity:0.5}
+        .news-source{background:#333;padding:2px 8px;border-radius:4px;font-size:11px;color:#888}
+        .news-title{font-size:15px;font-weight:600;margin-bottom:8px}
+        .news-summary{font-size:13px;color:#888;display:none;margin-bottom:12px}
+        .news-summary.show{display:block}
+        .news-actions{display:flex;gap:8px}
+        .item-btn{padding:8px 16px;background:#8b5cf6;color:#fff;border:none;border-radius:16px;font-size:12px;cursor:pointer}
+        .item-btn.playing{background:#ef4444}
+        .link-btn{padding:8px 16px;background:transparent;border:1px solid #333;border-radius:16px;color:#888;font-size:12px;text-decoration:none}
+        .link-btn:hover{border-color:#888;color:#fff}
+        footer{text-align:center;padding:24px;color:#666;font-size:12px;border-top:1px solid #222}
     </style>
 </head>
 <body>
     <div class="header">
-        <div class="badge">🎙️ ELEVENLABS AI VOICE</div>
+        <div class="badge">🔊 BROWSER TTS</div>
         <h1>AI News Podcast</h1>
-        <p class="subtitle">50 AI news stories with natural AI voice narration by Hope</p>
+        <p class="subtitle">AI news with text-to-speech narration</p>
     </div>
-    <nav class="nav"><div class="nav-inner">
-        <button class="nav-btn active" onclick="showTab('news')">🗞️ AI News (50)</button>
-        <button class="nav-btn" onclick="showTab('yt')">📺 YouTube (20)</button>
-        <button class="nav-btn" onclick="showTab('pod')">🎧 Podcasts (20)</button>
-    </div></nav>
+    
+    <nav class="nav">
+        <div class="nav-inner">
+            <button class="nav-btn active" onclick="showTab('news')">🗞️ News</button>
+            <button class="nav-btn" onclick="showTab('yt')">📺 YouTube</button>
+            <button class="nav-btn" onclick="showTab('pod')">🎧 Podcasts</button>
+        </div>
+    </nav>
+    
     <div class="section active" id="news">
-        <h2 class="section-title">🗞️ Latest AI News</h2>
-        <p class="section-desc">From TechCrunch, MIT Tech Review, Nature, Reddit & more • Updated every 2 hours</p>
-        <div class="play-all-bar">
+        <div class="play-all">
             <div class="play-all-top">
-                <div class="play-all-info">
+                <div>
                     <h3>🎧 Listen to All News</h3>
-                    <p>Continuous playback with ElevenLabs AI voice (Hope)</p>
+                    <p>Continuous playback with browser TTS</p>
                 </div>
-                <button class="play-all-btn" id="play-all-btn" onclick="togglePlayAll()">
-                    <svg viewBox="0 0 24 24" fill="currentColor" width="20" height="20"><path d="M8 5v14l11-7z"/></svg>
-                    <span>Play All Stories</span>
-                </button>
+                <button class="play-btn" id="playAllBtn" onclick="togglePlayAll()">▶ Play All</button>
             </div>
-            <div class="progress-container">
+            <div class="progress">
                 <div class="progress-bar"><div class="progress-fill" id="progress"></div></div>
-                <div class="now-playing" id="now-playing"></div>
+                <div class="now-playing" id="nowPlaying"></div>
             </div>
         </div>
-        <div class="news-grid" id="news-grid"></div>
+        <div class="news-list" id="newsList"></div>
     </div>
+    
     <div class="section" id="yt">
-        <h2 class="section-title">📺 Top AI YouTube Videos</h2>
-        <p class="section-desc">Best AI educational content from top creators</p>
-        <div class="grid" id="yt-grid"></div>
+        <h2 style="margin-bottom:16px">📺 AI YouTube Videos</h2>
+        <div id="ytList"></div>
     </div>
+    
     <div class="section" id="pod">
-        <h2 class="section-title">🎧 Top AI Podcasts</h2>
-        <p class="section-desc">Click to open in Spotify</p>
-        <div id="pod-grid"></div>
+        <h2 style="margin-bottom:16px">🎧 AI Podcasts</h2>
+        <div id="podList"></div>
     </div>
+    
     <footer>
-        <p>AI News Podcast • Last updated: <span id="update-time">Loading...</span></p>
-        <p style="margin-top:8px">Powered by ElevenLabs AI Voice (Hope) • Auto-updates every 2 hours</p>
+        <p>Last updated: <span id="updateTime">Loading...</span></p>
+        <p>Using Browser TTS • Auto-updates every 2 hours</p>
     </footer>
+
 <script>
-const news=[{"title": "Airbnb plans to bake in AI features for search, discovery and support", "source": "TechCrunch", "summary": "Airbnb CEO Brian Chesky said the company wants to increase its use of large language models for customer discovery, support and engineering.", "url": "https://techcrunch.com/2026/02/13/airbnb-plans-to-bake-in-ai-features-for-search-discovery-and-support/", "date": "2026-02-14"}, {"title": "Airbnb says a third of its customer support is now handled by AI in the US and Canada", "source": "TechCrunch", "summary": "Airbnb was poised to introduce an app that doesn't just search for you, but one that \"knows you.\" CEO Brian Chesky said, \"It will help guests plan their entire trip, help hosts better run their businesses, and help the company operate more efficiently at scale.\"", "url": "https://techcrunch.com/2026/02/13/airbnb-says-a-third-of-its-customer-support-is-now-handled-by-ai-in-the-u-s-and-canada/", "date": "2026-02-14"}, {"title": "Why top talent is walking away from OpenAI and xAI", "source": "TechCrunch", "summary": "AI companies have been hemorrhaging&#160;talent&#160;the past few weeks. Half of&#160;xAI’s&#160;founding team&#160;has left the company — some on their own, others through “restructuring” — while OpenAI is facing its own shakeups, from the&#160;disbanding of its&#160;mission alignment team&#160;to the firing of a policy exec who opposed its “adult mode” feature.&#160; Watch as TechCrunch’s Equity", "url": "https://techcrunch.com/video/why-top-talent-is-walking-away-from-openai-and-xai/", "date": "2026-02-14"}, {"title": "OpenAI removes access to sycophancy-prone GPT-4o model", "source": "TechCrunch", "summary": "The model is known for its overly sycophantic nature and its role in several lawsuits involving users' unhealthy relationships with the chatbot.", "url": "https://techcrunch.com/2026/02/13/openai-removes-access-to-sycophancy-prone-gpt-4o-model/", "date": "2026-02-14"}, {"title": "AI burnout, billion-dollar bets, and Silicon Valley’s Epstein problem", "source": "TechCrunch", "summary": "AI companies have been hemorrhaging&#160;talent&#160;the past few weeks. Half of&#160;xAI’s&#160;founding team&#160;has left the company — some on their own, others through “restructuring” — while OpenAI is facing its own shakeups, from the&#160;disbanding of its&#160;mission alignment team&#160;to the firing of a policy exec who opposed its “adult mode” feature.&#160; On this episode of TechCrunc", "url": "https://techcrunch.com/podcast/ai-burnout-billion-dollar-bets-and-silicon-valleys-epstein-problem/", "date": "2026-02-14"}, {"title": "Anthropic’s Super Bowl ads mocking AI with ads helped push Claude’s app into the top 10", "source": "TechCrunch", "summary": "The numbers suggest that Anthropic's Super Bowl commercials, combined with Anthropic's recent release of its new Opus 4.6 model, worked to drive attention to Claude's app and its key differentiator from ChatGPT.", "url": "https://techcrunch.com/2026/02/13/anthropics-super-bowl-ads-mocking-ai-with-ads-helped-push-claudes-app-into-the-top-10/", "date": "2026-02-14"}, {"title": "Elon Musk suggests spate of xAI exits have been push, not pull", "source": "TechCrunch", "summary": "At least nine engineers, including two co-founders, have announced their exits from xAI in the past week, fueling online speculation and raising questions about stability at Musk’s AI company amid mounting controversy.", "url": "https://techcrunch.com/2026/02/13/elon-musk-suggests-spate-of-xai-exits-have-been-push-not-pull/", "date": "2026-02-14"}, {"title": "Cohere’s $240M year sets stage for IPO", "source": "TechCrunch", "summary": "Cohere surpassed $240 million in annual recurring revenue in 2025, highlighting strong enterprise AI demand as the Canadian startup positions itself for a potential IPO amid intensifying competition from OpenAI and Anthropic.", "url": "https://techcrunch.com/2026/02/13/coheres-240m-year-sets-stage-for-ipo/", "date": "2026-02-14"}, {"title": "ALS stole this musician’s voice. AI let him sing again.", "source": "MIT Tech Review", "summary": "There are tears in the audience as Patrick Darling’s song begins to play. It’s a heartfelt song written for his great-grandfather, whom he never got the chance to meet. But this performance is emotional for another reason: It’s Darling’s first time on stage with his bandmates since he lost the ability to sing two years&#8230;", "url": "https://www.technologyreview.com/2026/02/13/1132913/als-stole-this-musicians-voice-ai-sing/", "date": "2026-02-14"}, {"title": "The Download: an exclusive chat with Jim O’Neill, and the surprising truth about heists", "source": "MIT Tech Review", "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. US deputy health secretary: Vaccine guidelines are still subject to change Over the past year, Jim O’Neill has become one of the most powerful people in public health. As the US deputy health&#8230;", "url": "https://www.technologyreview.com/2026/02/13/1132896/the-download-an-exclusive-chat-with-jim-oneill-and-the-surprising-truth-about-heists/", "date": "2026-02-14"}, {"title": "The myth of the high-tech heist", "source": "MIT Tech Review", "summary": "Making a movie is a lot like pulling off a heist. That’s what Steven Soderbergh—director of the Ocean’s franchise, among other heist-y classics—said a few years ago. You come up with a creative angle, put together a team of specialists, figure out how to beat the technological challenges, rehearse, move with Swiss-watch precision, and—if you&#8230;", "url": "https://www.technologyreview.com/2026/02/13/1132397/myth-of-high-tech-heist/", "date": "2026-02-14"}, {"title": "US deputy health secretary: Vaccine guidelines are still subject to change", "source": "MIT Tech Review", "summary": "Following publication of this story, Politico reported Jim O’Neill would be leaving his current roles within the Department of Health and Human Services. Over the past year, Jim O’Neill has become one of the most powerful people in public health. As the US deputy health secretary, he holds two roles at the top of the&#8230;", "url": "https://www.technologyreview.com/2026/02/13/1132889/us-deputy-health-secretary-vaccine-guidelines-longevity-arpa-h-cdc-nih/", "date": "2026-02-14"}, {"title": "RFK Jr. follows a carnivore diet. That doesn’t mean you should.", "source": "MIT Tech Review", "summary": "Americans have a new set of diet guidelines. Robert F. Kennedy Jr. has taken an old-fashioned food pyramid, turned it upside down, and plonked a steak and a stick of butter in prime positions. Kennedy and his Make America Healthy Again mates have long been extolling the virtues of meat and whole-fat dairy, so it&#8230;", "url": "https://www.technologyreview.com/2026/02/13/1132848/rfk-jr-carnivore-diet-maha-social-media/", "date": "2026-02-14"}, {"title": "The Download: AI-enhanced cybercrime, and secure AI assistants", "source": "MIT Tech Review", "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI is already making online crimes easier. It could get much worse. Just as software engineers are using artificial intelligence to help write code and check for bugs, hackers are using these tools&#8230;", "url": "https://www.technologyreview.com/2026/02/12/1132819/the-download-ai-enhanced-cybercrime-and-secure-ai-assistants/", "date": "2026-02-14"}, {"title": "AI is already making online crimes easier. It could get much worse.", "source": "MIT Tech Review", "summary": "Anton Cherepanov is always on the lookout for something interesting. And in late August last year, he spotted just that. It was a file uploaded to VirusTotal, a site cybersecurity researchers like him use to analyze submissions for potential viruses and other types of malicious software, often known as malware. On the surface it seemed&#8230;", "url": "https://www.technologyreview.com/2026/02/12/1132386/ai-already-making-online-swindles-easier/", "date": "2026-02-14"}, {"title": "Why EVs are gaining ground in Africa", "source": "MIT Tech Review", "summary": "EVs are getting cheaper and more common all over the world. But the technology still faces major challenges in some markets, including many countries in Africa. Some regions across the continent still have limited grid and charging infrastructure, and those that do have widespread electricity access sometimes face reliability issues—a problem for EV owners, who&#8230;", "url": "https://www.technologyreview.com/2026/02/12/1132790/evs-progress-africa/", "date": "2026-02-14"}, {"title": "What’s behind the mass exodus at xAI?", "source": "The Verge", "summary": "The past few days have been a wild ride for xAI, which is racking up staff and cofounder departure announcements left and right. On Tuesday and Wednesday, cofounder Yuhuai (Tony) Wu announced his departure and that it was \"time for [his] next chapter,\" with cofounder Jimmy Ba following with a similar post later that day, [&#8230;]", "url": "https://www.theverge.com/ai-artificial-intelligence/878761/mass-exodus-at-xai-grok-elon-musk-restructuring", "date": "2026-02-14"}, {"title": "Ring&#8217;s adorable surveillance hellscape", "source": "The Verge", "summary": "You can watch Ring's recent Super Bowl ad and see a cute story about dogs being reunited with their families. You can also watch the very same ad and see the seeds being planted for a massively connected, utterly ubiquitous surveillance system that will end the concept of privacy forever. Maybe you can even see [&#8230;]", "url": "https://www.theverge.com/podcast/878797/ring-super-bowl-ad-backlash-epstein-files-chatgpt-vergecast", "date": "2026-02-14"}, {"title": "Meta reportedly wants to add face recognition to smart glasses while privacy advocates are distracted", "source": "The Verge", "summary": "Meta aims to introduce facial recognition to its smart glasses while its biggest critics are distracted, according to a report from The New York Times. In an internal document reviewed by The Times, Meta says it will launch the feature \"during a dynamic political environment where many civil society groups that we would expect to [&#8230;]", "url": "https://www.theverge.com/tech/878725/meta-facial-recognition-smart-glasses-name-tag-privacy-advoates", "date": "2026-02-14"}, {"title": "Good Luck, Have Fun, Don’t Die is a rollicking parable about this moment in tech", "source": "The Verge", "summary": "We are all guilty of pulling out our phones and doomscrolling through stressful headlines or mindnumbing videos when we should be doing anything else. We know it's bad, but we still do it because it's hard to resist when much of our time is spent living and working on our devices. And even though we [&#8230;]", "url": "https://www.theverge.com/entertainment/877244/good-luck-have-fun-dont-die-review", "date": "2026-02-14"}, {"title": "The surprising case for AI judges", "source": "The Verge", "summary": "Today, we’re going to talk about the role AI might play in deciding legal disputes. Not just drafting memos and doing research — actually deciding who’s right and who’s wrong, and who should pay. My guest today is Bridget McCormack, the former chief justice for the Michigan Supreme Court and now president and CEO of [&#8230;]", "url": "https://www.theverge.com/podcast/877299/ai-arbitrator-bridget-mccormack-aaa-arbitration-interview", "date": "2026-02-14"}, {"title": "ByteDance’s next-gen AI model can generate clips based on text, images, audio, and video", "source": "The Verge", "summary": "Big Tech's race to leapfrog the latest AI models continues with the launch of ByteDance's next-gen video generator. In a blog post, ByteDance - the China-based company behind TikTok - says Seedance 2.0 supports prompts that combine text, images, video, and audio. The company claims it \"delivers a substantial leap in generation quality,\" offering improvements [&#8230;]", "url": "https://www.theverge.com/ai-artificial-intelligence/877931/bytedance-seedance-2-video-generator-ai-launch", "date": "2026-02-14"}, {"title": "This $7,999 robot will fold (some of) your laundry", "source": "The Verge", "summary": "If you have a spare $7,999 (plus a $250 deposit), hate folding laundry, and happen to live in the Bay Area, one-and-a-half-year-old startup Weave has the robot for you: Isaac 0. It takes Isaac 0 around 30-90 minutes to fold a load of laundry, Weave says. That's all it does - it's stationary and needs [&#8230;]", "url": "https://www.theverge.com/tech/877851/weave-isaac-robot-fold-laundry", "date": "2026-02-14"}, {"title": "Two more xAI co-founders are among those leaving after the SpaceX merger", "source": "The Verge", "summary": "Since the xAI-SpaceX merger announced last week, which combined the two companies (as well as social media platform X) for a reported $1.25 trillion valuation - the biggest merger of all time - a handful of xAI employees and two of its co-founders have abruptly exited the company, penning long departure announcements online. Some also [&#8230;]", "url": "https://www.theverge.com/ai-artificial-intelligence/877609/two-more-xai-co-founders-are-among-those-leaving-after-the-spacex-merger", "date": "2026-02-14"}, {"title": "OpenAI Is Nuking Its 4o Model. China’s ChatGPT Fans Aren’t OK", "source": "Wired", "summary": "As OpenAI removed access to GPT-4o in its app on Friday, people who have come to rely on the chatbot for companionship are mourning the loss all over the world.", "url": "https://www.wired.com/story/openai-nuking-4o-model-china-chatgpt-fans-arent-ok/", "date": "2026-02-14"}, {"title": "Zillow Has Gone Wild—for AI", "source": "Wired", "summary": "As the housing market stalls, Zillow’s CEO sees AI as “an ingredient rather than a threat” that can both help the company protect its turf and reinvent how people search for homes.", "url": "https://www.wired.com/story/backchannel-how-artificial-intelligence-changed-zillow/", "date": "2026-02-14"}, {"title": "Inside the New York City Date Night for AI Lovers", "source": "Wired", "summary": "EVA AI created a pop-up romantic date night at a Manhattan wine bar to help making AI-human relationships a “new normal.”", "url": "https://www.wired.com/story/inside-the-new-york-city-date-night-for-ai-lovers/", "date": "2026-02-14"}, {"title": "‘Uncanny Valley’: ICE’s Secret Expansion Plans, Palantir Workers’ Ethical Concerns, and AI Assistants", "source": "Wired", "summary": "In this episode of Uncanny Valley, our hosts dive into WIRED’s scoop about a secret Trump administration campaign extending right into your backyard.", "url": "https://www.wired.com/story/uncanny-valley-podcast-ice-expansion-palantir-workers-ethical-concerns-openclaw-ai-assistants/", "date": "2026-02-14"}, {"title": "A Wave of Unexplained Bot Traffic Is Sweeping the Web", "source": "Wired", "summary": "From small publishers to US federal agencies, websites are reporting unusual spikes in automated traffic linked to IP addresses in Lanzhou, China.", "url": "https://www.wired.com/story/made-in-china-niche-websites-are-seeing-a-surge-of-mysterious-traffic-from-china/", "date": "2026-02-14"}, {"title": "OpenAI’s President Gave Millions to Trump. He Says It’s for Humanity", "source": "Wired", "summary": "In an interview with WIRED, Greg Brockman says his political donations support OpenAI's mission—even if some employees at the company disagree.", "url": "https://www.wired.com/story/openai-president-greg-brockman-political-donations-trump-humanity/", "date": "2026-02-14"}, {"title": "Crypto-Funded Human Trafficking Is Exploding", "source": "Wired", "summary": "The use of cryptocurrency in sales of human beings for prostitution and scam compounds nearly doubled in 2025, according to a conservative estimate. Many of the deals are happening in plain sight.", "url": "https://www.wired.com/story/crypto-funded-human-trafficking-is-exploding/", "date": "2026-02-14"}, {"title": "I Tried RentAHuman, Where AI Agents Hired Me to Hype Their AI Startups", "source": "Wired", "summary": "Rather than offering a revolutionary new approach to gig work, RentAHuman is filled with bots that just want me to be another cog in the AI hype machine.", "url": "https://www.wired.com/story/i-tried-rentahuman-ai-agents-hired-me-to-hype-their-ai-startups/", "date": "2026-02-14"}, {"title": "OpenAI sidesteps Nvidia with unusually fast coding model on plate-sized chips", "source": "Ars Technica", "summary": "OpenAI's new GPT‑5.3‑Codex‑Spark is 15 times faster at coding than its predecessor.", "url": "https://arstechnica.com/ai/2026/02/openai-sidesteps-nvidia-with-unusually-fast-coding-model-on-plate-sized-chips/", "date": "2026-02-14"}, {"title": "Attackers prompted Gemini over 100,000 times while trying to clone it, Google says", "source": "Ars Technica", "summary": "Distillation technique lets copycats mimic Gemini at a fraction of the development cost.", "url": "https://arstechnica.com/ai/2026/02/attackers-prompted-gemini-over-100000-times-while-trying-to-clone-it-google-says/", "date": "2026-02-14"}, {"title": "Once-hobbled Lumma Stealer is back with lures that are hard to resist", "source": "Ars Technica", "summary": "ClickFix bait, combined with advanced Castleloader malware, is installing Lumma \"at scale.\"", "url": "https://arstechnica.com/security/2026/02/once-hobbled-lumma-stealer-is-back-with-lures-that-are-hard-to-resist/", "date": "2026-02-14"}, {"title": "OpenAI researcher quits over ChatGPT ads, warns of \"Facebook\" path", "source": "Ars Technica", "summary": "Zoë Hitzig resigned on the same day OpenAI began testing ads in its chatbot.", "url": "https://arstechnica.com/information-technology/2026/02/openai-researcher-quits-over-fears-that-chatgpt-ads-could-manipulate-users/", "date": "2026-02-14"}, {"title": "Sixteen Claude AI agents working together created a new C compiler", "source": "Ars Technica", "summary": "The $20,000 experiment compiled a Linux kernel but needed deep human management.", "url": "https://arstechnica.com/ai/2026/02/sixteen-claude-ai-agents-working-together-created-a-new-c-compiler/", "date": "2026-02-14"}, {"title": "Malicious packages for dYdX cryptocurrency exchange empties user wallets", "source": "Ars Technica", "summary": "Incident is at least the third time the exchange has been targeted by thieves.", "url": "https://arstechnica.com/security/2026/02/malicious-packages-for-dydx-cryptocurrency-exchange-empties-user-wallets/", "date": "2026-02-14"}, {"title": "AI companies want you to stop chatting with bots and start managing them", "source": "Ars Technica", "summary": "Claude Opus 4.6 and OpenAI Frontier pitch a future of supervising AI agents.", "url": "https://arstechnica.com/information-technology/2026/02/ai-companies-want-you-to-stop-chatting-with-bots-and-start-managing-them/", "date": "2026-02-14"}, {"title": "OpenAI is hoppin' mad about Anthropic's new Super Bowl TV ads", "source": "Ars Technica", "summary": "Sam Altman calls AI competitor \"dishonest\" and \"authoritarian\" in lengthy post on X.", "url": "https://arstechnica.com/information-technology/2026/02/openai-is-hoppin-mad-about-anthropics-new-super-bowl-tv-ads/", "date": "2026-02-14"}];
-const audioFiles=[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39];
+const news=[{"title": "Airbnb plans to bake in AI features for search, discovery and support", "source": "TechCrunch", "summary": "Airbnb CEO Brian Chesky said the company wants to increase its use of large language models for customer discovery, support and engineering.", "url": "https://techcrunch.com/2026/02/13/airbnb-plans-to-bake-in-ai-features-for-search-discovery-and-support/", "date": "2026-02-14"}, {"title": "Airbnb says a third of its customer support is now handled by AI in the US and Canada", "source": "TechCrunch", "summary": "Airbnb was poised to introduce an app that doesn't just search for you, but one that knows you.", "url": "https://techcrunch.com/2026/02/13/airbnb-says-a-third-of-its-customer-support-is-now-handled-by-ai-in-the-u-s-and-canada/", "date": "2026-02-14"}, {"title": "Why top talent is walking away from OpenAI and xAI", "source": "TechCrunch", "summary": "AI companies have been hemorrhaging talent the past few weeks. Half of xAI's founding team has left the company.", "url": "https://techcrunch.com/video/why-top-talent-is-walking-away-from-openai-and-xai/", "date": "2026-02-14"}, {"title": "OpenAI removes access to sycophancy-prone GPT-4o model", "source": "TechCrunch", "summary": "The model is known for its overly sycophantic nature and its role in several lawsuits involving users' unhealthy relationships with the chatbot.", "url": "https://techcrunch.com/2026/02/13/openai-removes-access-to-sycophancy-prone-gpt-4o-model/", "date": "2026-02-14"}, {"title": "Anthropic's Super Bowl ads mocking AI helped push Claude's app into the top 10", "source": "TechCrunch", "summary": "Anthropic's Super Bowl commercials combined with the release of its new Opus 4.6 model worked to drive attention to Claude's app.", "url": "https://techcrunch.com/2026/02/13/anthropics-super-bowl-ads-mocking-ai-with-ads-helped-push-claudes-app-into-the-top-10/", "date": "2026-02-14"}, {"title": "Elon Musk suggests spate of xAI exits have been push, not pull", "source": "TechCrunch", "summary": "At least nine engineers, including two co-founders, have announced their exits from xAI in the past week.", "url": "https://techcrunch.com/2026/02/13/elon-musk-suggests-spate-of-xai-exits-have-been-push-not-pull/", "date": "2026-02-14"}, {"title": "Cohere's $240M year sets stage for IPO", "source": "TechCrunch", "summary": "Cohere surpassed $240 million in annual recurring revenue in 2025, positioning itself for a potential IPO.", "url": "https://techcrunch.com/2026/02/13/coheres-240m-year-sets-stage-for-ipo/", "date": "2026-02-14"}, {"title": "ALS stole this musician's voice. AI let him sing again.", "source": "MIT Tech Review", "summary": "There are tears in the audience as Patrick Darling's song begins to play. It's his first time on stage since he lost the ability to sing.", "url": "https://www.technologyreview.com/2026/02/13/1132913/als-stole-this-musicians-voice-ai-sing/", "date": "2026-02-14"}, {"title": "AI is already making online crimes easier. It could get much worse.", "source": "MIT Tech Review", "summary": "Just as software engineers are using AI to help write code, hackers are using these tools for malicious purposes.", "url": "https://www.technologyreview.com/2026/02/12/1132386/ai-already-making-online-swindles-easier/", "date": "2026-02-14"}, {"title": "What's behind the mass exodus at xAI?", "source": "The Verge", "summary": "The past few days have been a wild ride for xAI, racking up staff and cofounder departure announcements.", "url": "https://www.theverge.com/ai-artificial-intelligence/878761/mass-exodus-at-xai-grok-elon-musk-restructuring", "date": "2026-02-14"}, {"title": "Meta reportedly wants to add face recognition to smart glasses", "source": "The Verge", "summary": "Meta aims to introduce facial recognition to its smart glasses while its biggest critics are distracted.", "url": "https://www.theverge.com/tech/878725/meta-facial-recognition-smart-glasses-name-tag-privacy-advoates", "date": "2026-02-14"}, {"title": "ByteDance's next-gen AI model can generate clips based on text, images, audio, and video", "source": "The Verge", "summary": "ByteDance says Seedance 2.0 supports prompts that combine text, images, video, and audio.", "url": "https://www.theverge.com/ai-artificial-intelligence/877931/bytedance-seedance-2-video-generator-ai-launch", "date": "2026-02-14"}, {"title": "OpenAI Is Nuking Its 4o Model. China's ChatGPT Fans Aren't OK", "source": "Wired", "summary": "As OpenAI removed access to GPT-4o, people who rely on the chatbot for companionship are mourning the loss.", "url": "https://www.wired.com/story/openai-nuking-4o-model-china-chatgpt-fans-arent-ok/", "date": "2026-02-14"}, {"title": "Zillow Has Gone Wild—for AI", "source": "Wired", "summary": "As the housing market stalls, Zillow's CEO sees AI as an ingredient that can reinvent how people search for homes.", "url": "https://www.wired.com/story/backchannel-how-artificial-intelligence-changed-zillow/", "date": "2026-02-14"}, {"title": "OpenAI sidesteps Nvidia with unusually fast coding model", "source": "Ars Technica", "summary": "OpenAI's new GPT-5.3-Codex-Spark is 15 times faster at coding than its predecessor.", "url": "https://arstechnica.com/ai/2026/02/openai-sidesteps-nvidia-with-unusually-fast-coding-model-on-plate-sized-chips/", "date": "2026-02-14"}, {"title": "Sixteen Claude AI agents working together created a new C compiler", "source": "Ars Technica", "summary": "The $20,000 experiment compiled a Linux kernel but needed deep human management.", "url": "https://arstechnica.com/ai/2026/02/sixteen-claude-ai-agents-working-together-created-a-new-c-compiler/", "date": "2026-02-14"}, {"title": "AI companies want you to stop chatting with bots and start managing them", "source": "Ars Technica", "summary": "Claude Opus 4.6 and OpenAI Frontier pitch a future of supervising AI agents.", "url": "https://arstechnica.com/information-technology/2026/02/ai-companies-want-you-to-stop-chatting-with-bots-and-start-managing-them/", "date": "2026-02-14"}, {"title": "OpenAI is hoppin' mad about Anthropic's new Super Bowl TV ads", "source": "Ars Technica", "summary": "Sam Altman calls AI competitor dishonest and authoritarian in lengthy post on X.", "url": "https://arstechnica.com/information-technology/2026/02/openai-is-hoppin-mad-about-anthropics-new-super-bowl-tv-ads/", "date": "2026-02-14"}];
+
+const audioFiles=[];
+
 const ytVideos=[
-{id:"aircAruvnKk",t:"What is a Neural Network?",c:"3Blue1Brown"},
-{id:"VMj-3S1tku0",t:"Neural Networks: Zero to Hero",c:"Andrej Karpathy"},
-{id:"zjkBMFhNj_g",t:"Intro to Large Language Models",c:"Andrej Karpathy"},
-{id:"kCc8FmEb1nY",t:"Let's build GPT from scratch",c:"Andrej Karpathy"},
-{id:"wjZofJX0v4M",t:"GPT-4 - What We Know",c:"Fireship"},
-{id:"cdiD-9MMpb0",t:"Google Gemini & OpenAI News",c:"Fireship"},
-{id:"l8pRSuU81PU",t:"What is RAG?",c:"IBM Technology"},
-{id:"flXrLGPY3SU",t:"Engineering of ChatGPT",c:"Real Engineering"},
-{id:"5sLYAQS9sWQ",t:"AI Image Generators Explained",c:"Vox"},
-{id:"SzhkhvKBUXg",t:"AI Could Empower Business",c:"TED"},
-{id:"hBBOjCiFcuo",t:"Production ML Pipelines",c:"Weights & Biases"},
-{id:"vMh0zPT0tLI",t:"Neural Networks Explained",c:"StatQuest"},
-{id:"WFr2WgN9_xE",t:"Python ML Tutorial",c:"Sentdex"},
-{id:"CS4cs9xVecg",t:"ML Specialization Preview",c:"DeepLearning.AI"},
-{id:"9vM4p9NN0Ts",t:"Transformers Explained",c:"Yannic Kilcher"},
-{id:"jvqFAi7vkBc",t:"GPT-5 Analysis",c:"AI Explained"},
-{id:"FW7szSFYyzA",t:"Best AI Tools This Week",c:"Matt Wolfe"},
-{id:"TQxmA4EPuQs",t:"Attention Mechanism",c:"CodeEmporium"},
-{id:"xZDB1naRUlk",t:"Speech Recognition AI",c:"AssemblyAI"},
-{id:"8SF_h3xF3cE",t:"Practical Deep Learning",c:"fast.ai"}
+{id:"aircAruvnKk",t:"What is a Neural Network?",c:"3Blue1Brown",s:"A beautifully animated explanation of neural networks."},
+{id:"VMj-3S1tku0",t:"Neural Networks: Zero to Hero",c:"Andrej Karpathy",s:"Former Tesla AI Director builds neural networks from scratch."},
+{id:"zjkBMFhNj_g",t:"Intro to Large Language Models",c:"Andrej Karpathy",s:"One-hour talk explaining how LLMs like GPT work."},
+{id:"kCc8FmEb1nY",t:"Let's build GPT from scratch",c:"Andrej Karpathy",s:"Hands-on tutorial building a GPT model."},
+{id:"wjZofJX0v4M",t:"GPT-4 - How does it work?",c:"Fireship",s:"Fast-paced breakdown of GPT-4's capabilities."}
 ];
+
 const podcasts=[
-{n:"Lex Fridman Podcast",u:"https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL",d:"Deep AI conversations"},
-{n:"Hard Fork",u:"https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT",d:"NYT tech podcast"},
-{n:"All-In Podcast",u:"https://open.spotify.com/show/2IqXAVFR4e0Bmyjsdc8QzF",d:"Tech billionaires discuss AI"},
-{n:"The Vergecast",u:"https://open.spotify.com/show/430MlYmAjFFnXdzU1jJfcB",d:"Weekly tech roundup"},
-{n:"Acquired",u:"https://open.spotify.com/show/7Fj0XEuUQLi3mMHXhkfo2F",d:"How great companies are built"},
-{n:"a16z Podcast",u:"https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX",d:"VC insights on AI"},
-{n:"No Priors",u:"https://open.spotify.com/show/7yJxQe7PMBgNtvTRNlmXTh",d:"AI founders & researchers"},
-{n:"Latent Space",u:"https://open.spotify.com/show/4vS0Dq8G7Q2lRqAR8BMBWC",d:"AI engineering podcast"},
-{n:"TWIML AI",u:"https://open.spotify.com/show/2sp5EL7s7nqEq8IfMSbc7L",d:"This Week in ML"},
-{n:"Practical AI",u:"https://open.spotify.com/show/1LLQkN0uHBmYb4rDaZv9ij",d:"Making AI practical"},
-{n:"ML Street Talk",u:"https://open.spotify.com/show/02e6PZeIOdPBKja0LZKCHs",d:"ML research deep dives"},
-{n:"Eye on AI",u:"https://open.spotify.com/show/5aFnACHECkhfzRczKLudsk",d:"AI leaders interviews"},
-{n:"The Robot Brains",u:"https://open.spotify.com/show/6NKPp1bDgvFkNxJCESuP9N",d:"AI pioneers talk"},
-{n:"Data Skeptic",u:"https://open.spotify.com/show/1BZN7H3ikovSejhvbPLn0j",d:"Data science explained"},
-{n:"AI in Business",u:"https://open.spotify.com/show/4pnPmkqCvPeJ5OXYPLF1i9",d:"Enterprise AI adoption"},
-{n:"Gradient Dissent",u:"https://open.spotify.com/show/7o9wXdFXWDEZTWGj7kf9lL",d:"ML practitioners discuss"},
-{n:"Cognitive Revolution",u:"https://open.spotify.com/show/6Z7VVjPEFDkzJXGEIHlLqw",d:"AI impact on society"},
-{n:"Last Week in AI",u:"https://open.spotify.com/show/3HLxVZQBQEOmLBFqvvP7b7",d:"Weekly AI news"},
-{n:"The AI Breakdown",u:"https://open.spotify.com/show/0p1Mn8E2lXJOyKJSqVVxOK",d:"Daily AI news in 15 min"},
-{n:"Changelog",u:"https://open.spotify.com/show/5bBki72YeKXOvO8d30LMpa",d:"Open source & AI tools"}
+{n:"Lex Fridman Podcast",u:"https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL",d:"Deep AI conversations with researchers and thought leaders."},
+{n:"Hard Fork",u:"https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT",d:"NYT tech columnists discuss AI and tech stories."},
+{n:"All-In Podcast",u:"https://open.spotify.com/show/2IqXAVFR4e0Bmyjsdc8QzF",d:"Tech billionaires debate AI, startups, and economy."},
+{n:"Latent Space",u:"https://open.spotify.com/show/4vS0Dq8G7Q2lRqAR8BMBWC",d:"Technical AI podcast for engineers."},
+{n:"The AI Breakdown",u:"https://open.spotify.com/show/0p1Mn8E2lXJOyKJSqVVxOK",d:"Daily 15-minute AI news episodes."}
 ];
-const audio=new Audio();let playing=null,playAllMode=false,playAllIdx=0;
-function hasAudio(i){return audioFiles.includes(i)}
-function renderNews(){document.getElementById('news-grid').innerHTML=news.map((n,i)=>`<div class="news-card" id="card-${i}"><div class="news-header"><div class="news-num">${String(i+1).padStart(2,'0')}</div><div class="news-badges"><span class="news-badge badge-source">${n.source}</span>${hasAudio(i)?'<span class="news-badge badge-audio">🎙️ AI VOICE</span>':''}</div></div><div class="news-title">${n.title}</div><div class="news-summary" id="summary-${i}">${n.summary}</div><div class="news-actions"><button class="play-btn" id="btn-${i}" onclick="playNews(${i})"><svg viewBox="0 0 24 24" fill="currentColor" width="14" height="14"><path d="M8 5v14l11-7z"/></svg><span>Play</span></button><a href="${n.url}" target="_blank" class="link-btn">Read More →</a></div></div>`).join('')}
-function renderYT(){document.getElementById('yt-grid').innerHTML=ytVideos.map(v=>`<div class="card"><iframe src="https://www.youtube.com/embed/${v.id}" allowfullscreen loading="lazy"></iframe><div class="card-body"><span class="tag tag-yt">YOUTUBE</span><div class="card-title">${v.t}</div><div class="card-channel">📺 ${v.c}</div></div></div>`).join('')}
-function renderPod(){document.getElementById('pod-grid').innerHTML=podcasts.map(p=>`<div class="pod-item"><div class="pod-icon">🎧</div><div class="pod-info"><h3>${p.n}</h3><p>${p.d}</p><a href="${p.u}" target="_blank" class="pod-link">Open in Spotify</a></div></div>`).join('')}
-function stopAll(){playAllMode=false;audio.pause();audio.currentTime=0;document.querySelectorAll('.news-card').forEach(c=>c.classList.remove('playing'));document.querySelectorAll('.news-summary').forEach(s=>s.classList.remove('show'));document.querySelectorAll('.play-btn').forEach(b=>{b.classList.remove('playing');b.querySelector('span').textContent='Play';b.querySelector('svg').innerHTML='<path d="M8 5v14l11-7z"/>'});const pab=document.getElementById('play-all-btn');pab.classList.remove('playing');pab.querySelector('span').textContent='Play All Stories';pab.querySelector('svg').innerHTML='<path d="M8 5v14l11-7z"/>';document.getElementById('now-playing').textContent='';document.getElementById('progress').style.width='0%';playing=null}
-function playNews(i){if(playing===i){stopAll();return}stopAll();const card=document.getElementById('card-'+i),btn=document.getElementById('btn-'+i),summary=document.getElementById('summary-'+i);card.classList.add('playing');btn.classList.add('playing');btn.querySelector('span').textContent='Stop';btn.querySelector('svg').innerHTML='<rect x="6" y="4" width="4" height="16"/><rect x="14" y="4" width="4" height="16"/>';summary.classList.add('show');playing=i;if(hasAudio(i)){audio.src=`audio/news_${i}.mp3`;audio.onended=()=>stopAll();audio.play().catch(e=>console.log(e))}}
-function togglePlayAll(){if(playAllMode){stopAll();return}stopAll();playAllMode=true;playAllIdx=0;const btn=document.getElementById('play-all-btn');btn.classList.add('playing');btn.querySelector('span').textContent='Stop';btn.querySelector('svg').innerHTML='<rect x="6" y="4" width="4" height="16"/><rect x="14" y="4" width="4" height="16"/>';playNext()}
-function playNext(){if(!playAllMode||playAllIdx>=news.length){stopAll();return}while(playAllIdx<news.length&&!hasAudio(playAllIdx))playAllIdx++;if(playAllIdx>=news.length){stopAll();return}const i=playAllIdx,n=news[i];document.querySelectorAll('.news-card').forEach(c=>c.classList.remove('playing'));document.querySelectorAll('.news-summary').forEach(s=>s.classList.remove('show'));const card=document.getElementById('card-'+i),summary=document.getElementById('summary-'+i);card.classList.add('playing');summary.classList.add('show');card.scrollIntoView({behavior:'smooth',block:'center'});document.getElementById('now-playing').textContent=`▶ ${i+1}/${news.length}: ${n.title}`;document.getElementById('progress').style.width=((i+1)/news.length*100)+'%';playing=i;audio.src=`audio/news_${i}.mp3`;audio.onended=()=>{playAllIdx++;if(playAllMode)setTimeout(playNext,500)};audio.play().catch(()=>{playAllIdx++;if(playAllMode)playNext()})}
-function showTab(id){stopAll();document.querySelectorAll('.section').forEach(s=>s.classList.remove('active'));document.querySelectorAll('.nav-btn').forEach(b=>b.classList.remove('active'));document.getElementById(id).classList.add('active');event.target.classList.add('active')}
-document.getElementById('update-time').textContent=new Date().toLocaleString();renderNews();renderYT();renderPod();
+
+let synth = window.speechSynthesis;
+let utterance = null;
+let playing = null;
+let playAllMode = false;
+let playAllIdx = 0;
+
+function speak(text, onEnd) {
+    synth.cancel();
+    utterance = new SpeechSynthesisUtterance(text);
+    utterance.rate = 1;
+    utterance.pitch = 1;
+    utterance.onend = onEnd;
+    synth.speak(utterance);
+}
+
+function stopAll() {
+    synth.cancel();
+    playAllMode = false;
+    playing = null;
+    document.querySelectorAll('.news-item').forEach(el => el.classList.remove('playing'));
+    document.querySelectorAll('.news-summary').forEach(el => el.classList.remove('show'));
+    document.querySelectorAll('.item-btn').forEach(btn => {
+        btn.classList.remove('playing');
+        btn.textContent = '▶ Play';
+    });
+    document.getElementById('playAllBtn').classList.remove('playing');
+    document.getElementById('playAllBtn').textContent = '▶ Play All';
+    document.getElementById('nowPlaying').textContent = '';
+    document.getElementById('progress').style.width = '0%';
+}
+
+function playNews(i) {
+    if (playing === i) { stopAll(); return; }
+    stopAll();
+    
+    const item = news[i];
+    const el = document.getElementById('item-' + i);
+    const btn = document.getElementById('btn-' + i);
+    const summary = document.getElementById('summary-' + i);
+    
+    el.classList.add('playing');
+    btn.classList.add('playing');
+    btn.textContent = '⏹ Stop';
+    summary.classList.add('show');
+    playing = i;
+    
+    const script = `Story ${i+1}. ${item.title}. From ${item.source}. ${item.summary}`;
+    speak(script, () => stopAll());
+}
+
+function togglePlayAll() {
+    if (playAllMode) { stopAll(); return; }
+    stopAll();
+    playAllMode = true;
+    playAllIdx = 0;
+    document.getElementById('playAllBtn').classList.add('playing');
+    document.getElementById('playAllBtn').textContent = '⏹ Stop';
+    playNext();
+}
+
+function playNext() {
+    if (!playAllMode || playAllIdx >= news.length) { stopAll(); return; }
+    
+    const i = playAllIdx;
+    const item = news[i];
+    
+    document.querySelectorAll('.news-item').forEach(el => el.classList.remove('playing'));
+    document.querySelectorAll('.news-summary').forEach(el => el.classList.remove('show'));
+    
+    const el = document.getElementById('item-' + i);
+    const summary = document.getElementById('summary-' + i);
+    el.classList.add('playing');
+    summary.classList.add('show');
+    el.scrollIntoView({behavior:'smooth',block:'center'});
+    
+    document.getElementById('nowPlaying').textContent = `▶ ${i+1}/${news.length}: ${item.title}`;
+    document.getElementById('progress').style.width = ((i+1)/news.length*100) + '%';
+    
+    playing = i;
+    const script = `Story ${i+1}. ${item.title}. From ${item.source}. ${item.summary}`;
+    speak(script, () => {
+        playAllIdx++;
+        if (playAllMode) setTimeout(playNext, 500);
+    });
+}
+
+function renderNews() {
+    document.getElementById('newsList').innerHTML = news.map((item, i) => `
+        <div class="news-item" id="item-${i}">
+            <div class="news-header">
+                <span class="news-num">#${i+1}</span>
+                <span class="news-source">${item.source}</span>
+            </div>
+            <div class="news-title">${item.title}</div>
+            <div class="news-summary" id="summary-${i}">${item.summary}</div>
+            <div class="news-actions">
+                <button class="item-btn" id="btn-${i}" onclick="playNews(${i})">▶ Play</button>
+                <a href="${item.url}" target="_blank" class="link-btn">Read →</a>
+            </div>
+        </div>
+    `).join('');
+}
+
+function renderYT() {
+    document.getElementById('ytList').innerHTML = ytVideos.map(v => `
+        <div style="background:#161616;border-radius:8px;padding:16px;margin-bottom:12px">
+            <div style="font-weight:600;margin-bottom:4px">${v.t}</div>
+            <div style="color:#888;font-size:13px;margin-bottom:8px">📺 ${v.c}</div>
+            <div style="color:#666;font-size:12px;margin-bottom:12px">${v.s}</div>
+            <a href="https://youtube.com/watch?v=${v.id}" target="_blank" style="color:#8b5cf6;font-size:13px">Watch →</a>
+        </div>
+    `).join('');
+}
+
+function renderPod() {
+    document.getElementById('podList').innerHTML = podcasts.map(p => `
+        <div style="background:#161616;border-radius:8px;padding:16px;margin-bottom:12px">
+            <div style="font-weight:600;margin-bottom:4px">🎧 ${p.n}</div>
+            <div style="color:#888;font-size:13px;margin-bottom:12px">${p.d}</div>
+            <a href="${p.u}" target="_blank" style="color:#1ed760;font-size:13px">Open in Spotify →</a>
+        </div>
+    `).join('');
+}
+
+function showTab(id) {
+    stopAll();
+    document.querySelectorAll('.section').forEach(s => s.classList.remove('active'));
+    document.querySelectorAll('.nav-btn').forEach(b => b.classList.remove('active'));
+    document.getElementById(id).classList.add('active');
+    event.target.classList.add('active');
+}
+
+document.getElementById('updateTime').textContent = new Date().toLocaleString();
+renderNews();
+renderYT();
+renderPod();
 </script>
 </body>
 </html>
