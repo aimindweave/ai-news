@@ -11,42 +11,41 @@ permissions:
 jobs:
   update:
     runs-on: ubuntu-latest
-    
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      
+
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      
+
       - name: Install dependencies
         run: pip install requests feedparser
-      
+
       - name: Fetch news
         run: python scripts/fetch_news.py
-      
+
       - name: Fetch YouTube
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
         run: python scripts/fetch_youtube.py
-      
+
       - name: Fetch Spotify
         env:
           SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
         run: python scripts/fetch_spotify.py
-      
+
       - name: Generate audio
         env:
           ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
         run: python generate_audio.py
-      
+
       - name: Update HTML
         run: python scripts/update_html.py
-      
-     - name: Commit and push
+
+      - name: Commit and push
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
