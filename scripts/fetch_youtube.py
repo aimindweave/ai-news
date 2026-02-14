@@ -4,46 +4,58 @@ import requests
 
 API_KEY = os.environ.get('YOUTUBE_API_KEY')
 
-# AI 知识类频道
+# AI 知识类频道（包含 a16z）
 CHANNELS = [
+    # 顶级 AI 投资/商业
+    "UCVnrQeMGMIBj7sejBfT3K2A",  # a16z
+    "UC9-y-6csu5WGm29I7JiwpnA",  # Computerphile
+    "UCYO_jab_esuFRV4b17AJtAw",  # 3Blue1Brown
+    
+    # AI 研究/教程
     "UCWN3xxRkmTPmbKwht9FuE5A",  # Two Minute Papers
     "UCSHZKyawb77ixDdsGog4iWA",  # Lex Fridman
     "UCZHmQk67mSJgfCCTn7xBfew",  # Yannic Kilcher
     "UCbfYPyITQ-7l4upoX8nvctg",  # AI Explained
-    "UCMLtBahI5DMrt0NPvDSoIRQ",  # Matt Wolfe
-    "UC0e3QhIYukixgh5VVpKHH9Q",  # Code Bullet
+    "UCMLtBahI5DMrt0NPvDSoIRQ",  # Matt Wolfe AI
     "UCXZCJLdBC09xxGZ6gcdrc6A",  # TheAIGRID
     "UCZeYliWDCuw36PnHKdJARjA",  # AI Advantage
-    "UC9-y-6csu5WGm29I7JiwpnA",  # Computerphile
-    "UCYO_jab_esuFRV4b17AJtAw",  # 3Blue1Brown
-    "UCHnyfMqiRRG1u-2MsSQLbXA",  # Veritasium
-    "UCsvn_Po0SmunchJYOWpOxMg",  # AI Coffee Break with Letitia
+    "UCsvn_Po0SmunchJYOWpOxMg",  # AI Coffee Break
     "UCddiUEpeqJcYeBxX1IVBKvQ",  # The AI Epiphany
-    "UC4UJ26WkceqONNF5S26OiVw",  # StatQuest
     "UCr8O8l5cCX85Oem1d18EezQ",  # David Shapiro
     "UCbXgNpp0jedKWcQiULLbDTA",  # Sebastian Raschka
-    "UCyHM6Y7tXrRH4lvOO_IMBcg",  # 吴恩达 DeepLearning.AI
     "UCNIkB2IeJ-6AmZv7bQ1oBYg",  # Andrej Karpathy
+    "UCHnyfMqiRRG1u-2MsSQLbXA",  # Veritasium
+    
+    # DeepLearning / 课程
+    "UCcIXc5mJsHVYTZR1maL5l9w",  # DeepLearning.AI
+    "UC4UJ26WkceqONNF5S26OiVw",  # StatQuest
+    "UCgBncpylJ1kiVaPyP-PZauQ",  # Sentdex
+    
+    # 中文 AI
+    "UCvHN_jgVCwZ3R3aPFAnfrWg",  # 李永乐老师
+    "UC7HkgEFVA_B7WABgHOLU8dg",  # 跟李沐学AI
 ]
 
 # AI 知识类搜索词
 SEARCH_KEYWORDS = [
-    "Claude AI tutorial",
-    "OpenAI GPT tutorial",
+    "a16z AI",
+    "Claude AI tutorial 2024",
+    "OpenAI GPT-4 tutorial",
     "LLM explained",
     "AI agent tutorial",
     "machine learning course",
-    "deep learning tutorial",
     "transformer explained",
-    "RAG tutorial",
-    "prompt engineering",
-    "AI coding assistant",
-    "Anthropic Claude",
-    "ChatGPT tutorial",
+    "RAG tutorial LLM",
+    "prompt engineering guide",
     "LangChain tutorial",
-    "AI工具教程",
-    "人工智能教程",
+    "Anthropic Claude",
+    "AI coding copilot",
+    "GPT-5 news",
+    "Llama 3 tutorial",
+    "AI startup",
     "大模型教程",
+    "ChatGPT教程",
+    "AI工具使用",
 ]
 
 def fetch_channel_videos(channel_id):
@@ -53,16 +65,17 @@ def fetch_channel_videos(channel_id):
         "channelId": channel_id,
         "part": "snippet",
         "order": "date",
-        "maxResults": 10,
+        "maxResults": 8,
         "type": "video",
-        "videoDuration": "medium",
     }
     try:
         r = requests.get(url, params=params, timeout=15)
         if r.status_code == 200:
             return r.json().get("items", [])
+        else:
+            print(f"  API error: {r.status_code}")
     except Exception as e:
-        print(f"Error: {e}")
+        print(f"  Error: {e}")
     return []
 
 def fetch_search_videos(keyword):
@@ -72,11 +85,9 @@ def fetch_search_videos(keyword):
         "q": keyword,
         "part": "snippet",
         "order": "relevance",
-        "maxResults": 15,
+        "maxResults": 10,
         "type": "video",
-        "videoDuration": "medium",
         "publishedAfter": "2024-01-01T00:00:00Z",
-        "relevanceLanguage": "en",
         "safeSearch": "strict",
     }
     try:
@@ -84,7 +95,7 @@ def fetch_search_videos(keyword):
         if r.status_code == 200:
             return r.json().get("items", [])
     except Exception as e:
-        print(f"Error: {e}")
+        print(f"  Error: {e}")
     return []
 
 def get_video_stats(video_ids):
@@ -94,14 +105,14 @@ def get_video_stats(video_ids):
     params = {
         "key": API_KEY,
         "id": ",".join(video_ids[:50]),
-        "part": "statistics,contentDetails"
+        "part": "statistics"
     }
     try:
         r = requests.get(url, params=params, timeout=15)
         if r.status_code == 200:
             return r.json().get("items", [])
     except Exception as e:
-        print(f"Error: {e}")
+        print(f"  Error: {e}")
     return []
 
 def main():
@@ -124,7 +135,7 @@ def main():
                 all_videos.append(v)
         print(f"  Channel {channel_id[:10]}: {len(videos)}")
     
-    # 从搜索获取
+    # 从搜索获取更多
     for keyword in SEARCH_KEYWORDS:
         videos = fetch_search_videos(keyword)
         for v in videos:
@@ -134,7 +145,7 @@ def main():
                 all_videos.append(v)
         print(f"  Search '{keyword}': {len(videos)}")
     
-    print(f"Total unique videos: {len(all_videos)}")
+    print(f"Total unique: {len(all_videos)}")
     
     # 获取统计
     stats = {}
@@ -169,9 +180,9 @@ def main():
             "url": f"https://youtube.com/watch?v={vid}"
         })
     
-    # 按播放量排序，取前50
+    # 按播放量排序，取前60
     results.sort(key=lambda x: x["views"], reverse=True)
-    results = results[:50]
+    results = results[:60]
     
     with open("youtube_data.json", "w", encoding="utf-8") as f:
         json.dump(results, f, indent=2, ensure_ascii=False)
