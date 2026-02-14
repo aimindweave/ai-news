@@ -51,5 +51,4 @@ jobs:
           git config --local user.name "GitHub Action"
           git add -A
           git commit -m "Update news $(date +'%Y-%m-%d %H:%M')" || echo "No changes"
-          git pull --rebase origin main || true
-          git push
+          git push --force
