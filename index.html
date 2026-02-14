@@ -1,81 +1,376 @@
-import os
-import json
-import re
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI News Podcast</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:system-ui,sans-serif;background:#0a0a0a;color:#fff;line-height:1.6}
+.header{background:linear-gradient(180deg,#1a1a2e,#0a0a0a);padding:40px 20px;text-align:center}
+.badge{display:inline-block;padding:6px 12px;background:rgba(139,92,246,0.2);border:1px solid #8b5cf6;border-radius:20px;font-size:12px;color:#8b5cf6;margin-bottom:16px}
+h1{font-size:2.5rem;margin-bottom:8px}
+.subtitle{color:#888;font-size:14px}
+.nav{background:#111;padding:12px 20px;position:sticky;top:0;z-index:100;border-bottom:1px solid #222}
+.nav-inner{max-width:1200px;margin:0 auto;display:flex;gap:8px;flex-wrap:wrap}
+.nav-btn{padding:8px 16px;background:#1a1a1a;border:1px solid #333;border-radius:20px;color:#888;font-size:13px;cursor:pointer}
+.nav-btn.active{background:#8b5cf6;color:#fff;border-color:#8b5cf6}
+.nav-btn.hot{background:rgba(239,68,68,0.2);border-color:#ef4444;color:#ef4444}
+.nav-btn.hot.active{background:#ef4444;color:#fff}
+.section{max-width:1200px;margin:0 auto;padding:24px 20px;display:none}
+.section.active{display:block}
+.play-all{background:linear-gradient(135deg,#1a1a2e,#0f0f1a);border:2px solid #8b5cf6;border-radius:12px;padding:20px;margin-bottom:20px}
+.play-all.trending-play{border-color:#ef4444}
+.play-all h3{color:#8b5cf6;margin-bottom:4px}
+.play-all.trending-play h3{color:#ef4444}
+.play-all p{color:#888;font-size:13px}
+.play-btn{padding:12px 24px;background:#8b5cf6;color:#fff;border:none;border-radius:20px;font-size:14px;cursor:pointer;margin-top:12px}
+.play-btn:hover{background:#7c3aed}
+.play-btn.trend-btn{background:#ef4444}
+.play-btn.trend-btn:hover{background:#dc2626}
+.progress{margin-top:16px}
+.progress-bar{height:4px;background:#333;border-radius:2px}
+.progress-fill{height:100%;background:#8b5cf6;border-radius:2px;width:0%;transition:width 0.3s}
+.now-playing{color:#8b5cf6;font-size:12px;margin-top:8px;min-height:18px}
+.item{background:#161616;border-radius:8px;padding:16px;margin-bottom:12px;border-left:3px solid #8b5cf6}
+.item.playing{background:#1a1525}
+.item-title{font-size:15px;font-weight:600;margin-bottom:6px}
+.item-meta{color:#888;font-size:12px;margin-bottom:8px}
+.item-desc{color:#aaa;font-size:13px;margin-bottom:12px}
+.item-btn{padding:6px 14px;background:#8b5cf6;color:#fff;border:none;border-radius:12px;font-size:12px;cursor:pointer;text-decoration:none;display:inline-block;margin-right:8px}
+.item-btn.green{background:#1db954}
+.item-btn.red{background:#ff0000}
+.item-btn.blue{background:#1da1f2}
+.item-btn.orange{background:#ff6600}
+.item-btn.playing{background:#ef4444}
+.tag{display:inline-block;padding:2px 8px;border-radius:4px;font-size:10px;margin-right:6px}
+.tag-github{background:#238636;color:#fff}
+.tag-twitter{background:#1da1f2;color:#fff}
+.tag-reddit{background:#ff4500;color:#fff}
+.tag-hn{background:#ff6600;color:#fff}
+.tag-ai{background:#8b5cf6;color:#fff}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:16px}
+.card{background:#161616;border-radius:12px;overflow:hidden}
+.card img{width:100%;height:180px;object-fit:cover;background:#222}
+.card-body{padding:16px}
+.card-title{font-size:14px;font-weight:600;margin-bottom:4px}
+.card-meta{color:#888;font-size:12px;margin-bottom:8px}
+.card-stats{color:#8b5cf6;font-size:12px;margin-bottom:12px}
+.empty-state{text-align:center;padding:60px 20px;color:#666}
+.empty-state h3{color:#888;margin-bottom:8px}
+footer{text-align:center;padding:24px;color:#666;font-size:12px;border-top:1px solid #222;margin-top:40px}
+</style>
+</head>
+<body>
+<div class="header">
+<div class="badge">AI NEWS AGGREGATOR</div>
+<h1>AI News Podcast</h1>
+<p class="subtitle">News - Trending - YouTube - Podcasts</p>
+</div>
+<nav class="nav">
+<div class="nav-inner">
+<button class="nav-btn active" id="btn-news">News</button>
+<button class="nav-btn hot" id="btn-trending">Trending</button>
+<button class="nav-btn" id="btn-youtube">YouTube</button>
+<button class="nav-btn" id="btn-podcasts">Podcasts</button>
+</div>
+</nav>
 
-def safe_json(data):
-    s = json.dumps(data, ensure_ascii=True)
-    s = s.replace("</", "<\\/")
-    s = s.replace("<!--", "<\\!--")
-    # Escape single quotes so we can wrap in JS single quotes
-    s = s.replace("'", "\\'")
-    return s
+<div class="section active" id="news">
+<div class="play-all">
+<h3>Listen to All News</h3>
+<p>AI voice playback (Puter.js)</p>
+<button class="play-btn" id="playAllNews">Play All</button>
+<div class="progress">
+<div class="progress-bar"><div class="progress-fill" id="progressNews"></div></div>
+<div class="now-playing" id="nowPlayingNews"></div>
+</div>
+</div>
+<div id="newsList"></div>
+</div>
 
-def clean_fields(items, fields):
-    for item in items:
-        for key in fields:
-            if key in item and item[key]:
-                val = str(item[key])
-                val = re.sub(r'<[^>]*?>?', ' ', val)
-                val = val.replace('<', '')
-                val = re.sub(r'\s+', ' ', val).strip()
-                item[key] = val
+<div class="section" id="trending">
+<h2 style="margin-bottom:8px">Trending AI Projects & Discussions</h2>
+<p style="color:#888;margin-bottom:20px;font-size:13px">GitHub Trending + Twitter + Reddit + Hacker News</p>
+<div class="play-all trending-play">
+<h3>Listen to All Trending</h3>
+<p>AI voice playback (Puter.js)</p>
+<button class="play-btn trend-btn" id="playAllTrending">Play All</button>
+<div class="progress">
+<div class="progress-bar"><div class="progress-fill" id="progressTrending"></div></div>
+<div class="now-playing" id="nowPlayingTrending"></div>
+</div>
+</div>
+<div id="trendingList"></div>
+</div>
 
-def replace_var(html, var_name, json_str):
-    lines = html.split('\n')
-    new_val = "var " + var_name + " = '" + json_str + "';"
-    for i, line in enumerate(lines):
-        stripped = line.strip()
-        if stripped.startswith('var ' + var_name + ' =') or stripped.startswith('var ' + var_name + '='):
-            lines[i] = new_val
-            print(f"Replaced {var_name} (line {i+1})")
-            break
-    return '\n'.join(lines)
+<div class="section" id="youtube">
+<h2 style="margin-bottom:20px">Top AI YouTube Videos</h2>
+<div class="grid" id="ytList"></div>
+</div>
 
-def main():
-    print("Updating HTML...")
-    
-    news = []
-    if os.path.exists("news_data.json"):
-        with open("news_data.json", "r", encoding="utf-8") as f:
-            news = json.load(f)
-    print(f"News: {len(news)}")
-    
-    trending = []
-    if os.path.exists("trending_data.json"):
-        with open("trending_data.json", "r", encoding="utf-8") as f:
-            trending = json.load(f)
-    print(f"Trending: {len(trending)}")
-    
-    youtube = []
-    if os.path.exists("youtube_data.json"):
-        with open("youtube_data.json", "r", encoding="utf-8") as f:
-            youtube = json.load(f)
-    print(f"YouTube: {len(youtube)}")
-    
-    podcasts = []
-    if os.path.exists("spotify_data.json"):
-        with open("spotify_data.json", "r", encoding="utf-8") as f:
-            data = json.load(f)
-            podcasts = data.get("episodes", [])
-    print(f"Podcasts: {len(podcasts)}")
-    
-    clean_fields(news, ["title", "summary", "source"])
-    clean_fields(trending, ["title", "description", "source"])
-    clean_fields(youtube, ["title", "description", "channel"])
-    clean_fields(podcasts, ["name", "description", "show"])
-    
-    with open("index.html", "r", encoding="utf-8") as f:
-        html = f.read()
-    
-    html = replace_var(html, "defined_news", safe_json(news[:50]))
-    html = replace_var(html, "defined_trending", safe_json(trending[:30]))
-    html = replace_var(html, "defined_youtube", safe_json(youtube[:50]))
-    html = replace_var(html, "defined_podcasts", safe_json(podcasts[:30]))
-    
-    with open("index.html", "w", encoding="utf-8") as f:
-        f.write(html)
-    
-    print("HTML updated!")
+<div class="section" id="podcasts">
+<h2 style="margin-bottom:20px">AI Podcasts - Latest Episodes</h2>
+<div id="podList"></div>
+</div>
 
-if __name__ == "__main__":
-    main()
+<footer>
+<p>Last updated: <span id="updateTime"></span></p>
+<p>Auto-updates every 2 hours</p>
+</footer>
+
+<script src="https://js.puter.com/v2/"></script>
+<script>
+var defined_news = "__NEWS_DATA__";
+var defined_trending = "__TRENDING_DATA__";
+var defined_youtube = "__YOUTUBE_DATA__";
+var defined_podcasts = "__PODCAST_DATA__";
+
+var news = [];
+var trending = [];
+var ytVideos = [];
+var podcasts = [];
+
+try { if (defined_news !== "__NEWS_DATA__") news = JSON.parse(defined_news); } catch(e) { console.log("News parse error", e); }
+try { if (defined_trending !== "__TRENDING_DATA__") trending = JSON.parse(defined_trending); } catch(e) { console.log("Trending parse error", e); }
+try { if (defined_youtube !== "__YOUTUBE_DATA__") ytVideos = JSON.parse(defined_youtube); } catch(e) { console.log("YouTube parse error", e); }
+try { if (defined_podcasts !== "__PODCAST_DATA__") podcasts = JSON.parse(defined_podcasts); } catch(e) { console.log("Podcast parse error", e); }
+
+/* Tab Switching */
+var tabBtns = document.querySelectorAll('.nav-btn');
+var sections = document.querySelectorAll('.section');
+var tabMap = {"btn-news":"news","btn-trending":"trending","btn-youtube":"youtube","btn-podcasts":"podcasts"};
+
+tabBtns.forEach(function(btn) {
+    btn.addEventListener('click', function() {
+        var secId = tabMap[this.id];
+        if (!secId) return;
+        tabBtns.forEach(function(b) { b.classList.remove('active'); });
+        this.classList.add('active');
+        sections.forEach(function(s) { s.classList.remove('active'); });
+        var target = document.getElementById(secId);
+        if (target) target.classList.add('active');
+    });
+});
+
+/* ========== TTS via Puter.js (with browser TTS fallback) ========== */
+var currentAudio = null;
+var usePuter = (typeof puter !== 'undefined');
+
+function speak(text, onEnd) {
+    stopCurrent();
+    if (usePuter) {
+        puter.ai.txt2speech(text, { voice: "Matthew", engine: "neural", language: "en-US" })
+            .then(function(audio) {
+                currentAudio = audio;
+                audio.onended = function() { currentAudio = null; if (onEnd) onEnd(); };
+                audio.onerror = function() { currentAudio = null; if (onEnd) onEnd(); };
+                audio.play();
+            })
+            .catch(function() {
+                speakFallback(text, onEnd);
+            });
+    } else {
+        speakFallback(text, onEnd);
+    }
+}
+
+function speakFallback(text, onEnd) {
+    var synth = window.speechSynthesis;
+    synth.cancel();
+    var u = new SpeechSynthesisUtterance(text);
+    u.rate = 1;
+    u.onend = function() { if (onEnd) onEnd(); };
+    u.onerror = function() { if (onEnd) onEnd(); };
+    synth.speak(u);
+}
+
+function stopCurrent() {
+    if (currentAudio) { currentAudio.pause(); currentAudio = null; }
+    if (window.speechSynthesis) window.speechSynthesis.cancel();
+}
+
+/* ========== News Playback ========== */
+var newsPlaying = false;
+var newsIdx = 0;
+
+function stopNews() {
+    stopCurrent();
+    newsPlaying = false;
+    newsIdx = 0;
+    document.getElementById('playAllNews').textContent = 'Play All';
+    document.getElementById('nowPlayingNews').textContent = '';
+    document.getElementById('progressNews').style.width = '0%';
+    document.querySelectorAll('#newsList .item.playing').forEach(function(el) { el.classList.remove('playing'); });
+}
+
+function playNextNews() {
+    if (!newsPlaying || newsIdx >= news.length) { stopNews(); return; }
+    var item = news[newsIdx];
+    document.getElementById('progressNews').style.width = ((newsIdx+1)/news.length*100)+'%';
+    document.getElementById('nowPlayingNews').textContent = 'Playing '+(newsIdx+1)+'/'+news.length+': '+item.title;
+    document.querySelectorAll('#newsList .item.playing').forEach(function(el) { el.classList.remove('playing'); });
+    var el = document.getElementById('news-'+newsIdx);
+    if (el) el.classList.add('playing');
+    speak(item.title+'. '+(item.summary||''), function() { newsIdx++; if(newsPlaying) playNextNews(); });
+}
+
+document.getElementById('playAllNews').addEventListener('click', function() {
+    if (newsPlaying) { stopNews(); return; }
+    stopTrending();
+    newsPlaying = true; newsIdx = 0;
+    this.textContent = 'Stop';
+    playNextNews();
+});
+
+function speakNewsItem(idx) {
+    stopNews(); stopTrending();
+    var item = news[idx]; if(!item) return;
+    var el = document.getElementById('news-'+idx);
+    if(el) el.classList.add('playing');
+    document.getElementById('nowPlayingNews').textContent = 'Playing: '+item.title;
+    speak(item.title+'. '+(item.summary||''), function() {
+        if(el) el.classList.remove('playing');
+        document.getElementById('nowPlayingNews').textContent = '';
+    });
+}
+
+/* ========== Trending Playback ========== */
+var trendPlaying = false;
+var trendIdx = 0;
+
+function stopTrending() {
+    stopCurrent();
+    trendPlaying = false;
+    trendIdx = 0;
+    document.getElementById('playAllTrending').textContent = 'Play All';
+    document.getElementById('nowPlayingTrending').textContent = '';
+    document.getElementById('progressTrending').style.width = '0%';
+    document.querySelectorAll('#trendingList .item.playing').forEach(function(el) { el.classList.remove('playing'); });
+}
+
+function playNextTrending() {
+    if (!trendPlaying || trendIdx >= trending.length) { stopTrending(); return; }
+    var item = trending[trendIdx];
+    document.getElementById('progressTrending').style.width = ((trendIdx+1)/trending.length*100)+'%';
+    document.getElementById('nowPlayingTrending').textContent = 'Playing '+(trendIdx+1)+'/'+trending.length+': '+item.title;
+    document.querySelectorAll('#trendingList .item.playing').forEach(function(el) { el.classList.remove('playing'); });
+    var el = document.getElementById('trend-'+trendIdx);
+    if (el) el.classList.add('playing');
+    speak(item.title+'. '+(item.description||''), function() { trendIdx++; if(trendPlaying) playNextTrending(); });
+}
+
+document.getElementById('playAllTrending').addEventListener('click', function() {
+    if (trendPlaying) { stopTrending(); return; }
+    stopNews();
+    trendPlaying = true; trendIdx = 0;
+    this.textContent = 'Stop';
+    playNextTrending();
+});
+
+function speakTrendItem(idx) {
+    stopNews(); stopTrending();
+    var item = trending[idx]; if(!item) return;
+    var el = document.getElementById('trend-'+idx);
+    if(el) el.classList.add('playing');
+    document.getElementById('nowPlayingTrending').textContent = 'Playing: '+item.title;
+    speak(item.title+'. '+(item.description||''), function() {
+        if(el) el.classList.remove('playing');
+        document.getElementById('nowPlayingTrending').textContent = '';
+    });
+}
+
+/* ========== Helpers ========== */
+function esc(s) { if(!s) return ''; var d=document.createElement('div'); d.textContent=s; return d.innerHTML; }
+function fmtNum(n) { n=parseInt(n)||0; if(n>=1e6) return (n/1e6).toFixed(1)+'M'; if(n>=1e3) return (n/1e3).toFixed(1)+'K'; return n+''; }
+
+/* ========== Render News ========== */
+function renderNews() {
+    var c = document.getElementById('newsList');
+    if (!news.length) { c.innerHTML='<div class="empty-state"><h3>No news yet</h3></div>'; return; }
+    var h = '';
+    news.forEach(function(item,i) {
+        h += '<div class="item" id="news-'+i+'">';
+        h += '<div class="item-title">'+esc(item.title)+'</div>';
+        h += '<div class="item-meta">'+esc(item.source)+' &middot; '+esc(item.date)+'</div>';
+        if(item.summary) h += '<div class="item-desc">'+esc(item.summary)+'</div>';
+        h += '<a class="item-btn" href="'+esc(item.url)+'" target="_blank">Read</a>';
+        h += '<button class="item-btn green" onclick="speakNewsItem('+i+')">&#9654; Listen</button>';
+        h += '</div>';
+    });
+    c.innerHTML = h;
+}
+
+/* ========== Render Trending ========== */
+function renderTrending() {
+    var c = document.getElementById('trendingList');
+    if (!trending.length) { c.innerHTML='<div class="empty-state"><h3>No trending items yet</h3></div>'; return; }
+    var h = '';
+    trending.forEach(function(item,i) {
+        var cat = (item.category||'').toLowerCase();
+        var tc = 'tag-ai';
+        if(cat.indexOf('twitter')>=0) tc='tag-twitter';
+        else if(cat.indexOf('github')>=0) tc='tag-github';
+        else if(cat.indexOf('reddit')>=0) tc='tag-reddit';
+        else if(cat.indexOf('hacker')>=0||cat.indexOf('hn')>=0) tc='tag-hn';
+        h += '<div class="item" id="trend-'+i+'" style="border-left-color:#ef4444">';
+        if(item.category) h += '<span class="tag '+tc+'">'+esc(item.category)+'</span>';
+        h += '<div class="item-title" style="margin-top:8px">'+esc(item.title)+'</div>';
+        h += '<div class="item-meta">'+esc(item.source)+' &middot; '+esc(item.date)+'</div>';
+        if(item.description) h += '<div class="item-desc">'+esc(item.description)+'</div>';
+        if(item.score) h += '<div style="color:#ff6600;font-size:12px;margin-bottom:8px">Score: '+item.score+'</div>';
+        h += '<a class="item-btn orange" href="'+esc(item.url)+'" target="_blank">View</a>';
+        h += '<button class="item-btn green" onclick="speakTrendItem('+i+')">&#9654; Listen</button>';
+        h += '</div>';
+    });
+    c.innerHTML = h;
+}
+
+/* ========== Render YouTube ========== */
+function renderYouTube() {
+    var c = document.getElementById('ytList');
+    if (!ytVideos.length) { c.innerHTML='<div class="empty-state"><h3>No videos yet</h3></div>'; return; }
+    var h = '';
+    ytVideos.forEach(function(v) {
+        var url = v.url||(v.videoId?'https://www.youtube.com/watch?v='+v.videoId:'#');
+        h += '<div class="card">';
+        if(v.thumbnail) h += '<img src="'+esc(v.thumbnail)+'" loading="lazy">';
+        else h += '<div style="height:180px;background:#222;display:flex;align-items:center;justify-content:center;color:#666;font-size:48px">&#9654;</div>';
+        h += '<div class="card-body">';
+        h += '<div class="card-title">'+esc(v.title)+'</div>';
+        h += '<div class="card-meta">'+esc(v.channel)+' &middot; '+esc(v.date||v.publishedAt||'')+'</div>';
+        if(v.views) h += '<div class="card-stats">'+fmtNum(v.views)+' views</div>';
+        h += '<a class="item-btn red" href="'+esc(url)+'" target="_blank">Watch</a>';
+        h += '</div></div>';
+    });
+    c.innerHTML = h;
+}
+
+/* ========== Render Podcasts ========== */
+function renderPodcasts() {
+    var c = document.getElementById('podList');
+    if (!podcasts.length) { c.innerHTML='<div class="empty-state"><h3>No podcasts yet</h3></div>'; return; }
+    var h = '';
+    podcasts.forEach(function(p) {
+        h += '<div class="item" style="border-left-color:#1db954">';
+        h += '<div class="item-title">'+esc(p.name||p.title||'')+'</div>';
+        h += '<div class="item-meta">'+esc(p.show||'')+' &middot; '+esc(p.release_date||p.date||'');
+        if(p.duration_min&&p.duration_min>0) h += ' &middot; '+p.duration_min+' min';
+        h += '</div>';
+        if(p.description) h += '<div class="item-desc">'+esc(p.description).substring(0,200)+'</div>';
+        if(p.url) h += '<a class="item-btn green" href="'+esc(p.url)+'" target="_blank">&#127911; Spotify</a>';
+        h += '</div>';
+    });
+    c.innerHTML = h;
+}
+
+/* ========== Init ========== */
+document.getElementById('updateTime').textContent = new Date().toLocaleString();
+renderNews();
+renderTrending();
+renderYouTube();
+renderPodcasts();
+console.log('Loaded - News:',news.length,'Trending:',trending.length,'YouTube:',ytVideos.length,'Podcasts:',podcasts.length);
+</script>
+</body>
+</html>
