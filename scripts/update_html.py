@@ -1,13 +1,7 @@
 import os
 import json
 import re
-
-def safe_json(data):
-    s = json.dumps(data, ensure_ascii=True)
-    s = s.replace("</", "<\\/")
-    s = s.replace("<!--", "<\\!--")
-    s = s.replace("'", "\\'")
-    return s
+import base64
 
 def clean_fields(items, fields):
     for item in items:
@@ -19,9 +13,13 @@ def clean_fields(items, fields):
                 val = re.sub(r'\s+', ' ', val).strip()
                 item[key] = val
 
-def replace_var(html, var_name, json_str):
+def to_base64(data):
+    j = json.dumps(data, ensure_ascii=True)
+    return base64.b64encode(j.encode()).decode()
+
+def replace_var(html, var_name, b64_str):
     lines = html.split('\n')
-    new_val = "var " + var_name + " = '" + json_str + "';"
+    new_val = "var " + var_name + " = '" + b64_str + "';"
     for i, line in enumerate(lines):
         stripped = line.strip()
         if stripped.startswith('var ' + var_name + ' =') or stripped.startswith('var ' + var_name + '='):
@@ -66,10 +64,10 @@ def main():
     with open("index.html", "r", encoding="utf-8") as f:
         html = f.read()
     
-    html = replace_var(html, "defined_news", safe_json(news[:50]))
-    html = replace_var(html, "defined_trending", safe_json(trending[:30]))
-    html = replace_var(html, "defined_youtube", safe_json(youtube[:50]))
-    html = replace_var(html, "defined_podcasts", safe_json(podcasts[:30]))
+    html = replace_var(html, "defined_news", to_base64(news[:50]))
+    html = replace_var(html, "defined_trending", to_base64(trending[:30]))
+    html = replace_var(html, "defined_youtube", to_base64(youtube[:50]))
+    html = replace_var(html, "defined_podcasts", to_base64(podcasts[:30]))
     
     with open("index.html", "w", encoding="utf-8") as f:
         f.write(html)
