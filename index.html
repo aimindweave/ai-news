@@ -130,10 +130,10 @@ var trending = [];
 var ytVideos = [];
 var podcasts = [];
 
-try { if (defined_news !== "__NEWS_DATA__") news = JSON.parse(defined_news); } catch(e) { console.log("News parse error", e); }
-try { if (defined_trending !== "__TRENDING_DATA__") trending = JSON.parse(defined_trending); } catch(e) { console.log("Trending parse error", e); }
-try { if (defined_youtube !== "__YOUTUBE_DATA__") ytVideos = JSON.parse(defined_youtube); } catch(e) { console.log("YouTube parse error", e); }
-try { if (defined_podcasts !== "__PODCAST_DATA__") podcasts = JSON.parse(defined_podcasts); } catch(e) { console.log("Podcast parse error", e); }
+try { if (defined_news !== "__NEWS_DATA__") news = JSON.parse(atob(defined_news)); } catch(e) { console.log("News parse error", e); }
+try { if (defined_trending !== "__TRENDING_DATA__") trending = JSON.parse(atob(defined_trending)); } catch(e) { console.log("Trending parse error", e); }
+try { if (defined_youtube !== "__YOUTUBE_DATA__") ytVideos = JSON.parse(atob(defined_youtube)); } catch(e) { console.log("YouTube parse error", e); }
+try { if (defined_podcasts !== "__PODCAST_DATA__") podcasts = JSON.parse(atob(defined_podcasts)); } catch(e) { console.log("Podcast parse error", e); }
 
 /* Tab Switching */
 var tabBtns = document.querySelectorAll('.nav-btn');
