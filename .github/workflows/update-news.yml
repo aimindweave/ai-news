@@ -26,21 +26,16 @@ jobs:
       - name: Fetch news
         run: python scripts/fetch_news.py
 
+      - name: Fetch trending
+        run: python scripts/fetch_trending.py
+
       - name: Fetch YouTube
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
         run: python scripts/fetch_youtube.py
 
       - name: Fetch Spotify
-        env:
-          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
-          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
         run: python scripts/fetch_spotify.py
-
-      - name: Generate audio
-        env:
-          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
-        run: python generate_audio.py
 
       - name: Update HTML
         run: python scripts/update_html.py
