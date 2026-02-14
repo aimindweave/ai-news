@@ -1,54 +1,70 @@
-import json
 import os
-from datetime import datetime
+import json
 
 def main():
-    print("=== Updating HTML ===")
+    print("Updating HTML...")
     
-    if not os.path.exists('news_data.json'):
-        print("No news_data.json found!")
-        return
+    # 加载新闻
+    news = []
+    if os.path.exists('news_data.json'):
+        with open('news_data.json', 'r', encoding='utf-8') as f:
+            news = json.load(f)
+    print(f"News: {len(news)}")
     
-    with open('news_data.json', 'r', encoding='utf-8') as f:
-        news = json.load(f)
+    # 加载 YouTube
+    youtube = []
+    if os.path.exists('youtube_data.json'):
+        with open('youtube_data.json', 'r', encoding='utf-8') as f:
+            youtube = json.load(f)
+    print(f"YouTube: {len(youtube)}")
     
+    # 加载 Spotify
+    spotify = {"shows": [], "episodes": []}
+    if os.path.exists('spotify_data.json'):
+        with open('spotify_data.json', 'r', encoding='utf-8') as f:
+            spotify = json.load(f)
+    print(f"Spotify shows: {len(spotify.get('shows', []))}")
+    print(f"Spotify episodes: {len(spotify.get('episodes', []))}")
+    
+    # 加载音频索引
     audio_files = []
-    for i in range(50):
-        if os.path.exists(f'audio/news_{i}.mp3'):
-            audio_files.append(i)
+    if os.path.exists('audio/index.json'):
+        with open('audio/index.json', 'r') as f:
+            audio_files = json.load(f)
+    print(f"Audio files: {len(audio_files)}")
     
-    print(f"News: {len(news)}, Audio: {len(audio_files)}")
+    # 读取 HTML
+    if not os.path.exists('index.html'):
+        print("No index.html!")
+        return
     
     with open('index.html', 'r', encoding='utf-8') as f:
         html = f.read()
     
+    # 验证 HTML
     if not html.strip().startswith('<!DOCTYPE') and not html.strip().startswith('<html'):
-        print("ERROR: index.html is not valid HTML!")
+        print("ERROR: Invalid HTML!")
         return
     
-    news_json = json.dumps(news[:50], ensure_ascii=False)
-    audio_json = json.dumps(audio_files)
+    # 替换数据
+    def replace_array(html, var_name, data):
+        import re
+        pattern = rf'const {var_name}=\[.*?\];'
+        replacement = f'const {var_name}=' + json.dumps(data, ensure_ascii=False) + ';'
+        new_html, count = re.subn(pattern, replacement, html, flags=re.DOTALL)
+        if count == 0:
+            print(f"Warning: {var_name} not found in HTML")
+        return new_html
     
-    news_start = html.find('const news=[')
-    if news_start == -1:
-        print("Could not find news array")
-        return
+    html = replace_array(html, 'news', news[:50])
+    html = replace_array(html, 'audioFiles', audio_files)
+    html = replace_array(html, 'ytVideos', youtube[:20])
+    html = replace_array(html, 'spotifyShows', spotify.get('shows', [])[:20])
+    html = replace_array(html, 'spotifyEpisodes', spotify.get('episodes', [])[:20])
     
-    news_end = html.find('];', news_start)
-    if news_end == -1:
-        print("Could not find end of news array")
-        return
-    
-    new_html = html[:news_start] + 'const news=' + news_json + html[news_end+1:]
-    
-    audio_start = new_html.find('const audioFiles=[')
-    if audio_start != -1:
-        audio_end = new_html.find('];', audio_start)
-        if audio_end != -1:
-            new_html = new_html[:audio_start] + 'const audioFiles=' + audio_json + new_html[audio_end+1:]
-    
+    # 保存
     with open('index.html', 'w', encoding='utf-8') as f:
-        f.write(new_html)
+        f.write(html)
     
     print("HTML updated!")
 
