@@ -1,30 +1,62 @@
 [
   {
+    "title": "1\u30da\u30fc\u30b8\u76ee\u3067\u3061\u3083\u3093\u3068\u6253\u6483\u98df\u3089\u3063\u3066\u30ac\u30b3\u30f3\u3057\u3066\u308b\u306e\u3067 \u3042\u308c\u304c\u306a\u304b\u3063\u305f\u3089\u6469\u864e\u7f85\u653b\u7565\u3067\u304d\u3066\u305f\u304b\u3082\u3057\u308c\u3093",
+    "source": "@kaborobot",
+    "description": "",
+    "url": "https://nitter.net/kaborobot/status/2015735996248420451#m",
+    "date": "2026-02-14",
+    "category": "Twitter"
+  },
+  {
     "title": "My smart sleep mask broadcasts users' brainwaves to an open MQTT broker",
     "source": "Hacker News",
-    "description": "HN Score: 52 | 23 comments",
+    "description": "HN Score: 57 | 26 comments",
     "url": "https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/",
-    "score": 52,
+    "score": 57,
     "date": "2026-02-14",
     "category": "AI News"
+  },
+  {
+    "title": "\u30ec\u30bc\u304c\u300c\u79c1\u306b\u306f\u904e\u304e\u305f\u9858\u3044\u3060\u3063\u305f\u300d\u306a\u3093\u3066\u601d\u3063\u3066\u3044\u307e\u305b\u3093\u3088\u3046\u306b\u3068\u7948\u3063\u3066\u305f\u9023\u4f11\u3060\u3063\u305f",
+    "source": "@kaborobot",
+    "description": "",
+    "url": "https://nitter.net/kaborobot/status/1977673306670330109#m",
+    "date": "2026-02-14",
+    "category": "Twitter"
   },
   {
     "title": "Ars Technica makes up quotes from Matplotlib maintainer; pulls story",
     "source": "Hacker News",
-    "description": "HN Score: 359 | 138 comments",
+    "description": "HN Score: 363 | 139 comments",
     "url": "https://infosec.exchange/@mttaggart/116065340523529645",
-    "score": 359,
+    "score": 363,
     "date": "2026-02-14",
     "category": "AI News"
   },
   {
+    "title": "By the end of next year there is no way humans will be able to outperform their clankers in theoretical physics Congratulations to the team, looking f",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/EMostaque/status/2022395353891528825#m",
+    "date": "2026-02-14",
+    "category": "Twitter"
+  },
+  {
     "title": "GPT-5.2 derives a new result in theoretical physics",
     "source": "Hacker News",
-    "description": "HN Score: 537 | 365 comments",
+    "description": "HN Score: 538 | 366 comments",
     "url": "https://openai.com/index/new-result-theoretical-physics/",
-    "score": 537,
+    "score": 538,
     "date": "2026-02-14",
     "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: An OpenClaw bot pressuring a matplotlib maintainer to accept a PR and after it got rejected writes a blog post shaming the maintaine",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/callebtc/status/2022046669710491991#m",
+    "date": "2026-02-14",
+    "category": "Twitter"
   },
   {
     "title": "Adventures in Neural Rendering",
@@ -36,29 +68,45 @@
     "category": "AI News"
   },
   {
+    "title": "R to @svpino: Nebius is running a live session to show you how to do this: February 26th They will cover how to post-train draft models for production",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2022696100403298599#m",
+    "date": "2026-02-14",
+    "category": "Twitter"
+  },
+  {
     "title": "Anthropic raises $30B in Series G funding at $380B post-money valuation",
     "source": "Hacker News",
-    "description": "HN Score: 414 | 430 comments",
+    "description": "HN Score: 416 | 431 comments",
     "url": "https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation",
-    "score": 414,
+    "score": 416,
     "date": "2026-02-14",
     "category": "AI News"
   },
   {
+    "title": "Speculative decoding is not just 'throughput optimization'. In production systems, the real impact of speculative decoding is on tail latency. Specula",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2022696088449532235#m",
+    "date": "2026-02-14",
+    "category": "Twitter"
+  },
+  {
     "title": "I'm not worried about AI job loss",
     "source": "Hacker News",
-    "description": "HN Score: 303 | 493 comments",
+    "description": "HN Score: 304 | 497 comments",
     "url": "https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss",
-    "score": 303,
+    "score": 304,
     "date": "2026-02-14",
     "category": "AI News"
   },
   {
     "title": "An AI Agent Published a Hit Piece on Me \u2013 More Things Have Happened",
     "source": "Hacker News",
-    "description": "HN Score: 509 | 254 comments",
+    "description": "HN Score: 511 | 256 comments",
     "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/",
-    "score": 509,
+    "score": 511,
     "date": "2026-02-14",
     "category": "AI News"
   }
