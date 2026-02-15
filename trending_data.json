@@ -1,73 +1,89 @@
 [
   {
+    "title": "By the end of next year there is no way humans will be able to outperform their clankers in theoretical physics Congratulations to the team, looking f",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/EMostaque/status/2022395353891528825#m",
+    "date": "2026-02-15",
+    "category": "Twitter"
+  },
+  {
     "title": "I love the work of the ArchWiki maintainers",
     "source": "Hacker News",
-    "description": "HN Score: 272 | 46 comments",
+    "description": "HN Score: 345 | 64 comments",
     "url": "https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/",
-    "score": 272,
+    "score": 345,
     "date": "2026-02-15",
     "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: An OpenClaw bot pressuring a matplotlib maintainer to accept a PR and after it got rejected writes a blog post shaming the maintaine",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/callebtc/status/2022046669710491991#m",
+    "date": "2026-02-15",
+    "category": "Twitter"
   },
   {
     "title": "My smart sleep mask broadcasts users' brainwaves to an open MQTT broker",
     "source": "Hacker News",
-    "description": "HN Score: 415 | 197 comments",
+    "description": "HN Score: 435 | 204 comments",
     "url": "https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/",
-    "score": 415,
-    "date": "2026-02-15",
-    "category": "AI News"
-  },
-  {
-    "title": "News publishers limit Internet Archive access due to AI scraping concerns",
-    "source": "Hacker News",
-    "description": "HN Score: 473 | 299 comments",
-    "url": "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/",
-    "score": 473,
-    "date": "2026-02-15",
-    "category": "AI News"
-  },
-  {
-    "title": "MDST Engine: run GGUF models in the browser with WebGPU/WASM",
-    "source": "Hacker News",
-    "description": "HN Score: 13 | 2 comments",
-    "url": "https://mdst.app/blog/mdst_engine_run_gguf_models_in_your_browser",
-    "score": 13,
+    "score": 435,
     "date": "2026-02-15",
     "category": "AI News"
   },
   {
     "title": "Guitars of the USSR and the Jolana Special in Azerbaijani Music",
     "source": "Hacker News",
-    "description": "HN Score: 22 | 2 comments",
+    "description": "HN Score: 31 | 5 comments",
     "url": "https://caucascapades.wordpress.com/2012/06/14/guitars-of-the-ussr-and-the-jolana-special-in-azerbaijani-music/",
-    "score": 22,
+    "score": 31,
+    "date": "2026-02-15",
+    "category": "AI News"
+  },
+  {
+    "title": "News publishers limit Internet Archive access due to AI scraping concerns",
+    "source": "Hacker News",
+    "description": "HN Score: 485 | 302 comments",
+    "url": "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/",
+    "score": 485,
     "date": "2026-02-15",
     "category": "AI News"
   },
   {
     "title": "OpenAI should build Slack",
     "source": "Hacker News",
-    "description": "HN Score: 146 | 145 comments",
+    "description": "HN Score: 160 | 165 comments",
     "url": "https://www.latent.space/p/ainews-why-openai-should-build-slack",
-    "score": 146,
+    "score": 160,
+    "date": "2026-02-15",
+    "category": "AI News"
+  },
+  {
+    "title": "MDST Engine: run GGUF models in the browser with WebGPU/WASM",
+    "source": "Hacker News",
+    "description": "HN Score: 17 | 2 comments",
+    "url": "https://mdst.app/blog/mdst_engine_run_gguf_models_in_your_browser",
+    "score": 17,
     "date": "2026-02-15",
     "category": "AI News"
   },
   {
     "title": "Show HN: Off Grid \u2013 Run AI text, image gen, vision offline on your phone",
     "source": "Hacker News",
-    "description": "HN Score: 89 | 35 comments",
+    "description": "HN Score: 101 | 40 comments",
     "url": "https://github.com/alichherawalla/off-grid-mobile",
-    "score": 89,
+    "score": 101,
     "date": "2026-02-15",
     "category": "AI News"
   },
   {
     "title": "Colored Petri Nets, LLMs, and distributed applications",
     "source": "Hacker News",
-    "description": "HN Score: 37 | 5 comments",
+    "description": "HN Score: 39 | 5 comments",
     "url": "https://blog.sao.dev/cpns-llms-distributed-apps/",
-    "score": 37,
+    "score": 39,
     "date": "2026-02-15",
     "category": "AI News"
   },
@@ -83,9 +99,9 @@
   {
     "title": "IBM tripling entry-level jobs after finding the limits of AI adoption",
     "source": "Hacker News",
-    "description": "HN Score: 332 | 213 comments",
+    "description": "HN Score: 336 | 216 comments",
     "url": "https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/",
-    "score": 332,
+    "score": 336,
     "date": "2026-02-15",
     "category": "AI News"
   }
