@@ -1,107 +1,91 @@
 [
   {
-    "title": "By the end of next year there is no way humans will be able to outperform their clankers in theoretical physics Congratulations to the team, looking f",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/EMostaque/status/2022395353891528825#m",
-    "date": "2026-02-15",
-    "category": "Twitter"
-  },
-  {
     "title": "I love the work of the ArchWiki maintainers",
     "source": "Hacker News",
-    "description": "HN Score: 345 | 64 comments",
+    "description": "HN Score: 460 | 86 comments",
     "url": "https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/",
-    "score": 345,
+    "score": 460,
     "date": "2026-02-15",
     "category": "AI News"
   },
   {
-    "title": "RT by @EMostaque: An OpenClaw bot pressuring a matplotlib maintainer to accept a PR and after it got rejected writes a blog post shaming the maintaine",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/callebtc/status/2022046669710491991#m",
+    "title": "Two different tricks for fast LLM inference",
+    "source": "Hacker News",
+    "description": "HN Score: 21 | 9 comments",
+    "url": "https://www.seangoedecke.com/fast-llm-inference/",
+    "score": 21,
     "date": "2026-02-15",
-    "category": "Twitter"
+    "category": "AI News"
   },
   {
     "title": "My smart sleep mask broadcasts users' brainwaves to an open MQTT broker",
     "source": "Hacker News",
-    "description": "HN Score: 435 | 204 comments",
+    "description": "HN Score: 462 | 209 comments",
     "url": "https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/",
-    "score": 435,
+    "score": 462,
     "date": "2026-02-15",
     "category": "AI News"
   },
   {
     "title": "Guitars of the USSR and the Jolana Special in Azerbaijani Music",
     "source": "Hacker News",
-    "description": "HN Score: 31 | 5 comments",
+    "description": "HN Score: 43 | 5 comments",
     "url": "https://caucascapades.wordpress.com/2012/06/14/guitars-of-the-ussr-and-the-jolana-special-in-azerbaijani-music/",
-    "score": 31,
+    "score": 43,
     "date": "2026-02-15",
     "category": "AI News"
   },
   {
     "title": "News publishers limit Internet Archive access due to AI scraping concerns",
     "source": "Hacker News",
-    "description": "HN Score: 485 | 302 comments",
+    "description": "HN Score: 499 | 309 comments",
     "url": "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/",
-    "score": 485,
+    "score": 499,
     "date": "2026-02-15",
     "category": "AI News"
   },
   {
     "title": "OpenAI should build Slack",
     "source": "Hacker News",
-    "description": "HN Score: 160 | 165 comments",
+    "description": "HN Score: 171 | 194 comments",
     "url": "https://www.latent.space/p/ainews-why-openai-should-build-slack",
-    "score": 160,
+    "score": 171,
     "date": "2026-02-15",
     "category": "AI News"
   },
   {
     "title": "MDST Engine: run GGUF models in the browser with WebGPU/WASM",
     "source": "Hacker News",
-    "description": "HN Score: 17 | 2 comments",
+    "description": "HN Score: 21 | 3 comments",
     "url": "https://mdst.app/blog/mdst_engine_run_gguf_models_in_your_browser",
-    "score": 17,
-    "date": "2026-02-15",
-    "category": "AI News"
-  },
-  {
-    "title": "Show HN: Off Grid \u2013 Run AI text, image gen, vision offline on your phone",
-    "source": "Hacker News",
-    "description": "HN Score: 101 | 40 comments",
-    "url": "https://github.com/alichherawalla/off-grid-mobile",
-    "score": 101,
+    "score": 21,
     "date": "2026-02-15",
     "category": "AI News"
   },
   {
     "title": "Colored Petri Nets, LLMs, and distributed applications",
     "source": "Hacker News",
-    "description": "HN Score: 39 | 5 comments",
+    "description": "HN Score: 43 | 5 comments",
     "url": "https://blog.sao.dev/cpns-llms-distributed-apps/",
-    "score": 39,
+    "score": 43,
     "date": "2026-02-15",
     "category": "AI News"
   },
   {
     "title": "Fun with Algebraic Effects \u2013 From Toy Examples to Hardcaml Simulations",
     "source": "Hacker News",
-    "description": "HN Score: 68 | 1 comments",
+    "description": "HN Score: 71 | 1 comments",
     "url": "https://blog.janestreet.com/fun-with-algebraic-effects-hardcaml/",
-    "score": 68,
+    "score": 71,
     "date": "2026-02-15",
     "category": "AI News"
   },
   {
-    "title": "IBM tripling entry-level jobs after finding the limits of AI adoption",
+    "title": "An AI agent published a hit piece on me \u2013 more things have happened",
     "source": "Hacker News",
-    "description": "HN Score: 336 | 216 comments",
-    "url": "https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/",
-    "score": 336,
+    "description": "HN Score: 684 | 569 comments",
+    "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/",
+    "score": 684,
     "date": "2026-02-15",
     "category": "AI News"
   }
