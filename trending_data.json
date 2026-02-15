@@ -1,123 +1,91 @@
 [
   {
-    "title": "1\u30da\u30fc\u30b8\u76ee\u3067\u3061\u3083\u3093\u3068\u6253\u6483\u98df\u3089\u3063\u3066\u30ac\u30b3\u30f3\u3057\u3066\u308b\u306e\u3067 \u3042\u308c\u304c\u306a\u304b\u3063\u305f\u3089\u6469\u864e\u7f85\u653b\u7565\u3067\u304d\u3066\u305f\u304b\u3082\u3057\u308c\u3093",
-    "source": "@kaborobot",
-    "description": "",
-    "url": "https://nitter.net/kaborobot/status/2015735996248420451#m",
-    "date": "2026-02-15",
-    "category": "Twitter"
-  },
-  {
     "title": "I love the work of the ArchWiki maintainers",
     "source": "Hacker News",
-    "description": "HN Score: 653 | 112 comments",
+    "description": "HN Score: 734 | 124 comments",
     "url": "https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/",
-    "score": 653,
-    "date": "2026-02-15",
-    "category": "AI News"
-  },
-  {
-    "title": "\u30ec\u30bc\u304c\u300c\u79c1\u306b\u306f\u904e\u304e\u305f\u9858\u3044\u3060\u3063\u305f\u300d\u306a\u3093\u3066\u601d\u3063\u3066\u3044\u307e\u305b\u3093\u3088\u3046\u306b\u3068\u7948\u3063\u3066\u305f\u9023\u4f11\u3060\u3063\u305f",
-    "source": "@kaborobot",
-    "description": "",
-    "url": "https://nitter.net/kaborobot/status/1977673306670330109#m",
-    "date": "2026-02-15",
-    "category": "Twitter"
-  },
-  {
-    "title": "RynnBrain",
-    "source": "Hacker News",
-    "description": "HN Score: 16 | 0 comments",
-    "url": "https://github.com/alibaba-damo-academy/RynnBrain",
-    "score": 16,
-    "date": "2026-02-15",
-    "category": "AI News"
-  },
-  {
-    "title": "Greatness arises when non-consensus peaks",
-    "source": "@DrJimFan",
-    "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2019303484529758704#m",
-    "date": "2026-02-15",
-    "category": "Twitter"
-  },
-  {
-    "title": "My smart sleep mask broadcasts users' brainwaves to an open MQTT broker",
-    "source": "Hacker News",
-    "description": "HN Score: 518 | 226 comments",
-    "url": "https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/",
-    "score": 518,
-    "date": "2026-02-15",
-    "category": "AI News"
-  },
-  {
-    "title": "R to @DrJimFan: And @SeonghyeonYe's deep dive thread: https://x.com/SeonghyeonYe/status/2019084496898040074?s=20",
-    "source": "@DrJimFan",
-    "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2019112608629157981#m",
-    "date": "2026-02-15",
-    "category": "Twitter"
-  },
-  {
-    "title": "Constraint Propagation for Fun",
-    "source": "Hacker News",
-    "description": "HN Score: 24 | 0 comments",
-    "url": "https://eli.li/constraint-propagation-for-fun",
-    "score": 24,
-    "date": "2026-02-15",
-    "category": "AI News"
-  },
-  {
-    "title": "DjVu and its connection to Deep Learning (2023)",
-    "source": "Hacker News",
-    "description": "HN Score: 18 | 2 comments",
-    "url": "https://scottlocklin.wordpress.com/2023/05/31/djvu-and-its-connection-to-deep-learning/",
-    "score": 18,
+    "score": 734,
     "date": "2026-02-15",
     "category": "AI News"
   },
   {
     "title": "Two different tricks for fast LLM inference",
     "source": "Hacker News",
-    "description": "HN Score: 88 | 41 comments",
+    "description": "HN Score: 115 | 46 comments",
     "url": "https://www.seangoedecke.com/fast-llm-inference/",
-    "score": 88,
+    "score": 115,
+    "date": "2026-02-15",
+    "category": "AI News"
+  },
+  {
+    "title": "RynnBrain",
+    "source": "Hacker News",
+    "description": "HN Score: 38 | 0 comments",
+    "url": "https://github.com/alibaba-damo-academy/RynnBrain",
+    "score": 38,
+    "date": "2026-02-15",
+    "category": "AI News"
+  },
+  {
+    "title": "My smart sleep mask broadcasts users' brainwaves to an open MQTT broker",
+    "source": "Hacker News",
+    "description": "HN Score: 540 | 231 comments",
+    "url": "https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/",
+    "score": 540,
+    "date": "2026-02-15",
+    "category": "AI News"
+  },
+  {
+    "title": "Constraint Propagation for Fun",
+    "source": "Hacker News",
+    "description": "HN Score: 30 | 0 comments",
+    "url": "https://eli.li/constraint-propagation-for-fun",
+    "score": 30,
+    "date": "2026-02-15",
+    "category": "AI News"
+  },
+  {
+    "title": "DjVu and its connection to Deep Learning (2023)",
+    "source": "Hacker News",
+    "description": "HN Score: 40 | 4 comments",
+    "url": "https://scottlocklin.wordpress.com/2023/05/31/djvu-and-its-connection-to-deep-learning/",
+    "score": 40,
     "date": "2026-02-15",
     "category": "AI News"
   },
   {
     "title": "Guitars of the USSR and the Jolana Special in Azerbaijani Music (2012)",
     "source": "Hacker News",
-    "description": "HN Score: 71 | 10 comments",
+    "description": "HN Score: 80 | 12 comments",
     "url": "https://caucascapades.wordpress.com/2012/06/14/guitars-of-the-ussr-and-the-jolana-special-in-azerbaijani-music/",
-    "score": 71,
+    "score": 80,
     "date": "2026-02-15",
     "category": "AI News"
   },
   {
     "title": "OpenAI should build Slack",
     "source": "Hacker News",
-    "description": "HN Score: 207 | 239 comments",
+    "description": "HN Score: 225 | 271 comments",
     "url": "https://www.latent.space/p/ainews-why-openai-should-build-slack",
-    "score": 207,
+    "score": 225,
     "date": "2026-02-15",
     "category": "AI News"
   },
   {
     "title": "News publishers limit Internet Archive access due to AI scraping concerns",
     "source": "Hacker News",
-    "description": "HN Score: 526 | 326 comments",
+    "description": "HN Score: 536 | 339 comments",
     "url": "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/",
-    "score": 526,
+    "score": 536,
     "date": "2026-02-15",
     "category": "AI News"
   },
   {
     "title": "MDST Engine: run GGUF models in the browser with WebGPU/WASM",
     "source": "Hacker News",
-    "description": "HN Score: 25 | 7 comments",
+    "description": "HN Score: 27 | 7 comments",
     "url": "https://mdst.app/blog/mdst_engine_run_gguf_models_in_your_browser",
-    "score": 25,
+    "score": 27,
     "date": "2026-02-15",
     "category": "AI News"
   }
