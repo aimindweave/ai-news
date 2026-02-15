@@ -1,108 +1,92 @@
 [
   {
-    "title": "Greatness arises when non-consensus peaks",
-    "source": "@DrJimFan",
-    "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2019303484529758704#m",
-    "date": "2026-02-14",
-    "category": "Twitter"
-  },
-  {
-    "title": "News publishers limit Internet Archive access due to AI scraping concerns",
+    "title": "I love the work of the ArchWiki maintainers",
     "source": "Hacker News",
-    "description": "HN Score: 276 | 169 comments",
-    "url": "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/",
-    "score": 276,
-    "date": "2026-02-14",
+    "description": "HN Score: 115 | 21 comments",
+    "url": "https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/",
+    "score": 115,
+    "date": "2026-02-15",
     "category": "AI News"
-  },
-  {
-    "title": "R to @DrJimFan: And @SeonghyeonYe's deep dive thread: https://x.com/SeonghyeonYe/status/2019084496898040074?s=20",
-    "source": "@DrJimFan",
-    "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2019112608629157981#m",
-    "date": "2026-02-14",
-    "category": "Twitter"
   },
   {
     "title": "My smart sleep mask broadcasts users' brainwaves to an open MQTT broker",
     "source": "Hacker News",
-    "description": "HN Score: 287 | 134 comments",
+    "description": "HN Score: 370 | 182 comments",
     "url": "https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/",
-    "score": 287,
-    "date": "2026-02-14",
+    "score": 370,
+    "date": "2026-02-15",
     "category": "AI News"
   },
   {
-    "title": "IBM tripling entry-level jobs after finding the limits of AI adoption",
+    "title": "News publishers limit Internet Archive access due to AI scraping concerns",
     "source": "Hacker News",
-    "description": "HN Score: 103 | 43 comments",
-    "url": "https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/",
-    "score": 103,
-    "date": "2026-02-14",
+    "description": "HN Score: 443 | 288 comments",
+    "url": "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/",
+    "score": 443,
+    "date": "2026-02-15",
     "category": "AI News"
   },
   {
-    "title": "Colored Petri Nets, LLMs, and distributed applications",
+    "title": "Show HN: Off Grid \u2013 Run AI text, image gen, vision offline on your phone",
     "source": "Hacker News",
-    "description": "HN Score: 11 | 0 comments",
-    "url": "https://blog.sao.dev/cpns-llms-distributed-apps/",
-    "score": 11,
-    "date": "2026-02-14",
-    "category": "AI News"
-  },
-  {
-    "title": "An AI agent published a hit piece on me \u2013 more things have happened",
-    "source": "Hacker News",
-    "description": "HN Score: 589 | 519 comments",
-    "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/",
-    "score": 589,
-    "date": "2026-02-14",
+    "description": "HN Score: 66 | 26 comments",
+    "url": "https://github.com/alichherawalla/off-grid-mobile",
+    "score": 66,
+    "date": "2026-02-15",
     "category": "AI News"
   },
   {
     "title": "OpenAI should build Slack",
     "source": "Hacker News",
-    "description": "HN Score: 71 | 80 comments",
+    "description": "HN Score: 118 | 113 comments",
     "url": "https://www.latent.space/p/ainews-why-openai-should-build-slack",
-    "score": 71,
-    "date": "2026-02-14",
+    "score": 118,
+    "date": "2026-02-15",
+    "category": "AI News"
+  },
+  {
+    "title": "MDST Engine: run GGUF models in the browser with WebGPU/WASM",
+    "source": "Hacker News",
+    "description": "HN Score: 3 | 2 comments",
+    "url": "https://mdst.app/blog/mdst_engine_run_gguf_models_in_your_browser",
+    "score": 3,
+    "date": "2026-02-15",
+    "category": "AI News"
+  },
+  {
+    "title": "Colored Petri Nets, LLMs, and distributed applications",
+    "source": "Hacker News",
+    "description": "HN Score: 31 | 4 comments",
+    "url": "https://blog.sao.dev/cpns-llms-distributed-apps/",
+    "score": 31,
+    "date": "2026-02-15",
     "category": "AI News"
   },
   {
     "title": "Fun with Algebraic Effects \u2013 From Toy Examples to Hardcaml Simulations",
     "source": "Hacker News",
-    "description": "HN Score: 46 | 1 comments",
+    "description": "HN Score: 62 | 1 comments",
     "url": "https://blog.janestreet.com/fun-with-algebraic-effects-hardcaml/",
-    "score": 46,
-    "date": "2026-02-14",
+    "score": 62,
+    "date": "2026-02-15",
     "category": "AI News"
   },
   {
-    "title": "Show HN: Rover \u2013 Embeddable web agent",
+    "title": "IBM tripling entry-level jobs after finding the limits of AI adoption",
     "source": "Hacker News",
-    "description": "HN Score: 6 | 2 comments",
-    "url": "https://www.rtrvr.ai/blog/10-billion-proof-point-every-website-needs-ai-agent",
-    "score": 6,
-    "date": "2026-02-14",
+    "description": "HN Score: 327 | 196 comments",
+    "url": "https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/",
+    "score": 327,
+    "date": "2026-02-15",
     "category": "AI News"
   },
   {
-    "title": "Safe YOLO Mode: Running LLM agents in vms with Libvirt and Virsh",
+    "title": "An AI agent published a hit piece on me \u2013 more things have happened",
     "source": "Hacker News",
-    "description": "HN Score: 10 | 3 comments",
-    "url": "https://www.metachris.dev/2026/02/safe-yolo-mode-running-llm-agents-in-vms-with-libvirt-and-virsh/",
-    "score": 10,
-    "date": "2026-02-14",
-    "category": "AI News"
-  },
-  {
-    "title": "Show HN: GitHub 'Lines Viewed' extension to keep you sane reviewing long AI PRs",
-    "source": "Hacker News",
-    "description": "HN Score: 5 | 3 comments",
-    "url": "https://chromewebstore.google.com/detail/github-lines-viewed/npledcbofpmjjammgkkoeaehbphhdopi",
-    "score": 5,
-    "date": "2026-02-14",
+    "description": "HN Score: 665 | 561 comments",
+    "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/",
+    "score": 665,
+    "date": "2026-02-15",
     "category": "AI News"
   }
 ]
