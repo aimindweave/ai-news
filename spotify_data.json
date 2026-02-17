@@ -94,6 +94,16 @@
   "episodes": [
     {
       "id": "a]6z Pod_0",
+      "name": "WSJ x a16z: The Next 25 Years of Defense Innovation",
+      "show": "a]6z Podcast",
+      "description": "In this episode from WSJ Invest Live, Andy Serwer speaks with Katherine Boyle, general partner at a16z, about the American Dynamism practice she helped launch four years ago. They discuss why sayin",
+      "release_date": "2026-02-17",
+      "duration_min": 30,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
+      "id": "a]6z Pod_1",
       "name": "Novartis CEO Vasant Narasimhan on Transforming a 250-Year-Old Company",
       "show": "a]6z Podcast",
       "description": "a16z general partner Jorge Conde talks with Vasant Narasimhan, CEO of Novartis International, about transforming a 250-year-old conglomerate into a pure play medicines company and unlocking $180 bi",
@@ -123,7 +133,7 @@
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "Balaji and Dan Wang: The Engineering State vs Lawyerly State",
       "show": "a]6z Podcast",
       "description": "Balaji Srinivasan speaks with Dan Wang, author of Breakneck, about China's industrial rise, America's competing strengths in software and finance, and what happens when an engineering state and a l",
@@ -141,16 +151,6 @@
       "duration_min": 0,
       "image": "",
       "url": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"
-    },
-    {
-      "id": "a]6z Pod_2",
-      "name": "Anish Acharya: Is SaaS Dead in a World of AI?",
-      "show": "a]6z Podcast",
-      "description": "In this episode from 20VC, Harry Stebbings talks with Anish Acharya, general partner at a16z, about the future of SaaS in an AI world. Anish argues that software is completely oversold and that the",
-      "release_date": "2026-02-12",
-      "duration_min": 81,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
       "id": "The AI P_0",
