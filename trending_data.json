@@ -10,9 +10,9 @@
   {
     "title": "Claude Sonnet 4.6",
     "source": "Hacker News",
-    "description": "HN Score: 142 | 68 comments",
+    "description": "HN Score: 633 | 515 comments",
     "url": "https://www.anthropic.com/news/claude-sonnet-4-6",
-    "score": 142,
+    "score": 633,
     "date": "2026-02-17",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "Async/Await on the GPU",
     "source": "Hacker News",
-    "description": "HN Score: 57 | 8 comments",
+    "description": "HN Score: 116 | 35 comments",
     "url": "https://www.vectorware.com/blog/async-await-on-gpu/",
-    "score": 57,
+    "score": 116,
     "date": "2026-02-17",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: I taught LLMs to play Magic: The Gathering against each other",
+    "title": "Structured AI (YC F25) Is Hiring",
     "source": "Hacker News",
-    "description": "HN Score: 36 | 24 comments",
-    "url": "https://mage-bench.com/",
-    "score": 36,
+    "description": "HN Score: 1 | 0 comments",
+    "url": "https://www.ycombinator.com/companies/structured-ai/jobs/q3cx77y-gtm-intern",
+    "score": 1,
     "date": "2026-02-17",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Launch HN: Sonarly (YC W26) \u2013 AI agent to triage and fix your production alerts",
+    "title": "Show HN: I taught LLMs to play Magic: The Gathering against each other",
     "source": "Hacker News",
-    "description": "HN Score: 11 | 0 comments",
-    "url": "https://sonarly.com/",
-    "score": 11,
+    "description": "HN Score: 75 | 55 comments",
+    "url": "https://mage-bench.com/",
+    "score": 75,
     "date": "2026-02-17",
     "category": "AI News"
   },
@@ -76,62 +76,62 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Continue \u2013 Source-controlled AI checks, enforceable in CI",
+    "title": "Launch HN: Sonarly (YC W26) \u2013 AI agent to triage and fix your production alerts",
     "source": "Hacker News",
-    "description": "HN Score: 19 | 5 comments",
-    "url": "https://docs.continue.dev",
-    "score": 19,
+    "description": "HN Score: 21 | 2 comments",
+    "url": "https://sonarly.com/",
+    "score": 21,
     "date": "2026-02-17",
     "category": "AI News"
   },
   {
-    "title": "R to @DrJimFan: And @SeonghyeonYe's deep dive thread: https://x.com/SeonghyeonYe/status/2019084496898040074?s=20",
+    "title": "New milestone: we trained a robot foundation model on a world model backbone, and enabled zero-shot, open-world prompting capability for new verbs, no",
     "source": "@DrJimFan",
     "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2019112608629157981#m",
+    "url": "https://nitter.net/DrJimFan/status/2019112603637920237#m",
     "date": "2026-02-17",
     "category": "Twitter"
   },
   {
-    "title": "Show HN: I built a simulated AI containment terminal for my sci-fi novel",
+    "title": "An AI Agent Published a Hit Piece on Me \u2013 Forensics and More Fallout",
     "source": "Hacker News",
-    "description": "HN Score: 16 | 6 comments",
-    "url": "https://vertex.flowlogix.ai",
-    "score": 16,
+    "description": "HN Score: 59 | 36 comments",
+    "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-3/",
+    "score": 59,
     "date": "2026-02-17",
     "category": "AI News"
   },
   {
-    "title": "R to @svpino: I'm working with Teleport, and they just released their Agentic Identity Framework. They are sponsoring this post. Teleport is the solut",
+    "title": "Over the past 6 weeks, I've automated dozens of hours of grunt, repetitive work. Every Friday, I spend a few minutes writing down everything I do more",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2023808435205312698#m",
+    "url": "https://nitter.net/svpino/status/2023857587582824781#m",
+    "date": "2026-02-17",
+    "category": "Twitter"
+  },
+  {
+    "title": "Show HN: Continue \u2013 Source-controlled AI checks, enforceable in CI",
+    "source": "Hacker News",
+    "description": "HN Score: 35 | 6 comments",
+    "url": "https://docs.continue.dev",
+    "score": 35,
+    "date": "2026-02-17",
+    "category": "AI News"
+  },
+  {
+    "title": "Huge opportunity for builders. $2M seed pool, a 9-week cohort, and collaborations with top companies that will support you (with credits, keys, and ti",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2023843076125712861#m",
     "date": "2026-02-17",
     "category": "Twitter"
   },
   {
     "title": "Semantic ablation: Why AI writing is generic and boring",
     "source": "Hacker News",
-    "description": "HN Score: 122 | 117 comments",
+    "description": "HN Score: 193 | 166 comments",
     "url": "https://www.theregister.com/2026/02/16/semantic_ablation_ai_writing/",
-    "score": 122,
-    "date": "2026-02-17",
-    "category": "AI News"
-  },
-  {
-    "title": "Your agents can work autonomously, but they still use a hardcoded API key stored in a configuration file. Let that sink in. We are building autonomous",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2023808423209619626#m",
-    "date": "2026-02-17",
-    "category": "Twitter"
-  },
-  {
-    "title": "Students Are Being Treated Like Guinea Pigs: Inside an AI-Powered Private School",
-    "source": "Hacker News",
-    "description": "HN Score: 31 | 6 comments",
-    "url": "https://www.404media.co/students-are-being-treated-like-guinea-pigs-inside-an-ai-powered-private-school/",
-    "score": 31,
+    "score": 193,
     "date": "2026-02-17",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "CBS didn't air Rep. James Talarico interview out of fear of FCC",
+    "title": "Students Are Being Treated Like Guinea Pigs: Inside an AI-Powered Private School",
     "source": "Hacker News",
-    "description": "HN Score: 311 | 138 comments",
-    "url": "https://www.nbcnews.com/business/media/stephen-colbert-cbs-james-talarico-fcc-rcna259341",
-    "score": 311,
+    "description": "HN Score: 70 | 55 comments",
+    "url": "https://www.404media.co/students-are-being-treated-like-guinea-pigs-inside-an-ai-powered-private-school/",
+    "score": 70,
     "date": "2026-02-17",
     "category": "AI News"
   },
@@ -159,14 +159,5 @@
     "url": "https://nitter.net/bindureddy/status/2023752434741629395#m",
     "date": "2026-02-17",
     "category": "Twitter"
-  },
-  {
-    "title": "Neurons outside the brain",
-    "source": "Hacker News",
-    "description": "HN Score: 145 | 75 comments",
-    "url": "https://essays.debugyourpain.com/p/you-are-not-just-your-brain",
-    "score": 145,
-    "date": "2026-02-17",
-    "category": "AI News"
   }
 ]
