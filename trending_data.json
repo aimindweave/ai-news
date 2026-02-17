@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Rethinking High-School Science Fairs",
+    "title": "Claude Sonnet 4.6",
     "source": "Hacker News",
-    "description": "HN Score: 30 | 26 comments",
-    "url": "https://asteriskmag.com/issues/13/rethinking-high-school-science-fairs",
-    "score": 30,
+    "description": "HN Score: 142 | 68 comments",
+    "url": "https://www.anthropic.com/news/claude-sonnet-4-6",
+    "score": 142,
     "date": "2026-02-17",
     "category": "AI News"
   },
@@ -25,28 +25,45 @@
     "category": "Twitter"
   },
   {
-    "title": "Building for an audience of one: starting and finishing side projects with AI",
+    "title": "Async/Await on the GPU",
     "source": "Hacker News",
-    "description": "HN Score: 92 | 54 comments",
-    "url": "https://codemade.net/blog/building-for-one/",
-    "score": 92,
+    "description": "HN Score: 57 | 8 comments",
+    "url": "https://www.vectorware.com/blog/async-await-on-gpu/",
+    "score": 57,
     "date": "2026-02-17",
     "category": "AI News"
   },
   {
-    "title": "RT by @EMostaque: Londoners, 2 days to go! AI Movie Club x Ex Machina Talk on AI from a special guest \ud83d\udc40 Space is limited, RSVP on Luma Sneak peek of t",
+    "title": "My initial take on @Grok 4.20 is that it's very.. pleasant? Fast and accurate responses, handles some advanced stuff very well, nice balance of attitu",
     "source": "@EMostaque",
     "description": "",
-    "url": "https://nitter.net/ii_posts/status/2023738663012540636#m",
+    "url": "https://nitter.net/EMostaque/status/2023809812350542054#m",
     "date": "2026-02-17",
     "category": "Twitter"
   },
   {
-    "title": "Evaluating AGENTS.md: are they helpful for coding agents?",
+    "title": "Show HN: I taught LLMs to play Magic: The Gathering against each other",
     "source": "Hacker News",
-    "description": "HN Score: 175 | 129 comments",
-    "url": "https://arxiv.org/abs/2602.11988",
-    "score": 175,
+    "description": "HN Score: 36 | 24 comments",
+    "url": "https://mage-bench.com/",
+    "score": 36,
+    "date": "2026-02-17",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: How does this work in production? We treat humans and AI as equal async agents. By wiring the OS into Slack, everyone shares the sam",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/ii_posts/status/2023784466515206572#m",
+    "date": "2026-02-17",
+    "category": "Twitter"
+  },
+  {
+    "title": "Launch HN: Sonarly (YC W26) \u2013 AI agent to triage and fix your production alerts",
+    "source": "Hacker News",
+    "description": "HN Score: 11 | 0 comments",
+    "url": "https://sonarly.com/",
+    "score": 11,
     "date": "2026-02-17",
     "category": "AI News"
   },
@@ -59,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Scanned 1927-1945 Daily USFS Work Diary",
+    "title": "Show HN: Continue \u2013 Source-controlled AI checks, enforceable in CI",
     "source": "Hacker News",
-    "description": "HN Score: 103 | 19 comments",
-    "url": "https://forestrydiary.com/",
-    "score": 103,
+    "description": "HN Score: 19 | 5 comments",
+    "url": "https://docs.continue.dev",
+    "score": 19,
     "date": "2026-02-17",
     "category": "AI News"
   },
@@ -76,45 +93,62 @@
     "category": "Twitter"
   },
   {
-    "title": "Neurons outside the brain",
+    "title": "Show HN: I built a simulated AI containment terminal for my sci-fi novel",
     "source": "Hacker News",
-    "description": "HN Score: 116 | 51 comments",
-    "url": "https://essays.debugyourpain.com/p/you-are-not-just-your-brain",
-    "score": 116,
+    "description": "HN Score: 16 | 6 comments",
+    "url": "https://vertex.flowlogix.ai",
+    "score": 16,
     "date": "2026-02-17",
     "category": "AI News"
   },
   {
-    "title": "This is how you ensure Agentic coding doesn't destroy your organization: 1. Process your entire codebase and pull requests 2. Distill that knowledge i",
+    "title": "R to @svpino: I'm working with Teleport, and they just released their Agentic Identity Framework. They are sponsoring this post. Teleport is the solut",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2023766911528694066#m",
+    "url": "https://nitter.net/svpino/status/2023808435205312698#m",
     "date": "2026-02-17",
     "category": "Twitter"
   },
   {
-    "title": "Dark web agent spotted bedroom wall clue to rescue girl from abuse",
+    "title": "Semantic ablation: Why AI writing is generic and boring",
     "source": "Hacker News",
-    "description": "HN Score: 497 | 275 comments",
-    "url": "https://www.bbc.com/news/articles/cx2gn239exlo",
-    "score": 497,
+    "description": "HN Score: 122 | 117 comments",
+    "url": "https://www.theregister.com/2026/02/16/semantic_ablation_ai_writing/",
+    "score": 122,
     "date": "2026-02-17",
     "category": "AI News"
   },
   {
-    "title": "I\u2019ve been trying this. Pretty surreal to have an openclaw-type assistant running 24/7 on your computer. I\u2019m still not used to it, but little by little",
+    "title": "Your agents can work autonomously, but they still use a hardcoded API key stored in a configuration file. Let that sink in. We are building autonomous",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2023743618536657043#m",
+    "url": "https://nitter.net/svpino/status/2023808423209619626#m",
     "date": "2026-02-17",
     "category": "Twitter"
   },
   {
-    "title": "PCB Rework and Repair Guide [pdf]",
+    "title": "Students Are Being Treated Like Guinea Pigs: Inside an AI-Powered Private School",
     "source": "Hacker News",
-    "description": "HN Score: 152 | 41 comments",
-    "url": "https://www.intertronics.co.uk/wp-content/uploads/2017/05/PCB-Rework-and-Repair-Guide.pdf",
-    "score": 152,
+    "description": "HN Score: 31 | 6 comments",
+    "url": "https://www.404media.co/students-are-being-treated-like-guinea-pigs-inside-an-ai-powered-private-school/",
+    "score": 31,
+    "date": "2026-02-17",
+    "category": "AI News"
+  },
+  {
+    "title": "Claude Sonnet 4.6 Just Dropped.... It's has a good shot of being the best overall model in terms of cost LiveBench coming shortly",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2023824564892168510#m",
+    "date": "2026-02-17",
+    "category": "Twitter"
+  },
+  {
+    "title": "CBS didn't air Rep. James Talarico interview out of fear of FCC",
+    "source": "Hacker News",
+    "description": "HN Score: 311 | 138 comments",
+    "url": "https://www.nbcnews.com/business/media/stephen-colbert-cbs-james-talarico-fcc-rcna259341",
+    "score": 311,
     "date": "2026-02-17",
     "category": "AI News"
   },
@@ -127,37 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: GitHub 'Lines Viewed' extension to keep you sane reviewing long AI PRs",
+    "title": "Neurons outside the brain",
     "source": "Hacker News",
-    "description": "HN Score: 29 | 33 comments",
-    "url": "https://chromewebstore.google.com/detail/github-lines-viewed/npledcbofpmjjammgkkoeaehbphhdopi",
-    "score": 29,
-    "date": "2026-02-17",
-    "category": "AI News"
-  },
-  {
-    "title": "This app is literally hallucinating non-stop AI hype If you believe all the posts on here none of us should have jobs All of us should have already be",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2023635153751351667#m",
-    "date": "2026-02-17",
-    "category": "Twitter"
-  },
-  {
-    "title": "SkillsBench: Benchmarking how well agent skills work across diverse tasks",
-    "source": "Hacker News",
-    "description": "HN Score: 341 | 147 comments",
-    "url": "https://arxiv.org/abs/2602.12670",
-    "score": 341,
-    "date": "2026-02-17",
-    "category": "AI News"
-  },
-  {
-    "title": "The long tail of LLM-assisted decompilation",
-    "source": "Hacker News",
-    "description": "HN Score: 70 | 27 comments",
-    "url": "https://blog.chrislewis.au/the-long-tail-of-llm-assisted-decompilation/",
-    "score": 70,
+    "description": "HN Score: 145 | 75 comments",
+    "url": "https://essays.debugyourpain.com/p/you-are-not-just-your-brain",
+    "score": 145,
     "date": "2026-02-17",
     "category": "AI News"
   }

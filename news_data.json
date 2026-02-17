@@ -1,9 +1,72 @@
 [
   {
+    "title": "Anthropic releases Sonnet 4.6",
+    "source": "TechCrunch",
+    "summary": "Anthropic has released a new version of its mid-size Sonnet model, keeping pace with the company's four-month update cycle.",
+    "url": "https://techcrunch.com/2026/02/17/anthropic-releases-sonnet-4-6/",
+    "date": "2026-02-17"
+  },
+  {
+    "title": "Mistral AI buys Koyeb in first acquisition to back its cloud ambitions",
+    "source": "TechCrunch",
+    "summary": "Mistral AI has agreed to buy Koyeb, a Paris-based startup that simplifies AI app deployment at scale and manages the infrastructure behind it.",
+    "url": "https://techcrunch.com/2026/02/17/mistral-ai-buys-koyeb-in-first-acquisition-to-back-its-cloud-ambitions/",
+    "date": "2026-02-17"
+  },
+  {
+    "title": "SpaceX vets raise $50M Series A for data center links",
+    "source": "TechCrunch",
+    "summary": "Mesh aims to mass-produce optical transceivers for AI data centers.",
+    "url": "https://techcrunch.com/2026/02/17/spacex-vets-raise-50m-series-a-for-data-center-links/",
+    "date": "2026-02-17"
+  },
+  {
+    "title": "Running AI models is turning into a memory game",
+    "source": "TechCrunch",
+    "summary": "When we talk about the cost of AI infrastructure, the focus is usually on Nvidia and GPUs -- but memory is an increasingly important part of the picture.",
+    "url": "https://techcrunch.com/2026/02/17/running-ai-models-is-turning-into-a-memory-game/",
+    "date": "2026-02-17"
+  },
+  {
+    "title": "European Parliament blocks AI on lawmakers\u2019 devices, citing security risks",
+    "source": "TechCrunch",
+    "summary": "EU lawmakers found their government-issued devices were blocked from using the baked-in AI tools, amid fears that sensitive information could turn up on the U.S. servers of AI companies.",
+    "url": "https://techcrunch.com/2026/02/17/european-parliament-blocks-ai-on-lawmakers-devices-citing-security-risks/",
+    "date": "2026-02-17"
+  },
+  {
+    "title": "WordPress.com adds an AI Assistant that can edit, adjust styles, create images, and more",
+    "source": "TechCrunch",
+    "summary": "The WordPress AI assistant doesn't need precisely tailored prompts, either.",
+    "url": "https://techcrunch.com/2026/02/17/wordpress-com-adds-an-ai-assistant-that-can-edit-adjust-styles-create-images-and-more/",
+    "date": "2026-02-17"
+  },
+  {
+    "title": "Amazon Fire TV\u2019s new interface is now rolling out in the US",
+    "source": "TechCrunch",
+    "summary": "Fire TV's new interface simplifies its layout and navigation and adds Alexa+.",
+    "url": "https://techcrunch.com/2026/02/17/amazon-fire-tvs-new-interface-is-now-rolling-out-in-the-u-s/",
+    "date": "2026-02-17"
+  },
+  {
+    "title": "Here are the 17 US-based AI companies that have raised $100M or more in 2026",
+    "source": "TechCrunch",
+    "summary": "Three U.S.-based AI companies raised rounds larger than $1 billion so far in 2026, with 14 others raising rounds of $100 million or more.",
+    "url": "https://techcrunch.com/2026/02/17/here-are-the-17-us-based-ai-companies-that-have-raised-100m-or-more-in-2026/",
+    "date": "2026-02-17"
+  },
+  {
     "title": "India bids to attract over $200B in AI infrastructure investment by 2028",
     "source": "TechCrunch",
     "summary": "India is ramping up shared AI compute, adding 20,000 GPUs as part of a broader push to attract global AI investment.",
     "url": "https://techcrunch.com/2026/02/17/india-bids-to-attract-over-200b-in-ai-infrastructure-investment-by-2028/",
+    "date": "2026-02-17"
+  },
+  {
+    "title": "SpendRule raises $2M, emerges from stealth to help hospitals track spending",
+    "source": "TechCrunch",
+    "summary": "SpendRule, launched last summer, is an AI-powered platform that helps healthcare systems track their spending.",
+    "url": "https://techcrunch.com/2026/02/17/spendrule-raises-2-million-emerges-from-stealth-to-help-hospitals-track-spending/",
     "date": "2026-02-17"
   },
   {
@@ -39,69 +102,6 @@
     "source": "TechCrunch",
     "summary": "According to a16z, it has eyes around the world in order to spot companies as early as local funds might.",
     "url": "https://techcrunch.com/2026/02/16/have-money-will-travel-a16zs-hunt-for-the-next-european-unicorn/",
-    "date": "2026-02-17"
-  },
-  {
-    "title": "How Ricursive Intelligence raised $335M at a $4B valuation in 4 months",
-    "source": "TechCrunch",
-    "summary": "The reason why this nascent startup had VCs lining up is the founders.They are so famed in the AI world, everyone tried to hire them.",
-    "url": "https://techcrunch.com/2026/02/16/how-ricursive-intelligence-raised-335m-at-a-4b-valuation-in-4-months/",
-    "date": "2026-02-17"
-  },
-  {
-    "title": "Flapping Airplanes on the future of AI: \u2018We want to try really radically different things\u2019",
-    "source": "TechCrunch",
-    "summary": "'We're exploring a different set of tradeoffs.'",
-    "url": "https://techcrunch.com/2026/02/16/flapping-airplanes-on-the-future-of-ai-we-want-to-try-really-radically-different-things/",
-    "date": "2026-02-17"
-  },
-  {
-    "title": "After all the hype, some AI experts don\u2019t think OpenClaw is all that exciting",
-    "source": "TechCrunch",
-    "summary": "'From an AI research perspective, this is nothing novel,' one expert told TechCrunch.",
-    "url": "https://techcrunch.com/2026/02/16/after-all-the-hype-some-ai-experts-dont-think-openclaw-is-all-that-exciting/",
-    "date": "2026-02-17"
-  },
-  {
-    "title": "Fractal Analytics\u2019 muted IPO debut signals persistent AI fears in India",
-    "source": "TechCrunch",
-    "summary": "As India's first AI company to IPO, Fractal Analytics didn't have a stellar first day on the public markets, as enthusiasm for the technology collided with jittery investors in the wake of a sell-off in Indian software stocks.",
-    "url": "https://techcrunch.com/2026/02/16/fractal-analytics-muted-ipo-debut-signals-persistent-ai-fears-in-india/",
-    "date": "2026-02-17"
-  },
-  {
-    "title": "All the important news from the ongoing India AI Impact Summit",
-    "source": "TechCrunch",
-    "summary": "India is hosting a four-day AI Summit this week that will be attended by executives from major AI labs and Big Tech, including OpenAI, Anthropic, Nvidia, Microsoft, Google, and Cloudflare, as well as heads of state.",
-    "url": "https://techcrunch.com/2026/02/16/all-the-important-news-from-the-ongoing-india-ai-summit/",
-    "date": "2026-02-17"
-  },
-  {
-    "title": "As AI data centers hit power limits, Peak XV backs Indian startup C2i to fix the bottleneck",
-    "source": "TechCrunch",
-    "summary": "C2i has raised $15 million as it tests a grid-to-GPU approach to reducing power losses in AI data centers.",
-    "url": "https://techcrunch.com/2026/02/15/as-ai-data-centers-hit-power-limits-peak-xv-backs-indian-startup-c2i-to-fix-the-bottleneck/",
-    "date": "2026-02-17"
-  },
-  {
-    "title": "Blackstone backs Neysa in up to $1.2B financing as India pushes to build domestic AI infrastructure",
-    "source": "TechCrunch",
-    "summary": "Neysa is targeting deployments of more than 20,000 GPUs over time as demand for local AI compute accelerates.",
-    "url": "https://techcrunch.com/2026/02/15/blackstone-backs-neysa-in-up-to-1-2b-financing-as-india-pushes-to-build-domestic-ai-compute/",
-    "date": "2026-02-17"
-  },
-  {
-    "title": "OpenClaw creator Peter Steinberger joins OpenAI",
-    "source": "TechCrunch",
-    "summary": "OpenAI said OpenClaw will live on as an open source project.",
-    "url": "https://techcrunch.com/2026/02/15/openclaw-creator-peter-steinberger-joins-openai/",
-    "date": "2026-02-17"
-  },
-  {
-    "title": "Longtime NPR host David Greene sues Google over NotebookLM voice",
-    "source": "TechCrunch",
-    "summary": "The longtime host of NPR\u2019s \u201cMorning Edition,\u201d is suing Google, alleging that the male podcast voice in the company\u2019s NotebookLM tool is based on him.",
-    "url": "https://techcrunch.com/2026/02/15/longtime-npr-host-david-greene-sues-google-over-notebooklm-voice/",
     "date": "2026-02-17"
   },
   {
@@ -184,7 +184,7 @@
   {
     "title": "The Small English Town Swept Up in the Global AI Arms Race",
     "source": "Wired",
-    "summary": "The residents of Potters Bar are working to protect the \u201cgreen belt\u201d of farms, forests, and meadows that surround London from the endless demand for AI infrastructure.",
+    "summary": "The residents of Potters Bar are working to protect the \u201cgreenbelt\u201d of farms, forests, and meadows that surround London from the endless demand for AI infrastructure.",
     "url": "https://www.wired.com/story/the-small-english-town-swept-up-in-the-global-ai-arms-race/",
     "date": "2026-02-17"
   },
