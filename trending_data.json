@@ -10,9 +10,9 @@
   {
     "title": "Claude Sonnet 4.6",
     "source": "Hacker News",
-    "description": "HN Score: 633 | 515 comments",
+    "description": "HN Score: 722 | 601 comments",
     "url": "https://www.anthropic.com/news/claude-sonnet-4-6",
-    "score": 633,
+    "score": 722,
     "date": "2026-02-17",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "Async/Await on the GPU",
     "source": "Hacker News",
-    "description": "HN Score: 116 | 35 comments",
+    "description": "HN Score: 133 | 38 comments",
     "url": "https://www.vectorware.com/blog/async-await-on-gpu/",
-    "score": 116,
+    "score": 133,
     "date": "2026-02-17",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: I taught LLMs to play Magic: The Gathering against each other",
+    "title": "Claims of disability are highest at elite universities",
     "source": "Hacker News",
-    "description": "HN Score: 75 | 55 comments",
-    "url": "https://mage-bench.com/",
-    "score": 75,
+    "description": "HN Score: 42 | 27 comments",
+    "url": "https://www.robkhenderson.com/p/americas-future-leaders-are-learning",
+    "score": 42,
     "date": "2026-02-17",
     "category": "AI News"
   },
@@ -76,28 +76,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Launch HN: Sonarly (YC W26) \u2013 AI agent to triage and fix your production alerts",
+    "title": "Show HN: I built the Million Dollar Homepage for agents",
     "source": "Hacker News",
-    "description": "HN Score: 21 | 2 comments",
-    "url": "https://sonarly.com/",
-    "score": 21,
+    "description": "HN Score: 3 | 2 comments",
+    "url": "https://onemillionpixels.ai/",
+    "score": 3,
     "date": "2026-02-17",
     "category": "AI News"
   },
   {
-    "title": "New milestone: we trained a robot foundation model on a world model backbone, and enabled zero-shot, open-world prompting capability for new verbs, no",
+    "title": "R to @DrJimFan: And @SeonghyeonYe's deep dive thread: https://x.com/SeonghyeonYe/status/2019084496898040074?s=20",
     "source": "@DrJimFan",
     "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2019112603637920237#m",
+    "url": "https://nitter.net/DrJimFan/status/2019112608629157981#m",
     "date": "2026-02-17",
     "category": "Twitter"
   },
   {
-    "title": "An AI Agent Published a Hit Piece on Me \u2013 Forensics and More Fallout",
+    "title": "Launch HN: Sonarly (YC W26) \u2013 AI agent to triage and fix your production alerts",
     "source": "Hacker News",
-    "description": "HN Score: 59 | 36 comments",
-    "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-3/",
-    "score": 59,
+    "description": "HN Score: 22 | 3 comments",
+    "url": "https://sonarly.com/",
+    "score": 22,
     "date": "2026-02-17",
     "category": "AI News"
   },
@@ -110,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Continue \u2013 Source-controlled AI checks, enforceable in CI",
+    "title": "Show HN: I taught LLMs to play Magic: The Gathering against each other",
     "source": "Hacker News",
-    "description": "HN Score: 35 | 6 comments",
-    "url": "https://docs.continue.dev",
-    "score": 35,
+    "description": "HN Score: 81 | 62 comments",
+    "url": "https://mage-bench.com/",
+    "score": 81,
     "date": "2026-02-17",
     "category": "AI News"
   },
@@ -129,9 +129,9 @@
   {
     "title": "Semantic ablation: Why AI writing is generic and boring",
     "source": "Hacker News",
-    "description": "HN Score: 193 | 166 comments",
+    "description": "HN Score: 207 | 169 comments",
     "url": "https://www.theregister.com/2026/02/16/semantic_ablation_ai_writing/",
-    "score": 193,
+    "score": 207,
     "date": "2026-02-17",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Students Are Being Treated Like Guinea Pigs: Inside an AI-Powered Private School",
+    "title": "Show HN: Continue \u2013 Source-controlled AI checks, enforceable in CI",
     "source": "Hacker News",
-    "description": "HN Score: 70 | 55 comments",
-    "url": "https://www.404media.co/students-are-being-treated-like-guinea-pigs-inside-an-ai-powered-private-school/",
-    "score": 70,
+    "description": "HN Score: 36 | 7 comments",
+    "url": "https://docs.continue.dev",
+    "score": 36,
     "date": "2026-02-17",
     "category": "AI News"
   },
@@ -159,5 +159,14 @@
     "url": "https://nitter.net/bindureddy/status/2023752434741629395#m",
     "date": "2026-02-17",
     "category": "Twitter"
+  },
+  {
+    "title": "An AI Agent Published a Hit Piece on Me \u2013 Forensics and More Fallout",
+    "source": "Hacker News",
+    "description": "HN Score: 77 | 55 comments",
+    "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-3/",
+    "score": 77,
+    "date": "2026-02-17",
+    "category": "AI News"
   }
 ]
