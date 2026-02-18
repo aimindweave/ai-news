@@ -4,16 +4,16 @@
     "source": "@kaborobot",
     "description": "",
     "url": "https://nitter.net/kaborobot/status/2015735996248420451#m",
-    "date": "2026-02-17",
+    "date": "2026-02-18",
     "category": "Twitter"
   },
   {
     "title": "Claude Sonnet 4.6",
     "source": "Hacker News",
-    "description": "HN Score: 722 | 601 comments",
+    "description": "HN Score: 978 | 875 comments",
     "url": "https://www.anthropic.com/news/claude-sonnet-4-6",
-    "score": 722,
-    "date": "2026-02-17",
+    "score": 978,
+    "date": "2026-02-18",
     "category": "AI News"
   },
   {
@@ -21,16 +21,33 @@
     "source": "@kaborobot",
     "description": "",
     "url": "https://nitter.net/kaborobot/status/1977673306670330109#m",
-    "date": "2026-02-17",
+    "date": "2026-02-18",
     "category": "Twitter"
   },
   {
-    "title": "Async/Await on the GPU",
+    "title": "Thousands of CEOs just admitted AI had no impact on employment or productivity",
     "source": "Hacker News",
-    "description": "HN Score: 133 | 38 comments",
-    "url": "https://www.vectorware.com/blog/async-await-on-gpu/",
-    "score": 133,
-    "date": "2026-02-17",
+    "description": "HN Score: 253 | 157 comments",
+    "url": "https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/",
+    "score": 253,
+    "date": "2026-02-18",
+    "category": "AI News"
+  },
+  {
+    "title": "When do you think ai agent economic activity will overtake human economic activity?",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/EMostaque/status/2023942846084980770#m",
+    "date": "2026-02-18",
+    "category": "Twitter"
+  },
+  {
+    "title": "Reverse Engineering Sid Meier's Railroad Tycoon for DOS from 1990",
+    "source": "Hacker News",
+    "description": "HN Score: 42 | 6 comments",
+    "url": "https://www.vogons.org/viewtopic.php?t=105451",
+    "score": 42,
+    "date": "2026-02-18",
     "category": "AI News"
   },
   {
@@ -38,7 +55,41 @@
     "source": "@EMostaque",
     "description": "",
     "url": "https://nitter.net/EMostaque/status/2023809812350542054#m",
-    "date": "2026-02-17",
+    "date": "2026-02-18",
+    "category": "Twitter"
+  },
+  {
+    "title": "Async/Await on the GPU",
+    "source": "Hacker News",
+    "description": "HN Score: 174 | 50 comments",
+    "url": "https://www.vectorware.com/blog/async-await-on-gpu/",
+    "score": 174,
+    "date": "2026-02-18",
+    "category": "AI News"
+  },
+  {
+    "title": "Greatness arises when non-consensus peaks",
+    "source": "@DrJimFan",
+    "description": "",
+    "url": "https://nitter.net/DrJimFan/status/2019303484529758704#m",
+    "date": "2026-02-18",
+    "category": "Twitter"
+  },
+  {
+    "title": "Tesla Sales Down 55% UK, 58% Spain, 59% Germany, 81% Netherlands, 93% Norway",
+    "source": "Hacker News",
+    "description": "HN Score: 139 | 77 comments",
+    "url": "https://cleantechnica.com/2026/02/15/tesla-sales-down-tremendously-in-uk-norway-netherlands-germany-spain-sweden-denmark-portugal-switzerland/",
+    "score": 139,
+    "date": "2026-02-18",
+    "category": "AI News"
+  },
+  {
+    "title": "R to @DrJimFan: And @SeonghyeonYe's deep dive thread: https://x.com/SeonghyeonYe/status/2019084496898040074?s=20",
+    "source": "@DrJimFan",
+    "description": "",
+    "url": "https://nitter.net/DrJimFan/status/2019112608629157981#m",
+    "date": "2026-02-18",
     "category": "Twitter"
   },
   {
@@ -47,126 +98,66 @@
     "description": "HN Score: 1 | 0 comments",
     "url": "https://www.ycombinator.com/companies/structured-ai/jobs/q3cx77y-gtm-intern",
     "score": 1,
-    "date": "2026-02-17",
+    "date": "2026-02-18",
     "category": "AI News"
   },
   {
-    "title": "RT by @EMostaque: How does this work in production? We treat humans and AI as equal async agents. By wiring the OS into Slack, everyone shares the sam",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/ii_posts/status/2023784466515206572#m",
-    "date": "2026-02-17",
-    "category": "Twitter"
-  },
-  {
-    "title": "Claims of disability are highest at elite universities",
-    "source": "Hacker News",
-    "description": "HN Score: 42 | 27 comments",
-    "url": "https://www.robkhenderson.com/p/americas-future-leaders-are-learning",
-    "score": 42,
-    "date": "2026-02-17",
-    "category": "AI News"
-  },
-  {
-    "title": "Greatness arises when non-consensus peaks",
-    "source": "@DrJimFan",
-    "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2019303484529758704#m",
-    "date": "2026-02-17",
-    "category": "Twitter"
-  },
-  {
-    "title": "Show HN: I built the Million Dollar Homepage for agents",
-    "source": "Hacker News",
-    "description": "HN Score: 3 | 2 comments",
-    "url": "https://onemillionpixels.ai/",
-    "score": 3,
-    "date": "2026-02-17",
-    "category": "AI News"
-  },
-  {
-    "title": "R to @DrJimFan: And @SeonghyeonYe's deep dive thread: https://x.com/SeonghyeonYe/status/2019084496898040074?s=20",
-    "source": "@DrJimFan",
-    "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2019112608629157981#m",
-    "date": "2026-02-17",
-    "category": "Twitter"
-  },
-  {
-    "title": "Launch HN: Sonarly (YC W26) \u2013 AI agent to triage and fix your production alerts",
-    "source": "Hacker News",
-    "description": "HN Score: 22 | 3 comments",
-    "url": "https://sonarly.com/",
-    "score": 22,
-    "date": "2026-02-17",
-    "category": "AI News"
-  },
-  {
-    "title": "Over the past 6 weeks, I've automated dozens of hours of grunt, repetitive work. Every Friday, I spend a few minutes writing down everything I do more",
+    "title": "RT by @svpino: This is how you ensure Agentic coding doesn't destroy your organization: 1. Process your entire codebase and pull requests 2. Distill t",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2023857587582824781#m",
-    "date": "2026-02-17",
+    "url": "https://nitter.net/svpino/status/2023766911528694066#m",
+    "date": "2026-02-18",
+    "category": "Twitter"
+  },
+  {
+    "title": "Show HN: Box of Rain - Auto-Layouted ASCII Diagrams",
+    "source": "Hacker News",
+    "description": "HN Score: 19 | 11 comments",
+    "url": "https://github.com/switz/box-of-rain",
+    "score": 19,
+    "date": "2026-02-18",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: BAILA @vinijr and please never stop. They will never tell us what we have to do or not. \u270a\ud83c\udffd",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/KMbappe/status/2023896324496650701#m",
+    "date": "2026-02-18",
     "category": "Twitter"
   },
   {
     "title": "Show HN: I taught LLMs to play Magic: The Gathering against each other",
     "source": "Hacker News",
-    "description": "HN Score: 81 | 62 comments",
+    "description": "HN Score: 99 | 77 comments",
     "url": "https://mage-bench.com/",
-    "score": 81,
-    "date": "2026-02-17",
+    "score": 99,
+    "date": "2026-02-18",
     "category": "AI News"
   },
   {
-    "title": "Huge opportunity for builders. $2M seed pool, a 9-week cohort, and collaborations with top companies that will support you (with credits, keys, and ti",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2023843076125712861#m",
-    "date": "2026-02-17",
-    "category": "Twitter"
-  },
-  {
-    "title": "Semantic ablation: Why AI writing is generic and boring",
-    "source": "Hacker News",
-    "description": "HN Score: 207 | 169 comments",
-    "url": "https://www.theregister.com/2026/02/16/semantic_ablation_ai_writing/",
-    "score": 207,
-    "date": "2026-02-17",
-    "category": "AI News"
-  },
-  {
-    "title": "Claude Sonnet 4.6 Just Dropped.... It's has a good shot of being the best overall model in terms of cost LiveBench coming shortly",
+    "title": "SONNET AND OPUS TOP LIVEBENCH - BEATING ALL OTHER CLOSED MODELS Sonnet 4.6 is a pretty big launch and yes, you do get Opus level of intelligence at So",
     "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/bindureddy/status/2023824564892168510#m",
-    "date": "2026-02-17",
+    "url": "https://nitter.net/bindureddy/status/2023917871504720060#m",
+    "date": "2026-02-18",
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Continue \u2013 Source-controlled AI checks, enforceable in CI",
+    "title": "Launch HN: Sonarly (YC W26) \u2013 AI agent to triage and fix your production alerts",
     "source": "Hacker News",
-    "description": "HN Score: 36 | 7 comments",
-    "url": "https://docs.continue.dev",
-    "score": 36,
-    "date": "2026-02-17",
+    "description": "HN Score: 27 | 11 comments",
+    "url": "https://sonarly.com/",
+    "score": 27,
+    "date": "2026-02-18",
     "category": "AI News"
   },
   {
-    "title": "We are hitting escape velocity! Everything is moving faster and faster - LLMs are becoming cheaper - Agents are becoming more powerful - AI is writing",
+    "title": "Anthropic now has 2 models that TOP the leaderboards \ud83e\udd2f",
     "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/bindureddy/status/2023752434741629395#m",
-    "date": "2026-02-17",
+    "url": "https://nitter.net/bindureddy/status/2023896025174602227#m",
+    "date": "2026-02-18",
     "category": "Twitter"
-  },
-  {
-    "title": "An AI Agent Published a Hit Piece on Me \u2013 Forensics and More Fallout",
-    "source": "Hacker News",
-    "description": "HN Score: 77 | 55 comments",
-    "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-3/",
-    "score": 77,
-    "date": "2026-02-17",
-    "category": "AI News"
   }
 ]
