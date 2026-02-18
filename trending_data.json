@@ -10,9 +10,9 @@
   {
     "title": "Claude Sonnet 4.6",
     "source": "Hacker News",
-    "description": "HN Score: 978 | 875 comments",
+    "description": "HN Score: 1053 | 926 comments",
     "url": "https://www.anthropic.com/news/claude-sonnet-4-6",
-    "score": 978,
+    "score": 1053,
     "date": "2026-02-18",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "Thousands of CEOs just admitted AI had no impact on employment or productivity",
     "source": "Hacker News",
-    "description": "HN Score: 253 | 157 comments",
+    "description": "HN Score: 397 | 275 comments",
     "url": "https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/",
-    "score": 253,
+    "score": 397,
     "date": "2026-02-18",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Reverse Engineering Sid Meier's Railroad Tycoon for DOS from 1990",
+    "title": "Show HN: Beautiful interactive explainers generated with Claude Code",
     "source": "Hacker News",
-    "description": "HN Score: 42 | 6 comments",
-    "url": "https://www.vogons.org/viewtopic.php?t=105451",
-    "score": 42,
+    "description": "HN Score: 22 | 7 comments",
+    "url": "https://paraschopra.github.io/explainers/",
+    "score": 22,
     "date": "2026-02-18",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Async/Await on the GPU",
+    "title": "Reverse Engineering Sid Meier's Railroad Tycoon for DOS from 1990",
     "source": "Hacker News",
-    "description": "HN Score: 174 | 50 comments",
-    "url": "https://www.vectorware.com/blog/async-await-on-gpu/",
-    "score": 174,
+    "description": "HN Score: 70 | 14 comments",
+    "url": "https://www.vogons.org/viewtopic.php?t=105451",
+    "score": 70,
     "date": "2026-02-18",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Tesla Sales Down 55% UK, 58% Spain, 59% Germany, 81% Netherlands, 93% Norway",
+    "title": "Async/Await on the GPU",
     "source": "Hacker News",
-    "description": "HN Score: 139 | 77 comments",
-    "url": "https://cleantechnica.com/2026/02/15/tesla-sales-down-tremendously-in-uk-norway-netherlands-germany-spain-sweden-denmark-portugal-switzerland/",
-    "score": 139,
+    "description": "HN Score: 187 | 50 comments",
+    "url": "https://www.vectorware.com/blog/async-await-on-gpu/",
+    "score": 187,
     "date": "2026-02-18",
     "category": "AI News"
   },
@@ -93,11 +93,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Structured AI (YC F25) Is Hiring",
+    "title": "Quamina and Claude, Case 1",
     "source": "Hacker News",
-    "description": "HN Score: 1 | 0 comments",
-    "url": "https://www.ycombinator.com/companies/structured-ai/jobs/q3cx77y-gtm-intern",
-    "score": 1,
+    "description": "HN Score: 16 | 2 comments",
+    "url": "https://www.tbray.org/ongoing/When/202x/2026/02/06/Q-Plus-C-Ch1",
+    "score": 16,
+    "date": "2026-02-18",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: Your agents can work autonomously, but they still use a hardcoded API key stored in a configuration file. Let that sink in. We are buil",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2023808423209619626#m",
+    "date": "2026-02-18",
+    "category": "Twitter"
+  },
+  {
+    "title": "Tesla Sales Down 55% UK, 58% Spain, 59% Germany, 81% Netherlands, 93% Norway",
+    "source": "Hacker News",
+    "description": "HN Score: 234 | 196 comments",
+    "url": "https://cleantechnica.com/2026/02/15/tesla-sales-down-tremendously-in-uk-norway-netherlands-germany-spain-sweden-denmark-portugal-switzerland/",
+    "score": 234,
     "date": "2026-02-18",
     "category": "AI News"
   },
@@ -110,28 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Box of Rain - Auto-Layouted ASCII Diagrams",
-    "source": "Hacker News",
-    "description": "HN Score: 19 | 11 comments",
-    "url": "https://github.com/switz/box-of-rain",
-    "score": 19,
-    "date": "2026-02-18",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: BAILA @vinijr and please never stop. They will never tell us what we have to do or not. \u270a\ud83c\udffd",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/KMbappe/status/2023896324496650701#m",
-    "date": "2026-02-18",
-    "category": "Twitter"
-  },
-  {
     "title": "Show HN: I taught LLMs to play Magic: The Gathering against each other",
     "source": "Hacker News",
-    "description": "HN Score: 99 | 77 comments",
+    "description": "HN Score: 102 | 77 comments",
     "url": "https://mage-bench.com/",
-    "score": 99,
+    "score": 102,
     "date": "2026-02-18",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Launch HN: Sonarly (YC W26) \u2013 AI agent to triage and fix your production alerts",
+    "title": "Show HN: I built a 'Socratic' AI to stop my daughter from copy-pasting homework",
     "source": "Hacker News",
-    "description": "HN Score: 27 | 11 comments",
-    "url": "https://sonarly.com/",
-    "score": 27,
+    "description": "HN Score: 5 | 2 comments",
+    "url": "https://thinkqurio.com/",
+    "score": 5,
     "date": "2026-02-18",
     "category": "AI News"
   },
@@ -159,5 +159,14 @@
     "url": "https://nitter.net/bindureddy/status/2023896025174602227#m",
     "date": "2026-02-18",
     "category": "Twitter"
+  },
+  {
+    "title": "Show HN: Box of Rain - Auto-Layouted ASCII Diagrams",
+    "source": "Hacker News",
+    "description": "HN Score: 21 | 12 comments",
+    "url": "https://github.com/switz/box-of-rain",
+    "score": 21,
+    "date": "2026-02-18",
+    "category": "AI News"
   }
 ]
