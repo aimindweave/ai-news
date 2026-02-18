@@ -93,6 +93,16 @@
   ],
   "episodes": [
     {
+      "id": "The AI P_0",
+      "name": "Safer, Faster Public Transportation: AC Transit’s AI-Powered Upgrade with Hayden AI - Ep 290",
+      "show": "The AI Podcast (NVIDIA)",
+      "description": "Transit agencies are using AI and edge computing to keep bus lanes and bus stops clear — boosting on‑time performance, accessibility, and safety for riders. AC Transit CTO Ahsan Baig and Hayden AI CEO",
+      "release_date": "2026-02-18",
+      "duration_min": 29,
+      "image": "",
+      "url": "https://open.spotify.com/show/0e1X4kJVfwQRPF8lZzqqfX"
+    },
+    {
       "id": "Practica_0",
       "name": "Cognitive Synthesis and Neural Athletes",
       "show": "Practical AI",
@@ -163,7 +173,7 @@
       "url": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"
     },
     {
-      "id": "The AI P_0",
+      "id": "The AI P_1",
       "name": "Driving Safer AVs Faster with Smart Simulation, Neural Reconstruction, and Data-Centric Tools - Ep. 289",
       "show": "The AI Podcast (NVIDIA)",
       "description": "How can AV teams stop drowning in petabytes of data and actually ship safer autonomy faster? Fortellix’s Rohan Bhasin and Voxel51’s Dan Gural explain how neural reconstruction, scenario-driven data cu",
@@ -193,7 +203,7 @@
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
-      "id": "The AI P_1",
+      "id": "The AI P_2",
       "name": "How AI-Powered Holograms Are Reimagining Fan Experiences at the Big Game - Ep. 288",
       "show": "The AI Podcast (NVIDIA)",
       "description": "How are real‑time 4K holograms that look, sound, and respond like people changing fan engagement? Jia Li, co‑founder, president, and chief AI officer of LiveX AI, shares how human‑like AI agents bridg",
@@ -231,16 +241,6 @@
       "duration_min": 66,
       "image": "",
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
-    },
-    {
-      "id": "The AI P_2",
-      "name": "Accelerating Disaster Response with GiveDirectly's Nick Allardice - Ep. 287",
-      "show": "The AI Podcast (NVIDIA)",
-      "description": "GiveDirectly president and CEO Nick Allardice explains how his team uses AI, mobile money, and satellite imagery to send cash directly to people living in poverty and crisis, often within days of a di",
-      "release_date": "2026-01-28",
-      "duration_min": 48,
-      "image": "",
-      "url": "https://open.spotify.com/show/0e1X4kJVfwQRPF8lZzqqfX"
     },
     {
       "id": "Lex Frid_2",
