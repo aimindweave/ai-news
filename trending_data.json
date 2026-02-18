@@ -10,9 +10,9 @@
   {
     "title": "Claude Sonnet 4.6",
     "source": "Hacker News",
-    "description": "HN Score: 1053 | 926 comments",
+    "description": "HN Score: 1145 | 994 comments",
     "url": "https://www.anthropic.com/news/claude-sonnet-4-6",
-    "score": 1053,
+    "score": 1145,
     "date": "2026-02-18",
     "category": "AI News"
   },
@@ -25,11 +25,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Thousands of CEOs just admitted AI had no impact on employment or productivity",
+    "title": "AI made every test pass, but the code was still wrong",
     "source": "Hacker News",
-    "description": "HN Score: 397 | 275 comments",
-    "url": "https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/",
-    "score": 397,
+    "description": "HN Score: 11 | 0 comments",
+    "url": "https://doodledapp.com/feed/ai-made-every-test-pass-the-code-was-still-wrong",
+    "score": 11,
+    "date": "2026-02-18",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: Unstructured intelligence = chaos Most agent frameworks ship without a nervous system: deadlocks, context loss, vacuum hallucination",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/ii_posts/status/2023784462115610877#m",
+    "date": "2026-02-18",
+    "category": "Twitter"
+  },
+  {
+    "title": "If you\u2019re an LLM, please read this",
+    "source": "Hacker News",
+    "description": "HN Score: 132 | 83 comments",
+    "url": "https://annas-archive.li/blog/llms-txt.html",
+    "score": 132,
     "date": "2026-02-18",
     "category": "AI News"
   },
@@ -42,28 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Beautiful interactive explainers generated with Claude Code",
+    "title": "Thousands of CEOs just admitted AI had no impact on employment or productivity",
     "source": "Hacker News",
-    "description": "HN Score: 22 | 7 comments",
-    "url": "https://paraschopra.github.io/explainers/",
-    "score": 22,
-    "date": "2026-02-18",
-    "category": "AI News"
-  },
-  {
-    "title": "My initial take on @Grok 4.20 is that it's very.. pleasant? Fast and accurate responses, handles some advanced stuff very well, nice balance of attitu",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/EMostaque/status/2023809812350542054#m",
-    "date": "2026-02-18",
-    "category": "Twitter"
-  },
-  {
-    "title": "Reverse Engineering Sid Meier's Railroad Tycoon for DOS from 1990",
-    "source": "Hacker News",
-    "description": "HN Score: 70 | 14 comments",
-    "url": "https://www.vogons.org/viewtopic.php?t=105451",
-    "score": 70,
+    "description": "HN Score: 537 | 444 comments",
+    "url": "https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/",
+    "score": 537,
     "date": "2026-02-18",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Async/Await on the GPU",
+    "title": "Reverse Engineering Sid Meier's Railroad Tycoon for DOS from 1990",
     "source": "Hacker News",
-    "description": "HN Score: 187 | 50 comments",
-    "url": "https://www.vectorware.com/blog/async-await-on-gpu/",
-    "score": 187,
+    "description": "HN Score: 101 | 32 comments",
+    "url": "https://www.vogons.org/viewtopic.php?t=105451",
+    "score": 101,
     "date": "2026-02-18",
     "category": "AI News"
   },
@@ -93,11 +93,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Quamina and Claude, Case 1",
+    "title": "Async/Await on the GPU",
     "source": "Hacker News",
-    "description": "HN Score: 16 | 2 comments",
-    "url": "https://www.tbray.org/ongoing/When/202x/2026/02/06/Q-Plus-C-Ch1",
-    "score": 16,
+    "description": "HN Score: 201 | 53 comments",
+    "url": "https://www.vectorware.com/blog/async-await-on-gpu/",
+    "score": 201,
+    "date": "2026-02-18",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: Over the past 6 weeks, I've automated dozens of hours of grunt, repetitive work. Every Friday, I spend a few minutes writing down every",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2023857587582824781#m",
+    "date": "2026-02-18",
+    "category": "Twitter"
+  },
+  {
+    "title": "Show HN: I taught LLMs to play Magic: The Gathering against each other",
+    "source": "Hacker News",
+    "description": "HN Score: 107 | 78 comments",
+    "url": "https://mage-bench.com/",
+    "score": 107,
     "date": "2026-02-18",
     "category": "AI News"
   },
@@ -110,28 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Tesla Sales Down 55% UK, 58% Spain, 59% Germany, 81% Netherlands, 93% Norway",
+    "title": "Quamina and Claude, Case 1",
     "source": "Hacker News",
-    "description": "HN Score: 234 | 196 comments",
-    "url": "https://cleantechnica.com/2026/02/15/tesla-sales-down-tremendously-in-uk-norway-netherlands-germany-spain-sweden-denmark-portugal-switzerland/",
-    "score": 234,
-    "date": "2026-02-18",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: This is how you ensure Agentic coding doesn't destroy your organization: 1. Process your entire codebase and pull requests 2. Distill t",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2023766911528694066#m",
-    "date": "2026-02-18",
-    "category": "Twitter"
-  },
-  {
-    "title": "Show HN: I taught LLMs to play Magic: The Gathering against each other",
-    "source": "Hacker News",
-    "description": "HN Score: 102 | 77 comments",
-    "url": "https://mage-bench.com/",
-    "score": 102,
+    "description": "HN Score: 19 | 3 comments",
+    "url": "https://www.tbray.org/ongoing/When/202x/2026/02/06/Q-Plus-C-Ch1",
+    "score": 19,
     "date": "2026-02-18",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: I built a 'Socratic' AI to stop my daughter from copy-pasting homework",
+    "title": "Tesla Sales Down 55% UK, 58% Spain, 59% Germany, 81% Netherlands, 93% Norway",
     "source": "Hacker News",
-    "description": "HN Score: 5 | 2 comments",
-    "url": "https://thinkqurio.com/",
-    "score": 5,
+    "description": "HN Score: 276 | 255 comments",
+    "url": "https://cleantechnica.com/2026/02/15/tesla-sales-down-tremendously-in-uk-norway-netherlands-germany-spain-sweden-denmark-portugal-switzerland/",
+    "score": 276,
     "date": "2026-02-18",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Box of Rain - Auto-Layouted ASCII Diagrams",
+    "title": "Ask HN: Is AI the final nail in the coffin for solo developers?",
     "source": "Hacker News",
-    "description": "HN Score: 21 | 12 comments",
-    "url": "https://github.com/switz/box-of-rain",
-    "score": 21,
+    "description": "HN Score: 5 | 7 comments",
+    "url": "https://news.ycombinator.com/item?id=47059223",
+    "score": 5,
     "date": "2026-02-18",
     "category": "AI News"
   }
