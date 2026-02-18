@@ -1,5 +1,33 @@
 [
   {
+    "title": "OpenAI pushes into higher education as India seeks to scale AI skills",
+    "source": "TechCrunch",
+    "summary": "OpenAI says its India education partnerships aim to reach more than 100,000 students, faculty and staff over the next year.",
+    "url": "https://techcrunch.com/2026/02/18/openai-pushes-into-higher-education-as-india-seeks-to-scale-ai-skills/",
+    "date": "2026-02-18"
+  },
+  {
+    "title": "World Labs lands $200M from Autodesk to bring world models into 3D workflows",
+    "source": "TechCrunch",
+    "summary": "The partnership will see the two companies exploring how World Labs\u2019 models can work alongside Autodesk\u2019s tools, and vice versa, starting with a focus on entertainment use cases.",
+    "url": "https://techcrunch.com/2026/02/18/world-labs-lands-200m-from-autodesk-to-bring-world-models-into-3d-workflows/",
+    "date": "2026-02-18"
+  },
+  {
+    "title": "India\u2019s Sarvam wants to bring its AI models to feature phones, cars and smart glasses",
+    "source": "TechCrunch",
+    "summary": "The company is using edge models that take up only megabytes of space, can run on most phones with existing processors, and can work offline.",
+    "url": "https://techcrunch.com/2026/02/18/indias-sarvam-wants-to-bring-its-ai-models-to-feature-phones-cars-and-smart-glasses/",
+    "date": "2026-02-18"
+  },
+  {
+    "title": "Indian AI lab Sarvam\u2019s new models are a major bet on the viability of open-source AI",
+    "source": "TechCrunch",
+    "summary": "The new lineup includes 30-billion and 105-billion parameter models; a text-to-speech model; a speech-to-text model; and a vision model to parse documents.",
+    "url": "https://techcrunch.com/2026/02/18/indian-ai-lab-sarvams-new-models-are-a-major-bet-on-the-viability-of-open-source-ai/",
+    "date": "2026-02-18"
+  },
+  {
     "title": "Apple is reportedly cooking up a trio of AI wearables",
     "source": "TechCrunch",
     "summary": "As the AI hardware space heats up, the iPhone maker has multiple smart products in development.",
@@ -70,13 +98,6 @@
     "date": "2026-02-18"
   },
   {
-    "title": "Just 8 months in, India\u2019s vibe-coding startup Emergent claims ARR of over $100M",
-    "source": "TechCrunch",
-    "summary": "Indian vibe-coding platform Emergent was launched just eight months ago, and it now says it's generating annual recurring revenue of more than $100 million, thanks to surging demand by small businesses and non-technical users.",
-    "url": "https://techcrunch.com/2026/02/17/emergent-hits-100m-arr-eight-months-after-launch-rolls-out-mobile-app/",
-    "date": "2026-02-18"
-  },
-  {
     "title": "SpendRule raises $2M, emerges from stealth to help hospitals track spending",
     "source": "TechCrunch",
     "summary": "SpendRule, launched last summer, is an AI-powered platform that helps healthcare systems track their spending.",
@@ -84,24 +105,10 @@
     "date": "2026-02-18"
   },
   {
-    "title": "Adani pledges $100B to build AI data centers as India seeks bigger role in the global AI race",
-    "source": "TechCrunch",
-    "summary": "Adani's plan targets up to 5 gigawatts of capacity, with data centers planned alongside partnerships with Google, Microsoft, and Flipkart.",
-    "url": "https://techcrunch.com/2026/02/17/adani-pledges-100b-for-ai-data-centers-as-india-seeks-bigger-role-in-global-ai/",
-    "date": "2026-02-18"
-  },
-  {
-    "title": "As AI jitters rattle IT stocks, Infosys partners with Anthropic to build \u2018enterprise-grade\u2019 AI agents",
-    "source": "TechCrunch",
-    "summary": "Under the partnership, Infosys plans to integrate Anthropic's Claude models into its Topaz AI platform to build so-called 'agentic' systems.",
-    "url": "https://techcrunch.com/2026/02/17/as-ai-jitters-rattle-it-stocks-infosys-partners-with-anthropic-to-build-enterprise-grade-ai-agents/",
-    "date": "2026-02-18"
-  },
-  {
-    "title": "Cohere launches a family of open multilingual models",
-    "source": "TechCrunch",
-    "summary": "Cohere's Tiny Aya models support over 70 langauges",
-    "url": "https://techcrunch.com/2026/02/17/cohere-launches-a-family-of-open-multilingual-models/",
+    "title": "The Download: a blockchain enigma, and the algorithms governing our lives",
+    "source": "MIT Tech Review",
+    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Welcome to the dark side of crypto\u2019s permissionless dream Jean-Paul Thorbjornsen, an Australian man in his mid-30s, with a rural Catholic upbringing, is a foun...",
+    "url": "https://www.technologyreview.com/2026/02/18/1133291/the-download-a-blockchain-enigma-and-the-algorithms-governing-our-lives/",
     "date": "2026-02-18"
   },
   {
@@ -168,16 +175,9 @@
     "date": "2026-02-18"
   },
   {
-    "title": "The Download: an exclusive chat with Jim O\u2019Neill, and the surprising truth about heists",
-    "source": "MIT Tech Review",
-    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. US deputy health secretary: Vaccine guidelines are still subject to change Over the past year, Jim O\u2019Neill has become one of the most powerful people in public...",
-    "url": "https://www.technologyreview.com/2026/02/13/1132896/the-download-an-exclusive-chat-with-jim-oneill-and-the-surprising-truth-about-heists/",
-    "date": "2026-02-18"
-  },
-  {
-    "title": "How Two Zoomers Created RentAHuman, the First Marketplace for Bots to Hire Humans",
+    "title": "The Rise of RentAHuman, the Marketplace Where Bots Put People to Work",
     "source": "Wired",
-    "summary": "\u201cWe would [all] love to have an AI boss who wouldn't yell at you or gaslight you. Claude as a boss is the nicest guy ever.\u201d",
+    "summary": "WIRED spoke with the Zoomer founders of a platform where AI agents hire humans to do real-world tasks. Their pitch: 'People would love to have a clanker as their boss.'",
     "url": "https://www.wired.com/story/ai-agent-rentahuman-bots-hire-humans/",
     "date": "2026-02-18"
   },

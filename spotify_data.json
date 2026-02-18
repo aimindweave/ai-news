@@ -93,6 +93,16 @@
   ],
   "episodes": [
     {
+      "id": "Practica_0",
+      "name": "Cognitive Synthesis and Neural Athletes",
+      "show": "Practical AI",
+      "description": "\n        As AI accelerates innovation and adoption, leaders are facing rising cognitive load, shifting systems, and new emotional realities inside their organizations. In this episode, Deloitte’s C",
+      "release_date": "2026-02-18",
+      "duration_min": 52,
+      "image": "",
+      "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
+    },
+    {
       "id": "a]6z Pod_0",
       "name": "From Copilots to Agents: Rebuilding the Company Around AI",
       "show": "a]6z Podcast",
@@ -133,7 +143,7 @@
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
-      "id": "Practica_0",
+      "id": "Practica_1",
       "name": "AI incidents, audits, and the limits of benchmarks",
       "show": "Practical AI",
       "description": "\n        AI is moving fast from research to real-world deployment, and when things go wrong, the consequences are no longer hypothetical. In this episode, Sean McGregor, co-founder of the AI Verifi",
@@ -193,7 +203,7 @@
       "url": "https://open.spotify.com/show/0e1X4kJVfwQRPF8lZzqqfX"
     },
     {
-      "id": "Practica_1",
+      "id": "Practica_2",
       "name": "Inside an AI-Run Company",
       "show": "Practical AI",
       "description": "\n        AI agents are moving from demos to real workplaces, but what actually happens when they run a company? In this episode, journalist Evan Ratliff, host of <em>Shell Game</em>, joins Chris to",
@@ -231,16 +241,6 @@
       "duration_min": 48,
       "image": "",
       "url": "https://open.spotify.com/show/0e1X4kJVfwQRPF8lZzqqfX"
-    },
-    {
-      "id": "Practica_2",
-      "name": "How is AI shaping democracy?",
-      "show": "Practical AI",
-      "description": "\n        As AI increasingly shapes geopolitics, elections, and civic life, its impact on democracy is becoming impossible to ignore. In this episode, Daniel and Chris are joined by security expert ",
-      "release_date": "2026-01-27",
-      "duration_min": 48,
-      "image": "",
-      "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
       "id": "Lex Frid_2",
