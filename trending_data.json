@@ -1,39 +1,5 @@
 [
   {
-    "title": "1\u30da\u30fc\u30b8\u76ee\u3067\u3061\u3083\u3093\u3068\u6253\u6483\u98df\u3089\u3063\u3066\u30ac\u30b3\u30f3\u3057\u3066\u308b\u306e\u3067 \u3042\u308c\u304c\u306a\u304b\u3063\u305f\u3089\u6469\u864e\u7f85\u653b\u7565\u3067\u304d\u3066\u305f\u304b\u3082\u3057\u308c\u3093",
-    "source": "@kaborobot",
-    "description": "",
-    "url": "https://nitter.net/kaborobot/status/2015735996248420451#m",
-    "date": "2026-02-18",
-    "category": "Twitter"
-  },
-  {
-    "title": "Tailscale Peer Relays is now generally available",
-    "source": "Hacker News",
-    "description": "HN Score: 113 | 21 comments",
-    "url": "https://tailscale.com/blog/peer-relays-ga",
-    "score": 113,
-    "date": "2026-02-18",
-    "category": "AI News"
-  },
-  {
-    "title": "\u30ec\u30bc\u304c\u300c\u79c1\u306b\u306f\u904e\u304e\u305f\u9858\u3044\u3060\u3063\u305f\u300d\u306a\u3093\u3066\u601d\u3063\u3066\u3044\u307e\u305b\u3093\u3088\u3046\u306b\u3068\u7948\u3063\u3066\u305f\u9023\u4f11\u3060\u3063\u305f",
-    "source": "@kaborobot",
-    "description": "",
-    "url": "https://nitter.net/kaborobot/status/1977673306670330109#m",
-    "date": "2026-02-18",
-    "category": "Twitter"
-  },
-  {
-    "title": "If you\u2019re an LLM, please read this",
-    "source": "Hacker News",
-    "description": "HN Score: 534 | 250 comments",
-    "url": "https://annas-archive.li/blog/llms-txt.html",
-    "score": 534,
-    "date": "2026-02-18",
-    "category": "AI News"
-  },
-  {
     "title": "Would be great to see happen to accelerate UK AI \ud83c\uddec\ud83c\udde7 We set the current record I believe in 2022 with $101m for our seed round at @StabilityAI \ud83e\udd6d So thi",
     "source": "@EMostaque",
     "description": "",
@@ -42,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "The Future of AI Software Development",
+    "title": "Tailscale Peer Relays is now generally available",
     "source": "Hacker News",
-    "description": "HN Score: 115 | 70 comments",
-    "url": "https://martinfowler.com/fragments/2026-02-18.html",
-    "score": 115,
+    "description": "HN Score: 263 | 115 comments",
+    "url": "https://tailscale.com/blog/peer-relays-ga",
+    "score": 263,
     "date": "2026-02-18",
     "category": "AI News"
   },
@@ -59,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Fastest Front End Tooling for Humans and AI",
+    "title": "DNS-Persist-01: A New Model for DNS-Based Challenge Validation",
     "source": "Hacker News",
-    "description": "HN Score: 60 | 29 comments",
-    "url": "https://cpojer.net/posts/fastest-frontend-tooling",
-    "score": 60,
+    "description": "HN Score: 121 | 51 comments",
+    "url": "https://letsencrypt.org/2026/02/18/dns-persist-01.html",
+    "score": 121,
     "date": "2026-02-18",
     "category": "AI News"
   },
@@ -76,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Trust Protocols for Anthropic/OpenAI/Gemini",
+    "title": "What is happening to writing? Cognitive debt, Claude Code, the space around AI",
     "source": "Hacker News",
-    "description": "HN Score: 7 | 2 comments",
-    "url": "https://www.mnemom.ai",
-    "score": 7,
+    "description": "HN Score: 42 | 11 comments",
+    "url": "https://resobscura.substack.com/p/what-is-happening-to-writing",
+    "score": 42,
     "date": "2026-02-18",
     "category": "AI News"
   },
@@ -93,79 +59,65 @@
     "category": "Twitter"
   },
   {
-    "title": "Chained Assignment in Python Bytecode",
+    "title": "If you\u2019re an LLM, please read this",
     "source": "Hacker News",
-    "description": "HN Score: 16 | 11 comments",
-    "url": "https://loriculus.org/blog/python-chained-assignment/",
-    "score": 16,
+    "description": "HN Score: 683 | 324 comments",
+    "url": "https://annas-archive.li/blog/llms-txt.html",
+    "score": 683,
     "date": "2026-02-18",
     "category": "AI News"
   },
   {
-    "title": "R to @svpino: If you know somebody who wants to start building right away, send them to Emergent: https://emergent.onelink.me/jtKo/8wrva06h",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2024166286448873487#m",
-    "date": "2026-02-18",
-    "category": "Twitter"
-  },
-  {
-    "title": "Microsoft says bug causes Copilot to summarize confidential emails",
+    "title": "Show HN: Strava for Claude Code",
     "source": "Hacker News",
-    "description": "HN Score: 141 | 41 comments",
-    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-bug-causes-copilot-to-summarize-confidential-emails/",
-    "score": 141,
+    "description": "HN Score: 12 | 11 comments",
+    "url": "https://straude.com/",
+    "score": 12,
     "date": "2026-02-18",
     "category": "AI News"
   },
   {
-    "title": "I have a friend who barely finished high school and just called me with a few questions about vibe coding. People aren't talking enough about this: No",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2024166274532855878#m",
+    "title": "Show HN: Rebrain.gg \u2013 Doom learn, don't doom scroll",
+    "source": "Hacker News",
+    "description": "HN Score: 4 | 0 comments",
+    "url": "https://news.ycombinator.com/item?id=47060220",
+    "score": 4,
     "date": "2026-02-18",
-    "category": "Twitter"
+    "category": "AI News"
+  },
+  {
+    "title": "Fastest Front End Tooling for Humans and AI",
+    "source": "Hacker News",
+    "description": "HN Score: 89 | 44 comments",
+    "url": "https://cpojer.net/posts/fastest-frontend-tooling",
+    "score": 89,
+    "date": "2026-02-18",
+    "category": "AI News"
+  },
+  {
+    "title": "Show HN: Trust Protocols for Anthropic/OpenAI/Gemini",
+    "source": "Hacker News",
+    "description": "HN Score: 29 | 17 comments",
+    "url": "https://www.mnemom.ai",
+    "score": 29,
+    "date": "2026-02-18",
+    "category": "AI News"
   },
   {
     "title": "Claude Sonnet 4.6",
     "source": "Hacker News",
-    "description": "HN Score: 1270 | 1133 comments",
+    "description": "HN Score: 1281 | 1156 comments",
     "url": "https://www.anthropic.com/news/claude-sonnet-4-6",
-    "score": 1270,
+    "score": 1281,
     "date": "2026-02-18",
     "category": "AI News"
   },
   {
-    "title": "SONNET AND OPUS TOP LIVEBENCH - BEATING ALL OTHER CLOSED MODELS Sonnet 4.6 is a pretty big launch and yes, you do get Opus level of intelligence at So",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2023917871504720060#m",
-    "date": "2026-02-18",
-    "category": "Twitter"
-  },
-  {
-    "title": "Fei-Fei Li's World Labs raised $1B from A16Z, Nvidia to advance its world models",
+    "title": "Microsoft says bug causes Copilot to summarize confidential emails",
     "source": "Hacker News",
-    "description": "HN Score: 8 | 0 comments",
-    "url": "https://www.bloomberg.com/news/articles/2026-02-18/ai-pioneer-fei-fei-li-s-startup-world-labs-raises-1-billion",
-    "score": 8,
-    "date": "2026-02-18",
-    "category": "AI News"
-  },
-  {
-    "title": "Anthropic now has 2 models that TOP the leaderboards \ud83e\udd2f",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2023896025174602227#m",
-    "date": "2026-02-18",
-    "category": "Twitter"
-  },
-  {
-    "title": "AI adoption and Solow's productivity paradox",
-    "source": "Hacker News",
-    "description": "HN Score: 739 | 655 comments",
-    "url": "https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/",
-    "score": 739,
+    "description": "HN Score: 210 | 58 comments",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-bug-causes-copilot-to-summarize-confidential-emails/",
+    "score": 210,
     "date": "2026-02-18",
     "category": "AI News"
   }
