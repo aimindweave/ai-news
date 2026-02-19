@@ -1,5 +1,12 @@
 [
   {
+    "title": "Why these startup CEOs don\u2019t think AI will replace human roles",
+    "source": "TechCrunch",
+    "summary": "The CEOs of Read AI and Lucidya told TechCrunch at Web Summit Qatar that they see AI tools replacing tasks, rather than workers.",
+    "url": "https://techcrunch.com/2026/02/19/web-summit-qatar-read-ai-lucidya-notetakers-customer-support/",
+    "date": "2026-02-19"
+  },
+  {
     "title": "YouTube\u2019s latest experiment brings its conversational AI tool to TVs",
     "source": "TechCrunch",
     "summary": "YouTube is testing conversational AI on smart TVs, allowing viewers to ask the assistant questions related to the video they're watching on the big screen.",
@@ -95,13 +102,6 @@
     "source": "TechCrunch",
     "summary": "Startup founders are being pushed to move faster than ever, using AI while facing tighter funding, rising infrastructure costs, and more pressure to show real traction early. Cloud credits, access to GPUs, and foundation models have made it easier to get started, but those early infrastructure ch...",
     "url": "https://techcrunch.com/podcast/google-clouds-vp-for-startups-on-reading-your-check-engine-light-before-its-too-late/",
-    "date": "2026-02-19"
-  },
-  {
-    "title": "Amazon halts Blue Jay robotics project after less than 6 months",
-    "source": "TechCrunch",
-    "summary": "Amazon said Blue Jay's core tech will be used for other robotics projects and the employees who worked on it were moved to other projects.",
-    "url": "https://techcrunch.com/2026/02/18/amazon-halts-blue-jay-robotics-project-after-less-than-six-months/",
     "date": "2026-02-19"
   },
   {
@@ -245,6 +245,13 @@
     "date": "2026-02-19"
   },
   {
+    "title": "Lawsuit: ChatGPT told student he was 'meant for greatness'\u2014then came psychosis",
+    "source": "Ars Technica",
+    "summary": "'AI Injury Attorneys' target the chatbot design itself.",
+    "url": "https://arstechnica.com/tech-policy/2026/02/before-psychosis-chatgpt-told-man-he-was-an-oracle-new-lawsuit-alleges/",
+    "date": "2026-02-19"
+  },
+  {
     "title": "Google announces Gemini 3.1 Pro, says it's better at complex problem-solving",
     "source": "Ars Technica",
     "summary": "Google says 3.1 Pro is ready for 'your hardest challenges.'",
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "SpaceMolt envisions a world where AI plays with itself and the humans just watch.",
     "url": "https://arstechnica.com/ai/2026/02/after-moltbook-ai-agents-can-now-hang-out-in-their-own-space-faring-mmo/",
-    "date": "2026-02-19"
-  },
-  {
-    "title": "Sixteen Claude AI agents working together created a new C compiler",
-    "source": "Ars Technica",
-    "summary": "The $20,000 experiment compiled a Linux kernel but needed deep human management.",
-    "url": "https://arstechnica.com/ai/2026/02/sixteen-claude-ai-agents-working-together-created-a-new-c-compiler/",
     "date": "2026-02-19"
   }
 ]
