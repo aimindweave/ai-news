@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "AI Makes You Boring",
+    "title": "Don't Trust the Salt: AI Summarization, Multilingual Safety, and LLM Guardrails",
     "source": "Hacker News",
-    "description": "HN Score: 111 | 64 comments",
-    "url": "https://www.marginalia.nu/log/a_132_ai_bores/",
-    "score": 111,
+    "description": "HN Score: 163 | 67 comments",
+    "url": "https://royapakzad.substack.com/p/multilingual-llm-evaluation-to-guardrails",
+    "score": 163,
     "date": "2026-02-19",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Don't Trust the Salt: AI Summarization, Multilingual Safety, and LLM Guardrails",
+    "title": "Measuring AI agent autonomy in practice",
     "source": "Hacker News",
-    "description": "HN Score: 149 | 61 comments",
-    "url": "https://royapakzad.substack.com/p/multilingual-llm-evaluation-to-guardrails",
-    "score": 149,
+    "description": "HN Score: 55 | 20 comments",
+    "url": "https://www.anthropic.com/research/measuring-agent-autonomy",
+    "score": 55,
     "date": "2026-02-19",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Large Language Models for Mortals: A Practical Guide for Analysts with Python",
+    "title": "AI makes you boring",
     "source": "Hacker News",
-    "description": "HN Score: 50 | 13 comments",
-    "url": "https://crimede-coder.com/blogposts/2026/LLMsForMortals",
-    "score": 50,
+    "description": "HN Score: 367 | 228 comments",
+    "url": "https://www.marginalia.nu/log/a_132_ai_bores/",
+    "score": 367,
     "date": "2026-02-19",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Measuring AI agent autonomy in practice",
+    "title": "Against Theory-Motivated Experimentation",
     "source": "Hacker News",
-    "description": "HN Score: 33 | 13 comments",
-    "url": "https://www.anthropic.com/research/measuring-agent-autonomy",
-    "score": 33,
+    "description": "HN Score: 29 | 23 comments",
+    "url": "https://journals.sagepub.com/doi/10.1177/26339137261421577",
+    "score": 29,
     "date": "2026-02-19",
     "category": "AI News"
   },
@@ -76,28 +76,45 @@
     "category": "Twitter"
   },
   {
-    "title": "South Korean ex president Yoon Suk Yeol jailed for life for leading insurrection",
+    "title": "Step 3.5 Flash \u2013 Open-source foundation model, supports deep reasoning at speed",
     "source": "Hacker News",
-    "description": "HN Score: 10 | 0 comments",
-    "url": "https://www.theguardian.com/world/2026/feb/19/yoon-suk-yeol-sentenced-to-life-in-prison-for-leading-insurrection-in-south-korea",
-    "score": 10,
+    "description": "HN Score: 202 | 86 comments",
+    "url": "https://static.stepfun.com/blog/step-3.5-flash/",
+    "score": 202,
     "date": "2026-02-19",
     "category": "AI News"
   },
   {
-    "title": "R to @DrJimFan: This is a huge team work at NVIDIA. All credits go to the wonderful team who poured their hearts into it. Please check out @jang_yoel'",
+    "title": "R to @DrJimFan: And @SeonghyeonYe's deep dive thread: https://x.com/SeonghyeonYe/status/2019084496898040074?s=20",
     "source": "@DrJimFan",
     "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2019112606997574043#m",
+    "url": "https://nitter.net/DrJimFan/status/2019112608629157981#m",
     "date": "2026-02-19",
     "category": "Twitter"
   },
   {
-    "title": "Against Theory-Motivated Experimentation",
+    "title": "Anthropic officially bans using subscription auth for third party use",
     "source": "Hacker News",
-    "description": "HN Score: 22 | 16 comments",
-    "url": "https://journals.sagepub.com/doi/10.1177/26339137261421577",
-    "score": 22,
+    "description": "HN Score: 588 | 725 comments",
+    "url": "https://code.claude.com/docs/en/legal-and-compliance",
+    "score": 588,
+    "date": "2026-02-19",
+    "category": "AI News"
+  },
+  {
+    "title": "Nobody wants to use chatbots. Most chatbots and voice AI agents I've seen are just glorified phone trees with better marketing. These agents 'understa",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2024577247932535084#m",
+    "date": "2026-02-19",
+    "category": "Twitter"
+  },
+  {
+    "title": "South Korean ex president Yoon Suk Yeol jailed for life for leading insurrection",
+    "source": "Hacker News",
+    "description": "HN Score: 226 | 123 comments",
+    "url": "https://www.theguardian.com/world/2026/feb/19/yoon-suk-yeol-sentenced-to-life-in-prison-for-leading-insurrection-in-south-korea",
+    "score": 226,
     "date": "2026-02-19",
     "category": "AI News"
   },
@@ -110,28 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Step 3.5 Flash \u2013 Open-source foundation model, supports deep reasoning at speed",
+    "title": "Palantir partnership is at heart of Anthropic, Pentagon rift",
     "source": "Hacker News",
-    "description": "HN Score: 181 | 78 comments",
-    "url": "https://static.stepfun.com/blog/step-3.5-flash/",
-    "score": 181,
-    "date": "2026-02-19",
-    "category": "AI News"
-  },
-  {
-    "title": "R to @svpino: This workflow is based on determining how similar a request is to everything else the system has seen. The crucial component in this wor",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2024485564918202606#m",
-    "date": "2026-02-19",
-    "category": "Twitter"
-  },
-  {
-    "title": "Anthropic officially bans using subscription auth for third party use",
-    "source": "Hacker News",
-    "description": "HN Score: 573 | 702 comments",
-    "url": "https://code.claude.com/docs/en/legal-and-compliance",
-    "score": 573,
+    "description": "HN Score: 7 | 0 comments",
+    "url": "https://www.semafor.com/article/02/17/2026/palantir-partnership-is-at-heart-of-anthropic-pentagon-rift",
+    "score": 7,
     "date": "2026-02-19",
     "category": "AI News"
   },
@@ -144,29 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Sam Altman (OpenAI) and Dario Amodei (Anthropic) Refuse to Hold Hands",
-    "source": "Hacker News",
-    "description": "HN Score: 24 | 5 comments",
-    "url": "https://xcancel.com/ANI/status/2024349307835732347",
-    "score": 24,
-    "date": "2026-02-19",
-    "category": "AI News"
-  },
-  {
     "title": "A new Gemini model or checkpoint may drop as soon as tomorrow!",
     "source": "@bindureddy",
     "description": "",
     "url": "https://nitter.net/bindureddy/status/2024339412050727422#m",
     "date": "2026-02-19",
     "category": "Twitter"
-  },
-  {
-    "title": "What years of production-grade concurrency teaches us about building AI agents",
-    "source": "Hacker News",
-    "description": "HN Score: 117 | 37 comments",
-    "url": "https://georgeguimaraes.com/your-agent-orchestrator-is-just-a-bad-clone-of-elixir/",
-    "score": 117,
-    "date": "2026-02-19",
-    "category": "AI News"
   }
 ]
