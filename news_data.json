@@ -1,5 +1,26 @@
 [
   {
+    "title": "Reddit is testing a new AI search feature for shopping",
+    "source": "TechCrunch",
+    "summary": "A small group of users in the U.S. will start to see search results that include interactive product carousels with pricing, images, and direct where-to-buy links.",
+    "url": "https://techcrunch.com/2026/02/19/reddit-is-testing-a-new-ai-search-feature-for-shopping/",
+    "date": "2026-02-19"
+  },
+  {
+    "title": "OpenAI reportedly finalizing $100B deal at more than $850B valuation",
+    "source": "TechCrunch",
+    "summary": "OpenAI is reportedly getting close to closing a $100 billion deal, with backers including Amazon, Nvidia, SoftBank, and Microsoft. The deal would value the ChatGPT-maker at $850 billion.",
+    "url": "https://techcrunch.com/2026/02/19/openai-reportedly-finalizing-100b-deal-at-more-than-850b-valuation/",
+    "date": "2026-02-19"
+  },
+  {
+    "title": "Reload wants to give your AI agents a shared memory",
+    "source": "TechCrunch",
+    "summary": "Reload announces a $2.275 million raise in a round led by Anthemis and the launch of its first AI employee, Epic.",
+    "url": "https://techcrunch.com/2026/02/19/reload-an-ai-employee-agent-management-platform-raises-2-275m-and-launches-an-ai-employee/",
+    "date": "2026-02-19"
+  },
+  {
     "title": "OpenAI, Reliance partner to add AI search to JioHotstar",
     "source": "TechCrunch",
     "summary": "The rollout includes two-way integration that surfaces streaming links directly inside ChatGPT.",
@@ -9,14 +30,14 @@
   {
     "title": "Co-founders behind Reface and Prisma join hands to improve on-device model inference with Mirai",
     "source": "TechCrunch",
-    "summary": "Mirai raised a $10 million seed to improve how AI models run on devices like smartphones and laptops.",
+    "summary": "Mirai raised a $10 million seed round to improve how AI models run on devices like smartphones and laptops.",
     "url": "https://techcrunch.com/2026/02/19/co-founders-behind-reface-and-prisma-join-hands-to-improve-on-device-model-inference-with-mirai/",
     "date": "2026-02-19"
   },
   {
-    "title": "For open-source programs, AI coding tools are a mixed blessing",
+    "title": "For open source programs, AI coding tools are a mixed blessing",
     "source": "TechCrunch",
-    "summary": "AI coding tools have enabled a flood of bad code that threatens to overwhelm many projects. Building new features is easier but maintaining them is just as hard.",
+    "summary": "AI coding tools have enabled a flood of bad code that threatens to overwhelm many projects. Building new features is easier, but maintaining them is just as hard.",
     "url": "https://techcrunch.com/2026/02/19/for-open-source-programs-ai-coding-tools-are-a-mixed-blessing/",
     "date": "2026-02-19"
   },
@@ -84,24 +105,10 @@
     "date": "2026-02-19"
   },
   {
-    "title": "Google adds music-generation capabilities to the Gemini app",
-    "source": "TechCrunch",
-    "summary": "Users will be able to use text, images, and videos as a reference to generate music.",
-    "url": "https://techcrunch.com/2026/02/18/google-adds-music-generation-capabilities-to-the-gemini-app/",
-    "date": "2026-02-19"
-  },
-  {
-    "title": "Kana emerges from stealth with $15M to build flexible AI agents for marketers",
-    "source": "TechCrunch",
-    "summary": "Kana, a new AI marketing startup from the founders of Rapt and Krux, has raised $15 million to build customizable, agent-based marketing tools.",
-    "url": "https://techcrunch.com/2026/02/18/kana-emerges-from-stealth-with-15m-to-build-flexible-ai-agents-for-marketers/",
-    "date": "2026-02-19"
-  },
-  {
-    "title": "Microsoft says Office bug exposed customers\u2019 confidential emails to Copilot AI",
-    "source": "TechCrunch",
-    "summary": "Microsoft said the bug meant that its Copilot AI chatbot was reading and summarizing paying customers' confidential emails, bypassing data-protection policies.",
-    "url": "https://techcrunch.com/2026/02/18/microsoft-says-office-bug-exposed-customers-confidential-emails-to-copilot-ai/",
+    "title": "Microsoft has a new plan to prove what\u2019s real and what\u2019s AI online",
+    "source": "MIT Tech Review",
+    "summary": "AI-enabled deception now permeates our online lives. There are the high-profile cases you may easily spot, like when White House officials recently shared a manipulated image of a protester in Minnesota and then mocked those asking about it. Other times, it slips quietly into social media feeds a...",
+    "url": "https://www.technologyreview.com/2026/02/19/1133360/microsoft-has-a-new-plan-to-prove-whats-real-and-whats-ai-online/",
     "date": "2026-02-19"
   },
   {
@@ -165,13 +172,6 @@
     "source": "MIT Tech Review",
     "summary": "\u201cWe\u2019re out of airspace now. We can do whatever we want,\u201d Jean-Paul Thorbjornsen tells me from the pilot\u2019s seat of his Aston Martin helicopter. As we fly over suburbs outside Melbourne, Australia, it\u2019s becoming clear that doing whatever he wants is Thorbjornsen\u2019s MO. Upper-middle-class homes give ...",
     "url": "https://www.technologyreview.com/2026/02/18/1132587/jean-paul-thorbjornsen-dark-side-crypto-permissionless-dream/",
-    "date": "2026-02-19"
-  },
-  {
-    "title": "The Download: the rise of luxury car theft, and fighting antimicrobial resistance",
-    "source": "MIT Tech Review",
-    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. The curious case of the disappearing Lamborghinis Across the world, unsuspecting people are unwittingly becoming caught up in a new and growing type of organiz...",
-    "url": "https://www.technologyreview.com/2026/02/17/1133018/the-download-the-rise-of-luxury-car-theft-and-fighting-antimicrobial-resistance/",
     "date": "2026-02-19"
   },
   {
@@ -242,6 +242,13 @@
     "source": "Wired",
     "summary": "As OpenAI removed access to GPT-4o in its app on Friday, people who have come to rely on the chatbot for companionship are mourning the loss all over the world.",
     "url": "https://www.wired.com/story/openai-nuking-4o-model-china-chatgpt-fans-arent-ok/",
+    "date": "2026-02-19"
+  },
+  {
+    "title": "Google announces Gemini 3.1 Pro, says it's better at complex problem-solving",
+    "source": "Ars Technica",
+    "summary": "Google says 3.1 Pro is ready for 'your hardest challenges.'",
+    "url": "https://arstechnica.com/google/2026/02/google-announces-gemini-3-1-pro-says-its-better-at-complex-problem-solving/",
     "date": "2026-02-19"
   },
   {
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "The $20,000 experiment compiled a Linux kernel but needed deep human management.",
     "url": "https://arstechnica.com/ai/2026/02/sixteen-claude-ai-agents-working-together-created-a-new-c-compiler/",
-    "date": "2026-02-19"
-  },
-  {
-    "title": "Lawyer sets new standard for abuse of AI; judge tosses case",
-    "source": "Ars Technica",
-    "summary": "Behold the most overwrought AI legal filings you will ever gaze upon.",
-    "url": "https://arstechnica.com/tech-policy/2026/02/randomly-quoting-ray-bradbury-did-not-save-lawyer-from-losing-case-over-ai-errors/",
     "date": "2026-02-19"
   }
 ]
