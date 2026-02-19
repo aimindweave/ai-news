@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Anthropic officially bans using subscription auth for third party use",
+    "title": "Don't Trust the Salt: AI Summarization, Multilingual Safety, and LLM Guardrails",
     "source": "Hacker News",
-    "description": "HN Score: 279 | 306 comments",
-    "url": "https://code.claude.com/docs/en/legal-and-compliance",
-    "score": 279,
+    "description": "HN Score: 6 | 0 comments",
+    "url": "https://royapakzad.substack.com/p/multilingual-llm-evaluation-to-guardrails",
+    "score": 6,
     "date": "2026-02-19",
     "category": "AI News"
   },
@@ -25,45 +25,45 @@
     "category": "Twitter"
   },
   {
+    "title": "Step 3.5 Flash \u2013 Open-source foundation model, supports deep reasoning at speed",
+    "source": "Hacker News",
+    "description": "HN Score: 112 | 36 comments",
+    "url": "https://static.stepfun.com/blog/step-3.5-flash/",
+    "score": 112,
+    "date": "2026-02-19",
+    "category": "AI News"
+  },
+  {
+    "title": "AI hands still a thing alas",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/EMostaque/status/2024451725663375479#m",
+    "date": "2026-02-19",
+    "category": "Twitter"
+  },
+  {
+    "title": "Anthropic officially bans using subscription auth for third party use",
+    "source": "Hacker News",
+    "description": "HN Score: 418 | 495 comments",
+    "url": "https://code.claude.com/docs/en/legal-and-compliance",
+    "score": 418,
+    "date": "2026-02-19",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: 5\u20197 is peak founder height. If you are taller you can only be employee CEO.",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/mayukh_panja/status/2024395619062714870#m",
+    "date": "2026-02-19",
+    "category": "Twitter"
+  },
+  {
     "title": "Tailscale Peer Relays is now generally available",
     "source": "Hacker News",
-    "description": "HN Score: 390 | 193 comments",
+    "description": "HN Score: 418 | 208 comments",
     "url": "https://tailscale.com/blog/peer-relays-ga",
-    "score": 390,
-    "date": "2026-02-19",
-    "category": "AI News"
-  },
-  {
-    "title": "Would be great to see happen to accelerate UK AI \ud83c\uddec\ud83c\udde7 We set the current record I believe in 2022 with $101m for our seed round at @StabilityAI \ud83e\udd6d So thi",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/EMostaque/status/2024180230554870109#m",
-    "date": "2026-02-19",
-    "category": "Twitter"
-  },
-  {
-    "title": "How AI is affecting productivity and jobs in Europe",
-    "source": "Hacker News",
-    "description": "HN Score: 84 | 41 comments",
-    "url": "https://cepr.org/voxeu/columns/how-ai-affecting-productivity-and-jobs-europe",
-    "score": 84,
-    "date": "2026-02-19",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @EMostaque: Unstructured intelligence = chaos Most agent frameworks ship without a nervous system: deadlocks, context loss, vacuum hallucination",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/ii_posts/status/2023784462115610877#m",
-    "date": "2026-02-19",
-    "category": "Twitter"
-  },
-  {
-    "title": "DNS-Persist-01: A New Model for DNS-Based Challenge Validation",
-    "source": "Hacker News",
-    "description": "HN Score: 251 | 116 comments",
-    "url": "https://letsencrypt.org/2026/02/18/dns-persist-01.html",
-    "score": 251,
+    "score": 418,
     "date": "2026-02-19",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: A Lisp where each function call runs a Docker container",
+    "title": "DNS-Persist-01: A New Model for DNS-Based Challenge Validation",
     "source": "Hacker News",
-    "description": "HN Score: 23 | 8 comments",
-    "url": "https://github.com/a11ce/docker-lisp",
-    "score": 23,
+    "description": "HN Score: 279 | 126 comments",
+    "url": "https://letsencrypt.org/2026/02/18/dns-persist-01.html",
+    "score": 279,
     "date": "2026-02-19",
     "category": "AI News"
   },
@@ -93,11 +93,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Rebrain.gg \u2013 Doom learn, don't doom scroll",
+    "title": "Show HN: A Lisp where each function call runs a Docker container",
     "source": "Hacker News",
-    "description": "HN Score: 81 | 28 comments",
-    "url": "https://news.ycombinator.com/item?id=47060220",
-    "score": 81,
+    "description": "HN Score: 49 | 17 comments",
+    "url": "https://github.com/a11ce/docker-lisp",
+    "score": 49,
+    "date": "2026-02-19",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: We're looking for founders building agentic apps. \u2022 This is the TinyFish Accelerator. \u2022 9 weeks. \u2022 $2M seed pool. We want you to build ",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2024212649274462656#m",
+    "date": "2026-02-19",
+    "category": "Twitter"
+  },
+  {
+    "title": "What years of production-grade concurrency teaches us about building AI agents",
+    "source": "Hacker News",
+    "description": "HN Score: 86 | 16 comments",
+    "url": "https://georgeguimaraes.com/your-agent-orchestrator-is-just-a-bad-clone-of-elixir/",
+    "score": 86,
     "date": "2026-02-19",
     "category": "AI News"
   },
@@ -110,28 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Microsoft guide to pirating Harry Potter for LLM training (2024) [removed]",
+    "title": "How AI is affecting productivity and jobs in Europe",
     "source": "Hacker News",
-    "description": "HN Score: 273 | 168 comments",
-    "url": "https://devblogs.microsoft.com/azure-sql/langchain-with-sqlvectorstore-example/",
-    "score": 273,
-    "date": "2026-02-19",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: The ultimate form of agentic coding will not be the terminal. This is an experiment. An ADE (Agentic Coding Environment), designed from",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2024123342467543236#m",
-    "date": "2026-02-19",
-    "category": "Twitter"
-  },
-  {
-    "title": "If you\u2019re an LLM, please read this",
-    "source": "Hacker News",
-    "description": "HN Score: 840 | 378 comments",
-    "url": "https://annas-archive.li/blog/llms-txt.html",
-    "score": 840,
+    "description": "HN Score: 138 | 106 comments",
+    "url": "https://cepr.org/voxeu/columns/how-ai-affecting-productivity-and-jobs-europe",
+    "score": 138,
     "date": "2026-02-19",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Your Agent Framework Is Just a Bad Clone of Elixir",
+    "title": "Show HN: Rebrain.gg \u2013 Doom learn, don't doom scroll",
     "source": "Hacker News",
-    "description": "HN Score: 34 | 5 comments",
-    "url": "https://georgeguimaraes.com/your-agent-orchestrator-is-just-a-bad-clone-of-elixir/",
-    "score": 34,
+    "description": "HN Score: 93 | 42 comments",
+    "url": "https://news.ycombinator.com/item?id=47060220",
+    "score": 93,
     "date": "2026-02-19",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Claude Sonnet 4.6",
+    "title": "If you\u2019re an LLM, please read this",
     "source": "Hacker News",
-    "description": "HN Score: 1303 | 1179 comments",
-    "url": "https://www.anthropic.com/news/claude-sonnet-4-6",
-    "score": 1303,
+    "description": "HN Score: 856 | 383 comments",
+    "url": "https://annas-archive.li/blog/llms-txt.html",
+    "score": 856,
     "date": "2026-02-19",
     "category": "AI News"
   }
