@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "MuMu Player (NetEase) silently runs 17 reconnaissance commands every 30 minutes",
+    "title": "Defer available in gcc and clang",
     "source": "Hacker News",
-    "description": "HN Score: 122 | 47 comments",
-    "url": "https://gist.github.com/interpiduser5/547d8a7baec436f24b7cce89dd4ae1ea",
-    "score": 122,
+    "description": "HN Score: 95 | 44 comments",
+    "url": "https://gustedt.wordpress.com/2026/02/15/defer-available-in-gcc-and-clang/",
+    "score": 95,
     "date": "2026-02-20",
     "category": "AI News"
   },
@@ -25,11 +25,28 @@
     "category": "Twitter"
   },
   {
-    "title": "An AI Agent Published a Hit Piece on Me \u2013 The Operator Came Forward",
+    "title": "Consistency diffusion language models: Up to 14x faster, no quality loss",
     "source": "Hacker News",
-    "description": "HN Score: 200 | 131 comments",
-    "url": "https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/",
-    "score": 200,
+    "description": "HN Score: 69 | 14 comments",
+    "url": "https://www.together.ai/blog/consistency-diffusion-language-models",
+    "score": 69,
+    "date": "2026-02-20",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: ok you have to try this they completely buried the lede - on their custom hardware they can serve llama3.1 8b at >15,000 tok/s",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/seconds_0/status/2024728825666687088#m",
+    "date": "2026-02-20",
+    "category": "Twitter"
+  },
+  {
+    "title": "Pi for Excel: AI sidebar add-in for Excel",
+    "source": "Hacker News",
+    "description": "HN Score: 55 | 8 comments",
+    "url": "https://github.com/tmustier/pi-for-excel",
+    "score": 55,
     "date": "2026-02-20",
     "category": "AI News"
   },
@@ -42,28 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Consistency diffusion language models: Up to 14x faster, no quality loss",
+    "title": "An AI Agent Published a Hit Piece on Me \u2013 The Operator Came Forward",
     "source": "Hacker News",
-    "description": "HN Score: 5 | 0 comments",
-    "url": "https://www.together.ai/blog/consistency-diffusion-language-models",
-    "score": 5,
-    "date": "2026-02-20",
-    "category": "AI News"
-  },
-  {
-    "title": "AI hands still a thing alas",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/EMostaque/status/2024451725663375479#m",
-    "date": "2026-02-20",
-    "category": "Twitter"
-  },
-  {
-    "title": "Pi for Excel: AI sidebar add-in for Excel, powered by Pi",
-    "source": "Hacker News",
-    "description": "HN Score: 24 | 3 comments",
-    "url": "https://github.com/tmustier/pi-for-excel",
-    "score": 24,
+    "description": "HN Score: 320 | 264 comments",
+    "url": "https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/",
+    "score": 320,
     "date": "2026-02-20",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Don't Trust the Salt: AI Summarization, Multilingual Safety, and LLM Guardrails",
+    "title": "MuMu Player (NetEase) silently runs 17 reconnaissance commands every 30 minutes",
     "source": "Hacker News",
-    "description": "HN Score: 191 | 79 comments",
-    "url": "https://royapakzad.substack.com/p/multilingual-llm-evaluation-to-guardrails",
-    "score": 191,
+    "description": "HN Score: 252 | 99 comments",
+    "url": "https://gist.github.com/interpiduser5/547d8a7baec436f24b7cce89dd4ae1ea",
+    "score": 252,
     "date": "2026-02-20",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Measuring AI agent autonomy in practice",
+    "title": "Don't Trust the Salt: AI Summarization, Multilingual Safety, and LLM Guardrails",
     "source": "Hacker News",
-    "description": "HN Score: 90 | 45 comments",
-    "url": "https://www.anthropic.com/research/measuring-agent-autonomy",
-    "score": 90,
+    "description": "HN Score: 204 | 80 comments",
+    "url": "https://royapakzad.substack.com/p/multilingual-llm-evaluation-to-guardrails",
+    "score": 204,
     "date": "2026-02-20",
     "category": "AI News"
   },
@@ -110,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "We're no longer attracting top talent: the brain drain killing American science",
+    "title": "Measuring AI agent autonomy in practice",
     "source": "Hacker News",
-    "description": "HN Score: 382 | 345 comments",
-    "url": "https://www.theguardian.com/us-news/2026/feb/19/trump-science-funding-cuts",
-    "score": 382,
+    "description": "HN Score: 99 | 48 comments",
+    "url": "https://www.anthropic.com/research/measuring-agent-autonomy",
+    "score": 99,
     "date": "2026-02-20",
     "category": "AI News"
   },
@@ -129,9 +129,9 @@
   {
     "title": "AI is not a coworker, it's an exoskeleton",
     "source": "Hacker News",
-    "description": "HN Score: 191 | 205 comments",
+    "description": "HN Score: 209 | 220 comments",
     "url": "https://www.kasava.dev/blog/ai-as-exoskeleton",
-    "score": 191,
+    "score": 209,
     "date": "2026-02-20",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "A psychedelic medicine performs well against depression",
+    "title": "We're no longer attracting top talent: the brain drain killing American science",
     "source": "Hacker News",
-    "description": "HN Score: 71 | 54 comments",
-    "url": "https://www.economist.com/science-and-technology/2026/02/19/a-psychedelic-medicine-performs-well-against-depression",
-    "score": 71,
+    "description": "HN Score: 423 | 398 comments",
+    "url": "https://www.theguardian.com/us-news/2026/feb/19/trump-science-funding-cuts",
+    "score": 423,
     "date": "2026-02-20",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Single vaccine could protect against all coughs, colds and flus",
+    "title": "A psychedelic medicine performs well against depression",
     "source": "Hacker News",
-    "description": "HN Score: 150 | 102 comments",
-    "url": "https://www.bbc.com/news/articles/cx2g8rz7yedo",
-    "score": 150,
+    "description": "HN Score: 74 | 60 comments",
+    "url": "https://www.economist.com/science-and-technology/2026/02/19/a-psychedelic-medicine-performs-well-against-depression",
+    "score": 74,
     "date": "2026-02-20",
     "category": "AI News"
   }
