@@ -10,9 +10,9 @@
   {
     "title": "Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
     "source": "Hacker News",
-    "description": "HN Score: 81 | 11 comments",
+    "description": "HN Score: 412 | 90 comments",
     "url": "https://github.com/ggml-org/llama.cpp/discussions/19759",
-    "score": 81,
+    "score": 412,
     "date": "2026-02-20",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "The path to ubiquitous AI (17k tokens/sec)",
     "source": "Hacker News",
-    "description": "HN Score: 354 | 239 comments",
+    "description": "HN Score: 503 | 307 comments",
     "url": "https://taalas.com/the-path-to-ubiquitous-ai/",
-    "score": 354,
+    "score": 503,
     "date": "2026-02-20",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Nvidia and OpenAI abandon unfinished $100B deal in favour of $30B investment",
+    "title": "The Rediscovery of 103 Hokusai Lost Sketches (2021)",
     "source": "Hacker News",
-    "description": "HN Score: 166 | 115 comments",
-    "url": "https://www.ft.com/content/dea24046-0a73-40b2-8246-5ac7b7a54323",
-    "score": 166,
+    "description": "HN Score: 40 | 2 comments",
+    "url": "https://japan-forward.com/eternal-hokusai-the-rediscovery-of-103-hokusai-lost-sketches/",
+    "score": 40,
     "date": "2026-02-20",
     "category": "AI News"
   },
@@ -59,45 +59,62 @@
     "category": "Twitter"
   },
   {
-    "title": "The Rediscovery of 103 Hokusai Lost Sketches (2021)",
-    "source": "Hacker News",
-    "description": "HN Score: 16 | 0 comments",
-    "url": "https://japan-forward.com/eternal-hokusai-the-rediscovery-of-103-hokusai-lost-sketches/",
-    "score": 16,
-    "date": "2026-02-20",
-    "category": "AI News"
-  },
-  {
-    "title": "Greatness arises when non-consensus peaks",
-    "source": "@DrJimFan",
-    "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2019303484529758704#m",
-    "date": "2026-02-20",
-    "category": "Twitter"
-  },
-  {
     "title": "Web Components: The Framework-Free Renaissance",
     "source": "Hacker News",
-    "description": "HN Score: 83 | 50 comments",
+    "description": "HN Score: 142 | 92 comments",
     "url": "https://www.caimito.net/en/blog/2026/02/17/web-components-the-framework-free-renaissance.html",
-    "score": 83,
+    "score": 142,
     "date": "2026-02-20",
     "category": "AI News"
   },
   {
-    "title": "R to @DrJimFan: And @SeonghyeonYe's deep dive thread: https://x.com/SeonghyeonYe/status/2019084496898040074?s=20",
+    "title": "R to @DrJimFan: Check out @ShenyuanGao's technical deep dive: https://x.com/ShenyuanGao/status/2024898256334114876?s=20",
     "source": "@DrJimFan",
     "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2019112608629157981#m",
+    "url": "https://nitter.net/DrJimFan/status/2024899289080910046#m",
     "date": "2026-02-20",
     "category": "Twitter"
   },
   {
     "title": "Minions \u2013 Stripe's Coding Agents Part 2",
     "source": "Hacker News",
-    "description": "HN Score: 50 | 27 comments",
+    "description": "HN Score: 99 | 52 comments",
     "url": "https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents-part-2",
-    "score": 50,
+    "score": 99,
+    "date": "2026-02-20",
+    "category": "AI News"
+  },
+  {
+    "title": "R to @DrJimFan: - Project website: https://dreamdojo-world.github.io/ - Paper: https://arxiv.org/abs/2602.06949 - Code repo and model ckpts: https://g",
+    "source": "@DrJimFan",
+    "description": "",
+    "url": "https://nitter.net/DrJimFan/status/2024895360922255776#m",
+    "date": "2026-02-20",
+    "category": "Twitter"
+  },
+  {
+    "title": "Consistency diffusion language models: Up to 14x faster, no quality loss",
+    "source": "Hacker News",
+    "description": "HN Score: 178 | 74 comments",
+    "url": "https://www.together.ai/blog/consistency-diffusion-language-models",
+    "score": 178,
+    "date": "2026-02-20",
+    "category": "AI News"
+  },
+  {
+    "title": "So many AI products spike the day they launch, and flatline 2 weeks later. It's not the model. It's not the UX. The issue is something most teams neve",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2024881105623756874#m",
+    "date": "2026-02-20",
+    "category": "Twitter"
+  },
+  {
+    "title": "AI is not a coworker, it's an exoskeleton",
+    "source": "Hacker News",
+    "description": "HN Score: 430 | 422 comments",
+    "url": "https://www.kasava.dev/blog/ai-as-exoskeleton",
+    "score": 430,
     "date": "2026-02-20",
     "category": "AI News"
   },
@@ -110,62 +127,45 @@
     "category": "Twitter"
   },
   {
-    "title": "Consistency diffusion language models: Up to 14x faster, no quality loss",
+    "title": "Nvidia and OpenAI abandon unfinished $100B deal in favour of $30B investment",
     "source": "Hacker News",
-    "description": "HN Score: 162 | 52 comments",
-    "url": "https://www.together.ai/blog/consistency-diffusion-language-models",
-    "score": 162,
+    "description": "HN Score: 259 | 237 comments",
+    "url": "https://www.ft.com/content/dea24046-0a73-40b2-8246-5ac7b7a54323",
+    "score": 259,
     "date": "2026-02-20",
     "category": "AI News"
   },
   {
-    "title": "RT by @svpino: Nobody wants to use chatbots. Most chatbots and voice AI agents I've seen are just glorified phone trees with better marketing. These a",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2024577247932535084#m",
-    "date": "2026-02-20",
-    "category": "Twitter"
-  },
-  {
-    "title": "Defer available in gcc and clang",
-    "source": "Hacker News",
-    "description": "HN Score: 221 | 169 comments",
-    "url": "https://gustedt.wordpress.com/2026/02/15/defer-available-in-gcc-and-clang/",
-    "score": 221,
-    "date": "2026-02-20",
-    "category": "AI News"
-  },
-  {
-    "title": "Gemini would be 100x more popular - if they were generally available from DAY 1 It would be make it super easy to move billions of tokens of productio",
+    "title": "Gemini 3.1 is WAY CHEAPER than Opus 4.6 It's also definitely better at certain tasks like Deep Research More analysis coming...",
     "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/bindureddy/status/2024675722858811626#m",
-    "date": "2026-02-20",
-    "category": "Twitter"
-  },
-  {
-    "title": "AI is not a coworker, it's an exoskeleton",
-    "source": "Hacker News",
-    "description": "HN Score: 350 | 385 comments",
-    "url": "https://www.kasava.dev/blog/ai-as-exoskeleton",
-    "score": 350,
-    "date": "2026-02-20",
-    "category": "AI News"
-  },
-  {
-    "title": "TBH - AI is actually beginning to cost more than humans. Humans are soo back \ud83d\udd25",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2024617178927128758#m",
+    "url": "https://nitter.net/bindureddy/status/2024891093205352773#m",
     "date": "2026-02-20",
     "category": "Twitter"
   },
   {
     "title": "Pi for Excel: AI sidebar add-in for Excel",
     "source": "Hacker News",
-    "description": "HN Score: 90 | 25 comments",
+    "description": "HN Score: 99 | 26 comments",
     "url": "https://github.com/tmustier/pi-for-excel",
-    "score": 90,
+    "score": 99,
+    "date": "2026-02-20",
+    "category": "AI News"
+  },
+  {
+    "title": "Google 3.1 pro looks extraordinarily good!! We are double checking things \ud83d\ude05",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2024876096622330062#m",
+    "date": "2026-02-20",
+    "category": "Twitter"
+  },
+  {
+    "title": "Defer available in gcc and clang",
+    "source": "Hacker News",
+    "description": "HN Score: 238 | 217 comments",
+    "url": "https://gustedt.wordpress.com/2026/02/15/defer-available-in-gcc-and-clang/",
+    "score": 238,
     "date": "2026-02-20",
     "category": "AI News"
   }
