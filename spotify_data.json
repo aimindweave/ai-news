@@ -94,6 +94,16 @@
   "episodes": [
     {
       "id": "a]6z Pod_0",
+      "name": "Patrick Collison on Stripe’s Early Choices, Smalltalk, and What Comes After Coding",
+      "show": "a]6z Podcast",
+      "description": "Michael Truell, CEO of Cursor, sits down with Patrick Collison, CEO of Stripe and an investor in Anysphere, to talk about Collison's history with Smalltalk and Lisp, the MongoDB and Ruby decisions ",
+      "release_date": "2026-02-20",
+      "duration_min": 52,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
+      "id": "a]6z Pod_1",
       "name": "AI’s Capital Flywheel: Models, Money, and the Future of Power",
       "show": "a]6z Podcast",
       "description": "a16z's Martin Casado and Sarah Wang join Latent Space hosts Alessio Fanelli and Swyx to discuss what makes this AI investment cycle unlike anything in the history of venture capital. They cover why",
@@ -123,7 +133,7 @@
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "From Copilots to Agents: Rebuilding the Company Around AI",
       "show": "a]6z Podcast",
       "description": "a16z's Angela Strange and Gabriel Vasquez speak with Carlos García Ottati, founder and CEO of Kavak, about building Latin America's largest online used car marketplace across Mexico, Brazil, Chile,",
@@ -133,22 +143,12 @@
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
-      "id": "a]6z Pod_2",
-      "name": "WSJ x a16z: The Next 25 Years of Defense Innovation",
-      "show": "a]6z Podcast",
-      "description": "In this episode from WSJ Invest Live, Andy Serwer speaks with Katherine Boyle, general partner at a16z, about the American Dynamism practice she helped launch four years ago. They discuss why sayin",
-      "release_date": "2026-02-17",
-      "duration_min": 30,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
-    },
-    {
       "id": "Hard For_0",
       "name": "‘Something Big Is Happening’ + A.I. Rocks the Romance Novel Industry + One Good Thing",
       "show": "Hard Fork",
       "description": "This week, we discuss Wall Street’s software-stock sell-off and a viral essay on X about the potential for widespread job displacement from A.I. Then, the New York Times reporter Alexandra Alter wa",
       "release_date": "2026-02-13",
-      "duration_min": 60,
+      "duration_min": 64,
       "image": "",
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },

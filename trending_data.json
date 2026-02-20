@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Defer available in gcc and clang",
+    "title": "The path to ubiquitous AI (17k tokens/sec)",
     "source": "Hacker News",
-    "description": "HN Score: 95 | 44 comments",
-    "url": "https://gustedt.wordpress.com/2026/02/15/defer-available-in-gcc-and-clang/",
-    "score": 95,
+    "description": "HN Score: 85 | 52 comments",
+    "url": "https://taalas.com/the-path-to-ubiquitous-ai/",
+    "score": 85,
     "date": "2026-02-20",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "Consistency diffusion language models: Up to 14x faster, no quality loss",
     "source": "Hacker News",
-    "description": "HN Score: 69 | 14 comments",
+    "description": "HN Score: 132 | 43 comments",
     "url": "https://www.together.ai/blog/consistency-diffusion-language-models",
-    "score": 69,
+    "score": 132,
     "date": "2026-02-20",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Pi for Excel: AI sidebar add-in for Excel",
+    "title": "Defer available in gcc and clang",
     "source": "Hacker News",
-    "description": "HN Score: 55 | 8 comments",
-    "url": "https://github.com/tmustier/pi-for-excel",
-    "score": 55,
+    "description": "HN Score: 183 | 139 comments",
+    "url": "https://gustedt.wordpress.com/2026/02/15/defer-available-in-gcc-and-clang/",
+    "score": 183,
     "date": "2026-02-20",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "An AI Agent Published a Hit Piece on Me \u2013 The Operator Came Forward",
+    "title": "AI is not a coworker, it's an exoskeleton",
     "source": "Hacker News",
-    "description": "HN Score: 320 | 264 comments",
-    "url": "https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/",
-    "score": 320,
+    "description": "HN Score: 287 | 331 comments",
+    "url": "https://www.kasava.dev/blog/ai-as-exoskeleton",
+    "score": 287,
     "date": "2026-02-20",
     "category": "AI News"
   },
@@ -76,28 +76,45 @@
     "category": "Twitter"
   },
   {
-    "title": "MuMu Player (NetEase) silently runs 17 reconnaissance commands every 30 minutes",
+    "title": "Web Components: The Framework-Free Renaissance",
     "source": "Hacker News",
-    "description": "HN Score: 252 | 99 comments",
-    "url": "https://gist.github.com/interpiduser5/547d8a7baec436f24b7cce89dd4ae1ea",
-    "score": 252,
+    "description": "HN Score: 13 | 13 comments",
+    "url": "https://www.caimito.net/en/blog/2026/02/17/web-components-the-framework-free-renaissance.html",
+    "score": 13,
     "date": "2026-02-20",
     "category": "AI News"
   },
   {
-    "title": "R to @DrJimFan: And @SeonghyeonYe's deep dive thread: https://x.com/SeonghyeonYe/status/2019084496898040074?s=20",
+    "title": "New milestone: we trained a robot foundation model on a world model backbone, and enabled zero-shot, open-world prompting capability for new verbs, no",
     "source": "@DrJimFan",
     "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2019112608629157981#m",
+    "url": "https://nitter.net/DrJimFan/status/2019112603637920237#m",
     "date": "2026-02-20",
     "category": "Twitter"
   },
   {
-    "title": "Don't Trust the Salt: AI Summarization, Multilingual Safety, and LLM Guardrails",
+    "title": "Pi for Excel: AI sidebar add-in for Excel",
     "source": "Hacker News",
-    "description": "HN Score: 204 | 80 comments",
-    "url": "https://royapakzad.substack.com/p/multilingual-llm-evaluation-to-guardrails",
-    "score": 204,
+    "description": "HN Score: 79 | 24 comments",
+    "url": "https://github.com/tmustier/pi-for-excel",
+    "score": 79,
+    "date": "2026-02-20",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: Nobody wants to use chatbots. Most chatbots and voice AI agents I've seen are just glorified phone trees with better marketing. These a",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2024577247932535084#m",
+    "date": "2026-02-20",
+    "category": "Twitter"
+  },
+  {
+    "title": "An AI Agent Published a Hit Piece on Me \u2013 The Operator Came Forward",
+    "source": "Hacker News",
+    "description": "HN Score: 398 | 342 comments",
+    "url": "https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/",
+    "score": 398,
     "date": "2026-02-20",
     "category": "AI News"
   },
@@ -110,28 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Measuring AI agent autonomy in practice",
+    "title": "SwiftUI Agent Skill: Build Better Views with AI",
     "source": "Hacker News",
-    "description": "HN Score: 99 | 48 comments",
-    "url": "https://www.anthropic.com/research/measuring-agent-autonomy",
-    "score": 99,
-    "date": "2026-02-20",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: This is one of the most useful strategies I use to deploy models in production applications. You can do this with models you built, wit",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2024485552561803306#m",
-    "date": "2026-02-20",
-    "category": "Twitter"
-  },
-  {
-    "title": "AI is not a coworker, it's an exoskeleton",
-    "source": "Hacker News",
-    "description": "HN Score: 209 | 220 comments",
-    "url": "https://www.kasava.dev/blog/ai-as-exoskeleton",
-    "score": 209,
+    "description": "HN Score: 12 | 1 comments",
+    "url": "https://www.avanderlee.com/ai-development/swiftui-agent-skill-build-better-views-with-ai/",
+    "score": 12,
     "date": "2026-02-20",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "We're no longer attracting top talent: the brain drain killing American science",
+    "title": "MuMu Player (NetEase) silently runs 17 reconnaissance commands every 30 minutes",
     "source": "Hacker News",
-    "description": "HN Score: 423 | 398 comments",
-    "url": "https://www.theguardian.com/us-news/2026/feb/19/trump-science-funding-cuts",
-    "score": 423,
+    "description": "HN Score: 282 | 110 comments",
+    "url": "https://gist.github.com/interpiduser5/547d8a7baec436f24b7cce89dd4ae1ea",
+    "score": 282,
     "date": "2026-02-20",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "A psychedelic medicine performs well against depression",
+    "title": "Don't Trust the Salt: AI Summarization, Multilingual Safety, and LLM Guardrails",
     "source": "Hacker News",
-    "description": "HN Score: 74 | 60 comments",
-    "url": "https://www.economist.com/science-and-technology/2026/02/19/a-psychedelic-medicine-performs-well-against-depression",
-    "score": 74,
+    "description": "HN Score: 214 | 82 comments",
+    "url": "https://royapakzad.substack.com/p/multilingual-llm-evaluation-to-guardrails",
+    "score": 214,
     "date": "2026-02-20",
     "category": "AI News"
   }
