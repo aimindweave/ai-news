@@ -93,6 +93,16 @@
   ],
   "episodes": [
     {
+      "id": "Hard For_0",
+      "name": "The Pentagon vs. Anthropic + An A.I. Agent Slandered Me + Hot Mess Express",
+      "show": "Hard Fork",
+      "description": "This week, Anthropic is refusing to let the government use the company’s technology for autonomous weapons and domestic surveillance. In response, the Pentagon is threatening to cut business ties a",
+      "release_date": "2026-02-20",
+      "duration_min": 64,
+      "image": "",
+      "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
+    },
+    {
       "id": "a]6z Pod_0",
       "name": "Patrick Collison on Stripe’s Early Choices, Smalltalk, and What Comes After Coding",
       "show": "a]6z Podcast",
@@ -143,7 +153,7 @@
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
-      "id": "Hard For_0",
+      "id": "Hard For_1",
       "name": "‘Something Big Is Happening’ + A.I. Rocks the Romance Novel Industry + One Good Thing",
       "show": "Hard Fork",
       "description": "This week, we discuss Wall Street’s software-stock sell-off and a viral essay on X about the potential for widespread job displacement from A.I. Then, the New York Times reporter Alexandra Alter wa",
@@ -183,22 +193,12 @@
       "url": "https://open.spotify.com/show/0e1X4kJVfwQRPF8lZzqqfX"
     },
     {
-      "id": "Hard For_1",
+      "id": "Hard For_2",
       "name": "Elon Musk’s Mega-Merger + We Test Google’s Project Genie + What’s Next for Moltbook Creator",
       "show": "Hard Fork",
       "description": "This week, the A.I. initial-public-offering race is heating up! We break down SpaceX’s acquisition of xAI, as well as OpenAI and Nvidia’s messy situationship. Then, it’s time for show and tell. We ",
       "release_date": "2026-02-06",
       "duration_min": 64,
-      "image": "",
-      "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
-    },
-    {
-      "id": "Hard For_2",
-      "name": "Moltbook Mania Explained",
-      "show": "Hard Fork",
-      "description": "A Reddit-style web forum for A.I. agents has captured the attention of the tech world. According to the site, called Moltbook, more than 1.5 million agents have contributed to over 150,000 posts, m",
-      "release_date": "2026-02-04",
-      "duration_min": 27,
       "image": "",
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },

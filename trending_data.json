@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "The path to ubiquitous AI (17k tokens/sec)",
+    "title": "Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
     "source": "Hacker News",
-    "description": "HN Score: 85 | 52 comments",
-    "url": "https://taalas.com/the-path-to-ubiquitous-ai/",
-    "score": 85,
+    "description": "HN Score: 81 | 11 comments",
+    "url": "https://github.com/ggml-org/llama.cpp/discussions/19759",
+    "score": 81,
     "date": "2026-02-20",
     "category": "AI News"
   },
@@ -25,11 +25,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Consistency diffusion language models: Up to 14x faster, no quality loss",
+    "title": "The path to ubiquitous AI (17k tokens/sec)",
     "source": "Hacker News",
-    "description": "HN Score: 132 | 43 comments",
-    "url": "https://www.together.ai/blog/consistency-diffusion-language-models",
-    "score": 132,
+    "description": "HN Score: 354 | 239 comments",
+    "url": "https://taalas.com/the-path-to-ubiquitous-ai/",
+    "score": 354,
+    "date": "2026-02-20",
+    "category": "AI News"
+  },
+  {
+    "title": "You all have to try the @taalas_inc chatbot, I guarantee you'll find it crazy. Instant intelligence is a heck of a thing https://chatjimmy.ai",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/EMostaque/status/2024825929579585656#m",
+    "date": "2026-02-20",
+    "category": "Twitter"
+  },
+  {
+    "title": "Nvidia and OpenAI abandon unfinished $100B deal in favour of $30B investment",
+    "source": "Hacker News",
+    "description": "HN Score: 166 | 115 comments",
+    "url": "https://www.ft.com/content/dea24046-0a73-40b2-8246-5ac7b7a54323",
+    "score": 166,
     "date": "2026-02-20",
     "category": "AI News"
   },
@@ -42,28 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Defer available in gcc and clang",
+    "title": "The Rediscovery of 103 Hokusai Lost Sketches (2021)",
     "source": "Hacker News",
-    "description": "HN Score: 183 | 139 comments",
-    "url": "https://gustedt.wordpress.com/2026/02/15/defer-available-in-gcc-and-clang/",
-    "score": 183,
-    "date": "2026-02-20",
-    "category": "AI News"
-  },
-  {
-    "title": "Folk don\u2019t realise that the biggest breakthroughs won\u2019t be millions of GPUs doing complex stuff but millions of tokens figuring out beautiful, elegant",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/EMostaque/status/2024631704682443250#m",
-    "date": "2026-02-20",
-    "category": "Twitter"
-  },
-  {
-    "title": "AI is not a coworker, it's an exoskeleton",
-    "source": "Hacker News",
-    "description": "HN Score: 287 | 331 comments",
-    "url": "https://www.kasava.dev/blog/ai-as-exoskeleton",
-    "score": 287,
+    "description": "HN Score: 16 | 0 comments",
+    "url": "https://japan-forward.com/eternal-hokusai-the-rediscovery-of-103-hokusai-lost-sketches/",
+    "score": 16,
     "date": "2026-02-20",
     "category": "AI News"
   },
@@ -78,26 +78,43 @@
   {
     "title": "Web Components: The Framework-Free Renaissance",
     "source": "Hacker News",
-    "description": "HN Score: 13 | 13 comments",
+    "description": "HN Score: 83 | 50 comments",
     "url": "https://www.caimito.net/en/blog/2026/02/17/web-components-the-framework-free-renaissance.html",
-    "score": 13,
+    "score": 83,
     "date": "2026-02-20",
     "category": "AI News"
   },
   {
-    "title": "New milestone: we trained a robot foundation model on a world model backbone, and enabled zero-shot, open-world prompting capability for new verbs, no",
+    "title": "R to @DrJimFan: And @SeonghyeonYe's deep dive thread: https://x.com/SeonghyeonYe/status/2019084496898040074?s=20",
     "source": "@DrJimFan",
     "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2019112603637920237#m",
+    "url": "https://nitter.net/DrJimFan/status/2019112608629157981#m",
     "date": "2026-02-20",
     "category": "Twitter"
   },
   {
-    "title": "Pi for Excel: AI sidebar add-in for Excel",
+    "title": "Minions \u2013 Stripe's Coding Agents Part 2",
     "source": "Hacker News",
-    "description": "HN Score: 79 | 24 comments",
-    "url": "https://github.com/tmustier/pi-for-excel",
-    "score": 79,
+    "description": "HN Score: 50 | 27 comments",
+    "url": "https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents-part-2",
+    "score": 50,
+    "date": "2026-02-20",
+    "category": "AI News"
+  },
+  {
+    "title": "Reading one guide after another before you start building your idea is just procrastination in disguise. Go make something happen. Break things. Get s",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2024835190540145079#m",
+    "date": "2026-02-20",
+    "category": "Twitter"
+  },
+  {
+    "title": "Consistency diffusion language models: Up to 14x faster, no quality loss",
+    "source": "Hacker News",
+    "description": "HN Score: 162 | 52 comments",
+    "url": "https://www.together.ai/blog/consistency-diffusion-language-models",
+    "score": 162,
     "date": "2026-02-20",
     "category": "AI News"
   },
@@ -110,28 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "An AI Agent Published a Hit Piece on Me \u2013 The Operator Came Forward",
+    "title": "Defer available in gcc and clang",
     "source": "Hacker News",
-    "description": "HN Score: 398 | 342 comments",
-    "url": "https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/",
-    "score": 398,
-    "date": "2026-02-20",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: Things I'm currently automating using Claude Code: 1. Unsubscribing from unwanted emails (1st part) 2. Tracking and organizing income (",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2024516843789291769#m",
-    "date": "2026-02-20",
-    "category": "Twitter"
-  },
-  {
-    "title": "SwiftUI Agent Skill: Build Better Views with AI",
-    "source": "Hacker News",
-    "description": "HN Score: 12 | 1 comments",
-    "url": "https://www.avanderlee.com/ai-development/swiftui-agent-skill-build-better-views-with-ai/",
-    "score": 12,
+    "description": "HN Score: 221 | 169 comments",
+    "url": "https://gustedt.wordpress.com/2026/02/15/defer-available-in-gcc-and-clang/",
+    "score": 221,
     "date": "2026-02-20",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "MuMu Player (NetEase) silently runs 17 reconnaissance commands every 30 minutes",
+    "title": "AI is not a coworker, it's an exoskeleton",
     "source": "Hacker News",
-    "description": "HN Score: 282 | 110 comments",
-    "url": "https://gist.github.com/interpiduser5/547d8a7baec436f24b7cce89dd4ae1ea",
-    "score": 282,
+    "description": "HN Score: 350 | 385 comments",
+    "url": "https://www.kasava.dev/blog/ai-as-exoskeleton",
+    "score": 350,
     "date": "2026-02-20",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Don't Trust the Salt: AI Summarization, Multilingual Safety, and LLM Guardrails",
+    "title": "Pi for Excel: AI sidebar add-in for Excel",
     "source": "Hacker News",
-    "description": "HN Score: 214 | 82 comments",
-    "url": "https://royapakzad.substack.com/p/multilingual-llm-evaluation-to-guardrails",
-    "score": 214,
+    "description": "HN Score: 90 | 25 comments",
+    "url": "https://github.com/tmustier/pi-for-excel",
+    "score": 90,
     "date": "2026-02-20",
     "category": "AI News"
   }
