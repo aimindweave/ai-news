@@ -10,9 +10,9 @@
   {
     "title": "Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
     "source": "Hacker News",
-    "description": "HN Score: 756 | 196 comments",
+    "description": "HN Score: 772 | 198 comments",
     "url": "https://github.com/ggml-org/llama.cpp/discussions/19759",
-    "score": 756,
+    "score": 772,
     "date": "2026-02-21",
     "category": "AI News"
   },
@@ -25,11 +25,28 @@
     "category": "Twitter"
   },
   {
+    "title": "AI uBlock Blacklist",
+    "source": "Hacker News",
+    "description": "HN Score: 43 | 15 comments",
+    "url": "https://github.com/alvi-se/ai-ublock-blacklist",
+    "score": 43,
+    "date": "2026-02-21",
+    "category": "AI News"
+  },
+  {
+    "title": "Something folk haven't figured out: 15,000 tokens/second speed and million token context windows aren't for humans They are for the AIs to talk to eac",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/EMostaque/status/2025209897252454459#m",
+    "date": "2026-02-21",
+    "category": "Twitter"
+  },
+  {
     "title": "Lean 4: How the theorem prover works and why it's the new competitive edge in AI",
     "source": "Hacker News",
-    "description": "HN Score: 58 | 25 comments",
+    "description": "HN Score: 67 | 36 comments",
     "url": "https://venturebeat.com/ai/lean4-how-the-theorem-prover-works-and-why-its-the-new-competitive-edge-in",
-    "score": 58,
+    "score": 67,
     "date": "2026-02-21",
     "category": "AI News"
   },
@@ -44,9 +61,9 @@
   {
     "title": "Every company building your AI assistant is now an ad company",
     "source": "Hacker News",
-    "description": "HN Score: 219 | 110 comments",
+    "description": "HN Score: 228 | 116 comments",
     "url": "https://juno-labs.com/blogs/every-company-building-your-ai-assistant-is-an-ad-company",
-    "score": 219,
+    "score": 228,
     "date": "2026-02-21",
     "category": "AI News"
   },
@@ -59,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "AI uBlock Blacklist",
+    "title": "Instant AI Response",
     "source": "Hacker News",
-    "description": "HN Score: 29 | 9 comments",
-    "url": "https://github.com/alvi-se/ai-ublock-blacklist",
-    "score": 29,
+    "description": "HN Score: 14 | 4 comments",
+    "url": "https://chatjimmy.ai/",
+    "score": 14,
     "date": "2026-02-21",
     "category": "AI News"
   },
@@ -78,9 +95,26 @@
   {
     "title": "The path to ubiquitous AI (17k tokens/sec)",
     "source": "Hacker News",
-    "description": "HN Score: 762 | 418 comments",
+    "description": "HN Score: 769 | 421 comments",
     "url": "https://taalas.com/the-path-to-ubiquitous-ai/",
-    "score": 762,
+    "score": 769,
+    "date": "2026-02-21",
+    "category": "AI News"
+  },
+  {
+    "title": "Pretty excited about this book (it just came out!) A wise person once said, 'The only thing better than an AI Agent is a well-architected AI Agent'. T",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2025212679468851317#m",
+    "date": "2026-02-21",
+    "category": "Twitter"
+  },
+  {
+    "title": "Cord: Coordinating Trees of AI Agents",
+    "source": "Hacker News",
+    "description": "HN Score: 112 | 54 comments",
+    "url": "https://www.june.kim/cord",
+    "score": 112,
     "date": "2026-02-21",
     "category": "AI News"
   },
@@ -93,28 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Large Language Model Reasoning Failures",
+    "title": "Making frontier cybersecurity capabilities available to defenders",
     "source": "Hacker News",
-    "description": "HN Score: 20 | 23 comments",
-    "url": "https://arxiv.org/abs/2602.06176",
-    "score": 20,
-    "date": "2026-02-21",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: Don't trust AI agents. They are unreliable, and if you can't see what they are doing, you can't improve, debug, or trust them. Most tea",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2024962874146521255#m",
-    "date": "2026-02-21",
-    "category": "Twitter"
-  },
-  {
-    "title": "Cord: Coordinating Trees of AI Agents",
-    "source": "Hacker News",
-    "description": "HN Score: 109 | 51 comments",
-    "url": "https://www.june.kim/cord",
-    "score": 109,
+    "description": "HN Score: 122 | 52 comments",
+    "url": "https://www.anthropic.com/news/claude-code-security",
+    "score": 122,
     "date": "2026-02-21",
     "category": "AI News"
   },
@@ -127,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Making frontier cybersecurity capabilities available to defenders",
+    "title": "Chris Lattner: Claude C Compiler",
     "source": "Hacker News",
-    "description": "HN Score: 122 | 51 comments",
-    "url": "https://www.anthropic.com/news/claude-code-security",
-    "score": 122,
+    "description": "HN Score: 5 | 0 comments",
+    "url": "https://www.modular.com/blog/the-claude-c-compiler-what-it-reveals-about-the-future-of-software",
+    "score": 5,
     "date": "2026-02-21",
     "category": "AI News"
   },
@@ -146,9 +163,9 @@
   {
     "title": "Building a model that visualizes strategic golf",
     "source": "Hacker News",
-    "description": "HN Score: 58 | 16 comments",
+    "description": "HN Score: 59 | 16 comments",
     "url": "https://golfcoursewiki.substack.com/p/i-spent-the-last-month-and-a-half",
-    "score": 58,
+    "score": 59,
     "date": "2026-02-21",
     "category": "AI News"
   }
