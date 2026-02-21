@@ -10,9 +10,9 @@
   {
     "title": "Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
     "source": "Hacker News",
-    "description": "HN Score: 688 | 172 comments",
+    "description": "HN Score: 719 | 178 comments",
     "url": "https://github.com/ggml-org/llama.cpp/discussions/19759",
-    "score": 688,
+    "score": 719,
     "date": "2026-02-21",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Cord: Coordinating Trees of AI Agents",
+    "title": "Meta Deployed AI and It Is Killing Our Agency",
     "source": "Hacker News",
-    "description": "HN Score: 45 | 15 comments",
-    "url": "https://www.june.kim/cord",
-    "score": 45,
+    "description": "HN Score: 110 | 64 comments",
+    "url": "https://mojodojo.io/blog/meta-is-systematically-killing-our-agency/",
+    "score": 110,
     "date": "2026-02-21",
     "category": "AI News"
   },
@@ -42,28 +42,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Excessive token usage in Claude Code",
+    "title": "Every company building your AI assistant is now an ad company",
     "source": "Hacker News",
-    "description": "HN Score: 31 | 6 comments",
-    "url": "https://github.com/anthropics/claude-code/issues/16856",
-    "score": 31,
+    "description": "HN Score: 162 | 82 comments",
+    "url": "https://juno-labs.com/blogs/every-company-building-your-ai-assistant-is-an-ad-company",
+    "score": 162,
     "date": "2026-02-21",
     "category": "AI News"
   },
   {
-    "title": "R to @DrJimFan: Check out @ShenyuanGao's technical deep dive: https://x.com/ShenyuanGao/status/2024898256334114876?s=20",
+    "title": "Announcing DreamDojo: our open-source, interactive world model that takes robot motor controls and generates the future in pixels. No engine, no meshe",
     "source": "@DrJimFan",
     "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2024899289080910046#m",
+    "url": "https://nitter.net/DrJimFan/status/2024895359236051274#m",
     "date": "2026-02-21",
     "category": "Twitter"
   },
   {
-    "title": "Every company building your AI assistant is now an ad company",
+    "title": "Cord: Coordinating Trees of AI Agents",
     "source": "Hacker News",
-    "description": "HN Score: 132 | 62 comments",
-    "url": "https://juno-labs.com/blogs/every-company-building-your-ai-assistant-is-an-ad-company",
-    "score": 132,
+    "description": "HN Score: 69 | 36 comments",
+    "url": "https://www.june.kim/cord",
+    "score": 69,
     "date": "2026-02-21",
     "category": "AI News"
   },
@@ -78,9 +78,26 @@
   {
     "title": "The path to ubiquitous AI (17k tokens/sec)",
     "source": "Hacker News",
-    "description": "HN Score: 691 | 397 comments",
+    "description": "HN Score: 717 | 405 comments",
     "url": "https://taalas.com/the-path-to-ubiquitous-ai/",
-    "score": 691,
+    "score": 717,
+    "date": "2026-02-21",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: This is how you can start automating your entire life: (No need to install or configure anything. You don't have to mess with OpenClaw.",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2024930125746454729#m",
+    "date": "2026-02-21",
+    "category": "Twitter"
+  },
+  {
+    "title": "Making frontier cybersecurity capabilities available to defenders",
+    "source": "Hacker News",
+    "description": "HN Score: 113 | 51 comments",
+    "url": "https://www.anthropic.com/news/claude-code-security",
+    "score": 113,
     "date": "2026-02-21",
     "category": "AI News"
   },
@@ -93,28 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Making frontier cybersecurity capabilities available to defenders",
-    "source": "Hacker News",
-    "description": "HN Score: 107 | 50 comments",
-    "url": "https://www.anthropic.com/news/claude-code-security",
-    "score": 107,
-    "date": "2026-02-21",
-    "category": "AI News"
-  },
-  {
-    "title": "I\u2019m yet to see a single use case with openclaw that will make me start using it. So far, all I hear about is \u201cbEsT tHiNg EvER!\u201d but literally no valua",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2024964998179565653#m",
-    "date": "2026-02-21",
-    "category": "Twitter"
-  },
-  {
     "title": "Building a model that visualizes strategic golf",
     "source": "Hacker News",
-    "description": "HN Score: 44 | 14 comments",
+    "description": "HN Score: 54 | 15 comments",
     "url": "https://golfcoursewiki.substack.com/p/i-spent-the-last-month-and-a-half",
-    "score": 44,
+    "score": 54,
     "date": "2026-02-21",
     "category": "AI News"
   },
@@ -127,11 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Uncovering insiders and alpha on Polymarket with AI",
+    "title": "Show HN: Agent Passport \u2013 OAuth-like identity verification for AI agents",
     "source": "Hacker News",
-    "description": "HN Score: 90 | 68 comments",
-    "url": "https://twitter.com/peterjliu/status/2024901585806225723",
-    "score": 90,
+    "description": "HN Score: 10 | 3 comments",
+    "url": "https://news.ycombinator.com/item?id=47096131",
+    "score": 10,
     "date": "2026-02-21",
     "category": "AI News"
   },
@@ -144,20 +144,20 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Agent Passport \u2013 OAuth-like identity verification for AI agents",
+    "title": "The Rediscovery of 103 Hokusai Lost Sketches (2021)",
     "source": "Hacker News",
-    "description": "HN Score: 7 | 1 comments",
-    "url": "https://news.ycombinator.com/item?id=47096131",
-    "score": 7,
+    "description": "HN Score: 63 | 7 comments",
+    "url": "https://japan-forward.com/eternal-hokusai-the-rediscovery-of-103-hokusai-lost-sketches/",
+    "score": 63,
     "date": "2026-02-21",
     "category": "AI News"
   },
   {
-    "title": "Claws are now a new layer on top of LLM agents",
+    "title": "Uncovering insiders and alpha on Polymarket with AI",
     "source": "Hacker News",
-    "description": "HN Score: 19 | 8 comments",
-    "url": "https://twitter.com/karpathy/status/2024987174077432126",
-    "score": 19,
+    "description": "HN Score: 94 | 72 comments",
+    "url": "https://twitter.com/peterjliu/status/2024901585806225723",
+    "score": 94,
     "date": "2026-02-21",
     "category": "AI News"
   }
