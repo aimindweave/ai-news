@@ -10,9 +10,9 @@
   {
     "title": "Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
     "source": "Hacker News",
-    "description": "HN Score: 732 | 180 comments",
+    "description": "HN Score: 740 | 181 comments",
     "url": "https://github.com/ggml-org/llama.cpp/discussions/19759",
-    "score": 732,
+    "score": 740,
     "date": "2026-02-21",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "Lean 4: How the theorem prover works and why it's the new competitive edge in AI",
     "source": "Hacker News",
-    "description": "HN Score: 20 | 6 comments",
+    "description": "HN Score: 35 | 20 comments",
     "url": "https://venturebeat.com/ai/lean4-how-the-theorem-prover-works-and-why-its-the-new-competitive-edge-in",
-    "score": 20,
+    "score": 35,
     "date": "2026-02-21",
     "category": "AI News"
   },
@@ -44,26 +44,26 @@
   {
     "title": "Every company building your AI assistant is now an ad company",
     "source": "Hacker News",
-    "description": "HN Score: 178 | 88 comments",
+    "description": "HN Score: 192 | 101 comments",
     "url": "https://juno-labs.com/blogs/every-company-building-your-ai-assistant-is-an-ad-company",
-    "score": 178,
+    "score": 192,
     "date": "2026-02-21",
     "category": "AI News"
   },
   {
-    "title": "R to @DrJimFan: Check out @ShenyuanGao's technical deep dive: https://x.com/ShenyuanGao/status/2024898256334114876?s=20",
+    "title": "Announcing DreamDojo: our open-source, interactive world model that takes robot motor controls and generates the future in pixels. No engine, no meshe",
     "source": "@DrJimFan",
     "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2024899289080910046#m",
+    "url": "https://nitter.net/DrJimFan/status/2024895359236051274#m",
     "date": "2026-02-21",
     "category": "Twitter"
   },
   {
     "title": "Cord: Coordinating Trees of AI Agents",
     "source": "Hacker News",
-    "description": "HN Score: 85 | 41 comments",
+    "description": "HN Score: 100 | 42 comments",
     "url": "https://www.june.kim/cord",
-    "score": 85,
+    "score": 100,
     "date": "2026-02-21",
     "category": "AI News"
   },
@@ -76,11 +76,28 @@
     "category": "Twitter"
   },
   {
+    "title": "Large Language Model Reasoning Failures",
+    "source": "Hacker News",
+    "description": "HN Score: 5 | 2 comments",
+    "url": "https://arxiv.org/abs/2602.06176",
+    "score": 5,
+    "date": "2026-02-21",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: Don't trust AI agents. They are unreliable, and if you can't see what they are doing, you can't improve, debug, or trust them. Most tea",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2024962874146521255#m",
+    "date": "2026-02-21",
+    "category": "Twitter"
+  },
+  {
     "title": "The path to ubiquitous AI (17k tokens/sec)",
     "source": "Hacker News",
-    "description": "HN Score: 729 | 409 comments",
+    "description": "HN Score: 746 | 414 comments",
     "url": "https://taalas.com/the-path-to-ubiquitous-ai/",
-    "score": 729,
+    "score": 746,
     "date": "2026-02-21",
     "category": "AI News"
   },
@@ -95,26 +112,9 @@
   {
     "title": "Making frontier cybersecurity capabilities available to defenders",
     "source": "Hacker News",
-    "description": "HN Score: 114 | 52 comments",
+    "description": "HN Score: 118 | 51 comments",
     "url": "https://www.anthropic.com/news/claude-code-security",
-    "score": 114,
-    "date": "2026-02-21",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: Reading one guide after another before you start building your idea is just procrastination in disguise. Go make something happen. Brea",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2024835190540145079#m",
-    "date": "2026-02-21",
-    "category": "Twitter"
-  },
-  {
-    "title": "Meta Deployed AI and It Is Killing Our Agency",
-    "source": "Hacker News",
-    "description": "HN Score: 131 | 81 comments",
-    "url": "https://mojodojo.io/blog/meta-is-systematically-killing-our-agency/",
-    "score": 131,
+    "score": 118,
     "date": "2026-02-21",
     "category": "AI News"
   },
@@ -129,9 +129,9 @@
   {
     "title": "Building a model that visualizes strategic golf",
     "source": "Hacker News",
-    "description": "HN Score: 55 | 16 comments",
+    "description": "HN Score: 56 | 16 comments",
     "url": "https://golfcoursewiki.substack.com/p/i-spent-the-last-month-and-a-half",
-    "score": 55,
+    "score": 56,
     "date": "2026-02-21",
     "category": "AI News"
   },
@@ -146,18 +146,9 @@
   {
     "title": "The Rediscovery of 103 Hokusai Lost Sketches (2021)",
     "source": "Hacker News",
-    "description": "HN Score: 64 | 7 comments",
+    "description": "HN Score: 65 | 7 comments",
     "url": "https://japan-forward.com/eternal-hokusai-the-rediscovery-of-103-hokusai-lost-sketches/",
-    "score": 64,
-    "date": "2026-02-21",
-    "category": "AI News"
-  },
-  {
-    "title": "Jetbrains released skills for Claude Code to write modern Go code",
-    "source": "Hacker News",
-    "description": "HN Score: 5 | 1 comments",
-    "url": "https://blog.jetbrains.com/go/2026/02/20/write-modern-go-code-with-junie-and-claude-code/",
-    "score": 5,
+    "score": 65,
     "date": "2026-02-21",
     "category": "AI News"
   }
