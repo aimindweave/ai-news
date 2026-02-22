@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "How Taalas \u201cprints\u201d LLM onto a chip?",
+    "title": "We hid backdoors in ~40MB binaries and asked AI + Ghidra to find them",
     "source": "Hacker News",
-    "description": "HN Score: 262 | 130 comments",
-    "url": "https://www.anuragk.com/blog/posts/Taalas.html",
-    "score": 262,
+    "description": "HN Score: 84 | 30 comments",
+    "url": "https://quesma.com/blog/introducing-binaryaudit/",
+    "score": 84,
     "date": "2026-02-22",
     "category": "AI News"
   },
@@ -25,11 +25,28 @@
     "category": "Twitter"
   },
   {
-    "title": "How I use Claude Code: Separation of planning and execution",
+    "title": "How Taalas \u201cprints\u201d LLM onto a chip?",
     "source": "Hacker News",
-    "description": "HN Score: 708 | 446 comments",
-    "url": "https://boristane.com/blog/how-i-use-claude-code/",
-    "score": 708,
+    "description": "HN Score: 305 | 164 comments",
+    "url": "https://www.anuragk.com/blog/posts/Taalas.html",
+    "score": 305,
+    "date": "2026-02-22",
+    "category": "AI News"
+  },
+  {
+    "title": "May I interest you all in my new book",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/EMostaque/status/2025592050796626134#m",
+    "date": "2026-02-22",
+    "category": "Twitter"
+  },
+  {
+    "title": "Man accidentally gains control of 7k robot vacuums",
+    "source": "Hacker News",
+    "description": "HN Score: 56 | 37 comments",
+    "url": "https://www.popsci.com/technology/robot-vacuum-army/",
+    "score": 56,
     "date": "2026-02-22",
     "category": "AI News"
   },
@@ -42,45 +59,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Claws are now a new layer on top of LLM agents",
+    "title": "Minions: Stripe's one-shot, end-to-end coding agents \u2013 Stripe Dot Dev Blog",
     "source": "Hacker News",
-    "description": "HN Score: 346 | 789 comments",
-    "url": "https://twitter.com/karpathy/status/2024987174077432126",
-    "score": 346,
+    "description": "HN Score: 77 | 64 comments",
+    "url": "https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents",
+    "score": 77,
     "date": "2026-02-22",
     "category": "AI News"
   },
   {
-    "title": "RT by @EMostaque: amazon's internal A.I. coding assistant decided the engineers' existing code was inadequate so the bot deleted it to start from scra",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/MikeIsaac/status/2024936195881570620#m",
-    "date": "2026-02-22",
-    "category": "Twitter"
-  },
-  {
-    "title": "zclaw: personal AI assistant in under 888 KB, running on an ESP32",
-    "source": "Hacker News",
-    "description": "HN Score: 213 | 116 comments",
-    "url": "https://github.com/tnm/zclaw",
-    "score": 213,
-    "date": "2026-02-22",
-    "category": "AI News"
-  },
-  {
-    "title": "R to @DrJimFan: Check out @ShenyuanGao's technical deep dive: https://x.com/ShenyuanGao/status/2024898256334114876?s=20",
+    "title": "Announcing DreamDojo: our open-source, interactive world model that takes robot motor controls and generates the future in pixels. No engine, no meshe",
     "source": "@DrJimFan",
     "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2024899289080910046#m",
+    "url": "https://nitter.net/DrJimFan/status/2024895359236051274#m",
     "date": "2026-02-22",
     "category": "Twitter"
   },
   {
-    "title": "CXMT has been offering DDR4 chips at about half the prevailing market rate",
+    "title": "How I use Claude Code: Separation of planning and execution",
     "source": "Hacker News",
-    "description": "HN Score: 225 | 220 comments",
-    "url": "https://www.koreaherald.com/article/10679206",
-    "score": 225,
+    "description": "HN Score: 767 | 490 comments",
+    "url": "https://boristane.com/blog/how-i-use-claude-code/",
+    "score": 767,
     "date": "2026-02-22",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Toyota\u2019s hydrogen-powered Mirai has experienced rapid depreciation",
+    "title": "Claws are now a new layer on top of LLM agents",
     "source": "Hacker News",
-    "description": "HN Score: 160 | 388 comments",
-    "url": "https://carbuzz.com/toyota-mirai-massive-depreciation-one-year/",
-    "score": 160,
+    "description": "HN Score: 361 | 825 comments",
+    "url": "https://twitter.com/karpathy/status/2024987174077432126",
+    "score": 361,
     "date": "2026-02-22",
     "category": "AI News"
   },
@@ -110,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Minions: Stripe's one-shot, end-to-end coding agents \u2013 Stripe Dot Dev Blog",
+    "title": "zclaw: personal AI assistant in under 888 KB, running on an ESP32",
     "source": "Hacker News",
-    "description": "HN Score: 53 | 51 comments",
-    "url": "https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents",
-    "score": 53,
+    "description": "HN Score: 230 | 124 comments",
+    "url": "https://github.com/tnm/zclaw",
+    "score": 230,
     "date": "2026-02-22",
     "category": "AI News"
   },
@@ -127,11 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Met police using AI tools supplied by Palantir to flag officer misconduct",
+    "title": "CXMT has been offering DDR4 chips at about half the prevailing market rate",
     "source": "Hacker News",
-    "description": "HN Score: 8 | 1 comments",
-    "url": "https://www.theguardian.com/uk-news/2026/feb/22/met-police-ai-tools-officer-misconduct-palantir",
-    "score": 8,
+    "description": "HN Score: 238 | 244 comments",
+    "url": "https://www.koreaherald.com/article/10679206",
+    "score": 238,
     "date": "2026-02-22",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "AI uBlock Blacklist",
+    "title": "Show HN: TLA+ Workbench skill for coding agents (compat. with Vercel skills CLI)",
     "source": "Hacker News",
-    "description": "HN Score: 259 | 113 comments",
-    "url": "https://github.com/alvi-se/ai-ublock-blacklist",
-    "score": 259,
+    "description": "HN Score: 7 | 1 comments",
+    "url": "https://github.com/younes-io/agent-skills/tree/main/skills/tlaplus-workbench",
+    "score": 7,
     "date": "2026-02-22",
     "category": "AI News"
   },
@@ -159,5 +159,14 @@
     "url": "https://nitter.net/bindureddy/status/2025334086936789058#m",
     "date": "2026-02-22",
     "category": "Twitter"
+  },
+  {
+    "title": "Toyota\u2019s hydrogen-powered Mirai has experienced rapid depreciation",
+    "source": "Hacker News",
+    "description": "HN Score: 166 | 416 comments",
+    "url": "https://carbuzz.com/toyota-mirai-massive-depreciation-one-year/",
+    "score": 166,
+    "date": "2026-02-22",
+    "category": "AI News"
   }
 ]
