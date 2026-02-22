@@ -10,9 +10,9 @@
   {
     "title": "How I use Claude Code: Separation of planning and execution",
     "source": "Hacker News",
-    "description": "HN Score: 250 | 152 comments",
+    "description": "HN Score: 411 | 247 comments",
     "url": "https://boristane.com/blog/how-i-use-claude-code/",
-    "score": 250,
+    "score": 411,
     "date": "2026-02-22",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "zclaw: personal AI assistant in under 888 KB, running on an ESP32",
+    "title": "How Taalas 'prints' LLM onto a chip?",
     "source": "Hacker News",
-    "description": "HN Score: 134 | 76 comments",
-    "url": "https://github.com/tnm/zclaw",
-    "score": 134,
+    "description": "HN Score: 69 | 25 comments",
+    "url": "https://www.anuragk.com/blog/posts/Taalas.html",
+    "score": 69,
     "date": "2026-02-22",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "CXMT has been offering DDR4 chips at about half the prevailing market rate",
+    "title": "zclaw: personal AI assistant in under 888 KB, running on an ESP32",
     "source": "Hacker News",
-    "description": "HN Score: 176 | 160 comments",
-    "url": "https://www.koreaherald.com/article/10679206",
-    "score": 176,
+    "description": "HN Score: 151 | 81 comments",
+    "url": "https://github.com/tnm/zclaw",
+    "score": 151,
     "date": "2026-02-22",
     "category": "AI News"
   },
@@ -61,26 +61,26 @@
   {
     "title": "Claws are now a new layer on top of LLM agents",
     "source": "Hacker News",
-    "description": "HN Score: 237 | 675 comments",
+    "description": "HN Score: 267 | 717 comments",
     "url": "https://twitter.com/karpathy/status/2024987174077432126",
-    "score": 237,
+    "score": 267,
     "date": "2026-02-22",
     "category": "AI News"
   },
   {
-    "title": "R to @DrJimFan: Check out @ShenyuanGao's technical deep dive: https://x.com/ShenyuanGao/status/2024898256334114876?s=20",
+    "title": "Announcing DreamDojo: our open-source, interactive world model that takes robot motor controls and generates the future in pixels. No engine, no meshe",
     "source": "@DrJimFan",
     "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2024899289080910046#m",
+    "url": "https://nitter.net/DrJimFan/status/2024895359236051274#m",
     "date": "2026-02-22",
     "category": "Twitter"
   },
   {
-    "title": "Toyota Mirai hydrogen car depreciation: 65% value loss in a year",
+    "title": "CXMT has been offering DDR4 chips at about half the prevailing market rate",
     "source": "Hacker News",
-    "description": "HN Score: 124 | 281 comments",
-    "url": "https://carbuzz.com/toyota-mirai-massive-depreciation-one-year/",
-    "score": 124,
+    "description": "HN Score: 193 | 176 comments",
+    "url": "https://www.koreaherald.com/article/10679206",
+    "score": 193,
     "date": "2026-02-22",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Uncovering insiders and alpha on Polymarket with AI",
+    "title": "Toyota Mirai hydrogen car depreciation: 65% value loss in a year",
     "source": "Hacker News",
-    "description": "HN Score: 140 | 130 comments",
-    "url": "https://twitter.com/peterjliu/status/2024901585806225723",
-    "score": 140,
+    "description": "HN Score: 133 | 306 comments",
+    "url": "https://carbuzz.com/toyota-mirai-massive-depreciation-one-year/",
+    "score": 133,
     "date": "2026-02-22",
     "category": "AI News"
   },
@@ -110,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "AI uBlock Blacklist",
+    "title": "The Human Root of Trust \u2013 public domain framework for agent accountability",
     "source": "Hacker News",
-    "description": "HN Score: 239 | 107 comments",
-    "url": "https://github.com/alvi-se/ai-ublock-blacklist",
-    "score": 239,
+    "description": "HN Score: 11 | 5 comments",
+    "url": "https://humanrootoftrust.org/",
+    "score": 11,
     "date": "2026-02-22",
     "category": "AI News"
   },
@@ -127,45 +127,29 @@
     "category": "Twitter"
   },
   {
-    "title": "The Internet Is Becoming a Dark Forest \u2013 and AI Is the Hunter",
+    "title": "AI uBlock Blacklist",
     "source": "Hacker News",
-    "description": "HN Score: 21 | 22 comments",
-    "url": "https://opennhp.org/blog/the-internet-is-becoming-a-dark-forest.html",
-    "score": 21,
+    "description": "HN Score: 244 | 108 comments",
+    "url": "https://github.com/alvi-se/ai-ublock-blacklist",
+    "score": 244,
     "date": "2026-02-22",
     "category": "AI News"
   },
   {
-    "title": "Open source is shaping up to be the only real competition to Anthropic in the long run. Open source has a 10x price advantage while being extremely co",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2025334086936789058#m",
+    "title": "Microsoft throws spox under the bus in ICC email flap",
+    "source": "Hacker News",
+    "description": "HN Score: 8 | 0 comments",
+    "url": "https://www.theregister.com/2026/02/18/microsoft_asks_uk_parliament_to_correct_record/",
+    "score": 8,
     "date": "2026-02-22",
-    "category": "Twitter"
+    "category": "AI News"
   },
   {
     "title": "Lean 4: How the theorem prover works and why it's the new competitive edge in AI",
     "source": "Hacker News",
-    "description": "HN Score: 130 | 60 comments",
+    "description": "HN Score: 131 | 61 comments",
     "url": "https://venturebeat.com/ai/lean4-how-the-theorem-prover-works-and-why-its-the-new-competitive-edge-in",
-    "score": 130,
-    "date": "2026-02-22",
-    "category": "AI News"
-  },
-  {
-    "title": "Gemini 3.1 is a good model but it\u2019s not as good as benchmarks show Real world quality evals have it below Sonnet 4.6 That said its priced very well an",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2025243164798583059#m",
-    "date": "2026-02-22",
-    "category": "Twitter"
-  },
-  {
-    "title": "I'm #1 on Google thanks to AI bullshit [video]",
-    "source": "Hacker News",
-    "description": "HN Score: 18 | 0 comments",
-    "url": "https://www.youtube.com/watch?v=6uKZ84zwJI0",
-    "score": 18,
+    "score": 131,
     "date": "2026-02-22",
     "category": "AI News"
   }
