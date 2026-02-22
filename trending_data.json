@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "We hid backdoors in ~40MB binaries and asked AI + Ghidra to find them",
+    "title": "Spain has blocked access to freedom.gov",
     "source": "Hacker News",
-    "description": "HN Score: 150 | 60 comments",
-    "url": "https://quesma.com/blog/introducing-binaryaudit/",
-    "score": 150,
+    "description": "HN Score: 25 | 2 comments",
+    "url": "https://twitter.com/Pirat_Nation/status/2025643188321714642",
+    "score": 25,
     "date": "2026-02-22",
     "category": "AI News"
   },
@@ -25,11 +25,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Man accidentally gains control of 7k robot vacuums",
+    "title": "Symplex, an open-source protocol semantic negotiation between distributed agents",
     "source": "Hacker News",
-    "description": "HN Score: 119 | 69 comments",
-    "url": "https://www.popsci.com/technology/robot-vacuum-army/",
-    "score": 119,
+    "description": "HN Score: 8 | 3 comments",
+    "url": "https://github.com/olserra/symplex",
+    "score": 8,
+    "date": "2026-02-22",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: I like to give Claude breaks between coding sessions to do whatever he wants- And he made his own folder called 'Claudes Corner' \ud83e\udd79 H",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/d33v33d0/status/2025320415808422145#m",
+    "date": "2026-02-22",
+    "category": "Twitter"
+  },
+  {
+    "title": "NanoClaw Moved from Apple Containers to Docker",
+    "source": "Hacker News",
+    "description": "HN Score: 49 | 31 comments",
+    "url": "https://twitter.com/Gavriel_Cohen/status/2025603982769410356",
+    "score": 49,
     "date": "2026-02-22",
     "category": "AI News"
   },
@@ -42,28 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "How Taalas \u201cprints\u201d LLM onto a chip?",
+    "title": "We hid backdoors in ~40MB binaries and asked AI + Ghidra to find them",
     "source": "Hacker News",
-    "description": "HN Score: 339 | 205 comments",
-    "url": "https://www.anuragk.com/blog/posts/Taalas.html",
-    "score": 339,
-    "date": "2026-02-22",
-    "category": "AI News"
-  },
-  {
-    "title": "Something folk haven't figured out: 15,000 tokens/second speed and million token context windows aren't for humans They are for the AIs to talk to eac",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/EMostaque/status/2025209897252454459#m",
-    "date": "2026-02-22",
-    "category": "Twitter"
-  },
-  {
-    "title": "How I use Claude Code: Separation of planning and execution",
-    "source": "Hacker News",
-    "description": "HN Score: 813 | 518 comments",
-    "url": "https://boristane.com/blog/how-i-use-claude-code/",
-    "score": 813,
+    "description": "HN Score: 176 | 73 comments",
+    "url": "https://quesma.com/blog/introducing-binaryaudit/",
+    "score": 176,
     "date": "2026-02-22",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: TLA+ Workbench skill for coding agents (compat. with Vercel skills CLI)",
+    "title": "How Taalas \u201cprints\u201d LLM onto a chip?",
     "source": "Hacker News",
-    "description": "HN Score: 19 | 2 comments",
-    "url": "https://github.com/younes-io/agent-skills/tree/main/skills/tlaplus-workbench",
-    "score": 19,
+    "description": "HN Score: 371 | 225 comments",
+    "url": "https://www.anuragk.com/blog/posts/Taalas.html",
+    "score": 371,
     "date": "2026-02-22",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "zclaw: personal AI assistant in under 888 KB, running on an ESP32",
+    "title": "Man accidentally gains control of 7k robot vacuums",
     "source": "Hacker News",
-    "description": "HN Score: 245 | 133 comments",
-    "url": "https://github.com/tnm/zclaw",
-    "score": 245,
+    "description": "HN Score: 146 | 93 comments",
+    "url": "https://www.popsci.com/technology/robot-vacuum-army/",
+    "score": 146,
     "date": "2026-02-22",
     "category": "AI News"
   },
@@ -110,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Claws are now a new layer on top of LLM agents",
+    "title": "'Peanut butter' pay raises could cost companies their top performers",
     "source": "Hacker News",
-    "description": "HN Score: 376 | 845 comments",
-    "url": "https://twitter.com/karpathy/status/2024987174077432126",
-    "score": 376,
+    "description": "HN Score: 12 | 9 comments",
+    "url": "https://www.cnbc.com/2026/02/22/peanut-butter-pay-raises-could-cost-companies-their-top-performers-according-to-experts-its-such-a-shortsighted-strategy.html",
+    "score": 12,
     "date": "2026-02-22",
     "category": "AI News"
   },
@@ -127,11 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "CXMT has been offering DDR4 chips at about half the prevailing market rate",
+    "title": "How I use Claude Code: Separation of planning and execution",
     "source": "Hacker News",
-    "description": "HN Score: 252 | 255 comments",
-    "url": "https://www.koreaherald.com/article/10679206",
-    "score": 252,
+    "description": "HN Score: 850 | 534 comments",
+    "url": "https://boristane.com/blog/how-i-use-claude-code/",
+    "score": 850,
     "date": "2026-02-22",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Amazon, Meta, Alphabet report plunging tax bills thanks to AI and tax changes",
+    "title": "Show HN: TLA+ Workbench skill for coding agents (compat. with Vercel skills CLI)",
     "source": "Hacker News",
-    "description": "HN Score: 15 | 9 comments",
-    "url": "https://finance.yahoo.com/news/amazon-meta-and-alphabet-report-plunging-tax-bills-thanks-to-ai-investment-and-new-rules-in-washington-161229652.html",
-    "score": 15,
+    "description": "HN Score: 26 | 2 comments",
+    "url": "https://github.com/younes-io/agent-skills/tree/main/skills/tlaplus-workbench",
+    "score": 26,
     "date": "2026-02-22",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Toyota\u2019s hydrogen-powered Mirai has experienced rapid depreciation",
+    "title": "zclaw: personal AI assistant in under 888 KB, running on an ESP32",
     "source": "Hacker News",
-    "description": "HN Score: 167 | 443 comments",
-    "url": "https://carbuzz.com/toyota-mirai-massive-depreciation-one-year/",
-    "score": 167,
+    "description": "HN Score: 257 | 137 comments",
+    "url": "https://github.com/tnm/zclaw",
+    "score": 257,
     "date": "2026-02-22",
     "category": "AI News"
   }
