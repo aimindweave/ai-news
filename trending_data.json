@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Spain has blocked access to freedom.gov",
+    "title": "NanoClaw Moved from Apple Containers to Docker",
     "source": "Hacker News",
-    "description": "HN Score: 25 | 2 comments",
-    "url": "https://twitter.com/Pirat_Nation/status/2025643188321714642",
-    "score": 25,
+    "description": "HN Score: 82 | 56 comments",
+    "url": "https://twitter.com/Gavriel_Cohen/status/2025603982769410356",
+    "score": 82,
     "date": "2026-02-22",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "Symplex, an open-source protocol semantic negotiation between distributed agents",
     "source": "Hacker News",
-    "description": "HN Score: 8 | 3 comments",
+    "description": "HN Score: 10 | 12 comments",
     "url": "https://github.com/olserra/symplex",
-    "score": 8,
+    "score": 10,
     "date": "2026-02-22",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "NanoClaw Moved from Apple Containers to Docker",
+    "title": "We hid backdoors in ~40MB binaries and asked AI + Ghidra to find them",
     "source": "Hacker News",
-    "description": "HN Score: 49 | 31 comments",
-    "url": "https://twitter.com/Gavriel_Cohen/status/2025603982769410356",
-    "score": 49,
+    "description": "HN Score: 195 | 86 comments",
+    "url": "https://quesma.com/blog/introducing-binaryaudit/",
+    "score": 195,
     "date": "2026-02-22",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "We hid backdoors in ~40MB binaries and asked AI + Ghidra to find them",
+    "title": "I was wrong about AI",
     "source": "Hacker News",
-    "description": "HN Score: 176 | 73 comments",
-    "url": "https://quesma.com/blog/introducing-binaryaudit/",
-    "score": 176,
+    "description": "HN Score: 3 | 0 comments",
+    "url": "https://beabetterdev.com/2026/02/21/i-was-wrong-about-ai/",
+    "score": 3,
     "date": "2026-02-22",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "How Taalas \u201cprints\u201d LLM onto a chip?",
+    "title": "'Peanut butter' pay raises could cost companies their top performers",
     "source": "Hacker News",
-    "description": "HN Score: 371 | 225 comments",
-    "url": "https://www.anuragk.com/blog/posts/Taalas.html",
-    "score": 371,
+    "description": "HN Score: 33 | 29 comments",
+    "url": "https://www.cnbc.com/2026/02/22/peanut-butter-pay-raises-could-cost-companies-their-top-performers-according-to-experts-its-such-a-shortsighted-strategy.html",
+    "score": 33,
     "date": "2026-02-22",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Man accidentally gains control of 7k robot vacuums",
+    "title": "Show HN: TLA+ Workbench skill for coding agents (compat. with Vercel skills CLI)",
     "source": "Hacker News",
-    "description": "HN Score: 146 | 93 comments",
-    "url": "https://www.popsci.com/technology/robot-vacuum-army/",
-    "score": 146,
+    "description": "HN Score: 29 | 2 comments",
+    "url": "https://github.com/younes-io/agent-skills/tree/main/skills/tlaplus-workbench",
+    "score": 29,
     "date": "2026-02-22",
     "category": "AI News"
   },
@@ -110,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "'Peanut butter' pay raises could cost companies their top performers",
+    "title": "Man accidentally gains control of 7k robot vacuums",
     "source": "Hacker News",
-    "description": "HN Score: 12 | 9 comments",
-    "url": "https://www.cnbc.com/2026/02/22/peanut-butter-pay-raises-could-cost-companies-their-top-performers-according-to-experts-its-such-a-shortsighted-strategy.html",
-    "score": 12,
+    "description": "HN Score: 162 | 109 comments",
+    "url": "https://www.popsci.com/technology/robot-vacuum-army/",
+    "score": 162,
     "date": "2026-02-22",
     "category": "AI News"
   },
@@ -127,11 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "How I use Claude Code: Separation of planning and execution",
+    "title": "Building a (Bad) Local AI Coding Agent Harness from Scratch",
     "source": "Hacker News",
-    "description": "HN Score: 850 | 534 comments",
-    "url": "https://boristane.com/blog/how-i-use-claude-code/",
-    "score": 850,
+    "description": "HN Score: 8 | 1 comments",
+    "url": "https://www.appsoftware.com/blog/building-a-bad-local-ai-coding-agent-harness-from-scratch",
+    "score": 8,
     "date": "2026-02-22",
     "category": "AI News"
   },
@@ -144,29 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: TLA+ Workbench skill for coding agents (compat. with Vercel skills CLI)",
-    "source": "Hacker News",
-    "description": "HN Score: 26 | 2 comments",
-    "url": "https://github.com/younes-io/agent-skills/tree/main/skills/tlaplus-workbench",
-    "score": 26,
-    "date": "2026-02-22",
-    "category": "AI News"
-  },
-  {
     "title": "Open source is shaping up to be the only real competition to Anthropic in the long run. Open source has a 10x price advantage while being extremely co",
     "source": "@bindureddy",
     "description": "",
     "url": "https://nitter.net/bindureddy/status/2025334086936789058#m",
     "date": "2026-02-22",
     "category": "Twitter"
-  },
-  {
-    "title": "zclaw: personal AI assistant in under 888 KB, running on an ESP32",
-    "source": "Hacker News",
-    "description": "HN Score: 257 | 137 comments",
-    "url": "https://github.com/tnm/zclaw",
-    "score": 257,
-    "date": "2026-02-22",
-    "category": "AI News"
   }
 ]
