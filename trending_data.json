@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Firefox 148 Launches with AI Kill Switch Feature and More Enhancements",
+    "title": "Show HN: enveil \u2013 hide your .env secrets from prAIng eyes",
     "source": "Hacker News",
-    "description": "HN Score: 139 | 99 comments",
-    "url": "https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/",
-    "score": 139,
+    "description": "HN Score: 95 | 55 comments",
+    "url": "https://github.com/GreatScott/enveil",
+    "score": 95,
     "date": "2026-02-24",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: enveil \u2013 hide your .env secrets from prAIng eyes",
+    "title": "Firefox 148 Launches with AI Kill Switch Feature and More Enhancements",
     "source": "Hacker News",
-    "description": "HN Score: 41 | 26 comments",
-    "url": "https://github.com/GreatScott/enveil",
-    "score": 41,
+    "description": "HN Score: 298 | 245 comments",
+    "url": "https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/",
+    "score": 298,
     "date": "2026-02-24",
     "category": "AI News"
   },
@@ -44,9 +44,9 @@
   {
     "title": "Show HN: Steerling-8B, a language model that can explain any token it generates",
     "source": "Hacker News",
-    "description": "HN Score: 125 | 17 comments",
+    "description": "HN Score: 185 | 44 comments",
     "url": "https://www.guidelabs.ai/post/steerling-8b-base-model-release/",
-    "score": 125,
+    "score": 185,
     "date": "2026-02-24",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Making Wolfram Tech Available as a Foundation Tool for LLM Systems",
+    "title": "Making Wolfram tech available as a foundation tool for LLM systems",
     "source": "Hacker News",
-    "description": "HN Score: 144 | 77 comments",
+    "description": "HN Score: 188 | 106 comments",
     "url": "https://writings.stephenwolfram.com/2026/02/making-wolfram-tech-available-as-a-foundation-tool-for-llm-systems/",
-    "score": 144,
+    "score": 188,
     "date": "2026-02-24",
     "category": "AI News"
   },
@@ -78,9 +78,9 @@
   {
     "title": "\u201cCar Wash\u201d test with 53 models",
     "source": "Hacker News",
-    "description": "HN Score: 196 | 218 comments",
+    "description": "HN Score: 251 | 312 comments",
     "url": "https://opper.ai/blog/car-wash-test",
-    "score": 196,
+    "score": 251,
     "date": "2026-02-24",
     "category": "AI News"
   },
@@ -95,9 +95,26 @@
   {
     "title": "Ladybird adopts Rust, with help from AI",
     "source": "Hacker News",
-    "description": "HN Score: 1148 | 631 comments",
+    "description": "HN Score: 1188 | 659 comments",
     "url": "https://ladybird.org/posts/adopting-rust/",
-    "score": 1148,
+    "score": 1188,
+    "date": "2026-02-24",
+    "category": "AI News"
+  },
+  {
+    "title": "This is big: This chip is 5x faster than other chips, and you can run your agentic apps 3x cheaper than GPUs.",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2026264313699172386#m",
+    "date": "2026-02-24",
+    "category": "Twitter"
+  },
+  {
+    "title": "FreeBSD doesn't have Wi-Fi driver for my old MacBook, so AI built one for me",
+    "source": "Hacker News",
+    "description": "HN Score: 379 | 307 comments",
+    "url": "https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/",
+    "score": 379,
     "date": "2026-02-24",
     "category": "AI News"
   },
@@ -110,28 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "FreeBSD doesn't have Wi-Fi driver for my old MacBook, so AI built one for me",
-    "source": "Hacker News",
-    "description": "HN Score: 343 | 281 comments",
-    "url": "https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/",
-    "score": 343,
-    "date": "2026-02-24",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: I've built authentication and authorization flows probably a hundred times over the last few years. Same patterns. Same flows. Same bor",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2025933720868495448#m",
-    "date": "2026-02-24",
-    "category": "Twitter"
-  },
-  {
     "title": "Iowa farmers are leading the fight for repair",
     "source": "Hacker News",
-    "description": "HN Score: 105 | 23 comments",
+    "description": "HN Score: 138 | 36 comments",
     "url": "https://www.ifixit.com/News/115722/iowa-farmers-are-leading-the-fight-for-repair",
-    "score": 105,
+    "score": 138,
     "date": "2026-02-24",
     "category": "AI News"
   },
@@ -146,9 +146,9 @@
   {
     "title": "Show HN: AI Timeline \u2013 171 LLMs from Transformer (2017) to GPT-5.3 (2026)",
     "source": "Hacker News",
-    "description": "HN Score: 157 | 55 comments",
+    "description": "HN Score: 160 | 55 comments",
     "url": "https://llm-timeline.com/",
-    "score": 157,
+    "score": 160,
     "date": "2026-02-24",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "NIST Seeking Public Comment on AI Agent Security (Deadline: March 9, 2026)",
+    "title": "Microsoft execs worry AI will eat entry level coding jobs",
     "source": "Hacker News",
-    "description": "HN Score: 44 | 10 comments",
-    "url": "https://www.federalregister.gov/documents/2026/01/08/2026-00206/request-for-information-regarding-security-considerations-for-artificial-intelligence-agents",
-    "score": 44,
+    "description": "HN Score: 10 | 3 comments",
+    "url": "https://www.theregister.com/2026/02/23/microsoft_ai_entry_level_russinovich_hanselman/",
+    "score": 10,
     "date": "2026-02-24",
     "category": "AI News"
   }
