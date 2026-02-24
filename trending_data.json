@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "HuggingFace Agent Skills",
+    "title": "How we rebuilt Next.js with AI in one week",
     "source": "Hacker News",
-    "description": "HN Score: 101 | 33 comments",
-    "url": "https://github.com/huggingface/skills",
-    "score": 101,
+    "description": "HN Score: 230 | 57 comments",
+    "url": "https://blog.cloudflare.com/vinext/",
+    "score": 230,
     "date": "2026-02-24",
     "category": "AI News"
   },
@@ -25,11 +25,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Manjaro website off-line again due to lapsed certificate",
+    "title": "Show HN: Moonshine Open-Weights STT models \u2013 higher accuracy than WhisperLargev3",
     "source": "Hacker News",
-    "description": "HN Score: 33 | 11 comments",
-    "url": "https://distrowatch.com/dwres.php?resource=showheadline&story=20140",
-    "score": 33,
+    "description": "HN Score: 27 | 4 comments",
+    "url": "https://github.com/moonshine-ai/moonshine",
+    "score": 27,
+    "date": "2026-02-24",
+    "category": "AI News"
+  },
+  {
+    "title": "Honestly with the impending launch of @SpaceX money @elonmusk should just buy PayPal Amusingly the market cap today is\u2026 $44bn Would be kinda poetic gi",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/EMostaque/status/2026432352801452098#m",
+    "date": "2026-02-24",
+    "category": "Twitter"
+  },
+  {
+    "title": "Show HN: Emdash \u2013 Open-source agentic development environment",
+    "source": "Hacker News",
+    "description": "HN Score: 80 | 32 comments",
+    "url": "https://github.com/generalaction/emdash",
+    "score": 80,
     "date": "2026-02-24",
     "category": "AI News"
   },
@@ -42,45 +59,28 @@
     "category": "Twitter"
   },
   {
-    "title": "How we rebuilt Next.js with AI in one week",
+    "title": "Manjaro website off-line again due to lapsed certificate",
     "source": "Hacker News",
-    "description": "HN Score: 65 | 8 comments",
-    "url": "https://blog.cloudflare.com/vinext/",
-    "score": 65,
+    "description": "HN Score: 48 | 26 comments",
+    "url": "https://distrowatch.com/dwres.php?resource=showheadline&story=20140",
+    "score": 48,
     "date": "2026-02-24",
     "category": "AI News"
   },
   {
-    "title": "RT by @EMostaque: It gives the maintainers of the Sphere Packing Project great pleasure to announce a major milestone in the formalization effort: we ",
-    "source": "@EMostaque",
+    "title": "R to @DrJimFan: And @yukez 's announcement: https://x.com/yukez/status/2024639427788857707?s=20",
+    "source": "@DrJimFan",
     "description": "",
-    "url": "https://nitter.net/SidharthHariha1/status/2025988293230223573#m",
+    "url": "https://nitter.net/DrJimFan/status/2026350146066493831#m",
     "date": "2026-02-24",
     "category": "Twitter"
   },
   {
     "title": "IRS Tactics Against Meta Open a New Front in the Corporate Tax Fight",
     "source": "Hacker News",
-    "description": "HN Score: 164 | 179 comments",
+    "description": "HN Score: 171 | 188 comments",
     "url": "https://www.nytimes.com/2026/02/24/business/irs-meta-corporate-taxes.html",
-    "score": 164,
-    "date": "2026-02-24",
-    "category": "AI News"
-  },
-  {
-    "title": "What can half of GPT-1 do? We trained a 42M transformer called SONIC to control the body of a humanoid robot. It takes a remarkable amount of subconsc",
-    "source": "@DrJimFan",
-    "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2026350142652383587#m",
-    "date": "2026-02-24",
-    "category": "Twitter"
-  },
-  {
-    "title": "Show HN: Emdash \u2013 Open-source agentic development environment",
-    "source": "Hacker News",
-    "description": "HN Score: 57 | 27 comments",
-    "url": "https://github.com/generalaction/emdash",
-    "score": 57,
+    "score": 171,
     "date": "2026-02-24",
     "category": "AI News"
   },
@@ -89,6 +89,23 @@
     "source": "@DrJimFan",
     "description": "",
     "url": "https://nitter.net/DrJimFan/status/2026350144300658891#m",
+    "date": "2026-02-24",
+    "category": "Twitter"
+  },
+  {
+    "title": "Dream Recorder AI \u2013 a portal to your subconscious",
+    "source": "Hacker News",
+    "description": "HN Score: 5 | 4 comments",
+    "url": "https://dreamrecorder.ai/",
+    "score": 5,
+    "date": "2026-02-24",
+    "category": "AI News"
+  },
+  {
+    "title": "I'm giving instructions to my AI agents at 115wpm. I can speak almost 2x as fast as I can type now. @WisprFlow is the biggest unlock I've found over t",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2026389187126243369#m",
     "date": "2026-02-24",
     "category": "Twitter"
   },
@@ -102,6 +119,23 @@
     "category": "AI News"
   },
   {
+    "title": "R to @svpino: Here is the link that will take you to the Nimble skill: https://skills.sh/?q=nimble For more information about how this works, check ou",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2026332372858499501#m",
+    "date": "2026-02-24",
+    "category": "Twitter"
+  },
+  {
+    "title": "IDF killed Gaza aid workers at point blank range in 2025 massacre: Report",
+    "source": "Hacker News",
+    "description": "HN Score: 1017 | 320 comments",
+    "url": "https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot",
+    "score": 1017,
+    "date": "2026-02-24",
+    "category": "AI News"
+  },
+  {
     "title": "Codex 5.3 is priced insanely well $1.75 Input $14.0 Output If all the claims from the OpenAI Codex fans are even remotely true... We are going to expe",
     "source": "@bindureddy",
     "description": "",
@@ -110,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "IDF killed Gaza aid workers at point blank range in 2025 massacre: Report",
+    "title": "Osaka: Kansai Airport proud to have never lost single piece of luggage (2024)",
     "source": "Hacker News",
-    "description": "HN Score: 823 | 189 comments",
-    "url": "https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot",
-    "score": 823,
+    "description": "HN Score: 194 | 83 comments",
+    "url": "https://japannews.yomiuri.co.jp/features/japan-focus/20241228-229891/",
+    "score": 194,
     "date": "2026-02-24",
     "category": "AI News"
   },
@@ -127,29 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Osaka: Kansai Airport proud to have never lost single piece of luggage (2024)",
+    "title": "Proposal: Add 'AI generated' as a flag reason",
     "source": "Hacker News",
-    "description": "HN Score: 188 | 73 comments",
-    "url": "https://japannews.yomiuri.co.jp/features/japan-focus/20241228-229891/",
-    "score": 188,
-    "date": "2026-02-24",
-    "category": "AI News"
-  },
-  {
-    "title": "OpenAI, the US government and Persona built an identity surveillance machine",
-    "source": "Hacker News",
-    "description": "HN Score: 349 | 109 comments",
-    "url": "https://vmfunc.re/blog/persona/",
-    "score": 349,
-    "date": "2026-02-24",
-    "category": "AI News"
-  },
-  {
-    "title": "OpenAI resets spending expectations, from $1.4T to $600B",
-    "source": "Hacker News",
-    "description": "HN Score: 160 | 136 comments",
-    "url": "https://www.cnbc.com/2026/02/20/openai-resets-spend-expectations-targets-around-600-billion-by-2030.html",
-    "score": 160,
+    "description": "HN Score: 14 | 2 comments",
+    "url": "https://lobste.rs/s/rkjpob/proposal_add_ai_generated_as_flag_reason",
+    "score": 14,
     "date": "2026-02-24",
     "category": "AI News"
   }
