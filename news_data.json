@@ -1,5 +1,33 @@
 [
   {
+    "title": "Adobe Firefly\u2019s video editor can now automatically create a first draft from footage",
+    "source": "TechCrunch",
+    "summary": "Adobe Firefly is getting a new feature called Quick Cut that uses AI to edit footage to create a first draft of the final video based on user instructions.",
+    "url": "https://techcrunch.com/2026/02/25/adobe-fireflys-video-editor-can-now-automatically-create-a-first-draft-from-footage/",
+    "date": "2026-02-25"
+  },
+  {
+    "title": "Jira\u2019s latest update allows AI agents and humans to work side by side",
+    "source": "TechCrunch",
+    "summary": "Atlassian is unveiling 'agents in Jira' which gives users the ability to assign and manage work given to AI agents the same as humans.",
+    "url": "https://techcrunch.com/2026/02/25/jiras-latest-update-allows-ai-agents-and-humans-to-work-side-by-side/",
+    "date": "2026-02-25"
+  },
+  {
+    "title": "Amazon\u2019s AI-powered Alexa+ gets new personality options",
+    "source": "TechCrunch",
+    "summary": "Users will be able to choose from Alexa styles like Brief, Chill or Sweet, Amazon says.",
+    "url": "https://techcrunch.com/2026/02/25/amazons-ai-powered-alexa-gets-new-personality-options/",
+    "date": "2026-02-25"
+  },
+  {
+    "title": "Khosla\u2019s Keith Rabois backs Comp, which wants to bolster HR teams with AI",
+    "source": "TechCrunch",
+    "summary": "The HR tech startup, which currently operates in Brazil, has raised a $17.25 million Series A.",
+    "url": "https://techcrunch.com/2026/02/25/khoslas-keith-rabois-backs-comp-which-wants-to-bolster-hr-teams-with-ai/",
+    "date": "2026-02-25"
+  },
+  {
     "title": "India\u2019s AI boom pushes firms to trade near-term revenue for users",
     "source": "TechCrunch",
     "summary": "ChatGPT and rivals are testing whether India's massive AI user boom can translate into paying customers as free offers wind down.",
@@ -74,34 +102,6 @@
     "source": "TechCrunch",
     "summary": "Just 4 days left before savings of up to $680 on your TechCrunch Disrupt 2026 pass end on February 27 at 11:59 p.m. PT. Register to save at one of the most anticipated tech events of the year.",
     "url": "https://techcrunch.com/2026/02/24/final-4-days-to-save-up-to-680-on-your-techcrunch-disrupt-2026-pass/",
-    "date": "2026-02-25"
-  },
-  {
-    "title": "Anthropic launches new push for enterprise agents with plug-ins for finance, engineering, and design",
-    "source": "TechCrunch",
-    "summary": "It's a major opportunity to grow Anthropic\u2019s enterprise client base \u2014 and a significant threat to SaaS products currently performing those functions.",
-    "url": "https://techcrunch.com/2026/02/24/anthropic-launches-new-push-for-enterprise-agents-with-plugins-for-finance-engineering-and-design/",
-    "date": "2026-02-25"
-  },
-  {
-    "title": "New Relic launches new AI agent platform and OpenTelemetry tools",
-    "source": "TechCrunch",
-    "summary": "New Relic is giving enterprises more observability tools, letting them create and manage AI agents, and better integrate OTel data streams.",
-    "url": "https://techcrunch.com/2026/02/24/new-relic-launches-new-ai-agent-platform-and-opentelemetry-tools/",
-    "date": "2026-02-25"
-  },
-  {
-    "title": "Nimble raises $47M to give AI agents access to real-time web data",
-    "source": "TechCrunch",
-    "summary": "Nimble uses AI agents to search the web, verify and validate the results, and then clean and structure the information into neat tables that can then be queried like a database.",
-    "url": "https://techcrunch.com/2026/02/24/nimble-way-raises-47m-to-give-ai-agents-better-cleaner-data/",
-    "date": "2026-02-25"
-  },
-  {
-    "title": "Canva acquires startups working on animation and marketing",
-    "source": "TechCrunch",
-    "summary": "With the new acquisitions, the company wants to bolster its position as a marketing solution by potentially adding video creation and more granular measurement.",
-    "url": "https://techcrunch.com/2026/02/23/canva-acquires-startups-working-on-animation-and-marketing/",
     "date": "2026-02-25"
   },
   {
@@ -245,6 +245,13 @@
     "date": "2026-02-25"
   },
   {
+    "title": "Pete Hegseth tells Anthropic to fall in line with DoD desires, or else",
+    "source": "Ars Technica",
+    "summary": "CEO was summoned to Washington after trying to limit military use of its technology.",
+    "url": "https://arstechnica.com/ai/2026/02/pete-hegseth-wants-unfettered-access-to-anthropics-models-for-the-military/",
+    "date": "2026-02-25"
+  },
+  {
     "title": "Meta could end up owning 10% of AMD in new chip deal",
     "source": "Ars Technica",
     "summary": "AMD will supply 6 gigawatts' worth of chips to buttress Meta's AI efforts.",
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "These bots supposedly need a human body to accomplish great things in meatspace.",
     "url": "https://arstechnica.com/ai/2026/02/i-spent-two-days-gigging-at-rentahuman-and-didnt-make-a-single-cent/",
-    "date": "2026-02-25"
-  },
-  {
-    "title": "OpenAI sidesteps Nvidia with unusually fast coding model on plate-sized chips",
-    "source": "Ars Technica",
-    "summary": "OpenAI's new GPT\u20115.3\u2011Codex\u2011Spark is 15 times faster at coding than its predecessor.",
-    "url": "https://arstechnica.com/ai/2026/02/openai-sidesteps-nvidia-with-unusually-fast-coding-model-on-plate-sized-chips/",
     "date": "2026-02-25"
   }
 ]
