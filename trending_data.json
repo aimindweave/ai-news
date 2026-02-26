@@ -10,9 +10,9 @@
   {
     "title": "AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]",
     "source": "Hacker News",
-    "description": "HN Score: 199 | 103 comments",
+    "description": "HN Score: 251 | 125 comments",
     "url": "https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf",
-    "score": 199,
+    "score": 251,
     "date": "2026-02-26",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Nano Banana 2: Google's latest AI image generation model",
+    "title": "Launch HN: Cardboard (YC W26) \u2013 Agentic video editor",
     "source": "Hacker News",
-    "description": "HN Score: 305 | 294 comments",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/",
-    "score": 305,
+    "description": "HN Score: 38 | 15 comments",
+    "url": "https://www.usecardboard.com/",
+    "score": 38,
     "date": "2026-02-26",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Launch HN: Cardboard (YC W26) \u2013 Agentic video editor",
+    "title": "What Claude Code Chooses",
     "source": "Hacker News",
-    "description": "HN Score: 7 | 0 comments",
-    "url": "https://www.usecardboard.com/",
-    "score": 7,
+    "description": "HN Score: 46 | 23 comments",
+    "url": "https://amplifying.ai/research/claude-code-picks",
+    "score": 46,
     "date": "2026-02-26",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Bild AI (YC W25) Is Hiring Interns to Make Housing Affordable",
+    "title": "Nano Banana 2: Google's latest AI image generation model",
     "source": "Hacker News",
-    "description": "HN Score: 1 | 0 comments",
-    "url": "https://www.workatastartup.com/jobs/80596",
-    "score": 1,
+    "description": "HN Score: 375 | 367 comments",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/",
+    "score": 375,
     "date": "2026-02-26",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Open Source Endowment \u2013 new funding source for open source maintainers",
+    "title": "Bild AI (YC W25) Is Hiring Interns to Make Housing Affordable",
     "source": "Hacker News",
-    "description": "HN Score: 126 | 82 comments",
-    "url": "https://endowment.dev/",
-    "score": 126,
+    "description": "HN Score: 1 | 0 comments",
+    "url": "https://www.workatastartup.com/jobs/80596",
+    "score": 1,
     "date": "2026-02-26",
     "category": "AI News"
   },
@@ -95,43 +95,60 @@
   {
     "title": "Show HN: Linex \u2013 A daily challenge: placing pieces on a board that fights back",
     "source": "Hacker News",
-    "description": "HN Score: 12 | 8 comments",
+    "description": "HN Score: 26 | 14 comments",
     "url": "https://www.playlinex.com/",
-    "score": 12,
+    "score": 26,
     "date": "2026-02-26",
     "category": "AI News"
   },
   {
-    "title": "Any serious college would start teaching Computer Science students 'Agentic coding 101' next semester.",
+    "title": "R to @svpino: Here is how the benchmark works. There are two benchmarks that check each other: 1. Offline benchmark: runs every tool on the same PRs f",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2027014304051163581#m",
+    "url": "https://nitter.net/svpino/status/2027109632096047120#m",
     "date": "2026-02-26",
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Beehive \u2013 Multi-Workspace Agent Orchestrator",
+    "title": "Show HN: Mission Control \u2013 Open-source task management for AI agents",
     "source": "Hacker News",
-    "description": "HN Score: 10 | 1 comments",
-    "url": "https://storozhenko98.github.io/beehive/",
-    "score": 10,
+    "description": "HN Score: 21 | 4 comments",
+    "url": "https://github.com/MeisnerDan/mission-control",
+    "score": 21,
     "date": "2026-02-26",
     "category": "AI News"
   },
   {
-    "title": "R to @svpino: People who automate all of this maintenance work have a massive advantage over those who don't. If you want to check out Ona, go here: h",
+    "title": "The first independent benchmark for AI coding is now live! This is a huge deal. (And the way this benchmark works is pretty clever.) This week, OpenAI",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2026690018245513695#m",
+    "url": "https://nitter.net/svpino/status/2027109568632029435#m",
+    "date": "2026-02-26",
+    "category": "Twitter"
+  },
+  {
+    "title": "Steering interpretable language models with concept algebra",
+    "source": "Hacker News",
+    "description": "HN Score: 27 | 2 comments",
+    "url": "https://www.guidelabs.ai/post/steerling-steering-8b/",
+    "score": 27,
+    "date": "2026-02-26",
+    "category": "AI News"
+  },
+  {
+    "title": "Best Models Per Use-Case long coding tasks - Codex 5.3 automation - Opus 4.6 images - Nano Banana 2 / Pro video - SeaDance 2.0 or Kling 3.0 all purpos",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2027107441792712752#m",
     "date": "2026-02-26",
     "category": "Twitter"
   },
   {
     "title": "just-bash: Bash for Agents",
     "source": "Hacker News",
-    "description": "HN Score: 74 | 40 comments",
+    "description": "HN Score: 88 | 48 comments",
     "url": "https://github.com/vercel-labs/just-bash",
-    "score": 74,
+    "score": 88,
     "date": "2026-02-26",
     "category": "AI News"
   },
@@ -144,28 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Steering interpretable language models with concept algebra",
+    "title": "Show HN: Beehive \u2013 Multi-Workspace Agent Orchestrator",
     "source": "Hacker News",
-    "description": "HN Score: 15 | 1 comments",
-    "url": "https://www.guidelabs.ai/post/steerling-steering-8b/",
-    "score": 15,
-    "date": "2026-02-26",
-    "category": "AI News"
-  },
-  {
-    "title": "Working on Open Claw \ud83e\udd9e for the Enterprise TBH, you will be able to do your job from WhatsApp \ud83d\ude02",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2026838843413139913#m",
-    "date": "2026-02-26",
-    "category": "Twitter"
-  },
-  {
-    "title": "Show HN: Mission Control \u2013 Open-source task management for AI agents",
-    "source": "Hacker News",
-    "description": "HN Score: 9 | 1 comments",
-    "url": "https://github.com/MeisnerDan/mission-control",
-    "score": 9,
+    "description": "HN Score: 26 | 16 comments",
+    "url": "https://storozhenko98.github.io/beehive/",
+    "score": 26,
     "date": "2026-02-26",
     "category": "AI News"
   }
