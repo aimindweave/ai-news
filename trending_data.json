@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Can you reverse engineer our neural network?",
+    "title": "The Pentagon is making a mistake by threatening Anthropic",
     "source": "Hacker News",
-    "description": "HN Score: 137 | 67 comments",
-    "url": "https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/",
-    "score": 137,
+    "description": "HN Score: 39 | 29 comments",
+    "url": "https://www.understandingai.org/p/the-pentagon-is-making-a-mistake",
+    "score": 39,
     "date": "2026-02-27",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Sam Altman: We raised a $110B round from Amazon, Nvidia, SoftBank",
+    "title": "Show HN: Badge that shows how well your codebase fits in an LLM's context window",
     "source": "Hacker News",
-    "description": "HN Score: 29 | 39 comments",
-    "url": "https://twitter.com/sama/status/2027386252555919386",
-    "score": 29,
+    "description": "HN Score: 37 | 23 comments",
+    "url": "https://github.com/qwibitai/nanoclaw/tree/main/repo-tokens",
+    "score": 37,
     "date": "2026-02-27",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "PostmarketOS in 2026-02: generic kernels, bans use of generative AI",
+    "title": "We gave terabytes of CI logs to an LLM",
     "source": "Hacker News",
-    "description": "HN Score: 62 | 48 comments",
-    "url": "https://postmarketos.org/blog/2026/02/26/pmOS-update-2026-02/",
-    "score": 62,
+    "description": "HN Score: 22 | 16 comments",
+    "url": "https://www.mendral.com/blog/llms-are-good-at-sql",
+    "score": 22,
     "date": "2026-02-27",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Generative AI Use and Depressive Symptoms Among US Adults",
+    "title": "Can you reverse engineer our neural network?",
     "source": "Hacker News",
-    "description": "HN Score: 13 | 14 comments",
-    "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2844128",
-    "score": 13,
+    "description": "HN Score: 191 | 115 comments",
+    "url": "https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/",
+    "score": 191,
     "date": "2026-02-27",
     "category": "AI News"
   },
@@ -78,43 +78,43 @@
   {
     "title": "Get free Claude max 20x for open-source maintainers",
     "source": "Hacker News",
-    "description": "HN Score: 25 | 10 comments",
+    "description": "HN Score: 129 | 77 comments",
     "url": "https://claude.com/contact-sales/claude-for-oss",
-    "score": 25,
+    "score": 129,
     "date": "2026-02-27",
     "category": "AI News"
   },
   {
-    "title": "When building agents, we care about two things: intelligence and cost. We want to maximize intelligence while minimizing the cost of producing it. Sho",
+    "title": "R to @svpino: I'm using the @apify skills for Claude. Here is the GitHub repository: https://github.com/apify/agent-skills The most important plugin t",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2027379702848233567#m",
+    "url": "https://nitter.net/svpino/status/2027416070248935781#m",
+    "date": "2026-02-27",
+    "category": "Twitter"
+  },
+  {
+    "title": "Experts sound alarm after ChatGPT Health fails to recognise medical emergencies",
+    "source": "Hacker News",
+    "description": "HN Score: 49 | 42 comments",
+    "url": "https://www.theguardian.com/technology/2026/feb/26/chatgpt-health-fails-recognise-medical-emergencies",
+    "score": 49,
+    "date": "2026-02-27",
+    "category": "AI News"
+  },
+  {
+    "title": "This is how to make your AI 10x more useful: Give your agent (I use Claude Code) the ability to parse the whole Internet and answer questions from any",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2027416057934450816#m",
     "date": "2026-02-27",
     "category": "Twitter"
   },
   {
     "title": "What Claude Code chooses",
     "source": "Hacker News",
-    "description": "HN Score: 498 | 190 comments",
+    "description": "HN Score: 540 | 204 comments",
     "url": "https://amplifying.ai/research/claude-code-picks",
-    "score": 498,
-    "date": "2026-02-27",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: The first independent benchmark for AI coding is now live! This is a huge deal. (And the way this benchmark works is pretty clever.) Th",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2027109568632029435#m",
-    "date": "2026-02-27",
-    "category": "Twitter"
-  },
-  {
-    "title": "AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]",
-    "source": "Hacker News",
-    "description": "HN Score: 383 | 171 comments",
-    "url": "https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf",
-    "score": 383,
+    "score": 540,
     "date": "2026-02-27",
     "category": "AI News"
   },
@@ -123,6 +123,23 @@
     "source": "@bindureddy",
     "description": "",
     "url": "https://nitter.net/bindureddy/status/2027173460691312694#m",
+    "date": "2026-02-27",
+    "category": "Twitter"
+  },
+  {
+    "title": "AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]",
+    "source": "Hacker News",
+    "description": "HN Score: 392 | 173 comments",
+    "url": "https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf",
+    "score": 392,
+    "date": "2026-02-27",
+    "category": "AI News"
+  },
+  {
+    "title": "Best Models Per Use-Case long coding tasks - Codex 5.3 automation - Opus 4.6 images - Nano Banana 2 / Pro video - SeaDance 2.0 or Kling 3.0 all purpos",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2027107441792712752#m",
     "date": "2026-02-27",
     "category": "Twitter"
   },
@@ -136,28 +153,11 @@
     "category": "AI News"
   },
   {
-    "title": "Best Models Per Use-Case long coding tasks - Codex 5.3 automation - Opus 4.6 images - Nano Banana 2 / Pro video - SeaDance 2.0 or Kling 3.0 all purpos",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2027107441792712752#m",
-    "date": "2026-02-27",
-    "category": "Twitter"
-  },
-  {
-    "title": "Implementing a clear room Z80 / ZX Spectrum emulator with Claude Code",
+    "title": "OpenAI's $110B funding round (investments from Amazon, Nvidia, SoftBank)",
     "source": "Hacker News",
-    "description": "HN Score: 42 | 41 comments",
-    "url": "https://antirez.com/news/160",
-    "score": 42,
-    "date": "2026-02-27",
-    "category": "AI News"
-  },
-  {
-    "title": "Show HN: Linex \u2013 A daily challenge: placing pieces on a board that fights back",
-    "source": "Hacker News",
-    "description": "HN Score: 75 | 26 comments",
-    "url": "https://www.playlinex.com/",
-    "score": 75,
+    "description": "HN Score: 51 | 44 comments",
+    "url": "https://www.reuters.com/business/retail-consumer/amazon-invest-50-billion-openai-2026-02-27/",
+    "score": 51,
     "date": "2026-02-27",
     "category": "AI News"
   }
