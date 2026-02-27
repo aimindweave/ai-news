@@ -93,6 +93,16 @@
   ],
   "episodes": [
     {
+      "id": "The TWIM_0",
+      "name": "AI Trends 2026: OpenClaw Agents, Reasoning LLMs, and More with Sebastian Raschka - #762",
+      "show": "The TWIML AI Podcast",
+      "description": "In this episode, Sebastian Raschka, independent LLM researcher and author, joins us to break down how the LLM landscape has changed over the past year and what is likely to matter most in 2026. We dis",
+      "release_date": "2026-02-26",
+      "duration_min": 78,
+      "image": "",
+      "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
+    },
+    {
       "id": "a]6z Pod_0",
       "name": "When Giants Don’t Go Public: Inside the $5 Trillion Private Tech Market",
       "show": "a]6z Podcast",
@@ -233,7 +243,7 @@
       "url": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"
     },
     {
-      "id": "The TWIM_0",
+      "id": "The TWIM_1",
       "name": "The Evolution of Reasoning in Small Language Models with Yejin Choi - #761",
       "show": "The TWIML AI Podcast",
       "description": "Today, we're joined by Yejin Choi, professor and senior fellow at Stanford University in the Computer Science Department and the Institute for Human-Centered AI (HAI). In this conversation, we explore",
@@ -253,22 +263,12 @@
       "url": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"
     },
     {
-      "id": "The TWIM_1",
+      "id": "The TWIM_2",
       "name": "Intelligent Robots in 2026: Are We There Yet? with Nikita Rudin - #760",
       "show": "The TWIML AI Podcast",
       "description": "Today, we're joined by Nikita Rudin, co-founder and CEO of Flexion Robotics to discuss the gap between current robotic capabilities and what’s required to deploy fully autonomous robots in the real wo",
       "release_date": "2026-01-08",
       "duration_min": 66,
-      "image": "",
-      "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
-    },
-    {
-      "id": "The TWIM_2",
-      "name": "Rethinking Pre-Training for Agentic AI with Aakanksha Chowdhery - #759",
-      "show": "The TWIML AI Podcast",
-      "description": "Today, we're joined by Aakanksha Chowdhery, member of technical staff at Reflection, to explore the fundamental shifts required to build true agentic AI. While the industry has largely focused on post",
-      "release_date": "2025-12-17",
-      "duration_min": 52,
       "image": "",
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
     }
