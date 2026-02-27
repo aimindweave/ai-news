@@ -10,9 +10,9 @@
   {
     "title": "What Claude Code chooses",
     "source": "Hacker News",
-    "description": "HN Score: 360 | 144 comments",
+    "description": "HN Score: 397 | 160 comments",
     "url": "https://amplifying.ai/research/claude-code-picks",
-    "score": 360,
+    "score": 397,
     "date": "2026-02-27",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]",
     "source": "Hacker News",
-    "description": "HN Score: 342 | 162 comments",
+    "description": "HN Score: 352 | 164 comments",
     "url": "https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf",
-    "score": 342,
+    "score": 352,
     "date": "2026-02-27",
     "category": "AI News"
   },
@@ -44,26 +44,26 @@
   {
     "title": "Launch HN: Cardboard (YC W26) \u2013 Agentic video editor",
     "source": "Hacker News",
-    "description": "HN Score: 107 | 56 comments",
+    "description": "HN Score: 112 | 60 comments",
     "url": "https://www.usecardboard.com/",
-    "score": 107,
+    "score": 112,
     "date": "2026-02-27",
     "category": "AI News"
   },
   {
-    "title": "R to @DrJimFan: We would also like to thank our dexterous hand hardware provider, Sharpa, for their great support!",
+    "title": "We trained a humanoid with 22-DoF dexterous hands to assemble model cars, operate syringes, sort poker cards, fold/roll shirts, all learned primarily ",
     "source": "@DrJimFan",
     "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2026709308713611695#m",
+    "url": "https://nitter.net/DrJimFan/status/2026709304984875202#m",
     "date": "2026-02-27",
     "category": "Twitter"
   },
   {
-    "title": "LiteLLM (YC W23): Founding Reliability Engineer \u2013 $200K-$270K and 0.5-1.0% equity",
+    "title": "Writing a 'clear room' Z80 and Spectrum emulator with Claude Code",
     "source": "Hacker News",
-    "description": "HN Score: 1 | 0 comments",
-    "url": "https://www.ycombinator.com/companies/litellm/jobs/unlCynJ-founding-reliability-performance-engineer",
-    "score": 1,
+    "description": "HN Score: 9 | 1 comments",
+    "url": "https://antirez.com/news/160",
+    "score": 9,
     "date": "2026-02-27",
     "category": "AI News"
   },
@@ -78,9 +78,26 @@
   {
     "title": "Show HN: Linex \u2013 A daily challenge: placing pieces on a board that fights back",
     "source": "Hacker News",
-    "description": "HN Score: 59 | 20 comments",
+    "description": "HN Score: 63 | 20 comments",
     "url": "https://www.playlinex.com/",
-    "score": 59,
+    "score": 63,
+    "date": "2026-02-27",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: The first independent benchmark for AI coding is now live! This is a huge deal. (And the way this benchmark works is pretty clever.) Th",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2027109568632029435#m",
+    "date": "2026-02-27",
+    "category": "Twitter"
+  },
+  {
+    "title": "Nano Banana 2: Google's latest AI image generation model",
+    "source": "Hacker News",
+    "description": "HN Score: 561 | 532 comments",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/",
+    "score": 561,
     "date": "2026-02-27",
     "category": "AI News"
   },
@@ -93,28 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Nano Banana 2: Google's latest AI image generation model",
-    "source": "Hacker News",
-    "description": "HN Score: 547 | 510 comments",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/",
-    "score": 547,
-    "date": "2026-02-27",
-    "category": "AI News"
-  },
-  {
-    "title": "Hats off to @DarioAmodei for standing his ground and doing the right thing. Every American should be proud of him today.",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2027171579575108089#m",
-    "date": "2026-02-27",
-    "category": "Twitter"
-  },
-  {
     "title": "Steering interpretable language models with concept algebra",
     "source": "Hacker News",
-    "description": "HN Score: 66 | 4 comments",
+    "description": "HN Score: 68 | 7 comments",
     "url": "https://www.guidelabs.ai/post/steerling-steering-8b/",
-    "score": 66,
+    "score": 68,
     "date": "2026-02-27",
     "category": "AI News"
   },
@@ -127,11 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Google workers seek 'red lines' on military A.I., echoing Anthropic",
+    "title": "Tell HN: YC companies scrape GitHub activity, send spam emails to users",
     "source": "Hacker News",
-    "description": "HN Score: 221 | 100 comments",
-    "url": "https://www.nytimes.com/2026/02/26/technology/google-deepmind-letter-pentagon.html",
-    "score": 221,
+    "description": "HN Score: 630 | 234 comments",
+    "url": "https://news.ycombinator.com/item?id=47163885",
+    "score": 630,
     "date": "2026-02-27",
     "category": "AI News"
   },
@@ -144,20 +144,20 @@
     "category": "Twitter"
   },
   {
-    "title": "Tell HN: YC companies scrape GitHub activity, send spam emails to users",
+    "title": "Open Source Endowment \u2013 new funding source for open source maintainers",
     "source": "Hacker News",
-    "description": "HN Score: 622 | 231 comments",
-    "url": "https://news.ycombinator.com/item?id=47163885",
-    "score": 622,
+    "description": "HN Score: 234 | 143 comments",
+    "url": "https://endowment.dev/",
+    "score": 234,
     "date": "2026-02-27",
     "category": "AI News"
   },
   {
-    "title": "Open Source Endowment \u2013 new funding source for open source maintainers",
+    "title": "Fentanyl makeover: Core structural redesign could lead to safer pain medications",
     "source": "Hacker News",
-    "description": "HN Score: 230 | 141 comments",
-    "url": "https://endowment.dev/",
-    "score": 230,
+    "description": "HN Score: 73 | 85 comments",
+    "url": "https://www.scripps.edu/news-and-events/press-room/2026/20260211-janda-molecule.html",
+    "score": 73,
     "date": "2026-02-27",
     "category": "AI News"
   }
