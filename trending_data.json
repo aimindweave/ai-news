@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "The Pentagon is making a mistake by threatening Anthropic",
+    "title": "We gave terabytes of CI logs to an LLM",
     "source": "Hacker News",
-    "description": "HN Score: 39 | 29 comments",
-    "url": "https://www.understandingai.org/p/the-pentagon-is-making-a-mistake",
-    "score": 39,
+    "description": "HN Score: 85 | 55 comments",
+    "url": "https://www.mendral.com/blog/llms-are-good-at-sql",
+    "score": 85,
     "date": "2026-02-27",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Badge that shows how well your codebase fits in an LLM's context window",
+    "title": "Modeling Cycles of Grift with Evolutionary Game Theory",
     "source": "Hacker News",
-    "description": "HN Score: 37 | 23 comments",
-    "url": "https://github.com/qwibitai/nanoclaw/tree/main/repo-tokens",
-    "score": 37,
+    "description": "HN Score: 29 | 8 comments",
+    "url": "https://www.oranlooney.com/post/grifters-skeptics-marks/",
+    "score": 29,
     "date": "2026-02-27",
     "category": "AI News"
   },
@@ -42,28 +42,28 @@
     "category": "Twitter"
   },
   {
-    "title": "We gave terabytes of CI logs to an LLM",
+    "title": "Get free Claude max 20x for open-source maintainers",
     "source": "Hacker News",
-    "description": "HN Score: 22 | 16 comments",
-    "url": "https://www.mendral.com/blog/llms-are-good-at-sql",
-    "score": 22,
+    "description": "HN Score: 233 | 124 comments",
+    "url": "https://claude.com/contact-sales/claude-for-oss",
+    "score": 233,
     "date": "2026-02-27",
     "category": "AI News"
   },
   {
-    "title": "R to @DrJimFan: We would also like to thank our dexterous hand hardware provider, Sharpa, for their great support!",
+    "title": "We trained a humanoid with 22-DoF dexterous hands to assemble model cars, operate syringes, sort poker cards, fold/roll shirts, all learned primarily ",
     "source": "@DrJimFan",
     "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2026709308713611695#m",
+    "url": "https://nitter.net/DrJimFan/status/2026709304984875202#m",
     "date": "2026-02-27",
     "category": "Twitter"
   },
   {
-    "title": "Can you reverse engineer our neural network?",
+    "title": "Show HN: Badge that shows how well your codebase fits in an LLM's context window",
     "source": "Hacker News",
-    "description": "HN Score: 191 | 115 comments",
-    "url": "https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/",
-    "score": 191,
+    "description": "HN Score: 60 | 34 comments",
+    "url": "https://github.com/qwibitai/nanoclaw/tree/main/repo-tokens",
+    "score": 60,
     "date": "2026-02-27",
     "category": "AI News"
   },
@@ -76,11 +76,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Get free Claude max 20x for open-source maintainers",
+    "title": "Can you reverse engineer our neural network?",
     "source": "Hacker News",
-    "description": "HN Score: 129 | 77 comments",
-    "url": "https://claude.com/contact-sales/claude-for-oss",
-    "score": 129,
+    "description": "HN Score: 220 | 143 comments",
+    "url": "https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/",
+    "score": 220,
+    "date": "2026-02-27",
+    "category": "AI News"
+  },
+  {
+    "title": "I don't think the best companies will swap humans for bots and call it a day. The best companies will redesign their workflows around what every perso",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2027430067685757235#m",
+    "date": "2026-02-27",
+    "category": "Twitter"
+  },
+  {
+    "title": "Experts sound alarm after ChatGPT Health fails to recognise medical emergencies",
+    "source": "Hacker News",
+    "description": "HN Score: 118 | 92 comments",
+    "url": "https://www.theguardian.com/technology/2026/feb/26/chatgpt-health-fails-recognise-medical-emergencies",
+    "score": 118,
     "date": "2026-02-27",
     "category": "AI News"
   },
@@ -93,28 +110,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Experts sound alarm after ChatGPT Health fails to recognise medical emergencies",
+    "title": "Theory of Constraints: 'Blue Light' creating capacity for nothing (2007)",
     "source": "Hacker News",
-    "description": "HN Score: 49 | 42 comments",
-    "url": "https://www.theguardian.com/technology/2026/feb/26/chatgpt-health-fails-recognise-medical-emergencies",
-    "score": 49,
+    "description": "HN Score: 6 | 1 comments",
+    "url": "http://theoryofconstraints.blogspot.com/2007/06/toc-stories-2-blue-light-creating.html",
+    "score": 6,
     "date": "2026-02-27",
     "category": "AI News"
   },
   {
-    "title": "This is how to make your AI 10x more useful: Give your agent (I use Claude Code) the ability to parse the whole Internet and answer questions from any",
-    "source": "@svpino",
+    "title": "OpenAI simply gets infinite money from investors Google gets infinite money with Ads on search Consumers get infinite tokens to burn. To infinity and ",
+    "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2027416057934450816#m",
+    "url": "https://nitter.net/bindureddy/status/2027454918123208710#m",
     "date": "2026-02-27",
     "category": "Twitter"
   },
   {
-    "title": "What Claude Code chooses",
+    "title": "Don't run OpenClaw on your main machine",
     "source": "Hacker News",
-    "description": "HN Score: 540 | 204 comments",
-    "url": "https://amplifying.ai/research/claude-code-picks",
-    "score": 540,
+    "description": "HN Score: 18 | 14 comments",
+    "url": "https://blog.skypilot.co/openclaw-on-skypilot/",
+    "score": 18,
     "date": "2026-02-27",
     "category": "AI News"
   },
@@ -127,37 +144,20 @@
     "category": "Twitter"
   },
   {
-    "title": "AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]",
+    "title": "The Pentagon is making a mistake by threatening Anthropic",
     "source": "Hacker News",
-    "description": "HN Score: 392 | 173 comments",
-    "url": "https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf",
-    "score": 392,
+    "description": "HN Score: 194 | 160 comments",
+    "url": "https://www.understandingai.org/p/the-pentagon-is-making-a-mistake",
+    "score": 194,
     "date": "2026-02-27",
     "category": "AI News"
   },
   {
-    "title": "Best Models Per Use-Case long coding tasks - Codex 5.3 automation - Opus 4.6 images - Nano Banana 2 / Pro video - SeaDance 2.0 or Kling 3.0 all purpos",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2027107441792712752#m",
-    "date": "2026-02-27",
-    "category": "Twitter"
-  },
-  {
-    "title": "Launch HN: Cardboard (YC W26) \u2013 Agentic video editor",
+    "title": "What Claude Code chooses",
     "source": "Hacker News",
-    "description": "HN Score: 125 | 70 comments",
-    "url": "https://www.usecardboard.com/",
-    "score": 125,
-    "date": "2026-02-27",
-    "category": "AI News"
-  },
-  {
-    "title": "OpenAI's $110B funding round (investments from Amazon, Nvidia, SoftBank)",
-    "source": "Hacker News",
-    "description": "HN Score: 51 | 44 comments",
-    "url": "https://www.reuters.com/business/retail-consumer/amazon-invest-50-billion-openai-2026-02-27/",
-    "score": 51,
+    "description": "HN Score: 572 | 212 comments",
+    "url": "https://amplifying.ai/research/claude-code-picks",
+    "score": 572,
     "date": "2026-02-27",
     "category": "AI News"
   }
