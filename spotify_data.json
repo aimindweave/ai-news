@@ -93,6 +93,26 @@
   ],
   "episodes": [
     {
+      "id": "Hard For_0",
+      "name": "Is A.I. Eating the Labor Market? + The Latest on the Pentagon, OpenClaw and Alpha School",
+      "show": "Hard Fork",
+      "description": "This week, the economist Anton Korinek joins to break down how artificial intelligence is driving volatility in the job and stock markets. Then, the battle between the Pentagon and Anthropic is get",
+      "release_date": "2026-02-27",
+      "duration_min": 60,
+      "image": "",
+      "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
+    },
+    {
+      "id": "a]6z Pod_0",
+      "name": "a16z's New Media Playbook",
+      "show": "a]6z Podcast",
+      "description": "Erik Torenberg, Ben Horowitz, and Marc Andreessen discuss how the media landscape has fundamentally changed and what a16z is doing about it. They cover why offense beats defense, why individuals no",
+      "release_date": "2026-02-27",
+      "duration_min": 48,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
       "id": "The TWIM_0",
       "name": "AI Trends 2026: OpenClaw Agents, Reasoning LLMs, and More with Sebastian Raschka - #762",
       "show": "The TWIML AI Podcast",
@@ -103,7 +123,7 @@
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
     },
     {
-      "id": "a]6z Pod_0",
+      "id": "a]6z Pod_1",
       "name": "When Giants Don’t Go Public: Inside the $5 Trillion Private Tech Market",
       "show": "a]6z Podcast",
       "description": "Bloomberg's Odd Lots hosts Joe Weisenthal and Tracy Alloway speak with David George, general partner at a16z and head of the firm's growth fund, about why $5 trillion in tech market cap now sits in",
@@ -113,7 +133,7 @@
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "Ben Horowitz: RSI, Crypto as AI Money, & Classified Physics",
       "show": "a]6z Podcast",
       "description": "Moonshots host Peter Diamandis speaks with Ben Horowitz, cofounder and general partner at a16z, alongside regular cohosts Salim Ismail, Dave Blundin, and Dr. Alexander Wissner-Gross, about whether ",
@@ -123,7 +143,7 @@
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
-      "id": "Hard For_0",
+      "id": "Hard For_1",
       "name": "The Pentagon vs. Anthropic + An A.I. Agent Slandered Me + Hot Mess Express",
       "show": "Hard Fork",
       "description": "This week, Anthropic is refusing to let the government use the company’s technology for autonomous weapons and domestic surveillance. In response, the Pentagon is threatening to cut business ties a",
@@ -131,16 +151,6 @@
       "duration_min": 64,
       "image": "",
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
-    },
-    {
-      "id": "a]6z Pod_2",
-      "name": "Patrick Collison on Stripe’s Early Choices, Smalltalk, and What Comes After Coding",
-      "show": "a]6z Podcast",
-      "description": "Michael Truell, CEO of Cursor, sits down with Patrick Collison, CEO of Stripe and an investor in Anysphere, to talk about Collison's history with Smalltalk and Lisp, the MongoDB and Ruby decisions ",
-      "release_date": "2026-02-20",
-      "duration_min": 52,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
       "id": "The AI P_0",
@@ -163,7 +173,7 @@
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
-      "id": "Hard For_1",
+      "id": "Hard For_2",
       "name": "‘Something Big Is Happening’ + A.I. Rocks the Romance Novel Industry + One Good Thing",
       "show": "Hard Fork",
       "description": "This week, we discuss Wall Street’s software-stock sell-off and a viral essay on X about the potential for widespread job displacement from A.I. Then, the New York Times reporter Alexandra Alter wa",
@@ -201,16 +211,6 @@
       "duration_min": 45,
       "image": "",
       "url": "https://open.spotify.com/show/0e1X4kJVfwQRPF8lZzqqfX"
-    },
-    {
-      "id": "Hard For_2",
-      "name": "Elon Musk’s Mega-Merger + We Test Google’s Project Genie + What’s Next for Moltbook Creator",
-      "show": "Hard Fork",
-      "description": "This week, the A.I. initial-public-offering race is heating up! We break down SpaceX’s acquisition of xAI, as well as OpenAI and Nvidia’s messy situationship. Then, it’s time for show and tell. We ",
-      "release_date": "2026-02-06",
-      "duration_min": 64,
-      "image": "",
-      "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
       "id": "The AI P_2",
