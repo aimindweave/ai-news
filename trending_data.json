@@ -10,9 +10,9 @@
   {
     "title": "OpenAI raises $110B on $730B pre-money valuation",
     "source": "Hacker News",
-    "description": "HN Score: 98 | 220 comments",
+    "description": "HN Score: 240 | 375 comments",
     "url": "https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/",
-    "score": 98,
+    "score": 240,
     "date": "2026-02-27",
     "category": "AI News"
   },
@@ -25,11 +25,28 @@
     "category": "Twitter"
   },
   {
+    "title": "Show HN: Claude-File-Recovery, recover files from your ~/.claude sessions",
+    "source": "Hacker News",
+    "description": "HN Score: 18 | 6 comments",
+    "url": "https://github.com/hjtenklooster/claude-file-recovery",
+    "score": 18,
+    "date": "2026-02-27",
+    "category": "AI News"
+  },
+  {
+    "title": "AGI is the ultimate National Security Threat.",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/EMostaque/status/2027510685215719448#m",
+    "date": "2026-02-27",
+    "category": "Twitter"
+  },
+  {
     "title": "Modeling cycles of grift with evolutionary game theory",
     "source": "Hacker News",
-    "description": "HN Score: 48 | 19 comments",
+    "description": "HN Score: 69 | 29 comments",
     "url": "https://www.oranlooney.com/post/grifters-skeptics-marks/",
-    "score": 48,
+    "score": 69,
     "date": "2026-02-27",
     "category": "AI News"
   },
@@ -42,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "We Built Secure, Scalable Agent Sandbox Infrastructure",
+    "title": "Building secure, scalable agent sandbox infrastructure",
     "source": "Hacker News",
-    "description": "HN Score: 21 | 4 comments",
+    "description": "HN Score: 38 | 9 comments",
     "url": "https://browser-use.com/posts/two-ways-to-sandbox-agents",
-    "score": 21,
+    "score": 38,
     "date": "2026-02-27",
     "category": "AI News"
   },
@@ -59,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "A Chinese official\u2019s use of ChatGPT revealed an intimidation operation",
+    "title": "Get free Claude max 20x for open-source maintainers",
     "source": "Hacker News",
-    "description": "HN Score: 17 | 2 comments",
-    "url": "https://www.cnn.com/2026/02/25/politics/chatgpt-china-intimidation-operation",
-    "score": 17,
+    "description": "HN Score: 357 | 173 comments",
+    "url": "https://claude.com/contact-sales/claude-for-oss",
+    "score": 357,
     "date": "2026-02-27",
     "category": "AI News"
   },
@@ -76,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "We gave terabytes of CI logs to an LLM",
+    "title": "Implementing a Z80 / ZX Spectrum emulator with Claude Code",
     "source": "Hacker News",
-    "description": "HN Score: 121 | 76 comments",
-    "url": "https://www.mendral.com/blog/llms-are-good-at-sql",
-    "score": 121,
+    "description": "HN Score: 109 | 55 comments",
+    "url": "https://antirez.com/news/160",
+    "score": 109,
     "date": "2026-02-27",
     "category": "AI News"
   },
@@ -93,28 +110,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Get free Claude max 20x for open-source maintainers",
+    "title": "'Just a little detail that wouldn't sell anything'",
     "source": "Hacker News",
-    "description": "HN Score: 301 | 152 comments",
-    "url": "https://claude.com/contact-sales/claude-for-oss",
-    "score": 301,
+    "description": "HN Score: 80 | 17 comments",
+    "url": "https://unsung.aresluna.org/just-a-little-detail-that-wouldnt-sell-anything/",
+    "score": 80,
     "date": "2026-02-27",
     "category": "AI News"
   },
   {
-    "title": "This is how to make your AI 10x more useful: Give your agent (I use Claude Code) the ability to parse the whole Internet and answer questions from any",
+    "title": "R to @svpino: I'm using the @apify skills for Claude. Here is the GitHub repository: https://github.com/apify/agent-skills The most important plugin t",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2027416057934450816#m",
+    "url": "https://nitter.net/svpino/status/2027416070248935781#m",
     "date": "2026-02-27",
     "category": "Twitter"
   },
   {
-    "title": "'Just a little detail that wouldn't sell anything'",
+    "title": "Can you reverse engineer our neural network?",
     "source": "Hacker News",
-    "description": "HN Score: 41 | 6 comments",
-    "url": "https://unsung.aresluna.org/just-a-little-detail-that-wouldnt-sell-anything/",
-    "score": 41,
+    "description": "HN Score: 243 | 177 comments",
+    "url": "https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/",
+    "score": 243,
     "date": "2026-02-27",
     "category": "AI News"
   },
@@ -127,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "ChatGPT Health fails to recognise medical emergencies \u2013 study",
+    "title": "A Chinese official\u2019s use of ChatGPT revealed an intimidation operation",
     "source": "Hacker News",
-    "description": "HN Score: 165 | 129 comments",
-    "url": "https://www.theguardian.com/technology/2026/feb/26/chatgpt-health-fails-recognise-medical-emergencies",
-    "score": 165,
+    "description": "HN Score: 73 | 51 comments",
+    "url": "https://www.cnn.com/2026/02/25/politics/chatgpt-china-intimidation-operation",
+    "score": 73,
     "date": "2026-02-27",
     "category": "AI News"
   },
@@ -144,20 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Badge that shows how well your codebase fits in an LLM's context window",
+    "title": "We gave terabytes of CI logs to an LLM",
     "source": "Hacker News",
-    "description": "HN Score: 73 | 39 comments",
-    "url": "https://github.com/qwibitai/nanoclaw/tree/main/repo-tokens",
-    "score": 73,
-    "date": "2026-02-27",
-    "category": "AI News"
-  },
-  {
-    "title": "Theory of Constraints: 'Blue Light' creating capacity for nothing (2007)",
-    "source": "Hacker News",
-    "description": "HN Score: 21 | 1 comments",
-    "url": "http://theoryofconstraints.blogspot.com/2007/06/toc-stories-2-blue-light-creating.html",
-    "score": 21,
+    "description": "HN Score: 141 | 83 comments",
+    "url": "https://www.mendral.com/blog/llms-are-good-at-sql",
+    "score": 141,
     "date": "2026-02-27",
     "category": "AI News"
   }
