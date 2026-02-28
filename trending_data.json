@@ -10,9 +10,9 @@
   {
     "title": "747s and Coding Agents",
     "source": "Hacker News",
-    "description": "HN Score: 61 | 18 comments",
+    "description": "HN Score: 82 | 31 comments",
     "url": "https://carlkolon.com/2026/02/27/engineering-747-coding-agents/",
-    "score": 61,
+    "score": 82,
     "date": "2026-02-28",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "How Long Is the Coast of Britain? (1967)",
     "source": "Hacker News",
-    "description": "HN Score: 8 | 1 comments",
+    "description": "HN Score: 18 | 2 comments",
     "url": "https://www.jstor.org/stable/1721427",
-    "score": 8,
+    "score": 18,
     "date": "2026-02-28",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: SQLite for Rivet Actors \u2013 one database per agent, tenant, or document",
+    "title": "The Future of AI",
     "source": "Hacker News",
-    "description": "HN Score: 23 | 7 comments",
-    "url": "https://github.com/rivet-dev/rivet",
-    "score": 23,
+    "description": "HN Score: 79 | 70 comments",
+    "url": "https://lucijagregov.com/2026/02/26/the-future-of-ai/",
+    "score": 79,
     "date": "2026-02-28",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "OpenAI fires an employee for prediction market insider trading",
+    "title": "Stop Burning Your Context Window \u2013 How We Cut MCP Output by 98% in Claude Code",
     "source": "Hacker News",
-    "description": "HN Score: 173 | 103 comments",
-    "url": "https://www.wired.com/story/openai-fires-employee-insider-trading-polymarket-kalshi/",
-    "score": 173,
+    "description": "HN Score: 128 | 21 comments",
+    "url": "https://mksg.lu/blog/context-mode",
+    "score": 128,
     "date": "2026-02-28",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "The Future of AI",
+    "title": "OpenAI fires an employee for prediction market insider trading",
     "source": "Hacker News",
-    "description": "HN Score: 61 | 57 comments",
-    "url": "https://lucijagregov.com/2026/02/26/the-future-of-ai/",
-    "score": 61,
+    "description": "HN Score: 213 | 120 comments",
+    "url": "https://www.wired.com/story/openai-fires-employee-insider-trading-polymarket-kalshi/",
+    "score": 213,
     "date": "2026-02-28",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Stop Burning Your Context Window \u2013 How We Cut MCP Output by 98% in Claude Code",
+    "title": "OpenAI agrees with Dept. of War to deploy models in their classified network",
     "source": "Hacker News",
-    "description": "HN Score: 86 | 17 comments",
-    "url": "https://mksg.lu/blog/context-mode",
-    "score": 86,
+    "description": "HN Score: 1259 | 599 comments",
+    "url": "https://twitter.com/sama/status/2027578652477821175",
+    "score": 1259,
     "date": "2026-02-28",
     "category": "AI News"
   },
@@ -110,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "OpenAI agrees with Dept. of War to deploy models in their classified network",
+    "title": "Don't trust AI agents",
     "source": "Hacker News",
-    "description": "HN Score: 1215 | 580 comments",
-    "url": "https://twitter.com/sama/status/2027578652477821175",
-    "score": 1215,
+    "description": "HN Score: 273 | 156 comments",
+    "url": "https://nanoclaw.dev/blog/nanoclaw-security-model",
+    "score": 273,
     "date": "2026-02-28",
     "category": "AI News"
   },
@@ -127,28 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Don't trust AI agents",
+    "title": "Smallest transformer that can add two 10-digit numbers",
     "source": "Hacker News",
-    "description": "HN Score: 247 | 133 comments",
-    "url": "https://nanoclaw.dev/blog/nanoclaw-security-model",
-    "score": 247,
-    "date": "2026-02-28",
-    "category": "AI News"
-  },
-  {
-    "title": "Should the US attack Iran and potentially go to war without congressional approval Checks and balances exist for a reason",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2027716543493140557#m",
-    "date": "2026-02-28",
-    "category": "Twitter"
-  },
-  {
-    "title": "OpenAI raises $110B on $730B pre-money valuation",
-    "source": "Hacker News",
-    "description": "HN Score: 548 | 572 comments",
-    "url": "https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/",
-    "score": 548,
+    "description": "HN Score: 221 | 89 comments",
+    "url": "https://github.com/anadim/AdderBoard",
+    "score": 221,
     "date": "2026-02-28",
     "category": "AI News"
   },
@@ -161,11 +144,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Smallest transformer that can add two 10-digit numbers",
+    "title": "What AI coding costs you",
     "source": "Hacker News",
-    "description": "HN Score: 216 | 89 comments",
-    "url": "https://github.com/anadim/AdderBoard",
-    "score": 216,
+    "description": "HN Score: 248 | 161 comments",
+    "url": "https://tomwojcik.com/posts/2026-02-15/finding-the-right-amount-of-ai/",
+    "score": 248,
+    "date": "2026-02-28",
+    "category": "AI News"
+  },
+  {
+    "title": "All the AI models, including the open source ones, will converge to the same performance by 2027 Today 5% of all code commits is made by AI In 12 mont",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2027593340284289229#m",
+    "date": "2026-02-28",
+    "category": "Twitter"
+  },
+  {
+    "title": "A Chinese official\u2019s use of ChatGPT revealed an intimidation operation",
+    "source": "Hacker News",
+    "description": "HN Score: 239 | 147 comments",
+    "url": "https://www.cnn.com/2026/02/25/politics/chatgpt-china-intimidation-operation",
+    "score": 239,
     "date": "2026-02-28",
     "category": "AI News"
   }
