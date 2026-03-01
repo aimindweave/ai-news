@@ -93,6 +93,16 @@
   ],
   "episodes": [
     {
+      "id": "Lex Frid_0",
+      "name": "#492 – Rick Beato: Greatest Guitarists of All Time, History & Future of Music",
+      "show": "Lex Fridman Podcast",
+      "description": "Rick Beato is a music educator, interviewer, producer, songwriter, and a true multi-instrument musician, playing guitar, bass, cello &#38; piano. His incredible YouTube channel celebrates great mus",
+      "release_date": "2026-03-01",
+      "duration_min": 0,
+      "image": "",
+      "url": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"
+    },
+    {
       "id": "Hard For_0",
       "name": "At the Pentagon, OpenAI is In and Anthropic Is Out",
       "show": "Hard Fork",
@@ -203,7 +213,7 @@
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
-      "id": "Lex Frid_0",
+      "id": "Lex Frid_1",
       "name": "#491 – OpenClaw: The Viral AI Agent that Broke the Internet – Peter Steinberger",
       "show": "Lex Fridman Podcast",
       "description": "Peter Steinberger is the creator of OpenClaw, an open-source AI agent framework that&#8217;s the fastest-growing project in GitHub history.<br />\nThank you for listening ❤ Check out our sponsors: <",
@@ -233,7 +243,7 @@
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
-      "id": "Lex Frid_1",
+      "id": "Lex Frid_2",
       "name": "#490 – State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI",
       "show": "Lex Fridman Podcast",
       "description": "Nathan Lambert and Sebastian Raschka are machine learning researchers, engineers, and educators. Nathan is the post-training lead at the Allen Institute for AI (Ai2) and the author of The RLHF Book",
@@ -251,16 +261,6 @@
       "duration_min": 66,
       "image": "",
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
-    },
-    {
-      "id": "Lex Frid_2",
-      "name": "#489 – Paul Rosolie: Uncontacted Tribes in the Amazon Jungle",
-      "show": "Lex Fridman Podcast",
-      "description": "Paul Rosolie is a naturalist, explorer, author of a new book titled Junglekeeper, and is someone who has dedicated his life to protecting the Amazon rainforest.<br />\nThank you for listening ❤ Chec",
-      "release_date": "2026-01-13",
-      "duration_min": 194,
-      "image": "",
-      "url": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"
     },
     {
       "id": "The TWIM_2",

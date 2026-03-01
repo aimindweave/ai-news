@@ -10,9 +10,9 @@
   {
     "title": "Microgpt",
     "source": "Hacker News",
-    "description": "HN Score: 75 | 8 comments",
+    "description": "HN Score: 373 | 70 comments",
     "url": "http://karpathy.github.io/2026/02/12/microgpt/",
-    "score": 75,
+    "score": 373,
     "date": "2026-03-01",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "We do not think Anthropic should be designated as a supply chain risk",
     "source": "Hacker News",
-    "description": "HN Score: 287 | 124 comments",
+    "description": "HN Score: 397 | 173 comments",
     "url": "https://twitter.com/OpenAI/status/2027846016423321831",
-    "score": 287,
+    "score": 397,
     "date": "2026-03-01",
     "category": "AI News"
   },
@@ -44,9 +44,9 @@
   {
     "title": "Show HN: Xmloxide \u2013 an agent made rust replacement for libxml2",
     "source": "Hacker News",
-    "description": "HN Score: 30 | 16 comments",
+    "description": "HN Score: 47 | 33 comments",
     "url": "https://github.com/jonwiggins/xmloxide",
-    "score": 30,
+    "score": 47,
     "date": "2026-03-01",
     "category": "AI News"
   },
@@ -61,9 +61,9 @@
   {
     "title": "Building a Minimal Transformer for 10-digit Addition",
     "source": "Hacker News",
-    "description": "HN Score: 39 | 6 comments",
+    "description": "HN Score: 46 | 7 comments",
     "url": "https://alexlitzenberger.com/blog/post.html?post=/building_a_minimal_transformer_for_10_digit_addition",
-    "score": 39,
+    "score": 46,
     "date": "2026-03-01",
     "category": "AI News"
   },
@@ -78,9 +78,9 @@
   {
     "title": "Qwen3.5 122B and 35B models offer Sonnet 4.5 performance on local computers",
     "source": "Hacker News",
-    "description": "HN Score: 235 | 153 comments",
+    "description": "HN Score: 284 | 183 comments",
     "url": "https://venturebeat.com/technology/alibabas-new-open-source-qwen3-5-medium-models-offer-sonnet-4-5-performance",
-    "score": 235,
+    "score": 284,
     "date": "2026-03-01",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Deterministic Programming with LLMs",
+    "title": "MCP server that reduces Claude Code context consumption by 98%",
     "source": "Hacker News",
-    "description": "HN Score: 21 | 10 comments",
-    "url": "https://www.mcherm.com/deterministic-programming-with-llms.html",
-    "score": 21,
+    "description": "HN Score: 289 | 67 comments",
+    "url": "https://mksg.lu/blog/context-mode",
+    "score": 289,
     "date": "2026-03-01",
     "category": "AI News"
   },
@@ -110,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "MCP server that reduces Claude Code context consumption by 98%",
+    "title": "Deterministic Programming with LLMs",
     "source": "Hacker News",
-    "description": "HN Score: 241 | 58 comments",
-    "url": "https://mksg.lu/blog/context-mode",
-    "score": 241,
+    "description": "HN Score: 36 | 19 comments",
+    "url": "https://www.mcherm.com/deterministic-programming-with-llms.html",
+    "score": 36,
     "date": "2026-03-01",
     "category": "AI News"
   },
@@ -127,11 +127,28 @@
     "category": "Twitter"
   },
   {
+    "title": "Running a One Trillion-Parameter LLM Locally on AMD Ryzen AI Max+ Cluster",
+    "source": "Hacker News",
+    "description": "HN Score: 42 | 6 comments",
+    "url": "https://www.amd.com/en/developer/resources/technical-articles/2026/how-to-run-a-one-trillion-parameter-llm-locally-an-amd.html",
+    "score": 42,
+    "date": "2026-03-01",
+    "category": "AI News"
+  },
+  {
+    "title": "Prediction - The war will be over before the stock markets open Iran doesn\u2019t have their leader anymore and most Iranians don\u2019t want war More important",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2027949845265207673#m",
+    "date": "2026-03-01",
+    "category": "Twitter"
+  },
+  {
     "title": "747s and Coding Agents",
     "source": "Hacker News",
-    "description": "HN Score: 130 | 58 comments",
+    "description": "HN Score: 140 | 61 comments",
     "url": "https://carlkolon.com/2026/02/27/engineering-747-coding-agents/",
-    "score": 130,
+    "score": 140,
     "date": "2026-03-01",
     "category": "AI News"
   },
@@ -144,28 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Running a One Trillion-Parameter LLM Locally on AMD Ryzen AI Max+ Cluster",
+    "title": "OpenAI agrees with Dept. of War to deploy models in their classified network",
     "source": "Hacker News",
-    "description": "HN Score: 16 | 4 comments",
-    "url": "https://www.amd.com/en/developer/resources/technical-articles/2026/how-to-run-a-one-trillion-parameter-llm-locally-an-amd.html",
-    "score": 16,
-    "date": "2026-03-01",
-    "category": "AI News"
-  },
-  {
-    "title": "UNREAL - my flight to Doha, Qatar is getting diverted to Istanbul Because the US decided to go to war with Iran!!! World War 3 may have begun and now ",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2027710125520060520#m",
-    "date": "2026-03-01",
-    "category": "Twitter"
-  },
-  {
-    "title": "The Future of AI",
-    "source": "Hacker News",
-    "description": "HN Score: 118 | 96 comments",
-    "url": "https://lucijagregov.com/2026/02/26/the-future-of-ai/",
-    "score": 118,
+    "description": "HN Score: 1350 | 624 comments",
+    "url": "https://twitter.com/sama/status/2027578652477821175",
+    "score": 1350,
     "date": "2026-03-01",
     "category": "AI News"
   }
