@@ -10,9 +10,9 @@
   {
     "title": "Microgpt",
     "source": "Hacker News",
-    "description": "HN Score: 373 | 70 comments",
+    "description": "HN Score: 516 | 88 comments",
     "url": "http://karpathy.github.io/2026/02/12/microgpt/",
-    "score": 373,
+    "score": 516,
     "date": "2026-03-01",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "We do not think Anthropic should be designated as a supply chain risk",
     "source": "Hacker News",
-    "description": "HN Score: 397 | 173 comments",
+    "description": "HN Score: 448 | 204 comments",
     "url": "https://twitter.com/OpenAI/status/2027846016423321831",
-    "score": 397,
+    "score": 448,
     "date": "2026-03-01",
     "category": "AI News"
   },
@@ -44,9 +44,9 @@
   {
     "title": "Show HN: Xmloxide \u2013 an agent made rust replacement for libxml2",
     "source": "Hacker News",
-    "description": "HN Score: 47 | 33 comments",
+    "description": "HN Score: 54 | 38 comments",
     "url": "https://github.com/jonwiggins/xmloxide",
-    "score": 47,
+    "score": 54,
     "date": "2026-03-01",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Building a Minimal Transformer for 10-digit Addition",
+    "title": "MCP server that reduces Claude Code context consumption by 98%",
     "source": "Hacker News",
-    "description": "HN Score: 46 | 7 comments",
-    "url": "https://alexlitzenberger.com/blog/post.html?post=/building_a_minimal_transformer_for_10_digit_addition",
-    "score": 46,
+    "description": "HN Score: 327 | 71 comments",
+    "url": "https://mksg.lu/blog/context-mode",
+    "score": 327,
     "date": "2026-03-01",
     "category": "AI News"
   },
@@ -78,9 +78,9 @@
   {
     "title": "Qwen3.5 122B and 35B models offer Sonnet 4.5 performance on local computers",
     "source": "Hacker News",
-    "description": "HN Score: 284 | 183 comments",
+    "description": "HN Score: 307 | 187 comments",
     "url": "https://venturebeat.com/technology/alibabas-new-open-source-qwen3-5-medium-models-offer-sonnet-4-5-performance",
-    "score": 284,
+    "score": 307,
     "date": "2026-03-01",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "MCP server that reduces Claude Code context consumption by 98%",
+    "title": "Building a Minimal Transformer for 10-digit Addition",
     "source": "Hacker News",
-    "description": "HN Score: 289 | 67 comments",
-    "url": "https://mksg.lu/blog/context-mode",
-    "score": 289,
+    "description": "HN Score: 49 | 7 comments",
+    "url": "https://alexlitzenberger.com/blog/post.html?post=/building_a_minimal_transformer_for_10_digit_addition",
+    "score": 49,
     "date": "2026-03-01",
     "category": "AI News"
   },
@@ -110,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Deterministic Programming with LLMs",
+    "title": "The Science of Detecting LLM-Generated Text",
     "source": "Hacker News",
-    "description": "HN Score: 36 | 19 comments",
-    "url": "https://www.mcherm.com/deterministic-programming-with-llms.html",
-    "score": 36,
+    "description": "HN Score: 14 | 2 comments",
+    "url": "https://dl.acm.org/doi/10.1145/3624725",
+    "score": 14,
     "date": "2026-03-01",
     "category": "AI News"
   },
@@ -127,11 +127,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Running a One Trillion-Parameter LLM Locally on AMD Ryzen AI Max+ Cluster",
+    "title": "Deterministic Programming with LLMs",
     "source": "Hacker News",
-    "description": "HN Score: 42 | 6 comments",
-    "url": "https://www.amd.com/en/developer/resources/technical-articles/2026/how-to-run-a-one-trillion-parameter-llm-locally-an-amd.html",
-    "score": 42,
+    "description": "HN Score: 38 | 20 comments",
+    "url": "https://www.mcherm.com/deterministic-programming-with-llms.html",
+    "score": 38,
+    "date": "2026-03-01",
+    "category": "AI News"
+  },
+  {
+    "title": "Wow, the amount of misinformation on X is amplified 100x today There is just a lot of panic everywhere and the entire air space in the Middle East is ",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2027995711053197746#m",
+    "date": "2026-03-01",
+    "category": "Twitter"
+  },
+  {
+    "title": "747s and Coding Agents",
+    "source": "Hacker News",
+    "description": "HN Score: 142 | 67 comments",
+    "url": "https://carlkolon.com/2026/02/27/engineering-747-coding-agents/",
+    "score": 142,
     "date": "2026-03-01",
     "category": "AI News"
   },
@@ -144,28 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "747s and Coding Agents",
+    "title": "Running a One Trillion-Parameter LLM Locally on AMD Ryzen AI Max+ Cluster",
     "source": "Hacker News",
-    "description": "HN Score: 140 | 61 comments",
-    "url": "https://carlkolon.com/2026/02/27/engineering-747-coding-agents/",
-    "score": 140,
-    "date": "2026-03-01",
-    "category": "AI News"
-  },
-  {
-    "title": "DeepSeek is supposed to drop v4 very soon Monday is a great day to drop v4 and bring some joy to the world \ud83c\udf89",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2027934190579138676#m",
-    "date": "2026-03-01",
-    "category": "Twitter"
-  },
-  {
-    "title": "OpenAI agrees with Dept. of War to deploy models in their classified network",
-    "source": "Hacker News",
-    "description": "HN Score: 1350 | 624 comments",
-    "url": "https://twitter.com/sama/status/2027578652477821175",
-    "score": 1350,
+    "description": "HN Score: 55 | 11 comments",
+    "url": "https://www.amd.com/en/developer/resources/technical-articles/2026/how-to-run-a-one-trillion-parameter-llm-locally-an-amd.html",
+    "score": 55,
     "date": "2026-03-01",
     "category": "AI News"
   }
