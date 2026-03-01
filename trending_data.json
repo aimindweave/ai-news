@@ -10,9 +10,9 @@
   {
     "title": "AI Made Writing Code Easier. It Made Being an Engineer Harder",
     "source": "Hacker News",
-    "description": "HN Score: 24 | 16 comments",
+    "description": "HN Score: 244 | 165 comments",
     "url": "https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/",
-    "score": 24,
+    "score": 244,
     "date": "2026-03-01",
     "category": "AI News"
   },
@@ -25,11 +25,45 @@
     "category": "Twitter"
   },
   {
+    "title": "Microgpt",
+    "source": "Hacker News",
+    "description": "HN Score: 1299 | 224 comments",
+    "url": "http://karpathy.github.io/2026/02/12/microgpt/",
+    "score": 1299,
+    "date": "2026-03-01",
+    "category": "AI News"
+  },
+  {
+    "title": "Vibe code as variable reward skinner boxes",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/EMostaque/status/2027935253386694691#m",
+    "date": "2026-03-01",
+    "category": "Twitter"
+  },
+  {
     "title": "I built a demo of what AI chat will look like when it's 'free' and ad-supported",
     "source": "Hacker News",
-    "description": "HN Score: 168 | 95 comments",
+    "description": "HN Score: 239 | 158 comments",
     "url": "https://99helpers.com/tools/ad-supported-chat",
-    "score": 168,
+    "score": 239,
+    "date": "2026-03-01",
+    "category": "AI News"
+  },
+  {
+    "title": "It is inevitable that AI will run government The question is who that AI works for if anyone at all All watched over by machines of loving grace?",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/EMostaque/status/2027912344823861677#m",
+    "date": "2026-03-01",
+    "category": "Twitter"
+  },
+  {
+    "title": "We do not think Anthropic should be designated as a supply chain risk",
+    "source": "Hacker News",
+    "description": "HN Score: 671 | 360 comments",
+    "url": "https://twitter.com/OpenAI/status/2027846016423321831",
+    "score": 671,
     "date": "2026-03-01",
     "category": "AI News"
   },
@@ -42,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Microgpt",
+    "title": "10-202: Introduction to Modern AI (CMU)",
     "source": "Hacker News",
-    "description": "HN Score: 1190 | 211 comments",
-    "url": "http://karpathy.github.io/2026/02/12/microgpt/",
-    "score": 1190,
+    "description": "HN Score: 142 | 33 comments",
+    "url": "https://modernaicourse.org",
+    "score": 142,
     "date": "2026-03-01",
     "category": "AI News"
   },
@@ -59,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "We do not think Anthropic should be designated as a supply chain risk",
+    "title": "Switch to Claude without starting over",
     "source": "Hacker News",
-    "description": "HN Score: 635 | 339 comments",
-    "url": "https://twitter.com/OpenAI/status/2027846016423321831",
-    "score": 635,
+    "description": "HN Score: 387 | 188 comments",
+    "url": "https://claude.com/import-memory",
+    "score": 387,
     "date": "2026-03-01",
     "category": "AI News"
   },
@@ -76,16 +110,16 @@
     "category": "Twitter"
   },
   {
-    "title": "10-202: Introduction to Modern AI (CMU)",
+    "title": "Why XML Tags Are So Fundamental to Claude",
     "source": "Hacker News",
-    "description": "HN Score: 116 | 30 comments",
-    "url": "https://modernaicourse.org",
-    "score": 116,
+    "description": "HN Score: 28 | 9 comments",
+    "url": "https://glthr.com/XML-fundamental-to-Claude",
+    "score": 28,
     "date": "2026-03-01",
     "category": "AI News"
   },
   {
-    "title": "RT by @svpino: Every time your agent makes a mistake, take a second to build a solution so it never happens again. It takes a second to ask your agent",
+    "title": "Every time your agent makes a mistake, take a second to build a solution so it never happens again. It takes a second to ask your agent to analyze wha",
     "source": "@svpino",
     "description": "",
     "url": "https://nitter.net/svpino/status/2027748132549996653#m",
@@ -93,11 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Switch to Claude without starting over",
+    "title": "AI is making junior devs useless",
     "source": "Hacker News",
-    "description": "HN Score: 306 | 156 comments",
-    "url": "https://claude.com/import-memory",
-    "score": 306,
+    "description": "HN Score: 77 | 93 comments",
+    "url": "https://beabetterdev.com/2026/03/01/ai-is-making-junior-devs-useless/",
+    "score": 77,
     "date": "2026-03-01",
     "category": "AI News"
   },
@@ -110,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "How the Federal Government Is Painting Immigrants as Criminals on Social Media",
+    "title": "Pigeons and Planes Has a Website Again",
     "source": "Hacker News",
-    "description": "HN Score: 22 | 3 comments",
-    "url": "https://www.npr.org/2026/02/27/nx-s1-5720167/trump-ice-immigration-social-media-deportation-dhs-immigrants-detained-disputes",
-    "score": 22,
+    "description": "HN Score: 27 | 2 comments",
+    "url": "https://www.pigeonsandplanes.com/read/pigeons-and-planes-has-a-website-again",
+    "score": 27,
     "date": "2026-03-01",
     "category": "AI News"
   },
@@ -129,27 +163,9 @@
   {
     "title": "MCP server that reduces Claude Code context consumption by 98%",
     "source": "Hacker News",
-    "description": "HN Score: 459 | 92 comments",
+    "description": "HN Score: 499 | 94 comments",
     "url": "https://mksg.lu/blog/context-mode",
-    "score": 459,
-    "date": "2026-03-01",
-    "category": "AI News"
-  },
-  {
-    "title": "Pigeons and Planes Has a Website Again",
-    "source": "Hacker News",
-    "description": "HN Score: 16 | 1 comments",
-    "url": "https://www.pigeonsandplanes.com/read/pigeons-and-planes-has-a-website-again",
-    "score": 16,
-    "date": "2026-03-01",
-    "category": "AI News"
-  },
-  {
-    "title": "Qwen3.5 122B and 35B models offer Sonnet 4.5 performance on local computers",
-    "source": "Hacker News",
-    "description": "HN Score: 415 | 229 comments",
-    "url": "https://venturebeat.com/technology/alibabas-new-open-source-qwen3-5-medium-models-offer-sonnet-4-5-performance",
-    "score": 415,
+    "score": 499,
     "date": "2026-03-01",
     "category": "AI News"
   }
