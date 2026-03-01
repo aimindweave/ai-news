@@ -10,9 +10,9 @@
   {
     "title": "Microgpt",
     "source": "Hacker News",
-    "description": "HN Score: 850 | 147 comments",
+    "description": "HN Score: 1063 | 198 comments",
     "url": "http://karpathy.github.io/2026/02/12/microgpt/",
-    "score": 850,
+    "score": 1063,
     "date": "2026-03-01",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "10-202: Introduction to Modern AI (CMU)",
+    "title": "I built a demo of what AI chat will look like when it's 'free' and ad-supported",
     "source": "Hacker News",
-    "description": "HN Score: 50 | 11 comments",
-    "url": "https://modernaicourse.org",
-    "score": 50,
+    "description": "HN Score: 20 | 3 comments",
+    "url": "https://99helpers.com/tools/ad-supported-chat",
+    "score": 20,
     "date": "2026-03-01",
     "category": "AI News"
   },
@@ -44,9 +44,9 @@
   {
     "title": "We do not think Anthropic should be designated as a supply chain risk",
     "source": "Hacker News",
-    "description": "HN Score: 556 | 268 comments",
+    "description": "HN Score: 602 | 310 comments",
     "url": "https://twitter.com/OpenAI/status/2027846016423321831",
-    "score": 556,
+    "score": 602,
     "date": "2026-03-01",
     "category": "AI News"
   },
@@ -59,28 +59,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Switch to Claude without starting over",
+    "title": "10-202: Introduction to Modern AI (CMU)",
     "source": "Hacker News",
-    "description": "HN Score: 133 | 83 comments",
-    "url": "https://claude.com/import-memory",
-    "score": 133,
+    "description": "HN Score: 93 | 18 comments",
+    "url": "https://modernaicourse.org",
+    "score": 93,
     "date": "2026-03-01",
     "category": "AI News"
   },
   {
-    "title": "We trained a humanoid with 22-DoF dexterous hands to assemble model cars, operate syringes, sort poker cards, fold/roll shirts, all learned primarily ",
+    "title": "R to @DrJimFan: We would also like to thank our dexterous hand hardware provider, Sharpa, for their great support!",
     "source": "@DrJimFan",
     "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2026709304984875202#m",
+    "url": "https://nitter.net/DrJimFan/status/2026709308713611695#m",
     "date": "2026-03-01",
     "category": "Twitter"
   },
   {
-    "title": "MCP server that reduces Claude Code context consumption by 98%",
+    "title": "Switch to Claude without starting over",
     "source": "Hacker News",
-    "description": "HN Score: 399 | 82 comments",
-    "url": "https://mksg.lu/blog/context-mode",
-    "score": 399,
+    "description": "HN Score: 227 | 132 comments",
+    "url": "https://claude.com/import-memory",
+    "score": 227,
     "date": "2026-03-01",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Qwen3.5 122B and 35B models offer Sonnet 4.5 performance on local computers",
+    "title": "Pigeons and Planes Has a Website Again",
     "source": "Hacker News",
-    "description": "HN Score: 373 | 209 comments",
-    "url": "https://venturebeat.com/technology/alibabas-new-open-source-qwen3-5-medium-models-offer-sonnet-4-5-performance",
-    "score": 373,
+    "description": "HN Score: 12 | 1 comments",
+    "url": "https://www.pigeonsandplanes.com/read/pigeons-and-planes-has-a-website-again",
+    "score": 12,
     "date": "2026-03-01",
     "category": "AI News"
   },
@@ -110,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "The Science of Detecting LLM-Generated Text",
+    "title": "MCP server that reduces Claude Code context consumption by 98%",
     "source": "Hacker News",
-    "description": "HN Score: 32 | 13 comments",
-    "url": "https://dl.acm.org/doi/10.1145/3624725",
-    "score": 32,
+    "description": "HN Score: 431 | 90 comments",
+    "url": "https://mksg.lu/blog/context-mode",
+    "score": 431,
     "date": "2026-03-01",
     "category": "AI News"
   },
@@ -127,11 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Intelligence is a commodity. Context is the real AI Moat",
+    "title": "The Science of Detecting LLM-Generated Text (2024)",
     "source": "Hacker News",
-    "description": "HN Score: 9 | 0 comments",
-    "url": "https://adlrocha.substack.com/p/adlrocha-intelligence-is-a-commodity",
-    "score": 9,
+    "description": "HN Score: 40 | 17 comments",
+    "url": "https://dl.acm.org/doi/10.1145/3624725",
+    "score": 40,
     "date": "2026-03-01",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Deterministic Programming with LLMs",
+    "title": "Qwen3.5 122B and 35B models offer Sonnet 4.5 performance on local computers",
     "source": "Hacker News",
-    "description": "HN Score: 54 | 28 comments",
-    "url": "https://www.mcherm.com/deterministic-programming-with-llms.html",
-    "score": 54,
+    "description": "HN Score: 401 | 214 comments",
+    "url": "https://venturebeat.com/technology/alibabas-new-open-source-qwen3-5-medium-models-offer-sonnet-4-5-performance",
+    "score": 401,
     "date": "2026-03-01",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Building a Minimal Transformer for 10-digit Addition",
+    "title": "Deterministic Programming with LLMs",
     "source": "Hacker News",
-    "description": "HN Score: 59 | 9 comments",
-    "url": "https://alexlitzenberger.com/blog/post.html?post=/building_a_minimal_transformer_for_10_digit_addition",
-    "score": 59,
+    "description": "HN Score: 58 | 28 comments",
+    "url": "https://www.mcherm.com/deterministic-programming-with-llms.html",
+    "score": 58,
     "date": "2026-03-01",
     "category": "AI News"
   }
