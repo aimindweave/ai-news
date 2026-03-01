@@ -10,9 +10,9 @@
   {
     "title": "Microgpt",
     "source": "Hacker News",
-    "description": "HN Score: 516 | 88 comments",
+    "description": "HN Score: 703 | 116 comments",
     "url": "http://karpathy.github.io/2026/02/12/microgpt/",
-    "score": 516,
+    "score": 703,
     "date": "2026-03-01",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "We do not think Anthropic should be designated as a supply chain risk",
+    "title": "Switch to Claude Without Starting Over",
     "source": "Hacker News",
-    "description": "HN Score: 448 | 204 comments",
-    "url": "https://twitter.com/OpenAI/status/2027846016423321831",
-    "score": 448,
+    "description": "HN Score: 51 | 28 comments",
+    "url": "https://claude.com/import-memory",
+    "score": 51,
     "date": "2026-03-01",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Xmloxide \u2013 an agent made rust replacement for libxml2",
+    "title": "We do not think Anthropic should be designated as a supply chain risk",
     "source": "Hacker News",
-    "description": "HN Score: 54 | 38 comments",
-    "url": "https://github.com/jonwiggins/xmloxide",
-    "score": 54,
+    "description": "HN Score: 506 | 240 comments",
+    "url": "https://twitter.com/OpenAI/status/2027846016423321831",
+    "score": 506,
     "date": "2026-03-01",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "MCP server that reduces Claude Code context consumption by 98%",
+    "title": "10-202: Introduction to Modern AI (CMU)",
     "source": "Hacker News",
-    "description": "HN Score: 327 | 71 comments",
-    "url": "https://mksg.lu/blog/context-mode",
-    "score": 327,
+    "description": "HN Score: 16 | 2 comments",
+    "url": "https://modernaicourse.org",
+    "score": 16,
     "date": "2026-03-01",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Qwen3.5 122B and 35B models offer Sonnet 4.5 performance on local computers",
+    "title": "MCP server that reduces Claude Code context consumption by 98%",
     "source": "Hacker News",
-    "description": "HN Score: 307 | 187 comments",
-    "url": "https://venturebeat.com/technology/alibabas-new-open-source-qwen3-5-medium-models-offer-sonnet-4-5-performance",
-    "score": 307,
+    "description": "HN Score: 361 | 78 comments",
+    "url": "https://mksg.lu/blog/context-mode",
+    "score": 361,
     "date": "2026-03-01",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Building a Minimal Transformer for 10-digit Addition",
+    "title": "Qwen3.5 122B and 35B models offer Sonnet 4.5 performance on local computers",
     "source": "Hacker News",
-    "description": "HN Score: 49 | 7 comments",
-    "url": "https://alexlitzenberger.com/blog/post.html?post=/building_a_minimal_transformer_for_10_digit_addition",
-    "score": 49,
+    "description": "HN Score: 338 | 197 comments",
+    "url": "https://venturebeat.com/technology/alibabas-new-open-source-qwen3-5-medium-models-offer-sonnet-4-5-performance",
+    "score": 338,
     "date": "2026-03-01",
     "category": "AI News"
   },
@@ -112,9 +112,9 @@
   {
     "title": "The Science of Detecting LLM-Generated Text",
     "source": "Hacker News",
-    "description": "HN Score: 14 | 2 comments",
+    "description": "HN Score: 23 | 8 comments",
     "url": "https://dl.acm.org/doi/10.1145/3624725",
-    "score": 14,
+    "score": 23,
     "date": "2026-03-01",
     "category": "AI News"
   },
@@ -127,11 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Deterministic Programming with LLMs",
+    "title": "Building a Minimal Transformer for 10-digit Addition",
     "source": "Hacker News",
-    "description": "HN Score: 38 | 20 comments",
-    "url": "https://www.mcherm.com/deterministic-programming-with-llms.html",
-    "score": 38,
+    "description": "HN Score: 53 | 8 comments",
+    "url": "https://alexlitzenberger.com/blog/post.html?post=/building_a_minimal_transformer_for_10_digit_addition",
+    "score": 53,
     "date": "2026-03-01",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "747s and Coding Agents",
+    "title": "747s and coding agents",
     "source": "Hacker News",
-    "description": "HN Score: 142 | 67 comments",
+    "description": "HN Score: 147 | 70 comments",
     "url": "https://carlkolon.com/2026/02/27/engineering-747-coding-agents/",
-    "score": 142,
+    "score": 147,
     "date": "2026-03-01",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Running a One Trillion-Parameter LLM Locally on AMD Ryzen AI Max+ Cluster",
+    "title": "Deterministic Programming with LLMs",
     "source": "Hacker News",
-    "description": "HN Score: 55 | 11 comments",
-    "url": "https://www.amd.com/en/developer/resources/technical-articles/2026/how-to-run-a-one-trillion-parameter-llm-locally-an-amd.html",
-    "score": 55,
+    "description": "HN Score: 43 | 24 comments",
+    "url": "https://www.mcherm.com/deterministic-programming-with-llms.html",
+    "score": 43,
     "date": "2026-03-01",
     "category": "AI News"
   }
