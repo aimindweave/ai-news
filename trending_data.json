@@ -10,9 +10,9 @@
   {
     "title": "If AI writes code, should the session be part of the commit?",
     "source": "Hacker News",
-    "description": "HN Score: 155 | 170 comments",
+    "description": "HN Score: 219 | 225 comments",
     "url": "https://github.com/mandel-macaque/memento",
-    "score": 155,
+    "score": 219,
     "date": "2026-03-02",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Evolving descriptive text of mental content from human brain activity",
+    "title": "WebMCP is available for early preview",
     "source": "Hacker News",
-    "description": "HN Score: 14 | 5 comments",
-    "url": "https://www.bbc.com/future/article/20260226-how-ai-can-read-your-thoughts",
-    "score": 14,
+    "description": "HN Score: 274 | 155 comments",
+    "url": "https://developer.chrome.com/blog/webmcp-epp",
+    "score": 274,
     "date": "2026-03-02",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "WebMCP is available for early preview",
+    "title": "Show HN: Timber \u2013 Ollama for classical ML models, 336x faster than Python",
     "source": "Hacker News",
-    "description": "HN Score: 253 | 137 comments",
-    "url": "https://developer.chrome.com/blog/webmcp-epp",
-    "score": 253,
+    "description": "HN Score: 118 | 16 comments",
+    "url": "https://github.com/kossisoroyce/timber",
+    "score": 118,
     "date": "2026-03-02",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Timber \u2013 Ollama for classical ML models, 336x faster than Python",
+    "title": "Evolving descriptive text of mental content from human brain activity",
     "source": "Hacker News",
-    "description": "HN Score: 104 | 11 comments",
-    "url": "https://github.com/kossisoroyce/timber",
-    "score": 104,
+    "description": "HN Score: 19 | 11 comments",
+    "url": "https://www.bbc.com/future/article/20260226-how-ai-can-read-your-thoughts",
+    "score": 19,
     "date": "2026-03-02",
     "category": "AI News"
   },
@@ -78,9 +78,9 @@
   {
     "title": "Right-sizes LLM models to your system's RAM, CPU, and GPU",
     "source": "Hacker News",
-    "description": "HN Score: 95 | 22 comments",
+    "description": "HN Score: 122 | 29 comments",
     "url": "https://github.com/AlexsJones/llmfit",
-    "score": 95,
+    "score": 122,
     "date": "2026-03-02",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Vibe Code your 3D Models",
+    "title": "Microgpt explained interactively",
     "source": "Hacker News",
-    "description": "HN Score: 48 | 14 comments",
-    "url": "https://github.com/ierror/synaps-cad",
-    "score": 48,
+    "description": "HN Score: 265 | 37 comments",
+    "url": "https://growingswe.com/blog/microgpt",
+    "score": 265,
     "date": "2026-03-02",
     "category": "AI News"
   },
@@ -110,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Microgpt explained interactively",
+    "title": "Why XML tags are so fundamental to Claude",
     "source": "Hacker News",
-    "description": "HN Score: 252 | 37 comments",
-    "url": "https://growingswe.com/blog/microgpt",
-    "score": 252,
+    "description": "HN Score: 201 | 137 comments",
+    "url": "https://glthr.com/XML-fundamental-to-Claude",
+    "score": 201,
     "date": "2026-03-02",
     "category": "AI News"
   },
@@ -127,11 +127,28 @@
     "category": "Twitter"
   },
   {
+    "title": "Microgpt",
+    "source": "Hacker News",
+    "description": "HN Score: 1802 | 301 comments",
+    "url": "http://karpathy.github.io/2026/02/12/microgpt/",
+    "score": 1802,
+    "date": "2026-03-02",
+    "category": "AI News"
+  },
+  {
+    "title": "The situation seems to be spiraling out of control We may require a major model drop to distract us all including the enemy and de-escalate the situat",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2028385066842501203#m",
+    "date": "2026-03-02",
+    "category": "Twitter"
+  },
+  {
     "title": "Running Neural Amp Modeler on embedded hardware",
     "source": "Hacker News",
-    "description": "HN Score: 25 | 6 comments",
+    "description": "HN Score: 30 | 6 comments",
     "url": "https://www.tone3000.com/blog/running-nam-on-embedded-hardware",
-    "score": 25,
+    "score": 30,
     "date": "2026-03-02",
     "category": "AI News"
   },
@@ -144,28 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Why XML tags are so fundamental to Claude",
+    "title": "I built a demo of what AI chat will look like when it's \u201cfree\u201d and ad-supported",
     "source": "Hacker News",
-    "description": "HN Score: 192 | 132 comments",
-    "url": "https://glthr.com/XML-fundamental-to-Claude",
-    "score": 192,
-    "date": "2026-03-02",
-    "category": "AI News"
-  },
-  {
-    "title": "Prediction - The war will be over before the stock markets open Iran doesn\u2019t have their leader anymore and most Iranians don\u2019t want war More important",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2027949845265207673#m",
-    "date": "2026-03-02",
-    "category": "Twitter"
-  },
-  {
-    "title": "Microgpt",
-    "source": "Hacker News",
-    "description": "HN Score: 1787 | 301 comments",
-    "url": "http://karpathy.github.io/2026/02/12/microgpt/",
-    "score": 1787,
+    "description": "HN Score: 542 | 285 comments",
+    "url": "https://99helpers.com/tools/ad-supported-chat",
+    "score": 542,
     "date": "2026-03-02",
     "category": "AI News"
   }
