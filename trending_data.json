@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "MacBook Air with M5",
+    "title": "GPT\u20115.3 Instant",
     "source": "Hacker News",
-    "description": "HN Score: 238 | 215 comments",
-    "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/",
-    "score": 238,
+    "description": "HN Score: 149 | 76 comments",
+    "url": "https://openai.com/index/gpt-5-3-instant/",
+    "score": 149,
     "date": "2026-03-03",
     "category": "AI News"
   },
@@ -25,11 +25,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Claude is an Electron App because we've lost native",
+    "title": "MacBook Air with M5",
     "source": "Hacker News",
-    "description": "HN Score: 48 | 38 comments",
-    "url": "https://tonsky.me/blog/fall-of-native/",
-    "score": 48,
+    "description": "HN Score: 294 | 304 comments",
+    "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/",
+    "score": 294,
+    "date": "2026-03-03",
+    "category": "AI News"
+  },
+  {
+    "title": "I always find the AI uses crazy amounts of water thing weird Here is a fun stat: Globally golf courses use 10x the water of AI data centres",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/EMostaque/status/2028909768056902096#m",
+    "date": "2026-03-03",
+    "category": "Twitter"
+  },
+  {
+    "title": "Claude's Cycles [pdf]",
+    "source": "Hacker News",
+    "description": "HN Score: 325 | 156 comments",
+    "url": "https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf",
+    "score": 325,
     "date": "2026-03-03",
     "category": "AI News"
   },
@@ -42,28 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Claude's Cycles [pdf]",
+    "title": "TorchLean: Formalizing Neural Networks in Lean",
     "source": "Hacker News",
-    "description": "HN Score: 278 | 129 comments",
-    "url": "https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf",
-    "score": 278,
-    "date": "2026-03-03",
-    "category": "AI News"
-  },
-  {
-    "title": "It is inevitable that AI will run government The question is who that AI works for if anyone at all All watched over by machines of loving grace?",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/EMostaque/status/2027912344823861677#m",
-    "date": "2026-03-03",
-    "category": "Twitter"
-  },
-  {
-    "title": "Launch HN: Cekura (YC F24) \u2013 Testing and monitoring for voice and chat AI agents",
-    "source": "Hacker News",
-    "description": "HN Score: 39 | 7 comments",
-    "url": "https://news.ycombinator.com/item?id=47232903",
-    "score": 39,
+    "description": "HN Score: 40 | 3 comments",
+    "url": "https://leandojo.org/torchlean.html",
+    "score": 40,
     "date": "2026-03-03",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "When AI Writes the Software, Who Verifies It?",
+    "title": "Show HN: Explain Curl Commands",
     "source": "Hacker News",
-    "description": "HN Score: 39 | 23 comments",
-    "url": "https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html",
-    "score": 39,
+    "description": "HN Score: 16 | 0 comments",
+    "url": "https://github.com/akgitrepos/explain-my-curl",
+    "score": 16,
     "date": "2026-03-03",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "TorchLean: Formalizing Neural Networks in Lean",
+    "title": "Launch HN: Cekura (YC F24) \u2013 Testing and monitoring for voice and chat AI agents",
     "source": "Hacker News",
-    "description": "HN Score: 21 | 2 comments",
-    "url": "https://leandojo.org/torchlean.html",
-    "score": 21,
+    "description": "HN Score: 48 | 16 comments",
+    "url": "https://news.ycombinator.com/item?id=47232903",
+    "score": 48,
     "date": "2026-03-03",
     "category": "AI News"
   },
@@ -110,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "GPT\u20115.3 Instant",
+    "title": "Show HN: Open-Source Article 12 Logging Infrastructure for the EU AI Act",
     "source": "Hacker News",
-    "description": "HN Score: 43 | 18 comments",
-    "url": "https://openai.com/index/gpt-5-3-instant/",
-    "score": 43,
+    "description": "HN Score: 23 | 0 comments",
+    "url": "https://news.ycombinator.com/item?id=47230438",
+    "score": 23,
     "date": "2026-03-03",
     "category": "AI News"
   },
@@ -127,11 +127,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Ars Technica fires reporter after AI controversy involving fabricated quotes",
+    "title": "Meta\u2019s AI smart glasses and data privacy concerns",
     "source": "Hacker News",
-    "description": "HN Score: 542 | 334 comments",
-    "url": "https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes",
-    "score": 542,
+    "description": "HN Score: 1338 | 750 comments",
+    "url": "https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything",
+    "score": 1338,
+    "date": "2026-03-03",
+    "category": "AI News"
+  },
+  {
+    "title": "GPT 5.3 Instant and Gemini 3.1 Flash - Excellent Fast Models Just Dropped The world may be in chaos but the AI acceleration continues! Flash lite coul",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2028910077936320771#m",
+    "date": "2026-03-03",
+    "category": "Twitter"
+  },
+  {
+    "title": "India's top court angry after junior judge cites fake AI-generated orders",
+    "source": "Hacker News",
+    "description": "HN Score: 315 | 169 comments",
+    "url": "https://www.bbc.com/news/articles/c178zzw780xo",
+    "score": 315,
     "date": "2026-03-03",
     "category": "AI News"
   },
@@ -144,28 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Open-Source Article 12 Logging Infrastructure for the EU AI Act",
+    "title": "AI-generated art can\u2019t be copyrighted after Supreme Court declines review",
     "source": "Hacker News",
-    "description": "HN Score: 14 | 0 comments",
-    "url": "https://news.ycombinator.com/item?id=47230438",
-    "score": 14,
-    "date": "2026-03-03",
-    "category": "AI News"
-  },
-  {
-    "title": "Thousands of US citizens from the entire Middle East are being told to leave immediately At the same time pretty much all the flights from these place",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2028617370919727305#m",
-    "date": "2026-03-03",
-    "category": "Twitter"
-  },
-  {
-    "title": "Someone Needs to Go to Jail",
-    "source": "Hacker News",
-    "description": "HN Score: 27 | 6 comments",
-    "url": "https://edwardelson.substack.com/p/someone-needs-to-go-to-jail",
-    "score": 27,
+    "description": "HN Score: 133 | 92 comments",
+    "url": "https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright",
+    "score": 133,
     "date": "2026-03-03",
     "category": "AI News"
   }
