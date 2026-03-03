@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Zuckerberg's internal emails rendered as Facebook Messenger",
+    "title": "Ars Technica fires reporter after AI controversy involving fabricated quotes",
     "source": "Hacker News",
-    "description": "HN Score: 60 | 12 comments",
-    "url": "https://zuckmail.vercel.app/",
-    "score": 60,
+    "description": "HN Score: 91 | 42 comments",
+    "url": "https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes",
+    "score": 91,
     "date": "2026-03-03",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "Show HN: I built a sub-500ms latency voice agent from scratch",
     "source": "Hacker News",
-    "description": "HN Score: 184 | 49 comments",
+    "description": "HN Score: 273 | 76 comments",
     "url": "https://www.ntik.me/posts/voice-agent",
-    "score": 184,
+    "score": 273,
     "date": "2026-03-03",
     "category": "AI News"
   },
@@ -44,9 +44,9 @@
   {
     "title": "New iPad Air, powered by M4",
     "source": "Hacker News",
-    "description": "HN Score: 331 | 529 comments",
+    "description": "HN Score: 352 | 561 comments",
     "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/",
-    "score": 331,
+    "score": 352,
     "date": "2026-03-03",
     "category": "AI News"
   },
@@ -61,9 +61,9 @@
   {
     "title": "First in-utero stem cell therapy for fetal spina bifida repair is safe: study",
     "source": "Hacker News",
-    "description": "HN Score: 250 | 49 comments",
+    "description": "HN Score: 274 | 50 comments",
     "url": "https://health.ucdavis.edu/news/headlines/first-ever-in-utero-stem-cell-therapy-for-fetal-spina-bifida-repair-is-safe-study-finds/2026/02",
-    "score": 250,
+    "score": 274,
     "date": "2026-03-03",
     "category": "AI News"
   },
@@ -78,9 +78,9 @@
   {
     "title": "Against Query Based Compilers",
     "source": "Hacker News",
-    "description": "HN Score: 25 | 5 comments",
+    "description": "HN Score: 46 | 20 comments",
     "url": "https://matklad.github.io/2026/02/25/against-query-based-compilers.html",
-    "score": 25,
+    "score": 46,
     "date": "2026-03-03",
     "category": "AI News"
   },
@@ -95,9 +95,26 @@
   {
     "title": "Inside the M4 Apple Neural Engine, Part 1: Reverse Engineering",
     "source": "Hacker News",
-    "description": "HN Score: 273 | 72 comments",
+    "description": "HN Score: 296 | 79 comments",
     "url": "https://maderix.substack.com/p/inside-the-m4-apple-neural-engine",
-    "score": 273,
+    "score": 296,
+    "date": "2026-03-03",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: I've been using GitHub Copilot since it came out. There are two areas I'd recommend developers look into: 1. USING AI AS A COPILOT GitH",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2028503135262814713#m",
+    "date": "2026-03-03",
+    "category": "Twitter"
+  },
+  {
+    "title": "Elevated Errors in Claude.ai",
+    "source": "Hacker News",
+    "description": "HN Score: 36 | 20 comments",
+    "url": "https://status.claude.com/incidents/yf48hzysrvl5",
+    "score": 36,
     "date": "2026-03-03",
     "category": "AI News"
   },
@@ -112,26 +129,26 @@
   {
     "title": "Parallel coding agents with tmux and Markdown specs",
     "source": "Hacker News",
-    "description": "HN Score: 128 | 97 comments",
+    "description": "HN Score: 135 | 107 comments",
     "url": "https://schipper.ai/posts/parallel-coding-agents/",
-    "score": 128,
+    "score": 135,
     "date": "2026-03-03",
     "category": "AI News"
   },
   {
-    "title": "R to @svpino: I'm giving a 25-min talk about Claude Code and how you can use it at Sonar Summit tomorrow. I'll share a ton more tips there! The talk i",
-    "source": "@svpino",
+    "title": "Great to see OpenAI clarify and explicitly re-write the terms of their government deal! They explicitly ban their AI from being used for mass surveill",
+    "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2028545922058387645#m",
+    "url": "https://nitter.net/bindureddy/status/2028668354471588103#m",
     "date": "2026-03-03",
     "category": "Twitter"
   },
   {
-    "title": "Iran unleashes Shahed drones aimed at targets across Middle East",
+    "title": "Do AI Agents Make Money in 2026? Or Is It Just Mac Minis and Vibes?",
     "source": "Hacker News",
-    "description": "HN Score: 16 | 7 comments",
-    "url": "https://www.theguardian.com/world/2026/mar/02/iran-unleashes-hundreds-of-drones-aimed-at-targets-across-middle-east",
-    "score": 16,
+    "description": "HN Score: 23 | 14 comments",
+    "url": "https://www.siliconsnark.com/do-ai-agents-actually-make-money-in-2026-or-is-it-just-mac-minis-and-vibes/",
+    "score": 23,
     "date": "2026-03-03",
     "category": "AI News"
   },
@@ -144,28 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Ask HN: What Online LLM / Chat do you use?",
-    "source": "Hacker News",
-    "description": "HN Score: 3 | 0 comments",
-    "url": "https://news.ycombinator.com/item?id=47227046",
-    "score": 3,
-    "date": "2026-03-03",
-    "category": "AI News"
-  },
-  {
-    "title": "Gemini Pro 3.1 IS ON TOP OF LIVEBENCH - BEATS EVER OTHER MODEL BY A LOT While it's on top of almost all leaderboards, we do find that it scores lower ",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2028577082801111161#m",
-    "date": "2026-03-03",
-    "category": "Twitter"
-  },
-  {
     "title": "Mondrian Entered the Public Domain. The Estate Disagrees",
     "source": "Hacker News",
-    "description": "HN Score: 196 | 127 comments",
+    "description": "HN Score: 203 | 130 comments",
     "url": "https://copyrightlately.com/mondrian-public-domain-controversy/",
-    "score": 196,
+    "score": 203,
     "date": "2026-03-03",
     "category": "AI News"
   }
