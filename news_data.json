@@ -245,6 +245,13 @@
     "date": "2026-03-03"
   },
   {
+    "title": "LLMs can unmask pseudonymous users at scale with surprising accuracy",
+    "source": "Ars Technica",
+    "summary": "Pseudonymity has never been perfect for preserving privacy. Soon it may be pointless.",
+    "url": "https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/",
+    "date": "2026-03-03"
+  },
+  {
     "title": "Iowa county adopts strict zoning rules for data centers, but residents still worry",
     "source": "Ars Technica",
     "summary": "Though the rules are among the strictest in the US, locals say they aren't enough.",
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "Blames 'user error, not AI error' for incident in December involving its Kiro tool.",
     "url": "https://arstechnica.com/ai/2026/02/an-ai-coding-bot-took-down-amazon-web-services/",
-    "date": "2026-03-03"
-  },
-  {
-    "title": "Microsoft deletes blog telling users to train AI on pirated Harry Potter books",
-    "source": "Ars Technica",
-    "summary": "The now-deleted Harry Potter dataset was 'mistakenly' marked public domain.",
-    "url": "https://arstechnica.com/tech-policy/2026/02/microsoft-removes-guide-on-how-to-train-llms-on-pirated-harry-potter-books/",
     "date": "2026-03-03"
   }
 ]
