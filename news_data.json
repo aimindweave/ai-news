@@ -1,5 +1,12 @@
 [
   {
+    "title": "Father sues Google, claiming Gemini chatbot drove son into fatal delusion",
+    "source": "TechCrunch",
+    "summary": "A father is suing Google and Alphabet, alleging its Gemini chatbot reinforced his son\u2019s delusional belief it was his AI wife and coached him toward suicide and a planned airport attack.",
+    "url": "https://techcrunch.com/2026/03/04/father-sues-google-claiming-gemini-chatbot-drove-son-into-fatal-delusion/",
+    "date": "2026-03-04"
+  },
+  {
     "title": "One startup\u2019s pitch to provide more reliable AI answers: crowdsource the chatbots",
     "source": "TechCrunch",
     "summary": "CollectivIQ looks to give users more accurate answers to their AI queries by showing them responses that pull information from ChatGPT, Gemini, Claude, Grok \u2014 and up to 10 other models \u2014 all at the same time.",
@@ -95,13 +102,6 @@
     "source": "TechCrunch",
     "summary": "14.ai also launched a consumer brand to understand how much AI can handle customer support tasks.",
     "url": "https://techcrunch.com/2026/03/02/a-married-founder-duos-company-14-ai-is-replacing-customer-support-teams-at-startups/",
-    "date": "2026-03-04"
-  },
-  {
-    "title": "Anthropic\u2019s Claude reports widespread outage",
-    "source": "TechCrunch",
-    "summary": "Anthropic's AI chatbot Claude experienced widespread service disruptions on Monday morning, with thousands of users reporting issues accessing the bot.",
-    "url": "https://techcrunch.com/2026/03/02/anthropics-claude-reports-widespread-outage/",
     "date": "2026-03-04"
   },
   {
@@ -245,6 +245,13 @@
     "date": "2026-03-04"
   },
   {
+    "title": "Are consumers doomed to pay more for electricity due to data center buildouts?",
+    "source": "Ars Technica",
+    "summary": "Data center operators to sign pledge to supply their own power instead of relying on grid.",
+    "url": "https://arstechnica.com/ai/2026/03/are-consumers-doomed-to-pay-more-for-electricity-due-to-data-center-buildouts/",
+    "date": "2026-03-04"
+  },
+  {
     "title": "LLMs can unmask pseudonymous users at scale with surprising accuracy",
     "source": "Ars Technica",
     "summary": "Pseudonymity has never been perfect for preserving privacy. Soon it may be pointless.",
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "LLMs memorize more training data than previously thought.",
     "url": "https://arstechnica.com/ai/2026/02/ais-can-generate-near-verbatim-copies-of-novels-from-training-data/",
-    "date": "2026-03-04"
-  },
-  {
-    "title": "An AI coding bot took down Amazon Web Services",
-    "source": "Ars Technica",
-    "summary": "Blames 'user error, not AI error' for incident in December involving its Kiro tool.",
-    "url": "https://arstechnica.com/ai/2026/02/an-ai-coding-bot-took-down-amazon-web-services/",
     "date": "2026-03-04"
   }
 ]

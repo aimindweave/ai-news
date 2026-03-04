@@ -93,6 +93,16 @@
   ],
   "episodes": [
     {
+      "id": "The AI P_0",
+      "name": "Powering the AI Inference Wave with EPRI's Ben Sooter",
+      "show": "The AI Podcast (NVIDIA)",
+      "description": "AI is reshaping electricity demand. What does increased demand, and the shape of that demand, mean for the electric grid? Ben Sooter, Director of R&D at EPRI joins the podcast to explain why most of a",
+      "release_date": "2026-03-04",
+      "duration_min": 32,
+      "image": "",
+      "url": "https://open.spotify.com/show/0e1X4kJVfwQRPF8lZzqqfX"
+    },
+    {
       "id": "a]6z Pod_0",
       "name": "Ben Horowitz On What Makes a Great Founder",
       "show": "a]6z Podcast",
@@ -143,7 +153,7 @@
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
-      "id": "The AI P_0",
+      "id": "The AI P_1",
       "name": "AI Agents and the Future of Global Trade with Alibaba’s Kuo Zhang - Ep. 291",
       "show": "The AI Podcast (NVIDIA)",
       "description": "Alibaba.com president Kuo Zhang discusses how AI agents like Accio are reshaping global trade. He shares insights on automating complex B2B sourcing, compressing weeks of work into minutes, lowering b",
@@ -183,7 +193,7 @@
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
-      "id": "The AI P_1",
+      "id": "The AI P_2",
       "name": "Safer, Faster Public Transportation: AC Transit’s AI-Powered Upgrade with Hayden AI - Ep. 290",
       "show": "The AI Podcast (NVIDIA)",
       "description": "Transit agencies are using AI and edge computing to keep bus lanes and bus stops clear — boosting on‑time performance, accessibility, and safety for riders. AC Transit CTO Ahsan Baig and Hayden AI CEO",
@@ -221,16 +231,6 @@
       "duration_min": 0,
       "image": "",
       "url": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"
-    },
-    {
-      "id": "The AI P_2",
-      "name": "Driving Safer AVs Faster with Smart Simulation, Neural Reconstruction, and Data-Centric Tools - Ep. 289",
-      "show": "The AI Podcast (NVIDIA)",
-      "description": "How can AV teams stop drowning in petabytes of data and actually ship safer autonomy faster? Fortellix’s Rohan Bhasin and Voxel51’s Dan Gural explain how neural reconstruction, scenario-driven data cu",
-      "release_date": "2026-02-11",
-      "duration_min": 45,
-      "image": "",
-      "url": "https://open.spotify.com/show/0e1X4kJVfwQRPF8lZzqqfX"
     },
     {
       "id": "Practica_2",
