@@ -94,7 +94,7 @@
   "episodes": [
     {
       "id": "The AI P_0",
-      "name": "Powering the AI Inference Wave with EPRI's Ben Sooter",
+      "name": "Powering the AI Inference Wave with EPRI's Ben Sooter - Ep. 292",
       "show": "The AI Podcast (NVIDIA)",
       "description": "AI is reshaping electricity demand. What does increased demand, and the shape of that demand, mean for the electric grid? Ben Sooter, Director of R&D at EPRI joins the podcast to explain why most of a",
       "release_date": "2026-03-04",
@@ -104,6 +104,16 @@
     },
     {
       "id": "a]6z Pod_0",
+      "name": "Ambience CEO Nikhil Buduma on AI in Clinical Workflows",
+      "show": "a]6z Podcast",
+      "description": "a16z general partner Julie Yoo talks with Nikhil Buduma, CEO and cofounder of Ambience Healthcare, to discuss how AI is transforming clinical workflows. They cover the early days of deep learning, ",
+      "release_date": "2026-03-04",
+      "duration_min": 49,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
+      "id": "a]6z Pod_1",
       "name": "Ben Horowitz On What Makes a Great Founder",
       "show": "a]6z Podcast",
       "description": "On the show Long Strange Trip, Sequoia Capital partner Brian Halligan speaks with a16z’s Ben Horowitz about what separates great founder CEOs from everyone else. Ben explains why first-time founder",
@@ -113,7 +123,7 @@
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "Chris Dixon: From Quant Trading to Building a16z Crypto",
       "show": "a]6z Podcast",
       "description": "In this feed drop from the Internet History Podcast, host Brian McCullough speaks with Chris Dixon, general partner at a16z, about his path from 1980s hobbyist programmer to one of the most promine",
@@ -161,16 +171,6 @@
       "duration_min": 33,
       "image": "",
       "url": "https://open.spotify.com/show/0e1X4kJVfwQRPF8lZzqqfX"
-    },
-    {
-      "id": "a]6z Pod_2",
-      "name": "a16z's New Media Playbook",
-      "show": "a]6z Podcast",
-      "description": "Erik Torenberg, Ben Horowitz, and Marc Andreessen discuss how the media landscape has fundamentally changed and what a16z is doing about it. They cover why offense beats defense, why individuals no",
-      "release_date": "2026-02-27",
-      "duration_min": 48,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
       "id": "The TWIM_0",
