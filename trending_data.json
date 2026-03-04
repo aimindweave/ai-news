@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Lenovo's New ThinkPads Score 10/10 for Repairability",
+    "title": "Claude's Cycles [pdf]",
     "source": "Hacker News",
-    "description": "HN Score: 220 | 79 comments",
-    "url": "https://www.ifixit.com/News/115827/new-thinkpads-score-perfect-10-repairability",
-    "score": 220,
+    "description": "HN Score: 553 | 229 comments",
+    "url": "https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf",
+    "score": 553,
     "date": "2026-03-04",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Claude's Cycles [pdf]",
+    "title": "Mount Mayhem at Netflix: Scaling Containers on Modern CPUs",
     "source": "Hacker News",
-    "description": "HN Score: 483 | 217 comments",
-    "url": "https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf",
-    "score": 483,
+    "description": "HN Score: 23 | 6 comments",
+    "url": "https://netflixtechblog.com/mount-mayhem-at-netflix-scaling-containers-on-modern-cpus-f3b09b68beac",
+    "score": 23,
     "date": "2026-03-04",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "GPT\u20115.3 Instant",
+    "title": "When AI writes the software, who verifies it?",
     "source": "Hacker News",
-    "description": "HN Score: 298 | 227 comments",
-    "url": "https://openai.com/index/gpt-5-3-instant/",
-    "score": 298,
+    "description": "HN Score: 189 | 176 comments",
+    "url": "https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html",
+    "score": 189,
     "date": "2026-03-04",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "When AI writes the software, who verifies it?",
+    "title": "GPT\u20115.3 Instant",
     "source": "Hacker News",
-    "description": "HN Score: 150 | 141 comments",
-    "url": "https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html",
-    "score": 150,
+    "description": "HN Score: 316 | 245 comments",
+    "url": "https://openai.com/index/gpt-5-3-instant/",
+    "score": 316,
     "date": "2026-03-04",
     "category": "AI News"
   },
@@ -78,9 +78,9 @@
   {
     "title": "Launch HN: Cekura (YC F24) \u2013 Testing and monitoring for voice and chat AI agents",
     "source": "Hacker News",
-    "description": "HN Score: 72 | 19 comments",
+    "description": "HN Score: 76 | 19 comments",
     "url": "https://news.ycombinator.com/item?id=47232903",
-    "score": 72,
+    "score": 76,
     "date": "2026-03-04",
     "category": "AI News"
   },
@@ -93,11 +93,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Marcus AI Claims Dataset",
+    "title": "LLMs can unmask pseudonymous users at scale with surprising accuracy",
     "source": "Hacker News",
-    "description": "HN Score: 57 | 41 comments",
-    "url": "https://github.com/davegoldblatt/marcus-claims-dataset",
-    "score": 57,
+    "description": "HN Score: 29 | 8 comments",
+    "url": "https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/",
+    "score": 29,
+    "date": "2026-03-04",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: The reason agents are exploding right now is that we figured out how to give them access to tools. MCP is a huge part of this. But nobo",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2028865502836408611#m",
+    "date": "2026-03-04",
+    "category": "Twitter"
+  },
+  {
+    "title": "TorchLean: Formalizing Neural Networks in Lean",
+    "source": "Hacker News",
+    "description": "HN Score: 80 | 11 comments",
+    "url": "https://leandojo.org/torchlean.html",
+    "score": 80,
     "date": "2026-03-04",
     "category": "AI News"
   },
@@ -110,28 +127,28 @@
     "category": "Twitter"
   },
   {
-    "title": "TorchLean: Formalizing Neural Networks in Lean",
+    "title": "Lenovo\u2019s new ThinkPads score 10/10 for repairability",
     "source": "Hacker News",
-    "description": "HN Score: 74 | 9 comments",
-    "url": "https://leandojo.org/torchlean.html",
-    "score": 74,
+    "description": "HN Score: 325 | 154 comments",
+    "url": "https://www.ifixit.com/News/115827/new-thinkpads-score-perfect-10-repairability",
+    "score": 325,
     "date": "2026-03-04",
     "category": "AI News"
   },
   {
-    "title": "R to @svpino: Descope just launched their Agentic Identity Hub, which is purpose-built for this: \u2022 Dedicated identities for each agent with tool-level",
-    "source": "@svpino",
+    "title": "The week has just begun - we already have GPT 3.1, Flash 3.1 and mass evacuations \ud83d\ude2f The drama never ends - next up - DeepSeek v4 Brace yourselves",
+    "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2028865515025055879#m",
+    "url": "https://nitter.net/bindureddy/status/2029056665929302026#m",
     "date": "2026-03-04",
     "category": "Twitter"
   },
   {
-    "title": "MacBook Air with M5",
+    "title": "Claude's Cycles [pdf]",
     "source": "Hacker News",
-    "description": "HN Score: 377 | 420 comments",
-    "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/",
-    "score": 377,
+    "description": "HN Score: 23 | 3 comments",
+    "url": "https://cs.stanford.edu/~knuth/papers/claude-cycles.pdf",
+    "score": 23,
     "date": "2026-03-04",
     "category": "AI News"
   },
@@ -144,28 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Claude's Cycles [pdf]",
+    "title": "Meta\u2019s AI smart glasses and data privacy concerns",
     "source": "Hacker News",
-    "description": "HN Score: 18 | 2 comments",
-    "url": "https://cs.stanford.edu/~knuth/papers/claude-cycles.pdf",
-    "score": 18,
-    "date": "2026-03-04",
-    "category": "AI News"
-  },
-  {
-    "title": "GPT 5.3 Instant and Gemini 3.1 Flash - Excellent Fast Models Just Dropped The world may be in chaos but the AI acceleration continues! Flash lite coul",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2028910077936320771#m",
-    "date": "2026-03-04",
-    "category": "Twitter"
-  },
-  {
-    "title": "Talos: Hardware accelerator for deep convolutional neural networks",
-    "source": "Hacker News",
-    "description": "HN Score: 47 | 17 comments",
-    "url": "https://talos.wtf/",
-    "score": 47,
+    "description": "HN Score: 1375 | 775 comments",
+    "url": "https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything",
+    "score": 1375,
     "date": "2026-03-04",
     "category": "AI News"
   }
