@@ -10,9 +10,9 @@
   {
     "title": "Agentic Engineering Patterns",
     "source": "Hacker News",
-    "description": "HN Score: 14 | 1 comments",
+    "description": "HN Score: 93 | 14 comments",
     "url": "https://simonwillison.net/guides/agentic-engineering-patterns/",
-    "score": 14,
+    "score": 93,
     "date": "2026-03-04",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "Claude's Cycles [pdf]",
     "source": "Hacker News",
-    "description": "HN Score: 586 | 235 comments",
+    "description": "HN Score: 617 | 247 comments",
     "url": "https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf",
-    "score": 586,
+    "score": 617,
     "date": "2026-03-04",
     "category": "AI News"
   },
@@ -44,9 +44,9 @@
   {
     "title": "Mount Mayhem at Netflix: Scaling Containers on Modern CPUs",
     "source": "Hacker News",
-    "description": "HN Score: 39 | 13 comments",
+    "description": "HN Score: 48 | 24 comments",
     "url": "https://netflixtechblog.com/mount-mayhem-at-netflix-scaling-containers-on-modern-cpus-f3b09b68beac",
-    "score": 39,
+    "score": 48,
     "date": "2026-03-04",
     "category": "AI News"
   },
@@ -61,9 +61,9 @@
   {
     "title": "When AI writes the software, who verifies it?",
     "source": "Hacker News",
-    "description": "HN Score: 205 | 202 comments",
+    "description": "HN Score: 218 | 220 comments",
     "url": "https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html",
-    "score": 205,
+    "score": 218,
     "date": "2026-03-04",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "GPT\u20115.3 Instant",
+    "title": "Launch HN: Cekura (YC F24) \u2013 Testing and monitoring for voice and chat AI agents",
     "source": "Hacker News",
-    "description": "HN Score: 329 | 262 comments",
-    "url": "https://openai.com/index/gpt-5-3-instant/",
-    "score": 329,
+    "description": "HN Score: 81 | 20 comments",
+    "url": "https://news.ycombinator.com/item?id=47232903",
+    "score": 81,
     "date": "2026-03-04",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Launch HN: Cekura (YC F24) \u2013 Testing and monitoring for voice and chat AI agents",
+    "title": "GPT\u20115.3 Instant",
     "source": "Hacker News",
-    "description": "HN Score: 78 | 20 comments",
-    "url": "https://news.ycombinator.com/item?id=47232903",
-    "score": 78,
+    "description": "HN Score: 341 | 266 comments",
+    "url": "https://openai.com/index/gpt-5-3-instant/",
+    "score": 341,
     "date": "2026-03-04",
     "category": "AI News"
   },
@@ -110,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "LLMs can unmask pseudonymous users at scale with surprising accuracy",
+    "title": "Giving LLMs a personality is just good engineering",
     "source": "Hacker News",
-    "description": "HN Score: 57 | 38 comments",
-    "url": "https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/",
-    "score": 57,
+    "description": "HN Score: 20 | 8 comments",
+    "url": "https://www.seangoedecke.com/giving-llms-a-personality/",
+    "score": 20,
     "date": "2026-03-04",
     "category": "AI News"
   },
@@ -129,9 +129,9 @@
   {
     "title": "TorchLean: Formalizing Neural Networks in Lean",
     "source": "Hacker News",
-    "description": "HN Score: 87 | 12 comments",
+    "description": "HN Score: 89 | 12 comments",
     "url": "https://leandojo.org/torchlean.html",
-    "score": 87,
+    "score": 89,
     "date": "2026-03-04",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Giving LLMs a personality is just good engineering",
+    "title": "LLMs can unmask pseudonymous users at scale with surprising accuracy",
     "source": "Hacker News",
-    "description": "HN Score: 9 | 0 comments",
-    "url": "https://www.seangoedecke.com/giving-llms-a-personality/",
-    "score": 9,
+    "description": "HN Score: 68 | 45 comments",
+    "url": "https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/",
+    "score": 68,
     "date": "2026-03-04",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Lenovo\u2019s new ThinkPads score 10/10 for repairability",
+    "title": "Meta\u2019s AI smart glasses and data privacy concerns",
     "source": "Hacker News",
-    "description": "HN Score: 360 | 172 comments",
-    "url": "https://www.ifixit.com/News/115827/new-thinkpads-score-perfect-10-repairability",
-    "score": 360,
+    "description": "HN Score: 1380 | 781 comments",
+    "url": "https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything",
+    "score": 1380,
     "date": "2026-03-04",
     "category": "AI News"
   }
