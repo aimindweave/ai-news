@@ -10,9 +10,9 @@
   {
     "title": "The L in 'LLM' Stands for Lying",
     "source": "Hacker News",
-    "description": "HN Score: 198 | 84 comments",
+    "description": "HN Score: 320 | 186 comments",
     "url": "https://acko.net/blog/the-l-in-llm-stands-for-lying/",
-    "score": 198,
+    "score": 320,
     "date": "2026-03-05",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "Relicensing with AI-Assisted Rewrite",
     "source": "Hacker News",
-    "description": "HN Score: 131 | 119 comments",
+    "description": "HN Score: 201 | 185 comments",
     "url": "https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/",
-    "score": 131,
+    "score": 201,
     "date": "2026-03-05",
     "category": "AI News"
   },
@@ -44,9 +44,9 @@
   {
     "title": "AMD will bring its \u201cRyzen AI\u201d processors to standard desktop PCs for first time",
     "source": "Hacker News",
-    "description": "HN Score: 82 | 63 comments",
+    "description": "HN Score: 116 | 99 comments",
     "url": "https://arstechnica.com/gadgets/2026/03/amd-ryzen-ai-400-cpus-will-bring-upgraded-graphics-to-socket-am5-desktops/",
-    "score": 82,
+    "score": 116,
     "date": "2026-03-05",
     "category": "AI News"
   },
@@ -59,28 +59,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Jails for NetBSD \u2013 Kernel Enforced Isolation and Native Resource Control",
+    "title": "World-first gigabit laser link between aircraft and geostationary satellite",
     "source": "Hacker News",
-    "description": "HN Score: 22 | 6 comments",
-    "url": "https://netbsd-jails.petermann-digital.de/",
-    "score": 22,
+    "description": "HN Score: 31 | 12 comments",
+    "url": "https://www.esa.int/Applications/Connectivity_and_Secure_Communications/World-first_gigabit-per-second_laser_link_between_aircraft_and_geostationary_satellite",
+    "score": 31,
     "date": "2026-03-05",
     "category": "AI News"
   },
   {
-    "title": "R to @DrJimFan: We would also like to thank our dexterous hand hardware provider, Sharpa, for their great support!",
+    "title": "We trained a humanoid with 22-DoF dexterous hands to assemble model cars, operate syringes, sort poker cards, fold/roll shirts, all learned primarily ",
     "source": "@DrJimFan",
     "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2026709308713611695#m",
+    "url": "https://nitter.net/DrJimFan/status/2026709304984875202#m",
     "date": "2026-03-05",
     "category": "Twitter"
   },
   {
-    "title": "Aura-State: Formally Verified LLM State Machine Compiler",
+    "title": "Jails for NetBSD \u2013 Kernel Enforced Isolation and Native Resource Control",
     "source": "Hacker News",
-    "description": "HN Score: 11 | 2 comments",
-    "url": "https://news.ycombinator.com/item?id=47209315",
-    "score": 11,
+    "description": "HN Score: 44 | 13 comments",
+    "url": "https://netbsd-jails.petermann-digital.de/",
+    "score": 44,
     "date": "2026-03-05",
     "category": "AI News"
   },
@@ -95,9 +95,9 @@
   {
     "title": "Dario Amodei calls OpenAI\u2019s messaging around military deal \u2018straight up lies\u2019",
     "source": "Hacker News",
-    "description": "HN Score: 592 | 315 comments",
+    "description": "HN Score: 660 | 340 comments",
     "url": "https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/",
-    "score": 592,
+    "score": 660,
     "date": "2026-03-05",
     "category": "AI News"
   },
@@ -112,9 +112,9 @@
   {
     "title": "NanoGPT Slowrun: Language Modeling with Limited Data, Infinite Compute",
     "source": "Hacker News",
-    "description": "HN Score: 171 | 31 comments",
+    "description": "HN Score: 174 | 31 comments",
     "url": "https://qlabs.sh/slowrun",
-    "score": 171,
+    "score": 174,
     "date": "2026-03-05",
     "category": "AI News"
   },
@@ -136,6 +136,23 @@
     "category": "AI News"
   },
   {
+    "title": "My whole day is being spent on testing our upcoming 'Claw for Enterprise' release Chatting with my agent all day on WhatsApp asking it to just do thin",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2029520046993883258#m",
+    "date": "2026-03-05",
+    "category": "Twitter"
+  },
+  {
+    "title": "Claude's Cycles [pdf]",
+    "source": "Hacker News",
+    "description": "HN Score: 782 | 332 comments",
+    "url": "https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf",
+    "score": 782,
+    "date": "2026-03-05",
+    "category": "AI News"
+  },
+  {
     "title": "GPT 5.4 will have an \u201cextreme reasoning\u201d mode and will double context to 1M tokens This will also help with very long running tasks These changes will",
     "source": "@bindureddy",
     "description": "",
@@ -146,26 +163,9 @@
   {
     "title": "Jensen Huang says Nvidia is pulling back from OpenAI and Anthropic",
     "source": "Hacker News",
-    "description": "HN Score: 166 | 78 comments",
+    "description": "HN Score: 180 | 89 comments",
     "url": "https://techcrunch.com/2026/03/04/jensen-huang-says-nvidia-is-pulling-back-from-openai-and-anthropic-but-his-explanation-raises-more-questions-than-it-answers/",
-    "score": 166,
-    "date": "2026-03-05",
-    "category": "AI News"
-  },
-  {
-    "title": "Anthropic IS WINNING AGAINST OpenAI FOR THE MOMENT OpenAI can bounce back if they go back to being a research lab and focus 100% on shipping a cheaper",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2029088475778302375#m",
-    "date": "2026-03-05",
-    "category": "Twitter"
-  },
-  {
-    "title": "Noem Can't Explain Why She Hired 8-Day-Old Company for Ad Campaign",
-    "source": "Hacker News",
-    "description": "HN Score: 89 | 18 comments",
-    "url": "https://newrepublic.com/post/207381/kristi-noem-explain-company-ad-campaign",
-    "score": 89,
+    "score": 180,
     "date": "2026-03-05",
     "category": "AI News"
   }
