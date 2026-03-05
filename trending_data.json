@@ -1,39 +1,5 @@
 [
   {
-    "title": "1\u30da\u30fc\u30b8\u76ee\u3067\u3061\u3083\u3093\u3068\u6253\u6483\u98df\u3089\u3063\u3066\u30ac\u30b3\u30f3\u3057\u3066\u308b\u306e\u3067 \u3042\u308c\u304c\u306a\u304b\u3063\u305f\u3089\u6469\u864e\u7f85\u653b\u7565\u3067\u304d\u3066\u305f\u304b\u3082\u3057\u308c\u3093",
-    "source": "@kaborobot",
-    "description": "",
-    "url": "https://nitter.net/kaborobot/status/2015735996248420451#m",
-    "date": "2026-03-05",
-    "category": "Twitter"
-  },
-  {
-    "title": "The L in 'LLM' Stands for Lying",
-    "source": "Hacker News",
-    "description": "HN Score: 431 | 263 comments",
-    "url": "https://acko.net/blog/the-l-in-llm-stands-for-lying/",
-    "score": 431,
-    "date": "2026-03-05",
-    "category": "AI News"
-  },
-  {
-    "title": "\u30ec\u30bc\u304c\u300c\u79c1\u306b\u306f\u904e\u304e\u305f\u9858\u3044\u3060\u3063\u305f\u300d\u306a\u3093\u3066\u601d\u3063\u3066\u3044\u307e\u305b\u3093\u3088\u3046\u306b\u3068\u7948\u3063\u3066\u305f\u9023\u4f11\u3060\u3063\u305f",
-    "source": "@kaborobot",
-    "description": "",
-    "url": "https://nitter.net/kaborobot/status/1977673306670330109#m",
-    "date": "2026-03-05",
-    "category": "Twitter"
-  },
-  {
-    "title": "Relicensing with AI-Assisted Rewrite",
-    "source": "Hacker News",
-    "description": "HN Score: 243 | 247 comments",
-    "url": "https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/",
-    "score": 243,
-    "date": "2026-03-05",
-    "category": "AI News"
-  },
-  {
     "title": "More than one major AI-assisted advance due to be announced next few months \ud83d\udd1c Folk dismissive of AI\u2019s innovation impact are so wrong \ud83d\ude23 All major disco",
     "source": "@EMostaque",
     "description": "",
@@ -42,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "World-first gigabit laser link between aircraft and geostationary satellite",
+    "title": "Show HN: Jido 2.0, Elixir Agent Framework",
     "source": "Hacker News",
-    "description": "HN Score: 56 | 22 comments",
-    "url": "https://www.esa.int/Applications/Connectivity_and_Secure_Communications/World-first_gigabit-per-second_laser_link_between_aircraft_and_geostationary_satellite",
-    "score": 56,
+    "description": "HN Score: 116 | 31 comments",
+    "url": "https://jido.run/blog/jido-2-0-is-here",
+    "score": 116,
     "date": "2026-03-05",
     "category": "AI News"
   },
@@ -59,28 +25,28 @@
     "category": "Twitter"
   },
   {
-    "title": "AMD will bring its \u201cRyzen AI\u201d processors to standard desktop PCs for first time",
+    "title": "Show HN: PageAgent, A GUI agent that lives inside your web app",
     "source": "Hacker News",
-    "description": "HN Score: 141 | 131 comments",
-    "url": "https://arstechnica.com/gadgets/2026/03/amd-ryzen-ai-400-cpus-will-bring-upgraded-graphics-to-socket-am5-desktops/",
-    "score": 141,
+    "description": "HN Score: 16 | 3 comments",
+    "url": "https://alibaba.github.io/page-agent/",
+    "score": 16,
     "date": "2026-03-05",
     "category": "AI News"
   },
   {
-    "title": "R to @DrJimFan: We would also like to thank our dexterous hand hardware provider, Sharpa, for their great support!",
+    "title": "We trained a humanoid with 22-DoF dexterous hands to assemble model cars, operate syringes, sort poker cards, fold/roll shirts, all learned primarily ",
     "source": "@DrJimFan",
     "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2026709308713611695#m",
+    "url": "https://nitter.net/DrJimFan/status/2026709304984875202#m",
     "date": "2026-03-05",
     "category": "Twitter"
   },
   {
-    "title": "Jails for NetBSD \u2013 Kernel Enforced Isolation and Native Resource Control",
+    "title": "Datasets for Reconstructing Visual Perception from Brain Data",
     "source": "Hacker News",
-    "description": "HN Score: 56 | 15 comments",
-    "url": "https://netbsd-jails.petermann-digital.de/",
-    "score": 56,
+    "description": "HN Score: 12 | 0 comments",
+    "url": "https://github.com/seelikat/neuro-visual-reconstruction-dataset-index",
+    "score": 12,
     "date": "2026-03-05",
     "category": "AI News"
   },
@@ -93,62 +59,45 @@
     "category": "Twitter"
   },
   {
-    "title": "Dario Amodei calls OpenAI\u2019s messaging around military deal \u2018straight up lies\u2019",
+    "title": "Launch HN: Vela (YC W26) \u2013 AI for complex scheduling",
     "source": "Hacker News",
-    "description": "HN Score: 699 | 359 comments",
-    "url": "https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/",
-    "score": 699,
+    "description": "HN Score: 6 | 3 comments",
+    "url": "https://news.ycombinator.com/item?id=47264741",
+    "score": 6,
     "date": "2026-03-05",
     "category": "AI News"
   },
   {
-    "title": "Claude Code tip: 1. Take a screenshot 2. Open Claude Code 3. CTRL+v You can now ask questions about that image. I just learned this. macOS users: Note",
+    "title": "I used to charge money for this. Back in the early 2000s, I made a living by selling static websites to small businesses. That time is now gone. These",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2029553782846320967#m",
+    "url": "https://nitter.net/svpino/status/2029594844440523066#m",
     "date": "2026-03-05",
     "category": "Twitter"
   },
   {
-    "title": "NanoGPT Slowrun: Language Modeling with Limited Data, Infinite Compute",
+    "title": "World-first gigabit laser link between aircraft and geostationary satellite",
     "source": "Hacker News",
-    "description": "HN Score: 175 | 31 comments",
-    "url": "https://qlabs.sh/slowrun",
-    "score": 175,
+    "description": "HN Score: 112 | 43 comments",
+    "url": "https://www.esa.int/Applications/Connectivity_and_Secure_Communications/World-first_gigabit-per-second_laser_link_between_aircraft_and_geostationary_satellite",
+    "score": 112,
     "date": "2026-03-05",
     "category": "AI News"
   },
   {
-    "title": "RT by @svpino: Start building for an agent-first world. If you have a product, you need to start offering skills for Claude, Codex, Cursor, and any ot",
+    "title": "R to @svpino: But Agent Mode isn't the full story. Highlights: 1. Git-native workflows: API specs and tests can live in your repo. Branch, review, and",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2029228006263406933#m",
+    "url": "https://nitter.net/svpino/status/2029590897126764587#m",
     "date": "2026-03-05",
     "category": "Twitter"
   },
   {
-    "title": "Roboflow (YC S20) Is Hiring a Security Engineer for AI Infra",
+    "title": "Relicensing with AI-Assisted Rewrite",
     "source": "Hacker News",
-    "description": "HN Score: 1 | 0 comments",
-    "url": "https://roboflow.com/careers",
-    "score": 1,
-    "date": "2026-03-05",
-    "category": "AI News"
-  },
-  {
-    "title": "My whole day is being spent on testing our upcoming 'Claw for Enterprise' release Chatting with my agent all day on WhatsApp asking it to just do thin",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2029520046993883258#m",
-    "date": "2026-03-05",
-    "category": "Twitter"
-  },
-  {
-    "title": "Claude's Cycles [pdf]",
-    "source": "Hacker News",
-    "description": "HN Score: 785 | 333 comments",
-    "url": "https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf",
-    "score": 785,
+    "description": "HN Score: 317 | 321 comments",
+    "url": "https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/",
+    "score": 317,
     "date": "2026-03-05",
     "category": "AI News"
   },
@@ -161,11 +110,46 @@
     "category": "Twitter"
   },
   {
-    "title": "Emails to Outlook.com rejected due to a fault or overzealous blocking rules",
+    "title": "Intelligence is a commodity. Context is the real AI Moat",
     "source": "Hacker News",
-    "description": "HN Score: 175 | 91 comments",
-    "url": "https://www.theregister.com/2026/03/04/users_fume_at_outlookcom_email/",
-    "score": 175,
+    "description": "HN Score: 83 | 47 comments",
+    "url": "https://adlrocha.substack.com/p/adlrocha-intelligence-is-a-commodity",
+    "score": 83,
+    "date": "2026-03-05",
+    "category": "AI News"
+  },
+  {
+    "title": "Anthropic IS WINNING AGAINST OpenAI FOR THE MOMENT OpenAI can bounce back if they go back to being a research lab and focus 100% on shipping a cheaper",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2029088475778302375#m",
+    "date": "2026-03-05",
+    "category": "Twitter"
+  },
+  {
+    "title": "The Man Who Broke into Jail",
+    "source": "Hacker News",
+    "description": "HN Score: 43 | 27 comments",
+    "url": "https://www.newyorker.com/magazine/2026/03/09/alexander-friedmann-profile-prison-reform",
+    "score": 43,
+    "date": "2026-03-05",
+    "category": "AI News"
+  },
+  {
+    "title": "AMD will bring its \u201cRyzen AI\u201d processors to standard desktop PCs for first time",
+    "source": "Hacker News",
+    "description": "HN Score: 182 | 158 comments",
+    "url": "https://arstechnica.com/gadgets/2026/03/amd-ryzen-ai-400-cpus-will-bring-upgraded-graphics-to-socket-am5-desktops/",
+    "score": 182,
+    "date": "2026-03-05",
+    "category": "AI News"
+  },
+  {
+    "title": "Jails for NetBSD \u2013 Kernel Enforced Isolation and Native Resource Control",
+    "source": "Hacker News",
+    "description": "HN Score: 82 | 22 comments",
+    "url": "https://netbsd-jails.petermann-digital.de/",
+    "score": 82,
     "date": "2026-03-05",
     "category": "AI News"
   }

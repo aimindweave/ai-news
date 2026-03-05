@@ -1,5 +1,40 @@
 [
   {
+    "title": "OpenAI launches GPT-5.4 with Pro and Thinking versions",
+    "source": "TechCrunch",
+    "summary": "GPT-5.4 is billed as 'our most capable and efficient frontier model for professional work.'",
+    "url": "https://techcrunch.com/2026/03/05/openai-launches-gpt-5-4-with-pro-and-thinking-versions/",
+    "date": "2026-03-05"
+  },
+  {
+    "title": "Cursor is rolling out a new kind of agentic coding tool",
+    "source": "TechCrunch",
+    "summary": "Called Automations, the new system gives users a way to automatically launch agents within their coding environment, triggered by a new addition to the codebase, a Slack message, or a simple timer.",
+    "url": "https://techcrunch.com/2026/03/05/cursor-is-rolling-out-a-new-system-for-agentic-coding/",
+    "date": "2026-03-05"
+  },
+  {
+    "title": "Meta sued over AI smart glasses\u2019 privacy concerns, after workers reviewed nudity, sex, and other footage",
+    "source": "TechCrunch",
+    "summary": "Lawyers say Meta's marketing materials promised privacy and user control over sharing footage. But an investigation found that subcontractors are reviewing footage from customers' glasses.",
+    "url": "https://techcrunch.com/2026/03/05/meta-sued-over-ai-smartglasses-privacy-concerns-after-workers-reviewed-nudity-sex-and-other-footage/",
+    "date": "2026-03-05"
+  },
+  {
+    "title": "Anthropic CEO Dario Amodei could still be trying to make a deal with Pentagon",
+    "source": "TechCrunch",
+    "summary": "Anthropic's $200 million contract with the Department of Defense broke down due to disagreements over giving the military unrestricted access to its AI.",
+    "url": "https://techcrunch.com/2026/03/05/anthropic-ceo-dario-amodei-could-still-be-trying-to-make-a-deal-with-pentagon/",
+    "date": "2026-03-05"
+  },
+  {
+    "title": "Netflix buys Ben Affleck\u2019s AI filmmaking company InterPositive",
+    "source": "TechCrunch",
+    "summary": "InterPositive isn't trying to make AI actors or synthetic performances. Rather, the company has created a model that helps production teams work with footage from their own productions to help make edits in post-production.",
+    "url": "https://techcrunch.com/2026/03/05/netflix-buys-ben-afflecks-ai-filmmaking-company-interpositive/",
+    "date": "2026-03-05"
+  },
+  {
     "title": "How 1,000+ customer calls shaped a breakout enterprise AI startup",
     "source": "TechCrunch",
     "summary": "On this episode of Build Mode, David Park joins Isabelle Johannessen to discuss how he and his team are intentionally iterating, fundraising, and scaling Narada.",
@@ -70,38 +105,10 @@
     "date": "2026-03-05"
   },
   {
-    "title": "Who needs data centers in space when they can float offshore?",
-    "source": "TechCrunch",
-    "summary": "Offshore wind developer Aikido will deploy a small data center beneath a floating offshore wind turbine later this year.",
-    "url": "https://techcrunch.com/2026/03/04/who-needs-data-centers-in-space-when-they-can-float-offshore/",
-    "date": "2026-03-05"
-  },
-  {
-    "title": "Why AI startups are selling the same equity at two different prices",
-    "source": "TechCrunch",
-    "summary": "Some AI founders are using a novel valuation mechanism to manufacture unicorn status.",
-    "url": "https://techcrunch.com/2026/03/03/why-ai-startups-are-selling-the-same-equity-at-two-different-prices/",
-    "date": "2026-03-05"
-  },
-  {
-    "title": "Alibaba\u2019s Qwen tech lead steps down after major AI push",
-    "source": "TechCrunch",
-    "summary": "Reactions rippled through Alibaba's Qwen team after tech lead Junyang Lin stepped down following a major model launch.",
-    "url": "https://techcrunch.com/2026/03/03/alibabas-qwen-tech-lead-steps-down-after-major-ai-push/",
-    "date": "2026-03-05"
-  },
-  {
-    "title": "AI companies are spending millions to thwart this former tech exec\u2019s congressional bid",
-    "source": "TechCrunch",
-    "summary": "A tech billionaire-backed super PAC is spending $125 million to undercut candidates pushing for AI regulation. New York's Alex Bores, a former tech executive himself, is one of them.",
-    "url": "https://techcrunch.com/2026/03/03/ai-companies-are-spending-millions-to-thwart-this-former-tech-execs-congressional-bid/",
-    "date": "2026-03-05"
-  },
-  {
-    "title": "ChatGPT\u2019s new GPT-5.3 Instant model will stop telling you to calm down",
-    "source": "TechCrunch",
-    "summary": "The company says the new model will reduce the 'cringe' that's been annoying its users for months.",
-    "url": "https://techcrunch.com/2026/03/03/chatgpts-new-gpt-5-3-instant-model-will-stop-telling-you-to-calm-down/",
+    "title": "The Download: an AI agent\u2019s hit piece, and preventing lightning",
+    "source": "MIT Tech Review",
+    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Online harassment is entering its AI era Scott Shambaugh didn\u2019t think twice when he denied an AI agent\u2019s request to contribute to matplotlib, a software librar...",
+    "url": "https://www.technologyreview.com/2026/03/05/1133968/the-download-ai-agent-hit-piece-preventing-lightning/",
     "date": "2026-03-05"
   },
   {
@@ -165,13 +172,6 @@
     "source": "MIT Tech Review",
     "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. I checked out one of the biggest anti-AI protests ever Pull the plug! Pull the plug! Stop the slop! Stop the slop! For a few hours this Saturday, February 28, ...",
     "url": "https://www.technologyreview.com/2026/03/02/1133811/the-download-protesting-ai-and-whats-floating-in-space/",
-    "date": "2026-03-05"
-  },
-  {
-    "title": "I checked out one of the biggest anti-AI protests yet",
-    "source": "MIT Tech Review",
-    "summary": "Pull the plug! Pull the plug! Stop the slop! Stop the slop! For a few hours this Saturday, February 28, I watched as a couple of hundred anti-AI protesters marched through London\u2019s King\u2019s Cross tech hub, home to the UK headquarters of OpenAI, Meta, and Google DeepMind, chanting slogans and waving...",
-    "url": "https://www.technologyreview.com/2026/03/02/1133814/i-checked-out-londons-biggest-ever-anti-ai-protest/",
     "date": "2026-03-05"
   },
   {
