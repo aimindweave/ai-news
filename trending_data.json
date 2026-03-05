@@ -1,39 +1,5 @@
 [
   {
-    "title": "1\u30da\u30fc\u30b8\u76ee\u3067\u3061\u3083\u3093\u3068\u6253\u6483\u98df\u3089\u3063\u3066\u30ac\u30b3\u30f3\u3057\u3066\u308b\u306e\u3067 \u3042\u308c\u304c\u306a\u304b\u3063\u305f\u3089\u6469\u864e\u7f85\u653b\u7565\u3067\u304d\u3066\u305f\u304b\u3082\u3057\u308c\u3093",
-    "source": "@kaborobot",
-    "description": "",
-    "url": "https://nitter.net/kaborobot/status/2015735996248420451#m",
-    "date": "2026-03-05",
-    "category": "Twitter"
-  },
-  {
-    "title": "GPT-5.4",
-    "source": "Hacker News",
-    "description": "HN Score: 316 | 293 comments",
-    "url": "https://openai.com/index/introducing-gpt-5-4/",
-    "score": 316,
-    "date": "2026-03-05",
-    "category": "AI News"
-  },
-  {
-    "title": "\u30ec\u30bc\u304c\u300c\u79c1\u306b\u306f\u904e\u304e\u305f\u9858\u3044\u3060\u3063\u305f\u300d\u306a\u3093\u3066\u601d\u3063\u3066\u3044\u307e\u305b\u3093\u3088\u3046\u306b\u3068\u7948\u3063\u3066\u305f\u9023\u4f11\u3060\u3063\u305f",
-    "source": "@kaborobot",
-    "description": "",
-    "url": "https://nitter.net/kaborobot/status/1977673306670330109#m",
-    "date": "2026-03-05",
-    "category": "Twitter"
-  },
-  {
-    "title": "Pentagon Formally Labels Anthropic Supply-Chain Risk",
-    "source": "Hacker News",
-    "description": "HN Score: 163 | 59 comments",
-    "url": "https://www.wsj.com/politics/national-security/pentagon-formally-labels-anthropic-supply-chain-risk-escalating-conflict-ebdf0523",
-    "score": 163,
-    "date": "2026-03-05",
-    "category": "AI News"
-  },
-  {
     "title": "More than one major AI-assisted advance due to be announced next few months \ud83d\udd1c Folk dismissive of AI\u2019s innovation impact are so wrong \ud83d\ude23 All major disco",
     "source": "@EMostaque",
     "description": "",
@@ -42,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Hardware hotplug events on Linux, the gory details",
+    "title": "GPT-5.4",
     "source": "Hacker News",
-    "description": "HN Score: 39 | 0 comments",
-    "url": "https://arcanenibble.github.io/hardware-hotplug-events-on-linux-the-gory-details.html",
-    "score": 39,
+    "description": "HN Score: 477 | 443 comments",
+    "url": "https://openai.com/index/introducing-gpt-5-4/",
+    "score": 477,
     "date": "2026-03-05",
     "category": "AI News"
   },
@@ -59,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Jido 2.0, Elixir Agent Framework",
+    "title": "Hardware hotplug events on Linux, the gory details",
     "source": "Hacker News",
-    "description": "HN Score: 187 | 39 comments",
-    "url": "https://jido.run/blog/jido-2-0-is-here",
-    "score": 187,
+    "description": "HN Score: 82 | 3 comments",
+    "url": "https://arcanenibble.github.io/hardware-hotplug-events-on-linux-the-gory-details.html",
+    "score": 82,
     "date": "2026-03-05",
     "category": "AI News"
   },
@@ -76,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Launch HN: Vela (YC W26) \u2013 AI for complex scheduling",
+    "title": "Structured AI (YC F25) Is Hiring",
     "source": "Hacker News",
-    "description": "HN Score: 21 | 17 comments",
-    "url": "https://news.ycombinator.com/item?id=47264741",
-    "score": 21,
+    "description": "HN Score: 1 | 0 comments",
+    "url": "https://www.ycombinator.com/companies/structured-ai/jobs/3cQY6Cu-mechanical-design-engineer-founding-team-consultant",
+    "score": 1,
     "date": "2026-03-05",
     "category": "AI News"
   },
@@ -93,45 +59,62 @@
     "category": "Twitter"
   },
   {
+    "title": "Show HN: Jido 2.0, Elixir Agent Framework",
+    "source": "Hacker News",
+    "description": "HN Score: 214 | 46 comments",
+    "url": "https://jido.run/blog/jido-2-0-is-here",
+    "score": 214,
+    "date": "2026-03-05",
+    "category": "AI News"
+  },
+  {
+    "title": "R to @svpino: The videos aren't perfect yet, but the progress in the last couple of years has been incredible. A couple more years, and I bet we'll be",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2029680027684790383#m",
+    "date": "2026-03-05",
+    "category": "Twitter"
+  },
+  {
+    "title": "Proton Mail Helped FBI Unmask Anonymous 'Stop Cop City' Protester",
+    "source": "Hacker News",
+    "description": "HN Score: 64 | 28 comments",
+    "url": "https://www.404media.co/proton-mail-helped-fbi-unmask-anonymous-stop-cop-city-protestor/",
+    "score": 64,
+    "date": "2026-03-05",
+    "category": "AI News"
+  },
+  {
+    "title": "R to @svpino: These videos are generated using the Utopai AI model. I'm collaborating with them. Their video quality is honestly one of a kind. But th",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2029679952736702480#m",
+    "date": "2026-03-05",
+    "category": "Twitter"
+  },
+  {
+    "title": "Launch HN: Vela (YC W26) \u2013 AI for complex scheduling",
+    "source": "Hacker News",
+    "description": "HN Score: 30 | 34 comments",
+    "url": "https://news.ycombinator.com/item?id=47264741",
+    "score": 30,
+    "date": "2026-03-05",
+    "category": "AI News"
+  },
+  {
+    "title": "State of our nation - $30T in debt - spending $1B on a war everyday - oil prices up - stocks are down - travel is unsafe - heightened threat level Wha",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2029665672603783237#m",
+    "date": "2026-03-05",
+    "category": "Twitter"
+  },
+  {
     "title": "Datasets for Reconstructing Visual Perception from Brain Data",
     "source": "Hacker News",
-    "description": "HN Score: 35 | 6 comments",
+    "description": "HN Score: 38 | 7 comments",
     "url": "https://github.com/seelikat/neuro-visual-reconstruction-dataset-index",
-    "score": 35,
-    "date": "2026-03-05",
-    "category": "AI News"
-  },
-  {
-    "title": "R to @svpino: Here is the full talk: https://fandf.co/4bn8P1I",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2029645901929795599#m",
-    "date": "2026-03-05",
-    "category": "Twitter"
-  },
-  {
-    "title": "Show HN: PageAgent, A GUI agent that lives inside your web app",
-    "source": "Hacker News",
-    "description": "HN Score: 48 | 27 comments",
-    "url": "https://alibaba.github.io/page-agent/",
-    "score": 48,
-    "date": "2026-03-05",
-    "category": "AI News"
-  },
-  {
-    "title": "I asked Claude Code to summarize my talk at the Sonar Summit. Here are the 18 Claude Code tips I shared (and the complete talk below): 1. Always refer",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2029645889980305777#m",
-    "date": "2026-03-05",
-    "category": "Twitter"
-  },
-  {
-    "title": "A man who broke into jail",
-    "source": "Hacker News",
-    "description": "HN Score: 80 | 36 comments",
-    "url": "https://www.newyorker.com/magazine/2026/03/09/alexander-friedmann-profile-prison-reform",
-    "score": 80,
+    "score": 38,
     "date": "2026-03-05",
     "category": "AI News"
   },
@@ -144,28 +127,29 @@
     "category": "Twitter"
   },
   {
-    "title": "World-first gigabit laser link between aircraft and geostationary satellite",
+    "title": "Show HN: PageAgent, A GUI agent that lives inside your web app",
     "source": "Hacker News",
-    "description": "HN Score: 146 | 54 comments",
-    "url": "https://www.esa.int/Applications/Connectivity_and_Secure_Communications/World-first_gigabit-per-second_laser_link_between_aircraft_and_geostationary_satellite",
-    "score": 146,
+    "description": "HN Score: 62 | 33 comments",
+    "url": "https://alibaba.github.io/page-agent/",
+    "score": 62,
     "date": "2026-03-05",
     "category": "AI News"
   },
   {
-    "title": "GPT 5.4 promises to be the OpenAI model to DREAM FOR The best of Codex combined with the power of their thinking models!",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2029624551571870137#m",
+    "title": "A man who broke into jail",
+    "source": "Hacker News",
+    "description": "HN Score: 93 | 45 comments",
+    "url": "https://www.newyorker.com/magazine/2026/03/09/alexander-friedmann-profile-prison-reform",
+    "score": 93,
     "date": "2026-03-05",
-    "category": "Twitter"
+    "category": "AI News"
   },
   {
-    "title": "Relicensing with AI-Assisted Rewrite",
+    "title": "World-first gigabit laser link between aircraft and geostationary satellite",
     "source": "Hacker News",
-    "description": "HN Score: 344 | 337 comments",
-    "url": "https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/",
-    "score": 344,
+    "description": "HN Score: 158 | 59 comments",
+    "url": "https://www.esa.int/Applications/Connectivity_and_Secure_Communications/World-first_gigabit-per-second_laser_link_between_aircraft_and_geostationary_satellite",
+    "score": 158,
     "date": "2026-03-05",
     "category": "AI News"
   }

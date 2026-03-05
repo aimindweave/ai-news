@@ -1,8 +1,22 @@
 [
   {
-    "title": "It\u2019s official: The Pentagon has labeled Anthropic a supply chain risk",
+    "title": "AWS launches a new AI agent platform specifically for healthcare",
     "source": "TechCrunch",
-    "summary": "The Department of Defense has officially labeled Anthropic a supply chain risk, making the AI firm the first American company with the label. Meanwhile, the DOD continues to use Anthropic's AI in Iran.",
+    "summary": "AWS is launching Amazon Connect Health, an AI agent platform that will help with patient scheduling, documentation, and patient verification.",
+    "url": "https://techcrunch.com/2026/03/05/aws-amazon-connect-health-ai-agent-platform-health-care-providers/",
+    "date": "2026-03-05"
+  },
+  {
+    "title": "US reportedly considering sweeping new chip export controls",
+    "source": "TechCrunch",
+    "summary": "In an alleged drafted proposal, the U.S. government would play a role in every chip export sale regardless of which country it's coming from.",
+    "url": "https://techcrunch.com/2026/03/05/us-reportedly-considering-sweeping-new-chip-export-controls/",
+    "date": "2026-03-05"
+  },
+  {
+    "title": "It\u2019s official: The Pentagon has labeled Anthropic a supply-chain risk",
+    "source": "TechCrunch",
+    "summary": "The Department of Defense has officially labeled Anthropic a supply-chain risk, making the AI firm the first American company with the label. Meanwhile, the DOD continues to use Anthropic's AI in Iran.",
     "url": "https://techcrunch.com/2026/03/05/its-official-the-pentagon-has-labeled-anthropic-a-supply-chain-risk/",
     "date": "2026-03-05"
   },
@@ -91,20 +105,6 @@
     "date": "2026-03-05"
   },
   {
-    "title": "Decagon completes first tender offer at $4.5B valuation",
-    "source": "TechCrunch",
-    "summary": "The AI-powered customer support startup is the latest example of a fast-growing, young company that's providing employee liquidity.",
-    "url": "https://techcrunch.com/2026/03/04/decagon-completes-first-tender-offer-at-4-5b-valuation/",
-    "date": "2026-03-05"
-  },
-  {
-    "title": "The US military is still using Claude \u2014 but defense-tech clients are fleeing",
-    "source": "TechCrunch",
-    "summary": "As the U.S. continues its aerial attack on Iran, Anthropic models are being used for many targeting decisions.",
-    "url": "https://techcrunch.com/2026/03/04/the-us-military-is-still-using-claude-but-defense-tech-clients-are-fleeing/",
-    "date": "2026-03-05"
-  },
-  {
     "title": "The Download: an AI agent\u2019s hit piece, and preventing lightning",
     "source": "MIT Tech Review",
     "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Online harassment is entering its AI era Scott Shambaugh didn\u2019t think twice when he denied an AI agent\u2019s request to contribute to matplotlib, a software librar...",
@@ -175,6 +175,27 @@
     "date": "2026-03-05"
   },
   {
+    "title": "\u2018Uncanny Valley\u2019: Iran War in the AI Era, Prediction Market Ethics, and Paramount Beats Netflix",
+    "source": "Wired",
+    "summary": "In this episode, our hosts unpack the ongoing conflict in the Middle East, particularly as the AI industry has been entrenching itself with the Department of Defense.",
+    "url": "https://www.wired.com/story/uncanny-valley-podcast-iran-war-artificial-intelligence-prediction-markets-paramount-warner-bros/",
+    "date": "2026-03-05"
+  },
+  {
+    "title": "OpenAI Had Banned Military Use. The Pentagon Tested Its Models Through Microsoft Anyway",
+    "source": "Wired",
+    "summary": "Sources allege the Defense Department experimented with Microsoft\u2019s version of OpenAI technology before the ChatGPT-maker lifted its prohibition on military applications.",
+    "url": "https://www.wired.com/story/openai-defense-department-ban-military-use-microsoft/",
+    "date": "2026-03-05"
+  },
+  {
+    "title": "ByteDance\u2019s AI Ambitions Are Being Hampered by Compute Restraints and Copyright Concerns",
+    "source": "Wired",
+    "summary": "ByteDance\u2019s new Seedance 2.0 AI video model seemed unstoppable\u2014until heavy demand strained the company\u2019s compute capacity and copyright complaints began piling up.",
+    "url": "https://www.wired.com/story/made-in-china-bytedances-ai-ambitions-are-being-hampered-by-compute-restraints/",
+    "date": "2026-03-05"
+  },
+  {
     "title": "Grammarly Is Offering \u2018Expert\u2019 AI Reviews From Your Favorite Authors\u2014Dead or Alive",
     "source": "Wired",
     "summary": "The tool, offered by the recently-rebranded company Superhuman, gives feedback based on the work of famous dead and living writers\u2014without their permission.",
@@ -224,24 +245,10 @@
     "date": "2026-03-05"
   },
   {
-    "title": "Trump Moves to Ban Anthropic From the US Government",
-    "source": "Wired",
-    "summary": "President Donald Trump\u2019s sudden order comes after the Defense Department pressured Anthropic to drop restrictions on how its AI can be used by the military.",
-    "url": "https://www.wired.com/story/trump-moves-to-ban-anthropic-from-the-us-government/",
-    "date": "2026-03-05"
-  },
-  {
-    "title": "OpenAI Fires an Employee for Prediction Market Insider Trading",
-    "source": "Wired",
-    "summary": "Prediction markets like Polymarket and Kalshi are big business, and some Big Tech employees are testing boundaries by making trades based on insider knowledge.",
-    "url": "https://www.wired.com/story/openai-fires-employee-insider-trading-polymarket-kalshi/",
-    "date": "2026-03-05"
-  },
-  {
-    "title": "Wall Street Has AI Psychosis",
-    "source": "Wired",
-    "summary": "A \u201cthought experiment\u201d about the impacts of AI sent stocks tumbling earlier this week. It\u2019s probably going to keep happening.",
-    "url": "https://www.wired.com/story/wall-street-has-ai-psychosis/",
+    "title": "OpenAI introduces GPT-5.4 with more knowledge-work capability",
+    "source": "Ars Technica",
+    "summary": "Updates come amid user blowback over the company's Pentagon deal.",
+    "url": "https://arstechnica.com/ai/2026/03/openai-introduces-gpt-5-4-with-more-knowledge-work-capability/",
     "date": "2026-03-05"
   },
   {
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "AMD will supply 6 gigawatts' worth of chips to buttress Meta's AI efforts.",
     "url": "https://arstechnica.com/ai/2026/02/meta-could-end-up-owning-of-10-amd-in-new-chip-deal/",
-    "date": "2026-03-05"
-  },
-  {
-    "title": "Data center builders thought farmers would willingly sell land, learn otherwise",
-    "source": "Ars Technica",
-    "summary": "Even in a fragile farm economy, million-dollar offers can't sway dedicated farmers.",
-    "url": "https://arstechnica.com/tech-policy/2026/02/im-not-for-sale-farmers-refuse-to-take-millions-in-data-center-deals/",
     "date": "2026-03-05"
   }
 ]
