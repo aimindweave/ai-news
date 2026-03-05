@@ -10,9 +10,9 @@
   {
     "title": "Dario Amodei calls OpenAI\u2019s messaging around military deal \u2018straight up lies\u2019",
     "source": "Hacker News",
-    "description": "HN Score: 236 | 89 comments",
+    "description": "HN Score: 391 | 209 comments",
     "url": "https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/",
-    "score": 236,
+    "score": 391,
     "date": "2026-03-05",
     "category": "AI News"
   },
@@ -25,11 +25,28 @@
     "category": "Twitter"
   },
   {
+    "title": "Jensen Huang says Nvidia is pulling back from OpenAI and Anthropic",
+    "source": "Hacker News",
+    "description": "HN Score: 70 | 21 comments",
+    "url": "https://techcrunch.com/2026/03/04/jensen-huang-says-nvidia-is-pulling-back-from-openai-and-anthropic-but-his-explanation-raises-more-questions-than-it-answers/",
+    "score": 70,
+    "date": "2026-03-05",
+    "category": "AI News"
+  },
+  {
+    "title": "More than one major AI-assisted advance due to be announced next few months \ud83d\udd1c Folk dismissive of AI\u2019s innovation impact are so wrong \ud83d\ude23 All major disco",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/EMostaque/status/2029405918136549550#m",
+    "date": "2026-03-05",
+    "category": "Twitter"
+  },
+  {
     "title": "NanoGPT Slowrun: Language Modeling with Limited Data, Infinite Compute",
     "source": "Hacker News",
-    "description": "HN Score: 126 | 26 comments",
+    "description": "HN Score: 140 | 26 comments",
     "url": "https://qlabs.sh/slowrun",
-    "score": 126,
+    "score": 140,
     "date": "2026-03-05",
     "category": "AI News"
   },
@@ -51,23 +68,6 @@
     "category": "AI News"
   },
   {
-    "title": "Vibe code as variable reward skinner boxes",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/EMostaque/status/2027935253386694691#m",
-    "date": "2026-03-05",
-    "category": "Twitter"
-  },
-  {
-    "title": "Emails to Outlook.com rejected due to a fault or overzealous blocking rules",
-    "source": "Hacker News",
-    "description": "HN Score: 147 | 83 comments",
-    "url": "https://www.theregister.com/2026/03/04/users_fume_at_outlookcom_email/",
-    "score": 147,
-    "date": "2026-03-05",
-    "category": "AI News"
-  },
-  {
     "title": "R to @DrJimFan: We would also like to thank our dexterous hand hardware provider, Sharpa, for their great support!",
     "source": "@DrJimFan",
     "description": "",
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Claude's Cycles [pdf]",
+    "title": "Emails to Outlook.com rejected due to a fault or overzealous blocking rules",
     "source": "Hacker News",
-    "description": "HN Score: 766 | 327 comments",
-    "url": "https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf",
-    "score": 766,
+    "description": "HN Score: 156 | 83 comments",
+    "url": "https://www.theregister.com/2026/03/04/users_fume_at_outlookcom_email/",
+    "score": 156,
     "date": "2026-03-05",
     "category": "AI News"
   },
@@ -93,11 +93,28 @@
     "category": "Twitter"
   },
   {
+    "title": "Claude's Cycles [pdf]",
+    "source": "Hacker News",
+    "description": "HN Score: 770 | 327 comments",
+    "url": "https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf",
+    "score": 770,
+    "date": "2026-03-05",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: Start building for an agent-first world. If you have a product, you need to start offering skills for Claude, Codex, Cursor, and any ot",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2029228006263406933#m",
+    "date": "2026-03-05",
+    "category": "Twitter"
+  },
+  {
     "title": "Anthropic chief back in talks with Pentagon about AI deal",
     "source": "Hacker News",
-    "description": "HN Score: 8 | 1 comments",
+    "description": "HN Score: 27 | 3 comments",
     "url": "https://www.ft.com/content/97bda2ef-fc06-40b3-a867-f61a711b148b",
-    "score": 8,
+    "score": 27,
     "date": "2026-03-05",
     "category": "AI News"
   },
@@ -110,26 +127,18 @@
     "category": "Twitter"
   },
   {
-    "title": "Bots are at an all-time high on this platform. Is it really that hard to cut down on AI replies, or is it that the platform wants these replies?",
-    "source": "@svpino",
+    "title": "OpenAI and Anthropic are in a race for ARR OpenAI is higher at $25B with Anthropic at $20B However Anthropic wins by having lower losses OpenAI will l",
+    "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2029292400179400742#m",
+    "url": "https://nitter.net/bindureddy/status/2029416617265004595#m",
     "date": "2026-03-05",
     "category": "Twitter"
   },
   {
-    "title": "Anthropic IS WINNING AGAINST OpenAI FOR THE MOMENT OpenAI can bounce back if they go back to being a research lab and focus 100% on shipping a cheaper",
+    "title": "GPT 5.4 will have an \u201cextreme reasoning\u201d mode and will double context to 1M tokens This will also help with very long running tasks These changes will",
     "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/bindureddy/status/2029088475778302375#m",
-    "date": "2026-03-05",
-    "category": "Twitter"
-  },
-  {
-    "title": "OpenAI says GPT 5.4 is coming soon Pretty remarkable execution! They are upgrading their models on a monthly basis",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2028940219458961569#m",
+    "url": "https://nitter.net/bindureddy/status/2029383387191099401#m",
     "date": "2026-03-05",
     "category": "Twitter"
   }
