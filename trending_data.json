@@ -10,9 +10,9 @@
   {
     "title": "GPT-5.4",
     "source": "Hacker News",
-    "description": "HN Score: 901 | 715 comments",
+    "description": "HN Score: 942 | 736 comments",
     "url": "https://openai.com/index/introducing-gpt-5-4/",
-    "score": 901,
+    "score": 942,
     "date": "2026-03-06",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "Hardening Firefox with Anthropic's Red Team",
     "source": "Hacker News",
-    "description": "HN Score: 129 | 37 comments",
+    "description": "HN Score: 211 | 62 comments",
     "url": "https://blog.mozilla.org/en/firefox/hardening-firefox-anthropic-red-team/",
-    "score": 129,
+    "score": 211,
     "date": "2026-03-06",
     "category": "AI News"
   },
@@ -44,9 +44,9 @@
   {
     "title": "Labor market impacts of AI: A new measure and early evidence",
     "source": "Hacker News",
-    "description": "HN Score: 257 | 396 comments",
+    "description": "HN Score: 280 | 442 comments",
     "url": "https://www.anthropic.com/research/labor-market-impacts",
-    "score": 257,
+    "score": 280,
     "date": "2026-03-06",
     "category": "AI News"
   },
@@ -61,9 +61,9 @@
   {
     "title": "A standard protocol to handle and discard low-effort, AI-Generated pull requests",
     "source": "Hacker News",
-    "description": "HN Score: 238 | 80 comments",
+    "description": "HN Score: 261 | 90 comments",
     "url": "https://406.fail/",
-    "score": 238,
+    "score": 261,
     "date": "2026-03-06",
     "category": "AI News"
   },
@@ -78,9 +78,9 @@
   {
     "title": "AI and the Ship of Theseus",
     "source": "Hacker News",
-    "description": "HN Score: 145 | 150 comments",
+    "description": "HN Score: 162 | 166 comments",
     "url": "https://lucumr.pocoo.org/2026/3/5/theseus/",
-    "score": 145,
+    "score": 162,
     "date": "2026-03-06",
     "category": "AI News"
   },
@@ -95,9 +95,26 @@
   {
     "title": "Hardware hotplug events on Linux, the gory details",
     "source": "Hacker News",
-    "description": "HN Score: 161 | 16 comments",
+    "description": "HN Score: 162 | 16 comments",
     "url": "https://arcanenibble.github.io/hardware-hotplug-events-on-linux-the-gory-details.html",
-    "score": 161,
+    "score": 162,
+    "date": "2026-03-06",
+    "category": "AI News"
+  },
+  {
+    "title": "This is how you can give Claude Code the ability to parse any website in the world. I recorded this video last week. People loved it. I keep getting m",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2029952780694352026#m",
+    "date": "2026-03-06",
+    "category": "Twitter"
+  },
+  {
+    "title": "Show HN: PageAgent, A GUI agent that lives inside your web app",
+    "source": "Hacker News",
+    "description": "HN Score: 132 | 66 comments",
+    "url": "https://alibaba.github.io/page-agent/",
+    "score": 132,
     "date": "2026-03-06",
     "category": "AI News"
   },
@@ -110,28 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: PageAgent, A GUI agent that lives inside your web app",
-    "source": "Hacker News",
-    "description": "HN Score: 128 | 63 comments",
-    "url": "https://alibaba.github.io/page-agent/",
-    "score": 128,
-    "date": "2026-03-06",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: This is the best long-form video storytelling model I've seen. Forget about text-to-video models. This looks as cinematic as any other ",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2029679871149101341#m",
-    "date": "2026-03-06",
-    "category": "Twitter"
-  },
-  {
     "title": "Show HN: Jido 2.0, Elixir Agent Framework",
     "source": "Hacker News",
-    "description": "HN Score: 306 | 62 comments",
+    "description": "HN Score: 309 | 64 comments",
     "url": "https://jido.run/blog/jido-2-0-is-here",
-    "score": 306,
+    "score": 309,
     "date": "2026-03-06",
     "category": "AI News"
   },
@@ -163,9 +163,9 @@
   {
     "title": "Every Claim from Meta Child Safety Trials",
     "source": "Hacker News",
-    "description": "HN Score: 24 | 2 comments",
+    "description": "HN Score: 26 | 2 comments",
     "url": "https://meta-trials.vercel.app/",
-    "score": 24,
+    "score": 26,
     "date": "2026-03-06",
     "category": "AI News"
   }
