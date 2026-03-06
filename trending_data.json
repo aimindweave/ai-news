@@ -10,9 +10,9 @@
   {
     "title": "GPT-5.4",
     "source": "Hacker News",
-    "description": "HN Score: 883 | 697 comments",
+    "description": "HN Score: 901 | 715 comments",
     "url": "https://openai.com/index/introducing-gpt-5-4/",
-    "score": 883,
+    "score": 901,
     "date": "2026-03-06",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "Hardening Firefox with Anthropic's Red Team",
     "source": "Hacker News",
-    "description": "HN Score: 50 | 13 comments",
+    "description": "HN Score: 129 | 37 comments",
     "url": "https://blog.mozilla.org/en/firefox/hardening-firefox-anthropic-red-team/",
-    "score": 50,
+    "score": 129,
     "date": "2026-03-06",
     "category": "AI News"
   },
@@ -44,9 +44,9 @@
   {
     "title": "Labor market impacts of AI: A new measure and early evidence",
     "source": "Hacker News",
-    "description": "HN Score: 234 | 353 comments",
+    "description": "HN Score: 257 | 396 comments",
     "url": "https://www.anthropic.com/research/labor-market-impacts",
-    "score": 234,
+    "score": 257,
     "date": "2026-03-06",
     "category": "AI News"
   },
@@ -61,9 +61,9 @@
   {
     "title": "A standard protocol to handle and discard low-effort, AI-Generated pull requests",
     "source": "Hacker News",
-    "description": "HN Score: 218 | 74 comments",
+    "description": "HN Score: 238 | 80 comments",
     "url": "https://406.fail/",
-    "score": 218,
+    "score": 238,
     "date": "2026-03-06",
     "category": "AI News"
   },
@@ -78,9 +78,9 @@
   {
     "title": "AI and the Ship of Theseus",
     "source": "Hacker News",
-    "description": "HN Score: 131 | 133 comments",
+    "description": "HN Score: 145 | 150 comments",
     "url": "https://lucumr.pocoo.org/2026/3/5/theseus/",
-    "score": 131,
+    "score": 145,
     "date": "2026-03-06",
     "category": "AI News"
   },
@@ -95,9 +95,26 @@
   {
     "title": "Hardware hotplug events on Linux, the gory details",
     "source": "Hacker News",
-    "description": "HN Score: 158 | 16 comments",
+    "description": "HN Score: 161 | 16 comments",
     "url": "https://arcanenibble.github.io/hardware-hotplug-events-on-linux-the-gory-details.html",
-    "score": 158,
+    "score": 161,
+    "date": "2026-03-06",
+    "category": "AI News"
+  },
+  {
+    "title": "Claude Code Pro Tip: Include the word 'ultrathink' anywhere in your prompt. This will set the effort to HIGH, and the model will spend more time think",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2029913404987822250#m",
+    "date": "2026-03-06",
+    "category": "Twitter"
+  },
+  {
+    "title": "Show HN: PageAgent, A GUI agent that lives inside your web app",
+    "source": "Hacker News",
+    "description": "HN Score: 128 | 63 comments",
+    "url": "https://alibaba.github.io/page-agent/",
+    "score": 128,
     "date": "2026-03-06",
     "category": "AI News"
   },
@@ -110,28 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: PageAgent, A GUI agent that lives inside your web app",
-    "source": "Hacker News",
-    "description": "HN Score: 119 | 62 comments",
-    "url": "https://alibaba.github.io/page-agent/",
-    "score": 119,
-    "date": "2026-03-06",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: Postman now supports Agent Mode and native Git workflows. The New Postman is probably the biggest update I've seen coming from them. Ag",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2029590884896194888#m",
-    "date": "2026-03-06",
-    "category": "Twitter"
-  },
-  {
     "title": "Show HN: Jido 2.0, Elixir Agent Framework",
     "source": "Hacker News",
-    "description": "HN Score: 299 | 62 comments",
+    "description": "HN Score: 306 | 62 comments",
     "url": "https://jido.run/blog/jido-2-0-is-here",
-    "score": 299,
+    "score": 306,
     "date": "2026-03-06",
     "category": "AI News"
   },
@@ -146,9 +146,9 @@
   {
     "title": "Launch HN: Vela (YC W26) \u2013 AI for complex scheduling",
     "source": "Hacker News",
-    "description": "HN Score: 51 | 39 comments",
+    "description": "HN Score: 53 | 40 comments",
     "url": "https://news.ycombinator.com/item?id=47264741",
-    "score": 51,
+    "score": 53,
     "date": "2026-03-06",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "TeX Live 2026 is available for download now",
+    "title": "Every Claim from Meta Child Safety Trials",
     "source": "Hacker News",
-    "description": "HN Score: 81 | 52 comments",
-    "url": "https://www.tug.org/texlive/acquire.html",
-    "score": 81,
+    "description": "HN Score: 24 | 2 comments",
+    "url": "https://meta-trials.vercel.app/",
+    "score": 24,
     "date": "2026-03-06",
     "category": "AI News"
   }
