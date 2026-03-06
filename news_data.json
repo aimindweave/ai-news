@@ -1,5 +1,19 @@
 [
   {
+    "title": "Microsoft, Google, Amazon say Anthropic Claude remains available to non-defense customers",
+    "source": "TechCrunch",
+    "summary": "Trump's Department of War feud with Anthropic won't impact other companies that are using Claude via Microsoft and Google products.",
+    "url": "https://techcrunch.com/2026/03/06/microsoft-anthropic-claude-remains-available-to-customers-except-the-defense-department/",
+    "date": "2026-03-06"
+  },
+  {
+    "title": "Anthropic\u2019s Claude found 22 vulnerabilities in Firefox over two weeks",
+    "source": "TechCrunch",
+    "summary": "In a recent security partnership with Mozilla, Anthropic found 22 separate vulnerabilities in Firefox \u2014 14 of them classified as 'high-severity.'",
+    "url": "https://techcrunch.com/2026/03/06/anthropics-claude-found-22-vulnerabilities-in-firefox-over-two-weeks/",
+    "date": "2026-03-06"
+  },
+  {
     "title": "Anthropic\u2019s Pentagon deal is a cautionary tale for startups chasing federal contracts",
     "source": "TechCrunch",
     "summary": "The Pentagon has officially designated Anthropic a supply-chain risk after the two failed to agree on how much control the military should have over its AI models, including its use in autonomous weapons and mass domestic surveillance. As Anthropic\u2019s $200 million contract fell apart, the DoD turn...",
@@ -91,17 +105,10 @@
     "date": "2026-03-06"
   },
   {
-    "title": "Meta sued over AI smart glasses\u2019 privacy concerns, after workers reviewed nudity, sex, and other footage",
-    "source": "TechCrunch",
-    "summary": "Lawyers say Meta's marketing materials promised privacy and user control over sharing footage. But an investigation found that subcontractors are reviewing footage from customers' glasses.",
-    "url": "https://techcrunch.com/2026/03/05/meta-sued-over-ai-smartglasses-privacy-concerns-after-workers-reviewed-nudity-sex-and-other-footage/",
-    "date": "2026-03-06"
-  },
-  {
-    "title": "Anthropic CEO Dario Amodei could still be trying to make a deal with Pentagon",
-    "source": "TechCrunch",
-    "summary": "Anthropic's $200 million contract with the Department of Defense broke down due to disagreements over giving the military unrestricted access to its AI.",
-    "url": "https://techcrunch.com/2026/03/05/anthropic-ceo-dario-amodei-could-still-be-trying-to-make-a-deal-with-pentagon/",
+    "title": "Is the Pentagon allowed to surveil Americans with AI?",
+    "source": "MIT Tech Review",
+    "summary": "The ongoing public feud between the Department of Defense and the AI company Anthropic has raised a deep and still unanswered question: Does the law actually allow the US government to conduct mass surveillance on Americans? Surprisingly, the answer is not straightforward. More than a decade afte...",
+    "url": "https://www.technologyreview.com/2026/03/06/1134012/is-the-pentagon-allowed-to-surveil-americans-with-ai/",
     "date": "2026-03-06"
   },
   {
@@ -165,13 +172,6 @@
     "source": "MIT Tech Review",
     "summary": "On June 1, 2023, as a sweltering heat wave baked Quebec, thousands of lightning strikes flashed across the province, setting off more than 120 wildfires. The blazes ripped through parched forests and withered grasslands, burned for weeks, and compounded what was rapidly turning into Canada\u2019s wors...",
     "url": "https://www.technologyreview.com/2026/03/03/1133848/this-startup-claims-it-can-stop-lightning-and-prevent-catastrophic-wildfires/",
-    "date": "2026-03-06"
-  },
-  {
-    "title": "OpenAI\u2019s \u201ccompromise\u201d with the Pentagon is what Anthropic feared",
-    "source": "MIT Tech Review",
-    "summary": "On February 28, OpenAI announced it had reached a deal that will allow the US military to use its technologies in classified settings. CEO Sam Altman said the negotiations, which the company began pursuing only after the Pentagon\u2019s public reprimand of Anthropic, were \u201cdefinitely rushed.\u201d In its a...",
-    "url": "https://www.technologyreview.com/2026/03/02/1133850/openais-compromise-with-the-pentagon-is-what-anthropic-feared/",
     "date": "2026-03-06"
   },
   {
@@ -242,6 +242,13 @@
     "source": "Wired",
     "summary": "Deutsche Telekom, the German cell provider\u2014which holds a majority stake in T-Mobile\u2014is partnering with ElevenLabs to enable an AI assistant on all of its network\u2019s calls in Germany. No app required.",
     "url": "https://www.wired.com/story/deutsche-telekom-elevenlabs-ai-phone-calls-mwc-2026/",
+    "date": "2026-03-06"
+  },
+  {
+    "title": "Google's new command line tool can plug OpenClaw into your Workspace data",
+    "source": "Ars Technica",
+    "summary": "This could make it easier to plug AI into Workspace APIs, but it's not yet an official Google product.",
+    "url": "https://arstechnica.com/ai/2026/03/googles-new-command-line-tool-can-plug-openclaw-into-your-workspace-data/",
     "date": "2026-03-06"
   },
   {
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "Google's new image model replaces the previous versions immediately.",
     "url": "https://arstechnica.com/ai/2026/02/google-releases-nano-banana-2-ai-image-generator-promises-pro-results-with-flash-speed/",
-    "date": "2026-03-06"
-  },
-  {
-    "title": "Musk has no proof OpenAI stole xAI trade secrets, judge rules, tossing lawsuit",
-    "source": "Ars Technica",
-    "summary": "Even twisting an ex-employee's text to favor xAI's reading fails to sway judge.",
-    "url": "https://arstechnica.com/tech-policy/2026/02/judge-xai-cant-claim-openai-stole-trade-secrets-just-by-hiring-ex-staffers/",
     "date": "2026-03-06"
   }
 ]
