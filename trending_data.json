@@ -1,5 +1,39 @@
 [
   {
+    "title": "1\u30da\u30fc\u30b8\u76ee\u3067\u3061\u3083\u3093\u3068\u6253\u6483\u98df\u3089\u3063\u3066\u30ac\u30b3\u30f3\u3057\u3066\u308b\u306e\u3067 \u3042\u308c\u304c\u306a\u304b\u3063\u305f\u3089\u6469\u864e\u7f85\u653b\u7565\u3067\u304d\u3066\u305f\u304b\u3082\u3057\u308c\u3093",
+    "source": "@kaborobot",
+    "description": "",
+    "url": "https://nitter.net/kaborobot/status/2015735996248420451#m",
+    "date": "2026-03-06",
+    "category": "Twitter"
+  },
+  {
+    "title": "GPT-5.4",
+    "source": "Hacker News",
+    "description": "HN Score: 716 | 614 comments",
+    "url": "https://openai.com/index/introducing-gpt-5-4/",
+    "score": 716,
+    "date": "2026-03-06",
+    "category": "AI News"
+  },
+  {
+    "title": "\u30ec\u30bc\u304c\u300c\u79c1\u306b\u306f\u904e\u304e\u305f\u9858\u3044\u3060\u3063\u305f\u300d\u306a\u3093\u3066\u601d\u3063\u3066\u3044\u307e\u305b\u3093\u3088\u3046\u306b\u3068\u7948\u3063\u3066\u305f\u9023\u4f11\u3060\u3063\u305f",
+    "source": "@kaborobot",
+    "description": "",
+    "url": "https://nitter.net/kaborobot/status/1977673306670330109#m",
+    "date": "2026-03-06",
+    "category": "Twitter"
+  },
+  {
+    "title": "A standard protocol to handle and discard low-effort, AI-Generated pull requests",
+    "source": "Hacker News",
+    "description": "HN Score: 125 | 39 comments",
+    "url": "https://406.fail/",
+    "score": 125,
+    "date": "2026-03-06",
+    "category": "AI News"
+  },
+  {
     "title": "More than one major AI-assisted advance due to be announced next few months \ud83d\udd1c Folk dismissive of AI\u2019s innovation impact are so wrong \ud83d\ude23 All major disco",
     "source": "@EMostaque",
     "description": "",
@@ -8,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "GPT-5.4",
+    "title": "Labor market impacts of AI: A new measure and early evidence",
     "source": "Hacker News",
-    "description": "HN Score: 646 | 561 comments",
-    "url": "https://openai.com/index/introducing-gpt-5-4/",
-    "score": 646,
+    "description": "HN Score: 111 | 130 comments",
+    "url": "https://www.anthropic.com/research/labor-market-impacts",
+    "score": 111,
     "date": "2026-03-06",
     "category": "AI News"
   },
@@ -25,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "The next generations of Bubble Tea, Lip Gloss, and Bubbles are available now",
+    "title": "Hardware hotplug events on Linux, the gory details",
     "source": "Hacker News",
-    "description": "HN Score: 105 | 33 comments",
-    "url": "https://charm.land/blog/v2/",
-    "score": 105,
+    "description": "HN Score: 128 | 9 comments",
+    "url": "https://arcanenibble.github.io/hardware-hotplug-events-on-linux-the-gory-details.html",
+    "score": 128,
     "date": "2026-03-06",
     "category": "AI News"
   },
@@ -42,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "A standard protocol to handle and discard low-effort, AI-Generated pull requests",
+    "title": "Launch HN: Vela (YC W26) \u2013 AI for complex scheduling",
     "source": "Hacker News",
-    "description": "HN Score: 92 | 24 comments",
-    "url": "https://406.fail/",
-    "score": 92,
+    "description": "HN Score: 42 | 37 comments",
+    "url": "https://news.ycombinator.com/item?id=47264741",
+    "score": 42,
     "date": "2026-03-06",
     "category": "AI News"
   },
@@ -59,11 +93,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Hardware hotplug events on Linux, the gory details",
+    "title": "Show HN: Jido 2.0, Elixir Agent Framework",
     "source": "Hacker News",
-    "description": "HN Score: 119 | 7 comments",
-    "url": "https://arcanenibble.github.io/hardware-hotplug-events-on-linux-the-gory-details.html",
-    "score": 119,
+    "description": "HN Score: 259 | 57 comments",
+    "url": "https://jido.run/blog/jido-2-0-is-here",
+    "score": 259,
+    "date": "2026-03-06",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: Postman now supports Agent Mode and native Git workflows. The New Postman is probably the biggest update I've seen coming from them. Ag",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2029590884896194888#m",
+    "date": "2026-03-06",
+    "category": "Twitter"
+  },
+  {
+    "title": "Show HN: PageAgent, A GUI agent that lives inside your web app",
+    "source": "Hacker News",
+    "description": "HN Score: 81 | 39 comments",
+    "url": "https://alibaba.github.io/page-agent/",
+    "score": 81,
     "date": "2026-03-06",
     "category": "AI News"
   },
@@ -72,23 +123,6 @@
     "source": "@svpino",
     "description": "",
     "url": "https://nitter.net/svpino/status/2029553782846320967#m",
-    "date": "2026-03-06",
-    "category": "Twitter"
-  },
-  {
-    "title": "Show HN: Jido 2.0, Elixir Agent Framework",
-    "source": "Hacker News",
-    "description": "HN Score: 250 | 55 comments",
-    "url": "https://jido.run/blog/jido-2-0-is-here",
-    "score": 250,
-    "date": "2026-03-06",
-    "category": "AI News"
-  },
-  {
-    "title": "R to @svpino: @UtopaiStudios keep going\u2026 a year from now, this will be crazy!",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2029727823712133167#m",
     "date": "2026-03-06",
     "category": "Twitter"
   },
@@ -102,6 +136,23 @@
     "category": "AI News"
   },
   {
+    "title": "GPT 5.4 is set to top LiveBench - results coming soon \ud83c\udf89",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2029750282234773504#m",
+    "date": "2026-03-06",
+    "category": "Twitter"
+  },
+  {
+    "title": "Code World Models for Parameter Control in Evolutionary Algorithms",
+    "source": "Hacker News",
+    "description": "HN Score: 3 | 0 comments",
+    "url": "https://www.alphaxiv.org/abs/2602.22260",
+    "score": 3,
+    "date": "2026-03-06",
+    "category": "AI News"
+  },
+  {
     "title": "GPT 5.4 promises to be the OpenAI model to DREAM FOR The best of Codex combined with the power of their thinking models!",
     "source": "@bindureddy",
     "description": "",
@@ -110,46 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Proton Mail Helped FBI Unmask Anonymous 'Stop Cop City' Protester",
+    "title": "AI and the Ship of Theseus",
     "source": "Hacker News",
-    "description": "HN Score: 227 | 113 comments",
-    "url": "https://www.404media.co/proton-mail-helped-fbi-unmask-anonymous-stop-cop-city-protestor/",
-    "score": 227,
-    "date": "2026-03-06",
-    "category": "AI News"
-  },
-  {
-    "title": "Wow! GPT 5.4 Just Dropped! Execution At The Speed of Light Super anxious to see how it compares to Opus on LiveBench",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2029624266216612345#m",
-    "date": "2026-03-06",
-    "category": "Twitter"
-  },
-  {
-    "title": "Launch HN: Vela (YC W26) \u2013 AI for complex scheduling",
-    "source": "Hacker News",
-    "description": "HN Score: 36 | 37 comments",
-    "url": "https://news.ycombinator.com/item?id=47264741",
-    "score": 36,
-    "date": "2026-03-06",
-    "category": "AI News"
-  },
-  {
-    "title": "World-first gigabit laser link between aircraft and geostationary satellite",
-    "source": "Hacker News",
-    "description": "HN Score: 169 | 67 comments",
-    "url": "https://www.esa.int/Applications/Connectivity_and_Secure_Communications/World-first_gigabit-per-second_laser_link_between_aircraft_and_geostationary_satellite",
-    "score": 169,
-    "date": "2026-03-06",
-    "category": "AI News"
-  },
-  {
-    "title": "Datasets for Reconstructing Visual Perception from Brain Data",
-    "source": "Hacker News",
-    "description": "HN Score: 50 | 11 comments",
-    "url": "https://github.com/seelikat/neuro-visual-reconstruction-dataset-index",
-    "score": 50,
+    "description": "HN Score: 70 | 79 comments",
+    "url": "https://lucumr.pocoo.org/2026/3/5/theseus/",
+    "score": 70,
     "date": "2026-03-06",
     "category": "AI News"
   }
