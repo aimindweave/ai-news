@@ -10,9 +10,9 @@
   {
     "title": "Tell HN: I'm 60 years old. Claude Code has re-ignited a passion",
     "source": "Hacker News",
-    "description": "HN Score: 583 | 451 comments",
+    "description": "HN Score: 670 | 543 comments",
     "url": "https://news.ycombinator.com/item?id=47282777",
-    "score": 583,
+    "score": 670,
     "date": "2026-03-07",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Uploading Pirated Books via BitTorrent Qualifies as Fair Use, Meta Argues",
+    "title": "Palantir and Anthropic AI helped the US hit 1k Iran targets in 24 hours",
     "source": "Hacker News",
-    "description": "HN Score: 98 | 61 comments",
-    "url": "https://torrentfreak.com/uploading-pirated-books-via-bittorrent-qualifies-as-fair-use-meta/",
-    "score": 98,
+    "description": "HN Score: 36 | 22 comments",
+    "url": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/world/how-palantir-and-anthropic-ai-helped-the-us-hit-1-000-iran-targets-in-24-hours-article-13853331.html",
+    "score": 36,
     "date": "2026-03-07",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "LLMs work best when the user defines their acceptance criteria first",
+    "title": "Self-Portrait by Ernst Mach (1886)",
     "source": "Hacker News",
-    "description": "HN Score: 264 | 197 comments",
-    "url": "https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code",
-    "score": 264,
+    "description": "HN Score: 14 | 1 comments",
+    "url": "https://publicdomainreview.org/collection/self-portrait-by-ernst-mach-1886/",
+    "score": 14,
     "date": "2026-03-07",
     "category": "AI News"
   },
@@ -59,28 +59,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Sarvam 105B, the first competitive Indian open source LLM",
+    "title": "LLMs work best when the user defines their acceptance criteria first",
     "source": "Hacker News",
-    "description": "HN Score: 87 | 18 comments",
-    "url": "https://www.sarvam.ai/blogs/sarvam-30b-105b",
-    "score": 87,
+    "description": "HN Score: 300 | 216 comments",
+    "url": "https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code",
+    "score": 300,
     "date": "2026-03-07",
     "category": "AI News"
   },
   {
-    "title": "We trained a humanoid with 22-DoF dexterous hands to assemble model cars, operate syringes, sort poker cards, fold/roll shirts, all learned primarily ",
+    "title": "R to @DrJimFan: We would also like to thank our dexterous hand hardware provider, Sharpa, for their great support!",
     "source": "@DrJimFan",
     "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2026709304984875202#m",
+    "url": "https://nitter.net/DrJimFan/status/2026709308713611695#m",
     "date": "2026-03-07",
     "category": "Twitter"
   },
   {
-    "title": "My application programmer instincts failed when debugging assembler",
+    "title": "Uploading Pirated Books via BitTorrent Qualifies as Fair Use, Meta Argues",
     "source": "Hacker News",
-    "description": "HN Score: 19 | 11 comments",
-    "url": "https://landedstar.com/blog/posts/how-my-application-programmer-instincts-failed-when-debugging-assembler/",
-    "score": 19,
+    "description": "HN Score: 144 | 91 comments",
+    "url": "https://torrentfreak.com/uploading-pirated-books-via-bittorrent-qualifies-as-fair-use-meta/",
+    "score": 144,
     "date": "2026-03-07",
     "category": "AI News"
   },
@@ -93,11 +93,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Hardening Firefox with Anthropic's Red Team",
+    "title": "Sarvam 105B, the first competitive Indian open source LLM",
     "source": "Hacker News",
-    "description": "HN Score: 580 | 158 comments",
-    "url": "https://www.anthropic.com/news/mozilla-firefox-security",
-    "score": 580,
+    "description": "HN Score: 111 | 31 comments",
+    "url": "https://www.sarvam.ai/blogs/sarvam-30b-105b",
+    "score": 111,
+    "date": "2026-03-07",
+    "category": "AI News"
+  },
+  {
+    "title": "Yesterday was my last day using ChatGPT. I'm a full-time Claude user now on all of my devices.",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2030282831503765646#m",
+    "date": "2026-03-07",
+    "category": "Twitter"
+  },
+  {
+    "title": "My application programmer instincts failed when debugging assembler",
+    "source": "Hacker News",
+    "description": "HN Score: 22 | 15 comments",
+    "url": "https://landedstar.com/blog/posts/how-my-application-programmer-instincts-failed-when-debugging-assembler/",
+    "score": 22,
     "date": "2026-03-07",
     "category": "AI News"
   },
@@ -110,28 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "A tool that removes censorship from open-weight LLMs",
+    "title": "Hardening Firefox with Anthropic's Red Team",
     "source": "Hacker News",
-    "description": "HN Score: 182 | 82 comments",
-    "url": "https://github.com/elder-plinius/OBLITERATUS",
-    "score": 182,
-    "date": "2026-03-07",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: Claude Code Pro Tip: Include the word 'ultrathink' anywhere in your prompt. This will set the effort to HIGH, and the model will spend ",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2029913404987822250#m",
-    "date": "2026-03-07",
-    "category": "Twitter"
-  },
-  {
-    "title": "Show HN: Kula \u2013 Lightweight, self-contained Linux server monitoring tool",
-    "source": "Hacker News",
-    "description": "HN Score: 63 | 41 comments",
-    "url": "https://github.com/c0m4r/kula",
-    "score": 63,
+    "description": "HN Score: 586 | 163 comments",
+    "url": "https://www.anthropic.com/news/mozilla-firefox-security",
+    "score": 586,
     "date": "2026-03-07",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: 1v1 coding game that LLMs struggle with",
+    "title": "A tool that removes censorship from open-weight LLMs",
     "source": "Hacker News",
-    "description": "HN Score: 22 | 6 comments",
-    "url": "https://yare.io",
-    "score": 22,
+    "description": "HN Score: 187 | 82 comments",
+    "url": "https://github.com/elder-plinius/OBLITERATUS",
+    "score": 187,
     "date": "2026-03-07",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Claude-replay \u2013 A video-like player for Claude Code sessions",
+    "title": "Show HN: Kula \u2013 Lightweight, self-contained Linux server monitoring tool",
     "source": "Hacker News",
-    "description": "HN Score: 86 | 29 comments",
-    "url": "https://github.com/es617/claude-replay",
-    "score": 86,
+    "description": "HN Score: 67 | 47 comments",
+    "url": "https://github.com/c0m4r/kula",
+    "score": 67,
     "date": "2026-03-07",
     "category": "AI News"
   }
