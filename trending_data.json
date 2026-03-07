@@ -4,16 +4,16 @@
     "source": "@kaborobot",
     "description": "",
     "url": "https://nitter.net/kaborobot/status/2015735996248420451#m",
-    "date": "2026-03-06",
+    "date": "2026-03-07",
     "category": "Twitter"
   },
   {
-    "title": "The worst acquisition in history, again",
+    "title": "An LLM doesn\u2019t write correct code, it writes plausible code",
     "source": "Hacker News",
-    "description": "HN Score: 59 | 39 comments",
-    "url": "https://www.profgmedia.com/p/the-worst-acquisition-in-history",
-    "score": 59,
-    "date": "2026-03-06",
+    "description": "HN Score: 41 | 35 comments",
+    "url": "https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code",
+    "score": 41,
+    "date": "2026-03-07",
     "category": "AI News"
   },
   {
@@ -21,16 +21,16 @@
     "source": "@kaborobot",
     "description": "",
     "url": "https://nitter.net/kaborobot/status/1977673306670330109#m",
-    "date": "2026-03-06",
+    "date": "2026-03-07",
     "category": "Twitter"
   },
   {
     "title": "Hardening Firefox with Anthropic's Red Team",
     "source": "Hacker News",
-    "description": "HN Score: 401 | 115 comments",
+    "description": "HN Score: 497 | 141 comments",
     "url": "https://www.anthropic.com/news/mozilla-firefox-security",
-    "score": 401,
-    "date": "2026-03-06",
+    "score": 497,
+    "date": "2026-03-07",
     "category": "AI News"
   },
   {
@@ -38,16 +38,16 @@
     "source": "@EMostaque",
     "description": "",
     "url": "https://nitter.net/EMostaque/status/2029405918136549550#m",
-    "date": "2026-03-06",
+    "date": "2026-03-07",
     "category": "Twitter"
   },
   {
-    "title": "A tool that removes censorship from open-weight LLMs",
+    "title": "Show HN: Kula \u2013 Lightweight, self-contained Linux server monitoring tool",
     "source": "Hacker News",
-    "description": "HN Score: 80 | 31 comments",
-    "url": "https://github.com/elder-plinius/OBLITERATUS",
-    "score": 80,
-    "date": "2026-03-06",
+    "description": "HN Score: 10 | 7 comments",
+    "url": "https://github.com/c0m4r/kula",
+    "score": 10,
+    "date": "2026-03-07",
     "category": "AI News"
   },
   {
@@ -55,33 +55,84 @@
     "source": "@EMostaque",
     "description": "",
     "url": "https://nitter.net/EMostaque/status/2028909768056902096#m",
-    "date": "2026-03-06",
+    "date": "2026-03-07",
+    "category": "Twitter"
+  },
+  {
+    "title": "Show HN: 1v1 coding game that LLMs struggle with",
+    "source": "Hacker News",
+    "description": "HN Score: 3 | 3 comments",
+    "url": "https://yare.io",
+    "score": 3,
+    "date": "2026-03-07",
+    "category": "AI News"
+  },
+  {
+    "title": "R to @DrJimFan: We would also like to thank our dexterous hand hardware provider, Sharpa, for their great support!",
+    "source": "@DrJimFan",
+    "description": "",
+    "url": "https://nitter.net/DrJimFan/status/2026709308713611695#m",
+    "date": "2026-03-07",
+    "category": "Twitter"
+  },
+  {
+    "title": "A tool that removes censorship from open-weight LLMs",
+    "source": "Hacker News",
+    "description": "HN Score: 128 | 54 comments",
+    "url": "https://github.com/elder-plinius/OBLITERATUS",
+    "score": 128,
+    "date": "2026-03-07",
+    "category": "AI News"
+  },
+  {
+    "title": "R to @DrJimFan: This is a huge team work at NVIDIA Robotics. Check out @ruijie_zheng12's deep dive: - Website: https://research.nvidia.com/labs/gear/e",
+    "source": "@DrJimFan",
+    "description": "",
+    "url": "https://nitter.net/DrJimFan/status/2026709306629091342#m",
+    "date": "2026-03-07",
+    "category": "Twitter"
+  },
+  {
+    "title": "We might all be AI engineers now",
+    "source": "Hacker News",
+    "description": "HN Score: 181 | 288 comments",
+    "url": "https://yasint.dev/we-might-all-be-ai-engineers-now/",
+    "score": 181,
+    "date": "2026-03-07",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: Claude Code Pro Tip: Include the word 'ultrathink' anywhere in your prompt. This will set the effort to HIGH, and the model will spend ",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2029913404987822250#m",
+    "date": "2026-03-07",
     "category": "Twitter"
   },
   {
     "title": "Anthropic, please make a new Slack",
     "source": "Hacker News",
-    "description": "HN Score: 119 | 93 comments",
+    "description": "HN Score: 204 | 186 comments",
     "url": "https://www.fivetran.com/blog/anthropic-please-make-a-new-slack",
-    "score": 119,
-    "date": "2026-03-06",
+    "score": 204,
+    "date": "2026-03-07",
     "category": "AI News"
   },
   {
-    "title": "This is how you can give Claude Code the ability to parse any website in the world. I recorded this video last week. People loved it. I keep getting m",
-    "source": "@svpino",
+    "title": "The future - my personal agent negotiating with your personal agent for all things It will book meetings, direct other vibe-coding specialized agents ",
+    "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2029952780694352026#m",
-    "date": "2026-03-06",
+    "url": "https://nitter.net/bindureddy/status/2030072405461475529#m",
+    "date": "2026-03-07",
     "category": "Twitter"
   },
   {
     "title": "Show HN: Claude-replay \u2013 A video-like player for Claude Code sessions",
     "source": "Hacker News",
-    "description": "HN Score: 48 | 24 comments",
+    "description": "HN Score: 67 | 27 comments",
     "url": "https://github.com/es617/claude-replay",
-    "score": 48,
-    "date": "2026-03-06",
+    "score": 67,
+    "date": "2026-03-07",
     "category": "AI News"
   },
   {
@@ -89,60 +140,25 @@
     "source": "@bindureddy",
     "description": "",
     "url": "https://nitter.net/bindureddy/status/2029790422189625756#m",
-    "date": "2026-03-06",
+    "date": "2026-03-07",
     "category": "Twitter"
   },
   {
     "title": "Paul Brainerd, founder of Aldus PageMaker, has died",
     "source": "Hacker News",
-    "description": "HN Score: 120 | 25 comments",
+    "description": "HN Score: 138 | 27 comments",
     "url": "https://blog.adafruit.com/2026/03/04/pagemaker-and-aldus-founder-pioneer-paul-brainerd-1947-2026/",
-    "score": 120,
-    "date": "2026-03-06",
+    "score": 138,
+    "date": "2026-03-07",
     "category": "AI News"
   },
   {
-    "title": "GPT 5.4 is set to top LiveBench - results coming soon \ud83c\udf89",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2029750282234773504#m",
-    "date": "2026-03-06",
-    "category": "Twitter"
-  },
-  {
-    "title": "We might all be AI engineers now",
+    "title": "The worst acquisition in history, again",
     "source": "Hacker News",
-    "description": "HN Score: 149 | 226 comments",
-    "url": "https://yasint.dev/we-might-all-be-ai-engineers-now/",
-    "score": 149,
-    "date": "2026-03-06",
-    "category": "AI News"
-  },
-  {
-    "title": "Show HN: A trainable, modular electronic nose for industrial use",
-    "source": "Hacker News",
-    "description": "HN Score: 26 | 11 comments",
-    "url": "https://sniphi.com/",
-    "score": 26,
-    "date": "2026-03-06",
-    "category": "AI News"
-  },
-  {
-    "title": "What if AI just makes us work harder?",
-    "source": "Hacker News",
-    "description": "HN Score: 8 | 3 comments",
-    "url": "https://www.ft.com/content/e8bb5ab1-4b4d-473e-8f76-e690443e9fb4",
-    "score": 8,
-    "date": "2026-03-06",
-    "category": "AI News"
-  },
-  {
-    "title": "GPT-5.4",
-    "source": "Hacker News",
-    "description": "HN Score: 974 | 767 comments",
-    "url": "https://openai.com/index/introducing-gpt-5-4/",
-    "score": 974,
-    "date": "2026-03-06",
+    "description": "HN Score: 100 | 67 comments",
+    "url": "https://www.profgmedia.com/p/the-worst-acquisition-in-history",
+    "score": 100,
+    "date": "2026-03-07",
     "category": "AI News"
   }
 ]
