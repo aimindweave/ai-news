@@ -93,6 +93,16 @@
   ],
   "episodes": [
     {
+      "id": "Practica_0",
+      "name": "AI policy and the battle for computing power",
+      "show": "Practical AI",
+      "description": "\n        AI is reshaping global power, from chip manufacturing and computing power to AI governance and US-China relations.  In this episode, Ben Buchanan, Assistant Professor at Johns Hopkins SAIS",
+      "release_date": "2026-03-09",
+      "duration_min": 48,
+      "image": "",
+      "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
+    },
+    {
       "id": "a]6z Pod_0",
       "name": "Andrew Huberman: Peptides, Sleep Tech, and the End of Obesity",
       "show": "a]6z Podcast",
@@ -203,7 +213,7 @@
       "url": "https://open.spotify.com/show/0e1X4kJVfwQRPF8lZzqqfX"
     },
     {
-      "id": "Practica_0",
+      "id": "Practica_1",
       "name": "Cognitive Synthesis and Neural Athletes",
       "show": "Practical AI",
       "description": "\n        As AI accelerates innovation and adoption, leaders are facing rising cognitive load, shifting systems, and new emotional realities inside their organizations. In this episode, Deloitte’s C",
@@ -213,7 +223,7 @@
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
-      "id": "Practica_1",
+      "id": "Practica_2",
       "name": "AI incidents, audits, and the limits of benchmarks",
       "show": "Practical AI",
       "description": "\n        AI is moving fast from research to real-world deployment, and when things go wrong, the consequences are no longer hypothetical. In this episode, Sean McGregor, co-founder of the AI Verifi",
@@ -231,16 +241,6 @@
       "duration_min": 0,
       "image": "",
       "url": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"
-    },
-    {
-      "id": "Practica_2",
-      "name": "Inside an AI-Run Company",
-      "show": "Practical AI",
-      "description": "\n        AI agents are moving from demos to real workplaces, but what actually happens when they run a company? In this episode, journalist Evan Ratliff, host of <em>Shell Game</em>, joins Chris to",
-      "release_date": "2026-02-02",
-      "duration_min": 49,
-      "image": "",
-      "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
       "id": "Lex Frid_2",
