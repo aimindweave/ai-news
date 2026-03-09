@@ -1,5 +1,12 @@
 [
   {
+    "title": "Anthropic launches code review tool to check flood of AI-generated code",
+    "source": "TechCrunch",
+    "summary": "Anthropic launched Code Review in Claude Code, a multi-agent system that automatically analyzes AI-generated code, flags logic errors, and helps enterprise developers manage the growing volume of code produced with AI.",
+    "url": "https://techcrunch.com/2026/03/09/anthropic-launches-code-review-tool-to-check-flood-of-ai-generated-code/",
+    "date": "2026-03-09"
+  },
+  {
     "title": "OpenAI acquires Promptfoo to secure its AI agents",
     "source": "TechCrunch",
     "summary": "This deal underscores how frontier labs are scrambling to prove their technology can be used safely in critical business operations.",
@@ -7,7 +14,7 @@
     "date": "2026-03-09"
   },
   {
-    "title": "Anthropic sues Defense Department over supply chain risk designation",
+    "title": "Anthropic sues Defense Department over supply-chain risk designation",
     "source": "TechCrunch",
     "summary": "Anthropic filed suit against the Department of Defense on Monday after the agency labeled it a supply chain risk. The complaint calls the DOD's actions 'unprecedented and unlawful.'",
     "url": "https://techcrunch.com/2026/03/09/anthropic-sues-defense-department-over-supply-chain-risk-designation/",
@@ -98,13 +105,6 @@
     "date": "2026-03-09"
   },
   {
-    "title": "Anthropic vs. the Pentagon, the SaaSpocalypse, and why competitions is good, actually",
-    "source": "TechCrunch",
-    "summary": "The Pentagon has officially designated Anthropic a supply-chain risk after the two failed to agree on how much control the military should have over its AI models, including its use in autonomous weapons and mass domestic surveillance. As Anthropic\u2019s $200 million contract fell apart, the DoD turn...",
-    "url": "https://techcrunch.com/podcast/anthropic-vs-the-pentagon-the-saaspocalypse-and-why-competitions-is-good-actually/",
-    "date": "2026-03-09"
-  },
-  {
     "title": "How AI is turning the Iran conflict into theater",
     "source": "MIT Tech Review",
     "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. \u201cAnyone wanna host a get together in SF and pull this up on a 100 inch TV?\u201d The author of that post on X was referring to an online intelligence dashboard foll...",
@@ -175,6 +175,13 @@
     "date": "2026-03-09"
   },
   {
+    "title": "OpenAI and Google Workers File Amicus Brief in Support of Anthropic Against the US Government",
+    "source": "Wired",
+    "summary": "Google DeepMind chief scientist Jeff Dean is among the AI researchers and engineers rushing to Anthropic's defense.",
+    "url": "https://www.wired.com/story/openai-deepmind-employees-file-amicus-brief-anthropic-dod-lawsuit/",
+    "date": "2026-03-09"
+  },
+  {
     "title": "Anthropic Sues Department of Defense Over Supply-Chain-Risk Designation",
     "source": "Wired",
     "summary": "The Claude chatbot developer says the Trump administration overstepped by escalating a contract dispute into a federal ban on the company\u2019s technology.",
@@ -235,13 +242,6 @@
     "source": "Wired",
     "summary": "ByteDance\u2019s new Seedance 2.0 AI video model seemed unstoppable\u2014until heavy demand strained the company\u2019s compute capacity and copyright complaints began piling up.",
     "url": "https://www.wired.com/story/made-in-china-bytedances-ai-ambitions-are-being-hampered-by-compute-restraints/",
-    "date": "2026-03-09"
-  },
-  {
-    "title": "Grammarly Is Offering \u2018Expert\u2019 AI Reviews From Your Favorite Authors\u2014Dead or Alive",
-    "source": "Wired",
-    "summary": "The tool, offered by the recently-rebranded company Superhuman, gives feedback based on the work of famous dead and living writers\u2014without their permission.",
-    "url": "https://www.wired.com/story/grammarly-is-offering-expert-ai-reviews-from-your-favorite-authors-dead-or-alive/",
     "date": "2026-03-09"
   },
   {
