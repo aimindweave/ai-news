@@ -1,5 +1,19 @@
 [
   {
+    "title": "AI-powered apps can make money, but struggle with long-term retention, new data shows",
+    "source": "TechCrunch",
+    "summary": "AI can drive stronger early monetization for apps, but sustaining value remains the challenge, RevenueCat's latest report finds.",
+    "url": "https://techcrunch.com/2026/03/10/ai-powered-apps-can-make-money-but-struggle-with-long-term-retention-new-data-shows/",
+    "date": "2026-03-10"
+  },
+  {
+    "title": "ChatGPT can now create interactive visuals to help you understand math and science concepts",
+    "source": "TechCrunch",
+    "summary": "On Tuesday, OpenAI introduced dynamic visual explanations, a new ChatGPT feature that allows users to see how formulas, variables, and mathematical relationships change in real time. Instead of just reading an explanation or looking at a static diagram, users can now interact directly with intera...",
+    "url": "https://techcrunch.com/2026/03/10/chatgpt-can-now-create-interactive-visuals-to-help-you-understand-math-and-science-concepts/",
+    "date": "2026-03-10"
+  },
+  {
     "title": "AgentMail raises $6M to build an email service for AI agents",
     "source": "TechCrunch",
     "summary": "AgentMail provides an API platform that lets you give AI agents their own email inboxes, with support for two-way conversations, parsing, threading, labeling, searching, and replying.",
@@ -49,17 +63,17 @@
     "date": "2026-03-10"
   },
   {
-    "title": "Google rolls out new Gemini capabilities to Docs, Sheets, Slides, and Drive",
-    "source": "TechCrunch",
-    "summary": "The idea behind the new features is to make the apps more personal and capable to help users get things done faster, right within the platforms themselves.",
-    "url": "https://techcrunch.com/2026/03/10/google-rolls-out-new-gemini-capabilities-to-docs-sheets-slides-and-drive/",
-    "date": "2026-03-10"
-  },
-  {
     "title": "Zoom introduces an AI-powered office suite, says AI avatars for meetings arrive this month",
     "source": "TechCrunch",
     "summary": "Zoom is also introducing real-time deepfake detection tech for meetings.",
     "url": "https://techcrunch.com/2026/03/10/zoom-launches-an-ai-powered-office-suite-says-ai-avatars-for-meetings-are-coming-soon/",
+    "date": "2026-03-10"
+  },
+  {
+    "title": "Google rolls out new Gemini capabilities to Docs, Sheets, Slides, and Drive",
+    "source": "TechCrunch",
+    "summary": "The idea behind the new features is to make the apps more personal and capable to help users get things done faster, right within the platforms themselves.",
+    "url": "https://techcrunch.com/2026/03/10/google-rolls-out-new-gemini-capabilities-to-docs-sheets-slides-and-drive/",
     "date": "2026-03-10"
   },
   {
@@ -70,9 +84,9 @@
     "date": "2026-03-10"
   },
   {
-    "title": "Yann LeCun\u2019s AMI Labs raises $1.03 billion to build world models",
+    "title": "Yann LeCun\u2019s AMI Labs raises $1.03B to build world models",
     "source": "TechCrunch",
-    "summary": "AMI Labs, the new venture cofounded by Turing Prize winner Yann LeCun after he left Meta, has raised $1.03 billion at a $3.5 billion pre-money valuation.",
+    "summary": "\u201cMy prediction is that \u2018world models\u2019 will be the next buzzword,\u201d AMI Labs CEO Alexandre LeBrun told TechCrunch. \u201cIn six months, every company will call itself a world model to raise funding.\u201d",
     "url": "https://techcrunch.com/2026/03/09/yann-lecuns-ami-labs-raises-1-03-billion-to-build-world-models/",
     "date": "2026-03-10"
   },
@@ -88,20 +102,6 @@
     "source": "TechCrunch",
     "summary": "Anthropic launched Code Review in Claude Code, a multi-agent system that automatically analyzes AI-generated code, flags logic errors, and helps enterprise developers manage the growing volume of code produced with AI.",
     "url": "https://techcrunch.com/2026/03/09/anthropic-launches-code-review-tool-to-check-flood-of-ai-generated-code/",
-    "date": "2026-03-10"
-  },
-  {
-    "title": "OpenAI acquires Promptfoo to secure its AI agents",
-    "source": "TechCrunch",
-    "summary": "This deal underscores how frontier labs are scrambling to prove their technology can be used safely in critical business operations.",
-    "url": "https://techcrunch.com/2026/03/09/openai-acquires-promptfoo-to-secure-its-ai-agents/",
-    "date": "2026-03-10"
-  },
-  {
-    "title": "Anthropic sues Defense Department over supply-chain risk designation",
-    "source": "TechCrunch",
-    "summary": "Anthropic filed suit against the Department of Defense on Monday after the agency labeled it a supply-chain risk. The complaint calls the DOD's actions 'unprecedented and unlawful.'",
-    "url": "https://techcrunch.com/2026/03/09/anthropic-sues-defense-department-over-supply-chain-risk-designation/",
     "date": "2026-03-10"
   },
   {
@@ -245,6 +245,13 @@
     "date": "2026-03-10"
   },
   {
+    "title": "After complaints, Google will make it easier to disable gen AI search in Photos",
+    "source": "Ars Technica",
+    "summary": "One toggle for 'fast classic search.'",
+    "url": "https://arstechnica.com/ai/2026/03/google-backtracks-on-ai-search-in-photos-adds-toggle-for-fast-classic-search/",
+    "date": "2026-03-10"
+  },
+  {
     "title": "Gemini burrows deeper into Google Workspace with revamped document creation and editing",
     "source": "Ars Technica",
     "summary": "Gemini can now pull context from your files, emails, and more to create and edit documents.",
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "CEO says 'most companies are late' to realize how much technology will affect employment.",
     "url": "https://arstechnica.com/ai/2026/02/block-lays-off-40-of-workforce-as-it-goes-all-in-on-ai-tools/",
-    "date": "2026-03-10"
-  },
-  {
-    "title": "Perplexity announces 'Computer,' an AI agent that assigns work to other AI agents",
-    "source": "Ars Technica",
-    "summary": "It's also a buttoned-down, ostensibly safer take on the OpenClaw concept.",
-    "url": "https://arstechnica.com/ai/2026/02/perplexity-announces-computer-an-ai-agent-that-assigns-work-to-other-ai-agents/",
     "date": "2026-03-10"
   }
 ]

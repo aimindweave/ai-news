@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Debian decides not to decide on AI-generated contributions",
+    "title": "Launch HN: RunAnywhere (YC W26) \u2013 Faster AI Inference on Apple Silicon",
     "source": "Hacker News",
-    "description": "HN Score: 99 | 71 comments",
-    "url": "https://lwn.net/SubscriberLink/1061544/125f911834966dd0/",
-    "score": 99,
+    "description": "HN Score: 112 | 37 comments",
+    "url": "https://github.com/RunanywhereAI/rcli",
+    "score": 112,
     "date": "2026-03-10",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: How I Topped the HuggingFace Open LLM Leaderboard on Two Gaming GPUs",
+    "title": "Yann LeCun raises $1B to build AI that understands the physical world",
     "source": "Hacker News",
-    "description": "HN Score: 90 | 38 comments",
-    "url": "https://dnhkng.github.io/posts/rys/",
-    "score": 90,
+    "description": "HN Score: 72 | 234 comments",
+    "url": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
+    "score": 72,
     "date": "2026-03-10",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "The Gervais Principle, or the Office According to 'The Office' (2009)",
+    "title": "Debian decides not to decide on AI-generated contributions",
     "source": "Hacker News",
-    "description": "HN Score: 206 | 87 comments",
-    "url": "https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/",
-    "score": 206,
+    "description": "HN Score: 178 | 145 comments",
+    "url": "https://lwn.net/SubscriberLink/1061544/125f911834966dd0/",
+    "score": 178,
     "date": "2026-03-10",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Yann LeCun's AI startup raises $1B in Europe's largest ever seed round",
+    "title": "I built a programming language using Claude Code",
     "source": "Hacker News",
-    "description": "HN Score: 347 | 181 comments",
-    "url": "https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1",
-    "score": 347,
+    "description": "HN Score: 53 | 67 comments",
+    "url": "https://ankursethi.com/blog/programming-language-claude-code/",
+    "score": 53,
     "date": "2026-03-10",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "PgAdmin 4 9.13 with AI Assistant Panel",
+    "title": "Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy",
     "source": "Hacker News",
-    "description": "HN Score: 54 | 17 comments",
-    "url": "https://www.pgadmin.org/docs/pgadmin4/9.13/query_tool.html#ai-assistant-panel",
-    "score": 54,
+    "description": "HN Score: 307 | 321 comments",
+    "url": "https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md",
+    "score": 307,
     "date": "2026-03-10",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Amazon is holding a mandatory meeting about AI breaking its systems",
+    "title": "Show HN: How I Topped the HuggingFace Open LLM Leaderboard on Two Gaming GPUs",
     "source": "Hacker News",
-    "description": "HN Score: 166 | 109 comments",
-    "url": "https://twitter.com/lukolejnik/status/2031257644724342957",
-    "score": 166,
+    "description": "HN Score: 162 | 52 comments",
+    "url": "https://dnhkng.github.io/posts/rys/",
+    "score": 162,
     "date": "2026-03-10",
     "category": "AI News"
   },
@@ -110,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "A Million Pixels \u2013 a collaborative AI art canvas",
+    "title": "Open Weights Isn't Open Training",
     "source": "Hacker News",
-    "description": "HN Score: 6 | 5 comments",
-    "url": "https://www.amillionpixels.ai/",
-    "score": 6,
+    "description": "HN Score: 26 | 9 comments",
+    "url": "https://www.workshoplabs.ai/blog/open-weights-open-training",
+    "score": 26,
     "date": "2026-03-10",
     "category": "AI News"
   },
@@ -127,11 +127,28 @@
     "category": "Twitter"
   },
   {
-    "title": "TCXO Failure Analysis",
+    "title": "Levels of Agentic Engineering",
     "source": "Hacker News",
-    "description": "HN Score: 85 | 36 comments",
-    "url": "https://serd.es/2026/03/06/TCXO-failure-analysis.html",
-    "score": 85,
+    "description": "HN Score: 20 | 11 comments",
+    "url": "https://www.bassimeledath.com/blog/levels-of-agentic-engineering",
+    "score": 20,
+    "date": "2026-03-10",
+    "category": "AI News"
+  },
+  {
+    "title": "Meta is acquiring MoltBook - this is a fake social network made up of AI slop!! \ud83e\udd2f\ud83e\udd2f Wow! Meta has generated non-stop AI controversy with zero model dro",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2031428433293750357#m",
+    "date": "2026-03-10",
+    "category": "Twitter"
+  },
+  {
+    "title": "Surpassing vLLM with a Generated Inference Stack",
+    "source": "Hacker News",
+    "description": "HN Score: 10 | 2 comments",
+    "url": "https://infinity.inc/case-studies/qwen3-optimization",
+    "score": 10,
     "date": "2026-03-10",
     "category": "AI News"
   },
@@ -144,28 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "No, it doesn't cost Anthropic $5k per Claude Code user",
+    "title": "The Gervais Principle, or the Office According to 'The Office' (2009)",
     "source": "Hacker News",
-    "description": "HN Score: 392 | 280 comments",
-    "url": "https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/",
-    "score": 392,
-    "date": "2026-03-10",
-    "category": "AI News"
-  },
-  {
-    "title": "Google is planning more launches as soon as this week!! Hoping for a solid Gemini model that works IRL",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2031238975348944987#m",
-    "date": "2026-03-10",
-    "category": "Twitter"
-  },
-  {
-    "title": "Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy",
-    "source": "Hacker News",
-    "description": "HN Score: 288 | 310 comments",
-    "url": "https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md",
-    "score": 288,
+    "description": "HN Score: 242 | 100 comments",
+    "url": "https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/",
+    "score": 242,
     "date": "2026-03-10",
     "category": "AI News"
   }
