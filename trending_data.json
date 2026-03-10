@@ -1,39 +1,5 @@
 [
   {
-    "title": "1\u30da\u30fc\u30b8\u76ee\u3067\u3061\u3083\u3093\u3068\u6253\u6483\u98df\u3089\u3063\u3066\u30ac\u30b3\u30f3\u3057\u3066\u308b\u306e\u3067 \u3042\u308c\u304c\u306a\u304b\u3063\u305f\u3089\u6469\u864e\u7f85\u653b\u7565\u3067\u304d\u3066\u305f\u304b\u3082\u3057\u308c\u3093",
-    "source": "@kaborobot",
-    "description": "",
-    "url": "https://nitter.net/kaborobot/status/2015735996248420451#m",
-    "date": "2026-03-10",
-    "category": "Twitter"
-  },
-  {
-    "title": "No, it doesn't cost Anthropic $5k per Claude Code user",
-    "source": "Hacker News",
-    "description": "HN Score: 176 | 116 comments",
-    "url": "https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/",
-    "score": 176,
-    "date": "2026-03-10",
-    "category": "AI News"
-  },
-  {
-    "title": "\u30ec\u30bc\u304c\u300c\u79c1\u306b\u306f\u904e\u304e\u305f\u9858\u3044\u3060\u3063\u305f\u300d\u306a\u3093\u3066\u601d\u3063\u3066\u3044\u307e\u305b\u3093\u3088\u3046\u306b\u3068\u7948\u3063\u3066\u305f\u9023\u4f11\u3060\u3063\u305f",
-    "source": "@kaborobot",
-    "description": "",
-    "url": "https://nitter.net/kaborobot/status/1977673306670330109#m",
-    "date": "2026-03-10",
-    "category": "Twitter"
-  },
-  {
-    "title": "Learnings from paying artists royalties for AI-generated art",
-    "source": "Hacker News",
-    "description": "HN Score: 126 | 93 comments",
-    "url": "https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/",
-    "score": 126,
-    "date": "2026-03-10",
-    "category": "AI News"
-  },
-  {
     "title": "More than one major AI-assisted advance due to be announced next few months \ud83d\udd1c Folk dismissive of AI\u2019s innovation impact are so wrong \ud83d\ude23 All major disco",
     "source": "@EMostaque",
     "description": "",
@@ -42,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Is legal the same as legitimate: AI reimplementation and the erosion of copyleft",
+    "title": "Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy",
     "source": "Hacker News",
-    "description": "HN Score: 445 | 475 comments",
-    "url": "https://writings.hongminhee.org/2026/03/legal-vs-legitimate/",
-    "score": 445,
+    "description": "HN Score: 114 | 100 comments",
+    "url": "https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md",
+    "score": 114,
     "date": "2026-03-10",
     "category": "AI News"
   },
@@ -59,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Launch HN: Terminal Use (YC W26) \u2013 Vercel for filesystem-based agents",
+    "title": "Is legal the same as legitimate: AI reimplementation and the erosion of copyleft",
     "source": "Hacker News",
-    "description": "HN Score: 101 | 72 comments",
-    "url": "https://news.ycombinator.com/item?id=47311657",
-    "score": 101,
+    "description": "HN Score: 474 | 494 comments",
+    "url": "https://writings.hongminhee.org/2026/03/legal-vs-legitimate/",
+    "score": 474,
     "date": "2026-03-10",
     "category": "AI News"
   },
@@ -76,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "OpenAI is walking away from expanding its Stargate data center with Oracle",
+    "title": "The Gervais Principle, or the Office According to 'The Office'",
     "source": "Hacker News",
-    "description": "HN Score: 339 | 194 comments",
-    "url": "https://www.cnbc.com/2026/03/09/oracle-is-building-yesterdays-data-centers-with-tomorrows-debt.html",
-    "score": 339,
+    "description": "HN Score: 19 | 5 comments",
+    "url": "https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/",
+    "score": 19,
     "date": "2026-03-10",
     "category": "AI News"
   },
@@ -93,11 +59,28 @@
     "category": "Twitter"
   },
   {
-    "title": "The first airplane fatality",
+    "title": "No, it doesn't cost Anthropic $5k per Claude Code user",
     "source": "Hacker News",
-    "description": "HN Score: 79 | 21 comments",
-    "url": "https://www.amusingplanet.com/2026/03/thomas-selfridge-first-airplane-fatality.html",
-    "score": 79,
+    "description": "HN Score: 233 | 165 comments",
+    "url": "https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/",
+    "score": 233,
+    "date": "2026-03-10",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: If you wouldn't let a student grade their own exam, you shouldn't let your AI coding assistant verify its own code. The system that pro",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2031112601384702121#m",
+    "date": "2026-03-10",
+    "category": "Twitter"
+  },
+  {
+    "title": "TCXO Failure Analysis",
+    "source": "Hacker News",
+    "description": "HN Score: 4 | 0 comments",
+    "url": "https://serd.es/2026/03/06/TCXO-failure-analysis.html",
+    "score": 4,
     "date": "2026-03-10",
     "category": "AI News"
   },
@@ -110,54 +93,64 @@
     "category": "Twitter"
   },
   {
-    "title": "Fixfest is a global gathering of repairers, tinkerers, and activists",
+    "title": "Learnings from paying artists royalties for AI-generated art",
     "source": "Hacker News",
-    "description": "HN Score: 164 | 19 comments",
-    "url": "https://fixfest.therestartproject.org/",
-    "score": 164,
+    "description": "HN Score: 135 | 111 comments",
+    "url": "https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/",
+    "score": 135,
     "date": "2026-03-10",
     "category": "AI News"
   },
   {
-    "title": "RT by @svpino: Some of the stories they aren't telling you: \u2022 Chevrolet's chatbot sold a car for $1 \u2022 Air Canada had to honor a refund policy that its",
-    "source": "@svpino",
+    "title": "AI as a weapon of mass destruction \ud83d\ude31 Apparently AI identified the girls school as a potential target for the US military The school used to be a milit",
+    "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2031024931648213402#m",
+    "url": "https://nitter.net/bindureddy/status/2031317276935467225#m",
     "date": "2026-03-10",
     "category": "Twitter"
+  },
+  {
+    "title": "Launch HN: Terminal Use (YC W26) \u2013 Vercel for filesystem-based agents",
+    "source": "Hacker News",
+    "description": "HN Score: 101 | 73 comments",
+    "url": "https://news.ycombinator.com/item?id=47311657",
+    "score": 101,
+    "date": "2026-03-10",
+    "category": "AI News"
+  },
+  {
+    "title": "Use AI For Everything - create reports, decks and sheets - vibe code apps - schedule tasks - do things on demand - manage your social media - get lega",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2031297793575498129#m",
+    "date": "2026-03-10",
+    "category": "Twitter"
+  },
+  {
+    "title": "OpenAI is walking away from expanding its Stargate data center with Oracle",
+    "source": "Hacker News",
+    "description": "HN Score: 361 | 214 comments",
+    "url": "https://www.cnbc.com/2026/03/09/oracle-is-building-yesterdays-data-centers-with-tomorrows-debt.html",
+    "score": 361,
+    "date": "2026-03-10",
+    "category": "AI News"
   },
   {
     "title": "Algebraic topology: knots links and braids",
     "source": "Hacker News",
-    "description": "HN Score: 86 | 10 comments",
+    "description": "HN Score: 91 | 11 comments",
     "url": "https://aeb.win.tue.nl/at/algtop-5.html",
-    "score": 86,
+    "score": 91,
     "date": "2026-03-10",
     "category": "AI News"
   },
   {
-    "title": "Google is planning more launches as soon as this week!! Hoping for a solid Gemini model that works IRL",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2031238975348944987#m",
-    "date": "2026-03-10",
-    "category": "Twitter"
-  },
-  {
-    "title": "Jolla on track to ship new phone with Sailfish OS, user-replaceable battery",
+    "title": "Fixfest is a global gathering of repairers, tinkerers, and activists",
     "source": "Hacker News",
-    "description": "HN Score: 205 | 139 comments",
-    "url": "https://liliputing.com/the-new-jolla-phone-with-sailfish-os-is-on-track-to-start-shipping-in-the-first-half-of-2026/",
-    "score": 205,
+    "description": "HN Score: 167 | 19 comments",
+    "url": "https://fixfest.therestartproject.org/",
+    "score": 167,
     "date": "2026-03-10",
     "category": "AI News"
-  },
-  {
-    "title": "GPT 5.4 IS THE NEW SUPREME LEADER OF ALL LLMS \ud83d\ude02 GPT 5.4 Extra High beats all other LLMs and tops LiveBench By a robust margin This model is legit and ",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2031062810298581075#m",
-    "date": "2026-03-10",
-    "category": "Twitter"
   }
 ]
