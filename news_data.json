@@ -1,15 +1,22 @@
 [
   {
-    "title": "AI-powered apps can make money, but struggle with long-term retention, new data shows",
+    "title": "Amazon launches its healthcare AI assistant on its website and app",
+    "source": "TechCrunch",
+    "summary": "Health AI can answer questions, explain health records, manage prescription renewals, book appointments, and more.",
+    "url": "https://techcrunch.com/2026/03/10/amazon-launches-its-healthcare-ai-assistant-on-its-website-and-app/",
+    "date": "2026-03-10"
+  },
+  {
+    "title": "AI-powered apps struggle with long-term retention, new report shows",
     "source": "TechCrunch",
     "summary": "AI can drive stronger early monetization for apps, but sustaining value remains the challenge, RevenueCat's latest report finds.",
-    "url": "https://techcrunch.com/2026/03/10/ai-powered-apps-can-make-money-but-struggle-with-long-term-retention-new-data-shows/",
+    "url": "https://techcrunch.com/2026/03/10/ai-powered-apps-struggle-with-long-term-retention-new-report-shows/",
     "date": "2026-03-10"
   },
   {
     "title": "ChatGPT can now create interactive visuals to help you understand math and science concepts",
     "source": "TechCrunch",
-    "summary": "On Tuesday, OpenAI introduced dynamic visual explanations, a new ChatGPT feature that allows users to see how formulas, variables, and mathematical relationships change in real time. Instead of just reading an explanation or looking at a static diagram, users can now interact directly with intera...",
+    "summary": "Instead of just reading an explanation or looking at a static diagram, users can now engage directly with interactive visuals.",
     "url": "https://techcrunch.com/2026/03/10/chatgpt-can-now-create-interactive-visuals-to-help-you-understand-math-and-science-concepts/",
     "date": "2026-03-10"
   },
@@ -95,13 +102,6 @@
     "source": "TechCrunch",
     "summary": "More than 30 OpenAI and Google DeepMind employees signed onto a statement supporting Anthropic's lawsuit against the Defense Department after the agency labeled the AI firm a supply-chain risk, according to court filings.",
     "url": "https://techcrunch.com/2026/03/09/openai-and-google-employees-rush-to-anthropics-defense-in-dod-lawsuit/",
-    "date": "2026-03-10"
-  },
-  {
-    "title": "Anthropic launches code review tool to check flood of AI-generated code",
-    "source": "TechCrunch",
-    "summary": "Anthropic launched Code Review in Claude Code, a multi-agent system that automatically analyzes AI-generated code, flags logic errors, and helps enterprise developers manage the growing volume of code produced with AI.",
-    "url": "https://techcrunch.com/2026/03/09/anthropic-launches-code-review-tool-to-check-flood-of-ai-generated-code/",
     "date": "2026-03-10"
   },
   {
@@ -245,6 +245,20 @@
     "date": "2026-03-10"
   },
   {
+    "title": "AI can rewrite open source code\u2014but can it rewrite the license, too?",
+    "source": "Ars Technica",
+    "summary": "Is it clean 'reverse engineering' or just an LLM-filtered 'derivative work'?",
+    "url": "https://arstechnica.com/ai/2026/03/ai-can-rewrite-open-source-code-but-can-it-rewrite-the-license-too/",
+    "date": "2026-03-10"
+  },
+  {
+    "title": "Meta acquires Moltbook, the AI agent social network",
+    "source": "Ars Technica",
+    "summary": "The viral social network project was created with OpenClaw.",
+    "url": "https://arstechnica.com/ai/2026/03/meta-acquires-moltbook-the-ai-agent-social-network/",
+    "date": "2026-03-10"
+  },
+  {
     "title": "After complaints, Google will make it easier to disable gen AI search in Photos",
     "source": "Ars Technica",
     "summary": "One toggle for 'fast classic search.'",
@@ -333,20 +347,6 @@
     "source": "Ars Technica",
     "summary": "Though the rules are among the strictest in the US, locals say they aren't enough.",
     "url": "https://arstechnica.com/ai/2026/03/iowa-county-adopts-strict-zoning-rules-for-data-centers-but-residents-still-worry/",
-    "date": "2026-03-10"
-  },
-  {
-    "title": "Trump moves to ban Anthropic from the US government",
-    "source": "Ars Technica",
-    "summary": "The Defense Department pressured Anthropic to drop restrictions on how its AI can be used by the military.",
-    "url": "https://arstechnica.com/tech-policy/2026/02/trump-moves-to-ban-anthropic-from-the-us-government/",
-    "date": "2026-03-10"
-  },
-  {
-    "title": "Block lays off 40% of workforce as it goes all-in on AI tools",
-    "source": "Ars Technica",
-    "summary": "CEO says 'most companies are late' to realize how much technology will affect employment.",
-    "url": "https://arstechnica.com/ai/2026/02/block-lays-off-40-of-workforce-as-it-goes-all-in-on-ai-tools/",
     "date": "2026-03-10"
   }
 ]
