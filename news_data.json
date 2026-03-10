@@ -1,5 +1,19 @@
 [
   {
+    "title": "Legora reaches $5.55 billion valuation as AI legaltech boom endures",
+    "source": "TechCrunch",
+    "summary": "Legora, an AI platform for lawyers, is now valued at $5.55 billion following a $550 million Series D led by Accel to fuel its growth in the U.S.",
+    "url": "https://techcrunch.com/2026/03/10/legora-reaches-5-55-billion-valuation-as-ai-legaltech-boom-endures/",
+    "date": "2026-03-10"
+  },
+  {
+    "title": "YouTube expands AI deepfake detection for politicians, government officials, and journalists",
+    "source": "TechCrunch",
+    "summary": "YouTube's AI deepfake detection tool is becoming available to politicians, journalists, and officials, letting them flag unauthorized likenesses for removal.",
+    "url": "https://techcrunch.com/2026/03/10/youtube-ai-deepfake-detection-politicians-government-officials-journalists/",
+    "date": "2026-03-10"
+  },
+  {
     "title": "Adobe is debuting an AI assistant for Photoshop",
     "source": "TechCrunch",
     "summary": "Adobe is also adding new AI-powered image editing features to Firefly.",
@@ -91,17 +105,10 @@
     "date": "2026-03-10"
   },
   {
-    "title": "A roadmap for AI, if anyone will listen",
-    "source": "TechCrunch",
-    "summary": "The Pro-Human AI Declaration was finalized before last week's Pentagon-Anthropic standoff, but the collision of the two events wasn\u2019t lost on anyone involved.",
-    "url": "https://techcrunch.com/2026/03/07/a-roadmap-for-ai-if-anyone-will-listen/",
-    "date": "2026-03-10"
-  },
-  {
-    "title": "Google just gave Sundar Pichai a $692M pay package",
-    "source": "TechCrunch",
-    "summary": "Most of it is tied to performance, including new stock incentives linked to Waymo and Wing, its drone delivery venture.",
-    "url": "https://techcrunch.com/2026/03/07/google-just-gave-sundar-pichai-a-692m-pay-package/",
+    "title": "How Pok\u00e9mon Go is giving delivery robots an inch-perfect view of the world",
+    "source": "MIT Tech Review",
+    "summary": "Pok\u00e9mon Go was the world\u2019s first augmented-reality megahit. Released in 2016 by the Google spinout Niantic, the AR twist on the juggernaut Pok\u00e9mon franchise fast became a global phenomenon. From Chicago to Oslo to Enoshima, players hit the streets in the urgent hope of catching a Jigglypuff or a ...",
+    "url": "https://www.technologyreview.com/2026/03/10/1134099/how-pokemon-go-is-helping-robots-deliver-pizza-on-time/",
     "date": "2026-03-10"
   },
   {
@@ -165,13 +172,6 @@
     "source": "MIT Tech Review",
     "summary": "The race to prevent the worst wildfires has been an increasingly high-tech one. Companies are proposing AI fire detection systems and drones that can stamp out early blazes. And now, one Canadian startup says it\u2019s going after lightning. Lightning-sparked fires can be a big deal: The Canadian wild...",
     "url": "https://www.technologyreview.com/2026/03/05/1133960/wildfire-prevention-limits/",
-    "date": "2026-03-10"
-  },
-  {
-    "title": "Online harassment is entering its AI era",
-    "source": "MIT Tech Review",
-    "summary": "Scott Shambaugh didn\u2019t think twice when he denied an AI agent\u2019s request to contribute to matplotlib, a software library that he helps manage. Like many open-source projects, matplotlib has been overwhelmed by a glut of AI code contributions, and so Shambaugh and his fellow maintainers have instit...",
-    "url": "https://www.technologyreview.com/2026/03/05/1133962/online-harassment-is-entering-its-ai-era/",
     "date": "2026-03-10"
   },
   {
@@ -242,6 +242,13 @@
     "source": "Wired",
     "summary": "I stuck Amazon\u2019s Echo Show 15 and its Alexa+ AI assistant in my kitchen for a month. Things have not gone well.",
     "url": "https://www.wired.com/story/why-is-amazon-alexa-plus-so-bad/",
+    "date": "2026-03-10"
+  },
+  {
+    "title": "After outages, Amazon to make senior engineers sign off on AI-assisted changes",
+    "source": "Ars Technica",
+    "summary": "AWS has suffered at least two incidents linked to the use of AI coding assistants.",
+    "url": "https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/",
     "date": "2026-03-10"
   },
   {
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "\u201cTemu sound wall\u201d not enough to quell fury over xAI\u2019s power plant.",
     "url": "https://arstechnica.com/tech-policy/2026/02/pops-whines-and-roars-xai-accused-of-torturing-neighbors-of-noisy-power-plant/",
-    "date": "2026-03-10"
-  },
-  {
-    "title": "Google reveals Nano Banana 2 AI image model, coming to Gemini today",
-    "source": "Ars Technica",
-    "summary": "Google's new image model replaces the previous versions immediately.",
-    "url": "https://arstechnica.com/ai/2026/02/google-releases-nano-banana-2-ai-image-generator-promises-pro-results-with-flash-speed/",
     "date": "2026-03-10"
   }
 ]

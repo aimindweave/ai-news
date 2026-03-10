@@ -10,9 +10,9 @@
   {
     "title": "The Gervais Principle, or the Office According to 'The Office' (2009)",
     "source": "Hacker News",
-    "description": "HN Score: 112 | 33 comments",
+    "description": "HN Score: 169 | 58 comments",
     "url": "https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/",
-    "score": 112,
+    "score": 169,
     "date": "2026-03-10",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy",
+    "title": "Yann LeCun's AI startup raises $1B in Europe's largest ever seed round",
     "source": "Hacker News",
-    "description": "HN Score: 225 | 210 comments",
-    "url": "https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md",
-    "score": 225,
+    "description": "HN Score: 245 | 135 comments",
+    "url": "https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1",
+    "score": 245,
     "date": "2026-03-10",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Yann LeCun's AI startup raises $1B in Europe's largest ever seed round",
+    "title": "PgAdmin 4 9.13 with AI Assistant Panel",
     "source": "Hacker News",
-    "description": "HN Score: 135 | 90 comments",
-    "url": "https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1",
-    "score": 135,
+    "description": "HN Score: 19 | 4 comments",
+    "url": "https://www.pgadmin.org/docs/pgadmin4/9.13/query_tool.html#ai-assistant-panel",
+    "score": 19,
     "date": "2026-03-10",
     "category": "AI News"
   },
@@ -61,9 +61,9 @@
   {
     "title": "TCXO Failure Analysis",
     "source": "Hacker News",
-    "description": "HN Score: 46 | 13 comments",
+    "description": "HN Score: 66 | 27 comments",
     "url": "https://serd.es/2026/03/06/TCXO-failure-analysis.html",
-    "score": 46,
+    "score": 66,
     "date": "2026-03-10",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "No, it doesn't cost Anthropic $5k per Claude Code user",
+    "title": "Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy",
     "source": "Hacker News",
-    "description": "HN Score: 303 | 219 comments",
-    "url": "https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/",
-    "score": 303,
+    "description": "HN Score: 262 | 266 comments",
+    "url": "https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md",
+    "score": 262,
     "date": "2026-03-10",
     "category": "AI News"
   },
@@ -93,45 +93,45 @@
     "category": "Twitter"
   },
   {
+    "title": "No, it doesn't cost Anthropic $5k per Claude Code user",
+    "source": "Hacker News",
+    "description": "HN Score: 348 | 252 comments",
+    "url": "https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/",
+    "score": 348,
+    "date": "2026-03-10",
+    "category": "AI News"
+  },
+  {
+    "title": "I have an agent taking every new Stripe payment and inserting the information into a spreadsheet. It uses an MCP server to access the spreadsheet and ",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2031381550538043528#m",
+    "date": "2026-03-10",
+    "category": "Twitter"
+  },
+  {
     "title": "Is legal the same as legitimate: AI reimplementation and the erosion of copyleft",
     "source": "Hacker News",
-    "description": "HN Score: 504 | 517 comments",
+    "description": "HN Score: 526 | 527 comments",
     "url": "https://writings.hongminhee.org/2026/03/legal-vs-legitimate/",
-    "score": 504,
+    "score": 526,
     "date": "2026-03-10",
     "category": "AI News"
   },
   {
-    "title": "These agents are more stupid than you think. This is a huge problem.",
+    "title": "anyone remember xAI? What was that about?",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2031350016917594609#m",
+    "url": "https://nitter.net/svpino/status/2031366419498033458#m",
     "date": "2026-03-10",
     "category": "Twitter"
   },
   {
-    "title": "Learnings from paying artists royalties for AI-generated art",
+    "title": "Show HN: How I Topped the HuggingFace Open LLM Leaderboard on Two Gaming GPUs",
     "source": "Hacker News",
-    "description": "HN Score: 154 | 123 comments",
-    "url": "https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/",
-    "score": 154,
-    "date": "2026-03-10",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: If you wouldn't let a student grade their own exam, you shouldn't let your AI coding assistant verify its own code. The system that pro",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2031112601384702121#m",
-    "date": "2026-03-10",
-    "category": "Twitter"
-  },
-  {
-    "title": "Launch HN: Terminal Use (YC W26) \u2013 Vercel for filesystem-based agents",
-    "source": "Hacker News",
-    "description": "HN Score: 109 | 76 comments",
-    "url": "https://news.ycombinator.com/item?id=47311657",
-    "score": 109,
+    "description": "HN Score: 8 | 3 comments",
+    "url": "https://dnhkng.github.io/posts/rys/",
+    "score": 8,
     "date": "2026-03-10",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "OpenAI is walking away from expanding its Stargate data center with Oracle",
+    "title": "Launch HN: Terminal Use (YC W26) \u2013 Vercel for filesystem-based agents",
     "source": "Hacker News",
-    "description": "HN Score: 389 | 229 comments",
-    "url": "https://www.cnbc.com/2026/03/09/oracle-is-building-yesterdays-data-centers-with-tomorrows-debt.html",
-    "score": 389,
+    "description": "HN Score: 111 | 77 comments",
+    "url": "https://news.ycombinator.com/item?id=47311657",
+    "score": 111,
     "date": "2026-03-10",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Drosophila Fly Brain Emulation",
+    "title": "Learnings from paying artists royalties for AI-generated art",
     "source": "Hacker News",
-    "description": "HN Score: 7 | 1 comments",
-    "url": "https://github.com/eonsystemspbc/fly-brain",
-    "score": 7,
+    "description": "HN Score: 157 | 134 comments",
+    "url": "https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/",
+    "score": 157,
     "date": "2026-03-10",
     "category": "AI News"
   }
