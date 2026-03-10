@@ -1,30 +1,51 @@
 [
   {
-    "title": "Legora reaches $5.55 billion valuation as AI legaltech boom endures",
+    "title": "AgentMail raises $6M to build an email service for AI agents",
+    "source": "TechCrunch",
+    "summary": "AgentMail provides an API platform that lets you give AI agents their own email inboxes, with support for two-way conversations, parsing, threading, labeling, searching, and replying.",
+    "url": "https://techcrunch.com/2026/03/10/agentmail-raises-6m-to-build-an-email-service-for-ai-agents/",
+    "date": "2026-03-10"
+  },
+  {
+    "title": "Thinking Machines Lab inks massive compute deal with Nvidia",
+    "source": "TechCrunch",
+    "summary": "The multi-year deal involves at least a gigawatt of compute power and also includes a strategic investment from Nvidia.",
+    "url": "https://techcrunch.com/2026/03/10/thinking-machines-lab-inks-massive-compute-deal-with-nvidia/",
+    "date": "2026-03-10"
+  },
+  {
+    "title": "Google gives in to users\u2019 complaints over AI-powered \u2018Ask Photos\u2019 search feature",
+    "source": "TechCrunch",
+    "summary": "The option appears on the Google Photos Search screen and lets users pick which experience they want.",
+    "url": "https://techcrunch.com/2026/03/10/google-gives-in-to-users-complaints-over-ai-powered-ask-photos-search-feature/",
+    "date": "2026-03-10"
+  },
+  {
+    "title": "Legora reaches $5.55 billion valuation as AI legal tech boom endures",
     "source": "TechCrunch",
     "summary": "Legora, an AI platform for lawyers, is now valued at $5.55 billion following a $550 million Series D led by Accel to fuel its growth in the U.S.",
     "url": "https://techcrunch.com/2026/03/10/legora-reaches-5-55-billion-valuation-as-ai-legaltech-boom-endures/",
     "date": "2026-03-10"
   },
   {
-    "title": "YouTube expands AI deepfake detection for politicians, government officials, and journalists",
+    "title": "Meta acquired Moltbook, the AI agent social network that went viral because of fake posts",
+    "source": "TechCrunch",
+    "summary": "Meta says that Moltbook's approach to 'connecting agents through an always-on-directory' is novel.",
+    "url": "https://techcrunch.com/2026/03/10/meta-acquired-moltbook-the-ai-agent-social-network-that-went-viral-because-of-fake-posts/",
+    "date": "2026-03-10"
+  },
+  {
+    "title": "YouTube expands AI deepfake detection to politicians, government officials, and journalists",
     "source": "TechCrunch",
     "summary": "YouTube's AI deepfake detection tool is becoming available to politicians, journalists, and officials, letting them flag unauthorized likenesses for removal.",
-    "url": "https://techcrunch.com/2026/03/10/youtube-ai-deepfake-detection-politicians-government-officials-journalists/",
+    "url": "https://techcrunch.com/2026/03/10/youtube-expands-ai-deepfake-detection-to-politicians-government-officials-and-journalists/",
     "date": "2026-03-10"
   },
   {
     "title": "Adobe is debuting an AI assistant for Photoshop",
     "source": "TechCrunch",
-    "summary": "Adobe is also adding new AI-powered image editing features to Firefly.",
+    "summary": "Adobe is also adding new AI-powered image-editing features to Firefly.",
     "url": "https://techcrunch.com/2026/03/10/adobe-is-debuting-an-ai-assistant-for-photoshop/",
-    "date": "2026-03-10"
-  },
-  {
-    "title": "Zoom introduces an AI-powered office suite, says AI avatars for meetings arrive this month",
-    "source": "TechCrunch",
-    "summary": "Zoom is also introducing a real-time deepfake detection tech for meetings",
-    "url": "https://techcrunch.com/2026/03/10/zoom-launches-an-ai-powered-office-suite-says-ai-avatars-for-meetings-are-coming-soon/",
     "date": "2026-03-10"
   },
   {
@@ -32,6 +53,13 @@
     "source": "TechCrunch",
     "summary": "The idea behind the new features is to make the apps more personal and capable to help users get things done faster, right within the platforms themselves.",
     "url": "https://techcrunch.com/2026/03/10/google-rolls-out-new-gemini-capabilities-to-docs-sheets-slides-and-drive/",
+    "date": "2026-03-10"
+  },
+  {
+    "title": "Zoom introduces an AI-powered office suite, says AI avatars for meetings arrive this month",
+    "source": "TechCrunch",
+    "summary": "Zoom is also introducing real-time deepfake detection tech for meetings.",
+    "url": "https://techcrunch.com/2026/03/10/zoom-launches-an-ai-powered-office-suite-says-ai-avatars-for-meetings-are-coming-soon/",
     "date": "2026-03-10"
   },
   {
@@ -74,34 +102,6 @@
     "source": "TechCrunch",
     "summary": "Anthropic filed suit against the Department of Defense on Monday after the agency labeled it a supply-chain risk. The complaint calls the DOD's actions 'unprecedented and unlawful.'",
     "url": "https://techcrunch.com/2026/03/09/anthropic-sues-defense-department-over-supply-chain-risk-designation/",
-    "date": "2026-03-10"
-  },
-  {
-    "title": "Qualcomm\u2019s partnership with Neura Robotics is just the beginning",
-    "source": "TechCrunch",
-    "summary": "Neura Robotics is going to build new robots on top of Qualcomm's new IQ10 processors that were released at CES.",
-    "url": "https://techcrunch.com/2026/03/09/qualcomms-partnership-with-neura-robotics-is-just-the-beginning/",
-    "date": "2026-03-10"
-  },
-  {
-    "title": "Sandberg, Clegg join Nscale board as this \u2018Stargate Norway\u2019 startup hits $14.6B valuation",
-    "source": "TechCrunch",
-    "summary": "Nvidia-backed British AI infrastructure startup Nscale has raised another megaround of $2 billion.",
-    "url": "https://techcrunch.com/2026/03/09/sandberg-clegg-join-nscale-board-as-this-stargate-norway-startup-hits-14-6b-valuation/",
-    "date": "2026-03-10"
-  },
-  {
-    "title": "Will the Pentagon\u2019s Anthropic controversy scare startups away from defense work?",
-    "source": "TechCrunch",
-    "summary": "On the latest episode of TechCrunch\u2019s Equity podcast, we discussed what the controversy means for other startups seeking to work with the federal government.",
-    "url": "https://techcrunch.com/2026/03/08/will-the-pentagons-anthropic-controversy-scare-startups-away-from-defense-work/",
-    "date": "2026-03-10"
-  },
-  {
-    "title": "Owner of ICE detention facility sees big opportunity in AI man camps",
-    "source": "TechCrunch",
-    "summary": "AI data center developers are increasingly relying on a style of camp popularized as housing for men working in remote oil fields.",
-    "url": "https://techcrunch.com/2026/03/08/owner-of-ice-detention-facility-sees-big-opportunity-in-ai-man-camps/",
     "date": "2026-03-10"
   },
   {
@@ -175,6 +175,13 @@
     "date": "2026-03-10"
   },
   {
+    "title": "Fake AI Content About the Iran War Is All Over X",
+    "source": "Wired",
+    "summary": "X\u2019s Grok is failing to accurately verify video footage from the Iran conflict and is sharing its own AI-generated images about the war.",
+    "url": "https://www.wired.com/story/fake-ai-content-about-the-iran-war-is-all-over-x/",
+    "date": "2026-03-10"
+  },
+  {
     "title": "I Used Google\u2019s New Gemini-Powered \u2018Help Me Create\u2019 Tool in Docs. It\u2019s Great at Corporate-Speak",
     "source": "Wired",
     "summary": "Google has injected Docs, Drive, Sheets, and Slides with its Gemini assistant, adding new features that can pull information from your emails and the web to help you draft content. I gave it a whirl.",
@@ -238,10 +245,10 @@
     "date": "2026-03-10"
   },
   {
-    "title": "Why Is Alexa+ So Bad?",
-    "source": "Wired",
-    "summary": "I stuck Amazon\u2019s Echo Show 15 and its Alexa+ AI assistant in my kitchen for a month. Things have not gone well.",
-    "url": "https://www.wired.com/story/why-is-amazon-alexa-plus-so-bad/",
+    "title": "Gemini burrows deeper into Google Workspace with revamped document creation and editing",
+    "source": "Ars Technica",
+    "summary": "Gemini can now pull context from your files, emails, and more to create and edit documents.",
+    "url": "https://arstechnica.com/ai/2026/03/gemini-burrows-deeper-into-google-workspace-with-revamped-document-creation-and-editing/",
     "date": "2026-03-10"
   },
   {
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "It's also a buttoned-down, ostensibly safer take on the OpenClaw concept.",
     "url": "https://arstechnica.com/ai/2026/02/perplexity-announces-computer-an-ai-agent-that-assigns-work-to-other-ai-agents/",
-    "date": "2026-03-10"
-  },
-  {
-    "title": "xAI spent $7M building wall that barely muffles annoying power plant noise",
-    "source": "Ars Technica",
-    "summary": "\u201cTemu sound wall\u201d not enough to quell fury over xAI\u2019s power plant.",
-    "url": "https://arstechnica.com/tech-policy/2026/02/pops-whines-and-roars-xai-accused-of-torturing-neighbors-of-noisy-power-plant/",
     "date": "2026-03-10"
   }
 ]
