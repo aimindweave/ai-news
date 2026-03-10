@@ -1,5 +1,33 @@
 [
   {
+    "title": "Adobe is debuting an AI assistant for Photoshop",
+    "source": "TechCrunch",
+    "summary": "Adobe is also adding new AI-powered image editing features to Firefly.",
+    "url": "https://techcrunch.com/2026/03/10/adobe-is-debuting-an-ai-assistant-for-photoshop/",
+    "date": "2026-03-10"
+  },
+  {
+    "title": "Zoom introduces an AI-powered office suite, says AI avatars for meetings arrive this month",
+    "source": "TechCrunch",
+    "summary": "Zoom is also introducing a real-time deepfake detection tech for meetings",
+    "url": "https://techcrunch.com/2026/03/10/zoom-launches-an-ai-powered-office-suite-says-ai-avatars-for-meetings-are-coming-soon/",
+    "date": "2026-03-10"
+  },
+  {
+    "title": "Google rolls out new Gemini capabilities to Docs, Sheets, Slides, and Drive",
+    "source": "TechCrunch",
+    "summary": "The idea behind the new features is to make the apps more personal and capable to help users get things done faster, right within the platforms themselves.",
+    "url": "https://techcrunch.com/2026/03/10/google-rolls-out-new-gemini-capabilities-to-docs-sheets-slides-and-drive/",
+    "date": "2026-03-10"
+  },
+  {
+    "title": "Sandbar secures $23M Series A for its AI note-taking ring",
+    "source": "TechCrunch",
+    "summary": "Sandbar aims to ship the Stream, which can be used to take notes, chat with an AI assistant, and for media playback, this summer.",
+    "url": "https://techcrunch.com/2026/03/10/sandbar-secures-23m-series-a-for-its-ai-note-taking-ring/",
+    "date": "2026-03-10"
+  },
+  {
     "title": "Yann LeCun\u2019s AMI Labs raises $1.03 billion to build world models",
     "source": "TechCrunch",
     "summary": "AMI Labs, the new venture cofounded by Turing Prize winner Yann LeCun after he left Meta, has raised $1.03 billion at a $3.5 billion pre-money valuation.",
@@ -77,31 +105,17 @@
     "date": "2026-03-10"
   },
   {
-    "title": "Grammarly\u2019s \u2018expert review\u2019 is just missing the actual experts",
-    "source": "TechCrunch",
-    "summary": "A recently added feature in Grammarly purports to improve users\u2019 writing with help from the world's great writers and thinkers \u2014 and some tech journalists, too.",
-    "url": "https://techcrunch.com/2026/03/07/grammarlys-expert-review-is-just-missing-the-actual-experts/",
+    "title": "Prioritizing energy intelligence for sustainable growth",
+    "source": "MIT Tech Review",
+    "summary": "Loudoun County, Virginia, once known for its pastoral scenery and proximity to Washington, DC, has earned a more modern reputation in recent years: The area has the highest concentration of data centers on the planet. Ten years ago, these facilities powered email and e-commerce. Today, thanks to ...",
+    "url": "https://www.technologyreview.com/2026/03/10/1133972/prioritizing-energy-intelligence-for-sustainable-growth/",
     "date": "2026-03-10"
   },
   {
-    "title": "OpenAI hardware exec Caitlin Kalinowski quits in response to Pentagon deal",
-    "source": "TechCrunch",
-    "summary": "Hardware executive Caitlin Kalinowski announced today that in response to OpenAI's controversial agreement with the Department of Defense, she\u2019s resigned from her role leading the company's robotics team.",
-    "url": "https://techcrunch.com/2026/03/07/openai-robotics-lead-caitlin-kalinowski-quits-in-response-to-pentagon-deal/",
-    "date": "2026-03-10"
-  },
-  {
-    "title": "OpenAI delays ChatGPT\u2019s \u2018adult mode\u2019 again",
-    "source": "TechCrunch",
-    "summary": "The feature, which will give verified adult users access to erotica and other adult content, had already been delayed from December.",
-    "url": "https://techcrunch.com/2026/03/07/openai-delays-chatgpts-adult-mode-again/",
-    "date": "2026-03-10"
-  },
-  {
-    "title": "Microsoft, Google, Amazon say Anthropic Claude remains available to non-defense customers",
-    "source": "TechCrunch",
-    "summary": "Trump's Department of War feud with Anthropic won't impact other companies that are using Claude via Microsoft and Google products.",
-    "url": "https://techcrunch.com/2026/03/06/microsoft-anthropic-claude-remains-available-to-customers-except-the-defense-department/",
+    "title": "The Download: AI\u2019s role in the Iran war, and an escalating legal fight",
+    "source": "MIT Tech Review",
+    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. How AI is turning the Iran conflict into theater Much of the spotlight on AI in the Iran conflict has focused on models like Claude helping the US military dec...",
+    "url": "https://www.technologyreview.com/2026/03/10/1134077/the-download-ai-iran-war-theater-anthropic-sues-us/",
     "date": "2026-03-10"
   },
   {
@@ -161,17 +175,10 @@
     "date": "2026-03-10"
   },
   {
-    "title": "Bridging the operational AI gap",
-    "source": "MIT Tech Review",
-    "summary": "The transformational potential of AI is already well established. Enterprise use cases are building momentum and organizations are transitioning from pilot projects to AI in production. Companies are no longer just talking about AI; they are redirecting budgets and resources to make it happen. Ma...",
-    "url": "https://www.technologyreview.com/2026/03/04/1133642/bridging-the-operational-ai-gap/",
-    "date": "2026-03-10"
-  },
-  {
-    "title": "The Download: Earth\u2019s rumblings, and AI for strikes on Iran",
-    "source": "MIT Tech Review",
-    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Listen to Earth\u2019s rumbling, secret soundtrack The boom of a calving glacier. The crackling rumble of a wildfire. The roar of a surging storm front. They\u2019re the...",
-    "url": "https://www.technologyreview.com/2026/03/04/1133942/the-download-earths-rumblings-and-ai-for-strikes-on-iran/",
+    "title": "I Used Google\u2019s New Gemini-Powered \u2018Help Me Create\u2019 Tool in Docs. It\u2019s Great at Corporate-Speak",
+    "source": "Wired",
+    "summary": "Google has injected Docs, Drive, Sheets, and Slides with its Gemini assistant, adding new features that can pull information from your emails and the web to help you draft content. I gave it a whirl.",
+    "url": "https://www.wired.com/story/google-gemini-workspace-ai-tools-hands-on/",
     "date": "2026-03-10"
   },
   {
@@ -235,13 +242,6 @@
     "source": "Wired",
     "summary": "I stuck Amazon\u2019s Echo Show 15 and its Alexa+ AI assistant in my kitchen for a month. Things have not gone well.",
     "url": "https://www.wired.com/story/why-is-amazon-alexa-plus-so-bad/",
-    "date": "2026-03-10"
-  },
-  {
-    "title": "Jack Dorsey Is Ready to Explain the Block Layoffs",
-    "source": "Wired",
-    "summary": "In an exclusive interview with WIRED, Block\u2019s cofounder and CEO says he axed 40 percent of his workforce so that he can rebuild the company \u201cas an intelligence.\u201d",
-    "url": "https://www.wired.com/story/jack-dorsey-explains-block-layoffs/",
     "date": "2026-03-10"
   },
   {
