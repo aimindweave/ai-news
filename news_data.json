@@ -1,5 +1,19 @@
 [
   {
+    "title": "Netflix may have paid $600 million for Ben Affleck\u2019s AI startup",
+    "source": "TechCrunch",
+    "summary": "This deal could rank as among the streaming giant's largest acquisitions ever.",
+    "url": "https://techcrunch.com/2026/03/11/netflix-may-have-paid-600-million-for-ben-afflecks-ai-startup/",
+    "date": "2026-03-11"
+  },
+  {
+    "title": "Lovable says it added $100M in revenue last month alone, with just 146 employees",
+    "source": "TechCrunch",
+    "summary": "Swedish vibe-coding unicorn Lovable crossed $400 million in annual recurring revenue (ARR) in February.",
+    "url": "https://techcrunch.com/2026/03/11/lovable-says-it-added-100m-in-revenue-last-month-alone-with-just-146-employees/",
+    "date": "2026-03-11"
+  },
+  {
     "title": "Replit snags $9B valuation 6 months after hitting $3B",
     "source": "TechCrunch",
     "summary": "Replit raised a new $400 million round and said it hopes to have $1B in ARR by year's end.",
@@ -91,20 +105,6 @@
     "date": "2026-03-11"
   },
   {
-    "title": "Legora reaches $5.55 billion valuation as AI legal tech boom endures",
-    "source": "TechCrunch",
-    "summary": "Legora, an AI platform for lawyers, is now valued at $5.55 billion following a $550 million Series D led by Accel to fuel its growth in the U.S.",
-    "url": "https://techcrunch.com/2026/03/10/legora-reaches-5-55-billion-valuation-as-ai-legaltech-boom-endures/",
-    "date": "2026-03-11"
-  },
-  {
-    "title": "Meta acquired Moltbook, the AI agent social network that went viral because of fake posts",
-    "source": "TechCrunch",
-    "summary": "Meta says that Moltbook's approach to 'connecting agents through an always-on-directory' is novel.",
-    "url": "https://techcrunch.com/2026/03/10/meta-acquired-moltbook-the-ai-agent-social-network-that-went-viral-because-of-fake-posts/",
-    "date": "2026-03-11"
-  },
-  {
     "title": "Hustlers are cashing in on China\u2019s OpenClaw AI craze",
     "source": "MIT Tech Review",
     "summary": "Feng Qingyang had always hoped to launch his own company, but he never thought this would be how\u2014or that the day would come this fast. Feng, a 27-year-old software engineer based in Beijing, started tinkering with OpenClaw, a popular new open-source AI tool that can take over a device and autonom...",
@@ -175,6 +175,13 @@
     "date": "2026-03-11"
   },
   {
+    "title": "Grammarly Is Facing a Class Action Lawsuit Over Its AI \u2018Expert Review\u2019 Feature",
+    "source": "Wired",
+    "summary": "The feature, which Grammarly shut down Wednesday, presented editing suggestions as if they came from established authors and academics\u2014without their consent.",
+    "url": "https://www.wired.com/story/grammarly-is-facing-a-class-action-lawsuit-over-its-ai-expert-review-feature/",
+    "date": "2026-03-11"
+  },
+  {
     "title": "Nvidia Will Spend $26 Billion to Build Open-Weight AI Models, Filings Show",
     "source": "Wired",
     "summary": "The move could position the AI infrastructure powerhouse to quickly compete with OpenAI, Anthropic, and DeepSeek.",
@@ -238,10 +245,10 @@
     "date": "2026-03-11"
   },
   {
-    "title": "Yann LeCun Raises $1 Billion to Build AI That Understands the Physical World",
-    "source": "Wired",
-    "summary": "Meta\u2019s former chief AI scientist has long argued that human-level AI will come from mastering the physical world, not language. His new startup, AMI, aims to prove it.",
-    "url": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
+    "title": "'Use a gun' or 'beat the crap out of him': AI chatbot urged violence, study finds",
+    "source": "Ars Technica",
+    "summary": "Character.AI deemed 'uniquely unsafe' among 10 chatbots tested by CCDH.",
+    "url": "https://arstechnica.com/tech-policy/2026/03/use-a-gun-or-beat-the-crap-out-of-him-ai-chatbot-urged-violence-study-finds/",
     "date": "2026-03-11"
   },
   {
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "Data center operators to sign pledge to supply their own power instead of relying on grid.",
     "url": "https://arstechnica.com/ai/2026/03/are-consumers-doomed-to-pay-more-for-electricity-due-to-data-center-buildouts/",
-    "date": "2026-03-11"
-  },
-  {
-    "title": "LLMs can unmask pseudonymous users at scale with surprising accuracy",
-    "source": "Ars Technica",
-    "summary": "Pseudonymity has never been perfect for preserving privacy. Soon it may be pointless.",
-    "url": "https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/",
     "date": "2026-03-11"
   }
 ]
