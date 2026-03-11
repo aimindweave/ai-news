@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Agents that run while I sleep",
+    "title": "Julia Snail \u2013 An Emacs Development Environment for Julia Like Clojure's Cider",
     "source": "Hacker News",
-    "description": "HN Score: 242 | 193 comments",
-    "url": "https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep",
-    "score": 242,
+    "description": "HN Score: 26 | 1 comments",
+    "url": "https://github.com/gcv/julia-snail",
+    "score": 26,
     "date": "2026-03-11",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Yann LeCun raises $1B to build AI that understands the physical world",
+    "title": "Agents that run while I sleep",
     "source": "Hacker News",
-    "description": "HN Score: 343 | 328 comments",
-    "url": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
-    "score": 343,
+    "description": "HN Score: 279 | 255 comments",
+    "url": "https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep",
+    "score": 279,
     "date": "2026-03-11",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Launch HN: RunAnywhere (YC W26) \u2013 Faster AI Inference on Apple Silicon",
+    "title": "Yann LeCun raises $1B to build AI that understands the physical world",
     "source": "Hacker News",
-    "description": "HN Score: 185 | 106 comments",
-    "url": "https://github.com/RunanywhereAI/rcli",
-    "score": 185,
+    "description": "HN Score: 392 | 347 comments",
+    "url": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
+    "score": 392,
     "date": "2026-03-11",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Debian decides not to decide on AI-generated contributions",
+    "title": "Writing my own text editor, and daily-driving it",
     "source": "Hacker News",
-    "description": "HN Score: 288 | 213 comments",
-    "url": "https://lwn.net/SubscriberLink/1061544/125f911834966dd0/",
-    "score": 288,
+    "description": "HN Score: 40 | 9 comments",
+    "url": "https://blog.jsbarretto.com/post/text-editor",
+    "score": 40,
     "date": "2026-03-11",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Universal vaccine against respiratory infections and allergens",
+    "title": "Launch HN: RunAnywhere (YC W26) \u2013 Faster AI Inference on Apple Silicon",
     "source": "Hacker News",
-    "description": "HN Score: 114 | 39 comments",
-    "url": "https://med.stanford.edu/news/all-news/2026/02/universal-vaccine.html",
-    "score": 114,
+    "description": "HN Score: 196 | 119 comments",
+    "url": "https://github.com/RunanywhereAI/rcli",
+    "score": 196,
     "date": "2026-03-11",
     "category": "AI News"
   },
@@ -93,11 +93,28 @@
     "category": "Twitter"
   },
   {
-    "title": "After outages, Amazon to make senior engineers sign off on AI-assisted changes",
+    "title": "Debian decides not to decide on AI-generated contributions",
     "source": "Hacker News",
-    "description": "HN Score: 455 | 399 comments",
-    "url": "https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/",
-    "score": 455,
+    "description": "HN Score: 303 | 227 comments",
+    "url": "https://lwn.net/SubscriberLink/1061544/125f911834966dd0/",
+    "score": 303,
+    "date": "2026-03-11",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: I have an agent taking every new Stripe payment and inserting the information into a spreadsheet. It uses an MCP server to access the s",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2031381550538043528#m",
+    "date": "2026-03-11",
+    "category": "Twitter"
+  },
+  {
+    "title": "Universal vaccine against respiratory infections and allergens",
+    "source": "Hacker News",
+    "description": "HN Score: 169 | 63 comments",
+    "url": "https://med.stanford.edu/news/all-news/2026/02/universal-vaccine.html",
+    "score": 169,
     "date": "2026-03-11",
     "category": "AI News"
   },
@@ -110,62 +127,45 @@
     "category": "Twitter"
   },
   {
-    "title": "Networking with agents: Put them in the right conversations with Tailscale",
-    "source": "Hacker News",
-    "description": "HN Score: 17 | 3 comments",
-    "url": "https://blog.firetiger.com/networking-with-agents-how-to-put-them-in-the-right-conversations/",
-    "score": 17,
-    "date": "2026-03-11",
-    "category": "AI News"
-  },
-  {
-    "title": "R to @svpino: KlingAI is #1 on the Artificial Analysis Text to Video leaderboard. \u2022 1080p cinematic output \u2022 Production-ready consistency \u2022 Built for ",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2031447720477733263#m",
-    "date": "2026-03-11",
-    "category": "Twitter"
-  },
-  {
     "title": "Roblox is minting teen millionaires",
     "source": "Hacker News",
-    "description": "HN Score: 65 | 67 comments",
+    "description": "HN Score: 95 | 92 comments",
     "url": "https://www.bloomberg.com/news/articles/2026-03-06/roblox-s-teen-millionaires-are-disrupting-the-gaming-industry",
-    "score": 65,
+    "score": 95,
     "date": "2026-03-11",
     "category": "AI News"
   },
   {
-    "title": "Meta is acquiring MoltBook - this is a fake social network made up of AI slop!! \ud83e\udd2f\ud83e\udd2f Wow! Meta has generated non-stop AI controversy with zero model dro",
+    "title": "The best engineers no longer come from large companies or fancy schools They are the ones who know how to yield AI like a super weapon - Who can creat",
     "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/bindureddy/status/2031428433293750357#m",
+    "url": "https://nitter.net/bindureddy/status/2031595894836183164#m",
     "date": "2026-03-11",
     "category": "Twitter"
   },
   {
     "title": "Show HN: How I topped the HuggingFace open LLM leaderboard on two gaming GPUs",
     "source": "Hacker News",
-    "description": "HN Score: 294 | 86 comments",
+    "description": "HN Score: 347 | 93 comments",
     "url": "https://dnhkng.github.io/posts/rys/",
-    "score": 294,
+    "score": 347,
     "date": "2026-03-11",
     "category": "AI News"
   },
   {
-    "title": "Use AI For Everything - create reports, decks and sheets - vibe code apps - schedule tasks - do things on demand - manage your social media - get lega",
+    "title": "We are racing to switch coding workloads to GPT 5.4 It\u2019s far superior with fairly complex code bases Especially for hard problems",
     "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/bindureddy/status/2031297793575498129#m",
+    "url": "https://nitter.net/bindureddy/status/2031562559216824819#m",
     "date": "2026-03-11",
     "category": "Twitter"
   },
   {
-    "title": "Open Weights isn't Open Training",
+    "title": "After outages, Amazon to make senior engineers sign off on AI-assisted changes",
     "source": "Hacker News",
-    "description": "HN Score: 80 | 28 comments",
-    "url": "https://www.workshoplabs.ai/blog/open-weights-open-training",
-    "score": 80,
+    "description": "HN Score: 507 | 412 comments",
+    "url": "https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/",
+    "score": 507,
     "date": "2026-03-11",
     "category": "AI News"
   }
