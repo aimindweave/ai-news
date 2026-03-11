@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Microsoft BitNet: 100B Param 1-Bit model for local CPUs",
+    "title": "BitNet: 100B Param 1-Bit model for local CPUs",
     "source": "Hacker News",
-    "description": "HN Score: 119 | 71 comments",
+    "description": "HN Score: 187 | 99 comments",
     "url": "https://github.com/microsoft/BitNet",
-    "score": 119,
+    "score": 187,
     "date": "2026-03-11",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Faster Asin() Was Hiding in Plain Sight",
+    "title": "Launch HN: Sentrial (YC W26) \u2013 Catch AI Agent Failures Before Your Users Do",
     "source": "Hacker News",
-    "description": "HN Score: 10 | 1 comments",
-    "url": "https://16bpp.net/blog/post/faster-asin-was-hiding-in-plain-sight/",
-    "score": 10,
+    "description": "HN Score: 6 | 5 comments",
+    "url": "https://www.sentrial.com/",
+    "score": 6,
     "date": "2026-03-11",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "PeppyOS: A simpler alternative to ROS 2 (now with containers support)",
+    "title": "Faster asin() was hiding in plain sight",
     "source": "Hacker News",
-    "description": "HN Score: 35 | 9 comments",
-    "url": "https://peppy.bot/",
-    "score": 35,
+    "description": "HN Score: 101 | 44 comments",
+    "url": "https://16bpp.net/blog/post/faster-asin-was-hiding-in-plain-sight/",
+    "score": 101,
     "date": "2026-03-11",
     "category": "AI News"
   },
@@ -61,9 +61,9 @@
   {
     "title": "AI Agent Hacks McKinsey",
     "source": "Hacker News",
-    "description": "HN Score: 68 | 19 comments",
+    "description": "HN Score: 191 | 68 comments",
     "url": "https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform",
-    "score": 68,
+    "score": 191,
     "date": "2026-03-11",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Yann LeCun raises $1B to build AI that understands the physical world",
+    "title": "Show HN: Vanilla JavaScript refinery simulator built to explain job to my kids",
     "source": "Hacker News",
-    "description": "HN Score: 538 | 445 comments",
-    "url": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
-    "score": 538,
+    "description": "HN Score: 3 | 0 comments",
+    "url": "https://fuelingcuriosity.com/game.html",
+    "score": 3,
     "date": "2026-03-11",
     "category": "AI News"
   },
@@ -93,11 +93,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Julia Snail \u2013 An Emacs Development Environment for Julia Like Clojure's Cider",
+    "title": "Elevated errors on login with Claude Code",
     "source": "Hacker News",
-    "description": "HN Score: 121 | 15 comments",
-    "url": "https://github.com/gcv/julia-snail",
-    "score": 121,
+    "description": "HN Score: 22 | 8 comments",
+    "url": "https://status.claude.com/incidents/jm3b4jjy2jrt",
+    "score": 22,
+    "date": "2026-03-11",
+    "category": "AI News"
+  },
+  {
+    "title": "Agents are incredible accelerators, but they still need direction, judgment, and taste. If you've spent more than 10 minutes building AI agents, you k",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2031765018799128716#m",
+    "date": "2026-03-11",
+    "category": "Twitter"
+  },
+  {
+    "title": "Show HN: Open-source browser for AI agents",
+    "source": "Hacker News",
+    "description": "HN Score: 23 | 6 comments",
+    "url": "https://github.com/theredsix/agent-browser-protocol",
+    "score": 23,
     "date": "2026-03-11",
     "category": "AI News"
   },
@@ -110,28 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Agents that run while I sleep",
+    "title": "PeppyOS: A simpler alternative to ROS 2 (now with containers support)",
     "source": "Hacker News",
-    "description": "HN Score: 377 | 427 comments",
-    "url": "https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep",
-    "score": 377,
-    "date": "2026-03-11",
-    "category": "AI News"
-  },
-  {
-    "title": "R to @svpino: They put out a public comparison tool: \u2022 Upload any audio file \u2022 Compare the transcripts \u2022 See the cost difference They claim their tran",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2031732439597662325#m",
-    "date": "2026-03-11",
-    "category": "Twitter"
-  },
-  {
-    "title": "When the chain becomes the product: Seven years inside a token-funded venture",
-    "source": "Hacker News",
-    "description": "HN Score: 32 | 14 comments",
-    "url": "https://markmhendrickson.com/posts/when-the-chain-becomes-the-product/",
-    "score": 32,
+    "description": "HN Score: 53 | 15 comments",
+    "url": "https://peppy.bot/",
+    "score": 53,
     "date": "2026-03-11",
     "category": "AI News"
   },
@@ -146,9 +146,9 @@
   {
     "title": "Writing my own text editor, and daily-driving it",
     "source": "Hacker News",
-    "description": "HN Score: 154 | 72 comments",
+    "description": "HN Score: 175 | 92 comments",
     "url": "https://blog.jsbarretto.com/post/text-editor",
-    "score": 154,
+    "score": 175,
     "date": "2026-03-11",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Debian decides not to decide on AI-generated contributions",
+    "title": "Whistleblower claims ex-DOGE member says he took Social Security data to new job",
     "source": "Hacker News",
-    "description": "HN Score: 356 | 269 comments",
-    "url": "https://lwn.net/SubscriberLink/1061544/125f911834966dd0/",
-    "score": 356,
+    "description": "HN Score: 452 | 176 comments",
+    "url": "https://www.washingtonpost.com/politics/2026/03/10/social-security-data-breach-doge-2/",
+    "score": 452,
     "date": "2026-03-11",
     "category": "AI News"
   }
