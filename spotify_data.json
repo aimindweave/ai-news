@@ -93,6 +93,16 @@
   ],
   "episodes": [
     {
+      "id": "The TWIM_0",
+      "name": "Agent Swarms and Knowledge Graphs for Autonomous Software Development with Siddhant Pardeshi - #763",
+      "show": "The TWIML AI Podcast",
+      "description": "In this episode, Sid Pardeshi, co-founder and CTO of Blitzy, joins us to discuss building autonomous development systems able to deliver production-ready software at enterprise scale. Sid contrasts AI",
+      "release_date": "2026-03-10",
+      "duration_min": 76,
+      "image": "",
+      "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
+    },
+    {
       "id": "a]6z Pod_0",
       "name": "The Top 100 Gen AI Consumer Apps",
       "show": "a]6z Podcast",
@@ -193,7 +203,7 @@
       "url": "https://open.spotify.com/show/0e1X4kJVfwQRPF8lZzqqfX"
     },
     {
-      "id": "The TWIM_0",
+      "id": "The TWIM_1",
       "name": "AI Trends 2026: OpenClaw Agents, Reasoning LLMs, and More with Sebastian Raschka - #762",
       "show": "The TWIML AI Podcast",
       "description": "In this episode, Sebastian Raschka, independent LLM researcher and author, joins us to break down how the LLM landscape has changed over the past year and what is likely to matter most in 2026. We dis",
@@ -253,21 +263,11 @@
       "url": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"
     },
     {
-      "id": "The TWIM_1",
+      "id": "The TWIM_2",
       "name": "The Evolution of Reasoning in Small Language Models with Yejin Choi - #761",
       "show": "The TWIML AI Podcast",
       "description": "Today, we're joined by Yejin Choi, professor and senior fellow at Stanford University in the Computer Science Department and the Institute for Human-Centered AI (HAI). In this conversation, we explore",
       "release_date": "2026-01-29",
-      "duration_min": 66,
-      "image": "",
-      "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
-    },
-    {
-      "id": "The TWIM_2",
-      "name": "Intelligent Robots in 2026: Are We There Yet? with Nikita Rudin - #760",
-      "show": "The TWIML AI Podcast",
-      "description": "Today, we're joined by Nikita Rudin, co-founder and CEO of Flexion Robotics to discuss the gap between current robotic capabilities and what’s required to deploy fully autonomous robots in the real wo",
-      "release_date": "2026-01-08",
       "duration_min": 66,
       "image": "",
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
