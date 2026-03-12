@@ -10,9 +10,9 @@
   {
     "title": "Returning to Rails in 2026",
     "source": "Hacker News",
-    "description": "HN Score: 136 | 80 comments",
+    "description": "HN Score: 208 | 123 comments",
     "url": "https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/",
-    "score": 136,
+    "score": 208,
     "date": "2026-03-12",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Reliable Software in the LLM Era",
+    "title": "I was interviewed by an AI bot for a job",
     "source": "Hacker News",
-    "description": "HN Score: 10 | 0 comments",
-    "url": "https://quint-lang.org/posts/llm_era",
-    "score": 10,
+    "description": "HN Score: 356 | 337 comments",
+    "url": "https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job",
+    "score": 356,
     "date": "2026-03-12",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "I was interviewed by an AI bot for a job",
+    "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
     "source": "Hacker News",
-    "description": "HN Score: 320 | 287 comments",
-    "url": "https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job",
-    "score": 320,
+    "description": "HN Score: 3773 | 1410 comments",
+    "url": "https://news.ycombinator.com/newsguidelines.html#generated",
+    "score": 3773,
     "date": "2026-03-12",
     "category": "AI News"
   },
@@ -59,45 +59,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
+    "title": "Reliable Software in the LLM Era",
     "source": "Hacker News",
-    "description": "HN Score: 3604 | 1344 comments",
-    "url": "https://news.ycombinator.com/newsguidelines.html#generated",
-    "score": 3604,
+    "description": "HN Score: 33 | 11 comments",
+    "url": "https://quint-lang.org/posts/llm_era",
+    "score": 33,
     "date": "2026-03-12",
     "category": "AI News"
   },
   {
-    "title": "We trained a humanoid with 22-DoF dexterous hands to assemble model cars, operate syringes, sort poker cards, fold/roll shirts, all learned primarily ",
-    "source": "@DrJimFan",
+    "title": "Claude Code Tip: Hit Esc+Esc to rewind your session and clear any unnecessary stuff from your context. This is helpful whenever you are working on a t",
+    "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2026709304984875202#m",
-    "date": "2026-03-12",
-    "category": "Twitter"
-  },
-  {
-    "title": "BitNet: Inference framework for 1-bit LLMs",
-    "source": "Hacker News",
-    "description": "HN Score: 344 | 163 comments",
-    "url": "https://github.com/microsoft/BitNet",
-    "score": 344,
-    "date": "2026-03-12",
-    "category": "AI News"
-  },
-  {
-    "title": "R to @DrJimFan: This is a huge team work at NVIDIA Robotics. Check out @ruijie_zheng12's deep dive: - Website: https://research.nvidia.com/labs/gear/e",
-    "source": "@DrJimFan",
-    "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2026709306629091342#m",
+    "url": "https://nitter.net/svpino/status/2032072629251948821#m",
     "date": "2026-03-12",
     "category": "Twitter"
   },
   {
     "title": "Faster asin() was hiding in plain sight",
     "source": "Hacker News",
-    "description": "HN Score: 206 | 114 comments",
+    "description": "HN Score: 223 | 120 comments",
     "url": "https://16bpp.net/blog/post/faster-asin-was-hiding-in-plain-sight/",
-    "score": 206,
+    "score": 223,
     "date": "2026-03-12",
     "category": "AI News"
   },
@@ -110,28 +93,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Iran-backed hackers claim wiper attack on medtech firm Stryker",
+    "title": "BitNet: Inference framework for 1-bit LLMs",
     "source": "Hacker News",
-    "description": "HN Score: 175 | 101 comments",
-    "url": "https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/",
-    "score": 175,
+    "description": "HN Score: 355 | 163 comments",
+    "url": "https://github.com/microsoft/BitNet",
+    "score": 355,
     "date": "2026-03-12",
     "category": "AI News"
   },
   {
-    "title": "RT by @svpino: Here is the cheapest transcription API in the world. Period. Let's be honest: Transcription APIs are among the most overpriced componen",
-    "source": "@svpino",
+    "title": "Sigh, people really dislike AI and want it to fail \ud83d\ude2d TBH, AI already automates a good chunk of software engineering already AI is WILDLY EFFECTIVE whe",
+    "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2031732427505484250#m",
+    "url": "https://nitter.net/bindureddy/status/2032063851710333412#m",
     "date": "2026-03-12",
     "category": "Twitter"
   },
   {
-    "title": "Show HN: A context-aware permission guard for Claude Code",
+    "title": "5,200 holes carved into a Peruvian mountain left by an ancient economy",
     "source": "Hacker News",
-    "description": "HN Score: 105 | 58 comments",
-    "url": "https://github.com/manuelschipper/nah/",
-    "score": 105,
+    "description": "HN Score: 135 | 70 comments",
+    "url": "https://newatlas.com/environment/5-200-holes-peruvian-mountain/",
+    "score": 135,
     "date": "2026-03-12",
     "category": "AI News"
   },
@@ -144,28 +127,29 @@
     "category": "Twitter"
   },
   {
-    "title": "5,200 holes carved into a Peruvian mountain left by an ancient economy",
+    "title": "How we hacked McKinsey's AI platform",
     "source": "Hacker News",
-    "description": "HN Score: 128 | 64 comments",
-    "url": "https://newatlas.com/environment/5-200-holes-peruvian-mountain/",
-    "score": 128,
+    "description": "HN Score: 447 | 181 comments",
+    "url": "https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform",
+    "score": 447,
     "date": "2026-03-12",
     "category": "AI News"
   },
   {
-    "title": "OpenAI can't catch a break inspite of dropping GPT 5.4 All the fan boys have defected and are simping for Anthropic They may need GPT 6.0 to win the l",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2032011839312445620#m",
+    "title": "Swiss e-voting pilot can't count 2,048 ballots after decryption failure",
+    "source": "Hacker News",
+    "description": "HN Score: 199 | 439 comments",
+    "url": "https://www.theregister.com/2026/03/11/swiss_evote_usb_snafu/",
+    "score": 199,
     "date": "2026-03-12",
-    "category": "Twitter"
+    "category": "AI News"
   },
   {
     "title": "Against vibes: When is a generative model useful",
     "source": "Hacker News",
-    "description": "HN Score: 89 | 21 comments",
+    "description": "HN Score: 94 | 24 comments",
     "url": "https://www.williamjbowman.com/blog/2026/03/05/against-vibes-when-is-a-generative-model-useful/",
-    "score": 89,
+    "score": 94,
     "date": "2026-03-12",
     "category": "AI News"
   }
