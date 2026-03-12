@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Kotlin creator's new language: a formal way to talk to LLMs instead of English",
+    "title": "Reversing memory loss via gut-brain communication",
     "source": "Hacker News",
-    "description": "HN Score: 126 | 107 comments",
-    "url": "https://codespeak.dev/",
-    "score": 126,
+    "description": "HN Score: 77 | 13 comments",
+    "url": "https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline.html",
+    "score": 77,
     "date": "2026-03-12",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "Show HN: OneCLI \u2013 Vault for AI Agents in Rust",
     "source": "Hacker News",
-    "description": "HN Score: 4 | 1 comments",
+    "description": "HN Score: 59 | 25 comments",
     "url": "https://github.com/onecli/onecli",
-    "score": 4,
+    "score": 59,
     "date": "2026-03-12",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Claude now creates interactive charts, diagrams and visualizations",
+    "title": "Show HN: Understudy \u2013 Teach a desktop agent by demonstrating a task once",
     "source": "Hacker News",
-    "description": "HN Score: 28 | 8 comments",
-    "url": "https://claude.com/blog/claude-builds-visuals",
-    "score": 28,
+    "description": "HN Score: 36 | 10 comments",
+    "url": "https://github.com/understudy-ai/understudy",
+    "score": 36,
     "date": "2026-03-12",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Atlassian CEO: AI doesn't replace people here, but we're firing them anyway",
+    "title": "Kotlin creator's new language: a formal way to talk to LLMs instead of English",
     "source": "Hacker News",
-    "description": "HN Score: 64 | 19 comments",
-    "url": "https://www.heise.de/en/news/Atlassian-CEO-AI-doesn-t-replace-people-here-but-we-re-firing-them-anyway-11208758.html",
-    "score": 64,
+    "description": "HN Score: 208 | 169 comments",
+    "url": "https://codespeak.dev/",
+    "score": 208,
     "date": "2026-03-12",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Reliable Software in the LLM Era",
+    "title": "Show HN: Axe \u2013 A 12MB binary that replaces your AI framework",
     "source": "Hacker News",
-    "description": "HN Score: 71 | 22 comments",
-    "url": "https://quint-lang.org/posts/llm_era",
-    "score": 71,
+    "description": "HN Score: 70 | 58 comments",
+    "url": "https://github.com/jrswab/axe",
+    "score": 70,
     "date": "2026-03-12",
     "category": "AI News"
   },
@@ -93,11 +93,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Returning to Rails in 2026",
+    "title": "Show HN: Rudel \u2013 Claude Code Session Analytics",
     "source": "Hacker News",
-    "description": "HN Score: 292 | 187 comments",
-    "url": "https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/",
-    "score": 292,
+    "description": "HN Score: 107 | 64 comments",
+    "url": "https://github.com/obsessiondb/rudel",
+    "score": 107,
+    "date": "2026-03-12",
+    "category": "AI News"
+  },
+  {
+    "title": "Sorry, but $25 to review one PR is crazy. Qodo is 10x cheaper, and apparently, much better at reviewing code than Claude. There's a huge market out th",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2032157193710289042#m",
+    "date": "2026-03-12",
+    "category": "Twitter"
+  },
+  {
+    "title": "Apple's MacBook Neo makes repairs easier and cheaper than other MacBooks",
+    "source": "Hacker News",
+    "description": "HN Score: 73 | 27 comments",
+    "url": "https://arstechnica.com/gadgets/2026/03/more-modular-design-makes-macbook-neo-easier-to-fix-than-other-apple-laptops/",
+    "score": 73,
     "date": "2026-03-12",
     "category": "AI News"
   },
@@ -110,45 +127,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: We analyzed 1,573 Claude Code sessions to see how AI agents work",
+    "title": "Claude now creates interactive charts, diagrams and visualizations",
     "source": "Hacker News",
-    "description": "HN Score: 92 | 56 comments",
-    "url": "https://github.com/obsessiondb/rudel",
-    "score": 92,
+    "description": "HN Score: 108 | 54 comments",
+    "url": "https://claude.com/blog/claude-builds-visuals",
+    "score": 108,
     "date": "2026-03-12",
     "category": "AI News"
   },
   {
-    "title": "I've been working with a large team that's building some internal tooling for their company. About twenty-something people in total. The money this co",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2032109674645057732#m",
-    "date": "2026-03-12",
-    "category": "Twitter"
-  },
-  {
-    "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
-    "source": "Hacker News",
-    "description": "HN Score: 4017 | 1507 comments",
-    "url": "https://news.ycombinator.com/newsguidelines.html#generated",
-    "score": 4017,
-    "date": "2026-03-12",
-    "category": "AI News"
-  },
-  {
-    "title": "Sigh, people really dislike AI and want it to fail \ud83d\ude2d TBH, AI already automates a good chunk of software engineering already AI is WILDLY EFFECTIVE whe",
+    "title": "Deep Research powered by GPT 5.4 is about 20% more accurate, factual and engaging than Gemini or Claude Gemini is 2nd best though it hallucinates 2-5%",
     "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/bindureddy/status/2032063851710333412#m",
+    "url": "https://nitter.net/bindureddy/status/2032165125403394291#m",
     "date": "2026-03-12",
     "category": "Twitter"
   },
   {
-    "title": "ArcaOS 5.1.2 (based on OS/2 Warp 4.52) now available",
+    "title": "DDR4 Sdram \u2013 Initialization, Training and Calibration",
     "source": "Hacker News",
-    "description": "HN Score: 38 | 14 comments",
-    "url": "https://www.arcanoae.com/arcaos-5-1-2-now-available/",
-    "score": 38,
+    "description": "HN Score: 12 | 0 comments",
+    "url": "https://www.systemverilog.io/design/ddr4-initialization-and-calibration/",
+    "score": 12,
     "date": "2026-03-12",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Faster asin() was hiding in plain sight",
+    "title": "Iran-backed hackers claim wiper attack on medtech firm Stryker",
     "source": "Hacker News",
-    "description": "HN Score: 236 | 124 comments",
-    "url": "https://16bpp.net/blog/post/faster-asin-was-hiding-in-plain-sight/",
-    "score": 236,
+    "description": "HN Score: 217 | 234 comments",
+    "url": "https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/",
+    "score": 217,
     "date": "2026-03-12",
     "category": "AI News"
   }

@@ -1,5 +1,26 @@
 [
   {
+    "title": "Facebook Marketplace now lets Meta AI respond to buyers\u2019 messages",
+    "source": "TechCrunch",
+    "summary": "When buyers inquire about an item\u2019s availability, sellers can use Meta AI to automatically draft replies using information from their listing, such as the description, availability, pickup location, and price.",
+    "url": "https://techcrunch.com/2026/03/12/facebook-marketplace-now-lets-meta-ai-respond-to-buyers-messages/",
+    "date": "2026-03-12"
+  },
+  {
+    "title": "Tinder tries to lure people back to online dating with IRL events, virtual speed dating",
+    "source": "TechCrunch",
+    "summary": "Tinder just got a major revamp as it attempts to re-engange its user base and attract younger daters. This includes in-person events, AI enhancements, and even virtual speed dating.",
+    "url": "https://techcrunch.com/2026/03/12/tinder-tries-to-lure-people-back-to-online-dating-with-irl-events-virtual-speed-dating/",
+    "date": "2026-03-12"
+  },
+  {
+    "title": "Atlassian follows Block\u2019s footsteps and cuts staff in the name of AI",
+    "source": "TechCrunch",
+    "summary": "Atlassian laid off 10% of its workforce, around 1,600 people, as the company looks to funnel more funds to AI.",
+    "url": "https://techcrunch.com/2026/03/12/atlassian-follows-blocks-footsteps-and-cuts-staff-in-the-name-of-ai/",
+    "date": "2026-03-12"
+  },
+  {
     "title": "Bumble to launch an AI dating assistant, \u2018Bee\u2019",
     "source": "TechCrunch",
     "summary": "Bumble's new AI assistant Bee will move the dating app beyond the swipe by matching people based on compatibility and goals.",
@@ -84,27 +105,6 @@
     "date": "2026-03-12"
   },
   {
-    "title": "Replit snags $9B valuation 6 months after hitting $3B",
-    "source": "TechCrunch",
-    "summary": "Replit raised a new $400 million round and said it hopes to have $1B in ARR by year's end.",
-    "url": "https://techcrunch.com/2026/03/11/replit-snags-9b-valuation-6-months-after-hitting-3b/",
-    "date": "2026-03-12"
-  },
-  {
-    "title": "WordPress debuts a private workspace that runs in your browser via a new service, my.WordPress.net",
-    "source": "TechCrunch",
-    "summary": "WordPress\u2019s new browser-based service lets users create private sites without hosting or signing up, turning the platform into a personal workspace for writing, research, and AI tools.",
-    "url": "https://techcrunch.com/2026/03/11/wordpress-debuts-a-private-workspace-that-runs-in-your-browser-via-a-new-service-my-wordpress-net/",
-    "date": "2026-03-12"
-  },
-  {
-    "title": "Rivian spin-out Mind Robotics raises $500M for industrial AI-powered robots",
-    "source": "TechCrunch",
-    "summary": "The startup, which was created by Rivian founder RJ Scaringe, is looking to train on data from, and deploy in, Rivian's factory.",
-    "url": "https://techcrunch.com/2026/03/11/rivian-mind-robotics-series-a-500m-fund-raise-industrial-ai-powered-robots/",
-    "date": "2026-03-12"
-  },
-  {
     "title": "The Download: Early adopters cash in on China\u2019s OpenClaw craze, and US batteries slump",
     "source": "MIT Tech Review",
     "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Hustlers are cashing in on China\u2019s OpenClaw AI craze In January, Beijing-based software engineer Feng Qingyang started tinkering with OpenClaw, a new AI tool t...",
@@ -175,6 +175,13 @@
     "date": "2026-03-12"
   },
   {
+    "title": "Google Is Not Ruling Out Ads in Gemini",
+    "source": "Wired",
+    "summary": "WIRED spoke with Nick Fox, Google\u2019s SVP of knowledge and information, about how AI is changing the company\u2019s advertising business.",
+    "url": "https://www.wired.com/story/google-nick-fox-advertising-search-ai-gemini/",
+    "date": "2026-03-12"
+  },
+  {
     "title": "Google Maps Gets Chatty With a New Gemini-Powered Interface",
     "source": "Wired",
     "summary": "\u201cAsk Maps,\u201d rolling out today to Google Maps on mobile, lets you ask Gemini questions about locations and even to plan trips on your behalf.",
@@ -238,10 +245,10 @@
     "date": "2026-03-12"
   },
   {
-    "title": "Fake AI Content About the Iran War Is All Over X",
-    "source": "Wired",
-    "summary": "X\u2019s Grok is failing to accurately verify video footage from the Iran conflict and is sharing its own AI-generated images about the war.",
-    "url": "https://www.wired.com/story/fake-ai-content-about-the-iran-war-is-all-over-x/",
+    "title": "Perplexity's 'Personal Computer' brings its AI agents to the, uh, Personal Computer",
+    "source": "Ars Technica",
+    "summary": "Perplexity says AI access to your files is in 'secure environment with clear safeguards.'",
+    "url": "https://arstechnica.com/ai/2026/03/perplexitys-personal-computer-brings-its-ai-agents-to-the-uh-personal-computer/",
     "date": "2026-03-12"
   },
   {
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "Gemini allegedly called man its 'husband,' said they could be together in death.",
     "url": "https://arstechnica.com/tech-policy/2026/03/lawsuit-google-gemini-sent-man-on-violent-missions-set-suicide-countdown/",
-    "date": "2026-03-12"
-  },
-  {
-    "title": "Are consumers doomed to pay more for electricity due to data center buildouts?",
-    "source": "Ars Technica",
-    "summary": "Data center operators to sign pledge to supply their own power instead of relying on grid.",
-    "url": "https://arstechnica.com/ai/2026/03/are-consumers-doomed-to-pay-more-for-electricity-due-to-data-center-buildouts/",
     "date": "2026-03-12"
   }
 ]
