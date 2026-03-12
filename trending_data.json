@@ -10,9 +10,9 @@
   {
     "title": "Returning to Rails in 2026",
     "source": "Hacker News",
-    "description": "HN Score: 8 | 1 comments",
+    "description": "HN Score: 81 | 54 comments",
     "url": "https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/",
-    "score": 8,
+    "score": 81,
     "date": "2026-03-12",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
+    "title": "I was interviewed by an AI bot for a job",
     "source": "Hacker News",
-    "description": "HN Score: 3286 | 1240 comments",
-    "url": "https://news.ycombinator.com/newsguidelines.html#generated",
-    "score": 3286,
+    "description": "HN Score: 285 | 258 comments",
+    "url": "https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job",
+    "score": 285,
     "date": "2026-03-12",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "I was interviewed by an AI bot for a job",
+    "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
     "source": "Hacker News",
-    "description": "HN Score: 250 | 235 comments",
-    "url": "https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job",
-    "score": 250,
+    "description": "HN Score: 3456 | 1289 comments",
+    "url": "https://news.ycombinator.com/newsguidelines.html#generated",
+    "score": 3456,
     "date": "2026-03-12",
     "category": "AI News"
   },
@@ -59,28 +59,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Iran-backed hackers claim wiper attack on medtech firm Stryker",
+    "title": "Show HN: A context-aware permission guard for Claude Code",
     "source": "Hacker News",
-    "description": "HN Score: 115 | 43 comments",
-    "url": "https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/",
-    "score": 115,
+    "description": "HN Score: 96 | 39 comments",
+    "url": "https://github.com/manuelschipper/nah/",
+    "score": 96,
     "date": "2026-03-12",
     "category": "AI News"
   },
   {
-    "title": "R to @DrJimFan: We would also like to thank our dexterous hand hardware provider, Sharpa, for their great support!",
+    "title": "We trained a humanoid with 22-DoF dexterous hands to assemble model cars, operate syringes, sort poker cards, fold/roll shirts, all learned primarily ",
     "source": "@DrJimFan",
     "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2026709308713611695#m",
+    "url": "https://nitter.net/DrJimFan/status/2026709304984875202#m",
     "date": "2026-03-12",
     "category": "Twitter"
   },
   {
-    "title": "Show HN: A context-aware permission guard for Claude Code",
+    "title": "Iran-backed hackers claim wiper attack on medtech firm Stryker",
     "source": "Hacker News",
-    "description": "HN Score: 89 | 35 comments",
-    "url": "https://github.com/manuelschipper/nah/",
-    "score": 89,
+    "description": "HN Score: 147 | 69 comments",
+    "url": "https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/",
+    "score": 147,
     "date": "2026-03-12",
     "category": "AI News"
   },
@@ -93,11 +93,28 @@
     "category": "Twitter"
   },
   {
+    "title": "I'm glad the Anthropic fight is happening now",
+    "source": "Hacker News",
+    "description": "HN Score: 140 | 181 comments",
+    "url": "https://www.dwarkesh.com/p/dow-anthropic",
+    "score": 140,
+    "date": "2026-03-12",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: Nano Banana 2 is pretty amazing! \u2022 The model is really fast \u2022 It's very cheap compared to Nano Banana Pro \u2022 Images have a really good q",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2031810922680107035#m",
+    "date": "2026-03-12",
+    "category": "Twitter"
+  },
+  {
     "title": "BitNet: 100B Param 1-Bit model for local CPUs",
     "source": "Hacker News",
-    "description": "HN Score: 328 | 160 comments",
+    "description": "HN Score: 335 | 161 comments",
     "url": "https://github.com/microsoft/BitNet",
-    "score": 328,
+    "score": 335,
     "date": "2026-03-12",
     "category": "AI News"
   },
@@ -112,43 +129,26 @@
   {
     "title": "Faster asin() was hiding in plain sight",
     "source": "Hacker News",
-    "description": "HN Score: 189 | 105 comments",
+    "description": "HN Score: 199 | 109 comments",
     "url": "https://16bpp.net/blog/post/faster-asin-was-hiding-in-plain-sight/",
-    "score": 189,
+    "score": 199,
     "date": "2026-03-12",
     "category": "AI News"
   },
   {
-    "title": "RT by @svpino: Agentic AI is stupid, and brittle, and unreliable, but it's getting better every single week. I decided to spend my time right now lear",
-    "source": "@svpino",
+    "title": "OpenAI can't catch a break inspite of dropping GPT 5.4 All the fan boys have defected and are simping for Anthropic They may need GPT 6.0 to win the l",
+    "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2031712262080332044#m",
+    "url": "https://nitter.net/bindureddy/status/2032011839312445620#m",
     "date": "2026-03-12",
     "category": "Twitter"
   },
   {
     "title": "5,200 holes carved into a Peruvian mountain left by an ancient economy",
     "source": "Hacker News",
-    "description": "HN Score: 119 | 61 comments",
+    "description": "HN Score: 127 | 61 comments",
     "url": "https://newatlas.com/environment/5-200-holes-peruvian-mountain/",
-    "score": 119,
-    "date": "2026-03-12",
-    "category": "AI News"
-  },
-  {
-    "title": "There is a lot of misinformation on this app if AI were indeed replacing ops and engineering\u2026. AI companies would stop having non-stop outages - yeah ",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2031971607380631728#m",
-    "date": "2026-03-12",
-    "category": "Twitter"
-  },
-  {
-    "title": "CNN Explainer \u2013 Learn Convolutional Neural Network in Your Browser (2020)",
-    "source": "Hacker News",
-    "description": "HN Score: 46 | 2 comments",
-    "url": "https://poloclub.github.io/cnn-explainer/",
-    "score": 46,
+    "score": 127,
     "date": "2026-03-12",
     "category": "AI News"
   },
@@ -163,9 +163,9 @@
   {
     "title": "Against vibes: When is a generative model useful",
     "source": "Hacker News",
-    "description": "HN Score: 75 | 13 comments",
+    "description": "HN Score: 82 | 18 comments",
     "url": "https://www.williamjbowman.com/blog/2026/03/05/against-vibes-when-is-a-generative-model-useful/",
-    "score": 75,
+    "score": 82,
     "date": "2026-03-12",
     "category": "AI News"
   }
