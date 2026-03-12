@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Returning to Rails in 2026",
+    "title": "Show HN: We analyzed 1,573 Claude Code sessions to see how AI agents work",
     "source": "Hacker News",
-    "description": "HN Score: 208 | 123 comments",
-    "url": "https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/",
-    "score": 208,
+    "description": "HN Score: 51 | 28 comments",
+    "url": "https://github.com/obsessiondb/rudel",
+    "score": 51,
     "date": "2026-03-12",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "I was interviewed by an AI bot for a job",
+    "title": "Show HN: Axe A 12MB binary that replaces your AI framework",
     "source": "Hacker News",
-    "description": "HN Score: 356 | 337 comments",
-    "url": "https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job",
-    "score": 356,
+    "description": "HN Score: 26 | 14 comments",
+    "url": "https://github.com/jrswab/axe",
+    "score": 26,
     "date": "2026-03-12",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
+    "title": "The purpose of Continuous Integration is to fail",
     "source": "Hacker News",
-    "description": "HN Score: 3773 | 1410 comments",
-    "url": "https://news.ycombinator.com/newsguidelines.html#generated",
-    "score": 3773,
+    "description": "HN Score: 16 | 18 comments",
+    "url": "https://blog.nix-ci.com/post/2026-02-05_the-purpose-of-ci-is-to-fail",
+    "score": 16,
     "date": "2026-03-12",
     "category": "AI News"
   },
@@ -59,11 +59,62 @@
     "category": "Twitter"
   },
   {
-    "title": "Reliable Software in the LLM Era",
+    "title": "Kotlin creator's new language: a formal way to talk to LLMs instead of English",
     "source": "Hacker News",
-    "description": "HN Score: 33 | 11 comments",
-    "url": "https://quint-lang.org/posts/llm_era",
-    "score": 33,
+    "description": "HN Score: 7 | 6 comments",
+    "url": "https://codespeak.dev/",
+    "score": 7,
+    "date": "2026-03-12",
+    "category": "AI News"
+  },
+  {
+    "title": "R to @DrJimFan: We would also like to thank our dexterous hand hardware provider, Sharpa, for their great support!",
+    "source": "@DrJimFan",
+    "description": "",
+    "url": "https://nitter.net/DrJimFan/status/2026709308713611695#m",
+    "date": "2026-03-12",
+    "category": "Twitter"
+  },
+  {
+    "title": "ArcaOS 5.1.2 (based on OS/2 Warp 4.52) now available",
+    "source": "Hacker News",
+    "description": "HN Score: 22 | 7 comments",
+    "url": "https://www.arcanoae.com/arcaos-5-1-2-now-available/",
+    "score": 22,
+    "date": "2026-03-12",
+    "category": "AI News"
+  },
+  {
+    "title": "R to @DrJimFan: This is a huge team work at NVIDIA Robotics. Check out @ruijie_zheng12's deep dive: - Website: https://research.nvidia.com/labs/gear/e",
+    "source": "@DrJimFan",
+    "description": "",
+    "url": "https://nitter.net/DrJimFan/status/2026709306629091342#m",
+    "date": "2026-03-12",
+    "category": "Twitter"
+  },
+  {
+    "title": "Returning to Rails in 2026",
+    "source": "Hacker News",
+    "description": "HN Score: 250 | 161 comments",
+    "url": "https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/",
+    "score": 250,
+    "date": "2026-03-12",
+    "category": "AI News"
+  },
+  {
+    "title": "Knowledge graphs win every single time. Before embeddings and similarity search, knowledge graphs were a game-changer. They are now going to win again",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2032102310437142675#m",
+    "date": "2026-03-12",
+    "category": "Twitter"
+  },
+  {
+    "title": "I was interviewed by an AI bot for a job",
+    "source": "Hacker News",
+    "description": "HN Score: 381 | 384 comments",
+    "url": "https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job",
+    "score": 381,
     "date": "2026-03-12",
     "category": "AI News"
   },
@@ -76,28 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Faster asin() was hiding in plain sight",
+    "title": "Reliable Software in the LLM Era",
     "source": "Hacker News",
-    "description": "HN Score: 223 | 120 comments",
-    "url": "https://16bpp.net/blog/post/faster-asin-was-hiding-in-plain-sight/",
-    "score": 223,
-    "date": "2026-03-12",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: Nano Banana 2 is pretty amazing! \u2022 The model is really fast \u2022 It's very cheap compared to Nano Banana Pro \u2022 Images have a really good q",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2031810922680107035#m",
-    "date": "2026-03-12",
-    "category": "Twitter"
-  },
-  {
-    "title": "BitNet: Inference framework for 1-bit LLMs",
-    "source": "Hacker News",
-    "description": "HN Score: 355 | 163 comments",
-    "url": "https://github.com/microsoft/BitNet",
-    "score": 355,
+    "description": "HN Score: 44 | 19 comments",
+    "url": "https://quint-lang.org/posts/llm_era",
+    "score": 44,
     "date": "2026-03-12",
     "category": "AI News"
   },
@@ -110,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "5,200 holes carved into a Peruvian mountain left by an ancient economy",
+    "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
     "source": "Hacker News",
-    "description": "HN Score: 135 | 70 comments",
-    "url": "https://newatlas.com/environment/5-200-holes-peruvian-mountain/",
-    "score": 135,
+    "description": "HN Score: 3883 | 1450 comments",
+    "url": "https://news.ycombinator.com/newsguidelines.html#generated",
+    "score": 3883,
     "date": "2026-03-12",
     "category": "AI News"
   },
@@ -127,29 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "How we hacked McKinsey's AI platform",
+    "title": "Faster asin() was hiding in plain sight",
     "source": "Hacker News",
-    "description": "HN Score: 447 | 181 comments",
-    "url": "https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform",
-    "score": 447,
-    "date": "2026-03-12",
-    "category": "AI News"
-  },
-  {
-    "title": "Swiss e-voting pilot can't count 2,048 ballots after decryption failure",
-    "source": "Hacker News",
-    "description": "HN Score: 199 | 439 comments",
-    "url": "https://www.theregister.com/2026/03/11/swiss_evote_usb_snafu/",
-    "score": 199,
-    "date": "2026-03-12",
-    "category": "AI News"
-  },
-  {
-    "title": "Against vibes: When is a generative model useful",
-    "source": "Hacker News",
-    "description": "HN Score: 94 | 24 comments",
-    "url": "https://www.williamjbowman.com/blog/2026/03/05/against-vibes-when-is-a-generative-model-useful/",
-    "score": 94,
+    "description": "HN Score: 231 | 122 comments",
+    "url": "https://16bpp.net/blog/post/faster-asin-was-hiding-in-plain-sight/",
+    "score": 231,
     "date": "2026-03-12",
     "category": "AI News"
   }
