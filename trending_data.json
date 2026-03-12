@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: We analyzed 1,573 Claude Code sessions to see how AI agents work",
+    "title": "Kotlin creator's new language: a formal way to talk to LLMs instead of English",
     "source": "Hacker News",
-    "description": "HN Score: 51 | 28 comments",
-    "url": "https://github.com/obsessiondb/rudel",
-    "score": 51,
+    "description": "HN Score: 126 | 107 comments",
+    "url": "https://codespeak.dev/",
+    "score": 126,
     "date": "2026-03-12",
     "category": "AI News"
   },
@@ -25,11 +25,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Axe A 12MB binary that replaces your AI framework",
+    "title": "Show HN: OneCLI \u2013 Vault for AI Agents in Rust",
     "source": "Hacker News",
-    "description": "HN Score: 26 | 14 comments",
-    "url": "https://github.com/jrswab/axe",
-    "score": 26,
+    "description": "HN Score: 4 | 1 comments",
+    "url": "https://github.com/onecli/onecli",
+    "score": 4,
+    "date": "2026-03-12",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: Fun times recording a mega-episode of the @Into_Impossible Podcast with @EMostaque today in LA! Topics included: \u21e8 The Future of Tra",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/DrBrianKeating/status/2031917845613801571#m",
+    "date": "2026-03-12",
+    "category": "Twitter"
+  },
+  {
+    "title": "Claude now creates interactive charts, diagrams and visualizations",
+    "source": "Hacker News",
+    "description": "HN Score: 28 | 8 comments",
+    "url": "https://claude.com/blog/claude-builds-visuals",
+    "score": 28,
     "date": "2026-03-12",
     "category": "AI News"
   },
@@ -42,28 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "The purpose of Continuous Integration is to fail",
+    "title": "Atlassian CEO: AI doesn't replace people here, but we're firing them anyway",
     "source": "Hacker News",
-    "description": "HN Score: 16 | 18 comments",
-    "url": "https://blog.nix-ci.com/post/2026-02-05_the-purpose-of-ci-is-to-fail",
-    "score": 16,
-    "date": "2026-03-12",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @EMostaque: Honestly the one company that has most incentive to release open source AI models, has the cash, compute & ability to attract talent",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/EMostaque/status/1795484107537109274#m",
-    "date": "2026-03-12",
-    "category": "Twitter"
-  },
-  {
-    "title": "Kotlin creator's new language: a formal way to talk to LLMs instead of English",
-    "source": "Hacker News",
-    "description": "HN Score: 7 | 6 comments",
-    "url": "https://codespeak.dev/",
-    "score": 7,
+    "description": "HN Score: 64 | 19 comments",
+    "url": "https://www.heise.de/en/news/Atlassian-CEO-AI-doesn-t-replace-people-here-but-we-re-firing-them-anyway-11208758.html",
+    "score": 64,
     "date": "2026-03-12",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "ArcaOS 5.1.2 (based on OS/2 Warp 4.52) now available",
+    "title": "Reliable Software in the LLM Era",
     "source": "Hacker News",
-    "description": "HN Score: 22 | 7 comments",
-    "url": "https://www.arcanoae.com/arcaos-5-1-2-now-available/",
-    "score": 22,
+    "description": "HN Score: 71 | 22 comments",
+    "url": "https://quint-lang.org/posts/llm_era",
+    "score": 71,
     "date": "2026-03-12",
     "category": "AI News"
   },
@@ -95,43 +95,43 @@
   {
     "title": "Returning to Rails in 2026",
     "source": "Hacker News",
-    "description": "HN Score: 250 | 161 comments",
+    "description": "HN Score: 292 | 187 comments",
     "url": "https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/",
-    "score": 250,
+    "score": 292,
     "date": "2026-03-12",
     "category": "AI News"
   },
   {
-    "title": "Knowledge graphs win every single time. Before embeddings and similarity search, knowledge graphs were a game-changer. They are now going to win again",
+    "title": "You gotta be crazy to share all your data up front with AI agents. Unfortunately, that's what most 'assistants' ask you to do: share it all, so they c",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2032102310437142675#m",
+    "url": "https://nitter.net/svpino/status/2032133276387963104#m",
     "date": "2026-03-12",
     "category": "Twitter"
   },
   {
-    "title": "I was interviewed by an AI bot for a job",
+    "title": "Show HN: We analyzed 1,573 Claude Code sessions to see how AI agents work",
     "source": "Hacker News",
-    "description": "HN Score: 381 | 384 comments",
-    "url": "https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job",
-    "score": 381,
+    "description": "HN Score: 92 | 56 comments",
+    "url": "https://github.com/obsessiondb/rudel",
+    "score": 92,
     "date": "2026-03-12",
     "category": "AI News"
   },
   {
-    "title": "Claude Code Tip: Hit Esc+Esc to rewind your session and clear any unnecessary stuff from your context. This is helpful whenever you are working on a t",
+    "title": "I've been working with a large team that's building some internal tooling for their company. About twenty-something people in total. The money this co",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2032072629251948821#m",
+    "url": "https://nitter.net/svpino/status/2032109674645057732#m",
     "date": "2026-03-12",
     "category": "Twitter"
   },
   {
-    "title": "Reliable Software in the LLM Era",
+    "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
     "source": "Hacker News",
-    "description": "HN Score: 44 | 19 comments",
-    "url": "https://quint-lang.org/posts/llm_era",
-    "score": 44,
+    "description": "HN Score: 4017 | 1507 comments",
+    "url": "https://news.ycombinator.com/newsguidelines.html#generated",
+    "score": 4017,
     "date": "2026-03-12",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
+    "title": "ArcaOS 5.1.2 (based on OS/2 Warp 4.52) now available",
     "source": "Hacker News",
-    "description": "HN Score: 3883 | 1450 comments",
-    "url": "https://news.ycombinator.com/newsguidelines.html#generated",
-    "score": 3883,
+    "description": "HN Score: 38 | 14 comments",
+    "url": "https://www.arcanoae.com/arcaos-5-1-2-now-available/",
+    "score": 38,
     "date": "2026-03-12",
     "category": "AI News"
   },
@@ -163,9 +163,9 @@
   {
     "title": "Faster asin() was hiding in plain sight",
     "source": "Hacker News",
-    "description": "HN Score: 231 | 122 comments",
+    "description": "HN Score: 236 | 124 comments",
     "url": "https://16bpp.net/blog/post/faster-asin-was-hiding-in-plain-sight/",
-    "score": 231,
+    "score": 236,
     "date": "2026-03-12",
     "category": "AI News"
   }
