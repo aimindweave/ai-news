@@ -1,39 +1,5 @@
 [
   {
-    "title": "1\u30da\u30fc\u30b8\u76ee\u3067\u3061\u3083\u3093\u3068\u6253\u6483\u98df\u3089\u3063\u3066\u30ac\u30b3\u30f3\u3057\u3066\u308b\u306e\u3067 \u3042\u308c\u304c\u306a\u304b\u3063\u305f\u3089\u6469\u864e\u7f85\u653b\u7565\u3067\u304d\u3066\u305f\u304b\u3082\u3057\u308c\u3093",
-    "source": "@kaborobot",
-    "description": "",
-    "url": "https://nitter.net/kaborobot/status/2015735996248420451#m",
-    "date": "2026-03-13",
-    "category": "Twitter"
-  },
-  {
-    "title": "Launch HN: Spine Swarm (YC S23) \u2013 AI agents that collaborate on a visual canvas",
-    "source": "Hacker News",
-    "description": "HN Score: 21 | 15 comments",
-    "url": "https://www.getspine.ai/",
-    "score": 21,
-    "date": "2026-03-13",
-    "category": "AI News"
-  },
-  {
-    "title": "\u30ec\u30bc\u304c\u300c\u79c1\u306b\u306f\u904e\u304e\u305f\u9858\u3044\u3060\u3063\u305f\u300d\u306a\u3093\u3066\u601d\u3063\u3066\u3044\u307e\u305b\u3093\u3088\u3046\u306b\u3068\u7948\u3063\u3066\u305f\u9023\u4f11\u3060\u3063\u305f",
-    "source": "@kaborobot",
-    "description": "",
-    "url": "https://nitter.net/kaborobot/status/1977673306670330109#m",
-    "date": "2026-03-13",
-    "category": "Twitter"
-  },
-  {
-    "title": "Okmain: How to pick an OK main colour of an image",
-    "source": "Hacker News",
-    "description": "HN Score: 113 | 19 comments",
-    "url": "https://dgroshev.com/blog/okmain/",
-    "score": 113,
-    "date": "2026-03-13",
-    "category": "AI News"
-  },
-  {
     "title": "RT by @EMostaque: Fun times recording a mega-episode of the @Into_Impossible Podcast with @EMostaque today in LA! Topics included: \u21e8 The Future of Tra",
     "source": "@EMostaque",
     "description": "",
@@ -42,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Executing programs inside transformers with exponentially faster inference",
+    "title": "Can I Run AI locally?",
     "source": "Hacker News",
-    "description": "HN Score: 193 | 57 comments",
-    "url": "https://www.percepta.ai/blog/can-llms-be-computers",
-    "score": 193,
+    "description": "HN Score: 101 | 22 comments",
+    "url": "https://www.canirun.ai/",
+    "score": 101,
     "date": "2026-03-13",
     "category": "AI News"
   },
@@ -59,28 +25,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Prompt-caching \u2013 auto-injects Anthropic cache breakpoints (90% token savings)",
+    "title": "Launch HN: Captain (YC W26) \u2013 Automated RAG for Files",
     "source": "Hacker News",
-    "description": "HN Score: 59 | 23 comments",
-    "url": "https://prompt-caching.ai/",
-    "score": 59,
+    "description": "HN Score: 14 | 4 comments",
+    "url": "https://www.runcaptain.com/",
+    "score": 14,
     "date": "2026-03-13",
     "category": "AI News"
   },
   {
-    "title": "We trained a humanoid with 22-DoF dexterous hands to assemble model cars, operate syringes, sort poker cards, fold/roll shirts, all learned primarily ",
+    "title": "R to @DrJimFan: We would also like to thank our dexterous hand hardware provider, Sharpa, for their great support!",
     "source": "@DrJimFan",
     "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2026709304984875202#m",
+    "url": "https://nitter.net/DrJimFan/status/2026709308713611695#m",
     "date": "2026-03-13",
     "category": "Twitter"
   },
   {
-    "title": "Enhancing gut-brain communication reversed cognitive decline in aging mice",
+    "title": "Launch HN: Spine Swarm (YC S23) \u2013 AI agents that collaborate on a visual canvas",
     "source": "Hacker News",
-    "description": "HN Score: 349 | 166 comments",
-    "url": "https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline.html",
-    "score": 349,
+    "description": "HN Score: 53 | 49 comments",
+    "url": "https://www.getspine.ai/",
+    "score": 53,
     "date": "2026-03-13",
     "category": "AI News"
   },
@@ -93,45 +59,45 @@
     "category": "Twitter"
   },
   {
-    "title": "Document poisoning in RAG systems: How attackers corrupt AI's sources",
+    "title": "Okmain: How to pick an OK main colour of an image",
     "source": "Hacker News",
-    "description": "HN Score: 138 | 56 comments",
-    "url": "https://aminrj.com/posts/rag-document-poisoning/",
-    "score": 138,
+    "description": "HN Score: 155 | 37 comments",
+    "url": "https://dgroshev.com/blog/okmain/",
+    "score": 155,
     "date": "2026-03-13",
     "category": "AI News"
   },
   {
-    "title": "R to @svpino: By the way, this was built with @Modulate_ai.",
+    "title": "RT by @svpino: \u2728Introducing: Open Generative UI Open-source implementation of Claude's new Generative UI capabilities built with @CopilotKit Bring dyn",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2032457157715615835#m",
+    "url": "https://nitter.net/ataiiam/status/2032486628535455958#m",
     "date": "2026-03-13",
     "category": "Twitter"
   },
   {
-    "title": "Vite+ Alpha: Unified Toolchain for the Web (MIT License)",
+    "title": "Executing programs inside transformers with exponentially faster inference",
     "source": "Hacker News",
-    "description": "HN Score: 32 | 3 comments",
-    "url": "https://voidzero.dev/posts/announcing-vite-plus-alpha",
-    "score": 32,
+    "description": "HN Score: 233 | 84 comments",
+    "url": "https://www.percepta.ai/blog/can-llms-be-computers",
+    "score": 233,
     "date": "2026-03-13",
     "category": "AI News"
   },
   {
-    "title": "I watched one of my agents destroy some numbers because it couldn't tell the difference between null and empty. This is the kind of bug that's really ",
+    "title": "R to @svpino: I'm consulting with two companies that are drowning in inbound calls and support tickets. They aren't thinking about hiring more people.",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2032435779423830056#m",
+    "url": "https://nitter.net/svpino/status/2032474804365001133#m",
     "date": "2026-03-13",
     "category": "Twitter"
   },
   {
-    "title": "Grief and the AI split",
+    "title": "Enhancing gut-brain communication reversed cognitive decline in aging mice",
     "source": "Hacker News",
-    "description": "HN Score: 186 | 310 comments",
-    "url": "https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/",
-    "score": 186,
+    "description": "HN Score: 362 | 173 comments",
+    "url": "https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline.html",
+    "score": 362,
     "date": "2026-03-13",
     "category": "AI News"
   },
@@ -144,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Retailer denies memory replacement due to 4x increase in DDR5 pricing",
+    "title": "Document poisoning in RAG systems: How attackers corrupt AI's sources",
     "source": "Hacker News",
-    "description": "HN Score: 15 | 7 comments",
-    "url": "https://www.tomshardware.com/pc-components/ddr5/retailer-denies-memory-return-due-to-4x-increase-in-ddr5-pricing-says-price-increase-would-mean-an-upgrade-for-the-customer-australian-retailer-refuses-to-replace-faulty-corsair-kit",
-    "score": 15,
+    "description": "HN Score: 142 | 56 comments",
+    "url": "https://aminrj.com/posts/rag-document-poisoning/",
+    "score": 142,
     "date": "2026-03-13",
     "category": "AI News"
   },
@@ -161,11 +127,29 @@
     "category": "Twitter"
   },
   {
-    "title": "Are LLM merge rates not getting better?",
+    "title": "Vite+ Alpha: Unified Toolchain for the Web (MIT License)",
     "source": "Hacker News",
-    "description": "HN Score: 157 | 144 comments",
-    "url": "https://entropicthoughts.com/no-swe-bench-improvement",
-    "score": 157,
+    "description": "HN Score: 46 | 3 comments",
+    "url": "https://voidzero.dev/posts/announcing-vite-plus-alpha",
+    "score": 46,
+    "date": "2026-03-13",
+    "category": "AI News"
+  },
+  {
+    "title": "Grief and the AI split",
+    "source": "Hacker News",
+    "description": "HN Score: 195 | 330 comments",
+    "url": "https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/",
+    "score": 195,
+    "date": "2026-03-13",
+    "category": "AI News"
+  },
+  {
+    "title": "The Wyden Siren Goes Off Again: We'll Be 'Stunned' by NSA Under Section 702",
+    "source": "Hacker News",
+    "description": "HN Score: 4 | 0 comments",
+    "url": "https://www.techdirt.com/2026/03/12/the-wyden-siren-goes-off-again-well-be-stunned-by-what-the-nsa-is-doing-under-section-702/",
+    "score": 4,
     "date": "2026-03-13",
     "category": "AI News"
   }
