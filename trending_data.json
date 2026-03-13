@@ -10,9 +10,9 @@
   {
     "title": "Reversing memory loss via gut-brain communication",
     "source": "Hacker News",
-    "description": "HN Score: 242 | 99 comments",
+    "description": "HN Score: 274 | 109 comments",
     "url": "https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline.html",
-    "score": 242,
+    "score": 274,
     "date": "2026-03-13",
     "category": "AI News"
   },
@@ -27,26 +27,60 @@
   {
     "title": "Document poisoning in RAG systems: How attackers corrupt AI's sources",
     "source": "Hacker News",
-    "description": "HN Score: 75 | 27 comments",
+    "description": "HN Score: 94 | 39 comments",
     "url": "https://aminrj.com/posts/rag-document-poisoning/",
-    "score": 75,
+    "score": 94,
     "date": "2026-03-13",
     "category": "AI News"
   },
   {
-    "title": "R to @DrJimFan: We would also like to thank our dexterous hand hardware provider, Sharpa, for their great support!",
-    "source": "@DrJimFan",
+    "title": "RT by @EMostaque: Fun times recording a mega-episode of the @Into_Impossible Podcast with @EMostaque today in LA! Topics included: \u21e8 The Future of Tra",
+    "source": "@EMostaque",
     "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2026709308713611695#m",
+    "url": "https://nitter.net/DrBrianKeating/status/2031917845613801571#m",
+    "date": "2026-03-13",
+    "category": "Twitter"
+  },
+  {
+    "title": "Grief and the AI Split",
+    "source": "Hacker News",
+    "description": "HN Score: 91 | 152 comments",
+    "url": "https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/",
+    "score": 91,
+    "date": "2026-03-13",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: The transition has already started. 200 days ago we published The Last Economy. 1000-day window to redesign economics for AI. 800 da",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/ii_posts/status/2031431599338958939#m",
     "date": "2026-03-13",
     "category": "Twitter"
   },
   {
     "title": "Innocent woman jailed after being misidentified using AI facial recognition",
     "source": "Hacker News",
-    "description": "HN Score: 423 | 215 comments",
+    "description": "HN Score: 505 | 270 comments",
     "url": "https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case",
-    "score": 423,
+    "score": 505,
+    "date": "2026-03-13",
+    "category": "AI News"
+  },
+  {
+    "title": "We trained a humanoid with 22-DoF dexterous hands to assemble model cars, operate syringes, sort poker cards, fold/roll shirts, all learned primarily ",
+    "source": "@DrJimFan",
+    "description": "",
+    "url": "https://nitter.net/DrJimFan/status/2026709304984875202#m",
+    "date": "2026-03-13",
+    "category": "Twitter"
+  },
+  {
+    "title": "Are LLM merge rates not getting better?",
+    "source": "Hacker News",
+    "description": "HN Score: 130 | 120 comments",
+    "url": "https://entropicthoughts.com/no-swe-bench-improvement",
+    "score": 130,
     "date": "2026-03-13",
     "category": "AI News"
   },
@@ -61,95 +95,77 @@
   {
     "title": "Show HN: OneCLI \u2013 Vault for AI Agents in Rust",
     "source": "Hacker News",
-    "description": "HN Score: 125 | 40 comments",
+    "description": "HN Score: 134 | 40 comments",
     "url": "https://github.com/onecli/onecli",
-    "score": 125,
+    "score": 134,
     "date": "2026-03-13",
     "category": "AI News"
   },
   {
-    "title": "RT by @svpino: Claude Code Tip: Hit Esc+Esc to rewind your session and clear any unnecessary stuff from your context. This is helpful whenever you are",
+    "title": "RT by @svpino: You gotta be crazy to share all your data up front with AI agents. Unfortunately, that's what most 'assistants' ask you to do: share it",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2032072629251948821#m",
-    "date": "2026-03-13",
-    "category": "Twitter"
-  },
-  {
-    "title": "Are LLM merge rates not getting better?",
-    "source": "Hacker News",
-    "description": "HN Score: 121 | 112 comments",
-    "url": "https://entropicthoughts.com/no-swe-bench-improvement",
-    "score": 121,
-    "date": "2026-03-13",
-    "category": "AI News"
-  },
-  {
-    "title": "Sorry, but $25 to review one PR is crazy. Qodo is 10x cheaper, and apparently, much better at reviewing code than Claude. There's a huge market out th",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2032157193710289042#m",
+    "url": "https://nitter.net/svpino/status/2032133276387963104#m",
     "date": "2026-03-13",
     "category": "Twitter"
   },
   {
     "title": "Show HN: Axe \u2013 A 12MB binary that replaces your AI framework",
     "source": "Hacker News",
-    "description": "HN Score: 152 | 98 comments",
+    "description": "HN Score: 165 | 100 comments",
     "url": "https://github.com/jrswab/axe",
-    "score": 152,
+    "score": 165,
     "date": "2026-03-13",
     "category": "AI News"
   },
   {
-    "title": "Meta is delaying their frontier model Avocado The model performance isn\u2019t good enough Hopefully all the billion dollar hires will come through one day",
-    "source": "@bindureddy",
+    "title": "RT by @svpino: I've been working with a large team that's building some internal tooling for their company. About twenty-something people in total. Th",
+    "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/bindureddy/status/2032281729164329185#m",
+    "url": "https://nitter.net/svpino/status/2032109674645057732#m",
     "date": "2026-03-13",
     "category": "Twitter"
   },
   {
     "title": "DDR4 Sdram \u2013 Initialization, Training and Calibration",
     "source": "Hacker News",
-    "description": "HN Score: 79 | 16 comments",
+    "description": "HN Score: 88 | 19 comments",
     "url": "https://www.systemverilog.io/design/ddr4-initialization-and-calibration/",
-    "score": 79,
+    "score": 88,
     "date": "2026-03-13",
     "category": "AI News"
   },
   {
-    "title": "Deep Research powered by GPT 5.4 is about 20% more accurate, factual and engaging than Gemini or Claude Gemini is 2nd best though it hallucinates 2-5%",
+    "title": "We are in full blown war and Iran is taking a hard line defiant position Sadly, at this point, we have no choice but to go all in and win this war The",
     "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/bindureddy/status/2032165125403394291#m",
+    "url": "https://nitter.net/bindureddy/status/2032320059146965081#m",
     "date": "2026-03-13",
     "category": "Twitter"
   },
   {
-    "title": "Returning to Rails in 2026",
-    "source": "Hacker News",
-    "description": "HN Score: 342 | 211 comments",
-    "url": "https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/",
-    "score": 342,
-    "date": "2026-03-13",
-    "category": "AI News"
-  },
-  {
-    "title": "Show HN: Understudy \u2013 Teach a desktop agent by demonstrating a task once",
-    "source": "Hacker News",
-    "description": "HN Score: 91 | 38 comments",
-    "url": "https://github.com/understudy-ai/understudy",
-    "score": 91,
-    "date": "2026-03-13",
-    "category": "AI News"
-  },
-  {
     "title": "Iran-backed hackers claim wiper attack on medtech firm Stryker",
     "source": "Hacker News",
-    "description": "HN Score: 239 | 258 comments",
+    "description": "HN Score: 243 | 260 comments",
     "url": "https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/",
-    "score": 239,
+    "score": 243,
+    "date": "2026-03-13",
+    "category": "AI News"
+  },
+  {
+    "title": "Meta\u2019s new Avocado model is delayed\u2026.. It isn\u2019t as good as the big three closed models They could still drop it as an open source model and win BIG TI",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2032286783044796456#m",
+    "date": "2026-03-13",
+    "category": "Twitter"
+  },
+  {
+    "title": "Daily multivitamin use may slow biological aging: COSMOS trial results",
+    "source": "Hacker News",
+    "description": "HN Score: 14 | 2 comments",
+    "url": "https://www.massgeneralbrigham.org/en/about/newsroom/press-releases/daily-multivitamin-use-may-slow-aging",
+    "score": 14,
     "date": "2026-03-13",
     "category": "AI News"
   }
