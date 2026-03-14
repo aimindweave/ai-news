@@ -1,36 +1,36 @@
 [
   {
+    "title": "Beauty in physics is not complexity mastered, but simplicity revealed.",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/EMostaque/status/2032636640674398447#m",
+    "date": "2026-03-14",
+    "category": "Twitter"
+  },
+  {
+    "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
+    "source": "Hacker News",
+    "description": "HN Score: 286 | 83 comments",
+    "url": "https://claude.com/blog/1m-context-ga",
+    "score": 286,
+    "date": "2026-03-14",
+    "category": "AI News"
+  },
+  {
     "title": "RT by @EMostaque: Fun times recording a mega-episode of the @Into_Impossible Podcast with @EMostaque today in LA! Topics included: \u21e8 The Future of Tra",
     "source": "@EMostaque",
     "description": "",
     "url": "https://nitter.net/DrBrianKeating/status/2031917845613801571#m",
-    "date": "2026-03-13",
+    "date": "2026-03-14",
     "category": "Twitter"
   },
   {
     "title": "Can I run AI locally?",
     "source": "Hacker News",
-    "description": "HN Score: 721 | 210 comments",
+    "description": "HN Score: 962 | 257 comments",
     "url": "https://www.canirun.ai/",
-    "score": 721,
-    "date": "2026-03-13",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @EMostaque: The transition has already started. 200 days ago we published The Last Economy. 1000-day window to redesign economics for AI. 800 da",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/ii_posts/status/2031431599338958939#m",
-    "date": "2026-03-13",
-    "category": "Twitter"
-  },
-  {
-    "title": "Qatar helium shutdown puts chip supply chain on a two-week clock",
-    "source": "Hacker News",
-    "description": "HN Score: 308 | 299 comments",
-    "url": "https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock",
-    "score": 308,
-    "date": "2026-03-13",
+    "score": 962,
+    "date": "2026-03-14",
     "category": "AI News"
   },
   {
@@ -38,16 +38,16 @@
     "source": "@DrJimFan",
     "description": "",
     "url": "https://nitter.net/DrJimFan/status/2026709308713611695#m",
-    "date": "2026-03-13",
+    "date": "2026-03-14",
     "category": "Twitter"
   },
   {
-    "title": "New 'negative light' technology hides data transfers in plain sight",
+    "title": "Qatar helium shutdown puts chip supply chain on a two-week clock",
     "source": "Hacker News",
-    "description": "HN Score: 34 | 12 comments",
-    "url": "https://www.unsw.edu.au/newsroom/news/2026/03/New-negative-light-technology-hides-data-transfers-in-plain-sight",
-    "score": 34,
-    "date": "2026-03-13",
+    "description": "HN Score: 442 | 406 comments",
+    "url": "https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock",
+    "score": 442,
+    "date": "2026-03-14",
     "category": "AI News"
   },
   {
@@ -55,16 +55,33 @@
     "source": "@DrJimFan",
     "description": "",
     "url": "https://nitter.net/DrJimFan/status/2026709306629091342#m",
-    "date": "2026-03-13",
+    "date": "2026-03-14",
+    "category": "Twitter"
+  },
+  {
+    "title": "Human Rights Watch says drone strikes in Haiti have killed nearly 1,250 people",
+    "source": "Hacker News",
+    "description": "HN Score: 142 | 66 comments",
+    "url": "https://haitiantimes.com/2026/03/11/hrw-condemns-haiti-drone-strikes-killing-children/",
+    "score": 142,
+    "date": "2026-03-14",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: I watched one of my agents destroy some numbers because it couldn't tell the difference between null and empty. This is the kind of bug",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2032435779423830056#m",
+    "date": "2026-03-14",
     "category": "Twitter"
   },
   {
     "title": "Elon Musk pushes out more xAI founders as AI coding effort falters",
     "source": "Hacker News",
-    "description": "HN Score: 202 | 250 comments",
+    "description": "HN Score: 333 | 506 comments",
     "url": "https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5",
-    "score": 202,
-    "date": "2026-03-13",
+    "score": 333,
+    "date": "2026-03-14",
     "category": "AI News"
   },
   {
@@ -72,33 +89,16 @@
     "source": "@svpino",
     "description": "",
     "url": "https://nitter.net/svpino/status/2032535110449258786#m",
-    "date": "2026-03-13",
+    "date": "2026-03-14",
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Context Gateway \u2013 Compress agent context before it hits the LLM",
+    "title": "New 'negative light' technology hides data transfers in plain sight",
     "source": "Hacker News",
-    "description": "HN Score: 49 | 30 comments",
-    "url": "https://github.com/Compresr-ai/Context-Gateway",
-    "score": 49,
-    "date": "2026-03-13",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: \u2728Introducing: Open Generative UI Open-source implementation of Claude's new Generative UI capabilities built with @CopilotKit Bring dyn",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/ataiiam/status/2032486628535455958#m",
-    "date": "2026-03-13",
-    "category": "Twitter"
-  },
-  {
-    "title": "Launch HN: Captain (YC W26) \u2013 Automated RAG for Files",
-    "source": "Hacker News",
-    "description": "HN Score: 41 | 16 comments",
-    "url": "https://www.runcaptain.com/",
-    "score": 41,
-    "date": "2026-03-13",
+    "description": "HN Score: 65 | 43 comments",
+    "url": "https://www.unsw.edu.au/newsroom/news/2026/03/New-negative-light-technology-hides-data-transfers-in-plain-sight",
+    "score": 65,
+    "date": "2026-03-14",
     "category": "AI News"
   },
   {
@@ -106,16 +106,16 @@
     "source": "@bindureddy",
     "description": "",
     "url": "https://nitter.net/bindureddy/status/2032286783044796456#m",
-    "date": "2026-03-13",
+    "date": "2026-03-14",
     "category": "Twitter"
   },
   {
-    "title": "Launch HN: Spine Swarm (YC S23) \u2013 AI agents that collaborate on a visual canvas",
+    "title": "Kovan: From Production MVCC Systems to Wait-Free Memory Reclamation",
     "source": "Hacker News",
-    "description": "HN Score: 76 | 62 comments",
-    "url": "https://www.getspine.ai/",
-    "score": 76,
-    "date": "2026-03-13",
+    "description": "HN Score: 6 | 0 comments",
+    "url": "https://vertexclique.com/blog/kovan-from-prod-to-mr/",
+    "score": 6,
+    "date": "2026-03-14",
     "category": "AI News"
   },
   {
@@ -123,34 +123,34 @@
     "source": "@bindureddy",
     "description": "",
     "url": "https://nitter.net/bindureddy/status/2032165125403394291#m",
-    "date": "2026-03-13",
+    "date": "2026-03-14",
     "category": "Twitter"
   },
   {
-    "title": "John Carmack about open source and anti-AI activists",
+    "title": "Show HN: Context Gateway \u2013 Compress agent context before it hits the LLM",
     "source": "Hacker News",
-    "description": "HN Score: 184 | 261 comments",
-    "url": "https://twitter.com/id_aa_carmack/status/2032460578669691171",
-    "score": 184,
-    "date": "2026-03-13",
+    "description": "HN Score: 61 | 45 comments",
+    "url": "https://github.com/Compresr-ai/Context-Gateway",
+    "score": 61,
+    "date": "2026-03-14",
+    "category": "AI News"
+  },
+  {
+    "title": "Launch HN: Spine Swarm (YC S23) \u2013 AI agents that collaborate on a visual canvas",
+    "source": "Hacker News",
+    "description": "HN Score: 86 | 67 comments",
+    "url": "https://www.getspine.ai/",
+    "score": 86,
+    "date": "2026-03-14",
     "category": "AI News"
   },
   {
     "title": "The Wyden Siren Goes Off Again: We'll Be 'Stunned' by NSA Under Section 702",
     "source": "Hacker News",
-    "description": "HN Score: 308 | 99 comments",
+    "description": "HN Score: 378 | 115 comments",
     "url": "https://www.techdirt.com/2026/03/12/the-wyden-siren-goes-off-again-well-be-stunned-by-what-the-nsa-is-doing-under-section-702/",
-    "score": 308,
-    "date": "2026-03-13",
-    "category": "AI News"
-  },
-  {
-    "title": "Okmain: How to pick an OK main colour of an image",
-    "source": "Hacker News",
-    "description": "HN Score: 221 | 42 comments",
-    "url": "https://dgroshev.com/blog/okmain/",
-    "score": 221,
-    "date": "2026-03-13",
+    "score": 378,
+    "date": "2026-03-14",
     "category": "AI News"
   }
 ]
