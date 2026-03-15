@@ -10,9 +10,9 @@
   {
     "title": "Treasure hunter freed from jail after refusing to turn over shipwreck gold",
     "source": "Hacker News",
-    "description": "HN Score: 57 | 54 comments",
+    "description": "HN Score: 76 | 86 comments",
     "url": "https://www.bbc.com/news/articles/cg4g7kn99q3o",
-    "score": 57,
+    "score": 76,
     "date": "2026-03-15",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "Tree Search Distillation for Language Models Using PPO",
     "source": "Hacker News",
-    "description": "HN Score: 48 | 3 comments",
+    "description": "HN Score: 56 | 3 comments",
     "url": "https://ayushtambde.com/blog/tree-search-distillation-for-language-models-using-ppo/",
-    "score": 48,
+    "score": 56,
     "date": "2026-03-15",
     "category": "AI News"
   },
@@ -44,9 +44,9 @@
   {
     "title": "Launching the Claude Partner Network",
     "source": "Hacker News",
-    "description": "HN Score: 128 | 58 comments",
+    "description": "HN Score: 136 | 68 comments",
     "url": "https://www.anthropic.com/news/claude-partner-network",
-    "score": 128,
+    "score": 136,
     "date": "2026-03-15",
     "category": "AI News"
   },
@@ -61,26 +61,26 @@
   {
     "title": "Airbus is preparing two uncrewed combat aircraft",
     "source": "Hacker News",
-    "description": "HN Score: 120 | 66 comments",
+    "description": "HN Score: 130 | 72 comments",
     "url": "https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european",
-    "score": 120,
+    "score": 130,
     "date": "2026-03-15",
     "category": "AI News"
   },
   {
-    "title": "We trained a humanoid with 22-DoF dexterous hands to assemble model cars, operate syringes, sort poker cards, fold/roll shirts, all learned primarily ",
+    "title": "R to @DrJimFan: We would also like to thank our dexterous hand hardware provider, Sharpa, for their great support!",
     "source": "@DrJimFan",
     "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2026709304984875202#m",
+    "url": "https://nitter.net/DrJimFan/status/2026709308713611695#m",
     "date": "2026-03-15",
     "category": "Twitter"
   },
   {
     "title": "Show HN: GrobPaint: Somewhere Between MS Paint and Paint.net",
     "source": "Hacker News",
-    "description": "HN Score: 38 | 5 comments",
+    "description": "HN Score: 41 | 6 comments",
     "url": "https://github.com/groverburger/grobpaint",
-    "score": 38,
+    "score": 41,
     "date": "2026-03-15",
     "category": "AI News"
   },
@@ -95,9 +95,9 @@
   {
     "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
     "source": "Hacker News",
-    "description": "HN Score: 1151 | 489 comments",
+    "description": "HN Score: 1154 | 488 comments",
     "url": "https://claude.com/blog/1m-context-ga",
-    "score": 1151,
+    "score": 1154,
     "date": "2026-03-15",
     "category": "AI News"
   },
@@ -112,9 +112,9 @@
   {
     "title": "Show HN: GitAgent \u2013 An open standard that turns any Git repo into an AI agent",
     "source": "Hacker News",
-    "description": "HN Score: 109 | 17 comments",
+    "description": "HN Score: 114 | 18 comments",
     "url": "https://www.gitagent.sh/",
-    "score": 109,
+    "score": 114,
     "date": "2026-03-15",
     "category": "AI News"
   },
@@ -123,6 +123,23 @@
     "source": "@svpino",
     "description": "",
     "url": "https://nitter.net/svpino/status/2032535110449258786#m",
+    "date": "2026-03-15",
+    "category": "Twitter"
+  },
+  {
+    "title": "Can I run AI locally?",
+    "source": "Hacker News",
+    "description": "HN Score: 1422 | 343 comments",
+    "url": "https://www.canirun.ai/",
+    "score": 1422,
+    "date": "2026-03-15",
+    "category": "AI News"
+  },
+  {
+    "title": "Robotics is becoming very urgent White collar work is literally 12 months from being totally automated The next frontier is blue collar work. Indeed, ",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2032825473202532674#m",
     "date": "2026-03-15",
     "category": "Twitter"
   },
@@ -136,37 +153,11 @@
     "category": "AI News"
   },
   {
-    "title": "Robotics is becoming very urgent White collar work is literally 12 months from being totally automated The next frontier is blue collar work. Indeed, ",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2032825473202532674#m",
-    "date": "2026-03-15",
-    "category": "Twitter"
-  },
-  {
-    "title": "Can I run AI locally?",
-    "source": "Hacker News",
-    "description": "HN Score: 1419 | 339 comments",
-    "url": "https://www.canirun.ai/",
-    "score": 1419,
-    "date": "2026-03-15",
-    "category": "AI News"
-  },
-  {
     "title": "Pro Tip - If possible abandon legacy code and re-do the entire app on a full stack AI-native platform Constrained AI with guardrails is MAGICAL",
     "source": "@bindureddy",
     "description": "",
     "url": "https://nitter.net/bindureddy/status/2032667851858088246#m",
     "date": "2026-03-15",
     "category": "Twitter"
-  },
-  {
-    "title": "My fireside chat about agentic engineering at the Pragmatic Summit",
-    "source": "Hacker News",
-    "description": "HN Score: 13 | 1 comments",
-    "url": "https://simonwillison.net/2026/Mar/14/pragmatic-summit/",
-    "score": 13,
-    "date": "2026-03-15",
-    "category": "AI News"
   }
 ]
