@@ -1,145 +1,92 @@
 [
   {
-    "title": "1\u30da\u30fc\u30b8\u76ee\u3067\u3061\u3083\u3093\u3068\u6253\u6483\u98df\u3089\u3063\u3066\u30ac\u30b3\u30f3\u3057\u3066\u308b\u306e\u3067 \u3042\u308c\u304c\u306a\u304b\u3063\u305f\u3089\u6469\u864e\u7f85\u653b\u7565\u3067\u304d\u3066\u305f\u304b\u3082\u3057\u308c\u3093",
-    "source": "@kaborobot",
-    "description": "",
-    "url": "https://nitter.net/kaborobot/status/2015735996248420451#m",
-    "date": "2026-03-15",
-    "category": "Twitter"
-  },
-  {
-    "title": "Let your Coding Agent debug the browser session with Chrome DevTools MCP",
+    "title": "What Is Agentic Engineering?",
     "source": "Hacker News",
-    "description": "HN Score: 223 | 90 comments",
-    "url": "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session",
-    "score": 223,
-    "date": "2026-03-15",
+    "description": "HN Score: 40 | 28 comments",
+    "url": "https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/",
+    "score": 40,
+    "date": "2026-03-16",
     "category": "AI News"
   },
   {
-    "title": "\u30ec\u30bc\u304c\u300c\u79c1\u306b\u306f\u904e\u304e\u305f\u9858\u3044\u3060\u3063\u305f\u300d\u306a\u3093\u3066\u601d\u3063\u3066\u3044\u307e\u305b\u3093\u3088\u3046\u306b\u3068\u7948\u3063\u3066\u305f\u9023\u4f11\u3060\u3063\u305f",
-    "source": "@kaborobot",
-    "description": "",
-    "url": "https://nitter.net/kaborobot/status/1977673306670330109#m",
-    "date": "2026-03-15",
-    "category": "Twitter"
+    "title": "LLMs can be exhausting",
+    "source": "Hacker News",
+    "description": "HN Score: 94 | 74 comments",
+    "url": "https://tomjohnell.com/llms-can-be-absolutely-exhausting/",
+    "score": 94,
+    "date": "2026-03-16",
+    "category": "AI News"
   },
   {
     "title": "LLM Architecture Gallery",
     "source": "Hacker News",
-    "description": "HN Score: 139 | 6 comments",
+    "description": "HN Score: 267 | 20 comments",
     "url": "https://sebastianraschka.com/llm-architecture-gallery/",
-    "score": 139,
-    "date": "2026-03-15",
+    "score": 267,
+    "date": "2026-03-16",
     "category": "AI News"
   },
   {
-    "title": "RT by @EMostaque: Scientific discovery is reaching the limits of human capacity: too much data, too many disconnected fields, and too few ways to conn",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/ProfBuehlerMIT/status/2032753242493321281#m",
-    "date": "2026-03-15",
-    "category": "Twitter"
+    "title": "A new Bigfoot documentary helps explain our conspiracy-minded era",
+    "source": "Hacker News",
+    "description": "HN Score: 52 | 24 comments",
+    "url": "https://www.msn.com/en-us/news/us/a-new-bigfoot-documentary-helps-explain-our-conspiracy-minded-era/ar-AA1Yv6px",
+    "score": 52,
+    "date": "2026-03-16",
+    "category": "AI News"
+  },
+  {
+    "title": "AI tools are making me lose interest in CS fundamentals",
+    "source": "Hacker News",
+    "description": "HN Score: 12 | 15 comments",
+    "url": "https://news.ycombinator.com/item?id=47394291",
+    "score": 12,
+    "date": "2026-03-16",
+    "category": "AI News"
+  },
+  {
+    "title": "A Plain Anabaptist Story: The Hutterites",
+    "source": "Hacker News",
+    "description": "HN Score: 26 | 1 comments",
+    "url": "https://ulmer457718.substack.com/p/a-plain-anabaptist-story-the-hutterites",
+    "score": 26,
+    "date": "2026-03-16",
+    "category": "AI News"
   },
   {
     "title": "A Visual Introduction to Machine Learning (2015)",
     "source": "Hacker News",
-    "description": "HN Score: 296 | 27 comments",
+    "description": "HN Score: 322 | 29 comments",
     "url": "https://r2d3.us/visual-intro-to-machine-learning-part-1/",
-    "score": 296,
-    "date": "2026-03-15",
+    "score": 322,
+    "date": "2026-03-16",
     "category": "AI News"
   },
   {
-    "title": "RT by @EMostaque: this is so fucking wholesome guy used AI to save his cancer-ridden dog by sequencing its DNA and creating a CUSTOM cure. the tech be",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/cryptopunk7213/status/2032826128306470987#m",
-    "date": "2026-03-15",
-    "category": "Twitter"
-  },
-  {
-    "title": "Ask HN: How is AI-assisted coding going for you professionally?",
+    "title": "SpiceCrypt: A Python library for decrypting LTspice encrypted model files",
     "source": "Hacker News",
-    "description": "HN Score: 161 | 257 comments",
-    "url": "https://news.ycombinator.com/item?id=47388646",
-    "score": 161,
-    "date": "2026-03-15",
+    "description": "HN Score: 3 | 0 comments",
+    "url": "https://github.com/jtsylve/spice-crypt",
+    "score": 3,
+    "date": "2026-03-16",
     "category": "AI News"
   },
   {
-    "title": "R to @DrJimFan: We would also like to thank our dexterous hand hardware provider, Sharpa, for their great support!",
-    "source": "@DrJimFan",
-    "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2026709308713611695#m",
-    "date": "2026-03-15",
-    "category": "Twitter"
-  },
-  {
-    "title": "$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor",
+    "title": "Quillx is an open standard for disclosing AI involvement in software projects",
     "source": "Hacker News",
-    "description": "HN Score: 357 | 329 comments",
-    "url": "https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket",
-    "score": 357,
-    "date": "2026-03-15",
+    "description": "HN Score: 4 | 3 comments",
+    "url": "https://github.com/QAInsights/AIx",
+    "score": 4,
+    "date": "2026-03-16",
     "category": "AI News"
   },
   {
-    "title": "R to @DrJimFan: This is a huge team work at NVIDIA Robotics. Check out @ruijie_zheng12's deep dive: - Website: https://research.nvidia.com/labs/gear/e",
-    "source": "@DrJimFan",
-    "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2026709306629091342#m",
-    "date": "2026-03-15",
-    "category": "Twitter"
-  },
-  {
-    "title": "LessWrong Policy on LLM Use",
+    "title": "Show HN: Free OpenAI API Access with ChatGPT Account",
     "source": "Hacker News",
-    "description": "HN Score: 7 | 1 comments",
-    "url": "https://www.lesswrong.com/posts/nQWavk9mnwcv6ScMR/new-lesswrong-editor-also-an-update-to-our-llm-policy#Policy_on_LLM_Use",
-    "score": 7,
-    "date": "2026-03-15",
+    "description": "HN Score: 36 | 16 comments",
+    "url": "https://github.com/EvanZhouDev/openai-oauth",
+    "score": 36,
+    "date": "2026-03-16",
     "category": "AI News"
-  },
-  {
-    "title": "I still believe this.",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2033207727585890686#m",
-    "date": "2026-03-15",
-    "category": "Twitter"
-  },
-  {
-    "title": "The Appalling Stupidity of Spotify's AI DJ",
-    "source": "Hacker News",
-    "description": "HN Score: 345 | 285 comments",
-    "url": "https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html",
-    "score": 345,
-    "date": "2026-03-15",
-    "category": "AI News"
-  },
-  {
-    "title": "Here is what I ended up doing to process PDF files with Claude Code: 1. I copied the files to a folder 2. I asked Claude Code to read them 3. Claude C",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2032806472426635551#m",
-    "date": "2026-03-15",
-    "category": "Twitter"
-  },
-  {
-    "title": "We are shockingly close to automating frontier model training AI models will train and evaluate new versions of itself GPT 6 will be trained by GPT 5.",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2033229896017997966#m",
-    "date": "2026-03-15",
-    "category": "Twitter"
-  },
-  {
-    "title": "Robotics is becoming very urgent White collar work is literally 12 months from being totally automated The next frontier is blue collar work. Indeed, ",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2032825473202532674#m",
-    "date": "2026-03-15",
-    "category": "Twitter"
   }
 ]
