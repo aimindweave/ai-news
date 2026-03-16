@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Apideck CLI \u2013 An AI-agent interface with much lower context consumption than MCP",
+    "title": "Language Model Teams as Distrbuted Systems",
     "source": "Hacker News",
-    "description": "HN Score: 82 | 81 comments",
-    "url": "https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative",
-    "score": 82,
+    "description": "HN Score: 39 | 8 comments",
+    "url": "https://arxiv.org/abs/2603.12229",
+    "score": 39,
     "date": "2026-03-16",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "Launch HN: Voygr (YC W26) \u2013 A better maps API for agents and AI apps",
     "source": "Hacker News",
-    "description": "HN Score: 35 | 16 comments",
+    "description": "HN Score: 48 | 24 comments",
     "url": "https://news.ycombinator.com/item?id=47401042",
-    "score": 35,
+    "score": 48,
     "date": "2026-03-16",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Language Model Teams as Distrbuted Systems",
+    "title": "Apideck CLI \u2013 An AI-agent interface with much lower context consumption than MCP",
     "source": "Hacker News",
-    "description": "HN Score: 13 | 2 comments",
-    "url": "https://arxiv.org/abs/2603.12229",
-    "score": 13,
+    "description": "HN Score: 94 | 88 comments",
+    "url": "https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative",
+    "score": 94,
     "date": "2026-03-16",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Kaizen (YC P25) Hiring Eng, GTM, Cos to Automate BPOs",
+    "title": "Agent Skills \u2013 Open Security Database",
     "source": "Hacker News",
-    "description": "HN Score: 1 | 0 comments",
-    "url": "https://www.kaizenautomation.com/careers",
-    "score": 1,
+    "description": "HN Score: 27 | 3 comments",
+    "url": "https://index.tego.security/skills/",
+    "score": 27,
     "date": "2026-03-16",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Launch HN: Chamber (YC W26) \u2013 An AI Teammate for GPU Infrastructure",
+    "title": "Nvidia Launches Vera CPU, Purpose-Built for Agentic AI",
     "source": "Hacker News",
-    "description": "HN Score: 8 | 2 comments",
-    "url": "https://www.usechamber.io/",
-    "score": 8,
+    "description": "HN Score: 33 | 8 comments",
+    "url": "https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai",
+    "score": 33,
     "date": "2026-03-16",
     "category": "AI News"
   },
@@ -95,9 +95,26 @@
   {
     "title": "Starlink Mini as a failover",
     "source": "Hacker News",
-    "description": "HN Score: 62 | 86 comments",
+    "description": "HN Score: 115 | 113 comments",
     "url": "https://www.jackpearce.co.uk/posts/starlink-failover/",
-    "score": 62,
+    "score": 115,
+    "date": "2026-03-16",
+    "category": "AI News"
+  },
+  {
+    "title": "PixVerse R1 is a fundamentally different paradigm than everything else: This is a real-time world model. Instead of generating fixed clips, it creates",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2033626443108831240#m",
+    "date": "2026-03-16",
+    "category": "Twitter"
+  },
+  {
+    "title": "Kaizen (YC P25) Hiring Eng, GTM, Cos to Automate BPOs",
+    "source": "Hacker News",
+    "description": "HN Score: 1 | 0 comments",
+    "url": "https://www.kaizenautomation.com/careers",
+    "score": 1,
     "date": "2026-03-16",
     "category": "AI News"
   },
@@ -110,28 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Speed at the cost of quality: Study of use of Cursor AI in open source projects",
+    "title": "Launch HN: Chamber (YC W26) \u2013 An AI Teammate for GPU Infrastructure",
     "source": "Hacker News",
-    "description": "HN Score: 43 | 18 comments",
-    "url": "https://arxiv.org/abs/2511.04427",
-    "score": 43,
-    "date": "2026-03-16",
-    "category": "AI News"
-  },
-  {
-    "title": "Claude is retarded. All of these models are. I wanted to schedule a skill every day at 8:00 am. Claude decided to schedule it at 7:57 am 'to avoid the",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2033522191376306449#m",
-    "date": "2026-03-16",
-    "category": "Twitter"
-  },
-  {
-    "title": "Agent Skills \u2013 Open Security Database",
-    "source": "Hacker News",
-    "description": "HN Score: 8 | 1 comments",
-    "url": "https://index.tego.security/skills/",
-    "score": 8,
+    "description": "HN Score: 17 | 4 comments",
+    "url": "https://www.usechamber.io/",
+    "score": 17,
     "date": "2026-03-16",
     "category": "AI News"
   },
@@ -146,9 +146,9 @@
   {
     "title": "AirPods Max 2",
     "source": "Hacker News",
-    "description": "HN Score: 89 | 180 comments",
+    "description": "HN Score: 124 | 240 comments",
     "url": "https://www.apple.com/airpods-max/",
-    "score": 89,
+    "score": 124,
     "date": "2026-03-16",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Hecate \u2013 Call an AI from Signal",
+    "title": "Show HN: Claude Code skills that build complete Godot games",
     "source": "Hacker News",
-    "description": "HN Score: 4 | 0 comments",
-    "url": "https://github.com/rhodey/hecate",
-    "score": 4,
+    "description": "HN Score: 33 | 12 comments",
+    "url": "https://github.com/htdt/godogen",
+    "score": 33,
     "date": "2026-03-16",
     "category": "AI News"
   }
