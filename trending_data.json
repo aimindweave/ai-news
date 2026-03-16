@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Launch HN: Voygr (YC W26) \u2013 A better maps API for agents and AI apps",
+    "title": "Apideck CLI \u2013 An AI-agent interface with much lower context consumption than MCP",
     "source": "Hacker News",
-    "description": "HN Score: 14 | 6 comments",
-    "url": "https://news.ycombinator.com/item?id=47401042",
-    "score": 14,
+    "description": "HN Score: 82 | 81 comments",
+    "url": "https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative",
+    "score": 82,
     "date": "2026-03-16",
     "category": "AI News"
   },
@@ -21,6 +21,40 @@
     "source": "@kaborobot",
     "description": "",
     "url": "https://nitter.net/kaborobot/status/1977673306670330109#m",
+    "date": "2026-03-16",
+    "category": "Twitter"
+  },
+  {
+    "title": "Launch HN: Voygr (YC W26) \u2013 A better maps API for agents and AI apps",
+    "source": "Hacker News",
+    "description": "HN Score: 35 | 16 comments",
+    "url": "https://news.ycombinator.com/item?id=47401042",
+    "score": 35,
+    "date": "2026-03-16",
+    "category": "AI News"
+  },
+  {
+    "title": "should we start stacking GPUs and training models again",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/EMostaque/status/2033579534558060591#m",
+    "date": "2026-03-16",
+    "category": "Twitter"
+  },
+  {
+    "title": "Language Model Teams as Distrbuted Systems",
+    "source": "Hacker News",
+    "description": "HN Score: 13 | 2 comments",
+    "url": "https://arxiv.org/abs/2603.12229",
+    "score": 13,
+    "date": "2026-03-16",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: Scientific discovery is reaching the limits of human capacity: too much data, too many disconnected fields, and too few ways to conn",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/ProfBuehlerMIT/status/2032753242493321281#m",
     "date": "2026-03-16",
     "category": "Twitter"
   },
@@ -34,40 +68,6 @@
     "category": "AI News"
   },
   {
-    "title": "should we start stacking GPUs and training models again",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/EMostaque/status/2033579534558060591#m",
-    "date": "2026-03-16",
-    "category": "Twitter"
-  },
-  {
-    "title": "Show HN: Hackerbrief \u2013 Top posts on Hacker News summarized daily",
-    "source": "Hacker News",
-    "description": "HN Score: 49 | 36 comments",
-    "url": "https://hackerbrief.vercel.app/",
-    "score": 49,
-    "date": "2026-03-16",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @EMostaque: Scientific discovery is reaching the limits of human capacity: too much data, too many disconnected fields, and too few ways to conn",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/ProfBuehlerMIT/status/2032753242493321281#m",
-    "date": "2026-03-16",
-    "category": "Twitter"
-  },
-  {
-    "title": "How I write software with LLMs",
-    "source": "Hacker News",
-    "description": "HN Score: 406 | 385 comments",
-    "url": "https://www.stavros.io/posts/how-i-write-software-with-llms/",
-    "score": 406,
-    "date": "2026-03-16",
-    "category": "AI News"
-  },
-  {
     "title": "R to @DrJimFan: We would also like to thank our dexterous hand hardware provider, Sharpa, for their great support!",
     "source": "@DrJimFan",
     "description": "",
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "'Pok\u00e9mon Go' players unknowingly trained delivery robots with 30B images",
+    "title": "Launch HN: Chamber (YC W26) \u2013 An AI Teammate for GPU Infrastructure",
     "source": "Hacker News",
-    "description": "HN Score: 97 | 52 comments",
-    "url": "https://www.popsci.com/technology/pokemon-go-delivery-robots-crowdsourcing/",
-    "score": 97,
+    "description": "HN Score: 8 | 2 comments",
+    "url": "https://www.usechamber.io/",
+    "score": 8,
     "date": "2026-03-16",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "LLM Architecture Gallery",
+    "title": "Starlink Mini as a failover",
     "source": "Hacker News",
-    "description": "HN Score: 527 | 40 comments",
-    "url": "https://sebastianraschka.com/llm-architecture-gallery/",
-    "score": 527,
+    "description": "HN Score: 62 | 86 comments",
+    "url": "https://www.jackpearce.co.uk/posts/starlink-failover/",
+    "score": 62,
     "date": "2026-03-16",
     "category": "AI News"
   },
@@ -110,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "LLMs can be exhausting",
+    "title": "Speed at the cost of quality: Study of use of Cursor AI in open source projects",
     "source": "Hacker News",
-    "description": "HN Score: 306 | 197 comments",
-    "url": "https://tomjohnell.com/llms-can-be-absolutely-exhausting/",
-    "score": 306,
+    "description": "HN Score: 43 | 18 comments",
+    "url": "https://arxiv.org/abs/2511.04427",
+    "score": 43,
     "date": "2026-03-16",
     "category": "AI News"
   },
@@ -127,11 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Which jobs are most vulnerable to AI?",
+    "title": "Agent Skills \u2013 Open Security Database",
     "source": "Hacker News",
-    "description": "HN Score: 9 | 7 comments",
-    "url": "https://www.washingtonpost.com/technology/interactive/2026/jobs-most-affected-ai-automation/",
-    "score": 9,
+    "description": "HN Score: 8 | 1 comments",
+    "url": "https://index.tego.security/skills/",
+    "score": 8,
     "date": "2026-03-16",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "A new Bigfoot documentary helps explain our conspiracy-minded era",
+    "title": "AirPods Max 2",
     "source": "Hacker News",
-    "description": "HN Score: 82 | 84 comments",
-    "url": "https://www.msn.com/en-us/news/us/a-new-bigfoot-documentary-helps-explain-our-conspiracy-minded-era/ar-AA1Yv6px",
-    "score": 82,
+    "description": "HN Score: 89 | 180 comments",
+    "url": "https://www.apple.com/airpods-max/",
+    "score": 89,
     "date": "2026-03-16",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "SpiceCrypt: A Python library for decrypting LTspice encrypted model files",
+    "title": "Show HN: Hecate \u2013 Call an AI from Signal",
     "source": "Hacker News",
-    "description": "HN Score: 52 | 16 comments",
-    "url": "https://github.com/jtsylve/spice-crypt",
-    "score": 52,
+    "description": "HN Score: 4 | 0 comments",
+    "url": "https://github.com/rhodey/hecate",
+    "score": 4,
     "date": "2026-03-16",
     "category": "AI News"
   }

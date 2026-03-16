@@ -1,9 +1,37 @@
 [
   {
+    "title": "Nvidia\u2019s DLSS 5 uses generative AI to boost photo-realism in video games, with ambitions beyond gaming",
+    "source": "TechCrunch",
+    "summary": "Nvidia\u2019s new DLSS 5 uses generative AI and structured graphics data to make video games more realistic. CEO Jensen Huang says the approach could eventually spread to other industries.",
+    "url": "https://techcrunch.com/2026/03/16/nvidias-dlss-5-uses-generative-ai-to-boost-photo-realism-in-video-games-with-ambitions-beyond-gaming/",
+    "date": "2026-03-16"
+  },
+  {
     "title": "How to watch Jensen Huang\u2019s Nvidia GTC 2026 keynote \u2014 and what to expect",
     "source": "TechCrunch",
     "summary": "GTC is Nvidia's flagship annual event, where the chipmaker typically announces new products, partnerships, and its vision for the future of computing. Huang's keynote will focus on Nvidia's role in the future of computing and AI.",
     "url": "https://techcrunch.com/2026/03/16/nvidia-gtc-how-to-watch-jensen-huang-2026-keynote/",
+    "date": "2026-03-16"
+  },
+  {
+    "title": "Another deep tech chip startup becomes a unicorn: Frore hits $1.64B",
+    "source": "TechCrunch",
+    "summary": "At Nvidia CEO Jensen Huang's urging, Frore developed liquid-cooling tech for chips. That shift helped it raise $143 million.",
+    "url": "https://techcrunch.com/2026/03/16/another-deep-tech-chip-startup-becomes-a-unicorn-frore-hits-1-64b/",
+    "date": "2026-03-16"
+  },
+  {
+    "title": "Fuse raises $25M to disrupt aging loan origination systems used by US credit unions",
+    "source": "TechCrunch",
+    "summary": "The startup also announced a $5 million 'rescue fund' to help credit unions ditch legacy software for its AI-native platform.",
+    "url": "https://techcrunch.com/2026/03/16/fuse-raises-25m-to-disrupt-aging-loan-origination-systems-used-by-u-s-credit-unions/",
+    "date": "2026-03-16"
+  },
+  {
+    "title": "The dictionary sues OpenAI",
+    "source": "TechCrunch",
+    "summary": "Encyclopedia Britannica and Merriam-Webster say that OpenAI violated the copyright of almost 100,000 articles by using them for LLM training.",
+    "url": "https://techcrunch.com/2026/03/16/merriam-webster-openai-encyclopedia-brittanica-lawsuit/",
     "date": "2026-03-16"
   },
   {
@@ -77,31 +105,10 @@
     "date": "2026-03-16"
   },
   {
-    "title": "The biggest AI stories of the year (so far)",
-    "source": "TechCrunch",
-    "summary": "The AI industry is constantly churning out news, like major acquisitions, indie developer successes, public outcry, and existentially dangerous contract negotiations.",
-    "url": "https://techcrunch.com/2026/03/13/the-biggest-ai-stories-of-the-year-so-far/",
-    "date": "2026-03-16"
-  },
-  {
-    "title": "The wild six weeks for NanoClaw\u2019s creator that led to a deal with Docker",
-    "source": "TechCrunch",
-    "summary": "Gavriel Cohen is living an open source developer's dream as his project has achieved acclaim and a partnership with Docker in a matter of weeks.",
-    "url": "https://techcrunch.com/2026/03/13/the-wild-six-weeks-for-nanoclaws-creator-that-led-to-a-deal-with-docker/",
-    "date": "2026-03-16"
-  },
-  {
-    "title": "Spotify will let you edit your Taste Profile to control your recommendations",
-    "source": "TechCrunch",
-    "summary": "When you edit your Taste Profile, you'll impact your personalized playlists like Discover Weekly, recommendations, and Wrapped.",
-    "url": "https://techcrunch.com/2026/03/13/spotify-will-let-you-edit-your-taste-profile-to-control-your-recommendations/",
-    "date": "2026-03-16"
-  },
-  {
-    "title": "The $32B acquisition that one VC is calling the \u2018Deal of the Decade\u2019",
-    "source": "TechCrunch",
-    "summary": "According to Index Ventures Partner Shardul Shah, cybersecurity startup Wiz sits \u201cat the center of three tailwinds: AI, cloud, and security spend.\u201d Those tailwinds powered what just became the largest venture-backed acquisition in history \u2014 Google s $32 billion deal, finalized after a declined 20...",
-    "url": "https://techcrunch.com/video/the-32b-acquisition-that-one-vc-is-calling-the-deal-of-the-decade/",
+    "title": "Where OpenAI\u2019s technology could show up in Iran",
+    "source": "MIT Tech Review",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. It s been just over two weeks since OpenAI reached a controversial agreement to allow the Pentagon to use its AI in classified environments. There are still pr...",
+    "url": "https://www.technologyreview.com/2026/03/16/1134315/where-openais-technology-could-show-up-in-iran/",
     "date": "2026-03-16"
   },
   {
@@ -165,13 +172,6 @@
     "source": "MIT Tech Review",
     "summary": "The impact of artificial intelligence extends far beyond the digital world and into our everyday lives, across the cars we drive, the appliances in our homes, and medical devices that keep people alive. More and more, product engineers are turning to AI to enhance, validate, and streamline the de...",
     "url": "https://www.technologyreview.com/2026/03/12/1133675/pragmatic-by-design-engineering-ai-for-the-real-world/",
-    "date": "2026-03-16"
-  },
-  {
-    "title": "Brutal times for the US battery industry",
-    "source": "MIT Tech Review",
-    "summary": "Just a few years ago, the battery industry was hot, hot, hot. There was a seemingly infinite number of companies popping up, with shiny new chemistries and massive fundraising rounds. My biggest problem was sifting through the pile to pick the most exciting news to cover. That tide has turned, an...",
-    "url": "https://www.technologyreview.com/2026/03/12/1134197/us-battery-industry/",
     "date": "2026-03-16"
   },
   {
@@ -242,6 +242,13 @@
     "source": "Wired",
     "summary": "The move could position the AI infrastructure powerhouse to quickly compete with OpenAI, Anthropic, and DeepSeek.",
     "url": "https://www.wired.com/story/nvidia-investing-26-billion-open-source-models/",
+    "date": "2026-03-16"
+  },
+  {
+    "title": "OpenAI\u2019s own mental health experts unanimously opposed \u201cnaughty\u201d ChatGPT launch",
+    "source": "Ars Technica",
+    "summary": "OpenAI draws a line between AI \u201csmut\u201d and porn. Experts fear it\u2019s all unhealthy.",
+    "url": "https://arstechnica.com/tech-policy/2026/03/chatgpt-may-soon-become-sexy-suicide-coach-openai-advisor-reportedly-warned/",
     "date": "2026-03-16"
   },
   {
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "Meta accused of 'concealing the facts' about smart glass users' privacy.",
     "url": "https://arstechnica.com/gadgets/2026/03/workers-report-watching-ray-ban-meta-shot-footage-of-people-using-the-bathroom/",
-    "date": "2026-03-16"
-  },
-  {
-    "title": "OpenAI introduces GPT-5.4 with more knowledge-work capability",
-    "source": "Ars Technica",
-    "summary": "Updates come amid user blowback over the company's Pentagon deal.",
-    "url": "https://arstechnica.com/ai/2026/03/openai-introduces-gpt-5-4-with-more-knowledge-work-capability/",
     "date": "2026-03-16"
   }
 ]
