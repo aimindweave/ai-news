@@ -1,5 +1,19 @@
 [
   {
+    "title": "Mistral bets on \u2018build-your-own AI\u2019 as it takes on OpenAI, Anthropic in the enterprise",
+    "source": "TechCrunch",
+    "summary": "Mistral Forge lets enterprises train custom AI models from scratch on their own data, challenging rivals that rely on fine-tuning and retrieval-based approaches.",
+    "url": "https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/",
+    "date": "2026-03-17"
+  },
+  {
+    "title": "Why Garry Tan\u2019s Claude Code setup has gotten so much love, and hate",
+    "source": "TechCrunch",
+    "summary": "Thousands of people are trying Garry Tan's Claude Code setup, which was shared on GitHub. And everyone has an opinion: even Claude, ChatGPT, and Gemini.",
+    "url": "https://techcrunch.com/2026/03/17/why-garry-tans-claude-code-setup-has-gotten-so-much-love-and-hate/",
+    "date": "2026-03-17"
+  },
+  {
     "title": "The Pentagon is developing alternatives to Anthropic, report says",
     "source": "TechCrunch",
     "summary": "After their dramatic falling-out, it doesn't seem as though Anthropic and the Pentagon are getting back together.",
@@ -88,20 +102,6 @@
     "source": "TechCrunch",
     "summary": "Memories.ai is building a large visual memory model that can index and retrieve video-recorded memories for physical AI.",
     "url": "https://techcrunch.com/2026/03/16/memories-ai-is-building-the-visual-memory-layer-for-wearables-and-robotics/",
-    "date": "2026-03-17"
-  },
-  {
-    "title": "Elon Musk\u2019s xAI faces child porn lawsuit from minors Grok allegedly undressed",
-    "source": "TechCrunch",
-    "summary": "The three plaintiffs are seeking to represent anyone who had real images of them as a minor altered into sexual content by Grok.",
-    "url": "https://techcrunch.com/2026/03/16/elon-musks-xai-faces-child-porn-lawsuit-from-minors-grok-allegedly-undressed/",
-    "date": "2026-03-17"
-  },
-  {
-    "title": "Nvidia\u2019s DLSS 5 uses generative AI to boost photorealism in video games, with ambitions beyond gaming",
-    "source": "TechCrunch",
-    "summary": "Nvidia\u2019s new DLSS 5 uses generative AI and structured graphics data to make video games more realistic. CEO Jensen Huang says the approach could eventually spread to other industries.",
-    "url": "https://techcrunch.com/2026/03/16/nvidias-dlss-5-uses-generative-ai-to-boost-photo-realism-in-video-games-with-ambitions-beyond-gaming/",
     "date": "2026-03-17"
   },
   {
@@ -245,6 +245,13 @@
     "date": "2026-03-17"
   },
   {
+    "title": "How World ID wants to put a unique human identity on every AI agent",
+    "source": "Ars Technica",
+    "summary": "Iris-scan backed tokens could help stop agent swarms from overwhelming online systems.",
+    "url": "https://arstechnica.com/ai/2026/03/world-id-wants-you-to-put-a-cryptographically-unique-human-identity-behind-your-ai-agents/",
+    "date": "2026-03-17"
+  },
+  {
     "title": "Gamers react with overwhelming disgust to DLSS 5's generative AI glow-ups",
     "source": "Ars Technica",
     "summary": "Nvidia's next frame-gen tech goes way beyond upscaling, and not in a good way.",
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "AWS has suffered at least two incidents linked to the use of AI coding assistants.",
     "url": "https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/",
-    "date": "2026-03-17"
-  },
-  {
-    "title": "Google's new command-line tool can plug OpenClaw into your Workspace data",
-    "source": "Ars Technica",
-    "summary": "This could make it easier to use multiple Workspace APIs, but it's not yet an official Google product.",
-    "url": "https://arstechnica.com/ai/2026/03/googles-new-command-line-tool-can-plug-openclaw-into-your-workspace-data/",
     "date": "2026-03-17"
   }
 ]
