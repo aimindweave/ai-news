@@ -10,9 +10,9 @@
   {
     "title": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
     "source": "Hacker News",
-    "description": "HN Score: 574 | 122 comments",
+    "description": "HN Score: 619 | 136 comments",
     "url": "https://mistral.ai/news/leanstral",
-    "score": 574,
+    "score": 619,
     "date": "2026-03-17",
     "category": "AI News"
   },
@@ -25,28 +25,62 @@
     "category": "Twitter"
   },
   {
-    "title": "Claude Tips for 3D Work",
+    "title": "Silicon Valley's 'Pronatalists' Killed WFH. The Strait of Hormuz Brought It Back",
     "source": "Hacker News",
-    "description": "HN Score: 94 | 19 comments",
-    "url": "https://www.davesnider.com/posts/claude-3d",
-    "score": 94,
+    "description": "HN Score: 18 | 4 comments",
+    "url": "https://www.governance.fyi/p/silicon-valleys-pronatalists-killed",
+    "score": 18,
     "date": "2026-03-17",
     "category": "AI News"
   },
   {
-    "title": "R to @DrJimFan: We would also like to thank our dexterous hand hardware provider, Sharpa, for their great support!",
+    "title": "RT by @EMostaque: x.com/i/article/202978995380\u2026",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/DaveShapi/status/2033886866810736777#m",
+    "date": "2026-03-17",
+    "category": "Twitter"
+  },
+  {
+    "title": "Ryugu asteroid samples contain all DNA and RNA building blocks",
+    "source": "Hacker News",
+    "description": "HN Score: 30 | 24 comments",
+    "url": "https://phys.org/news/2026-03-ryugu-asteroid-samples-dna-rna.html",
+    "score": 30,
+    "date": "2026-03-17",
+    "category": "AI News"
+  },
+  {
+    "title": "should we start stacking GPUs and training models again",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/EMostaque/status/2033579534558060591#m",
+    "date": "2026-03-17",
+    "category": "Twitter"
+  },
+  {
+    "title": "Claude Tips for 3D Work",
+    "source": "Hacker News",
+    "description": "HN Score: 134 | 29 comments",
+    "url": "https://www.davesnider.com/posts/claude-3d",
+    "score": 134,
+    "date": "2026-03-17",
+    "category": "AI News"
+  },
+  {
+    "title": "We trained a humanoid with 22-DoF dexterous hands to assemble model cars, operate syringes, sort poker cards, fold/roll shirts, all learned primarily ",
     "source": "@DrJimFan",
     "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2026709308713611695#m",
+    "url": "https://nitter.net/DrJimFan/status/2026709304984875202#m",
     "date": "2026-03-17",
     "category": "Twitter"
   },
   {
     "title": "Starlink Mini as a failover",
     "source": "Hacker News",
-    "description": "HN Score: 262 | 199 comments",
+    "description": "HN Score: 284 | 208 comments",
     "url": "https://www.jackpearce.co.uk/posts/starlink-failover/",
-    "score": 262,
+    "score": 284,
     "date": "2026-03-17",
     "category": "AI News"
   },
@@ -61,26 +95,26 @@
   {
     "title": "AirPods Max 2",
     "source": "Hacker News",
-    "description": "HN Score: 283 | 475 comments",
+    "description": "HN Score: 297 | 490 comments",
     "url": "https://www.apple.com/airpods-max/",
-    "score": 283,
+    "score": 297,
     "date": "2026-03-17",
     "category": "AI News"
   },
   {
-    "title": "RT by @svpino: Claude is retarded. All of these models are. I wanted to schedule a skill every day at 8:00 am. Claude decided to schedule it at 7:57 a",
+    "title": "Let's be honest, most people ain't checking the code they're writing with AI. Yeah, it may be important, and we are always yapping about how you gotta",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2033522191376306449#m",
+    "url": "https://nitter.net/svpino/status/2033884831290167742#m",
     "date": "2026-03-17",
     "category": "Twitter"
   },
   {
     "title": "Speed at the cost of quality: Study of use of Cursor AI in open source projects (2025)",
     "source": "Hacker News",
-    "description": "HN Score: 118 | 66 comments",
+    "description": "HN Score: 123 | 69 comments",
     "url": "https://arxiv.org/abs/2511.04427",
-    "score": 118,
+    "score": 123,
     "date": "2026-03-17",
     "category": "AI News"
   },
@@ -95,9 +129,9 @@
   {
     "title": "Language model teams as distributed systems",
     "source": "Hacker News",
-    "description": "HN Score: 94 | 39 comments",
+    "description": "HN Score: 95 | 40 comments",
     "url": "https://arxiv.org/abs/2603.12229",
-    "score": 94,
+    "score": 95,
     "date": "2026-03-17",
     "category": "AI News"
   },
@@ -112,7 +146,7 @@
   {
     "title": "Launch HN: Voygr (YC W26) \u2013 A better maps API for agents and AI apps",
     "source": "Hacker News",
-    "description": "HN Score: 75 | 57 comments",
+    "description": "HN Score: 75 | 59 comments",
     "url": "https://news.ycombinator.com/item?id=47401042",
     "score": 75,
     "date": "2026-03-17",
@@ -129,27 +163,9 @@
   {
     "title": "Apideck CLI \u2013 An AI-agent interface with much lower context consumption than MCP",
     "source": "Hacker News",
-    "description": "HN Score: 130 | 110 comments",
+    "description": "HN Score: 131 | 111 comments",
     "url": "https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative",
-    "score": 130,
-    "date": "2026-03-17",
-    "category": "AI News"
-  },
-  {
-    "title": "Show HN: Claude Code skills that build complete Godot games",
-    "source": "Hacker News",
-    "description": "HN Score: 258 | 161 comments",
-    "url": "https://github.com/htdt/godogen",
-    "score": 258,
-    "date": "2026-03-17",
-    "category": "AI News"
-  },
-  {
-    "title": "Bill C-22, the Lawful Access Act: Dangerous backdoor surveillance risks remain",
-    "source": "Hacker News",
-    "description": "HN Score: 987 | 327 comments",
-    "url": "https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/",
-    "score": 987,
+    "score": 131,
     "date": "2026-03-17",
     "category": "AI News"
   }

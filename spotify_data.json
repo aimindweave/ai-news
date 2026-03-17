@@ -94,6 +94,16 @@
   "episodes": [
     {
       "id": "a]6z Pod_0",
+      "name": "What's Missing Between LLMs and AGI - Vishal Misra & Martin Casado",
+      "show": "a]6z Podcast",
+      "description": "Vishal Misra returns to explain his latest research on how LLMs actually work under the hood. He walks through experiments showing that transformers update their predictions in a precise, mathemati",
+      "release_date": "2026-03-17",
+      "duration_min": 47,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
+      "id": "a]6z Pod_1",
       "name": "AI Startups vs. Big Chatbots — With Olivia Moore",
       "show": "a]6z Podcast",
       "description": "In this episode, originally aired on Big Technology Podcast, Olivia Moore discusses whether AI startups can compete with the big chatbots, why American sentiment toward AI is so negative, and what ",
@@ -103,7 +113,7 @@
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "Marc Andreessen on the Mindset of Great Founders — with David Senra",
       "show": "a]6z Podcast",
       "description": "Marc Andreessen joins David Senra for a conversation about entrepreneurship, history, and what drives some of the world’s most ambitious builders.\nIn this conversation with David, Marc refle",
@@ -121,16 +131,6 @@
       "duration_min": 66,
       "image": "",
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
-    },
-    {
-      "id": "a]6z Pod_2",
-      "name": "Emil Michael: Iran, Anthropic and the Future of AI at the Pentagon",
-      "show": "a]6z Podcast",
-      "description": "This conversation with Emil Michael, undersecretary of defense for research and engineering and acting director of the Defense Innovation Unit, was recorded at the a16z American Dynamism Summit in ",
-      "release_date": "2026-03-13",
-      "duration_min": 27,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
       "id": "The AI P_0",
