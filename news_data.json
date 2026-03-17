@@ -1,5 +1,26 @@
 [
   {
+    "title": "Google\u2019s Personal Intelligence feature is expanding to all US users",
+    "source": "TechCrunch",
+    "summary": "Personal Intelligence allows Google's AI assistant to tap into your Google ecosystem, such as Gmail and Google Photos, to provide more tailored responses.",
+    "url": "https://techcrunch.com/2026/03/17/googles-personal-intelligence-feature-is-expanding-to-all-us-users/",
+    "date": "2026-03-17"
+  },
+  {
+    "title": "OpenAI expands government footprint with AWS deal, report says",
+    "source": "TechCrunch",
+    "summary": "OpenAI has reportedly signed a partnership with AWS to sell its AI systems to the U.S. government for classified and unclassified work, marking an expansion beyond its Pentagon deal last month.",
+    "url": "https://techcrunch.com/2026/03/17/openai-expands-government-footprint-with-aws-deal/",
+    "date": "2026-03-17"
+  },
+  {
+    "title": "AI\u2019s \u2018boys\u2019 club\u2019 could widen the wealth gap for women, says Rana el Kaliouby",
+    "source": "TechCrunch",
+    "summary": "AI investor Rana el Kaliouby warns that if women are shut out of AI funding and leadership, the consequences will be grim.",
+    "url": "https://techcrunch.com/2026/03/17/ais-boys-club-could-widen-the-wealth-gap-for-women-says-rana-el-kaliouby/",
+    "date": "2026-03-17"
+  },
+  {
     "title": "World launches tool to verify humans behind AI shopping agents",
     "source": "TechCrunch",
     "summary": "As AI agents take the reins for online shoppers, Sam Altman's unconventional startup is looking to expand its verification offerings to support agentic commerce.",
@@ -14,7 +35,7 @@
     "date": "2026-03-17"
   },
   {
-    "title": "Gamma adds AI image generation tools in bid to take on Canva and Adobe",
+    "title": "Gamma adds AI image-generation tools in bid to take on Canva and Adobe",
     "source": "TechCrunch",
     "summary": "The company's new product, called Gamma Imagine, will let users employ text prompts to create brand-specific assets like interactive charts and visualizations, marketing collateral, social graphics, and infographics.",
     "url": "https://techcrunch.com/2026/03/17/gamma-adds-ai-image-generation-tools-in-bid-to-take-on-canva-and-adobe/",
@@ -81,27 +102,6 @@
     "source": "TechCrunch",
     "summary": "At Nvidia CEO Jensen Huang's urging, Frore developed liquid-cooling tech for chips. That shift helped it raise $143 million.",
     "url": "https://techcrunch.com/2026/03/16/another-deep-tech-chip-startup-becomes-a-unicorn-frore-hits-1-64b/",
-    "date": "2026-03-17"
-  },
-  {
-    "title": "Fuse raises $25M to disrupt aging loan origination systems used by US credit unions",
-    "source": "TechCrunch",
-    "summary": "The startup also announced a $5 million 'rescue fund' to help credit unions ditch legacy software for its AI-native platform.",
-    "url": "https://techcrunch.com/2026/03/16/fuse-raises-25m-to-disrupt-aging-loan-origination-systems-used-by-u-s-credit-unions/",
-    "date": "2026-03-17"
-  },
-  {
-    "title": "The dictionary sues OpenAI",
-    "source": "TechCrunch",
-    "summary": "Encyclopedia Britannica and Merriam-Webster say that OpenAI violated the copyright of almost 100,000 articles by using them for LLM training.",
-    "url": "https://techcrunch.com/2026/03/16/merriam-webster-openai-encyclopedia-brittanica-lawsuit/",
-    "date": "2026-03-17"
-  },
-  {
-    "title": "Google, Accel India accelerator chooses 5 startups and none are \u2018AI wrappers\u2019",
-    "source": "TechCrunch",
-    "summary": "Google and Accel say about 70% of AI startup pitches tied to India were 'wrappers' as they reviewed more than 4,000 applications for their Atoms cohort.",
-    "url": "https://techcrunch.com/2026/03/15/google-and-accel-cut-through-wrappers-in-4000-ai-startup-pitches-to-pick-five-tied-to-india/",
     "date": "2026-03-17"
   },
   {
@@ -245,6 +245,13 @@
     "date": "2026-03-17"
   },
   {
+    "title": "Gamers react with overwhelming disgust to DLSS 5's generative AI glow-ups",
+    "source": "Ars Technica",
+    "summary": "Nvidia's next frame-gen tech goes way beyond upscaling, and not in a good way",
+    "url": "https://arstechnica.com/gaming/2026/03/gamers-react-with-overwhelming-disgust-to-dlss-5s-generative-ai-glow-ups/",
+    "date": "2026-03-17"
+  },
+  {
     "title": "Elon Musk's xAI sued for turning three girls' real photos into AI CSAM",
     "source": "Ars Technica",
     "summary": "Discord user led cops to Grok-generated CSAM of real girls, lawsuit says.",
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "This could make it easier to use multiple Workspace APIs, but it's not yet an official Google product.",
     "url": "https://arstechnica.com/ai/2026/03/googles-new-command-line-tool-can-plug-openclaw-into-your-workspace-data/",
-    "date": "2026-03-17"
-  },
-  {
-    "title": "Musk fails to block California data disclosure law he fears will ruin xAI",
-    "source": "Ars Technica",
-    "summary": "Musk can't convince judge public doesn\u2019t care about where AI training data comes from.",
-    "url": "https://arstechnica.com/tech-policy/2026/03/musk-fails-to-block-california-data-disclosure-law-he-fears-will-ruin-xai/",
     "date": "2026-03-17"
   }
 ]
