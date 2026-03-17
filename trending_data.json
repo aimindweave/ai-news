@@ -10,9 +10,9 @@
   {
     "title": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
     "source": "Hacker News",
-    "description": "HN Score: 427 | 89 comments",
+    "description": "HN Score: 505 | 99 comments",
     "url": "https://mistral.ai/news/leanstral",
-    "score": 427,
+    "score": 505,
     "date": "2026-03-17",
     "category": "AI News"
   },
@@ -27,43 +27,9 @@
   {
     "title": "Claude Tips for 3D Work",
     "source": "Hacker News",
-    "description": "HN Score: 46 | 2 comments",
+    "description": "HN Score: 73 | 14 comments",
     "url": "https://www.davesnider.com/posts/claude-3d",
-    "score": 46,
-    "date": "2026-03-17",
-    "category": "AI News"
-  },
-  {
-    "title": "should we start stacking GPUs and training models again",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/EMostaque/status/2033579534558060591#m",
-    "date": "2026-03-17",
-    "category": "Twitter"
-  },
-  {
-    "title": "Starlink Mini as a failover",
-    "source": "Hacker News",
-    "description": "HN Score: 243 | 184 comments",
-    "url": "https://www.jackpearce.co.uk/posts/starlink-failover/",
-    "score": 243,
-    "date": "2026-03-17",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @EMostaque: Scientific discovery is reaching the limits of human capacity: too much data, too many disconnected fields, and too few ways to conn",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/ProfBuehlerMIT/status/2032753242493321281#m",
-    "date": "2026-03-17",
-    "category": "Twitter"
-  },
-  {
-    "title": "AirPods Max 2",
-    "source": "Hacker News",
-    "description": "HN Score: 263 | 444 comments",
-    "url": "https://www.apple.com/airpods-max/",
-    "score": 263,
+    "score": 73,
     "date": "2026-03-17",
     "category": "AI News"
   },
@@ -76,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Claude Code skills that build complete Godot games",
+    "title": "Starlink Mini as a failover",
     "source": "Hacker News",
-    "description": "HN Score: 233 | 137 comments",
-    "url": "https://github.com/htdt/godogen",
-    "score": 233,
+    "description": "HN Score: 255 | 185 comments",
+    "url": "https://www.jackpearce.co.uk/posts/starlink-failover/",
+    "score": 255,
     "date": "2026-03-17",
     "category": "AI News"
   },
@@ -93,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Language model teams as distributed systems",
+    "title": "AirPods Max 2",
     "source": "Hacker News",
-    "description": "HN Score: 89 | 39 comments",
-    "url": "https://arxiv.org/abs/2603.12229",
-    "score": 89,
+    "description": "HN Score: 276 | 455 comments",
+    "url": "https://www.apple.com/airpods-max/",
+    "score": 276,
     "date": "2026-03-17",
     "category": "AI News"
   },
@@ -110,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Launch HN: Voygr (YC W26) \u2013 A better maps API for agents and AI apps",
+    "title": "Speed at the cost of quality: Study of use of Cursor AI in open source projects (2025)",
     "source": "Hacker News",
-    "description": "HN Score: 72 | 57 comments",
-    "url": "https://news.ycombinator.com/item?id=47401042",
-    "score": 72,
+    "description": "HN Score: 109 | 61 comments",
+    "url": "https://arxiv.org/abs/2511.04427",
+    "score": 109,
     "date": "2026-03-17",
     "category": "AI News"
   },
@@ -127,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Apideck CLI \u2013 An AI-agent interface with much lower context consumption than MCP",
+    "title": "Language model teams as distributed systems",
     "source": "Hacker News",
-    "description": "HN Score: 128 | 108 comments",
-    "url": "https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative",
-    "score": 128,
+    "description": "HN Score: 91 | 39 comments",
+    "url": "https://arxiv.org/abs/2603.12229",
+    "score": 91,
     "date": "2026-03-17",
     "category": "AI News"
   },
@@ -144,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Bill C-22, the Lawful Access Act: Dangerous backdoor surveillance risks remain",
+    "title": "Show HN: Claude Code skills that build complete Godot games",
     "source": "Hacker News",
-    "description": "HN Score: 983 | 320 comments",
-    "url": "https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/",
-    "score": 983,
+    "description": "HN Score: 247 | 152 comments",
+    "url": "https://github.com/htdt/godogen",
+    "score": 247,
     "date": "2026-03-17",
     "category": "AI News"
   },
@@ -161,11 +127,29 @@
     "category": "Twitter"
   },
   {
-    "title": "Nvidia Launches Vera CPU, Purpose-Built for Agentic AI",
+    "title": "Launch HN: Voygr (YC W26) \u2013 A better maps API for agents and AI apps",
     "source": "Hacker News",
-    "description": "HN Score: 154 | 87 comments",
-    "url": "https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai",
-    "score": 154,
+    "description": "HN Score: 73 | 57 comments",
+    "url": "https://news.ycombinator.com/item?id=47401042",
+    "score": 73,
+    "date": "2026-03-17",
+    "category": "AI News"
+  },
+  {
+    "title": "Apideck CLI \u2013 An AI-agent interface with much lower context consumption than MCP",
+    "source": "Hacker News",
+    "description": "HN Score: 128 | 108 comments",
+    "url": "https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative",
+    "score": 128,
+    "date": "2026-03-17",
+    "category": "AI News"
+  },
+  {
+    "title": "Bill C-22, the Lawful Access Act: Dangerous backdoor surveillance risks remain",
+    "source": "Hacker News",
+    "description": "HN Score: 985 | 323 comments",
+    "url": "https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/",
+    "score": 985,
     "date": "2026-03-17",
     "category": "AI News"
   }
