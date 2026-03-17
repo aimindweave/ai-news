@@ -93,6 +93,16 @@
   ],
   "episodes": [
     {
+      "id": "Practica_0",
+      "name": "Humility in the Age of Agentic Coding",
+      "show": "Practical AI",
+      "description": "\n        What happens when an AI hater starts building with AI agents? In this episode, we talk with software engineer Steve Klabnik, known for his work on the Rust programming language, about his ",
+      "release_date": "2026-03-17",
+      "duration_min": 55,
+      "image": "",
+      "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
+    },
+    {
       "id": "a]6z Pod_0",
       "name": "What's Missing Between LLMs and AGI - Vishal Misra & Martin Casado",
       "show": "a]6z Podcast",
@@ -163,7 +173,7 @@
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
     },
     {
-      "id": "Practica_0",
+      "id": "Practica_1",
       "name": "AI policy and the battle for computing power",
       "show": "Practical AI",
       "description": "\n        AI is reshaping global power, from chip manufacturing and computing power to AI governance and US-China relations.  In this episode, Ben Buchanan, Assistant Professor at The Johns Hopkins ",
@@ -233,22 +243,12 @@
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
     },
     {
-      "id": "Practica_1",
+      "id": "Practica_2",
       "name": "Cognitive Synthesis and Neural Athletes",
       "show": "Practical AI",
       "description": "\n        As AI accelerates innovation and adoption, leaders are facing rising cognitive load, shifting systems, and new emotional realities inside their organizations. In this episode, Deloitte’s C",
       "release_date": "2026-02-18",
       "duration_min": 52,
-      "image": "",
-      "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
-    },
-    {
-      "id": "Practica_2",
-      "name": "AI incidents, audits, and the limits of benchmarks",
-      "show": "Practical AI",
-      "description": "\n        AI is moving fast from research to real-world deployment, and when things go wrong, the consequences are no longer hypothetical. In this episode, Sean McGregor, co-founder of the AI Verifi",
-      "release_date": "2026-02-13",
-      "duration_min": 42,
       "image": "",
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
