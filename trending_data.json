@@ -1,5 +1,39 @@
 [
   {
+    "title": "1\u30da\u30fc\u30b8\u76ee\u3067\u3061\u3083\u3093\u3068\u6253\u6483\u98df\u3089\u3063\u3066\u30ac\u30b3\u30f3\u3057\u3066\u308b\u306e\u3067 \u3042\u308c\u304c\u306a\u304b\u3063\u305f\u3089\u6469\u864e\u7f85\u653b\u7565\u3067\u304d\u3066\u305f\u304b\u3082\u3057\u308c\u3093",
+    "source": "@kaborobot",
+    "description": "",
+    "url": "https://nitter.net/kaborobot/status/2015735996248420451#m",
+    "date": "2026-03-19",
+    "category": "Twitter"
+  },
+  {
+    "title": "A sufficiently detailed spec is code",
+    "source": "Hacker News",
+    "description": "HN Score: 82 | 28 comments",
+    "url": "https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code",
+    "score": 82,
+    "date": "2026-03-19",
+    "category": "AI News"
+  },
+  {
+    "title": "\u30ec\u30bc\u304c\u300c\u79c1\u306b\u306f\u904e\u304e\u305f\u9858\u3044\u3060\u3063\u305f\u300d\u306a\u3093\u3066\u601d\u3063\u3066\u3044\u307e\u305b\u3093\u3088\u3046\u306b\u3068\u7948\u3063\u3066\u305f\u9023\u4f11\u3060\u3063\u305f",
+    "source": "@kaborobot",
+    "description": "",
+    "url": "https://nitter.net/kaborobot/status/1977673306670330109#m",
+    "date": "2026-03-19",
+    "category": "Twitter"
+  },
+  {
+    "title": "Cook: A simple CLI for orchestrating Claude Code",
+    "source": "Hacker News",
+    "description": "HN Score: 96 | 23 comments",
+    "url": "https://rjcorwin.github.io/cook/",
+    "score": 96,
+    "date": "2026-03-19",
+    "category": "AI News"
+  },
+  {
     "title": "RT by @EMostaque: Einstein submitted his paper \u201cThe Foundations of the General Theory of Relativity\u201d to Annalen der Physik this week in 1916. It colle",
     "source": "@EMostaque",
     "description": "",
@@ -8,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Duplicate 3 layers in a 24B LLM, logical deduction .22\u2192.76. No training",
+    "title": "Book: The Emerging Science of Machine Learning Benchmarks",
     "source": "Hacker News",
-    "description": "HN Score: 79 | 23 comments",
-    "url": "https://github.com/alainnothere/llm-circuit-finder",
-    "score": 79,
+    "description": "HN Score: 105 | 5 comments",
+    "url": "https://mlbenchmarks.org/00-preface.html",
+    "score": 105,
     "date": "2026-03-19",
     "category": "AI News"
   },
@@ -27,9 +61,9 @@
   {
     "title": "The math that explains why bell curves are everywhere",
     "source": "Hacker News",
-    "description": "HN Score: 64 | 26 comments",
+    "description": "HN Score: 88 | 51 comments",
     "url": "https://www.quantamagazine.org/the-math-that-explains-why-bell-curves-are-everywhere-20260316/",
-    "score": 64,
+    "score": 88,
     "date": "2026-03-19",
     "category": "AI News"
   },
@@ -42,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Cook: A simple CLI for orchestrating Claude Code",
+    "title": "OpenAI Has New Focus (on the IPO)",
     "source": "Hacker News",
-    "description": "HN Score: 4 | 0 comments",
-    "url": "https://rjcorwin.github.io/cook/",
-    "score": 4,
+    "description": "HN Score: 190 | 170 comments",
+    "url": "https://om.co/2026/03/17/openai-has-new-focus-on-the-ipo/",
+    "score": 190,
     "date": "2026-03-19",
     "category": "AI News"
   },
@@ -59,11 +93,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Book: The Emerging Science of Machine Learning Benchmarks",
+    "title": "Trevor Milton is raising funds for a new jet he claims will transform flying",
     "source": "Hacker News",
-    "description": "HN Score: 93 | 4 comments",
-    "url": "https://mlbenchmarks.org/00-preface.html",
-    "score": 93,
+    "description": "HN Score: 114 | 174 comments",
+    "url": "https://www.wsj.com/business/trevor-milton-pardon-nikola-trump-3163e19c",
+    "score": 114,
+    "date": "2026-03-19",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: You would never remodel your kitchen without a plan. You would never shoot a movie without a script. You would never fly a plane withou",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2034302390191714573#m",
+    "date": "2026-03-19",
+    "category": "Twitter"
+  },
+  {
+    "title": "Show HN: Tmux-IDE, OSS agent-first terminal IDE",
+    "source": "Hacker News",
+    "description": "HN Score: 75 | 36 comments",
+    "url": "https://tmux.thijsverreck.com",
+    "score": 75,
     "date": "2026-03-19",
     "category": "AI News"
   },
@@ -76,45 +127,28 @@
     "category": "Twitter"
   },
   {
-    "title": "OpenAI Has New Focus (on the IPO)",
+    "title": "An industrial piping contractor on Claude Code [video]",
     "source": "Hacker News",
-    "description": "HN Score: 158 | 153 comments",
-    "url": "https://om.co/2026/03/17/openai-has-new-focus-on-the-ipo/",
-    "score": 158,
+    "description": "HN Score: 15 | 2 comments",
+    "url": "https://twitter.com/toddsaunders/status/2034243420147859716",
+    "score": 15,
     "date": "2026-03-19",
     "category": "AI News"
   },
   {
-    "title": "RT by @svpino: A few weeks ago, a friend of mine stopped contributing to a few open source projects he's been working on for decades. He just stopped.",
-    "source": "@svpino",
+    "title": "Open source continues to catch up with closed source MiniMax 2.7 just dropped and will likely become the most used LLM on Claw in days \ud83d\ude80",
+    "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2034247709633470945#m",
+    "url": "https://nitter.net/bindureddy/status/2034463774724501834#m",
     "date": "2026-03-19",
     "category": "Twitter"
   },
   {
     "title": "Ask HN: How do you deal with people who trust LLMs?",
     "source": "Hacker News",
-    "description": "HN Score: 49 | 60 comments",
+    "description": "HN Score: 94 | 103 comments",
     "url": "https://news.ycombinator.com/item?id=47433702",
-    "score": 49,
-    "date": "2026-03-19",
-    "category": "AI News"
-  },
-  {
-    "title": "It\u2019s alarming how much the lower income developing companies are embracing AI While the first world including the US is shunning it This trend will on",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2034448306601099678#m",
-    "date": "2026-03-19",
-    "category": "Twitter"
-  },
-  {
-    "title": "Show HN: Tmux-IDE, OSS agent-first terminal IDE",
-    "source": "Hacker News",
-    "description": "HN Score: 69 | 35 comments",
-    "url": "https://tmux.thijsverreck.com",
-    "score": 69,
+    "score": 94,
     "date": "2026-03-19",
     "category": "AI News"
   },
@@ -127,29 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Trevor Milton is raising funds for a new jet he claims will transform flying",
+    "title": "A BEAM-native personal autonomous AI agent built on Elixir/OTP",
     "source": "Hacker News",
-    "description": "HN Score: 95 | 155 comments",
-    "url": "https://www.wsj.com/business/trevor-milton-pardon-nikola-trump-3163e19c",
-    "score": 95,
-    "date": "2026-03-19",
-    "category": "AI News"
-  },
-  {
-    "title": "Show HN: ATO \u2013 a GUI to see and fix what your LLM agents configured",
-    "source": "Hacker News",
-    "description": "HN Score: 3 | 0 comments",
-    "url": "https://github.com/WillNigri/Agentic-Tool-Optimization",
-    "score": 3,
-    "date": "2026-03-19",
-    "category": "AI News"
-  },
-  {
-    "title": "An industrial piping contractor on Claude Code [video]",
-    "source": "Hacker News",
-    "description": "HN Score: 9 | 0 comments",
-    "url": "https://twitter.com/toddsaunders/status/2034243420147859716",
-    "score": 9,
+    "description": "HN Score: 11 | 0 comments",
+    "url": "https://github.com/thatsme/AlexClaw",
+    "score": 11,
     "date": "2026-03-19",
     "category": "AI News"
   }
