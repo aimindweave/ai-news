@@ -1,39 +1,5 @@
 [
   {
-    "title": "1\u30da\u30fc\u30b8\u76ee\u3067\u3061\u3083\u3093\u3068\u6253\u6483\u98df\u3089\u3063\u3066\u30ac\u30b3\u30f3\u3057\u3066\u308b\u306e\u3067 \u3042\u308c\u304c\u306a\u304b\u3063\u305f\u3089\u6469\u864e\u7f85\u653b\u7565\u3067\u304d\u3066\u305f\u304b\u3082\u3057\u308c\u3093",
-    "source": "@kaborobot",
-    "description": "",
-    "url": "https://nitter.net/kaborobot/status/2015735996248420451#m",
-    "date": "2026-03-19",
-    "category": "Twitter"
-  },
-  {
-    "title": "Astral to Join OpenAI",
-    "source": "Hacker News",
-    "description": "HN Score: 896 | 579 comments",
-    "url": "https://astral.sh/blog/openai",
-    "score": 896,
-    "date": "2026-03-19",
-    "category": "AI News"
-  },
-  {
-    "title": "\u30ec\u30bc\u304c\u300c\u79c1\u306b\u306f\u904e\u304e\u305f\u9858\u3044\u3060\u3063\u305f\u300d\u306a\u3093\u3066\u601d\u3063\u3066\u3044\u307e\u305b\u3093\u3088\u3046\u306b\u3068\u7948\u3063\u3066\u305f\u9023\u4f11\u3060\u3063\u305f",
-    "source": "@kaborobot",
-    "description": "",
-    "url": "https://nitter.net/kaborobot/status/1977673306670330109#m",
-    "date": "2026-03-19",
-    "category": "Twitter"
-  },
-  {
-    "title": "Show HN: Three new Kitten TTS models \u2013 smallest less than 25MB",
-    "source": "Hacker News",
-    "description": "HN Score: 139 | 48 comments",
-    "url": "https://github.com/KittenML/KittenTTS",
-    "score": 139,
-    "date": "2026-03-19",
-    "category": "AI News"
-  },
-  {
     "title": "'Mathematics is the part of physics where experiments are cheap' - Vladimir Arnold",
     "source": "@EMostaque",
     "description": "",
@@ -42,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Launch HN: Voltair (YC W26) \u2013 Drone and charging network for power utilities",
+    "title": "Astral to Join OpenAI",
     "source": "Hacker News",
-    "description": "HN Score: 20 | 4 comments",
-    "url": "https://news.ycombinator.com/item?id=47442452",
-    "score": 20,
+    "description": "HN Score: 1025 | 649 comments",
+    "url": "https://astral.sh/blog/openai",
+    "score": 1025,
     "date": "2026-03-19",
     "category": "AI News"
   },
@@ -59,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Scaling Karpathy's Autoresearch: What Happens When the Agent Gets a GPU Cluster",
+    "title": "Google details new 24-hour process to sideload unverified Android apps",
     "source": "Hacker News",
-    "description": "HN Score: 40 | 14 comments",
-    "url": "https://blog.skypilot.co/scaling-autoresearch/",
-    "score": 40,
+    "description": "HN Score: 169 | 198 comments",
+    "url": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
+    "score": 169,
     "date": "2026-03-19",
     "category": "AI News"
   },
@@ -76,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Launch HN: Canary (YC W26) \u2013 AI QA that understands your code",
+    "title": "NanoGPT Slowrun: 10x Data Efficiency with Infinite Compute",
     "source": "Hacker News",
-    "description": "HN Score: 16 | 11 comments",
-    "url": "https://news.ycombinator.com/item?id=47441629",
-    "score": 16,
+    "description": "HN Score: 40 | 7 comments",
+    "url": "https://qlabs.sh/10x",
+    "score": 40,
     "date": "2026-03-19",
     "category": "AI News"
   },
@@ -93,79 +59,97 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Dumped Wix for an AI Edge agent so I never have to hire junior staff",
+    "title": "Anthropic takes legal action against OpenCode",
     "source": "Hacker News",
-    "description": "HN Score: 8 | 13 comments",
-    "url": "https://news.ycombinator.com/item?id=47441587",
-    "score": 8,
+    "description": "HN Score: 197 | 137 comments",
+    "url": "https://github.com/anomalyco/opencode/pull/18186",
+    "score": 197,
     "date": "2026-03-19",
     "category": "AI News"
   },
   {
-    "title": "Whoever uses AI to write code should be responsible for that code (and liable for any potential consequences). I don't care what model you used, how y",
+    "title": "Claude is the perfect complement for me: Whenever I have a question I can't answer, I ask Claude, and it gives me the perfect answer every time. But a",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2034704221233123488#m",
+    "url": "https://nitter.net/svpino/status/2034708756152332612#m",
+    "date": "2026-03-19",
+    "category": "Twitter"
+  },
+  {
+    "title": "Scaling Karpathy's Autoresearch: What Happens When the Agent Gets a GPU Cluster",
+    "source": "Hacker News",
+    "description": "HN Score: 69 | 31 comments",
+    "url": "https://blog.skypilot.co/scaling-autoresearch/",
+    "score": 69,
+    "date": "2026-03-19",
+    "category": "AI News"
+  },
+  {
+    "title": "No, I don't think AI should be thanked, credited for its work, celebrated, chastised, or treated as anything other than a tool. Should we start credit",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2034707589821292789#m",
+    "date": "2026-03-19",
+    "category": "Twitter"
+  },
+  {
+    "title": "Launch HN: Voltair (YC W26) \u2013 Drone and charging network for power utilities",
+    "source": "Hacker News",
+    "description": "HN Score: 34 | 18 comments",
+    "url": "https://news.ycombinator.com/item?id=47442452",
+    "score": 34,
+    "date": "2026-03-19",
+    "category": "AI News"
+  },
+  {
+    "title": "The era of cheap and fast models is here! GLM - agentic coding Flash - OCR Kimi - claw orchestration GPT 5.4 nano - classifier MiniMax - dirt cheap Gr",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2034718516285452464#m",
+    "date": "2026-03-19",
+    "category": "Twitter"
+  },
+  {
+    "title": "Launch HN: Canary (YC W26) \u2013 AI QA that understands your code",
+    "source": "Hacker News",
+    "description": "HN Score: 22 | 12 comments",
+    "url": "https://news.ycombinator.com/item?id=47441629",
+    "score": 22,
+    "date": "2026-03-19",
+    "category": "AI News"
+  },
+  {
+    "title": "If your code can only work with Anthropic models, you will be stuck in a local maxima \ud83e\udd37\u200d\u2640\ufe0f You need to rewire your code base for GPT 5.4 thinking It\u2019s",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2034711756770353583#m",
     "date": "2026-03-19",
     "category": "Twitter"
   },
   {
     "title": "A rogue AI led to a serious security incident at Meta",
     "source": "Hacker News",
-    "description": "HN Score: 4 | 0 comments",
+    "description": "HN Score: 77 | 52 comments",
     "url": "https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident",
-    "score": 4,
+    "score": 77,
     "date": "2026-03-19",
     "category": "AI News"
   },
   {
-    "title": "I didn't know you could disable Claude Code attribution when committing code. To fix it, I asked Claude Code to disable attribution, and it updated th",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2034692690290340239#m",
-    "date": "2026-03-19",
-    "category": "Twitter"
-  },
-  {
-    "title": "2% of ICML papers desk rejected because the authors used LLM in their reviews",
+    "title": "Tesla: Failure of the FSD's degradation detection system [pdf]",
     "source": "Hacker News",
-    "description": "HN Score: 177 | 146 comments",
-    "url": "https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/",
-    "score": 177,
+    "description": "HN Score: 6 | 0 comments",
+    "url": "https://static.nhtsa.gov/odi/inv/2026/INOA-EA26002-10023.pdf",
+    "score": 6,
     "date": "2026-03-19",
     "category": "AI News"
   },
   {
-    "title": "The era of cheap and fast models has arrived GPT 5.4 mini / nano - great classifier Gemini Flash - OCR Kimi 2.5 - fast agentic claw GLM 5 - simple cod",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2034703029711380770#m",
-    "date": "2026-03-19",
-    "category": "Twitter"
-  },
-  {
-    "title": "Show HN: Duplicate 3 layers in a 24B LLM, logical deduction .22\u2192.76. No training",
+    "title": "Show HN: I built a P2P network where AI agents publish formally verified science",
     "source": "Hacker News",
-    "description": "HN Score: 223 | 78 comments",
-    "url": "https://github.com/alainnothere/llm-circuit-finder",
-    "score": 223,
-    "date": "2026-03-19",
-    "category": "AI News"
-  },
-  {
-    "title": "Claw is the ultimate AI interface - a smart always-on agent It's super addictive and it literally has a soul - make it build things - make it do all y",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2034596773189042685#m",
-    "date": "2026-03-19",
-    "category": "Twitter"
-  },
-  {
-    "title": "A sufficiently detailed spec is code",
-    "source": "Hacker News",
-    "description": "HN Score: 554 | 309 comments",
-    "url": "https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code",
-    "score": 554,
+    "description": "HN Score: 23 | 4 comments",
+    "url": "https://news.ycombinator.com/item?id=47444212",
+    "score": 23,
     "date": "2026-03-19",
     "category": "AI News"
   }
