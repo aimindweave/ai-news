@@ -1,5 +1,39 @@
 [
   {
+    "title": "1\u30da\u30fc\u30b8\u76ee\u3067\u3061\u3083\u3093\u3068\u6253\u6483\u98df\u3089\u3063\u3066\u30ac\u30b3\u30f3\u3057\u3066\u308b\u306e\u3067 \u3042\u308c\u304c\u306a\u304b\u3063\u305f\u3089\u6469\u864e\u7f85\u653b\u7565\u3067\u304d\u3066\u305f\u304b\u3082\u3057\u308c\u3093",
+    "source": "@kaborobot",
+    "description": "",
+    "url": "https://nitter.net/kaborobot/status/2015735996248420451#m",
+    "date": "2026-03-19",
+    "category": "Twitter"
+  },
+  {
+    "title": "Afroman found not liable in defamation case brought by Ohio cops who raided home",
+    "source": "Hacker News",
+    "description": "HN Score: 307 | 57 comments",
+    "url": "https://nypost.com/2026/03/18/us-news/afroman-found-not-liable-in-bizarre-ohio-defamation-case/",
+    "score": 307,
+    "date": "2026-03-19",
+    "category": "AI News"
+  },
+  {
+    "title": "\u30ec\u30bc\u304c\u300c\u79c1\u306b\u306f\u904e\u304e\u305f\u9858\u3044\u3060\u3063\u305f\u300d\u306a\u3093\u3066\u601d\u3063\u3066\u3044\u307e\u305b\u3093\u3088\u3046\u306b\u3068\u7948\u3063\u3066\u305f\u9023\u4f11\u3060\u3063\u305f",
+    "source": "@kaborobot",
+    "description": "",
+    "url": "https://nitter.net/kaborobot/status/1977673306670330109#m",
+    "date": "2026-03-19",
+    "category": "Twitter"
+  },
+  {
+    "title": "Pretraining Language Models via Neural Cellular Automata",
+    "source": "Hacker News",
+    "description": "HN Score: 15 | 2 comments",
+    "url": "https://hanseungwook.github.io/blog/nca-pre-pre-training/",
+    "score": 15,
+    "date": "2026-03-19",
+    "category": "AI News"
+  },
+  {
     "title": "'Mathematics is the part of physics where experiments are cheap' - Vladimir Arnold",
     "source": "@EMostaque",
     "description": "",
@@ -10,9 +44,9 @@
   {
     "title": "2% of ICML papers desk rejected because the authors used LLM in their reviews",
     "source": "Hacker News",
-    "description": "HN Score: 36 | 17 comments",
+    "description": "HN Score: 121 | 104 comments",
     "url": "https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/",
-    "score": 36,
+    "score": 121,
     "date": "2026-03-19",
     "category": "AI News"
   },
@@ -25,28 +59,28 @@
     "category": "Twitter"
   },
   {
-    "title": "A sufficiently detailed spec is code",
+    "title": "Afroman Wins Civil Trial over Use of Police Raid Footage in His Music Videos",
     "source": "Hacker News",
-    "description": "HN Score: 373 | 200 comments",
-    "url": "https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code",
-    "score": 373,
+    "description": "HN Score: 18 | 4 comments",
+    "url": "https://www.nytimes.com/2026/03/19/us/afroman-trial-lemon-cake-verdict.html",
+    "score": 18,
     "date": "2026-03-19",
     "category": "AI News"
   },
   {
-    "title": "We trained a humanoid with 22-DoF dexterous hands to assemble model cars, operate syringes, sort poker cards, fold/roll shirts, all learned primarily ",
+    "title": "R to @DrJimFan: We would also like to thank our dexterous hand hardware provider, Sharpa, for their great support!",
     "source": "@DrJimFan",
     "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2026709304984875202#m",
+    "url": "https://nitter.net/DrJimFan/status/2026709308713611695#m",
     "date": "2026-03-19",
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Duplicate 3 layers in a 24B LLM, logical deduction .22\u2192.76. No training",
+    "title": "A sufficiently detailed spec is code",
     "source": "Hacker News",
-    "description": "HN Score: 124 | 39 comments",
-    "url": "https://github.com/alainnothere/llm-circuit-finder",
-    "score": 124,
+    "description": "HN Score: 454 | 237 comments",
+    "url": "https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code",
+    "score": 454,
     "date": "2026-03-19",
     "category": "AI News"
   },
@@ -59,45 +93,62 @@
     "category": "Twitter"
   },
   {
-    "title": "Cook: A simple CLI for orchestrating Claude Code",
+    "title": "Show HN: Duplicate 3 layers in a 24B LLM, logical deduction .22\u2192.76. No training",
     "source": "Hacker News",
-    "description": "HN Score: 209 | 55 comments",
-    "url": "https://rjcorwin.github.io/cook/",
-    "score": 209,
+    "description": "HN Score: 163 | 59 comments",
+    "url": "https://github.com/alainnothere/llm-circuit-finder",
+    "score": 163,
     "date": "2026-03-19",
     "category": "AI News"
   },
   {
-    "title": "RT by @svpino: I run every one of my businesses off spreadsheets. It's kind of ridiculous at this point, but I'm used to doing this, and it works for ",
+    "title": "Claude code remote sessions don\u2019t work for me half the time as well. This is one of the best ideas from the Anthropic team, but right now, they are to",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2034360715365241131#m",
+    "url": "https://nitter.net/svpino/status/2034610076753801604#m",
     "date": "2026-03-19",
     "category": "Twitter"
   },
   {
     "title": "The math that explains why bell curves are everywhere",
     "source": "Hacker News",
-    "description": "HN Score: 136 | 73 comments",
+    "description": "HN Score: 157 | 90 comments",
     "url": "https://www.quantamagazine.org/the-math-that-explains-why-bell-curves-are-everywhere-20260316/",
-    "score": 136,
+    "score": 157,
     "date": "2026-03-19",
     "category": "AI News"
   },
   {
-    "title": "RT by @svpino: You would never remodel your kitchen without a plan. You would never shoot a movie without a script. You would never fly a plane withou",
+    "title": "Claude Cowork is mind-blowing. I still cannot believe you can do this on your phone and then come back to your computer to a complete report on the be",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2034302390191714573#m",
+    "url": "https://nitter.net/svpino/status/2034609603619803592#m",
     "date": "2026-03-19",
     "category": "Twitter"
   },
   {
-    "title": "Book: The Emerging Science of Machine Learning Benchmarks",
+    "title": "Cook: A simple CLI for orchestrating Claude Code",
     "source": "Hacker News",
-    "description": "HN Score: 121 | 6 comments",
-    "url": "https://mlbenchmarks.org/00-preface.html",
-    "score": 121,
+    "description": "HN Score: 239 | 68 comments",
+    "url": "https://rjcorwin.github.io/cook/",
+    "score": 239,
+    "date": "2026-03-19",
+    "category": "AI News"
+  },
+  {
+    "title": "Claw is the ultimate AI interface - a smart always-on agent It's super addictive and it literally has a soul - make it build things - make it do all y",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2034596773189042685#m",
+    "date": "2026-03-19",
+    "category": "Twitter"
+  },
+  {
+    "title": "OpenAI Has New Focus (on the IPO)",
+    "source": "Hacker News",
+    "description": "HN Score: 246 | 235 comments",
+    "url": "https://om.co/2026/03/17/openai-has-new-focus-on-the-ipo/",
+    "score": 246,
     "date": "2026-03-19",
     "category": "AI News"
   },
@@ -110,46 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "OpenAI Has New Focus (on the IPO)",
+    "title": "Book: The Emerging Science of Machine Learning Benchmarks",
     "source": "Hacker News",
-    "description": "HN Score: 231 | 207 comments",
-    "url": "https://om.co/2026/03/17/openai-has-new-focus-on-the-ipo/",
-    "score": 231,
-    "date": "2026-03-19",
-    "category": "AI News"
-  },
-  {
-    "title": "Open source continues to catch up with closed source MiniMax 2.7 just dropped and will likely become the most used LLM on Claw in days \ud83d\ude80",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2034463774724501834#m",
-    "date": "2026-03-19",
-    "category": "Twitter"
-  },
-  {
-    "title": "What 81,000 people want from AI",
-    "source": "Hacker News",
-    "description": "HN Score: 133 | 109 comments",
-    "url": "https://www.anthropic.com/features/81k-interviews",
-    "score": 133,
-    "date": "2026-03-19",
-    "category": "AI News"
-  },
-  {
-    "title": "Trevor Milton is raising funds for a new jet he claims will transform flying",
-    "source": "Hacker News",
-    "description": "HN Score: 123 | 182 comments",
-    "url": "https://www.wsj.com/business/trevor-milton-pardon-nikola-trump-3163e19c",
-    "score": 123,
-    "date": "2026-03-19",
-    "category": "AI News"
-  },
-  {
-    "title": "A BEAM-native personal autonomous AI agent built on Elixir/OTP",
-    "source": "Hacker News",
-    "description": "HN Score: 23 | 0 comments",
-    "url": "https://github.com/thatsme/AlexClaw",
-    "score": 23,
+    "description": "HN Score: 128 | 11 comments",
+    "url": "https://mlbenchmarks.org/00-preface.html",
+    "score": 128,
     "date": "2026-03-19",
     "category": "AI News"
   }
