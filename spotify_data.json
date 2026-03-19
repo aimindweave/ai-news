@@ -94,6 +94,16 @@
   "episodes": [
     {
       "id": "a]6z Pod_0",
+      "name": "AI Just Gave You Superpowers — Now What?",
+      "show": "a]6z Podcast",
+      "description": "A new paper, “Some Simple Economics of AGI,” is making the rounds—Web3 with a16z we sat down with author Christian Catalini (MIT Crypto Economics Lab) and Eddy Lazzarin (CTO of a16z crypto), in con",
+      "release_date": "2026-03-19",
+      "duration_min": 66,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
+      "id": "a]6z Pod_1",
       "name": "AI, Supply Chains, and the Future of Economic Power",
       "show": "a]6z Podcast",
       "description": "Erik Torenberg sits down with Jacob Helberg to discuss AI, manufacturing, supply chains, and the new geopolitics of technology. Drawing on themes from Helberg’s book The Wires of War, they explore ",
@@ -113,22 +123,12 @@
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "What's Missing Between LLMs and AGI - Vishal Misra & Martin Casado",
       "show": "a]6z Podcast",
       "description": "Vishal Misra returns to explain his latest research on how LLMs actually work under the hood. He walks through experiments showing that transformers update their predictions in a precise, mathemati",
       "release_date": "2026-03-17",
       "duration_min": 47,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
-    },
-    {
-      "id": "a]6z Pod_2",
-      "name": "AI Startups vs. Big Chatbots — With Olivia Moore",
-      "show": "a]6z Podcast",
-      "description": "In this episode, originally aired on Big Technology Podcast, Olivia Moore discusses whether AI startups can compete with the big chatbots, why American sentiment toward AI is so negative, and what ",
-      "release_date": "2026-03-16",
-      "duration_min": 56,
       "image": "",
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
