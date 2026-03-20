@@ -94,6 +94,16 @@
   "episodes": [
     {
       "id": "a]6z Pod_0",
+      "name": "Inside Palantir: Building Software That Matters with Shyam Sankar",
+      "show": "a]6z Podcast",
+      "description": "In this conversation, Shyam Sankar, chief technology officer at Palantir Technologies, discusses his new book Mobilize, his commission in the U.S. Army, and why he believes the most important thing",
+      "release_date": "2026-03-20",
+      "duration_min": 54,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
+      "id": "a]6z Pod_1",
       "name": "AI Just Gave You Superpowers — Now What?",
       "show": "a]6z Podcast",
       "description": "A new paper, “Some Simple Economics of AGI,” is making the rounds—Web3 with a16z we sat down with author Christian Catalini (MIT Crypto Economics Lab) and Eddy Lazzarin (CTO of a16z crypto), in con",
@@ -103,7 +113,7 @@
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "AI, Supply Chains, and the Future of Economic Power",
       "show": "a]6z Podcast",
       "description": "Erik Torenberg sits down with Jacob Helberg to discuss AI, manufacturing, supply chains, and the new geopolitics of technology. Drawing on themes from Helberg’s book The Wires of War, they explore ",
@@ -121,16 +131,6 @@
       "duration_min": 55,
       "image": "",
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
-    },
-    {
-      "id": "a]6z Pod_2",
-      "name": "What's Missing Between LLMs and AGI - Vishal Misra & Martin Casado",
-      "show": "a]6z Podcast",
-      "description": "Vishal Misra returns to explain his latest research on how LLMs actually work under the hood. He walks through experiments showing that transformers update their predictions in a precise, mathemati",
-      "release_date": "2026-03-17",
-      "duration_min": 47,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
       "id": "Hard For_0",
