@@ -10,9 +10,9 @@
   {
     "title": "Flash-Moe: Running a 397B Parameter Model on a Mac with 48GB RAM",
     "source": "Hacker News",
-    "description": "HN Score: 66 | 21 comments",
+    "description": "HN Score: 133 | 46 comments",
     "url": "https://github.com/danveloper/flash-moe",
-    "score": 66,
+    "score": 133,
     "date": "2026-03-22",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Tinybox \u2013 A powerful computer for deep learning",
+    "title": "A Case Against Currying",
     "source": "Hacker News",
-    "description": "HN Score: 524 | 296 comments",
-    "url": "https://tinygrad.org/#tinybox",
-    "score": 524,
+    "description": "HN Score: 25 | 21 comments",
+    "url": "https://emi-h.com/articles/a-case-against-currying.html",
+    "score": 25,
     "date": "2026-03-22",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Sashiko: An agentic Linux kernel code review system",
+    "title": "Nintendo's not-AI, not-a-game toy",
     "source": "Hacker News",
-    "description": "HN Score: 36 | 3 comments",
-    "url": "https://sashiko.dev/",
-    "score": 36,
+    "description": "HN Score: 8 | 3 comments",
+    "url": "https://tapestry.news/culture/nintendo-talking-flower/",
+    "score": 8,
     "date": "2026-03-22",
     "category": "AI News"
   },
@@ -59,28 +59,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Cross-Model Void Convergence: GPT-5.2 and Claude Opus 4.6 Deterministic Silence",
+    "title": "Brute-Forcing My Algorithmic Ignorance with an LLM in 7 Days",
     "source": "Hacker News",
-    "description": "HN Score: 39 | 21 comments",
-    "url": "https://zenodo.org/records/18976656",
-    "score": 39,
+    "description": "HN Score: 20 | 8 comments",
+    "url": "http://blog.dominikrudnik.pl/my-google-recruitment-journey-part-1",
+    "score": 20,
     "date": "2026-03-22",
     "category": "AI News"
   },
   {
-    "title": "We trained a humanoid with 22-DoF dexterous hands to assemble model cars, operate syringes, sort poker cards, fold/roll shirts, all learned primarily ",
+    "title": "R to @DrJimFan: We would also like to thank our dexterous hand hardware provider, Sharpa, for their great support!",
     "source": "@DrJimFan",
     "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2026709304984875202#m",
+    "url": "https://nitter.net/DrJimFan/status/2026709308713611695#m",
     "date": "2026-03-22",
     "category": "Twitter"
   },
   {
-    "title": "Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning",
+    "title": "Revise \u2013 An AI Editor for Documents",
     "source": "Hacker News",
-    "description": "HN Score: 169 | 96 comments",
-    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646",
-    "score": 169,
+    "description": "HN Score: 16 | 9 comments",
+    "url": "https://revise.io",
+    "score": 16,
     "date": "2026-03-22",
     "category": "AI News"
   },
@@ -93,10 +93,27 @@
     "category": "Twitter"
   },
   {
-    "title": "Training Center for Maneuvering on Manned Model Ships",
+    "title": "Tinybox \u2013 A powerful computer for deep learning",
     "source": "Hacker News",
-    "description": "HN Score: 21 | 6 comments",
-    "url": "https://www.portrevel.com/",
+    "description": "HN Score: 535 | 306 comments",
+    "url": "https://tinygrad.org/#tinybox",
+    "score": 535,
+    "date": "2026-03-22",
+    "category": "AI News"
+  },
+  {
+    "title": "Agentic coding without a plan is just vibe-coding with extra steps.",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2035705567998841280#m",
+    "date": "2026-03-22",
+    "category": "Twitter"
+  },
+  {
+    "title": "Turns out your coffee addiction may be doing your brain a favor",
+    "source": "Hacker News",
+    "description": "HN Score: 21 | 4 comments",
+    "url": "https://www.theregister.com/2026/03/21/turns_out_your_coffee_addiction/",
     "score": 21,
     "date": "2026-03-22",
     "category": "AI News"
@@ -110,45 +127,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Trivy ecosystem supply chain briefly compromised",
+    "title": "Sashiko: An agentic Linux kernel code review system",
     "source": "Hacker News",
-    "description": "HN Score: 76 | 24 comments",
-    "url": "https://github.com/aquasecurity/trivy/security/advisories/GHSA-69fq-xp46-6x23",
-    "score": 76,
+    "description": "HN Score: 37 | 3 comments",
+    "url": "https://sashiko.dev/",
+    "score": 37,
     "date": "2026-03-22",
     "category": "AI News"
   },
   {
-    "title": "RT by @svpino: Controlling Claude Code from my phone is next-level coding p0-rn. I don't want to hear your 'oPeNcLaW dOeS tHat' crap. I don't care.",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2035343255609790551#m",
-    "date": "2026-03-22",
-    "category": "Twitter"
-  },
-  {
-    "title": "The paddle wheel aircraft carriers of Lake Michigan",
-    "source": "Hacker News",
-    "description": "HN Score: 90 | 8 comments",
-    "url": "https://signoregalilei.com/2026/03/08/the-paddle-wheel-aircraft-carriers-of-lake-michigan/",
-    "score": 90,
-    "date": "2026-03-22",
-    "category": "AI News"
-  },
-  {
-    "title": "A huge win for Kimi 2.5 Cursor made a fine tune using their model and is claiming that it\u2019s as good as Opus 4.6! If true, the next version of Kimi - K",
+    "title": "NEXT FRONTIER- Recursive self improvement will make AI better than humans in most tasks Once you have a closed loop verification and measurement loop ",
     "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/bindureddy/status/2035228865631805756#m",
+    "url": "https://nitter.net/bindureddy/status/2035704542348857728#m",
     "date": "2026-03-22",
     "category": "Twitter"
   },
   {
-    "title": "If AI brings 90% productivity gains, do you fire devs or build better products?",
+    "title": "Cross-Model Void Convergence: GPT-5.2 and Claude Opus 4.6 Deterministic Silence",
     "source": "Hacker News",
-    "description": "HN Score: 14 | 17 comments",
-    "url": "https://news.ycombinator.com/item?id=47475859",
-    "score": 14,
+    "description": "HN Score: 47 | 22 comments",
+    "url": "https://zenodo.org/records/18976656",
+    "score": 47,
     "date": "2026-03-22",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "OpenCode \u2013 Open source AI coding agent",
+    "title": "Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning",
     "source": "Hacker News",
-    "description": "HN Score: 1222 | 601 comments",
-    "url": "https://opencode.ai/",
-    "score": 1222,
+    "description": "HN Score: 176 | 101 comments",
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646",
+    "score": 176,
     "date": "2026-03-22",
     "category": "AI News"
   }
