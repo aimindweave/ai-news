@@ -10,9 +10,9 @@
   {
     "title": "Flash-Moe: Running a 397B Parameter Model on a Mac with 48GB RAM",
     "source": "Hacker News",
-    "description": "HN Score: 133 | 46 comments",
+    "description": "HN Score: 184 | 62 comments",
     "url": "https://github.com/danveloper/flash-moe",
-    "score": 133,
+    "score": 184,
     "date": "2026-03-22",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "A Case Against Currying",
+    "title": "Brute-Forcing My Algorithmic Ignorance with an LLM in 7 Days",
     "source": "Hacker News",
-    "description": "HN Score: 25 | 21 comments",
-    "url": "https://emi-h.com/articles/a-case-against-currying.html",
-    "score": 25,
+    "description": "HN Score: 49 | 24 comments",
+    "url": "http://blog.dominikrudnik.pl/my-google-recruitment-journey-part-1",
+    "score": 49,
     "date": "2026-03-22",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Nintendo's not-AI, not-a-game toy",
+    "title": "A case against currying",
     "source": "Hacker News",
-    "description": "HN Score: 8 | 3 comments",
-    "url": "https://tapestry.news/culture/nintendo-talking-flower/",
-    "score": 8,
+    "description": "HN Score: 44 | 59 comments",
+    "url": "https://emi-h.com/articles/a-case-against-currying.html",
+    "score": 44,
     "date": "2026-03-22",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Brute-Forcing My Algorithmic Ignorance with an LLM in 7 Days",
+    "title": "Tinybox \u2013 A powerful computer for deep learning",
     "source": "Hacker News",
-    "description": "HN Score: 20 | 8 comments",
-    "url": "http://blog.dominikrudnik.pl/my-google-recruitment-journey-part-1",
-    "score": 20,
+    "description": "HN Score: 553 | 321 comments",
+    "url": "https://tinygrad.org/#tinybox",
+    "score": 553,
     "date": "2026-03-22",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Revise \u2013 An AI Editor for Documents",
+    "title": "Ask HN: AI productivity gains \u2013 do you fire devs or build better products?",
     "source": "Hacker News",
-    "description": "HN Score: 16 | 9 comments",
-    "url": "https://revise.io",
-    "score": 16,
+    "description": "HN Score: 36 | 45 comments",
+    "url": "https://news.ycombinator.com/item?id=47475859",
+    "score": 36,
     "date": "2026-03-22",
     "category": "AI News"
   },
@@ -93,11 +93,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Tinybox \u2013 A powerful computer for deep learning",
+    "title": "Turns out your coffee addiction may be doing your brain a favor",
     "source": "Hacker News",
-    "description": "HN Score: 535 | 306 comments",
-    "url": "https://tinygrad.org/#tinybox",
-    "score": 535,
+    "description": "HN Score: 51 | 31 comments",
+    "url": "https://www.theregister.com/2026/03/21/turns_out_your_coffee_addiction/",
+    "score": 51,
+    "date": "2026-03-22",
+    "category": "AI News"
+  },
+  {
+    "title": "I love Miami, but you can't deny that nothing beats San Francisco when it comes to the amount of talent per square foot.",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2035731737473368400#m",
+    "date": "2026-03-22",
+    "category": "Twitter"
+  },
+  {
+    "title": "Operation Epic Fury Explained: Riches and Domination Drive This War",
+    "source": "Hacker News",
+    "description": "HN Score: 12 | 2 comments",
+    "url": "https://truthout.org/articles/operation-epic-fury-explained-riches-and-domination-drive-this-war/",
+    "score": 12,
     "date": "2026-03-22",
     "category": "AI News"
   },
@@ -110,28 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Turns out your coffee addiction may be doing your brain a favor",
+    "title": "Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning",
     "source": "Hacker News",
-    "description": "HN Score: 21 | 4 comments",
-    "url": "https://www.theregister.com/2026/03/21/turns_out_your_coffee_addiction/",
-    "score": 21,
-    "date": "2026-03-22",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: Most people have no idea this is happening: Your AI Agent can now have a job on its own! Check out the open-source project I'm linking ",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2035374129206178241#m",
-    "date": "2026-03-22",
-    "category": "Twitter"
-  },
-  {
-    "title": "Sashiko: An agentic Linux kernel code review system",
-    "source": "Hacker News",
-    "description": "HN Score: 37 | 3 comments",
-    "url": "https://sashiko.dev/",
-    "score": 37,
+    "description": "HN Score: 181 | 103 comments",
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646",
+    "score": 181,
     "date": "2026-03-22",
     "category": "AI News"
   },
@@ -144,28 +144,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Cross-Model Void Convergence: GPT-5.2 and Claude Opus 4.6 Deterministic Silence",
+    "title": "Sashiko: An agentic Linux kernel code review system",
     "source": "Hacker News",
-    "description": "HN Score: 47 | 22 comments",
-    "url": "https://zenodo.org/records/18976656",
-    "score": 47,
+    "description": "HN Score: 40 | 3 comments",
+    "url": "https://sashiko.dev/",
+    "score": 40,
     "date": "2026-03-22",
     "category": "AI News"
   },
   {
-    "title": "R to @bindureddy: To clarify this post - no NEITHER Cursor or Kimi is beating closed source \ud83e\udd37\u200d\u2640\ufe0f While open source is good it\u2019s still far behind",
+    "title": "A huge win for Kimi 2.5 Cursor made a fine tune using their model and is claiming that it\u2019s as good as Opus 4.6! If true, the next version of Kimi - K",
     "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/bindureddy/status/2035267789104324766#m",
+    "url": "https://nitter.net/bindureddy/status/2035228865631805756#m",
     "date": "2026-03-22",
     "category": "Twitter"
   },
   {
-    "title": "Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning",
+    "title": "Walmart fires OpenAI in playbook-changing move",
     "source": "Hacker News",
-    "description": "HN Score: 176 | 101 comments",
-    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646",
-    "score": 176,
+    "description": "HN Score: 14 | 1 comments",
+    "url": "https://www.thestreet.com/retail/walmart-fires-openai-in-playbook-changing-move",
+    "score": 14,
     "date": "2026-03-22",
     "category": "AI News"
   }
