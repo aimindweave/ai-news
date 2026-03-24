@@ -10,9 +10,9 @@
   {
     "title": "Show HN: ProofShot \u2013 Give AI coding agents eyes to verify the UI they build",
     "source": "Hacker News",
-    "description": "HN Score: 13 | 10 comments",
+    "description": "HN Score: 42 | 33 comments",
     "url": "https://proofshot.argil.io/",
-    "score": 13,
+    "score": 42,
     "date": "2026-03-24",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
     "source": "Hacker News",
-    "description": "HN Score: 599 | 271 comments",
+    "description": "HN Score: 621 | 279 comments",
     "url": "https://twitter.com/anemll/status/2035901335984611412",
-    "score": 599,
+    "score": 621,
     "date": "2026-03-24",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Epoch confirms GPT5.4 Pro solved a frontier math open problem",
+    "title": "Show HN: Cq \u2013 Stack Overflow for AI coding agents",
     "source": "Hacker News",
-    "description": "HN Score: 322 | 314 comments",
-    "url": "https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs",
-    "score": 322,
+    "description": "HN Score: 151 | 58 comments",
+    "url": "https://blog.mozilla.ai/cq-stack-overflow-for-agents/",
+    "score": 151,
     "date": "2026-03-24",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Cq \u2013 Stack Overflow for AI coding agents",
+    "title": "Claude Code Cheat Sheet",
     "source": "Hacker News",
-    "description": "HN Score: 137 | 48 comments",
-    "url": "https://blog.mozilla.ai/cq-stack-overflow-for-agents/",
-    "score": 137,
+    "description": "HN Score: 423 | 124 comments",
+    "url": "https://cc.storyfox.cz",
+    "score": 423,
     "date": "2026-03-24",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Claude Code Cheat Sheet",
+    "title": "Trivy under attack again: Widespread GitHub Actions tag compromise secrets",
     "source": "Hacker News",
-    "description": "HN Score: 373 | 110 comments",
-    "url": "https://cc.storyfox.cz",
-    "score": 373,
+    "description": "HN Score: 210 | 73 comments",
+    "url": "https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise",
+    "score": 210,
     "date": "2026-03-24",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Pool spare GPU capacity to run LLMs at larger scale",
+    "title": "Ju Ci: The Art of Repairing Porcelain",
     "source": "Hacker News",
-    "description": "HN Score: 10 | 2 comments",
-    "url": "https://github.com/michaelneale/mesh-llm",
-    "score": 10,
+    "description": "HN Score: 92 | 10 comments",
+    "url": "https://thesublimeblog.org/2025/03/13/ju-ci-the-ancient-art-of-repairing-porcelain/",
+    "score": 92,
     "date": "2026-03-24",
     "category": "AI News"
   },
@@ -110,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "How I'm Productive with Claude Code",
+    "title": "I built an AI receptionist for a mechanic shop",
     "source": "Hacker News",
-    "description": "HN Score: 196 | 116 comments",
-    "url": "https://neilkakkar.com/productive-with-claude-code.html",
-    "score": 196,
+    "description": "HN Score: 284 | 288 comments",
+    "url": "https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/",
+    "score": 284,
     "date": "2026-03-24",
     "category": "AI News"
   },
@@ -127,11 +127,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Ju Ci: The Art of Repairing Porcelain",
+    "title": "How I'm Productive with Claude Code",
     "source": "Hacker News",
-    "description": "HN Score: 89 | 8 comments",
-    "url": "https://thesublimeblog.org/2025/03/13/ju-ci-the-ancient-art-of-repairing-porcelain/",
-    "score": 89,
+    "description": "HN Score: 207 | 125 comments",
+    "url": "https://neilkakkar.com/productive-with-claude-code.html",
+    "score": 207,
+    "date": "2026-03-24",
+    "category": "AI News"
+  },
+  {
+    "title": "Meta makes more noise with all their acquisitions and exorbitant offers to devs than actual model launches It\u2019s one way to stay relevant \ud83d\ude00",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2036371093846691951#m",
+    "date": "2026-03-24",
+    "category": "Twitter"
+  },
+  {
+    "title": "Epoch confirms GPT5.4 Pro solved a frontier math open problem",
+    "source": "Hacker News",
+    "description": "HN Score: 345 | 416 comments",
+    "url": "https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs",
+    "score": 345,
     "date": "2026-03-24",
     "category": "AI News"
   },
@@ -144,28 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Trivy under attack again: Widespread GitHub Actions tag compromise secrets",
+    "title": "Designing AI for Disruptive Science",
     "source": "Hacker News",
-    "description": "HN Score: 197 | 69 comments",
-    "url": "https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise",
-    "score": 197,
-    "date": "2026-03-24",
-    "category": "AI News"
-  },
-  {
-    "title": "GPT 5.4 is cheaper and more performant for xls and deep research than other SOTA models We have now managed to improve performance by 33% on other top",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2036151038491955678#m",
-    "date": "2026-03-24",
-    "category": "Twitter"
-  },
-  {
-    "title": "I built an AI receptionist for a mechanic shop",
-    "source": "Hacker News",
-    "description": "HN Score: 269 | 279 comments",
-    "url": "https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/",
-    "score": 269,
+    "description": "HN Score: 72 | 41 comments",
+    "url": "https://www.asimov.press/p/ai-science",
+    "score": 72,
     "date": "2026-03-24",
     "category": "AI News"
   }
