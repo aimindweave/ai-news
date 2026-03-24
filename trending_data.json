@@ -10,9 +10,9 @@
   {
     "title": "LiteLLM Python package compromised by supply-chain attack",
     "source": "Hacker News",
-    "description": "HN Score: 295 | 153 comments",
+    "description": "HN Score: 558 | 228 comments",
     "url": "https://github.com/BerriAI/litellm/issues/24512",
-    "score": 295,
+    "score": 558,
     "date": "2026-03-24",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "So where are all the AI apps?",
+    "title": "Run a 1T parameter model on a 32gb Mac by streaming tensors from NVMe",
     "source": "Hacker News",
-    "description": "HN Score: 88 | 96 comments",
-    "url": "https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html",
-    "score": 88,
+    "description": "HN Score: 32 | 15 comments",
+    "url": "https://github.com/t8/hypura",
+    "score": 32,
     "date": "2026-03-24",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Secure Domain Name System (DNS) Deployment 2026 Guide [pdf]",
+    "title": "LaGuardia pilots raised safety alarms months before deadly runway crash",
     "source": "Hacker News",
-    "description": "HN Score: 30 | 0 comments",
-    "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-81r3.pdf",
-    "score": 30,
+    "description": "HN Score: 145 | 102 comments",
+    "url": "https://www.theguardian.com/us-news/2026/mar/24/laguardia-airplane-pilots-safety-concerns-crash",
+    "score": 145,
     "date": "2026-03-24",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "NanoClaw Adopts OneCLI Agent Vault",
+    "title": "Secure Domain Name System (DNS) Deployment 2026 Guide [pdf]",
     "source": "Hacker News",
-    "description": "HN Score: 63 | 9 comments",
-    "url": "https://nanoclaw.dev/blog/nanoclaw-agent-vault/",
-    "score": 63,
+    "description": "HN Score: 66 | 4 comments",
+    "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-81r3.pdf",
+    "score": 66,
     "date": "2026-03-24",
     "category": "AI News"
   },
@@ -76,62 +76,62 @@
     "category": "Twitter"
   },
   {
-    "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
+    "title": "io_uring, libaio performance across Linux kernels and an unexpected IOMMU trap",
     "source": "Hacker News",
-    "description": "HN Score: 673 | 301 comments",
-    "url": "https://twitter.com/anemll/status/2035901335984611412",
-    "score": 673,
+    "description": "HN Score: 27 | 13 comments",
+    "url": "https://blog.ydb.tech/how-io-uring-overtook-libaio-performance-across-linux-kernels-and-an-unexpected-iommu-trap-ea6126d9ef14",
+    "score": 27,
     "date": "2026-03-24",
     "category": "AI News"
   },
   {
-    "title": "R to @DrJimFan: We would also like to thank our dexterous hand hardware provider, Sharpa, for their great support!",
+    "title": "We trained a humanoid with 22-DoF dexterous hands to assemble model cars, operate syringes, sort poker cards, fold/roll shirts, all learned primarily ",
     "source": "@DrJimFan",
     "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2026709308713611695#m",
+    "url": "https://nitter.net/DrJimFan/status/2026709304984875202#m",
     "date": "2026-03-24",
     "category": "Twitter"
   },
   {
     "title": "LLM Neuroanatomy II: Modern LLM Hacking and Hints of a Universal Language?",
     "source": "Hacker News",
-    "description": "HN Score: 24 | 10 comments",
+    "description": "HN Score: 62 | 21 comments",
     "url": "https://dnhkng.github.io/posts/rys-ii/",
-    "score": 24,
+    "score": 62,
     "date": "2026-03-24",
     "category": "AI News"
   },
   {
-    "title": "Yes, these agents are absolutely horrible at writing decent-quality code. But any time you say that out loud, there's a swarm of AI-apologists who've ",
+    "title": "Here is how you can deploy a claw agent without spending 10 hours in configuration hell. This is what I recommend to anyone who wants a taste of auton",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2036422037535859191#m",
+    "url": "https://nitter.net/svpino/status/2036462163628531721#m",
     "date": "2026-03-24",
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Cq \u2013 Stack Overflow for AI coding agents",
+    "title": "So where are all the AI apps?",
     "source": "Hacker News",
-    "description": "HN Score: 182 | 78 comments",
-    "url": "https://blog.mozilla.ai/cq-stack-overflow-for-agents/",
-    "score": 182,
+    "description": "HN Score: 213 | 232 comments",
+    "url": "https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html",
+    "score": 213,
     "date": "2026-03-24",
     "category": "AI News"
   },
   {
-    "title": "RT by @svpino: Every large company will eventually ban vibe-coding. Vibe-coding is now generating as much technical debt as 10 regular developers in h",
+    "title": "R to @svpino: Here is the link to the platform: https://blink.new/claw You can deploy your first agent for free on their platform. Check out their ori",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2036158558971240554#m",
+    "url": "https://nitter.net/svpino/status/2036462175691399621#m",
     "date": "2026-03-24",
     "category": "Twitter"
   },
   {
-    "title": "Claude Code Cheat Sheet",
+    "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
     "source": "Hacker News",
-    "description": "HN Score: 535 | 169 comments",
-    "url": "https://cc.storyfox.cz",
-    "score": 535,
+    "description": "HN Score: 686 | 310 comments",
+    "url": "https://twitter.com/anemll/status/2035901335984611412",
+    "score": 686,
     "date": "2026-03-24",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Trivy under attack again: Widespread GitHub Actions tag compromise secrets",
+    "title": "NanoClaw Adopts OneCLI Agent Vault",
     "source": "Hacker News",
-    "description": "HN Score: 229 | 79 comments",
-    "url": "https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise",
-    "score": 229,
+    "description": "HN Score: 88 | 25 comments",
+    "url": "https://nanoclaw.dev/blog/nanoclaw-agent-vault/",
+    "score": 88,
     "date": "2026-03-24",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "How I'm Productive with Claude Code",
+    "title": "Claude Code Cheat Sheet",
     "source": "Hacker News",
-    "description": "HN Score: 235 | 147 comments",
-    "url": "https://neilkakkar.com/productive-with-claude-code.html",
-    "score": 235,
+    "description": "HN Score: 580 | 179 comments",
+    "url": "https://cc.storyfox.cz",
+    "score": 580,
     "date": "2026-03-24",
     "category": "AI News"
   }

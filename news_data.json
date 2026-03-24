@@ -1,8 +1,15 @@
 [
   {
-    "title": "Mirage raises $75M to continue building models for its AI video editing app Captions",
+    "title": "Meet the former Apple designer building a new AI interface at Hark",
     "source": "TechCrunch",
-    "summary": "Mirage, the maker of video editing app Captions, has raised $75 million in growth financing from General Catalyst's Customer Value Fund (CVF).",
+    "summary": "The company said it would design models, hardware, and interfaces in tandem to deliver a 'seamless end-to-end personal intelligence product.'",
+    "url": "https://techcrunch.com/2026/03/24/meet-the-former-apple-designer-building-a-new-ai-interface-at-hark/",
+    "date": "2026-03-24"
+  },
+  {
+    "title": "Mirage raises $75M to continue building models for its AI video-editing app Captions",
+    "source": "TechCrunch",
+    "summary": "Mirage, the maker of video-editing app Captions, has raised $75 million in growth financing from General Catalyst's Customer Value Fund (CVF).",
     "url": "https://techcrunch.com/2026/03/24/mirage-raises-75m-to-continue-building-models-for-its-ai-video-editing-app-captions/",
     "date": "2026-03-24"
   },
@@ -98,10 +105,10 @@
     "date": "2026-03-24"
   },
   {
-    "title": "An exclusive tour of Amazon\u2019s Trainium lab, the chip that\u2019s won over Anthropic, OpenAI, even Apple",
-    "source": "TechCrunch",
-    "summary": "Shortly after Amazon announced its $50 billion investment in OpenAI, AWS invited me on a private tour of the chip lab at the heart of the deal.",
-    "url": "https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/",
+    "title": "This scientist rewarmed and studied pieces of his friend\u2019s cryopreserved brain",
+    "source": "MIT Tech Review",
+    "summary": "L. Stephen Coles\u2019s brain sits cushioned in a vat at a storage facility in Arizona. It has been held there at a temperature of around \u2212146 degrees \u00b0C for over a decade, largely undisturbed. That is, apart from the time, a little over a year ago, when scientists slowly lifted the brain to take photos",
+    "url": "https://www.technologyreview.com/2026/03/24/1134562/cryopreservation-brain-cryonics-organ-transplantation/",
     "date": "2026-03-24"
   },
   {
@@ -168,10 +175,10 @@
     "date": "2026-03-24"
   },
   {
-    "title": "Why the world doesn\u2019t recycle more nuclear waste",
-    "source": "MIT Tech Review",
-    "summary": "The prospect of making trash useful is always fascinating to me. Whether it\u2019s used batteries, solar panels, or spent nuclear fuel, getting use out of something destined for disposal sounds like a win all around. In nuclear energy, figuring out what to do with waste has always been a challenge, si...",
-    "url": "https://www.technologyreview.com/2026/03/19/1134399/nuclear-waste-reprocessing/",
+    "title": "Arm Is Now Making Its Own Chips",
+    "source": "Wired",
+    "summary": "The chip design firm says Meta, OpenAI, Cerebras, and Cloudflare are among the first customers of its new artificial intelligence hardware.",
+    "url": "https://www.wired.com/story/chip-design-firm-arm-is-making-its-own-ai-cpu/",
     "date": "2026-03-24"
   },
   {
@@ -238,10 +245,10 @@
     "date": "2026-03-24"
   },
   {
-    "title": "Gamers Hate Nvidia's DLSS 5. Developers Aren\u2019t Crazy About It, Either",
-    "source": "Wired",
-    "summary": "Nvidia\u2019s new AI upscaling gaming technology struck gamers as uncanny and off-putting. Developers don't seem to like it, either, but it could be \u201cthe default\u201d in a few years.",
-    "url": "https://www.wired.com/story/gamers-hate-nvidia-dlss-5-developers-arent-crazy-about-it-either/",
+    "title": "Claude Code can now take over your computer to complete tasks",
+    "source": "Ars Technica",
+    "summary": "But Anthropic urges caution as 'research preview' safeguards 'aren't absolute.'",
+    "url": "https://arstechnica.com/ai/2026/03/claude-code-can-now-take-over-your-computer-to-complete-tasks/",
     "date": "2026-03-24"
   },
   {
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "When winning depends on intuiting a mathematical function, AIs come up short.",
     "url": "https://arstechnica.com/ai/2026/03/figuring-out-why-ais-get-flummoxed-by-some-games/",
-    "date": "2026-03-24"
-  },
-  {
-    "title": "Perplexity's 'Personal Computer' brings its AI agents to the, uh, Personal Computer",
-    "source": "Ars Technica",
-    "summary": "Perplexity says AI access to your files is in 'secure environment with clear safeguards.'",
-    "url": "https://arstechnica.com/ai/2026/03/perplexitys-personal-computer-brings-its-ai-agents-to-the-uh-personal-computer/",
     "date": "2026-03-24"
   }
 ]
