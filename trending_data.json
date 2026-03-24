@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: ProofShot \u2013 Give AI coding agents eyes to verify the UI they build",
+    "title": "LiteLLM Python package compromised by supply-chain attack",
     "source": "Hacker News",
-    "description": "HN Score: 42 | 33 comments",
-    "url": "https://proofshot.argil.io/",
-    "score": 42,
+    "description": "HN Score: 63 | 14 comments",
+    "url": "https://github.com/BerriAI/litellm/issues/24512",
+    "score": 63,
     "date": "2026-03-24",
     "category": "AI News"
   },
@@ -25,45 +25,45 @@
     "category": "Twitter"
   },
   {
-    "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
+    "title": "NanoClaw Adopts OneCLI Agent Vault",
     "source": "Hacker News",
-    "description": "HN Score: 621 | 279 comments",
-    "url": "https://twitter.com/anemll/status/2035901335984611412",
-    "score": 621,
+    "description": "HN Score: 29 | 1 comments",
+    "url": "https://nanoclaw.dev/blog/nanoclaw-agent-vault/",
+    "score": 29,
     "date": "2026-03-24",
     "category": "AI News"
   },
   {
-    "title": "RT by @EMostaque: 1/n \ud83e\udd9e Introducing EurekaClaw\ud83d\udca1 \u2014 a local-first AI research agent that captures your Eureka moments before they vanish. From idea \u2192 pr",
+    "title": "RT by @EMostaque: PrismAudio is open source\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f a 518M V2A model accepted at ICLR 2026, achieving SOTA across all four perceptual dimensions on both VG",
     "source": "@EMostaque",
     "description": "",
-    "url": "https://nitter.net/EurekaClaw/status/2035818205500039385#m",
+    "url": "https://nitter.net/ModelScope2022/status/2036339253945286796#m",
+    "date": "2026-03-24",
+    "category": "Twitter"
+  },
+  {
+    "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
+    "source": "Hacker News",
+    "description": "HN Score: 654 | 287 comments",
+    "url": "https://twitter.com/anemll/status/2035901335984611412",
+    "score": 654,
+    "date": "2026-03-24",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: https://www.sp-6m.com/ This is what we\u2019ve been working on for the past 18 months :) It\u2019s been a genuinely mammoth project, over 82,0",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/Ten_24/status/2036390893981192380#m",
     "date": "2026-03-24",
     "category": "Twitter"
   },
   {
     "title": "Show HN: Cq \u2013 Stack Overflow for AI coding agents",
     "source": "Hacker News",
-    "description": "HN Score: 151 | 58 comments",
+    "description": "HN Score: 172 | 66 comments",
     "url": "https://blog.mozilla.ai/cq-stack-overflow-for-agents/",
-    "score": 151,
-    "date": "2026-03-24",
-    "category": "AI News"
-  },
-  {
-    "title": "For pure theoretical physics can\u2019t see how this wouldn\u2019t be 2027 Window of final human-only cognitive contributions is coming to a close Forever",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/EMostaque/status/2035422937772089655#m",
-    "date": "2026-03-24",
-    "category": "Twitter"
-  },
-  {
-    "title": "Claude Code Cheat Sheet",
-    "source": "Hacker News",
-    "description": "HN Score: 423 | 124 comments",
-    "url": "https://cc.storyfox.cz",
-    "score": 423,
+    "score": 172,
     "date": "2026-03-24",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Trivy under attack again: Widespread GitHub Actions tag compromise secrets",
+    "title": "Claude Code Cheat Sheet",
     "source": "Hacker News",
-    "description": "HN Score: 210 | 73 comments",
-    "url": "https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise",
-    "score": 210,
+    "description": "HN Score: 477 | 158 comments",
+    "url": "https://cc.storyfox.cz",
+    "score": 477,
     "date": "2026-03-24",
     "category": "AI News"
   },
@@ -93,11 +93,28 @@
     "category": "Twitter"
   },
   {
+    "title": "Trivy under attack again: Widespread GitHub Actions tag compromise secrets",
+    "source": "Hacker News",
+    "description": "HN Score: 221 | 79 comments",
+    "url": "https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise",
+    "score": 221,
+    "date": "2026-03-24",
+    "category": "AI News"
+  },
+  {
+    "title": "Yes, these agents are absolutely horrible at writing decent-quality code. But any time you say that out loud, there's a swarm of AI-apologists who've ",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2036422037535859191#m",
+    "date": "2026-03-24",
+    "category": "Twitter"
+  },
+  {
     "title": "Ju Ci: The Art of Repairing Porcelain",
     "source": "Hacker News",
-    "description": "HN Score: 92 | 10 comments",
+    "description": "HN Score: 103 | 10 comments",
     "url": "https://thesublimeblog.org/2025/03/13/ju-ci-the-ancient-art-of-repairing-porcelain/",
-    "score": 92,
+    "score": 103,
     "date": "2026-03-24",
     "category": "AI News"
   },
@@ -110,45 +127,28 @@
     "category": "Twitter"
   },
   {
-    "title": "I built an AI receptionist for a mechanic shop",
-    "source": "Hacker News",
-    "description": "HN Score: 284 | 288 comments",
-    "url": "https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/",
-    "score": 284,
-    "date": "2026-03-24",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: Why aren't more people talking about Replit right now? I started using Replit consistently late last year when they released Agent 3. I",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2036098202064355712#m",
-    "date": "2026-03-24",
-    "category": "Twitter"
-  },
-  {
     "title": "How I'm Productive with Claude Code",
     "source": "Hacker News",
-    "description": "HN Score: 207 | 125 comments",
+    "description": "HN Score: 224 | 142 comments",
     "url": "https://neilkakkar.com/productive-with-claude-code.html",
-    "score": 207,
+    "score": 224,
     "date": "2026-03-24",
     "category": "AI News"
   },
   {
-    "title": "Meta makes more noise with all their acquisitions and exorbitant offers to devs than actual model launches It\u2019s one way to stay relevant \ud83d\ude00",
+    "title": "Autonomous agents with personalities that are chatty.... are NO DIFFERENT THAN HUMAN CO-WORKERS We are building one that DMs you with questions, if it",
     "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/bindureddy/status/2036371093846691951#m",
+    "url": "https://nitter.net/bindureddy/status/2036430116939817001#m",
     "date": "2026-03-24",
     "category": "Twitter"
   },
   {
     "title": "Epoch confirms GPT5.4 Pro solved a frontier math open problem",
     "source": "Hacker News",
-    "description": "HN Score: 345 | 416 comments",
+    "description": "HN Score: 363 | 460 comments",
     "url": "https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs",
-    "score": 345,
+    "score": 363,
     "date": "2026-03-24",
     "category": "AI News"
   },
@@ -159,14 +159,5 @@
     "url": "https://nitter.net/bindureddy/status/2036337292936356298#m",
     "date": "2026-03-24",
     "category": "Twitter"
-  },
-  {
-    "title": "Designing AI for Disruptive Science",
-    "source": "Hacker News",
-    "description": "HN Score: 72 | 41 comments",
-    "url": "https://www.asimov.press/p/ai-science",
-    "score": 72,
-    "date": "2026-03-24",
-    "category": "AI News"
   }
 ]
