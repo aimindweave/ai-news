@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "LiteLLM Python package compromised by supply-chain attack",
+    "title": "Hypura \u2013 A storage-tier-aware LLM inference scheduler for Apple Silicon",
     "source": "Hacker News",
-    "description": "HN Score: 558 | 228 comments",
-    "url": "https://github.com/BerriAI/litellm/issues/24512",
-    "score": 558,
+    "description": "HN Score: 140 | 61 comments",
+    "url": "https://github.com/t8/hypura",
+    "score": 140,
     "date": "2026-03-24",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Run a 1T parameter model on a 32gb Mac by streaming tensors from NVMe",
+    "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
     "source": "Hacker News",
-    "description": "HN Score: 32 | 15 comments",
-    "url": "https://github.com/t8/hypura",
-    "score": 32,
+    "description": "HN Score: 130 | 302 comments",
+    "url": "https://github.com/BerriAI/litellm/issues/24512",
+    "score": 130,
     "date": "2026-03-24",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "LaGuardia pilots raised safety alarms months before deadly runway crash",
+    "title": "Show HN: Email.md \u2013 Markdown to responsive, email-safe HTML",
     "source": "Hacker News",
-    "description": "HN Score: 145 | 102 comments",
-    "url": "https://www.theguardian.com/us-news/2026/mar/24/laguardia-airplane-pilots-safety-concerns-crash",
-    "score": 145,
+    "description": "HN Score: 73 | 21 comments",
+    "url": "https://www.emailmd.dev/",
+    "score": 73,
     "date": "2026-03-24",
     "category": "AI News"
   },
@@ -59,11 +59,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Secure Domain Name System (DNS) Deployment 2026 Guide [pdf]",
+    "title": "Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains",
     "source": "Hacker News",
-    "description": "HN Score: 66 | 4 comments",
-    "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-81r3.pdf",
-    "score": 66,
+    "description": "HN Score: 51 | 2 comments",
+    "url": "https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/",
+    "score": 51,
+    "date": "2026-03-24",
+    "category": "AI News"
+  },
+  {
+    "title": "This is pure nightmare fuel. Identity theft of the past would be nothing compared to what vibe agents can do. Sending credentials is too obvious and f",
+    "source": "@DrJimFan",
+    "description": "",
+    "url": "https://nitter.net/DrJimFan/status/2036494601750716711#m",
+    "date": "2026-03-24",
+    "category": "Twitter"
+  },
+  {
+    "title": "Show HN: ProofShot \u2013 Give AI coding agents eyes to verify the UI they build",
+    "source": "Hacker News",
+    "description": "HN Score: 78 | 60 comments",
+    "url": "https://github.com/AmElmo/proofshot",
+    "score": 78,
     "date": "2026-03-24",
     "category": "AI News"
   },
@@ -76,45 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "io_uring, libaio performance across Linux kernels and an unexpected IOMMU trap",
-    "source": "Hacker News",
-    "description": "HN Score: 27 | 13 comments",
-    "url": "https://blog.ydb.tech/how-io-uring-overtook-libaio-performance-across-linux-kernels-and-an-unexpected-iommu-trap-ea6126d9ef14",
-    "score": 27,
-    "date": "2026-03-24",
-    "category": "AI News"
-  },
-  {
-    "title": "We trained a humanoid with 22-DoF dexterous hands to assemble model cars, operate syringes, sort poker cards, fold/roll shirts, all learned primarily ",
-    "source": "@DrJimFan",
-    "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2026709304984875202#m",
-    "date": "2026-03-24",
-    "category": "Twitter"
-  },
-  {
-    "title": "LLM Neuroanatomy II: Modern LLM Hacking and Hints of a Universal Language?",
-    "source": "Hacker News",
-    "description": "HN Score: 62 | 21 comments",
-    "url": "https://dnhkng.github.io/posts/rys-ii/",
-    "score": 62,
-    "date": "2026-03-24",
-    "category": "AI News"
-  },
-  {
-    "title": "Here is how you can deploy a claw agent without spending 10 hours in configuration hell. This is what I recommend to anyone who wants a taste of auton",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2036462163628531721#m",
-    "date": "2026-03-24",
-    "category": "Twitter"
-  },
-  {
     "title": "So where are all the AI apps?",
     "source": "Hacker News",
-    "description": "HN Score: 213 | 232 comments",
+    "description": "HN Score: 312 | 286 comments",
     "url": "https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html",
-    "score": 213,
+    "score": 312,
     "date": "2026-03-24",
     "category": "AI News"
   },
@@ -127,11 +110,45 @@
     "category": "Twitter"
   },
   {
-    "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
+    "title": "LaGuardia pilots raised safety alarms months before deadly runway crash",
     "source": "Hacker News",
-    "description": "HN Score: 686 | 310 comments",
-    "url": "https://twitter.com/anemll/status/2035901335984611412",
-    "score": 686,
+    "description": "HN Score: 231 | 187 comments",
+    "url": "https://www.theguardian.com/us-news/2026/mar/24/laguardia-airplane-pilots-safety-concerns-crash",
+    "score": 231,
+    "date": "2026-03-24",
+    "category": "AI News"
+  },
+  {
+    "title": "Here is how you can deploy a claw agent without spending 10 hours in configuration hell. This is what I recommend to anyone who wants a taste of auton",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2036462163628531721#m",
+    "date": "2026-03-24",
+    "category": "Twitter"
+  },
+  {
+    "title": "Secure Domain Name System (DNS) Deployment 2026 Guide [pdf]",
+    "source": "Hacker News",
+    "description": "HN Score: 75 | 7 comments",
+    "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-81r3.pdf",
+    "score": 75,
+    "date": "2026-03-24",
+    "category": "AI News"
+  },
+  {
+    "title": "There are literally a million LLMs but only these eight are useful in the real world Opus 4.6 - king of coding GPT 5.4 - everyday use Grok 4.2 - expla",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2036517787829670066#m",
+    "date": "2026-03-24",
+    "category": "Twitter"
+  },
+  {
+    "title": "io_uring, libaio performance across Linux kernels and an unexpected IOMMU trap",
+    "source": "Hacker News",
+    "description": "HN Score: 49 | 16 comments",
+    "url": "https://blog.ydb.tech/how-io-uring-overtook-libaio-performance-across-linux-kernels-and-an-unexpected-iommu-trap-ea6126d9ef14",
+    "score": 49,
     "date": "2026-03-24",
     "category": "AI News"
   },
@@ -144,28 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "NanoClaw Adopts OneCLI Agent Vault",
+    "title": "The AI Industry Is Lying to You",
     "source": "Hacker News",
-    "description": "HN Score: 88 | 25 comments",
-    "url": "https://nanoclaw.dev/blog/nanoclaw-agent-vault/",
-    "score": 88,
-    "date": "2026-03-24",
-    "category": "AI News"
-  },
-  {
-    "title": "GPT 5.4 is cheaper and more performant for xls and deep research than other SOTA models We have now managed to improve performance by 33% on other top",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2036151038491955678#m",
-    "date": "2026-03-24",
-    "category": "Twitter"
-  },
-  {
-    "title": "Claude Code Cheat Sheet",
-    "source": "Hacker News",
-    "description": "HN Score: 580 | 179 comments",
-    "url": "https://cc.storyfox.cz",
-    "score": 580,
+    "description": "HN Score: 92 | 38 comments",
+    "url": "https://www.wheresyoured.at/the-ai-industry-is-lying-to-you/",
+    "score": 92,
     "date": "2026-03-24",
     "category": "AI News"
   }
