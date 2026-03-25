@@ -10,9 +10,9 @@
   {
     "title": "Flighty Airports",
     "source": "Hacker News",
-    "description": "HN Score: 85 | 29 comments",
+    "description": "HN Score: 198 | 64 comments",
     "url": "https://flighty.com/airports",
-    "score": 85,
+    "score": 198,
     "date": "2026-03-25",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
     "source": "Hacker News",
-    "description": "HN Score: 514 | 378 comments",
+    "description": "HN Score: 574 | 399 comments",
     "url": "https://github.com/BerriAI/litellm/issues/24512",
-    "score": 514,
+    "score": 574,
     "date": "2026-03-25",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Transformers Are Bayesian Networks",
+    "title": "Intel Device Modeling Language for virtual platforms",
     "source": "Hacker News",
-    "description": "HN Score: 20 | 6 comments",
-    "url": "https://arxiv.org/abs/2603.17063",
-    "score": 20,
+    "description": "HN Score: 14 | 0 comments",
+    "url": "https://github.com/intel/device-modeling-language",
+    "score": 14,
     "date": "2026-03-25",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains",
+    "title": "Show HN: Email.md \u2013 Markdown to responsive, email-safe HTML",
     "source": "Hacker News",
-    "description": "HN Score: 704 | 251 comments",
-    "url": "https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/",
-    "score": 704,
+    "description": "HN Score: 248 | 58 comments",
+    "url": "https://www.emailmd.dev/",
+    "score": 248,
     "date": "2026-03-25",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Email.md \u2013 Markdown to responsive, email-safe HTML",
+    "title": "Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains",
     "source": "Hacker News",
-    "description": "HN Score: 225 | 55 comments",
-    "url": "https://www.emailmd.dev/",
-    "score": 225,
+    "description": "HN Score: 782 | 265 comments",
+    "url": "https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/",
+    "score": 782,
     "date": "2026-03-25",
     "category": "AI News"
   },
@@ -95,9 +95,26 @@
   {
     "title": "Hypura \u2013 A storage-tier-aware LLM inference scheduler for Apple Silicon",
     "source": "Hacker News",
-    "description": "HN Score: 194 | 75 comments",
+    "description": "HN Score: 196 | 75 comments",
     "url": "https://github.com/t8/hypura",
-    "score": 194,
+    "score": 196,
+    "date": "2026-03-25",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: Here is how you can deploy a claw agent without spending 10 hours in configuration hell. This is what I recommend to anyone who wants a",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2036462163628531721#m",
+    "date": "2026-03-25",
+    "category": "Twitter"
+  },
+  {
+    "title": "Show HN: AI Roundtable \u2013 Let 200 models debate your question",
+    "source": "Hacker News",
+    "description": "HN Score: 31 | 32 comments",
+    "url": "https://opper.ai/ai-roundtable/",
+    "score": 31,
     "date": "2026-03-25",
     "category": "AI News"
   },
@@ -112,26 +129,9 @@
   {
     "title": "Epoch confirms GPT5.4 Pro solved a frontier math open problem",
     "source": "Hacker News",
-    "description": "HN Score: 421 | 608 comments",
+    "description": "HN Score: 436 | 637 comments",
     "url": "https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs",
-    "score": 421,
-    "date": "2026-03-25",
-    "category": "AI News"
-  },
-  {
-    "title": "R to @svpino: Here is the link to the platform: https://blink.new/claw You can deploy your first agent for free on their platform. Check out their ori",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2036462175691399621#m",
-    "date": "2026-03-25",
-    "category": "Twitter"
-  },
-  {
-    "title": "Is anybody else bored of talking about AI?",
-    "source": "Hacker News",
-    "description": "HN Score: 548 | 385 comments",
-    "url": "https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/",
-    "score": 548,
+    "score": 436,
     "date": "2026-03-25",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "LaGuardia pilots raised safety alarms months before deadly runway crash",
+    "title": "Is anybody else bored of talking about AI?",
     "source": "Hacker News",
-    "description": "HN Score: 340 | 278 comments",
-    "url": "https://www.theguardian.com/us-news/2026/mar/24/laguardia-airplane-pilots-safety-concerns-crash",
-    "score": 340,
+    "description": "HN Score: 608 | 411 comments",
+    "url": "https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/",
+    "score": 608,
     "date": "2026-03-25",
     "category": "AI News"
   },
@@ -163,9 +163,9 @@
   {
     "title": "Show HN: ProofShot \u2013 Give AI coding agents eyes to verify the UI they build",
     "source": "Hacker News",
-    "description": "HN Score: 124 | 73 comments",
+    "description": "HN Score: 126 | 88 comments",
     "url": "https://github.com/AmElmo/proofshot",
-    "score": 124,
+    "score": 126,
     "date": "2026-03-25",
     "category": "AI News"
   }
