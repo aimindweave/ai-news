@@ -10,9 +10,9 @@
   {
     "title": "TurboQuant: Redefining AI efficiency with extreme compression",
     "source": "Hacker News",
-    "description": "HN Score: 77 | 6 comments",
+    "description": "HN Score: 135 | 25 comments",
     "url": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
-    "score": 77,
+    "score": 135,
     "date": "2026-03-25",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "Flighty Airports",
     "source": "Hacker News",
-    "description": "HN Score: 264 | 83 comments",
+    "description": "HN Score: 303 | 101 comments",
     "url": "https://flighty.com/airports",
-    "score": 264,
+    "score": 303,
     "date": "2026-03-25",
     "category": "AI News"
   },
@@ -44,9 +44,9 @@
   {
     "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
     "source": "Hacker News",
-    "description": "HN Score: 613 | 407 comments",
+    "description": "HN Score: 652 | 418 comments",
     "url": "https://github.com/BerriAI/litellm/issues/24512",
-    "score": 613,
+    "score": 652,
     "date": "2026-03-25",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Intel Device Modeling Language for virtual platforms",
+    "title": "Show HN: Email.md \u2013 Markdown to responsive, email-safe HTML",
     "source": "Hacker News",
-    "description": "HN Score: 23 | 0 comments",
-    "url": "https://github.com/intel/device-modeling-language",
-    "score": 23,
+    "description": "HN Score: 284 | 67 comments",
+    "url": "https://www.emailmd.dev/",
+    "score": 284,
     "date": "2026-03-25",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Email.md \u2013 Markdown to responsive, email-safe HTML",
+    "title": "Intel Device Modeling Language for virtual platforms",
     "source": "Hacker News",
-    "description": "HN Score: 264 | 62 comments",
-    "url": "https://www.emailmd.dev/",
-    "score": 264,
+    "description": "HN Score: 28 | 0 comments",
+    "url": "https://github.com/intel/device-modeling-language",
+    "score": 28,
     "date": "2026-03-25",
     "category": "AI News"
   },
@@ -95,9 +95,9 @@
   {
     "title": "Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains",
     "source": "Hacker News",
-    "description": "HN Score: 831 | 286 comments",
+    "description": "HN Score: 905 | 322 comments",
     "url": "https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/",
-    "score": 831,
+    "score": 905,
     "date": "2026-03-25",
     "category": "AI News"
   },
@@ -112,9 +112,9 @@
   {
     "title": "Hypura \u2013 A storage-tier-aware LLM inference scheduler for Apple Silicon",
     "source": "Hacker News",
-    "description": "HN Score: 197 | 75 comments",
+    "description": "HN Score: 201 | 76 comments",
     "url": "https://github.com/t8/hypura",
-    "score": 197,
+    "score": 201,
     "date": "2026-03-25",
     "category": "AI News"
   },
@@ -127,11 +127,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Epoch confirms GPT5.4 Pro solved a frontier math open problem",
+    "title": "Show HN: AI Roundtable \u2013 Let 200 models debate your question",
     "source": "Hacker News",
-    "description": "HN Score: 442 | 644 comments",
-    "url": "https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs",
-    "score": 442,
+    "description": "HN Score: 51 | 43 comments",
+    "url": "https://opper.ai/ai-roundtable/",
+    "score": 51,
+    "date": "2026-03-25",
+    "category": "AI News"
+  },
+  {
+    "title": "Bro disappeared like he never existed! \ud83d\ude32 I miss Ilya",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2036712456589128169#m",
+    "date": "2026-03-25",
+    "category": "Twitter"
+  },
+  {
+    "title": "Show HN: ProofShot \u2013 Give AI coding agents eyes to verify the UI they build",
+    "source": "Hacker News",
+    "description": "HN Score: 130 | 90 comments",
+    "url": "https://github.com/AmElmo/proofshot",
+    "score": 130,
     "date": "2026-03-25",
     "category": "AI News"
   },
@@ -144,28 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: AI Roundtable \u2013 Let 200 models debate your question",
+    "title": "LaGuardia pilots raised safety alarms months before deadly runway crash",
     "source": "Hacker News",
-    "description": "HN Score: 40 | 36 comments",
-    "url": "https://opper.ai/ai-roundtable/",
-    "score": 40,
-    "date": "2026-03-25",
-    "category": "AI News"
-  },
-  {
-    "title": "There are literally a million LLMs but only these eight are useful in the real world Opus 4.6 - king of coding GPT 5.4 - everyday use Grok 4.2 - expla",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2036517787829670066#m",
-    "date": "2026-03-25",
-    "category": "Twitter"
-  },
-  {
-    "title": "Show HN: ProofShot \u2013 Give AI coding agents eyes to verify the UI they build",
-    "source": "Hacker News",
-    "description": "HN Score: 128 | 89 comments",
-    "url": "https://github.com/AmElmo/proofshot",
-    "score": 128,
+    "description": "HN Score: 364 | 285 comments",
+    "url": "https://www.theguardian.com/us-news/2026/mar/24/laguardia-airplane-pilots-safety-concerns-crash",
+    "score": 364,
     "date": "2026-03-25",
     "category": "AI News"
   }
