@@ -93,6 +93,16 @@
   ],
   "episodes": [
     {
+      "id": "Practica_0",
+      "name": "AI at the Edge is a different operating environment",
+      "show": "Practical AI",
+      "description": "\n        What does “AI at the edge” really mean in 2026, and why does it matter now more than ever before? In this episode, we’re joined by Brandon Shibley, Edge AI Solutions Engineering Lead at Qu",
+      "release_date": "2026-03-25",
+      "duration_min": 46,
+      "image": "",
+      "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
+    },
+    {
       "id": "a]6z Pod_0",
       "name": "Submarines and the Future of Defense Manufacturing",
       "show": "a]6z Podcast",
@@ -143,7 +153,7 @@
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
-      "id": "Practica_0",
+      "id": "Practica_1",
       "name": "Humility in the Age of Agentic Coding",
       "show": "Practical AI",
       "description": "\n        What happens when an AI hater starts building with AI agents? In this episode, we talk with software engineer Steve Klabnik, known for his work on the Rust programming language, about his ",
@@ -193,7 +203,7 @@
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
     },
     {
-      "id": "Practica_1",
+      "id": "Practica_2",
       "name": "AI policy and the battle for computing power",
       "show": "Practical AI",
       "description": "\n        AI is reshaping global power, from chip manufacturing and computing power to AI governance and US-China relations.  In this episode, Ben Buchanan, Assistant Professor at The Johns Hopkins ",
@@ -251,16 +261,6 @@
       "duration_min": 78,
       "image": "",
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
-    },
-    {
-      "id": "Practica_2",
-      "name": "Cognitive Synthesis and Neural Athletes",
-      "show": "Practical AI",
-      "description": "\n        As AI accelerates innovation and adoption, leaders are facing rising cognitive load, shifting systems, and new emotional realities inside their organizations. In this episode, Deloitte’s C",
-      "release_date": "2026-02-18",
-      "duration_min": 52,
-      "image": "",
-      "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
       "id": "The TWIM_2",

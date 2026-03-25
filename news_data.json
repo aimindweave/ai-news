@@ -1,5 +1,12 @@
 [
   {
+    "title": "Bernie Sanders and AOC propose a ban on data center construction",
+    "source": "TechCrunch",
+    "summary": "Senator Bernie Sanders and Rep. Alexandria Ocasio-Cortez introduced companion legislation to halt construction on new data centers until Congress passes comprehensive AI regulation.",
+    "url": "https://techcrunch.com/2026/03/25/bernie-sanders-and-aoc-propose-a-ban-on-data-center-construction/",
+    "date": "2026-03-25"
+  },
+  {
     "title": "Google launches Lyria 3 Pro music generation model",
     "source": "TechCrunch",
     "summary": "Google is launching Lyria 3 Pro, an upgraded music model that generates longer, more customizable tracks, as it expands AI music tools across Gemini, enterprise products, and other services.",
@@ -11,6 +18,13 @@
     "source": "TechCrunch",
     "summary": "Reddit will require suspected automated accounts to verify they\u2019re human, as it ramps up efforts to curb bot-driven spam and manipulation.",
     "url": "https://techcrunch.com/2026/03/25/reddit-bots-new-human-verification-requirements/",
+    "date": "2026-03-25"
+  },
+  {
+    "title": "Harvey confirms $11B valuation: Sequoia triples down",
+    "source": "TechCrunch",
+    "summary": "Investors like Sequoia, Andreessen Horowitz, Kleiner Perkins, and Elad Gil can't get enough of AI legal tech startup Harvey.",
+    "url": "https://techcrunch.com/2026/03/25/harvey-confirms-11b-valuation-sequoia-triples-down/",
     "date": "2026-03-25"
   },
   {
@@ -44,7 +58,7 @@
   {
     "title": "Lucid Bots raises $20M to keep up with demand for its window-washing drones",
     "source": "TechCrunch",
-    "summary": "Lucid Bots has seen demand accelerate over the last year for its window cleaning drones and power washing robots.",
+    "summary": "Lucid Bots has seen demand accelerate over the last year for its window-cleaning drones and power-washing robots.",
     "url": "https://techcrunch.com/2026/03/25/lucid-bots-raises-20m-to-keep-up-with-demand-for-its-window-washing-drones/",
     "date": "2026-03-25"
   },
@@ -91,17 +105,10 @@
     "date": "2026-03-25"
   },
   {
-    "title": "Arm is releasing the first in-house chip in its 35-year history",
-    "source": "TechCrunch",
-    "summary": "Arm is producing its own CPU for the first time. It developed the CPU with Meta, which is also the chip's first customer.",
-    "url": "https://techcrunch.com/2026/03/24/arm-is-releasing-its-first-in-house-chip-in-its-35-year-history/",
-    "date": "2026-03-25"
-  },
-  {
-    "title": "OpenAI\u2019s plans to make ChatGPT more like Amazon aren\u2019t going so well",
-    "source": "TechCrunch",
-    "summary": "OpenAI says it's moving away from Instant Checkout, which allowed users to buy items directly through the ChatGPT interface.",
-    "url": "https://techcrunch.com/2026/03/24/openais-plans-to-make-chatgpt-more-like-amazon-arent-going-so-well/",
+    "title": "Roundtables: The Next Era of Space Exploration",
+    "source": "MIT Tech Review",
+    "summary": "Listen to the session or watch below Whether it s the race to find life on Mars, the campaign to outsmart killer asteroids, or the quest to make the moon a permanent home to astronauts, scientists efforts in space can tell us more about where humanity is headed. This subscriber-only discussion ex...",
+    "url": "https://www.technologyreview.com/2026/03/25/1134664/roundtables-the-next-era-of-space-exploration/",
     "date": "2026-03-25"
   },
   {
@@ -168,10 +175,17 @@
     "date": "2026-03-25"
   },
   {
-    "title": "The Download: animal welfare gets AGI-pilled, and the White House unveils its AI policy",
-    "source": "MIT Tech Review",
-    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. The Bay Area\u2019s animal welfare movement wants to recruit AI In early February, animal welfare advocates and AI researchers arrived in stocking feet at Mox, a sc...",
-    "url": "https://www.technologyreview.com/2026/03/23/1134509/the-download-animal-welfare-agi-pilled-white-house-unveils-ai-policy/",
+    "title": "There\u2019s Something Very Dark About a Lot of Those Viral AI Fruit Videos",
+    "source": "Wired",
+    "summary": "From female fruit being fart-shamed or even sexually assaulted, there\u2019s a misogynistic undercurrent to the fruit slop microdramas, even as they appear to be cultivating genuine fans.",
+    "url": "https://www.wired.com/story/theres-something-very-dark-about-a-lot-of-those-viral-ai-fruit-videos/",
+    "date": "2026-03-25"
+  },
+  {
+    "title": "OpenClaw Agents Can Be Guilt-Tripped Into Self-Sabotage",
+    "source": "Wired",
+    "summary": "In a controlled experiment, OpenClaw agents proved prone to panic and vulnerable to manipulation. They even disabled their own functionality when gaslit by humans.",
+    "url": "https://www.wired.com/story/openclaw-ai-agent-manipulation-security-northeastern-study/",
     "date": "2026-03-25"
   },
   {
@@ -231,17 +245,10 @@
     "date": "2026-03-25"
   },
   {
-    "title": "The AI Race Is Pressuring Utilities to Squeeze More From Europe\u2019s Power Grids",
-    "source": "Wired",
-    "summary": "As data center developers queue up to connect to power grids across Europe, network operators are experimenting with novel ways of clearing room for them.",
-    "url": "https://www.wired.com/story/europe-squeeze-power-energy-grid-ai-data-center/",
-    "date": "2026-03-25"
-  },
-  {
-    "title": "I Tried DoorDash\u2019s Tasks App and Saw the Bleak Future of AI Gig Work",
-    "source": "Wired",
-    "summary": "I recorded videos of myself doing laundry, scrambling eggs, and walking around the park in DoorDash\u2019s new Tasks app, where gig workers are paid to train AI.",
-    "url": "https://www.wired.com/story/i-tried-doordashs-tasks-app-and-saw-the-bleak-future-of-ai-gig-work/",
+    "title": "Google's TurboQuant AI-compression algorithm can reduce LLM memory usage by 6x",
+    "source": "Ars Technica",
+    "summary": "TurboQuant makes AI models more efficient but doesn't reduce output quality like other methods.",
+    "url": "https://arstechnica.com/ai/2026/03/google-says-new-turboquant-compression-can-lower-ai-memory-usage-without-sacrificing-quality/",
     "date": "2026-03-25"
   },
   {
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "Nvidia's next frame-gen tech goes way beyond upscaling, and not in a good way.",
     "url": "https://arstechnica.com/gaming/2026/03/gamers-react-with-overwhelming-disgust-to-dlss-5s-generative-ai-glow-ups/",
-    "date": "2026-03-25"
-  },
-  {
-    "title": "Elon Musk's xAI sued for turning three girls' real photos into AI CSAM",
-    "source": "Ars Technica",
-    "summary": "Discord user led cops to Grok-generated CSAM of real girls, lawsuit says.",
-    "url": "https://arstechnica.com/tech-policy/2026/03/elon-musks-xai-sued-for-turning-three-girls-real-photos-into-ai-csam/",
     "date": "2026-03-25"
   }
 ]
