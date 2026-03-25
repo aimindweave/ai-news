@@ -10,9 +10,9 @@
   {
     "title": "Local LLM App by Ente",
     "source": "Hacker News",
-    "description": "HN Score: 130 | 48 comments",
+    "description": "HN Score: 232 | 99 comments",
     "url": "https://ente.com/blog/ensu/",
-    "score": 130,
+    "score": 232,
     "date": "2026-03-25",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "My Astrophotography in the Movie Project Hail Mary",
     "source": "Hacker News",
-    "description": "HN Score: 156 | 58 comments",
+    "description": "HN Score: 331 | 101 comments",
     "url": "https://rpastro.square.site/s/stories/phm",
-    "score": 156,
+    "score": 331,
     "date": "2026-03-25",
     "category": "AI News"
   },
@@ -44,9 +44,9 @@
   {
     "title": "TurboQuant: Redefining AI efficiency with extreme compression",
     "source": "Hacker News",
-    "description": "HN Score: 318 | 91 comments",
+    "description": "HN Score: 377 | 107 comments",
     "url": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
-    "score": 318,
+    "score": 377,
     "date": "2026-03-25",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "OpenAI's latest repo has Claude as the third top contributor",
+    "title": "Building a coding agent in Swift from scratch",
     "source": "Hacker News",
-    "description": "HN Score: 19 | 3 comments",
-    "url": "https://twitter.com/CodeByNZ/status/2036723050197012771",
-    "score": 19,
+    "description": "HN Score: 39 | 12 comments",
+    "url": "https://github.com/ivan-magda/swift-claude-code",
+    "score": 39,
     "date": "2026-03-25",
     "category": "AI News"
   },
@@ -78,9 +78,9 @@
   {
     "title": "Flighty Airports",
     "source": "Hacker News",
-    "description": "HN Score: 408 | 148 comments",
+    "description": "HN Score: 456 | 162 comments",
     "url": "https://flighty.com/airports",
-    "score": 408,
+    "score": 456,
     "date": "2026-03-25",
     "category": "AI News"
   },
@@ -95,26 +95,9 @@
   {
     "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
     "source": "Hacker News",
-    "description": "HN Score: 811 | 455 comments",
+    "description": "HN Score: 853 | 462 comments",
     "url": "https://github.com/BerriAI/litellm/issues/24512",
-    "score": 811,
-    "date": "2026-03-25",
-    "category": "AI News"
-  },
-  {
-    "title": "R to @svpino: I published the notebook on Oracle's AI Developer Hub GitHub repository: https://fandf.co/4b18KAR There are all sorts of AI code example",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2036820575369474346#m",
-    "date": "2026-03-25",
-    "category": "Twitter"
-  },
-  {
-    "title": "Building a coding agent in Swift from scratch",
-    "source": "Hacker News",
-    "description": "HN Score: 17 | 7 comments",
-    "url": "https://github.com/ivan-magda/swift-claude-code",
-    "score": 17,
+    "score": 853,
     "date": "2026-03-25",
     "category": "AI News"
   },
@@ -127,11 +110,28 @@
     "category": "Twitter"
   },
   {
-    "title": "How to Keep ICE Agents Out of Your Devices at Airports",
+    "title": "Musketeer d'Artagnan's remains believed found under Dutch church",
     "source": "Hacker News",
-    "description": "HN Score: 9 | 0 comments",
-    "url": "https://theintercept.com/2026/03/25/ice-airports-phone-security-privacy-safety/",
-    "score": 9,
+    "description": "HN Score: 28 | 2 comments",
+    "url": "https://www.bbc.co.uk/news/articles/cm2rew2dgzzo",
+    "score": 28,
+    "date": "2026-03-25",
+    "category": "AI News"
+  },
+  {
+    "title": "R to @svpino: I published the notebook on Oracle's AI Developer Hub GitHub repository: https://fandf.co/4b18KAR There are all sorts of AI code example",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2036822117107253683#m",
+    "date": "2026-03-25",
+    "category": "Twitter"
+  },
+  {
+    "title": "Show HN: Email.md \u2013 Markdown to responsive, email-safe HTML",
+    "source": "Hacker News",
+    "description": "HN Score: 353 | 89 comments",
+    "url": "https://www.emailmd.dev/",
+    "score": 353,
     "date": "2026-03-25",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Email.md \u2013 Markdown to responsive, email-safe HTML",
+    "title": "Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains",
     "source": "Hacker News",
-    "description": "HN Score: 334 | 85 comments",
-    "url": "https://www.emailmd.dev/",
-    "score": 334,
+    "description": "HN Score: 1160 | 423 comments",
+    "url": "https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/",
+    "score": 1160,
     "date": "2026-03-25",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains",
+    "title": "Hypura \u2013 A storage-tier-aware LLM inference scheduler for Apple Silicon",
     "source": "Hacker News",
-    "description": "HN Score: 1108 | 397 comments",
-    "url": "https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/",
-    "score": 1108,
+    "description": "HN Score: 212 | 84 comments",
+    "url": "https://github.com/t8/hypura",
+    "score": 212,
     "date": "2026-03-25",
     "category": "AI News"
   }
