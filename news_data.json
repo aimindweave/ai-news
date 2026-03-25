@@ -1,5 +1,26 @@
 [
   {
+    "title": "Granola raises $125M, hits $1.5B valuation as it expands from meeting notetaker to enterprise AI app",
+    "source": "TechCrunch",
+    "summary": "Granola's valuation jumped from $250 million to $1.5 billion with this round, and it has added more support for AI agents after users previously complained.",
+    "url": "https://techcrunch.com/2026/03/25/granola-raises-125m-hits-1-5b-valuation-as-it-expands-from-meeting-notetaker-to-enterprise-ai-app/",
+    "date": "2026-03-25"
+  },
+  {
+    "title": "Meta launches new initiative to support entrepreneurship, drive AI adoption",
+    "source": "TechCrunch",
+    "summary": "Meta CEO Mark Zuckerberg said in a memo to staff that small businesses have always been a big part of the company's business model, and that while tens of millions of entrepreneurs already use its platforms to grow and connect with customers, the company wants to do more in the space.",
+    "url": "https://techcrunch.com/2026/03/25/meta-launches-new-initiative-to-support-entrepreneurship-drive-ai-adoption/",
+    "date": "2026-03-25"
+  },
+  {
+    "title": "Meta turns to AI to make shopping easier on Instagram and Facebook",
+    "source": "TechCrunch",
+    "summary": "Meta is using generative AI to provide more product and brand information to consumers when they're shopping in its apps.",
+    "url": "https://techcrunch.com/2026/03/25/meta-turns-to-ai-to-make-shopping-easier-on-instagram-and-facebook/",
+    "date": "2026-03-25"
+  },
+  {
     "title": "With Sift Stack, two ex-SpaceX engineers are bringing the software that helped launch rockets to the factory floor",
     "source": "TechCrunch",
     "summary": "Sift is building the data infrastructure for advanced manufacturing.",
@@ -84,24 +105,10 @@
     "date": "2026-03-25"
   },
   {
-    "title": "Talat\u2019s AI meeting notes stay on your machine, not in the cloud",
-    "source": "TechCrunch",
-    "summary": "The subscription-free AI meeting notes app is a local-first twist on notetaking tools like Granola.",
-    "url": "https://techcrunch.com/2026/03/24/talats-ai-meeting-notes-stay-on-your-machine-not-in-the-cloud/",
-    "date": "2026-03-25"
-  },
-  {
-    "title": "Doss raises $55M for AI inventory management that plugs into ERP",
-    "source": "TechCrunch",
-    "summary": "Doss's AI-powered inventory management system integrates with existing ERP systems. The Series B round was co-led by Madrona and Premji Invest.",
-    "url": "https://techcrunch.com/2026/03/24/doss-raises-55m-for-ai-inventory-management-that-plugs-into-erp/",
-    "date": "2026-03-25"
-  },
-  {
-    "title": "Meet the former Apple designer building a new AI interface at Hark",
-    "source": "TechCrunch",
-    "summary": "The company said it would design models, hardware, and interfaces in tandem to deliver a 'seamless end-to-end personal intelligence product.'",
-    "url": "https://techcrunch.com/2026/03/24/meet-the-former-apple-designer-building-a-new-ai-interface-at-hark/",
+    "title": "This startup wants to change how mathematicians do math",
+    "source": "MIT Tech Review",
+    "summary": "Axiom Math, a startup based in Palo Alto, California, has released a free new AI tool for mathematicians, designed to discover mathematical patterns that could unlock solutions to long-standing problems. The tool, called Axplorer, is a redesign of an existing one called PatternBoost that Fran\u00e7ois...",
+    "url": "https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/",
     "date": "2026-03-25"
   },
   {
@@ -168,10 +175,17 @@
     "date": "2026-03-25"
   },
   {
-    "title": "The Download: OpenAI is building a fully automated researcher, and a psychedelic trial blind spot",
-    "source": "MIT Tech Review",
-    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. OpenAI is throwing everything into building a fully automated researcher OpenAI has a new grand challenge: building an AI researcher\u2014a fully automated agent-ba...",
-    "url": "https://www.technologyreview.com/2026/03/20/1134448/the-download-openai-building-fully-automated-researcher-psychedelic-drug-trial/",
+    "title": "OpenAI Enters Its Focus Era by Killing Sora",
+    "source": "Wired",
+    "summary": "As the ChatGPT-maker eyes an IPO, it's ditching Sora in favor of a unified AI assistant and enterprise coding tools.",
+    "url": "https://www.wired.com/story/openai-shuts-down-sora-ipo-ai-superapp/",
+    "date": "2026-03-25"
+  },
+  {
+    "title": "New Bernie Sanders AI Safety Bill Would Halt Data Center Construction",
+    "source": "Wired",
+    "summary": "The US senator said on Tuesday that a moratorium would give lawmakers time to 'ensure that AI is safe.' Alexandria Ocasio-Cortez will introduce a similar bill in the House in the weeks ahead.",
+    "url": "https://www.wired.com/story/new-bernie-sanders-ai-safety-bill-would-halt-data-center-construction/",
     "date": "2026-03-25"
   },
   {
@@ -231,17 +245,10 @@
     "date": "2026-03-25"
   },
   {
-    "title": "Cyberattack on a Car Breathalyzer Firm Leaves Drivers Stuck",
-    "source": "Wired",
-    "summary": "Plus: The FBI admits it\u2019s buying phone data to track Americans, Iranian hackers disrupt medical care at Maryland hospitals, and more.",
-    "url": "https://www.wired.com/story/security-news-this-week-cyberattack-on-a-car-breathalyzer-firm-leaves-drivers-stuck/",
-    "date": "2026-03-25"
-  },
-  {
-    "title": "'Jury Duty Presents: Company Retreat' Almost Makes Corporate Culture Seem Fun",
-    "source": "Wired",
-    "summary": "The Amazon Prime prank series amplifies the hijinks of workplace dynamics, while showing how people find purpose\u2014and community\u2014in their jobs despite impossible situations.",
-    "url": "https://www.wired.com/story/jury-duty-presents-company-retreat-almost-makes-corporate-culture-seem-fun/",
+    "title": "Disney cancels $1 billion OpenAI partnership amid Sora shutdown plans",
+    "source": "Ars Technica",
+    "summary": "Press reports suggest Disney was blindsided and that no money changed hands.",
+    "url": "https://arstechnica.com/ai/2026/03/the-end-of-sora-also-means-the-end-of-disneys-1-billion-openai-investment/",
     "date": "2026-03-25"
   },
   {
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "Discord user led cops to Grok-generated CSAM of real girls, lawsuit says.",
     "url": "https://arstechnica.com/tech-policy/2026/03/elon-musks-xai-sued-for-turning-three-girls-real-photos-into-ai-csam/",
-    "date": "2026-03-25"
-  },
-  {
-    "title": "New 'vibe coded' AI translation tool splits the video game preservation community",
-    "source": "Ars Technica",
-    "summary": "Creator apologizes after using Patreon funds for Gemini-powered magazine scan processor.",
-    "url": "https://arstechnica.com/ai/2026/03/new-vibe-coded-ai-translation-tool-splits-the-video-game-preservation-community/",
     "date": "2026-03-25"
   }
 ]
