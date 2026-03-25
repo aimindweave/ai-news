@@ -94,6 +94,16 @@
   "episodes": [
     {
       "id": "a]6z Pod_0",
+      "name": "Submarines and the Future of Defense Manufacturing",
+      "show": "a]6z Podcast",
+      "description": "David Ulevitch speaks with Chris Power, founder and CEO at Hadrian, and Vice Admiral Robert Gaucher, the Pentagon's first direct reporting portfolio manager for submarines, at the opening of Hadria",
+      "release_date": "2026-03-25",
+      "duration_min": 23,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
+      "id": "a]6z Pod_1",
       "name": "The Missing Power Layer of Modern Warfare",
       "show": "a]6z Podcast",
       "description": "Erin Price-Wright speaks with Adam Warmoth, founder and CEO of Chariot Defense, and Alex Miller, CTO of the U.S. Army, about the power crisis at the heart of modern military operations. As the batt",
@@ -113,7 +123,7 @@
       "url": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "Why Every Satellite Needs Earth | Northwood CEO on a16z",
       "show": "a]6z Podcast",
       "description": "Bridgit Mendler, Co-founder and CEO of Northwood, joins a16z’s Erik Torenberg to discuss the critical but overlooked bottleneck in space: ground infrastructure. Northwood is building the systems th",
@@ -131,16 +141,6 @@
       "duration_min": 60,
       "image": "",
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
-    },
-    {
-      "id": "a]6z Pod_2",
-      "name": "Inside Palantir: Building Software That Matters with Shyam Sankar",
-      "show": "a]6z Podcast",
-      "description": "In this conversation, Shyam Sankar, chief technology officer at Palantir Technologies, discusses his new book Mobilize, his commission in the U.S. Army, and why he believes the most important thing",
-      "release_date": "2026-03-20",
-      "duration_min": 54,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
       "id": "Practica_0",
