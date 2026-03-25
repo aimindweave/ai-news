@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "My Astrophotography in the Movie Project Hail Mary",
+    "title": "My astrophotography in the movie Project Hail Mary",
     "source": "Hacker News",
-    "description": "HN Score: 475 | 142 comments",
+    "description": "HN Score: 577 | 163 comments",
     "url": "https://rpastro.square.site/s/stories/phm",
-    "score": 475,
+    "score": 577,
     "date": "2026-03-25",
     "category": "AI News"
   },
@@ -25,11 +25,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Local LLM App by Ente",
+    "title": "Ensu \u2013 Ente\u2019s Local LLM app",
     "source": "Hacker News",
-    "description": "HN Score: 279 | 129 comments",
+    "description": "HN Score: 301 | 133 comments",
     "url": "https://ente.com/blog/ensu/",
-    "score": 279,
+    "score": 301,
+    "date": "2026-03-25",
+    "category": "AI News"
+  },
+  {
+    "title": "new physics make no mistakes",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/EMostaque/status/2036906034497778107#m",
+    "date": "2026-03-25",
+    "category": "Twitter"
+  },
+  {
+    "title": "Apple randomly closes bug reports unless you 'verify' the bug remains unfixed",
+    "source": "Hacker News",
+    "description": "HN Score: 78 | 46 comments",
+    "url": "https://lapcatsoftware.com/articles/2026/3/11.html",
+    "score": 78,
     "date": "2026-03-25",
     "category": "AI News"
   },
@@ -42,28 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "TurboQuant: Redefining AI efficiency with extreme compression",
+    "title": "90% of Claude-linked output going to GitHub repos w <2 stars",
     "source": "Hacker News",
-    "description": "HN Score: 417 | 118 comments",
-    "url": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
-    "score": 417,
-    "date": "2026-03-25",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @EMostaque: PrismAudio is open source\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f a 518M V2A model accepted at ICLR 2026, achieving SOTA across all four perceptual dimensions on both VG",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/ModelScope2022/status/2036339253945286796#m",
-    "date": "2026-03-25",
-    "category": "Twitter"
-  },
-  {
-    "title": "Flighty Airports",
-    "source": "Hacker News",
-    "description": "HN Score: 481 | 165 comments",
-    "url": "https://flighty.com/airports",
-    "score": 481,
+    "description": "HN Score: 13 | 10 comments",
+    "url": "https://www.claudescode.dev/?window=since_launch",
+    "score": 13,
     "date": "2026-03-25",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
+    "title": "TurboQuant: Redefining AI efficiency with extreme compression",
     "source": "Hacker News",
-    "description": "HN Score: 876 | 465 comments",
-    "url": "https://github.com/BerriAI/litellm/issues/24512",
-    "score": 876,
+    "description": "HN Score: 442 | 123 comments",
+    "url": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
+    "score": 442,
     "date": "2026-03-25",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Building a coding agent in Swift from scratch",
+    "title": "Flighty Airports",
     "source": "Hacker News",
-    "description": "HN Score: 49 | 12 comments",
-    "url": "https://github.com/ivan-magda/swift-claude-code",
-    "score": 49,
+    "description": "HN Score: 501 | 170 comments",
+    "url": "https://flighty.com/airports",
+    "score": 501,
     "date": "2026-03-25",
     "category": "AI News"
   },
@@ -110,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Musketeer d'Artagnan's remains believed found under Dutch church",
+    "title": "Building a coding agent in Swift from scratch",
     "source": "Hacker News",
-    "description": "HN Score: 58 | 18 comments",
-    "url": "https://www.bbc.co.uk/news/articles/cm2rew2dgzzo",
-    "score": 58,
+    "description": "HN Score: 55 | 13 comments",
+    "url": "https://github.com/ivan-magda/swift-claude-code",
+    "score": 55,
     "date": "2026-03-25",
     "category": "AI News"
   },
@@ -127,11 +127,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Email.md \u2013 Markdown to responsive, email-safe HTML",
+    "title": "Musketeer d'Artagnan's remains believed found under Dutch church",
     "source": "Hacker News",
-    "description": "HN Score: 360 | 94 comments",
-    "url": "https://www.emailmd.dev/",
-    "score": 360,
+    "description": "HN Score: 80 | 26 comments",
+    "url": "https://www.bbc.co.uk/news/articles/cm2rew2dgzzo",
+    "score": 80,
+    "date": "2026-03-25",
+    "category": "AI News"
+  },
+  {
+    "title": "AI agents - remember too much - forget key details - make the same mistakes - go into death loops - can\u2019t stop hallucinating Yet, more often than not,",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2036881793178362247#m",
+    "date": "2026-03-25",
+    "category": "Twitter"
+  },
+  {
+    "title": "Supreme Court Wipes Out Record Labels' $1B Piracy Judgment Against Cox",
+    "source": "Hacker News",
+    "description": "HN Score: 3 | 0 comments",
+    "url": "https://torrentfreak.com/supreme-court-wipes-out-record-labels-1-billion-piracy-judgment-against-cox/",
+    "score": 3,
     "date": "2026-03-25",
     "category": "AI News"
   },
@@ -144,28 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains",
+    "title": "Show HN: Email.md \u2013 Markdown to responsive, email-safe HTML",
     "source": "Hacker News",
-    "description": "HN Score: 1182 | 432 comments",
-    "url": "https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/",
-    "score": 1182,
-    "date": "2026-03-25",
-    "category": "AI News"
-  },
-  {
-    "title": "Super happy to see the Sora app and a lot of other OpenAI side hustles shutting down TBH, OpenAI simply has to focus on two things - GPT 6.0 - 5.4 is ",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2036680264777449774#m",
-    "date": "2026-03-25",
-    "category": "Twitter"
-  },
-  {
-    "title": "Apple Can Create Smaller On-Device AI Models from Google's Gemini",
-    "source": "Hacker News",
-    "description": "HN Score: 10 | 3 comments",
-    "url": "https://www.macrumors.com/2026/03/25/apple-google-gemini-distill-models/",
-    "score": 10,
+    "description": "HN Score: 363 | 94 comments",
+    "url": "https://www.emailmd.dev/",
+    "score": 363,
     "date": "2026-03-25",
     "category": "AI News"
   }
