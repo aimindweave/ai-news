@@ -1,5 +1,19 @@
 [
   {
+    "title": "OpenAI abandons yet another side quest: ChatGPT\u2019s erotic mode",
+    "source": "TechCrunch",
+    "summary": "It's only the latest of several side projects that the AI startup has ditched over the past week.",
+    "url": "https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/",
+    "date": "2026-03-26"
+  },
+  {
+    "title": "Data centers get ready \u2014 the Senate wants to see your power bills",
+    "source": "TechCrunch",
+    "summary": "Senators Josh Hawley and Elizabeth Warren want the Energy Information Administration to gather more details about how data centers use power \u2014 and how that affects the grid.",
+    "url": "https://techcrunch.com/2026/03/26/data-centers-get-ready-the-senate-wants-to-see-your-power-bills/",
+    "date": "2026-03-26"
+  },
+  {
     "title": "ByteDance\u2019s new AI video generation model, Dreamina Seedance 2.0, comes to CapCut",
     "source": "TechCrunch",
     "summary": "The new model in CapCut will have built-in protections for making video from real faces or unauthorized intellectual property.",
@@ -21,7 +35,7 @@
     "date": "2026-03-26"
   },
   {
-    "title": "A \u2018pound of flesh\u2019 from data centers: one senator\u2019s answer to AI job losses",
+    "title": "A \u2018pound of flesh\u2019 from data centers: One senator\u2019s answer to AI job losses",
     "source": "TechCrunch",
     "summary": "Fears of AI-driven job loss are growing fast, and they\u2019re fueling backlash against data centers. Sen. Mark Warner suggests taxing them to help workers survive the transition.",
     "url": "https://techcrunch.com/2026/03/26/a-pound-of-flesh-from-data-centers-one-senators-answer-to-ai-job-losses/",
@@ -88,20 +102,6 @@
     "source": "TechCrunch",
     "summary": "Reddit will require suspected automated accounts to verify they\u2019re human, as it ramps up efforts to curb bot-driven spam and manipulation.",
     "url": "https://techcrunch.com/2026/03/25/reddit-bots-new-human-verification-requirements/",
-    "date": "2026-03-26"
-  },
-  {
-    "title": "Harvey confirms $11B valuation: Sequoia triples down",
-    "source": "TechCrunch",
-    "summary": "Investors like Sequoia, Andreessen Horowitz, Kleiner Perkins, and Elad Gil can't get enough of AI legal tech startup Harvey.",
-    "url": "https://techcrunch.com/2026/03/25/harvey-confirms-11b-valuation-sequoia-triples-down/",
-    "date": "2026-03-26"
-  },
-  {
-    "title": "Granola raises $125M, hits $1.5B valuation as it expands from meeting notetaker to enterprise AI app",
-    "source": "TechCrunch",
-    "summary": "Granola's valuation jumped from $250 million to $1.5 billion with this round, and it has added more support for AI agents after users previously complained.",
-    "url": "https://techcrunch.com/2026/03/25/granola-raises-125m-hits-1-5b-valuation-as-it-expands-from-meeting-notetaker-to-enterprise-ai-app/",
     "date": "2026-03-26"
   },
   {
@@ -175,6 +175,13 @@
     "date": "2026-03-26"
   },
   {
+    "title": "Meet the Tech Reporters Using AI to Help Write and Edit Their Stories",
+    "source": "Wired",
+    "summary": "Independent writers are using AI agents all throughout their reporting process. What\u2019s the value of a human journalist, anyway?",
+    "url": "https://www.wired.com/story/tech-reporters-using-ai-write-edit-stories/",
+    "date": "2026-03-26"
+  },
+  {
     "title": "Senators Demand to Know How Much Energy Data Centers Use",
     "source": "Wired",
     "summary": "In a letter sent Thursday morning, Elizabeth Warren and Josh Hawley press the Energy Information Agency to mandate annual electricity disclosure for data centers.",
@@ -238,10 +245,17 @@
     "date": "2026-03-26"
   },
   {
-    "title": "Chris Hayes Has Some Advice for Keeping Up With the News",
-    "source": "Wired",
-    "summary": "The host of MS Now\u2019s All In, knows how hard it is to stay current. But he also knows where you should focus your attention\u2014and it starts with a sober view of AI.",
-    "url": "https://www.wired.com/story/the-big-interview-podcast-chris-hayes/",
+    "title": "Study: Sycophantic AI can undermine human judgment",
+    "source": "Ars Technica",
+    "summary": "Subjects who interacted with AI tools were more likely to think they were right, less likely to resolve conflicts.",
+    "url": "https://arstechnica.com/science/2026/03/study-sycophantic-ai-can-undermine-human-judgment/",
+    "date": "2026-03-26"
+  },
+  {
+    "title": "The debut of Gemini 3.1 Flash Live could make it harder to know if you're talking to a robot",
+    "source": "Ars Technica",
+    "summary": "Google's new conversational audio AI is rolling out in search, Gemini, and developer tools today.",
+    "url": "https://arstechnica.com/ai/2026/03/the-debut-of-gemini-3-1-flash-live-could-make-it-harder-to-know-if-youre-talking-to-a-robot/",
     "date": "2026-03-26"
   },
   {
@@ -333,20 +347,6 @@
     "source": "Ars Technica",
     "summary": "Codex maker says it will 'continue to support these open source projects' after deal closes.",
     "url": "https://arstechnica.com/ai/2026/03/openai-is-acquiring-open-source-python-tool-maker-astral/",
-    "date": "2026-03-26"
-  },
-  {
-    "title": "Kagi Translate's AI answers the question 'What would horny Margaret Thatcher say?'",
-    "source": "Ars Technica",
-    "summary": "Remember when it was fun to play around with LLMs?",
-    "url": "https://arstechnica.com/ai/2026/03/kagi-translates-ai-answers-the-question-what-would-horny-margaret-thatcher-say/",
-    "date": "2026-03-26"
-  },
-  {
-    "title": "Musk\u2019s tactic of blaming users for Grok sex images may be foiled by EU law",
-    "source": "Ars Technica",
-    "summary": "Planned EU ban on nudify apps would likely force Musk to make Grok less 'spicy.'",
-    "url": "https://arstechnica.com/tech-policy/2026/03/eu-moves-to-ban-nudify-apps-after-grok-made-them-mainstream/",
     "date": "2026-03-26"
   }
 ]
