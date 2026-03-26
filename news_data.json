@@ -1,5 +1,12 @@
 [
   {
+    "title": "ByteDance\u2019s new AI video generation model, Dreamina Seedance 2.0, comes to CapCut",
+    "source": "TechCrunch",
+    "summary": "The new model in CapCut will have built-in protections for making video from real faces or unauthorized intellectual property.",
+    "url": "https://techcrunch.com/2026/03/26/bytedances-new-ai-video-generation-model-dreamina-seedance-2-0-comes-to-capcut/",
+    "date": "2026-03-26"
+  },
+  {
     "title": "Conntour raises $7M from General Catalyst, YC to build an AI search engine for security video systems",
     "source": "TechCrunch",
     "summary": "Conntour uses AI models to let security teams query camera feeds using natural language to find any object, person, or situation.",
@@ -7,7 +14,7 @@
     "date": "2026-03-26"
   },
   {
-    "title": "Cohere launches an open-source voice model specifically for transcription",
+    "title": "Cohere launches an open source voice model specifically for transcription",
     "source": "TechCrunch",
     "summary": "Relatively light at just 2 billion parameters, the model is meant for use with consumer-grade GPUs for those who want to self-host it. It currently supports 14 languages.",
     "url": "https://techcrunch.com/2026/03/26/cohere-launches-an-open-source-voice-model-specifically-for-transcription/",
@@ -21,9 +28,9 @@
     "date": "2026-03-26"
   },
   {
-    "title": "Mistral releases a new open-source model for speech generation",
+    "title": "Mistral releases a new open source model for speech generation",
     "source": "TechCrunch",
-    "summary": "Mistral's new speech model can run on a smartwatch or a smartphone.",
+    "summary": "The model, which lets enterprises build voice agents for sales and customer engagement, puts Mistral in direct competition with the likes of ElevenLabs, Deepgram, and OpenAI.",
     "url": "https://techcrunch.com/2026/03/26/mistral-releases-a-new-open-source-model-for-speech-generation/",
     "date": "2026-03-26"
   },
@@ -95,13 +102,6 @@
     "source": "TechCrunch",
     "summary": "Granola's valuation jumped from $250 million to $1.5 billion with this round, and it has added more support for AI agents after users previously complained.",
     "url": "https://techcrunch.com/2026/03/25/granola-raises-125m-hits-1-5b-valuation-as-it-expands-from-meeting-notetaker-to-enterprise-ai-app/",
-    "date": "2026-03-26"
-  },
-  {
-    "title": "Meta launches new initiative to support entrepreneurship, drive AI adoption",
-    "source": "TechCrunch",
-    "summary": "Meta CEO Mark Zuckerberg said in a memo to staff that small businesses have always been a big part of the company's business model, and that while tens of millions of entrepreneurs already use its platforms to grow and connect with customers, the company wants to do more in the space.",
-    "url": "https://techcrunch.com/2026/03/25/meta-launches-new-initiative-to-support-entrepreneurship-drive-ai-adoption/",
     "date": "2026-03-26"
   },
   {
@@ -245,6 +245,13 @@
     "date": "2026-03-26"
   },
   {
+    "title": "OpenAI \u201cindefinitely\u201d shelves plans for erotic ChatGPT",
+    "source": "Ars Technica",
+    "summary": "Some staff reportedly questioned how sexy ChatGPT benefits humanity.",
+    "url": "https://arstechnica.com/tech-policy/2026/03/chatgpt-wont-talk-dirty-any-time-soon-as-sexy-mode-turns-off-investors-report-says/",
+    "date": "2026-03-26"
+  },
+  {
     "title": "Reddit will require 'fishy' accounts to verify they are run by a human",
     "source": "Ars Technica",
     "summary": "AI-generated content is still acceptable for now.",
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "Planned EU ban on nudify apps would likely force Musk to make Grok less 'spicy.'",
     "url": "https://arstechnica.com/tech-policy/2026/03/eu-moves-to-ban-nudify-apps-after-grok-made-them-mainstream/",
-    "date": "2026-03-26"
-  },
-  {
-    "title": "How World ID wants to put a unique human identity on every AI agent",
-    "source": "Ars Technica",
-    "summary": "Iris scan-backed tokens could help stop agent swarms from overwhelming online systems.",
-    "url": "https://arstechnica.com/ai/2026/03/world-id-wants-you-to-put-a-cryptographically-unique-human-identity-behind-your-ai-agents/",
     "date": "2026-03-26"
   }
 ]
