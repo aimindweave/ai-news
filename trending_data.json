@@ -10,9 +10,9 @@
   {
     "title": "My minute-by-minute response to the LiteLLM malware attack",
     "source": "Hacker News",
-    "description": "HN Score: 173 | 75 comments",
+    "description": "HN Score: 207 | 92 comments",
     "url": "https://futuresearch.ai/blog/litellm-attack-transcript/",
-    "score": 173,
+    "score": 207,
     "date": "2026-03-26",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "HyperAgents: Self-referential self-improving agents",
     "source": "Hacker News",
-    "description": "HN Score: 47 | 18 comments",
+    "description": "HN Score: 69 | 23 comments",
     "url": "https://github.com/facebookresearch/hyperagents",
-    "score": 47,
+    "score": 69,
     "date": "2026-03-26",
     "category": "AI News"
   },
@@ -44,9 +44,9 @@
   {
     "title": "From zero to a RAG system: successes and failures",
     "source": "Hacker News",
-    "description": "HN Score: 233 | 72 comments",
+    "description": "HN Score: 244 | 77 comments",
     "url": "https://en.andros.dev/blog/aa31d744/from-zero-to-a-rag-system-successes-and-failures/",
-    "score": 233,
+    "score": 244,
     "date": "2026-03-26",
     "category": "AI News"
   },
@@ -61,9 +61,9 @@
   {
     "title": "Running Tesla Model 3's computer on my desk using parts from crashed cars",
     "source": "Hacker News",
-    "description": "HN Score: 803 | 281 comments",
+    "description": "HN Score: 821 | 286 comments",
     "url": "https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/",
-    "score": 803,
+    "score": 821,
     "date": "2026-03-26",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Orloj \u2013 agent infrastructure as code (YAML and GitOps)",
+    "title": "Taming LLMs: Using Executable Oracles to Prevent Bad Code",
     "source": "Hacker News",
-    "description": "HN Score: 8 | 4 comments",
-    "url": "https://github.com/OrlojHQ/orloj",
-    "score": 8,
+    "description": "HN Score: 14 | 4 comments",
+    "url": "https://john.regehr.org/writing/zero_dof_programming.html",
+    "score": 14,
     "date": "2026-03-26",
     "category": "AI News"
   },
@@ -93,11 +93,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Taming LLMs: Using Executable Oracles to Prevent Bad Code",
+    "title": "Show HN: Orloj \u2013 agent infrastructure as code (YAML and GitOps)",
     "source": "Hacker News",
-    "description": "HN Score: 5 | 0 comments",
-    "url": "https://john.regehr.org/writing/zero_dof_programming.html",
-    "score": 5,
+    "description": "HN Score: 12 | 8 comments",
+    "url": "https://github.com/OrlojHQ/orloj",
+    "score": 12,
+    "date": "2026-03-26",
+    "category": "AI News"
+  },
+  {
+    "title": "I generate a ton of videos using AI, and it's really hard to get past 15 seconds. Stitching together separate clips doesn't work as well as some peopl",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2037254576836096381#m",
+    "date": "2026-03-26",
+    "category": "Twitter"
+  },
+  {
+    "title": "SpaceStarCarz KoolWheelz Paper Models",
+    "source": "Hacker News",
+    "description": "HN Score: 32 | 4 comments",
+    "url": "https://davesdesigns.ca/dcc/html/spacestarcarz_.html",
+    "score": 32,
     "date": "2026-03-26",
     "category": "AI News"
   },
@@ -110,63 +127,37 @@
     "category": "Twitter"
   },
   {
-    "title": "SpaceStarCarz KoolWheelz Paper Models",
-    "source": "Hacker News",
-    "description": "HN Score: 27 | 4 comments",
-    "url": "https://davesdesigns.ca/dcc/html/spacestarcarz_.html",
-    "score": 27,
-    "date": "2026-03-26",
-    "category": "AI News"
-  },
-  {
-    "title": "Adobe will start sweating bullets the day AI starts generating images with layers that you can edit independently. Imagine being able to modify every ",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2037173336984477935#m",
-    "date": "2026-03-26",
-    "category": "Twitter"
-  },
-  {
     "title": "AI users whose lives were wrecked by delusion",
     "source": "Hacker News",
-    "description": "HN Score: 150 | 156 comments",
+    "description": "HN Score: 169 | 195 comments",
     "url": "https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion",
-    "score": 150,
+    "score": 169,
     "date": "2026-03-26",
     "category": "AI News"
   },
   {
-    "title": "AI agents - remember too much - forget key details - make the same mistakes - go into death loops - can\u2019t stop hallucinating Yet, more often than not,",
+    "title": "Gemini Flash Live is a native audio model! It can understand nuance, tone and emotion Soon, it will be impossible to tell the difference between an AI",
     "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/bindureddy/status/2036881793178362247#m",
+    "url": "https://nitter.net/bindureddy/status/2037267767477559321#m",
     "date": "2026-03-26",
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Optio \u2013 Orchestrate AI coding agents in K8s to go from ticket to PR",
+    "title": "Model Collapse Is Happening, We Just Pretend It Isn't",
     "source": "Hacker News",
-    "description": "HN Score: 71 | 53 comments",
-    "url": "https://github.com/jonwiggins/optio",
-    "score": 71,
+    "description": "HN Score: 15 | 4 comments",
+    "url": "https://cacm.acm.org/blogcacm/model-collapse-is-already-happening-we-just-pretend-it-isnt/",
+    "score": 15,
     "date": "2026-03-26",
     "category": "AI News"
   },
   {
-    "title": "Bro disappeared like he never existed! \ud83d\ude32 I miss Ilya",
+    "title": "People think they are expert vibe coders because they learnt how to type inane one liners like \u201cImplement Salesforce, make no mistakes and use very fe",
     "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/bindureddy/status/2036712456589128169#m",
+    "url": "https://nitter.net/bindureddy/status/2037260913498349719#m",
     "date": "2026-03-26",
     "category": "Twitter"
-  },
-  {
-    "title": "Show HN: A plain-text cognitive architecture for Claude Code",
-    "source": "Hacker News",
-    "description": "HN Score: 134 | 43 comments",
-    "url": "https://lab.puga.com.br/cog/",
-    "score": 134,
-    "date": "2026-03-26",
-    "category": "AI News"
   }
 ]
