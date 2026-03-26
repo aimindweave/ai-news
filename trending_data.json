@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Relay \u2013 The open-source Claude Cowork for OpenClaw",
+    "title": "From zero to a RAG system: successes and failures",
     "source": "Hacker News",
-    "description": "HN Score: 7 | 11 comments",
-    "url": "https://github.com/SeventeenLabs/relay",
-    "score": 7,
+    "description": "HN Score: 106 | 30 comments",
+    "url": "https://en.andros.dev/blog/aa31d744/from-zero-to-a-rag-system-successes-and-failures/",
+    "score": 106,
     "date": "2026-03-26",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "Running Tesla Model 3's computer on my desk using parts from crashed cars",
     "source": "Hacker News",
-    "description": "HN Score: 645 | 205 comments",
+    "description": "HN Score: 705 | 230 comments",
     "url": "https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/",
-    "score": 645,
+    "score": 705,
     "date": "2026-03-26",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "From zero to a RAG system: successes and failures",
+    "title": "Show HN: Robust LLM Extractor for Websites in TypeScript",
     "source": "Hacker News",
-    "description": "HN Score: 6 | 2 comments",
-    "url": "https://en.andros.dev/blog/aa31d744/from-zero-to-a-rag-system-successes-and-failures/",
-    "score": 6,
+    "description": "HN Score: 56 | 34 comments",
+    "url": "https://github.com/lightfeed/extractor",
+    "score": 56,
     "date": "2026-03-26",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "The Last Contract: William T. Vollmann's Battle to Publish an Epic (2025)",
+    "title": "Show HN: Optio \u2013 Orchestrate AI coding agents in K8s to go from ticket to PR",
     "source": "Hacker News",
-    "description": "HN Score: 9 | 0 comments",
-    "url": "https://www.metropolitanreview.org/p/the-last-contract",
-    "score": 9,
+    "description": "HN Score: 65 | 37 comments",
+    "url": "https://github.com/jonwiggins/optio",
+    "score": 65,
     "date": "2026-03-26",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "90% of Claude-linked output going to GitHub repos w <2 stars",
+    "title": "The Last Contract: William T. Vollmann's Battle to Publish an Epic (2025)",
     "source": "Hacker News",
-    "description": "HN Score: 296 | 183 comments",
-    "url": "https://www.claudescode.dev/?window=since_launch",
-    "score": 296,
+    "description": "HN Score: 18 | 1 comments",
+    "url": "https://www.metropolitanreview.org/p/the-last-contract",
+    "score": 18,
     "date": "2026-03-26",
     "category": "AI News"
   },
@@ -93,45 +93,45 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Robust LLM Extractor for Websites in TypeScript",
-    "source": "Hacker News",
-    "description": "HN Score: 47 | 33 comments",
-    "url": "https://github.com/lightfeed/extractor",
-    "score": 47,
-    "date": "2026-03-26",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: For those writing 10x more code, this is how to integrate it into production faster than ever before. I've been a huge fan of GitHub Ac",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2036868365680259160#m",
-    "date": "2026-03-26",
-    "category": "Twitter"
-  },
-  {
-    "title": "Show HN: Optio \u2013 Orchestrate AI coding agents in K8s to go from ticket to PR",
-    "source": "Hacker News",
-    "description": "HN Score: 55 | 33 comments",
-    "url": "https://github.com/jonwiggins/optio",
-    "score": 55,
-    "date": "2026-03-26",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: Here is a killer way to use embeddings: I built a notebook to show you how to do anomaly detection on images. Anomaly detection is one ",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2036820563340276214#m",
-    "date": "2026-03-26",
-    "category": "Twitter"
-  },
-  {
     "title": "False claims in a widely-cited paper",
     "source": "Hacker News",
-    "description": "HN Score: 287 | 118 comments",
+    "description": "HN Score: 313 | 135 comments",
     "url": "https://statmodeling.stat.columbia.edu/2026/03/24/false-claims-in-a-published-no-corrections-no-consequences-welcome-to-the-business-school/",
-    "score": 287,
+    "score": 313,
+    "date": "2026-03-26",
+    "category": "AI News"
+  },
+  {
+    "title": "R to @svpino: Very common.",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2037152922929131763#m",
+    "date": "2026-03-26",
+    "category": "Twitter"
+  },
+  {
+    "title": "Show HN: A plain-text cognitive architecture for Claude Code",
+    "source": "Hacker News",
+    "description": "HN Score: 118 | 37 comments",
+    "url": "https://lab.puga.com.br/cog/",
+    "score": 118,
+    "date": "2026-03-26",
+    "category": "AI News"
+  },
+  {
+    "title": "Vibe-coders don't give a shit about code. They don't understand it, they don't touch it, and they will never have to deal with it. They care about bri",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2037147320014561667#m",
+    "date": "2026-03-26",
+    "category": "Twitter"
+  },
+  {
+    "title": "Apple randomly closes bug reports unless you 'verify' the bug remains unfixed",
+    "source": "Hacker News",
+    "description": "HN Score: 429 | 247 comments",
+    "url": "https://lapcatsoftware.com/articles/2026/3/11.html",
+    "score": 429,
     "date": "2026-03-26",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Apple randomly closes bug reports unless you 'verify' the bug remains unfixed",
+    "title": "My astrophotography in the movie Project Hail Mary",
     "source": "Hacker News",
-    "description": "HN Score: 410 | 241 comments",
-    "url": "https://lapcatsoftware.com/articles/2026/3/11.html",
-    "score": 410,
+    "description": "HN Score: 877 | 199 comments",
+    "url": "https://rpastro.square.site/s/stories/phm",
+    "score": 877,
     "date": "2026-03-26",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: A plain-text cognitive architecture for Claude Code",
+    "title": "90% of Claude-linked output going to GitHub repos w <2 stars",
     "source": "Hacker News",
-    "description": "HN Score: 104 | 33 comments",
-    "url": "https://lab.puga.com.br/cog/",
-    "score": 104,
+    "description": "HN Score: 322 | 203 comments",
+    "url": "https://www.claudescode.dev/?window=since_launch",
+    "score": 322,
     "date": "2026-03-26",
     "category": "AI News"
   }
