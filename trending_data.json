@@ -4,16 +4,16 @@
     "source": "@kaborobot",
     "description": "",
     "url": "https://nitter.net/kaborobot/status/2015735996248420451#m",
-    "date": "2026-03-26",
+    "date": "2026-03-27",
     "category": "Twitter"
   },
   {
-    "title": "New York City hospitals drop Palantir as controversial AI firm expands in UK",
+    "title": "Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer",
     "source": "Hacker News",
-    "description": "HN Score: 139 | 48 comments",
-    "url": "https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai",
-    "score": 139,
-    "date": "2026-03-26",
+    "description": "HN Score: 115 | 40 comments",
+    "url": "https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/",
+    "score": 115,
+    "date": "2026-03-27",
     "category": "AI News"
   },
   {
@@ -21,16 +21,33 @@
     "source": "@kaborobot",
     "description": "",
     "url": "https://nitter.net/kaborobot/status/1977673306670330109#m",
-    "date": "2026-03-26",
+    "date": "2026-03-27",
     "category": "Twitter"
   },
   {
-    "title": "My minute-by-minute response to the LiteLLM malware attack",
+    "title": "Judge blocks Pentagon effort to 'punish' Anthropic with supply chain risk label",
     "source": "Hacker News",
-    "description": "HN Score: 251 | 114 comments",
-    "url": "https://futuresearch.ai/blog/litellm-attack-transcript/",
-    "score": 251,
-    "date": "2026-03-26",
+    "description": "HN Score: 212 | 133 comments",
+    "url": "https://www.cnn.com/2026/03/26/business/anthropic-pentagon-injunction-supply-chain-risk",
+    "score": 212,
+    "date": "2026-03-27",
+    "category": "AI News"
+  },
+  {
+    "title": "Who are the top folk to talk to in open science",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/EMostaque/status/2037315604546310632#m",
+    "date": "2026-03-27",
+    "category": "Twitter"
+  },
+  {
+    "title": "Anthropic Subprocessor Changes",
+    "source": "Hacker News",
+    "description": "HN Score: 49 | 24 comments",
+    "url": "https://trust.anthropic.com",
+    "score": 49,
+    "date": "2026-03-27",
     "category": "AI News"
   },
   {
@@ -38,33 +55,16 @@
     "source": "@EMostaque",
     "description": "",
     "url": "https://nitter.net/EMostaque/status/2036906034497778107#m",
-    "date": "2026-03-26",
+    "date": "2026-03-27",
     "category": "Twitter"
   },
   {
-    "title": "HyperAgents: Self-referential self-improving agents",
+    "title": "My minute-by-minute response to the LiteLLM malware attack",
     "source": "Hacker News",
-    "description": "HN Score: 98 | 43 comments",
-    "url": "https://github.com/facebookresearch/hyperagents",
-    "score": 98,
-    "date": "2026-03-26",
-    "category": "AI News"
-  },
-  {
-    "title": "I don\u2019t know why everyone is saying AI will discover new physics Isn\u2019t the physics we have now good enough? Don\u2019t need no new fangled physics",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/EMostaque/status/2036875037932683627#m",
-    "date": "2026-03-26",
-    "category": "Twitter"
-  },
-  {
-    "title": "Anthropic Subprocessor Changes",
-    "source": "Hacker News",
-    "description": "HN Score: 8 | 5 comments",
-    "url": "https://trust.anthropic.com",
-    "score": 8,
-    "date": "2026-03-26",
+    "description": "HN Score: 309 | 127 comments",
+    "url": "https://futuresearch.ai/blog/litellm-attack-transcript/",
+    "score": 309,
+    "date": "2026-03-27",
     "category": "AI News"
   },
   {
@@ -72,16 +72,16 @@
     "source": "@DrJimFan",
     "description": "",
     "url": "https://nitter.net/DrJimFan/status/2036494601750716711#m",
-    "date": "2026-03-26",
+    "date": "2026-03-27",
     "category": "Twitter"
   },
   {
-    "title": "Fast regex search: indexing text for agent tools",
+    "title": "Chroma Context-1: Training a Self-Editing Search Agent",
     "source": "Hacker News",
-    "description": "HN Score: 16 | 4 comments",
-    "url": "https://cursor.com/blog/fast-regex-search",
-    "score": 16,
-    "date": "2026-03-26",
+    "description": "HN Score: 6 | 0 comments",
+    "url": "https://www.trychroma.com/research/context-1",
+    "score": 6,
+    "date": "2026-03-27",
     "category": "AI News"
   },
   {
@@ -89,33 +89,50 @@
     "source": "@DrJimFan",
     "description": "",
     "url": "https://nitter.net/DrJimFan/status/2036136375494517142#m",
-    "date": "2026-03-26",
+    "date": "2026-03-27",
     "category": "Twitter"
   },
   {
-    "title": "From zero to a RAG system: successes and failures",
+    "title": "Agent-to-Agent Pair Programming",
     "source": "Hacker News",
-    "description": "HN Score: 265 | 79 comments",
-    "url": "https://en.andros.dev/blog/aa31d744/from-zero-to-a-rag-system-successes-and-failures/",
-    "score": 265,
-    "date": "2026-03-26",
+    "description": "HN Score: 4 | 0 comments",
+    "url": "https://axeldelafosse.com/blog/agent-to-agent-pair-programming",
+    "score": 4,
+    "date": "2026-03-27",
     "category": "AI News"
   },
   {
-    "title": "PSA: Don\u2019t use the iMessage plugin.",
+    "title": "RT by @svpino: Adobe will start sweating bullets the day AI starts generating images with layers that you can edit independently. Imagine being able t",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2037287549891141917#m",
-    "date": "2026-03-26",
+    "url": "https://nitter.net/svpino/status/2037173336984477935#m",
+    "date": "2026-03-27",
     "category": "Twitter"
   },
   {
-    "title": "Running Tesla Model 3's computer on my desk using parts from crashed cars",
+    "title": "HyperAgents: Self-referential self-improving agents",
     "source": "Hacker News",
-    "description": "HN Score: 839 | 295 comments",
-    "url": "https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/",
-    "score": 839,
-    "date": "2026-03-26",
+    "description": "HN Score: 139 | 58 comments",
+    "url": "https://github.com/facebookresearch/hyperagents",
+    "score": 139,
+    "date": "2026-03-27",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: Vibe-coders don't give a shit about code. They don't understand it, they don't touch it, and they will never have to deal with it. They",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2037147320014561667#m",
+    "date": "2026-03-27",
+    "category": "Twitter"
+  },
+  {
+    "title": "Order Granting Preliminary Injunction \u2013 Anthropic vs. U.S. Department of War [pdf]",
+    "source": "Hacker News",
+    "description": "HN Score: 110 | 15 comments",
+    "url": "https://storage.courtlistener.com/recap/gov.uscourts.cand.465515/gov.uscourts.cand.465515.134.0.pdf",
+    "score": 110,
+    "date": "2026-03-27",
     "category": "AI News"
   },
   {
@@ -123,16 +140,16 @@
     "source": "@bindureddy",
     "description": "",
     "url": "https://nitter.net/bindureddy/status/2037273630984507864#m",
-    "date": "2026-03-26",
+    "date": "2026-03-27",
     "category": "Twitter"
   },
   {
-    "title": "Taming LLMs: Using Executable Oracles to Prevent Bad Code",
+    "title": "$500 GPU outperforms Claude Sonnet on coding benchmarks",
     "source": "Hacker News",
-    "description": "HN Score: 26 | 14 comments",
-    "url": "https://john.regehr.org/writing/zero_dof_programming.html",
-    "score": 26,
-    "date": "2026-03-26",
+    "description": "HN Score: 87 | 24 comments",
+    "url": "https://github.com/itigges22/ATLAS",
+    "score": 87,
+    "date": "2026-03-27",
     "category": "AI News"
   },
   {
@@ -140,25 +157,16 @@
     "source": "@bindureddy",
     "description": "",
     "url": "https://nitter.net/bindureddy/status/2036881793178362247#m",
-    "date": "2026-03-26",
+    "date": "2026-03-27",
     "category": "Twitter"
   },
   {
-    "title": "$500 GPU outperforms Claude Sonnet on coding benchmarks",
+    "title": "Running Tesla Model 3's computer on my desk using parts from crashed cars",
     "source": "Hacker News",
-    "description": "HN Score: 18 | 1 comments",
-    "url": "https://github.com/itigges22/ATLAS",
-    "score": 18,
-    "date": "2026-03-26",
-    "category": "AI News"
-  },
-  {
-    "title": "Netflix raising prices for a second time in a year",
-    "source": "Hacker News",
-    "description": "HN Score: 9 | 0 comments",
-    "url": "https://variety.com/2026/tv/news/netflix-raising-prices-second-time-in-a-year-1236700999/",
-    "score": 9,
-    "date": "2026-03-26",
+    "description": "HN Score: 871 | 300 comments",
+    "url": "https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/",
+    "score": 871,
+    "date": "2026-03-27",
     "category": "AI News"
   }
 ]

@@ -93,6 +93,16 @@
   ],
   "episodes": [
     {
+      "id": "The TWIM_0",
+      "name": "The Race to Production-Grade Diffusion LLMs with Stefano Ermon - #764",
+      "show": "The TWIML AI Podcast",
+      "description": "Today, we're joined by Stefano Ermon, associate professor at Stanford University and CEO of Inception Labs to discuss diffusion language models. We dig into how diffusion approaches—traditionally used",
+      "release_date": "2026-03-26",
+      "duration_min": 63,
+      "image": "",
+      "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
+    },
+    {
       "id": "a]6z Pod_0",
       "name": "Security, Resilience, and the Future of Mobile Infrastructure",
       "show": "a]6z Podcast",
@@ -193,7 +203,7 @@
       "url": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"
     },
     {
-      "id": "The TWIM_0",
+      "id": "The TWIM_1",
       "name": "Agent Swarms and Knowledge Graphs for Autonomous Software Development with Siddhant Pardeshi - #763",
       "show": "The TWIML AI Podcast",
       "description": "In this episode, Sid Pardeshi, co-founder and CTO of Blitzy, joins us to discuss building autonomous development systems able to deliver production-ready software at enterprise scale. Sid contrasts AI",
@@ -253,22 +263,12 @@
       "url": "https://open.spotify.com/show/0e1X4kJVfwQRPF8lZzqqfX"
     },
     {
-      "id": "The TWIM_1",
+      "id": "The TWIM_2",
       "name": "AI Trends 2026: OpenClaw Agents, Reasoning LLMs, and More with Sebastian Raschka - #762",
       "show": "The TWIML AI Podcast",
       "description": "In this episode, Sebastian Raschka, independent LLM researcher and author, joins us to break down how the LLM landscape has changed over the past year and what is likely to matter most in 2026. We dis",
       "release_date": "2026-02-26",
       "duration_min": 78,
-      "image": "",
-      "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
-    },
-    {
-      "id": "The TWIM_2",
-      "name": "The Evolution of Reasoning in Small Language Models with Yejin Choi - #761",
-      "show": "The TWIML AI Podcast",
-      "description": "Today, we're joined by Yejin Choi, professor and senior fellow at Stanford University in the Computer Science Department and the Institute for Human-Centered AI (HAI). In this conversation, we explore",
-      "release_date": "2026-01-29",
-      "duration_min": 66,
       "image": "",
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
     }
