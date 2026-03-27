@@ -10,9 +10,9 @@
   {
     "title": "Everything old is new again: memory optimization",
     "source": "Hacker News",
-    "description": "HN Score: 40 | 8 comments",
+    "description": "HN Score: 81 | 41 comments",
     "url": "https://nibblestew.blogspot.com/2026/03/everything-old-is-new-again-memory.html",
-    "score": 40,
+    "score": 81,
     "date": "2026-03-27",
     "category": "AI News"
   },
@@ -27,9 +27,26 @@
   {
     "title": "Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer",
     "source": "Hacker News",
-    "description": "HN Score: 256 | 75 comments",
+    "description": "HN Score: 281 | 78 comments",
     "url": "https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/",
-    "score": 256,
+    "score": 281,
+    "date": "2026-03-27",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: finally glm-5.1 at the very beginning we were teaching models how to write code, basically training a system that could imitate deve",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/louszbd/status/2037502383266115810#m",
+    "date": "2026-03-27",
+    "category": "Twitter"
+  },
+  {
+    "title": "$500 GPU outperforms Claude Sonnet on coding benchmarks",
+    "source": "Hacker News",
+    "description": "HN Score: 351 | 199 comments",
+    "url": "https://github.com/itigges22/ATLAS",
+    "score": 351,
     "date": "2026-03-27",
     "category": "AI News"
   },
@@ -42,28 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "$500 GPU outperforms Claude Sonnet on coding benchmarks",
+    "title": "This picture broke my brain [3B1B video]",
     "source": "Hacker News",
-    "description": "HN Score: 279 | 146 comments",
-    "url": "https://github.com/itigges22/ATLAS",
-    "score": 279,
-    "date": "2026-03-27",
-    "category": "AI News"
-  },
-  {
-    "title": "new physics make no mistakes",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/EMostaque/status/2036906034497778107#m",
-    "date": "2026-03-27",
-    "category": "Twitter"
-  },
-  {
-    "title": "We rewrote JSONata with AI in a day, saved $500k/year",
-    "source": "Hacker News",
-    "description": "HN Score: 172 | 153 comments",
-    "url": "https://www.reco.ai/blog/we-rewrote-jsonata-with-ai",
-    "score": 172,
+    "description": "HN Score: 8 | 0 comments",
+    "url": "https://www.youtube.com/watch?v=ldxFjLJ3rVY",
+    "score": 8,
     "date": "2026-03-27",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "My minute-by-minute response to the LiteLLM malware attack",
+    "title": "We rewrote JSONata with AI in a day, saved $500k/year",
     "source": "Hacker News",
-    "description": "HN Score: 376 | 145 comments",
-    "url": "https://futuresearch.ai/blog/litellm-attack-transcript/",
-    "score": 376,
+    "description": "HN Score: 200 | 187 comments",
+    "url": "https://www.reco.ai/blog/we-rewrote-jsonata-with-ai",
+    "score": 200,
     "date": "2026-03-27",
     "category": "AI News"
   },
@@ -93,11 +93,28 @@
     "category": "Twitter"
   },
   {
+    "title": "My minute-by-minute response to the LiteLLM malware attack",
+    "source": "Hacker News",
+    "description": "HN Score: 391 | 149 comments",
+    "url": "https://futuresearch.ai/blog/litellm-attack-transcript/",
+    "score": 391,
+    "date": "2026-03-27",
+    "category": "AI News"
+  },
+  {
+    "title": "Vibe-coding feels like magic. Until you're the one cleaning up the magic later.",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2037510452545294569#m",
+    "date": "2026-03-27",
+    "category": "Twitter"
+  },
+  {
     "title": "Running Tesla Model 3's computer on my desk using parts from crashed cars",
     "source": "Hacker News",
-    "description": "HN Score: 897 | 308 comments",
+    "description": "HN Score: 905 | 316 comments",
     "url": "https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/",
-    "score": 897,
+    "score": 905,
     "date": "2026-03-27",
     "category": "AI News"
   },
@@ -112,26 +129,9 @@
   {
     "title": "HyperAgents: Self-referential self-improving agents",
     "source": "Hacker News",
-    "description": "HN Score: 186 | 67 comments",
+    "description": "HN Score: 204 | 72 comments",
     "url": "https://github.com/facebookresearch/hyperagents",
-    "score": 186,
-    "date": "2026-03-27",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: A single board to orchestrate all your coding agents. The future of software development is managing a swarm of agents. $ npm i -g clin",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2037185956974125408#m",
-    "date": "2026-03-27",
-    "category": "Twitter"
-  },
-  {
-    "title": "Anthropic Subprocessor Changes",
-    "source": "Hacker News",
-    "description": "HN Score: 80 | 39 comments",
-    "url": "https://trust.anthropic.com",
-    "score": 80,
+    "score": 204,
     "date": "2026-03-27",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Chroma Context-1: Training a Self-Editing Search Agent",
+    "title": "Agent-to-agent pair programming",
     "source": "Hacker News",
-    "description": "HN Score: 47 | 3 comments",
-    "url": "https://www.trychroma.com/research/context-1",
-    "score": 47,
+    "description": "HN Score: 90 | 28 comments",
+    "url": "https://axeldelafosse.com/blog/agent-to-agent-pair-programming",
+    "score": 90,
     "date": "2026-03-27",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Agent-to-agent pair programming",
+    "title": "Chroma Context-1: Training a Self-Editing Search Agent",
     "source": "Hacker News",
-    "description": "HN Score: 75 | 25 comments",
-    "url": "https://axeldelafosse.com/blog/agent-to-agent-pair-programming",
-    "score": 75,
+    "description": "HN Score: 57 | 6 comments",
+    "url": "https://www.trychroma.com/research/context-1",
+    "score": 57,
     "date": "2026-03-27",
     "category": "AI News"
   }

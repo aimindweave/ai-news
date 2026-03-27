@@ -93,6 +93,16 @@
   ],
   "episodes": [
     {
+      "id": "Hard For_0",
+      "name": "The Ezra Klein Show: How Fast Will A.I. Agents Rip Through the Economy?",
+      "show": "Hard Fork",
+      "description": "The “Hard Fork” team is off this week, taking a much-needed break. While we’re away, we wanted to draw your attention to a recent episode of “The Ezra Klein Show.”\nIn this conversation, Ezra",
+      "release_date": "2026-03-27",
+      "duration_min": 100,
+      "image": "",
+      "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
+    },
+    {
       "id": "a]6z Pod_0",
       "name": "The SpaceX and Tesla Playbook for Hard Tech Startups",
       "show": "a]6z Podcast",
@@ -153,7 +163,7 @@
       "url": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"
     },
     {
-      "id": "Hard For_0",
+      "id": "Hard For_1",
       "name": "‘A.I.-Washing’ Layoffs? + Why L.L.M.s Can’t Write Well + Tokenmaxxing",
       "show": "Hard Fork",
       "description": "This week, we start by talking about the new wave of tech layoffs at Atlassian and Block, as well as reports that Meta plans to cut up to 20 percent of its work force. This raises the question of w",
@@ -173,7 +183,7 @@
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
-      "id": "Hard For_1",
+      "id": "Hard For_2",
       "name": "A.I. Goes to War + Is ‘A.I. Brain Fry’ Real? + How Grammarly Stole Casey’s Identity",
       "show": "Hard Fork",
       "description": "A.I. is changing the ways war is waged. This week, we explore how the U.S. and Israel are using A.I. to identify targets in the conflict with Iran — and why data centers and fiber optic cables are ",
@@ -221,16 +231,6 @@
       "duration_min": 48,
       "image": "",
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
-    },
-    {
-      "id": "Hard For_2",
-      "name": "OpenAI's Fog of War + Betting on Iran + Hard Fork Review of Slop",
-      "show": "Hard Fork",
-      "description": "This week, the fallout continues as OpenAI scrambles to rework its deal with the Pentagon, while government agencies adapt to life without Claude. Then we break down the grim new reality of predict",
-      "release_date": "2026-03-06",
-      "duration_min": 65,
-      "image": "",
-      "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
       "id": "The AI P_1",
