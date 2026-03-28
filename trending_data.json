@@ -10,9 +10,9 @@
   {
     "title": "Britain today generating 90%+ of electricity from renewables",
     "source": "Hacker News",
-    "description": "HN Score: 67 | 40 comments",
+    "description": "HN Score: 173 | 116 comments",
     "url": "https://grid.iamkate.com/",
-    "score": 67,
+    "score": 173,
     "date": "2026-03-28",
     "category": "AI News"
   },
@@ -27,43 +27,9 @@
   {
     "title": "CERN uses tiny AI models burned into silicon for real-time LHC data filtering",
     "source": "Hacker News",
-    "description": "HN Score: 147 | 72 comments",
+    "description": "HN Score: 178 | 87 comments",
     "url": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering",
-    "score": 147,
-    "date": "2026-03-28",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @EMostaque: My dear front-end developers (and anyone who\u2019s interested in the future of interfaces): I have crawled through depths of hell to bri",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/_chenglou/status/2037713766205608234#m",
-    "date": "2026-03-28",
-    "category": "Twitter"
-  },
-  {
-    "title": "Go hard on agents, not on your filesystem",
-    "source": "Hacker News",
-    "description": "HN Score: 417 | 239 comments",
-    "url": "https://jai.scs.stanford.edu/",
-    "score": 417,
-    "date": "2026-03-28",
-    "category": "AI News"
-  },
-  {
-    "title": "Weekend reading Lie algebras are fascinating and should be taught earlier in physics/math courses",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/EMostaque/status/2037843843354116574#m",
-    "date": "2026-03-28",
-    "category": "Twitter"
-  },
-  {
-    "title": "Toma (YC W24) is hiring a Senior/Staff Eng to build AI automotive coworkers",
-    "source": "Hacker News",
-    "description": "HN Score: 1 | 0 comments",
-    "url": "https://www.ycombinator.com/companies/toma/jobs/2lrQI7S-sr-staff-software-engineer",
-    "score": 1,
+    "score": 178,
     "date": "2026-03-28",
     "category": "AI News"
   },
@@ -78,9 +44,9 @@
   {
     "title": "Paper Tape Is All You Need \u2013 Training a Transformer on a 1976 Minicomputer",
     "source": "Hacker News",
-    "description": "HN Score: 31 | 0 comments",
+    "description": "HN Score: 56 | 5 comments",
     "url": "https://github.com/dbrll/ATTN-11",
-    "score": 31,
+    "score": 56,
     "date": "2026-03-28",
     "category": "AI News"
   },
@@ -93,11 +59,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Anatomy of the .claude/ folder",
+    "title": "Go hard on agents, not on your filesystem",
     "source": "Hacker News",
-    "description": "HN Score: 517 | 229 comments",
-    "url": "https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder",
-    "score": 517,
+    "description": "HN Score: 449 | 264 comments",
+    "url": "https://jai.scs.stanford.edu/",
+    "score": 449,
+    "date": "2026-03-28",
+    "category": "AI News"
+  },
+  {
+    "title": "I was told by very reliable sources here on this platform that: \u2022 chatgpt killed google \u2022 claude killed software engineering \u2022 ai videos killed hollyw",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2037879895507050825#m",
+    "date": "2026-03-28",
+    "category": "Twitter"
+  },
+  {
+    "title": "Toma (YC W24) is hiring a Senior/Staff Eng to build AI automotive coworkers",
+    "source": "Hacker News",
+    "description": "HN Score: 1 | 0 comments",
+    "url": "https://www.ycombinator.com/companies/toma/jobs/2lrQI7S-sr-staff-software-engineer",
+    "score": 1,
     "date": "2026-03-28",
     "category": "AI News"
   },
@@ -110,28 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Iran-linked hackers breach FBI director's personal email",
+    "title": "Anatomy of the .claude/ folder",
     "source": "Hacker News",
-    "description": "HN Score: 295 | 408 comments",
-    "url": "https://www.reuters.com/world/us/iran-linked-hackers-claim-breach-of-fbi-directors-personal-email-doj-official-2026-03-27/",
-    "score": 295,
-    "date": "2026-03-28",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: Both CLI and MCP are useful. They can coexist and complement each other. Here are just a few ways an MCP server is better than a CLI: \u2022",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2037534791797711108#m",
-    "date": "2026-03-28",
-    "category": "Twitter"
-  },
-  {
-    "title": "Adults Lose Skills to AI. Children Never Build Them",
-    "source": "Hacker News",
-    "description": "HN Score: 38 | 18 comments",
-    "url": "https://www.psychologytoday.com/us/blog/the-algorithmic-mind/202603/adults-lose-skills-to-ai-children-never-build-them",
-    "score": 38,
+    "description": "HN Score: 532 | 234 comments",
+    "url": "https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder",
+    "score": 532,
     "date": "2026-03-28",
     "category": "AI News"
   },
@@ -144,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Everything old is new again: memory optimization",
+    "title": "Iran-linked hackers breach FBI director's personal email",
     "source": "Hacker News",
-    "description": "HN Score: 206 | 143 comments",
-    "url": "https://nibblestew.blogspot.com/2026/03/everything-old-is-new-again-memory.html",
-    "score": 206,
+    "description": "HN Score: 329 | 443 comments",
+    "url": "https://www.reuters.com/world/us/iran-linked-hackers-claim-breach-of-fbi-directors-personal-email-doj-official-2026-03-27/",
+    "score": 329,
     "date": "2026-03-28",
     "category": "AI News"
   },
@@ -163,9 +129,27 @@
   {
     "title": "Running Tesla Model 3's computer on my desk using parts from crashed cars",
     "source": "Hacker News",
-    "description": "HN Score: 957 | 328 comments",
+    "description": "HN Score: 961 | 328 comments",
     "url": "https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/",
-    "score": 957,
+    "score": 961,
+    "date": "2026-03-28",
+    "category": "AI News"
+  },
+  {
+    "title": "Everything old is new again: memory optimization",
+    "source": "Hacker News",
+    "description": "HN Score: 208 | 144 comments",
+    "url": "https://nibblestew.blogspot.com/2026/03/everything-old-is-new-again-memory.html",
+    "score": 208,
+    "date": "2026-03-28",
+    "category": "AI News"
+  },
+  {
+    "title": "Adults Lose Skills to AI. Children Never Build Them",
+    "source": "Hacker News",
+    "description": "HN Score: 61 | 38 comments",
+    "url": "https://www.psychologytoday.com/us/blog/the-algorithmic-mind/202603/adults-lose-skills-to-ai-children-never-build-them",
+    "score": 61,
     "date": "2026-03-28",
     "category": "AI News"
   }
