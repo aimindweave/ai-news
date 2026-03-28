@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "AI overly affirms users asking for personal advice",
+    "title": "Further human + AI + proof assistant work on Knuth's 'Claude Cycles' problem",
     "source": "Hacker News",
-    "description": "HN Score: 368 | 291 comments",
-    "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
-    "score": 368,
+    "description": "HN Score: 79 | 16 comments",
+    "url": "https://twitter.com/BoWang87/status/2037648937453232504",
+    "score": 79,
     "date": "2026-03-28",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Further human + AI + proof assistant work on Knuth's 'Claude Cycles' problem",
+    "title": "AI overly affirms users asking for personal advice",
     "source": "Hacker News",
-    "description": "HN Score: 7 | 0 comments",
-    "url": "https://twitter.com/BoWang87/status/2037648937453232504",
-    "score": 7,
+    "description": "HN Score: 424 | 340 comments",
+    "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
+    "score": 424,
     "date": "2026-03-28",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "CERN uses ultra-compact AI models on FPGAs for real-time LHC data filtering",
+    "title": "The first 40 months of the AI era",
     "source": "Hacker News",
-    "description": "HN Score: 246 | 118 comments",
-    "url": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering",
-    "score": 246,
+    "description": "HN Score: 15 | 0 comments",
+    "url": "https://lzon.ca/posts/other/thoughts-ai-era/",
+    "score": 15,
     "date": "2026-03-28",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Folk are getting dangerously attached to AI that always tells them they're right",
+    "title": "CERN uses ultra-compact AI models on FPGAs for real-time LHC data filtering",
     "source": "Hacker News",
-    "description": "HN Score: 187 | 140 comments",
-    "url": "https://www.theregister.com/2026/03/27/sycophantic_ai_risks/",
-    "score": 187,
+    "description": "HN Score: 267 | 124 comments",
+    "url": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering",
+    "score": 267,
     "date": "2026-03-28",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Go hard on agents, not on your filesystem",
+    "title": "Folk are getting dangerously attached to AI that always tells them they're right",
     "source": "Hacker News",
-    "description": "HN Score: 528 | 293 comments",
-    "url": "https://jai.scs.stanford.edu/",
-    "score": 528,
+    "description": "HN Score: 241 | 179 comments",
+    "url": "https://www.theregister.com/2026/03/27/sycophantic_ai_risks/",
+    "score": 241,
     "date": "2026-03-28",
     "category": "AI News"
   },
@@ -89,6 +89,23 @@
     "source": "@DrJimFan",
     "description": "",
     "url": "https://nitter.net/DrJimFan/status/2036136375494517142#m",
+    "date": "2026-03-28",
+    "category": "Twitter"
+  },
+  {
+    "title": "Go hard on agents, not on your filesystem",
+    "source": "Hacker News",
+    "description": "HN Score: 548 | 300 comments",
+    "url": "https://jai.scs.stanford.edu/",
+    "score": 548,
+    "date": "2026-03-28",
+    "category": "AI News"
+  },
+  {
+    "title": "I was told by very reliable sources here on this platform that: \u2022 chatgpt killed google \u2022 claude killed software engineering \u2022 ai videos killed hollyw",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2037879895507050825#m",
     "date": "2026-03-28",
     "category": "Twitter"
   },
@@ -102,36 +119,19 @@
     "category": "AI News"
   },
   {
-    "title": "I was told by very reliable sources here on this platform that: \u2022 chatgpt killed google \u2022 claude killed software engineering \u2022 ai videos killed hollyw",
+    "title": "R to @svpino: Link to the blog: https://depot.plug.dev/HCnBFtl",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2037879895507050825#m",
+    "url": "https://nitter.net/svpino/status/2037628983991214142#m",
     "date": "2026-03-28",
     "category": "Twitter"
   },
   {
     "title": "Paper Tape Is All You Need \u2013 Training a Transformer on a 1976 Minicomputer",
     "source": "Hacker News",
-    "description": "HN Score: 96 | 17 comments",
+    "description": "HN Score: 107 | 18 comments",
     "url": "https://github.com/dbrll/ATTN-11",
-    "score": 96,
-    "date": "2026-03-28",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: Dreamina Seedance 2.0 is by far the best video model I've tried, and Dreamina makes it even better. You can try it in the link below. I",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2037616984683409792#m",
-    "date": "2026-03-28",
-    "category": "Twitter"
-  },
-  {
-    "title": "Show HN: We built a multi-agent research hub. The waitlist is a reverse-CAPTCHA",
-    "source": "Hacker News",
-    "description": "HN Score: 15 | 12 comments",
-    "url": "https://enlidea.com",
-    "score": 15,
+    "score": 107,
     "date": "2026-03-28",
     "category": "AI News"
   },
@@ -146,9 +146,9 @@
   {
     "title": "Anatomy of the .claude/ folder",
     "source": "Hacker News",
-    "description": "HN Score: 563 | 239 comments",
+    "description": "HN Score: 582 | 246 comments",
     "url": "https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder",
-    "score": 563,
+    "score": 582,
     "date": "2026-03-28",
     "category": "AI News"
   },
@@ -163,9 +163,9 @@
   {
     "title": "Iran-linked hackers breach FBI director's personal email",
     "source": "Hacker News",
-    "description": "HN Score: 391 | 490 comments",
+    "description": "HN Score: 394 | 495 comments",
     "url": "https://www.reuters.com/world/us/iran-linked-hackers-claim-breach-of-fbi-directors-personal-email-doj-official-2026-03-27/",
-    "score": 391,
+    "score": 394,
     "date": "2026-03-28",
     "category": "AI News"
   }
