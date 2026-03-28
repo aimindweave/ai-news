@@ -10,9 +10,9 @@
   {
     "title": "Further human + AI + proof assistant work on Knuth's 'Claude Cycles' problem",
     "source": "Hacker News",
-    "description": "HN Score: 79 | 16 comments",
+    "description": "HN Score: 113 | 71 comments",
     "url": "https://twitter.com/BoWang87/status/2037648937453232504",
-    "score": 79,
+    "score": 113,
     "date": "2026-03-28",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "AI overly affirms users asking for personal advice",
     "source": "Hacker News",
-    "description": "HN Score: 424 | 340 comments",
+    "description": "HN Score: 471 | 367 comments",
     "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
-    "score": 424,
+    "score": 471,
     "date": "2026-03-28",
     "category": "AI News"
   },
@@ -44,9 +44,9 @@
   {
     "title": "The first 40 months of the AI era",
     "source": "Hacker News",
-    "description": "HN Score: 15 | 0 comments",
+    "description": "HN Score: 66 | 7 comments",
     "url": "https://lzon.ca/posts/other/thoughts-ai-era/",
-    "score": 15,
+    "score": 66,
     "date": "2026-03-28",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "CERN uses ultra-compact AI models on FPGAs for real-time LHC data filtering",
+    "title": "InpharmD (YC W21) Is Hiring \u2013 Senior Ruby on Rails Developer",
     "source": "Hacker News",
-    "description": "HN Score: 267 | 124 comments",
-    "url": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering",
-    "score": 267,
+    "description": "HN Score: 1 | 0 comments",
+    "url": "https://inpharmd.com/jobs/senior-ruby-on-rails-engineer",
+    "score": 1,
     "date": "2026-03-28",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Folk are getting dangerously attached to AI that always tells them they're right",
+    "title": "CERN uses ultra-compact AI models on FPGAs for real-time LHC data filtering",
     "source": "Hacker News",
-    "description": "HN Score: 241 | 179 comments",
-    "url": "https://www.theregister.com/2026/03/27/sycophantic_ai_risks/",
-    "score": 241,
+    "description": "HN Score: 287 | 128 comments",
+    "url": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering",
+    "score": 287,
     "date": "2026-03-28",
     "category": "AI News"
   },
@@ -95,9 +95,26 @@
   {
     "title": "Go hard on agents, not on your filesystem",
     "source": "Hacker News",
-    "description": "HN Score: 548 | 300 comments",
+    "description": "HN Score: 567 | 304 comments",
     "url": "https://jai.scs.stanford.edu/",
-    "score": 548,
+    "score": 567,
+    "date": "2026-03-28",
+    "category": "AI News"
+  },
+  {
+    "title": "No shit! I\u2019m sure nobody saw this coming.",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2037998344593707388#m",
+    "date": "2026-03-28",
+    "category": "Twitter"
+  },
+  {
+    "title": "Paper Tape Is All You Need \u2013 Training a Transformer on a 1976 Minicomputer",
+    "source": "Hacker News",
+    "description": "HN Score: 126 | 21 comments",
+    "url": "https://github.com/dbrll/ATTN-11",
+    "score": 126,
     "date": "2026-03-28",
     "category": "AI News"
   },
@@ -110,28 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Toma (YC W24) is hiring a Senior/Staff Eng to build AI automotive coworkers",
+    "title": "Iran-linked hackers breach FBI director's personal email",
     "source": "Hacker News",
-    "description": "HN Score: 1 | 0 comments",
-    "url": "https://www.ycombinator.com/companies/toma/jobs/2lrQI7S-sr-staff-software-engineer",
-    "score": 1,
-    "date": "2026-03-28",
-    "category": "AI News"
-  },
-  {
-    "title": "R to @svpino: Link to the blog: https://depot.plug.dev/HCnBFtl",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2037628983991214142#m",
-    "date": "2026-03-28",
-    "category": "Twitter"
-  },
-  {
-    "title": "Paper Tape Is All You Need \u2013 Training a Transformer on a 1976 Minicomputer",
-    "source": "Hacker News",
-    "description": "HN Score: 107 | 18 comments",
-    "url": "https://github.com/dbrll/ATTN-11",
-    "score": 107,
+    "description": "HN Score: 402 | 501 comments",
+    "url": "https://www.reuters.com/world/us/iran-linked-hackers-claim-breach-of-fbi-directors-personal-email-doj-official-2026-03-27/",
+    "score": 402,
     "date": "2026-03-28",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Anatomy of the .claude/ folder",
+    "title": "Wikipedia bans AI-generated content in its online encyclopedia",
     "source": "Hacker News",
-    "description": "HN Score: 582 | 246 comments",
-    "url": "https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder",
-    "score": 582,
+    "description": "HN Score: 57 | 5 comments",
+    "url": "https://www.theguardian.com/technology/2026/mar/27/wikipedia-bans-ai",
+    "score": 57,
     "date": "2026-03-28",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Iran-linked hackers breach FBI director's personal email",
+    "title": "Show HN: We built a multi-agent research hub. The waitlist is a reverse-CAPTCHA",
     "source": "Hacker News",
-    "description": "HN Score: 394 | 495 comments",
-    "url": "https://www.reuters.com/world/us/iran-linked-hackers-claim-breach-of-fbi-directors-personal-email-doj-official-2026-03-27/",
-    "score": 394,
+    "description": "HN Score: 17 | 16 comments",
+    "url": "https://enlidea.com",
+    "score": 17,
     "date": "2026-03-28",
     "category": "AI News"
   }
