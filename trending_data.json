@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "AI overly affirms users asking for personal advice",
+    "title": "OpenYak \u2013 An open-source Cowork that runs any model and owns your filesystem",
     "source": "Hacker News",
-    "description": "HN Score: 542 | 414 comments",
-    "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
-    "score": 542,
+    "description": "HN Score: 30 | 7 comments",
+    "url": "https://github.com/openyak/desktop",
+    "score": 30,
     "date": "2026-03-29",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Further human + AI + proof assistant work on Knuth's 'Claude Cycles' problem",
+    "title": "AI overly affirms users asking for personal advice",
     "source": "Hacker News",
-    "description": "HN Score: 160 | 109 comments",
-    "url": "https://twitter.com/BoWang87/status/2037648937453232504",
-    "score": 160,
+    "description": "HN Score: 582 | 445 comments",
+    "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
+    "score": 582,
     "date": "2026-03-29",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "The first 40 months of the AI era",
+    "title": "Further human + AI + proof assistant work on Knuth's 'Claude Cycles' problem",
     "source": "Hacker News",
-    "description": "HN Score: 130 | 62 comments",
-    "url": "https://lzon.ca/posts/other/thoughts-ai-era/",
-    "score": 130,
+    "description": "HN Score: 179 | 120 comments",
+    "url": "https://twitter.com/BoWang87/status/2037648937453232504",
+    "score": 179,
     "date": "2026-03-29",
     "category": "AI News"
   },
@@ -55,6 +55,23 @@
     "source": "@EMostaque",
     "description": "",
     "url": "https://nitter.net/_chenglou/status/2037715226838343871#m",
+    "date": "2026-03-29",
+    "category": "Twitter"
+  },
+  {
+    "title": "The first 40 months of the AI era",
+    "source": "Hacker News",
+    "description": "HN Score: 153 | 80 comments",
+    "url": "https://lzon.ca/posts/other/thoughts-ai-era/",
+    "score": 153,
+    "date": "2026-03-29",
+    "category": "AI News"
+  },
+  {
+    "title": "This is pure nightmare fuel. Identity theft of the past would be nothing compared to what vibe agents can do. Sending credentials is too obvious and f",
+    "source": "@DrJimFan",
+    "description": "",
+    "url": "https://nitter.net/DrJimFan/status/2036494601750716711#m",
     "date": "2026-03-29",
     "category": "Twitter"
   },
@@ -68,23 +85,6 @@
     "category": "AI News"
   },
   {
-    "title": "This is pure nightmare fuel. Identity theft of the past would be nothing compared to what vibe agents can do. Sending credentials is too obvious and f",
-    "source": "@DrJimFan",
-    "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2036494601750716711#m",
-    "date": "2026-03-29",
-    "category": "Twitter"
-  },
-  {
-    "title": "Will the AI data centre boom become a $9T bust?",
-    "source": "Hacker News",
-    "description": "HN Score: 12 | 3 comments",
-    "url": "https://www.ft.com/content/805f78f3-8da3-4fc0-b860-207a859ac723",
-    "score": 12,
-    "date": "2026-03-29",
-    "category": "AI News"
-  },
-  {
     "title": "Teleop is so 2025. Ever since we unveiled EgoScale and the dexterity scaling law, it's been clear to us and the ecosystem that behavior cloning direct",
     "source": "@DrJimFan",
     "description": "",
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Paper Tape Is All You Need \u2013 Training a Transformer on a 1976 Minicomputer",
+    "title": "Modeling what makes paper-folding puzzles hard",
     "source": "Hacker News",
-    "description": "HN Score: 132 | 22 comments",
-    "url": "https://github.com/dbrll/ATTN-11",
-    "score": 132,
+    "description": "HN Score: 13 | 9 comments",
+    "url": "https://www.dailyunfold.com/blog/spatial-difficulty",
+    "score": 13,
     "date": "2026-03-29",
     "category": "AI News"
   },
@@ -110,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "CERN uses ultra-compact AI models on FPGAs for real-time LHC data filtering",
+    "title": "Wikipedia officially bans AI-generated content",
     "source": "Hacker News",
-    "description": "HN Score: 304 | 133 comments",
-    "url": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering",
-    "score": 304,
+    "description": "HN Score: 14 | 0 comments",
+    "url": "https://nypost.com/2026/03/28/tech/wikipedia-officially-bans-ai-generated-encyclopedia-entries/",
+    "score": 14,
     "date": "2026-03-29",
     "category": "AI News"
   },
@@ -127,11 +127,28 @@
     "category": "Twitter"
   },
   {
+    "title": "Paper Tape Is All You Need \u2013 Training a Transformer on a 1976 Minicomputer",
+    "source": "Hacker News",
+    "description": "HN Score: 135 | 23 comments",
+    "url": "https://github.com/dbrll/ATTN-11",
+    "score": 135,
+    "date": "2026-03-29",
+    "category": "AI News"
+  },
+  {
+    "title": "GPT-6 is rumored to scale both pre and post training dramatically We are switching 20% or workloads to GPT 5.4 on Monday! The best model for excel and",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2038091064402169865#m",
+    "date": "2026-03-29",
+    "category": "Twitter"
+  },
+  {
     "title": "Iran-linked hackers breach FBI director's personal email",
     "source": "Hacker News",
-    "description": "HN Score: 415 | 511 comments",
+    "description": "HN Score: 420 | 514 comments",
     "url": "https://www.reuters.com/world/us/iran-linked-hackers-claim-breach-of-fbi-directors-personal-email-doj-official-2026-03-27/",
-    "score": 415,
+    "score": 420,
     "date": "2026-03-29",
     "category": "AI News"
   },
@@ -144,28 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Go hard on agents, not on your filesystem",
+    "title": "CERN uses ultra-compact AI models on FPGAs for real-time LHC data filtering",
     "source": "Hacker News",
-    "description": "HN Score: 583 | 306 comments",
-    "url": "https://jai.scs.stanford.edu/",
-    "score": 583,
-    "date": "2026-03-29",
-    "category": "AI News"
-  },
-  {
-    "title": "Anthropic is releasing a 10T param model that is supposed to totally blow past Opus 4.6 in performance TBH the trillion dollar question will be PRICIN",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2037449161185149145#m",
-    "date": "2026-03-29",
-    "category": "Twitter"
-  },
-  {
-    "title": "Show HN: I built an OS that is pure AI",
-    "source": "Hacker News",
-    "description": "HN Score: 14 | 5 comments",
-    "url": "https://pneuma.computer",
-    "score": 14,
+    "description": "HN Score: 306 | 137 comments",
+    "url": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering",
+    "score": 306,
     "date": "2026-03-29",
     "category": "AI News"
   }
