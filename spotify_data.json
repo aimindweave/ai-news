@@ -94,6 +94,16 @@
   "episodes": [
     {
       "id": "a]6z Pod_0",
+      "name": "How Radiant and Heron Are Rethinking Power Generation and Delivery",
+      "show": "a]6z Podcast",
+      "description": "a16z general partners Erin Price-Wright and Erik Torenberg speak with Doug Bernauer, founder and CEO of Radiant, and Drew Baglino, founder and CEO of Heron, about rebuilding American energy infrast",
+      "release_date": "2026-03-31",
+      "duration_min": 49,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
+      "id": "a]6z Pod_1",
       "name": "Marc Andreessen on Evaluating Founders and AI's Consumer Surplus",
       "show": "a]6z Podcast",
       "description": "This episode originally aired on The Twenty Minute VC with Harry Stebbings. Marc Andreessen explains why learning from past investment mistakes can be a trap, shares his framework for evaluating fo",
@@ -113,7 +123,7 @@
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "The SpaceX and Tesla Playbook for Hard Tech Startups",
       "show": "a]6z Podcast",
       "description": "Erin Price-Wright speaks with Chandler Luzsicza, founder and CEO of Galadyne, and Turner Caldwell, cofounder and CEO of Mariana Minerals, about what they actually learned building Starship and Tesl",
@@ -133,16 +143,6 @@
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
     },
     {
-      "id": "a]6z Pod_2",
-      "name": "Security, Resilience, and the Future of Mobile Infrastructure",
-      "show": "a]6z Podcast",
-      "description": "David Ulevitch speaks with Justin Fanelli, CTO of the Navy, and John Doyle, founder and CEO at Cape, about how the Navy is transforming its approach to technology adoption, from running bootcamps f",
-      "release_date": "2026-03-26",
-      "duration_min": 41,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
-    },
-    {
       "id": "Practica_0",
       "name": "AI at the Edge is a different operating environment",
       "show": "Practical AI",
@@ -151,16 +151,6 @@
       "duration_min": 46,
       "image": "",
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
-    },
-    {
-      "id": "Lex Frid_0",
-      "name": "#494 – Jensen Huang: NVIDIA – The $4 Trillion Company & the AI Revolution",
-      "show": "Lex Fridman Podcast",
-      "description": "Jensen Huang is the co-founder and CEO of NVIDIA, the world&#8217;s most valuable company and the engine powering the AI computing revolution.<br />\nThank you for listening ❤ Check out our sponsors",
-      "release_date": "2026-03-23",
-      "duration_min": 0,
-      "image": "",
-      "url": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"
     },
     {
       "id": "Hard For_1",
@@ -203,16 +193,6 @@
       "url": "https://open.spotify.com/show/0e1X4kJVfwQRPF8lZzqqfX"
     },
     {
-      "id": "Lex Frid_1",
-      "name": "#493 – Jeff Kaplan: World of Warcraft, Overwatch, Blizzard, and Future of Gaming",
-      "show": "Lex Fridman Podcast",
-      "description": "Jeff Kaplan is a legendary Blizzard game designer of World of Warcraft and Overwatch, now preparing to launch a new game, The Legend of California, from his new studio Kintsugiyama &#8211; availabl",
-      "release_date": "2026-03-11",
-      "duration_min": 0,
-      "image": "",
-      "url": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"
-    },
-    {
       "id": "The TWIM_1",
       "name": "Agent Swarms and Knowledge Graphs for Autonomous Software Development with Siddhant Pardeshi - #763",
       "show": "The TWIML AI Podcast",
@@ -241,16 +221,6 @@
       "duration_min": 32,
       "image": "",
       "url": "https://open.spotify.com/show/0e1X4kJVfwQRPF8lZzqqfX"
-    },
-    {
-      "id": "Lex Frid_2",
-      "name": "#492 – Rick Beato: Greatest Guitarists of All Time, History & Future of Music",
-      "show": "Lex Fridman Podcast",
-      "description": "Rick Beato is a music educator, interviewer, producer, songwriter, and a true multi-instrument musician, playing guitar, bass, cello &#38; piano. His incredible YouTube channel celebrates great mus",
-      "release_date": "2026-03-01",
-      "duration_min": 0,
-      "image": "",
-      "url": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"
     },
     {
       "id": "The AI P_2",
