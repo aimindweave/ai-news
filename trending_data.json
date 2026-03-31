@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Italy blocks US use of Sicily air base for Middle East war",
+    "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
     "source": "Hacker News",
-    "description": "HN Score: 127 | 53 comments",
-    "url": "https://www.politico.eu/article/italy-blocks-us-use-of-sicily-air-base/",
-    "score": 127,
+    "description": "HN Score: 1540 | 773 comments",
+    "url": "https://twitter.com/Fried_rice/status/2038894956459290963",
+    "score": 1540,
     "date": "2026-03-31",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
+    "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
     "source": "Hacker News",
-    "description": "HN Score: 1161 | 618 comments",
-    "url": "https://twitter.com/Fried_rice/status/2038894956459290963",
-    "score": 1161,
+    "description": "HN Score: 98 | 40 comments",
+    "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
+    "score": 98,
     "date": "2026-03-31",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Microsoft: Copilot is for entertainment purposes only",
+    "title": "Accidentally created my first fork bomb with Claude Code",
     "source": "Hacker News",
-    "description": "HN Score: 143 | 56 comments",
-    "url": "https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/termsofuse",
-    "score": 143,
+    "description": "HN Score: 25 | 2 comments",
+    "url": "https://www.droppedasbaby.com/posts/2602-01/",
+    "score": 25,
     "date": "2026-03-31",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Securing Elliptic Curve Cryptocurrencies Against Quantum Vulnerabilities [pdf]",
+    "title": "From 300KB to 69KB per Token: How LLM Architectures Solve the KV Cache Problem",
     "source": "Hacker News",
-    "description": "HN Score: 6 | 1 comments",
-    "url": "https://quantumai.google/static/site-assets/downloads/cryptocurrency-whitepaper.pdf",
-    "score": 6,
+    "description": "HN Score: 29 | 1 comments",
+    "url": "https://news.future-shock.ai/the-weight-of-remembering/",
+    "score": 29,
     "date": "2026-03-31",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Universal Claude.md \u2013 cut Claude output tokens",
+    "title": "Show HN: PhAIL \u2013 Real-robot benchmark for AI models",
     "source": "Hacker News",
-    "description": "HN Score: 413 | 147 comments",
-    "url": "https://github.com/drona23/claude-token-efficient",
-    "score": 413,
+    "description": "HN Score: 7 | 7 comments",
+    "url": "https://phail.ai",
+    "score": 7,
     "date": "2026-03-31",
     "category": "AI News"
   },
@@ -89,6 +89,57 @@
     "source": "@DrJimFan",
     "description": "",
     "url": "https://nitter.net/DrJimFan/status/2036136375494517142#m",
+    "date": "2026-03-31",
+    "category": "Twitter"
+  },
+  {
+    "title": "Microsoft: Copilot is for entertainment purposes only",
+    "source": "Hacker News",
+    "description": "HN Score: 267 | 108 comments",
+    "url": "https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/termsofuse",
+    "score": 267,
+    "date": "2026-03-31",
+    "category": "AI News"
+  },
+  {
+    "title": "R to @svpino: This is a huge conflict of interest, and you have to be blind not to see it. Code generation and code review are fundamentally different",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2039024548860080463#m",
+    "date": "2026-03-31",
+    "category": "Twitter"
+  },
+  {
+    "title": "Securing Elliptic Curve Cryptocurrencies Against Quantum Vulnerabilities [pdf]",
+    "source": "Hacker News",
+    "description": "HN Score: 20 | 13 comments",
+    "url": "https://quantumai.google/static/site-assets/downloads/cryptocurrency-whitepaper.pdf",
+    "score": 20,
+    "date": "2026-03-31",
+    "category": "AI News"
+  },
+  {
+    "title": "The same AI that wrote your slop code is now reviewing it. Please, don't call this 'code reviews'. This is like you grading your own homework. Every A",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2039024536625295589#m",
+    "date": "2026-03-31",
+    "category": "Twitter"
+  },
+  {
+    "title": "Claude Code users hitting usage limits 'way faster than expected'",
+    "source": "Hacker News",
+    "description": "HN Score: 195 | 129 comments",
+    "url": "https://www.theregister.com/2026/03/31/anthropic_claude_code_limits/",
+    "score": 195,
+    "date": "2026-03-31",
+    "category": "AI News"
+  },
+  {
+    "title": "Claude source code has been leaked! The worse case outcome is hackers combing through it to exploit security holes to take over your laptop \ud83d\ude31 I hope A",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2039039555001786601#m",
     "date": "2026-03-31",
     "category": "Twitter"
   },
@@ -102,70 +153,19 @@
     "category": "AI News"
   },
   {
-    "title": "Custom models aren't optional anymore. They are inevitable. For many use cases, using out-of-the-box models is not optimal. But of course, building th",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2039010136904364391#m",
-    "date": "2026-03-31",
-    "category": "Twitter"
-  },
-  {
-    "title": "Google's 200M-parameter time-series foundation model with 16k context",
-    "source": "Hacker News",
-    "description": "HN Score: 255 | 95 comments",
-    "url": "https://github.com/google-research/timesfm",
-    "score": 255,
-    "date": "2026-03-31",
-    "category": "AI News"
-  },
-  {
-    "title": "RAG is much more than a search engine. This is one of the most common misconceptions I have to help people get out of their heads. Think of RAG as a '",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2038993207820988495#m",
-    "date": "2026-03-31",
-    "category": "Twitter"
-  },
-  {
-    "title": "Clojure: The Documentary, official trailer [video]",
-    "source": "Hacker News",
-    "description": "HN Score: 304 | 53 comments",
-    "url": "https://www.youtube.com/watch?v=JJEyffSdBsk",
-    "score": 304,
-    "date": "2026-03-31",
-    "category": "AI News"
-  },
-  {
-    "title": "Is the US looking like a total joke to most people given our constant nonsensical flip flops",
+    "title": "WOW! AND JUST LIKE THAT GOOGLE CAME RIGHT BACK INTO THE VIDEO GAME \ud83d\ude80\ud83d\ude80 The big G is best positioned to be on top of the AI video model leaderboard Amaz",
     "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/bindureddy/status/2039022177782280659#m",
+    "url": "https://nitter.net/bindureddy/status/2039030519917412655#m",
     "date": "2026-03-31",
     "category": "Twitter"
   },
   {
-    "title": "7,655 Ransomware Claims in One Year: Group, Sector, and Country Breakdown",
+    "title": "Universal Claude.md \u2013 cut Claude output tokens",
     "source": "Hacker News",
-    "description": "HN Score: 53 | 11 comments",
-    "url": "https://ciphercue.com/blog/7655-ransomware-claims-march-2025-to-march-2026",
-    "score": 53,
-    "date": "2026-03-31",
-    "category": "AI News"
-  },
-  {
-    "title": "Gemini Flash is our go to model when efficiency is a factor Looking forward to Flash 3.1 that will drop shortly - hopeful that it will generalize bett",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2038981838409277530#m",
-    "date": "2026-03-31",
-    "category": "Twitter"
-  },
-  {
-    "title": "Someone just converted Claude Leark from TypeScript to 100% Python",
-    "source": "Hacker News",
-    "description": "HN Score: 4 | 2 comments",
-    "url": "https://github.com/instructkr/claw-code",
-    "score": 4,
+    "description": "HN Score: 428 | 153 comments",
+    "url": "https://github.com/drona23/claude-token-efficient",
+    "score": 428,
     "date": "2026-03-31",
     "category": "AI News"
   }
