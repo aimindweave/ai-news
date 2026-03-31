@@ -1,35 +1,18 @@
 [
   {
-    "title": "1\u30da\u30fc\u30b8\u76ee\u3067\u3061\u3083\u3093\u3068\u6253\u6483\u98df\u3089\u3063\u3066\u30ac\u30b3\u30f3\u3057\u3066\u308b\u306e\u3067 \u3042\u308c\u304c\u306a\u304b\u3063\u305f\u3089\u6469\u864e\u7f85\u653b\u7565\u3067\u304d\u3066\u305f\u304b\u3082\u3057\u308c\u3093",
-    "source": "@kaborobot",
+    "title": "RT by @EMostaque: your spotify cache is bigger than our largest AI model. Bonsai: 1-bit weights. 1.7B to 8B params. 14x compression vs bf16. 8x faster",
+    "source": "@EMostaque",
     "description": "",
-    "url": "https://nitter.net/kaborobot/status/2015735996248420451#m",
-    "date": "2026-03-31",
-    "category": "Twitter"
-  },
-  {
-    "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
-    "source": "Hacker News",
-    "description": "HN Score: 1540 | 773 comments",
-    "url": "https://twitter.com/Fried_rice/status/2038894956459290963",
-    "score": 1540,
-    "date": "2026-03-31",
-    "category": "AI News"
-  },
-  {
-    "title": "\u30ec\u30bc\u304c\u300c\u79c1\u306b\u306f\u904e\u304e\u305f\u9858\u3044\u3060\u3063\u305f\u300d\u306a\u3093\u3066\u601d\u3063\u3066\u3044\u307e\u305b\u3093\u3088\u3046\u306b\u3068\u7948\u3063\u3066\u305f\u9023\u4f11\u3060\u3063\u305f",
-    "source": "@kaborobot",
-    "description": "",
-    "url": "https://nitter.net/kaborobot/status/1977673306670330109#m",
+    "url": "https://nitter.net/HessianFree/status/2039049800398655730#m",
     "date": "2026-03-31",
     "category": "Twitter"
   },
   {
     "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
     "source": "Hacker News",
-    "description": "HN Score: 98 | 40 comments",
+    "description": "HN Score: 316 | 141 comments",
     "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
-    "score": 98,
+    "score": 316,
     "date": "2026-03-31",
     "category": "AI News"
   },
@@ -42,28 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Accidentally created my first fork bomb with Claude Code",
+    "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
     "source": "Hacker News",
-    "description": "HN Score: 25 | 2 comments",
-    "url": "https://www.droppedasbaby.com/posts/2602-01/",
-    "score": 25,
-    "date": "2026-03-31",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @EMostaque: wait what the heck",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/HaydnBelfield/status/2037823948960796761#m",
-    "date": "2026-03-31",
-    "category": "Twitter"
-  },
-  {
-    "title": "From 300KB to 69KB per Token: How LLM Architectures Solve the KV Cache Problem",
-    "source": "Hacker News",
-    "description": "HN Score: 29 | 1 comments",
-    "url": "https://news.future-shock.ai/the-weight-of-remembering/",
-    "score": 29,
+    "description": "HN Score: 1725 | 861 comments",
+    "url": "https://twitter.com/Fried_rice/status/2038894956459290963",
+    "score": 1725,
     "date": "2026-03-31",
     "category": "AI News"
   },
@@ -76,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: PhAIL \u2013 Real-robot benchmark for AI models",
+    "title": "Accelerating the Next Phase of AI",
     "source": "Hacker News",
-    "description": "HN Score: 7 | 7 comments",
-    "url": "https://phail.ai",
-    "score": 7,
+    "description": "HN Score: 31 | 34 comments",
+    "url": "https://openai.com/index/accelerating-the-next-phase-ai",
+    "score": 31,
     "date": "2026-03-31",
     "category": "AI News"
   },
@@ -93,45 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Microsoft: Copilot is for entertainment purposes only",
+    "title": "JSSE: A JavaScript Engine Built by an Agent",
     "source": "Hacker News",
-    "description": "HN Score: 267 | 108 comments",
-    "url": "https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/termsofuse",
-    "score": 267,
-    "date": "2026-03-31",
-    "category": "AI News"
-  },
-  {
-    "title": "R to @svpino: This is a huge conflict of interest, and you have to be blind not to see it. Code generation and code review are fundamentally different",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2039024548860080463#m",
-    "date": "2026-03-31",
-    "category": "Twitter"
-  },
-  {
-    "title": "Securing Elliptic Curve Cryptocurrencies Against Quantum Vulnerabilities [pdf]",
-    "source": "Hacker News",
-    "description": "HN Score: 20 | 13 comments",
-    "url": "https://quantumai.google/static/site-assets/downloads/cryptocurrency-whitepaper.pdf",
-    "score": 20,
-    "date": "2026-03-31",
-    "category": "AI News"
-  },
-  {
-    "title": "The same AI that wrote your slop code is now reviewing it. Please, don't call this 'code reviews'. This is like you grading your own homework. Every A",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2039024536625295589#m",
-    "date": "2026-03-31",
-    "category": "Twitter"
-  },
-  {
-    "title": "Claude Code users hitting usage limits 'way faster than expected'",
-    "source": "Hacker News",
-    "description": "HN Score: 195 | 129 comments",
-    "url": "https://www.theregister.com/2026/03/31/anthropic_claude_code_limits/",
-    "score": 195,
+    "description": "HN Score: 5 | 0 comments",
+    "url": "https://p.ocmatos.com/blog/jsse-a-javascript-engine-built-by-an-agent.html",
+    "score": 5,
     "date": "2026-03-31",
     "category": "AI News"
   },
@@ -144,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "RamAIn (YC W26) Is Hiring",
+    "title": "From 300KB to 69KB per Token: How LLM Architectures Solve the KV Cache Problem",
     "source": "Hacker News",
-    "description": "HN Score: 1 | 0 comments",
-    "url": "https://www.ycombinator.com/companies/ramain/jobs/jezgwo5-ai-ml-research-engineer",
-    "score": 1,
+    "description": "HN Score: 43 | 5 comments",
+    "url": "https://news.future-shock.ai/the-weight-of-remembering/",
+    "score": 43,
     "date": "2026-03-31",
     "category": "AI News"
   },
@@ -161,11 +93,47 @@
     "category": "Twitter"
   },
   {
-    "title": "Universal Claude.md \u2013 cut Claude output tokens",
+    "title": "Accidentally created my first fork bomb with Claude Code",
     "source": "Hacker News",
-    "description": "HN Score: 428 | 153 comments",
-    "url": "https://github.com/drona23/claude-token-efficient",
-    "score": 428,
+    "description": "HN Score: 32 | 6 comments",
+    "url": "https://www.droppedasbaby.com/posts/2602-01/",
+    "score": 32,
+    "date": "2026-03-31",
+    "category": "AI News"
+  },
+  {
+    "title": "I Traced My Traffic Through a Home Tailscale Exit Node",
+    "source": "Hacker News",
+    "description": "HN Score: 9 | 2 comments",
+    "url": "https://tech.stonecharioteer.com/posts/2026/tailscale-exit-nodes/",
+    "score": 9,
+    "date": "2026-03-31",
+    "category": "AI News"
+  },
+  {
+    "title": "Securing Elliptic Curve Cryptocurrencies Against Quantum Vulnerabilities [pdf]",
+    "source": "Hacker News",
+    "description": "HN Score: 35 | 17 comments",
+    "url": "https://quantumai.google/static/site-assets/downloads/cryptocurrency-whitepaper.pdf",
+    "score": 35,
+    "date": "2026-03-31",
+    "category": "AI News"
+  },
+  {
+    "title": "Microsoft: Copilot is for entertainment purposes only",
+    "source": "Hacker News",
+    "description": "HN Score: 348 | 139 comments",
+    "url": "https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/termsofuse",
+    "score": 348,
+    "date": "2026-03-31",
+    "category": "AI News"
+  },
+  {
+    "title": "Show HN: Cerno \u2013 CAPTCHA that targets LLM reasoning, not human biology",
+    "source": "Hacker News",
+    "description": "HN Score: 8 | 16 comments",
+    "url": "https://cerno.sh",
+    "score": 8,
     "date": "2026-03-31",
     "category": "AI News"
   }
