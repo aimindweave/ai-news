@@ -94,6 +94,16 @@
   "episodes": [
     {
       "id": "a]6z Pod_0",
+      "name": "What Happens When a Public Company Goes All In on AI",
+      "show": "a]6z Podcast",
+      "description": "David Haber speaks with Owen Jennings, executive officer and business lead at Block, about how the company rebuilt itself around AI agents, small squads, and internal tools like Goose and Builder B",
+      "release_date": "2026-04-01",
+      "duration_min": 27,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
+      "id": "a]6z Pod_1",
       "name": "How Radiant and Heron Are Rethinking Power Generation and Delivery",
       "show": "a]6z Podcast",
       "description": "a16z general partners Erin Price-Wright and Erik Torenberg speak with Doug Bernauer, founder and CEO of Radiant, and Drew Baglino, founder and CEO of Heron, about rebuilding American energy infrast",
@@ -103,7 +113,7 @@
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "Marc Andreessen on Evaluating Founders and AI's Consumer Surplus",
       "show": "a]6z Podcast",
       "description": "This episode originally aired on The Twenty Minute VC with Harry Stebbings. Marc Andreessen explains why learning from past investment mistakes can be a trap, shares his framework for evaluating fo",
@@ -121,16 +131,6 @@
       "duration_min": 100,
       "image": "",
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
-    },
-    {
-      "id": "a]6z Pod_2",
-      "name": "The SpaceX and Tesla Playbook for Hard Tech Startups",
-      "show": "a]6z Podcast",
-      "description": "Erin Price-Wright speaks with Chandler Luzsicza, founder and CEO of Galadyne, and Turner Caldwell, cofounder and CEO of Mariana Minerals, about what they actually learned building Starship and Tesl",
-      "release_date": "2026-03-27",
-      "duration_min": 50,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
       "id": "The TWIM_0",
