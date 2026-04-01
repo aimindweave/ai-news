@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
+    "title": "Claude Code Unpacked : A visual guide",
     "source": "Hacker News",
-    "description": "HN Score: 897 | 363 comments",
-    "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
-    "score": 897,
+    "description": "HN Score: 35 | 6 comments",
+    "url": "https://ccunpacked.dev/",
+    "score": 35,
     "date": "2026-04-01",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
     "source": "Hacker News",
-    "description": "HN Score: 130 | 58 comments",
+    "description": "HN Score: 182 | 80 comments",
     "url": "https://prismml.com/",
-    "score": 130,
+    "score": 182,
     "date": "2026-04-01",
     "category": "AI News"
   },
@@ -44,9 +44,9 @@
   {
     "title": "OpenAI closes funding round at an $852B valuation",
     "source": "Hacker News",
-    "description": "HN Score: 360 | 303 comments",
+    "description": "HN Score: 398 | 339 comments",
     "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
-    "score": 360,
+    "score": 398,
     "date": "2026-04-01",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Back to FreeBSD \u2013 Part 2 \u2013 Jails",
+    "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
     "source": "Hacker News",
-    "description": "HN Score: 56 | 10 comments",
-    "url": "https://hypha.pub/back-to-freebsd-part-2",
-    "score": 56,
+    "description": "HN Score: 1057 | 406 comments",
+    "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
+    "score": 1057,
     "date": "2026-04-01",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "I Traced My Traffic Through a Home Tailscale Exit Node",
+    "title": "Back to FreeBSD \u2013 Part 2 \u2013 Jails",
     "source": "Hacker News",
-    "description": "HN Score: 87 | 39 comments",
-    "url": "https://tech.stonecharioteer.com/posts/2026/tailscale-exit-nodes/",
-    "score": 87,
+    "description": "HN Score: 65 | 13 comments",
+    "url": "https://hypha.pub/back-to-freebsd-part-2",
+    "score": 65,
     "date": "2026-04-01",
     "category": "AI News"
   },
@@ -95,43 +95,43 @@
   {
     "title": "Why the US Navy won't blast the Iranians and 'open' Strait of Hormuz",
     "source": "Hacker News",
-    "description": "HN Score: 210 | 545 comments",
+    "description": "HN Score: 244 | 643 comments",
     "url": "https://responsiblestatecraft.org/iran-strait-of-hormuz/",
-    "score": 210,
+    "score": 244,
     "date": "2026-04-01",
     "category": "AI News"
   },
   {
-    "title": "RT by @svpino: RAG is much more than a search engine. This is one of the most common misconceptions I have to help people get out of their heads. Thin",
+    "title": "RT by @svpino: The same AI that wrote your slop code is now reviewing it. Please, don't call this 'code reviews'. This is like you grading your own ho",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2038993207820988495#m",
+    "url": "https://nitter.net/svpino/status/2039024536625295589#m",
+    "date": "2026-04-01",
+    "category": "Twitter"
+  },
+  {
+    "title": "I Traced My Traffic Through a Home Tailscale Exit Node",
+    "source": "Hacker News",
+    "description": "HN Score: 103 | 46 comments",
+    "url": "https://tech.stonecharioteer.com/posts/2026/tailscale-exit-nodes/",
+    "score": 103,
+    "date": "2026-04-01",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: Custom models aren't optional anymore. They are inevitable. For many use cases, using out-of-the-box models is not optimal. But of cour",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2039010136904364391#m",
     "date": "2026-04-01",
     "category": "Twitter"
   },
   {
     "title": "From 300KB to 69KB per Token: How LLM Architectures Solve the KV Cache Problem",
     "source": "Hacker News",
-    "description": "HN Score: 91 | 7 comments",
+    "description": "HN Score: 103 | 7 comments",
     "url": "https://news.future-shock.ai/the-weight-of-remembering/",
-    "score": 91,
-    "date": "2026-04-01",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: Agents will inevitably become direct participants in the economy. Not just tools or assistants, but direct actors that do work on your ",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2038888579632607598#m",
-    "date": "2026-04-01",
-    "category": "Twitter"
-  },
-  {
-    "title": "Accidentally created my first fork bomb with Claude Code",
-    "source": "Hacker News",
-    "description": "HN Score: 61 | 16 comments",
-    "url": "https://www.droppedasbaby.com/posts/2602-01/",
-    "score": 61,
+    "score": 103,
     "date": "2026-04-01",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Microsoft: Copilot is for entertainment purposes only",
+    "title": "Accidentally created my first fork bomb with Claude Code",
     "source": "Hacker News",
-    "description": "HN Score: 474 | 171 comments",
-    "url": "https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/termsofuse",
-    "score": 474,
+    "description": "HN Score: 62 | 16 comments",
+    "url": "https://www.droppedasbaby.com/posts/2602-01/",
+    "score": 62,
     "date": "2026-04-01",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Google's 200M-parameter time-series foundation model with 16k context",
+    "title": "Microsoft: Copilot is for entertainment purposes only",
     "source": "Hacker News",
-    "description": "HN Score: 294 | 103 comments",
-    "url": "https://github.com/google-research/timesfm",
-    "score": 294,
+    "description": "HN Score: 495 | 177 comments",
+    "url": "https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/termsofuse",
+    "score": 495,
     "date": "2026-04-01",
     "category": "AI News"
   }
