@@ -10,9 +10,9 @@
   {
     "title": "Claude Code Unpacked : A visual guide",
     "source": "Hacker News",
-    "description": "HN Score: 221 | 43 comments",
+    "description": "HN Score: 352 | 83 comments",
     "url": "https://ccunpacked.dev/",
-    "score": 221,
+    "score": 352,
     "date": "2026-04-01",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Mad Bugs: Vim vs. Emacs vs. Claude",
+    "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
     "source": "Hacker News",
-    "description": "HN Score: 33 | 28 comments",
-    "url": "https://blog.calif.io/p/mad-bugs-vim-vs-emacs-vs-claude",
-    "score": 33,
+    "description": "HN Score: 243 | 103 comments",
+    "url": "https://prismml.com/",
+    "score": 243,
     "date": "2026-04-01",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
+    "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
     "source": "Hacker News",
-    "description": "HN Score: 223 | 94 comments",
-    "url": "https://prismml.com/",
-    "score": 223,
+    "description": "HN Score: 1160 | 460 comments",
+    "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
+    "score": 1160,
     "date": "2026-04-01",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
+    "title": "OpenAI closes funding round at an $852B valuation",
     "source": "Hacker News",
-    "description": "HN Score: 1120 | 445 comments",
-    "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
-    "score": 1120,
+    "description": "HN Score: 441 | 384 comments",
+    "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
+    "score": 441,
     "date": "2026-04-01",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "OpenAI closes funding round at an $852B valuation",
+    "title": "Why the US Navy won't blast the Iranians and 'open' Strait of Hormuz",
     "source": "Hacker News",
-    "description": "HN Score: 423 | 368 comments",
-    "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
-    "score": 423,
+    "description": "HN Score: 304 | 822 comments",
+    "url": "https://responsiblestatecraft.org/iran-strait-of-hormuz/",
+    "score": 304,
     "date": "2026-04-01",
     "category": "AI News"
   },
@@ -93,11 +93,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Why the US Navy won't blast the Iranians and 'open' Strait of Hormuz",
+    "title": "Back to FreeBSD \u2013 Part 2 \u2013 Jails",
     "source": "Hacker News",
-    "description": "HN Score: 278 | 734 comments",
-    "url": "https://responsiblestatecraft.org/iran-strait-of-hormuz/",
-    "score": 278,
+    "description": "HN Score: 84 | 15 comments",
+    "url": "https://hypha.pub/back-to-freebsd-part-2",
+    "score": 84,
+    "date": "2026-04-01",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: Right now, I have a few dozen tools to automate my life. Every single thing that I do more than once every week is now a tool: either a",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2039062790720327704#m",
+    "date": "2026-04-01",
+    "category": "Twitter"
+  },
+  {
+    "title": "From 300KB to 69KB per Token: How LLM Architectures Solve the KV Cache Problem",
+    "source": "Hacker News",
+    "description": "HN Score: 124 | 9 comments",
+    "url": "https://news.future-shock.ai/the-weight-of-remembering/",
+    "score": 124,
     "date": "2026-04-01",
     "category": "AI News"
   },
@@ -110,28 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Back to FreeBSD \u2013 Part 2 \u2013 Jails",
+    "title": "Claude Wrote a Full FreeBSD Remote Kernel RCE with Root Shell (CVE-2026-4747)",
     "source": "Hacker News",
-    "description": "HN Score: 76 | 13 comments",
-    "url": "https://hypha.pub/back-to-freebsd-part-2",
-    "score": 76,
-    "date": "2026-04-01",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: Custom models aren't optional anymore. They are inevitable. For many use cases, using out-of-the-box models is not optimal. But of cour",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2039010136904364391#m",
-    "date": "2026-04-01",
-    "category": "Twitter"
-  },
-  {
-    "title": "I traced my traffic through a home Tailscale exit node",
-    "source": "Hacker News",
-    "description": "HN Score: 108 | 50 comments",
-    "url": "https://tech.stonecharioteer.com/posts/2026/tailscale-exit-nodes/",
-    "score": 108,
+    "description": "HN Score: 7 | 0 comments",
+    "url": "https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md",
+    "score": 7,
     "date": "2026-04-01",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "From 300KB to 69KB per Token: How LLM Architectures Solve the KV Cache Problem",
+    "title": "I traced my traffic through a home Tailscale exit node",
     "source": "Hacker News",
-    "description": "HN Score: 116 | 9 comments",
-    "url": "https://news.future-shock.ai/the-weight-of-remembering/",
-    "score": 116,
+    "description": "HN Score: 113 | 53 comments",
+    "url": "https://tech.stonecharioteer.com/posts/2026/tailscale-exit-nodes/",
+    "score": 113,
     "date": "2026-04-01",
     "category": "AI News"
   },
@@ -163,9 +163,9 @@
   {
     "title": "Accidentally created my first fork bomb with Claude Code",
     "source": "Hacker News",
-    "description": "HN Score: 67 | 17 comments",
+    "description": "HN Score: 68 | 18 comments",
     "url": "https://www.droppedasbaby.com/posts/2602-01/",
-    "score": 67,
+    "score": 68,
     "date": "2026-04-01",
     "category": "AI News"
   }
