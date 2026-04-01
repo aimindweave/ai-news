@@ -1,8 +1,15 @@
 [
   {
+    "title": "Meta\u2019s natural gas binge could power South Dakota",
+    "source": "TechCrunch",
+    "summary": "Meta's upcoming Hyperion AI data center will be powered by 10 new natural gas plants.",
+    "url": "https://techcrunch.com/2026/04/01/metas-natural-gas-binge-could-power-south-dakota/",
+    "date": "2026-04-01"
+  },
+  {
     "title": "Cognichip wants AI to design the chips that power AI, and just raised $60M to try",
     "source": "TechCrunch",
-    "summary": "The firm says it can can reduce the cost of chip development by more than 75% and cut the timeline by more than half.",
+    "summary": "The firm says it can reduce the cost of chip development by more than 75% and cut the timeline by more than half.",
     "url": "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/",
     "date": "2026-04-01"
   },
@@ -14,7 +21,7 @@
     "date": "2026-04-01"
   },
   {
-    "title": "Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project",
+    "title": "Mercor says it was hit by cyberattack tied to compromise of open source LiteLLM project",
     "source": "TechCrunch",
     "summary": "The AI recruiting startup confirmed a security incident after an extortion hacking crew took credit for stealing data from the company's systems.",
     "url": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
@@ -98,13 +105,6 @@
     "date": "2026-04-01"
   },
   {
-    "title": "Mantis Biotech is making \u2018digital twins\u2019 of humans to help solve medicine\u2019s data availability problem",
-    "source": "TechCrunch",
-    "summary": "Mantis takes disparate sources of data to make synthetic datasets that can be used to build so-called 'digital twins' of the human body, representing anatomy, physiology and behavior.",
-    "url": "https://techcrunch.com/2026/03/30/mantis-biotech-is-making-digital-twins-of-humans-to-help-solve-medicines-data-availability-problem/",
-    "date": "2026-04-01"
-  },
-  {
     "title": "The Download: gig workers training humanoids, and better AI benchmarks",
     "source": "MIT Tech Review",
     "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. The gig workers who are training humanoid robots at home When Zeus, a medical student in Nigeria, returns to his apartment from a long day at the hospital, he ...",
@@ -175,6 +175,20 @@
     "date": "2026-04-01"
   },
   {
+    "title": "AI Models Lie, Cheat, and Steal to Protect Other Models From Being Deleted",
+    "source": "Wired",
+    "summary": "A new study from researchers at UC Berkeley and UC Santa Cruz suggests models will disobey human commands to protect their own kind.",
+    "url": "https://www.wired.com/story/ai-models-lie-cheat-steal-protect-other-models-research/",
+    "date": "2026-04-01"
+  },
+  {
+    "title": "\u2018Thank You for Generating With Us!\u2019 Hollywood's AI Acolytes Stay on the Hype Train",
+    "source": "Wired",
+    "summary": "Star Wars producer Kathleen Kennedy was one of the few skeptics at the Runway AI Summit, where AI was compared to fire and the printing press just a week after Sora\u2019s death.",
+    "url": "https://www.wired.com/story/thank-you-for-generating-with-us-hollywoods-ai-acolytes-stay-on-the-hype-train/",
+    "date": "2026-04-01"
+  },
+  {
     "title": "I Watched a 7.5-Hour Movie in Theaters to Confront My Dwindling Attention Span",
     "source": "Wired",
     "summary": "S\u00e1t\u00e1ntango is considered a holy rite for hardcore cinephiles. In a packed screening with no cellphones in sight, it also offered a salve for brain rot.",
@@ -231,17 +245,10 @@
     "date": "2026-04-01"
   },
   {
-    "title": "Anthropic Supply-Chain-Risk Designation Halted by Judge",
-    "source": "Wired",
-    "summary": "A judge temporarily blocked the Trump administration\u2019s designation, clearing the way for Anthropic to keep doing business without the label starting next week.",
-    "url": "https://www.wired.com/story/anthropic-supply-chain-risk-designation-injunction/",
-    "date": "2026-04-01"
-  },
-  {
-    "title": "Meet the Tech Reporters Using AI to Help Write and Edit Their Stories",
-    "source": "Wired",
-    "summary": "Independent writers are using AI agents all throughout their reporting process. What\u2019s the value of a human journalist, anyway?",
-    "url": "https://www.wired.com/story/tech-reporters-using-ai-write-edit-stories/",
+    "title": "Musk loves Grok\u2019s \u201croasts.\u201d Swiss official sues in attempt to neuter them.",
+    "source": "Ars Technica",
+    "summary": "Swiss finance minister filed a criminal complaint over Grok's 'defamation.'",
+    "url": "https://arstechnica.com/tech-policy/2026/04/grok-degrades-women-with-vulgar-roasts-swiss-govt-officials-lawsuit-says/",
     "date": "2026-04-01"
   },
   {
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "Move comes amid a reported plan to refocus on business and productivity use cases.",
     "url": "https://arstechnica.com/ai/2026/03/openai-plans-to-shut-down-sora-just-15-months-after-its-launch/",
-    "date": "2026-04-01"
-  },
-  {
-    "title": "Electronic Frontier Foundation to swap leaders as AI, ICE fights escalate",
-    "source": "Ars Technica",
-    "summary": "Public interest in government tech abuses is peaking. EFF's new leader plans to build on that.",
-    "url": "https://arstechnica.com/tech-policy/2026/03/trump-made-opposing-government-spying-cool-again-effs-departing-chief-says/",
     "date": "2026-04-01"
   }
 ]

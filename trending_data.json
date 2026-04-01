@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "StepFun 3.5 Flash is #1 cost-effective model for OpenClaw tasks (300 battles)",
+    "title": "AI for American-produced cement and concrete",
     "source": "Hacker News",
-    "description": "HN Score: 27 | 9 comments",
-    "url": "https://app.uniclaw.ai/arena?tab=costEffectiveness&via=hn",
-    "score": 27,
+    "description": "HN Score: 62 | 51 comments",
+    "url": "https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/",
+    "score": 62,
     "date": "2026-04-01",
     "category": "AI News"
   },
@@ -25,11 +25,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Real-time dashboard for Claude Code agent teams",
+    "title": "StepFun 3.5 Flash is #1 cost-effective model for OpenClaw tasks (300 battles)",
     "source": "Hacker News",
-    "description": "HN Score: 13 | 2 comments",
-    "url": "https://github.com/simple10/agents-observe",
-    "score": 13,
+    "description": "HN Score: 83 | 30 comments",
+    "url": "https://app.uniclaw.ai/arena?tab=costEffectiveness&via=hn",
+    "score": 83,
+    "date": "2026-04-01",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: Today we're releasing Trinity-Large-Thinking. Available now on the Arcee API, with open weights on Hugging Face under Apache 2.0. We",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/arcee_ai/status/2039369121591120030#m",
+    "date": "2026-04-01",
+    "category": "Twitter"
+  },
+  {
+    "title": "The OpenAI Graveyard: All the Deals and Products That Haven't Happened",
+    "source": "Hacker News",
+    "description": "HN Score: 138 | 92 comments",
+    "url": "https://www.forbes.com/sites/phoebeliu/2026/03/31/openai-graveyard-deals-and-products-havent-happened-openai/",
+    "score": 138,
     "date": "2026-04-01",
     "category": "AI News"
   },
@@ -42,28 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "The OpenAI Graveyard: All the Deals and Products That Haven't Happened",
+    "title": "Show HN: Real-time dashboard for Claude Code agent teams",
     "source": "Hacker News",
-    "description": "HN Score: 35 | 5 comments",
-    "url": "https://www.forbes.com/sites/phoebeliu/2026/03/31/openai-graveyard-deals-and-products-havent-happened-openai/",
-    "score": 35,
-    "date": "2026-04-01",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @EMostaque: 1/ We found a new way to misalign an entire AI agent network by compromising just one agent. It works through subliminal messaging \u2014",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/MWeckbecker/status/2029178920164004074#m",
-    "date": "2026-04-01",
-    "category": "Twitter"
-  },
-  {
-    "title": "Show HN: Sycamore \u2013 next gen Rust web UI library using fine-grained reactivity",
-    "source": "Hacker News",
-    "description": "HN Score: 76 | 46 comments",
-    "url": "https://sycamore.dev",
-    "score": 76,
+    "description": "HN Score: 47 | 17 comments",
+    "url": "https://github.com/simple10/agents-observe",
+    "score": 47,
     "date": "2026-04-01",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Claude Wrote a Full FreeBSD Remote Kernel RCE with Root Shell (CVE-2026-4747)",
+    "title": "The AI Marketing BS Index",
     "source": "Hacker News",
-    "description": "HN Score: 183 | 76 comments",
-    "url": "https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md",
-    "score": 183,
+    "description": "HN Score: 35 | 3 comments",
+    "url": "https://bastian.rieck.me/blog/2026/bs/",
+    "score": 35,
     "date": "2026-04-01",
     "category": "AI News"
   },
@@ -93,62 +93,45 @@
     "category": "Twitter"
   },
   {
+    "title": "Ukrainian Drone Holds Position for 6 Weeks",
+    "source": "Hacker News",
+    "description": "HN Score: 37 | 11 comments",
+    "url": "https://defenceleaders.com/news/ukrainian-combat-robot-holds-frontline-position-for-six-weeks-in-sign-of-growing-ugv-maturity/",
+    "score": 37,
+    "date": "2026-04-01",
+    "category": "AI News"
+  },
+  {
+    "title": "R to @svpino: By the way, I've seen tons of companies spending months trying to reinvent the wheel here. Every team building AI applications ends up c",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2039391105217962315#m",
+    "date": "2026-04-01",
+    "category": "Twitter"
+  },
+  {
+    "title": "Claude Wrote a Full FreeBSD Remote Kernel RCE with Root Shell (CVE-2026-4747)",
+    "source": "Hacker News",
+    "description": "HN Score: 202 | 90 comments",
+    "url": "https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md",
+    "score": 202,
+    "date": "2026-04-01",
+    "category": "AI News"
+  },
+  {
+    "title": "Let me show you how easy it is to implement smart routing in your LLM-based projects. Smart routing will select the best model based on the difficulty",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2039391093155082369#m",
+    "date": "2026-04-01",
+    "category": "Twitter"
+  },
+  {
     "title": "Claude Code Unpacked : A visual guide",
     "source": "Hacker News",
-    "description": "HN Score: 895 | 323 comments",
+    "description": "HN Score: 952 | 344 comments",
     "url": "https://ccunpacked.dev/",
-    "score": 895,
-    "date": "2026-04-01",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: Right now, I have a few dozen tools to automate my life. Every single thing that I do more than once every week is now a tool: either a",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2039062790720327704#m",
-    "date": "2026-04-01",
-    "category": "Twitter"
-  },
-  {
-    "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
-    "source": "Hacker News",
-    "description": "HN Score: 358 | 137 comments",
-    "url": "https://prismml.com/",
-    "score": 358,
-    "date": "2026-04-01",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: The same AI that wrote your slop code is now reviewing it. Please, don't call this 'code reviews'. This is like you grading your own ho",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2039024536625295589#m",
-    "date": "2026-04-01",
-    "category": "Twitter"
-  },
-  {
-    "title": "AI has suddenly become more useful to open-source developers",
-    "source": "Hacker News",
-    "description": "HN Score: 39 | 31 comments",
-    "url": "https://www.zdnet.com/article/maybe-open-source-needs-ai/",
-    "score": 39,
-    "date": "2026-04-01",
-    "category": "AI News"
-  },
-  {
-    "title": "AI Bubble Will Burst Shortly If The War Continues... TBH literally everyone is being offered OpenAI and sometimes even Anthropic in private markets Mo",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2039356427148697756#m",
-    "date": "2026-04-01",
-    "category": "Twitter"
-  },
-  {
-    "title": "OpenAI closes funding round at an $852B valuation",
-    "source": "Hacker News",
-    "description": "HN Score: 500 | 464 comments",
-    "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
-    "score": 500,
+    "score": 952,
     "date": "2026-04-01",
     "category": "AI News"
   },
@@ -161,11 +144,28 @@
     "category": "Twitter"
   },
   {
-    "title": "OpenAI demand sinks on secondary market as Anthropic runs hot",
+    "title": "Show HN: Sycamore \u2013 next gen Rust web UI library using fine-grained reactivity",
     "source": "Hacker News",
-    "description": "HN Score: 110 | 50 comments",
-    "url": "https://www.bloomberg.com/news/articles/2026-04-01/openai-demand-sinks-on-secondary-market-as-anthropic-runs-hot",
-    "score": 110,
+    "description": "HN Score: 89 | 61 comments",
+    "url": "https://sycamore.dev",
+    "score": 89,
+    "date": "2026-04-01",
+    "category": "AI News"
+  },
+  {
+    "title": "WOW! AND JUST LIKE THAT GOOGLE CAME RIGHT BACK INTO THE VIDEO GAME \ud83d\ude80\ud83d\ude80 The big G is best positioned to be on top of the AI video model leaderboard Amaz",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2039030519917412655#m",
+    "date": "2026-04-01",
+    "category": "Twitter"
+  },
+  {
+    "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
+    "source": "Hacker News",
+    "description": "HN Score: 377 | 142 comments",
+    "url": "https://prismml.com/",
+    "score": 377,
     "date": "2026-04-01",
     "category": "AI News"
   }
