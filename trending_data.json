@@ -10,9 +10,9 @@
   {
     "title": "AI for American-produced cement and concrete",
     "source": "Hacker News",
-    "description": "HN Score: 62 | 51 comments",
+    "description": "HN Score: 103 | 85 comments",
     "url": "https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/",
-    "score": 62,
+    "score": 103,
     "date": "2026-04-01",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "StepFun 3.5 Flash is #1 cost-effective model for OpenClaw tasks (300 battles)",
     "source": "Hacker News",
-    "description": "HN Score: 83 | 30 comments",
+    "description": "HN Score: 100 | 40 comments",
     "url": "https://app.uniclaw.ai/arena?tab=costEffectiveness&via=hn",
-    "score": 83,
+    "score": 100,
     "date": "2026-04-01",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "The OpenAI Graveyard: All the Deals and Products That Haven't Happened",
+    "title": "Windows 95 defenses against installers that overwrite a file with an older one",
     "source": "Hacker News",
-    "description": "HN Score: 138 | 92 comments",
-    "url": "https://www.forbes.com/sites/phoebeliu/2026/03/31/openai-graveyard-deals-and-products-havent-happened-openai/",
-    "score": 138,
+    "description": "HN Score: 55 | 9 comments",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20260324-00/?p=112159",
+    "score": 55,
     "date": "2026-04-01",
     "category": "AI News"
   },
@@ -61,9 +61,9 @@
   {
     "title": "Show HN: Real-time dashboard for Claude Code agent teams",
     "source": "Hacker News",
-    "description": "HN Score: 47 | 17 comments",
+    "description": "HN Score: 57 | 21 comments",
     "url": "https://github.com/simple10/agents-observe",
-    "score": 47,
+    "score": 57,
     "date": "2026-04-01",
     "category": "AI News"
   },
@@ -78,9 +78,9 @@
   {
     "title": "The AI Marketing BS Index",
     "source": "Hacker News",
-    "description": "HN Score: 35 | 3 comments",
+    "description": "HN Score: 69 | 9 comments",
     "url": "https://bastian.rieck.me/blog/2026/bs/",
-    "score": 35,
+    "score": 69,
     "date": "2026-04-01",
     "category": "AI News"
   },
@@ -93,28 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Ukrainian Drone Holds Position for 6 Weeks",
+    "title": "Claude wrote a full FreeBSD remote kernel RCE with root shell",
     "source": "Hacker News",
-    "description": "HN Score: 37 | 11 comments",
-    "url": "https://defenceleaders.com/news/ukrainian-combat-robot-holds-frontline-position-for-six-weeks-in-sign-of-growing-ugv-maturity/",
-    "score": 37,
-    "date": "2026-04-01",
-    "category": "AI News"
-  },
-  {
-    "title": "R to @svpino: By the way, I've seen tons of companies spending months trying to reinvent the wheel here. Every team building AI applications ends up c",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2039391105217962315#m",
-    "date": "2026-04-01",
-    "category": "Twitter"
-  },
-  {
-    "title": "Claude Wrote a Full FreeBSD Remote Kernel RCE with Root Shell (CVE-2026-4747)",
-    "source": "Hacker News",
-    "description": "HN Score: 202 | 90 comments",
+    "description": "HN Score: 218 | 97 comments",
     "url": "https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md",
-    "score": 202,
+    "score": 218,
     "date": "2026-04-01",
     "category": "AI News"
   },
@@ -127,11 +110,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Claude Code Unpacked : A visual guide",
+    "title": "The OpenAI graveyard: All the deals and products that haven't happened",
     "source": "Hacker News",
-    "description": "HN Score: 952 | 344 comments",
-    "url": "https://ccunpacked.dev/",
-    "score": 952,
+    "description": "HN Score: 171 | 137 comments",
+    "url": "https://www.forbes.com/sites/phoebeliu/2026/03/31/openai-graveyard-deals-and-products-havent-happened-openai/",
+    "score": 171,
+    "date": "2026-04-01",
+    "category": "AI News"
+  },
+  {
+    "title": "R to @svpino: By the way, I've seen tons of companies spending months trying to reinvent the wheel here. Every team building AI applications ends up c",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2039391105217962315#m",
+    "date": "2026-04-01",
+    "category": "Twitter"
+  },
+  {
+    "title": "Ukrainian drone holds position for 6 weeks",
+    "source": "Hacker News",
+    "description": "HN Score: 97 | 72 comments",
+    "url": "https://defenceleaders.com/news/ukrainian-combat-robot-holds-frontline-position-for-six-weeks-in-sign-of-growing-ugv-maturity/",
+    "score": 97,
     "date": "2026-04-01",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Sycamore \u2013 next gen Rust web UI library using fine-grained reactivity",
+    "title": "Claude Code Unpacked : A visual guide",
     "source": "Hacker News",
-    "description": "HN Score: 89 | 61 comments",
-    "url": "https://sycamore.dev",
-    "score": 89,
+    "description": "HN Score: 997 | 354 comments",
+    "url": "https://ccunpacked.dev/",
+    "score": 997,
     "date": "2026-04-01",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
+    "title": "Show HN: Sycamore \u2013 next gen Rust web UI library using fine-grained reactivity",
     "source": "Hacker News",
-    "description": "HN Score: 377 | 142 comments",
-    "url": "https://prismml.com/",
-    "score": 377,
+    "description": "HN Score: 93 | 68 comments",
+    "url": "https://sycamore.dev",
+    "score": 93,
     "date": "2026-04-01",
     "category": "AI News"
   }
