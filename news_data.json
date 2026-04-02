@@ -1,5 +1,12 @@
 [
   {
+    "title": "OpenAI acquires TBPN, the buzzy founder-led business talk show",
+    "source": "TechCrunch",
+    "summary": "TBPN, Silicon Valley's cult-favorite tech podcast, will operate independently, even as it's overseen by chief political operative Chris Lehane.",
+    "url": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/",
+    "date": "2026-04-02"
+  },
+  {
     "title": "Microsoft takes on AI rivals with three new foundational models",
     "source": "TechCrunch",
     "summary": "MAI released models that can transcribe voice into text as well as generate audio and images after the group's formation six months ago.",
@@ -98,13 +105,6 @@
     "date": "2026-04-02"
   },
   {
-    "title": "With its new app store, Ring bets on AI to go beyond home security",
-    "source": "TechCrunch",
-    "summary": "Ring's app store will allow the company to target broader use cases beyond security, like elder care or business needs.",
-    "url": "https://techcrunch.com/2026/03/31/ring-app-store-bets-on-ai-to-go-beyond-home-security/",
-    "date": "2026-04-02"
-  },
-  {
     "title": "The Download: plastic\u2019s problem with fuel prices, and SpaceX\u2019s blockbuster IPO",
     "source": "MIT Tech Review",
     "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Fuel prices are soaring. Plastic could be next. As the war in Iran continues, one of the most visible global economic ripple effects has been fossil-fuel price...",
@@ -175,6 +175,13 @@
     "date": "2026-04-02"
   },
   {
+    "title": "OpenAI Acquires Tech Talk Show \u2018TBPN\u2019\u2014and Buys Itself Some Positive News",
+    "source": "Wired",
+    "summary": "OpenAI is acquiring TBPN, a business talk show that\u2019s popular among Silicon Valley elites, as it continues to battle its negative public image.",
+    "url": "https://www.wired.com/story/openai-acquires-tbpn-buys-positive-news-coverage/",
+    "date": "2026-04-02"
+  },
+  {
     "title": "A New Google-Funded Data Center Will Be Powered by a Massive Gas Plant",
     "source": "Wired",
     "summary": "Documents show that one of Google\u2019s new data centers would be powered by a natural gas plant that emits millions of tons of emissions each year\u2014an increasingly common trend in the industry.",
@@ -238,10 +245,10 @@
     "date": "2026-04-02"
   },
   {
-    "title": "AI Research Is Getting Harder to Separate From Geopolitics",
-    "source": "Wired",
-    "summary": "A policy change announced by NeurIPS, the world\u2019s leading AI research conference, drew widespread backlash from Chinese researchers this week and then was quickly reversed.",
-    "url": "https://www.wired.com/story/made-in-china-ai-research-is-starting-to-split-along-geopolitical-lines/",
+    "title": "Google Vids gets AI upgrade with Veo and Lyria models, directable AI avatars",
+    "source": "Ars Technica",
+    "summary": "Google Vids brings together Google's most capable AI creation tools.",
+    "url": "https://arstechnica.com/ai/2026/04/google-vids-gets-ai-upgrade-with-veo-and-lyria-models-directable-ai-avatars/",
     "date": "2026-04-02"
   },
   {
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "AI-generated content is still acceptable for now.",
     "url": "https://arstechnica.com/gadgets/2026/03/reddit-will-require-fishy-accounts-to-verify-they-are-run-by-a-human/",
-    "date": "2026-04-02"
-  },
-  {
-    "title": "Google's TurboQuant AI-compression algorithm can reduce LLM memory usage by 6x",
-    "source": "Ars Technica",
-    "summary": "TurboQuant makes AI models more efficient but doesn't reduce output quality like other methods.",
-    "url": "https://arstechnica.com/ai/2026/03/google-says-new-turboquant-compression-can-lower-ai-memory-usage-without-sacrificing-quality/",
     "date": "2026-04-02"
   }
 ]
