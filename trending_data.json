@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "AI for American-produced cement and concrete",
+    "title": "The Claude Code Leak",
     "source": "Hacker News",
-    "description": "HN Score: 158 | 108 comments",
-    "url": "https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/",
-    "score": 158,
+    "description": "HN Score: 74 | 23 comments",
+    "url": "https://build.ms/2026/4/1/the-claude-code-leak/",
+    "score": 74,
     "date": "2026-04-02",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "StepFun 3.5 Flash is #1 cost-effective model for OpenClaw tasks (300 battles)",
+    "title": "Email obfuscation: What works in 2026?",
     "source": "Hacker News",
-    "description": "HN Score: 147 | 63 comments",
-    "url": "https://app.uniclaw.ai/arena?tab=costEffectiveness&via=hn",
-    "score": 147,
+    "description": "HN Score: 13 | 0 comments",
+    "url": "https://spencermortensen.com/articles/email-obfuscation/",
+    "score": 13,
     "date": "2026-04-02",
     "category": "AI News"
   },
@@ -38,6 +38,40 @@
     "source": "@EMostaque",
     "description": "",
     "url": "https://nitter.net/dawnsongtweets/status/2039451083005977009#m",
+    "date": "2026-04-02",
+    "category": "Twitter"
+  },
+  {
+    "title": "r/programming bans all discussion of LLM programming",
+    "source": "Hacker News",
+    "description": "HN Score: 13 | 3 comments",
+    "url": "https://old.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/",
+    "score": 13,
+    "date": "2026-04-02",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: Today we're releasing Trinity-Large-Thinking. Available now on the Arcee API, with open weights on Hugging Face under Apache 2.0. We",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/arcee_ai/status/2039369121591120030#m",
+    "date": "2026-04-02",
+    "category": "Twitter"
+  },
+  {
+    "title": "AI for American-produced cement and concrete",
+    "source": "Hacker News",
+    "description": "HN Score: 181 | 109 comments",
+    "url": "https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/",
+    "score": 181,
+    "date": "2026-04-02",
+    "category": "AI News"
+  },
+  {
+    "title": "R to @DrJimFan: Please check out lead author @letian_fu's deep dive thread! https://x.com/letian_fu/status/2039342130565357956?s=20",
+    "source": "@DrJimFan",
+    "description": "",
+    "url": "https://nitter.net/DrJimFan/status/2039360927653614004#m",
     "date": "2026-04-02",
     "category": "Twitter"
   },
@@ -51,53 +85,36 @@
     "category": "AI News"
   },
   {
-    "title": "RT by @EMostaque: Today we're releasing Trinity-Large-Thinking. Available now on the Arcee API, with open weights on Hugging Face under Apache 2.0. We",
-    "source": "@EMostaque",
+    "title": "R to @DrJimFan: As usual, we open-source everything, MIT license: https://capgym.github.io Code: https://github.com/capgym/cap-x Paper: https://arxiv.",
+    "source": "@DrJimFan",
     "description": "",
-    "url": "https://nitter.net/arcee_ai/status/2039369121591120030#m",
+    "url": "https://nitter.net/DrJimFan/status/2039360925606760690#m",
     "date": "2026-04-02",
     "category": "Twitter"
   },
   {
-    "title": "ZomboCom stolen by a hacker, sold, now replaced with AI-generated makeover",
+    "title": "Salomi, a research repo on extreme low-bit transformer quantization",
     "source": "Hacker News",
-    "description": "HN Score: 50 | 21 comments",
-    "url": "https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/",
-    "score": 50,
+    "description": "HN Score: 8 | 0 comments",
+    "url": "https://github.com/OrionsLock/SALOMI",
+    "score": 8,
     "date": "2026-04-02",
     "category": "AI News"
   },
   {
-    "title": "R to @DrJimFan: Please check out lead author @letian_fu's deep dive thread! https://x.com/letian_fu/status/2039342130565357956?s=20",
-    "source": "@DrJimFan",
+    "title": "RT by @svpino: Let me show you how easy it is to implement smart routing in your LLM-based projects. Smart routing will select the best model based on",
+    "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2039360927653614004#m",
+    "url": "https://nitter.net/svpino/status/2039391093155082369#m",
     "date": "2026-04-02",
     "category": "Twitter"
   },
   {
-    "title": "Windows 95 defenses against installers that overwrite a file with an older one",
+    "title": "StepFun 3.5 Flash is #1 cost-effective model for OpenClaw tasks (300 battles)",
     "source": "Hacker News",
-    "description": "HN Score: 126 | 58 comments",
-    "url": "https://devblogs.microsoft.com/oldnewthing/20260324-00/?p=112159",
-    "score": 126,
-    "date": "2026-04-02",
-    "category": "AI News"
-  },
-  {
-    "title": "The power of the Claw, in the palm of a robot hand. Agentic robotics is here! Today, we open-source CaP-X: vibe agents, alive in the physical world. T",
-    "source": "@DrJimFan",
-    "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2039358115318243352#m",
-    "date": "2026-04-02",
-    "category": "Twitter"
-  },
-  {
-    "title": "Montana referendum to outlaw corporate campaign contributions [video]",
-    "source": "Hacker News",
-    "description": "HN Score: 38 | 6 comments",
-    "url": "https://www.youtube.com/watch?v=p1fPbGHe3xE",
-    "score": 38,
+    "description": "HN Score: 155 | 68 comments",
+    "url": "https://app.uniclaw.ai/arena?tab=costEffectiveness&via=hn",
+    "score": 155,
     "date": "2026-04-02",
     "category": "AI News"
   },
@@ -110,28 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: 65k AI voters predict UK local elections with 75% accuracy",
+    "title": "Windows 95 defenses against installers that overwrite a file with an older one",
     "source": "Hacker News",
-    "description": "HN Score: 3 | 0 comments",
-    "url": "https://kronaxis.co.uk/blog/predicting-may-7-elections",
-    "score": 3,
-    "date": "2026-04-02",
-    "category": "AI News"
-  },
-  {
-    "title": "Let me show you how easy it is to implement smart routing in your LLM-based projects. Smart routing will select the best model based on the difficulty",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2039391093155082369#m",
-    "date": "2026-04-02",
-    "category": "Twitter"
-  },
-  {
-    "title": "The AI Marketing BS Index",
-    "source": "Hacker News",
-    "description": "HN Score: 90 | 19 comments",
-    "url": "https://bastian.rieck.me/blog/2026/bs/",
-    "score": 90,
+    "description": "HN Score: 141 | 70 comments",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20260324-00/?p=112159",
+    "score": 141,
     "date": "2026-04-02",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Ukrainian drone holds position for 6 weeks",
+    "title": "ZomboCom stolen by a hacker, sold, now replaced with AI-generated makeover",
     "source": "Hacker News",
-    "description": "HN Score: 131 | 149 comments",
-    "url": "https://defenceleaders.com/news/ukrainian-combat-robot-holds-frontline-position-for-six-weeks-in-sign-of-growing-ugv-maturity/",
-    "score": 131,
+    "description": "HN Score: 64 | 28 comments",
+    "url": "https://old.reddit.com/r/oldinternet/comments/1raiz8v/zombocom_was_stolen_by_hacker_put_up_for_sale_and/",
+    "score": 64,
     "date": "2026-04-02",
     "category": "AI News"
   },
