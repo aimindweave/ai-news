@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
+    "title": "Qwen3.6-Plus: Towards Real World Agents",
     "source": "Hacker News",
-    "description": "HN Score: 113 | 28 comments",
-    "url": "https://lemonade-server.ai",
-    "score": 113,
+    "description": "HN Score: 36 | 13 comments",
+    "url": "https://qwen.ai/blog?id=qwen3.6",
+    "score": 36,
     "date": "2026-04-02",
     "category": "AI News"
   },
@@ -25,11 +25,28 @@
     "category": "Twitter"
   },
   {
+    "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
+    "source": "Hacker News",
+    "description": "HN Score: 184 | 48 comments",
+    "url": "https://lemonade-server.ai",
+    "score": 184,
+    "date": "2026-04-02",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: The best agent is now open source. II-Agent is now live on GitHub. From a single prompt to a mobile app. From a research brief to an",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/ii_posts/status/2039711788992700491#m",
+    "date": "2026-04-02",
+    "category": "Twitter"
+  },
+  {
     "title": "Significant Raise of Reports",
     "source": "Hacker News",
-    "description": "HN Score: 90 | 46 comments",
+    "description": "HN Score: 121 | 63 comments",
     "url": "https://lwn.net/Articles/1065620/",
-    "score": 90,
+    "score": 121,
     "date": "2026-04-02",
     "category": "AI News"
   },
@@ -44,26 +61,9 @@
   {
     "title": "Email obfuscation: What works in 2026?",
     "source": "Hacker News",
-    "description": "HN Score: 212 | 65 comments",
+    "description": "HN Score: 244 | 73 comments",
     "url": "https://spencermortensen.com/articles/email-obfuscation/",
-    "score": 212,
-    "date": "2026-04-02",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @EMostaque: Today we're releasing Trinity-Large-Thinking. Available now on the Arcee API, with open weights on Hugging Face under Apache 2.0. We",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/arcee_ai/status/2039369121591120030#m",
-    "date": "2026-04-02",
-    "category": "Twitter"
-  },
-  {
-    "title": "Mercor says it was hit by cyberattack tied to compromise LiteLLM",
-    "source": "Hacker News",
-    "description": "HN Score: 88 | 26 comments",
-    "url": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
-    "score": 88,
+    "score": 244,
     "date": "2026-04-02",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "AI for American-produced cement and concrete",
+    "title": "Mercor says it was hit by cyberattack tied to compromise LiteLLM",
     "source": "Hacker News",
-    "description": "HN Score: 203 | 114 comments",
-    "url": "https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/",
-    "score": 203,
+    "description": "HN Score: 100 | 30 comments",
+    "url": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
+    "score": 100,
     "date": "2026-04-02",
     "category": "AI News"
   },
@@ -93,11 +93,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Things I Think I Think... Preferring Local OSS LLMs",
+    "title": "The SpaceX IPO: retail investor notes",
     "source": "Hacker News",
-    "description": "HN Score: 15 | 2 comments",
-    "url": "https://blogs.newardassociates.com/blog/2026/titit-local-ai.html",
-    "score": 15,
+    "description": "HN Score: 14 | 2 comments",
+    "url": "https://report.bearblog.dev/the-spacex-ipo-will-be-the-perfect-storm-of-retail-investor-fallacies/",
+    "score": 14,
+    "date": "2026-04-02",
+    "category": "AI News"
+  },
+  {
+    "title": "These guys are running one of the most powerful general AI agents in the market. A couple of weeks ago, they launched a competitor to OpenClaw as a fe",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2039701938510733480#m",
+    "date": "2026-04-02",
+    "category": "Twitter"
+  },
+  {
+    "title": "AI for American-produced cement and concrete",
+    "source": "Hacker News",
+    "description": "HN Score: 208 | 115 comments",
+    "url": "https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/",
+    "score": 208,
     "date": "2026-04-02",
     "category": "AI News"
   },
@@ -110,28 +127,28 @@
     "category": "Twitter"
   },
   {
-    "title": "StepFun 3.5 Flash is #1 cost-effective model for OpenClaw tasks (300 battles)",
+    "title": "Things I Think I Think... Preferring Local OSS LLMs",
     "source": "Hacker News",
-    "description": "HN Score: 165 | 79 comments",
-    "url": "https://app.uniclaw.ai/arena?tab=costEffectiveness&via=hn",
-    "score": 165,
+    "description": "HN Score: 19 | 3 comments",
+    "url": "https://blogs.newardassociates.com/blog/2026/titit-local-ai.html",
+    "score": 19,
     "date": "2026-04-02",
     "category": "AI News"
   },
   {
-    "title": "Nobody teaches people how to build software anymore. I'm not talking about theoretical concepts, but the real, brutal reality of delivering software t",
-    "source": "@svpino",
+    "title": "ALARMING! Programmers are totally forgetting how to code We are beginning to interview folks who have lost totally lost touch with coding Who is going",
+    "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2039688071386685849#m",
+    "url": "https://nitter.net/bindureddy/status/2039707125791047853#m",
     "date": "2026-04-02",
     "category": "Twitter"
   },
   {
-    "title": "The Claude Code Leak",
+    "title": "StepFun 3.5 Flash is #1 cost-effective model for OpenClaw tasks (300 battles)",
     "source": "Hacker News",
-    "description": "HN Score: 175 | 153 comments",
-    "url": "https://build.ms/2026/4/1/the-claude-code-leak/",
-    "score": 175,
+    "description": "HN Score: 165 | 80 comments",
+    "url": "https://app.uniclaw.ai/arena?tab=costEffectiveness&via=hn",
+    "score": 165,
     "date": "2026-04-02",
     "category": "AI News"
   },
@@ -140,14 +157,6 @@
     "source": "@bindureddy",
     "description": "",
     "url": "https://nitter.net/bindureddy/status/2039633284700013018#m",
-    "date": "2026-04-02",
-    "category": "Twitter"
-  },
-  {
-    "title": "\ud83d\udea8 BREAKING: Today we're announcing Prometheus - An AI NeoLab with $20B in pre-seed funding (yes, you read that right) to build the world's first senti",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2039514276315181067#m",
     "date": "2026-04-02",
     "category": "Twitter"
   }
