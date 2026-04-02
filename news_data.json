@@ -1,5 +1,19 @@
 [
   {
+    "title": "Microsoft takes on AI rivals with three new foundational models",
+    "source": "TechCrunch",
+    "summary": "MAI released models that can transcribe voice into text as well as generate audio and images after the group's formation six months ago.",
+    "url": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/",
+    "date": "2026-04-02"
+  },
+  {
+    "title": "Google now lets you direct avatars through prompts in its Vids app",
+    "source": "TechCrunch",
+    "summary": "Google is adding a way to customize and instruct avatars for video creation in the Vids app.",
+    "url": "https://techcrunch.com/2026/04/02/google-now-lets-you-direct-avatars-through-prompts-in-its-vids-app/",
+    "date": "2026-04-02"
+  },
+  {
     "title": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code \u2014 a move the company says was an accident",
     "source": "TechCrunch",
     "summary": "Anthropic executives said it was an accident and retracted the bulk of the takedown notices.",
@@ -91,20 +105,6 @@
     "date": "2026-04-02"
   },
   {
-    "title": "15% of Americans say they\u2019d be willing to work for an AI boss, according to new poll",
-    "source": "TechCrunch",
-    "summary": "According to a Quinnipiac University poll, 15% of Americans say they'd be willing to have a job where their direct supervisor was an AI program that assigned tasks and set schedules.",
-    "url": "https://techcrunch.com/2026/03/30/ai-work-boss-supervisor-us-quinnipiac-poll/",
-    "date": "2026-04-02"
-  },
-  {
-    "title": "Popular AI gateway startup LiteLLM ditches controversial startup Delve",
-    "source": "TechCrunch",
-    "summary": "LiteLLM had obtained two security compliance certifications via Delve and fell victim to some horrific credential-stealing malware last week.",
-    "url": "https://techcrunch.com/2026/03/30/popular-ai-gateway-startup-litellm-ditches-controversial-startup-delve/",
-    "date": "2026-04-02"
-  },
-  {
     "title": "The Download: plastic\u2019s problem with fuel prices, and SpaceX\u2019s blockbuster IPO",
     "source": "MIT Tech Review",
     "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Fuel prices are soaring. Plastic could be next. As the war in Iran continues, one of the most visible global economic ripple effects has been fossil-fuel price...",
@@ -175,6 +175,13 @@
     "date": "2026-04-02"
   },
   {
+    "title": "Anthropic Says That Claude Contains Its Own Kind of Emotions",
+    "source": "Wired",
+    "summary": "Researchers at the company found representations inside of Claude that perform functions similar to human feelings.",
+    "url": "https://www.wired.com/story/anthropic-claude-research-functional-emotions/",
+    "date": "2026-04-02"
+  },
+  {
     "title": "AI Models Lie, Cheat, and Steal to Protect Other Models From Being Deleted",
     "source": "Wired",
     "summary": "A new study from researchers at UC Berkeley and UC Santa Cruz suggests models will disobey human commands to protect their own kind.",
@@ -238,10 +245,17 @@
     "date": "2026-04-02"
   },
   {
-    "title": "I Asked ChatGPT 500 Questions. Here Are the Ads I Saw Most Often",
-    "source": "Wired",
-    "summary": "Ads are rolling out across the US on ChatGPT\u2019s free tier. I asked OpenAI's bot 500 questions to see what these ads were like and how they related to my prompts.",
-    "url": "https://www.wired.com/story/i-asked-chatgpt-500-questions-here-are-the-ads-i-saw-most-often/",
+    "title": "Google announces Gemma 4 open AI models, switches to Apache 2.0 license",
+    "source": "Ars Technica",
+    "summary": "Gemma 4 brings the first major update to Google's open models in a year.",
+    "url": "https://arstechnica.com/ai/2026/04/google-announces-gemma-4-open-ai-models-switches-to-apache-2-0-license/",
+    "date": "2026-04-02"
+  },
+  {
+    "title": "Anthropic says its leak-focused DMCA effort unintentionally hit legit GitHub forks",
+    "source": "Ars Technica",
+    "summary": "But the effort to stop the spread of leaked Claude Code client code is an uphill battle.",
+    "url": "https://arstechnica.com/ai/2026/04/anthropic-says-its-leak-focused-dmca-effort-unintentionally-hit-legit-github-forks/",
     "date": "2026-04-02"
   },
   {
@@ -333,20 +347,6 @@
     "source": "Ars Technica",
     "summary": "TurboQuant makes AI models more efficient but doesn't reduce output quality like other methods.",
     "url": "https://arstechnica.com/ai/2026/03/google-says-new-turboquant-compression-can-lower-ai-memory-usage-without-sacrificing-quality/",
-    "date": "2026-04-02"
-  },
-  {
-    "title": "Disney cancels $1 billion OpenAI partnership amid Sora shutdown plans",
-    "source": "Ars Technica",
-    "summary": "Press reports suggest Disney was blindsided and that no money changed hands.",
-    "url": "https://arstechnica.com/ai/2026/03/the-end-of-sora-also-means-the-end-of-disneys-1-billion-openai-investment/",
-    "date": "2026-04-02"
-  },
-  {
-    "title": "Mozilla dev's 'Stack Overflow for agents' targets a key weakness in coding AI",
-    "source": "Ars Technica",
-    "summary": "There are major problems to be solved before it can be adopted, though.",
-    "url": "https://arstechnica.com/ai/2026/03/mozilla-dev-introduces-cq-a-stack-overflow-for-agents/",
     "date": "2026-04-02"
   }
 ]
