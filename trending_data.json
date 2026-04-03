@@ -10,9 +10,9 @@
   {
     "title": "Google releases Gemma 4 open models",
     "source": "Hacker News",
-    "description": "HN Score: 1442 | 403 comments",
+    "description": "HN Score: 1509 | 415 comments",
     "url": "https://deepmind.google/models/gemma/gemma-4/",
-    "score": 1442,
+    "score": 1509,
     "date": "2026-04-03",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "The True Shape of Io's Steeple Mountain",
+    "title": "Show HN: Apfel \u2013 The free AI already on your Mac",
     "source": "Hacker News",
-    "description": "HN Score: 39 | 1 comments",
-    "url": "https://www.weareinquisitive.com/news/hidden-in-the-shadow",
-    "score": 39,
+    "description": "HN Score: 36 | 4 comments",
+    "url": "https://apfel.franzai.com",
+    "score": 36,
     "date": "2026-04-03",
     "category": "AI News"
   },
@@ -44,9 +44,9 @@
   {
     "title": "Tailscale's new macOS home",
     "source": "Hacker News",
-    "description": "HN Score: 448 | 224 comments",
+    "description": "HN Score: 466 | 234 comments",
     "url": "https://tailscale.com/blog/macos-notch-escape",
-    "score": 448,
+    "score": 466,
     "date": "2026-04-03",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Qwen3.6-Plus: Towards real world agents",
+    "title": "The True Shape of Io's Steeple Mountain",
     "source": "Hacker News",
-    "description": "HN Score: 519 | 183 comments",
-    "url": "https://qwen.ai/blog?id=qwen3.6",
-    "score": 519,
+    "description": "HN Score: 56 | 1 comments",
+    "url": "https://www.weareinquisitive.com/news/hidden-in-the-shadow",
+    "score": 56,
     "date": "2026-04-03",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Good ideas do not need lots of lies in order to gain public acceptance (2008)",
+    "title": "Qwen3.6-Plus: Towards real world agents",
     "source": "Hacker News",
-    "description": "HN Score: 248 | 102 comments",
-    "url": "https://blog.danieldavies.com/2004/05/d-squared-digest-one-minute-mba.html",
-    "score": 248,
+    "description": "HN Score: 535 | 186 comments",
+    "url": "https://qwen.ai/blog?id=qwen3.6",
+    "score": 535,
     "date": "2026-04-03",
     "category": "AI News"
   },
@@ -93,11 +93,28 @@
     "category": "Twitter"
   },
   {
+    "title": "Good ideas do not need lots of lies in order to gain public acceptance (2008)",
+    "source": "Hacker News",
+    "description": "HN Score: 265 | 111 comments",
+    "url": "https://blog.danieldavies.com/2004/05/d-squared-digest-one-minute-mba.html",
+    "score": 265,
+    "date": "2026-04-03",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: This is kind of awesome! You can send a Google Meet invite to your agent (OpenClaw, Claude, whatever) and have them join you on a real-",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2039824293287379426#m",
+    "date": "2026-04-03",
+    "category": "Twitter"
+  },
+  {
     "title": "OpenAI Acquires TBPN",
     "source": "Hacker News",
-    "description": "HN Score: 209 | 164 comments",
+    "description": "HN Score: 214 | 171 comments",
     "url": "https://openai.com/index/openai-acquires-tbpn/",
-    "score": 209,
+    "score": 214,
     "date": "2026-04-03",
     "category": "AI News"
   },
@@ -110,28 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "A Rave Review of Superpowers (For Claude Code)",
-    "source": "Hacker News",
-    "description": "HN Score: 12 | 1 comments",
-    "url": "https://emschwartz.me/a-rave-review-of-superpowers-for-claude-code/",
-    "score": 12,
-    "date": "2026-04-03",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: These guys are running one of the most powerful general AI agents in the market. A couple of weeks ago, they launched a competitor to O",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2039701938510733480#m",
-    "date": "2026-04-03",
-    "category": "Twitter"
-  },
-  {
     "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
     "source": "Hacker News",
-    "description": "HN Score: 516 | 107 comments",
+    "description": "HN Score: 521 | 107 comments",
     "url": "https://lemonade-server.ai",
-    "score": 516,
+    "score": 521,
     "date": "2026-04-03",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Post Mortem: axios NPM supply chain compromise",
+    "title": "A Rave Review of Superpowers (For Claude Code)",
     "source": "Hacker News",
-    "description": "HN Score: 92 | 51 comments",
-    "url": "https://github.com/axios/axios/issues/10636",
-    "score": 92,
+    "description": "HN Score: 24 | 12 comments",
+    "url": "https://emschwartz.me/a-rave-review-of-superpowers-for-claude-code/",
+    "score": 24,
     "date": "2026-04-03",
     "category": "AI News"
   },
@@ -163,9 +163,9 @@
   {
     "title": "Mercor says it was hit by cyberattack tied to compromise LiteLLM",
     "source": "Hacker News",
-    "description": "HN Score: 142 | 44 comments",
+    "description": "HN Score: 144 | 44 comments",
     "url": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
-    "score": 142,
+    "score": 144,
     "date": "2026-04-03",
     "category": "AI News"
   }
