@@ -1,5 +1,40 @@
 [
   {
+    "title": "OpenAI executive shuffle includes new role for COO Brad Lightcap to lead \u2018special projects\u2019",
+    "source": "TechCrunch",
+    "summary": "In addition to Lightcap's new role, OpenAI CMO Kate Rouch will be stepping away from the company to focus on cancer recovery, with a plan to return when her health allows.",
+    "url": "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/",
+    "date": "2026-04-03"
+  },
+  {
+    "title": "Anthropic buys biotech startup Coefficient Bio in $400M deal: reports",
+    "source": "TechCrunch",
+    "summary": "Anthropic has purchased the stealth biotech AI startup Coefficient Bio in a $400 million stock deal, according to The Information and Eric Newcomer.",
+    "url": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/",
+    "date": "2026-04-03"
+  },
+  {
+    "title": "Anthropic ramps up its political activities with a new PAC",
+    "source": "TechCrunch",
+    "summary": "With the midterms right around the corner, the new group is positioned to back candidates who support the AI company's policy agenda.",
+    "url": "https://techcrunch.com/2026/04/03/anthropic-ramps-up-its-political-activities-with-a-new-pac/",
+    "date": "2026-04-03"
+  },
+  {
+    "title": "AI companies are building huge natural gas plants to power data centers. What could go wrong?",
+    "source": "TechCrunch",
+    "summary": "Meta, Microsoft, and Google are all betting big on new natural gas power plants to run their AI data centers. They may regret it.",
+    "url": "https://techcrunch.com/2026/04/03/ai-energy-microsoft-meta-google-natural-gas-mining-fomo/",
+    "date": "2026-04-03"
+  },
+  {
+    "title": "People would rather have an Amazon warehouse in their backyard than a data center",
+    "source": "TechCrunch",
+    "summary": "A new poll shows that the debate over data centers is far from settled.",
+    "url": "https://techcrunch.com/2026/04/03/people-would-rather-have-an-amazon-warehouse-in-their-backyard-than-a-data-center/",
+    "date": "2026-04-03"
+  },
+  {
     "title": "The Facebook insider building content moderation for the AI era",
     "source": "TechCrunch",
     "summary": "Moonbounce has raised $12 million to grow its AI control engine that converts content moderation policies into consistent, predictable AI behavior.",
@@ -67,41 +102,6 @@
     "source": "TechCrunch",
     "summary": "A human really borks things at Anthropic for the second time this week.",
     "url": "https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/",
-    "date": "2026-04-03"
-  },
-  {
-    "title": "Salesforce announces an AI-heavy makeover for Slack, with 30 new features",
-    "source": "TechCrunch",
-    "summary": "Slack just got a whole lot more useful.",
-    "url": "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/",
-    "date": "2026-04-03"
-  },
-  {
-    "title": "OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise",
-    "source": "TechCrunch",
-    "summary": "OpenAI's latest funding round, led by Amazon, Nvidia, and SoftBank, values the AI lab at $852 billion as it nears an IPO.",
-    "url": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/",
-    "date": "2026-04-03"
-  },
-  {
-    "title": "Yupp shuts down after raising $33M from a16z crypto\u2019s Chris Dixon",
-    "source": "TechCrunch",
-    "summary": "Less than a year after launching, with checks from some of the biggest names in Silicon Valley, crowdsourced AI model feedback startup Yupp is closing its business, the company said Tuesday.",
-    "url": "https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/",
-    "date": "2026-04-03"
-  },
-  {
-    "title": "Alexa+ gets new food ordering experiences with Uber Eats and Grubhub",
-    "source": "TechCrunch",
-    "summary": "You can now order from Uber Eats and Grubhub using Alexa+, an experience Amazon says will be similar to chatting with a waiter at a restaurant or placing an order at a drive-thru.",
-    "url": "https://techcrunch.com/2026/03/31/alexa-plus-new-food-ordering-experiences-with-uber-eats-and-grubhub/",
-    "date": "2026-04-03"
-  },
-  {
-    "title": "Nomadic raises $8.4 million to wrangle the data pouring off autonomous vehicles",
-    "source": "TechCrunch",
-    "summary": "The company turns footage from robots into structured, searchable datasets with a deep learning model.",
-    "url": "https://techcrunch.com/2026/03/31/nomadic-raises-8-4-million-to-wrangle-the-data-pouring-off-avs/",
     "date": "2026-04-03"
   },
   {
@@ -175,6 +175,13 @@
     "date": "2026-04-03"
   },
   {
+    "title": "OpenAI\u2019s Fidji Simo Is Taking Medical Leave Amid an Executive Shake-Up",
+    "source": "Wired",
+    "summary": "The company is undergoing major leadership restructuring as its CEO of AGI deployment goes on leave for \u201cseveral weeks.\u201d",
+    "url": "https://www.wired.com/story/openais-fidji-simo-is-taking-a-leave-of-absence/",
+    "date": "2026-04-03"
+  },
+  {
     "title": "The 3 Best Portable Jump Starters in 2026: Get Charged Up",
     "source": "Wired",
     "summary": "The new crop of portable jump starters means you'll never be stuck waiting on a tow. Here are the devices we'd trust.",
@@ -238,10 +245,10 @@
     "date": "2026-04-03"
   },
   {
-    "title": "I Asked ChatGPT What WIRED\u2019s Reviewers Recommend. Its Answers Were All Wrong",
-    "source": "Wired",
-    "summary": "Want to know what our reviewers have actually tested and picked as the best TVs, headphones, and laptops? Ask ChatGPT, and it'll give you the wrong answers.",
-    "url": "https://www.wired.com/story/i-asked-chatgpt-what-wired-reviewers-recommend-its-answers-were-all-wrong/",
+    "title": "OpenClaw gives users yet another reason to be freaked out about security",
+    "source": "Ars Technica",
+    "summary": "The viral AI agentic tool let attackers silently gain admin unauthenticated access.",
+    "url": "https://arstechnica.com/security/2026/04/heres-why-its-prudent-for-openclaw-users-to-assume-compromise/",
     "date": "2026-04-03"
   },
   {
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "Subjects who interacted with AI tools were more likely to think they were right, less likely to resolve conflicts.",
     "url": "https://arstechnica.com/science/2026/03/study-sycophantic-ai-can-undermine-human-judgment/",
-    "date": "2026-04-03"
-  },
-  {
-    "title": "The debut of Gemini 3.1 Flash Live could make it harder to know if you're talking to a robot",
-    "source": "Ars Technica",
-    "summary": "Google's new conversational audio AI is rolling out in search, Gemini, and developer tools today.",
-    "url": "https://arstechnica.com/ai/2026/03/the-debut-of-gemini-3-1-flash-live-could-make-it-harder-to-know-if-youre-talking-to-a-robot/",
     "date": "2026-04-03"
   }
 ]
