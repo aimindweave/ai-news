@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Google releases Gemma 4 open models",
+    "title": "Show HN: Apfel \u2013 The free AI already on your Mac",
     "source": "Hacker News",
-    "description": "HN Score: 1509 | 415 comments",
-    "url": "https://deepmind.google/models/gemma/gemma-4/",
-    "score": 1509,
+    "description": "HN Score: 276 | 46 comments",
+    "url": "https://apfel.franzai.com",
+    "score": 276,
     "date": "2026-04-03",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Apfel \u2013 The free AI already on your Mac",
+    "title": "Google releases Gemma 4 open models",
     "source": "Hacker News",
-    "description": "HN Score: 36 | 4 comments",
-    "url": "https://apfel.franzai.com",
-    "score": 36,
+    "description": "HN Score: 1583 | 423 comments",
+    "url": "https://deepmind.google/models/gemma/gemma-4/",
+    "score": 1583,
     "date": "2026-04-03",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Tailscale's new macOS home",
+    "title": "Bun: cgroup-aware AvailableParallelism / HardwareConcurrency on Linux",
     "source": "Hacker News",
-    "description": "HN Score: 466 | 234 comments",
-    "url": "https://tailscale.com/blog/macos-notch-escape",
-    "score": 466,
+    "description": "HN Score: 7 | 1 comments",
+    "url": "https://github.com/oven-sh/bun/pull/28801",
+    "score": 7,
     "date": "2026-04-03",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "The True Shape of Io's Steeple Mountain",
+    "title": "Intel Assured Supply Chain Product Brief",
     "source": "Hacker News",
-    "description": "HN Score: 56 | 1 comments",
-    "url": "https://www.weareinquisitive.com/news/hidden-in-the-shadow",
-    "score": 56,
+    "description": "HN Score: 15 | 0 comments",
+    "url": "https://www.intel.com/content/www/us/en/content-details/850997/intel-assured-supply-chain-product-brief.html",
+    "score": 15,
     "date": "2026-04-03",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Qwen3.6-Plus: Towards real world agents",
+    "title": "The True Shape of Io's Steeple Mountain",
     "source": "Hacker News",
-    "description": "HN Score: 535 | 186 comments",
-    "url": "https://qwen.ai/blog?id=qwen3.6",
-    "score": 535,
+    "description": "HN Score: 77 | 1 comments",
+    "url": "https://www.weareinquisitive.com/news/hidden-in-the-shadow",
+    "score": 77,
     "date": "2026-04-03",
     "category": "AI News"
   },
@@ -93,45 +93,45 @@
     "category": "Twitter"
   },
   {
+    "title": "Tailscale's new macOS home",
+    "source": "Hacker News",
+    "description": "HN Score: 493 | 245 comments",
+    "url": "https://tailscale.com/blog/macos-notch-escape",
+    "score": 493,
+    "date": "2026-04-03",
+    "category": "AI News"
+  },
+  {
+    "title": "Most people write worse code than AI does. I've worked in absolutely horrible codebases, 100% written and messed up by humans. So why do we complain a",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2040047422622384210#m",
+    "date": "2026-04-03",
+    "category": "Twitter"
+  },
+  {
+    "title": "Qwen3.6-Plus: Towards real world agents",
+    "source": "Hacker News",
+    "description": "HN Score: 558 | 189 comments",
+    "url": "https://qwen.ai/blog?id=qwen3.6",
+    "score": 558,
+    "date": "2026-04-03",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: I really like the idea of having multiple specialized agents instead of a 'general purpose' agent that tries to do it all. A few days a",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2039856916126634422#m",
+    "date": "2026-04-03",
+    "category": "Twitter"
+  },
+  {
     "title": "Good ideas do not need lots of lies in order to gain public acceptance (2008)",
     "source": "Hacker News",
-    "description": "HN Score: 265 | 111 comments",
+    "description": "HN Score: 290 | 133 comments",
     "url": "https://blog.danieldavies.com/2004/05/d-squared-digest-one-minute-mba.html",
-    "score": 265,
-    "date": "2026-04-03",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: This is kind of awesome! You can send a Google Meet invite to your agent (OpenClaw, Claude, whatever) and have them join you on a real-",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2039824293287379426#m",
-    "date": "2026-04-03",
-    "category": "Twitter"
-  },
-  {
-    "title": "OpenAI Acquires TBPN",
-    "source": "Hacker News",
-    "description": "HN Score: 214 | 171 comments",
-    "url": "https://openai.com/index/openai-acquires-tbpn/",
-    "score": 214,
-    "date": "2026-04-03",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: Writing code is becoming extinct. Let's face it: Software Engineering is moving towards the orchestration of multiple agents running in",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2039722107412910122#m",
-    "date": "2026-04-03",
-    "category": "Twitter"
-  },
-  {
-    "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
-    "source": "Hacker News",
-    "description": "HN Score: 521 | 107 comments",
-    "url": "https://lemonade-server.ai",
-    "score": 521,
+    "score": 290,
     "date": "2026-04-03",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "A Rave Review of Superpowers (For Claude Code)",
+    "title": "OpenAI Acquires TBPN",
     "source": "Hacker News",
-    "description": "HN Score: 24 | 12 comments",
-    "url": "https://emschwartz.me/a-rave-review-of-superpowers-for-claude-code/",
-    "score": 24,
+    "description": "HN Score: 219 | 180 comments",
+    "url": "https://openai.com/index/openai-acquires-tbpn/",
+    "score": 219,
     "date": "2026-04-03",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Mercor says it was hit by cyberattack tied to compromise LiteLLM",
+    "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
     "source": "Hacker News",
-    "description": "HN Score: 144 | 44 comments",
-    "url": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
-    "score": 144,
+    "description": "HN Score: 528 | 111 comments",
+    "url": "https://lemonade-server.ai",
+    "score": 528,
     "date": "2026-04-03",
     "category": "AI News"
   }
