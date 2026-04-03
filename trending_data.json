@@ -10,9 +10,9 @@
   {
     "title": "Google releases Gemma 4 open models",
     "source": "Hacker News",
-    "description": "HN Score: 1195 | 358 comments",
+    "description": "HN Score: 1295 | 382 comments",
     "url": "https://deepmind.google/models/gemma/gemma-4/",
-    "score": 1195,
+    "score": 1295,
     "date": "2026-04-03",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "Tailscale's new macOS home",
     "source": "Hacker News",
-    "description": "HN Score: 343 | 177 comments",
+    "description": "HN Score: 393 | 192 comments",
     "url": "https://tailscale.com/blog/macos-notch-escape",
-    "score": 343,
+    "score": 393,
     "date": "2026-04-03",
     "category": "AI News"
   },
@@ -44,9 +44,9 @@
   {
     "title": "Qwen3.6-Plus: Towards real world agents",
     "source": "Hacker News",
-    "description": "HN Score: 442 | 151 comments",
+    "description": "HN Score: 478 | 168 comments",
     "url": "https://qwen.ai/blog?id=qwen3.6",
-    "score": 442,
+    "score": 478,
     "date": "2026-04-03",
     "category": "AI News"
   },
@@ -61,9 +61,9 @@
   {
     "title": "Good ideas do not need lots of lies in order to gain public acceptance (2008)",
     "source": "Hacker News",
-    "description": "HN Score: 166 | 81 comments",
+    "description": "HN Score: 209 | 87 comments",
     "url": "https://blog.danieldavies.com/2004/05/d-squared-digest-one-minute-mba.html",
-    "score": 166,
+    "score": 209,
     "date": "2026-04-03",
     "category": "AI News"
   },
@@ -78,26 +78,43 @@
   {
     "title": "Post Mortem: axios NPM supply chain compromise",
     "source": "Hacker News",
-    "description": "HN Score: 29 | 10 comments",
+    "description": "HN Score: 68 | 37 comments",
     "url": "https://github.com/axios/axios/issues/10636",
-    "score": 29,
+    "score": 68,
     "date": "2026-04-03",
     "category": "AI News"
   },
   {
-    "title": "R to @DrJimFan: As usual, we open-source everything, MIT license: https://capgym.github.io Code: https://github.com/capgym/cap-x Paper: https://arxiv.",
+    "title": "The power of the Claw, in the palm of a robot hand. Agentic robotics is here! Today, we open-source CaP-X: vibe agents, alive in the physical world. T",
     "source": "@DrJimFan",
     "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2039360925606760690#m",
+    "url": "https://nitter.net/DrJimFan/status/2039358115318243352#m",
+    "date": "2026-04-03",
+    "category": "Twitter"
+  },
+  {
+    "title": "OpenAI Acquires TBPN",
+    "source": "Hacker News",
+    "description": "HN Score: 183 | 152 comments",
+    "url": "https://openai.com/index/openai-acquires-tbpn/",
+    "score": 183,
+    "date": "2026-04-03",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: Writing code is becoming extinct. Let's face it: Software Engineering is moving towards the orchestration of multiple agents running in",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2039722107412910122#m",
     "date": "2026-04-03",
     "category": "Twitter"
   },
   {
     "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
     "source": "Hacker News",
-    "description": "HN Score: 456 | 99 comments",
+    "description": "HN Score: 478 | 106 comments",
     "url": "https://lemonade-server.ai",
-    "score": 456,
+    "score": 478,
     "date": "2026-04-03",
     "category": "AI News"
   },
@@ -110,28 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "OpenAI Acquires TBPN",
+    "title": "Mercor says it was hit by cyberattack tied to compromise LiteLLM",
     "source": "Hacker News",
-    "description": "HN Score: 161 | 132 comments",
-    "url": "https://openai.com/index/openai-acquires-tbpn/",
-    "score": 161,
-    "date": "2026-04-03",
-    "category": "AI News"
-  },
-  {
-    "title": "I really like the idea of having multiple specialized agents instead of a 'general purpose' agent that tries to do it all. A few days ago, I read (sor",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2039856916126634422#m",
-    "date": "2026-04-03",
-    "category": "Twitter"
-  },
-  {
-    "title": "The case for zero-error horizons in trustworthy LLMs",
-    "source": "Hacker News",
-    "description": "HN Score: 68 | 96 comments",
-    "url": "https://arxiv.org/abs/2601.15714",
-    "score": 68,
+    "description": "HN Score: 141 | 43 comments",
+    "url": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
+    "score": 141,
     "date": "2026-04-03",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Mercor says it was hit by cyberattack tied to compromise LiteLLM",
+    "title": "Significant raise of reports",
     "source": "Hacker News",
-    "description": "HN Score: 137 | 43 comments",
-    "url": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
-    "score": 137,
+    "description": "HN Score: 291 | 149 comments",
+    "url": "https://lwn.net/Articles/1065620/",
+    "score": 291,
     "date": "2026-04-03",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Significant raise of reports",
+    "title": "The case for zero-error horizons in trustworthy LLMs",
     "source": "Hacker News",
-    "description": "HN Score: 285 | 148 comments",
-    "url": "https://lwn.net/Articles/1065620/",
-    "score": 285,
+    "description": "HN Score: 71 | 100 comments",
+    "url": "https://arxiv.org/abs/2601.15714",
+    "score": 71,
     "date": "2026-04-03",
     "category": "AI News"
   }
