@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Apfel \u2013 The free AI already on your Mac",
+    "title": "Show HN: ctx \u2013 an Agentic Development Environment (ADE)",
     "source": "Hacker News",
-    "description": "HN Score: 276 | 46 comments",
-    "url": "https://apfel.franzai.com",
-    "score": 276,
+    "description": "HN Score: 20 | 13 comments",
+    "url": "https://ctx.rs",
+    "score": 20,
     "date": "2026-04-03",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "Google releases Gemma 4 open models",
     "source": "Hacker News",
-    "description": "HN Score: 1583 | 423 comments",
+    "description": "HN Score: 1631 | 432 comments",
     "url": "https://deepmind.google/models/gemma/gemma-4/",
-    "score": 1583,
+    "score": 1631,
     "date": "2026-04-03",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Bun: cgroup-aware AvailableParallelism / HardwareConcurrency on Linux",
+    "title": "Show HN: Apfel \u2013 The free AI already on your Mac",
     "source": "Hacker News",
-    "description": "HN Score: 7 | 1 comments",
-    "url": "https://github.com/oven-sh/bun/pull/28801",
-    "score": 7,
+    "description": "HN Score: 394 | 84 comments",
+    "url": "https://apfel.franzai.com",
+    "score": 394,
     "date": "2026-04-03",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Intel Assured Supply Chain Product Brief",
+    "title": "Claude 4.6 Jailbroken",
     "source": "Hacker News",
-    "description": "HN Score: 15 | 0 comments",
-    "url": "https://www.intel.com/content/www/us/en/content-details/850997/intel-assured-supply-chain-product-brief.html",
-    "score": 15,
+    "description": "HN Score: 19 | 11 comments",
+    "url": "https://github.com/Nicholas-Kloster/claude-4.6-jailbreak-vulnerability-disclosure-unredacted",
+    "score": 19,
     "date": "2026-04-03",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "The True Shape of Io's Steeple Mountain",
+    "title": "Intel Assured Supply Chain Product Brief",
     "source": "Hacker News",
-    "description": "HN Score: 77 | 1 comments",
-    "url": "https://www.weareinquisitive.com/news/hidden-in-the-shadow",
-    "score": 77,
+    "description": "HN Score: 23 | 2 comments",
+    "url": "https://www.intel.com/content/www/us/en/content-details/850997/intel-assured-supply-chain-product-brief.html",
+    "score": 23,
     "date": "2026-04-03",
     "category": "AI News"
   },
@@ -95,9 +95,26 @@
   {
     "title": "Tailscale's new macOS home",
     "source": "Hacker News",
-    "description": "HN Score: 493 | 245 comments",
+    "description": "HN Score: 507 | 257 comments",
     "url": "https://tailscale.com/blog/macos-notch-escape",
-    "score": 493,
+    "score": 507,
+    "date": "2026-04-03",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: Nobody teaches people how to build software anymore. I'm not talking about theoretical concepts, but the real, brutal reality of delive",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2039688071386685849#m",
+    "date": "2026-04-03",
+    "category": "Twitter"
+  },
+  {
+    "title": "The True Shape of Io's Steeple Mountain",
+    "source": "Hacker News",
+    "description": "HN Score: 90 | 2 comments",
+    "url": "https://www.weareinquisitive.com/news/hidden-in-the-shadow",
+    "score": 90,
     "date": "2026-04-03",
     "category": "AI News"
   },
@@ -110,28 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Qwen3.6-Plus: Towards real world agents",
-    "source": "Hacker News",
-    "description": "HN Score: 558 | 189 comments",
-    "url": "https://qwen.ai/blog?id=qwen3.6",
-    "score": 558,
-    "date": "2026-04-03",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: I really like the idea of having multiple specialized agents instead of a 'general purpose' agent that tries to do it all. A few days a",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2039856916126634422#m",
-    "date": "2026-04-03",
-    "category": "Twitter"
-  },
-  {
     "title": "Good ideas do not need lots of lies in order to gain public acceptance (2008)",
     "source": "Hacker News",
-    "description": "HN Score: 290 | 133 comments",
+    "description": "HN Score: 312 | 150 comments",
     "url": "https://blog.danieldavies.com/2004/05/d-squared-digest-one-minute-mba.html",
-    "score": 290,
+    "score": 312,
     "date": "2026-04-03",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "OpenAI Acquires TBPN",
+    "title": "Qwen3.6-Plus: Towards real world agents",
     "source": "Hacker News",
-    "description": "HN Score: 219 | 180 comments",
-    "url": "https://openai.com/index/openai-acquires-tbpn/",
-    "score": 219,
+    "description": "HN Score: 562 | 195 comments",
+    "url": "https://qwen.ai/blog?id=qwen3.6",
+    "score": 562,
     "date": "2026-04-03",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
+    "title": "Bun: cgroup-aware AvailableParallelism / HardwareConcurrency on Linux",
     "source": "Hacker News",
-    "description": "HN Score: 528 | 111 comments",
-    "url": "https://lemonade-server.ai",
-    "score": 528,
+    "description": "HN Score: 16 | 4 comments",
+    "url": "https://github.com/oven-sh/bun/pull/28801",
+    "score": 16,
     "date": "2026-04-03",
     "category": "AI News"
   }
