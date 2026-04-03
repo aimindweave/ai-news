@@ -7,7 +7,7 @@
     "date": "2026-04-03"
   },
   {
-    "title": "Anthropic buys biotech startup Coefficient Bio in $400M deal: reports",
+    "title": "Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports",
     "source": "TechCrunch",
     "summary": "Anthropic has purchased the stealth biotech AI startup Coefficient Bio in a $400 million stock deal, according to The Information and Eric Newcomer.",
     "url": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/",
@@ -24,7 +24,7 @@
     "title": "AI companies are building huge natural gas plants to power data centers. What could go wrong?",
     "source": "TechCrunch",
     "summary": "Meta, Microsoft, and Google are all betting big on new natural gas power plants to run their AI data centers. They may regret it.",
-    "url": "https://techcrunch.com/2026/04/03/ai-energy-microsoft-meta-google-natural-gas-mining-fomo/",
+    "url": "https://techcrunch.com/2026/04/03/ai-companies-are-building-huge-natural-gas-plants-to-power-data-centers-what-could-go-wrong/",
     "date": "2026-04-03"
   },
   {
@@ -175,6 +175,13 @@
     "date": "2026-04-03"
   },
   {
+    "title": "Meta Pauses Work With Mercor After Data Breach Puts AI Industry Secrets at Risk",
+    "source": "Wired",
+    "summary": "Major AI labs are investigating a security incident that impacted Mercor, a leading data vendor. The incident could have exposed key data about how they train AI models.",
+    "url": "https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/",
+    "date": "2026-04-03"
+  },
+  {
     "title": "OpenAI\u2019s Fidji Simo Is Taking Medical Leave Amid an Executive Shake-Up",
     "source": "Wired",
     "summary": "The company is undergoing major leadership restructuring as its CEO of AGI deployment goes on leave for \u201cseveral weeks.\u201d",
@@ -238,10 +245,17 @@
     "date": "2026-04-03"
   },
   {
-    "title": "I Watched a 7.5-Hour Movie in Theaters to Confront My Dwindling Attention Span",
-    "source": "Wired",
-    "summary": "S\u00e1t\u00e1ntango is considered a holy rite for hardcore cinephiles. In a packed screening with no cellphones in sight, it also offered a salve for brain rot.",
-    "url": "https://www.wired.com/story/watching-a-75-hour-movie-in-theaters-made-me-more-hopeful-about-our-collective-brainrot/",
+    "title": "'Cognitive surrender' leads AI users to abandon logical thinking, research finds",
+    "source": "Ars Technica",
+    "summary": "Experiments show large majorities uncritically accepting 'faulty' AI answers.",
+    "url": "https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/",
+    "date": "2026-04-03"
+  },
+  {
+    "title": "Trump ignores biggest reasons his AI data center buildout is failing",
+    "source": "Ars Technica",
+    "summary": "Nearly 50% of data center projects delayed as China holds key to power infrastructure.",
+    "url": "https://arstechnica.com/tech-policy/2026/04/sad-trumps-ai-data-center-push-is-failing-blame-his-own-tariffs/",
     "date": "2026-04-03"
   },
   {
@@ -333,20 +347,6 @@
     "source": "Ars Technica",
     "summary": "Things are moving fast, and competitors have offered something similar for a while.",
     "url": "https://arstechnica.com/ai/2026/03/openai-brings-plugins-to-codex-closing-some-of-the-gap-with-claude-code/",
-    "date": "2026-04-03"
-  },
-  {
-    "title": "Senators want US energy information agency to monitor data center electricity usage",
-    "source": "Ars Technica",
-    "summary": "In a letter, senators press for mandated annual electricity disclosure for data centers.",
-    "url": "https://arstechnica.com/tech-policy/2026/03/senators-want-us-energy-information-agency-to-monitor-data-center-electricity-usage/",
-    "date": "2026-04-03"
-  },
-  {
-    "title": "Study: Sycophantic AI can undermine human judgment",
-    "source": "Ars Technica",
-    "summary": "Subjects who interacted with AI tools were more likely to think they were right, less likely to resolve conflicts.",
-    "url": "https://arstechnica.com/science/2026/03/study-sycophantic-ai-can-undermine-human-judgment/",
     "date": "2026-04-03"
   }
 ]
