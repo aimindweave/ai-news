@@ -10,9 +10,9 @@
   {
     "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
     "source": "Hacker News",
-    "description": "HN Score: 457 | 428 comments",
+    "description": "HN Score: 544 | 479 comments",
     "url": "https://news.ycombinator.com/item?id=47633396",
-    "score": 457,
+    "score": 544,
     "date": "2026-04-04",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Travel Hacking Toolkit \u2013 Points search and trip planning with AI",
+    "title": "Emotion concepts and their function in a large language model",
     "source": "Hacker News",
-    "description": "HN Score: 44 | 13 comments",
-    "url": "https://github.com/borski/travel-hacking-toolkit",
-    "score": 44,
+    "description": "HN Score: 12 | 1 comments",
+    "url": "https://www.anthropic.com/research/emotion-concepts-function",
+    "score": 12,
     "date": "2026-04-04",
     "category": "AI News"
   },
@@ -44,9 +44,9 @@
   {
     "title": "Run Linux containers on Android, no root required",
     "source": "Hacker News",
-    "description": "HN Score: 61 | 17 comments",
+    "description": "HN Score: 81 | 29 comments",
     "url": "https://github.com/ExTV/Podroid",
-    "score": 61,
+    "score": 81,
     "date": "2026-04-04",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
+    "title": "Show HN: Travel Hacking Toolkit \u2013 Points search and trip planning with AI",
     "source": "Hacker News",
-    "description": "HN Score: 258 | 108 comments",
-    "url": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant",
-    "score": 258,
+    "description": "HN Score: 57 | 27 comments",
+    "url": "https://github.com/borski/travel-hacking-toolkit",
+    "score": 57,
     "date": "2026-04-04",
     "category": "AI News"
   },
@@ -78,26 +78,26 @@
   {
     "title": "Post Mortem: axios NPM supply chain compromise",
     "source": "Hacker News",
-    "description": "HN Score: 214 | 94 comments",
+    "description": "HN Score: 225 | 101 comments",
     "url": "https://github.com/axios/axios/issues/10636",
-    "score": 214,
+    "score": 225,
     "date": "2026-04-04",
     "category": "AI News"
   },
   {
-    "title": "R to @DrJimFan: As usual, we open-source everything, MIT license: https://capgym.github.io Code: https://github.com/capgym/cap-x Paper: https://arxiv.",
+    "title": "The power of the Claw, in the palm of a robot hand. Agentic robotics is here! Today, we open-source CaP-X: vibe agents, alive in the physical world. T",
     "source": "@DrJimFan",
     "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2039360925606760690#m",
+    "url": "https://nitter.net/DrJimFan/status/2039358115318243352#m",
     "date": "2026-04-04",
     "category": "Twitter"
   },
   {
-    "title": "Iran strikes leave Amazon availability zones 'hard down' in Bahrain and Dubai",
+    "title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
     "source": "Hacker News",
-    "description": "HN Score: 176 | 75 comments",
-    "url": "https://www.bigtechnology.com/p/iran-strikes-leave-amazon-availability",
-    "score": 176,
+    "description": "HN Score: 276 | 110 comments",
+    "url": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant",
+    "score": 276,
     "date": "2026-04-04",
     "category": "AI News"
   },
@@ -110,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "How to Write Unmaintainable Code (1999)",
+    "title": "50 years measuring the cleanest air",
     "source": "Hacker News",
-    "description": "HN Score: 34 | 8 comments",
-    "url": "https://www.doc.ic.ac.uk/%7Esusan/475/unmain.html",
-    "score": 34,
+    "description": "HN Score: 3 | 0 comments",
+    "url": "https://www.csiro.au/en/news/All/News/2026/April/50-years-measuring-the-worlds-cleanest-air",
+    "score": 3,
     "date": "2026-04-04",
     "category": "AI News"
   },
@@ -127,11 +127,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: ctx \u2013 an Agentic Development Environment (ADE)",
+    "title": "Delve sets the record straight on anonymous attacks",
     "source": "Hacker News",
-    "description": "HN Score: 40 | 51 comments",
-    "url": "https://ctx.rs",
-    "score": 40,
+    "description": "HN Score: 13 | 8 comments",
+    "url": "https://delve.co/blog/delve-sets-the-record-straight-on-anonymous-attacks",
+    "score": 13,
+    "date": "2026-04-04",
+    "category": "AI News"
+  },
+  {
+    "title": "Codex has been surprising good at solving problems Opus can\u2019t solve My workflow often involves running Opus 4.6 and Codex in parallel and choosing the",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2040318795332682232#m",
+    "date": "2026-04-04",
+    "category": "Twitter"
+  },
+  {
+    "title": "Claude Code Found a Linux Vulnerability Hidden for 23 Years",
+    "source": "Hacker News",
+    "description": "HN Score: 28 | 11 comments",
+    "url": "https://mtlynch.io/claude-code-found-linux-vulnerability/",
+    "score": 28,
     "date": "2026-04-04",
     "category": "AI News"
   },
@@ -144,28 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Apfel \u2013 The free AI already on your Mac",
+    "title": "Iran strikes leave Amazon availability zones 'hard down' in Bahrain and Dubai",
     "source": "Hacker News",
-    "description": "HN Score: 659 | 139 comments",
-    "url": "https://apfel.franzai.com",
-    "score": 659,
-    "date": "2026-04-04",
-    "category": "AI News"
-  },
-  {
-    "title": "Qwen3.6-Plus just launched and is about 10x cheaper than Anthropic or OpenAI \ud83d\ude80\ud83d\ude80 China catches up to US models every day! The benchmarks look great - w",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2039822951034581205#m",
-    "date": "2026-04-04",
-    "category": "Twitter"
-  },
-  {
-    "title": "Claude Code Found a Linux Vulnerability Hidden for 23 Years",
-    "source": "Hacker News",
-    "description": "HN Score: 18 | 9 comments",
-    "url": "https://mtlynch.io/claude-code-found-linux-vulnerability/",
-    "score": 18,
+    "description": "HN Score: 184 | 81 comments",
+    "url": "https://www.bigtechnology.com/p/iran-strikes-leave-amazon-availability",
+    "score": 184,
     "date": "2026-04-04",
     "category": "AI News"
   }
