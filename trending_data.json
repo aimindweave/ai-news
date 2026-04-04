@@ -10,9 +10,9 @@
   {
     "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
     "source": "Hacker News",
-    "description": "HN Score: 816 | 637 comments",
+    "description": "HN Score: 857 | 661 comments",
     "url": "https://news.ycombinator.com/item?id=47633396",
-    "score": 816,
+    "score": 857,
     "date": "2026-04-04",
     "category": "AI News"
   },
@@ -21,6 +21,23 @@
     "source": "@kaborobot",
     "description": "",
     "url": "https://nitter.net/kaborobot/status/1977673306670330109#m",
+    "date": "2026-04-04",
+    "category": "Twitter"
+  },
+  {
+    "title": "Claude Code Found a Linux Vulnerability Hidden for 23 Years",
+    "source": "Hacker News",
+    "description": "HN Score: 144 | 91 comments",
+    "url": "https://mtlynch.io/claude-code-found-linux-vulnerability/",
+    "score": 144,
+    "date": "2026-04-04",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: The best agent is now open source. II-Agent is now live on GitHub. From a single prompt to a mobile app. From a research brief to an",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/ii_posts/status/2039711788992700491#m",
     "date": "2026-04-04",
     "category": "Twitter"
   },
@@ -34,23 +51,6 @@
     "category": "AI News"
   },
   {
-    "title": "RT by @EMostaque: The best agent is now open source. II-Agent is now live on GitHub. From a single prompt to a mobile app. From a research brief to an",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/ii_posts/status/2039711788992700491#m",
-    "date": "2026-04-04",
-    "category": "Twitter"
-  },
-  {
-    "title": "Run Linux containers on Android, no root required",
-    "source": "Hacker News",
-    "description": "HN Score: 156 | 54 comments",
-    "url": "https://github.com/ExTV/Podroid",
-    "score": 156,
-    "date": "2026-04-04",
-    "category": "AI News"
-  },
-  {
     "title": "RT by @EMostaque: 1/ We asked seven frontier AI models to do a simple task. Instead, they defied their instructions and spontaneously deceived, disabl",
     "source": "@EMostaque",
     "description": "",
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Claude Code Found a Linux Vulnerability Hidden for 23 Years",
+    "title": "Run Linux containers on Android, no root required",
     "source": "Hacker News",
-    "description": "HN Score: 95 | 60 comments",
-    "url": "https://mtlynch.io/claude-code-found-linux-vulnerability/",
-    "score": 95,
+    "description": "HN Score: 172 | 57 comments",
+    "url": "https://github.com/ExTV/Podroid",
+    "score": 172,
     "date": "2026-04-04",
     "category": "AI News"
   },
@@ -78,9 +78,9 @@
   {
     "title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
     "source": "Hacker News",
-    "description": "HN Score: 338 | 126 comments",
+    "description": "HN Score: 350 | 134 comments",
     "url": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant",
-    "score": 338,
+    "score": 350,
     "date": "2026-04-04",
     "category": "AI News"
   },
@@ -95,9 +95,26 @@
   {
     "title": "Google releases Gemma 4 open models",
     "source": "Hacker News",
-    "description": "HN Score: 1742 | 459 comments",
+    "description": "HN Score: 1743 | 458 comments",
     "url": "https://deepmind.google/models/gemma/gemma-4/",
-    "score": 1742,
+    "score": 1743,
+    "date": "2026-04-04",
+    "category": "AI News"
+  },
+  {
+    "title": "I'm having more fun building software today than I've ever had. (Except, of course, when I run through my whole Claude MAX plan in 2 hours. That sucks",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2040417865539707119#m",
+    "date": "2026-04-04",
+    "category": "Twitter"
+  },
+  {
+    "title": "Post Mortem: axios NPM supply chain compromise",
+    "source": "Hacker News",
+    "description": "HN Score: 271 | 124 comments",
+    "url": "https://github.com/axios/axios/issues/10636",
+    "score": 271,
     "date": "2026-04-04",
     "category": "AI News"
   },
@@ -110,28 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Post Mortem: axios NPM supply chain compromise",
+    "title": "Emotion Concepts and Their Function in a Large Language Model",
     "source": "Hacker News",
-    "description": "HN Score: 269 | 123 comments",
-    "url": "https://github.com/axios/axios/issues/10636",
-    "score": 269,
-    "date": "2026-04-04",
-    "category": "AI News"
-  },
-  {
-    "title": "Most people write worse code than AI does. I've worked in absolutely horrible codebases, 100% written and messed up by humans. So why do we complain a",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2040047422622384210#m",
-    "date": "2026-04-04",
-    "category": "Twitter"
-  },
-  {
-    "title": "Show HN: Travel Hacking Toolkit \u2013 Points search and trip planning with AI",
-    "source": "Hacker News",
-    "description": "HN Score: 75 | 35 comments",
-    "url": "https://github.com/borski/travel-hacking-toolkit",
-    "score": 75,
+    "description": "HN Score: 5 | 0 comments",
+    "url": "https://transformer-circuits.pub/2026/emotions/index.html",
+    "score": 5,
     "date": "2026-04-04",
     "category": "AI News"
   },
@@ -146,9 +146,9 @@
   {
     "title": "Show HN: Apfel \u2013 The free AI already on your Mac",
     "source": "Hacker News",
-    "description": "HN Score: 685 | 141 comments",
+    "description": "HN Score: 690 | 142 comments",
     "url": "https://apfel.franzai.com",
-    "score": 685,
+    "score": 690,
     "date": "2026-04-04",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Iran strikes leave Amazon availability zones 'hard down' in Bahrain and Dubai",
+    "title": "50 years measuring the cleanest air",
     "source": "Hacker News",
-    "description": "HN Score: 203 | 102 comments",
-    "url": "https://www.bigtechnology.com/p/iran-strikes-leave-amazon-availability",
-    "score": 203,
+    "description": "HN Score: 19 | 4 comments",
+    "url": "https://www.csiro.au/en/news/All/News/2026/April/50-years-measuring-the-worlds-cleanest-air",
+    "score": 19,
     "date": "2026-04-04",
     "category": "AI News"
   }
