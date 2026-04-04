@@ -10,9 +10,9 @@
   {
     "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
     "source": "Hacker News",
-    "description": "HN Score: 315 | 317 comments",
+    "description": "HN Score: 457 | 428 comments",
     "url": "https://news.ycombinator.com/item?id=47633396",
-    "score": 315,
+    "score": 457,
     "date": "2026-04-04",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "Show HN: Travel Hacking Toolkit \u2013 Points search and trip planning with AI",
     "source": "Hacker News",
-    "description": "HN Score: 8 | 1 comments",
+    "description": "HN Score: 44 | 13 comments",
     "url": "https://github.com/borski/travel-hacking-toolkit",
-    "score": 8,
+    "score": 44,
     "date": "2026-04-04",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
+    "title": "Run Linux containers on Android, no root required",
     "source": "Hacker News",
-    "description": "HN Score: 232 | 100 comments",
-    "url": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant",
-    "score": 232,
+    "description": "HN Score: 61 | 17 comments",
+    "url": "https://github.com/ExTV/Podroid",
+    "score": 61,
     "date": "2026-04-04",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Run Linux containers on Android, no root required",
+    "title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
     "source": "Hacker News",
-    "description": "HN Score: 34 | 9 comments",
-    "url": "https://github.com/ExTV/Podroid",
-    "score": 34,
+    "description": "HN Score: 258 | 108 comments",
+    "url": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant",
+    "score": 258,
     "date": "2026-04-04",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "How to Write Unmaintainable Code (1999)",
+    "title": "Post Mortem: axios NPM supply chain compromise",
     "source": "Hacker News",
-    "description": "HN Score: 24 | 7 comments",
-    "url": "https://www.doc.ic.ac.uk/%7Esusan/475/unmain.html",
-    "score": 24,
+    "description": "HN Score: 214 | 94 comments",
+    "url": "https://github.com/axios/axios/issues/10636",
+    "score": 214,
     "date": "2026-04-04",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Getting Claude to QA its own work",
+    "title": "Iran strikes leave Amazon availability zones 'hard down' in Bahrain and Dubai",
     "source": "Hacker News",
-    "description": "HN Score: 5 | 0 comments",
-    "url": "https://www.skyvern.com/blog/getting-claude-to-qa-its-own-work/",
-    "score": 5,
+    "description": "HN Score: 176 | 75 comments",
+    "url": "https://www.bigtechnology.com/p/iran-strikes-leave-amazon-availability",
+    "score": 176,
     "date": "2026-04-04",
     "category": "AI News"
   },
@@ -110,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Iran strikes leave Amazon availability zones 'hard down' in Bahrain and Dubai",
+    "title": "How to Write Unmaintainable Code (1999)",
     "source": "Hacker News",
-    "description": "HN Score: 161 | 69 comments",
-    "url": "https://www.bigtechnology.com/p/iran-strikes-leave-amazon-availability",
-    "score": 161,
+    "description": "HN Score: 34 | 8 comments",
+    "url": "https://www.doc.ic.ac.uk/%7Esusan/475/unmain.html",
+    "score": 34,
     "date": "2026-04-04",
     "category": "AI News"
   },
@@ -127,28 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Extra usage credit for Claude to celebrate usage bundles launch (Pro, Max, Team)",
+    "title": "Show HN: ctx \u2013 an Agentic Development Environment (ADE)",
     "source": "Hacker News",
-    "description": "HN Score: 49 | 44 comments",
-    "url": "https://support.claude.com/en/articles/14246053-extra-usage-credit-for-pro-max-and-team-plans",
-    "score": 49,
-    "date": "2026-04-04",
-    "category": "AI News"
-  },
-  {
-    "title": "Anthropic just banned Claw TBH, it's way too expensive to use Opus or Sonnet in Claw We strongly recommend Kimi 2.5 Thinking Use open-source models \ud83d\ude80\ud83d\ude80",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2040237279688667332#m",
-    "date": "2026-04-04",
-    "category": "Twitter"
-  },
-  {
-    "title": "Show HN: Apfel \u2013 The free AI already on your Mac",
-    "source": "Hacker News",
-    "description": "HN Score: 647 | 139 comments",
-    "url": "https://apfel.franzai.com",
-    "score": 647,
+    "description": "HN Score: 40 | 51 comments",
+    "url": "https://ctx.rs",
+    "score": 40,
     "date": "2026-04-04",
     "category": "AI News"
   },
@@ -161,11 +144,28 @@
     "category": "Twitter"
   },
   {
-    "title": "OpenAI Cap Table leak reveals Microsoft's 18x return",
+    "title": "Show HN: Apfel \u2013 The free AI already on your Mac",
     "source": "Hacker News",
-    "description": "HN Score: 16 | 0 comments",
-    "url": "https://www.forbes.com/sites/josipamajic/2026/04/02/openai-cap-table-leak-reveals-microsofts-18x-return-softbanks-50b-gain-and-a-ceo-who-owns-nothing/",
-    "score": 16,
+    "description": "HN Score: 659 | 139 comments",
+    "url": "https://apfel.franzai.com",
+    "score": 659,
+    "date": "2026-04-04",
+    "category": "AI News"
+  },
+  {
+    "title": "Qwen3.6-Plus just launched and is about 10x cheaper than Anthropic or OpenAI \ud83d\ude80\ud83d\ude80 China catches up to US models every day! The benchmarks look great - w",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2039822951034581205#m",
+    "date": "2026-04-04",
+    "category": "Twitter"
+  },
+  {
+    "title": "Claude Code Found a Linux Vulnerability Hidden for 23 Years",
+    "source": "Hacker News",
+    "description": "HN Score: 18 | 9 comments",
+    "url": "https://mtlynch.io/claude-code-found-linux-vulnerability/",
+    "score": 18,
     "date": "2026-04-04",
     "category": "AI News"
   }
