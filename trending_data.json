@@ -10,9 +10,9 @@
   {
     "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
     "source": "Hacker News",
-    "description": "HN Score: 857 | 661 comments",
+    "description": "HN Score: 908 | 706 comments",
     "url": "https://news.ycombinator.com/item?id=47633396",
-    "score": 857,
+    "score": 908,
     "date": "2026-04-04",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Claude Code Found a Linux Vulnerability Hidden for 23 Years",
+    "title": "Components of a Coding Agent",
     "source": "Hacker News",
-    "description": "HN Score: 144 | 91 comments",
-    "url": "https://mtlynch.io/claude-code-found-linux-vulnerability/",
-    "score": 144,
+    "description": "HN Score: 34 | 8 comments",
+    "url": "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+    "score": 34,
     "date": "2026-04-04",
     "category": "AI News"
   },
@@ -38,6 +38,23 @@
     "source": "@EMostaque",
     "description": "",
     "url": "https://nitter.net/ii_posts/status/2039711788992700491#m",
+    "date": "2026-04-04",
+    "category": "Twitter"
+  },
+  {
+    "title": "Training mRNA Language Models Across 25 Species for $165",
+    "source": "Hacker News",
+    "description": "HN Score: 39 | 14 comments",
+    "url": "https://news.ycombinator.com/item?id=47606244",
+    "score": 39,
+    "date": "2026-04-04",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: 1/ We asked seven frontier AI models to do a simple task. Instead, they defied their instructions and spontaneously deceived, disabl",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/dawnsongtweets/status/2039451083005977009#m",
     "date": "2026-04-04",
     "category": "Twitter"
   },
@@ -51,23 +68,6 @@
     "category": "AI News"
   },
   {
-    "title": "RT by @EMostaque: 1/ We asked seven frontier AI models to do a simple task. Instead, they defied their instructions and spontaneously deceived, disabl",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/dawnsongtweets/status/2039451083005977009#m",
-    "date": "2026-04-04",
-    "category": "Twitter"
-  },
-  {
-    "title": "Run Linux containers on Android, no root required",
-    "source": "Hacker News",
-    "description": "HN Score: 172 | 57 comments",
-    "url": "https://github.com/ExTV/Podroid",
-    "score": 172,
-    "date": "2026-04-04",
-    "category": "AI News"
-  },
-  {
     "title": "R to @DrJimFan: Please check out lead author @letian_fu's deep dive thread! https://x.com/letian_fu/status/2039342130565357956?s=20",
     "source": "@DrJimFan",
     "description": "",
@@ -76,28 +76,28 @@
     "category": "Twitter"
   },
   {
-    "title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
+    "title": "Why LLM-Generated Passwords Are Dangerously Insecure",
     "source": "Hacker News",
-    "description": "HN Score: 350 | 134 comments",
-    "url": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant",
-    "score": 350,
+    "description": "HN Score: 12 | 5 comments",
+    "url": "https://www.irregular.com/publications/vibe-password-generation",
+    "score": 12,
     "date": "2026-04-04",
     "category": "AI News"
   },
   {
-    "title": "R to @DrJimFan: As usual, we open-source everything, MIT license: https://capgym.github.io Code: https://github.com/capgym/cap-x Paper: https://arxiv.",
+    "title": "The power of the Claw, in the palm of a robot hand. Agentic robotics is here! Today, we open-source CaP-X: vibe agents, alive in the physical world. T",
     "source": "@DrJimFan",
     "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2039360925606760690#m",
+    "url": "https://nitter.net/DrJimFan/status/2039358115318243352#m",
     "date": "2026-04-04",
     "category": "Twitter"
   },
   {
-    "title": "Google releases Gemma 4 open models",
+    "title": "Claude Code Found a Linux Vulnerability Hidden for 23 Years",
     "source": "Hacker News",
-    "description": "HN Score: 1743 | 458 comments",
-    "url": "https://deepmind.google/models/gemma/gemma-4/",
-    "score": 1743,
+    "description": "HN Score: 211 | 130 comments",
+    "url": "https://mtlynch.io/claude-code-found-linux-vulnerability/",
+    "score": 211,
     "date": "2026-04-04",
     "category": "AI News"
   },
@@ -110,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Post Mortem: axios NPM supply chain compromise",
+    "title": "Show HN: sllm \u2013 Split a GPU node with other developers, unlimited tokens",
     "source": "Hacker News",
-    "description": "HN Score: 271 | 124 comments",
-    "url": "https://github.com/axios/axios/issues/10636",
-    "score": 271,
+    "description": "HN Score: 4 | 0 comments",
+    "url": "https://sllm.cloud",
+    "score": 4,
     "date": "2026-04-04",
     "category": "AI News"
   },
@@ -127,11 +127,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Emotion Concepts and Their Function in a Large Language Model",
+    "title": "Run Linux containers on Android, no root required",
     "source": "Hacker News",
-    "description": "HN Score: 5 | 0 comments",
-    "url": "https://transformer-circuits.pub/2026/emotions/index.html",
-    "score": 5,
+    "description": "HN Score: 187 | 65 comments",
+    "url": "https://github.com/ExTV/Podroid",
+    "score": 187,
+    "date": "2026-04-04",
+    "category": "AI News"
+  },
+  {
+    "title": "Finally AI Video That Is Better Than Hollywood\u2026 SeeDance 2.0 is insanely good - even better than big studio productions! Coming to ChatLLM on Monday T",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2040457599376904692#m",
+    "date": "2026-04-04",
+    "category": "Twitter"
+  },
+  {
+    "title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
+    "source": "Hacker News",
+    "description": "HN Score: 366 | 141 comments",
+    "url": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant",
+    "score": 366,
     "date": "2026-04-04",
     "category": "AI News"
   },
@@ -144,28 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Apfel \u2013 The free AI already on your Mac",
+    "title": "Emotion Concepts and Their Function in a Large Language Model",
     "source": "Hacker News",
-    "description": "HN Score: 690 | 142 comments",
-    "url": "https://apfel.franzai.com",
-    "score": 690,
-    "date": "2026-04-04",
-    "category": "AI News"
-  },
-  {
-    "title": "SPUD is coming \ud83e\udd54\u2728 OpenAI's next model isn't just an update\u2014it's 2 years of research, a fresh pre-train. Better reasoning, true context understanding, ",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2040188605071802857#m",
-    "date": "2026-04-04",
-    "category": "Twitter"
-  },
-  {
-    "title": "50 years measuring the cleanest air",
-    "source": "Hacker News",
-    "description": "HN Score: 19 | 4 comments",
-    "url": "https://www.csiro.au/en/news/All/News/2026/April/50-years-measuring-the-worlds-cleanest-air",
-    "score": 19,
+    "description": "HN Score: 9 | 0 comments",
+    "url": "https://transformer-circuits.pub/2026/emotions/index.html",
+    "score": 9,
     "date": "2026-04-04",
     "category": "AI News"
   }
