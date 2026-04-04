@@ -10,9 +10,9 @@
   {
     "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
     "source": "Hacker News",
-    "description": "HN Score: 634 | 527 comments",
+    "description": "HN Score: 714 | 576 comments",
     "url": "https://news.ycombinator.com/item?id=47633396",
-    "score": 634,
+    "score": 714,
     "date": "2026-04-04",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Emotion concepts and their function in a large language model",
+    "title": "GitHub has DMCA'd nearly all forks of the official Claude-code repo",
     "source": "Hacker News",
-    "description": "HN Score: 39 | 27 comments",
-    "url": "https://www.anthropic.com/research/emotion-concepts-function",
-    "score": 39,
+    "description": "HN Score: 19 | 13 comments",
+    "url": "https://github.com/anthropics/claude-code/forks",
+    "score": 19,
     "date": "2026-04-04",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Run Linux containers on Android, no root required",
+    "title": "TurboQuant model weight compression support added to Llamacpp",
     "source": "Hacker News",
-    "description": "HN Score: 107 | 34 comments",
-    "url": "https://github.com/ExTV/Podroid",
-    "score": 107,
+    "description": "HN Score: 11 | 3 comments",
+    "url": "https://github.com/TheTom/llama-cpp-turboquant/pull/45",
+    "score": 11,
     "date": "2026-04-04",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Post Mortem: axios NPM supply chain compromise",
+    "title": "Run Linux containers on Android, no root required",
     "source": "Hacker News",
-    "description": "HN Score: 246 | 114 comments",
-    "url": "https://github.com/axios/axios/issues/10636",
-    "score": 246,
+    "description": "HN Score: 129 | 46 comments",
+    "url": "https://github.com/ExTV/Podroid",
+    "score": 129,
     "date": "2026-04-04",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
+    "title": "Post Mortem: axios NPM supply chain compromise",
     "source": "Hacker News",
-    "description": "HN Score: 296 | 118 comments",
-    "url": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant",
-    "score": 296,
+    "description": "HN Score: 261 | 118 comments",
+    "url": "https://github.com/axios/axios/issues/10636",
+    "score": 261,
     "date": "2026-04-04",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Travel Hacking Toolkit \u2013 Points search and trip planning with AI",
+    "title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
     "source": "Hacker News",
-    "description": "HN Score: 68 | 30 comments",
-    "url": "https://github.com/borski/travel-hacking-toolkit",
-    "score": 68,
+    "description": "HN Score: 313 | 118 comments",
+    "url": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant",
+    "score": 313,
     "date": "2026-04-04",
     "category": "AI News"
   },
@@ -112,9 +112,9 @@
   {
     "title": "Claude Code Found a Linux Vulnerability Hidden for 23 Years",
     "source": "Hacker News",
-    "description": "HN Score: 32 | 14 comments",
+    "description": "HN Score: 55 | 25 comments",
     "url": "https://mtlynch.io/claude-code-found-linux-vulnerability/",
-    "score": 32,
+    "score": 55,
     "date": "2026-04-04",
     "category": "AI News"
   },
@@ -127,11 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "50 years measuring the cleanest air",
+    "title": "Show HN: Travel Hacking Toolkit \u2013 Points search and trip planning with AI",
     "source": "Hacker News",
-    "description": "HN Score: 9 | 0 comments",
-    "url": "https://www.csiro.au/en/news/All/News/2026/April/50-years-measuring-the-worlds-cleanest-air",
-    "score": 9,
+    "description": "HN Score: 70 | 32 comments",
+    "url": "https://github.com/borski/travel-hacking-toolkit",
+    "score": 70,
     "date": "2026-04-04",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Iran strikes leave Amazon availability zones 'hard down' in Bahrain and Dubai",
+    "title": "Emotion concepts and their function in a large language model",
     "source": "Hacker News",
-    "description": "HN Score: 190 | 85 comments",
-    "url": "https://www.bigtechnology.com/p/iran-strikes-leave-amazon-availability",
-    "score": 190,
+    "description": "HN Score: 59 | 45 comments",
+    "url": "https://www.anthropic.com/research/emotion-concepts-function",
+    "score": 59,
     "date": "2026-04-04",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "How to Write Unmaintainable Code (1999)",
+    "title": "Google releases Gemma 4 open models",
     "source": "Hacker News",
-    "description": "HN Score: 40 | 10 comments",
-    "url": "https://www.doc.ic.ac.uk/%7Esusan/475/unmain.html",
-    "score": 40,
+    "description": "HN Score: 1739 | 456 comments",
+    "url": "https://deepmind.google/models/gemma/gemma-4/",
+    "score": 1739,
     "date": "2026-04-04",
     "category": "AI News"
   }
