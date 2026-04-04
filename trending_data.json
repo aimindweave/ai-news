@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
+    "title": "Show HN: sllm \u2013 Split a GPU node with other developers, unlimited tokens",
     "source": "Hacker News",
-    "description": "HN Score: 908 | 706 comments",
-    "url": "https://news.ycombinator.com/item?id=47633396",
-    "score": 908,
+    "description": "HN Score: 51 | 28 comments",
+    "url": "https://sllm.cloud",
+    "score": 51,
     "date": "2026-04-04",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Components of a Coding Agent",
+    "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
     "source": "Hacker News",
-    "description": "HN Score: 34 | 8 comments",
-    "url": "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
-    "score": 34,
+    "description": "HN Score: 953 | 731 comments",
+    "url": "https://news.ycombinator.com/item?id=47633396",
+    "score": 953,
     "date": "2026-04-04",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Training mRNA Language Models Across 25 Species for $165",
+    "title": "Components of a Coding Agent",
     "source": "Hacker News",
-    "description": "HN Score: 39 | 14 comments",
-    "url": "https://news.ycombinator.com/item?id=47606244",
-    "score": 39,
+    "description": "HN Score: 76 | 28 comments",
+    "url": "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+    "score": 76,
     "date": "2026-04-04",
     "category": "AI News"
   },
@@ -55,6 +55,74 @@
     "source": "@EMostaque",
     "description": "",
     "url": "https://nitter.net/dawnsongtweets/status/2039451083005977009#m",
+    "date": "2026-04-04",
+    "category": "Twitter"
+  },
+  {
+    "title": "12k AI-generated blog posts added in a single commit",
+    "source": "Hacker News",
+    "description": "HN Score: 114 | 101 comments",
+    "url": "https://github.com/OneUptime/blog/commit/30cd2384794c897d95aca77d173db44af51ca849",
+    "score": 114,
+    "date": "2026-04-04",
+    "category": "AI News"
+  },
+  {
+    "title": "R to @DrJimFan: Please check out lead author @letian_fu's deep dive thread! https://x.com/letian_fu/status/2039342130565357956?s=20",
+    "source": "@DrJimFan",
+    "description": "",
+    "url": "https://nitter.net/DrJimFan/status/2039360927653614004#m",
+    "date": "2026-04-04",
+    "category": "Twitter"
+  },
+  {
+    "title": "Training mRNA Language Models Across 25 Species for $165",
+    "source": "Hacker News",
+    "description": "HN Score: 66 | 21 comments",
+    "url": "https://news.ycombinator.com/item?id=47606244",
+    "score": 66,
+    "date": "2026-04-04",
+    "category": "AI News"
+  },
+  {
+    "title": "The power of the Claw, in the palm of a robot hand. Agentic robotics is here! Today, we open-source CaP-X: vibe agents, alive in the physical world. T",
+    "source": "@DrJimFan",
+    "description": "",
+    "url": "https://nitter.net/DrJimFan/status/2039358115318243352#m",
+    "date": "2026-04-04",
+    "category": "Twitter"
+  },
+  {
+    "title": "Show HN: Running local OpenClaw together with remote agents in an open network",
+    "source": "Hacker News",
+    "description": "HN Score: 6 | 2 comments",
+    "url": "https://github.com/hybroai/hybro-hub",
+    "score": 6,
+    "date": "2026-04-04",
+    "category": "AI News"
+  },
+  {
+    "title": "I'm having more fun building software today than I've ever had. (Except, of course, when I run through my whole Claude MAX plan in 2 hours. That sucks",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2040417865539707119#m",
+    "date": "2026-04-04",
+    "category": "Twitter"
+  },
+  {
+    "title": "Electrical Transformer Manufacturing Is Throttling the Electrified Future",
+    "source": "Hacker News",
+    "description": "HN Score: 23 | 12 comments",
+    "url": "https://www.bloomberg.com/features/2025-bottlenecks-transformers/",
+    "score": 23,
+    "date": "2026-04-04",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: Nobody teaches people how to build software anymore. I'm not talking about theoretical concepts, but the real, brutal reality of delive",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2039688071386685849#m",
     "date": "2026-04-04",
     "category": "Twitter"
   },
@@ -68,74 +136,6 @@
     "category": "AI News"
   },
   {
-    "title": "R to @DrJimFan: Please check out lead author @letian_fu's deep dive thread! https://x.com/letian_fu/status/2039342130565357956?s=20",
-    "source": "@DrJimFan",
-    "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2039360927653614004#m",
-    "date": "2026-04-04",
-    "category": "Twitter"
-  },
-  {
-    "title": "Why LLM-Generated Passwords Are Dangerously Insecure",
-    "source": "Hacker News",
-    "description": "HN Score: 12 | 5 comments",
-    "url": "https://www.irregular.com/publications/vibe-password-generation",
-    "score": 12,
-    "date": "2026-04-04",
-    "category": "AI News"
-  },
-  {
-    "title": "The power of the Claw, in the palm of a robot hand. Agentic robotics is here! Today, we open-source CaP-X: vibe agents, alive in the physical world. T",
-    "source": "@DrJimFan",
-    "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2039358115318243352#m",
-    "date": "2026-04-04",
-    "category": "Twitter"
-  },
-  {
-    "title": "Claude Code Found a Linux Vulnerability Hidden for 23 Years",
-    "source": "Hacker News",
-    "description": "HN Score: 211 | 130 comments",
-    "url": "https://mtlynch.io/claude-code-found-linux-vulnerability/",
-    "score": 211,
-    "date": "2026-04-04",
-    "category": "AI News"
-  },
-  {
-    "title": "I'm having more fun building software today than I've ever had. (Except, of course, when I run through my whole Claude MAX plan in 2 hours. That sucks",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2040417865539707119#m",
-    "date": "2026-04-04",
-    "category": "Twitter"
-  },
-  {
-    "title": "Show HN: sllm \u2013 Split a GPU node with other developers, unlimited tokens",
-    "source": "Hacker News",
-    "description": "HN Score: 4 | 0 comments",
-    "url": "https://sllm.cloud",
-    "score": 4,
-    "date": "2026-04-04",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: Nobody teaches people how to build software anymore. I'm not talking about theoretical concepts, but the real, brutal reality of delive",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2039688071386685849#m",
-    "date": "2026-04-04",
-    "category": "Twitter"
-  },
-  {
-    "title": "Run Linux containers on Android, no root required",
-    "source": "Hacker News",
-    "description": "HN Score: 187 | 65 comments",
-    "url": "https://github.com/ExTV/Podroid",
-    "score": 187,
-    "date": "2026-04-04",
-    "category": "AI News"
-  },
-  {
     "title": "Finally AI Video That Is Better Than Hollywood\u2026 SeeDance 2.0 is insanely good - even better than big studio productions! Coming to ChatLLM on Monday T",
     "source": "@bindureddy",
     "description": "",
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
+    "title": "Claude Code Found a Linux Vulnerability Hidden for 23 Years",
     "source": "Hacker News",
-    "description": "HN Score: 366 | 141 comments",
-    "url": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant",
-    "score": 366,
+    "description": "HN Score: 265 | 165 comments",
+    "url": "https://mtlynch.io/claude-code-found-linux-vulnerability/",
+    "score": 265,
     "date": "2026-04-04",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Emotion Concepts and Their Function in a Large Language Model",
+    "title": "Deafness reversed: One injection restores hearing in just weeks \u2013 ScienceDaily",
     "source": "Hacker News",
-    "description": "HN Score: 9 | 0 comments",
-    "url": "https://transformer-circuits.pub/2026/emotions/index.html",
-    "score": 9,
+    "description": "HN Score: 14 | 3 comments",
+    "url": "https://www.sciencedaily.com/releases/2026/04/260403044651.htm",
+    "score": 14,
     "date": "2026-04-04",
     "category": "AI News"
   }
