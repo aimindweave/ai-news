@@ -10,9 +10,9 @@
   {
     "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
     "source": "Hacker News",
-    "description": "HN Score: 714 | 576 comments",
+    "description": "HN Score: 816 | 637 comments",
     "url": "https://news.ycombinator.com/item?id=47633396",
-    "score": 714,
+    "score": 816,
     "date": "2026-04-04",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "GitHub has DMCA'd nearly all forks of the official Claude-code repo",
+    "title": "Mbodi AI (YC P25) Is Hiring",
     "source": "Hacker News",
-    "description": "HN Score: 19 | 13 comments",
-    "url": "https://github.com/anthropics/claude-code/forks",
-    "score": 19,
+    "description": "HN Score: 1 | 0 comments",
+    "url": "https://www.ycombinator.com/companies/mbodi-ai/jobs/mf9L3sy-senior-robotics-engineer-systems-controls",
+    "score": 1,
     "date": "2026-04-04",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "TurboQuant model weight compression support added to Llamacpp",
+    "title": "Run Linux containers on Android, no root required",
     "source": "Hacker News",
-    "description": "HN Score: 11 | 3 comments",
-    "url": "https://github.com/TheTom/llama-cpp-turboquant/pull/45",
-    "score": 11,
+    "description": "HN Score: 156 | 54 comments",
+    "url": "https://github.com/ExTV/Podroid",
+    "score": 156,
     "date": "2026-04-04",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Run Linux containers on Android, no root required",
+    "title": "Claude Code Found a Linux Vulnerability Hidden for 23 Years",
     "source": "Hacker News",
-    "description": "HN Score: 129 | 46 comments",
-    "url": "https://github.com/ExTV/Podroid",
-    "score": 129,
+    "description": "HN Score: 95 | 60 comments",
+    "url": "https://mtlynch.io/claude-code-found-linux-vulnerability/",
+    "score": 95,
     "date": "2026-04-04",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Post Mortem: axios NPM supply chain compromise",
+    "title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
     "source": "Hacker News",
-    "description": "HN Score: 261 | 118 comments",
-    "url": "https://github.com/axios/axios/issues/10636",
-    "score": 261,
+    "description": "HN Score: 338 | 126 comments",
+    "url": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant",
+    "score": 338,
     "date": "2026-04-04",
     "category": "AI News"
   },
@@ -93,28 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
+    "title": "Google releases Gemma 4 open models",
     "source": "Hacker News",
-    "description": "HN Score: 313 | 118 comments",
-    "url": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant",
-    "score": 313,
-    "date": "2026-04-04",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: Most people write worse code than AI does. I've worked in absolutely horrible codebases, 100% written and messed up by humans. So why d",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2040047422622384210#m",
-    "date": "2026-04-04",
-    "category": "Twitter"
-  },
-  {
-    "title": "Claude Code Found a Linux Vulnerability Hidden for 23 Years",
-    "source": "Hacker News",
-    "description": "HN Score: 55 | 25 comments",
-    "url": "https://mtlynch.io/claude-code-found-linux-vulnerability/",
-    "score": 55,
+    "description": "HN Score: 1742 | 459 comments",
+    "url": "https://deepmind.google/models/gemma/gemma-4/",
+    "score": 1742,
     "date": "2026-04-04",
     "category": "AI News"
   },
@@ -127,11 +110,28 @@
     "category": "Twitter"
   },
   {
+    "title": "Post Mortem: axios NPM supply chain compromise",
+    "source": "Hacker News",
+    "description": "HN Score: 269 | 123 comments",
+    "url": "https://github.com/axios/axios/issues/10636",
+    "score": 269,
+    "date": "2026-04-04",
+    "category": "AI News"
+  },
+  {
+    "title": "Most people write worse code than AI does. I've worked in absolutely horrible codebases, 100% written and messed up by humans. So why do we complain a",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2040047422622384210#m",
+    "date": "2026-04-04",
+    "category": "Twitter"
+  },
+  {
     "title": "Show HN: Travel Hacking Toolkit \u2013 Points search and trip planning with AI",
     "source": "Hacker News",
-    "description": "HN Score: 70 | 32 comments",
+    "description": "HN Score: 75 | 35 comments",
     "url": "https://github.com/borski/travel-hacking-toolkit",
-    "score": 70,
+    "score": 75,
     "date": "2026-04-04",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Emotion concepts and their function in a large language model",
+    "title": "Show HN: Apfel \u2013 The free AI already on your Mac",
     "source": "Hacker News",
-    "description": "HN Score: 59 | 45 comments",
-    "url": "https://www.anthropic.com/research/emotion-concepts-function",
-    "score": 59,
+    "description": "HN Score: 685 | 141 comments",
+    "url": "https://apfel.franzai.com",
+    "score": 685,
     "date": "2026-04-04",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Google releases Gemma 4 open models",
+    "title": "Iran strikes leave Amazon availability zones 'hard down' in Bahrain and Dubai",
     "source": "Hacker News",
-    "description": "HN Score: 1739 | 456 comments",
-    "url": "https://deepmind.google/models/gemma/gemma-4/",
-    "score": 1739,
+    "description": "HN Score: 203 | 102 comments",
+    "url": "https://www.bigtechnology.com/p/iran-strikes-leave-amazon-availability",
+    "score": 203,
     "date": "2026-04-04",
     "category": "AI News"
   }
