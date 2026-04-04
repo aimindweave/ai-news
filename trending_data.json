@@ -10,9 +10,9 @@
   {
     "title": "Components of a Coding Agent",
     "source": "Hacker News",
-    "description": "HN Score: 96 | 41 comments",
+    "description": "HN Score: 130 | 54 comments",
     "url": "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
-    "score": 96,
+    "score": 130,
     "date": "2026-04-04",
     "category": "AI News"
   },
@@ -25,10 +25,10 @@
     "category": "Twitter"
   },
   {
-    "title": "Emotion concepts and their function in a large language model",
+    "title": "Show HN: sllm \u2013 Split a GPU node with other developers, unlimited tokens",
     "source": "Hacker News",
-    "description": "HN Score: 92 | 80 comments",
-    "url": "https://www.anthropic.com/research/emotion-concepts-function",
+    "description": "HN Score: 92 | 58 comments",
+    "url": "https://sllm.cloud",
     "score": 92,
     "date": "2026-04-04",
     "category": "AI News"
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Training mRNA Language Models Across 25 Species for $165",
+    "title": "Emotion concepts and their function in a large language model",
     "source": "Hacker News",
-    "description": "HN Score: 85 | 26 comments",
-    "url": "https://news.ycombinator.com/item?id=47606244",
-    "score": 85,
+    "description": "HN Score: 119 | 105 comments",
+    "url": "https://www.anthropic.com/research/emotion-concepts-function",
+    "score": 119,
     "date": "2026-04-04",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: sllm \u2013 Split a GPU node with other developers, unlimited tokens",
+    "title": "Iranian missile blitz takes down AWS data centers in Bahrain and Dubai",
     "source": "Hacker News",
-    "description": "HN Score: 71 | 45 comments",
-    "url": "https://sllm.cloud",
-    "score": 71,
+    "description": "HN Score: 95 | 72 comments",
+    "url": "https://www.tomshardware.com/tech-industry/iranian-missile-blitz-takes-down-aws-data-centers-in-bahrain-and-dubai-amazon-declares-hard-down-status-for-multiple-zones",
+    "score": 95,
     "date": "2026-04-04",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Electrical Transformer Manufacturing Is Throttling the Electrified Future",
+    "title": "Training mRNA Language Models Across 25 Species for $165",
     "source": "Hacker News",
-    "description": "HN Score: 34 | 21 comments",
-    "url": "https://www.bloomberg.com/features/2025-bottlenecks-transformers/",
-    "score": 34,
+    "description": "HN Score: 95 | 27 comments",
+    "url": "https://news.ycombinator.com/item?id=47606244",
+    "score": 95,
     "date": "2026-04-04",
     "category": "AI News"
   },
@@ -95,9 +95,9 @@
   {
     "title": "Claude Code Found a Linux Vulnerability Hidden for 23 Years",
     "source": "Hacker News",
-    "description": "HN Score: 296 | 194 comments",
+    "description": "HN Score: 336 | 216 comments",
     "url": "https://mtlynch.io/claude-code-found-linux-vulnerability/",
-    "score": 296,
+    "score": 336,
     "date": "2026-04-04",
     "category": "AI News"
   },
@@ -106,6 +106,23 @@
     "source": "@svpino",
     "description": "",
     "url": "https://nitter.net/svpino/status/2040510998852014126#m",
+    "date": "2026-04-04",
+    "category": "Twitter"
+  },
+  {
+    "title": "Electrical Transformer Manufacturing Is Throttling the Electrified Future",
+    "source": "Hacker News",
+    "description": "HN Score: 48 | 43 comments",
+    "url": "https://www.bloomberg.com/features/2025-bottlenecks-transformers/",
+    "score": 48,
+    "date": "2026-04-04",
+    "category": "AI News"
+  },
+  {
+    "title": "Huge step for people who want to integrate video production as part of a workflow: $ pixverse create video --prompt 'a parisian scene during a rainy d",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2040510986126504142#m",
     "date": "2026-04-04",
     "category": "Twitter"
   },
@@ -119,23 +136,6 @@
     "category": "AI News"
   },
   {
-    "title": "Huge step for people who want to integrate video production as part of a workflow: $ pixverse create video --prompt 'a parisian scene during a rainy d",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2040510986126504142#m",
-    "date": "2026-04-04",
-    "category": "Twitter"
-  },
-  {
-    "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
-    "source": "Hacker News",
-    "description": "HN Score: 991 | 761 comments",
-    "url": "https://news.ycombinator.com/item?id=47633396",
-    "score": 991,
-    "date": "2026-04-04",
-    "category": "AI News"
-  },
-  {
     "title": "Finally AI Video That Is Better Than Hollywood\u2026 SeeDance 2.0 is insanely good - even better than big studio productions! Coming to ChatLLM on Monday T",
     "source": "@bindureddy",
     "description": "",
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Iranian missile blitz takes down AWS data centers in Bahrain and Dubai",
+    "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
     "source": "Hacker News",
-    "description": "HN Score: 25 | 7 comments",
-    "url": "https://www.tomshardware.com/tech-industry/iranian-missile-blitz-takes-down-aws-data-centers-in-bahrain-and-dubai-amazon-declares-hard-down-status-for-multiple-zones",
-    "score": 25,
+    "description": "HN Score: 1008 | 767 comments",
+    "url": "https://news.ycombinator.com/item?id=47633396",
+    "score": 1008,
     "date": "2026-04-04",
     "category": "AI News"
   },
@@ -163,9 +163,9 @@
   {
     "title": "Run Linux containers on Android, no root required",
     "source": "Hacker News",
-    "description": "HN Score: 203 | 74 comments",
+    "description": "HN Score: 205 | 76 comments",
     "url": "https://github.com/ExTV/Podroid",
-    "score": 203,
+    "score": 205,
     "date": "2026-04-04",
     "category": "AI News"
   }
