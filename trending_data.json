@@ -10,9 +10,9 @@
   {
     "title": "LLM Wiki \u2013 example of an 'idea file'",
     "source": "Hacker News",
-    "description": "HN Score: 177 | 48 comments",
+    "description": "HN Score: 202 | 63 comments",
     "url": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
-    "score": 177,
+    "score": 202,
     "date": "2026-04-05",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: sllm \u2013 Split a GPU node with other developers, unlimited tokens",
+    "title": "The Future of Adult Entertainment: Personalized, AI Content",
     "source": "Hacker News",
-    "description": "HN Score: 155 | 78 comments",
-    "url": "https://sllm.cloud",
-    "score": 155,
+    "description": "HN Score: 5 | 0 comments",
+    "url": "https://unbound.video/landing4",
+    "score": 5,
     "date": "2026-04-05",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Components of a Coding Agent",
+    "title": "Unverified: What Practitioners Post About OCR, Agents, and Tables",
     "source": "Hacker News",
-    "description": "HN Score: 232 | 73 comments",
-    "url": "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
-    "score": 232,
+    "description": "HN Score: 9 | 0 comments",
+    "url": "https://idp-software.com/news/idp-accuracy-reckoning-2026/",
+    "score": 9,
     "date": "2026-04-05",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Electrical transformer manufacturing is throttling the electrified future",
+    "title": "Components of a Coding Agent",
     "source": "Hacker News",
-    "description": "HN Score: 84 | 74 comments",
-    "url": "https://www.bloomberg.com/features/2025-bottlenecks-transformers/",
-    "score": 84,
+    "description": "HN Score: 239 | 76 comments",
+    "url": "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+    "score": 239,
     "date": "2026-04-05",
     "category": "AI News"
   },
@@ -72,6 +72,57 @@
     "source": "@DrJimFan",
     "description": "",
     "url": "https://nitter.net/DrJimFan/status/2039360927653614004#m",
+    "date": "2026-04-05",
+    "category": "Twitter"
+  },
+  {
+    "title": "Show HN: sllm \u2013 Split a GPU node with other developers, unlimited tokens",
+    "source": "Hacker News",
+    "description": "HN Score: 159 | 79 comments",
+    "url": "https://sllm.cloud",
+    "score": 159,
+    "date": "2026-04-05",
+    "category": "AI News"
+  },
+  {
+    "title": "R to @DrJimFan: As usual, we open-source everything, MIT license: https://capgym.github.io Code: https://github.com/capgym/cap-x Paper: https://arxiv.",
+    "source": "@DrJimFan",
+    "description": "",
+    "url": "https://nitter.net/DrJimFan/status/2039360925606760690#m",
+    "date": "2026-04-05",
+    "category": "Twitter"
+  },
+  {
+    "title": "Electrical transformer manufacturing is throttling the electrified future",
+    "source": "Hacker News",
+    "description": "HN Score: 89 | 79 comments",
+    "url": "https://www.bloomberg.com/features/2025-bottlenecks-transformers/",
+    "score": 89,
+    "date": "2026-04-05",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: Huge step for people who want to integrate video production as part of a workflow: $ pixverse create video --prompt 'a parisian scene d",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2040510986126504142#m",
+    "date": "2026-04-05",
+    "category": "Twitter"
+  },
+  {
+    "title": "Elizabeth I's Manuscript of Pierre Boaistuau's Histoires Prodigieuses (1559)",
+    "source": "Hacker News",
+    "description": "HN Score: 4 | 1 comments",
+    "url": "https://publicdomainreview.org/collection/histoires-prodigieuses/",
+    "score": 4,
+    "date": "2026-04-05",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: I'm having more fun building software today than I've ever had. (Except, of course, when I run through my whole Claude MAX plan in 2 ho",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2040417865539707119#m",
     "date": "2026-04-05",
     "category": "Twitter"
   },
@@ -85,57 +136,6 @@
     "category": "AI News"
   },
   {
-    "title": "R to @DrJimFan: As usual, we open-source everything, MIT license: https://capgym.github.io Code: https://github.com/capgym/cap-x Paper: https://arxiv.",
-    "source": "@DrJimFan",
-    "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2039360925606760690#m",
-    "date": "2026-04-05",
-    "category": "Twitter"
-  },
-  {
-    "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
-    "source": "Hacker News",
-    "description": "HN Score: 1048 | 795 comments",
-    "url": "https://news.ycombinator.com/item?id=47633396",
-    "score": 1048,
-    "date": "2026-04-05",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: Huge step for people who want to integrate video production as part of a workflow: $ pixverse create video --prompt 'a parisian scene d",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2040510986126504142#m",
-    "date": "2026-04-05",
-    "category": "Twitter"
-  },
-  {
-    "title": "Writing Lisp is AI resistant and I'm sad",
-    "source": "Hacker News",
-    "description": "HN Score: 64 | 62 comments",
-    "url": "https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/",
-    "score": 64,
-    "date": "2026-04-05",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: I'm having more fun building software today than I've ever had. (Except, of course, when I run through my whole Claude MAX plan in 2 ho",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2040417865539707119#m",
-    "date": "2026-04-05",
-    "category": "Twitter"
-  },
-  {
-    "title": "Mbodi AI (YC P25) Is Hiring",
-    "source": "Hacker News",
-    "description": "HN Score: 1 | 0 comments",
-    "url": "https://www.ycombinator.com/companies/mbodi-ai/jobs/mf9L3sy-senior-robotics-engineer-systems-controls",
-    "score": 1,
-    "date": "2026-04-05",
-    "category": "AI News"
-  },
-  {
     "title": "Gemma 4 is a very good small model that punches above it's weight class Gemma is a 31B model that is as good as other very large MoE models It's the b",
     "source": "@bindureddy",
     "description": "",
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Brain scans reveal how to enters a psychedelic-like trance without drugs",
+    "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
     "source": "Hacker News",
-    "description": "HN Score: 46 | 9 comments",
-    "url": "https://www.psypost.org/brain-scans-reveal-how-a-woman-voluntarily-enters-a-psychedelic-like-trance-without-drugs/",
-    "score": 46,
+    "description": "HN Score: 1050 | 797 comments",
+    "url": "https://news.ycombinator.com/item?id=47633396",
+    "score": 1050,
     "date": "2026-04-05",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Emotion concepts and their function in a large language model",
+    "title": "Mbodi AI (YC P25) Is Hiring",
     "source": "Hacker News",
-    "description": "HN Score: 172 | 168 comments",
-    "url": "https://www.anthropic.com/research/emotion-concepts-function",
-    "score": 172,
+    "description": "HN Score: 1 | 0 comments",
+    "url": "https://www.ycombinator.com/companies/mbodi-ai/jobs/mf9L3sy-senior-robotics-engineer-systems-controls",
+    "score": 1,
     "date": "2026-04-05",
     "category": "AI News"
   }
