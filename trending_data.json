@@ -10,9 +10,9 @@
   {
     "title": "LLM Wiki \u2013 example of an 'idea file'",
     "source": "Hacker News",
-    "description": "HN Score: 150 | 41 comments",
+    "description": "HN Score: 177 | 48 comments",
     "url": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
-    "score": 150,
+    "score": 177,
     "date": "2026-04-05",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "Show HN: sllm \u2013 Split a GPU node with other developers, unlimited tokens",
     "source": "Hacker News",
-    "description": "HN Score: 149 | 74 comments",
+    "description": "HN Score: 155 | 78 comments",
     "url": "https://sllm.cloud",
-    "score": 149,
+    "score": 155,
     "date": "2026-04-05",
     "category": "AI News"
   },
@@ -44,9 +44,9 @@
   {
     "title": "Components of a Coding Agent",
     "source": "Hacker News",
-    "description": "HN Score: 215 | 70 comments",
+    "description": "HN Score: 232 | 73 comments",
     "url": "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
-    "score": 215,
+    "score": 232,
     "date": "2026-04-05",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "A case study in testing with 100+ Claude agents in parallel",
+    "title": "Electrical transformer manufacturing is throttling the electrified future",
     "source": "Hacker News",
-    "description": "HN Score: 48 | 37 comments",
-    "url": "https://imbue.com/product/mngr_part_2/",
-    "score": 48,
+    "description": "HN Score: 84 | 74 comments",
+    "url": "https://www.bloomberg.com/features/2025-bottlenecks-transformers/",
+    "score": 84,
     "date": "2026-04-05",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Electrical transformer manufacturing is throttling the electrified future",
+    "title": "Training mRNA Language Models Across 25 Species for $165",
     "source": "Hacker News",
-    "description": "HN Score: 75 | 64 comments",
-    "url": "https://www.bloomberg.com/features/2025-bottlenecks-transformers/",
-    "score": 75,
+    "description": "HN Score: 138 | 32 comments",
+    "url": "https://news.ycombinator.com/item?id=47606244",
+    "score": 138,
     "date": "2026-04-05",
     "category": "AI News"
   },
@@ -93,11 +93,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Training mRNA Language Models Across 25 Species for $165",
+    "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
     "source": "Hacker News",
-    "description": "HN Score: 137 | 32 comments",
-    "url": "https://news.ycombinator.com/item?id=47606244",
-    "score": 137,
+    "description": "HN Score: 1048 | 795 comments",
+    "url": "https://news.ycombinator.com/item?id=47633396",
+    "score": 1048,
+    "date": "2026-04-05",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: Huge step for people who want to integrate video production as part of a workflow: $ pixverse create video --prompt 'a parisian scene d",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2040510986126504142#m",
+    "date": "2026-04-05",
+    "category": "Twitter"
+  },
+  {
+    "title": "Writing Lisp is AI resistant and I'm sad",
+    "source": "Hacker News",
+    "description": "HN Score: 64 | 62 comments",
+    "url": "https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/",
+    "score": 64,
     "date": "2026-04-05",
     "category": "AI News"
   },
@@ -110,28 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
+    "title": "Mbodi AI (YC P25) Is Hiring",
     "source": "Hacker News",
-    "description": "HN Score: 1047 | 790 comments",
-    "url": "https://news.ycombinator.com/item?id=47633396",
-    "score": 1047,
-    "date": "2026-04-05",
-    "category": "AI News"
-  },
-  {
-    "title": "R to @svpino: You no longer need to generate one asset at a time in the browser. You can now build videos directly into a pipeline: prompt in \u2192 video ",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2040510998852014126#m",
-    "date": "2026-04-05",
-    "category": "Twitter"
-  },
-  {
-    "title": "Writing Lisp is AI resistant and I'm sad",
-    "source": "Hacker News",
-    "description": "HN Score: 60 | 59 comments",
-    "url": "https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/",
-    "score": 60,
+    "description": "HN Score: 1 | 0 comments",
+    "url": "https://www.ycombinator.com/companies/mbodi-ai/jobs/mf9L3sy-senior-robotics-engineer-systems-controls",
+    "score": 1,
     "date": "2026-04-05",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Applying machine learning to identify unrecognized Covid-19 deaths in the US",
+    "title": "Brain scans reveal how to enters a psychedelic-like trance without drugs",
     "source": "Hacker News",
-    "description": "HN Score: 11 | 5 comments",
-    "url": "https://www.science.org/doi/10.1126/sciadv.aef5697",
-    "score": 11,
+    "description": "HN Score: 46 | 9 comments",
+    "url": "https://www.psypost.org/brain-scans-reveal-how-a-woman-voluntarily-enters-a-psychedelic-like-trance-without-drugs/",
+    "score": 46,
     "date": "2026-04-05",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Brain scans reveal how to enters a psychedelic-like trance without drugs",
+    "title": "Emotion concepts and their function in a large language model",
     "source": "Hacker News",
-    "description": "HN Score: 40 | 6 comments",
-    "url": "https://www.psypost.org/brain-scans-reveal-how-a-woman-voluntarily-enters-a-psychedelic-like-trance-without-drugs/",
-    "score": 40,
+    "description": "HN Score: 172 | 168 comments",
+    "url": "https://www.anthropic.com/research/emotion-concepts-function",
+    "score": 172,
     "date": "2026-04-05",
     "category": "AI News"
   }
