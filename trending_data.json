@@ -10,9 +10,9 @@
   {
     "title": "Eight years of wanting, three months of building with AI",
     "source": "Hacker News",
-    "description": "HN Score: 178 | 33 comments",
+    "description": "HN Score: 343 | 102 comments",
     "url": "https://lalitm.com/post/building-syntaqlite-ai/",
-    "score": 178,
+    "score": 343,
     "date": "2026-04-05",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "A Claude Code skill that makes Claude talk like a caveman, cutting token use",
+    "title": "A tail-call interpreter in (nightly) Rust",
     "source": "Hacker News",
-    "description": "HN Score: 379 | 223 comments",
-    "url": "https://github.com/JuliusBrussee/caveman",
-    "score": 379,
+    "description": "HN Score: 69 | 6 comments",
+    "url": "https://www.mattkeeter.com/blog/2026-04-05-tailcall/",
+    "score": 69,
     "date": "2026-04-05",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "A tail-call interpreter in (nightly) Rust",
+    "title": "From birds to brains: My path to the fusiform face area (2024)",
     "source": "Hacker News",
-    "description": "HN Score: 18 | 0 comments",
-    "url": "https://www.mattkeeter.com/blog/2026-04-05-tailcall/",
-    "score": 18,
+    "description": "HN Score: 11 | 0 comments",
+    "url": "https://www.kavliprize.org/nancy-kanwisher-autobiography",
+    "score": 11,
     "date": "2026-04-05",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Someone at BrowserStack Is Leaking Users' Email Address",
+    "title": "Nanocode: The best Claude Code that $200 can buy in pure JAX on TPUs",
     "source": "Hacker News",
-    "description": "HN Score: 282 | 76 comments",
-    "url": "https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/",
-    "score": 282,
+    "description": "HN Score: 60 | 7 comments",
+    "url": "https://github.com/salmanmohammadi/nanocode/discussions/1",
+    "score": 60,
     "date": "2026-04-05",
     "category": "AI News"
   },
@@ -76,28 +76,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Nanocode: The best Claude Code that $200 can buy in pure JAX on TPUs",
+    "title": "Running Google Gemma 4 Locally with LM Studio's New Headless CLI and Claude Code",
     "source": "Hacker News",
-    "description": "HN Score: 14 | 3 comments",
-    "url": "https://github.com/salmanmohammadi/nanocode/discussions/1",
-    "score": 14,
+    "description": "HN Score: 7 | 2 comments",
+    "url": "https://ai.georgeliu.com/p/running-google-gemma-4-locally-with",
+    "score": 7,
     "date": "2026-04-05",
     "category": "AI News"
   },
   {
-    "title": "R to @DrJimFan: As usual, we open-source everything, MIT license: https://capgym.github.io Code: https://github.com/capgym/cap-x Paper: https://arxiv.",
+    "title": "The power of the Claw, in the palm of a robot hand. Agentic robotics is here! Today, we open-source CaP-X: vibe agents, alive in the physical world. T",
     "source": "@DrJimFan",
     "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2039360925606760690#m",
+    "url": "https://nitter.net/DrJimFan/status/2039358115318243352#m",
     "date": "2026-04-05",
     "category": "Twitter"
   },
   {
-    "title": "LLM Wiki \u2013 example of an 'idea file'",
+    "title": "The Melanesian: Dark-skinned people with blonde hair region of Oceania",
     "source": "Hacker News",
-    "description": "HN Score: 257 | 77 comments",
-    "url": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
-    "score": 257,
+    "description": "HN Score: 26 | 0 comments",
+    "url": "https://guardian.ng/life/the-melanesian-dark-skinned-people-with-blonde-hair/",
+    "score": 26,
     "date": "2026-04-05",
     "category": "AI News"
   },
@@ -110,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Japanese, French and Omani Vessels Cross Strait of Hormuz",
+    "title": "Someone at BrowserStack is leaking users' email addresses",
     "source": "Hacker News",
-    "description": "HN Score: 93 | 86 comments",
-    "url": "https://japantoday.com/category/politics/japanese-french-and-omani-vessels-cross-the-strait-of-hormuz",
-    "score": 93,
+    "description": "HN Score: 329 | 88 comments",
+    "url": "https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/",
+    "score": 329,
     "date": "2026-04-05",
     "category": "AI News"
   },
@@ -127,11 +127,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Electrical transformer manufacturing is throttling the electrified future",
+    "title": "With one million displaced, Lebanon turns to digital wallets for aid",
     "source": "Hacker News",
-    "description": "HN Score: 105 | 101 comments",
-    "url": "https://www.bloomberg.com/features/2025-bottlenecks-transformers/",
-    "score": 105,
+    "description": "HN Score: 24 | 20 comments",
+    "url": "https://www.wired.com/story/with-one-million-displaced-lebanon-turns-to-digital-wallets-for-aid/",
+    "score": 24,
+    "date": "2026-04-05",
+    "category": "AI News"
+  },
+  {
+    "title": "We need SuperIntelligence the solve the most important problem of current times\ud83d\ude13 - How to open the strait of Hormuz and end the war We need a powerful",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2040845538997019073#m",
+    "date": "2026-04-05",
+    "category": "Twitter"
+  },
+  {
+    "title": "LLM Wiki \u2013 example of an 'idea file'",
+    "source": "Hacker News",
+    "description": "HN Score: 265 | 82 comments",
+    "url": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
+    "score": 265,
     "date": "2026-04-05",
     "category": "AI News"
   },
@@ -144,28 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Right to repair: Why the US military can't fix much of its own equipment",
+    "title": "Samsung Raises DRAM Prices Another ~30% for Q2 2026",
     "source": "Hacker News",
-    "description": "HN Score: 16 | 5 comments",
-    "url": "https://taskandpurpose.com/tech-tactics/us-military-right-to-repair/",
-    "score": 16,
-    "date": "2026-04-05",
-    "category": "AI News"
-  },
-  {
-    "title": "Finally AI Video That Is Better Than Hollywood\u2026 SeeDance 2.0 is insanely good - even better than big studio productions! Coming to ChatLLM on Monday T",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2040457599376904692#m",
-    "date": "2026-04-05",
-    "category": "Twitter"
-  },
-  {
-    "title": "Writing Lisp is AI resistant and I'm sad",
-    "source": "Hacker News",
-    "description": "HN Score: 76 | 80 comments",
-    "url": "https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/",
-    "score": 76,
+    "description": "HN Score: 4 | 1 comments",
+    "url": "https://old.reddit.com/user/BuySellRam/comments/1sd9z9k/samsung_raises_dram_prices_another_30_for_q2_2026/",
+    "score": 4,
     "date": "2026-04-05",
     "category": "AI News"
   }
