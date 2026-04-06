@@ -10,9 +10,9 @@
   {
     "title": "Launch HN: Freestyle: Sandboxes for AI Coding Agents",
     "source": "Hacker News",
-    "description": "HN Score: 7 | 1 comments",
+    "description": "HN Score: 95 | 53 comments",
     "url": "https://www.freestyle.sh",
-    "score": 7,
+    "score": 95,
     "date": "2026-04-06",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "Claude Code is unusable for complex engineering tasks with the Feb updates",
     "source": "Hacker News",
-    "description": "HN Score: 172 | 104 comments",
+    "description": "HN Score: 423 | 301 comments",
     "url": "https://github.com/anthropics/claude-code/issues/42796",
-    "score": 172,
+    "score": 423,
     "date": "2026-04-06",
     "category": "AI News"
   },
@@ -44,9 +44,9 @@
   {
     "title": "Show HN: I built a tiny LLM to demystify how language models work",
     "source": "Hacker News",
-    "description": "HN Score: 754 | 114 comments",
+    "description": "HN Score: 792 | 121 comments",
     "url": "https://github.com/arman-bd/guppylm",
-    "score": 754,
+    "score": 792,
     "date": "2026-04-06",
     "category": "AI News"
   },
@@ -61,9 +61,9 @@
   {
     "title": "France pulls last gold held in US for $15B gain",
     "source": "Hacker News",
-    "description": "HN Score: 461 | 253 comments",
+    "description": "HN Score: 499 | 272 comments",
     "url": "https://www.mining.com/france-pulls-last-gold-held-in-us-for-15b-gain/",
-    "score": 461,
+    "score": 499,
     "date": "2026-04-06",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "AI Singer Now Occupies Eleven Spots on iTunes Singles Chart",
+    "title": "Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B",
     "source": "Hacker News",
-    "description": "HN Score: 26 | 22 comments",
-    "url": "https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive",
-    "score": 26,
+    "description": "HN Score: 231 | 26 comments",
+    "url": "https://github.com/fikrikarim/parlor",
+    "score": 231,
     "date": "2026-04-06",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B",
+    "title": "Drop, formerly Massdrop, ends most collaborations and rebrands under Corsair",
     "source": "Hacker News",
-    "description": "HN Score: 212 | 21 comments",
-    "url": "https://github.com/fikrikarim/parlor",
-    "score": 212,
+    "description": "HN Score: 114 | 61 comments",
+    "url": "https://drop.com/",
+    "score": 114,
     "date": "2026-04-06",
     "category": "AI News"
   },
@@ -110,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Drop, formerly Massdrop, ends most collaborations and rebrands under Corsair",
+    "title": "Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code",
     "source": "Hacker News",
-    "description": "HN Score: 100 | 50 comments",
-    "url": "https://drop.com/",
-    "score": 100,
+    "description": "HN Score: 380 | 94 comments",
+    "url": "https://ai.georgeliu.com/p/running-google-gemma-4-locally-with",
+    "score": 380,
     "date": "2026-04-06",
     "category": "AI News"
   },
@@ -127,11 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code",
+    "title": "Show HN: Gemma Gem \u2013 AI model embedded in a browser \u2013 no API keys, no cloud",
     "source": "Hacker News",
-    "description": "HN Score: 359 | 90 comments",
-    "url": "https://ai.georgeliu.com/p/running-google-gemma-4-locally-with",
-    "score": 359,
+    "description": "HN Score: 138 | 19 comments",
+    "url": "https://github.com/kessler/gemma-gem",
+    "score": 138,
     "date": "2026-04-06",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "When Virality Is the Message: The New Age of AI Propaganda",
+    "title": "Eight years of wanting, three months of building with AI",
     "source": "Hacker News",
-    "description": "HN Score: 38 | 29 comments",
-    "url": "https://time.com/article/2026/04/02/when-virality-is-the-message-the-new-age-of-ai-propaganda/",
-    "score": 38,
+    "description": "HN Score: 891 | 279 comments",
+    "url": "https://lalitm.com/post/building-syntaqlite-ai/",
+    "score": 891,
     "date": "2026-04-06",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Gemma Gem \u2013 AI model embedded in a browser \u2013 no API keys, no cloud",
+    "title": "A tail-call interpreter in (nightly) Rust",
     "source": "Hacker News",
-    "description": "HN Score: 129 | 18 comments",
-    "url": "https://github.com/kessler/gemma-gem",
-    "score": 129,
+    "description": "HN Score: 186 | 50 comments",
+    "url": "https://www.mattkeeter.com/blog/2026-04-05-tailcall/",
+    "score": 186,
     "date": "2026-04-06",
     "category": "AI News"
   }
