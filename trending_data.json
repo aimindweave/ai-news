@@ -10,9 +10,9 @@
   {
     "title": "Show HN: I built a tiny LLM to demystify how language models work",
     "source": "Hacker News",
-    "description": "HN Score: 100 | 8 comments",
+    "description": "HN Score: 251 | 21 comments",
     "url": "https://github.com/arman-bd/guppylm",
-    "score": 100,
+    "score": 251,
     "date": "2026-04-06",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Endian wars and anti-portability: this again?",
+    "title": "Copilot is 'for entertainment purposes only', per Microsoft's terms of use",
     "source": "Hacker News",
-    "description": "HN Score: 21 | 19 comments",
-    "url": "https://dalmatian.life/2026/04/03/endian-wars-and-anti-portability-this-again/",
-    "score": 21,
+    "description": "HN Score: 122 | 25 comments",
+    "url": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
+    "score": 122,
     "date": "2026-04-06",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Eight years of wanting, three months of building with AI",
+    "title": "Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B",
     "source": "Hacker News",
-    "description": "HN Score: 661 | 208 comments",
-    "url": "https://lalitm.com/post/building-syntaqlite-ai/",
-    "score": 661,
+    "description": "HN Score: 15 | 2 comments",
+    "url": "https://github.com/fikrikarim/parlor",
+    "score": 15,
     "date": "2026-04-06",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Copilot is 'for entertainment purposes only', per Microsoft's terms of use",
+    "title": "Show HN: Gemma Gem \u2013 AI model embedded in a browser \u2013 no API keys, no cloud",
     "source": "Hacker News",
-    "description": "HN Score: 31 | 9 comments",
-    "url": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
-    "score": 31,
+    "description": "HN Score: 39 | 5 comments",
+    "url": "https://github.com/kessler/gemma-gem",
+    "score": 39,
     "date": "2026-04-06",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code",
+    "title": "Endian wars and anti-portability: this again?",
     "source": "Hacker News",
-    "description": "HN Score: 208 | 54 comments",
-    "url": "https://ai.georgeliu.com/p/running-google-gemma-4-locally-with",
-    "score": 208,
+    "description": "HN Score: 41 | 39 comments",
+    "url": "https://dalmatian.life/2026/04/03/endian-wars-and-anti-portability-this-again/",
+    "score": 41,
     "date": "2026-04-06",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Gemma Gem \u2013 AI model embedded in a browser \u2013 no API keys, no cloud",
+    "title": "Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code",
     "source": "Hacker News",
-    "description": "HN Score: 17 | 1 comments",
-    "url": "https://github.com/kessler/gemma-gem",
-    "score": 17,
+    "description": "HN Score: 232 | 56 comments",
+    "url": "https://ai.georgeliu.com/p/running-google-gemma-4-locally-with",
+    "score": 232,
     "date": "2026-04-06",
     "category": "AI News"
   },
@@ -110,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "OpenAI's fall from grace as investors race to Anthropic",
+    "title": "A tail-call interpreter in (nightly) Rust",
     "source": "Hacker News",
-    "description": "HN Score: 103 | 59 comments",
-    "url": "https://www.latimes.com/business/story/2026-04-01/openais-shocking-fall-from-grace-as-investors-race-to-anthropic",
-    "score": 103,
+    "description": "HN Score: 148 | 26 comments",
+    "url": "https://www.mattkeeter.com/blog/2026-04-05-tailcall/",
+    "score": 148,
     "date": "2026-04-06",
     "category": "AI News"
   },
@@ -127,11 +127,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Apex Protocol \u2013 An open MCP-based standard for AI agent trading",
+    "title": "Eight years of wanting, three months of building with AI",
     "source": "Hacker News",
-    "description": "HN Score: 10 | 2 comments",
-    "url": "https://apexstandard.org/",
-    "score": 10,
+    "description": "HN Score: 728 | 221 comments",
+    "url": "https://lalitm.com/post/building-syntaqlite-ai/",
+    "score": 728,
+    "date": "2026-04-06",
+    "category": "AI News"
+  },
+  {
+    "title": "The future is not a single agent doing a thing\u2026.. It\u2019s an agent swarm working together like a TEAM OF EXPERTS - vibe coding agents to build systems - ",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2041025546432520483#m",
+    "date": "2026-04-06",
+    "category": "Twitter"
+  },
+  {
+    "title": "Nanocode: The best Claude Code that $200 can buy in pure JAX on TPUs",
+    "source": "Hacker News",
+    "description": "HN Score: 179 | 24 comments",
+    "url": "https://github.com/salmanmohammadi/nanocode/discussions/1",
+    "score": 179,
     "date": "2026-04-06",
     "category": "AI News"
   },
@@ -144,28 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "A tail-call interpreter in (nightly) Rust",
+    "title": "Does coding with LLMs mean more microservices?",
     "source": "Hacker News",
-    "description": "HN Score: 134 | 22 comments",
-    "url": "https://www.mattkeeter.com/blog/2026-04-05-tailcall/",
-    "score": 134,
-    "date": "2026-04-06",
-    "category": "AI News"
-  },
-  {
-    "title": "We need SuperIntelligence the solve the most important problem of current times\ud83d\ude13 - How to open the strait of Hormuz and end the war We need a powerful",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2040845538997019073#m",
-    "date": "2026-04-06",
-    "category": "Twitter"
-  },
-  {
-    "title": "Nanocode: The best Claude Code that $200 can buy in pure JAX on TPUs",
-    "source": "Hacker News",
-    "description": "HN Score: 168 | 24 comments",
-    "url": "https://github.com/salmanmohammadi/nanocode/discussions/1",
-    "score": 168,
+    "description": "HN Score: 8 | 0 comments",
+    "url": "https://ben.page/microservices",
+    "score": 8,
     "date": "2026-04-06",
     "category": "AI News"
   }
