@@ -10,9 +10,9 @@
   {
     "title": "Show HN: I built a tiny LLM to demystify how language models work",
     "source": "Hacker News",
-    "description": "HN Score: 437 | 41 comments",
+    "description": "HN Score: 519 | 52 comments",
     "url": "https://github.com/arman-bd/guppylm",
-    "score": 437,
+    "score": 519,
     "date": "2026-04-06",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "France pulls last gold held in US for $15B gain",
     "source": "Hacker News",
-    "description": "HN Score: 53 | 32 comments",
+    "description": "HN Score: 133 | 98 comments",
     "url": "https://www.mining.com/france-pulls-last-gold-held-in-us-for-15b-gain/",
-    "score": 53,
+    "score": 133,
     "date": "2026-04-06",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Jobs Being Created by AI",
+    "title": "Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B",
     "source": "Hacker News",
-    "description": "HN Score: 9 | 3 comments",
-    "url": "https://www.wsj.com/tech/ai/wanted-head-of-human-ai-solutions-the-new-jobs-being-created-by-ai-870c6ed5",
-    "score": 9,
+    "description": "HN Score: 98 | 8 comments",
+    "url": "https://github.com/fikrikarim/parlor",
+    "score": 98,
     "date": "2026-04-06",
     "category": "AI News"
   },
@@ -61,9 +61,9 @@
   {
     "title": "Show HN: Gemma Gem \u2013 AI model embedded in a browser \u2013 no API keys, no cloud",
     "source": "Hacker News",
-    "description": "HN Score: 75 | 14 comments",
+    "description": "HN Score: 86 | 15 comments",
     "url": "https://github.com/kessler/gemma-gem",
-    "score": 75,
+    "score": 86,
     "date": "2026-04-06",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B",
+    "title": "Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code",
     "source": "Hacker News",
-    "description": "HN Score: 79 | 4 comments",
-    "url": "https://github.com/fikrikarim/parlor",
-    "score": 79,
+    "description": "HN Score: 286 | 69 comments",
+    "url": "https://ai.georgeliu.com/p/running-google-gemma-4-locally-with",
+    "score": 286,
     "date": "2026-04-06",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code",
+    "title": "Drop, formerly Massdrop, ends most collaborations and rebrands under Corsair",
     "source": "Hacker News",
-    "description": "HN Score: 271 | 66 comments",
-    "url": "https://ai.georgeliu.com/p/running-google-gemma-4-locally-with",
-    "score": 271,
+    "description": "HN Score: 31 | 6 comments",
+    "url": "https://drop.com/",
+    "score": 31,
     "date": "2026-04-06",
     "category": "AI News"
   },
@@ -110,28 +110,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Drop, formerly Massdrop, ends most collaborations and rebrands under Corsair",
+    "title": "Does coding with LLMs mean more microservices?",
     "source": "Hacker News",
-    "description": "HN Score: 14 | 1 comments",
-    "url": "https://drop.com/",
-    "score": 14,
+    "description": "HN Score: 30 | 21 comments",
+    "url": "https://ben.page/microservices",
+    "score": 30,
     "date": "2026-04-06",
     "category": "AI News"
   },
   {
-    "title": "R to @svpino: You no longer need to generate one asset at a time in the browser. You can now build videos directly into a pipeline: prompt in \u2192 video ",
+    "title": "Huge step for people who want to integrate video production as part of a workflow: $ pixverse create video --prompt 'a parisian scene during a rainy d",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2040510998852014126#m",
+    "url": "https://nitter.net/svpino/status/2040510986126504142#m",
     "date": "2026-04-06",
     "category": "Twitter"
   },
   {
-    "title": "Does coding with LLMs mean more microservices?",
+    "title": "A tail-call interpreter in (nightly) Rust",
     "source": "Hacker News",
-    "description": "HN Score: 21 | 5 comments",
-    "url": "https://ben.page/microservices",
-    "score": 21,
+    "description": "HN Score: 169 | 41 comments",
+    "url": "https://www.mattkeeter.com/blog/2026-04-05-tailcall/",
+    "score": 169,
     "date": "2026-04-06",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "A tail-call interpreter in (nightly) Rust",
+    "title": "Eight years of wanting, three months of building with AI",
     "source": "Hacker News",
-    "description": "HN Score: 159 | 37 comments",
-    "url": "https://www.mattkeeter.com/blog/2026-04-05-tailcall/",
-    "score": 159,
+    "description": "HN Score: 797 | 243 comments",
+    "url": "https://lalitm.com/post/building-syntaqlite-ai/",
+    "score": 797,
     "date": "2026-04-06",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Eight years of wanting, three months of building with AI",
+    "title": "Nanocode: The best Claude Code that $200 can buy in pure JAX on TPUs",
     "source": "Hacker News",
-    "description": "HN Score: 773 | 233 comments",
-    "url": "https://lalitm.com/post/building-syntaqlite-ai/",
-    "score": 773,
+    "description": "HN Score: 189 | 26 comments",
+    "url": "https://github.com/salmanmohammadi/nanocode/discussions/1",
+    "score": 189,
     "date": "2026-04-06",
     "category": "AI News"
   }
