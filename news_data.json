@@ -1,5 +1,12 @@
 [
   {
+    "title": "OpenAI alums have been quietly investing from a new, potentially $100M fund",
+    "source": "TechCrunch",
+    "summary": "Zero Shot, a new venture capital fund with deep ties to OpenAI, is aiming to raise $100 million for its first fund. It has already written some checks.",
+    "url": "https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/",
+    "date": "2026-04-06"
+  },
+  {
     "title": "Google quietly launched an AI dictation app that works offline",
     "source": "TechCrunch",
     "summary": "Google's new offline-first dictation app uses Gemma AI models to take on the apps like Wispr Flow.",
@@ -14,7 +21,7 @@
     "date": "2026-04-06"
   },
   {
-    "title": "OpenAI\u2019s vision for the AI economy: public wealth funds, robot taxes, and a four-day work week",
+    "title": "OpenAI\u2019s vision for the AI economy: public wealth funds, robot taxes, and a four-day workweek",
     "source": "TechCrunch",
     "summary": "OpenAI proposes taxes on AI profits, public wealth funds, and expanded safety nets to address job loss and inequality, blending redistribution with capitalism as policymakers debate AI\u2019s economic impact.",
     "url": "https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/",
@@ -95,13 +102,6 @@
     "source": "TechCrunch",
     "summary": "Anthropic has purchased the stealth biotech AI startup Coefficient Bio in a $400 million stock deal, according to The Information and Eric Newcomer.",
     "url": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/",
-    "date": "2026-04-06"
-  },
-  {
-    "title": "Anthropic ramps up its political activities with a new PAC",
-    "source": "TechCrunch",
-    "summary": "With the midterms right around the corner, the new group is positioned to back candidates who support the AI company's policy agenda.",
-    "url": "https://techcrunch.com/2026/04/03/anthropic-ramps-up-its-political-activities-with-a-new-pac/",
     "date": "2026-04-06"
   },
   {
@@ -245,6 +245,20 @@
     "date": "2026-04-06"
   },
   {
+    "title": "From folding boxes to fixing vacuums, GEN-1 robotics model hits 99% reliability",
+    "source": "Ars Technica",
+    "summary": "New model can respond to disruptions and figure out moves it wasn't trained for.",
+    "url": "https://arstechnica.com/ai/2026/04/generalists-new-physical-robotics-ai-brings-production-level-success-rates/",
+    "date": "2026-04-06"
+  },
+  {
+    "title": "\u201cThe problem is Sam Altman\u201d: OpenAI Insiders don\u2019t trust CEO",
+    "source": "Ars Technica",
+    "summary": "OpenAI brainstorms ways AI can benefit humanity in effort to counter bad vibes.",
+    "url": "https://arstechnica.com/tech-policy/2026/04/the-problem-is-sam-altman-openai-insiders-dont-trust-ceo/",
+    "date": "2026-04-06"
+  },
+  {
     "title": "'Cognitive surrender' leads AI users to abandon logical thinking, research finds",
     "source": "Ars Technica",
     "summary": "Experiments show large majorities uncritically accepting 'faulty' AI answers.",
@@ -333,20 +347,6 @@
     "source": "Ars Technica",
     "summary": "2023 study made a lot of assumptions about future 'anticipated LLM-powered software.'",
     "url": "https://arstechnica.com/ai/2026/03/how-did-anthropic-measure-ais-theoretical-capabilities-in-the-job-market/",
-    "date": "2026-04-06"
-  },
-  {
-    "title": "Authors' lucky break in court may help class action over Meta torrenting",
-    "source": "Ars Technica",
-    "summary": "Judge gave authors an easier attack on Meta\u2019s torrenting. Meta hopes SCOTUS ruling will block it.",
-    "url": "https://arstechnica.com/tech-policy/2026/03/meta-hopes-scotus-piracy-ruling-will-help-it-beat-lawsuit-over-torrenting-ai-data/",
-    "date": "2026-04-06"
-  },
-  {
-    "title": "With new plugins feature, OpenAI officially takes Codex beyond coding",
-    "source": "Ars Technica",
-    "summary": "Things are moving fast, and competitors have offered something similar for a while.",
-    "url": "https://arstechnica.com/ai/2026/03/openai-brings-plugins-to-codex-closing-some-of-the-gap-with-claude-code/",
     "date": "2026-04-06"
   }
 ]
