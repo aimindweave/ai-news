@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Blackholing My Email",
+    "title": "AI may be making us think and write more alike",
     "source": "Hacker News",
-    "description": "HN Score: 13 | 0 comments",
-    "url": "https://www.johnsto.co.uk/blog/blackholing-my-email/",
-    "score": 13,
+    "description": "HN Score: 99 | 82 comments",
+    "url": "https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/",
+    "score": 99,
     "date": "2026-04-07",
     "category": "AI News"
   },
@@ -25,11 +25,28 @@
     "category": "Twitter"
   },
   {
-    "title": "AI Won't Replace You, but a Manager Using AI Will",
+    "title": "Blackholing My Email",
     "source": "Hacker News",
-    "description": "HN Score: 3 | 0 comments",
-    "url": "https://yanivpreiss.com/2026/04/06/ai-wont-replace-you-but-a-manager-using-ai-will/",
-    "score": 3,
+    "description": "HN Score: 85 | 3 comments",
+    "url": "https://www.johnsto.co.uk/blog/blackholing-my-email/",
+    "score": 85,
+    "date": "2026-04-07",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: The JEPA vs GLP discussion is useful only if we can evaluate what actually matters. That\u2019s part of the motivation behind WR-Arena: a",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/mbzuai/status/2041410118785356049#m",
+    "date": "2026-04-07",
+    "category": "Twitter"
+  },
+  {
+    "title": "The best tools for sending an email if you go silent",
+    "source": "Hacker News",
+    "description": "HN Score: 6 | 1 comments",
+    "url": "https://blog.alcazarsec.com/posts/best-email-dead-mans-switches",
+    "score": 6,
     "date": "2026-04-07",
     "category": "AI News"
   },
@@ -44,26 +61,9 @@
   {
     "title": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
     "source": "Hacker News",
-    "description": "HN Score: 1133 | 624 comments",
+    "description": "HN Score: 1205 | 648 comments",
     "url": "https://github.com/anthropics/claude-code/issues/42796",
-    "score": 1133,
-    "date": "2026-04-07",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @EMostaque: The best agent is now open source. II-Agent is now live on GitHub. From a single prompt to a mobile app. From a research brief to an",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/ii_posts/status/2039711788992700491#m",
-    "date": "2026-04-07",
-    "category": "Twitter"
-  },
-  {
-    "title": "Launch HN: Freestyle \u2013 Sandboxes for Coding Agents",
-    "source": "Hacker News",
-    "description": "HN Score: 287 | 147 comments",
-    "url": "https://www.freestyle.sh/",
-    "score": 287,
+    "score": 1205,
     "date": "2026-04-07",
     "category": "AI News"
   },
@@ -76,28 +76,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: AdaShape-3D modeler for intuitive 3D printing parts / Windows 11",
+    "title": "Launch HN: Freestyle \u2013 Sandboxes for Coding Agents",
     "source": "Hacker News",
-    "description": "HN Score: 14 | 4 comments",
-    "url": "https://adashape.com",
-    "score": 14,
+    "description": "HN Score: 294 | 151 comments",
+    "url": "https://www.freestyle.sh/",
+    "score": 294,
     "date": "2026-04-07",
     "category": "AI News"
   },
   {
-    "title": "The power of the Claw, in the palm of a robot hand. Agentic robotics is here! Today, we open-source CaP-X: vibe agents, alive in the physical world. T",
+    "title": "R to @DrJimFan: As usual, we open-source everything, MIT license: https://capgym.github.io Code: https://github.com/capgym/cap-x Paper: https://arxiv.",
     "source": "@DrJimFan",
     "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2039358115318243352#m",
+    "url": "https://nitter.net/DrJimFan/status/2039360925606760690#m",
     "date": "2026-04-07",
     "category": "Twitter"
   },
   {
-    "title": "AI singer now occupies eleven spots on iTunes singles chart",
+    "title": "Show HN: AdaShape-3D modeler for intuitive 3D printing parts / Windows 11",
     "source": "Hacker News",
-    "description": "HN Score: 192 | 301 comments",
-    "url": "https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive",
-    "score": 192,
+    "description": "HN Score: 25 | 15 comments",
+    "url": "https://adashape.com",
+    "score": 25,
     "date": "2026-04-07",
     "category": "AI News"
   },
@@ -110,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Hippo, biologically inspired memory for AI agents",
+    "title": "AI singer now occupies eleven spots on iTunes singles chart",
     "source": "Hacker News",
-    "description": "HN Score: 103 | 22 comments",
-    "url": "https://github.com/kitfunso/hippo-memory",
-    "score": 103,
+    "description": "HN Score: 221 | 344 comments",
+    "url": "https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive",
+    "score": 221,
     "date": "2026-04-07",
     "category": "AI News"
   },
@@ -129,9 +129,9 @@
   {
     "title": "Anthropic expands partnership with Google and Broadcom for next-gen compute",
     "source": "Hacker News",
-    "description": "HN Score: 253 | 114 comments",
+    "description": "HN Score: 262 | 118 comments",
     "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
-    "score": 253,
+    "score": 262,
     "date": "2026-04-07",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "The team behind a pro-Iran, Lego-themed viral-video campaign",
+    "title": "Show HN: Hippo, biologically inspired memory for AI agents",
     "source": "Hacker News",
-    "description": "HN Score: 139 | 212 comments",
-    "url": "https://www.newyorker.com/culture/infinite-scroll/the-team-behind-a-pro-iran-lego-themed-viral-video-campaign",
-    "score": 139,
+    "description": "HN Score: 113 | 23 comments",
+    "url": "https://github.com/kitfunso/hippo-memory",
+    "score": 113,
     "date": "2026-04-07",
     "category": "AI News"
   },
@@ -159,14 +159,5 @@
     "url": "https://nitter.net/bindureddy/status/2041298966726521323#m",
     "date": "2026-04-07",
     "category": "Twitter"
-  },
-  {
-    "title": "Agent Reading Test",
-    "source": "Hacker News",
-    "description": "HN Score: 64 | 17 comments",
-    "url": "https://agentreadingtest.com",
-    "score": 64,
-    "date": "2026-04-07",
-    "category": "AI News"
   }
 ]
