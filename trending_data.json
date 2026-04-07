@@ -1,39 +1,5 @@
 [
   {
-    "title": "1\u30da\u30fc\u30b8\u76ee\u3067\u3061\u3083\u3093\u3068\u6253\u6483\u98df\u3089\u3063\u3066\u30ac\u30b3\u30f3\u3057\u3066\u308b\u306e\u3067 \u3042\u308c\u304c\u306a\u304b\u3063\u305f\u3089\u6469\u864e\u7f85\u653b\u7565\u3067\u304d\u3066\u305f\u304b\u3082\u3057\u308c\u3093",
-    "source": "@kaborobot",
-    "description": "",
-    "url": "https://nitter.net/kaborobot/status/2015735996248420451#m",
-    "date": "2026-04-07",
-    "category": "Twitter"
-  },
-  {
-    "title": "Project Glasswing: Securing critical software for the AI era",
-    "source": "Hacker News",
-    "description": "HN Score: 493 | 198 comments",
-    "url": "https://www.anthropic.com/glasswing",
-    "score": 493,
-    "date": "2026-04-07",
-    "category": "AI News"
-  },
-  {
-    "title": "\u30ec\u30bc\u304c\u300c\u79c1\u306b\u306f\u904e\u304e\u305f\u9858\u3044\u3060\u3063\u305f\u300d\u306a\u3093\u3066\u601d\u3063\u3066\u3044\u307e\u305b\u3093\u3088\u3046\u306b\u3068\u7948\u3063\u3066\u305f\u9023\u4f11\u3060\u3063\u305f",
-    "source": "@kaborobot",
-    "description": "",
-    "url": "https://nitter.net/kaborobot/status/1977673306670330109#m",
-    "date": "2026-04-07",
-    "category": "Twitter"
-  },
-  {
-    "title": "System Card: Claude Mythos Preview [pdf]",
-    "source": "Hacker News",
-    "description": "HN Score: 325 | 207 comments",
-    "url": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
-    "score": 325,
-    "date": "2026-04-07",
-    "category": "AI News"
-  },
-  {
     "title": "Frontier models will one shot just about anything few years Intelligence is compression Jevons law is more of a suggestion",
     "source": "@EMostaque",
     "description": "",
@@ -42,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "A truck driver spent 20 years making a scale model of every building in NYC",
+    "title": "Project Glasswing: Securing critical software for the AI era",
     "source": "Hacker News",
-    "description": "HN Score: 144 | 20 comments",
-    "url": "https://www.smithsonianmag.com/smart-news/a-truck-drive-spent-20-years-making-this-astonishing-scale-model-of-every-single-building-in-new-york-city-180988443/",
-    "score": 144,
+    "description": "HN Score: 703 | 300 comments",
+    "url": "https://www.anthropic.com/glasswing",
+    "score": 703,
     "date": "2026-04-07",
     "category": "AI News"
   },
@@ -59,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Assessing Claude Mythos Preview's cybersecurity capabilities",
+    "title": "System Card: Claude Mythos Preview [pdf]",
     "source": "Hacker News",
-    "description": "HN Score: 173 | 22 comments",
-    "url": "https://red.anthropic.com/2026/mythos-preview/",
-    "score": 173,
+    "description": "HN Score: 453 | 316 comments",
+    "url": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
+    "score": 453,
     "date": "2026-04-07",
     "category": "AI News"
   },
@@ -76,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Google open-sources experimental agent orchestration testbed Scion",
+    "title": "A truck driver spent 20 years making a scale model of every building in NYC",
     "source": "Hacker News",
-    "description": "HN Score: 114 | 38 comments",
-    "url": "https://www.infoq.com/news/2026/04/google-agent-testbed-scion/",
-    "score": 114,
+    "description": "HN Score: 205 | 32 comments",
+    "url": "https://www.smithsonianmag.com/smart-news/a-truck-drive-spent-20-years-making-this-astonishing-scale-model-of-every-single-building-in-new-york-city-180988443/",
+    "score": 205,
     "date": "2026-04-07",
     "category": "AI News"
   },
@@ -95,9 +61,9 @@
   {
     "title": "AI helps add 10k more photos to OldNYC",
     "source": "Hacker News",
-    "description": "HN Score: 85 | 28 comments",
+    "description": "HN Score: 103 | 36 comments",
     "url": "https://www.danvk.org/2026/03/08/oldnyc-updates.html",
-    "score": 85,
+    "score": 103,
     "date": "2026-04-07",
     "category": "AI News"
   },
@@ -110,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Taste in the age of AI and LLMs",
+    "title": "Google open-sources experimental agent orchestration testbed Scion",
     "source": "Hacker News",
-    "description": "HN Score: 180 | 163 comments",
-    "url": "https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/",
-    "score": 180,
+    "description": "HN Score: 133 | 43 comments",
+    "url": "https://www.infoq.com/news/2026/04/google-agent-testbed-scion/",
+    "score": 133,
     "date": "2026-04-07",
     "category": "AI News"
   },
@@ -127,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Cells for NetBSD: kernel-enforced, jail-like isolation",
+    "title": "Assessing Claude Mythos Preview's cybersecurity capabilities",
     "source": "Hacker News",
-    "description": "HN Score: 10 | 2 comments",
-    "url": "https://netbsd-cells.petermann-digital.de/",
-    "score": 10,
+    "description": "HN Score: 227 | 28 comments",
+    "url": "https://red.anthropic.com/2026/mythos-preview/",
+    "score": 227,
     "date": "2026-04-07",
     "category": "AI News"
   },
@@ -144,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Tailslayer: Library for reducing tail latency in RAM reads",
+    "title": "Cells for NetBSD: kernel-enforced, jail-like isolation",
     "source": "Hacker News",
-    "description": "HN Score: 17 | 2 comments",
-    "url": "https://github.com/LaurieWired/tailslayer",
-    "score": 17,
+    "description": "HN Score: 28 | 6 comments",
+    "url": "https://netbsd-cells.petermann-digital.de/",
+    "score": 28,
     "date": "2026-04-07",
     "category": "AI News"
   },
@@ -161,11 +127,29 @@
     "category": "Twitter"
   },
   {
+    "title": "Taste in the age of AI and LLMs",
+    "source": "Hacker News",
+    "description": "HN Score: 202 | 175 comments",
+    "url": "https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/",
+    "score": 202,
+    "date": "2026-04-07",
+    "category": "AI News"
+  },
+  {
+    "title": "Tailslayer: Library for reducing tail latency in RAM reads",
+    "source": "Hacker News",
+    "description": "HN Score: 38 | 11 comments",
+    "url": "https://github.com/LaurieWired/tailslayer",
+    "score": 38,
+    "date": "2026-04-07",
+    "category": "AI News"
+  },
+  {
     "title": "Emotion Concepts and Their Function in a Large Language Model",
     "source": "Hacker News",
-    "description": "HN Score: 46 | 5 comments",
+    "description": "HN Score: 51 | 8 comments",
     "url": "https://transformer-circuits.pub/2026/emotions/index.html",
-    "score": 46,
+    "score": 51,
     "date": "2026-04-07",
     "category": "AI News"
   }
