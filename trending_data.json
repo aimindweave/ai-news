@@ -1,39 +1,5 @@
 [
   {
-    "title": "1\u30da\u30fc\u30b8\u76ee\u3067\u3061\u3083\u3093\u3068\u6253\u6483\u98df\u3089\u3063\u3066\u30ac\u30b3\u30f3\u3057\u3066\u308b\u306e\u3067 \u3042\u308c\u304c\u306a\u304b\u3063\u305f\u3089\u6469\u864e\u7f85\u653b\u7565\u3067\u304d\u3066\u305f\u304b\u3082\u3057\u308c\u3093",
-    "source": "@kaborobot",
-    "description": "",
-    "url": "https://nitter.net/kaborobot/status/2015735996248420451#m",
-    "date": "2026-04-07",
-    "category": "Twitter"
-  },
-  {
-    "title": "AI may be making us think and write more alike",
-    "source": "Hacker News",
-    "description": "HN Score: 99 | 82 comments",
-    "url": "https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/",
-    "score": 99,
-    "date": "2026-04-07",
-    "category": "AI News"
-  },
-  {
-    "title": "\u30ec\u30bc\u304c\u300c\u79c1\u306b\u306f\u904e\u304e\u305f\u9858\u3044\u3060\u3063\u305f\u300d\u306a\u3093\u3066\u601d\u3063\u3066\u3044\u307e\u305b\u3093\u3088\u3046\u306b\u3068\u7948\u3063\u3066\u305f\u9023\u4f11\u3060\u3063\u305f",
-    "source": "@kaborobot",
-    "description": "",
-    "url": "https://nitter.net/kaborobot/status/1977673306670330109#m",
-    "date": "2026-04-07",
-    "category": "Twitter"
-  },
-  {
-    "title": "Blackholing My Email",
-    "source": "Hacker News",
-    "description": "HN Score: 85 | 3 comments",
-    "url": "https://www.johnsto.co.uk/blog/blackholing-my-email/",
-    "score": 85,
-    "date": "2026-04-07",
-    "category": "AI News"
-  },
-  {
     "title": "RT by @EMostaque: The JEPA vs GLP discussion is useful only if we can evaluate what actually matters. That\u2019s part of the motivation behind WR-Arena: a",
     "source": "@EMostaque",
     "description": "",
@@ -42,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "The best tools for sending an email if you go silent",
+    "title": "Claude Code is locking people out for hours",
     "source": "Hacker News",
-    "description": "HN Score: 6 | 1 comments",
-    "url": "https://blog.alcazarsec.com/posts/best-email-dead-mans-switches",
-    "score": 6,
+    "description": "HN Score: 30 | 11 comments",
+    "url": "https://github.com/anthropics/claude-code/issues/44257",
+    "score": 30,
     "date": "2026-04-07",
     "category": "AI News"
   },
@@ -59,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
+    "title": "Blackholing My Email",
     "source": "Hacker News",
-    "description": "HN Score: 1205 | 648 comments",
-    "url": "https://github.com/anthropics/claude-code/issues/42796",
-    "score": 1205,
+    "description": "HN Score: 113 | 8 comments",
+    "url": "https://www.johnsto.co.uk/blog/blackholing-my-email/",
+    "score": 113,
     "date": "2026-04-07",
     "category": "AI News"
   },
@@ -76,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Launch HN: Freestyle \u2013 Sandboxes for Coding Agents",
+    "title": "AI may be making us think and write more alike",
     "source": "Hacker News",
-    "description": "HN Score: 294 | 151 comments",
-    "url": "https://www.freestyle.sh/",
-    "score": 294,
+    "description": "HN Score: 145 | 140 comments",
+    "url": "https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/",
+    "score": 145,
     "date": "2026-04-07",
     "category": "AI News"
   },
@@ -93,45 +59,62 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: AdaShape-3D modeler for intuitive 3D printing parts / Windows 11",
+    "title": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
     "source": "Hacker News",
-    "description": "HN Score: 25 | 15 comments",
-    "url": "https://adashape.com",
-    "score": 25,
+    "description": "HN Score: 1241 | 680 comments",
+    "url": "https://github.com/anthropics/claude-code/issues/42796",
+    "score": 1241,
     "date": "2026-04-07",
     "category": "AI News"
   },
   {
-    "title": "RT by @svpino: People are now sharing skills, not code. The assumption is that code is cheap and personalized, while skills are the perfect abstractio",
+    "title": "R to @svpino: This is 10x better than simply trying to answer questions directly from an existing database. Context is everything, and that's exactly ",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2041188804300808291#m",
+    "url": "https://nitter.net/svpino/status/2041532756736573901#m",
+    "date": "2026-04-07",
+    "category": "Twitter"
+  },
+  {
+    "title": "Launch HN: Freestyle \u2013 Sandboxes for Coding Agents",
+    "source": "Hacker News",
+    "description": "HN Score: 300 | 151 comments",
+    "url": "https://www.freestyle.sh/",
+    "score": 300,
+    "date": "2026-04-07",
+    "category": "AI News"
+  },
+  {
+    "title": "Oh wow, you can now build a complete AI data analyst in under a couple of hours! 100% Open-source. It's a CLI that maps your database schema to contex",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2041532744208175291#m",
+    "date": "2026-04-07",
+    "category": "Twitter"
+  },
+  {
+    "title": "Claude is having another moment, again",
+    "source": "Hacker News",
+    "description": "HN Score: 7 | 0 comments",
+    "url": "https://downdetector.co.uk/status/claude-ai/",
+    "score": 7,
+    "date": "2026-04-07",
+    "category": "AI News"
+  },
+  {
+    "title": "The best way to make cheap models work is to have big models direct them Have an expensive model like GPT 5.4 or Opus write up a derailed spec Use Kim",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2041520568743444833#m",
     "date": "2026-04-07",
     "category": "Twitter"
   },
   {
     "title": "AI singer now occupies eleven spots on iTunes singles chart",
     "source": "Hacker News",
-    "description": "HN Score: 221 | 344 comments",
+    "description": "HN Score: 227 | 350 comments",
     "url": "https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive",
-    "score": 221,
-    "date": "2026-04-07",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: Nothing is more important than context. Nothing beats good context if you want consistent, reliable results from agents. If you give yo",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2041171599215534539#m",
-    "date": "2026-04-07",
-    "category": "Twitter"
-  },
-  {
-    "title": "Anthropic expands partnership with Google and Broadcom for next-gen compute",
-    "source": "Hacker News",
-    "description": "HN Score: 262 | 118 comments",
-    "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
-    "score": 262,
+    "score": 227,
     "date": "2026-04-07",
     "category": "AI News"
   },
@@ -144,20 +127,30 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Hippo, biologically inspired memory for AI agents",
+    "title": "Show HN: AdaShape-3D modeler for intuitive 3D printing parts / Windows 11",
     "source": "Hacker News",
-    "description": "HN Score: 113 | 23 comments",
-    "url": "https://github.com/kitfunso/hippo-memory",
-    "score": 113,
+    "description": "HN Score: 26 | 21 comments",
+    "url": "https://adashape.com",
+    "score": 26,
     "date": "2026-04-07",
     "category": "AI News"
   },
   {
-    "title": "The biggest winners of last week were open-source and cheaper models MiniMax 2.7 Qwen 3.6 GLM 5 - Kimi 2.5 Usage is going exponentially up on.... you ",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2041298966726521323#m",
+    "title": "Anthropic expands partnership with Google and Broadcom for next-gen compute",
+    "source": "Hacker News",
+    "description": "HN Score: 266 | 119 comments",
+    "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
+    "score": 266,
     "date": "2026-04-07",
-    "category": "Twitter"
+    "category": "AI News"
+  },
+  {
+    "title": "Show HN: Hippo, biologically inspired memory for AI agents",
+    "source": "Hacker News",
+    "description": "HN Score: 115 | 24 comments",
+    "url": "https://github.com/kitfunso/hippo-memory",
+    "score": 115,
+    "date": "2026-04-07",
+    "category": "AI News"
   }
 ]
