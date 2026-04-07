@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Netflix Void Model: Video Object and Interaction Deletion",
+    "title": "Launch HN: Freestyle \u2013 Sandboxes for Coding Agents",
     "source": "Hacker News",
-    "description": "HN Score: 78 | 9 comments",
-    "url": "https://github.com/Netflix/void-model",
-    "score": 78,
+    "description": "HN Score: 241 | 132 comments",
+    "url": "https://www.freestyle.sh/",
+    "score": 241,
     "date": "2026-04-07",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Launch HN: Freestyle \u2013 Sandboxes for Coding Agents",
+    "title": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
     "source": "Hacker News",
-    "description": "HN Score: 214 | 117 comments",
-    "url": "https://www.freestyle.sh/",
-    "score": 214,
+    "description": "HN Score: 914 | 521 comments",
+    "url": "https://github.com/anthropics/claude-code/issues/42796",
+    "score": 914,
     "date": "2026-04-07",
     "category": "AI News"
   },
@@ -44,9 +44,9 @@
   {
     "title": "Anthropic expands partnership with Google and Broadcom for next-gen compute",
     "source": "Hacker News",
-    "description": "HN Score: 162 | 77 comments",
+    "description": "HN Score: 206 | 93 comments",
     "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
-    "score": 162,
+    "score": 206,
     "date": "2026-04-07",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
+    "title": "Show HN: Hippo, biologically inspired memory for AI agents",
     "source": "Hacker News",
-    "description": "HN Score: 788 | 479 comments",
-    "url": "https://github.com/anthropics/claude-code/issues/42796",
-    "score": 788,
+    "description": "HN Score: 70 | 17 comments",
+    "url": "https://github.com/kitfunso/hippo-memory",
+    "score": 70,
     "date": "2026-04-07",
     "category": "AI News"
   },
@@ -76,50 +76,33 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Hippo, biologically inspired memory for AI agents",
-    "source": "Hacker News",
-    "description": "HN Score: 53 | 14 comments",
-    "url": "https://github.com/kitfunso/hippo-memory",
-    "score": 53,
-    "date": "2026-04-07",
-    "category": "AI News"
-  },
-  {
-    "title": "The power of the Claw, in the palm of a robot hand. Agentic robotics is here! Today, we open-source CaP-X: vibe agents, alive in the physical world. T",
-    "source": "@DrJimFan",
-    "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2039358115318243352#m",
-    "date": "2026-04-07",
-    "category": "Twitter"
-  },
-  {
     "title": "AI singer now occupies eleven spots on iTunes singles chart",
     "source": "Hacker News",
-    "description": "HN Score: 114 | 138 comments",
+    "description": "HN Score: 134 | 198 comments",
     "url": "https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive",
-    "score": 114,
+    "score": 134,
     "date": "2026-04-07",
     "category": "AI News"
   },
   {
-    "title": "RT by @svpino: I think this is a pretty good idea: Give people the ability to stitch together multiple steps into a workflow that's 10x more powerful ",
-    "source": "@svpino",
+    "title": "R to @DrJimFan: As usual, we open-source everything, MIT license: https://capgym.github.io Code: https://github.com/capgym/cap-x Paper: https://arxiv.",
+    "source": "@DrJimFan",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2041164873808425032#m",
+    "url": "https://nitter.net/DrJimFan/status/2039360925606760690#m",
     "date": "2026-04-07",
     "category": "Twitter"
   },
   {
     "title": "Agent Reading Test",
     "source": "Hacker News",
-    "description": "HN Score: 51 | 15 comments",
+    "description": "HN Score: 60 | 18 comments",
     "url": "https://agentreadingtest.com",
-    "score": 51,
+    "score": 60,
     "date": "2026-04-07",
     "category": "AI News"
   },
   {
-    "title": "People are now sharing skills, not code. The assumption is that code is cheap and personalized, while skills are the perfect abstraction for instructi",
+    "title": "RT by @svpino: People are now sharing skills, not code. The assumption is that code is cheap and personalized, while skills are the perfect abstractio",
     "source": "@svpino",
     "description": "",
     "url": "https://nitter.net/svpino/status/2041188804300808291#m",
@@ -129,9 +112,26 @@
   {
     "title": "The team behind a pro-Iran, Lego-themed viral-video campaign",
     "source": "Hacker News",
-    "description": "HN Score: 100 | 132 comments",
+    "description": "HN Score: 121 | 177 comments",
     "url": "https://www.newyorker.com/culture/infinite-scroll/the-team-behind-a-pro-iran-lego-themed-viral-video-campaign",
-    "score": 100,
+    "score": 121,
+    "date": "2026-04-07",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: Nothing is more important than context. Nothing beats good context if you want consistent, reliable results from agents. If you give yo",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2041171599215534539#m",
+    "date": "2026-04-07",
+    "category": "Twitter"
+  },
+  {
+    "title": "Show HN: I built a tiny LLM to demystify how language models work",
+    "source": "Hacker News",
+    "description": "HN Score: 857 | 127 comments",
+    "url": "https://github.com/arman-bd/guppylm",
+    "score": 857,
     "date": "2026-04-07",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "The back story behind the first '$1.8B' dollar 'AI Company'",
+    "title": "Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B",
     "source": "Hacker News",
-    "description": "HN Score: 41 | 8 comments",
-    "url": "https://garymarcus.substack.com/p/the-back-story-behind-the-first-18",
-    "score": 41,
+    "description": "HN Score: 269 | 31 comments",
+    "url": "https://github.com/fikrikarim/parlor",
+    "score": 269,
     "date": "2026-04-07",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: I built a tiny LLM to demystify how language models work",
+    "title": "Drop, formerly Massdrop, ends most collaborations and rebrands under Corsair",
     "source": "Hacker News",
-    "description": "HN Score: 845 | 126 comments",
-    "url": "https://github.com/arman-bd/guppylm",
-    "score": 845,
+    "description": "HN Score: 122 | 66 comments",
+    "url": "https://drop.com/",
+    "score": 122,
     "date": "2026-04-07",
     "category": "AI News"
   }
