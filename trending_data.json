@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Google open-sources experimental agent orchestration testbed Scion",
+    "title": "Project Glasswing: Securing critical software for the AI era",
     "source": "Hacker News",
-    "description": "HN Score: 36 | 4 comments",
-    "url": "https://www.infoq.com/news/2026/04/google-agent-testbed-scion/",
-    "score": 36,
+    "description": "HN Score: 203 | 63 comments",
+    "url": "https://www.anthropic.com/glasswing",
+    "score": 203,
     "date": "2026-04-07",
     "category": "AI News"
   },
@@ -25,11 +25,28 @@
     "category": "Twitter"
   },
   {
-    "title": "AI helps add 10k more photos to OldNYC",
+    "title": "System Card: Claude Mythos Preview [pdf]",
     "source": "Hacker News",
-    "description": "HN Score: 6 | 0 comments",
-    "url": "https://www.danvk.org/2026/03/08/oldnyc-updates.html",
-    "score": 6,
+    "description": "HN Score: 150 | 63 comments",
+    "url": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
+    "score": 150,
+    "date": "2026-04-07",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: Diffusion (stochastic SDE sampler): erratic Brownian trajectories zigzagging through noise. Flow Matching (deterministic ODE integra",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/mathemetica/status/2041506844783612094#m",
+    "date": "2026-04-07",
+    "category": "Twitter"
+  },
+  {
+    "title": "Assessing Claude Mythos Preview's cybersecurity capabilities",
+    "source": "Hacker News",
+    "description": "HN Score: 60 | 5 comments",
+    "url": "https://red.anthropic.com/2026/mythos-preview/",
+    "score": 60,
     "date": "2026-04-07",
     "category": "AI News"
   },
@@ -42,28 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Blackholing My Email",
+    "title": "AI helps add 10k more photos to OldNYC",
     "source": "Hacker News",
-    "description": "HN Score: 130 | 18 comments",
-    "url": "https://www.johnsto.co.uk/blog/blackholing-my-email/",
-    "score": 130,
-    "date": "2026-04-07",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @EMostaque: Mathematics. Functions. Dance.",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/TheMathFlow/status/2041135400237088918#m",
-    "date": "2026-04-07",
-    "category": "Twitter"
-  },
-  {
-    "title": "AI may be making us think and write more alike",
-    "source": "Hacker News",
-    "description": "HN Score: 188 | 185 comments",
-    "url": "https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/",
-    "score": 188,
+    "description": "HN Score: 62 | 14 comments",
+    "url": "https://www.danvk.org/2026/03/08/oldnyc-updates.html",
+    "score": 62,
     "date": "2026-04-07",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "An AI robot in my home",
+    "title": "A truck driver spent 20 years making a scale model of every building in NYC",
     "source": "Hacker News",
-    "description": "HN Score: 8 | 2 comments",
-    "url": "https://allevato.me/2026/04/07/an-ai-robot-in-my-home",
-    "score": 8,
+    "description": "HN Score: 38 | 2 comments",
+    "url": "https://www.smithsonianmag.com/smart-news/a-truck-drive-spent-20-years-making-this-astonishing-scale-model-of-every-single-building-in-new-york-city-180988443/",
+    "score": 38,
     "date": "2026-04-07",
     "category": "AI News"
   },
@@ -93,28 +93,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
+    "title": "Google open-sources experimental agent orchestration testbed Scion",
     "source": "Hacker News",
-    "description": "HN Score: 1260 | 699 comments",
-    "url": "https://github.com/anthropics/claude-code/issues/42796",
-    "score": 1260,
+    "description": "HN Score: 86 | 24 comments",
+    "url": "https://www.infoq.com/news/2026/04/google-agent-testbed-scion/",
+    "score": 86,
     "date": "2026-04-07",
     "category": "AI News"
   },
   {
-    "title": "Some of the things I like about this: 1. One-click deploy to Netlify 2. GitHub integration 3. Supabase integration 4. Built-in support for Stripe 5. B",
+    "title": "Writing code has never been the bottleneck. Knowing what to build is. This is a big, bold bet. Vibe coding takes care of the 'how,' but nobody is seri",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2041555665198383272#m",
+    "url": "https://nitter.net/svpino/status/2041589650993881207#m",
     "date": "2026-04-07",
     "category": "Twitter"
   },
   {
-    "title": "Launch HN: Freestyle \u2013 Sandboxes for Coding Agents",
+    "title": "Emotion Concepts and Their Function in a Large Language Model",
     "source": "Hacker News",
-    "description": "HN Score: 305 | 152 comments",
-    "url": "https://www.freestyle.sh/",
-    "score": 305,
+    "description": "HN Score: 36 | 0 comments",
+    "url": "https://transformer-circuits.pub/2026/emotions/index.html",
+    "score": 36,
     "date": "2026-04-07",
     "category": "AI News"
   },
@@ -127,11 +127,28 @@
     "category": "Twitter"
   },
   {
-    "title": "AI singer now occupies eleven spots on iTunes singles chart",
+    "title": "Blackholing My Email",
     "source": "Hacker News",
-    "description": "HN Score: 230 | 359 comments",
-    "url": "https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive",
-    "score": 230,
+    "description": "HN Score: 151 | 24 comments",
+    "url": "https://www.johnsto.co.uk/blog/blackholing-my-email/",
+    "score": 151,
+    "date": "2026-04-07",
+    "category": "AI News"
+  },
+  {
+    "title": "GLM 5.1 Is Out - Open Source Is On A Roll \ud83d\ude80\ud83d\ude80 We have seen adoption of small open source models EXPLODE....GLM 5.1 helps accelerate this even more Comi",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2041566630212403476#m",
+    "date": "2026-04-07",
+    "category": "Twitter"
+  },
+  {
+    "title": "AI may be making us think and write more alike",
+    "source": "Hacker News",
+    "description": "HN Score: 199 | 209 comments",
+    "url": "https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/",
+    "score": 199,
     "date": "2026-04-07",
     "category": "AI News"
   },
@@ -144,11 +161,12 @@
     "category": "Twitter"
   },
   {
-    "title": "Agent Swarms - A Master Agent will create, manage and modify worker agents to get huge projects done Entire SaaS apps with all the bells and whistles ",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2041321640806736004#m",
+    "title": "Launch HN: Freestyle \u2013 Sandboxes for Coding Agents",
+    "source": "Hacker News",
+    "description": "HN Score: 307 | 155 comments",
+    "url": "https://www.freestyle.sh/",
+    "score": 307,
     "date": "2026-04-07",
-    "category": "Twitter"
+    "category": "AI News"
   }
 ]

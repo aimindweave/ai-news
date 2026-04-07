@@ -1,5 +1,26 @@
 [
   {
+    "title": "Firmus, the \u2018Southgate\u2019 AI datacenter builder backed by Nvidia, hits $5.5B valuation",
+    "source": "TechCrunch",
+    "summary": "Nvidia-backed Asia AI data center provider Firmus has now raised $1.35 billion in six months.",
+    "url": "https://techcrunch.com/2026/04/07/firmus-the-southgate-ai-datacenter-builder-backed-by-nvidia-hits-5-5b-valuation/",
+    "date": "2026-04-07"
+  },
+  {
+    "title": "Intel signs on to Elon Musk\u2019s Terafab chips project",
+    "source": "TechCrunch",
+    "summary": "Intel will join SpaceX and Tesla in an effort to build a new U.S. semiconductor factory in Texas, although the scope of its contributions are unclear.",
+    "url": "https://techcrunch.com/2026/04/07/intel-signs-on-to-elon-musks-terafab-chips-project/",
+    "date": "2026-04-07"
+  },
+  {
+    "title": "Anthropic debuts preview of powerful new AI model Mythos in new cybersecurity initiative",
+    "source": "TechCrunch",
+    "summary": "The new model will be used by a small number of high-profile companies to engage in defensive cybersecurity work.",
+    "url": "https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/",
+    "date": "2026-04-07"
+  },
+  {
     "title": "Uber is the latest to be won over by Amazon\u2019s AI chips",
     "source": "TechCrunch",
     "summary": "Uber is expanding its AWS contract to run more of its ride-sharing features on Amazon's chips. This is a thumb-of-the nose at Oracle and Google.",
@@ -16,7 +37,7 @@
   {
     "title": "Google Maps can now write captions for your photos using AI",
     "source": "TechCrunch",
-    "summary": "Gemini can now create captions when users are looking to share a photo or video.",
+    "summary": "Google is rolling out new features to make it easier for users to contribute local knowledge to Maps. Most notably, Gemini can now create captions when users are looking to share a photo or video about a place.",
     "url": "https://techcrunch.com/2026/04/07/google-maps-can-now-write-captions-for-your-photos-using-ai/",
     "date": "2026-04-07"
   },
@@ -81,27 +102,6 @@
     "source": "TechCrunch",
     "summary": "Learn how to use Spotify, Canva, Figma, Expedia, and other apps directly in ChatGPT.",
     "url": "https://techcrunch.com/2026/04/06/how-to-use-chatgpt-apps-doordash-spotify-uber/",
-    "date": "2026-04-07"
-  },
-  {
-    "title": "Ticket savings of up to $500 this week for TechCrunch Disrupt 2026",
-    "source": "TechCrunch",
-    "summary": "Starting today, you have 5 days to save nearly $500 on your ticket to TechCrunch Disrupt 2026. This offer disappears Friday, April 10, at 11:59 p.m. PT. Register here to secure these low rates.",
-    "url": "https://techcrunch.com/2026/04/06/massive-ticket-savings-of-up-to-500-this-week-for-techcrunch-disrupt-2026/",
-    "date": "2026-04-07"
-  },
-  {
-    "title": "Spain\u2019s Xoople raises $130 million Series B to map the Earth for AI",
-    "source": "TechCrunch",
-    "summary": "The company is also announcing a deal with L3Harris to build the sensors for Xoople's spacecraft.",
-    "url": "https://techcrunch.com/2026/04/06/spains-xoople-raises-130-million-series-b-to-map-the-earth-for-ai/",
-    "date": "2026-04-07"
-  },
-  {
-    "title": "Copilot is \u2018for entertainment purposes only,\u2019 according to Microsoft\u2019s terms of use",
-    "source": "TechCrunch",
-    "summary": "AI skeptics aren\u2019t the only ones warning users not to unthinkingly trust models\u2019 outputs \u2014 that\u2019s what the AI companies say themselves in their terms of service.",
-    "url": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
     "date": "2026-04-07"
   },
   {
@@ -175,6 +175,13 @@
     "date": "2026-04-07"
   },
   {
+    "title": "Anthropic Teams Up With Its Rivals to Keep AI From Hacking Everything",
+    "source": "Wired",
+    "summary": "The AI lab's Project Glasswing will bring together Apple, Google, and more than 45 other organizations. They'll use the new Claude Mythos Preview model to test advancing AI cybersecurity capabilities.",
+    "url": "https://www.wired.com/story/anthropic-mythos-preview-project-glasswing/",
+    "date": "2026-04-07"
+  },
+  {
     "title": "The Ridiculously Nerdy Intel Bet That Could Rake in Billions",
     "source": "Wired",
     "summary": "Advanced chip packaging is suddenly at the center of the AI boom. Intel is going all in.",
@@ -238,14 +245,14 @@
     "date": "2026-04-07"
   },
   {
-    "title": "Anthropic Says That Claude Contains Its Own Kind of Emotions",
-    "source": "Wired",
-    "summary": "Researchers at the company found representations inside of Claude that perform functions similar to human feelings.",
-    "url": "https://www.wired.com/story/anthropic-claude-research-functional-emotions/",
+    "title": "Bluesky users are mastering the fine art of blaming everything on 'vibe coding'",
+    "source": "Ars Technica",
+    "summary": "Use of AI coding tools has become a convenient boogeyman for any tech issues.",
+    "url": "https://arstechnica.com/ai/2026/04/bluesky-users-are-mastering-the-fine-art-of-blaming-everything-on-vibe-coding/",
     "date": "2026-04-07"
   },
   {
-    "title": "Testing suggests Google's AI Overviews tells millions of lies per hour",
+    "title": "Testing suggests Google's AI Overviews tell millions of lies per hour",
     "source": "Ars Technica",
     "summary": "Is 90 percent accuracy good enough for a search robot?",
     "url": "https://arstechnica.com/google/2026/04/analysis-finds-google-ai-overviews-is-wrong-10-percent-of-the-time/",
@@ -266,7 +273,7 @@
     "date": "2026-04-07"
   },
   {
-    "title": "\u201cThe problem is Sam Altman\u201d: OpenAI Insiders don\u2019t trust CEO",
+    "title": "\u201cThe problem is Sam Altman\u201d: OpenAI insiders don\u2019t trust CEO",
     "source": "Ars Technica",
     "summary": "OpenAI brainstorms ways AI can benefit humanity in effort to counter bad vibes.",
     "url": "https://arstechnica.com/tech-policy/2026/04/the-problem-is-sam-altman-openai-insiders-dont-trust-ceo/",
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "Swiss finance minister filed a criminal complaint over Grok's 'defamation.'",
     "url": "https://arstechnica.com/tech-policy/2026/04/grok-degrades-women-with-vulgar-roasts-swiss-govt-officials-lawsuit-says/",
-    "date": "2026-04-07"
-  },
-  {
-    "title": "Running local models on Macs gets faster with Ollama's MLX support",
-    "source": "Ars Technica",
-    "summary": "Apple Silicon Macs get a performance boost thanks to better unified memory usage.",
-    "url": "https://arstechnica.com/apple/2026/03/running-local-models-on-macs-gets-faster-with-ollamas-mlx-support/",
     "date": "2026-04-07"
   }
 ]
