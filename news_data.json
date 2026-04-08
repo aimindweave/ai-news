@@ -1,5 +1,12 @@
 [
   {
+    "title": "Atlassian launches visual AI tools and third-party agents in Confluence",
+    "source": "TechCrunch",
+    "summary": "Confluence users can now create visual assets within the software in addition to new third-party agents working with Lovable, Replit, and Gamma.",
+    "url": "https://techcrunch.com/2026/04/08/atlassian-confluence-visual-ai-tools-agents/",
+    "date": "2026-04-08"
+  },
+  {
     "title": "Google quietly launched an AI dictation app that works offline",
     "source": "TechCrunch",
     "summary": "Google's new offline-first dictation app uses Gemma AI models to take on the apps like Wispr Flow.",
@@ -98,10 +105,10 @@
     "date": "2026-04-08"
   },
   {
-    "title": "Startup Battlefield 200 applications open: a chance for VC access, TechCrunch coverage, and $100K",
-    "source": "TechCrunch",
-    "summary": "Nominate your startup, or one you know that deserves the spotlight, and finish the process by applying. Selected 200 have a chance at VC access, TechCrunch coverage, and $100K for Startup Battlefield 200. Applications close on May 27.",
-    "url": "https://techcrunch.com/2026/04/06/startup-battlefield-200-applications-open-get-vc-access-techcrunch-coverage-and-100k/",
+    "title": "The Download: water threats in Iran and AI\u2019s impact on what entrepreneurs make",
+    "source": "MIT Tech Review",
+    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Desalination plants in the Middle East are increasingly vulnerable As the conflict in Iran has escalated, a crucial resource is under fire: the desalinization ...",
+    "url": "https://www.technologyreview.com/2026/04/08/1135405/the-download-water-threats-iran-ais-impact-on-entrepreneurs-make/",
     "date": "2026-04-08"
   },
   {
@@ -165,13 +172,6 @@
     "source": "MIT Tech Review",
     "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. The gig workers who are training humanoid robots at home When Zeus, a medical student in Nigeria, returns to his apartment from a long day at the hospital, he ...",
     "url": "https://www.technologyreview.com/2026/04/01/1134993/the-download-gig-workers-training-humanoids-better-ai-benchmarks/",
-    "date": "2026-04-08"
-  },
-  {
-    "title": "The gig workers who are training humanoid robots at home",
-    "source": "MIT Tech Review",
-    "summary": "When Zeus, a medical student living in a hilltop city in central Nigeria, returns to his studio apartment from a long day at the hospital, he turns on his ring light, straps his iPhone to his forehead, and starts recording himself. He raises his hands in front of him like a sleepwalker and puts a",
-    "url": "https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/",
     "date": "2026-04-08"
   },
   {
@@ -242,6 +242,13 @@
     "source": "Wired",
     "summary": "As Cursor launches the next generation of its product, the AI coding startup has to compete with OpenAI and Anthropic more directly than ever.",
     "url": "https://www.wired.com/story/cusor-launches-coding-agent-openai-anthropic/",
+    "date": "2026-04-08"
+  },
+  {
+    "title": "Anthropic limits access to Mythos, its new cybersecurity AI model",
+    "source": "Ars Technica",
+    "summary": "A select group of customers is testing the Claude Mythos Preview.",
+    "url": "https://arstechnica.com/ai/2026/04/anthropic-limits-access-to-mythos-its-new-cybersecurity-ai-model/",
     "date": "2026-04-08"
   },
   {
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "But the effort to stop the spread of leaked Claude Code client code is an uphill battle.",
     "url": "https://arstechnica.com/ai/2026/04/anthropic-says-its-leak-focused-dmca-effort-unintentionally-hit-legit-github-forks/",
-    "date": "2026-04-08"
-  },
-  {
-    "title": "Here's what that Claude Code source leak reveals about Anthropic's plans",
-    "source": "Ars Technica",
-    "summary": "A persistent agent, stealth 'Undercover' mode, and... a virtual assistant named Buddy?",
-    "url": "https://arstechnica.com/ai/2026/04/heres-what-that-claude-code-source-leak-reveals-about-anthropics-plans/",
     "date": "2026-04-08"
   }
 ]

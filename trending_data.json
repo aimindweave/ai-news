@@ -1,5 +1,39 @@
 [
   {
+    "title": "1\u30da\u30fc\u30b8\u76ee\u3067\u3061\u3083\u3093\u3068\u6253\u6483\u98df\u3089\u3063\u3066\u30ac\u30b3\u30f3\u3057\u3066\u308b\u306e\u3067 \u3042\u308c\u304c\u306a\u304b\u3063\u305f\u3089\u6469\u864e\u7f85\u653b\u7565\u3067\u304d\u3066\u305f\u304b\u3082\u3057\u308c\u3093",
+    "source": "@kaborobot",
+    "description": "",
+    "url": "https://nitter.net/kaborobot/status/2015735996248420451#m",
+    "date": "2026-04-08",
+    "category": "Twitter"
+  },
+  {
+    "title": "MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU",
+    "source": "Hacker News",
+    "description": "HN Score: 48 | 8 comments",
+    "url": "https://arxiv.org/abs/2604.05091",
+    "score": 48,
+    "date": "2026-04-08",
+    "category": "AI News"
+  },
+  {
+    "title": "\u30ec\u30bc\u304c\u300c\u79c1\u306b\u306f\u904e\u304e\u305f\u9858\u3044\u3060\u3063\u305f\u300d\u306a\u3093\u3066\u601d\u3063\u3066\u3044\u307e\u305b\u3093\u3088\u3046\u306b\u3068\u7948\u3063\u3066\u305f\u9023\u4f11\u3060\u3063\u305f",
+    "source": "@kaborobot",
+    "description": "",
+    "url": "https://nitter.net/kaborobot/status/1977673306670330109#m",
+    "date": "2026-04-08",
+    "category": "Twitter"
+  },
+  {
+    "title": "Project Glasswing: Securing critical software for the AI era",
+    "source": "Hacker News",
+    "description": "HN Score: 1376 | 700 comments",
+    "url": "https://www.anthropic.com/glasswing",
+    "score": 1376,
+    "date": "2026-04-08",
+    "category": "AI News"
+  },
+  {
     "title": "R to @EMostaque: jk tbh opus code >>> than anything I could write",
     "source": "@EMostaque",
     "description": "",
@@ -8,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Project Glasswing: Securing critical software for the AI era",
+    "title": "System Card: Claude Mythos Preview [pdf]",
     "source": "Hacker News",
-    "description": "HN Score: 1315 | 654 comments",
-    "url": "https://www.anthropic.com/glasswing",
-    "score": 1315,
+    "description": "HN Score: 758 | 553 comments",
+    "url": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
+    "score": 758,
     "date": "2026-04-08",
     "category": "AI News"
   },
@@ -25,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "System Card: Claude Mythos Preview [pdf]",
+    "title": "A truck driver spent 20 years making a scale model of every building in NYC",
     "source": "Hacker News",
-    "description": "HN Score: 715 | 513 comments",
-    "url": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
-    "score": 715,
+    "description": "HN Score: 366 | 61 comments",
+    "url": "https://www.smithsonianmag.com/smart-news/a-truck-drive-spent-20-years-making-this-astonishing-scale-model-of-every-single-building-in-new-york-city-180988443/",
+    "score": 366,
     "date": "2026-04-08",
     "category": "AI News"
   },
@@ -42,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "A truck driver spent 20 years making a scale model of every building in NYC",
+    "title": "Struggle Against the Gods",
     "source": "Hacker News",
-    "description": "HN Score: 340 | 55 comments",
-    "url": "https://www.smithsonianmag.com/smart-news/a-truck-drive-spent-20-years-making-this-astonishing-scale-model-of-every-single-building-in-new-york-city-180988443/",
-    "score": 340,
+    "description": "HN Score: 44 | 7 comments",
+    "url": "https://firstthings.com/struggle-against-the-gods/",
+    "score": 44,
     "date": "2026-04-08",
     "category": "AI News"
   },
@@ -61,11 +95,19 @@
   {
     "title": "Google open-sources experimental agent orchestration testbed Scion",
     "source": "Hacker News",
-    "description": "HN Score: 210 | 54 comments",
+    "description": "HN Score: 220 | 55 comments",
     "url": "https://www.infoq.com/news/2026/04/google-agent-testbed-scion/",
-    "score": 210,
+    "score": 220,
     "date": "2026-04-08",
     "category": "AI News"
+  },
+  {
+    "title": "I also built a model that\u2019s so smart and dangerous that I will never be able to show you or let you use it. But I have it. I built it. It\u2019s running on",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2041846967743950913#m",
+    "date": "2026-04-08",
+    "category": "Twitter"
   },
   {
     "title": "RT by @svpino: This is the BEST Deepfake detection model in the world: 98.9% accuracy on @huggingface's arena. 120x cheaper than everything else I've ",
@@ -76,53 +118,18 @@
     "category": "Twitter"
   },
   {
-    "title": "AI helps add 10k more photos to OldNYC",
-    "source": "Hacker News",
-    "description": "HN Score: 133 | 45 comments",
-    "url": "https://www.danvk.org/2026/03/08/oldnyc-updates.html",
-    "score": 133,
-    "date": "2026-04-08",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: Writing code has never been the bottleneck. Knowing what to build is. This is a big, bold bet. Vibe coding takes care of the 'how,' but",
-    "source": "@svpino",
+    "title": "Our ops team has switched to GPT 5.4 for ops and coding tasks It\u2019s just way better for ops, SRE and cloud configuration issues Likely because it\u2019s jus",
+    "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2041589650993881207#m",
+    "url": "https://nitter.net/bindureddy/status/2041848598061838612#m",
     "date": "2026-04-08",
     "category": "Twitter"
-  },
-  {
-    "title": "Assessing Claude Mythos Preview's cybersecurity capabilities",
-    "source": "Hacker News",
-    "description": "HN Score: 286 | 42 comments",
-    "url": "https://red.anthropic.com/2026/mythos-preview/",
-    "score": 286,
-    "date": "2026-04-08",
-    "category": "AI News"
   },
   {
     "title": "There is a big model smell in the air....\ud83c\udf89 I suspect this will become generally available way before Mytho and is comparable",
     "source": "@bindureddy",
     "description": "",
     "url": "https://nitter.net/bindureddy/status/2041699611640000573#m",
-    "date": "2026-04-08",
-    "category": "Twitter"
-  },
-  {
-    "title": "Taste in the age of AI and LLMs",
-    "source": "Hacker News",
-    "description": "HN Score: 247 | 195 comments",
-    "url": "https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/",
-    "score": 247,
-    "date": "2026-04-08",
-    "category": "AI News"
-  },
-  {
-    "title": "There is a sharp uptick in DeepSeek v4 rumors. It will launch in the new few days The only other large model that may launch in the coming weeks is Op",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2041601224064335927#m",
     "date": "2026-04-08",
     "category": "Twitter"
   }
