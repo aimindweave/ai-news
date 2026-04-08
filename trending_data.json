@@ -10,9 +10,9 @@
   {
     "title": "Project Glasswing: Securing critical software for the AI era",
     "source": "Hacker News",
-    "description": "HN Score: 955 | 425 comments",
+    "description": "HN Score: 1100 | 511 comments",
     "url": "https://www.anthropic.com/glasswing",
-    "score": 955,
+    "score": 1100,
     "date": "2026-04-08",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "OpenAI says its new model GPT-2 is too dangerous to release (2019)",
+    "title": "System Card: Claude Mythos Preview [pdf]",
     "source": "Hacker News",
-    "description": "HN Score: 14 | 1 comments",
-    "url": "https://slate.com/technology/2019/02/openai-gpt2-text-generating-algorithm-ai-dangerous.html",
-    "score": 14,
+    "description": "HN Score: 625 | 448 comments",
+    "url": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
+    "score": 625,
     "date": "2026-04-08",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "System Card: Claude Mythos Preview [pdf]",
+    "title": "A truck driver spent 20 years making a scale model of every building in NYC",
     "source": "Hacker News",
-    "description": "HN Score: 556 | 407 comments",
-    "url": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
-    "score": 556,
+    "description": "HN Score: 295 | 47 comments",
+    "url": "https://www.smithsonianmag.com/smart-news/a-truck-drive-spent-20-years-making-this-astonishing-scale-model-of-every-single-building-in-new-york-city-180988443/",
+    "score": 295,
     "date": "2026-04-08",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "A truck driver spent 20 years making a scale model of every building in NYC",
+    "title": "LLM scraper bots are overloading acme.com's HTTPS server",
     "source": "Hacker News",
-    "description": "HN Score: 260 | 43 comments",
-    "url": "https://www.smithsonianmag.com/smart-news/a-truck-drive-spent-20-years-making-this-astonishing-scale-model-of-every-single-building-in-new-york-city-180988443/",
-    "score": 260,
+    "description": "HN Score: 29 | 24 comments",
+    "url": "http://acme.com/updates/archive/229.html",
+    "score": 29,
     "date": "2026-04-08",
     "category": "AI News"
   },
@@ -78,9 +78,9 @@
   {
     "title": "Google open-sources experimental agent orchestration testbed Scion",
     "source": "Hacker News",
-    "description": "HN Score: 163 | 46 comments",
+    "description": "HN Score: 179 | 48 comments",
     "url": "https://www.infoq.com/news/2026/04/google-agent-testbed-scion/",
-    "score": 163,
+    "score": 179,
     "date": "2026-04-08",
     "category": "AI News"
   },
@@ -95,9 +95,26 @@
   {
     "title": "AI helps add 10k more photos to OldNYC",
     "source": "Hacker News",
-    "description": "HN Score: 124 | 41 comments",
+    "description": "HN Score: 128 | 44 comments",
     "url": "https://www.danvk.org/2026/03/08/oldnyc-updates.html",
-    "score": 124,
+    "score": 128,
+    "date": "2026-04-08",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: Oh wow, you can now build a complete AI data analyst in under a couple of hours! 100% Open-source. It's a CLI that maps your database s",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2041532744208175291#m",
+    "date": "2026-04-08",
+    "category": "Twitter"
+  },
+  {
+    "title": "Taste in the age of AI and LLMs",
+    "source": "Hacker News",
+    "description": "HN Score: 233 | 192 comments",
+    "url": "https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/",
+    "score": 233,
     "date": "2026-04-08",
     "category": "AI News"
   },
@@ -112,26 +129,9 @@
   {
     "title": "Assessing Claude Mythos Preview's cybersecurity capabilities",
     "source": "Hacker News",
-    "description": "HN Score: 265 | 38 comments",
+    "description": "HN Score: 277 | 40 comments",
     "url": "https://red.anthropic.com/2026/mythos-preview/",
-    "score": 265,
-    "date": "2026-04-08",
-    "category": "AI News"
-  },
-  {
-    "title": "R to @svpino: There's an API, the first 1000 credits are free, and they're stress-testing it publicly on X right now. It's an open challenge where peo",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2041598160565637472#m",
-    "date": "2026-04-08",
-    "category": "Twitter"
-  },
-  {
-    "title": "Taste in the age of AI and LLMs",
-    "source": "Hacker News",
-    "description": "HN Score: 222 | 185 comments",
-    "url": "https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/",
-    "score": 222,
+    "score": 277,
     "date": "2026-04-08",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "AI Assistance Reduces Persistence and Hurts Independent Performance",
+    "title": "OpenAI says its new model GPT-2 is too dangerous to release (2019)",
     "source": "Hacker News",
-    "description": "HN Score: 7 | 1 comments",
-    "url": "https://arxiv.org/abs/2604.04721",
-    "score": 7,
+    "description": "HN Score: 271 | 80 comments",
+    "url": "https://slate.com/technology/2019/02/openai-gpt2-text-generating-algorithm-ai-dangerous.html",
+    "score": 271,
     "date": "2026-04-08",
     "category": "AI News"
   },
@@ -163,9 +163,9 @@
   {
     "title": "Cells for NetBSD: kernel-enforced, jail-like isolation",
     "source": "Hacker News",
-    "description": "HN Score: 40 | 10 comments",
+    "description": "HN Score: 45 | 12 comments",
     "url": "https://netbsd-cells.petermann-digital.de/",
-    "score": 40,
+    "score": 45,
     "date": "2026-04-08",
     "category": "AI News"
   }
