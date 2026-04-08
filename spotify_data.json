@@ -94,6 +94,16 @@
   "episodes": [
     {
       "id": "a]6z Pod_0",
+      "name": "The Agent Era: Building Software Beyond Chat with Box CEO Aaron Levie",
+      "show": "a]6z Podcast",
+      "description": "Erik Torenberg, Steve Sinofsky, and Martin Casado speak to Aaron Levie, CEO at Box, about what happens to enterprise software when agents become the primary users. They discuss why coding agents su",
+      "release_date": "2026-04-08",
+      "duration_min": 59,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
+      "id": "a]6z Pod_1",
       "name": "Balaji on Why AI Raises the Cost of Verification",
       "show": "a]6z Podcast",
       "description": "a16z general partner Erik Torenberg speaks with Balaji Srinivasan, angel investor and entrepreneur, about why AI simultaneously reduces the cost of creation and increases the cost of verification, ",
@@ -103,7 +113,7 @@
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "Peter Yang on Small Teams, Coding Agents, and Why Human Ambition Has No Ceiling",
       "show": "a]6z Podcast",
       "description": "Anish Acharya speaks with Peter Yang, creator and product lead at Roblox, about how personal AI agents are replacing the apps we open every day, why coding agents feel like slot machines, and what ",
@@ -121,16 +131,6 @@
       "duration_min": 69,
       "image": "",
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
-    },
-    {
-      "id": "a]6z Pod_2",
-      "name": "Marc Andreessen on AI Winters and Agent Breakthroughs",
-      "show": "a]6z Podcast",
-      "description": "This episode originally aired on the Latent Space Podcast. swyx and Alessio Fanelli speak with Marc Andreessen about the arc of AI from its origins in 1943 to today's breakthroughs in reasoning, co",
-      "release_date": "2026-04-03",
-      "duration_min": 77,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
       "id": "Practica_0",
