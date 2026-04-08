@@ -10,9 +10,9 @@
   {
     "title": "Project Glasswing: Securing critical software for the AI era",
     "source": "Hacker News",
-    "description": "HN Score: 1100 | 511 comments",
+    "description": "HN Score: 1209 | 581 comments",
     "url": "https://www.anthropic.com/glasswing",
-    "score": 1100,
+    "score": 1209,
     "date": "2026-04-08",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "System Card: Claude Mythos Preview [pdf]",
     "source": "Hacker News",
-    "description": "HN Score: 625 | 448 comments",
+    "description": "HN Score: 654 | 469 comments",
     "url": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
-    "score": 625,
+    "score": 654,
     "date": "2026-04-08",
     "category": "AI News"
   },
@@ -44,9 +44,9 @@
   {
     "title": "A truck driver spent 20 years making a scale model of every building in NYC",
     "source": "Hacker News",
-    "description": "HN Score: 295 | 47 comments",
+    "description": "HN Score: 314 | 49 comments",
     "url": "https://www.smithsonianmag.com/smart-news/a-truck-drive-spent-20-years-making-this-astonishing-scale-model-of-every-single-building-in-new-york-city-180988443/",
-    "score": 295,
+    "score": 314,
     "date": "2026-04-08",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "LLM scraper bots are overloading acme.com's HTTPS server",
+    "title": "We moved Railway's frontend off Next.js. Builds went from 10+ mins to under two",
     "source": "Hacker News",
-    "description": "HN Score: 29 | 24 comments",
-    "url": "http://acme.com/updates/archive/229.html",
-    "score": 29,
+    "description": "HN Score: 7 | 0 comments",
+    "url": "https://blog.railway.com/p/moving-railways-frontend-off-nextjs",
+    "score": 7,
     "date": "2026-04-08",
     "category": "AI News"
   },
@@ -78,9 +78,9 @@
   {
     "title": "Google open-sources experimental agent orchestration testbed Scion",
     "source": "Hacker News",
-    "description": "HN Score: 179 | 48 comments",
+    "description": "HN Score: 190 | 50 comments",
     "url": "https://www.infoq.com/news/2026/04/google-agent-testbed-scion/",
-    "score": 179,
+    "score": 190,
     "date": "2026-04-08",
     "category": "AI News"
   },
@@ -95,43 +95,43 @@
   {
     "title": "AI helps add 10k more photos to OldNYC",
     "source": "Hacker News",
-    "description": "HN Score: 128 | 44 comments",
+    "description": "HN Score: 132 | 45 comments",
     "url": "https://www.danvk.org/2026/03/08/oldnyc-updates.html",
-    "score": 128,
+    "score": 132,
     "date": "2026-04-08",
     "category": "AI News"
   },
   {
-    "title": "RT by @svpino: Oh wow, you can now build a complete AI data analyst in under a couple of hours! 100% Open-source. It's a CLI that maps your database s",
+    "title": "RT by @svpino: This is the BEST Deepfake detection model in the world: 98.9% accuracy on @huggingface's arena. 120x cheaper than everything else I've ",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2041532744208175291#m",
-    "date": "2026-04-08",
-    "category": "Twitter"
-  },
-  {
-    "title": "Taste in the age of AI and LLMs",
-    "source": "Hacker News",
-    "description": "HN Score: 233 | 192 comments",
-    "url": "https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/",
-    "score": 233,
-    "date": "2026-04-08",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: Remember, kids: ALWAYS USE PROTECTION! This video is genius (more companies should do this!) Please, please, DO NOT hand your passwords",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2041519111688376596#m",
+    "url": "https://nitter.net/svpino/status/2041598148087574671#m",
     "date": "2026-04-08",
     "category": "Twitter"
   },
   {
     "title": "Assessing Claude Mythos Preview's cybersecurity capabilities",
     "source": "Hacker News",
-    "description": "HN Score: 277 | 40 comments",
+    "description": "HN Score: 281 | 41 comments",
     "url": "https://red.anthropic.com/2026/mythos-preview/",
-    "score": 277,
+    "score": 281,
+    "date": "2026-04-08",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: Writing code has never been the bottleneck. Knowing what to build is. This is a big, bold bet. Vibe coding takes care of the 'how,' but",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2041589650993881207#m",
+    "date": "2026-04-08",
+    "category": "Twitter"
+  },
+  {
+    "title": "Taste in the age of AI and LLMs",
+    "source": "Hacker News",
+    "description": "HN Score: 239 | 194 comments",
+    "url": "https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/",
+    "score": 239,
     "date": "2026-04-08",
     "category": "AI News"
   },
@@ -144,29 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "OpenAI says its new model GPT-2 is too dangerous to release (2019)",
-    "source": "Hacker News",
-    "description": "HN Score: 271 | 80 comments",
-    "url": "https://slate.com/technology/2019/02/openai-gpt2-text-generating-algorithm-ai-dangerous.html",
-    "score": 271,
-    "date": "2026-04-08",
-    "category": "AI News"
-  },
-  {
     "title": "There is a sharp uptick in DeepSeek v4 rumors. It will launch in the new few days The only other large model that may launch in the coming weeks is Op",
     "source": "@bindureddy",
     "description": "",
     "url": "https://nitter.net/bindureddy/status/2041601224064335927#m",
     "date": "2026-04-08",
     "category": "Twitter"
-  },
-  {
-    "title": "Cells for NetBSD: kernel-enforced, jail-like isolation",
-    "source": "Hacker News",
-    "description": "HN Score: 45 | 12 comments",
-    "url": "https://netbsd-cells.petermann-digital.de/",
-    "score": 45,
-    "date": "2026-04-08",
-    "category": "AI News"
   }
 ]
