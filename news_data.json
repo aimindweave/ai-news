@@ -1,5 +1,12 @@
 [
   {
+    "title": "AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict",
+    "source": "TechCrunch",
+    "summary": "AWS has an ingrained culture of handling coopetition, he explained, because the cloud giant also competes with its partners.",
+    "url": "https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/",
+    "date": "2026-04-08"
+  },
+  {
     "title": "Tubi is the first streamer to launch a native app within ChatGPT",
     "source": "TechCrunch",
     "summary": "Tubi becomes the first streaming service to offer an app integration within ChatGPT, the AI chatbot that millions of users turn to for answers.",
@@ -98,13 +105,6 @@
     "date": "2026-04-08"
   },
   {
-    "title": "4 days left to save close to $500 on TechCrunch Disrupt 2026 passes",
-    "source": "TechCrunch",
-    "summary": "Four days left to save up to $482 on your TechCrunch Disrupt 2026 ticket. These low rates will disappear on April 10 at 11:59 p.m. PT. Register now.",
-    "url": "https://techcrunch.com/2026/04/07/4-days-left-to-save-close-to-500-on-techcrunch-disrupt-2026-passes/",
-    "date": "2026-04-08"
-  },
-  {
     "title": "Mustafa Suleyman: AI development won\u2019t hit a wall anytime soon\u2014here\u2019s why",
     "source": "MIT Tech Review",
     "summary": "We evolved for a linear world. If you walk for an hour, you cover a certain distance. Walk for two hours and you cover double that distance. This intuition served us well on the savannah. But it catastrophically fails when confronting AI and the core exponential trends at its heart. From the time...",
@@ -175,7 +175,7 @@
     "date": "2026-04-08"
   },
   {
-    "title": "Meta's New AI Model Gives Mark Zuckerberg a Seat at the Big Kid's Table",
+    "title": "Meta\u2019s New AI Model Gives Mark Zuckerberg a Seat at the Big Kid\u2019s Table",
     "source": "Wired",
     "summary": "Muse Spark is Meta\u2019s first model since its AI reboot, and the benchmarks suggest formidable performance.",
     "url": "https://www.wired.com/story/muse-spark-meta-open-source-closed-source/",
@@ -242,6 +242,13 @@
     "source": "Wired",
     "summary": "The new crop of portable jump starters means you'll never be stuck waiting on a tow. Here are the devices we'd trust.",
     "url": "https://www.wired.com/story/best-portable-jump-starters/",
+    "date": "2026-04-08"
+  },
+  {
+    "title": "Meta's Superintelligence Lab unveils its first public model, Muse Spark",
+    "source": "Ars Technica",
+    "summary": "Meta touts strong benchmarks but admits 'performance gaps' in agentic and coding systems.",
+    "url": "https://arstechnica.com/ai/2026/04/metas-superintelligence-lab-unveils-its-first-public-model-muse-spark/",
     "date": "2026-04-08"
   },
   {
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "Google Vids brings together Google's most capable AI creation tools.",
     "url": "https://arstechnica.com/ai/2026/04/google-vids-gets-ai-upgrade-with-veo-and-lyria-models-directable-ai-avatars/",
-    "date": "2026-04-08"
-  },
-  {
-    "title": "Google announces Gemma 4 open AI models, switches to Apache 2.0 license",
-    "source": "Ars Technica",
-    "summary": "Gemma 4 brings the first major update to Google's open models in a year.",
-    "url": "https://arstechnica.com/ai/2026/04/google-announces-gemma-4-open-ai-models-switches-to-apache-2-0-license/",
     "date": "2026-04-08"
   }
 ]
