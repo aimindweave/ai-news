@@ -1,5 +1,12 @@
 [
   {
+    "title": "Tubi is the first streamer to launch a native app within ChatGPT",
+    "source": "TechCrunch",
+    "summary": "Tubi becomes the first streaming service to offer an app integration within ChatGPT, the AI chatbot that millions of users turn to for answers.",
+    "url": "https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/",
+    "date": "2026-04-08"
+  },
+  {
     "title": "Astropad\u2019s Workbench reimagines remote desktop for AI agents, not IT support",
     "source": "TechCrunch",
     "summary": "Astropad\u2019s Workbench lets users remotely monitor and control AI agents on Mac Minis from iPhone or iPad, with low-latency streaming and mobile access.",
@@ -98,13 +105,6 @@
     "date": "2026-04-08"
   },
   {
-    "title": "The AI gold rush is pulling private wealth into riskier, earlier bets",
-    "source": "TechCrunch",
-    "summary": "On a recent episode of Equity, we talked to Arena Private Wealth to explore a growing trend: family offices bypassing VCs to gain direct exposure to AI startups, turning them from passive investors into active participants.",
-    "url": "https://techcrunch.com/2026/04/07/the-ai-gold-rush-is-pulling-private-wealth-into-riskier-earlier-bets/",
-    "date": "2026-04-08"
-  },
-  {
     "title": "Mustafa Suleyman: AI development won\u2019t hit a wall anytime soon\u2014here\u2019s why",
     "source": "MIT Tech Review",
     "summary": "We evolved for a linear world. If you walk for an hour, you cover a certain distance. Walk for two hours and you cover double that distance. This intuition served us well on the savannah. But it catastrophically fails when confronting AI and the core exponential trends at its heart. From the time...",
@@ -175,6 +175,27 @@
     "date": "2026-04-08"
   },
   {
+    "title": "Meta's New AI Model Gives Mark Zuckerberg a Seat at the Big Kid's Table",
+    "source": "Wired",
+    "summary": "Muse Spark is Meta\u2019s first model since its AI reboot, and the benchmarks suggest formidable performance.",
+    "url": "https://www.wired.com/story/muse-spark-meta-open-source-closed-source/",
+    "date": "2026-04-08"
+  },
+  {
+    "title": "The US Army Is Building Its Own Chatbot for Combat",
+    "source": "Wired",
+    "summary": "The AI system, trained on real military data, is meant to give soldiers mission-critical information.",
+    "url": "https://www.wired.com/story/army-developing-ai-system-victor-chatbot-soldiers/",
+    "date": "2026-04-08"
+  },
+  {
+    "title": "5 Burning Questions About Elon Musk\u2019s Terafab Chip Partnership with Intel",
+    "source": "Wired",
+    "summary": "Intel\u2019s role in Elon Musk\u2019s ambitious chip venture is still murky, raising questions about what the partnership actually entails\u2014and whether it can work at all.",
+    "url": "https://www.wired.com/story/5-burning-questions-about-elon-musks-terafab-chip-partnership-with-intel/",
+    "date": "2026-04-08"
+  },
+  {
     "title": "Anthropic\u2019s New Product Aims to Handle the Hard Part of Building AI Agents",
     "source": "Wired",
     "summary": "Amid rapid enterprise growth, Anthropic is trying to lower the barrier to entry for businesses to build AI agents with Claude.",
@@ -224,24 +245,10 @@
     "date": "2026-04-08"
   },
   {
-    "title": "\u2018Uncanny Valley\u2019: Iran\u2019s Threats on US Tech, Trump\u2019s Plans for Midterms, and Polymarket\u2019s Pop-up Flop",
-    "source": "Wired",
-    "summary": "In this episode, we discuss Iran\u2019s threats to target US tech firms, gear up for the midterm elections, and get a scene report from the Polymarket pop-up bar in DC.",
-    "url": "https://www.wired.com/story/uncanny-valley-podcast-iran-targets-us-tech-polymarket-pop-up-trump-midterms/",
-    "date": "2026-04-08"
-  },
-  {
-    "title": "OpenAI Acquires Tech Talk Show \u2018TBPN\u2019\u2014and Buys Itself Some Positive News",
-    "source": "Wired",
-    "summary": "OpenAI is acquiring TBPN, a business talk show that\u2019s popular among Silicon Valley elites, as it continues to battle its negative public image.",
-    "url": "https://www.wired.com/story/openai-acquires-tbpn-buys-positive-news-coverage/",
-    "date": "2026-04-08"
-  },
-  {
-    "title": "A New Google-Funded Data Center Will Be Powered by a Massive Gas Plant",
-    "source": "Wired",
-    "summary": "Documents show that one of Google\u2019s new data centers would be powered by a natural gas plant that emits millions of tons of emissions each year\u2014an increasingly common trend in the industry.",
-    "url": "https://www.wired.com/story/a-new-google-funded-data-center-will-be-powered-by-a-massive-gas-plant/",
+    "title": "To beat Altman in court, Musk offers to give all damages to OpenAI nonprofit",
+    "source": "Ars Technica",
+    "summary": "Musk won\u2019t seek a \u201csingle dollar\u201d in OpenAI suit after asking to pocket up to $134 billion.",
+    "url": "https://arstechnica.com/tech-policy/2026/04/to-beat-altman-in-court-musk-offers-to-give-all-damages-to-open-ai-nonprofit/",
     "date": "2026-04-08"
   },
   {
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "Gemma 4 brings the first major update to Google's open models in a year.",
     "url": "https://arstechnica.com/ai/2026/04/google-announces-gemma-4-open-ai-models-switches-to-apache-2-0-license/",
-    "date": "2026-04-08"
-  },
-  {
-    "title": "Anthropic says its leak-focused DMCA effort unintentionally hit legit GitHub forks",
-    "source": "Ars Technica",
-    "summary": "But the effort to stop the spread of leaked Claude Code client code is an uphill battle.",
-    "url": "https://arstechnica.com/ai/2026/04/anthropic-says-its-leak-focused-dmca-effort-unintentionally-hit-legit-github-forks/",
     "date": "2026-04-08"
   }
 ]

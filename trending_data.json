@@ -10,9 +10,9 @@
   {
     "title": "MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU",
     "source": "Hacker News",
-    "description": "HN Score: 161 | 35 comments",
+    "description": "HN Score: 212 | 41 comments",
     "url": "https://arxiv.org/abs/2604.05091",
-    "score": 161,
+    "score": 212,
     "date": "2026-04-08",
     "category": "AI News"
   },
@@ -25,45 +25,45 @@
     "category": "Twitter"
   },
   {
-    "title": "Project Glasswing: Securing critical software for the AI era",
+    "title": "I've been waiting over a month for Anthropic support to respond",
     "source": "Hacker News",
-    "description": "HN Score: 1455 | 760 comments",
-    "url": "https://www.anthropic.com/glasswing",
-    "score": 1455,
+    "description": "HN Score: 29 | 11 comments",
+    "url": "https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/",
+    "score": 29,
     "date": "2026-04-08",
     "category": "AI News"
   },
   {
-    "title": "Did Mythos leak Claude Code",
+    "title": "RT by @EMostaque: New post: We tested the Mythos showcase vulnerabilities with open models. They recovered similar scoped analysis! 8/8 models found t",
     "source": "@EMostaque",
     "description": "",
-    "url": "https://nitter.net/EMostaque/status/2041888538598252958#m",
-    "date": "2026-04-08",
-    "category": "Twitter"
-  },
-  {
-    "title": "We moved Railway's frontend off Next.js. Builds went from 10+ mins to under 2",
-    "source": "Hacker News",
-    "description": "HN Score: 92 | 72 comments",
-    "url": "https://blog.railway.com/p/moving-railways-frontend-off-nextjs",
-    "score": 92,
-    "date": "2026-04-08",
-    "category": "AI News"
-  },
-  {
-    "title": "pay for opus to write slop code pay for mythos to fix slop code",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/EMostaque/status/2041816213077028985#m",
+    "url": "https://nitter.net/stanislavfort/status/2041922370206654879#m",
     "date": "2026-04-08",
     "category": "Twitter"
   },
   {
     "title": "Show HN: TUI-use: Let AI agents control interactive terminal programs",
     "source": "Hacker News",
-    "description": "HN Score: 4 | 1 comments",
+    "description": "HN Score: 20 | 21 comments",
     "url": "https://github.com/onesuper/tui-use",
-    "score": 4,
+    "score": 20,
+    "date": "2026-04-08",
+    "category": "AI News"
+  },
+  {
+    "title": "R to @EMostaque: Started a Substack & will post X articles too! I think its a good thing to put out more policies for discussion & @WillManidis did a ",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/EMostaque/status/2041926183386861997#m",
+    "date": "2026-04-08",
+    "category": "Twitter"
+  },
+  {
+    "title": "One item purchased, ten emails",
+    "source": "Hacker News",
+    "description": "HN Score: 73 | 54 comments",
+    "url": "https://joshghent.com/online-shopping/",
+    "score": 73,
     "date": "2026-04-08",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: BAREmail \u0295\u00b7\u1d25\u00b7\u0294 \u2013 minimalist Gmail client for bad WiFi",
+    "title": "We moved Railway's frontend off Next.js. Builds went from 10+ mins to under 2",
     "source": "Hacker News",
-    "description": "HN Score: 21 | 15 comments",
-    "url": "https://github.com/matt-virgo/baremail",
-    "score": 21,
+    "description": "HN Score: 124 | 108 comments",
+    "url": "https://blog.railway.com/p/moving-railways-frontend-off-nextjs",
+    "score": 124,
     "date": "2026-04-08",
     "category": "AI News"
   },
@@ -93,71 +93,80 @@
     "category": "Twitter"
   },
   {
-    "title": "System Card: Claude Mythos Preview [pdf]",
+    "title": "Claude Managed Agents",
     "source": "Hacker News",
-    "description": "HN Score: 799 | 595 comments",
-    "url": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
-    "score": 799,
+    "description": "HN Score: 74 | 31 comments",
+    "url": "https://claude.com/blog/claude-managed-agents",
+    "score": 74,
     "date": "2026-04-08",
     "category": "AI News"
   },
   {
-    "title": "R to @svpino: Give yourself the ability to swap models without rewriting your entire workflows. In case you didn't know: Kilo Code is the most popular",
+    "title": "R to @svpino: Check out Architect, a system builder capable of building a multi-agent AI system from a simple use case description. It does what syste",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2041896518035370006#m",
+    "url": "https://nitter.net/svpino/status/2041957359124455730#m",
+    "date": "2026-04-08",
+    "category": "Twitter"
+  },
+  {
+    "title": "Show HN: BAREmail \u0295\u00b7\u1d25\u00b7\u0294 \u2013 minimalist Gmail client for bad WiFi",
+    "source": "Hacker News",
+    "description": "HN Score: 38 | 29 comments",
+    "url": "https://github.com/matt-virgo/baremail",
+    "score": 38,
+    "date": "2026-04-08",
+    "category": "AI News"
+  },
+  {
+    "title": "This is absolutely madness: A single prompt today can take you from an idea to a complete, working, and deployed AI system. With each passing day, bui",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2041957345727803711#m",
+    "date": "2026-04-08",
+    "category": "Twitter"
+  },
+  {
+    "title": "Project Glasswing: Securing critical software for the AI era",
+    "source": "Hacker News",
+    "description": "HN Score: 1466 | 782 comments",
+    "url": "https://www.anthropic.com/glasswing",
+    "score": 1466,
+    "date": "2026-04-08",
+    "category": "AI News"
+  },
+  {
+    "title": "Constantly Being Surprised By Grok 4.1 Fast It's an insanely good small model with an insanely good price We are moving to switch all our classifiers ",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2041941857723412810#m",
     "date": "2026-04-08",
     "category": "Twitter"
   },
   {
     "title": "Show HN: We fingerprinted 178 AI models' writing styles and similarity clusters",
     "source": "Hacker News",
-    "description": "HN Score: 62 | 16 comments",
+    "description": "HN Score: 67 | 20 comments",
     "url": "https://rival.tips/research/model-similarity",
-    "score": 62,
+    "score": 67,
     "date": "2026-04-08",
     "category": "AI News"
   },
   {
-    "title": "Intelligence withdrawal will be brutal. Model tokens are heavily subsidized. Subsidies are disappearing, and with them, so is easy 'intelligence'. Thi",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2041896505850970540#m",
-    "date": "2026-04-08",
-    "category": "Twitter"
-  },
-  {
-    "title": "A truck driver spent 20 years making a scale model of every building in NYC",
-    "source": "Hacker News",
-    "description": "HN Score: 389 | 65 comments",
-    "url": "https://www.smithsonianmag.com/smart-news/a-truck-drive-spent-20-years-making-this-astonishing-scale-model-of-every-single-building-in-new-york-city-180988443/",
-    "score": 389,
-    "date": "2026-04-08",
-    "category": "AI News"
-  },
-  {
-    "title": "Our ops team has switched to GPT 5.4 for ops and coding tasks It\u2019s just way better for ops, SRE and cloud configuration issues Likely because it\u2019s jus",
+    "title": "Meta released a model called Muse Spark - It's not open source - It's not even generally available in an API Apparently it's in something called Meta ",
     "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/bindureddy/status/2041848598061838612#m",
+    "url": "https://nitter.net/bindureddy/status/2041934996911616482#m",
     "date": "2026-04-08",
     "category": "Twitter"
   },
   {
     "title": "LLM plays an 8-bit Commander X16 game using structured 'smart senses'",
     "source": "Hacker News",
-    "description": "HN Score: 11 | 0 comments",
+    "description": "HN Score: 13 | 0 comments",
     "url": "https://pvp-ai.russell-harper.com",
-    "score": 11,
+    "score": 13,
     "date": "2026-04-08",
     "category": "AI News"
-  },
-  {
-    "title": "There is a big model smell in the air....\ud83c\udf89 I suspect this will become generally available way before Mytho and is comparable",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2041699611640000573#m",
-    "date": "2026-04-08",
-    "category": "Twitter"
   }
 ]
