@@ -10,9 +10,9 @@
   {
     "title": "MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU",
     "source": "Hacker News",
-    "description": "HN Score: 48 | 8 comments",
+    "description": "HN Score: 119 | 23 comments",
     "url": "https://arxiv.org/abs/2604.05091",
-    "score": 48,
+    "score": 119,
     "date": "2026-04-08",
     "category": "AI News"
   },
@@ -25,11 +25,28 @@
     "category": "Twitter"
   },
   {
+    "title": "Show HN: We fingerprinted 178 AI models' writing styles and similarity clusters",
+    "source": "Hacker News",
+    "description": "HN Score: 36 | 7 comments",
+    "url": "https://rival.tips/research/model-similarity",
+    "score": 36,
+    "date": "2026-04-08",
+    "category": "AI News"
+  },
+  {
+    "title": "Did Mythos leak Claude Code",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/EMostaque/status/2041888538598252958#m",
+    "date": "2026-04-08",
+    "category": "Twitter"
+  },
+  {
     "title": "Project Glasswing: Securing critical software for the AI era",
     "source": "Hacker News",
-    "description": "HN Score: 1376 | 700 comments",
+    "description": "HN Score: 1414 | 731 comments",
     "url": "https://www.anthropic.com/glasswing",
-    "score": 1376,
+    "score": 1414,
     "date": "2026-04-08",
     "category": "AI News"
   },
@@ -44,26 +61,9 @@
   {
     "title": "System Card: Claude Mythos Preview [pdf]",
     "source": "Hacker News",
-    "description": "HN Score: 758 | 553 comments",
+    "description": "HN Score: 775 | 571 comments",
     "url": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
-    "score": 758,
-    "date": "2026-04-08",
-    "category": "AI News"
-  },
-  {
-    "title": "pay for opus to write slop code pay for mythos to fix slop code",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/EMostaque/status/2041816213077028985#m",
-    "date": "2026-04-08",
-    "category": "Twitter"
-  },
-  {
-    "title": "A truck driver spent 20 years making a scale model of every building in NYC",
-    "source": "Hacker News",
-    "description": "HN Score: 366 | 61 comments",
-    "url": "https://www.smithsonianmag.com/smart-news/a-truck-drive-spent-20-years-making-this-astonishing-scale-model-of-every-single-building-in-new-york-city-180988443/",
-    "score": 366,
+    "score": 775,
     "date": "2026-04-08",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Struggle Against the Gods",
+    "title": "LLM plays an 8-bit Commander X16 game using structured 'smart senses'",
     "source": "Hacker News",
-    "description": "HN Score: 44 | 7 comments",
-    "url": "https://firstthings.com/struggle-against-the-gods/",
-    "score": 44,
+    "description": "HN Score: 8 | 1 comments",
+    "url": "https://pvp-ai.russell-harper.com",
+    "score": 8,
     "date": "2026-04-08",
     "category": "AI News"
   },
@@ -93,27 +93,36 @@
     "category": "Twitter"
   },
   {
-    "title": "Google open-sources experimental agent orchestration testbed Scion",
+    "title": "A truck driver spent 20 years making a scale model of every building in NYC",
     "source": "Hacker News",
-    "description": "HN Score: 220 | 55 comments",
-    "url": "https://www.infoq.com/news/2026/04/google-agent-testbed-scion/",
-    "score": 220,
+    "description": "HN Score: 377 | 64 comments",
+    "url": "https://www.smithsonianmag.com/smart-news/a-truck-drive-spent-20-years-making-this-astonishing-scale-model-of-every-single-building-in-new-york-city-180988443/",
+    "score": 377,
     "date": "2026-04-08",
     "category": "AI News"
   },
   {
-    "title": "I also built a model that\u2019s so smart and dangerous that I will never be able to show you or let you use it. But I have it. I built it. It\u2019s running on",
+    "title": "R to @svpino: Give yourself the ability to swap models without rewriting your entire workflows. In case you didn't know: Kilo Code is the most popular",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2041846967743950913#m",
+    "url": "https://nitter.net/svpino/status/2041896518035370006#m",
     "date": "2026-04-08",
     "category": "Twitter"
   },
   {
-    "title": "RT by @svpino: This is the BEST Deepfake detection model in the world: 98.9% accuracy on @huggingface's arena. 120x cheaper than everything else I've ",
+    "title": "Google open-sources experimental agent orchestration testbed Scion",
+    "source": "Hacker News",
+    "description": "HN Score: 221 | 56 comments",
+    "url": "https://www.infoq.com/news/2026/04/google-agent-testbed-scion/",
+    "score": 221,
+    "date": "2026-04-08",
+    "category": "AI News"
+  },
+  {
+    "title": "Intelligence withdrawal will be brutal. Model tokens are heavily subsidized. Subsidies are disappearing, and with them, so is easy 'intelligence'. Thi",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2041598148087574671#m",
+    "url": "https://nitter.net/svpino/status/2041896505850970540#m",
     "date": "2026-04-08",
     "category": "Twitter"
   },
