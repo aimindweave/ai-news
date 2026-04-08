@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "The AI Great Leap Forward",
+    "title": "John Deere to pay $99M in right-to-repair settlement",
     "source": "Hacker News",
-    "description": "HN Score: 14 | 2 comments",
-    "url": "https://leehanchung.github.io/blogs/2026/04/05/the-ai-great-leap-forward/",
-    "score": 14,
+    "description": "HN Score: 81 | 18 comments",
+    "url": "https://www.thedrive.com/news/john-deere-to-pay-99-million-in-monumental-right-to-repair-settlement",
+    "score": 81,
     "date": "2026-04-08",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU",
     "source": "Hacker News",
-    "description": "HN Score: 225 | 43 comments",
+    "description": "HN Score: 242 | 47 comments",
     "url": "https://arxiv.org/abs/2604.05091",
-    "score": 225,
+    "score": 242,
     "date": "2026-04-08",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Skrun \u2013 Deploy any agent skill as an API",
+    "title": "I've been waiting over a month for Anthropic to respond to my billing issue",
     "source": "Hacker News",
-    "description": "HN Score: 15 | 4 comments",
-    "url": "https://github.com/skrun-dev/skrun",
-    "score": 15,
+    "description": "HN Score: 222 | 118 comments",
+    "url": "https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/",
+    "score": 222,
     "date": "2026-04-08",
     "category": "AI News"
   },
@@ -59,28 +59,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: TUI-use: Let AI agents control interactive terminal programs",
+    "title": "Show HN: Skrun \u2013 Deploy any agent skill as an API",
     "source": "Hacker News",
-    "description": "HN Score: 26 | 25 comments",
-    "url": "https://github.com/onesuper/tui-use",
-    "score": 26,
+    "description": "HN Score: 34 | 9 comments",
+    "url": "https://github.com/skrun-dev/skrun",
+    "score": 34,
     "date": "2026-04-08",
     "category": "AI News"
   },
   {
-    "title": "The power of the Claw, in the palm of a robot hand. Agentic robotics is here! Today, we open-source CaP-X: vibe agents, alive in the physical world. T",
+    "title": "R to @DrJimFan: Please check out lead author @letian_fu's deep dive thread! https://x.com/letian_fu/status/2039342130565357956?s=20",
     "source": "@DrJimFan",
     "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2039358115318243352#m",
+    "url": "https://nitter.net/DrJimFan/status/2039360927653614004#m",
     "date": "2026-04-08",
     "category": "Twitter"
   },
   {
     "title": "We moved Railway's frontend off Next.js. Builds went from 10+ mins to under 2",
     "source": "Hacker News",
-    "description": "HN Score: 142 | 130 comments",
+    "description": "HN Score: 161 | 151 comments",
     "url": "https://blog.railway.com/p/moving-railways-frontend-off-nextjs",
-    "score": 142,
+    "score": 161,
     "date": "2026-04-08",
     "category": "AI News"
   },
@@ -93,45 +93,62 @@
     "category": "Twitter"
   },
   {
+    "title": "Show HN: TUI-use: Let AI agents control interactive terminal programs",
+    "source": "Hacker News",
+    "description": "HN Score: 32 | 32 comments",
+    "url": "https://github.com/onesuper/tui-use",
+    "score": 32,
+    "date": "2026-04-08",
+    "category": "AI News"
+  },
+  {
+    "title": "If you ask me, Gemma 4 is one of the best models out there for a single reason: You can run it locally and it\u2019s really, really good (probably Sonnet l",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2042010743982129511#m",
+    "date": "2026-04-08",
+    "category": "Twitter"
+  },
+  {
     "title": "Claude Managed Agents",
     "source": "Hacker News",
-    "description": "HN Score: 121 | 55 comments",
+    "description": "HN Score: 133 | 63 comments",
     "url": "https://claude.com/blog/claude-managed-agents",
-    "score": 121,
+    "score": 133,
     "date": "2026-04-08",
     "category": "AI News"
   },
   {
-    "title": "R to @svpino: Check out Architect, a system builder capable of building a multi-agent AI system from a simple use case description. It does what syste",
+    "title": "You've been saying the same things since GPT-2: \u2022 We can't release this \u2022 We have god in a bottle \u2022 We are all doomed \u2022 This one is different fr \u2022 AGI",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2041957359124455730#m",
+    "url": "https://nitter.net/svpino/status/2041992526643486814#m",
     "date": "2026-04-08",
     "category": "Twitter"
   },
   {
-    "title": "One item purchased, ten emails",
+    "title": "AMD AI director says Claude Code is becoming dumber and lazier since update",
     "source": "Hacker News",
-    "description": "HN Score: 99 | 80 comments",
-    "url": "https://joshghent.com/online-shopping/",
-    "score": 99,
+    "description": "HN Score: 20 | 3 comments",
+    "url": "https://www.theregister.com/2026/04/06/anthropic_claude_code_dumber_lazier_amd_ai_director/",
+    "score": 20,
     "date": "2026-04-08",
     "category": "AI News"
   },
   {
-    "title": "This is absolutely madness: A single prompt today can take you from an idea to a complete, working, and deployed AI system. With each passing day, bui",
-    "source": "@svpino",
+    "title": "INSANELY-BIG is a very large model from a frontier AI lab It scores 99 on literally EVERY SINGLE EVAL except SWE Bench Pro On SWE-BENCH pro it score 9",
+    "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2041957345727803711#m",
+    "url": "https://nitter.net/bindureddy/status/2042001592027877708#m",
     "date": "2026-04-08",
     "category": "Twitter"
   },
   {
-    "title": "Show HN: BAREmail \u0295\u00b7\u1d25\u00b7\u0294 \u2013 minimalist Gmail client for bad WiFi",
+    "title": "The AI Great Leap Forward",
     "source": "Hacker News",
-    "description": "HN Score: 42 | 34 comments",
-    "url": "https://github.com/matt-virgo/baremail",
-    "score": 42,
+    "description": "HN Score: 66 | 28 comments",
+    "url": "https://leehanchung.github.io/blogs/2026/04/05/the-ai-great-leap-forward/",
+    "score": 66,
     "date": "2026-04-08",
     "category": "AI News"
   },
@@ -144,28 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Project Glasswing: Securing critical software for the AI era",
+    "title": "One item purchased, ten emails",
     "source": "Hacker News",
-    "description": "HN Score: 1470 | 789 comments",
-    "url": "https://www.anthropic.com/glasswing",
-    "score": 1470,
-    "date": "2026-04-08",
-    "category": "AI News"
-  },
-  {
-    "title": "Meta released a model called Muse Spark - It's not open source - It's not even generally available in an API Apparently it's in something called Meta ",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2041934996911616482#m",
-    "date": "2026-04-08",
-    "category": "Twitter"
-  },
-  {
-    "title": "John Deere to Pay $99M in Monumental Right-to-Repair Settlement",
-    "source": "Hacker News",
-    "description": "HN Score: 4 | 1 comments",
-    "url": "https://www.thedrive.com/news/john-deere-to-pay-99-million-in-monumental-right-to-repair-settlement",
-    "score": 4,
+    "description": "HN Score: 105 | 86 comments",
+    "url": "https://joshghent.com/online-shopping/",
+    "score": 105,
     "date": "2026-04-08",
     "category": "AI News"
   }
