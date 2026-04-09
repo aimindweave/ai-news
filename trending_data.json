@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "One Brain to Query: Wiring a 60-Person Company into a Single Slack Bot",
+    "title": "Vercel Claude Code plugin wants to read your prompt",
     "source": "Hacker News",
-    "description": "HN Score: 7 | 3 comments",
-    "url": "https://merylldindin.com/thoughts/company-brain/",
-    "score": 7,
+    "description": "HN Score: 157 | 36 comments",
+    "url": "https://akshaychugh.xyz/writings/png/vercel-plugin-telemetry",
+    "score": 157,
     "date": "2026-04-09",
     "category": "AI News"
   },
@@ -25,11 +25,28 @@
     "category": "Twitter"
   },
   {
+    "title": "Reallocating $100/Month Claude Code Spend to Zed and OpenRouter",
+    "source": "Hacker News",
+    "description": "HN Score: 133 | 129 comments",
+    "url": "https://braw.dev/blog/2026-04-06-reallocating-100-month-claude-spend/",
+    "score": 133,
+    "date": "2026-04-09",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: One for product. One for research. II-Agent: prompt to UI, prototype, Figma. II-Commons: live arXiv + PubMed, Policy_CA, faster A2A.",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/ii_posts/status/2042268952319963430#m",
+    "date": "2026-04-09",
+    "category": "Twitter"
+  },
+  {
     "title": "Show HN: CSS Studio. Design by hand, code by agent",
     "source": "Hacker News",
-    "description": "HN Score: 75 | 60 comments",
+    "description": "HN Score: 89 | 69 comments",
     "url": "https://cssstudio.ai",
-    "score": 75,
+    "score": 89,
     "date": "2026-04-09",
     "category": "AI News"
   },
@@ -42,45 +59,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Claude mixes up who said what",
+    "title": "One Brain to Query: Wiring a 60-Person Company into a Single Slack Bot",
     "source": "Hacker News",
-    "description": "HN Score: 284 | 264 comments",
-    "url": "https://dwyer.co.za/static/claude-mixes-up-who-said-what-and-thats-not-ok.html",
-    "score": 284,
+    "description": "HN Score: 20 | 25 comments",
+    "url": "https://merylldindin.com/thoughts/company-brain/",
+    "score": 20,
     "date": "2026-04-09",
     "category": "AI News"
   },
   {
-    "title": "RT by @EMostaque: New post: We tested the Mythos showcase vulnerabilities with open models. They recovered similar scoped analysis! 8/8 models found t",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/stanislavfort/status/2041922370206654879#m",
-    "date": "2026-04-09",
-    "category": "Twitter"
-  },
-  {
-    "title": "Reallocating $100/Month Claude Code Spend to Zed and OpenRouter",
-    "source": "Hacker News",
-    "description": "HN Score: 78 | 89 comments",
-    "url": "https://braw.dev/blog/2026-04-06-reallocating-100-month-claude-spend/",
-    "score": 78,
-    "date": "2026-04-09",
-    "category": "AI News"
-  },
-  {
-    "title": "The power of the Claw, in the palm of a robot hand. Agentic robotics is here! Today, we open-source CaP-X: vibe agents, alive in the physical world. T",
+    "title": "R to @DrJimFan: Please check out lead author @letian_fu's deep dive thread! https://x.com/letian_fu/status/2039342130565357956?s=20",
     "source": "@DrJimFan",
     "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2039358115318243352#m",
+    "url": "https://nitter.net/DrJimFan/status/2039360927653614004#m",
     "date": "2026-04-09",
     "category": "Twitter"
   },
   {
-    "title": "MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU",
+    "title": "Claude mixes up who said what",
     "source": "Hacker News",
-    "description": "HN Score: 319 | 56 comments",
-    "url": "https://arxiv.org/abs/2604.05091",
-    "score": 319,
+    "description": "HN Score: 322 | 283 comments",
+    "url": "https://dwyer.co.za/static/claude-mixes-up-who-said-what-and-thats-not-ok.html",
+    "score": 322,
     "date": "2026-04-09",
     "category": "AI News"
   },
@@ -93,13 +93,21 @@
     "category": "Twitter"
   },
   {
-    "title": "Study found that young adults have grown less hopeful and more angry about AI",
+    "title": "Ask HN: What are you building that's not AI related?",
     "source": "Hacker News",
-    "description": "HN Score: 14 | 1 comments",
-    "url": "https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html",
-    "score": 14,
+    "description": "HN Score: 82 | 114 comments",
+    "url": "https://news.ycombinator.com/item?id=47700460",
+    "score": 82,
     "date": "2026-04-09",
     "category": "AI News"
+  },
+  {
+    "title": "Oh, this is pretty interesting: These guys built a completely new architecture: Large Memory Models. This is designed specifically for how human memor",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2042275938390639069#m",
+    "date": "2026-04-09",
+    "category": "Twitter"
   },
   {
     "title": "R to @svpino: Here is the link to the YouTube video: https://youtu.be/yVIGjepa31Y",
@@ -110,47 +118,12 @@
     "category": "Twitter"
   },
   {
-    "title": "Clean code in the age of coding agents",
-    "source": "Hacker News",
-    "description": "HN Score: 41 | 44 comments",
-    "url": "https://www.yanist.com/clean-code-in-the-age-of-coding-agents/",
-    "score": 41,
-    "date": "2026-04-09",
-    "category": "AI News"
-  },
-  {
-    "title": "R to @svpino: I show you a few things in the video: \u2022 Why do you want a model gateway \u2022 How to use @OpenRouter in your code \u2022 How does this work as pa",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2042258940805963802#m",
-    "date": "2026-04-09",
-    "category": "Twitter"
-  },
-  {
-    "title": "John Deere to pay $99M in right-to-repair settlement",
-    "source": "Hacker News",
-    "description": "HN Score: 353 | 116 comments",
-    "url": "https://www.thedrive.com/news/john-deere-to-pay-99-million-in-monumental-right-to-repair-settlement",
-    "score": 353,
-    "date": "2026-04-09",
-    "category": "AI News"
-  },
-  {
     "title": "HILARIOUS! Open Source Will Inevitably Win If Closed Source Delays Releases \ud83e\udd37\u200d\u2640\ufe0f The longer the frontier labs delay rolling out the new models the fas",
     "source": "@bindureddy",
     "description": "",
     "url": "https://nitter.net/bindureddy/status/2042205239026282992#m",
     "date": "2026-04-09",
     "category": "Twitter"
-  },
-  {
-    "title": "OpenAI pulls out of landmark \u00a331B UK investment package",
-    "source": "Hacker News",
-    "description": "HN Score: 6 | 1 comments",
-    "url": "https://www.theguardian.com/technology/2026/apr/09/openai-pulls-out-of-landmark-31bn-uk-investment",
-    "score": 6,
-    "date": "2026-04-09",
-    "category": "AI News"
   },
   {
     "title": "GLM 5.1 TOPS THE OPEN SOURCE LEADERBOARD \ud83d\ude80\ud83d\ude80 GLM 5.1 is the new open source leader and is comparable to closed source models like Opus and GPT 5.4 Open",
