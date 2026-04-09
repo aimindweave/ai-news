@@ -93,6 +93,16 @@
   ],
   "episodes": [
     {
+      "id": "Practica_0",
+      "name": "Post-Mortem of Anthropic's Claude Code Leak",
+      "show": "Practical AI",
+      "description": "\n        In this fully connected episode, Dan and Chris break down the Anthropic Claude Code leak, what went wrong and what it reveals about agentic systems, AI architecture, and AI safety. They al",
+      "release_date": "2026-04-09",
+      "duration_min": 44,
+      "image": "",
+      "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
+    },
+    {
       "id": "a]6z Pod_0",
       "name": "The Agent Era: Building Software Beyond Chat with Box CEO Aaron Levie",
       "show": "a]6z Podcast",
@@ -133,7 +143,7 @@
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
-      "id": "Practica_0",
+      "id": "Practica_1",
       "name": "Agentic Coding and the Economics of Open Source",
       "show": "Practical AI",
       "description": "\n        AI is rapidly transforming how software is built, shifting economic incentives from open source code and collaboration toward on-demand, personalized development through agentic coding a.k",
@@ -163,7 +173,7 @@
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
     },
     {
-      "id": "Practica_1",
+      "id": "Practica_2",
       "name": "AI at the Edge is a different operating environment",
       "show": "Practical AI",
       "description": "\n        What does “AI at the edge” really mean in 2026, and why does it matter now more than ever before? In this episode, we’re joined by Brandon Shibley, Edge AI Solutions Engineering Lead at Qu",
@@ -191,16 +201,6 @@
       "duration_min": 60,
       "image": "",
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
-    },
-    {
-      "id": "Practica_2",
-      "name": "Humility in the Age of Agentic Coding",
-      "show": "Practical AI",
-      "description": "\n        What happens when an AI hater starts building with AI agents? In this episode, we talk with software engineer Steve Klabnik, known for his work on the Rust programming language, about his ",
-      "release_date": "2026-03-17",
-      "duration_min": 55,
-      "image": "",
-      "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
       "id": "The AI P_0",

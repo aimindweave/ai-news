@@ -10,9 +10,9 @@
   {
     "title": "Process Manager for Autonomous AI Agents",
     "source": "Hacker News",
-    "description": "HN Score: 16 | 1 comments",
+    "description": "HN Score: 31 | 6 comments",
     "url": "https://botctl.dev/",
-    "score": 16,
+    "score": 31,
     "date": "2026-04-09",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU",
+    "title": "Ask HN: What are you building that's not AI related?",
     "source": "Hacker News",
-    "description": "HN Score: 289 | 51 comments",
-    "url": "https://arxiv.org/abs/2604.05091",
-    "score": 289,
+    "description": "HN Score: 35 | 38 comments",
+    "url": "https://news.ycombinator.com/item?id=47700460",
+    "score": 35,
     "date": "2026-04-09",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "John Deere to pay $99M in right-to-repair settlement",
+    "title": "MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU",
     "source": "Hacker News",
-    "description": "HN Score: 290 | 80 comments",
-    "url": "https://www.thedrive.com/news/john-deere-to-pay-99-million-in-monumental-right-to-repair-settlement",
-    "score": 290,
+    "description": "HN Score: 294 | 54 comments",
+    "url": "https://arxiv.org/abs/2604.05091",
+    "score": 294,
     "date": "2026-04-09",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "I've been waiting over a month for Anthropic to respond to my billing issue",
+    "title": "John Deere to pay $99M in right-to-repair settlement",
     "source": "Hacker News",
-    "description": "HN Score: 345 | 168 comments",
-    "url": "https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/",
-    "score": 345,
+    "description": "HN Score: 304 | 91 comments",
+    "url": "https://www.thedrive.com/news/john-deere-to-pay-99-million-in-monumental-right-to-repair-settlement",
+    "score": 304,
     "date": "2026-04-09",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Skrun \u2013 Deploy any agent skill as an API",
+    "title": "I've been waiting over a month for Anthropic to respond to my billing issue",
     "source": "Hacker News",
-    "description": "HN Score: 51 | 9 comments",
-    "url": "https://github.com/skrun-dev/skrun",
-    "score": 51,
+    "description": "HN Score: 359 | 174 comments",
+    "url": "https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/",
+    "score": 359,
     "date": "2026-04-09",
     "category": "AI News"
   },
@@ -89,6 +89,57 @@
     "source": "@DrJimFan",
     "description": "",
     "url": "https://nitter.net/DrJimFan/status/2039360925606760690#m",
+    "date": "2026-04-09",
+    "category": "Twitter"
+  },
+  {
+    "title": "Project Glasswing: Securing critical software for the AI era",
+    "source": "Hacker News",
+    "description": "HN Score: 1493 | 804 comments",
+    "url": "https://www.anthropic.com/glasswing",
+    "score": 1493,
+    "date": "2026-04-09",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: This is absolutely madness: A single prompt today can take you from an idea to a complete, working, and deployed AI system. With each p",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2041957345727803711#m",
+    "date": "2026-04-09",
+    "category": "Twitter"
+  },
+  {
+    "title": "You Can Just Print an Air Purifier",
+    "source": "Hacker News",
+    "description": "HN Score: 17 | 0 comments",
+    "url": "https://aftermath.site/3d-printing-air-purifier-corsi-rosenthal/",
+    "score": 17,
+    "date": "2026-04-09",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: Intelligence withdrawal will be brutal. Model tokens are heavily subsidized. Subsidies are disappearing, and with them, so is easy 'int",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2041896505850970540#m",
+    "date": "2026-04-09",
+    "category": "Twitter"
+  },
+  {
+    "title": "'There's a lot of desperation': older workers turn to AI training to stay afloat",
+    "source": "Hacker News",
+    "description": "HN Score: 26 | 6 comments",
+    "url": "https://www.theguardian.com/technology/ng-interactive/2026/apr/07/ai-training-work-jobs",
+    "score": 26,
+    "date": "2026-04-09",
+    "category": "AI News"
+  },
+  {
+    "title": "GLM 5.1 TOPS THE OPEN SOURCE LEADERBOARD \ud83d\ude80\ud83d\ude80 GLM 5.1 is the new open source leader and is comparable to closed source models like Opus and GPT 5.4 Open",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2042093196948467929#m",
     "date": "2026-04-09",
     "category": "Twitter"
   },
@@ -102,62 +153,20 @@
     "category": "AI News"
   },
   {
-    "title": "RT by @svpino: This is absolutely madness: A single prompt today can take you from an idea to a complete, working, and deployed AI system. With each p",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2041957345727803711#m",
-    "date": "2026-04-09",
-    "category": "Twitter"
-  },
-  {
-    "title": "'There's a lot of desperation': older workers turn to AI training to stay afloat",
-    "source": "Hacker News",
-    "description": "HN Score: 20 | 2 comments",
-    "url": "https://www.theguardian.com/technology/ng-interactive/2026/apr/07/ai-training-work-jobs",
-    "score": 20,
-    "date": "2026-04-09",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: Intelligence withdrawal will be brutal. Model tokens are heavily subsidized. Subsidies are disappearing, and with them, so is easy 'int",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2041896505850970540#m",
-    "date": "2026-04-09",
-    "category": "Twitter"
-  },
-  {
-    "title": "Project Glasswing: Securing critical software for the AI era",
-    "source": "Hacker News",
-    "description": "HN Score: 1492 | 801 comments",
-    "url": "https://www.anthropic.com/glasswing",
-    "score": 1492,
-    "date": "2026-04-09",
-    "category": "AI News"
-  },
-  {
-    "title": "GLM 5.1 TOPS THE OPEN SOURCE LEADERBOARD \ud83d\ude80\ud83d\ude80 GLM 5.1 is the new open source leader and is comparable to closed source models like Opus and GPT 5.4 Open",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2042093196948467929#m",
-    "date": "2026-04-09",
-    "category": "Twitter"
-  },
-  {
-    "title": "Show HN: TUI-use: Let AI agents control interactive terminal programs",
-    "source": "Hacker News",
-    "description": "HN Score: 42 | 35 comments",
-    "url": "https://github.com/onesuper/tui-use",
-    "score": 42,
-    "date": "2026-04-09",
-    "category": "AI News"
-  },
-  {
     "title": "INSANELY-BIG is a very large model from a frontier AI lab It scores 99 on literally EVERY SINGLE EVAL except SWE Bench Pro On SWE-BENCH pro it score 9",
     "source": "@bindureddy",
     "description": "",
     "url": "https://nitter.net/bindureddy/status/2042001592027877708#m",
     "date": "2026-04-09",
     "category": "Twitter"
+  },
+  {
+    "title": "Show HN: TUI-use: Let AI agents control interactive terminal programs",
+    "source": "Hacker News",
+    "description": "HN Score: 43 | 35 comments",
+    "url": "https://github.com/onesuper/tui-use",
+    "score": 43,
+    "date": "2026-04-09",
+    "category": "AI News"
   }
 ]
