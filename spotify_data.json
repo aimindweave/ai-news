@@ -93,6 +93,26 @@
   ],
   "episodes": [
     {
+      "id": "Hard For_0",
+      "name": "Anthropic’s Cybersecurity Shock Wave + Ronan Farrow and Andrew Marantz on Their Sam Altman Investigation + One Good Thing",
+      "show": "Hard Fork",
+      "description": "This week, we look at the cybersecurity threats that a new unreleased model from Anthropic are posing to software everywhere. And we ask whether Project Glasswing, the company’s bold new defense in",
+      "release_date": "2026-04-10",
+      "duration_min": 64,
+      "image": "",
+      "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
+    },
+    {
+      "id": "a]6z Pod_0",
+      "name": "What Running Windows at Microsoft Taught Steven Sinofsky About Apple",
+      "show": "a]6z Podcast",
+      "description": "Theo Jaffee speaks with Steven Sinofsky, board partner at a16z and former president of the Windows division at Microsoft, about Apple's 50th anniversary, the cultural differences that separated App",
+      "release_date": "2026-04-10",
+      "duration_min": 31,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
       "id": "Lex Frid_0",
       "name": "#495 – Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age",
       "show": "Lex Fridman Podcast",
@@ -113,7 +133,7 @@
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
-      "id": "a]6z Pod_0",
+      "id": "a]6z Pod_1",
       "name": "Who Controls AI Acceleration? Vitalik Buterin and Guillaume Verdon Debate",
       "show": "a]6z Podcast",
       "description": "Eddy Lazzarin speaks with Vitalik Buterin, founder of Ethereum, and Guillaume Verdon, founder and CEO of Extropic, about whether AI progress can or should be steered, the risks of concentrated powe",
@@ -123,7 +143,7 @@
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "The Agent Era: Building Software Beyond Chat with Box CEO Aaron Levie",
       "show": "a]6z Podcast",
       "description": "Erik Torenberg, Steve Sinofsky, and Martin Casado speak to Aaron Levie, CEO at Box, about what happens to enterprise software when agents become the primary users. They discuss why coding agents su",
@@ -133,17 +153,7 @@
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
-      "id": "a]6z Pod_2",
-      "name": "Balaji on Why AI Raises the Cost of Verification",
-      "show": "a]6z Podcast",
-      "description": "a16z general partner Erik Torenberg speaks with Balaji Srinivasan, angel investor and entrepreneur, about why AI simultaneously reduces the cost of creation and increases the cost of verification, ",
-      "release_date": "2026-04-07",
-      "duration_min": 67,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
-    },
-    {
-      "id": "Hard For_0",
+      "id": "Hard For_1",
       "name": "The Future of Addictive Design + Going Deep at DeepMind + HatGPT",
       "show": "Hard Fork",
       "description": "Last week, two separate juries held social media companies liable for harming young users. We unpack what these landmark decisions mean — not only for the future of social platforms like Meta and Y",
@@ -163,7 +173,7 @@
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
-      "id": "Hard For_1",
+      "id": "Hard For_2",
       "name": "The Ezra Klein Show: How Fast Will A.I. Agents Rip Through the Economy?",
       "show": "Hard Fork",
       "description": "The “Hard Fork” team is off this week, taking a much-needed break. While we’re away, we wanted to draw your attention to a recent episode of “The Ezra Klein Show.”\nIn this conversation, Ezra",
@@ -201,16 +211,6 @@
       "duration_min": 0,
       "image": "",
       "url": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"
-    },
-    {
-      "id": "Hard For_2",
-      "name": "‘A.I.-Washing’ Layoffs? + Why L.L.M.s Can’t Write Well + Tokenmaxxing",
-      "show": "Hard Fork",
-      "description": "This week, we start by talking about the new wave of tech layoffs at Atlassian and Block, as well as reports that Meta plans to cut up to 20 percent of its work force. This raises the question of w",
-      "release_date": "2026-03-20",
-      "duration_min": 60,
-      "image": "",
-      "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
       "id": "The AI P_0",
