@@ -10,9 +10,9 @@
   {
     "title": "Launch HN: Twill.ai (YC S25) \u2013 Delegate to cloud agents, get back PRs",
     "source": "Hacker News",
-    "description": "HN Score: 26 | 23 comments",
+    "description": "HN Score: 38 | 35 comments",
     "url": "https://twill.ai",
-    "score": 26,
+    "score": 38,
     "date": "2026-04-10",
     "category": "AI News"
   },
@@ -34,6 +34,23 @@
     "category": "AI News"
   },
   {
+    "title": "RT by @EMostaque: \ud83d\udea8 AI DOOM IS 50% @emostaque says there\u2019s a coin flip chance AI goes very badly. One path looks like Star Trek. The other looks like ",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/Kylechasse/status/2042697114371703172#m",
+    "date": "2026-04-10",
+    "category": "Twitter"
+  },
+  {
+    "title": "AI assistance when contributing to the Linux kernel",
+    "source": "Hacker News",
+    "description": "HN Score: 111 | 93 comments",
+    "url": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst",
+    "score": 111,
+    "date": "2026-04-10",
+    "category": "AI News"
+  },
+  {
     "title": "RT by @EMostaque: x.com/i/article/204192421158\u2026",
     "source": "@EMostaque",
     "description": "",
@@ -42,28 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "AI assistance when contributing to the Linux kernel",
+    "title": "Molotov cocktail is hurled at home of Sam Altman",
     "source": "Hacker News",
-    "description": "HN Score: 60 | 44 comments",
-    "url": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst",
-    "score": 60,
-    "date": "2026-04-10",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @EMostaque: One for product. One for research. II-Agent: prompt to UI, prototype, Figma. II-Commons: live arXiv + PubMed, Policy_CA, faster A2A.",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/ii_posts/status/2042268952319963430#m",
-    "date": "2026-04-10",
-    "category": "Twitter"
-  },
-  {
-    "title": "HBO Obtains DMCA Subpoena to Unmask 'Euphoria' Spoiler Account on X",
-    "source": "Hacker News",
-    "description": "HN Score: 70 | 44 comments",
-    "url": "https://torrentfreak.com/hbo-obtains-dmca-subpoena-to-unmask-euphoria-spoiler-account-on-x/",
-    "score": 70,
+    "description": "HN Score: 127 | 295 comments",
+    "url": "https://www.nytimes.com/2026/04/10/us/open-ai-sam-altman-molotov-cocktail.html",
+    "score": 127,
     "date": "2026-04-10",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "We've raised $17M to build what comes after Git",
+    "title": "HBO Obtains DMCA Subpoena to Unmask 'Euphoria' Spoiler Account on X",
     "source": "Hacker News",
-    "description": "HN Score: 294 | 639 comments",
-    "url": "https://blog.gitbutler.com/series-a",
-    "score": 294,
+    "description": "HN Score: 85 | 47 comments",
+    "url": "https://torrentfreak.com/hbo-obtains-dmca-subpoena-to-unmask-euphoria-spoiler-account-on-x/",
+    "score": 85,
     "date": "2026-04-10",
     "category": "AI News"
   },
@@ -93,11 +93,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Supply chain nightmare: How Rust will be attacked and what we can do to mitigate",
+    "title": "We've raised $17M to build what comes after Git",
     "source": "Hacker News",
-    "description": "HN Score: 101 | 54 comments",
-    "url": "https://kerkour.com/rust-supply-chain-nightmare",
-    "score": 101,
+    "description": "HN Score: 302 | 659 comments",
+    "url": "https://blog.gitbutler.com/series-a",
+    "score": 302,
+    "date": "2026-04-10",
+    "category": "AI News"
+  },
+  {
+    "title": "Earning money with agents is happening sooner than I expected: Imagine a market of agents where people pay them for their skills or to complete tasks ",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2042728192402952476#m",
+    "date": "2026-04-10",
+    "category": "Twitter"
+  },
+  {
+    "title": "Molotov cocktail attack at OpenAI CEO Sam Altman's home",
+    "source": "Hacker News",
+    "description": "HN Score: 12 | 1 comments",
+    "url": "https://www.reuters.com/world/us/suspect-arrested-after-molotov-cocktail-attack-openai-ceo-sam-altmans-home-2026-04-10/",
+    "score": 12,
     "date": "2026-04-10",
     "category": "AI News"
   },
@@ -110,54 +127,46 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Marimo pair \u2013 Reactive Python notebooks as environments for agents",
+    "title": "I Hate Tailwind and Love Bootstrap",
     "source": "Hacker News",
-    "description": "HN Score: 113 | 28 comments",
-    "url": "https://github.com/marimo-team/marimo-pair",
-    "score": 113,
+    "description": "HN Score: 11 | 6 comments",
+    "url": "https://necromant2005.github.io/dev/why-i-hate-tailwind-and-love-bootstrap/",
+    "score": 11,
     "date": "2026-04-10",
     "category": "AI News"
   },
   {
-    "title": "Seedance 2.0 is a freak of a model! This is probably the best video generation model that we've seen in 2026. There's something new with the architect",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2042687122247979468#m",
-    "date": "2026-04-10",
-    "category": "Twitter"
-  },
-  {
-    "title": "Why Isn't Everything Different Yet? (AI, where are you?)",
-    "source": "Hacker News",
-    "description": "HN Score: 7 | 7 comments",
-    "url": "https://davegriffith.substack.com/p/why-isnt-everything-different-yet",
-    "score": 7,
-    "date": "2026-04-10",
-    "category": "AI News"
-  },
-  {
-    "title": "OpenAI IS TOTALLY UNDERRATED AT THE MOMENT GPT 5.4 - best at deep research, xls Codex 5.3 - best at coding GPT 5.4 nano - extremely good small model T",
+    "title": "Will Google get back into the big LLM race? Looking forward to a 100T Gemini 4.0 They have infinite compute and can pull this off \ud83d\ude05",
     "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/bindureddy/status/2042661070461075948#m",
+    "url": "https://nitter.net/bindureddy/status/2042715201552945413#m",
     "date": "2026-04-10",
     "category": "Twitter"
   },
   {
-    "title": "We're running out of benchmarks to upper bound AI capabilities",
+    "title": "Supply chain nightmare: How Rust will be attacked and what we can do to mitigate",
     "source": "Hacker News",
-    "description": "HN Score: 5 | 0 comments",
-    "url": "https://www.lesswrong.com/posts/gfkJp8Mr9sBm83Rcz/we-re-actually-running-out-of-benchmarks-to-upper-bound-ai",
-    "score": 5,
+    "description": "HN Score: 105 | 57 comments",
+    "url": "https://kerkour.com/rust-supply-chain-nightmare",
+    "score": 105,
     "date": "2026-04-10",
     "category": "AI News"
   },
   {
-    "title": "AI is rapidly leveling the playing field Anyone, any where in the world can now be a 100x developer - building entire products on their own Even bette",
+    "title": "All our scheduled task automation works in the following manner - A very big model - Opus 4.6 or Codex - will write a detailed plan - A very cheap and",
     "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/bindureddy/status/2042563916245668225#m",
+    "url": "https://nitter.net/bindureddy/status/2042703678868721667#m",
     "date": "2026-04-10",
     "category": "Twitter"
+  },
+  {
+    "title": "Suspect Arrested for Throwing Molotov Cocktail at Sam Altman's Home",
+    "source": "Hacker News",
+    "description": "HN Score: 29 | 5 comments",
+    "url": "https://www.wired.com/story/sam-altman-home-attack-openai-san-franisco-office-threat/",
+    "score": 29,
+    "date": "2026-04-10",
+    "category": "AI News"
   }
 ]
