@@ -10,9 +10,9 @@
   {
     "title": "Launch HN: Twill.ai (YC S25) \u2013 Delegate to cloud agents, get back PRs",
     "source": "Hacker News",
-    "description": "HN Score: 17 | 7 comments",
+    "description": "HN Score: 26 | 23 comments",
     "url": "https://twill.ai",
-    "score": 17,
+    "score": 26,
     "date": "2026-04-10",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Molotov Cocktail Is Hurled at Home of OpenAI CEO Sam Altman",
+    "title": "AI assistance when contributing to the Linux kernel",
     "source": "Hacker News",
-    "description": "HN Score: 14 | 4 comments",
-    "url": "https://www.nytimes.com/2026/04/10/us/open-ai-sam-altman-molotov-cocktail.html",
-    "score": 14,
+    "description": "HN Score: 60 | 44 comments",
+    "url": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst",
+    "score": 60,
     "date": "2026-04-10",
     "category": "AI News"
   },
@@ -61,9 +61,9 @@
   {
     "title": "HBO Obtains DMCA Subpoena to Unmask 'Euphoria' Spoiler Account on X",
     "source": "Hacker News",
-    "description": "HN Score: 36 | 16 comments",
+    "description": "HN Score: 70 | 44 comments",
     "url": "https://torrentfreak.com/hbo-obtains-dmca-subpoena-to-unmask-euphoria-spoiler-account-on-x/",
-    "score": 36,
+    "score": 70,
     "date": "2026-04-10",
     "category": "AI News"
   },
@@ -78,9 +78,9 @@
   {
     "title": "We've raised $17M to build what comes after Git",
     "source": "Hacker News",
-    "description": "HN Score: 281 | 614 comments",
+    "description": "HN Score: 294 | 639 comments",
     "url": "https://blog.gitbutler.com/series-a",
-    "score": 281,
+    "score": 294,
     "date": "2026-04-10",
     "category": "AI News"
   },
@@ -95,43 +95,43 @@
   {
     "title": "Supply chain nightmare: How Rust will be attacked and what we can do to mitigate",
     "source": "Hacker News",
-    "description": "HN Score: 88 | 47 comments",
+    "description": "HN Score: 101 | 54 comments",
     "url": "https://kerkour.com/rust-supply-chain-nightmare",
-    "score": 88,
+    "score": 101,
     "date": "2026-04-10",
     "category": "AI News"
   },
   {
-    "title": "Holly molly! These videos look really good!",
+    "title": "R to @svpino: You can try Seedance 2.0 in @lovart_ai. It's now available everywhere in the world. No waitlist or queues. Here is the link: https://bit",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2042649301684285784#m",
+    "url": "https://nitter.net/svpino/status/2042687134067478809#m",
     "date": "2026-04-10",
     "category": "Twitter"
   },
   {
     "title": "Show HN: Marimo pair \u2013 Reactive Python notebooks as environments for agents",
     "source": "Hacker News",
-    "description": "HN Score: 107 | 27 comments",
+    "description": "HN Score: 113 | 28 comments",
     "url": "https://github.com/marimo-team/marimo-pair",
-    "score": 107,
+    "score": 113,
     "date": "2026-04-10",
     "category": "AI News"
   },
   {
-    "title": "R to @svpino: The obvious answer here is 'we'll all use open-source', and I also believe that, although it is not going to be an immediate move. Open-",
+    "title": "Seedance 2.0 is a freak of a model! This is probably the best video generation model that we've seen in 2026. There's something new with the architect",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2042627229734125946#m",
+    "url": "https://nitter.net/svpino/status/2042687122247979468#m",
     "date": "2026-04-10",
     "category": "Twitter"
   },
   {
-    "title": "OpenAI's new $100 tier targets developers hitting Codex limits",
+    "title": "Why Isn't Everything Different Yet? (AI, where are you?)",
     "source": "Hacker News",
-    "description": "HN Score: 6 | 1 comments",
-    "url": "https://thenewstack.io/openais-new-100-tier-targets-developers-hitting-codex-and-claude-code-limits/",
-    "score": 6,
+    "description": "HN Score: 7 | 7 comments",
+    "url": "https://davegriffith.substack.com/p/why-isnt-everything-different-yet",
+    "score": 7,
     "date": "2026-04-10",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Suspect Arrested for Throwing Molotov Cocktail at Sam Altman's Home",
+    "title": "We're running out of benchmarks to upper bound AI capabilities",
     "source": "Hacker News",
-    "description": "HN Score: 11 | 1 comments",
-    "url": "https://www.wired.com/story/sam-altman-home-attack-openai-san-franisco-office-threat/",
-    "score": 11,
+    "description": "HN Score: 5 | 0 comments",
+    "url": "https://www.lesswrong.com/posts/gfkJp8Mr9sBm83Rcz/we-re-actually-running-out-of-benchmarks-to-upper-bound-ai",
+    "score": 5,
     "date": "2026-04-10",
     "category": "AI News"
   },
@@ -159,14 +159,5 @@
     "url": "https://nitter.net/bindureddy/status/2042563916245668225#m",
     "date": "2026-04-10",
     "category": "Twitter"
-  },
-  {
-    "title": "Unfolder for Mac \u2013 A 3D model unfolding tool for creating papercraft",
-    "source": "Hacker News",
-    "description": "HN Score: 294 | 56 comments",
-    "url": "https://www.unfolder.app/",
-    "score": 294,
-    "date": "2026-04-10",
-    "category": "AI News"
   }
 ]
