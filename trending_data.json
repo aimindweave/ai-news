@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Great at gaming? US air traffic control wants you to apply",
+    "title": "AI assistance when contributing to the Linux kernel",
     "source": "Hacker News",
-    "description": "HN Score: 29 | 36 comments",
-    "url": "https://www.bbc.com/news/articles/ce84rvx0e6do",
-    "score": 29,
+    "description": "HN Score: 334 | 234 comments",
+    "url": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst",
+    "score": 334,
     "date": "2026-04-11",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "AI assistance when contributing to the Linux kernel",
+    "title": "BlueHammer abuses Windows Defender's update process to gain SYSTEM access",
     "source": "Hacker News",
-    "description": "HN Score: 307 | 202 comments",
-    "url": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst",
-    "score": 307,
+    "description": "HN Score: 6 | 2 comments",
+    "url": "https://hackingpassion.com/bluehammer-windows-defender-zero-day/",
+    "score": 6,
     "date": "2026-04-11",
     "category": "AI News"
   },
@@ -44,9 +44,9 @@
   {
     "title": "Italo Calvino: A traveller in a world of uncertainty",
     "source": "Hacker News",
-    "description": "HN Score: 71 | 14 comments",
+    "description": "HN Score: 78 | 14 comments",
     "url": "https://www.historytoday.com/archive/portrait-author-historian/italo-calvino-traveller-world-uncertainty",
-    "score": 71,
+    "score": 78,
     "date": "2026-04-11",
     "category": "AI News"
   },
@@ -61,7 +61,7 @@
   {
     "title": "Launch HN: Twill.ai (YC S25) \u2013 Delegate to cloud agents, get back PRs",
     "source": "Hacker News",
-    "description": "HN Score: 67 | 63 comments",
+    "description": "HN Score: 67 | 69 comments",
     "url": "https://twill.ai",
     "score": 67,
     "date": "2026-04-11",
@@ -95,9 +95,26 @@
   {
     "title": "Sam Altman's response to Molotov cocktail incident",
     "source": "Hacker News",
-    "description": "HN Score: 298 | 595 comments",
+    "description": "HN Score: 306 | 644 comments",
     "url": "https://blog.samaltman.com/2279512",
-    "score": 298,
+    "score": 306,
+    "date": "2026-04-11",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: Earning money with agents is happening sooner than I expected: Imagine a market of agents where people pay them for their skills or to ",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2042728192402952476#m",
+    "date": "2026-04-11",
+    "category": "Twitter"
+  },
+  {
+    "title": "We've raised $17M to build what comes after Git",
+    "source": "Hacker News",
+    "description": "HN Score: 315 | 692 comments",
+    "url": "https://blog.gitbutler.com/series-a",
+    "score": 315,
     "date": "2026-04-11",
     "category": "AI News"
   },
@@ -106,14 +123,6 @@
     "source": "@svpino",
     "description": "",
     "url": "https://nitter.net/svpino/status/2042687122247979468#m",
-    "date": "2026-04-11",
-    "category": "Twitter"
-  },
-  {
-    "title": "RT by @svpino: Skills might be the single most important abstraction of the decade. And they aren't limited to agentic coding tools anymore. You will ",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2042622519702884829#m",
     "date": "2026-04-11",
     "category": "Twitter"
   },
