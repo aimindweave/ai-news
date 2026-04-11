@@ -10,9 +10,9 @@
   {
     "title": "Small models also found the vulnerabilities that Mythos found",
     "source": "Hacker News",
-    "description": "HN Score: 499 | 149 comments",
+    "description": "HN Score: 661 | 181 comments",
     "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
-    "score": 499,
+    "score": 661,
     "date": "2026-04-11",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
     "source": "Hacker News",
-    "description": "HN Score: 56 | 20 comments",
+    "description": "HN Score: 128 | 39 comments",
     "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
-    "score": 56,
+    "score": 128,
     "date": "2026-04-11",
     "category": "AI News"
   },
@@ -44,9 +44,9 @@
   {
     "title": "Cirrus Labs to join OpenAI",
     "source": "Hacker News",
-    "description": "HN Score: 200 | 102 comments",
+    "description": "HN Score: 216 | 109 comments",
     "url": "https://cirruslabs.org/",
-    "score": 200,
+    "score": 216,
     "date": "2026-04-11",
     "category": "AI News"
   },
@@ -59,28 +59,28 @@
     "category": "Twitter"
   },
   {
-    "title": "AI assistance when contributing to the Linux kernel",
+    "title": "Rockstar Games Hacked, Hackers Threaten a Massive Data Leak If Not Paid Ransom",
     "source": "Hacker News",
-    "description": "HN Score: 473 | 356 comments",
-    "url": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst",
-    "score": 473,
+    "description": "HN Score: 83 | 41 comments",
+    "url": "https://kotaku.com/rockstar-games-reportedly-hacked-massive-data-leak-ransom-gta-6-shinyhunters-2000686858",
+    "score": 83,
     "date": "2026-04-11",
     "category": "AI News"
   },
   {
-    "title": "R to @DrJimFan: Please check out lead author @letian_fu's deep dive thread! https://x.com/letian_fu/status/2039342130565357956?s=20",
+    "title": "The power of the Claw, in the palm of a robot hand. Agentic robotics is here! Today, we open-source CaP-X: vibe agents, alive in the physical world. T",
     "source": "@DrJimFan",
     "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2039360927653614004#m",
+    "url": "https://nitter.net/DrJimFan/status/2039358115318243352#m",
     "date": "2026-04-11",
     "category": "Twitter"
   },
   {
-    "title": "Rockstar Games Hacked, Hackers Threaten a Massive Data Leak If Not Paid Ransom",
+    "title": "AI Is Tipping the Scales Toward Hackers After Mythos Release",
     "source": "Hacker News",
-    "description": "HN Score: 70 | 38 comments",
-    "url": "https://kotaku.com/rockstar-games-reportedly-hacked-massive-data-leak-ransom-gta-6-shinyhunters-2000686858",
-    "score": 70,
+    "description": "HN Score: 10 | 6 comments",
+    "url": "https://www.nbcnews.com/tech/security/anthropic-claude-mythos-ai-hackers-cybersecurity-vulnerabilities-rcna273673",
+    "score": 10,
     "date": "2026-04-11",
     "category": "AI News"
   },
@@ -95,9 +95,26 @@
   {
     "title": "Italo Calvino: A traveller in a world of uncertainty",
     "source": "Hacker News",
-    "description": "HN Score: 112 | 20 comments",
+    "description": "HN Score: 113 | 20 comments",
     "url": "https://www.historytoday.com/archive/portrait-author-historian/italo-calvino-traveller-world-uncertainty",
-    "score": 112,
+    "score": 113,
+    "date": "2026-04-11",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: Here is the inside of an AI Agent: Three core components: 1. Planner - Takes care of breaking down a task into individual steps. It's c",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2042986795210805352#m",
+    "date": "2026-04-11",
+    "category": "Twitter"
+  },
+  {
+    "title": "AI assistance when contributing to the Linux kernel",
+    "source": "Hacker News",
+    "description": "HN Score: 487 | 368 comments",
+    "url": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst",
+    "score": 487,
     "date": "2026-04-11",
     "category": "AI News"
   },
@@ -106,23 +123,6 @@
     "source": "@svpino",
     "description": "",
     "url": "https://nitter.net/svpino/status/2043004488785469848#m",
-    "date": "2026-04-11",
-    "category": "Twitter"
-  },
-  {
-    "title": "Bild AI (YC W25) Is Hiring a Founding Product Engineer",
-    "source": "Hacker News",
-    "description": "HN Score: 1 | 0 comments",
-    "url": "https://www.ycombinator.com/companies/bild-ai/jobs/dDMaxVN-founding-product-engineer",
-    "score": 1,
-    "date": "2026-04-11",
-    "category": "AI News"
-  },
-  {
-    "title": "It's become noticeably easier to recognize AI-slop replies here on this platform because they all follow the same patterns. It's like a template that ",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2042995963715838276#m",
     "date": "2026-04-11",
     "category": "Twitter"
   },
