@@ -10,9 +10,9 @@
   {
     "title": "Small models also found the vulnerabilities that Mythos found",
     "source": "Hacker News",
-    "description": "HN Score: 1014 | 275 comments",
+    "description": "HN Score: 1066 | 292 comments",
     "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
-    "score": 1014,
+    "score": 1066,
     "date": "2026-04-12",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
+    "title": "Anthropic silently downgraded cache TTL from 1h \u2192 5M on March 6th",
     "source": "Hacker News",
-    "description": "HN Score: 346 | 88 comments",
-    "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
-    "score": 346,
+    "description": "HN Score: 29 | 9 comments",
+    "url": "https://github.com/anthropics/claude-code/issues/46829",
+    "score": 29,
     "date": "2026-04-12",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "How a dancer with ALS used brainwaves to perform live",
+    "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
     "source": "Hacker News",
-    "description": "HN Score: 34 | 4 comments",
-    "url": "https://www.electronicspecifier.com/products/sensors/how-a-dancer-with-als-used-brainwaves-to-perform-live/",
-    "score": 34,
+    "description": "HN Score: 366 | 93 comments",
+    "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
+    "score": 366,
     "date": "2026-04-12",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Cirrus Labs to join OpenAI",
+    "title": "How a dancer with ALS used brainwaves to perform live",
     "source": "Hacker News",
-    "description": "HN Score: 261 | 126 comments",
-    "url": "https://cirruslabs.org/",
-    "score": 261,
+    "description": "HN Score: 38 | 8 comments",
+    "url": "https://www.electronicspecifier.com/products/sensors/how-a-dancer-with-als-used-brainwaves-to-perform-live/",
+    "score": 38,
     "date": "2026-04-12",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "High-Level Rust: Getting 80% of the Benefits with 20% of the Pain",
+    "title": "Cirrus Labs to join OpenAI",
     "source": "Hacker News",
-    "description": "HN Score: 26 | 11 comments",
-    "url": "https://hamy.xyz/blog/2026-01_high-level-rust",
-    "score": 26,
+    "description": "HN Score: 263 | 126 comments",
+    "url": "https://cirruslabs.org/",
+    "score": 263,
     "date": "2026-04-12",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Midnight Captain \u2013 A midnight commander inspired file manager",
+    "title": "High-Level Rust: Getting 80% of the Benefits with 20% of the Pain",
     "source": "Hacker News",
-    "description": "HN Score: 32 | 16 comments",
-    "url": "https://github.com/duguyue100/midnight-captain",
-    "score": 32,
+    "description": "HN Score: 35 | 34 comments",
+    "url": "https://hamy.xyz/blog/2026-01_high-level-rust",
+    "score": 35,
     "date": "2026-04-12",
     "category": "AI News"
   },
@@ -108,6 +108,15 @@
     "url": "https://nitter.net/svpino/status/2042953325554078042#m",
     "date": "2026-04-12",
     "category": "Twitter"
+  },
+  {
+    "title": "Midnight Captain \u2013 A midnight commander inspired file manager",
+    "source": "Hacker News",
+    "description": "HN Score: 32 | 19 comments",
+    "url": "https://github.com/duguyue100/midnight-captain",
+    "score": 32,
+    "date": "2026-04-12",
+    "category": "AI News"
   },
   {
     "title": "RT by @svpino: Here is the inside of an AI Agent: Three core components: 1. Planner - Takes care of breaking down a task into individual steps. It's c",
