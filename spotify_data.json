@@ -93,6 +93,16 @@
   ],
   "episodes": [
     {
+      "id": "a]6z Pod_0",
+      "name": "Building Agents at Home: Parenting, Work, and Benevolent Neglect",
+      "show": "a]6z Podcast",
+      "description": "Katherine Boyle and Sarah Wang speak with Jesse Genet, a self-proclaimed startup founder and family builder, about building 11 AI agents while homeschooling four young children. Jesse runs agents a",
+      "release_date": "2026-04-13",
+      "duration_min": 54,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
       "id": "Hard For_0",
       "name": "Anthropic’s Cybersecurity Shock Wave + Ronan Farrow and Andrew Marantz on Their Sam Altman Investigation + One Good Thing",
       "show": "Hard Fork",
@@ -103,7 +113,7 @@
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
-      "id": "a]6z Pod_0",
+      "id": "a]6z Pod_1",
       "name": "What Running Windows at Microsoft Taught Steven Sinofsky About Apple",
       "show": "a]6z Podcast",
       "description": "Theo Jaffee speaks with Steven Sinofsky, board partner at a16z and former president of the Windows division at Microsoft, about Apple's 50th anniversary, the cultural differences that separated App",
@@ -133,22 +143,12 @@
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "Who Controls AI Acceleration? Vitalik Buterin and Guillaume Verdon Debate",
       "show": "a]6z Podcast",
       "description": "Eddy Lazzarin speaks with Vitalik Buterin, founder of Ethereum, and Guillaume Verdon, founder and CEO of Extropic, about whether AI progress can or should be steered, the risks of concentrated powe",
       "release_date": "2026-04-09",
       "duration_min": 99,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
-    },
-    {
-      "id": "a]6z Pod_2",
-      "name": "The Agent Era: Building Software Beyond Chat with Box CEO Aaron Levie",
-      "show": "a]6z Podcast",
-      "description": "Erik Torenberg, Steve Sinofsky, and Martin Casado speak to Aaron Levie, CEO at Box, about what happens to enterprise software when agents become the primary users. They discuss why coding agents su",
-      "release_date": "2026-04-08",
-      "duration_min": 59,
       "image": "",
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
