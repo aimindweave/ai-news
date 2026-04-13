@@ -10,9 +10,9 @@
   {
     "title": "Servo is now available on crates.io",
     "source": "Hacker News",
-    "description": "HN Score: 267 | 88 comments",
+    "description": "HN Score: 323 | 112 comments",
     "url": "https://servo.org/blog/2026/04/13/servo-0.1.0-release/",
-    "score": 267,
+    "score": 323,
     "date": "2026-04-13",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "MEMS Array Chip Can Project Video the Size of a Grain of Sand",
     "source": "Hacker News",
-    "description": "HN Score: 24 | 6 comments",
+    "description": "HN Score: 47 | 18 comments",
     "url": "https://spectrum.ieee.org/mems-photonics",
-    "score": 24,
+    "score": 47,
     "date": "2026-04-13",
     "category": "AI News"
   },
@@ -44,9 +44,9 @@
   {
     "title": "Initial mainline video capture and camera support for Rockchip RK3588",
     "source": "Hacker News",
-    "description": "HN Score: 37 | 7 comments",
+    "description": "HN Score: 55 | 13 comments",
     "url": "https://www.collabora.com/news-and-blog/news-and-events/mainline-video-capture-and-camera-support-for-rockchip-rk3588.html",
-    "score": 37,
+    "score": 55,
     "date": "2026-04-13",
     "category": "AI News"
   },
@@ -61,9 +61,9 @@
   {
     "title": "Michigan 'digital age' bills pulled after privacy concerns raised",
     "source": "Hacker News",
-    "description": "HN Score: 140 | 70 comments",
+    "description": "HN Score: 171 | 83 comments",
     "url": "https://www.thecentersquare.com/michigan/article_7ca4e268-4a68-42fb-9042-f9d8604ebd7f.html",
-    "score": 140,
+    "score": 171,
     "date": "2026-04-13",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Claude Mythos: The System Card",
+    "title": "Evaluation of Claude Mythos Preview's cyber capabilities",
     "source": "Hacker News",
-    "description": "HN Score: 14 | 8 comments",
-    "url": "https://thezvi.substack.com/p/claude-mythos-the-system-card",
-    "score": 14,
+    "description": "HN Score: 23 | 13 comments",
+    "url": "https://www.aisi.gov.uk/blog/our-evaluation-of-claude-mythos-previews-cyber-capabilities",
+    "score": 23,
     "date": "2026-04-13",
     "category": "AI News"
   },
@@ -93,45 +93,62 @@
     "category": "Twitter"
   },
   {
-    "title": "I gave every train in New York an instrument",
-    "source": "Hacker News",
-    "description": "HN Score: 359 | 70 comments",
-    "url": "https://www.trainjazz.com/",
-    "score": 359,
-    "date": "2026-04-13",
-    "category": "AI News"
-  },
-  {
-    "title": "R to @svpino: Here is a link to the open-source benchmark: https://eu1.hubs.ly/H0tnP0p0",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2043708466263736703#m",
-    "date": "2026-04-13",
-    "category": "Twitter"
-  },
-  {
-    "title": "Claude.ai down",
-    "source": "Hacker News",
-    "description": "HN Score: 100 | 95 comments",
-    "url": "https://status.claude.com/incidents/6jd2m42f8mld",
-    "score": 100,
-    "date": "2026-04-13",
-    "category": "AI News"
-  },
-  {
-    "title": "AI companies are cheating.",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2043708454473515514#m",
-    "date": "2026-04-13",
-    "category": "Twitter"
-  },
-  {
     "title": "I ran Gemma 4 as a local model in Codex CLI",
     "source": "Hacker News",
-    "description": "HN Score: 193 | 83 comments",
+    "description": "HN Score: 218 | 93 comments",
     "url": "https://blog.danielvaughan.com/i-ran-gemma-4-as-a-local-model-in-codex-cli-7fda754dc0d4",
-    "score": 193,
+    "score": 218,
+    "date": "2026-04-13",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: Here are 7 tips to build better AI agents. The first agent I built: 1. Took information from a vector store 2. Formatted it as HTML 3. ",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2043673571529240999#m",
+    "date": "2026-04-13",
+    "category": "Twitter"
+  },
+  {
+    "title": "I gave every train in New York an instrument",
+    "source": "Hacker News",
+    "description": "HN Score: 373 | 71 comments",
+    "url": "https://www.trainjazz.com/",
+    "score": 373,
+    "date": "2026-04-13",
+    "category": "AI News"
+  },
+  {
+    "title": "R to @svpino: Cards are prepackaged workflows/prompts that you can run over and over again. Pretty similar idea to Skills. They have a whole library f",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2043759262388895944#m",
+    "date": "2026-04-13",
+    "category": "Twitter"
+  },
+  {
+    "title": "We have a 99% email reputation, but Gmail disagrees",
+    "source": "Hacker News",
+    "description": "HN Score: 345 | 295 comments",
+    "url": "https://blogfontawesome.wpcomstaging.com/we-have-a-99-email-reputation-gmail-disagrees/",
+    "score": 345,
+    "date": "2026-04-13",
+    "category": "AI News"
+  },
+  {
+    "title": "The Model Tsunami has begun! Elephant Alpha is a new stealth 100B instant model It's relatively small size so I don't expect it to really compete with",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2043754680866746623#m",
+    "date": "2026-04-13",
+    "category": "Twitter"
+  },
+  {
+    "title": "Tell HN: Docker pull fails in Spain due to football Cloudflare block",
+    "source": "Hacker News",
+    "description": "HN Score: 1089 | 398 comments",
+    "url": "https://news.ycombinator.com/item?id=47738883",
+    "score": 1089,
     "date": "2026-04-13",
     "category": "AI News"
   },
@@ -144,28 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: I built a social media management tool in 3 weeks with Claude and Codex",
+    "title": "Exploiting the most prominent AI agent benchmarks",
     "source": "Hacker News",
-    "description": "HN Score: 161 | 109 comments",
-    "url": "https://github.com/brightbeanxyz/brightbean-studio",
-    "score": 161,
-    "date": "2026-04-13",
-    "category": "AI News"
-  },
-  {
-    "title": "Lots of new models coming in the next week... It will be a very busy week with various LLMs competing for attention",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2043451471128334703#m",
-    "date": "2026-04-13",
-    "category": "Twitter"
-  },
-  {
-    "title": "We have a 99% email reputation, but Gmail disagrees",
-    "source": "Hacker News",
-    "description": "HN Score: 330 | 284 comments",
-    "url": "https://blogfontawesome.wpcomstaging.com/we-have-a-99-email-reputation-gmail-disagrees/",
-    "score": 330,
+    "description": "HN Score: 566 | 137 comments",
+    "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
+    "score": 566,
     "date": "2026-04-13",
     "category": "AI News"
   }
