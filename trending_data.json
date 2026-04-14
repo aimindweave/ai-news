@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Introspective Diffusion Language Models",
+    "title": "Show HN: LangAlpha \u2013 what if Claude Code was built for Wall Street?",
     "source": "Hacker News",
-    "description": "HN Score: 140 | 32 comments",
-    "url": "https://introspective-diffusion.github.io/",
-    "score": 140,
+    "description": "HN Score: 24 | 9 comments",
+    "url": "https://github.com/ginlix-ai/langalpha",
+    "score": 24,
     "date": "2026-04-14",
     "category": "AI News"
   },
@@ -25,11 +25,28 @@
     "category": "Twitter"
   },
   {
-    "title": "The M\u00d7N problem of tool calling and open-source models",
+    "title": "Show HN: Kontext CLI \u2013 Credential broker for AI coding agents in Go",
     "source": "Hacker News",
-    "description": "HN Score: 63 | 18 comments",
-    "url": "https://www.thetypicalset.com/blog/grammar-parser-maintenance-contract",
-    "score": 63,
+    "description": "HN Score: 34 | 9 comments",
+    "url": "https://github.com/kontext-dev/kontext-cli",
+    "score": 34,
+    "date": "2026-04-14",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: Today is the launch of 'WE ARE AS GODS: A Survival Guide for the Age of Abundance' -- my best book ever. Please check it out! The fo",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/PeterDiamandis/status/2044082746046459924#m",
+    "date": "2026-04-14",
+    "category": "Twitter"
+  },
+  {
+    "title": "Show HN: Kelet \u2013 Root Cause Analysis agent for your LLM apps",
+    "source": "Hacker News",
+    "description": "HN Score: 14 | 2 comments",
+    "url": "https://kelet.ai/",
+    "score": 14,
     "date": "2026-04-14",
     "category": "AI News"
   },
@@ -42,28 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Kontext CLI \u2013 Credential broker for AI coding agents in Go",
+    "title": "Introspective Diffusion Language Models",
     "source": "Hacker News",
-    "description": "HN Score: 4 | 0 comments",
-    "url": "https://github.com/kontext-dev/kontext-cli",
-    "score": 4,
-    "date": "2026-04-14",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @EMostaque: x.com/i/article/204192421158\u2026",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/EMostaque/status/2041924947035963673#m",
-    "date": "2026-04-14",
-    "category": "Twitter"
-  },
-  {
-    "title": "The Case Against Gameplay Loops",
-    "source": "Hacker News",
-    "description": "HN Score: 41 | 37 comments",
-    "url": "https://blog.joeyschutz.com/the-case-against-gameplay-loops/",
-    "score": 41,
+    "description": "HN Score: 171 | 35 comments",
+    "url": "https://introspective-diffusion.github.io/",
+    "score": 171,
     "date": "2026-04-14",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "The AI School Bus Camera Company Blanketing America in Tickets",
+    "title": "The M\u00d7N problem of tool calling and open-source models",
     "source": "Hacker News",
-    "description": "HN Score: 6 | 1 comments",
-    "url": "https://www.bloomberg.com/news/features/2026-04-14/buspatrol-school-bus-traffic-tickets-have-limited-safety-benefits-critics-say",
-    "score": 6,
+    "description": "HN Score: 88 | 31 comments",
+    "url": "https://www.thetypicalset.com/blog/grammar-parser-maintenance-contract",
+    "score": 88,
     "date": "2026-04-14",
     "category": "AI News"
   },
@@ -95,43 +95,43 @@
   {
     "title": "Multi-Agentic Software Development Is a Distributed Systems Problem",
     "source": "Hacker News",
-    "description": "HN Score: 79 | 35 comments",
+    "description": "HN Score: 90 | 43 comments",
     "url": "https://kirancodes.me/posts/log-distributed-llms.html",
-    "score": 79,
+    "score": 90,
     "date": "2026-04-14",
     "category": "AI News"
   },
   {
-    "title": "R to @svpino: The @Kumo_ai_team built something for this: a Relational Foundation Model (RFM). Instead of treating your data as text, Kumo uses graph ",
+    "title": "Claude Code is the best coding tool I've ever used. I use it every single day. But if you asked me to let 12 people across a company start building to",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2044069510727250428#m",
+    "url": "https://nitter.net/svpino/status/2044100899082232167#m",
+    "date": "2026-04-14",
+    "category": "Twitter"
+  },
+  {
+    "title": "War as a Pretext: Gulf States Are Tightening the Screws on Speech\u2013Again",
+    "source": "Hacker News",
+    "description": "HN Score: 20 | 0 comments",
+    "url": "https://www.eff.org/deeplinks/2026/04/war-pretext-gulf-states-are-tightening-screws-speech-again",
+    "score": 20,
+    "date": "2026-04-14",
+    "category": "AI News"
+  },
+  {
+    "title": "This is how you give your agent access to the entire live web in 2 steps: Step 1: Install this CLI: $ npm install -g @tiny-fish/cli This gives you ter",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2044091625954259118#m",
     "date": "2026-04-14",
     "category": "Twitter"
   },
   {
     "title": "The Great Majority: Body Snatching and Burial Reform in 19th-Century Britain",
     "source": "Hacker News",
-    "description": "HN Score: 15 | 1 comments",
+    "description": "HN Score: 21 | 2 comments",
     "url": "https://publicdomainreview.org/essay/the-great-majority/",
-    "score": 15,
-    "date": "2026-04-14",
-    "category": "AI News"
-  },
-  {
-    "title": "This is a trillion-dollar industry, and you can't solve it with an LLM: \u2022 Forecasting \u2022 Fraud detection \u2022 Churn prediction Large Language Models are f",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2044069498601537770#m",
-    "date": "2026-04-14",
-    "category": "Twitter"
-  },
-  {
-    "title": "To teach in the era of ChatGPT is to know pain",
-    "source": "Hacker News",
-    "description": "HN Score: 4 | 1 comments",
-    "url": "https://arstechnica.com/science/2026/04/to-teach-in-the-time-of-chatgpt-is-to-know-pain/",
-    "score": 4,
+    "score": 21,
     "date": "2026-04-14",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "N-Day-Bench \u2013 Can LLMs find real vulnerabilities in real codebases?",
+    "title": "To teach in the era of ChatGPT is to know pain",
     "source": "Hacker News",
-    "description": "HN Score: 86 | 28 comments",
-    "url": "https://ndaybench.winfunc.com",
-    "score": 86,
+    "description": "HN Score: 18 | 2 comments",
+    "url": "https://arstechnica.com/science/2026/04/to-teach-in-the-time-of-chatgpt-is-to-know-pain/",
+    "score": 18,
     "date": "2026-04-14",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "US Treasury Seeking Access to Anthropic's Mythos to Find Flaws",
+    "title": "Stanford HAI Index Report 2026",
     "source": "Hacker News",
-    "description": "HN Score: 6 | 1 comments",
-    "url": "https://www.bloomberg.com/news/articles/2026-04-14/us-treasury-seeking-access-to-anthropic-s-mythos-to-find-flaws",
-    "score": 6,
+    "description": "HN Score: 5 | 0 comments",
+    "url": "https://hai.stanford.edu/ai-index/2026-ai-index-report",
+    "score": 5,
     "date": "2026-04-14",
     "category": "AI News"
   }
