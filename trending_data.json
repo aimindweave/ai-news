@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Two Months After I Gave an AI $100 and No Instructions",
+    "title": "Introspective Diffusion Language Models",
     "source": "Hacker News",
-    "description": "HN Score: 36 | 24 comments",
-    "url": "https://www.sebastian-jais.de/blog/two-months-alma-experiment",
-    "score": 36,
+    "description": "HN Score: 140 | 32 comments",
+    "url": "https://introspective-diffusion.github.io/",
+    "score": 140,
     "date": "2026-04-14",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Introspective Diffusion Language Models",
+    "title": "The M\u00d7N problem of tool calling and open-source models",
     "source": "Hacker News",
-    "description": "HN Score: 122 | 30 comments",
-    "url": "https://introspective-diffusion.github.io/",
-    "score": 122,
+    "description": "HN Score: 63 | 18 comments",
+    "url": "https://www.thetypicalset.com/blog/grammar-parser-maintenance-contract",
+    "score": 63,
     "date": "2026-04-14",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "The M\u00d7N problem of tool calling and open-source models",
+    "title": "Show HN: Kontext CLI \u2013 Credential broker for AI coding agents in Go",
     "source": "Hacker News",
-    "description": "HN Score: 40 | 12 comments",
-    "url": "https://www.thetypicalset.com/blog/grammar-parser-maintenance-contract",
-    "score": 40,
+    "description": "HN Score: 4 | 0 comments",
+    "url": "https://github.com/kontext-dev/kontext-cli",
+    "score": 4,
     "date": "2026-04-14",
     "category": "AI News"
   },
@@ -61,9 +61,9 @@
   {
     "title": "The Case Against Gameplay Loops",
     "source": "Hacker News",
-    "description": "HN Score: 18 | 10 comments",
+    "description": "HN Score: 41 | 37 comments",
     "url": "https://blog.joeyschutz.com/the-case-against-gameplay-loops/",
-    "score": 18,
+    "score": 41,
     "date": "2026-04-14",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "The Great Majority: Body Snatching and Burial Reform in 19th-Century Britain",
+    "title": "The AI School Bus Camera Company Blanketing America in Tickets",
     "source": "Hacker News",
-    "description": "HN Score: 10 | 1 comments",
-    "url": "https://publicdomainreview.org/essay/the-great-majority/",
-    "score": 10,
+    "description": "HN Score: 6 | 1 comments",
+    "url": "https://www.bloomberg.com/news/features/2026-04-14/buspatrol-school-bus-traffic-tickets-have-limited-safety-benefits-critics-say",
+    "score": 6,
     "date": "2026-04-14",
     "category": "AI News"
   },
@@ -95,60 +95,43 @@
   {
     "title": "Multi-Agentic Software Development Is a Distributed Systems Problem",
     "source": "Hacker News",
-    "description": "HN Score: 63 | 27 comments",
+    "description": "HN Score: 79 | 35 comments",
     "url": "https://kirancodes.me/posts/log-distributed-llms.html",
-    "score": 63,
+    "score": 79,
     "date": "2026-04-14",
     "category": "AI News"
   },
   {
-    "title": "Running Gemma 4 26b and 31b side by side on my Mac Studio. Hardware: Mac Studio M4 Max with 128 GB RAM. Running both models locally with Ollama. Attac",
+    "title": "R to @svpino: The @Kumo_ai_team built something for this: a Relational Foundation Model (RFM). Instead of treating your data as text, Kumo uses graph ",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2044033205112824197#m",
+    "url": "https://nitter.net/svpino/status/2044069510727250428#m",
     "date": "2026-04-14",
     "category": "Twitter"
   },
   {
-    "title": "N-Day-Bench \u2013 Can LLMs find real vulnerabilities in real codebases?",
+    "title": "The Great Majority: Body Snatching and Burial Reform in 19th-Century Britain",
     "source": "Hacker News",
-    "description": "HN Score: 86 | 27 comments",
-    "url": "https://ndaybench.winfunc.com",
-    "score": 86,
+    "description": "HN Score: 15 | 1 comments",
+    "url": "https://publicdomainreview.org/essay/the-great-majority/",
+    "score": 15,
     "date": "2026-04-14",
     "category": "AI News"
   },
   {
-    "title": "RT by @svpino: My agent already forgot everything we did last week. That sucks. This article discusses a shared memory layer that spans sessions and i",
+    "title": "This is a trillion-dollar industry, and you can't solve it with an LLM: \u2022 Forecasting \u2022 Fraud detection \u2022 Churn prediction Large Language Models are f",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2043771717060071477#m",
+    "url": "https://nitter.net/svpino/status/2044069498601537770#m",
     "date": "2026-04-14",
     "category": "Twitter"
   },
   {
-    "title": "Air Powered Segment Display? [video]",
+    "title": "To teach in the era of ChatGPT is to know pain",
     "source": "Hacker News",
-    "description": "HN Score: 118 | 11 comments",
-    "url": "https://www.youtube.com/watch?v=E1BLGpE5zH0",
-    "score": 118,
-    "date": "2026-04-14",
-    "category": "AI News"
-  },
-  {
-    "title": "Next week we will have an entirely new best model list coding - GPT 5.4 thinking claw - m2.7 cheap - Gemini Flash video - SeeDance open-source - GLM 5",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2043935507579842855#m",
-    "date": "2026-04-14",
-    "category": "Twitter"
-  },
-  {
-    "title": "GAIA \u2013 Open-source framework for building AI agents that run on local hardware",
-    "source": "Hacker News",
-    "description": "HN Score: 133 | 32 comments",
-    "url": "https://amd-gaia.ai/docs",
-    "score": 133,
+    "description": "HN Score: 4 | 1 comments",
+    "url": "https://arstechnica.com/science/2026/04/to-teach-in-the-time-of-chatgpt-is-to-know-pain/",
+    "score": 4,
     "date": "2026-04-14",
     "category": "AI News"
   },
@@ -161,11 +144,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Servo is now available on crates.io",
+    "title": "N-Day-Bench \u2013 Can LLMs find real vulnerabilities in real codebases?",
     "source": "Hacker News",
-    "description": "HN Score: 458 | 147 comments",
-    "url": "https://servo.org/blog/2026/04/13/servo-0.1.0-release/",
-    "score": 458,
+    "description": "HN Score: 86 | 28 comments",
+    "url": "https://ndaybench.winfunc.com",
+    "score": 86,
+    "date": "2026-04-14",
+    "category": "AI News"
+  },
+  {
+    "title": "Spent the entire weekend vibe coding I am convinced more than ever that truly innovative things will be built by one person companies or small teams T",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2043572318493130778#m",
+    "date": "2026-04-14",
+    "category": "Twitter"
+  },
+  {
+    "title": "US Treasury Seeking Access to Anthropic's Mythos to Find Flaws",
+    "source": "Hacker News",
+    "description": "HN Score: 6 | 1 comments",
+    "url": "https://www.bloomberg.com/news/articles/2026-04-14/us-treasury-seeking-access-to-anthropic-s-mythos-to-find-flaws",
+    "score": 6,
     "date": "2026-04-14",
     "category": "AI News"
   }

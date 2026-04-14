@@ -93,6 +93,16 @@
   ],
   "episodes": [
     {
+      "id": "The AI P_0",
+      "name": "How AI Will Change Quantum Computing - Ep. 294",
+      "show": "The AI Podcast (NVIDIA)",
+      "description": "What happens when you combine AI with quantum computing? NVIDIA's Nic Harrigan joins the AI Podcast to break down the state of quantum, explain why error correction is the pivotal challenge, and revea",
+      "release_date": "2026-04-14",
+      "duration_min": 31,
+      "image": "",
+      "url": "https://open.spotify.com/show/0e1X4kJVfwQRPF8lZzqqfX"
+    },
+    {
       "id": "a]6z Pod_0",
       "name": "Ben Horowitz on AI Infrastructure, Economics and The New Laws of Software",
       "show": "a]6z Podcast",
@@ -213,7 +223,7 @@
       "url": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"
     },
     {
-      "id": "The AI P_0",
+      "id": "The AI P_1",
       "name": "Building AI Factories: How Red Hat and NVIDIA Turn Enterprise Data Into Intelligence - Ep. 293",
       "show": "The AI Podcast (NVIDIA)",
       "description": "Enterprises are moving from AI pilots to full‑scale AI factories that turn data into trusted digital intelligence. Red Hat CTO Chris Wright and NVIDIA’s Justin Boitano unpack the \"five‑layer cake\" AI ",
@@ -243,22 +253,12 @@
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
     },
     {
-      "id": "The AI P_1",
+      "id": "The AI P_2",
       "name": "Powering the AI Inference Wave with EPRI's Ben Sooter - Ep. 292",
       "show": "The AI Podcast (NVIDIA)",
       "description": "AI is reshaping electricity demand. What does increased demand, and the shape of that demand, mean for the electric grid? Ben Sooter, Director of R&D at EPRI joins the podcast to explain why most of a",
       "release_date": "2026-03-04",
       "duration_min": 32,
-      "image": "",
-      "url": "https://open.spotify.com/show/0e1X4kJVfwQRPF8lZzqqfX"
-    },
-    {
-      "id": "The AI P_2",
-      "name": "AI Agents and the Future of Global Trade with Alibaba’s Kuo Zhang - Ep. 291",
-      "show": "The AI Podcast (NVIDIA)",
-      "description": "Alibaba.com president Kuo Zhang discusses how AI agents like Accio are reshaping global trade. He shares insights on automating complex B2B sourcing, compressing weeks of work into minutes, lowering b",
-      "release_date": "2026-02-27",
-      "duration_min": 33,
       "image": "",
       "url": "https://open.spotify.com/show/0e1X4kJVfwQRPF8lZzqqfX"
     },
