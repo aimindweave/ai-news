@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Air Powered Segment Display? [video]",
+    "title": "An AI Vibe Coding Horror Story",
     "source": "Hacker News",
-    "description": "HN Score: 84 | 10 comments",
-    "url": "https://www.youtube.com/watch?v=E1BLGpE5zH0",
-    "score": 84,
+    "description": "HN Score: 60 | 36 comments",
+    "url": "https://www.tobru.ch/an-ai-vibe-coding-horror-story/",
+    "score": 60,
     "date": "2026-04-14",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "GAIA \u2013 Open-source framework for building AI agents that run on local hardware",
+    "title": "Introspective Diffusion Language Models",
     "source": "Hacker News",
-    "description": "HN Score: 120 | 29 comments",
-    "url": "https://amd-gaia.ai/docs",
-    "score": 120,
+    "description": "HN Score: 24 | 6 comments",
+    "url": "https://introspective-diffusion.github.io/",
+    "score": 24,
     "date": "2026-04-14",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "N-Day-Bench \u2013 Can LLMs find real vulnerabilities in real codebases?",
+    "title": "Multi-Agentic Software Development Is a Distributed Systems Problem",
     "source": "Hacker News",
-    "description": "HN Score: 54 | 15 comments",
-    "url": "https://ndaybench.winfunc.com",
-    "score": 54,
+    "description": "HN Score: 30 | 8 comments",
+    "url": "https://kirancodes.me/posts/log-distributed-llms.html",
+    "score": 30,
     "date": "2026-04-14",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "The AI revolution in math has arrived",
+    "title": "N-Day-Bench \u2013 Can LLMs find real vulnerabilities in real codebases?",
     "source": "Hacker News",
-    "description": "HN Score: 74 | 40 comments",
-    "url": "https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/",
-    "score": 74,
+    "description": "HN Score: 65 | 18 comments",
+    "url": "https://ndaybench.winfunc.com",
+    "score": 65,
     "date": "2026-04-14",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "MEMS Array Chip Can Project Video the Size of a Grain of Sand",
+    "title": "Can Claude Fly a Plane?",
     "source": "Hacker News",
-    "description": "HN Score: 82 | 36 comments",
-    "url": "https://spectrum.ieee.org/mems-photonics",
-    "score": 82,
+    "description": "HN Score: 78 | 71 comments",
+    "url": "https://so.long.thanks.fish/can-claude-fly-a-plane/",
+    "score": 78,
     "date": "2026-04-14",
     "category": "AI News"
   },
@@ -93,38 +93,64 @@
     "category": "Twitter"
   },
   {
-    "title": "Servo is now available on crates.io",
+    "title": "Air Powered Segment Display? [video]",
     "source": "Hacker News",
-    "description": "HN Score: 445 | 141 comments",
-    "url": "https://servo.org/blog/2026/04/13/servo-0.1.0-release/",
-    "score": 445,
+    "description": "HN Score: 104 | 11 comments",
+    "url": "https://www.youtube.com/watch?v=E1BLGpE5zH0",
+    "score": 104,
     "date": "2026-04-14",
     "category": "AI News"
   },
   {
-    "title": "RT by @svpino: AI companies are cheating.",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2043708454473515514#m",
-    "date": "2026-04-14",
-    "category": "Twitter"
-  },
-  {
-    "title": "Initial mainline video capture and camera support for Rockchip RK3588",
-    "source": "Hacker News",
-    "description": "HN Score: 80 | 24 comments",
-    "url": "https://www.collabora.com/news-and-blog/news-and-events/mainline-video-capture-and-camera-support-for-rockchip-rk3588.html",
-    "score": 80,
-    "date": "2026-04-14",
-    "category": "AI News"
-  },
-  {
-    "title": "My agent already forgot everything we did last week. That sucks. This article discusses a shared memory layer that spans sessions and is available to ",
+    "title": "RT by @svpino: My agent already forgot everything we did last week. That sucks. This article discusses a shared memory layer that spans sessions and i",
     "source": "@svpino",
     "description": "",
     "url": "https://nitter.net/svpino/status/2043771717060071477#m",
     "date": "2026-04-14",
     "category": "Twitter"
+  },
+  {
+    "title": "GAIA \u2013 Open-source framework for building AI agents that run on local hardware",
+    "source": "Hacker News",
+    "description": "HN Score: 128 | 30 comments",
+    "url": "https://amd-gaia.ai/docs",
+    "score": 128,
+    "date": "2026-04-14",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: Opera is now packed with a bunch of good ideas. Their @opera_neon_ browser comes with several agents that will make your relationship w",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2043759249864700244#m",
+    "date": "2026-04-14",
+    "category": "Twitter"
+  },
+  {
+    "title": "Servo is now available on crates.io",
+    "source": "Hacker News",
+    "description": "HN Score: 450 | 145 comments",
+    "url": "https://servo.org/blog/2026/04/13/servo-0.1.0-release/",
+    "score": 450,
+    "date": "2026-04-14",
+    "category": "AI News"
+  },
+  {
+    "title": "Next week we will have an entirely new best model list coding - GPT 5.4 thinking claw - m2.7 cheap - Gemini Flash video - SeeDance open-source - GLM 5",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2043935507579842855#m",
+    "date": "2026-04-14",
+    "category": "Twitter"
+  },
+  {
+    "title": "MEMS Array Chip Can Project Video the Size of a Grain of Sand",
+    "source": "Hacker News",
+    "description": "HN Score: 86 | 38 comments",
+    "url": "https://spectrum.ieee.org/mems-photonics",
+    "score": 86,
+    "date": "2026-04-14",
+    "category": "AI News"
   },
   {
     "title": "Product managers are the new 10x engineers! Good PMs no longer need large engineering teams They can simply get AI to build whatever they please... in",
@@ -135,11 +161,12 @@
     "category": "Twitter"
   },
   {
-    "title": "The Model Tsunami has begun! Elephant Alpha is a new stealth 100B instant model It's relatively small size so I don't expect it to really compete with",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2043754680866746623#m",
+    "title": "Initial mainline video capture and camera support for Rockchip RK3588",
+    "source": "Hacker News",
+    "description": "HN Score: 84 | 24 comments",
+    "url": "https://www.collabora.com/news-and-blog/news-and-events/mainline-video-capture-and-camera-support-for-rockchip-rk3588.html",
+    "score": 84,
     "date": "2026-04-14",
-    "category": "Twitter"
+    "category": "AI News"
   }
 ]
