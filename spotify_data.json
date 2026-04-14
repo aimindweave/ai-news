@@ -94,6 +94,16 @@
   "episodes": [
     {
       "id": "a]6z Pod_0",
+      "name": "Ben Horowitz on AI Infrastructure, Economics and The New Laws of Software",
+      "show": "a]6z Podcast",
+      "description": "Recorded live at the a16z Fintech Connect conference in Deer Valley, Alex Rampell speaks with Ben Horowitz, cofounder and general partner at a16z, about how AI has rewritten the fundamental rules o",
+      "release_date": "2026-04-14",
+      "duration_min": 29,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
+      "id": "a]6z Pod_1",
       "name": "Building Agents at Home: Parenting, Work, and Benevolent Neglect",
       "show": "a]6z Podcast",
       "description": "Katherine Boyle and Sarah Wang speak with Jesse Genet, a startup founder and family builder, about building 11 AI agents while homeschooling four young children. Jesse runs agents across roles rang",
@@ -113,7 +123,7 @@
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "What Running Windows at Microsoft Taught Steven Sinofsky About Apple",
       "show": "a]6z Podcast",
       "description": "Theo Jaffee speaks with Steven Sinofsky, board partner at a16z and former president of the Windows division at Microsoft, about Apple's 50th anniversary, the cultural differences that separated App",
@@ -141,16 +151,6 @@
       "duration_min": 44,
       "image": "",
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
-    },
-    {
-      "id": "a]6z Pod_2",
-      "name": "Who Controls AI Acceleration? Vitalik Buterin and Guillaume Verdon Debate",
-      "show": "a]6z Podcast",
-      "description": "Eddy Lazzarin speaks with Vitalik Buterin, founder of Ethereum, and Guillaume Verdon, founder and CEO of Extropic, about whether AI progress can or should be steered, the risks of concentrated powe",
-      "release_date": "2026-04-09",
-      "duration_min": 99,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
       "id": "Hard For_1",
