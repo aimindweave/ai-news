@@ -1,8 +1,15 @@
 [
   {
+    "title": "Anthropic co-founder confirms the company briefed the Trump administration on Mythos",
+    "source": "TechCrunch",
+    "summary": "In an interview at the Semafor World Economy summit this week, Anthropic co-founder Jack Clark explained why the company was still engaged with the U.S. government while simultaneously suing them.",
+    "url": "https://techcrunch.com/2026/04/14/anthropic-co-founder-confirms-the-company-briefed-the-trump-administration-on-mythos/",
+    "date": "2026-04-14"
+  },
+  {
     "title": "Max Hodak\u2019s Science Corp. is preparing to place its first sensor in a human brain",
     "source": "TechCrunch",
-    "summary": "Human trials on the hybrid sensor are expected to begin in the years ahead.",
+    "summary": "The device could help address multiple neurological conditions if it proves successful. One early use could be delivering gentle electrical stimulation to damaged brain or spinal cord cells to encourage healing.",
     "url": "https://techcrunch.com/2026/04/14/max-hodaks-science-corp-is-preparing-to-place-its-first-sensor-in-a-human-brain/",
     "date": "2026-04-14"
   },
@@ -98,10 +105,10 @@
     "date": "2026-04-14"
   },
   {
-    "title": "Sam Altman responds to \u2018incendiary\u2019 New Yorker article after attack on his home",
-    "source": "TechCrunch",
-    "summary": "The OpenAI CEO's new blog post responds to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness.",
-    "url": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
+    "title": "Redefining the future of software engineering",
+    "source": "MIT Tech Review",
+    "summary": "Software engineering has experienced two seismic shifts this century. First was the rise of the open source movement, which gradually made code accessible to developers and engineers everywhere. Second, the adoption of development operations (DevOps) and agile methodologies took software from sil...",
+    "url": "https://www.technologyreview.com/2026/04/14/1134397/redefining-the-future-of-software-engineering/",
     "date": "2026-04-14"
   },
   {
@@ -165,13 +172,6 @@
     "source": "MIT Tech Review",
     "summary": "Uri Maoz loved doing his human research, back when he was getting his PhD. He was studying a very specific topic in computational neuroscience: how the brain instructs our arms to move and how our gray matter in turn perceives that motion. Then his professor asked him to deliver an undergrad lect...",
     "url": "https://www.technologyreview.com/2026/04/13/1135162/uri-maoz-does-free-will-exist/",
-    "date": "2026-04-14"
-  },
-  {
-    "title": "What\u2019s in a name? Moderna\u2019s \u201cvaccine\u201d vs. \u201ctherapy\u201d dilemma",
-    "source": "MIT Tech Review",
-    "summary": "Is it the Department of Defense or the Department of War? The Gulf of Mexico or the Gulf of America? A vaccine\u2014or an \u201cindividualized neoantigen treatment\u201d? That\u2019s the Trump-era vocabulary paradox facing Moderna, the covid-19 shot maker whose plans for next-generation mRNA vaccines against flus an...",
-    "url": "https://www.technologyreview.com/2026/04/10/1135631/whats-in-a-name-modernas-vaccine-vs-therapy-dilemma/",
     "date": "2026-04-14"
   },
   {
@@ -242,6 +242,13 @@
     "source": "Wired",
     "summary": "The new AI model is being heralded\u2014and feared\u2014as a hacker\u2019s superweapon. Experts say its arrival is a wake-up call for developers who have long made security an afterthought.",
     "url": "https://www.wired.com/story/anthropics-mythos-will-force-a-cybersecurity-reckoning-just-not-the-one-you-think/",
+    "date": "2026-04-14"
+  },
+  {
+    "title": "UK gov's Mythos AI tests help separate cybersecurity threat from hype",
+    "source": "Ars Technica",
+    "summary": "New model is the first AI system to complete a difficult multi-step infiltration challenge.",
+    "url": "https://arstechnica.com/ai/2026/04/uk-govs-mythos-ai-tests-help-separate-cybersecurity-threat-from-hype/",
     "date": "2026-04-14"
   },
   {
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "Use of AI coding tools has become a convenient boogeyman for any tech issues.",
     "url": "https://arstechnica.com/ai/2026/04/bluesky-users-are-mastering-the-fine-art-of-blaming-everything-on-vibe-coding/",
-    "date": "2026-04-14"
-  },
-  {
-    "title": "Testing suggests Google's AI Overviews tell millions of lies per hour",
-    "source": "Ars Technica",
-    "summary": "Is 90 percent accuracy good enough for a search robot?",
-    "url": "https://arstechnica.com/google/2026/04/analysis-finds-google-ai-overviews-is-wrong-10-percent-of-the-time/",
     "date": "2026-04-14"
   }
 ]
