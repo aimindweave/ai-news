@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Claude Code Routines",
+    "title": "My AI-Assisted Workflow",
     "source": "Hacker News",
-    "description": "HN Score: 603 | 352 comments",
-    "url": "https://code.claude.com/docs/en/routines",
-    "score": 603,
+    "description": "HN Score: 50 | 27 comments",
+    "url": "https://www.maiobarbero.dev/articles/ai-assisted-workflow/",
+    "score": 50,
     "date": "2026-04-15",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "My AI-Assisted Workflow",
+    "title": "Claude Code Routines",
     "source": "Hacker News",
-    "description": "HN Score: 21 | 13 comments",
-    "url": "https://www.maiobarbero.dev/articles/ai-assisted-workflow/",
-    "score": 21,
+    "description": "HN Score: 629 | 360 comments",
+    "url": "https://code.claude.com/docs/en/routines",
+    "score": 629,
     "date": "2026-04-15",
     "category": "AI News"
   },
@@ -38,6 +38,40 @@
     "source": "@EMostaque",
     "description": "",
     "url": "https://nitter.net/PeterDiamandis/status/2044082746046459924#m",
+    "date": "2026-04-15",
+    "category": "Twitter"
+  },
+  {
+    "title": "Claude may require identity verification in some cases",
+    "source": "Hacker News",
+    "description": "HN Score: 36 | 20 comments",
+    "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
+    "score": 36,
+    "date": "2026-04-15",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: \ud83d\udea8 AI DOOM IS 50% @emostaque says there\u2019s a coin flip chance AI goes very badly. One path looks like Star Trek. The other looks like ",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/Kylechasse/status/2042697114371703172#m",
+    "date": "2026-04-15",
+    "category": "Twitter"
+  },
+  {
+    "title": "Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference",
+    "source": "Hacker News",
+    "description": "HN Score: 32 | 20 comments",
+    "url": "https://www.gizmoweek.com/gemma-4-runs-iphone/",
+    "score": 32,
+    "date": "2026-04-15",
+    "category": "AI News"
+  },
+  {
+    "title": "R to @DrJimFan: Please check out lead author @letian_fu's deep dive thread! https://x.com/letian_fu/status/2039342130565357956?s=20",
+    "source": "@DrJimFan",
+    "description": "",
+    "url": "https://nitter.net/DrJimFan/status/2039360927653614004#m",
     "date": "2026-04-15",
     "category": "Twitter"
   },
@@ -51,40 +85,6 @@
     "category": "AI News"
   },
   {
-    "title": "RT by @EMostaque: \ud83d\udea8 AI DOOM IS 50% @emostaque says there\u2019s a coin flip chance AI goes very badly. One path looks like Star Trek. The other looks like ",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/Kylechasse/status/2042697114371703172#m",
-    "date": "2026-04-15",
-    "category": "Twitter"
-  },
-  {
-    "title": "Turn your best AI prompts into one-click tools in Chrome",
-    "source": "Hacker News",
-    "description": "HN Score: 159 | 81 comments",
-    "url": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
-    "score": 159,
-    "date": "2026-04-15",
-    "category": "AI News"
-  },
-  {
-    "title": "R to @DrJimFan: Please check out lead author @letian_fu's deep dive thread! https://x.com/letian_fu/status/2039342130565357956?s=20",
-    "source": "@DrJimFan",
-    "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2039360927653614004#m",
-    "date": "2026-04-15",
-    "category": "Twitter"
-  },
-  {
-    "title": "Troubleshooting Email Delivery to Microsoft Users",
-    "source": "Hacker News",
-    "description": "HN Score: 73 | 19 comments",
-    "url": "https://rozumem.xyz/posts/14",
-    "score": 73,
-    "date": "2026-04-15",
-    "category": "AI News"
-  },
-  {
     "title": "R to @DrJimFan: As usual, we open-source everything, MIT license: https://capgym.github.io Code: https://github.com/capgym/cap-x Paper: https://arxiv.",
     "source": "@DrJimFan",
     "description": "",
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Plain \u2013 The full-stack Python framework designed for humans and agents",
+    "title": "Turn your best AI prompts into one-click tools in Chrome",
     "source": "Hacker News",
-    "description": "HN Score: 86 | 44 comments",
-    "url": "https://github.com/dropseed/plain",
-    "score": 86,
+    "description": "HN Score: 168 | 84 comments",
+    "url": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
+    "score": 168,
     "date": "2026-04-15",
     "category": "AI News"
   },
@@ -110,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference",
+    "title": "Troubleshooting Email Delivery to Microsoft Users",
     "source": "Hacker News",
-    "description": "HN Score: 4 | 1 comments",
-    "url": "https://www.gizmoweek.com/gemma-4-runs-iphone/",
-    "score": 4,
+    "description": "HN Score: 76 | 19 comments",
+    "url": "https://rozumem.xyz/posts/14",
+    "score": 76,
     "date": "2026-04-15",
     "category": "AI News"
   },
@@ -129,9 +129,9 @@
   {
     "title": "The M\u00d7N problem of tool calling and open-source models",
     "source": "Hacker News",
-    "description": "HN Score: 149 | 46 comments",
+    "description": "HN Score: 150 | 47 comments",
     "url": "https://www.thetypicalset.com/blog/grammar-parser-maintenance-contract",
-    "score": 149,
+    "score": 150,
     "date": "2026-04-15",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: LangAlpha \u2013 what if Claude Code was built for Wall Street?",
+    "title": "Show HN: Plain \u2013 The full-stack Python framework designed for humans and agents",
     "source": "Hacker News",
-    "description": "HN Score: 133 | 45 comments",
-    "url": "https://github.com/ginlix-ai/langalpha",
-    "score": 133,
+    "description": "HN Score: 86 | 45 comments",
+    "url": "https://github.com/dropseed/plain",
+    "score": 86,
     "date": "2026-04-15",
     "category": "AI News"
   },
@@ -159,5 +159,14 @@
     "url": "https://nitter.net/bindureddy/status/2044253920835580304#m",
     "date": "2026-04-15",
     "category": "Twitter"
+  },
+  {
+    "title": "Show HN: LangAlpha \u2013 what if Claude Code was built for Wall Street?",
+    "source": "Hacker News",
+    "description": "HN Score: 134 | 46 comments",
+    "url": "https://github.com/ginlix-ai/langalpha",
+    "score": 134,
+    "date": "2026-04-15",
+    "category": "AI News"
   }
 ]
