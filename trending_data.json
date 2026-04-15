@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "My AI-Assisted Workflow",
+    "title": "MCP as Observability Interface: Connecting AI Agents to Kernel Tracepoints",
     "source": "Hacker News",
-    "description": "HN Score: 50 | 27 comments",
-    "url": "https://www.maiobarbero.dev/articles/ai-assisted-workflow/",
-    "score": 50,
+    "description": "HN Score: 7 | 0 comments",
+    "url": "https://ingero.io/mcp-observability-interface-ai-agents-kernel-tracepoints/",
+    "score": 7,
     "date": "2026-04-15",
     "category": "AI News"
   },
@@ -25,11 +25,28 @@
     "category": "Twitter"
   },
   {
+    "title": "Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference",
+    "source": "Hacker News",
+    "description": "HN Score: 124 | 89 comments",
+    "url": "https://www.gizmoweek.com/gemma-4-runs-iphone/",
+    "score": 124,
+    "date": "2026-04-15",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: Allbirds, the shoe brand, now says it's an AI compute company.",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/tracyalloway/status/2044393082645274821#m",
+    "date": "2026-04-15",
+    "category": "Twitter"
+  },
+  {
     "title": "Claude Code Routines",
     "source": "Hacker News",
-    "description": "HN Score: 629 | 360 comments",
+    "description": "HN Score: 671 | 377 comments",
     "url": "https://code.claude.com/docs/en/routines",
-    "score": 629,
+    "score": 671,
     "date": "2026-04-15",
     "category": "AI News"
   },
@@ -42,28 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Claude may require identity verification in some cases",
+    "title": "Pretty Fish: A better mermaid diagram editor",
     "source": "Hacker News",
-    "description": "HN Score: 36 | 20 comments",
-    "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
-    "score": 36,
-    "date": "2026-04-15",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @EMostaque: \ud83d\udea8 AI DOOM IS 50% @emostaque says there\u2019s a coin flip chance AI goes very badly. One path looks like Star Trek. The other looks like ",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/Kylechasse/status/2042697114371703172#m",
-    "date": "2026-04-15",
-    "category": "Twitter"
-  },
-  {
-    "title": "Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference",
-    "source": "Hacker News",
-    "description": "HN Score: 32 | 20 comments",
-    "url": "https://www.gizmoweek.com/gemma-4-runs-iphone/",
-    "score": 32,
+    "description": "HN Score: 11 | 2 comments",
+    "url": "https://pretty.fish/",
+    "score": 11,
     "date": "2026-04-15",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "MDalgorithms (AI Healthcare) \u2013 Hiring Growth Marketer \u2013 Remote \u2013 $80K-$140K",
+    "title": "Turn your best AI prompts into one-click tools in Chrome",
     "source": "Hacker News",
-    "description": "HN Score: 1 | 0 comments",
-    "url": "https://www.ycombinator.com/companies/mdalgorithms-inc/jobs/LVODKN7-growth-marketer-for-a-rapidly-growing-consumer-ai-healthcare-startup",
-    "score": 1,
+    "description": "HN Score: 181 | 100 comments",
+    "url": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
+    "score": 181,
     "date": "2026-04-15",
     "category": "AI News"
   },
@@ -93,11 +93,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Turn your best AI prompts into one-click tools in Chrome",
+    "title": "What Claude Code's Source Revealed About AI Engineering Culture",
     "source": "Hacker News",
-    "description": "HN Score: 168 | 84 comments",
-    "url": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
-    "score": 168,
+    "description": "HN Score: 44 | 23 comments",
+    "url": "https://techtrenches.dev/p/the-snake-that-ate-itself-what-claude",
+    "score": 44,
+    "date": "2026-04-15",
+    "category": "AI News"
+  },
+  {
+    "title": "Obviously, models are a big deal, but coding harnesses play a huge role in making these models look good. I suspect that you can get the best frontier",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2044393310710829446#m",
+    "date": "2026-04-15",
+    "category": "Twitter"
+  },
+  {
+    "title": "Troubleshooting Email Delivery to Microsoft Users",
+    "source": "Hacker News",
+    "description": "HN Score: 78 | 21 comments",
+    "url": "https://rozumem.xyz/posts/14",
+    "score": 78,
     "date": "2026-04-15",
     "category": "AI News"
   },
@@ -110,28 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Troubleshooting Email Delivery to Microsoft Users",
+    "title": "AI ruling prompts warnings from US lawyers: Your chats could be used against you",
     "source": "Hacker News",
-    "description": "HN Score: 76 | 19 comments",
-    "url": "https://rozumem.xyz/posts/14",
-    "score": 76,
-    "date": "2026-04-15",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: This is how you give your agent access to the entire live web in 2 steps: Step 1: Install this CLI: $ npm install -g @tiny-fish/cli Thi",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2044091625954259118#m",
-    "date": "2026-04-15",
-    "category": "Twitter"
-  },
-  {
-    "title": "The M\u00d7N problem of tool calling and open-source models",
-    "source": "Hacker News",
-    "description": "HN Score: 150 | 47 comments",
-    "url": "https://www.thetypicalset.com/blog/grammar-parser-maintenance-contract",
-    "score": 150,
+    "description": "HN Score: 6 | 0 comments",
+    "url": "https://www.reuters.com/legal/government/ai-ruling-prompts-warnings-us-lawyers-your-chats-could-be-used-against-you-2026-04-15/",
+    "score": 6,
     "date": "2026-04-15",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Plain \u2013 The full-stack Python framework designed for humans and agents",
+    "title": "Claude may require identity verification in some cases",
     "source": "Hacker News",
-    "description": "HN Score: 86 | 45 comments",
-    "url": "https://github.com/dropseed/plain",
-    "score": 86,
+    "description": "HN Score: 82 | 67 comments",
+    "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
+    "score": 82,
     "date": "2026-04-15",
     "category": "AI News"
   },
@@ -159,14 +159,5 @@
     "url": "https://nitter.net/bindureddy/status/2044253920835580304#m",
     "date": "2026-04-15",
     "category": "Twitter"
-  },
-  {
-    "title": "Show HN: LangAlpha \u2013 what if Claude Code was built for Wall Street?",
-    "source": "Hacker News",
-    "description": "HN Score: 134 | 46 comments",
-    "url": "https://github.com/ginlix-ai/langalpha",
-    "score": 134,
-    "date": "2026-04-15",
-    "category": "AI News"
   }
 ]
