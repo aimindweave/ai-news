@@ -1,5 +1,12 @@
 [
   {
+    "title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
+    "source": "TechCrunch",
+    "summary": "OpenAI has expanded the capabilities of its agent-building toolkit, as agentic AI continues to grow in popularity.",
+    "url": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
+    "date": "2026-04-15"
+  },
+  {
     "title": "Hightouch reaches $100M ARR fueled by marketing tools powered by AI",
     "source": "TechCrunch",
     "summary": "The startup says it grew its ARR by $70 million in just 20 months after launching an AI agent platform for marketers.",
@@ -95,13 +102,6 @@
     "source": "TechCrunch",
     "summary": "In an interview at the Semafor World Economy summit this week, Anthropic co-founder Jack Clark explained why the company was still engaged with the U.S. government while simultaneously suing them.",
     "url": "https://techcrunch.com/2026/04/14/anthropic-co-founder-confirms-the-company-briefed-the-trump-administration-on-mythos/",
-    "date": "2026-04-15"
-  },
-  {
-    "title": "Max Hodak\u2019s Science Corp. is preparing to place its first sensor in a human brain",
-    "source": "TechCrunch",
-    "summary": "The device could help address multiple neurological conditions if it proves successful. One early use could be delivering gentle electrical stimulation to damaged brain or spinal cord cells to encourage healing.",
-    "url": "https://techcrunch.com/2026/04/14/max-hodaks-science-corp-is-preparing-to-place-its-first-sensor-in-a-human-brain/",
     "date": "2026-04-15"
   },
   {
@@ -245,6 +245,20 @@
     "date": "2026-04-15"
   },
   {
+    "title": "Google releases new apps for Windows and MacOS",
+    "source": "Ars Technica",
+    "summary": "Google mostly creates products for the web, but it has some new desktop apps today.",
+    "url": "https://arstechnica.com/gadgets/2026/04/google-launches-search-app-for-windows-gemini-app-for-mac/",
+    "date": "2026-04-15"
+  },
+  {
+    "title": "Boston Dynamics\u2019 robot dog now reads gauges and thermometers with Google's AI",
+    "source": "Ars Technica",
+    "summary": "Google's AI enables robots to read gauges while inspecting industrial facilities.",
+    "url": "https://arstechnica.com/ai/2026/04/robot-dogs-now-read-gauges-and-thermometers-using-google-gemini/",
+    "date": "2026-04-15"
+  },
+  {
     "title": "Adobe takes Creative Cloud into Claude Code-esque territory",
     "source": "Ars Technica",
     "summary": "This is a big step in a new strategic direction for Adobe.",
@@ -333,20 +347,6 @@
     "source": "Ars Technica",
     "summary": "Appeals court denies Anthropic's emergency motion for a stay.",
     "url": "https://arstechnica.com/tech-policy/2026/04/trump-appointed-judges-refuse-to-block-trump-blacklisting-of-anthropic-ai-tech/",
-    "date": "2026-04-15"
-  },
-  {
-    "title": "First man convicted under Take It Down Act kept making AI nudes after arrest",
-    "source": "Ars Technica",
-    "summary": "Ohio man used more than 100 AI tools to make fake nudes of women and minors.",
-    "url": "https://arstechnica.com/tech-policy/2026/04/first-man-convicted-under-take-it-down-act-kept-making-ai-nudes-after-arrest/",
-    "date": "2026-04-15"
-  },
-  {
-    "title": "Meta's Superintelligence Lab unveils its first public model, Muse Spark",
-    "source": "Ars Technica",
-    "summary": "Meta touts strong benchmarks but admits 'performance gaps' in agentic and coding systems.",
-    "url": "https://arstechnica.com/ai/2026/04/metas-superintelligence-lab-unveils-its-first-public-model-muse-spark/",
     "date": "2026-04-15"
   }
 ]
