@@ -10,9 +10,9 @@
   {
     "title": "MCP as Observability Interface: Connecting AI Agents to Kernel Tracepoints",
     "source": "Hacker News",
-    "description": "HN Score: 7 | 0 comments",
+    "description": "HN Score: 27 | 9 comments",
     "url": "https://ingero.io/mcp-observability-interface-ai-agents-kernel-tracepoints/",
-    "score": 7,
+    "score": 27,
     "date": "2026-04-15",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference",
+    "title": "Daily Claude outage is upon us. Waiting for Claude Status to update",
     "source": "Hacker News",
-    "description": "HN Score: 124 | 89 comments",
-    "url": "https://www.gizmoweek.com/gemma-4-runs-iphone/",
-    "score": 124,
+    "description": "HN Score: 113 | 93 comments",
+    "url": "https://claudestatus.com/",
+    "score": 113,
     "date": "2026-04-15",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Claude Code Routines",
+    "title": "Pretty Fish: A better mermaid diagram editor",
     "source": "Hacker News",
-    "description": "HN Score: 671 | 377 comments",
-    "url": "https://code.claude.com/docs/en/routines",
-    "score": 671,
+    "description": "HN Score: 41 | 5 comments",
+    "url": "https://pretty.fish/",
+    "score": 41,
     "date": "2026-04-15",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Pretty Fish: A better mermaid diagram editor",
+    "title": "Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference",
     "source": "Hacker News",
-    "description": "HN Score: 11 | 2 comments",
-    "url": "https://pretty.fish/",
-    "score": 11,
+    "description": "HN Score: 163 | 102 comments",
+    "url": "https://www.gizmoweek.com/gemma-4-runs-iphone/",
+    "score": 163,
     "date": "2026-04-15",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Turn your best AI prompts into one-click tools in Chrome",
+    "title": "US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI chats [pdf]",
     "source": "Hacker News",
-    "description": "HN Score: 181 | 100 comments",
-    "url": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
-    "score": 181,
+    "description": "HN Score: 37 | 22 comments",
+    "url": "https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf",
+    "score": 37,
     "date": "2026-04-15",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "What Claude Code's Source Revealed About AI Engineering Culture",
+    "title": "AI ruling prompts warnings from US lawyers: Your chats could be used against you",
     "source": "Hacker News",
-    "description": "HN Score: 44 | 23 comments",
-    "url": "https://techtrenches.dev/p/the-snake-that-ate-itself-what-claude",
-    "score": 44,
+    "description": "HN Score: 46 | 26 comments",
+    "url": "https://www.reuters.com/legal/government/ai-ruling-prompts-warnings-us-lawyers-your-chats-could-be-used-against-you-2026-04-15/",
+    "score": 46,
     "date": "2026-04-15",
     "category": "AI News"
   },
@@ -110,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Troubleshooting Email Delivery to Microsoft Users",
+    "title": "Sam Vimes 'Boots' Theory of Socio-Economic Unfairness",
     "source": "Hacker News",
-    "description": "HN Score: 78 | 21 comments",
-    "url": "https://rozumem.xyz/posts/14",
-    "score": 78,
+    "description": "HN Score: 38 | 23 comments",
+    "url": "https://terrypratchett.com/explore-discworld/sam-vimes-boots-theory-of-socio-economic-unfairness/",
+    "score": 38,
     "date": "2026-04-15",
     "category": "AI News"
   },
@@ -127,11 +127,28 @@
     "category": "Twitter"
   },
   {
-    "title": "AI ruling prompts warnings from US lawyers: Your chats could be used against you",
+    "title": "Study: Back-to-basics approach can match or outperform AI in language analysis",
     "source": "Hacker News",
-    "description": "HN Score: 6 | 0 comments",
-    "url": "https://www.reuters.com/legal/government/ai-ruling-prompts-warnings-us-lawyers-your-chats-could-be-used-against-you-2026-04-15/",
-    "score": 6,
+    "description": "HN Score: 5 | 0 comments",
+    "url": "https://www.manchester.ac.uk/about/news/back-to-basics-approach-can-match-or-outperform-ai/",
+    "score": 5,
+    "date": "2026-04-15",
+    "category": "AI News"
+  },
+  {
+    "title": "Some AI labs will announce incremental releases to make some noise But one of them will make a HUGE leap in efficient intelligence Waiting to celebrat",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2044429799427543223#m",
+    "date": "2026-04-15",
+    "category": "Twitter"
+  },
+  {
+    "title": "Show HN: Pseudonymizing sensitive data for LLMs without losing context",
+    "source": "Hacker News",
+    "description": "HN Score: 3 | 2 comments",
+    "url": "https://atticsecurity.com/en/blog/why-llms-hate-fake-data-token-proxy/",
+    "score": 3,
     "date": "2026-04-15",
     "category": "AI News"
   },
@@ -144,20 +161,12 @@
     "category": "Twitter"
   },
   {
-    "title": "Claude may require identity verification in some cases",
+    "title": "Claude Code Routines",
     "source": "Hacker News",
-    "description": "HN Score: 82 | 67 comments",
-    "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
-    "score": 82,
+    "description": "HN Score: 683 | 380 comments",
+    "url": "https://code.claude.com/docs/en/routines",
+    "score": 683,
     "date": "2026-04-15",
     "category": "AI News"
-  },
-  {
-    "title": "Pricing is becoming eveything in AI The winning model will have Opus like performance and ideally be priced 10x less! DEEPSEEK IS COMING",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2044253920835580304#m",
-    "date": "2026-04-15",
-    "category": "Twitter"
   }
 ]
