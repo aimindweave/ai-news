@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "SDL bans AI-written commits",
+    "title": "Qwen3.6-35B-A3B: Agentic Coding Power, Now Open to All",
     "source": "Hacker News",
-    "description": "HN Score: 21 | 12 comments",
-    "url": "https://github.com/libsdl-org/SDL/issues/15350",
-    "score": 21,
+    "description": "HN Score: 38 | 3 comments",
+    "url": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
+    "score": 38,
     "date": "2026-04-16",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "FSF trying to contact Google about spammer sending 10k+ mails from Gmail account",
+    "title": "Cloudflare's AI Platform: an inference layer designed for agents",
     "source": "Hacker News",
-    "description": "HN Score: 187 | 105 comments",
-    "url": "https://daedal.io/@thomzane/116410863009847575",
-    "score": 187,
+    "description": "HN Score: 23 | 2 comments",
+    "url": "https://blog.cloudflare.com/ai-platform/",
+    "score": 23,
     "date": "2026-04-16",
     "category": "AI News"
   },
@@ -38,6 +38,57 @@
     "source": "@EMostaque",
     "description": "",
     "url": "https://nitter.net/EMostaque/status/2044725693762703488#m",
+    "date": "2026-04-16",
+    "category": "Twitter"
+  },
+  {
+    "title": "AI cybersecurity is not proof of work",
+    "source": "Hacker News",
+    "description": "HN Score: 64 | 18 comments",
+    "url": "https://antirez.com/news/163",
+    "score": 64,
+    "date": "2026-04-16",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: Emad Mostaque built Stable Diffusion. I asked him what the trillion-dollar AI labs won't say publicly. @EMostaque's answer: 'Soon, a",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/DrBrianKeating/status/2043692008963997907#m",
+    "date": "2026-04-16",
+    "category": "Twitter"
+  },
+  {
+    "title": "Cloudflare Email Service: now in public beta. Ready for your agents",
+    "source": "Hacker News",
+    "description": "HN Score: 14 | 1 comments",
+    "url": "https://blog.cloudflare.com/email-for-agents/",
+    "score": 14,
+    "date": "2026-04-16",
+    "category": "AI News"
+  },
+  {
+    "title": "The power of the Claw, in the palm of a robot hand. Agentic robotics is here! Today, we open-source CaP-X: vibe agents, alive in the physical world. T",
+    "source": "@DrJimFan",
+    "description": "",
+    "url": "https://nitter.net/DrJimFan/status/2039358115318243352#m",
+    "date": "2026-04-16",
+    "category": "Twitter"
+  },
+  {
+    "title": "FSF trying to contact Google about spammer sending 10k+ mails from Gmail account",
+    "source": "Hacker News",
+    "description": "HN Score: 243 | 155 comments",
+    "url": "https://daedal.io/@thomzane/116410863009847575",
+    "score": 243,
+    "date": "2026-04-16",
+    "category": "AI News"
+  },
+  {
+    "title": "R to @DrJimFan: As usual, we open-source everything, MIT license: https://capgym.github.io Code: https://github.com/capgym/cap-x Paper: https://arxiv.",
+    "source": "@DrJimFan",
+    "description": "",
+    "url": "https://nitter.net/DrJimFan/status/2039360925606760690#m",
     "date": "2026-04-16",
     "category": "Twitter"
   },
@@ -51,53 +102,19 @@
     "category": "AI News"
   },
   {
-    "title": "RT by @EMostaque: Emad Mostaque built Stable Diffusion. I asked him what the trillion-dollar AI labs won't say publicly. @EMostaque's answer: 'Soon, a",
-    "source": "@EMostaque",
+    "title": "Watching one video after another is not learning; it's just procrastinating. 2 years ago, I started teaching my AI/ML Engineering cohort. I teach peop",
+    "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/DrBrianKeating/status/2043692008963997907#m",
+    "url": "https://nitter.net/svpino/status/2044761646133027316#m",
     "date": "2026-04-16",
     "category": "Twitter"
   },
   {
     "title": "ChatGPT for Excel",
     "source": "Hacker News",
-    "description": "HN Score: 218 | 145 comments",
+    "description": "HN Score: 258 | 164 comments",
     "url": "https://chatgpt.com/apps/spreadsheets/",
-    "score": 218,
-    "date": "2026-04-16",
-    "category": "AI News"
-  },
-  {
-    "title": "R to @DrJimFan: Please check out lead author @letian_fu's deep dive thread! https://x.com/letian_fu/status/2039342130565357956?s=20",
-    "source": "@DrJimFan",
-    "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2039360927653614004#m",
-    "date": "2026-04-16",
-    "category": "Twitter"
-  },
-  {
-    "title": "Show HN: Libretto \u2013 Making AI browser automations deterministic",
-    "source": "Hacker News",
-    "description": "HN Score: 104 | 39 comments",
-    "url": "https://github.com/saffron-health/libretto",
-    "score": 104,
-    "date": "2026-04-16",
-    "category": "AI News"
-  },
-  {
-    "title": "R to @DrJimFan: As usual, we open-source everything, MIT license: https://capgym.github.io Code: https://github.com/capgym/cap-x Paper: https://arxiv.",
-    "source": "@DrJimFan",
-    "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2039360925606760690#m",
-    "date": "2026-04-16",
-    "category": "Twitter"
-  },
-  {
-    "title": "US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI chats [pdf]",
-    "source": "Hacker News",
-    "description": "HN Score: 141 | 101 comments",
-    "url": "https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf",
-    "score": 141,
+    "score": 258,
     "date": "2026-04-16",
     "category": "AI News"
   },
@@ -110,54 +127,46 @@
     "category": "Twitter"
   },
   {
+    "title": "US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI chats [pdf]",
+    "source": "Hacker News",
+    "description": "HN Score: 158 | 110 comments",
+    "url": "https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf",
+    "score": 158,
+    "date": "2026-04-16",
+    "category": "AI News"
+  },
+  {
+    "title": "Wow! Qwen just dropped a very powerful open source model \ud83c\udf89 3.6 series is now open source",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2044775824881242463#m",
+    "date": "2026-04-16",
+    "category": "Twitter"
+  },
+  {
+    "title": "Show HN: Libretto \u2013 Making AI browser automations deterministic",
+    "source": "Hacker News",
+    "description": "HN Score: 112 | 45 comments",
+    "url": "https://github.com/saffron-health/libretto",
+    "score": 112,
+    "date": "2026-04-16",
+    "category": "AI News"
+  },
+  {
+    "title": "Is the fancy new OpenAI model that everyone is buzzing about coming today? Given the coding excellence of 5.3 codex, this will be a MONUMENTAL release",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2044775123056730535#m",
+    "date": "2026-04-16",
+    "category": "Twitter"
+  },
+  {
     "title": "Agent - Native Mac OS X coding ide/harness",
     "source": "Hacker News",
-    "description": "HN Score: 55 | 25 comments",
+    "description": "HN Score: 64 | 27 comments",
     "url": "https://github.com/macOS26/Agent",
-    "score": 55,
+    "score": 64,
     "date": "2026-04-16",
     "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: Obviously, models are a big deal, but coding harnesses play a huge role in making these models look good. I suspect that you can get th",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2044393310710829446#m",
-    "date": "2026-04-16",
-    "category": "Twitter"
-  },
-  {
-    "title": "Tailscale-rs: Official Rust library for embedding Tailscale",
-    "source": "Hacker News",
-    "description": "HN Score: 27 | 1 comments",
-    "url": "https://tailscale.com/blog/tailscale-rs-rust-tsnet-library-preview",
-    "score": 27,
-    "date": "2026-04-16",
-    "category": "AI News"
-  },
-  {
-    "title": "A year ago the PR battle to out announce each other was between OpenAI and Google This year it\u2019s between Anthropic and OpenAI Let the best MODEL win \ud83c\udf89",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2044648814280397037#m",
-    "date": "2026-04-16",
-    "category": "Twitter"
-  },
-  {
-    "title": "The local LLM ecosystem doesn\u2019t need Ollama",
-    "source": "Hacker News",
-    "description": "HN Score: 520 | 157 comments",
-    "url": "https://sleepingrobots.com/dreams/stop-using-ollama/",
-    "score": 520,
-    "date": "2026-04-16",
-    "category": "AI News"
-  },
-  {
-    "title": "Some AI labs will announce incremental releases to make some noise But one of them will make a HUGE leap in efficient intelligence Waiting to celebrat",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2044429799427543223#m",
-    "date": "2026-04-16",
-    "category": "Twitter"
   }
 ]
