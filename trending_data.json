@@ -1,39 +1,5 @@
 [
   {
-    "title": "1\u30da\u30fc\u30b8\u76ee\u3067\u3061\u3083\u3093\u3068\u6253\u6483\u98df\u3089\u3063\u3066\u30ac\u30b3\u30f3\u3057\u3066\u308b\u306e\u3067 \u3042\u308c\u304c\u306a\u304b\u3063\u305f\u3089\u6469\u864e\u7f85\u653b\u7565\u3067\u304d\u3066\u305f\u304b\u3082\u3057\u308c\u3093",
-    "source": "@kaborobot",
-    "description": "",
-    "url": "https://nitter.net/kaborobot/status/2015735996248420451#m",
-    "date": "2026-04-16",
-    "category": "Twitter"
-  },
-  {
-    "title": "Why Sal Khan's AI revolution hasn't happened yet, according to Sal Khan",
-    "source": "Hacker News",
-    "description": "HN Score: 23 | 12 comments",
-    "url": "https://www.chalkbeat.org/2026/04/09/sal-khan-reflects-on-ai-in-schools-and-khanmigo/",
-    "score": 23,
-    "date": "2026-04-16",
-    "category": "AI News"
-  },
-  {
-    "title": "\u30ec\u30bc\u304c\u300c\u79c1\u306b\u306f\u904e\u304e\u305f\u9858\u3044\u3060\u3063\u305f\u300d\u306a\u3093\u3066\u601d\u3063\u3066\u3044\u307e\u305b\u3093\u3088\u3046\u306b\u3068\u7948\u3063\u3066\u305f\u9023\u4f11\u3060\u3063\u305f",
-    "source": "@kaborobot",
-    "description": "",
-    "url": "https://nitter.net/kaborobot/status/1977673306670330109#m",
-    "date": "2026-04-16",
-    "category": "Twitter"
-  },
-  {
-    "title": "FSF trying to contact Google about spammer sending 10k+ mails from Gmail account",
-    "source": "Hacker News",
-    "description": "HN Score: 59 | 21 comments",
-    "url": "https://daedal.io/@thomzane/116410863009847575",
-    "score": 59,
-    "date": "2026-04-16",
-    "category": "AI News"
-  },
-  {
     "title": "RT by @EMostaque: Emad Mostaque built Stable Diffusion. I asked him what the trillion-dollar AI labs won't say publicly. @EMostaque's answer: 'Soon, a",
     "source": "@EMostaque",
     "description": "",
@@ -42,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Airbnb discloses a billion-series Prometheus metrics pipeline",
+    "title": "FSF trying to contact Google about spammer sending 10k+ mails from Gmail account",
     "source": "Hacker News",
-    "description": "HN Score: 12 | 1 comments",
-    "url": "https://medium.com/airbnb-engineering/building-a-high-volume-metrics-pipeline-with-opentelemetry-and-vmagent-c714d6910b45",
-    "score": 12,
+    "description": "HN Score: 141 | 77 comments",
+    "url": "https://daedal.io/@thomzane/116410863009847575",
+    "score": 141,
     "date": "2026-04-16",
     "category": "AI News"
   },
@@ -59,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "ChatGPT for Excel",
+    "title": "RamAIn (YC W26) Is Hiring",
     "source": "Hacker News",
-    "description": "HN Score: 165 | 117 comments",
-    "url": "https://chatgpt.com/apps/spreadsheets/",
-    "score": 165,
+    "description": "HN Score: 1 | 0 comments",
+    "url": "https://www.ycombinator.com/companies/ramain/jobs/bwtwd9W-founding-gtm-operations-lead",
+    "score": 1,
     "date": "2026-04-16",
     "category": "AI News"
   },
@@ -76,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Libretto \u2013 Making AI browser automations deterministic",
+    "title": "ChatGPT for Excel",
     "source": "Hacker News",
-    "description": "HN Score: 92 | 32 comments",
-    "url": "https://github.com/saffron-health/libretto",
-    "score": 92,
+    "description": "HN Score: 199 | 138 comments",
+    "url": "https://chatgpt.com/apps/spreadsheets/",
+    "score": 199,
     "date": "2026-04-16",
     "category": "AI News"
   },
@@ -93,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI chats [pdf]",
+    "title": "Show HN: Libretto \u2013 Making AI browser automations deterministic",
     "source": "Hacker News",
-    "description": "HN Score: 117 | 91 comments",
-    "url": "https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf",
-    "score": 117,
+    "description": "HN Score: 101 | 35 comments",
+    "url": "https://github.com/saffron-health/libretto",
+    "score": 101,
     "date": "2026-04-16",
     "category": "AI News"
   },
@@ -110,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Agent - Native Mac OS X coding ide/harness",
+    "title": "US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI chats [pdf]",
     "source": "Hacker News",
-    "description": "HN Score: 30 | 6 comments",
-    "url": "https://github.com/macOS26/Agent",
-    "score": 30,
+    "description": "HN Score: 135 | 97 comments",
+    "url": "https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf",
+    "score": 135,
     "date": "2026-04-16",
     "category": "AI News"
   },
@@ -127,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Adaptional (YC S25) is hiring AI engineers",
+    "title": "Agent - Native Mac OS X coding ide/harness",
     "source": "Hacker News",
-    "description": "HN Score: 1 | 0 comments",
-    "url": "https://www.ycombinator.com/companies/adaptional/jobs/k7W6ge9-founding-engineer",
-    "score": 1,
+    "description": "HN Score: 47 | 14 comments",
+    "url": "https://github.com/macOS26/Agent",
+    "score": 47,
     "date": "2026-04-16",
     "category": "AI News"
   },
@@ -144,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "The Universal Constraint Engine: Neuromorphic Computing Without Neural Networks",
+    "title": "The local LLM ecosystem doesn\u2019t need Ollama",
     "source": "Hacker News",
-    "description": "HN Score: 15 | 7 comments",
-    "url": "https://zenodo.org/records/19600206",
-    "score": 15,
+    "description": "HN Score: 490 | 133 comments",
+    "url": "https://sleepingrobots.com/dreams/stop-using-ollama/",
+    "score": 490,
     "date": "2026-04-16",
     "category": "AI News"
   },
@@ -161,11 +127,20 @@
     "category": "Twitter"
   },
   {
-    "title": "Arguing with Agents",
+    "title": "Tailscale-rs: Official Rust library for embedding Tailscale",
     "source": "Hacker News",
-    "description": "HN Score: 57 | 34 comments",
-    "url": "https://blowmage.com/2026/04/14/arguing-with-agents/",
-    "score": 57,
+    "description": "HN Score: 19 | 1 comments",
+    "url": "https://tailscale.com/blog/tailscale-rs-rust-tsnet-library-preview",
+    "score": 19,
+    "date": "2026-04-16",
+    "category": "AI News"
+  },
+  {
+    "title": "Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference",
+    "source": "Hacker News",
+    "description": "HN Score: 281 | 171 comments",
+    "url": "https://www.gizmoweek.com/gemma-4-runs-iphone/",
+    "score": 281,
     "date": "2026-04-16",
     "category": "AI News"
   }
