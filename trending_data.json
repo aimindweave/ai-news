@@ -10,9 +10,9 @@
   {
     "title": "Claude Opus 4.7",
     "source": "Hacker News",
-    "description": "HN Score: 729 | 570 comments",
+    "description": "HN Score: 1029 | 796 comments",
     "url": "https://www.anthropic.com/news/claude-opus-4-7",
-    "score": 729,
+    "score": 1029,
     "date": "2026-04-16",
     "category": "AI News"
   },
@@ -27,9 +27,26 @@
   {
     "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
     "source": "Hacker News",
-    "description": "HN Score: 492 | 247 comments",
+    "description": "HN Score: 667 | 319 comments",
     "url": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
-    "score": 492,
+    "score": 667,
+    "date": "2026-04-16",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: Today we\u2019re announcing Ternary Bonsai: Top intelligence at 1.58 bits Using ternary weights {-1, 0, +1}, we built a family of models ",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/PrismML/status/2044833023682896134#m",
+    "date": "2026-04-16",
+    "category": "Twitter"
+  },
+  {
+    "title": "Cloudflare's AI Platform: an inference layer designed for agents",
+    "source": "Hacker News",
+    "description": "HN Score: 169 | 41 comments",
+    "url": "https://blog.cloudflare.com/ai-platform/",
+    "score": 169,
     "date": "2026-04-16",
     "category": "AI News"
   },
@@ -42,28 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Cloudflare's AI Platform: an inference layer designed for agents",
+    "title": "We gave an AI a 3 year retail lease and asked it to make a profit",
     "source": "Hacker News",
-    "description": "HN Score: 114 | 26 comments",
-    "url": "https://blog.cloudflare.com/ai-platform/",
-    "score": 114,
-    "date": "2026-04-16",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @EMostaque: Emad Mostaque built Stable Diffusion. I asked him what the trillion-dollar AI labs won't say publicly. @EMostaque's answer: 'Soon, a",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/DrBrianKeating/status/2043692008963997907#m",
-    "date": "2026-04-16",
-    "category": "Twitter"
-  },
-  {
-    "title": "Show HN: MacMind \u2013 A transformer neural network in HyperCard on a 1989 Macintosh",
-    "source": "Hacker News",
-    "description": "HN Score: 56 | 12 comments",
-    "url": "https://github.com/SeanFDZ/macmind",
-    "score": 56,
+    "description": "HN Score: 141 | 199 comments",
+    "url": "https://andonlabs.com/blog/andon-market-launch",
+    "score": 141,
     "date": "2026-04-16",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Cloudflare Email Service",
+    "title": "Show HN: CodeBurn \u2013 Analyze Claude Code token usage by task",
     "source": "Hacker News",
-    "description": "HN Score: 275 | 113 comments",
-    "url": "https://blog.cloudflare.com/email-for-agents/",
-    "score": 275,
+    "description": "HN Score: 40 | 11 comments",
+    "url": "https://github.com/AgentSeal/codeburn",
+    "score": 40,
     "date": "2026-04-16",
     "category": "AI News"
   },
@@ -93,11 +93,28 @@
     "category": "Twitter"
   },
   {
-    "title": "We gave an AI a 3 year retail lease and asked it to make a profit",
+    "title": "Show HN: MacMind \u2013 A transformer neural network in HyperCard on a 1989 Macintosh",
     "source": "Hacker News",
-    "description": "HN Score: 76 | 103 comments",
-    "url": "https://andonlabs.com/blog/andon-market-launch",
-    "score": 76,
+    "description": "HN Score: 81 | 22 comments",
+    "url": "https://github.com/SeanFDZ/macmind",
+    "score": 81,
+    "date": "2026-04-16",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: Watching one video after another is not learning; it's just procrastinating. 2 years ago, I started teaching my AI/ML Engineering cohor",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2044761646133027316#m",
+    "date": "2026-04-16",
+    "category": "Twitter"
+  },
+  {
+    "title": "Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7",
+    "source": "Hacker News",
+    "description": "HN Score: 42 | 4 comments",
+    "url": "https://simonwillison.net/2026/Apr/16/qwen-beats-opus/",
+    "score": 42,
     "date": "2026-04-16",
     "category": "AI News"
   },
@@ -110,62 +127,45 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: CodeBurn \u2013 Analyze Claude Code token usage by task",
+    "title": "Cloudflare Email Service",
     "source": "Hacker News",
-    "description": "HN Score: 9 | 1 comments",
-    "url": "https://github.com/AgentSeal/codeburn",
-    "score": 9,
+    "description": "HN Score: 333 | 143 comments",
+    "url": "https://blog.cloudflare.com/email-for-agents/",
+    "score": 333,
     "date": "2026-04-16",
     "category": "AI News"
   },
   {
-    "title": "R to @svpino: I'm using the Lighting model from Smallest AI. Here is the blog post about the model: https://smallest.ai/blog/introducing-lightning-v3 ",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2044795569374400606#m",
-    "date": "2026-04-16",
-    "category": "Twitter"
-  },
-  {
-    "title": "AI cybersecurity is not proof of work",
-    "source": "Hacker News",
-    "description": "HN Score: 142 | 60 comments",
-    "url": "https://antirez.com/news/163",
-    "score": 142,
-    "date": "2026-04-16",
-    "category": "AI News"
-  },
-  {
-    "title": "Opus 4.7 Is Out And Ranks #3 On LiveBench - Live On ChatLLM! Opus 4.7 is an improvement on Opus 4.6 high effort and appears to be trained from a diffe",
+    "title": "No OpenAI model today \ud83d\ude2d",
     "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/bindureddy/status/2044813400472260905#m",
+    "url": "https://nitter.net/bindureddy/status/2044830654056300665#m",
     "date": "2026-04-16",
     "category": "Twitter"
   },
   {
     "title": "FSF trying to contact Google about spammer sending 10k+ mails from Gmail account",
     "source": "Hacker News",
-    "description": "HN Score: 304 | 182 comments",
+    "description": "HN Score: 335 | 195 comments",
     "url": "https://daedal.io/@thomzane/116410863009847575",
-    "score": 304,
+    "score": 335,
     "date": "2026-04-16",
     "category": "AI News"
   },
   {
-    "title": "Wow! Qwen just dropped a very powerful open source model \ud83c\udf89 3.6 series is now open source",
+    "title": "RT by @bindureddy: Opus 4.7 Is Rolling Out On ChatLLM On Abacus AI We also have a very exciting promotional offer!! Try it, at 50% off for a short per",
     "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/bindureddy/status/2044775824881242463#m",
+    "url": "https://nitter.net/abacusai/status/2044808492876460538#m",
     "date": "2026-04-16",
     "category": "Twitter"
   },
   {
-    "title": "Laravel raised money and now injects ads directly into your agent",
+    "title": "AI cybersecurity is not proof of work",
     "source": "Hacker News",
-    "description": "HN Score: 132 | 68 comments",
-    "url": "https://techstackups.com/articles/laravel-raised-money-and-now-injects-ads-directly-into-your-agent/",
-    "score": 132,
+    "description": "HN Score: 161 | 73 comments",
+    "url": "https://antirez.com/news/163",
+    "score": 161,
     "date": "2026-04-16",
     "category": "AI News"
   }

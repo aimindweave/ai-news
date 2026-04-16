@@ -1,15 +1,29 @@
 [
   {
+    "title": "OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop",
+    "source": "TechCrunch",
+    "summary": "OpenAI's agentic coding tool has gotten a major makeover, with a variety of new powers and abilities.",
+    "url": "https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/",
+    "date": "2026-04-16"
+  },
+  {
+    "title": "Anthropic CPO leaves Figma\u2019s board after reports he will offer a competing product",
+    "source": "TechCrunch",
+    "summary": "Krieger's departure and any forthcoming design tools will be another data point for investors who fear the SaaSpocalypse \u2014 that the largest AI labs will come to dominate software businesses, a thesis that has rocked public markets at times this year.",
+    "url": "https://techcrunch.com/2026/04/16/anthropic-cpo-leaves-figmas-board-after-reports-he-will-offer-a-competing-product/",
+    "date": "2026-04-16"
+  },
+  {
     "title": "Google now lets you explore the web side-by-side with AI Mode",
     "source": "TechCrunch",
-    "summary": "Now, when you're using AI Mode on Chrome desktop, clicking a link will open the webpage side-by-side with AI Mode.",
+    "summary": "Now, when you're using AI Mode on Chrome desktop, clicking a link will open the web page side-by-side with AI Mode.",
     "url": "https://techcrunch.com/2026/04/16/google-now-lets-you-explore-the-web-side-by-side-with-ai-mode/",
     "date": "2026-04-16"
   },
   {
     "title": "InsightFinder raises $15M to help companies figure out where AI agents go wrong",
     "source": "TechCrunch",
-    "summary": "According to CEO Helen Gu, the biggest problem facing the industry today is not just monitoring and diagnosing where AI models go wrong, it's diagnosing how the entire tech stack operates now that AI is a part of it.",
+    "summary": "According to CEO Helen Gu, the biggest problem facing the industry today is not just monitoring and diagnosing where AI models go wrong \u2014 it's also diagnosing how the entire tech stack operates now that AI is part of it.",
     "url": "https://techcrunch.com/2026/04/16/insightfinder-raises-15m-to-help-companies-figure-out-where-ai-agents-go-wrong/",
     "date": "2026-04-16"
   },
@@ -23,7 +37,7 @@
   {
     "title": "Roblox\u2019s AI assistant gets new agentic tools to plan, build, and test games",
     "source": "TechCrunch",
-    "summary": "The new new tools are designed to help creators throughout the entire development process.",
+    "summary": "The new tools are designed to help creators throughout the entire development process.",
     "url": "https://techcrunch.com/2026/04/16/robloxs-ai-assistant-gets-new-agentic-tools-to-plan-build-and-test-games/",
     "date": "2026-04-16"
   },
@@ -88,20 +102,6 @@
     "source": "TechCrunch",
     "summary": "LinkedIn says hiring is down 20% since 2022, but blames higher interest rates \u2014 not AI \u2014 for the slowdown.",
     "url": "https://techcrunch.com/2026/04/15/linkedin-data-shows-ai-isnt-to-blame-for-hiring-decline-yet/",
-    "date": "2026-04-16"
-  },
-  {
-    "title": "AI learning app Gizmo levels up with 13M users and a $22M investment",
-    "source": "TechCrunch",
-    "summary": "Gizmo, an AI-powered learning platform, has attracted more than 13 million users and just secured $22 million in Series A funding.",
-    "url": "https://techcrunch.com/2026/04/15/ai-learning-app-gizmo-levels-up-with-13m-users-and-a-22m-investment/",
-    "date": "2026-04-16"
-  },
-  {
-    "title": "Can AI judge journalism? A Thiel-backed startup says yes, even if it risks chilling whistleblowers",
-    "source": "TechCrunch",
-    "summary": "Objection, a Thiel-backed startup, aims to use AI to judge journalism, letting users pay to challenge stories. Critics warn it could chill whistleblowers and reshape how media accountability works.",
-    "url": "https://techcrunch.com/2026/04/15/can-ai-judge-journalism-a-thiel-backed-startup-says-yes-even-if-it-risks-chilling-whistleblowers/",
     "date": "2026-04-16"
   },
   {
@@ -175,6 +175,20 @@
     "date": "2026-04-16"
   },
   {
+    "title": "The Battle for OpenAI\u2019s Soul",
+    "source": "Wired",
+    "summary": "In Musk v. Altman, a jury will soon determine whether OpenAI has strayed from its founding mission to ensure AGI benefits humanity. Here\u2019s what to know.",
+    "url": "https://www.wired.com/story/musk-v-altman-trial-openai-xai/",
+    "date": "2026-04-16"
+  },
+  {
+    "title": "The UK Launches Its $675 Million Sovereign AI Fund",
+    "source": "Wired",
+    "summary": "In a bid to minimize dependence on technology from other countries, the UK government is plowing resources into homegrown AI startups.",
+    "url": "https://www.wired.com/story/the-uk-launches-its-dollar675-million-sovereign-ai-fund/",
+    "date": "2026-04-16"
+  },
+  {
     "title": "Google's AI Mode Update Tries to Kill Tab Hopping in Chrome",
     "source": "Wired",
     "summary": "Google latest update to AI Mode in its Chrome browser is designed to keep the chatbot-style search tool always around once you start an online search journey.",
@@ -231,17 +245,17 @@
     "date": "2026-04-16"
   },
   {
-    "title": "Anthropic Opposes the Extreme AI Liability Bill That OpenAI Backed",
-    "source": "Wired",
-    "summary": "Anthropic and OpenAI are clashing over a proposed Illinois law that would let AI labs largely off the hook for mass deaths and financial disasters.",
-    "url": "https://www.wired.com/story/anthropic-opposes-the-extreme-ai-liability-bill-that-openai-backed/",
+    "title": "New Codex features include the ability to use your computer in the background",
+    "source": "Ars Technica",
+    "summary": "An in-app browser allows visual feedback while building websites and more.",
+    "url": "https://arstechnica.com/ai/2026/04/new-codex-features-include-the-ability-to-use-your-computer-in-the-background/",
     "date": "2026-04-16"
   },
   {
-    "title": "Silicon Valley Is Spending Millions to Stop One of Its Own",
-    "source": "Wired",
-    "summary": "Alex Bores, a former Palantir employee, helped pass one of the country\u2019s toughest AI laws. Now Silicon Valley\u2019s biggest names are trying to stop his rise to Congress.",
-    "url": "https://www.wired.com/story/the-big-interview-podcast-new-york-state-representative-alex-bores/",
+    "title": "Microsoft and Stellantis want to use AI to help car owners",
+    "source": "Ars Technica",
+    "summary": "Digital services for brands from Jeep to Peugeot will feel the presence of AI.",
+    "url": "https://arstechnica.com/cars/2026/04/microsoft-and-stellantis-want-to-use-ai-to-help-car-owners/",
     "date": "2026-04-16"
   },
   {
@@ -333,20 +347,6 @@
     "source": "Ars Technica",
     "summary": "AI tools could help moderators sift through mountains of suspicious incidents",
     "url": "https://arstechnica.com/gaming/2026/04/what-is-steamgpt-leaked-files-point-to-ai-powered-valve-security-review-system/",
-    "date": "2026-04-16"
-  },
-  {
-    "title": "Pro-Iran Explosive Media trolls Trump with AI-generated Lego cartoons",
-    "source": "Ars Technica",
-    "summary": "Group has released over a dozen videos mocking President Trump and the US.",
-    "url": "https://arstechnica.com/culture/2026/04/pro-iran-explosive-media-trolls-trump-with-ai-generated-lego-cartoons/",
-    "date": "2026-04-16"
-  },
-  {
-    "title": "AI on the couch: Anthropic gives Claude 20 hours of psychiatry",
-    "source": "Ars Technica",
-    "summary": "Mythos is 'the most psychologically settled model we have trained to date.'",
-    "url": "https://arstechnica.com/ai/2026/04/why-anthropic-sent-its-claude-ai-to-an-actual-psychiatrist/",
     "date": "2026-04-16"
   }
 ]
