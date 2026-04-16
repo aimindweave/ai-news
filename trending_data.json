@@ -10,9 +10,9 @@
   {
     "title": "Claude Opus 4.7",
     "source": "Hacker News",
-    "description": "HN Score: 1029 | 796 comments",
+    "description": "HN Score: 1183 | 881 comments",
     "url": "https://www.anthropic.com/news/claude-opus-4-7",
-    "score": 1029,
+    "score": 1183,
     "date": "2026-04-16",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
+    "title": "Cloudflare's AI Platform: an inference layer designed for agents",
     "source": "Hacker News",
-    "description": "HN Score: 667 | 319 comments",
-    "url": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
-    "score": 667,
+    "description": "HN Score: 201 | 47 comments",
+    "url": "https://blog.cloudflare.com/ai-platform/",
+    "score": 201,
     "date": "2026-04-16",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Cloudflare's AI Platform: an inference layer designed for agents",
+    "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
     "source": "Hacker News",
-    "description": "HN Score: 169 | 41 comments",
-    "url": "https://blog.cloudflare.com/ai-platform/",
-    "score": 169,
+    "description": "HN Score: 748 | 349 comments",
+    "url": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
+    "score": 748,
     "date": "2026-04-16",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "We gave an AI a 3 year retail lease and asked it to make a profit",
+    "title": "Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7",
     "source": "Hacker News",
-    "description": "HN Score: 141 | 199 comments",
-    "url": "https://andonlabs.com/blog/andon-market-launch",
-    "score": 141,
+    "description": "HN Score: 142 | 30 comments",
+    "url": "https://simonwillison.net/2026/Apr/16/qwen-beats-opus/",
+    "score": 142,
     "date": "2026-04-16",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: CodeBurn \u2013 Analyze Claude Code token usage by task",
+    "title": "Android CLI: Build Android apps 3x faster using any agent",
     "source": "Hacker News",
-    "description": "HN Score: 40 | 11 comments",
-    "url": "https://github.com/AgentSeal/codeburn",
-    "score": 40,
+    "description": "HN Score: 12 | 1 comments",
+    "url": "https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html",
+    "score": 12,
     "date": "2026-04-16",
     "category": "AI News"
   },
@@ -95,43 +95,43 @@
   {
     "title": "Show HN: MacMind \u2013 A transformer neural network in HyperCard on a 1989 Macintosh",
     "source": "Hacker News",
-    "description": "HN Score: 81 | 22 comments",
+    "description": "HN Score: 95 | 28 comments",
     "url": "https://github.com/SeanFDZ/macmind",
-    "score": 81,
+    "score": 95,
     "date": "2026-04-16",
     "category": "AI News"
   },
   {
-    "title": "RT by @svpino: Watching one video after another is not learning; it's just procrastinating. 2 years ago, I started teaching my AI/ML Engineering cohor",
+    "title": "R to @svpino: By the way, OpenClaw is what powers ZooClaw. You get the same benefits and updates automatically. Top models like Claude Sonnet 4.6, GPT",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2044761646133027316#m",
+    "url": "https://nitter.net/svpino/status/2044858444990304684#m",
     "date": "2026-04-16",
     "category": "Twitter"
   },
   {
-    "title": "Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7",
+    "title": "We gave an AI a 3 year retail lease and asked it to make a profit",
     "source": "Hacker News",
-    "description": "HN Score: 42 | 4 comments",
-    "url": "https://simonwillison.net/2026/Apr/16/qwen-beats-opus/",
-    "score": 42,
+    "description": "HN Score: 167 | 242 comments",
+    "url": "https://andonlabs.com/blog/andon-market-launch",
+    "score": 167,
     "date": "2026-04-16",
     "category": "AI News"
   },
   {
-    "title": "Be careful with moving it all over Opus 4.7. The new model uses more tokens and will eat up your subscription faster. \u2022 New tokenizer that maps inputs",
+    "title": "R to @svpino: A few minutes later, ZooClaw sent me an email notification with the best pricing it was able to find: '$744 per ticket, round-trip, with",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2044796747830931463#m",
+    "url": "https://nitter.net/svpino/status/2044858432797417725#m",
     "date": "2026-04-16",
     "category": "Twitter"
   },
   {
-    "title": "Cloudflare Email Service",
+    "title": "Show HN: CodeBurn \u2013 Analyze Claude Code token usage by task",
     "source": "Hacker News",
-    "description": "HN Score: 333 | 143 comments",
-    "url": "https://blog.cloudflare.com/email-for-agents/",
-    "score": 333,
+    "description": "HN Score: 52 | 13 comments",
+    "url": "https://github.com/AgentSeal/codeburn",
+    "score": 52,
     "date": "2026-04-16",
     "category": "AI News"
   },
@@ -146,9 +146,9 @@
   {
     "title": "FSF trying to contact Google about spammer sending 10k+ mails from Gmail account",
     "source": "Hacker News",
-    "description": "HN Score: 335 | 195 comments",
+    "description": "HN Score: 352 | 202 comments",
     "url": "https://daedal.io/@thomzane/116410863009847575",
-    "score": 335,
+    "score": 352,
     "date": "2026-04-16",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "AI cybersecurity is not proof of work",
+    "title": "Cloudflare Email Service",
     "source": "Hacker News",
-    "description": "HN Score: 161 | 73 comments",
-    "url": "https://antirez.com/news/163",
-    "score": 161,
+    "description": "HN Score: 356 | 160 comments",
+    "url": "https://blog.cloudflare.com/email-for-agents/",
+    "score": 356,
     "date": "2026-04-16",
     "category": "AI News"
   }
