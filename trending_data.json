@@ -10,9 +10,9 @@
   {
     "title": "Claude Opus 4.7",
     "source": "Hacker News",
-    "description": "HN Score: 1627 | 1143 comments",
+    "description": "HN Score: 1742 | 1254 comments",
     "url": "https://www.anthropic.com/news/claude-opus-4-7",
-    "score": 1627,
+    "score": 1742,
     "date": "2026-04-17",
     "category": "AI News"
   },
@@ -27,43 +27,43 @@
   {
     "title": "CadQuery is an open-source Python library for building 3D CAD models",
     "source": "Hacker News",
-    "description": "HN Score: 92 | 13 comments",
+    "description": "HN Score: 137 | 24 comments",
     "url": "https://cadquery.github.io/",
-    "score": 92,
+    "score": 137,
     "date": "2026-04-17",
     "category": "AI News"
   },
   {
-    "title": "RT by @EMostaque: A key implication of this work is that not all AI adoption is labor-replacing. Some jobs may be more automation-prone, some may expa",
+    "title": "RT by @EMostaque: Last week, Anthropic announced Project Glasswing alongside Claude Mythos Preview, a model they described as so powerful at finding v",
     "source": "@EMostaque",
     "description": "",
-    "url": "https://nitter.net/RonnieChatterji/status/2044886924884869600#m",
-    "date": "2026-04-17",
-    "category": "Twitter"
-  },
-  {
-    "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
-    "source": "Hacker News",
-    "description": "HN Score: 144 | 28 comments",
-    "url": "https://github.com/gainsec/autoprober",
-    "score": 144,
-    "date": "2026-04-17",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @EMostaque: Today we\u2019re announcing Ternary Bonsai: Top intelligence at 1.58 bits Using ternary weights {-1, 0, +1}, we built a family of models ",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/PrismML/status/2044833023682896134#m",
+    "url": "https://nitter.net/QuixiAI/status/2044952124568527298#m",
     "date": "2026-04-17",
     "category": "Twitter"
   },
   {
     "title": "Show HN: SPICE simulation \u2192 oscilloscope \u2192 verification with Claude Code",
     "source": "Hacker News",
-    "description": "HN Score: 54 | 11 comments",
+    "description": "HN Score: 75 | 15 comments",
     "url": "https://lucasgerads.com/blog/lecroy-mcp-spice-demo/",
-    "score": 54,
+    "score": 75,
+    "date": "2026-04-17",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: Today, Clearwing has replicated Glasswing's discovery of the @FFmpeg vulnerability using Codex-5.4 as the backend. I am going to att",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/QuixiAI/status/2044799759769067819#m",
+    "date": "2026-04-17",
+    "category": "Twitter"
+  },
+  {
+    "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
+    "source": "Hacker News",
+    "description": "HN Score: 172 | 37 comments",
+    "url": "https://github.com/gainsec/autoprober",
+    "score": 172,
     "date": "2026-04-17",
     "category": "AI News"
   },
@@ -78,9 +78,9 @@
   {
     "title": "Android CLI: Build Android apps 3x faster using any agent",
     "source": "Hacker News",
-    "description": "HN Score: 188 | 62 comments",
+    "description": "HN Score: 232 | 86 comments",
     "url": "https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html",
-    "score": 188,
+    "score": 232,
     "date": "2026-04-17",
     "category": "AI News"
   },
@@ -102,6 +102,23 @@
     "category": "AI News"
   },
   {
+    "title": "RT by @svpino: This is a pretty solid collection of specialized agents: \u2022 An office assistant \u2022 A coding assistant \u2022 A wellness coach \u2022 A personal sho",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2044858396114117058#m",
+    "date": "2026-04-17",
+    "category": "Twitter"
+  },
+  {
+    "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
+    "source": "Hacker News",
+    "description": "HN Score: 1085 | 466 comments",
+    "url": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
+    "score": 1085,
+    "date": "2026-04-17",
+    "category": "AI News"
+  },
+  {
     "title": "RT by @svpino: Here is the fastest way to turn text into a voice. Less than 100ms to start streaming. This is an absolute must for anyone who wants to",
     "source": "@svpino",
     "description": "",
@@ -110,28 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
-    "source": "Hacker News",
-    "description": "HN Score: 1011 | 438 comments",
-    "url": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
-    "score": 1011,
-    "date": "2026-04-17",
-    "category": "AI News"
-  },
-  {
-    "title": "This is a pretty solid collection of specialized agents: \u2022 An office assistant \u2022 A coding assistant \u2022 A wellness coach \u2022 A personal shopping assistant",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2044858396114117058#m",
-    "date": "2026-04-17",
-    "category": "Twitter"
-  },
-  {
     "title": "Cloudflare's AI Platform: an inference layer designed for agents",
     "source": "Hacker News",
-    "description": "HN Score: 264 | 60 comments",
+    "description": "HN Score: 279 | 68 comments",
     "url": "https://blog.cloudflare.com/ai-platform/",
-    "score": 264,
+    "score": 279,
     "date": "2026-04-17",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "New unsealed records reveal Amazon's price-fixing tactics, California AG claims",
+    "title": "The beginning of scarcity in AI",
     "source": "Hacker News",
-    "description": "HN Score: 186 | 39 comments",
-    "url": "https://www.theguardian.com/us-news/ng-interactive/2026/apr/16/amazon-price-fixing-california-lawsuit",
-    "score": 186,
+    "description": "HN Score: 66 | 99 comments",
+    "url": "https://tomtunguz.com/ai-compute-crisis-2026/",
+    "score": 66,
     "date": "2026-04-17",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "GPT\u2011Rosalind for life sciences research",
+    "title": "New unsealed records reveal Amazon's price-fixing tactics, California AG claims",
     "source": "Hacker News",
-    "description": "HN Score: 84 | 22 comments",
-    "url": "https://openai.com/index/introducing-gpt-rosalind/",
-    "score": 84,
+    "description": "HN Score: 216 | 50 comments",
+    "url": "https://www.theguardian.com/us-news/ng-interactive/2026/apr/16/amazon-price-fixing-california-lawsuit",
+    "score": 216,
     "date": "2026-04-17",
     "category": "AI News"
   }
