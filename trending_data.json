@@ -10,9 +10,9 @@
   {
     "title": "Claude Opus 4.7",
     "source": "Hacker News",
-    "description": "HN Score: 1535 | 1097 comments",
+    "description": "HN Score: 1627 | 1143 comments",
     "url": "https://www.anthropic.com/news/claude-opus-4-7",
-    "score": 1535,
+    "score": 1627,
     "date": "2026-04-17",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "CadQuery is an open-source Python library for building 3D CAD models",
     "source": "Hacker News",
-    "description": "HN Score: 56 | 6 comments",
+    "description": "HN Score: 92 | 13 comments",
     "url": "https://cadquery.github.io/",
-    "score": 56,
+    "score": 92,
     "date": "2026-04-17",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Spice simulation \u2192 oscilloscope \u2192 verification with Claude Code",
+    "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
     "source": "Hacker News",
-    "description": "HN Score: 31 | 4 comments",
-    "url": "https://lucasgerads.com/blog/lecroy-mcp-spice-demo/",
-    "score": 31,
+    "description": "HN Score: 144 | 28 comments",
+    "url": "https://github.com/gainsec/autoprober",
+    "score": 144,
     "date": "2026-04-17",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
+    "title": "Show HN: SPICE simulation \u2192 oscilloscope \u2192 verification with Claude Code",
     "source": "Hacker News",
-    "description": "HN Score: 106 | 17 comments",
-    "url": "https://github.com/gainsec/autoprober",
-    "score": 106,
+    "description": "HN Score: 54 | 11 comments",
+    "url": "https://lucasgerads.com/blog/lecroy-mcp-spice-demo/",
+    "score": 54,
     "date": "2026-04-17",
     "category": "AI News"
   },
@@ -72,6 +72,23 @@
     "source": "@DrJimFan",
     "description": "",
     "url": "https://nitter.net/DrJimFan/status/2039360927653614004#m",
+    "date": "2026-04-17",
+    "category": "Twitter"
+  },
+  {
+    "title": "Android CLI: Build Android apps 3x faster using any agent",
+    "source": "Hacker News",
+    "description": "HN Score: 188 | 62 comments",
+    "url": "https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html",
+    "score": 188,
+    "date": "2026-04-17",
+    "category": "AI News"
+  },
+  {
+    "title": "R to @DrJimFan: As usual, we open-source everything, MIT license: https://capgym.github.io Code: https://github.com/capgym/cap-x Paper: https://arxiv.",
+    "source": "@DrJimFan",
+    "description": "",
+    "url": "https://nitter.net/DrJimFan/status/2039360925606760690#m",
     "date": "2026-04-17",
     "category": "Twitter"
   },
@@ -85,53 +102,53 @@
     "category": "AI News"
   },
   {
-    "title": "R to @DrJimFan: As usual, we open-source everything, MIT license: https://capgym.github.io Code: https://github.com/capgym/cap-x Paper: https://arxiv.",
-    "source": "@DrJimFan",
-    "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2039360925606760690#m",
-    "date": "2026-04-17",
-    "category": "Twitter"
-  },
-  {
-    "title": "Android CLI: Build Android apps 3x faster using any agent",
-    "source": "Hacker News",
-    "description": "HN Score: 147 | 36 comments",
-    "url": "https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html",
-    "score": 147,
-    "date": "2026-04-17",
-    "category": "AI News"
-  },
-  {
-    "title": "R to @svpino: By the way, OpenClaw is what powers ZooClaw. You get the same benefits and updates automatically. Top models like Claude Sonnet 4.6, GPT",
+    "title": "RT by @svpino: Here is the fastest way to turn text into a voice. Less than 100ms to start streaming. This is an absolute must for anyone who wants to",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2044858444990304684#m",
+    "url": "https://nitter.net/svpino/status/2044795557198336452#m",
     "date": "2026-04-17",
     "category": "Twitter"
   },
   {
     "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
     "source": "Hacker News",
-    "description": "HN Score: 949 | 422 comments",
+    "description": "HN Score: 1011 | 438 comments",
     "url": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
-    "score": 949,
+    "score": 1011,
     "date": "2026-04-17",
     "category": "AI News"
   },
   {
-    "title": "R to @svpino: A few minutes later, ZooClaw sent me an email notification with the best pricing it was able to find: '$744 per ticket, round-trip, with",
+    "title": "This is a pretty solid collection of specialized agents: \u2022 An office assistant \u2022 A coding assistant \u2022 A wellness coach \u2022 A personal shopping assistant",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2044858432797417725#m",
+    "url": "https://nitter.net/svpino/status/2044858396114117058#m",
+    "date": "2026-04-17",
+    "category": "Twitter"
+  },
+  {
+    "title": "Cloudflare's AI Platform: an inference layer designed for agents",
+    "source": "Hacker News",
+    "description": "HN Score: 264 | 60 comments",
+    "url": "https://blog.cloudflare.com/ai-platform/",
+    "score": 264,
+    "date": "2026-04-17",
+    "category": "AI News"
+  },
+  {
+    "title": "4.7 is way more expensive than 4.6 in the real world Anthropic just gave OpenAI the biggest break in history In AI, pricing is everything",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2044984631213305986#m",
     "date": "2026-04-17",
     "category": "Twitter"
   },
   {
     "title": "New unsealed records reveal Amazon's price-fixing tactics, California AG claims",
     "source": "Hacker News",
-    "description": "HN Score: 139 | 27 comments",
+    "description": "HN Score: 186 | 39 comments",
     "url": "https://www.theguardian.com/us-news/ng-interactive/2026/apr/16/amazon-price-fixing-california-lawsuit",
-    "score": 139,
+    "score": 186,
     "date": "2026-04-17",
     "category": "AI News"
   },
@@ -144,28 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Cloudflare's AI Platform: an inference layer designed for agents",
+    "title": "GPT\u2011Rosalind for life sciences research",
     "source": "Hacker News",
-    "description": "HN Score: 250 | 58 comments",
-    "url": "https://blog.cloudflare.com/ai-platform/",
-    "score": 250,
-    "date": "2026-04-17",
-    "category": "AI News"
-  },
-  {
-    "title": "Opus 4.7 Is Out And Ranks #3 On LiveBench - Live On ChatLLM! Opus 4.7 is an improvement on Opus 4.6 high effort and appears to be trained from a diffe",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2044813400472260905#m",
-    "date": "2026-04-17",
-    "category": "Twitter"
-  },
-  {
-    "title": "Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7",
-    "source": "Hacker News",
-    "description": "HN Score: 325 | 73 comments",
-    "url": "https://simonwillison.net/2026/Apr/16/qwen-beats-opus/",
-    "score": 325,
+    "description": "HN Score: 84 | 22 comments",
+    "url": "https://openai.com/index/introducing-gpt-rosalind/",
+    "score": 84,
     "date": "2026-04-17",
     "category": "AI News"
   }
