@@ -10,9 +10,9 @@
   {
     "title": "Claude Design",
     "source": "Hacker News",
-    "description": "HN Score: 658 | 442 comments",
+    "description": "HN Score: 743 | 510 comments",
     "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
-    "score": 658,
+    "score": 743,
     "date": "2026-04-17",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Claude Opus 4.7 costs 20\u201330% more per session",
+    "title": "A simplified model of Fil-C",
     "source": "Hacker News",
-    "description": "HN Score: 434 | 262 comments",
-    "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
-    "score": 434,
+    "description": "HN Score: 42 | 11 comments",
+    "url": "https://www.corsix.org/content/simplified-model-of-fil-c",
+    "score": 42,
     "date": "2026-04-17",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Solitaire simulator for finding the best strategy: Current record is 8.590%",
+    "title": "Measuring Claude 4.7's tokenizer costs",
     "source": "Hacker News",
-    "description": "HN Score: 30 | 13 comments",
-    "url": "https://github.com/dacracot/Klondike3-Simulator",
-    "score": 30,
+    "description": "HN Score: 499 | 337 comments",
+    "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
+    "score": 499,
     "date": "2026-04-17",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Tesla tells HW3 owner to 'be patient' after 7 years of waiting for FSD",
+    "title": "Are the costs of AI agents also rising exponentially? (2025)",
     "source": "Hacker News",
-    "description": "HN Score: 36 | 9 comments",
-    "url": "https://electrek.co/2026/04/17/tesla-hw3-owners-be-patient-7-years-fsd/",
-    "score": 36,
+    "description": "HN Score: 31 | 1 comments",
+    "url": "https://www.tobyord.com/writing/hourly-costs-for-ai-agents",
+    "score": 31,
     "date": "2026-04-17",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "CadQuery is an open-source Python library for building 3D CAD models",
+    "title": "Tesla tells HW3 owner to 'be patient' after 7 years of waiting for FSD",
     "source": "Hacker News",
-    "description": "HN Score: 213 | 59 comments",
-    "url": "https://cadquery.github.io/",
-    "score": 213,
+    "description": "HN Score: 124 | 76 comments",
+    "url": "https://electrek.co/2026/04/17/tesla-hw3-owners-be-patient-7-years-fsd/",
+    "score": 124,
     "date": "2026-04-17",
     "category": "AI News"
   },
@@ -93,11 +93,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Android CLI: Build Android apps 3x faster using any agent",
+    "title": "Solitaire simulator for finding the best strategy: Current record is 8.590%",
     "source": "Hacker News",
-    "description": "HN Score: 298 | 123 comments",
-    "url": "https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html",
-    "score": 298,
+    "description": "HN Score: 36 | 17 comments",
+    "url": "https://github.com/dacracot/Klondike3-Simulator",
+    "score": 36,
+    "date": "2026-04-17",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: This guy built a self-evolving AI system that went through 219 generations of self-improvement. This dude had no programming experience",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2045087838727975049#m",
+    "date": "2026-04-17",
+    "category": "Twitter"
+  },
+  {
+    "title": "CadQuery is an open-source Python library for building 3D CAD models",
+    "source": "Hacker News",
+    "description": "HN Score: 215 | 59 comments",
+    "url": "https://cadquery.github.io/",
+    "score": 215,
     "date": "2026-04-17",
     "category": "AI News"
   },
@@ -110,28 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Scan your website to see how ready it is for AI agents",
+    "title": "Android CLI: Build Android apps 3x faster using any agent",
     "source": "Hacker News",
-    "description": "HN Score: 87 | 148 comments",
-    "url": "https://isitagentready.com",
-    "score": 87,
-    "date": "2026-04-17",
-    "category": "AI News"
-  },
-  {
-    "title": "New open-source 3D world-generation model. I'm rendering a couple of worlds in the video, so check it out. You'll find the GitHub and the @huggingface",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2045218354856898962#m",
-    "date": "2026-04-17",
-    "category": "Twitter"
-  },
-  {
-    "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
-    "source": "Hacker News",
-    "description": "HN Score: 218 | 46 comments",
-    "url": "https://github.com/gainsec/autoprober",
-    "score": 218,
+    "description": "HN Score: 298 | 126 comments",
+    "url": "https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html",
+    "score": 298,
     "date": "2026-04-17",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: SPICE simulation \u2192 oscilloscope \u2192 verification with Claude Code",
+    "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
     "source": "Hacker News",
-    "description": "HN Score: 114 | 31 comments",
-    "url": "https://lucasgerads.com/blog/lecroy-mcp-spice-demo/",
-    "score": 114,
+    "description": "HN Score: 221 | 46 comments",
+    "url": "https://github.com/gainsec/autoprober",
+    "score": 221,
     "date": "2026-04-17",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "The beginning of scarcity in AI",
+    "title": "Show HN: SPICE simulation \u2192 oscilloscope \u2192 verification with Claude Code",
     "source": "Hacker News",
-    "description": "HN Score: 165 | 209 comments",
-    "url": "https://tomtunguz.com/ai-compute-crisis-2026/",
-    "score": 165,
+    "description": "HN Score: 118 | 31 comments",
+    "url": "https://lucasgerads.com/blog/lecroy-mcp-spice-demo/",
+    "score": 118,
     "date": "2026-04-17",
     "category": "AI News"
   }
