@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Claude Opus 4.7",
+    "title": "We Reproduced Anthropic's Mythos Findings with Public Models",
     "source": "Hacker News",
-    "description": "HN Score: 1840 | 1332 comments",
-    "url": "https://www.anthropic.com/news/claude-opus-4-7",
-    "score": 1840,
+    "description": "HN Score: 49 | 21 comments",
+    "url": "https://blog.vidocsecurity.com/blog/we-reproduced-anthropics-mythos-findings-with-public-models",
+    "score": 49,
     "date": "2026-04-17",
     "category": "AI News"
   },
@@ -25,11 +25,28 @@
     "category": "Twitter"
   },
   {
+    "title": "Claude Opus 4.7",
+    "source": "Hacker News",
+    "description": "HN Score: 1874 | 1361 comments",
+    "url": "https://www.anthropic.com/news/claude-opus-4-7",
+    "score": 1874,
+    "date": "2026-04-17",
+    "category": "AI News"
+  },
+  {
+    "title": "Turning 43 today \u23f3 Didn\u2019t figure out the meaning of life, the universe and everything at 42 \ud83e\udd14 Maybe this year will figure it out \ud83e\udd1e A gift for everyone",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/EMostaque/status/2045152964835254279#m",
+    "date": "2026-04-17",
+    "category": "Twitter"
+  },
+  {
     "title": "CadQuery is an open-source Python library for building 3D CAD models",
     "source": "Hacker News",
-    "description": "HN Score: 175 | 46 comments",
+    "description": "HN Score: 185 | 48 comments",
     "url": "https://cadquery.github.io/",
-    "score": 175,
+    "score": 185,
     "date": "2026-04-17",
     "category": "AI News"
   },
@@ -42,28 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
-    "source": "Hacker News",
-    "description": "HN Score: 204 | 40 comments",
-    "url": "https://github.com/gainsec/autoprober",
-    "score": 204,
-    "date": "2026-04-17",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @EMostaque: Today, Clearwing has replicated Glasswing's discovery of the @FFmpeg vulnerability using Codex-5.4 as the backend. I am going to att",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/QuixiAI/status/2044799759769067819#m",
-    "date": "2026-04-17",
-    "category": "Twitter"
-  },
-  {
     "title": "Android CLI: Build Android apps 3x faster using any agent",
     "source": "Hacker News",
-    "description": "HN Score: 267 | 108 comments",
+    "description": "HN Score: 275 | 115 comments",
     "url": "https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html",
-    "score": 267,
+    "score": 275,
     "date": "2026-04-17",
     "category": "AI News"
   },
@@ -78,9 +78,9 @@
   {
     "title": "Show HN: SPICE simulation \u2192 oscilloscope \u2192 verification with Claude Code",
     "source": "Hacker News",
-    "description": "HN Score: 97 | 20 comments",
+    "description": "HN Score: 104 | 22 comments",
     "url": "https://lucasgerads.com/blog/lecroy-mcp-spice-demo/",
-    "score": 97,
+    "score": 104,
     "date": "2026-04-17",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
+    "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
     "source": "Hacker News",
-    "description": "HN Score: 1168 | 489 comments",
-    "url": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
-    "score": 1168,
+    "description": "HN Score: 207 | 41 comments",
+    "url": "https://github.com/gainsec/autoprober",
+    "score": 207,
     "date": "2026-04-17",
     "category": "AI News"
   },
@@ -106,6 +106,23 @@
     "source": "@svpino",
     "description": "",
     "url": "https://nitter.net/svpino/status/2045111295805100144#m",
+    "date": "2026-04-17",
+    "category": "Twitter"
+  },
+  {
+    "title": "Is Your Site Agent-Ready? (By Cloudflare)",
+    "source": "Hacker News",
+    "description": "HN Score: 27 | 47 comments",
+    "url": "https://isitagentready.com",
+    "score": 27,
+    "date": "2026-04-17",
+    "category": "AI News"
+  },
+  {
+    "title": "This guy built a self-evolving AI system that went through 219 generations of self-improvement. This dude had no programming experience. The entire th",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2045087838727975049#m",
     "date": "2026-04-17",
     "category": "Twitter"
   },
@@ -119,23 +136,6 @@
     "category": "AI News"
   },
   {
-    "title": "This guy built a self-evolving AI system that went through 219 generations of self-improvement. This dude had no programming experience. The entire th",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2045087838727975049#m",
-    "date": "2026-04-17",
-    "category": "Twitter"
-  },
-  {
-    "title": "Cloudflare's AI Platform: an inference layer designed for agents",
-    "source": "Hacker News",
-    "description": "HN Score: 295 | 77 comments",
-    "url": "https://blog.cloudflare.com/ai-platform/",
-    "score": 295,
-    "date": "2026-04-17",
-    "category": "AI News"
-  },
-  {
     "title": "4.7 is way more expensive than 4.6 in the real world Anthropic just gave OpenAI the biggest break in history In AI, pricing is everything",
     "source": "@bindureddy",
     "description": "",
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "The beginning of scarcity in AI",
+    "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
     "source": "Hacker News",
-    "description": "HN Score: 118 | 154 comments",
-    "url": "https://tomtunguz.com/ai-compute-crisis-2026/",
-    "score": 118,
+    "description": "HN Score: 1196 | 495 comments",
+    "url": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
+    "score": 1196,
     "date": "2026-04-17",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "New unsealed records reveal Amazon's price-fixing tactics, California AG claims",
+    "title": "Cloudflare's AI Platform: an inference layer designed for agents",
     "source": "Hacker News",
-    "description": "HN Score: 232 | 57 comments",
-    "url": "https://www.theguardian.com/us-news/ng-interactive/2026/apr/16/amazon-price-fixing-california-lawsuit",
-    "score": 232,
+    "description": "HN Score: 301 | 80 comments",
+    "url": "https://blog.cloudflare.com/ai-platform/",
+    "score": 301,
     "date": "2026-04-17",
     "category": "AI News"
   }
