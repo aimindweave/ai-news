@@ -10,9 +10,9 @@
   {
     "title": "Claude Opus 4.7",
     "source": "Hacker News",
-    "description": "HN Score: 1742 | 1254 comments",
+    "description": "HN Score: 1773 | 1274 comments",
     "url": "https://www.anthropic.com/news/claude-opus-4-7",
-    "score": 1742,
+    "score": 1773,
     "date": "2026-04-17",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "CadQuery is an open-source Python library for building 3D CAD models",
     "source": "Hacker News",
-    "description": "HN Score: 137 | 24 comments",
+    "description": "HN Score: 148 | 30 comments",
     "url": "https://cadquery.github.io/",
-    "score": 137,
+    "score": 148,
     "date": "2026-04-17",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: SPICE simulation \u2192 oscilloscope \u2192 verification with Claude Code",
+    "title": "Android CLI: Build Android apps 3x faster using any agent",
     "source": "Hacker News",
-    "description": "HN Score: 75 | 15 comments",
-    "url": "https://lucasgerads.com/blog/lecroy-mcp-spice-demo/",
-    "score": 75,
+    "description": "HN Score: 249 | 98 comments",
+    "url": "https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html",
+    "score": 249,
     "date": "2026-04-17",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
+    "title": "Show HN: SPICE simulation \u2192 oscilloscope \u2192 verification with Claude Code",
     "source": "Hacker News",
-    "description": "HN Score: 172 | 37 comments",
-    "url": "https://github.com/gainsec/autoprober",
-    "score": 172,
+    "description": "HN Score: 82 | 17 comments",
+    "url": "https://lucasgerads.com/blog/lecroy-mcp-spice-demo/",
+    "score": 82,
     "date": "2026-04-17",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Android CLI: Build Android apps 3x faster using any agent",
+    "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
     "source": "Hacker News",
-    "description": "HN Score: 232 | 86 comments",
-    "url": "https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html",
-    "score": 232,
+    "description": "HN Score: 186 | 39 comments",
+    "url": "https://github.com/gainsec/autoprober",
+    "score": 186,
     "date": "2026-04-17",
     "category": "AI News"
   },
@@ -102,6 +102,23 @@
     "category": "AI News"
   },
   {
+    "title": "This guy built a self-evolving AI system that went through 219 generations of self-improvement. This dude had no programming experience. The entire th",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2045087838727975049#m",
+    "date": "2026-04-17",
+    "category": "Twitter"
+  },
+  {
+    "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
+    "source": "Hacker News",
+    "description": "HN Score: 1120 | 470 comments",
+    "url": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
+    "score": 1120,
+    "date": "2026-04-17",
+    "category": "AI News"
+  },
+  {
     "title": "RT by @svpino: This is a pretty solid collection of specialized agents: \u2022 An office assistant \u2022 A coding assistant \u2022 A wellness coach \u2022 A personal sho",
     "source": "@svpino",
     "description": "",
@@ -110,28 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
-    "source": "Hacker News",
-    "description": "HN Score: 1085 | 466 comments",
-    "url": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
-    "score": 1085,
-    "date": "2026-04-17",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: Here is the fastest way to turn text into a voice. Less than 100ms to start streaming. This is an absolute must for anyone who wants to",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2044795557198336452#m",
-    "date": "2026-04-17",
-    "category": "Twitter"
-  },
-  {
     "title": "Cloudflare's AI Platform: an inference layer designed for agents",
     "source": "Hacker News",
-    "description": "HN Score: 279 | 68 comments",
+    "description": "HN Score: 284 | 70 comments",
     "url": "https://blog.cloudflare.com/ai-platform/",
-    "score": 279,
+    "score": 284,
     "date": "2026-04-17",
     "category": "AI News"
   },
@@ -146,9 +146,9 @@
   {
     "title": "The beginning of scarcity in AI",
     "source": "Hacker News",
-    "description": "HN Score: 66 | 99 comments",
+    "description": "HN Score: 91 | 111 comments",
     "url": "https://tomtunguz.com/ai-compute-crisis-2026/",
-    "score": 66,
+    "score": 91,
     "date": "2026-04-17",
     "category": "AI News"
   },
@@ -163,9 +163,9 @@
   {
     "title": "New unsealed records reveal Amazon's price-fixing tactics, California AG claims",
     "source": "Hacker News",
-    "description": "HN Score: 216 | 50 comments",
+    "description": "HN Score: 224 | 55 comments",
     "url": "https://www.theguardian.com/us-news/ng-interactive/2026/apr/16/amazon-price-fixing-california-lawsuit",
-    "score": 216,
+    "score": 224,
     "date": "2026-04-17",
     "category": "AI News"
   }

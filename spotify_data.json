@@ -93,6 +93,26 @@
   ],
   "episodes": [
     {
+      "id": "Hard For_0",
+      "name": "A.I. Backlash Turns Violent + Kara Swisher on Healthmaxxing + The Zuck Bot Is Coming",
+      "show": "Hard Fork",
+      "description": "This week, amid violent attacks on the homes of the OpenAI chief executive Sam Altman and the Indianapolis councilman Ron Gibson, we debate why artificial intelligence and data centers are so unpop",
+      "release_date": "2026-04-17",
+      "duration_min": 63,
+      "image": "",
+      "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
+    },
+    {
+      "id": "a]6z Pod_0",
+      "name": "From Models to Mobility: Building Waymo with Dmitri Dolgov",
+      "show": "a]6z Podcast",
+      "description": "Waymo is now delivering hundreds of thousands of fully autonomous rides each week — but getting there required more than better models. It meant building a complete system for training, evaluating,",
+      "release_date": "2026-04-17",
+      "duration_min": 64,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
       "id": "Practica_0",
       "name": "Open Source Self-Driving with Comma AI",
       "show": "Practical AI",
@@ -113,7 +133,7 @@
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
     },
     {
-      "id": "a]6z Pod_0",
+      "id": "a]6z Pod_1",
       "name": "Technology, Culture, and the Next AI Interface with signüll",
       "show": "a]6z Podcast",
       "description": "Erik Torenberg and Anish Acharya, general partners at a16z, speak with signüll about how technology reshapes culture, relationships, and the products we build. The conversation covers tacit knowled",
@@ -123,7 +143,7 @@
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "Replit's CEO on Vibe Coding, Wealth Building, and What Most People Get Wrong About AI",
       "show": "a]6z Podcast",
       "description": "Jack Neel speaks with Amjad Masad, CEO at Replit, about how AI is making it easier than ever to build and ship software without a technical background. They discuss Replit's rise from a browser-bas",
@@ -143,17 +163,7 @@
       "url": "https://open.spotify.com/show/0e1X4kJVfwQRPF8lZzqqfX"
     },
     {
-      "id": "a]6z Pod_2",
-      "name": "Ben Horowitz on AI Infrastructure, Economics and The New Laws of Software",
-      "show": "a]6z Podcast",
-      "description": "Recorded live at the a16z Fintech Connect conference in Deer Valley, Alex Rampell speaks with Ben Horowitz, cofounder and general partner at a16z, about how AI has rewritten the fundamental rules o",
-      "release_date": "2026-04-14",
-      "duration_min": 29,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
-    },
-    {
-      "id": "Hard For_0",
+      "id": "Hard For_1",
       "name": "Anthropic’s Cybersecurity Shock Wave + Ronan Farrow and Andrew Marantz on Their Sam Altman Investigation + One Good Thing",
       "show": "Hard Fork",
       "description": "This week, we look at the cybersecurity threats that a new unreleased model from Anthropic are posing to software everywhere. And we ask whether Project Glasswing, the company’s bold new defense in",
@@ -183,7 +193,7 @@
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
-      "id": "Hard For_1",
+      "id": "Hard For_2",
       "name": "The Future of Addictive Design + Going Deep at DeepMind + HatGPT",
       "show": "Hard Fork",
       "description": "Last week, two separate juries held social media companies liable for harming young users. We unpack what these landmark decisions mean — not only for the future of social platforms like Meta and Y",
@@ -201,16 +211,6 @@
       "duration_min": 48,
       "image": "",
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
-    },
-    {
-      "id": "Hard For_2",
-      "name": "The Ezra Klein Show: How Fast Will A.I. Agents Rip Through the Economy?",
-      "show": "Hard Fork",
-      "description": "The “Hard Fork” team is off this week, taking a much-needed break. While we’re away, we wanted to draw your attention to a recent episode of “The Ezra Klein Show.”\nIn this conversation, Ezra",
-      "release_date": "2026-03-27",
-      "duration_min": 100,
-      "image": "",
-      "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
       "id": "The TWIM_1",
