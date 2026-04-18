@@ -4,16 +4,16 @@
     "source": "@kaborobot",
     "description": "",
     "url": "https://nitter.net/kaborobot/status/2015735996248420451#m",
-    "date": "2026-04-17",
+    "date": "2026-04-18",
     "category": "Twitter"
   },
   {
     "title": "Claude Design",
     "source": "Hacker News",
-    "description": "HN Score: 743 | 510 comments",
+    "description": "HN Score: 871 | 582 comments",
     "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
-    "score": 743,
-    "date": "2026-04-17",
+    "score": 871,
+    "date": "2026-04-18",
     "category": "AI News"
   },
   {
@@ -21,16 +21,33 @@
     "source": "@kaborobot",
     "description": "",
     "url": "https://nitter.net/kaborobot/status/1977673306670330109#m",
-    "date": "2026-04-17",
+    "date": "2026-04-18",
     "category": "Twitter"
   },
   {
     "title": "A simplified model of Fil-C",
     "source": "Hacker News",
-    "description": "HN Score: 42 | 11 comments",
+    "description": "HN Score: 120 | 62 comments",
     "url": "https://www.corsix.org/content/simplified-model-of-fil-c",
-    "score": 42,
-    "date": "2026-04-17",
+    "score": 120,
+    "date": "2026-04-18",
+    "category": "AI News"
+  },
+  {
+    "title": "What folk don\u2019t get is that the play of Anthropic et al is to get enterprises to use their models via their own wrapper hooked into systems of record ",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/EMostaque/status/2045284214963138935#m",
+    "date": "2026-04-18",
+    "category": "Twitter"
+  },
+  {
+    "title": "Measuring Claude 4.7's tokenizer costs",
+    "source": "Hacker News",
+    "description": "HN Score: 547 | 381 comments",
+    "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
+    "score": 547,
+    "date": "2026-04-18",
     "category": "AI News"
   },
   {
@@ -38,33 +55,16 @@
     "source": "@EMostaque",
     "description": "",
     "url": "https://nitter.net/EMostaque/status/2045183124326248936#m",
-    "date": "2026-04-17",
-    "category": "Twitter"
-  },
-  {
-    "title": "Measuring Claude 4.7's tokenizer costs",
-    "source": "Hacker News",
-    "description": "HN Score: 499 | 337 comments",
-    "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
-    "score": 499,
-    "date": "2026-04-17",
-    "category": "AI News"
-  },
-  {
-    "title": "I have found 4.7 great for design, reverted back to 4.6 extended for everything else Anyone else like this?",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/EMostaque/status/2045166541151285343#m",
-    "date": "2026-04-17",
+    "date": "2026-04-18",
     "category": "Twitter"
   },
   {
     "title": "Are the costs of AI agents also rising exponentially? (2025)",
     "source": "Hacker News",
-    "description": "HN Score: 31 | 1 comments",
+    "description": "HN Score: 118 | 19 comments",
     "url": "https://www.tobyord.com/writing/hourly-costs-for-ai-agents",
-    "score": 31,
-    "date": "2026-04-17",
+    "score": 118,
+    "date": "2026-04-18",
     "category": "AI News"
   },
   {
@@ -72,16 +72,16 @@
     "source": "@DrJimFan",
     "description": "",
     "url": "https://nitter.net/DrJimFan/status/2039360927653614004#m",
-    "date": "2026-04-17",
+    "date": "2026-04-18",
     "category": "Twitter"
   },
   {
-    "title": "Tesla tells HW3 owner to 'be patient' after 7 years of waiting for FSD",
+    "title": "How to Host a Blog on a Subdirectory Instead of a Subdomain",
     "source": "Hacker News",
-    "description": "HN Score: 124 | 76 comments",
-    "url": "https://electrek.co/2026/04/17/tesla-hw3-owners-be-patient-7-years-fsd/",
-    "score": 124,
-    "date": "2026-04-17",
+    "description": "HN Score: 17 | 13 comments",
+    "url": "https://www.davidma.org/blog/2025-11-14-host-your-blog-on-a-subdirectory/",
+    "score": 17,
+    "date": "2026-04-18",
     "category": "AI News"
   },
   {
@@ -89,16 +89,33 @@
     "source": "@DrJimFan",
     "description": "",
     "url": "https://nitter.net/DrJimFan/status/2039360925606760690#m",
-    "date": "2026-04-17",
+    "date": "2026-04-18",
     "category": "Twitter"
   },
   {
     "title": "Solitaire simulator for finding the best strategy: Current record is 8.590%",
     "source": "Hacker News",
-    "description": "HN Score: 36 | 17 comments",
+    "description": "HN Score: 42 | 21 comments",
     "url": "https://github.com/dacracot/Klondike3-Simulator",
-    "score": 36,
-    "date": "2026-04-17",
+    "score": 42,
+    "date": "2026-04-18",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: 'Agentic everything' is the new 'microservices everywhere'. Now, everyone wants everything to be agentic. (I've even seen people call a",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2045111295805100144#m",
+    "date": "2026-04-18",
+    "category": "Twitter"
+  },
+  {
+    "title": "Generating Hierarchical JSON Representations of Scientific Sentences Using LLMs",
+    "source": "Hacker News",
+    "description": "HN Score: 3 | 0 comments",
+    "url": "https://arxiv.org/abs/2603.23532",
+    "score": 3,
+    "date": "2026-04-18",
     "category": "AI News"
   },
   {
@@ -106,33 +123,16 @@
     "source": "@svpino",
     "description": "",
     "url": "https://nitter.net/svpino/status/2045087838727975049#m",
-    "date": "2026-04-17",
+    "date": "2026-04-18",
     "category": "Twitter"
   },
   {
-    "title": "CadQuery is an open-source Python library for building 3D CAD models",
+    "title": "Tesla tells HW3 owner to 'be patient' after 7 years of waiting for FSD",
     "source": "Hacker News",
-    "description": "HN Score: 215 | 59 comments",
-    "url": "https://cadquery.github.io/",
-    "score": 215,
-    "date": "2026-04-17",
-    "category": "AI News"
-  },
-  {
-    "title": "R to @svpino: Here is the GitHub Repository: https://github.com/Tencent-Hunyuan/HY-World-2.0 Here is the Hugging Face model: https://huggingface.co/te",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2045218366806474929#m",
-    "date": "2026-04-17",
-    "category": "Twitter"
-  },
-  {
-    "title": "Android CLI: Build Android apps 3x faster using any agent",
-    "source": "Hacker News",
-    "description": "HN Score: 298 | 126 comments",
-    "url": "https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html",
-    "score": 298,
-    "date": "2026-04-17",
+    "description": "HN Score: 181 | 128 comments",
+    "url": "https://electrek.co/2026/04/17/tesla-hw3-owners-be-patient-7-years-fsd/",
+    "score": 181,
+    "date": "2026-04-18",
     "category": "AI News"
   },
   {
@@ -140,16 +140,16 @@
     "source": "@bindureddy",
     "description": "",
     "url": "https://nitter.net/bindureddy/status/2045236872230899834#m",
-    "date": "2026-04-17",
+    "date": "2026-04-18",
     "category": "Twitter"
   },
   {
-    "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
+    "title": "Maine Said No to New Data Centers. Other States Are Racing to Follow",
     "source": "Hacker News",
-    "description": "HN Score: 221 | 46 comments",
-    "url": "https://github.com/gainsec/autoprober",
-    "score": 221,
-    "date": "2026-04-17",
+    "description": "HN Score: 21 | 10 comments",
+    "url": "https://www.motherjones.com/environment/2026/04/maine-ai-data-center-moratorium-ban-energy-grid/",
+    "score": 21,
+    "date": "2026-04-18",
     "category": "AI News"
   },
   {
@@ -157,16 +157,7 @@
     "source": "@bindureddy",
     "description": "",
     "url": "https://nitter.net/bindureddy/status/2044984631213305986#m",
-    "date": "2026-04-17",
+    "date": "2026-04-18",
     "category": "Twitter"
-  },
-  {
-    "title": "Show HN: SPICE simulation \u2192 oscilloscope \u2192 verification with Claude Code",
-    "source": "Hacker News",
-    "description": "HN Score: 118 | 31 comments",
-    "url": "https://lucasgerads.com/blog/lecroy-mcp-spice-demo/",
-    "score": 118,
-    "date": "2026-04-17",
-    "category": "AI News"
   }
 ]
