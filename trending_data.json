@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Claude Design",
+    "title": "Thoughts and feelings around Claude Design",
     "source": "Hacker News",
-    "description": "HN Score: 1167 | 731 comments",
-    "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
-    "score": 1167,
+    "description": "HN Score: 33 | 10 comments",
+    "url": "https://samhenri.gold/blog/20260418-claude-design/",
+    "score": 33,
     "date": "2026-04-18",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Why Japan has such good railways",
+    "title": "College instructor turns to typewriters to curb AI-written work",
     "source": "Hacker News",
-    "description": "HN Score: 218 | 224 comments",
-    "url": "https://worksinprogress.co/issue/why-japan-has-such-good-railways/",
-    "score": 218,
+    "description": "HN Score: 14 | 2 comments",
+    "url": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/",
+    "score": 14,
     "date": "2026-04-18",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Measuring Claude 4.7's tokenizer costs",
+    "title": "Graphs That Explain the State of AI in 2026",
     "source": "Hacker News",
-    "description": "HN Score: 674 | 470 comments",
-    "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
-    "score": 674,
+    "description": "HN Score: 41 | 27 comments",
+    "url": "https://spectrum.ieee.org/state-of-ai-index-2026",
+    "score": 41,
     "date": "2026-04-18",
     "category": "AI News"
   },
@@ -59,28 +59,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Graphs That Explain the State of AI in 2026",
+    "title": "Show HN: Remoroo. trying to fix memory in long-running coding agents",
     "source": "Hacker News",
-    "description": "HN Score: 17 | 7 comments",
-    "url": "https://spectrum.ieee.org/state-of-ai-index-2026",
-    "score": 17,
+    "description": "HN Score: 12 | 1 comments",
+    "url": "https://www.remoroo.com",
+    "score": 12,
     "date": "2026-04-18",
     "category": "AI News"
   },
   {
-    "title": "R to @DrJimFan: Please check out lead author @letian_fu's deep dive thread! https://x.com/letian_fu/status/2039342130565357956?s=20",
+    "title": "The power of the Claw, in the palm of a robot hand. Agentic robotics is here! Today, we open-source CaP-X: vibe agents, alive in the physical world. T",
     "source": "@DrJimFan",
     "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2039360927653614004#m",
+    "url": "https://nitter.net/DrJimFan/status/2039358115318243352#m",
     "date": "2026-04-18",
     "category": "Twitter"
   },
   {
-    "title": "Are the costs of AI agents also rising exponentially? (2025)",
+    "title": "Show HN: AI Subroutines \u2013 Run automation scripts inside your browser tab",
     "source": "Hacker News",
-    "description": "HN Score: 285 | 113 comments",
-    "url": "https://www.tobyord.com/writing/hourly-costs-for-ai-agents",
-    "score": 285,
+    "description": "HN Score: 8 | 0 comments",
+    "url": "https://www.rtrvr.ai/blog/ai-subroutines-zero-token-deterministic-automation",
+    "score": 8,
     "date": "2026-04-18",
     "category": "AI News"
   },
@@ -93,11 +93,28 @@
     "category": "Twitter"
   },
   {
-    "title": "A simplified model of Fil-C",
+    "title": "Why Japan has such good railways",
     "source": "Hacker News",
-    "description": "HN Score: 199 | 106 comments",
-    "url": "https://www.corsix.org/content/simplified-model-of-fil-c",
-    "score": 199,
+    "description": "HN Score: 240 | 251 comments",
+    "url": "https://worksinprogress.co/issue/why-japan-has-such-good-railways/",
+    "score": 240,
+    "date": "2026-04-18",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: Today, we're joining Google's release of A2UI v0.9 \ud83c\udf89 Declarative Generative UI with your own design system. Works with any AG-UI Agent.",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/ataiiam/status/2045170631449461060#m",
+    "date": "2026-04-18",
+    "category": "Twitter"
+  },
+  {
+    "title": "Rail: A self-hosting language that speaks TLS alone",
+    "source": "Hacker News",
+    "description": "HN Score: 6 | 3 comments",
+    "url": "https://github.com/zemo-g/rail",
+    "score": 6,
     "date": "2026-04-18",
     "category": "AI News"
   },
@@ -110,26 +127,36 @@
     "category": "Twitter"
   },
   {
-    "title": "Single most underrated Claude Code Tip (I use this a dozen times a day): Esc+Esc rewinds your session to any previous checkpoint. Since I discovered t",
-    "source": "@svpino",
+    "title": "Claude Design",
+    "source": "Hacker News",
+    "description": "HN Score: 1174 | 733 comments",
+    "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+    "score": 1174,
+    "date": "2026-04-18",
+    "category": "AI News"
+  },
+  {
+    "title": "My open claw delegates complex tasks to agents Send messages via OpenClaw which in turn will use a complex agent to just do things Typical day at work",
+    "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2045490065787551792#m",
+    "url": "https://nitter.net/bindureddy/status/2045595426477502831#m",
     "date": "2026-04-18",
     "category": "Twitter"
+  },
+  {
+    "title": "Measuring Claude 4.7's tokenizer costs",
+    "source": "Hacker News",
+    "description": "HN Score: 680 | 474 comments",
+    "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
+    "score": 680,
+    "date": "2026-04-18",
+    "category": "AI News"
   },
   {
     "title": "The big story that everyone missed yesterday - Qwen 3.6 dropped with 3B active params costs nothing to run and delivers 80% of Opus 4.7\u2019s performance ",
     "source": "@bindureddy",
     "description": "",
     "url": "https://nitter.net/bindureddy/status/2045393596824838361#m",
-    "date": "2026-04-18",
-    "category": "Twitter"
-  },
-  {
-    "title": "I am just counting the number of hours till they launch the new OpenAI model It\u2019s rumored to rule the world If they price it like GPT 5.4, OpenAI will",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2045236872230899834#m",
     "date": "2026-04-18",
     "category": "Twitter"
   }
