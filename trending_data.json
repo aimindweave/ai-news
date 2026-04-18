@@ -10,9 +10,9 @@
   {
     "title": "Claude Design",
     "source": "Hacker News",
-    "description": "HN Score: 947 | 625 comments",
+    "description": "HN Score: 995 | 656 comments",
     "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
-    "score": 947,
+    "score": 995,
     "date": "2026-04-18",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "A simplified model of Fil-C",
+    "title": "Measuring Claude 4.7's tokenizer costs",
     "source": "Hacker News",
-    "description": "HN Score: 146 | 73 comments",
-    "url": "https://www.corsix.org/content/simplified-model-of-fil-c",
-    "score": 146,
+    "description": "HN Score: 594 | 415 comments",
+    "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
+    "score": 594,
     "date": "2026-04-18",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Are the costs of AI agents also rising exponentially? (2025)",
+    "title": "A simplified model of Fil-C",
     "source": "Hacker News",
-    "description": "HN Score: 164 | 39 comments",
-    "url": "https://www.tobyord.com/writing/hourly-costs-for-ai-agents",
-    "score": 164,
+    "description": "HN Score: 159 | 82 comments",
+    "url": "https://www.corsix.org/content/simplified-model-of-fil-c",
+    "score": 159,
     "date": "2026-04-18",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Measuring Claude 4.7's tokenizer costs",
+    "title": "Are the costs of AI agents also rising exponentially? (2025)",
     "source": "Hacker News",
-    "description": "HN Score: 573 | 400 comments",
-    "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
-    "score": 573,
+    "description": "HN Score: 181 | 42 comments",
+    "url": "https://www.tobyord.com/writing/hourly-costs-for-ai-agents",
+    "score": 181,
     "date": "2026-04-18",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Solitaire simulator for finding the best strategy: Current record is 8.590%",
+    "title": "'Liberation Day' at OpenAI as multiple senior executives announce leaving",
     "source": "Hacker News",
-    "description": "HN Score: 44 | 21 comments",
-    "url": "https://github.com/dacracot/Klondike3-Simulator",
-    "score": 44,
+    "description": "HN Score: 9 | 0 comments",
+    "url": "https://mas.to/@carnage4life/116422881496195720",
+    "score": 9,
     "date": "2026-04-18",
     "category": "AI News"
   },
@@ -89,6 +89,23 @@
     "source": "@DrJimFan",
     "description": "",
     "url": "https://nitter.net/DrJimFan/status/2039360925606760690#m",
+    "date": "2026-04-18",
+    "category": "Twitter"
+  },
+  {
+    "title": "Solitaire simulator for finding the best strategy: Current record is 8.590%",
+    "source": "Hacker News",
+    "description": "HN Score: 46 | 21 comments",
+    "url": "https://github.com/dacracot/Klondike3-Simulator",
+    "score": 46,
+    "date": "2026-04-18",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: 'Agentic everything' is the new 'microservices everywhere'. Now, everyone wants everything to be agentic. (I've even seen people call a",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2045111295805100144#m",
     "date": "2026-04-18",
     "category": "Twitter"
   },
@@ -102,23 +119,6 @@
     "category": "AI News"
   },
   {
-    "title": "RT by @svpino: 'Agentic everything' is the new 'microservices everywhere'. Now, everyone wants everything to be agentic. (I've even seen people call a",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2045111295805100144#m",
-    "date": "2026-04-18",
-    "category": "Twitter"
-  },
-  {
-    "title": "Generating Hierarchical JSON Representations of Scientific Sentences Using LLMs",
-    "source": "Hacker News",
-    "description": "HN Score: 5 | 0 comments",
-    "url": "https://arxiv.org/abs/2603.23532",
-    "score": 5,
-    "date": "2026-04-18",
-    "category": "AI News"
-  },
-  {
     "title": "RT by @svpino: This guy built a self-evolving AI system that went through 219 generations of self-improvement. This dude had no programming experience",
     "source": "@svpino",
     "description": "",
@@ -127,19 +127,10 @@
     "category": "Twitter"
   },
   {
-    "title": "Fulu bounty for Ring Camera jailbreak reaches $23k",
-    "source": "Hacker News",
-    "description": "HN Score: 14 | 1 comments",
-    "url": "https://bounties.fulu.org/bounties/ring-video-doorbells",
-    "score": 14,
-    "date": "2026-04-18",
-    "category": "AI News"
-  },
-  {
-    "title": "The AI haters would relent and love AI, if it actually cured cancer",
+    "title": "The big story that everyone missed yesterday - Qwen 3.6 dropped with 3B active params costs nothing to run and delivers 80% of Opus 4.7\u2019s performance ",
     "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/bindureddy/status/2045336803268554773#m",
+    "url": "https://nitter.net/bindureddy/status/2045393596824838361#m",
     "date": "2026-04-18",
     "category": "Twitter"
   },
