@@ -10,9 +10,9 @@
   {
     "title": "Claude Design",
     "source": "Hacker News",
-    "description": "HN Score: 1060 | 689 comments",
+    "description": "HN Score: 1089 | 716 comments",
     "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
-    "score": 1060,
+    "score": 1089,
     "date": "2026-04-18",
     "category": "AI News"
   },
@@ -25,11 +25,28 @@
     "category": "Twitter"
   },
   {
+    "title": "Why Japan has such good railways",
+    "source": "Hacker News",
+    "description": "HN Score: 3 | 0 comments",
+    "url": "https://worksinprogress.co/issue/why-japan-has-such-good-railways/",
+    "score": 3,
+    "date": "2026-04-18",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: 'The important thing is not to stop questioning.' \u2014 Einstein, 71 years on. Today we celebrate him with II-Agent. His genius was reas",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/ii_posts/status/2045483451856326745#m",
+    "date": "2026-04-18",
+    "category": "Twitter"
+  },
+  {
     "title": "Measuring Claude 4.7's tokenizer costs",
     "source": "Hacker News",
-    "description": "HN Score: 617 | 438 comments",
+    "description": "HN Score: 629 | 446 comments",
     "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
-    "score": 617,
+    "score": 629,
     "date": "2026-04-18",
     "category": "AI News"
   },
@@ -42,28 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "A simplified model of Fil-C",
-    "source": "Hacker News",
-    "description": "HN Score: 178 | 96 comments",
-    "url": "https://www.corsix.org/content/simplified-model-of-fil-c",
-    "score": 178,
-    "date": "2026-04-18",
-    "category": "AI News"
-  },
-  {
-    "title": "Have there been any open source models trained natively fp4 yet",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/EMostaque/status/2045183124326248936#m",
-    "date": "2026-04-18",
-    "category": "Twitter"
-  },
-  {
     "title": "Are the costs of AI agents also rising exponentially? (2025)",
     "source": "Hacker News",
-    "description": "HN Score: 218 | 58 comments",
+    "description": "HN Score: 234 | 80 comments",
     "url": "https://www.tobyord.com/writing/hourly-costs-for-ai-agents",
-    "score": 218,
+    "score": 234,
     "date": "2026-04-18",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "'Liberation Day' at OpenAI as multiple senior executives announce leaving",
+    "title": "A simplified model of Fil-C",
     "source": "Hacker News",
-    "description": "HN Score: 32 | 3 comments",
-    "url": "https://mas.to/@carnage4life/116422881496195720",
-    "score": 32,
+    "description": "HN Score: 184 | 99 comments",
+    "url": "https://www.corsix.org/content/simplified-model-of-fil-c",
+    "score": 184,
     "date": "2026-04-18",
     "category": "AI News"
   },
@@ -95,9 +95,9 @@
   {
     "title": "Solitaire simulator for finding the best strategy: Current record is 8.590%",
     "source": "Hacker News",
-    "description": "HN Score: 48 | 23 comments",
+    "description": "HN Score: 49 | 24 comments",
     "url": "https://github.com/dacracot/Klondike3-Simulator",
-    "score": 48,
+    "score": 49,
     "date": "2026-04-18",
     "category": "AI News"
   },
@@ -110,10 +110,19 @@
     "category": "Twitter"
   },
   {
-    "title": "RT by @svpino: 'Agentic everything' is the new 'microservices everywhere'. Now, everyone wants everything to be agentic. (I've even seen people call a",
+    "title": "'Liberation Day' at OpenAI as multiple senior executives announce leaving",
+    "source": "Hacker News",
+    "description": "HN Score: 43 | 4 comments",
+    "url": "https://mas.to/@carnage4life/116422881496195720",
+    "score": 43,
+    "date": "2026-04-18",
+    "category": "AI News"
+  },
+  {
+    "title": "R to @svpino: Here is the GitHub Repository: https://github.com/Tencent-Hunyuan/HY-World-2.0 Here is the Hugging Face model: https://huggingface.co/te",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2045111295805100144#m",
+    "url": "https://nitter.net/svpino/status/2045218366806474929#m",
     "date": "2026-04-18",
     "category": "Twitter"
   },
