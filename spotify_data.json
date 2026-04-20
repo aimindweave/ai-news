@@ -94,6 +94,16 @@
   "episodes": [
     {
       "id": "a]6z Pod_0",
+      "name": "Rethinking Git for the Age of Coding Agents with GitHub Cofounder Scott Chacon",
+      "show": "a]6z Podcast",
+      "description": "Matt Bornstein speaks with Scott Chacon, cofounder of GitHub and CEO of GitButler, about why Git's user interface has barely changed since 2005, how GitButler is rethinking version control for both",
+      "release_date": "2026-04-20",
+      "duration_min": 47,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
+      "id": "a]6z Pod_1",
       "name": "Network Effects, AI Costs, and the Future of Consumer Investing with Anish Acharya on The Kevin Rose Show",
       "show": "a]6z Podcast",
       "description": "This episode originally aired on The Kevin Rose Show. Kevin Rose speaks with Anish Acharya, general partner at a16z, about how AI is rewriting the rules of consumer software, the defensibility of n",
@@ -113,7 +123,7 @@
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "The System Behind Self-Driving: Waymo’s Dmitri Dolgov",
       "show": "a]6z Podcast",
       "description": "Waymo is now delivering hundreds of thousands of fully autonomous rides each week — but getting there required more than better models. It meant building a complete system for training, evaluating,",
@@ -141,16 +151,6 @@
       "duration_min": 54,
       "image": "",
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
-    },
-    {
-      "id": "a]6z Pod_2",
-      "name": "Technology, Culture, and the Next AI Interface with signüll",
-      "show": "a]6z Podcast",
-      "description": "Erik Torenberg and Anish Acharya, general partners at a16z, speak with signüll about how technology reshapes culture, relationships, and the products we build. The conversation covers tacit knowled",
-      "release_date": "2026-04-16",
-      "duration_min": 34,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
       "id": "The AI P_0",
