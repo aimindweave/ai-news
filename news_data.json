@@ -1,5 +1,12 @@
 [
   {
+    "title": "Apple\u2019s John Ternus will run one of the world\u2019s most powerful companies; the job is a minefield",
+    "source": "TechCrunch",
+    "summary": "Apple's top job comes with almost unrivaled power and money, but it comes with plenty of baggage, too.",
+    "url": "https://techcrunch.com/2026/04/21/apples-john-ternus-will-run-one-of-the-worlds-most-powerful-companies-the-job-is-a-minefield/",
+    "date": "2026-04-21"
+  },
+  {
     "title": "AI research lab NeoCognition lands $40M seed to build agents that learn like humans",
     "source": "TechCrunch",
     "summary": "Founded by an OSU researcher, the startup is developing AI agents that can become experts in any domain.",
@@ -16,7 +23,7 @@
   {
     "title": "Sam Altman throws shade at Anthropic\u2019s cyber model, Mythos: \u2018fear-based marketing\u2019",
     "source": "TechCrunch",
-    "summary": "The AI industry's mudslinging continues.",
+    "summary": "This week, during a podcast appearance, OpenAI CEO Sam Altman called out his competitor's new cybersecurity model, noting that the company was using fear to make its product sound more impressive than it actually is.",
     "url": "https://techcrunch.com/2026/04/21/sam-altman-throws-shade-at-anthropics-cyber-model-mythos-fear-based-marketing/",
     "date": "2026-04-21"
   },
@@ -98,13 +105,6 @@
     "date": "2026-04-21"
   },
   {
-    "title": "The 12-month window",
-    "source": "TechCrunch",
-    "summary": "A lot of AI startups exist partly because the foundation models haven't expanded into their category yet. As many jokingly acknowledge, that won't last forever.",
-    "url": "https://techcrunch.com/2026/04/19/the-12-month-window/",
-    "date": "2026-04-21"
-  },
-  {
     "title": "Building agent-first governance and security",
     "source": "MIT Tech Review",
     "summary": "As AI agents increasingly work alongside humans across organizations, companies could be inadvertently opening a new attack surface. Insecure agents can be manipulated to access sensitive systems and proprietary data, increasing enterprise risk. In some modern enterprises, non-human identities (N...",
@@ -175,9 +175,9 @@
     "date": "2026-04-21"
   },
   {
-    "title": "OpenAI Beefs Up ChatGPT's Image Generation Model",
+    "title": "OpenAI Beefs Up ChatGPT\u2019s Image Generation Model",
     "source": "Wired",
-    "summary": "The ChatGPT Images 2.0 model is here. Our testing shows it's better at creating more detailed images and rendering text, but it still struggles with languages other than English.",
+    "summary": "The ChatGPT Images 2.0 model is here. Our testing shows it\u2019s better at creating more detailed images and rendering text, but it still struggles with languages other than English.",
     "url": "https://www.wired.com/story/openai-beefs-up-chatgpts-image-generation-model/",
     "date": "2026-04-21"
   },
@@ -242,6 +242,20 @@
     "source": "Wired",
     "summary": "The former Instagram VP is departing the ChatGPT-maker, which is folding the AI science application he led into Codex.",
     "url": "https://www.wired.com/story/openai-executive-kevin-weil-is-leaving-the-company/",
+    "date": "2026-04-21"
+  },
+  {
+    "title": "Florida probes ChatGPT role in mass shooting. OpenAI says bot 'not responsible.'",
+    "source": "Ars Technica",
+    "summary": "Can ChatGPT be blamed for a mass shooting? Florida is investigating.",
+    "url": "https://arstechnica.com/tech-policy/2026/04/florida-probes-chatgpt-role-in-mass-shooting-openai-says-bot-not-responsible/",
+    "date": "2026-04-21"
+  },
+  {
+    "title": "Report: Meta will train AI agents by tracking employees' mouse, keyboard use",
+    "source": "Ars Technica",
+    "summary": "Move highlights the difficulty of finding high-quality interactive training data.",
+    "url": "https://arstechnica.com/ai/2026/04/meta-will-use-employee-tracking-software-to-help-train-ai-agents-report/",
     "date": "2026-04-21"
   },
   {
@@ -333,20 +347,6 @@
     "source": "Ars Technica",
     "summary": "Google's AI enables robots to read gauges while inspecting industrial facilities.",
     "url": "https://arstechnica.com/ai/2026/04/robot-dogs-now-read-gauges-and-thermometers-using-google-gemini/",
-    "date": "2026-04-21"
-  },
-  {
-    "title": "Adobe takes Creative Cloud into Claude Code-esque territory",
-    "source": "Ars Technica",
-    "summary": "This is a big step in a new strategic direction for Adobe.",
-    "url": "https://arstechnica.com/ai/2026/04/adobe-takes-creative-cloud-into-claude-code-esque-territory/",
-    "date": "2026-04-21"
-  },
-  {
-    "title": "Allbirds abandons clothes, pivots to 'AI compute infrastructure'",
-    "source": "Ars Technica",
-    "summary": "Desperate stock-boosting move recalls 2017's 'Long Island Blockchain' frenzy.",
-    "url": "https://arstechnica.com/ai/2026/04/bubble-watch-fashion-brand-allbirds-pivots-hard-to-become-ai-services-company/",
     "date": "2026-04-21"
   }
 ]
