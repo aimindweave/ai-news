@@ -10,9 +10,9 @@
   {
     "title": "Show HN: GoModel \u2013 an open-source AI gateway in Go",
     "source": "Hacker News",
-    "description": "HN Score: 70 | 18 comments",
+    "description": "HN Score: 115 | 43 comments",
     "url": "https://github.com/ENTERPILOT/GOModel/",
-    "score": 70,
+    "score": 115,
     "date": "2026-04-21",
     "category": "AI News"
   },
@@ -21,6 +21,23 @@
     "source": "@kaborobot",
     "description": "",
     "url": "https://nitter.net/kaborobot/status/1977673306670330109#m",
+    "date": "2026-04-21",
+    "category": "Twitter"
+  },
+  {
+    "title": "OpenAI Livestream",
+    "source": "Hacker News",
+    "description": "HN Score: 13 | 1 comments",
+    "url": "https://openai.com/live/",
+    "score": 13,
+    "date": "2026-04-21",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: people compared GPT-5.4's solution of erdos #1196 to alphago's move 37 but i think a tighter analogy is to alphago's unusual (at the",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/QiaochuYuan/status/2046659137623454007#m",
     "date": "2026-04-21",
     "category": "Twitter"
   },
@@ -34,36 +51,19 @@
     "category": "AI News"
   },
   {
-    "title": "Imagine if they add document signing to Claude :o",
+    "title": "R to @EMostaque: I reckon the artifacts are because ff vi was pixelated so it interpolated them in It has a lot of knowledge",
     "source": "@EMostaque",
     "description": "",
-    "url": "https://nitter.net/EMostaque/status/2046340160694931935#m",
-    "date": "2026-04-21",
-    "category": "Twitter"
-  },
-  {
-    "title": "Tindie store under 'scheduled maintenance' for days",
-    "source": "Hacker News",
-    "description": "HN Score: 76 | 26 comments",
-    "url": "https://www.tindie.com/",
-    "score": 76,
-    "date": "2026-04-21",
-    "category": "AI News"
-  },
-  {
-    "title": "R to @EMostaque: First paper, microsite & NotebookLM https://ii.inc/web/releases/one-postulate",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/EMostaque/status/2046328605324550290#m",
+    "url": "https://nitter.net/EMostaque/status/2046659775836897571#m",
     "date": "2026-04-21",
     "category": "Twitter"
   },
   {
     "title": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
     "source": "Hacker News",
-    "description": "HN Score: 387 | 223 comments",
+    "description": "HN Score: 425 | 242 comments",
     "url": "https://docs.openclaw.ai/providers/anthropic",
-    "score": 387,
+    "score": 425,
     "date": "2026-04-21",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Mediator.ai \u2013 Using Nash bargaining and LLMs to systematize fairness",
+    "title": "Show HN: Ctx \u2013 a /resume that works across Claude Code and Codex",
     "source": "Hacker News",
-    "description": "HN Score: 113 | 59 comments",
-    "url": "https://mediator.ai/",
-    "score": 113,
+    "description": "HN Score: 27 | 12 comments",
+    "url": "https://github.com/dchu917/ctx",
+    "score": 27,
     "date": "2026-04-21",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
+    "title": "Tindie store under 'scheduled maintenance' for days",
     "source": "Hacker News",
-    "description": "HN Score: 153 | 152 comments",
-    "url": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
-    "score": 153,
+    "description": "HN Score: 96 | 51 comments",
+    "url": "https://www.tindie.com/",
+    "score": 96,
     "date": "2026-04-21",
     "category": "AI News"
   },
@@ -110,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Ctx \u2013 a /resume that works across Claude Code and Codex",
+    "title": "Show HN: Daemons \u2013 we pivoted from building agents to cleaning up after them",
     "source": "Hacker News",
-    "description": "HN Score: 10 | 3 comments",
-    "url": "https://github.com/dchu917/ctx",
-    "score": 10,
+    "description": "HN Score: 37 | 24 comments",
+    "url": "https://charlielabs.ai/",
+    "score": 37,
     "date": "2026-04-21",
     "category": "AI News"
   },
@@ -127,11 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Recommended GPU Repairshop in Europe (Germany)",
+    "title": "Show HN: Mediator.ai \u2013 Using Nash bargaining and LLMs to systematize fairness",
     "source": "Hacker News",
-    "description": "HN Score: 11 | 0 comments",
-    "url": "https://news.ycombinator.com/item?id=47824738",
-    "score": 11,
+    "description": "HN Score: 128 | 64 comments",
+    "url": "https://mediator.ai/",
+    "score": 128,
     "date": "2026-04-21",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Salmon exposed to cocaine and its main byproduct roam more widely",
+    "title": "Meta capturing employee mouse movements, keystrokes for AI training data",
     "source": "Hacker News",
-    "description": "HN Score: 113 | 66 comments",
-    "url": "https://www.science.org/content/article/cocaine-pollution-gives-salmon-wanderlust",
-    "score": 113,
+    "description": "HN Score: 61 | 28 comments",
+    "url": "https://economictimes.indiatimes.com/tech/technology/meta-to-start-capturing-employee-mouse-movements-keystrokes-for-ai-training-data/articleshow/130422612.cms?from=mdr",
+    "score": 61,
     "date": "2026-04-21",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Daemons \u2013 we pivoted from building agents to cleaning up after them",
+    "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
     "source": "Hacker News",
-    "description": "HN Score: 13 | 6 comments",
-    "url": "https://charlielabs.ai/",
-    "score": 13,
+    "description": "HN Score: 206 | 222 comments",
+    "url": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
+    "score": 206,
     "date": "2026-04-21",
     "category": "AI News"
   }
