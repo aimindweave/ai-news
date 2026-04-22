@@ -10,9 +10,9 @@
   {
     "title": "Over-editing refers to a model modifying code beyond what is necessary",
     "source": "Hacker News",
-    "description": "HN Score: 133 | 63 comments",
+    "description": "HN Score: 206 | 104 comments",
     "url": "https://nrehiew.github.io/blog/minimal_editing/",
-    "score": 133,
+    "score": 206,
     "date": "2026-04-22",
     "category": "AI News"
   },
@@ -27,9 +27,26 @@
   {
     "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
     "source": "Hacker News",
-    "description": "HN Score: 411 | 216 comments",
+    "description": "HN Score: 513 | 250 comments",
     "url": "https://qwen.ai/blog?id=qwen3.6-27b",
-    "score": 411,
+    "score": 513,
+    "date": "2026-04-22",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: Today we release a novel AI-assisted resolution of one of physics\u2019 longest-standing questions. Given only: \u2022 Relativity as an axiom ",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/ii_posts/status/2046984868895043735#m",
+    "date": "2026-04-22",
+    "category": "Twitter"
+  },
+  {
+    "title": "Scores decline again for 13-year-old students in reading and mathematics",
+    "source": "Hacker News",
+    "description": "HN Score: 106 | 121 comments",
+    "url": "https://www.nationsreportcard.gov/highlights/ltt/2023/",
+    "score": 106,
     "date": "2026-04-22",
     "category": "AI News"
   },
@@ -42,28 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Parallel Agents in Zed",
+    "title": "The Illuminated Man: an unconventional portrait of JG Ballard",
     "source": "Hacker News",
-    "description": "HN Score: 69 | 32 comments",
-    "url": "https://zed.dev/blog/parallel-agents",
-    "score": 69,
-    "date": "2026-04-22",
-    "category": "AI News"
-  },
-  {
-    "title": "What's cooler than finding a 27-year-old bug in OpenBSD? Finding a positive cosmological constant hiding for over a century in the algebra of relativi",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/EMostaque/status/2046994160939372780#m",
-    "date": "2026-04-22",
-    "category": "Twitter"
-  },
-  {
-    "title": "Website streamed live directly from a model",
-    "source": "Hacker News",
-    "description": "HN Score: 11 | 1 comments",
-    "url": "https://flipbook.page/",
-    "score": 11,
+    "description": "HN Score: 10 | 0 comments",
+    "url": "https://www.theguardian.com/books/2026/apr/20/the-illuminated-man-by-christopher-priest-and-nina-allan-review-an-unconventional-portrait-of-jg-ballard",
+    "score": 10,
     "date": "2026-04-22",
     "category": "AI News"
   },
@@ -78,9 +78,9 @@
   {
     "title": "Our eighth generation TPUs: two chips for the agentic era",
     "source": "Hacker News",
-    "description": "HN Score: 313 | 153 comments",
+    "description": "HN Score: 342 | 167 comments",
     "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/",
-    "score": 313,
+    "score": 342,
     "date": "2026-04-22",
     "category": "AI News"
   },
@@ -93,11 +93,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Scores decline again for 13-year-old students in reading and mathematics",
+    "title": "Website streamed live directly from a model",
     "source": "Hacker News",
-    "description": "HN Score: 9 | 2 comments",
-    "url": "https://www.nationsreportcard.gov/highlights/ltt/2023/",
-    "score": 9,
+    "description": "HN Score: 42 | 18 comments",
+    "url": "https://flipbook.page/",
+    "score": 42,
+    "date": "2026-04-22",
+    "category": "AI News"
+  },
+  {
+    "title": "Open-source always finds a way! This is an open-source, local-first memory layer for LLM agents. It's for Mac users. This captures what you are doing ",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2047053632810729515#m",
+    "date": "2026-04-22",
+    "category": "Twitter"
+  },
+  {
+    "title": "Workspace Agents in ChatGPT",
+    "source": "Hacker News",
+    "description": "HN Score: 57 | 19 comments",
+    "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt/",
+    "score": 57,
     "date": "2026-04-22",
     "category": "AI News"
   },
@@ -110,28 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "OpenAI: Workspace Agents for Business",
+    "title": "Parallel Agents in Zed",
     "source": "Hacker News",
-    "description": "HN Score: 34 | 5 comments",
-    "url": "https://openai.com/business/workspace-agents/",
-    "score": 34,
-    "date": "2026-04-22",
-    "category": "AI News"
-  },
-  {
-    "title": "We used to pay $120,000/year for marketers to run ad campaigns. Now, you can have an agent that connects to Meta, Google, TikTok, Shopify, LinkedIn, G",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2046993947105649094#m",
-    "date": "2026-04-22",
-    "category": "Twitter"
-  },
-  {
-    "title": "Workspace Agents in ChatGPT",
-    "source": "Hacker News",
-    "description": "HN Score: 30 | 7 comments",
-    "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt/",
-    "score": 30,
+    "description": "HN Score: 105 | 56 comments",
+    "url": "https://zed.dev/blog/parallel-agents",
+    "score": 105,
     "date": "2026-04-22",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Scoring Show HN submissions for AI design patterns",
+    "title": "Show HN: Broccoli, one shot coding agent on the cloud",
     "source": "Hacker News",
-    "description": "HN Score: 229 | 178 comments",
-    "url": "https://www.adriankrebs.ch/blog/design-slop/",
-    "score": 229,
+    "description": "HN Score: 32 | 28 comments",
+    "url": "https://github.com/besimple-oss/broccoli",
+    "score": 32,
     "date": "2026-04-22",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Broccoli, one shot coding agent on the cloud",
+    "title": "Scoring Show HN submissions for AI design patterns",
     "source": "Hacker News",
-    "description": "HN Score: 24 | 17 comments",
-    "url": "https://github.com/besimple-oss/broccoli",
-    "score": 24,
+    "description": "HN Score: 245 | 189 comments",
+    "url": "https://www.adriankrebs.ch/blog/design-slop/",
+    "score": 245,
     "date": "2026-04-22",
     "category": "AI News"
   }
