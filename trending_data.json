@@ -10,9 +10,9 @@
   {
     "title": "ChatGPT Images 2.0",
     "source": "Hacker News",
-    "description": "HN Score: 661 | 530 comments",
+    "description": "HN Score: 800 | 618 comments",
     "url": "https://openai.com/index/introducing-chatgpt-images-2-0/",
-    "score": 661,
+    "score": 800,
     "date": "2026-04-22",
     "category": "AI News"
   },
@@ -25,11 +25,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Stephen's Sausage Roll remains one of the most influential puzzle games",
+    "title": "All your agents are going async",
     "source": "Hacker News",
-    "description": "HN Score: 168 | 81 comments",
-    "url": "https://thinkygames.com/features/10-years-of-grilling-stephens-sausage-roll-remains-one-of-the-most-influential-puzzle-games-ever-created/",
-    "score": 168,
+    "description": "HN Score: 4 | 2 comments",
+    "url": "https://zknill.io/posts/all-your-agents-are-going-async/",
+    "score": 4,
+    "date": "2026-04-22",
+    "category": "AI News"
+  },
+  {
+    "title": "I kinda think it would be interesting to have a structure where founders take 2 and 20 2% management fee on capital raised for running the company 20%",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/EMostaque/status/2046869530966643017#m",
+    "date": "2026-04-22",
+    "category": "Twitter"
+  },
+  {
+    "title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
+    "source": "Hacker News",
+    "description": "HN Score: 550 | 396 comments",
+    "url": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/",
+    "score": 550,
     "date": "2026-04-22",
     "category": "AI News"
   },
@@ -42,28 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production",
+    "title": "Stephen's Sausage Roll remains one of the most influential puzzle games",
     "source": "Hacker News",
-    "description": "HN Score: 106 | 36 comments",
-    "url": "https://www.brex.com/crabtrap",
-    "score": 106,
-    "date": "2026-04-22",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @EMostaque: AI Insider: 'Adding a Human Makes Your Team Worse' Emad Mostaque | @EMostaque TIMESTAMPS : 00:00 The models too dangerous to release",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/DrBrianKeating/status/2046679000475652308#m",
-    "date": "2026-04-22",
-    "category": "Twitter"
-  },
-  {
-    "title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
-    "source": "Hacker News",
-    "description": "HN Score: 452 | 346 comments",
-    "url": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/",
-    "score": 452,
+    "description": "HN Score: 193 | 105 comments",
+    "url": "https://thinkygames.com/features/10-years-of-grilling-stephens-sausage-roll-remains-one-of-the-most-influential-puzzle-games-ever-created/",
+    "score": 193,
     "date": "2026-04-22",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Claude Code to be removed from Anthropic's Pro plan?",
+    "title": "CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production",
     "source": "Hacker News",
-    "description": "HN Score: 471 | 455 comments",
-    "url": "https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a",
-    "score": 471,
+    "description": "HN Score: 111 | 40 comments",
+    "url": "https://www.brex.com/crabtrap",
+    "score": 111,
     "date": "2026-04-22",
     "category": "AI News"
   },
@@ -93,10 +93,10 @@
     "category": "Twitter"
   },
   {
-    "title": "Kuri \u2013 Zig based agent-browser alternative",
+    "title": "Ask HN: Why Opus4.6 was silently removed from Claude Code?",
     "source": "Hacker News",
-    "description": "HN Score: 7 | 1 comments",
-    "url": "https://github.com/justrach/kuri",
+    "description": "HN Score: 7 | 3 comments",
+    "url": "https://news.ycombinator.com/item?id=47861009",
     "score": 7,
     "date": "2026-04-22",
     "category": "AI News"
@@ -110,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Trellis AI (YC W24) Is hiring engineers to build self-improving agents",
+    "title": "Claude Code to be removed from Anthropic's Pro plan?",
     "source": "Hacker News",
-    "description": "HN Score: 1 | 0 comments",
-    "url": "https://www.ycombinator.com/companies/trellis-ai/jobs/SvzJaTH-member-of-technical-staff-product-engineering-full-time",
-    "score": 1,
+    "description": "HN Score: 564 | 522 comments",
+    "url": "https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a",
+    "score": 564,
     "date": "2026-04-22",
     "category": "AI News"
   },
@@ -127,11 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: GoModel \u2013 an open-source AI gateway in Go",
+    "title": "Kuri \u2013 Zig based agent-browser alternative",
     "source": "Hacker News",
-    "description": "HN Score: 171 | 63 comments",
-    "url": "https://github.com/ENTERPILOT/GOModel/",
-    "score": 171,
+    "description": "HN Score: 23 | 3 comments",
+    "url": "https://github.com/justrach/kuri",
+    "score": 23,
     "date": "2026-04-22",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Zindex \u2013 Diagram Infrastructure for Agents",
+    "title": "Meta employees are up in arms over a mandatory program to train AI on their",
     "source": "Hacker News",
-    "description": "HN Score: 46 | 17 comments",
-    "url": "https://zindex.ai/",
-    "score": 46,
+    "description": "HN Score: 5 | 2 comments",
+    "url": "https://www.businessinsider.com/meta-new-ai-tool-tracks-staff-activity-sparks-concern-2026-4",
+    "score": 5,
     "date": "2026-04-22",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Optimizing Tail Sampling in OpenTelemetry with Retroactive Sampling",
+    "title": "Show HN: GoModel \u2013 an open-source AI gateway in Go",
     "source": "Hacker News",
-    "description": "HN Score: 13 | 0 comments",
-    "url": "https://victoriametrics.com/blog/kubecon-eu-2026-sampling/index.html",
-    "score": 13,
+    "description": "HN Score: 174 | 65 comments",
+    "url": "https://github.com/ENTERPILOT/GOModel/",
+    "score": 174,
     "date": "2026-04-22",
     "category": "AI News"
   }
