@@ -93,6 +93,16 @@
   ],
   "episodes": [
     {
+      "id": "The AI P_0",
+      "name": "One Brain, Any Robot: Skild AI's Skild Brain Explained - Ep. 295",
+      "show": "The AI Podcast (NVIDIA)",
+      "description": "What if one AI brain could run every robot on the planet—a humanoid, a warehouse arm, and a dog-like inspection bot—all at once?\n\nThat's not a thought experiment. That's what Skild AI is building righ",
+      "release_date": "2026-04-22",
+      "duration_min": 29,
+      "image": "",
+      "url": "https://open.spotify.com/show/0e1X4kJVfwQRPF8lZzqqfX"
+    },
+    {
       "id": "a]6z Pod_0",
       "name": "Balaji Srinivasan: Prove Correct, Not Just Go Direct",
       "show": "a]6z Podcast",
@@ -153,7 +163,7 @@
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
     },
     {
-      "id": "The AI P_0",
+      "id": "The AI P_1",
       "name": "How AI Will Change Quantum Computing - Ep. 294",
       "show": "The AI Podcast (NVIDIA)",
       "description": "What happens when you combine AI with quantum computing? NVIDIA's Nic Harrigan joins the AI Podcast to break down the state of quantum, explain why error correction is the pivotal challenge, and revea",
@@ -233,7 +243,7 @@
       "url": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"
     },
     {
-      "id": "The AI P_1",
+      "id": "The AI P_2",
       "name": "Building AI Factories: How Red Hat and NVIDIA Turn Enterprise Data Into Intelligence - Ep. 293",
       "show": "The AI Podcast (NVIDIA)",
       "description": "Enterprises are moving from AI pilots to full‑scale AI factories that turn data into trusted digital intelligence. Red Hat CTO Chris Wright and NVIDIA’s Justin Boitano unpack the \"five‑layer cake\" AI ",
@@ -261,16 +271,6 @@
       "duration_min": 76,
       "image": "",
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
-    },
-    {
-      "id": "The AI P_2",
-      "name": "Powering the AI Inference Wave with EPRI's Ben Sooter - Ep. 292",
-      "show": "The AI Podcast (NVIDIA)",
-      "description": "AI is reshaping electricity demand. What does increased demand, and the shape of that demand, mean for the electric grid? Ben Sooter, Director of R&D at EPRI joins the podcast to explain why most of a",
-      "release_date": "2026-03-04",
-      "duration_min": 32,
-      "image": "",
-      "url": "https://open.spotify.com/show/0e1X4kJVfwQRPF8lZzqqfX"
     }
   ]
 }
