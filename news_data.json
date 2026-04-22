@@ -1,8 +1,22 @@
 [
   {
-    "title": "Google makes an interesting choice with its new agent building tool for enterprises",
+    "title": "Google Cloud launches two new AI chips to compete with Nvidia",
     "source": "TechCrunch",
-    "summary": "Gemini Enterprise Agent Platform takes an interesting approach: it is geared for IT and technical users.",
+    "summary": "Google's newest TPUs are faster and cheaper than the previous versions. But the company is still embracing Nvidia in its cloud \u2014 for now.",
+    "url": "https://techcrunch.com/2026/04/22/google-cloud-next-new-tpu-ai-chips-compete-with-nvidia/",
+    "date": "2026-04-22"
+  },
+  {
+    "title": "Google turns Chrome into an AI co-worker for the workplace",
+    "source": "TechCrunch",
+    "summary": "Google brings Gemini-powered 'auto browse' capabilities to Chrome for enterprise users, letting workers automate tasks like research, data entry, and more.",
+    "url": "https://techcrunch.com/2026/04/22/google-turns-chrome-into-an-ai-coworker-for-the-workplace/",
+    "date": "2026-04-22"
+  },
+  {
+    "title": "Google makes an interesting choice with its new agent-building tool for enterprises",
+    "source": "TechCrunch",
+    "summary": "Gemini Enterprise Agent Platform takes an interesting approach: It is geared for IT and technical users.",
     "url": "https://techcrunch.com/2026/04/22/google-makes-an-interesting-choice-with-its-new-agent-building-tool-for-enterprises/",
     "date": "2026-04-22"
   },
@@ -28,10 +42,10 @@
     "date": "2026-04-22"
   },
   {
-    "title": "The most interesting startups showcased at Google Cloud Next 2026",
+    "title": "Exclusive: Google deepens Thinking Machines Lab ties with new multibillion-dollar deal",
     "source": "TechCrunch",
-    "summary": "Google wants AI startups on its cloud and has showcased a long list of them at its annual conference.",
-    "url": "https://techcrunch.com/2026/04/22/the-most-interesting-startups-showcased-at-google-cloud-next-2026/",
+    "summary": "Mira Murati's Thinking Machines Lab has signed a multibillion-dollar deal with Google Cloud for AI infrastructure powered by Nvidia's latest GB300 chips, TechCrunch has exclusively learned.",
+    "url": "https://techcrunch.com/2026/04/22/exclusive-google-deepens-thinking-machines-lab-ties-with-new-multi-billion-dollar-deal/",
     "date": "2026-04-22"
   },
   {
@@ -42,10 +56,10 @@
     "date": "2026-04-22"
   },
   {
-    "title": "Exclusive: Google deepens Thinking Machines Lab ties with new multibillion-dollar deal",
+    "title": "The most interesting startups showcased at Google Cloud Next 2026",
     "source": "TechCrunch",
-    "summary": "Mira Murati's Thinking Machines Lab has signed a multibillion-dollar deal with Google Cloud for AI infrastructure powered by Nvidia's latest GB300 chips, TechCrunch has exclusively learned.",
-    "url": "https://techcrunch.com/2026/04/22/exclusive-google-deepens-thinking-machines-lab-ties-with-new-multi-billion-dollar-deal/",
+    "summary": "Google wants AI startups on its cloud and has showcased a long list of them at its annual conference.",
+    "url": "https://techcrunch.com/2026/04/22/the-most-interesting-startups-showcased-at-google-cloud-next-2026/",
     "date": "2026-04-22"
   },
   {
@@ -88,20 +102,6 @@
     "source": "TechCrunch",
     "summary": "ChatGPT Images 2.0, the newest image-generation model from OpenAI, shows just how much AI capabilities have evolved over the last few years.",
     "url": "https://techcrunch.com/2026/04/21/chatgpts-new-images-2-0-model-is-surprisingly-good-at-generating-text/",
-    "date": "2026-04-22"
-  },
-  {
-    "title": "Sam Altman throws shade at Anthropic\u2019s cyber model, Mythos: \u2018fear-based marketing\u2019",
-    "source": "TechCrunch",
-    "summary": "This week, during a podcast appearance, OpenAI CEO Sam Altman called out his competitor's new cybersecurity model, noting that the company was using fear to make its product sound more impressive than it actually is.",
-    "url": "https://techcrunch.com/2026/04/21/sam-altman-throws-shade-at-anthropics-cyber-model-mythos-fear-based-marketing/",
-    "date": "2026-04-22"
-  },
-  {
-    "title": "Clarifai deletes 3 million photos that OkCupid provided to train facial recognition AI, report says",
-    "source": "TechCrunch",
-    "summary": "The photo deletion comes after an FTC settlement with Clarifai. The company had asked OkCupid \u2014 whose executives had invested in Clarifai \u2014 to share data in 2014, according to court documents.",
-    "url": "https://techcrunch.com/2026/04/21/clarifai-okcupid-facial-recognition-ai-ftc-settlement/",
     "date": "2026-04-22"
   },
   {
@@ -175,6 +175,13 @@
     "date": "2026-04-22"
   },
   {
+    "title": "5 AI Models Tried to Scam Me. Some of Them Were Scary Good",
+    "source": "Wired",
+    "summary": "The cyber capabilities of AI models have experts rattled. AI\u2019s social skills may be just as dangerous.",
+    "url": "https://www.wired.com/story/ai-model-phishing-attack-cybersecurity/",
+    "date": "2026-04-22"
+  },
+  {
     "title": "AI Tools Are Helping Mediocre North Korean Hackers Steal Millions",
     "source": "Wired",
     "summary": "One group of hackers used AI for everything from vibe coding their malware to creating fake company websites\u2014and stole as much as $12 million in three months.",
@@ -238,10 +245,17 @@
     "date": "2026-04-22"
   },
   {
-    "title": "Tech CEOs Think AI Will Let Them Be Everywhere at Once",
-    "source": "Wired",
-    "summary": "Mark Zuckerberg and Jack Dorsey have different visions for how to use AI for management purposes, but both imagine a system of heightened control.",
-    "url": "https://www.wired.com/story/tech-ceos-using-ai-to-be-everywhere-at-once/",
+    "title": "Anthropic tested removing Claude Code from the Pro plan",
+    "source": "Ars Technica",
+    "summary": "Untenable demand has Anthropic exploring new approaches to rationing its service.",
+    "url": "https://arstechnica.com/ai/2026/04/anthropic-tested-removing-claude-code-from-the-pro-plan/",
+    "date": "2026-04-22"
+  },
+  {
+    "title": "Google unveils two new TPUs designed for the 'agentic era'",
+    "source": "Ars Technica",
+    "summary": "Google's new generation of Tensor AI chips is actually two chips, one for inference and one for training.",
+    "url": "https://arstechnica.com/ai/2026/04/google-unveils-two-new-tpus-designed-for-the-agentic-era/",
     "date": "2026-04-22"
   },
   {
@@ -333,20 +347,6 @@
     "source": "Ars Technica",
     "summary": "New tool builds on deepset\u2019s Haystack toward a \u201cdecentralized open source AI ecosystem.\u201d",
     "url": "https://arstechnica.com/ai/2026/04/mozilla-launches-thunderbolt-ai-client-with-focus-on-self-hosted-infrastructure/",
-    "date": "2026-04-22"
-  },
-  {
-    "title": "New Codex features include the ability to use your computer in the background",
-    "source": "Ars Technica",
-    "summary": "An in-app browser allows visual feedback while building websites and more.",
-    "url": "https://arstechnica.com/ai/2026/04/new-codex-features-include-the-ability-to-use-your-computer-in-the-background/",
-    "date": "2026-04-22"
-  },
-  {
-    "title": "Microsoft and Stellantis want to use AI to help car owners",
-    "source": "Ars Technica",
-    "summary": "Digital services for brands from Jeep to Peugeot will feel the presence of AI.",
-    "url": "https://arstechnica.com/cars/2026/04/microsoft-and-stellantis-want-to-use-ai-to-help-car-owners/",
     "date": "2026-04-22"
   }
 ]
