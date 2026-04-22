@@ -94,6 +94,16 @@
   "episodes": [
     {
       "id": "a]6z Pod_0",
+      "name": "Balaji Srinivasan: Prove Correct, Not Just Go Direct",
+      "show": "a]6z Podcast",
+      "description": "Erik Torenberg and Theo Jaffee speak with Balaji Srinivasan, angel investor, entrepreneur, and author of <i>The Network State</i>, about how AI is transforming media, eroding trust, and reshaping h",
+      "release_date": "2026-04-22",
+      "duration_min": 121,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
+      "id": "a]6z Pod_1",
       "name": "Marc Andreessen: Monitoring the Situation and the Future of Media",
       "show": "a]6z Podcast",
       "description": "Erik Torenberg and Theo Jaffee speak with Marc Andreessen, cofounder and general partner at a16z, about the launch of Monitoring the Situation (MTS), a new, always-on media network on X. They discu",
@@ -103,22 +113,12 @@
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "Rethinking Git for the Age of Coding Agents with GitHub Cofounder Scott Chacon",
       "show": "a]6z Podcast",
       "description": "Matt Bornstein speaks with Scott Chacon, cofounder of GitHub and CEO of GitButler, about why Git's user interface has barely changed since 2005, how GitButler is rethinking version control for both",
       "release_date": "2026-04-20",
       "duration_min": 47,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
-    },
-    {
-      "id": "a]6z Pod_2",
-      "name": "Network Effects, AI Costs, and the Future of Consumer Investing with Anish Acharya on The Kevin Rose Show",
-      "show": "a]6z Podcast",
-      "description": "This episode originally aired on The Kevin Rose Show. Kevin Rose speaks with Anish Acharya, general partner at a16z, about how AI is rewriting the rules of consumer software, the defensibility of n",
-      "release_date": "2026-04-19",
-      "duration_min": 58,
       "image": "",
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
