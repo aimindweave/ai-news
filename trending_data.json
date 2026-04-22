@@ -10,9 +10,9 @@
   {
     "title": "ChatGPT Images 2.0",
     "source": "Hacker News",
-    "description": "HN Score: 527 | 464 comments",
+    "description": "HN Score: 661 | 530 comments",
     "url": "https://openai.com/index/introducing-chatgpt-images-2-0/",
-    "score": 527,
+    "score": 661,
     "date": "2026-04-22",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production",
+    "title": "Stephen's Sausage Roll remains one of the most influential puzzle games",
     "source": "Hacker News",
-    "description": "HN Score: 91 | 25 comments",
-    "url": "https://www.brex.com/crabtrap",
-    "score": 91,
+    "description": "HN Score: 168 | 81 comments",
+    "url": "https://thinkygames.com/features/10-years-of-grilling-stephens-sausage-roll-remains-one-of-the-most-influential-puzzle-games-ever-created/",
+    "score": 168,
     "date": "2026-04-22",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Stephen's Sausage Roll remains one of the most influential puzzle games",
+    "title": "CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production",
     "source": "Hacker News",
-    "description": "HN Score: 145 | 72 comments",
-    "url": "https://thinkygames.com/features/10-years-of-grilling-stephens-sausage-roll-remains-one-of-the-most-influential-puzzle-games-ever-created/",
-    "score": 145,
+    "description": "HN Score: 106 | 36 comments",
+    "url": "https://www.brex.com/crabtrap",
+    "score": 106,
     "date": "2026-04-22",
     "category": "AI News"
   },
@@ -61,9 +61,9 @@
   {
     "title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
     "source": "Hacker News",
-    "description": "HN Score: 370 | 316 comments",
+    "description": "HN Score: 452 | 346 comments",
     "url": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/",
-    "score": 370,
+    "score": 452,
     "date": "2026-04-22",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "I'm Sick of AI Everything",
+    "title": "Claude Code to be removed from Anthropic's Pro plan?",
     "source": "Hacker News",
-    "description": "HN Score: 139 | 62 comments",
-    "url": "https://news.ycombinator.com/item?id=47857461",
-    "score": 139,
+    "description": "HN Score: 471 | 455 comments",
+    "url": "https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a",
+    "score": 471,
     "date": "2026-04-22",
     "category": "AI News"
   },
@@ -93,36 +93,19 @@
     "category": "Twitter"
   },
   {
-    "title": "Optimizing Tail Sampling in OpenTelemetry with Retroactive Sampling",
+    "title": "Kuri \u2013 Zig based agent-browser alternative",
     "source": "Hacker News",
-    "description": "HN Score: 5 | 0 comments",
-    "url": "https://victoriametrics.com/blog/kubecon-eu-2026-sampling/index.html",
-    "score": 5,
+    "description": "HN Score: 7 | 1 comments",
+    "url": "https://github.com/justrach/kuri",
+    "score": 7,
     "date": "2026-04-22",
     "category": "AI News"
   },
   {
-    "title": "RT by @svpino: Claude Code Tip: Whenever you need to work on a prompt, press CTRL+G, and Claude Code will open your editor so you can write the prompt",
+    "title": "RT by @svpino: The most exciting demo of the entire week: My agent is now paying for its own data. No API key. No account. No credit card. Not me. Thi",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2046568153124327461#m",
-    "date": "2026-04-22",
-    "category": "Twitter"
-  },
-  {
-    "title": "Zindex \u2013 Diagram Infrastructure for Agents",
-    "source": "Hacker News",
-    "description": "HN Score: 39 | 15 comments",
-    "url": "https://zindex.ai/",
-    "score": 39,
-    "date": "2026-04-22",
-    "category": "AI News"
-  },
-  {
-    "title": "Hermes with Gemma 4 or Qwen 3.5 is literally the best combo you can run locally on your computer. You've got to give this a try before you spend anoth",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2046750378017042789#m",
+    "url": "https://nitter.net/svpino/status/2046606368787108279#m",
     "date": "2026-04-22",
     "category": "Twitter"
   },
@@ -136,6 +119,40 @@
     "category": "AI News"
   },
   {
+    "title": "RT by @svpino: Claude Code Tip: Whenever you need to work on a prompt, press CTRL+G, and Claude Code will open your editor so you can write the prompt",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2046568153124327461#m",
+    "date": "2026-04-22",
+    "category": "Twitter"
+  },
+  {
+    "title": "Show HN: GoModel \u2013 an open-source AI gateway in Go",
+    "source": "Hacker News",
+    "description": "HN Score: 171 | 63 comments",
+    "url": "https://github.com/ENTERPILOT/GOModel/",
+    "score": 171,
+    "date": "2026-04-22",
+    "category": "AI News"
+  },
+  {
+    "title": "Kimi K2.6 is Opus 4.7 level in agentic coding \ud83e\udd2f We have got the receipts - will publish soon",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2046805941572780537#m",
+    "date": "2026-04-22",
+    "category": "Twitter"
+  },
+  {
+    "title": "Zindex \u2013 Diagram Infrastructure for Agents",
+    "source": "Hacker News",
+    "description": "HN Score: 46 | 17 comments",
+    "url": "https://zindex.ai/",
+    "score": 46,
+    "date": "2026-04-22",
+    "category": "AI News"
+  },
+  {
     "title": "R to @bindureddy: Trump vs Khomeni",
     "source": "@bindureddy",
     "description": "",
@@ -144,28 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: GoModel \u2013 an open-source AI gateway in Go",
+    "title": "Optimizing Tail Sampling in OpenTelemetry with Retroactive Sampling",
     "source": "Hacker News",
-    "description": "HN Score: 167 | 61 comments",
-    "url": "https://github.com/ENTERPILOT/GOModel/",
-    "score": 167,
-    "date": "2026-04-22",
-    "category": "AI News"
-  },
-  {
-    "title": "R to @bindureddy: A banner in the real world? No, it's AI - from Jimmy Apples",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2046676353039405089#m",
-    "date": "2026-04-22",
-    "category": "Twitter"
-  },
-  {
-    "title": "Claude Code Removed from $20-a-Month 'Pro' Subscription for New Users",
-    "source": "Hacker News",
-    "description": "HN Score: 61 | 21 comments",
-    "url": "https://www.wheresyoured.at/news-anthropic-removes-pro-cc/",
-    "score": 61,
+    "description": "HN Score: 13 | 0 comments",
+    "url": "https://victoriametrics.com/blog/kubecon-eu-2026-sampling/index.html",
+    "score": 13,
     "date": "2026-04-22",
     "category": "AI News"
   }
