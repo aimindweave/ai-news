@@ -1,16 +1,16 @@
 [
   {
+    "title": "OpenAI teams up with Infosys to bring AI tools to more businesses",
+    "source": "TechCrunch",
+    "summary": "Infosys said the integration will be used to help its clients modernize software development, automate workflows, and deploy AI systems, initially focusing software engineering, legacy modernization, and DevOps.",
+    "url": "https://techcrunch.com/2026/04/22/openai-teams-up-with-infosys-to-bring-ai-tools-to-more-businesses/",
+    "date": "2026-04-22"
+  },
+  {
     "title": "AI is spitting out more potential drugs than ever. This start-up wants to figure out which ones matter.",
     "source": "TechCrunch",
     "summary": "10x Science has raised a $4.8 million seed round to help pharmaceutical researchers understand complex molecules.",
     "url": "https://techcrunch.com/2026/04/22/ai-is-spitting-out-more-potential-drugs-than-ever-this-start-up-wants-to-figure-out-which-ones-matter/",
-    "date": "2026-04-22"
-  },
-  {
-    "title": "Exclusive: Google deepens Thinking Machines Lab ties with new multi-billion-dollar deal",
-    "source": "TechCrunch",
-    "summary": "Mira Murati's Thinking Machines Lab has signed a multi-billion-dollar deal with Google Cloud for AI infrastructure powered by Nvidia's latest GB300 chips, TechCrunch has exclusively learned.",
-    "url": "https://techcrunch.com/2026/04/22/exclusive-google-deepens-thinking-machines-lab-ties-with-new-multi-billion-dollar-deal/",
     "date": "2026-04-22"
   },
   {
@@ -25,6 +25,13 @@
     "source": "TechCrunch",
     "summary": "Generative AI is being infused into Google's popular feature within Maps.",
     "url": "https://techcrunch.com/2026/04/22/google-maps-is-about-to-get-a-big-dose-of-ai/",
+    "date": "2026-04-22"
+  },
+  {
+    "title": "Exclusive: Google deepens Thinking Machines Lab ties with new multi-billion-dollar deal",
+    "source": "TechCrunch",
+    "summary": "Mira Murati's Thinking Machines Lab has signed a multi-billion-dollar deal with Google Cloud for AI infrastructure powered by Nvidia's latest GB300 chips, TechCrunch has exclusively learned.",
+    "url": "https://techcrunch.com/2026/04/22/exclusive-google-deepens-thinking-machines-lab-ties-with-new-multi-billion-dollar-deal/",
     "date": "2026-04-22"
   },
   {
@@ -98,13 +105,6 @@
     "date": "2026-04-22"
   },
   {
-    "title": "YouTube expands its AI likeness detection technology to celebrities",
-    "source": "TechCrunch",
-    "summary": "YouTube is expanding its AI likeness detection tool to celebrities, giving talent and their reps a way to find and remove deepfakes.",
-    "url": "https://techcrunch.com/2026/04/21/youtube-expands-its-ai-likeness-detection-technology-to-celebrities/",
-    "date": "2026-04-22"
-  },
-  {
     "title": "The Download: introducing the 10 Things That Matter in AI Right Now",
     "source": "MIT Tech Review",
     "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Introducing: 10 Things That Matter in AI Right Now What actually matters in AI right now? It\u2019s getting harder to tell amid the constant launches, hype, and war...",
@@ -149,7 +149,7 @@
   {
     "title": "Roundtables: Unveiling The 10 Things That Matter in AI Right Now",
     "source": "MIT Tech Review",
-    "summary": "Listen to the session or watch below Watch a special edition of Roundtables simulcast live from EmTech AI, MIT Technology Review\u2019s signature conference for AI leadership. Subscribers got an exclusive first look at a new list capturing 10 key technologies, emerging trends, bold ideas, and powerful...",
+    "summary": "Listen to the session or watch below Subscribers saw a special edition of Roundtables simulcast live from EmTech AI, MIT Technology Review\u2019s signature conference for AI leadership. Subscribers got an exclusive first look at a new list capturing 10 key technologies, emerging trends, bold ideas, an...",
     "url": "https://www.technologyreview.com/2026/04/21/1135486/roundtables-unveiling-the-10-things-that-matter-in-ai-right-now/",
     "date": "2026-04-22"
   },
@@ -238,10 +238,17 @@
     "date": "2026-04-22"
   },
   {
-    "title": "It Takes 2 Minutes to Hack the EU\u2019s New Age-Verification App",
+    "title": "Schematik Is \u2018Cursor for Hardware.\u2019 Anthropic Wants In",
     "source": "Wired",
-    "summary": "Plus: Major data breaches at a gym chain and hotel giant, a disruptive DDoS attack against Bluesky, dubious ICE hires, and more.",
-    "url": "https://www.wired.com/story/security-news-this-week-it-takes-2-minutes-to-hack-the-eus-new-age-verification-app/",
+    "summary": "Schematik is a program that aims to help people vibe code for physical devices. Hopefully, it won\u2019t blow anything up.",
+    "url": "https://www.wired.com/story/schematik-is-cursor-for-hardware-anthropic-wants-in-on-it/",
+    "date": "2026-04-22"
+  },
+  {
+    "title": "Indian med student rakes in thousands with AI-generated MAGA hottie",
+    "source": "Ars Technica",
+    "summary": "'Emily Hart' is a young, AI-created conservative woman who likes to take off her clothes.",
+    "url": "https://arstechnica.com/tech-policy/2026/04/indian-med-student-rakes-in-thousands-with-ai-generated-maga-hottie/",
     "date": "2026-04-22"
   },
   {
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "Digital services for brands from Jeep to Peugeot will feel the presence of AI.",
     "url": "https://arstechnica.com/cars/2026/04/microsoft-and-stellantis-want-to-use-ai-to-help-car-owners/",
-    "date": "2026-04-22"
-  },
-  {
-    "title": "Gemini can now create personalized AI images by digging around in Google Photos",
-    "source": "Ars Technica",
-    "summary": "Google is making it easier to feed your photos into Nano Banana for more personal image generation.",
-    "url": "https://arstechnica.com/ai/2026/04/gemini-can-now-create-personalized-ai-images-by-digging-around-in-google-photos/",
     "date": "2026-04-22"
   }
 ]

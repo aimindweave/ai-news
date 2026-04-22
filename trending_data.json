@@ -10,9 +10,9 @@
   {
     "title": "Our eighth generation TPUs: two chips for the agentic era",
     "source": "Hacker News",
-    "description": "HN Score: 78 | 42 comments",
+    "description": "HN Score: 160 | 96 comments",
     "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/",
-    "score": 78,
+    "score": 160,
     "date": "2026-04-22",
     "category": "AI News"
   },
@@ -25,11 +25,28 @@
     "category": "Twitter"
   },
   {
+    "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
+    "source": "Hacker News",
+    "description": "HN Score: 39 | 15 comments",
+    "url": "https://qwen.ai/blog?id=qwen3.6-27b",
+    "score": 39,
+    "date": "2026-04-22",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: A couple of months ago, I announced that I was partway through implementing a simple, readable AlphaFold2 in pure PyTorch, inspired ",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/ChrisHayduk/status/2046956424471761082#m",
+    "date": "2026-04-22",
+    "category": "Twitter"
+  },
+  {
     "title": "ChatGPT Images 2.0",
     "source": "Hacker News",
-    "description": "HN Score: 918 | 792 comments",
+    "description": "HN Score: 945 | 824 comments",
     "url": "https://openai.com/index/introducing-chatgpt-images-2-0/",
-    "score": 918,
+    "score": 945,
     "date": "2026-04-22",
     "category": "AI News"
   },
@@ -44,26 +61,9 @@
   {
     "title": "Kernel code removals driven by LLM-created security reports",
     "source": "Hacker News",
-    "description": "HN Score: 32 | 10 comments",
+    "description": "HN Score: 67 | 46 comments",
     "url": "https://lwn.net/Articles/1068928/",
-    "score": 32,
-    "date": "2026-04-22",
-    "category": "AI News"
-  },
-  {
-    "title": "Physics paper in, manga out",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/EMostaque/status/2046708166440698022#m",
-    "date": "2026-04-22",
-    "category": "Twitter"
-  },
-  {
-    "title": "I don't chain everything in JavaScript anymore",
-    "source": "Hacker News",
-    "description": "HN Score: 32 | 31 comments",
-    "url": "https://allthingssmitty.com/2026/04/20/why-i-dont-chain-everything-in-javascript-anymore/",
-    "score": 32,
+    "score": 67,
     "date": "2026-04-22",
     "category": "AI News"
   },
@@ -78,9 +78,9 @@
   {
     "title": "All your agents are going async",
     "source": "Hacker News",
-    "description": "HN Score: 81 | 53 comments",
+    "description": "HN Score: 95 | 56 comments",
     "url": "https://zknill.io/posts/all-your-agents-are-going-async/",
-    "score": 81,
+    "score": 95,
     "date": "2026-04-22",
     "category": "AI News"
   },
@@ -95,43 +95,43 @@
   {
     "title": "Prefill-as-a-Service:KVCache of Next-Generation Models Could Go Cross-Datacenter",
     "source": "Hacker News",
-    "description": "HN Score: 19 | 1 comments",
+    "description": "HN Score: 28 | 1 comments",
     "url": "https://arxiv.org/abs/2604.15039",
-    "score": 19,
+    "score": 28,
     "date": "2026-04-22",
     "category": "AI News"
   },
   {
-    "title": "I\u2019m coming around the idea of using my phone for serious things. I would never in a billion years write code from my phone, or mess with spreadsheets,",
+    "title": "One of the biggest problems with real-time streaming is the need to normalize text. For example, if you want to say 'Dr. Smith makes $350/hr', you nee",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2046938689671201238#m",
+    "url": "https://nitter.net/svpino/status/2046969833980674141#m",
     "date": "2026-04-22",
     "category": "Twitter"
   },
   {
     "title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
     "source": "Hacker News",
-    "description": "HN Score: 670 | 446 comments",
+    "description": "HN Score: 708 | 468 comments",
     "url": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/",
-    "score": 670,
+    "score": 708,
     "date": "2026-04-22",
     "category": "AI News"
   },
   {
-    "title": "Instead of copying and pasting errors into Claude Code, do this: $ cat error.log | claude 'fix this' Easier, and usually gives Claude way more context",
+    "title": "R to @svpino: Here is the link to the benchmarks: https://async-vocie-ai-text-to-speech-normalization-benchmark.static.hf.space/index.html",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2046928263134802314#m",
+    "url": "https://nitter.net/svpino/status/2046969846014103987#m",
     "date": "2026-04-22",
     "category": "Twitter"
   },
   {
     "title": "Stephen's Sausage Roll remains one of the most influential puzzle games",
     "source": "Hacker News",
-    "description": "HN Score: 227 | 125 comments",
+    "description": "HN Score: 230 | 129 comments",
     "url": "https://thinkygames.com/features/10-years-of-grilling-stephens-sausage-roll-remains-one-of-the-most-influential-puzzle-games-ever-created/",
-    "score": 227,
+    "score": 230,
     "date": "2026-04-22",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production",
+    "title": "Top MAGA influencer revealed to be AI",
     "source": "Hacker News",
-    "description": "HN Score: 118 | 46 comments",
-    "url": "https://www.brex.com/crabtrap",
-    "score": 118,
+    "description": "HN Score: 3 | 1 comments",
+    "url": "https://nypost.com/2026/04/21/us-news/top-maga-influencer-emily-hart-revealed-to-be-ai-created-by-a-guy-in-india/",
+    "score": 3,
     "date": "2026-04-22",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Claude Code to be removed from Anthropic's Pro plan?",
+    "title": "Trellis AI (YC W24) Is hiring engineers to build self-improving agents",
     "source": "Hacker News",
-    "description": "HN Score: 604 | 574 comments",
-    "url": "https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a",
-    "score": 604,
+    "description": "HN Score: 1 | 0 comments",
+    "url": "https://www.ycombinator.com/companies/trellis-ai/jobs/SvzJaTH-member-of-technical-staff-product-engineering-full-time",
+    "score": 1,
     "date": "2026-04-22",
     "category": "AI News"
   }
