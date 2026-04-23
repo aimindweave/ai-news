@@ -10,9 +10,9 @@
   {
     "title": "GPT-5.5",
     "source": "Hacker News",
-    "description": "HN Score: 754 | 378 comments",
+    "description": "HN Score: 924 | 565 comments",
     "url": "https://openai.com/index/introducing-gpt-5-5/",
-    "score": 754,
+    "score": 924,
     "date": "2026-04-23",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
     "source": "Hacker News",
-    "description": "HN Score: 494 | 231 comments",
+    "description": "HN Score: 578 | 270 comments",
     "url": "https://socket.dev/blog/bitwarden-cli-compromised",
-    "score": 494,
+    "score": 578,
     "date": "2026-04-23",
     "category": "AI News"
   },
@@ -42,28 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "An update on recent Claude Code quality reports",
+    "title": "MeshCore development team splits over trademark dispute and AI-generated code",
     "source": "Hacker News",
-    "description": "HN Score: 394 | 279 comments",
-    "url": "https://www.anthropic.com/engineering/april-23-postmortem",
-    "score": 394,
-    "date": "2026-04-23",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @EMostaque: Oh?",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/ii_posts/status/2047361350154825979#m",
-    "date": "2026-04-23",
-    "category": "Twitter"
-  },
-  {
-    "title": "Anthropic's Claude Desktop App Installs Undisclosed Native Messaging Bridge",
-    "source": "Hacker News",
-    "description": "HN Score: 58 | 8 comments",
-    "url": "https://letsdatascience.com/news/claude-desktop-installs-preauthorized-browser-extension-mani-4064fb1a",
-    "score": 58,
+    "description": "HN Score: 121 | 68 comments",
+    "url": "https://blog.meshcore.io/2026/04/23/the-split",
+    "score": 121,
     "date": "2026-04-23",
     "category": "AI News"
   },
@@ -76,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "MeshCore development team splits over trademark dispute and AI-generated code",
+    "title": "An update on recent Claude Code quality reports",
     "source": "Hacker News",
-    "description": "HN Score: 83 | 54 comments",
-    "url": "https://blog.meshcore.io/2026/04/23/the-split",
-    "score": 83,
+    "description": "HN Score: 482 | 366 comments",
+    "url": "https://www.anthropic.com/engineering/april-23-postmortem",
+    "score": 482,
     "date": "2026-04-23",
     "category": "AI News"
   },
@@ -93,11 +76,28 @@
     "category": "Twitter"
   },
   {
+    "title": "Show HN: Agent Vault \u2013 Open-source credential proxy and vault for agents",
+    "source": "Hacker News",
+    "description": "HN Score: 41 | 8 comments",
+    "url": "https://github.com/Infisical/agent-vault",
+    "score": 41,
+    "date": "2026-04-23",
+    "category": "AI News"
+  },
+  {
+    "title": "R to @svpino: Here is how you can integrate this with your favorite coding tool: https://docs.byteplus.com/en/docs/ModelArk/2188957 And here is how to",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2047332197166915756#m",
+    "date": "2026-04-23",
+    "category": "Twitter"
+  },
+  {
     "title": "A Renaissance gambling dispute spawned probability theory",
     "source": "Hacker News",
-    "description": "HN Score: 80 | 11 comments",
+    "description": "HN Score: 89 | 13 comments",
     "url": "https://www.scientificamerican.com/article/how-a-renaissance-gambling-dispute-spawned-probability-theory/",
-    "score": 80,
+    "score": 89,
     "date": "2026-04-23",
     "category": "AI News"
   },
@@ -112,26 +112,9 @@
   {
     "title": "Investigation uncovers two sophisticated telecom surveillance campaigns",
     "source": "Hacker News",
-    "description": "HN Score: 362 | 122 comments",
+    "description": "HN Score: 366 | 125 comments",
     "url": "https://techcrunch.com/2026/04/23/surveillance-vendors-caught-abusing-access-to-telcos-to-track-peoples-phone-locations-researchers-say/",
-    "score": 362,
-    "date": "2026-04-23",
-    "category": "AI News"
-  },
-  {
-    "title": "R to @svpino: Here is how you can integrate this with your favorite coding tool: https://docs.byteplus.com/en/docs/ModelArk/2188957 And here is how to",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2047332197166915756#m",
-    "date": "2026-04-23",
-    "category": "Twitter"
-  },
-  {
-    "title": "Our newsroom AI policy",
-    "source": "Hacker News",
-    "description": "HN Score: 178 | 122 comments",
-    "url": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/",
-    "score": 178,
+    "score": 366,
     "date": "2026-04-23",
     "category": "AI News"
   },
@@ -144,11 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Website streamed live directly from a model",
+    "title": "Our newsroom AI policy",
     "source": "Hacker News",
-    "description": "HN Score: 410 | 108 comments",
-    "url": "https://flipbook.page/",
-    "score": 410,
+    "description": "HN Score: 181 | 123 comments",
+    "url": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/",
+    "score": 181,
     "date": "2026-04-23",
     "category": "AI News"
   },
@@ -161,9 +144,18 @@
     "category": "Twitter"
   },
   {
+    "title": "Website streamed live directly from a model",
+    "source": "Hacker News",
+    "description": "HN Score: 414 | 110 comments",
+    "url": "https://flipbook.page/",
+    "score": 414,
+    "date": "2026-04-23",
+    "category": "AI News"
+  },
+  {
     "title": "Over-editing refers to a model modifying code beyond what is necessary",
     "source": "Hacker News",
-    "description": "HN Score: 412 | 237 comments",
+    "description": "HN Score: 412 | 239 comments",
     "url": "https://nrehiew.github.io/blog/minimal_editing/",
     "score": 412,
     "date": "2026-04-23",
