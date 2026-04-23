@@ -10,9 +10,9 @@
   {
     "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
     "source": "Hacker News",
-    "description": "HN Score: 737 | 358 comments",
+    "description": "HN Score: 792 | 371 comments",
     "url": "https://qwen.ai/blog?id=qwen3.6-27b",
-    "score": 737,
+    "score": 792,
     "date": "2026-04-23",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "Over-editing refers to a model modifying code beyond what is necessary",
     "source": "Hacker News",
-    "description": "HN Score: 312 | 176 comments",
+    "description": "HN Score: 338 | 188 comments",
     "url": "https://nrehiew.github.io/blog/minimal_editing/",
-    "score": 312,
+    "score": 338,
     "date": "2026-04-23",
     "category": "AI News"
   },
@@ -44,9 +44,9 @@
   {
     "title": "OpenAI's response to the Axios developer tool compromise",
     "source": "Hacker News",
-    "description": "HN Score: 28 | 3 comments",
+    "description": "HN Score: 60 | 23 comments",
     "url": "https://openai.com/index/axios-developer-tool-compromise/",
-    "score": 28,
+    "score": 60,
     "date": "2026-04-23",
     "category": "AI News"
   },
@@ -61,9 +61,9 @@
   {
     "title": "Website streamed live directly from a model",
     "source": "Hacker News",
-    "description": "HN Score: 186 | 63 comments",
+    "description": "HN Score: 225 | 65 comments",
     "url": "https://flipbook.page/",
-    "score": 186,
+    "score": 225,
     "date": "2026-04-23",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Our eighth generation TPUs: two chips for the agentic era",
+    "title": "Parallel agents in Zed",
     "source": "Hacker News",
-    "description": "HN Score: 414 | 203 comments",
-    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/",
-    "score": 414,
+    "description": "HN Score: 204 | 115 comments",
+    "url": "https://zed.dev/blog/parallel-agents",
+    "score": 204,
     "date": "2026-04-23",
     "category": "AI News"
   },
@@ -93,11 +93,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Parallel agents in Zed",
+    "title": "Bring your own Agent to MS Teams",
     "source": "Hacker News",
-    "description": "HN Score: 184 | 106 comments",
-    "url": "https://zed.dev/blog/parallel-agents",
-    "score": 184,
+    "description": "HN Score: 45 | 28 comments",
+    "url": "https://microsoft.github.io/teams-sdk/blog/bring-your-agent-to-teams/",
+    "score": 45,
+    "date": "2026-04-23",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: We used to pay $120,000/year for marketers to run ad campaigns. Now, you can have an agent that connects to Meta, Google, TikTok, Shopi",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2046993947105649094#m",
+    "date": "2026-04-23",
+    "category": "Twitter"
+  },
+  {
+    "title": "Scoring Show HN submissions for AI design patterns",
+    "source": "Hacker News",
+    "description": "HN Score: 295 | 213 comments",
+    "url": "https://www.adriankrebs.ch/blog/design-slop/",
+    "score": 295,
     "date": "2026-04-23",
     "category": "AI News"
   },
@@ -110,28 +127,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Scoring Show HN submissions for AI design patterns",
+    "title": "Workspace Agents in ChatGPT",
     "source": "Hacker News",
-    "description": "HN Score: 282 | 210 comments",
-    "url": "https://www.adriankrebs.ch/blog/design-slop/",
-    "score": 282,
+    "description": "HN Score: 127 | 46 comments",
+    "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt/",
+    "score": 127,
     "date": "2026-04-23",
     "category": "AI News"
   },
   {
-    "title": "RT by @svpino: This is the #1 most-installed AI application on GitHub and GitLab, with 1M+ pull requests reviewed every week and active in 3M+ reposit",
-    "source": "@svpino",
+    "title": "The vibes are off with Opus 4.7 This is Google\u2019s big opportunity to close the gap Time for Gemini Flash to level up to Opus quality \ud83d\ude80",
+    "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2046960646932283836#m",
+    "url": "https://nitter.net/bindureddy/status/2047158748062621839#m",
     "date": "2026-04-23",
     "category": "Twitter"
   },
   {
     "title": "The Illuminated Man: an unconventional portrait of JG Ballard",
     "source": "Hacker News",
-    "description": "HN Score: 50 | 17 comments",
+    "description": "HN Score: 53 | 18 comments",
     "url": "https://www.theguardian.com/books/2026/apr/20/the-illuminated-man-by-christopher-priest-and-nina-allan-review-an-unconventional-portrait-of-jg-ballard",
-    "score": 50,
+    "score": 53,
     "date": "2026-04-23",
     "category": "AI News"
   },
@@ -144,28 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Bring your own Agent to MS Teams",
+    "title": "OpenAI model for masking personally identifiable information (PII) in text",
     "source": "Hacker News",
-    "description": "HN Score: 24 | 12 comments",
-    "url": "https://microsoft.github.io/teams-sdk/blog/bring-your-agent-to-teams/",
-    "score": 24,
-    "date": "2026-04-23",
-    "category": "AI News"
-  },
-  {
-    "title": "We are super excited to announce an internship for high school students We would love to teach them how to vibe code at no cost to them! \ud83d\ude80\ud83d\ude80 More detai",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2047009663338885355#m",
-    "date": "2026-04-23",
-    "category": "Twitter"
-  },
-  {
-    "title": "Workspace Agents in ChatGPT",
-    "source": "Hacker News",
-    "description": "HN Score: 113 | 45 comments",
-    "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt/",
-    "score": 113,
+    "description": "HN Score: 18 | 5 comments",
+    "url": "https://openai.com/index/introducing-openai-privacy-filter/",
+    "score": 18,
     "date": "2026-04-23",
     "category": "AI News"
   }
