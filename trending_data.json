@@ -10,9 +10,9 @@
   {
     "title": "GPT-5.5",
     "source": "Hacker News",
-    "description": "HN Score: 463 | 172 comments",
+    "description": "HN Score: 754 | 378 comments",
     "url": "https://openai.com/index/introducing-gpt-5-5/",
-    "score": 463,
+    "score": 754,
     "date": "2026-04-23",
     "category": "AI News"
   },
@@ -25,11 +25,28 @@
     "category": "Twitter"
   },
   {
+    "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
+    "source": "Hacker News",
+    "description": "HN Score: 494 | 231 comments",
+    "url": "https://socket.dev/blog/bitwarden-cli-compromised",
+    "score": 494,
+    "date": "2026-04-23",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: At #RenderCon2026, @EMostaque makes the case during How to Build the Holodeck that stories still matter, IP still matters, but the b",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/rendernetwork/status/2047407574987735394#m",
+    "date": "2026-04-23",
+    "category": "Twitter"
+  },
+  {
     "title": "An update on recent Claude Code quality reports",
     "source": "Hacker News",
-    "description": "HN Score: 248 | 141 comments",
+    "description": "HN Score: 394 | 279 comments",
     "url": "https://www.anthropic.com/engineering/april-23-postmortem",
-    "score": 248,
+    "score": 394,
     "date": "2026-04-23",
     "category": "AI News"
   },
@@ -42,28 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
+    "title": "Anthropic's Claude Desktop App Installs Undisclosed Native Messaging Bridge",
     "source": "Hacker News",
-    "description": "HN Score: 431 | 214 comments",
-    "url": "https://socket.dev/blog/bitwarden-cli-compromised",
-    "score": 431,
-    "date": "2026-04-23",
-    "category": "AI News"
-  },
-  {
-    "title": "By end of next year. End of year after for 16gb vram. Do folk really need more for most things? Not really. But just call the cloud models when you do",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/EMostaque/status/2047333892428910883#m",
-    "date": "2026-04-23",
-    "category": "Twitter"
-  },
-  {
-    "title": "MeshCore development team splits over trademark dispute and AI-generated code",
-    "source": "Hacker News",
-    "description": "HN Score: 56 | 36 comments",
-    "url": "https://blog.meshcore.io/2026/04/23/the-split",
-    "score": 56,
+    "description": "HN Score: 58 | 8 comments",
+    "url": "https://letsdatascience.com/news/claude-desktop-installs-preauthorized-browser-extension-mani-4064fb1a",
+    "score": 58,
     "date": "2026-04-23",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Investigation uncovers two sophisticated telecom surveillance campaigns",
+    "title": "MeshCore development team splits over trademark dispute and AI-generated code",
     "source": "Hacker News",
-    "description": "HN Score: 344 | 119 comments",
-    "url": "https://techcrunch.com/2026/04/23/surveillance-vendors-caught-abusing-access-to-telcos-to-track-peoples-phone-locations-researchers-say/",
-    "score": 344,
+    "description": "HN Score: 83 | 54 comments",
+    "url": "https://blog.meshcore.io/2026/04/23/the-split",
+    "score": 83,
     "date": "2026-04-23",
     "category": "AI News"
   },
@@ -95,26 +95,9 @@
   {
     "title": "A Renaissance gambling dispute spawned probability theory",
     "source": "Hacker News",
-    "description": "HN Score: 74 | 11 comments",
+    "description": "HN Score: 80 | 11 comments",
     "url": "https://www.scientificamerican.com/article/how-a-renaissance-gambling-dispute-spawned-probability-theory/",
-    "score": 74,
-    "date": "2026-04-23",
-    "category": "AI News"
-  },
-  {
-    "title": "R to @svpino: Here is how you can integrate this with your favorite coding tool: https://docs.byteplus.com/en/docs/ModelArk/2188957 And here is how to",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2047332197166915756#m",
-    "date": "2026-04-23",
-    "category": "Twitter"
-  },
-  {
-    "title": "'Hairdryer used to trick weather sensor' to win Polymarket bet",
-    "source": "Hacker News",
-    "description": "HN Score: 194 | 188 comments",
-    "url": "https://www.telegraph.co.uk/business/2026/04/23/hairdryer-used-trick-weather-sensor-34000-polymarket-bet/",
-    "score": 194,
+    "score": 80,
     "date": "2026-04-23",
     "category": "AI News"
   },
@@ -127,11 +110,45 @@
     "category": "Twitter"
   },
   {
+    "title": "Investigation uncovers two sophisticated telecom surveillance campaigns",
+    "source": "Hacker News",
+    "description": "HN Score: 362 | 122 comments",
+    "url": "https://techcrunch.com/2026/04/23/surveillance-vendors-caught-abusing-access-to-telcos-to-track-peoples-phone-locations-researchers-say/",
+    "score": 362,
+    "date": "2026-04-23",
+    "category": "AI News"
+  },
+  {
+    "title": "R to @svpino: Here is how you can integrate this with your favorite coding tool: https://docs.byteplus.com/en/docs/ModelArk/2188957 And here is how to",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2047332197166915756#m",
+    "date": "2026-04-23",
+    "category": "Twitter"
+  },
+  {
     "title": "Our newsroom AI policy",
     "source": "Hacker News",
-    "description": "HN Score: 168 | 114 comments",
+    "description": "HN Score: 178 | 122 comments",
     "url": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/",
-    "score": 168,
+    "score": 178,
+    "date": "2026-04-23",
+    "category": "AI News"
+  },
+  {
+    "title": "GPT 5.5 Tops LiveBench Bringing Us One Step Closer to AGI GPT 5.5 is an extremely good model both on benchmarks and in practice! It tops benchmarks in",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2047396413181685853#m",
+    "date": "2026-04-23",
+    "category": "Twitter"
+  },
+  {
+    "title": "Website streamed live directly from a model",
+    "source": "Hacker News",
+    "description": "HN Score: 410 | 108 comments",
+    "url": "https://flipbook.page/",
+    "score": 410,
     "date": "2026-04-23",
     "category": "AI News"
   },
@@ -144,28 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Website streamed live directly from a model",
-    "source": "Hacker News",
-    "description": "HN Score: 406 | 107 comments",
-    "url": "https://flipbook.page/",
-    "score": 406,
-    "date": "2026-04-23",
-    "category": "AI News"
-  },
-  {
-    "title": "GPT 5.5 costs double of GPT 5.4 More expensive than Opus 4.7 $30 for 1M output tokens \ud83d\ude32",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2047384528420061316#m",
-    "date": "2026-04-23",
-    "category": "Twitter"
-  },
-  {
     "title": "Over-editing refers to a model modifying code beyond what is necessary",
     "source": "Hacker News",
-    "description": "HN Score: 409 | 237 comments",
+    "description": "HN Score: 412 | 237 comments",
     "url": "https://nrehiew.github.io/blog/minimal_editing/",
-    "score": 409,
+    "score": 412,
     "date": "2026-04-23",
     "category": "AI News"
   }
