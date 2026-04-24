@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "S. Korea police arrest man over AI image of runaway wolf that misled authorities",
+    "title": "UK Biobank leak: Health details of 500 000 people are offered for sale",
     "source": "Hacker News",
-    "description": "HN Score: 74 | 35 comments",
-    "url": "https://www.bbc.com/news/articles/c4gx1n0dl9no",
-    "score": 74,
+    "description": "HN Score: 144 | 51 comments",
+    "url": "https://www.bmj.com/content/393/bmj.s781",
+    "score": 144,
     "date": "2026-04-24",
     "category": "AI News"
   },
@@ -25,11 +25,28 @@
     "category": "Twitter"
   },
   {
+    "title": "S. Korea police arrest man over AI image of runaway wolf that misled authorities",
+    "source": "Hacker News",
+    "description": "HN Score: 166 | 94 comments",
+    "url": "https://www.bbc.com/news/articles/c4gx1n0dl9no",
+    "score": 166,
+    "date": "2026-04-24",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: In 1982, Blade Runner was speculation. In 2026, it's the conversation. Memory, personhood, alignment, what we owe the minds we build",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/ii_posts/status/2047662754840871008#m",
+    "date": "2026-04-24",
+    "category": "Twitter"
+  },
+  {
     "title": "Show HN: How LLMs Work \u2013 Interactive visual guide based on Karpathy's lecture",
     "source": "Hacker News",
-    "description": "HN Score: 73 | 12 comments",
+    "description": "HN Score: 137 | 32 comments",
     "url": "https://ynarwal.github.io/how-llms-work/",
-    "score": 73,
+    "score": 137,
     "date": "2026-04-24",
     "category": "AI News"
   },
@@ -42,28 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "An update on recent Claude Code quality reports",
-    "source": "Hacker News",
-    "description": "HN Score: 756 | 575 comments",
-    "url": "https://www.anthropic.com/engineering/april-23-postmortem",
-    "score": 756,
-    "date": "2026-04-24",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @EMostaque: HOLLLLY SHIIIIIT \ud83d\ude33 GPT 5.5 xhigh in codex made this paper physics website with wind effect one shot check the physics , ui and inter",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/chetaslua/status/2047393912122486845#m",
-    "date": "2026-04-24",
-    "category": "Twitter"
-  },
-  {
     "title": "US special forces soldier arrested after allegedly winning $400k on Maduro raid",
     "source": "Hacker News",
-    "description": "HN Score: 293 | 328 comments",
+    "description": "HN Score: 385 | 425 comments",
     "url": "https://www.cnn.com/2026/04/23/politics/us-special-forces-soldier-arrested-maduro-raid-trade",
-    "score": 293,
+    "score": 385,
     "date": "2026-04-24",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "GPT-5.5",
+    "title": "An update on recent Claude Code quality reports",
     "source": "Hacker News",
-    "description": "HN Score: 1393 | 914 comments",
-    "url": "https://openai.com/index/introducing-gpt-5-5/",
-    "score": 1393,
+    "description": "HN Score: 802 | 615 comments",
+    "url": "https://www.anthropic.com/engineering/april-23-postmortem",
+    "score": 802,
     "date": "2026-04-24",
     "category": "AI News"
   },
@@ -95,9 +95,26 @@
   {
     "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
     "source": "Hacker News",
-    "description": "HN Score: 767 | 369 comments",
+    "description": "HN Score: 803 | 383 comments",
     "url": "https://socket.dev/blog/bitwarden-cli-compromised",
-    "score": 767,
+    "score": 803,
+    "date": "2026-04-24",
+    "category": "AI News"
+  },
+  {
+    "title": "I'm now using two separate skills to generate a plan before I give it to Claude Code: designing \u2192 planning The 'designing' skill does the following: 1",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2047654354224906531#m",
+    "date": "2026-04-24",
+    "category": "Twitter"
+  },
+  {
+    "title": "GPT-5.5",
+    "source": "Hacker News",
+    "description": "HN Score: 1433 | 952 comments",
+    "url": "https://openai.com/index/introducing-gpt-5-5/",
+    "score": 1433,
     "date": "2026-04-24",
     "category": "AI News"
   },
@@ -110,28 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "MeshCore development team splits over trademark dispute and AI-generated code",
+    "title": "Hear your agent suffer through your code",
     "source": "Hacker News",
-    "description": "HN Score: 229 | 122 comments",
-    "url": "https://blog.meshcore.io/2026/04/23/the-split",
-    "score": 229,
-    "date": "2026-04-24",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: This works surprisingly well: \u2022 Ask Claude Code to fix a bug \u2022 Let it work and figure it out When it finishes, use this prompt: 'Knowin",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2047292412599644646#m",
-    "date": "2026-04-24",
-    "category": "Twitter"
-  },
-  {
-    "title": "Familiarity is the enemy: On why Enterprise systems have failed for 60 years",
-    "source": "Hacker News",
-    "description": "HN Score: 54 | 23 comments",
-    "url": "https://felixbarbalet.com/familiarity-is-the-enemy/",
-    "score": 54,
+    "description": "HN Score: 51 | 15 comments",
+    "url": "https://github.com/AndrewVos/endless-toil",
+    "score": 51,
     "date": "2026-04-24",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Agent Vault \u2013 Open-source credential proxy and vault for agents",
+    "title": "MeshCore development team splits over trademark dispute and AI-generated code",
     "source": "Hacker News",
-    "description": "HN Score: 108 | 37 comments",
-    "url": "https://github.com/Infisical/agent-vault",
-    "score": 108,
+    "description": "HN Score: 240 | 128 comments",
+    "url": "https://blog.meshcore.io/2026/04/23/the-split",
+    "score": 240,
     "date": "2026-04-24",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Wikipedia's AI Policy",
+    "title": "Familiarity is the enemy: On why Enterprise systems have failed for 60 years",
     "source": "Hacker News",
-    "description": "HN Score: 9 | 0 comments",
-    "url": "https://en.wikipedia.org/wiki/Wikipedia:Artificial_intelligence",
-    "score": 9,
+    "description": "HN Score: 70 | 37 comments",
+    "url": "https://felixbarbalet.com/familiarity-is-the-enemy/",
+    "score": 70,
     "date": "2026-04-24",
     "category": "AI News"
   }
