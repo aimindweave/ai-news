@@ -1,6 +1,6 @@
 [
   {
-    "title": "Meta\u2019s loss is Thinking Machines gain",
+    "title": "Meta\u2019s loss is Thinking Machines\u2019 gain",
     "source": "TechCrunch",
     "summary": "Meta has been poaching talent from Thinking Machines Lab. But it's a two-way street.",
     "url": "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/",
@@ -105,6 +105,13 @@
     "date": "2026-04-24"
   },
   {
+    "title": "Three reasons why DeepSeek\u2019s new model V4 matters",
+    "source": "MIT Tech Review",
+    "summary": "On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can process much longer prompts than its last generation, thanks to a new design that helps it handle large amounts of text more efficiently. Like DeepSeek\u2019s previous models, V4 i...",
+    "url": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
+    "date": "2026-04-24"
+  },
+  {
     "title": "The Download: supercharged scams and studying AI healthcare",
     "source": "MIT Tech Review",
     "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. We\u2019re in a new era of AI-driven scams When ChatGPT was released in late 2022, it showed how easily generative AI could create human-like text. This quickly cau...",
@@ -165,13 +172,6 @@
     "source": "MIT Tech Review",
     "summary": "When people talk about \u201cnature,\u201d they\u2019re generally talking about things that aren\u2019t made by human beings. Rocks. Reefs. Red wolves. But while there is plenty of God\u2019s creation to go around, it is hard to think of anything on Earth that human hands haven\u2019t affected. In the Brazilian rainforest, sc...",
     "url": "https://www.technologyreview.com/2026/04/22/1135440/editors-letter-may-2026/",
-    "date": "2026-04-24"
-  },
-  {
-    "title": "Los Angeles is finally going underground",
-    "source": "MIT Tech Review",
-    "summary": "Los Angeles deserves its reputation as the quintessential car city\u2014the rhythms of its 2,200 square miles are dictated by wide boulevards and concrete arcs of freeways. But it once had a world-class rail transit system, and for the last three decades, the city has been rebuilding a network of trol...",
-    "url": "https://www.technologyreview.com/2026/04/22/1135449/los-angeles-subway-going-underground/",
     "date": "2026-04-24"
   },
   {
@@ -242,6 +242,13 @@
     "source": "Wired",
     "summary": "On May 8, we\u2019re going live to answer your questions about the Musk v. Altman trial that could determine the fate of OpenAI.",
     "url": "https://www.wired.com/story/livestream-musk-v-altman-trial/",
+    "date": "2026-04-24"
+  },
+  {
+    "title": "Google will invest as much as $40 billion in Anthropic",
+    "source": "Ars Technica",
+    "summary": "This follows a similar, but smaller, investment by Amazon just days ago.",
+    "url": "https://arstechnica.com/ai/2026/04/google-will-invest-as-much-as-40-billion-in-anthropic/",
     "date": "2026-04-24"
   },
   {
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "AI tracks account for a small fraction of Deezer streams, and most are demonetized for fraud.",
     "url": "https://arstechnica.com/ai/2026/04/deezer-says-44-of-new-music-uploads-are-ai-generated-most-streams-are-fraudulent/",
-    "date": "2026-04-24"
-  },
-  {
-    "title": "Anthropic's Mythos AI model sparks fears of turbocharged hacking",
-    "source": "Ars Technica",
-    "summary": "Cyberdefenses could be exposed faster than fixes could be deployed.",
-    "url": "https://arstechnica.com/ai/2026/04/anthropics-mythos-ai-model-sparks-fears-of-turbocharged-hacking/",
     "date": "2026-04-24"
   }
 ]
