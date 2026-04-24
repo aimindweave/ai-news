@@ -4,16 +4,16 @@
     "source": "@kaborobot",
     "description": "",
     "url": "https://nitter.net/kaborobot/status/2015735996248420451#m",
-    "date": "2026-04-23",
+    "date": "2026-04-24",
     "category": "Twitter"
   },
   {
     "title": "GPT-5.5",
     "source": "Hacker News",
-    "description": "HN Score: 924 | 565 comments",
+    "description": "HN Score: 1157 | 795 comments",
     "url": "https://openai.com/index/introducing-gpt-5-5/",
-    "score": 924,
-    "date": "2026-04-23",
+    "score": 1157,
+    "date": "2026-04-24",
     "category": "AI News"
   },
   {
@@ -21,16 +21,16 @@
     "source": "@kaborobot",
     "description": "",
     "url": "https://nitter.net/kaborobot/status/1977673306670330109#m",
-    "date": "2026-04-23",
+    "date": "2026-04-24",
     "category": "Twitter"
   },
   {
     "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
     "source": "Hacker News",
-    "description": "HN Score: 578 | 270 comments",
+    "description": "HN Score: 671 | 334 comments",
     "url": "https://socket.dev/blog/bitwarden-cli-compromised",
-    "score": 578,
-    "date": "2026-04-23",
+    "score": 671,
+    "date": "2026-04-24",
     "category": "AI News"
   },
   {
@@ -38,16 +38,33 @@
     "source": "@EMostaque",
     "description": "",
     "url": "https://nitter.net/rendernetwork/status/2047407574987735394#m",
-    "date": "2026-04-23",
+    "date": "2026-04-24",
     "category": "Twitter"
   },
   {
     "title": "MeshCore development team splits over trademark dispute and AI-generated code",
     "source": "Hacker News",
-    "description": "HN Score: 121 | 68 comments",
+    "description": "HN Score: 168 | 98 comments",
     "url": "https://blog.meshcore.io/2026/04/23/the-split",
-    "score": 121,
-    "date": "2026-04-23",
+    "score": 168,
+    "date": "2026-04-24",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: Oh?",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/ii_posts/status/2047361350154825979#m",
+    "date": "2026-04-24",
+    "category": "Twitter"
+  },
+  {
+    "title": "An update on recent Claude Code quality reports",
+    "source": "Hacker News",
+    "description": "HN Score: 593 | 466 comments",
+    "url": "https://www.anthropic.com/engineering/april-23-postmortem",
+    "score": 593,
+    "date": "2026-04-24",
     "category": "AI News"
   },
   {
@@ -55,16 +72,16 @@
     "source": "@DrJimFan",
     "description": "",
     "url": "https://nitter.net/DrJimFan/status/2039360927653614004#m",
-    "date": "2026-04-23",
+    "date": "2026-04-24",
     "category": "Twitter"
   },
   {
-    "title": "An update on recent Claude Code quality reports",
+    "title": "Show HN: Agent Vault \u2013 Open-source credential proxy and vault for agents",
     "source": "Hacker News",
-    "description": "HN Score: 482 | 366 comments",
-    "url": "https://www.anthropic.com/engineering/april-23-postmortem",
-    "score": 482,
-    "date": "2026-04-23",
+    "description": "HN Score: 80 | 30 comments",
+    "url": "https://github.com/Infisical/agent-vault",
+    "score": 80,
+    "date": "2026-04-24",
     "category": "AI News"
   },
   {
@@ -72,50 +89,67 @@
     "source": "@DrJimFan",
     "description": "",
     "url": "https://nitter.net/DrJimFan/status/2039360925606760690#m",
-    "date": "2026-04-23",
-    "category": "Twitter"
-  },
-  {
-    "title": "Show HN: Agent Vault \u2013 Open-source credential proxy and vault for agents",
-    "source": "Hacker News",
-    "description": "HN Score: 41 | 8 comments",
-    "url": "https://github.com/Infisical/agent-vault",
-    "score": 41,
-    "date": "2026-04-23",
-    "category": "AI News"
-  },
-  {
-    "title": "R to @svpino: Here is how you can integrate this with your favorite coding tool: https://docs.byteplus.com/en/docs/ModelArk/2188957 And here is how to",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2047332197166915756#m",
-    "date": "2026-04-23",
+    "date": "2026-04-24",
     "category": "Twitter"
   },
   {
     "title": "A Renaissance gambling dispute spawned probability theory",
     "source": "Hacker News",
-    "description": "HN Score: 89 | 13 comments",
+    "description": "HN Score: 101 | 15 comments",
     "url": "https://www.scientificamerican.com/article/how-a-renaissance-gambling-dispute-spawned-probability-theory/",
-    "score": 89,
-    "date": "2026-04-23",
+    "score": 101,
+    "date": "2026-04-24",
     "category": "AI News"
   },
   {
-    "title": "Open-weight models are catching up faster than people realize. GLM-5.1 is amazing for long-horizon agentic coding. It's right up there with Opus and C",
+    "title": "RT by @svpino: Open-weight models are catching up faster than people realize. GLM-5.1 is amazing for long-horizon agentic coding. It's right up there ",
     "source": "@svpino",
     "description": "",
     "url": "https://nitter.net/svpino/status/2047332185108328861#m",
-    "date": "2026-04-23",
+    "date": "2026-04-24",
     "category": "Twitter"
   },
   {
-    "title": "Investigation uncovers two sophisticated telecom surveillance campaigns",
+    "title": "2026 Ruby on Rails Community Survey",
     "source": "Hacker News",
-    "description": "HN Score: 366 | 125 comments",
-    "url": "https://techcrunch.com/2026/04/23/surveillance-vendors-caught-abusing-access-to-telcos-to-track-peoples-phone-locations-researchers-say/",
-    "score": 366,
-    "date": "2026-04-23",
+    "description": "HN Score: 7 | 0 comments",
+    "url": "https://railsdeveloper.com/survey/",
+    "score": 7,
+    "date": "2026-04-24",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: This works surprisingly well: \u2022 Ask Claude Code to fix a bug \u2022 Let it work and figure it out When it finishes, use this prompt: 'Knowin",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2047292412599644646#m",
+    "date": "2026-04-24",
+    "category": "Twitter"
+  },
+  {
+    "title": "Our newsroom AI policy",
+    "source": "Hacker News",
+    "description": "HN Score: 189 | 125 comments",
+    "url": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/",
+    "score": 189,
+    "date": "2026-04-24",
+    "category": "AI News"
+  },
+  {
+    "title": "Literally holding my breath for DeepSeek v4 Every week there are rumors and nothing happens \ud83d\ude22",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2047464401050185991#m",
+    "date": "2026-04-24",
+    "category": "Twitter"
+  },
+  {
+    "title": "Website streamed live directly from a model",
+    "source": "Hacker News",
+    "description": "HN Score: 419 | 112 comments",
+    "url": "https://flipbook.page/",
+    "score": 419,
+    "date": "2026-04-24",
     "category": "AI News"
   },
   {
@@ -123,42 +157,16 @@
     "source": "@bindureddy",
     "description": "",
     "url": "https://nitter.net/bindureddy/status/2047396413181685853#m",
-    "date": "2026-04-23",
+    "date": "2026-04-24",
     "category": "Twitter"
-  },
-  {
-    "title": "Our newsroom AI policy",
-    "source": "Hacker News",
-    "description": "HN Score: 181 | 123 comments",
-    "url": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/",
-    "score": 181,
-    "date": "2026-04-23",
-    "category": "AI News"
-  },
-  {
-    "title": "We had early access to GPT 5.5 and have run the evals LiveBench coming shortly!!",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2047389406815044048#m",
-    "date": "2026-04-23",
-    "category": "Twitter"
-  },
-  {
-    "title": "Website streamed live directly from a model",
-    "source": "Hacker News",
-    "description": "HN Score: 414 | 110 comments",
-    "url": "https://flipbook.page/",
-    "score": 414,
-    "date": "2026-04-23",
-    "category": "AI News"
   },
   {
     "title": "Over-editing refers to a model modifying code beyond what is necessary",
     "source": "Hacker News",
-    "description": "HN Score: 412 | 239 comments",
+    "description": "HN Score: 414 | 240 comments",
     "url": "https://nrehiew.github.io/blog/minimal_editing/",
-    "score": 412,
-    "date": "2026-04-23",
+    "score": 414,
+    "date": "2026-04-24",
     "category": "AI News"
   }
 ]
