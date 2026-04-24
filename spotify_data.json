@@ -93,6 +93,26 @@
   ],
   "episodes": [
     {
+      "id": "Hard For_0",
+      "name": "Tim Cook’s Legacy + The Future of U.B.I. With Andrew Yang + HatGPT",
+      "show": "Hard Fork",
+      "description": "This week, Tim Cook announced he would step down as chief executive of Apple. We discuss what he got right and what he got wrong, and we offer some unsolicited advice for his replacement, John Tern",
+      "release_date": "2026-04-24",
+      "duration_min": 74,
+      "image": "",
+      "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
+    },
+    {
+      "id": "a]6z Pod_0",
+      "name": "AI Inside the Enterprise",
+      "show": "a]6z Podcast",
+      "description": "Steven Sinofsky, board partner at a16z, Aaron Levie, CEO of Box, and Martin Casado, general partner at a16z, discuss the reality of AI inside enterprises. They cover the gap between Silicon Valley ",
+      "release_date": "2026-04-24",
+      "duration_min": 60,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
       "id": "Practica_0",
       "name": "The mythos of Mythos and Allbirds takes flight to the neocloud",
       "show": "Practical AI",
@@ -103,7 +123,7 @@
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
-      "id": "a]6z Pod_0",
+      "id": "a]6z Pod_1",
       "name": "Martin Shkreli on AI, Pharma, and What Actually Matters",
       "show": "a]6z Podcast",
       "description": "Erik Torenberg speaks with Martin Shkreli, American investor and businessman, about how he sees the AI landscape, from OpenAI to Anthropic, and what actually matters beyond the hype. They also talk",
@@ -123,7 +143,7 @@
       "url": "https://open.spotify.com/show/0e1X4kJVfwQRPF8lZzqqfX"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "Balaji Srinivasan: Prove Correct, Not Just Go Direct",
       "show": "a]6z Podcast",
       "description": "Erik Torenberg and Theo Jaffee speak with Balaji Srinivasan, angel investor, entrepreneur, and author of <i>The Network State</i>, about how AI is transforming media, eroding trust, and reshaping h",
@@ -133,17 +153,7 @@
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
-      "id": "a]6z Pod_2",
-      "name": "Marc Andreessen: Monitoring the Situation and the Future of Media",
-      "show": "a]6z Podcast",
-      "description": "Erik Torenberg and Theo Jaffee speak with Marc Andreessen, cofounder and general partner at a16z, about the launch of Monitoring the Situation (MTS), a new, always-on media network on X. They discu",
-      "release_date": "2026-04-21",
-      "duration_min": 67,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
-    },
-    {
-      "id": "Hard For_0",
+      "id": "Hard For_1",
       "name": "A.I. Backlash Turns Violent + Kara Swisher on Healthmaxxing + The Zuck Bot Is Coming",
       "show": "Hard Fork",
       "description": "This week, amid violent attacks on the homes of the OpenAI chief executive Sam Altman and the Indianapolis councilman Ron Gibson, we debate why artificial intelligence and data centers are so unpop",
@@ -183,7 +193,7 @@
       "url": "https://open.spotify.com/show/0e1X4kJVfwQRPF8lZzqqfX"
     },
     {
-      "id": "Hard For_1",
+      "id": "Hard For_2",
       "name": "Anthropic’s Cybersecurity Shock Wave + Ronan Farrow and Andrew Marantz on Their Sam Altman Investigation + One Good Thing",
       "show": "Hard Fork",
       "description": "This week, we look at the cybersecurity threats that a new unreleased model from Anthropic are posing to software everywhere. And we ask whether Project Glasswing, the company’s bold new defense in",
@@ -211,16 +221,6 @@
       "duration_min": 44,
       "image": "",
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
-    },
-    {
-      "id": "Hard For_2",
-      "name": "The Future of Addictive Design + Going Deep at DeepMind + HatGPT",
-      "show": "Hard Fork",
-      "description": "Last week, two separate juries held social media companies liable for harming young users. We unpack what these landmark decisions mean — not only for the future of social platforms like Meta and Y",
-      "release_date": "2026-04-03",
-      "duration_min": 69,
-      "image": "",
-      "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
       "id": "The TWIM_1",
