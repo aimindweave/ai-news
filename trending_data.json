@@ -10,9 +10,9 @@
   {
     "title": "Google plans to invest up to $40B in Anthropic",
     "source": "Hacker News",
-    "description": "HN Score: 471 | 479 comments",
+    "description": "HN Score: 523 | 513 comments",
     "url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
-    "score": 471,
+    "score": 523,
     "date": "2026-04-25",
     "category": "AI News"
   },
@@ -27,9 +27,26 @@
   {
     "title": "'Plain text has been around for decades and it's here to stay.' \u2013 Unsung",
     "source": "Hacker News",
-    "description": "HN Score: 36 | 5 comments",
+    "description": "HN Score: 63 | 9 comments",
     "url": "https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/",
-    "score": 36,
+    "score": 63,
+    "date": "2026-04-25",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: The Newton\u2013Schulz iteration coefficients optimized by DeepSeek-V4 are surprisingly strong: they effectively normalize all singular v",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/FengzhuoZhang/status/2047754239611469928#m",
+    "date": "2026-04-25",
+    "category": "Twitter"
+  },
+  {
+    "title": "There Will Be a Scientific Theory of Deep Learning",
+    "source": "Hacker News",
+    "description": "HN Score: 205 | 81 comments",
+    "url": "https://arxiv.org/abs/2604.21691",
+    "score": 205,
     "date": "2026-04-25",
     "category": "AI News"
   },
@@ -42,28 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "There Will Be a Scientific Theory of Deep Learning",
-    "source": "Hacker News",
-    "description": "HN Score: 190 | 74 comments",
-    "url": "https://arxiv.org/abs/2604.21691",
-    "score": 190,
-    "date": "2026-04-25",
-    "category": "AI News"
-  },
-  {
-    "title": "Congrats to @deepseek_ai team! Doing the numbers I would estimate: Pro < $14m for the final training run Flash < $4m Ratio of active params x total tr",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/EMostaque/status/2047545899044213193#m",
-    "date": "2026-04-25",
-    "category": "Twitter"
-  },
-  {
     "title": "Email could have been X.400 times better",
     "source": "Hacker News",
-    "description": "HN Score: 156 | 146 comments",
+    "description": "HN Score: 165 | 148 comments",
     "url": "https://buttondown.com/blog/x400-vs-smtp-email",
-    "score": 156,
+    "score": 165,
     "date": "2026-04-25",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "I cancelled Claude: Token issues, declining quality, and poor support",
+    "title": "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do",
     "source": "Hacker News",
-    "description": "HN Score: 842 | 498 comments",
-    "url": "https://nickyreinert.de/en/2026/2026-04-24-claude-critics/",
-    "score": 842,
+    "description": "HN Score: 19 | 3 comments",
+    "url": "https://alash3al.github.io/stash?_v01",
+    "score": 19,
     "date": "2026-04-25",
     "category": "AI News"
   },
@@ -93,11 +93,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Browser Harness \u2013 Gives LLM freedom to complete any browser task",
+    "title": "The mail sent to a video game publisher",
     "source": "Hacker News",
-    "description": "HN Score: 96 | 49 comments",
-    "url": "https://github.com/browser-use/browser-harness",
-    "score": 96,
+    "description": "HN Score: 15 | 0 comments",
+    "url": "https://www.gamefile.news/p/panic-mail-arco-despelote-time-flies-thank-goodness-teeth",
+    "score": 15,
+    "date": "2026-04-25",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: Every day, I'm working with 15 open tabs, 4-5 apps, and 3-4 conversations at the same time. That's a lot of context to keep in mind, an",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2047754975263285417#m",
+    "date": "2026-04-25",
+    "category": "Twitter"
+  },
+  {
+    "title": "I cancelled Claude: Token issues, declining quality, and poor support",
+    "source": "Hacker News",
+    "description": "HN Score: 860 | 504 comments",
+    "url": "https://nickyreinert.de/en/2026/2026-04-24-claude-critics/",
+    "score": 860,
     "date": "2026-04-25",
     "category": "AI News"
   },
@@ -110,28 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: VT Code \u2013 Rust TUI coding agent with multi-provider support",
-    "source": "Hacker News",
-    "description": "HN Score: 3 | 0 comments",
-    "url": "https://github.com/vinhnx/VTCode",
-    "score": 3,
-    "date": "2026-04-25",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: I'm now using two separate skills to generate a plan before I give it to Claude Code: designing \u2192 planning The 'designing' skill does t",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2047654354224906531#m",
-    "date": "2026-04-25",
-    "category": "Twitter"
-  },
-  {
     "title": "GPT-5.5",
     "source": "Hacker News",
-    "description": "HN Score: 1536 | 1023 comments",
+    "description": "HN Score: 1540 | 1026 comments",
     "url": "https://openai.com/index/introducing-gpt-5-5/",
-    "score": 1536,
+    "score": 1540,
     "date": "2026-04-25",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "CC-Canary: Detect early signs of regressions in Claude Code",
+    "title": "Show HN: Browser Harness \u2013 Gives LLM freedom to complete any browser task",
     "source": "Hacker News",
-    "description": "HN Score: 51 | 24 comments",
-    "url": "https://github.com/delta-hq/cc-canary",
-    "score": 51,
+    "description": "HN Score: 97 | 50 comments",
+    "url": "https://github.com/browser-use/browser-harness",
+    "score": 97,
     "date": "2026-04-25",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do",
+    "title": "CC-Canary: Detect early signs of regressions in Claude Code",
     "source": "Hacker News",
-    "description": "HN Score: 10 | 1 comments",
-    "url": "https://alash3al.github.io/stash?_v01",
-    "score": 10,
+    "description": "HN Score: 53 | 24 comments",
+    "url": "https://github.com/delta-hq/cc-canary",
+    "score": 53,
     "date": "2026-04-25",
     "category": "AI News"
   }
