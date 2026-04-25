@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Google plans to invest up to $40B in Anthropic",
+    "title": "1-Bit Hokusai's 'The Great Wave' (2023)",
     "source": "Hacker News",
-    "description": "HN Score: 653 | 648 comments",
-    "url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
-    "score": 653,
+    "description": "HN Score: 157 | 24 comments",
+    "url": "https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/",
+    "score": 157,
     "date": "2026-04-25",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "1-Bit Hokusai's 'The Great Wave'",
+    "title": "Google plans to invest up to $40B in Anthropic",
     "source": "Hacker News",
-    "description": "HN Score: 24 | 2 comments",
-    "url": "https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/",
-    "score": 24,
+    "description": "HN Score: 684 | 675 comments",
+    "url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
+    "score": 684,
     "date": "2026-04-25",
     "category": "AI News"
   },
@@ -44,9 +44,9 @@
   {
     "title": "Lambda Calculus Benchmark for AI",
     "source": "Hacker News",
-    "description": "HN Score: 19 | 3 comments",
+    "description": "HN Score: 49 | 16 comments",
     "url": "https://victortaelin.github.io/lambench/",
-    "score": 19,
+    "score": 49,
     "date": "2026-04-25",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
+    "title": "Plain text has been around for decades and it\u2019s here to stay",
     "source": "Hacker News",
-    "description": "HN Score: 121 | 55 comments",
-    "url": "https://github.com/nex-crm/wuphf",
-    "score": 121,
+    "description": "HN Score: 179 | 78 comments",
+    "url": "https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/",
+    "score": 179,
     "date": "2026-04-25",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Plain text has been around for decades and it\u2019s here to stay",
+    "title": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
     "source": "Hacker News",
-    "description": "HN Score: 148 | 61 comments",
-    "url": "https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/",
-    "score": 148,
+    "description": "HN Score: 145 | 68 comments",
+    "url": "https://github.com/nex-crm/wuphf",
+    "score": 145,
     "date": "2026-04-25",
     "category": "AI News"
   },
@@ -95,9 +95,26 @@
   {
     "title": "The mail sent to a video game publisher",
     "source": "Hacker News",
-    "description": "HN Score: 72 | 1 comments",
+    "description": "HN Score: 84 | 1 comments",
     "url": "https://www.gamefile.news/p/panic-mail-arco-despelote-time-flies-thank-goodness-teeth",
-    "score": 72,
+    "score": 84,
+    "date": "2026-04-25",
+    "category": "AI News"
+  },
+  {
+    "title": "You can actually search your prompt history in Claude Code with Ctrl+R. So far, I've always navigated back and forth through prompts with the arrow ke",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2048027253616058869#m",
+    "date": "2026-04-25",
+    "category": "Twitter"
+  },
+  {
+    "title": "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do",
+    "source": "Hacker News",
+    "description": "HN Score: 101 | 50 comments",
+    "url": "https://alash3al.github.io/stash?_v01",
+    "score": 101,
     "date": "2026-04-25",
     "category": "AI News"
   },
@@ -110,28 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do",
-    "source": "Hacker News",
-    "description": "HN Score: 87 | 41 comments",
-    "url": "https://alash3al.github.io/stash?_v01",
-    "score": 87,
-    "date": "2026-04-25",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: Open models have something Big AI can't beat: \u2022 You can host them anywhere \u2022 You can make them better \u2022 You can trust they won't steal ",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2047695212068438149#m",
-    "date": "2026-04-25",
-    "category": "Twitter"
-  },
-  {
     "title": "There Will Be a Scientific Theory of Deep Learning",
     "source": "Hacker News",
-    "description": "HN Score: 282 | 119 comments",
+    "description": "HN Score: 297 | 126 comments",
     "url": "https://arxiv.org/abs/2604.21691",
-    "score": 282,
+    "score": 297,
     "date": "2026-04-25",
     "category": "AI News"
   },
@@ -146,9 +146,9 @@
   {
     "title": "Email could have been X.400 times better",
     "source": "Hacker News",
-    "description": "HN Score: 204 | 170 comments",
+    "description": "HN Score: 214 | 175 comments",
     "url": "https://buttondown.com/blog/x400-vs-smtp-email",
-    "score": 204,
+    "score": 214,
     "date": "2026-04-25",
     "category": "AI News"
   },
@@ -163,7 +163,7 @@
   {
     "title": "GPT-5.5",
     "source": "Hacker News",
-    "description": "HN Score: 1552 | 1029 comments",
+    "description": "HN Score: 1552 | 1032 comments",
     "url": "https://openai.com/index/introducing-gpt-5-5/",
     "score": 1552,
     "date": "2026-04-25",
