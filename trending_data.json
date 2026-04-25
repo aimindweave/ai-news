@@ -10,9 +10,9 @@
   {
     "title": "Google plans to invest up to $40B in Anthropic",
     "source": "Hacker News",
-    "description": "HN Score: 373 | 410 comments",
+    "description": "HN Score: 471 | 479 comments",
     "url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
-    "score": 373,
+    "score": 471,
     "date": "2026-04-25",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "There Will Be a Scientific Theory of Deep Learning",
+    "title": "'Plain text has been around for decades and it's here to stay.' \u2013 Unsung",
     "source": "Hacker News",
-    "description": "HN Score: 157 | 49 comments",
-    "url": "https://arxiv.org/abs/2604.21691",
-    "score": 157,
+    "description": "HN Score: 36 | 5 comments",
+    "url": "https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/",
+    "score": 36,
     "date": "2026-04-25",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Email could have been X.400 times better",
+    "title": "There Will Be a Scientific Theory of Deep Learning",
     "source": "Hacker News",
-    "description": "HN Score: 132 | 134 comments",
-    "url": "https://buttondown.com/blog/x400-vs-smtp-email",
-    "score": 132,
+    "description": "HN Score: 190 | 74 comments",
+    "url": "https://arxiv.org/abs/2604.21691",
+    "score": 190,
     "date": "2026-04-25",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "I cancelled Claude: Token issues, declining quality, and poor support",
+    "title": "Email could have been X.400 times better",
     "source": "Hacker News",
-    "description": "HN Score: 796 | 482 comments",
-    "url": "https://nickyreinert.de/en/2026/2026-04-24-claude-critics/",
-    "score": 796,
+    "description": "HN Score: 156 | 146 comments",
+    "url": "https://buttondown.com/blog/x400-vs-smtp-email",
+    "score": 156,
     "date": "2026-04-25",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Browser Harness \u2013 Gives LLM freedom to complete any browser task",
+    "title": "I cancelled Claude: Token issues, declining quality, and poor support",
     "source": "Hacker News",
-    "description": "HN Score: 89 | 40 comments",
-    "url": "https://github.com/browser-use/browser-harness",
-    "score": 89,
+    "description": "HN Score: 842 | 498 comments",
+    "url": "https://nickyreinert.de/en/2026/2026-04-24-claude-critics/",
+    "score": 842,
     "date": "2026-04-25",
     "category": "AI News"
   },
@@ -93,11 +93,28 @@
     "category": "Twitter"
   },
   {
-    "title": "CC-Canary: Detect early signs of regressions in Claude Code",
+    "title": "Show HN: Browser Harness \u2013 Gives LLM freedom to complete any browser task",
     "source": "Hacker News",
-    "description": "HN Score: 43 | 19 comments",
-    "url": "https://github.com/delta-hq/cc-canary",
-    "score": 43,
+    "description": "HN Score: 96 | 49 comments",
+    "url": "https://github.com/browser-use/browser-harness",
+    "score": 96,
+    "date": "2026-04-25",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: Open models have something Big AI can't beat: \u2022 You can host them anywhere \u2022 You can make them better \u2022 You can trust they won't steal ",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2047695212068438149#m",
+    "date": "2026-04-25",
+    "category": "Twitter"
+  },
+  {
+    "title": "Show HN: VT Code \u2013 Rust TUI coding agent with multi-provider support",
+    "source": "Hacker News",
+    "description": "HN Score: 3 | 0 comments",
+    "url": "https://github.com/vinhnx/VTCode",
+    "score": 3,
     "date": "2026-04-25",
     "category": "AI News"
   },
@@ -110,28 +127,28 @@
     "category": "Twitter"
   },
   {
-    "title": "'Plain text has been around for decades and it's here to stay.' \u2013 Unsung",
+    "title": "GPT-5.5",
     "source": "Hacker News",
-    "description": "HN Score: 5 | 0 comments",
-    "url": "https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/",
-    "score": 5,
+    "description": "HN Score: 1536 | 1023 comments",
+    "url": "https://openai.com/index/introducing-gpt-5-5/",
+    "score": 1536,
     "date": "2026-04-25",
     "category": "AI News"
   },
   {
-    "title": "This is one way to connect your OpenClaw or Hermes agent to the new GPT-5.5 model (there are another 400 models available here, so take your pick). Yo",
-    "source": "@svpino",
+    "title": "Super excited for our version of always on agents We will open source it in a couple of weeks! Talk to Claude Code, Codex or Antigravity from one alwa",
+    "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2047812141965566189#m",
+    "url": "https://nitter.net/bindureddy/status/2047886754225786962#m",
     "date": "2026-04-25",
     "category": "Twitter"
   },
   {
-    "title": "SFO Quiet Airport (2025)",
+    "title": "CC-Canary: Detect early signs of regressions in Claude Code",
     "source": "Hacker News",
-    "description": "HN Score: 133 | 76 comments",
-    "url": "https://viewfromthewing.com/san-francisco-airport-removed-90-minutes-of-daily-noise-travelers-say-it-changed-everything/",
-    "score": 133,
+    "description": "HN Score: 51 | 24 comments",
+    "url": "https://github.com/delta-hq/cc-canary",
+    "score": 51,
     "date": "2026-04-25",
     "category": "AI News"
   },
@@ -144,28 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Different language models learn similar number representations",
+    "title": "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do",
     "source": "Hacker News",
-    "description": "HN Score: 93 | 38 comments",
-    "url": "https://arxiv.org/abs/2604.20817",
-    "score": 93,
-    "date": "2026-04-25",
-    "category": "AI News"
-  },
-  {
-    "title": "R to @bindureddy: API is shipped!!",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2047783541539578331#m",
-    "date": "2026-04-25",
-    "category": "Twitter"
-  },
-  {
-    "title": "OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API",
-    "source": "Hacker News",
-    "description": "HN Score: 219 | 123 comments",
-    "url": "https://developers.openai.com/api/docs/changelog",
-    "score": 219,
+    "description": "HN Score: 10 | 1 comments",
+    "url": "https://alash3al.github.io/stash?_v01",
+    "score": 10,
     "date": "2026-04-25",
     "category": "AI News"
   }
