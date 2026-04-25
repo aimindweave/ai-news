@@ -10,9 +10,9 @@
   {
     "title": "1-Bit Hokusai's 'The Great Wave' (2023)",
     "source": "Hacker News",
-    "description": "HN Score: 442 | 81 comments",
+    "description": "HN Score: 491 | 83 comments",
     "url": "https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/",
-    "score": 442,
+    "score": 491,
     "date": "2026-04-25",
     "category": "AI News"
   },
@@ -27,9 +27,26 @@
   {
     "title": "GPT\u20115.5 Bio Bug Bounty",
     "source": "Hacker News",
-    "description": "HN Score: 100 | 85 comments",
+    "description": "HN Score: 118 | 90 comments",
     "url": "https://openai.com/index/gpt-5-5-bio-bug-bounty/",
-    "score": 100,
+    "score": 118,
+    "date": "2026-04-25",
+    "category": "AI News"
+  },
+  {
+    "title": "Given how good gpt-image-2 is it\u2019s an absolute puzzle OpenAI shut down Sora",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/EMostaque/status/2048160071998140741#m",
+    "date": "2026-04-25",
+    "category": "Twitter"
+  },
+  {
+    "title": "Hokusai and Tesselations",
+    "source": "Hacker News",
+    "description": "HN Score: 83 | 13 comments",
+    "url": "https://dl.ndl.go.jp/pid/1899550/1/11/",
+    "score": 83,
     "date": "2026-04-25",
     "category": "AI News"
   },
@@ -42,28 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Hokusai and Tesselations",
-    "source": "Hacker News",
-    "description": "HN Score: 65 | 12 comments",
-    "url": "https://dl.ndl.go.jp/pid/1899550/1/11/",
-    "score": 65,
-    "date": "2026-04-25",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @EMostaque: The Newton\u2013Schulz iteration coefficients optimized by DeepSeek-V4 are surprisingly strong: they effectively normalize all singular v",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/FengzhuoZhang/status/2047754239611469928#m",
-    "date": "2026-04-25",
-    "category": "Twitter"
-  },
-  {
     "title": "Plain text has been around for decades and it\u2019s here to stay",
     "source": "Hacker News",
-    "description": "HN Score: 241 | 123 comments",
+    "description": "HN Score: 258 | 127 comments",
     "url": "https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/",
-    "score": 241,
+    "score": 258,
     "date": "2026-04-25",
     "category": "AI News"
   },
@@ -78,9 +78,9 @@
   {
     "title": "Lambda Calculus Benchmark for AI",
     "source": "Hacker News",
-    "description": "HN Score: 111 | 34 comments",
+    "description": "HN Score: 123 | 37 comments",
     "url": "https://victortaelin.github.io/lambench/",
-    "score": 111,
+    "score": 123,
     "date": "2026-04-25",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Nicholas Carlini \u2013 Black-hat LLMs [video]",
+    "title": "The AI Industry Is Discovering That the Public Hates It",
     "source": "Hacker News",
-    "description": "HN Score: 9 | 0 comments",
-    "url": "https://www.youtube.com/watch?v=1sd26pWhfmg",
-    "score": 9,
+    "description": "HN Score: 157 | 186 comments",
+    "url": "https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash",
+    "score": 157,
     "date": "2026-04-25",
     "category": "AI News"
   },
@@ -112,9 +112,9 @@
   {
     "title": "The mail sent to a video game publisher",
     "source": "Hacker News",
-    "description": "HN Score: 125 | 4 comments",
+    "description": "HN Score: 132 | 4 comments",
     "url": "https://www.gamefile.news/p/panic-mail-arco-despelote-time-flies-thank-goodness-teeth",
-    "score": 125,
+    "score": 132,
     "date": "2026-04-25",
     "category": "AI News"
   },
@@ -127,11 +127,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
+    "title": "Google plans to invest up to $40B in Anthropic",
     "source": "Hacker News",
-    "description": "HN Score: 215 | 98 comments",
-    "url": "https://github.com/nex-crm/wuphf",
-    "score": 215,
+    "description": "HN Score: 790 | 777 comments",
+    "url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
+    "score": 790,
+    "date": "2026-04-25",
+    "category": "AI News"
+  },
+  {
+    "title": "Best Model Per Use Case agentic - GPT 5.5 thinking cheap everyday - Gemini Flash image - Nano Banana Pro, GPT Image 2 video - Seedance 2.0 motion cont",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2048152086769246440#m",
+    "date": "2026-04-25",
+    "category": "Twitter"
+  },
+  {
+    "title": "Email could have been X.400 times better",
+    "source": "Hacker News",
+    "description": "HN Score: 228 | 193 comments",
+    "url": "https://buttondown.com/blog/x400-vs-smtp-email",
+    "score": 228,
     "date": "2026-04-25",
     "category": "AI News"
   },
@@ -144,28 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Google plans to invest up to $40B in Anthropic",
+    "title": "There Will Be a Scientific Theory of Deep Learning",
     "source": "Hacker News",
-    "description": "HN Score: 781 | 766 comments",
-    "url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
-    "score": 781,
-    "date": "2026-04-25",
-    "category": "AI News"
-  },
-  {
-    "title": "Super excited for our version of always on agents We will open source it in a couple of weeks! Talk to Claude Code, Codex or Antigravity from one alwa",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2047886754225786962#m",
-    "date": "2026-04-25",
-    "category": "Twitter"
-  },
-  {
-    "title": "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do",
-    "source": "Hacker News",
-    "description": "HN Score: 158 | 66 comments",
-    "url": "https://alash3al.github.io/stash?_v01",
-    "score": 158,
+    "description": "HN Score: 338 | 150 comments",
+    "url": "https://arxiv.org/abs/2604.21691",
+    "score": 338,
     "date": "2026-04-25",
     "category": "AI News"
   }
