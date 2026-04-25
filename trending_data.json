@@ -10,9 +10,9 @@
   {
     "title": "Google plans to invest up to $40B in Anthropic",
     "source": "Hacker News",
-    "description": "HN Score: 598 | 579 comments",
+    "description": "HN Score: 653 | 648 comments",
     "url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
-    "score": 598,
+    "score": 653,
     "date": "2026-04-25",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
+    "title": "1-Bit Hokusai's 'The Great Wave'",
     "source": "Hacker News",
-    "description": "HN Score: 65 | 27 comments",
-    "url": "https://github.com/nex-crm/wuphf",
-    "score": 65,
+    "description": "HN Score: 24 | 2 comments",
+    "url": "https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/",
+    "score": 24,
     "date": "2026-04-25",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Plain text has been around for decades and it\u2019s here to stay",
+    "title": "Lambda Calculus Benchmark for AI",
     "source": "Hacker News",
-    "description": "HN Score: 107 | 33 comments",
-    "url": "https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/",
-    "score": 107,
+    "description": "HN Score: 19 | 3 comments",
+    "url": "https://victortaelin.github.io/lambench/",
+    "score": 19,
     "date": "2026-04-25",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "The mail sent to a video game publisher",
+    "title": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
     "source": "Hacker News",
-    "description": "HN Score: 37 | 0 comments",
-    "url": "https://www.gamefile.news/p/panic-mail-arco-despelote-time-flies-thank-goodness-teeth",
-    "score": 37,
+    "description": "HN Score: 121 | 55 comments",
+    "url": "https://github.com/nex-crm/wuphf",
+    "score": 121,
     "date": "2026-04-25",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do",
+    "title": "Plain text has been around for decades and it\u2019s here to stay",
     "source": "Hacker News",
-    "description": "HN Score: 48 | 17 comments",
-    "url": "https://alash3al.github.io/stash?_v01",
-    "score": 48,
+    "description": "HN Score: 148 | 61 comments",
+    "url": "https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/",
+    "score": 148,
     "date": "2026-04-25",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "There Will Be a Scientific Theory of Deep Learning",
+    "title": "The mail sent to a video game publisher",
     "source": "Hacker News",
-    "description": "HN Score: 247 | 110 comments",
-    "url": "https://arxiv.org/abs/2604.21691",
-    "score": 247,
+    "description": "HN Score: 72 | 1 comments",
+    "url": "https://www.gamefile.news/p/panic-mail-arco-despelote-time-flies-thank-goodness-teeth",
+    "score": 72,
     "date": "2026-04-25",
     "category": "AI News"
   },
@@ -110,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Email could have been X.400 times better",
+    "title": "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do",
     "source": "Hacker News",
-    "description": "HN Score: 185 | 152 comments",
-    "url": "https://buttondown.com/blog/x400-vs-smtp-email",
-    "score": 185,
+    "description": "HN Score: 87 | 41 comments",
+    "url": "https://alash3al.github.io/stash?_v01",
+    "score": 87,
     "date": "2026-04-25",
     "category": "AI News"
   },
@@ -127,11 +127,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Escrow Security for iCloud Keychain",
+    "title": "There Will Be a Scientific Theory of Deep Learning",
     "source": "Hacker News",
-    "description": "HN Score: 7 | 0 comments",
-    "url": "https://support.apple.com/guide/security/escrow-security-for-icloud-keychain-sec3e341e75d/web",
-    "score": 7,
+    "description": "HN Score: 282 | 119 comments",
+    "url": "https://arxiv.org/abs/2604.21691",
+    "score": 282,
+    "date": "2026-04-25",
+    "category": "AI News"
+  },
+  {
+    "title": "Strange times GPT 5.5 is a very big step forward with high accuracy and precision Opus 4.7 appears to be nerfed and regressed from 4.6 A complete reve",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2048024534054486347#m",
+    "date": "2026-04-25",
+    "category": "Twitter"
+  },
+  {
+    "title": "Email could have been X.400 times better",
+    "source": "Hacker News",
+    "description": "HN Score: 204 | 170 comments",
+    "url": "https://buttondown.com/blog/x400-vs-smtp-email",
+    "score": 204,
     "date": "2026-04-25",
     "category": "AI News"
   },
@@ -146,26 +163,9 @@
   {
     "title": "GPT-5.5",
     "source": "Hacker News",
-    "description": "HN Score: 1546 | 1029 comments",
+    "description": "HN Score: 1552 | 1029 comments",
     "url": "https://openai.com/index/introducing-gpt-5-5/",
-    "score": 1546,
-    "date": "2026-04-25",
-    "category": "AI News"
-  },
-  {
-    "title": "babe wake up GPT 5.5 thinking is literally on top of every leaderboard. time to build!!",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2047783814106423645#m",
-    "date": "2026-04-25",
-    "category": "Twitter"
-  },
-  {
-    "title": "I cancelled Claude: Token issues, declining quality, and poor support",
-    "source": "Hacker News",
-    "description": "HN Score: 880 | 517 comments",
-    "url": "https://nickyreinert.de/en/2026/2026-04-24-claude-critics/",
-    "score": 880,
+    "score": 1552,
     "date": "2026-04-25",
     "category": "AI News"
   }
