@@ -10,9 +10,9 @@
   {
     "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
     "source": "Hacker News",
-    "description": "HN Score: 621 | 539 comments",
+    "description": "HN Score: 688 | 622 comments",
     "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
-    "score": 621,
+    "score": 688,
     "date": "2026-04-27",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "China blocks Meta's acquisition of AI startup Manus",
     "source": "Hacker News",
-    "description": "HN Score: 181 | 101 comments",
+    "description": "HN Score: 258 | 154 comments",
     "url": "https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html",
-    "score": 181,
+    "score": 258,
     "date": "2026-04-27",
     "category": "AI News"
   },
@@ -44,9 +44,9 @@
   {
     "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
     "source": "Hacker News",
-    "description": "HN Score: 378 | 141 comments",
+    "description": "HN Score: 407 | 153 comments",
     "url": "https://app.oravys.com/blog/mercor-breach-2026",
-    "score": 378,
+    "score": 407,
     "date": "2026-04-27",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview",
+    "title": "Pgbackrest is no longer being maintained",
     "source": "Hacker News",
-    "description": "HN Score: 272 | 106 comments",
-    "url": "https://github.com/dirac-run/dirac",
-    "score": 272,
+    "description": "HN Score: 387 | 196 comments",
+    "url": "https://github.com/pgbackrest/pgbackrest",
+    "score": 387,
     "date": "2026-04-27",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Magic by Return of Post: How Mail Order Delivered the Occult",
+    "title": "Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview",
     "source": "Hacker News",
-    "description": "HN Score: 19 | 3 comments",
-    "url": "https://publicdomainreview.org/essay/magic-by-return-of-post/",
-    "score": 19,
+    "description": "HN Score: 282 | 110 comments",
+    "url": "https://github.com/dirac-run/dirac",
+    "score": 282,
     "date": "2026-04-27",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Pgbackrest is no longer being maintained",
+    "title": "Magic by return of post: How mail order delivered the occult",
     "source": "Hacker News",
-    "description": "HN Score: 371 | 192 comments",
-    "url": "https://github.com/pgbackrest/pgbackrest",
-    "score": 371,
+    "description": "HN Score: 32 | 4 comments",
+    "url": "https://publicdomainreview.org/essay/magic-by-return-of-post/",
+    "score": 32,
     "date": "2026-04-27",
     "category": "AI News"
   },
@@ -112,9 +112,9 @@
   {
     "title": "Decoupled DiLoCo: Resilient, Distributed AI Training at Scale",
     "source": "Hacker News",
-    "description": "HN Score: 34 | 3 comments",
+    "description": "HN Score: 40 | 4 comments",
     "url": "https://deepmind.google/blog/decoupled-diloco/",
-    "score": 34,
+    "score": 40,
     "date": "2026-04-27",
     "category": "AI News"
   },
@@ -129,43 +129,43 @@
   {
     "title": "Tendril \u2013 a self-extending agent that builds and registers its own tools",
     "source": "Hacker News",
-    "description": "HN Score: 65 | 24 comments",
+    "description": "HN Score: 67 | 31 comments",
     "url": "https://github.com/serverless-dna/tendril",
-    "score": 65,
+    "score": 67,
     "date": "2026-04-27",
     "category": "AI News"
   },
   {
-    "title": "Mix and match based on use-case Still use Opus for front-end but GPT 5.5 for backend coding Works like a charm",
+    "title": "Trained a 20T param model - Mythical It\u2019s got 100 on all the benchmarks, will be sharing some screenshots shortly - so you all can make viral posts! R",
     "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/bindureddy/status/2048852882288746742#m",
+    "url": "https://nitter.net/bindureddy/status/2048888459272851490#m",
+    "date": "2026-04-27",
+    "category": "Twitter"
+  },
+  {
+    "title": "Running local LLMs offline on a ten-hour flight",
+    "source": "Hacker News",
+    "description": "HN Score: 103 | 77 comments",
+    "url": "https://deploy.live/blog/running-local-llms-offline-on-a-ten-hour-flight/",
+    "score": 103,
+    "date": "2026-04-27",
+    "category": "AI News"
+  },
+  {
+    "title": "I wish I was still at Google Just so I could work on training a model that tops leaderboards and beats GPT 5.5. \ud83d\ude80\ud83d\ude80 The race to AGI and recursive self-",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2048874579716927827#m",
     "date": "2026-04-27",
     "category": "Twitter"
   },
   {
     "title": "Getting my daily news from a dot matrix printer 2024",
     "source": "Hacker News",
-    "description": "HN Score: 85 | 17 comments",
+    "description": "HN Score: 88 | 20 comments",
     "url": "https://aschmelyun.com/blog/getting-my-daily-news-from-a-dot-matrix-printer/",
-    "score": 85,
-    "date": "2026-04-27",
-    "category": "AI News"
-  },
-  {
-    "title": "Kimi 2.6 beats DeepSeek and remains the king of open source!! It\u2019s a GPT 5.5 / Opus 4.7 low effort model which is about 5x cheaper in practice The onl",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2048578192991207830#m",
-    "date": "2026-04-27",
-    "category": "Twitter"
-  },
-  {
-    "title": "Three constraints before I build anything",
-    "source": "Hacker News",
-    "description": "HN Score: 338 | 51 comments",
-    "url": "https://jordanlord.co.uk/blog/3-constraints/",
-    "score": 338,
+    "score": 88,
     "date": "2026-04-27",
     "category": "AI News"
   }
