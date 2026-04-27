@@ -1,5 +1,12 @@
 [
   {
+    "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
+    "source": "TechCrunch",
+    "summary": "OpenAI has won major concessions from its largest shareholder, Microsoft, that will allow it to sell products on AWS, while Microsoft get more cash in a revenue-share agreement.",
+    "url": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
+    "date": "2026-04-27"
+  },
+  {
     "title": "DeepMind\u2019s David Silver just raised $1.1B to build an AI that learns without human data",
     "source": "TechCrunch",
     "summary": "Ineffable Intelligence, a British AI lab founded a mere few months ago by former DeepMind researcher David Silver, has raised $1.1 billion in funding at a valuation of $5.1 billion.",
@@ -37,7 +44,7 @@
   {
     "title": "To buy this Bay Area home, you\u2019ll need Anthropic equity",
     "source": "TechCrunch",
-    "summary": "Someone\u2019s offering an unusual deal for a 13-acre property in Mill Valley, just north of South Francisco.",
+    "summary": "Someone\u2019s offering an unusual deal for a 13-acre property in Mill Valley, just north of San Francisco.",
     "url": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
     "date": "2026-04-27"
   },
@@ -65,7 +72,7 @@
   {
     "title": "Why Cohere is merging with Aleph Alpha",
     "source": "TechCrunch",
-    "summary": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Lidl\u2019s owner, Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alternative to enterprises in an AI landscape dominated by American players.",
+    "summary": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alternative to enterprises in an AI landscape dominated by American players.",
     "url": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
     "date": "2026-04-27"
   },
@@ -95,13 +102,6 @@
     "source": "TechCrunch",
     "summary": "ComfyUI, whose tools give creators more control over AI image, video, and audio generation, just raised $30 million.",
     "url": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
-    "date": "2026-04-27"
-  },
-  {
-    "title": "Google to invest up to $40B in Anthropic in cash and compute",
-    "source": "TechCrunch",
-    "summary": "Google plans up to $40B investment in Anthropic as AI rivals race to secure massive compute capacity, following the limited release of its powerful, cybersecurity-focused Mythos model.",
-    "url": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
     "date": "2026-04-27"
   },
   {
@@ -245,6 +245,13 @@
     "date": "2026-04-27"
   },
   {
+    "title": "China kills Meta\u2019s acquisition of Manus as US-China AI rivalry deepens",
+    "source": "Ars Technica",
+    "summary": "The unwinding of Meta\u2019s deal shows how tech founders struggle to cut China ties.",
+    "url": "https://arstechnica.com/ai/2026/04/china-kills-metas-acquisition-of-manus-as-us-china-ai-rivalry-deepens/",
+    "date": "2026-04-27"
+  },
+  {
     "title": "Google will invest as much as $40 billion in Anthropic",
     "source": "Ars Technica",
     "summary": "This follows a similar, but smaller, investment by Amazon just days ago.",
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "A humanoid robot's record half-marathon run shows China's speed in robotics.",
     "url": "https://arstechnica.com/ai/2026/04/robot-runner-handily-beats-humans-in-half-marathon-setting-new-record/",
-    "date": "2026-04-27"
-  },
-  {
-    "title": "Deezer says 44% of new music uploads are AI-generated, most streams are fraudulent",
-    "source": "Ars Technica",
-    "summary": "AI tracks account for a small fraction of Deezer streams, and most are demonetized for fraud.",
-    "url": "https://arstechnica.com/ai/2026/04/deezer-says-44-of-new-music-uploads-are-ai-generated-most-streams-are-fraudulent/",
     "date": "2026-04-27"
   }
 ]
