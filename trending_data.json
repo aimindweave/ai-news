@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "AI should elevate your thinking, not replace it",
+    "title": "The next phase of the Microsoft OpenAI partnership \u2013 OpenAI",
     "source": "Hacker News",
-    "description": "HN Score: 508 | 368 comments",
-    "url": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
-    "score": 508,
+    "description": "HN Score: 40 | 23 comments",
+    "url": "https://openai.com/index/next-phase-of-microsoft-partnership/",
+    "score": 40,
     "date": "2026-04-27",
     "category": "AI News"
   },
@@ -25,10 +25,10 @@
     "category": "Twitter"
   },
   {
-    "title": "Three constraints before I build anything",
+    "title": "Pgbackrest is no longer being maintained",
     "source": "Hacker News",
-    "description": "HN Score: 216 | 37 comments",
-    "url": "https://jordanlord.co.uk/blog/3-constraints/",
+    "description": "HN Score: 216 | 91 comments",
+    "url": "https://github.com/pgbackrest/pgbackrest",
     "score": 216,
     "date": "2026-04-27",
     "category": "AI News"
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "EvanFlow \u2013 A TDD driven feedback loop for Claude Code",
+    "title": "Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview",
     "source": "Hacker News",
-    "description": "HN Score: 69 | 30 comments",
-    "url": "https://github.com/evanklem/evanflow",
-    "score": 69,
+    "description": "HN Score: 71 | 23 comments",
+    "url": "https://github.com/dirac-run/dirac",
+    "score": 71,
     "date": "2026-04-27",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "An AI agent deleted our production database. The agent's confession is below",
+    "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
     "source": "Hacker News",
-    "description": "HN Score: 696 | 841 comments",
-    "url": "https://twitter.com/lifeof_jer/status/2048103471019434248",
-    "score": 696,
+    "description": "HN Score: 56 | 14 comments",
+    "url": "https://app.oravys.com/blog/mercor-breach-2026",
+    "score": 56,
     "date": "2026-04-27",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "GoDaddy gave a domain to a stranger without any documentation",
+    "title": "AI should elevate your thinking, not replace it",
     "source": "Hacker News",
-    "description": "HN Score: 613 | 236 comments",
-    "url": "https://anchor.host/godaddy-gave-a-domain-to-a-stranger-without-any-documentation/",
-    "score": 613,
+    "description": "HN Score: 663 | 475 comments",
+    "url": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
+    "score": 663,
     "date": "2026-04-27",
     "category": "AI News"
   },
@@ -93,28 +93,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Amateur armed with ChatGPT solves an Erd\u0151s problem",
+    "title": "Microsoft to Stop Sharing Revenue with Main AI Partner OpenAI",
     "source": "Hacker News",
-    "description": "HN Score: 755 | 539 comments",
-    "url": "https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/",
-    "score": 755,
+    "description": "HN Score: 29 | 5 comments",
+    "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
+    "score": 29,
     "date": "2026-04-27",
     "category": "AI News"
   },
   {
-    "title": "RT by @svpino: You can paste a link to a specific GitHub PR and let Claude Code figure everything out. I've been copying and pasting information from ",
+    "title": "'Summarize from here' in Claude Code is awesome: Here is how it works: 1. Hit Esc+Esc or type /rewind. This will open the checkpoint menu with a scrol",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2048389153222738284#m",
+    "url": "https://nitter.net/svpino/status/2048757376376017350#m",
     "date": "2026-04-27",
     "category": "Twitter"
   },
   {
-    "title": "Agentic AI systems violate the implicit assumptions of database design",
+    "title": "Getting my daily news from a dot matrix printer 2024",
     "source": "Hacker News",
-    "description": "HN Score: 101 | 100 comments",
-    "url": "https://arpitbhayani.me/blogs/defensive-databases/",
-    "score": 101,
+    "description": "HN Score: 29 | 4 comments",
+    "url": "https://aschmelyun.com/blog/getting-my-daily-news-from-a-dot-matrix-printer/",
+    "score": 29,
     "date": "2026-04-27",
     "category": "AI News"
   },
@@ -127,6 +127,15 @@
     "category": "Twitter"
   },
   {
+    "title": "France's Mistral Built a $14B AI Empire by Not Being American",
+    "source": "Hacker News",
+    "description": "HN Score: 120 | 71 comments",
+    "url": "https://www.forbes.com/sites/iainmartin/2026/04/16/how-frances-mistral-built-a-14-billion-ai-empire-by-not-being-american/",
+    "score": 120,
+    "date": "2026-04-27",
+    "category": "AI News"
+  },
+  {
     "title": "Kimi 2.6 beats DeepSeek and remains the king of open source!! It\u2019s a GPT 5.5 / Opus 4.7 low effort model which is about 5x cheaper in practice The onl",
     "source": "@bindureddy",
     "description": "",
@@ -135,11 +144,29 @@
     "category": "Twitter"
   },
   {
+    "title": "Three constraints before I build anything",
+    "source": "Hacker News",
+    "description": "HN Score: 268 | 44 comments",
+    "url": "https://jordanlord.co.uk/blog/3-constraints/",
+    "score": 268,
+    "date": "2026-04-27",
+    "category": "AI News"
+  },
+  {
     "title": "GPT 5.5 is more astounding than you can imagine Have been experimenting all weekend Other frontier labs will take weeks, not days, to catch up \ud83d\ude32",
     "source": "@bindureddy",
     "description": "",
     "url": "https://nitter.net/bindureddy/status/2048475982953402472#m",
     "date": "2026-04-27",
     "category": "Twitter"
+  },
+  {
+    "title": "Windows 11's second-chance setup dialogs hurt IT, drain productivity",
+    "source": "Hacker News",
+    "description": "HN Score: 18 | 3 comments",
+    "url": "https://www.theregister.com/2026/04/26/windows_second_chance_setup/",
+    "score": 18,
+    "date": "2026-04-27",
+    "category": "AI News"
   }
 ]
