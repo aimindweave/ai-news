@@ -10,9 +10,9 @@
   {
     "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
     "source": "Hacker News",
-    "description": "HN Score: 539 | 467 comments",
+    "description": "HN Score: 621 | 539 comments",
     "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
-    "score": 539,
+    "score": 621,
     "date": "2026-04-27",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "China blocks Meta's acquisition of AI startup Manus",
     "source": "Hacker News",
-    "description": "HN Score: 43 | 22 comments",
+    "description": "HN Score: 181 | 101 comments",
     "url": "https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html",
-    "score": 43,
+    "score": 181,
     "date": "2026-04-27",
     "category": "AI News"
   },
@@ -44,9 +44,9 @@
   {
     "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
     "source": "Hacker News",
-    "description": "HN Score: 342 | 128 comments",
+    "description": "HN Score: 378 | 141 comments",
     "url": "https://app.oravys.com/blog/mercor-breach-2026",
-    "score": 342,
+    "score": 378,
     "date": "2026-04-27",
     "category": "AI News"
   },
@@ -59,28 +59,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Magic by Return of Post: How Mail Order Delivered the Occult",
+    "title": "Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview",
     "source": "Hacker News",
-    "description": "HN Score: 12 | 1 comments",
-    "url": "https://publicdomainreview.org/essay/magic-by-return-of-post/",
-    "score": 12,
+    "description": "HN Score: 272 | 106 comments",
+    "url": "https://github.com/dirac-run/dirac",
+    "score": 272,
     "date": "2026-04-27",
     "category": "AI News"
   },
   {
-    "title": "The power of the Claw, in the palm of a robot hand. Agentic robotics is here! Today, we open-source CaP-X: vibe agents, alive in the physical world. T",
+    "title": "R to @DrJimFan: Please check out lead author @letian_fu's deep dive thread! https://x.com/letian_fu/status/2039342130565357956?s=20",
     "source": "@DrJimFan",
     "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2039358115318243352#m",
+    "url": "https://nitter.net/DrJimFan/status/2039360927653614004#m",
     "date": "2026-04-27",
     "category": "Twitter"
   },
   {
-    "title": "Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview",
+    "title": "Magic by Return of Post: How Mail Order Delivered the Occult",
     "source": "Hacker News",
-    "description": "HN Score: 248 | 93 comments",
-    "url": "https://github.com/dirac-run/dirac",
-    "score": 248,
+    "description": "HN Score: 19 | 3 comments",
+    "url": "https://publicdomainreview.org/essay/magic-by-return-of-post/",
+    "score": 19,
     "date": "2026-04-27",
     "category": "AI News"
   },
@@ -93,11 +93,28 @@
     "category": "Twitter"
   },
   {
+    "title": "Pgbackrest is no longer being maintained",
+    "source": "Hacker News",
+    "description": "HN Score: 371 | 192 comments",
+    "url": "https://github.com/pgbackrest/pgbackrest",
+    "score": 371,
+    "date": "2026-04-27",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: I dedicated 2 hours of my next cohort to Claude Code. We'll spend the whole time talking about agentic coding and learning how to use i",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2048776609193484774#m",
+    "date": "2026-04-27",
+    "category": "Twitter"
+  },
+  {
     "title": "Decoupled DiLoCo: Resilient, Distributed AI Training at Scale",
     "source": "Hacker News",
-    "description": "HN Score: 26 | 3 comments",
+    "description": "HN Score: 34 | 3 comments",
     "url": "https://deepmind.google/blog/decoupled-diloco/",
-    "score": 26,
+    "score": 34,
     "date": "2026-04-27",
     "category": "AI News"
   },
@@ -110,28 +127,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Pgbackrest is no longer being maintained",
+    "title": "Tendril \u2013 a self-extending agent that builds and registers its own tools",
     "source": "Hacker News",
-    "description": "HN Score: 361 | 190 comments",
-    "url": "https://github.com/pgbackrest/pgbackrest",
-    "score": 361,
+    "description": "HN Score: 65 | 24 comments",
+    "url": "https://github.com/serverless-dna/tendril",
+    "score": 65,
     "date": "2026-04-27",
     "category": "AI News"
   },
   {
-    "title": "Do not marry yourself to one LLM provider. Just don't do it. 10/10 you'll end up regretting it. Here is how simple it is to build routing in your proj",
-    "source": "@svpino",
+    "title": "Mix and match based on use-case Still use Opus for front-end but GPT 5.5 for backend coding Works like a charm",
+    "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2048782023993774460#m",
+    "url": "https://nitter.net/bindureddy/status/2048852882288746742#m",
     "date": "2026-04-27",
     "category": "Twitter"
   },
   {
-    "title": "Tendril \u2013 a self-extending agent that builds and registers its own tools",
+    "title": "Getting my daily news from a dot matrix printer 2024",
     "source": "Hacker News",
-    "description": "HN Score: 57 | 23 comments",
-    "url": "https://github.com/serverless-dna/tendril",
-    "score": 57,
+    "description": "HN Score: 85 | 17 comments",
+    "url": "https://aschmelyun.com/blog/getting-my-daily-news-from-a-dot-matrix-printer/",
+    "score": 85,
     "date": "2026-04-27",
     "category": "AI News"
   },
@@ -144,28 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Getting my daily news from a dot matrix printer 2024",
+    "title": "Three constraints before I build anything",
     "source": "Hacker News",
-    "description": "HN Score: 77 | 15 comments",
-    "url": "https://aschmelyun.com/blog/getting-my-daily-news-from-a-dot-matrix-printer/",
-    "score": 77,
-    "date": "2026-04-27",
-    "category": "AI News"
-  },
-  {
-    "title": "GPT 5.5 is more astounding than you can imagine Have been experimenting all weekend Other frontier labs will take weeks, not days, to catch up \ud83d\ude32",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2048475982953402472#m",
-    "date": "2026-04-27",
-    "category": "Twitter"
-  },
-  {
-    "title": "Running local LLMs offline on a ten-hour flight",
-    "source": "Hacker News",
-    "description": "HN Score: 84 | 67 comments",
-    "url": "https://deploy.live/blog/running-local-llms-offline-on-a-ten-hour-flight/",
-    "score": 84,
+    "description": "HN Score: 338 | 51 comments",
+    "url": "https://jordanlord.co.uk/blog/3-constraints/",
+    "score": 338,
     "date": "2026-04-27",
     "category": "AI News"
   }

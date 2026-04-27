@@ -2,7 +2,7 @@
   {
     "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
     "source": "TechCrunch",
-    "summary": "OpenAI has won major concessions from its largest shareholder, Microsoft, that will allow it to sell products on AWS, while Microsoft get more cash in a revenue-share agreement.",
+    "summary": "OpenAI has won major concessions from its largest shareholder, Microsoft, that will allow it to sell products on AWS, while Microsoft gets more cash in a revenue-share agreement.",
     "url": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
     "date": "2026-04-27"
   },
@@ -30,7 +30,7 @@
   {
     "title": "OpenAI could be making a phone with AI agents replacing apps",
     "source": "TechCrunch",
-    "summary": "The phone could go into mass production in 2028, an analyst says.",
+    "summary": "There have been plenty of rumors about OpenAI's hardware plans, which involve launching a pair of earbuds. A new note from industry analyst Ming-Chi Kuo suggests that the AI company might be working on a phone in collaboration with MediaTek, Qualcomm, and Luxshare.",
     "url": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
     "date": "2026-04-27"
   },
@@ -175,6 +175,13 @@
     "date": "2026-04-27"
   },
   {
+    "title": "Elon Musk Boosts New Yorker\u2019s Sam Altman Expos\u00e9 on X as Trial Begins",
+    "source": "Wired",
+    "summary": "The move comes as the trial for Elon Musk\u2019s lawsuit against OpenAI kicks off in federal court in Oakland.",
+    "url": "https://www.wired.com/story/elon-musk-boost-new-yorker-article-sam-altman-x/",
+    "date": "2026-04-27"
+  },
+  {
     "title": "The Man Behind AlphaGo Thinks AI Is Taking the Wrong Path",
     "source": "Wired",
     "summary": "David Silver has a new billion-dollar company that aims to build AI \u201csuperlearners.\u201d",
@@ -238,10 +245,24 @@
     "date": "2026-04-27"
   },
   {
-    "title": "Sam Altman\u2019s Orb Company Promoted a Bruno Mars Partnership That Doesn't Exist",
-    "source": "Wired",
-    "summary": "\u201cTo be clear, we were never approached \u2026 nor were we in any discussions regarding a partnership or tour access,\u201d a spokesperson for the artist tells WIRED.",
-    "url": "https://www.wired.com/story/sam-altman-orb-company-bruno-mars-partnership-fake/",
+    "title": "Musk and Altman face off in trial that will determine OpenAI's future",
+    "source": "Ars Technica",
+    "summary": "Musk\u2019s shifting stance on AI dangers may complicate trial over OpenAI\u2019s mission.",
+    "url": "https://arstechnica.com/tech-policy/2026/04/musk-and-altman-face-off-in-trial-that-will-determine-openais-future/",
+    "date": "2026-04-27"
+  },
+  {
+    "title": "OpenAI ends its exclusive partnership with Microsoft",
+    "source": "Ars Technica",
+    "summary": "Amended agreement clears the way for OpenAI models to run on Amazon Bedrock.",
+    "url": "https://arstechnica.com/ai/2026/04/no-longer-exclusive-microsoft-agrees-to-let-openai-see-other-cloud-providers/",
+    "date": "2026-04-27"
+  },
+  {
+    "title": "EU tells Google to open up AI on Android; Google says that's 'unwarranted intervention'",
+    "source": "Ars Technica",
+    "summary": "Gemini gets preferential treatment on Android, but maybe not for long (in Europe).",
+    "url": "https://arstechnica.com/ai/2026/04/europe-could-force-google-to-open-android-to-other-ai-assistants/",
     "date": "2026-04-27"
   },
   {
@@ -326,27 +347,6 @@
     "source": "Ars Technica",
     "summary": "Can ChatGPT be blamed for a mass shooting? Florida is investigating.",
     "url": "https://arstechnica.com/tech-policy/2026/04/florida-probes-chatgpt-role-in-mass-shooting-openai-says-bot-not-responsible/",
-    "date": "2026-04-27"
-  },
-  {
-    "title": "Report: Meta will train AI agents by tracking employees' mouse, keyboard use",
-    "source": "Ars Technica",
-    "summary": "Move highlights the difficulty of finding high-quality interactive training data.",
-    "url": "https://arstechnica.com/ai/2026/04/meta-will-use-employee-tracking-software-to-help-train-ai-agents-report/",
-    "date": "2026-04-27"
-  },
-  {
-    "title": "Anthropic gets $5B investment from Amazon, will use it to buy Amazon chips",
-    "source": "Ars Technica",
-    "summary": "Anthropic secures 5 gigawatts of Amazon\u2019s custom silicon as Claude demand soars.",
-    "url": "https://arstechnica.com/ai/2026/04/anthropic-gets-5b-investment-from-amazon-will-use-it-to-buy-amazon-chips/",
-    "date": "2026-04-27"
-  },
-  {
-    "title": "Robot runner handily beats humans in half-marathon, setting new record",
-    "source": "Ars Technica",
-    "summary": "A humanoid robot's record half-marathon run shows China's speed in robotics.",
-    "url": "https://arstechnica.com/ai/2026/04/robot-runner-handily-beats-humans-in-half-marathon-setting-new-record/",
     "date": "2026-04-27"
   }
 ]
