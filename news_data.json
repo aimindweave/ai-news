@@ -1,5 +1,26 @@
 [
   {
+    "title": "Amazon is already offering new OpenAI products on AWS",
+    "source": "TechCrunch",
+    "summary": "A day after OpenAI got Microsoft to agree to end exclusive rights, AWS announced a slate of OpenAI model offerings, including a new agent service.",
+    "url": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
+    "date": "2026-04-28"
+  },
+  {
+    "title": "Amazon launches an AI-powered audio Q&A experience on product pages",
+    "source": "TechCrunch",
+    "summary": "Amazon's new 'Join the chat' feature lets you ask questions about products and receive AI-powered audio responses.",
+    "url": "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/",
+    "date": "2026-04-28"
+  },
+  {
+    "title": "Google expands Pentagon\u2019s access to its AI after Anthropic\u2019s refusal",
+    "source": "TechCrunch",
+    "summary": "After Anthropic refused to allow the DoD to use its AI for domestic mass surveillance and autonomous weapons, Google has signed a new contract with the department.",
+    "url": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/",
+    "date": "2026-04-28"
+  },
+  {
     "title": "Lovable launches its vibe-coding app on iOS and Android",
     "source": "TechCrunch",
     "summary": "The app allows developers to vibe code web apps and websites on the go.",
@@ -84,27 +105,6 @@
     "date": "2026-04-28"
   },
   {
-    "title": "Anthropic created a test marketplace for agent-on-agent commerce",
-    "source": "TechCrunch",
-    "summary": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money.",
-    "url": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
-    "date": "2026-04-28"
-  },
-  {
-    "title": "Maine\u2019s governor vetoes data center moratorium",
-    "source": "TechCrunch",
-    "summary": "L.D. 307 would have imposed the country\u2019s first statewide moratorium on new data centers \u2014 lasting, in this case, until November 1, 2027.",
-    "url": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
-    "date": "2026-04-28"
-  },
-  {
-    "title": "OpenAI CEO apologizes to Tumbler Ridge community",
-    "source": "TechCrunch",
-    "summary": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is \u201cdeeply sorry\u201d that his company failed to alert law enforcement about the suspect in a recent mass shooting.",
-    "url": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
-    "date": "2026-04-28"
-  },
-  {
     "title": "The Download: Musk and Altman\u2019s legal showdown, and AI\u2019s profit problem",
     "source": "MIT Tech Review",
     "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Elon Musk and Sam Altman are going to court over OpenAI\u2019s future Elon Musk and OpenAI CEO Sam Altman head to trial this week in a case with sweeping consequenc...",
@@ -175,6 +175,13 @@
     "date": "2026-04-28"
   },
   {
+    "title": "\u2018It\u2019s Undignified\u2019: Hundreds of Workers Training Meta\u2019s AI Could Be Laid Off",
+    "source": "Wired",
+    "summary": "More than 700 people working for a Meta contractor in Ireland are at risk of losing their jobs, documents show.",
+    "url": "https://www.wired.com/story/meta-covalen-ai-workers-layoffs/",
+    "date": "2026-04-28"
+  },
+  {
     "title": "The Race Is on to Keep AI Agents From Running Wild With Your Credit Cards",
     "source": "Wired",
     "summary": "AI agents may soon be buying your stuff for you. The FIDO Alliance has teamed up with Google and Mastercard to try to ensure that shopping in the near future isn't a complete disaster.",
@@ -238,10 +245,10 @@
     "date": "2026-04-28"
   },
   {
-    "title": "These AI Thirst Trap Creators Say They\u2019re Misunderstood",
-    "source": "Wired",
-    "summary": "A viral red carpet moment shone light on a group of hunky Instagram influencers\u2014and the followers who are too horny to care that they\u2019re not real.",
-    "url": "https://www.wired.com/story/gay-ai-instagram-influencers-red-carpet/",
+    "title": "Humanoid robots start sorting luggage in Tokyo airport test amid labor shortage",
+    "source": "Ars Technica",
+    "summary": "Humanoid robots could load cargo and clean aircraft cabins at Haneda Airport.",
+    "url": "https://arstechnica.com/ai/2026/04/japan-airlines-tests-having-robots-instead-of-humans-handle-travelers-luggage/",
     "date": "2026-04-28"
   },
   {
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "'Emily Hart' is a young, AI-created conservative woman who likes to take off her clothes.",
     "url": "https://arstechnica.com/tech-policy/2026/04/indian-med-student-rakes-in-thousands-with-ai-generated-maga-hottie/",
-    "date": "2026-04-28"
-  },
-  {
-    "title": "Pentagon wants $54B for drones, more than most nations\u2019 military budgets",
-    "source": "Ars Technica",
-    "summary": "The proposed Pentagon drone investment rivals Ukraine\u2019s entire military budget.",
-    "url": "https://arstechnica.com/ai/2026/04/pentagon-wants-54b-for-drones-more-than-most-nations-military-budgets/",
     "date": "2026-04-28"
   }
 ]
