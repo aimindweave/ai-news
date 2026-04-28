@@ -1,5 +1,33 @@
 [
   {
+    "title": "YouTube is testing an AI-powered search feature that shows guided answers",
+    "source": "TechCrunch",
+    "summary": "YouTube is rolling out the new AI search feature to Premium subscribers in the U.S. on an opt-in basis.",
+    "url": "https://techcrunch.com/2026/04/28/youtube-is-testing-an-ai-powered-search-feature-that-shows-guided-answers/",
+    "date": "2026-04-28"
+  },
+  {
+    "title": "BCI startup Neurable looks to license its \u2018mind-reading\u2019 tech for consumer wearables",
+    "source": "TechCrunch",
+    "summary": "The startup specializes in 'non-invasive' 'mind-reading' tech\u2014a kind of neural data collection that, its CEO hopes, will have all sorts of consumer applications.",
+    "url": "https://techcrunch.com/2026/04/28/bci-startup-neurable-looks-to-license-its-mind-reading-tech-for-consumer-wearables/",
+    "date": "2026-04-28"
+  },
+  {
+    "title": "Red Hat\u2019s OpenClaw maintainer just made enterprise Claw deployments a lot safer",
+    "source": "TechCrunch",
+    "summary": "Tank OS puts OpenClaw AI agents into a container that let's it run reliably and more safely, especially for those running fleets of them.",
+    "url": "https://techcrunch.com/2026/04/28/red-hats-openclaw-maintainer-just-made-enterprise-claw-deployments-a-lot-safer/",
+    "date": "2026-04-28"
+  },
+  {
+    "title": "Otter\u2019s new feature lets users search across their enterprise tools",
+    "source": "TechCrunch",
+    "summary": "Otter is also releasing a new Windows app that can capture meeting notes without joining one",
+    "url": "https://techcrunch.com/2026/04/28/otters-new-feature-lets-users-search-across-their-enterprise-tools/",
+    "date": "2026-04-28"
+  },
+  {
     "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
     "source": "TechCrunch",
     "summary": "OpenAI has won major concessions from its largest shareholder, Microsoft, that will allow it to sell products on AWS, while Microsoft gets more cash in a revenue-share agreement.",
@@ -77,31 +105,10 @@
     "date": "2026-04-28"
   },
   {
-    "title": "Why Tokyo is the most important tech destination of 2026",
-    "source": "TechCrunch",
-    "summary": "SusHi Tech Tokyo 2026 has four tightly defined technology domains, each backed by live demonstrations, dedicated exhibit floors, and sessions featuring the people actually building and funding these technologies globally.",
-    "url": "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/",
-    "date": "2026-04-28"
-  },
-  {
-    "title": "Apple under Ternus: what comes next for the tech giant\u2019s hardware strategy",
-    "source": "TechCrunch",
-    "summary": "John Ternus, Apple's incoming CEO, is a hardware guy, signaling Apple may be putting devices back at the center of its strategy.",
-    "url": "https://techcrunch.com/2026/04/25/apple-under-ternus-what-comes-next-for-the-tech-giants-hardware-strategy/",
-    "date": "2026-04-28"
-  },
-  {
-    "title": "Meta\u2019s loss is Thinking Machines\u2019 gain",
-    "source": "TechCrunch",
-    "summary": "Meta has been poaching talent from Thinking Machines Lab. But it's a two-way street.",
-    "url": "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/",
-    "date": "2026-04-28"
-  },
-  {
-    "title": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
-    "source": "TechCrunch",
-    "summary": "ComfyUI, whose tools give creators more control over AI image, video, and audio generation, just raised $30 million.",
-    "url": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
+    "title": "The Download: Musk and Altman\u2019s legal showdown, and AI\u2019s profit problem",
+    "source": "MIT Tech Review",
+    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Elon Musk and Sam Altman are going to court over OpenAI\u2019s future Elon Musk and OpenAI CEO Sam Altman head to trial this week in a case with sweeping consequenc...",
+    "url": "https://www.technologyreview.com/2026/04/28/1136479/the-download-musk-altman-openai-trial-ai-profit-problem/",
     "date": "2026-04-28"
   },
   {
@@ -168,10 +175,10 @@
     "date": "2026-04-28"
   },
   {
-    "title": "The Download: introducing the 10 Things That Matter in AI Right Now",
-    "source": "MIT Tech Review",
-    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Introducing: 10 Things That Matter in AI Right Now What actually matters in AI right now? It\u2019s getting harder to tell amid the constant launches, hype, and war...",
-    "url": "https://www.technologyreview.com/2026/04/22/1136310/the-download-10-things-that-matter-in-ai-right-now/",
+    "title": "The Race Is on to Keep AI Agents From Running Wild With Your Credit Cards",
+    "source": "Wired",
+    "summary": "AI agents may soon be buying your stuff for you. The FIDO Alliance has teamed up with Google and Mastercard to try to ensure that shopping in the near future isn't a complete disaster.",
+    "url": "https://www.wired.com/story/the-race-is-on-to-keep-ai-agents-from-running-wild-with-your-credit-cards/",
     "date": "2026-04-28"
   },
   {
@@ -238,10 +245,10 @@
     "date": "2026-04-28"
   },
   {
-    "title": "5 Reasons to Think Twice Before Using ChatGPT\u2014or Any Chatbot\u2014for Financial Advice",
-    "source": "Wired",
-    "summary": "As people increasingly rely on AI chatbots for guidance, even on financial matters, a healthy dose of skepticism is critical.",
-    "url": "https://www.wired.com/story/5-reasons-to-think-twice-before-using-chatgpt-for-financial-advice/",
+    "title": "The great American data center divide",
+    "source": "Ars Technica",
+    "summary": "Many rural communities are viscerally opposed to AI infrastructure.",
+    "url": "https://arstechnica.com/ai/2026/04/rural-america-is-resisting-the-surge-in-data-center-construction/",
     "date": "2026-04-28"
   },
   {
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "CTO says new AI model is 'every bit as capable' as world's best security researchers.",
     "url": "https://arstechnica.com/ai/2026/04/mozilla-anthropics-mythos-found-271-zero-day-vulnerabilities-in-firefox-150/",
-    "date": "2026-04-28"
-  },
-  {
-    "title": "Florida probes ChatGPT role in mass shooting. OpenAI says bot 'not responsible.'",
-    "source": "Ars Technica",
-    "summary": "Can ChatGPT be blamed for a mass shooting? Florida is investigating.",
-    "url": "https://arstechnica.com/tech-policy/2026/04/florida-probes-chatgpt-role-in-mass-shooting-openai-says-bot-not-responsible/",
     "date": "2026-04-28"
   }
 ]
