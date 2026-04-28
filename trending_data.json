@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "DOOM running in ChatGPT and Claude",
+    "title": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs",
     "source": "Hacker News",
-    "description": "HN Score: 39 | 12 comments",
-    "url": "https://chrisnager.com/blog/doom-runs-in-chatgpt-and-claude/",
-    "score": 39,
+    "description": "HN Score: 93 | 25 comments",
+    "url": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
+    "score": 93,
     "date": "2026-04-28",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Localsend: An open-source cross-platform alternative to AirDrop",
+    "title": "Claude.ai unavailable and elevated errors on the API",
     "source": "Hacker News",
-    "description": "HN Score: 648 | 212 comments",
-    "url": "https://github.com/localsend/localsend",
-    "score": 648,
+    "description": "HN Score: 221 | 187 comments",
+    "url": "https://status.claude.com/incidents/9l93x2ht4s5w",
+    "score": 221,
     "date": "2026-04-28",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Interview with OpenAI and AWS CEOs about Bedrock Managed Agents",
+    "title": "Localsend: An open-source cross-platform alternative to AirDrop",
     "source": "Hacker News",
-    "description": "HN Score: 13 | 0 comments",
-    "url": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
-    "score": 13,
+    "description": "HN Score: 699 | 217 comments",
+    "url": "https://github.com/localsend/localsend",
+    "score": 699,
     "date": "2026-04-28",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Microsoft VibeVoice: Open-Source Frontier Voice AI",
+    "title": "VibeVoice: Open-source frontier voice AI",
     "source": "Hacker News",
-    "description": "HN Score: 272 | 160 comments",
+    "description": "HN Score: 290 | 162 comments",
     "url": "https://github.com/microsoft/VibeVoice",
-    "score": 272,
+    "score": 290,
     "date": "2026-04-28",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Claude.ai unavailable and elevated errors on the API",
+    "title": "AISLE Discovers 38 CVEs in OpenEMR Healthcare Software",
     "source": "Hacker News",
-    "description": "HN Score: 159 | 132 comments",
-    "url": "https://status.claude.com/incidents/9l93x2ht4s5w",
-    "score": 159,
+    "description": "HN Score: 157 | 101 comments",
+    "url": "https://aisle.com/blog/aisle-discovers-38-critical-security-vulnerabilities-in-healthcare-software-used-by-100000-providers",
+    "score": 157,
     "date": "2026-04-28",
     "category": "AI News"
   },
@@ -93,11 +93,28 @@
     "category": "Twitter"
   },
   {
-    "title": "AISLE Discovers 38 CVEs in OpenEMR Healthcare Software",
+    "title": "Talkie: a 13B vintage language model from 1930",
     "source": "Hacker News",
-    "description": "HN Score: 150 | 94 comments",
-    "url": "https://aisle.com/blog/aisle-discovers-38-critical-security-vulnerabilities-in-healthcare-software-used-by-100000-providers",
-    "score": 150,
+    "description": "HN Score: 617 | 248 comments",
+    "url": "https://talkie-lm.com/introducing-talkie",
+    "score": 617,
+    "date": "2026-04-28",
+    "category": "AI News"
+  },
+  {
+    "title": "A Large Memory Model (LMM) is a completely new architecture. An LLM compresses the world's text into weights and answers when you prompt it. An LMM do",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2049214583404187987#m",
+    "date": "2026-04-28",
+    "category": "Twitter"
+  },
+  {
+    "title": "A good AGENTS.md is a model upgrade. A bad one is worse than no docs at all",
+    "source": "Hacker News",
+    "description": "HN Score: 66 | 20 comments",
+    "url": "https://www.augmentcode.com/blog/how-to-write-good-agents-dot-md-files",
+    "score": 66,
     "date": "2026-04-28",
     "category": "AI News"
   },
@@ -110,28 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Who owns the code Claude Code wrote?",
+    "title": "OpenAI Models on Amazon Bedrock",
     "source": "Hacker News",
-    "description": "HN Score: 175 | 188 comments",
-    "url": "https://legallayer.substack.com/p/who-owns-the-claude-code-wrote",
-    "score": 175,
-    "date": "2026-04-28",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: i built an AI that runs my go-to-market. writes blogs, finds leads, emails users its basically a junior marketing hire that runs 24/7 s",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/emmettmiller_/status/2049141815933080017#m",
-    "date": "2026-04-28",
-    "category": "Twitter"
-  },
-  {
-    "title": "Talkie: a 13B vintage language model from 1930",
-    "source": "Hacker News",
-    "description": "HN Score: 595 | 239 comments",
-    "url": "https://talkie-lm.com/introducing-talkie",
-    "score": 595,
+    "description": "HN Score: 9 | 3 comments",
+    "url": "https://aws.amazon.com/bedrock/openai/",
+    "score": 9,
     "date": "2026-04-28",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "A good AGENTS.md is a model upgrade. A bad one is worse than no docs at all",
+    "title": "Google and Pentagon reportedly agree on deal for 'any lawful' use of AI",
     "source": "Hacker News",
-    "description": "HN Score: 31 | 2 comments",
-    "url": "https://www.augmentcode.com/blog/how-to-write-good-agents-dot-md-files",
-    "score": 31,
+    "description": "HN Score: 248 | 240 comments",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal",
+    "score": 248,
     "date": "2026-04-28",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Google and Pentagon reportedly agree on deal for 'any lawful' use of AI",
+    "title": "OpenAI Reportedly Working on an AI Smartphone to Rival iPhone",
     "source": "Hacker News",
-    "description": "HN Score: 224 | 221 comments",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal",
-    "score": 224,
+    "description": "HN Score: 7 | 2 comments",
+    "url": "https://www.macrumors.com/2026/04/27/openai-working-on-an-ai-smartphone/",
+    "score": 7,
     "date": "2026-04-28",
     "category": "AI News"
   }
