@@ -1,5 +1,19 @@
 [
   {
+    "title": "Google Photos uses AI to make the iconic closet from \u2018Clueless\u2019 a reality",
+    "source": "TechCrunch",
+    "summary": "Google recreates Cher's closet from 'Clueless' with AI.",
+    "url": "https://techcrunch.com/2026/04/29/google-photos-uses-ai-to-make-the-iconic-closet-from-clueless-a-reality/",
+    "date": "2026-04-29"
+  },
+  {
+    "title": "More Gemini features are coming to Google TV",
+    "source": "TechCrunch",
+    "summary": "Google TV just got more Gemini features, including the ability to transform photos and videos with tools Nano Banana and Veo.",
+    "url": "https://techcrunch.com/2026/04/29/more-gemini-features-are-coming-to-google-tv/",
+    "date": "2026-04-29"
+  },
+  {
     "title": "Firestorm Labs raises $82M to take drone factories into the field",
     "source": "TechCrunch",
     "summary": "A defense startup just raised $82 million to put drone factories inside shipping containers and bring manufacturing to the front lines.",
@@ -14,7 +28,7 @@
     "date": "2026-04-29"
   },
   {
-    "title": "Colby Adcock\u2019s Scout AI raises $100M to train its models for war. We visited its bootcamp",
+    "title": "Colby Adcock\u2019s Scout AI raises $100M to train its models for war: We visited its bootcamp",
     "source": "TechCrunch",
     "summary": "We visited Scout AI's training ground where it's working on AI agents that can help individual soldiers control fleets of autonomous vehicles.",
     "url": "https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/",
@@ -91,20 +105,6 @@
     "date": "2026-04-29"
   },
   {
-    "title": "DeepMind\u2019s David Silver just raised $1.1B to build an AI that learns without human data",
-    "source": "TechCrunch",
-    "summary": "Ineffable Intelligence, a British AI lab founded a mere few months ago by former DeepMind researcher David Silver, has raised $1.1 billion in funding at a valuation of $5.1 billion.",
-    "url": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/",
-    "date": "2026-04-29"
-  },
-  {
-    "title": "Investors back Skye\u2019s AI home screen app for iPhone ahead of launch",
-    "source": "TechCrunch",
-    "summary": "Skye's new AI app attracted investors before it even launched \u2014 a sign of interest in a more AI-aware iPhone.",
-    "url": "https://techcrunch.com/2026/04/27/investors-back-skye-signull-labs-ai-home-screen-app-for-iphone-ahead-of-launch/",
-    "date": "2026-04-29"
-  },
-  {
     "title": "The Download: storing nuclear waste and orchestrating agents",
     "source": "MIT Tech Review",
     "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. It\u2019s time to make a plan for nuclear waste Today, nuclear energy enjoys rare support across the political spectrum. Public approval has spiked, and Big Tech is...",
@@ -175,6 +175,13 @@
     "date": "2026-04-29"
   },
   {
+    "title": "Sanctioned Chinese AI Firm SenseTime Releases Image Model Built for Speed",
+    "source": "Wired",
+    "summary": "With US restrictions limiting its access to advanced tech, SenseTime is doubling down on open source with a new model optimized to run on Chinese-made chips.",
+    "url": "https://www.wired.com/story/chinese-ai-giant-sensetime-is-running-its-new-model-on-chinese-chips/",
+    "date": "2026-04-29"
+  },
+  {
     "title": "I've Covered Robots for Years. This One Is Different",
     "source": "Wired",
     "summary": "From sorting chicken nuggets to screwing in lightbulbs, Eka\u2019s robotic claw feels like we're approaching a ChatGPT moment for the physical world.",
@@ -238,10 +245,10 @@
     "date": "2026-04-29"
   },
   {
-    "title": "The Man Behind AlphaGo Thinks AI Is Taking the Wrong Path",
-    "source": "Wired",
-    "summary": "David Silver has a new billion-dollar company that aims to build AI \u201csuperlearners.\u201d",
-    "url": "https://www.wired.com/story/david-silver-ai-ineffable-intelligence-reinforcement-learning/",
+    "title": "Drone strikes on data centers spook Big Tech, halting Middle East projects",
+    "source": "Ars Technica",
+    "summary": "Uninsurable war damage is forcing tech companies to rethink Middle East plans.",
+    "url": "https://arstechnica.com/ai/2026/04/data-center-developer-pauses-middle-east-projects-after-war-damage/",
     "date": "2026-04-29"
   },
   {
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "Untenable demand has Anthropic exploring new approaches to rationing its service.",
     "url": "https://arstechnica.com/ai/2026/04/anthropic-tested-removing-claude-code-from-the-pro-plan/",
-    "date": "2026-04-29"
-  },
-  {
-    "title": "Google unveils two new TPUs designed for the 'agentic era'",
-    "source": "Ars Technica",
-    "summary": "Google's new generation of Tensor AI chips is actually two chips, one for inference and one for training.",
-    "url": "https://arstechnica.com/ai/2026/04/google-unveils-two-new-tpus-designed-for-the-agentic-era/",
     "date": "2026-04-29"
   }
 ]
