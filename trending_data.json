@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "How ChatGPT serves ads",
+    "title": "Letting AI play my game \u2013 building an agentic test harness to help play-testing",
     "source": "Hacker News",
-    "description": "HN Score: 343 | 234 comments",
-    "url": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
-    "score": 343,
+    "description": "HN Score: 20 | 1 comments",
+    "url": "https://blog.jeffschomay.com/letting-ai-play-my-game",
+    "score": 20,
     "date": "2026-04-29",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Withnail's Coat and I",
+    "title": "He asked AI to count carbs 27000 times. It couldn't give the same answer twice",
     "source": "Hacker News",
-    "description": "HN Score: 79 | 4 comments",
-    "url": "https://ontherow.substack.com/p/withnails-coat-and-i",
-    "score": 79,
+    "description": "HN Score: 156 | 183 comments",
+    "url": "https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice/",
+    "score": 156,
     "date": "2026-04-29",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs",
+    "title": "How ChatGPT serves ads",
     "source": "Hacker News",
-    "description": "HN Score: 274 | 89 comments",
-    "url": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
-    "score": 274,
+    "description": "HN Score: 411 | 277 comments",
+    "url": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
+    "score": 411,
     "date": "2026-04-29",
     "category": "AI News"
   },
@@ -59,28 +59,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Who owns the code Claude Code wrote?",
+    "title": "Withnail's Coat and I",
     "source": "Hacker News",
-    "description": "HN Score: 409 | 382 comments",
-    "url": "https://legallayer.substack.com/p/who-owns-the-claude-code-wrote",
-    "score": 409,
+    "description": "HN Score: 112 | 14 comments",
+    "url": "https://ontherow.substack.com/p/withnails-coat-and-i",
+    "score": 112,
     "date": "2026-04-29",
     "category": "AI News"
   },
   {
-    "title": "R to @DrJimFan: Please check out lead author @letian_fu's deep dive thread! https://x.com/letian_fu/status/2039342130565357956?s=20",
+    "title": "The power of the Claw, in the palm of a robot hand. Agentic robotics is here! Today, we open-source CaP-X: vibe agents, alive in the physical world. T",
     "source": "@DrJimFan",
     "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2039360927653614004#m",
+    "url": "https://nitter.net/DrJimFan/status/2039358115318243352#m",
     "date": "2026-04-29",
     "category": "Twitter"
   },
   {
-    "title": "Talkie: a 13B vintage language model from 1930",
+    "title": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs",
     "source": "Hacker News",
-    "description": "HN Score: 710 | 282 comments",
-    "url": "https://talkie-lm.com/introducing-talkie",
-    "score": 710,
+    "description": "HN Score: 293 | 97 comments",
+    "url": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
+    "score": 293,
     "date": "2026-04-29",
     "category": "AI News"
   },
@@ -93,11 +93,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Behavioral timescale synaptic plasticity rewires the brain after an experience",
+    "title": "Who owns the code Claude Code wrote?",
     "source": "Hacker News",
-    "description": "HN Score: 118 | 4 comments",
-    "url": "https://www.quantamagazine.org/a-new-type-of-neuroplasticity-rewires-the-brain-after-a-single-experience-20260424/",
-    "score": 118,
+    "description": "HN Score: 461 | 433 comments",
+    "url": "https://legallayer.substack.com/p/who-owns-the-claude-code-wrote",
+    "score": 461,
+    "date": "2026-04-29",
+    "category": "AI News"
+  },
+  {
+    "title": "Agentic coding is the ideal mechanism for enforcing TDD and being strict with it. Here is a summary of the workflow I coded as part of my implementati",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2049466309419909482#m",
+    "date": "2026-04-29",
+    "category": "Twitter"
+  },
+  {
+    "title": "Talkie: a 13B vintage language model from 1930",
+    "source": "Hacker News",
+    "description": "HN Score: 719 | 305 comments",
+    "url": "https://talkie-lm.com/introducing-talkie",
+    "score": 719,
     "date": "2026-04-29",
     "category": "AI News"
   },
@@ -110,28 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Regression: malware reminder on every read still causes subagent refusals",
+    "title": "Behavioral timescale synaptic plasticity rewires the brain after an experience",
     "source": "Hacker News",
-    "description": "HN Score: 218 | 111 comments",
-    "url": "https://github.com/anthropics/claude-code/issues/49363",
-    "score": 218,
-    "date": "2026-04-29",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: A Large Memory Model (LMM) is a completely new architecture. An LLM compresses the world's text into weights and answers when you promp",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2049214583404187987#m",
-    "date": "2026-04-29",
-    "category": "Twitter"
-  },
-  {
-    "title": "Localsend: An open-source cross-platform alternative to AirDrop",
-    "source": "Hacker News",
-    "description": "HN Score: 851 | 251 comments",
-    "url": "https://github.com/localsend/localsend",
-    "score": 851,
+    "description": "HN Score: 137 | 9 comments",
+    "url": "https://www.quantamagazine.org/a-new-type-of-neuroplasticity-rewires-the-brain-after-a-single-experience-20260424/",
+    "score": 137,
     "date": "2026-04-29",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "VibeVoice: Open-source frontier voice AI",
+    "title": "Localsend: An open-source cross-platform alternative to AirDrop",
     "source": "Hacker News",
-    "description": "HN Score: 372 | 169 comments",
-    "url": "https://github.com/microsoft/VibeVoice",
-    "score": 372,
+    "description": "HN Score: 879 | 266 comments",
+    "url": "https://github.com/localsend/localsend",
+    "score": 879,
     "date": "2026-04-29",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Claude for Creative Work",
+    "title": "Regression: malware reminder on every read still causes subagent refusals",
     "source": "Hacker News",
-    "description": "HN Score: 118 | 87 comments",
-    "url": "https://www.anthropic.com/news/claude-for-creative-work",
-    "score": 118,
+    "description": "HN Score: 239 | 130 comments",
+    "url": "https://github.com/anthropics/claude-code/issues/49363",
+    "score": 239,
     "date": "2026-04-29",
     "category": "AI News"
   }
