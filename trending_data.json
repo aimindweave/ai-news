@@ -10,9 +10,9 @@
   {
     "title": "How ChatGPT serves ads",
     "source": "Hacker News",
-    "description": "HN Score: 192 | 132 comments",
+    "description": "HN Score: 251 | 155 comments",
     "url": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
-    "score": 192,
+    "score": 251,
     "date": "2026-04-29",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "We decreased our LLM costs with Opus",
+    "title": "Withnail's Coat and I",
     "source": "Hacker News",
-    "description": "HN Score: 54 | 16 comments",
-    "url": "https://www.mendral.com/blog/frontier-model-lower-costs",
-    "score": 54,
+    "description": "HN Score: 14 | 0 comments",
+    "url": "https://ontherow.substack.com/p/withnails-coat-and-i",
+    "score": 14,
     "date": "2026-04-29",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Regression: malware reminder on every read still causes subagent refusals",
+    "title": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs",
     "source": "Hacker News",
-    "description": "HN Score: 165 | 58 comments",
-    "url": "https://github.com/anthropics/claude-code/issues/49363",
-    "score": 165,
+    "description": "HN Score: 226 | 78 comments",
+    "url": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
+    "score": 226,
     "date": "2026-04-29",
     "category": "AI News"
   },
@@ -59,28 +59,28 @@
     "category": "Twitter"
   },
   {
-    "title": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs",
+    "title": "Regression: malware reminder on every read still causes subagent refusals",
     "source": "Hacker News",
-    "description": "HN Score: 195 | 75 comments",
-    "url": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
-    "score": 195,
+    "description": "HN Score: 190 | 82 comments",
+    "url": "https://github.com/anthropics/claude-code/issues/49363",
+    "score": 190,
     "date": "2026-04-29",
     "category": "AI News"
   },
   {
-    "title": "The power of the Claw, in the palm of a robot hand. Agentic robotics is here! Today, we open-source CaP-X: vibe agents, alive in the physical world. T",
+    "title": "R to @DrJimFan: Please check out lead author @letian_fu's deep dive thread! https://x.com/letian_fu/status/2039342130565357956?s=20",
     "source": "@DrJimFan",
     "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2039358115318243352#m",
+    "url": "https://nitter.net/DrJimFan/status/2039360927653614004#m",
     "date": "2026-04-29",
     "category": "Twitter"
   },
   {
     "title": "Behavioral timescale synaptic plasticity rewires the brain after an experience",
     "source": "Hacker News",
-    "description": "HN Score: 74 | 1 comments",
+    "description": "HN Score: 85 | 1 comments",
     "url": "https://www.quantamagazine.org/a-new-type-of-neuroplasticity-rewires-the-brain-after-a-single-experience-20260424/",
-    "score": 74,
+    "score": 85,
     "date": "2026-04-29",
     "category": "AI News"
   },
@@ -95,43 +95,43 @@
   {
     "title": "Who owns the code Claude Code wrote?",
     "source": "Hacker News",
-    "description": "HN Score: 285 | 310 comments",
+    "description": "HN Score: 338 | 337 comments",
     "url": "https://legallayer.substack.com/p/who-owns-the-claude-code-wrote",
-    "score": 285,
+    "score": 338,
     "date": "2026-04-29",
     "category": "AI News"
   },
   {
-    "title": "RT by @svpino: I've made a ton of money helping companies implement LLM-as-a-judge evaluations. LLM Judges provide a ton of value. But the hard part i",
+    "title": "RT by @svpino: This is not only about *starting* a new project using AI. You can now *import* an existing project into the platform and continue worki",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2049143030247239976#m",
+    "url": "https://nitter.net/svpino/status/2049188408019591389#m",
     "date": "2026-04-29",
     "category": "Twitter"
   },
   {
-    "title": "Claude for Creative Work",
+    "title": "Talkie: a 13B vintage language model from 1930",
     "source": "Hacker News",
-    "description": "HN Score: 73 | 46 comments",
-    "url": "https://www.anthropic.com/news/claude-for-creative-work",
-    "score": 73,
+    "description": "HN Score: 663 | 272 comments",
+    "url": "https://talkie-lm.com/introducing-talkie",
+    "score": 663,
     "date": "2026-04-29",
     "category": "AI News"
   },
   {
-    "title": "RT by @svpino: You can let Claude Code decide the level of thinking it needs to solve a problem. I like to use Sonnet as the default model, but I tell",
+    "title": "RT by @svpino: People are getting tired of building a stack of 10+ AI tools. Instead of paying for 10 tools, each solving 5% of their work, people wil",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2049104351986327773#m",
+    "url": "https://nitter.net/svpino/status/2049170241561985419#m",
     "date": "2026-04-29",
     "category": "Twitter"
   },
   {
-    "title": "Localsend: An open-source cross-platform alternative to AirDrop",
+    "title": "We decreased our LLM costs with Opus",
     "source": "Hacker News",
-    "description": "HN Score: 759 | 235 comments",
-    "url": "https://github.com/localsend/localsend",
-    "score": 759,
+    "description": "HN Score: 78 | 25 comments",
+    "url": "https://www.mendral.com/blog/frontier-model-lower-costs",
+    "score": 78,
     "date": "2026-04-29",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Talkie: a 13B vintage language model from 1930",
+    "title": "Localsend: An open-source cross-platform alternative to AirDrop",
     "source": "Hacker News",
-    "description": "HN Score: 650 | 262 comments",
-    "url": "https://talkie-lm.com/introducing-talkie",
-    "score": 650,
+    "description": "HN Score: 785 | 240 comments",
+    "url": "https://github.com/localsend/localsend",
+    "score": 785,
     "date": "2026-04-29",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "VibeVoice: Open-source frontier voice AI",
+    "title": "An update on GitHub availability",
     "source": "Hacker News",
-    "description": "HN Score: 336 | 168 comments",
-    "url": "https://github.com/microsoft/VibeVoice",
-    "score": 336,
+    "description": "HN Score: 349 | 225 comments",
+    "url": "https://github.blog/news-insights/company-news/an-update-on-github-availability/",
+    "score": 349,
     "date": "2026-04-29",
     "category": "AI News"
   }
