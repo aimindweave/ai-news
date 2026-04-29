@@ -10,9 +10,9 @@
   {
     "title": "How ChatGPT serves ads",
     "source": "Hacker News",
-    "description": "HN Score: 251 | 155 comments",
+    "description": "HN Score: 343 | 234 comments",
     "url": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
-    "score": 251,
+    "score": 343,
     "date": "2026-04-29",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "Withnail's Coat and I",
     "source": "Hacker News",
-    "description": "HN Score: 14 | 0 comments",
+    "description": "HN Score: 79 | 4 comments",
     "url": "https://ontherow.substack.com/p/withnails-coat-and-i",
-    "score": 14,
+    "score": 79,
     "date": "2026-04-29",
     "category": "AI News"
   },
@@ -44,9 +44,9 @@
   {
     "title": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs",
     "source": "Hacker News",
-    "description": "HN Score: 226 | 78 comments",
+    "description": "HN Score: 274 | 89 comments",
     "url": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
-    "score": 226,
+    "score": 274,
     "date": "2026-04-29",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Regression: malware reminder on every read still causes subagent refusals",
+    "title": "Who owns the code Claude Code wrote?",
     "source": "Hacker News",
-    "description": "HN Score: 190 | 82 comments",
-    "url": "https://github.com/anthropics/claude-code/issues/49363",
-    "score": 190,
+    "description": "HN Score: 409 | 382 comments",
+    "url": "https://legallayer.substack.com/p/who-owns-the-claude-code-wrote",
+    "score": 409,
     "date": "2026-04-29",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Behavioral timescale synaptic plasticity rewires the brain after an experience",
+    "title": "Talkie: a 13B vintage language model from 1930",
     "source": "Hacker News",
-    "description": "HN Score: 85 | 1 comments",
-    "url": "https://www.quantamagazine.org/a-new-type-of-neuroplasticity-rewires-the-brain-after-a-single-experience-20260424/",
-    "score": 85,
+    "description": "HN Score: 710 | 282 comments",
+    "url": "https://talkie-lm.com/introducing-talkie",
+    "score": 710,
     "date": "2026-04-29",
     "category": "AI News"
   },
@@ -93,45 +93,45 @@
     "category": "Twitter"
   },
   {
-    "title": "Who owns the code Claude Code wrote?",
+    "title": "Behavioral timescale synaptic plasticity rewires the brain after an experience",
     "source": "Hacker News",
-    "description": "HN Score: 338 | 337 comments",
-    "url": "https://legallayer.substack.com/p/who-owns-the-claude-code-wrote",
-    "score": 338,
+    "description": "HN Score: 118 | 4 comments",
+    "url": "https://www.quantamagazine.org/a-new-type-of-neuroplasticity-rewires-the-brain-after-a-single-experience-20260424/",
+    "score": 118,
     "date": "2026-04-29",
     "category": "AI News"
   },
   {
-    "title": "RT by @svpino: This is not only about *starting* a new project using AI. You can now *import* an existing project into the platform and continue worki",
+    "title": "RT by @svpino: I really like this approach: The Pika agent has a face, a voice, and a very specific personality that you design and create. You talk t",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2049188408019591389#m",
+    "url": "https://nitter.net/svpino/status/2049235361029886228#m",
     "date": "2026-04-29",
     "category": "Twitter"
   },
   {
-    "title": "Talkie: a 13B vintage language model from 1930",
+    "title": "Regression: malware reminder on every read still causes subagent refusals",
     "source": "Hacker News",
-    "description": "HN Score: 663 | 272 comments",
-    "url": "https://talkie-lm.com/introducing-talkie",
-    "score": 663,
+    "description": "HN Score: 218 | 111 comments",
+    "url": "https://github.com/anthropics/claude-code/issues/49363",
+    "score": 218,
     "date": "2026-04-29",
     "category": "AI News"
   },
   {
-    "title": "RT by @svpino: People are getting tired of building a stack of 10+ AI tools. Instead of paying for 10 tools, each solving 5% of their work, people wil",
+    "title": "RT by @svpino: A Large Memory Model (LMM) is a completely new architecture. An LLM compresses the world's text into weights and answers when you promp",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2049170241561985419#m",
+    "url": "https://nitter.net/svpino/status/2049214583404187987#m",
     "date": "2026-04-29",
     "category": "Twitter"
   },
   {
-    "title": "We decreased our LLM costs with Opus",
+    "title": "Localsend: An open-source cross-platform alternative to AirDrop",
     "source": "Hacker News",
-    "description": "HN Score: 78 | 25 comments",
-    "url": "https://www.mendral.com/blog/frontier-model-lower-costs",
-    "score": 78,
+    "description": "HN Score: 851 | 251 comments",
+    "url": "https://github.com/localsend/localsend",
+    "score": 851,
     "date": "2026-04-29",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Localsend: An open-source cross-platform alternative to AirDrop",
+    "title": "VibeVoice: Open-source frontier voice AI",
     "source": "Hacker News",
-    "description": "HN Score: 785 | 240 comments",
-    "url": "https://github.com/localsend/localsend",
-    "score": 785,
+    "description": "HN Score: 372 | 169 comments",
+    "url": "https://github.com/microsoft/VibeVoice",
+    "score": 372,
     "date": "2026-04-29",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "An update on GitHub availability",
+    "title": "Claude for Creative Work",
     "source": "Hacker News",
-    "description": "HN Score: 349 | 225 comments",
-    "url": "https://github.blog/news-insights/company-news/an-update-on-github-availability/",
-    "score": 349,
+    "description": "HN Score: 118 | 87 comments",
+    "url": "https://www.anthropic.com/news/claude-for-creative-work",
+    "score": 118,
     "date": "2026-04-29",
     "category": "AI News"
   }

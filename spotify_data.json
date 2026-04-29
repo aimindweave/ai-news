@@ -94,6 +94,16 @@
   "episodes": [
     {
       "id": "a]6z Pod_0",
+      "name": "The Shift in Global Drug Development",
+      "show": "a]6z Podcast",
+      "description": "Theo Jaffee and Gabriel Dickinson speak with Cremieux about China’s rapid rise to the top of global clinical trial output. They discuss the regulatory reforms that accelerated China’s progress, the",
+      "release_date": "2026-04-29",
+      "duration_min": 57,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
+      "id": "a]6z Pod_1",
       "name": "John and Patrick Collison on Stripe's Growth, Agent Commerce, and the Future of Software",
       "show": "a]6z Podcast",
       "description": "This interview with Stripe cofounders John and Patrick Collison originally aired on TBPN. They discuss Stripe's 34% growth and new employee tender offer, how agent commerce and stablecoins may requ",
@@ -103,7 +113,7 @@
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "Ben Horowitz on Venture Capital and AI",
       "show": "a]6z Podcast",
       "description": "Anjney Midha, founder of AMP PBC, speaks with Ben Horowitz, cofounder of a16z, about how venture capital changed from a small, relationship-driven business into a scalable system for backing new te",
@@ -121,16 +131,6 @@
       "duration_min": 74,
       "image": "",
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
-    },
-    {
-      "id": "a]6z Pod_2",
-      "name": "AI Inside the Enterprise",
-      "show": "a]6z Podcast",
-      "description": "Steven Sinofsky, board partner at a16z, Aaron Levie, CEO of Box, and Martin Casado, general partner at a16z, discuss the reality of AI inside enterprises. They cover the gap between Silicon Valley ",
-      "release_date": "2026-04-24",
-      "duration_min": 60,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
       "id": "Practica_0",
