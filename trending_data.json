@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "The Abstraction Fallacy: Why AI can simulate but not instantiate consciousness",
+    "title": "HERMES.md: Anthropic bug causes $200 extra charge, refuses refund",
     "source": "Hacker News",
-    "description": "HN Score: 18 | 6 comments",
-    "url": "https://deepmind.google/research/publications/231971/",
-    "score": 18,
+    "description": "HN Score: 293 | 93 comments",
+    "url": "https://github.com/anthropics/claude-code/issues/53262",
+    "score": 293,
     "date": "2026-04-29",
     "category": "AI News"
   },
@@ -25,11 +25,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Linux 7.0 Broke PostgreSQL: The Preemption Regression Explained",
+    "title": "Copy Fail \u2013 CVE-2026-31431",
     "source": "Hacker News",
-    "description": "HN Score: 71 | 25 comments",
-    "url": "https://read.thecoder.cafe/p/linux-broke-postgresql",
-    "score": 71,
+    "description": "HN Score: 165 | 77 comments",
+    "url": "https://copy.fail/",
+    "score": 165,
+    "date": "2026-04-29",
+    "category": "AI News"
+  },
+  {
+    "title": "Pretty sure it\u2019ll be like this",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/EMostaque/status/2049567497280458827#m",
+    "date": "2026-04-29",
+    "category": "Twitter"
+  },
+  {
+    "title": "'People who don't use AI will be left behind'",
+    "source": "Hacker News",
+    "description": "HN Score: 27 | 4 comments",
+    "url": "https://migrainebrain.bearblog.dev/people-who-dont-use-ai-will-be-left-behind/",
+    "score": 27,
     "date": "2026-04-29",
     "category": "AI News"
   },
@@ -42,45 +59,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: A new benchmark for testing LLMs for deterministic outputs",
+    "title": "Ramp's Sheets AI Exfiltrates Financials",
     "source": "Hacker News",
-    "description": "HN Score: 16 | 2 comments",
-    "url": "https://interfaze.ai/blog/introducing-structured-output-benchmark",
-    "score": 16,
+    "description": "HN Score: 42 | 11 comments",
+    "url": "https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials",
+    "score": 42,
     "date": "2026-04-29",
     "category": "AI News"
   },
   {
-    "title": "RT by @EMostaque: \ud83d\udc40 The most interesting people in the most exotic places can occasionally be persuaded to talk about NFTs, digital collectibles, and ",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/tadtweets/status/2048350625390371047#m",
-    "date": "2026-04-29",
-    "category": "Twitter"
-  },
-  {
-    "title": "Making AI chatbots friendly leads to mistakes and support of conspiracy theories",
-    "source": "Hacker News",
-    "description": "HN Score: 36 | 18 comments",
-    "url": "https://www.theguardian.com/technology/2026/apr/29/making-ai-chatbots-more-friendly-mistakes-support-false-beliefs-conspiracy-theories-study",
-    "score": 36,
-    "date": "2026-04-29",
-    "category": "AI News"
-  },
-  {
-    "title": "The power of the Claw, in the palm of a robot hand. Agentic robotics is here! Today, we open-source CaP-X: vibe agents, alive in the physical world. T",
+    "title": "R to @DrJimFan: Please check out lead author @letian_fu's deep dive thread! https://x.com/letian_fu/status/2039342130565357956?s=20",
     "source": "@DrJimFan",
     "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2039358115318243352#m",
+    "url": "https://nitter.net/DrJimFan/status/2039360927653614004#m",
     "date": "2026-04-29",
     "category": "Twitter"
   },
   {
-    "title": "Letting AI play my game \u2013 building an agentic test harness to help play-testing",
+    "title": "Linux 7.0 Broke PostgreSQL: The Preemption Regression Explained",
     "source": "Hacker News",
-    "description": "HN Score: 81 | 16 comments",
-    "url": "https://blog.jeffschomay.com/letting-ai-play-my-game",
-    "score": 81,
+    "description": "HN Score: 105 | 46 comments",
+    "url": "https://read.thecoder.cafe/p/linux-broke-postgresql",
+    "score": 105,
     "date": "2026-04-29",
     "category": "AI News"
   },
@@ -93,45 +93,62 @@
     "category": "Twitter"
   },
   {
+    "title": "Show HN: A new benchmark for testing LLMs for deterministic outputs",
+    "source": "Hacker News",
+    "description": "HN Score: 34 | 12 comments",
+    "url": "https://interfaze.ai/blog/introducing-structured-output-benchmark",
+    "score": 34,
+    "date": "2026-04-29",
+    "category": "AI News"
+  },
+  {
+    "title": "R to @svpino: I'm using the MCPC CLI tool here. Here is the GitHub Repository: https://github.com/apify/mcpc/ And here is the documentation on how to ",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2049564802700431828#m",
+    "date": "2026-04-29",
+    "category": "Twitter"
+  },
+  {
+    "title": "Letting AI play my game \u2013 building an agentic test harness to help play-testing",
+    "source": "Hacker News",
+    "description": "HN Score: 104 | 21 comments",
+    "url": "https://blog.jeffschomay.com/letting-ai-play-my-game",
+    "score": 104,
+    "date": "2026-04-29",
+    "category": "AI News"
+  },
+  {
+    "title": "My agent is paying for its own data. No API key. No account. No credit card. Not me. Here, I'm using the x402 open protocol from Coinbase. You can set",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2049564790604075515#m",
+    "date": "2026-04-29",
+    "category": "Twitter"
+  },
+  {
     "title": "How ChatGPT serves ads",
     "source": "Hacker News",
-    "description": "HN Score: 459 | 315 comments",
+    "description": "HN Score: 470 | 329 comments",
     "url": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
-    "score": 459,
+    "score": 470,
     "date": "2026-04-29",
     "category": "AI News"
   },
   {
-    "title": "Who asked for a copilot key? This must be Microsoft bullying laptop makers, because I can't think of anybody who thinks this is a good idea.",
-    "source": "@svpino",
+    "title": "TBH we will have an extremely dystopian world if only a handful of people control super intelligence Open source and decentralization is the only way ",
+    "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2049527310030626876#m",
+    "url": "https://nitter.net/bindureddy/status/2049571431500112340#m",
     "date": "2026-04-29",
     "category": "Twitter"
   },
   {
-    "title": "Why AI companies want you to be afraid of them",
+    "title": "Making AI chatbots friendly leads to mistakes and support of conspiracy theories",
     "source": "Hacker News",
-    "description": "HN Score: 218 | 161 comments",
-    "url": "https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them",
-    "score": 218,
-    "date": "2026-04-29",
-    "category": "AI News"
-  },
-  {
-    "title": "Is AI going to replace software developers? What can we do to make sure we still have a job in 5 years? I went to the AI Engineer Miami event and talk",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2049507124078883280#m",
-    "date": "2026-04-29",
-    "category": "Twitter"
-  },
-  {
-    "title": "Withnail's Coat and I",
-    "source": "Hacker News",
-    "description": "HN Score: 122 | 19 comments",
-    "url": "https://ontherow.substack.com/p/withnails-coat-and-i",
-    "score": 122,
+    "description": "HN Score: 61 | 55 comments",
+    "url": "https://www.theguardian.com/technology/2026/apr/29/making-ai-chatbots-more-friendly-mistakes-support-false-beliefs-conspiracy-theories-study",
+    "score": 61,
     "date": "2026-04-29",
     "category": "AI News"
   },
@@ -144,28 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs",
-    "source": "Hacker News",
-    "description": "HN Score: 315 | 105 comments",
-    "url": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
-    "score": 315,
-    "date": "2026-04-29",
-    "category": "AI News"
-  },
-  {
-    "title": "GPT 5.5 thinking is interesting but it is too expensive in the real world. Opus 4.7 is dead on arrival PREDICTION: The new Gemini will become the most",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2049306107630559466#m",
-    "date": "2026-04-29",
-    "category": "Twitter"
-  },
-  {
     "title": "Show HN: My retired dad and I made a daily, somewhat difficult, quiz",
     "source": "Hacker News",
-    "description": "HN Score: 12 | 2 comments",
+    "description": "HN Score: 24 | 9 comments",
     "url": "https://kviss.eu/",
-    "score": 12,
+    "score": 24,
     "date": "2026-04-29",
     "category": "AI News"
   }
