@@ -1,5 +1,40 @@
 [
   {
+    "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too",
+    "source": "TechCrunch",
+    "summary": "OpenAI will begin rolling out it cybersecurity testing tool, GPT-5.5 Cyber only 'to critical cyber defenders' at first.",
+    "url": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
+    "date": "2026-04-30"
+  },
+  {
+    "title": "OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico",
+    "source": "TechCrunch",
+    "summary": "OpenAI is launching additional opt-in protections for ChatGPT accounts. The new security initiative includes a new partnership with security key provider Yubico.",
+    "url": "https://techcrunch.com/2026/04/30/openai-announces-new-advanced-security-for-chatgpt-accounts-including-a-partnership-with-yubico/",
+    "date": "2026-04-30"
+  },
+  {
+    "title": "Elon Musk testifies that xAI trained Grok on OpenAI models",
+    "source": "TechCrunch",
+    "summary": "'Distillation' is a hot topic as frontier labs try to prevent smaller competitors from copying their models.",
+    "url": "https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/",
+    "date": "2026-04-30"
+  },
+  {
+    "title": "FDA approval, fundraising, and the reality of building in healthcare according to BioticsAI founder",
+    "source": "TechCrunch",
+    "summary": "BioticsAI CEO Robhy Bustami joined Isabelle Johannessen on Build Mode to discuss how the company has navigated a highly regulated space and kept the team motivated while cutting through all the red tape.",
+    "url": "https://techcrunch.com/2026/04/30/fda-approval-fundraising-and-the-reality-of-building-in-healthcare-according-to-bioticsai-founder/",
+    "date": "2026-04-30"
+  },
+  {
+    "title": "Google\u2019s Gemini AI assistant is hitting the road in millions of vehicles",
+    "source": "TechCrunch",
+    "summary": "The move signals Google\u2019s push to bring more advanced, conversational AI into the driving experience.",
+    "url": "https://techcrunch.com/2026/04/30/googles-gemini-ai-assistant-is-hitting-the-road-in-millions-of-vehicles/",
+    "date": "2026-04-30"
+  },
+  {
     "title": "Stripe introduces Link, a digital wallet that autonomous AI agents can use, too",
     "source": "TechCrunch",
     "summary": "Link lets users connect cards, banks, and subscriptions, then authorize AI agents to spend securely via approval flows.",
@@ -70,38 +105,10 @@
     "date": "2026-04-30"
   },
   {
-    "title": "Microsoft says it has over 20M paid Copilot users, and they really are using it",
-    "source": "TechCrunch",
-    "summary": "Despite the lingering perception that no one really uses Copilot, Microsoft said on Wednesday that the number of users and engagement is growing.",
-    "url": "https://techcrunch.com/2026/04/29/microsoft-says-it-has-over-20m-paid-copilot-users-and-they-really-are-using-it/",
-    "date": "2026-04-30"
-  },
-  {
-    "title": "Google Cloud surpasses $20B, but says growth was capacity-constrained",
-    "source": "TechCrunch",
-    "summary": "Google Cloud topped $20B in quarterly revenue for the first time, fueled by surging demand for AI. But capacity constraints mean it could have grown even faster.",
-    "url": "https://techcrunch.com/2026/04/29/google-cloud-surpasses-20b-but-says-growth-was-capacity-constrained/",
-    "date": "2026-04-30"
-  },
-  {
-    "title": "Google gains 25M subscriptions in Q1, driven by YouTube and Google One",
-    "source": "TechCrunch",
-    "summary": "Google added 25M paid subscriptions in Q1, reaching 350M total, as YouTube and Google One grow.",
-    "url": "https://techcrunch.com/2026/04/29/google-gains-25m-subscriptions-in-q1-driven-by-youtube-and-google-one/",
-    "date": "2026-04-30"
-  },
-  {
-    "title": "Is AI video just a prequel? Runway\u2019s CEO thinks world models are next",
-    "source": "TechCrunch",
-    "summary": "AI-generated video has gone from novelty to creative tool almost overnight, and Runway has a front row seat to the shift. The New York-based company has raised close to $860 million at a $5.3 billion valuation, and its models are going toe-to-toe with the most well-funded labs in the world, inclu...",
-    "url": "https://techcrunch.com/podcast/equity-podcast-runway-ceo-cristobal-valenzuela-ai-video-world-models/",
-    "date": "2026-04-30"
-  },
-  {
-    "title": "Parallel Web Systems hits $2B valuation five months after its last big raise",
-    "source": "TechCrunch",
-    "summary": "The AI agent-tool startup founded by former Twitter CEO Parag Agrawal has raised $100 million, led by Sequoia, months after raising a previous $100 million.",
-    "url": "https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/",
+    "title": "Exclusive eBook: Inside the stealthy startup that pitched brainless human clones",
+    "source": "MIT Tech Review",
+    "summary": "The ultimate plan to live forever is a brand new body. This subscriber-only eBook explores R3 Bio, a small startup that has pitched a startling and ethically charged vision for brainless clones to serve the role of backup human bodies. by Antonio Regalado March 20, 2026 Related Stories: Access al...",
+    "url": "https://www.technologyreview.com/2026/04/30/1136684/exclusive-ebook-inside-the-stealthy-startup-that-pitched-brainless-human-clones/",
     "date": "2026-04-30"
   },
   {
@@ -168,10 +175,24 @@
     "date": "2026-04-30"
   },
   {
-    "title": "Three reasons why DeepSeek\u2019s new model matters",
-    "source": "MIT Tech Review",
-    "summary": "On April 24, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. The model can process much longer prompts than its last generation, thanks to a new design that helps it handle large amounts of text more efficiently. Like DeepSeek\u2019s previous models, V4 is open ...",
-    "url": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
+    "title": "Musk v. Altman Kicks Off, DOJ Guts Voting Rights Unit, and Is the AI Job Apocalypse Overhyped?",
+    "source": "Wired",
+    "summary": "In this episode of Uncanny Valley, we get into how the Elon Musk-Sam Altman trial goes way beyond their rivalry and could have major implications both for OpenAI and also the AI industry at large.",
+    "url": "https://www.wired.com/story/uncanny-valley-podcast-musk-v-altman-doj-guts-voting-rights-unit-is-ai-job-apocalypse-overhyped/",
+    "date": "2026-04-30"
+  },
+  {
+    "title": "Elon Musk Seemingly Admits xAI Has Used OpenAI\u2019s Models to Train Its Own",
+    "source": "Wired",
+    "summary": "While answering questions under oath, Musk argued it\u2019s standard practice for AI labs to use their competitors\u2019 models.",
+    "url": "https://www.wired.com/story/elon-musk-distill-openai-models-partly-xai/",
+    "date": "2026-04-30"
+  },
+  {
+    "title": "OpenAI Rolls Out \u2018Advanced\u2019 Security Mode for At-Risk Accounts",
+    "source": "Wired",
+    "summary": "OpenAI is rolling out Advanced Account Security for people concerned that their ChatGPT or Codex accounts could be potential targets of phishing attacks.",
+    "url": "https://www.wired.com/story/openai-chatgpt-codex-advanced-account-security/",
     "date": "2026-04-30"
   },
   {
@@ -224,24 +245,10 @@
     "date": "2026-04-30"
   },
   {
-    "title": "How AI Could Help Combat Antibiotic Resistance",
-    "source": "Wired",
-    "summary": "At WIRED Health, British surgeon Ara Darzi said AI is set to transform the diagnosis and treatment of drug-resistant infections. But a lack of incentives means innovation may not reach patients.",
-    "url": "https://www.wired.com/story/wired-health-2026-tackling-antimicrobial-resistance-ara-darzi/",
-    "date": "2026-04-30"
-  },
-  {
-    "title": "OpenAI Really Wants Codex to Shut Up About Goblins",
-    "source": "Wired",
-    "summary": "\u201cNever talk about goblins, gremlins, raccoons, trolls, ogres, pigeons, or other animals or creatures unless it is absolutely and unambiguously relevant,\u201d reads OpenAI\u2019s coding agent instructions.",
-    "url": "https://www.wired.com/story/openai-really-wants-codex-to-shut-up-about-goblins/",
-    "date": "2026-04-30"
-  },
-  {
-    "title": "Elon Musk Testifies That He Started OpenAI to Prevent a \u2018Terminator Outcome\u2019",
-    "source": "Wired",
-    "summary": "The judge also warned Musk and Sam Altman to curb their \u201cpropensity to use social media to make things worse outside the courtroom\u201d after both sides traded attacks online.",
-    "url": "https://www.wired.com/story/model-behavior-elon-musk-testifies-at-musk-v-altman-trial/",
+    "title": "Researchers try to cut the genetic code from 20 to 19 amino acids",
+    "source": "Ars Technica",
+    "summary": "Using AI tools, the team reworked part of the ribosome to need one less amino acid.",
+    "url": "https://arstechnica.com/science/2026/04/researchers-try-to-cut-the-genetic-code-from-20-to-19-amino-acids/",
     "date": "2026-04-30"
   },
   {
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "Beloved wolf gripped the nation after burrowing out of the zoo.",
     "url": "https://arstechnica.com/tech-policy/2026/04/after-wolf-escaped-zoo-man-arrested-for-creating-fake-ai-sighting-for-fun/",
-    "date": "2026-04-30"
-  },
-  {
-    "title": "US accuses China of \u201cindustrial-scale\u201d AI theft. China says it\u2019s \u201cslander.\u201d",
-    "source": "Ars Technica",
-    "summary": "Trump-Xi summit may be rocked by US mulling huge sanctions.",
-    "url": "https://arstechnica.com/tech-policy/2026/04/us-accuses-china-of-industrial-scale-ai-theft-china-says-its-slander/",
     "date": "2026-04-30"
   }
 ]
