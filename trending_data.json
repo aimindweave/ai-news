@@ -10,9 +10,9 @@
   {
     "title": "Craig Venter has died",
     "source": "Hacker News",
-    "description": "HN Score: 116 | 24 comments",
+    "description": "HN Score: 191 | 34 comments",
     "url": "https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79",
-    "score": 116,
+    "score": 191,
     "date": "2026-04-30",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Copy Fail",
+    "title": "Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs",
     "source": "Hacker News",
-    "description": "HN Score: 686 | 285 comments",
-    "url": "https://copy.fail/",
-    "score": 686,
+    "description": "HN Score: 84 | 47 comments",
+    "url": "https://github.com/cauchy221/Alignment-Whack-a-Mole-Code",
+    "score": 84,
     "date": "2026-04-30",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Finetuning Activates Verbatim Recall of Copyrighted Books in LLMs",
+    "title": "Noctua releases official 3D CAD models for its cooling fans",
     "source": "Hacker News",
-    "description": "HN Score: 3 | 0 comments",
-    "url": "https://github.com/cauchy221/Alignment-Whack-a-Mole-Code",
-    "score": 3,
+    "description": "HN Score: 92 | 18 comments",
+    "url": "https://www.noctua.at/en/3d-cad-models",
+    "score": 92,
     "date": "2026-04-30",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "A Grounded Conceptual Model for Ownership Types in Rust",
+    "title": "The Zig project's rationale for their firm anti-AI contribution policy",
     "source": "Hacker News",
-    "description": "HN Score: 11 | 0 comments",
-    "url": "https://cacm.acm.org/research-highlights/a-grounded-conceptual-model-for-ownership-types-in-rust/",
-    "score": 11,
+    "description": "HN Score: 127 | 45 comments",
+    "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
+    "score": 127,
     "date": "2026-04-30",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Ramp's Sheets AI Exfiltrates Financials",
+    "title": "Copy Fail",
     "source": "Hacker News",
-    "description": "HN Score: 117 | 35 comments",
-    "url": "https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials",
-    "score": 117,
+    "description": "HN Score: 822 | 315 comments",
+    "url": "https://copy.fail/",
+    "score": 822,
     "date": "2026-04-30",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Claude.ai and API unavailable [fixed]",
+    "title": "Mike: open-source legal AI",
     "source": "Hacker News",
-    "description": "HN Score: 100 | 92 comments",
-    "url": "https://status.claude.com/incidents/2gf1jpyty350",
-    "score": 100,
+    "description": "HN Score: 63 | 19 comments",
+    "url": "https://mikeoss.com/",
+    "score": 63,
     "date": "2026-04-30",
     "category": "AI News"
   },
@@ -110,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Mike: open-source legal AI",
+    "title": "Joby kicks off NYC electric air taxi demos with historic JFK flight",
     "source": "Hacker News",
-    "description": "HN Score: 27 | 8 comments",
-    "url": "https://mikeoss.com/",
-    "score": 27,
+    "description": "HN Score: 39 | 87 comments",
+    "url": "https://www.flyingmag.com/joby-nyc-electric-air-taxi-jfk-airport/",
+    "score": 39,
     "date": "2026-04-30",
     "category": "AI News"
   },
@@ -127,11 +127,28 @@
     "category": "Twitter"
   },
   {
-    "title": "The Zig project's rationale for their firm anti-AI contribution policy",
+    "title": "A grounded conceptual model for ownership types in Rust",
     "source": "Hacker News",
-    "description": "HN Score: 8 | 1 comments",
-    "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
-    "score": 8,
+    "description": "HN Score: 26 | 1 comments",
+    "url": "https://cacm.acm.org/research-highlights/a-grounded-conceptual-model-for-ownership-types-in-rust/",
+    "score": 26,
+    "date": "2026-04-30",
+    "category": "AI News"
+  },
+  {
+    "title": "\ud83d\udea8 BREAKING NEWS - Announcing Video and Image Agentic Orchestration GPT 5.5 and Opus 4.7 agents orchestrate the best video and audio models Combine Gro",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2049720212866617357#m",
+    "date": "2026-04-30",
+    "category": "Twitter"
+  },
+  {
+    "title": "Ramp's Sheets AI Exfiltrates Financials",
+    "source": "Hacker News",
+    "description": "HN Score: 126 | 39 comments",
+    "url": "https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials",
+    "score": 126,
     "date": "2026-04-30",
     "category": "AI News"
   },
@@ -144,28 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "I benchmarked Claude Code's caveman plugin against 'be brief.'",
+    "title": "Lessons from Building an OTel Normalizer for GenAI",
     "source": "Hacker News",
-    "description": "HN Score: 79 | 52 comments",
-    "url": "https://www.maxtaylor.me/articles/i-benchmarked-caveman-against-two-words",
-    "score": 79,
-    "date": "2026-04-30",
-    "category": "AI News"
-  },
-  {
-    "title": "TBH we will have an extremely dystopian world if only a handful of people control super intelligence Open source and decentralization is the only way ",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2049571431500112340#m",
-    "date": "2026-04-30",
-    "category": "Twitter"
-  },
-  {
-    "title": "What can we gain by losing infinity?",
-    "source": "Hacker News",
-    "description": "HN Score: 21 | 30 comments",
-    "url": "https://www.quantamagazine.org/what-can-we-gain-by-losing-infinity-20260429/",
-    "score": 21,
+    "description": "HN Score: 4 | 0 comments",
+    "url": "https://www.groundcover.com/blog/otel-normalizer-genai-part-1",
+    "score": 4,
     "date": "2026-04-30",
     "category": "AI News"
   }
