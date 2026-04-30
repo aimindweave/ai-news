@@ -1,15 +1,36 @@
 [
   {
+    "title": "Stripe introduces Link, a digital wallet that autonomous AI agents can use, too",
+    "source": "TechCrunch",
+    "summary": "Link lets users connect cards, banks, and subscriptions, then authorize AI agents to spend securely via approval flows.",
+    "url": "https://techcrunch.com/2026/04/30/stripe-link-digital-wallet-ai-agents-shopping/",
+    "date": "2026-04-30"
+  },
+  {
+    "title": "Salesforce is crowdsourcing its AI roadmap \u2014 with customers",
+    "source": "TechCrunch",
+    "summary": "Salesforce lets its customers lead its product roadmap with the thinking that if one enterprise customer has a problem, the others likely do too.",
+    "url": "https://techcrunch.com/2026/04/30/salesforce-is-crowdsourcing-its-ai-roadmap-with-customers/",
+    "date": "2026-04-30"
+  },
+  {
+    "title": "X announces a rebuilt ad platform powered by AI",
+    "source": "TechCrunch",
+    "summary": "X is rolling out a rebuilt ads platform powered by AI as it works to grow revenue again.",
+    "url": "https://techcrunch.com/2026/04/30/x-announces-a-rebuilt-ad-platform-powered-by-ai/",
+    "date": "2026-04-30"
+  },
+  {
     "title": "Meta says its business AI now facilitates 10 million conversations a week",
     "source": "TechCrunch",
-    "summary": "Meta said over 8 billion advertisers have used at least one of its gen AI tools",
+    "summary": "Meta said over 8 billion advertisers have used at least one of its GenAI tools",
     "url": "https://techcrunch.com/2026/04/30/meta-says-its-business-ai-now-facilitates-10-million-conversations-a-week/",
     "date": "2026-04-30"
   },
   {
     "title": "SoftBank is creating a robotics company that builds data centers \u2014 and already eyeing a $100B IPO",
     "source": "TechCrunch",
-    "summary": "You need infrastructure to build AI a and robots, but apparently you also need AI and robots to build infrastructure.",
+    "summary": "You need infrastructure to build AI and robots, but apparently you also need AI and robots to build infrastructure.",
     "url": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/",
     "date": "2026-04-30"
   },
@@ -23,7 +44,7 @@
   {
     "title": "Sources: Anthropic could raise a new $50B round at a valuation of $900B",
     "source": "TechCrunch",
-    "summary": "The maker of Claude has received multiple pre-emptive offers at valuations in the $850 billion to $900 billion range, according to sources familiar with the matter.",
+    "summary": "The maker of Claude has received multiple preemptive offers at valuations in the $850 billion to $900 billion range, according to sources familiar with the matter.",
     "url": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/",
     "date": "2026-04-30"
   },
@@ -84,24 +105,10 @@
     "date": "2026-04-30"
   },
   {
-    "title": "Google Photos uses AI to make the iconic closet from \u2018Clueless\u2019 a reality",
-    "source": "TechCrunch",
-    "summary": "Google says the new feature will leverage AI technology to automatically create a copy of your wardrobe that's based on the pieces of clothing appearing in your Google Photos library.",
-    "url": "https://techcrunch.com/2026/04/29/google-photos-uses-ai-to-make-the-iconic-closet-from-clueless-a-reality/",
-    "date": "2026-04-30"
-  },
-  {
-    "title": "More Gemini features are coming to Google TV",
-    "source": "TechCrunch",
-    "summary": "Google TV just got more Gemini features, including the ability to transform photos and videos with tools Nano Banana and Veo.",
-    "url": "https://techcrunch.com/2026/04/29/more-gemini-features-are-coming-to-google-tv/",
-    "date": "2026-04-30"
-  },
-  {
-    "title": "Firestorm Labs raises $82M to take drone factories into the field",
-    "source": "TechCrunch",
-    "summary": "A defense startup just raised $82 million to put drone factories inside shipping containers and bring manufacturing to the front lines.",
-    "url": "https://techcrunch.com/2026/04/29/firestorm-labs-raises-82m-to-take-drone-factories-into-the-field/",
+    "title": "This startup\u2019s new mechanistic interpretability tool lets you debug LLMs",
+    "source": "MIT Tech Review",
+    "summary": "The San Francisco\u2013based startup Goodfire just released a new tool, called Silico, that lets researchers and engineers peer inside an AI model and adjust its parameters\u2014the settings that determine a model\u2019s behavior\u2014during training. This could give model makers more fine-grained control over how t...",
+    "url": "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/",
     "date": "2026-04-30"
   },
   {
@@ -168,13 +175,6 @@
     "date": "2026-04-30"
   },
   {
-    "title": "The Download: supercharged scams and studying AI healthcare",
-    "source": "MIT Tech Review",
-    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. We\u2019re in a new era of AI-driven scams When ChatGPT was released in late 2022, it showed how easily generative AI could create human-like text. This quickly cau...",
-    "url": "https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/",
-    "date": "2026-04-30"
-  },
-  {
     "title": "These Men Allegedly Profit Off Teaching People How to Make AI Porn",
     "source": "Wired",
     "summary": "Three Arizona women have filed a lawsuit against a group of men that alleges they used the women\u2019s photos to make AI porn influencers, then offered online courses showing others how to do it.",
@@ -189,7 +189,7 @@
     "date": "2026-04-30"
   },
   {
-    "title": "How Elon Musk Squeezed OpenAI: They 'Are Gonna Want to Kill Me\u2019",
+    "title": "How Elon Musk Squeezed OpenAI: They \u2018Are Gonna Want to Kill Me\u2019",
     "source": "Wired",
     "summary": "Tensions flared on the third day of trial in Musk v. Altman as OpenAI\u2019s lawyers cross-examined Musk.",
     "url": "https://www.wired.com/story/model-behavior-elon-musk-cross-examined-sam-altman/",
