@@ -93,6 +93,16 @@
   ],
   "episodes": [
     {
+      "id": "The TWIM_0",
+      "name": "How to Engineer AI Inference Systems with Philip Kiely - #766",
+      "show": "The TWIML AI Podcast",
+      "description": "In this episode, Philip Kiely, head of AI education at Baseten, joins us to unpack the fast-evolving discipline of inference engineering. We explore why inference has become the stickiest and most cri",
+      "release_date": "2026-04-30",
+      "duration_min": 54,
+      "image": "",
+      "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
+    },
+    {
       "id": "a]6z Pod_0",
       "name": "Workday’s Last Workday? AI and the Future of Enterprise Software",
       "show": "a]6z Podcast",
@@ -183,7 +193,7 @@
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
-      "id": "The TWIM_0",
+      "id": "The TWIM_1",
       "name": "How Capital One Delivers Multi-Agent Systems with Rashmi Shetty - #765",
       "show": "The TWIML AI Podcast",
       "description": "In this episode, Rashmi Shetty, senior director of enterprise generative AI platform at Capital One, joins us to explore how the company is designing, deploying, and scaling multi-agent systems in a h",
@@ -233,7 +243,7 @@
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
-      "id": "The TWIM_1",
+      "id": "The TWIM_2",
       "name": "The Race to Production-Grade Diffusion LLMs with Stefano Ermon - #764",
       "show": "The TWIML AI Podcast",
       "description": "Today, we're joined by Stefano Ermon, associate professor at Stanford University and CEO of Inception Labs to discuss diffusion language models. We dig into how diffusion approaches—traditionally used",
@@ -261,16 +271,6 @@
       "duration_min": 0,
       "image": "",
       "url": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"
-    },
-    {
-      "id": "The TWIM_2",
-      "name": "Agent Swarms and Knowledge Graphs for Autonomous Software Development with Siddhant Pardeshi - #763",
-      "show": "The TWIML AI Podcast",
-      "description": "In this episode, Sid Pardeshi, co-founder and CTO of Blitzy, joins us to discuss building autonomous development systems able to deliver production-ready software at enterprise scale. Sid contrasts AI",
-      "release_date": "2026-03-10",
-      "duration_min": 76,
-      "image": "",
-      "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
     }
   ]
 }

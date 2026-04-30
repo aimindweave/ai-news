@@ -10,9 +10,9 @@
   {
     "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
     "source": "Hacker News",
-    "description": "HN Score: 201 | 55 comments",
+    "description": "HN Score: 250 | 80 comments",
     "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
-    "score": 201,
+    "score": 250,
     "date": "2026-04-30",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "CopyFail Was Not Disclosed to Distros",
+    "title": "CopyFail was not disclosed to Gentoo developer",
     "source": "Hacker News",
-    "description": "HN Score: 179 | 106 comments",
+    "description": "HN Score: 253 | 171 comments",
     "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
-    "score": 179,
+    "score": 253,
     "date": "2026-04-30",
     "category": "AI News"
   },
@@ -44,9 +44,9 @@
   {
     "title": "Claude Code refuses requests or charges extra if your commits mention 'OpenClaw'",
     "source": "Hacker News",
-    "description": "HN Score: 606 | 370 comments",
+    "description": "HN Score: 733 | 427 comments",
     "url": "https://twitter.com/theo/status/2049645973350363168",
-    "score": 606,
+    "score": 733,
     "date": "2026-04-30",
     "category": "AI News"
   },
@@ -61,9 +61,9 @@
   {
     "title": "Spain's parliament will act against massive IP blockages by LaLiga",
     "source": "Hacker News",
-    "description": "HN Score: 293 | 124 comments",
+    "description": "HN Score: 328 | 152 comments",
     "url": "https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/",
-    "score": 293,
+    "score": 328,
     "date": "2026-04-30",
     "category": "AI News"
   },
@@ -78,9 +78,9 @@
   {
     "title": "Granite 4.1: IBM's 8B Model Matching 32B MoE",
     "source": "Hacker News",
-    "description": "HN Score: 247 | 156 comments",
+    "description": "HN Score: 258 | 163 comments",
     "url": "https://firethering.com/granite-4-1-ibm-open-source-model-family/",
-    "score": 247,
+    "score": 258,
     "date": "2026-04-30",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "The Zig project's rationale for their anti-AI contribution policy",
+    "title": "The Human Creativity Benchmark \u2013 Evaluating Generative AI in Creative Work",
     "source": "Hacker News",
-    "description": "HN Score: 603 | 387 comments",
-    "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
-    "score": 603,
+    "description": "HN Score: 12 | 1 comments",
+    "url": "https://contralabs.com/research/human-creativity-benchmark",
+    "score": 12,
     "date": "2026-04-30",
     "category": "AI News"
   },
@@ -110,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Noctua releases official 3D CAD models for its cooling fans",
+    "title": "What can we gain by losing infinity?",
     "source": "Hacker News",
-    "description": "HN Score: 466 | 99 comments",
-    "url": "https://www.noctua.at/en/3d-cad-models",
-    "score": 466,
+    "description": "HN Score: 88 | 96 comments",
+    "url": "https://www.quantamagazine.org/what-can-we-gain-by-losing-infinity-20260429/",
+    "score": 88,
     "date": "2026-04-30",
     "category": "AI News"
   },
@@ -129,9 +129,9 @@
   {
     "title": "Show HN: TRiP \u2013 a complete transformer engine in C built from scratch just by me",
     "source": "Hacker News",
-    "description": "HN Score: 21 | 1 comments",
+    "description": "HN Score: 28 | 3 comments",
     "url": "https://github.com/carlovalenti/TRiP",
-    "score": 21,
+    "score": 28,
     "date": "2026-04-30",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Craig Venter has died",
+    "title": "DataCenter.FM \u2013 background noise app featuring the sound of the AI bubble",
     "source": "Hacker News",
-    "description": "HN Score: 324 | 77 comments",
-    "url": "https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79",
-    "score": 324,
+    "description": "HN Score: 124 | 23 comments",
+    "url": "https://datacenter.fm/",
+    "score": 124,
     "date": "2026-04-30",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "What can we gain by losing infinity?",
+    "title": "Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs",
     "source": "Hacker News",
-    "description": "HN Score: 84 | 89 comments",
-    "url": "https://www.quantamagazine.org/what-can-we-gain-by-losing-infinity-20260429/",
-    "score": 84,
+    "description": "HN Score: 185 | 151 comments",
+    "url": "https://github.com/cauchy221/Alignment-Whack-a-Mole-Code",
+    "score": 185,
     "date": "2026-04-30",
     "category": "AI News"
   }
