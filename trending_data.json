@@ -10,9 +10,9 @@
   {
     "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
     "source": "Hacker News",
-    "description": "HN Score: 396 | 137 comments",
+    "description": "HN Score: 399 | 143 comments",
     "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
-    "score": 396,
+    "score": 399,
     "date": "2026-05-01",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "Claude Code refuses requests or charges extra if your commits mention 'OpenClaw'",
     "source": "Hacker News",
-    "description": "HN Score: 1159 | 635 comments",
+    "description": "HN Score: 1179 | 648 comments",
     "url": "https://twitter.com/theo/status/2049645973350363168",
-    "score": 1159,
+    "score": 1179,
     "date": "2026-05-01",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Granite 4.1: IBM's 8B Model Matching 32B MoE",
+    "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber",
     "source": "Hacker News",
-    "description": "HN Score: 291 | 184 comments",
-    "url": "https://firethering.com/granite-4-1-ibm-open-source-model-family/",
-    "score": 291,
+    "description": "HN Score: 31 | 11 comments",
+    "url": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
+    "score": 31,
     "date": "2026-05-01",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Spain's parliament will act against massive IP blockages by LaLiga",
+    "title": "Our agent found a bug with WireGuard in Google Kubernetes Engine",
     "source": "Hacker News",
-    "description": "HN Score: 482 | 189 comments",
-    "url": "https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/",
-    "score": 482,
+    "description": "HN Score: 14 | 0 comments",
+    "url": "https://lovable.dev/blog/hunting-networking-bugs-in-kubernetes",
+    "score": 14,
     "date": "2026-05-01",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "How People ask Claude for personal guidance",
+    "title": "Granite 4.1: IBM's 8B Model Matching 32B MoE",
     "source": "Hacker News",
-    "description": "HN Score: 7 | 3 comments",
-    "url": "https://www.anthropic.com/research/claude-personal-guidance",
-    "score": 7,
+    "description": "HN Score: 295 | 190 comments",
+    "url": "https://firethering.com/granite-4-1-ibm-open-source-model-family/",
+    "score": 295,
     "date": "2026-05-01",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "What can we gain by losing infinity?",
+    "title": "Spain's parliament will act against massive IP blockages by LaLiga",
     "source": "Hacker News",
-    "description": "HN Score: 110 | 118 comments",
-    "url": "https://www.quantamagazine.org/what-can-we-gain-by-losing-infinity-20260429/",
-    "score": 110,
+    "description": "HN Score: 486 | 193 comments",
+    "url": "https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/",
+    "score": 486,
     "date": "2026-05-01",
     "category": "AI News"
   },
@@ -110,12 +110,30 @@
     "category": "Twitter"
   },
   {
+    "title": "How People ask Claude for personal guidance",
+    "source": "Hacker News",
+    "description": "HN Score: 10 | 3 comments",
+    "url": "https://www.anthropic.com/research/claude-personal-guidance",
+    "score": 10,
+    "date": "2026-05-01",
+    "category": "AI News"
+  },
+  {
     "title": "RT by @svpino: I'm spending so much time managing context, and I hate it. Here is a tip for you: don't use /compact any more in Claude Code. There's a",
     "source": "@svpino",
     "description": "",
     "url": "https://nitter.net/svpino/status/2049828761710063980#m",
     "date": "2026-05-01",
     "category": "Twitter"
+  },
+  {
+    "title": "What can we gain by losing infinity?",
+    "source": "Hacker News",
+    "description": "HN Score: 112 | 119 comments",
+    "url": "https://www.quantamagazine.org/what-can-we-gain-by-losing-infinity-20260429/",
+    "score": 112,
+    "date": "2026-05-01",
+    "category": "AI News"
   },
   {
     "title": "Grok 4.3 launched today \ud83d\ude80 It is as smart as Sonnet 4.6 and 5x cheaper and faster Gemini models coming soon",

@@ -93,6 +93,26 @@
   ],
   "episodes": [
     {
+      "id": "Hard For_0",
+      "name": "OpenAI’s Big Reset + A.I. in the Doctor’s Office + Talkie, a pre-1930s LLM",
+      "show": "Hard Fork",
+      "description": "This week, OpenAI announced a loosened partnership with Microsoft and an aggressive new strategy to secure computing power. We unpack what these updates signal about OpenAI’s business strategy and ",
+      "release_date": "2026-05-01",
+      "duration_min": 69,
+      "image": "",
+      "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
+    },
+    {
+      "id": "a]6z Pod_0",
+      "name": "Balaji and Taylor Lorenz on AI and Media",
+      "show": "a]6z Podcast",
+      "description": "Theo Jaffee speaks with Balaji Srinivasan and Taylor Lorenz about how AI is reshaping media, trust, and online communication. Building on prior public disagreements between the two, the conversatio",
+      "release_date": "2026-05-01",
+      "duration_min": 51,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
       "id": "The TWIM_0",
       "name": "How to Engineer AI Inference Systems with Philip Kiely - #766",
       "show": "The TWIML AI Podcast",
@@ -103,7 +123,7 @@
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
     },
     {
-      "id": "a]6z Pod_0",
+      "id": "a]6z Pod_1",
       "name": "Workday’s Last Workday? AI and the Future of Enterprise Software",
       "show": "a]6z Podcast",
       "description": "Elena Burger speaks with Joe Schmidt, partner on the enterprise team at a16z, about the future of enterprise software in the age of AI. Using Workday as a case study, they discuss why many of today",
@@ -123,7 +143,7 @@
       "url": "https://open.spotify.com/show/0e1X4kJVfwQRPF8lZzqqfX"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "The Shift in Global Drug Development",
       "show": "a]6z Podcast",
       "description": "Theo Jaffee and Gabriel Dickinson speak with Cremieux about China’s rapid rise to the top of global clinical trial output. They discuss the regulatory reforms that accelerated China’s progress, the",
@@ -133,17 +153,7 @@
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
-      "id": "a]6z Pod_2",
-      "name": "John and Patrick Collison on Stripe's Growth, Agent Commerce, and the Future of Software",
-      "show": "a]6z Podcast",
-      "description": "This interview with Stripe cofounders John and Patrick Collison originally aired on TBPN. They discuss Stripe's 34% growth and new employee tender offer, how agent commerce and stablecoins may requ",
-      "release_date": "2026-04-28",
-      "duration_min": 20,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
-    },
-    {
-      "id": "Hard For_0",
+      "id": "Hard For_1",
       "name": "Tim Cook’s Legacy + The Future of U.B.I. With Andrew Yang + HatGPT",
       "show": "Hard Fork",
       "description": "This week, Tim Cook announced he would step down as chief executive of Apple. We discuss what he got right and what he got wrong, and we offer some unsolicited advice for his replacement, John Tern",
@@ -173,7 +183,7 @@
       "url": "https://open.spotify.com/show/0e1X4kJVfwQRPF8lZzqqfX"
     },
     {
-      "id": "Hard For_1",
+      "id": "Hard For_2",
       "name": "A.I. Backlash Turns Violent + Kara Swisher on Healthmaxxing + The Zuck Bot Is Coming",
       "show": "Hard Fork",
       "description": "This week, amid violent attacks on the homes of the OpenAI chief executive Sam Altman and the Indianapolis councilman Ron Gibson, we debate why artificial intelligence and data centers are so unpop",
@@ -211,16 +221,6 @@
       "duration_min": 31,
       "image": "",
       "url": "https://open.spotify.com/show/0e1X4kJVfwQRPF8lZzqqfX"
-    },
-    {
-      "id": "Hard For_2",
-      "name": "Anthropic’s Cybersecurity Shock Wave + Ronan Farrow and Andrew Marantz on Their Sam Altman Investigation + One Good Thing",
-      "show": "Hard Fork",
-      "description": "This week, we look at the cybersecurity threats that a new unreleased model from Anthropic are posing to software everywhere. And we ask whether Project Glasswing, the company’s bold new defense in",
-      "release_date": "2026-04-10",
-      "duration_min": 64,
-      "image": "",
-      "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
       "id": "Lex Frid_0",
