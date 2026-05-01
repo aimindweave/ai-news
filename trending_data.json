@@ -10,9 +10,9 @@
   {
     "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
     "source": "Hacker News",
-    "description": "HN Score: 340 | 116 comments",
+    "description": "HN Score: 375 | 127 comments",
     "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
-    "score": 340,
+    "score": 375,
     "date": "2026-05-01",
     "category": "AI News"
   },
@@ -27,43 +27,43 @@
   {
     "title": "Claude Code refuses requests or charges extra if your commits mention 'OpenClaw'",
     "source": "Hacker News",
-    "description": "HN Score: 1013 | 567 comments",
+    "description": "HN Score: 1080 | 596 comments",
     "url": "https://twitter.com/theo/status/2049645973350363168",
-    "score": 1013,
+    "score": 1080,
     "date": "2026-05-01",
     "category": "AI News"
   },
   {
-    "title": "Do you use normal or extended thinking for GPT 5.5 Pro",
+    "title": "RT by @EMostaque: Would you play a Chrono Trigger remake/remaster like this? \ud83e\udd14",
     "source": "@EMostaque",
     "description": "",
-    "url": "https://nitter.net/EMostaque/status/2049810870193004851#m",
+    "url": "https://nitter.net/ZikadaPrime/status/2049826428112216094#m",
     "date": "2026-05-01",
     "category": "Twitter"
   },
   {
     "title": "Spain's parliament will act against massive IP blockages by LaLiga",
     "source": "Hacker News",
-    "description": "HN Score: 428 | 177 comments",
+    "description": "HN Score: 459 | 186 comments",
     "url": "https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/",
-    "score": 428,
+    "score": 459,
     "date": "2026-05-01",
     "category": "AI News"
   },
   {
-    "title": "Pretty sure it\u2019ll be like this",
+    "title": "It seems @OpenAI has cracked recursive self-improvement for Codex",
     "source": "@EMostaque",
     "description": "",
-    "url": "https://nitter.net/EMostaque/status/2049567497280458827#m",
+    "url": "https://nitter.net/EMostaque/status/2050074699284054523#m",
     "date": "2026-05-01",
     "category": "Twitter"
   },
   {
     "title": "Granite 4.1: IBM's 8B Model Matching 32B MoE",
     "source": "Hacker News",
-    "description": "HN Score: 282 | 177 comments",
+    "description": "HN Score: 288 | 181 comments",
     "url": "https://firethering.com/granite-4-1-ibm-open-source-model-family/",
-    "score": 282,
+    "score": 288,
     "date": "2026-05-01",
     "category": "AI News"
   },
@@ -78,9 +78,9 @@
   {
     "title": "What can we gain by losing infinity?",
     "source": "Hacker News",
-    "description": "HN Score: 104 | 115 comments",
+    "description": "HN Score: 106 | 116 comments",
     "url": "https://www.quantamagazine.org/what-can-we-gain-by-losing-infinity-20260429/",
-    "score": 104,
+    "score": 106,
     "date": "2026-05-01",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs",
+    "title": "Copy Fail",
     "source": "Hacker News",
-    "description": "HN Score: 190 | 152 comments",
-    "url": "https://github.com/cauchy221/Alignment-Whack-a-Mole-Code",
-    "score": 190,
+    "description": "HN Score: 1384 | 485 comments",
+    "url": "https://copy.fail/",
+    "score": 1384,
     "date": "2026-05-01",
     "category": "AI News"
   },
@@ -110,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Copy Fail",
+    "title": "U.S. Aims to Penalize Disabled Adults Who Live with Their Families",
     "source": "Hacker News",
-    "description": "HN Score: 1368 | 483 comments",
-    "url": "https://copy.fail/",
-    "score": 1368,
+    "description": "HN Score: 16 | 0 comments",
+    "url": "https://www.propublica.org/article/trump-social-security-ssi-disability-benefits-cuts-parents-children",
+    "score": 16,
     "date": "2026-05-01",
     "category": "AI News"
   },
@@ -127,36 +127,27 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Pu.sh \u2013 a full coding-agent harness in 400 lines of shell",
+    "title": "Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs",
     "source": "Hacker News",
-    "description": "HN Score: 72 | 21 comments",
-    "url": "https://pu.dev/",
-    "score": 72,
+    "description": "HN Score: 191 | 153 comments",
+    "url": "https://github.com/cauchy221/Alignment-Whack-a-Mole-Code",
+    "score": 191,
     "date": "2026-05-01",
     "category": "AI News"
+  },
+  {
+    "title": "TBH - AI hasn\u2019t replaced any programmers yet Often its just making us run around circles Prompting, pleading and yelling at it to get things right",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2050080757130146106#m",
+    "date": "2026-05-01",
+    "category": "Twitter"
   },
   {
     "title": "Grok 4.3 launched today \ud83d\ude80 It is as smart as Sonnet 4.6 and 5x cheaper and faster Gemini models coming soon",
     "source": "@bindureddy",
     "description": "",
     "url": "https://nitter.net/bindureddy/status/2050028784242536585#m",
-    "date": "2026-05-01",
-    "category": "Twitter"
-  },
-  {
-    "title": "Brain scans reveal 3 ADHD subtypes",
-    "source": "Hacker News",
-    "description": "HN Score: 7 | 2 comments",
-    "url": "https://www.washingtonpost.com/health/2026/04/30/adhd-subtype-extreme-brain-scans/",
-    "score": 7,
-    "date": "2026-05-01",
-    "category": "AI News"
-  },
-  {
-    "title": "PREDICTION - Everyone is going to move from Opus to GPT to Gemini every 2 months How long can we sustain this? \ud83e\udd23",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2049924288510337345#m",
     "date": "2026-05-01",
     "category": "Twitter"
   }
