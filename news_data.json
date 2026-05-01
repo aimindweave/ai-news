@@ -1,5 +1,12 @@
 [
   {
+    "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
+    "source": "TechCrunch",
+    "summary": "The deals come as the DOD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over usage terms of its AI models.",
+    "url": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
+    "date": "2026-05-01"
+  },
+  {
     "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
     "source": "TechCrunch",
     "summary": "Users in India are embracing ChatGPT Images 2.0 for creative, personal visuals \u2014 from avatars to cinematic portraits.",
@@ -98,10 +105,17 @@
     "date": "2026-05-01"
   },
   {
-    "title": "Amazon\u2019s cloud business is surging \u2014 and so is its capital spending",
-    "source": "TechCrunch",
-    "summary": "The e-commerce giant is making more money than expected from AWS but it's also spending a lot, and will continue to do so in the near term, its chief executive said.",
-    "url": "https://techcrunch.com/2026/04/29/amazons-cloud-business-is-surging-and-so-is-its-capital-spending/",
+    "title": "Cyber-Insecurity in the AI Era",
+    "source": "MIT Tech Review",
+    "summary": "Cybersecurity was already under strain before AI entered the stack. Now, as AI expands the attack surface and adds new complexity, the limits of legacy approaches are becoming harder to ignore. This session from MIT Technology Review s EmTech AI conference explores why security must be rethought ...",
+    "url": "https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/",
+    "date": "2026-05-01"
+  },
+  {
+    "title": "Operationalizing AI for Scale and Sovereignty",
+    "source": "MIT Tech Review",
+    "summary": "Companies are taking control of their own data to tailor AI for their needs. The challenge lies in balancing ownership with the safe, trusted flow of high\u2011quality data needed to power reliable insights. This conversation from MIT Technology Review s EmTech AI conference examines how AI factories ...",
+    "url": "https://www.technologyreview.com/2026/05/01/1136772/operationalizing-ai-for-scale-and-sovereignty/",
     "date": "2026-05-01"
   },
   {
@@ -158,20 +172,6 @@
     "source": "MIT Tech Review",
     "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. It\u2019s time to make a plan for nuclear waste Today, nuclear energy enjoys rare support across the political spectrum. Public approval has spiked, and Big Tech is...",
     "url": "https://www.technologyreview.com/2026/04/29/1136666/the-download-nuclear-waste-orchestrated-ai-agents/",
-    "date": "2026-05-01"
-  },
-  {
-    "title": "It\u2019s time to make a plan for nuclear waste",
-    "source": "MIT Tech Review",
-    "summary": "Today, nuclear energy enjoys a rare moment of support across the political spectrum in the US. Interest from tech companies that are scrambling to meet demand for massive data centers has sparked a resurgence of money and attention in the industry. That newfound interest is exactly why it\u2019s time ...",
-    "url": "https://www.technologyreview.com/2026/04/29/1136659/plan-nuclear-waste/",
-    "date": "2026-05-01"
-  },
-  {
-    "title": "The Download: Musk and Altman\u2019s legal showdown, and AI\u2019s profit problem",
-    "source": "MIT Tech Review",
-    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Elon Musk and Sam Altman are going to court over OpenAI\u2019s future Elon Musk and OpenAI CEO Sam Altman head to trial this week in a case with sweeping consequenc...",
-    "url": "https://www.technologyreview.com/2026/04/28/1136479/the-download-musk-altman-openai-trial-ai-profit-problem/",
     "date": "2026-05-01"
   },
   {
@@ -242,6 +242,13 @@
     "source": "Wired",
     "summary": "Researchers show scammers are using AI-manipulated footage of celebrity interviews to trick users into sharing their personal data.",
     "url": "https://www.wired.com/story/taylor-swift-rihanna-tiktok-deepfake-ads/",
+    "date": "2026-05-01"
+  },
+  {
+    "title": "GPT-5.5 matches heavily hyped Mythos Preview in new cybersecurity tests",
+    "source": "Ars Technica",
+    "summary": "New results suggest Mythos' cyber threat isn't 'a breakthrough specific to one model.'",
+    "url": "https://arstechnica.com/ai/2026/05/amid-mythos-hyped-cybersecurity-prowess-researchers-find-gpt-5-5-is-just-as-good/",
     "date": "2026-05-01"
   },
   {
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "The unwinding of Meta\u2019s deal shows how tech founders struggle to cut China ties.",
     "url": "https://arstechnica.com/ai/2026/04/china-kills-metas-acquisition-of-manus-as-us-china-ai-rivalry-deepens/",
-    "date": "2026-05-01"
-  },
-  {
-    "title": "Google will invest as much as $40 billion in Anthropic",
-    "source": "Ars Technica",
-    "summary": "This follows a similar, but smaller, investment by Amazon just days ago.",
-    "url": "https://arstechnica.com/ai/2026/04/google-will-invest-as-much-as-40-billion-in-anthropic/",
     "date": "2026-05-01"
   }
 ]
