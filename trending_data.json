@@ -10,9 +10,9 @@
   {
     "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
     "source": "Hacker News",
-    "description": "HN Score: 375 | 127 comments",
+    "description": "HN Score: 396 | 137 comments",
     "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
-    "score": 375,
+    "score": 396,
     "date": "2026-05-01",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "Claude Code refuses requests or charges extra if your commits mention 'OpenClaw'",
     "source": "Hacker News",
-    "description": "HN Score: 1080 | 596 comments",
+    "description": "HN Score: 1159 | 635 comments",
     "url": "https://twitter.com/theo/status/2049645973350363168",
-    "score": 1080,
+    "score": 1159,
     "date": "2026-05-01",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Spain's parliament will act against massive IP blockages by LaLiga",
+    "title": "Granite 4.1: IBM's 8B Model Matching 32B MoE",
     "source": "Hacker News",
-    "description": "HN Score: 459 | 186 comments",
-    "url": "https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/",
-    "score": 459,
+    "description": "HN Score: 291 | 184 comments",
+    "url": "https://firethering.com/granite-4-1-ibm-open-source-model-family/",
+    "score": 291,
     "date": "2026-05-01",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Granite 4.1: IBM's 8B Model Matching 32B MoE",
+    "title": "Spain's parliament will act against massive IP blockages by LaLiga",
     "source": "Hacker News",
-    "description": "HN Score: 288 | 181 comments",
-    "url": "https://firethering.com/granite-4-1-ibm-open-source-model-family/",
-    "score": 288,
+    "description": "HN Score: 482 | 189 comments",
+    "url": "https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/",
+    "score": 482,
     "date": "2026-05-01",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "What can we gain by losing infinity?",
+    "title": "How People ask Claude for personal guidance",
     "source": "Hacker News",
-    "description": "HN Score: 106 | 116 comments",
-    "url": "https://www.quantamagazine.org/what-can-we-gain-by-losing-infinity-20260429/",
-    "score": 106,
+    "description": "HN Score: 7 | 3 comments",
+    "url": "https://www.anthropic.com/research/claude-personal-guidance",
+    "score": 7,
     "date": "2026-05-01",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Copy Fail",
+    "title": "What can we gain by losing infinity?",
     "source": "Hacker News",
-    "description": "HN Score: 1384 | 485 comments",
-    "url": "https://copy.fail/",
-    "score": 1384,
+    "description": "HN Score: 110 | 118 comments",
+    "url": "https://www.quantamagazine.org/what-can-we-gain-by-losing-infinity-20260429/",
+    "score": 110,
     "date": "2026-05-01",
     "category": "AI News"
   },
@@ -110,15 +110,6 @@
     "category": "Twitter"
   },
   {
-    "title": "U.S. Aims to Penalize Disabled Adults Who Live with Their Families",
-    "source": "Hacker News",
-    "description": "HN Score: 16 | 0 comments",
-    "url": "https://www.propublica.org/article/trump-social-security-ssi-disability-benefits-cuts-parents-children",
-    "score": 16,
-    "date": "2026-05-01",
-    "category": "AI News"
-  },
-  {
     "title": "RT by @svpino: I'm spending so much time managing context, and I hate it. Here is a tip for you: don't use /compact any more in Claude Code. There's a",
     "source": "@svpino",
     "description": "",
@@ -127,27 +118,18 @@
     "category": "Twitter"
   },
   {
-    "title": "Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs",
-    "source": "Hacker News",
-    "description": "HN Score: 191 | 153 comments",
-    "url": "https://github.com/cauchy221/Alignment-Whack-a-Mole-Code",
-    "score": 191,
-    "date": "2026-05-01",
-    "category": "AI News"
-  },
-  {
-    "title": "TBH - AI hasn\u2019t replaced any programmers yet Often its just making us run around circles Prompting, pleading and yelling at it to get things right",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2050080757130146106#m",
-    "date": "2026-05-01",
-    "category": "Twitter"
-  },
-  {
     "title": "Grok 4.3 launched today \ud83d\ude80 It is as smart as Sonnet 4.6 and 5x cheaper and faster Gemini models coming soon",
     "source": "@bindureddy",
     "description": "",
     "url": "https://nitter.net/bindureddy/status/2050028784242536585#m",
+    "date": "2026-05-01",
+    "category": "Twitter"
+  },
+  {
+    "title": "PREDICTION - Everyone is going to move from Opus to GPT to Gemini every 2 months How long can we sustain this? \ud83e\udd23",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2049924288510337345#m",
     "date": "2026-05-01",
     "category": "Twitter"
   }
