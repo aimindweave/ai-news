@@ -4,16 +4,16 @@
     "source": "@kaborobot",
     "description": "",
     "url": "https://nitter.net/kaborobot/status/2015735996248420451#m",
-    "date": "2026-04-30",
+    "date": "2026-05-01",
     "category": "Twitter"
   },
   {
     "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
     "source": "Hacker News",
-    "description": "HN Score: 295 | 95 comments",
+    "description": "HN Score: 340 | 116 comments",
     "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
-    "score": 295,
-    "date": "2026-04-30",
+    "score": 340,
+    "date": "2026-05-01",
     "category": "AI News"
   },
   {
@@ -21,16 +21,16 @@
     "source": "@kaborobot",
     "description": "",
     "url": "https://nitter.net/kaborobot/status/1977673306670330109#m",
-    "date": "2026-04-30",
+    "date": "2026-05-01",
     "category": "Twitter"
   },
   {
     "title": "Claude Code refuses requests or charges extra if your commits mention 'OpenClaw'",
     "source": "Hacker News",
-    "description": "HN Score: 850 | 488 comments",
+    "description": "HN Score: 1013 | 567 comments",
     "url": "https://twitter.com/theo/status/2049645973350363168",
-    "score": 850,
-    "date": "2026-04-30",
+    "score": 1013,
+    "date": "2026-05-01",
     "category": "AI News"
   },
   {
@@ -38,16 +38,16 @@
     "source": "@EMostaque",
     "description": "",
     "url": "https://nitter.net/EMostaque/status/2049810870193004851#m",
-    "date": "2026-04-30",
+    "date": "2026-05-01",
     "category": "Twitter"
   },
   {
-    "title": "CopyFail was not disclosed to Gentoo developer",
+    "title": "Spain's parliament will act against massive IP blockages by LaLiga",
     "source": "Hacker News",
-    "description": "HN Score: 307 | 234 comments",
-    "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
-    "score": 307,
-    "date": "2026-04-30",
+    "description": "HN Score: 428 | 177 comments",
+    "url": "https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/",
+    "score": 428,
+    "date": "2026-05-01",
     "category": "AI News"
   },
   {
@@ -55,16 +55,16 @@
     "source": "@EMostaque",
     "description": "",
     "url": "https://nitter.net/EMostaque/status/2049567497280458827#m",
-    "date": "2026-04-30",
+    "date": "2026-05-01",
     "category": "Twitter"
   },
   {
-    "title": "Spain's parliament will act against massive IP blockages by LaLiga",
+    "title": "Granite 4.1: IBM's 8B Model Matching 32B MoE",
     "source": "Hacker News",
-    "description": "HN Score: 372 | 162 comments",
-    "url": "https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/",
-    "score": 372,
-    "date": "2026-04-30",
+    "description": "HN Score: 282 | 177 comments",
+    "url": "https://firethering.com/granite-4-1-ibm-open-source-model-family/",
+    "score": 282,
+    "date": "2026-05-01",
     "category": "AI News"
   },
   {
@@ -72,16 +72,16 @@
     "source": "@DrJimFan",
     "description": "",
     "url": "https://nitter.net/DrJimFan/status/2039360927653614004#m",
-    "date": "2026-04-30",
+    "date": "2026-05-01",
     "category": "Twitter"
   },
   {
-    "title": "Granite 4.1: IBM's 8B Model Matching 32B MoE",
+    "title": "What can we gain by losing infinity?",
     "source": "Hacker News",
-    "description": "HN Score: 267 | 166 comments",
-    "url": "https://firethering.com/granite-4-1-ibm-open-source-model-family/",
-    "score": 267,
-    "date": "2026-04-30",
+    "description": "HN Score: 104 | 115 comments",
+    "url": "https://www.quantamagazine.org/what-can-we-gain-by-losing-infinity-20260429/",
+    "score": 104,
+    "date": "2026-05-01",
     "category": "AI News"
   },
   {
@@ -89,50 +89,67 @@
     "source": "@DrJimFan",
     "description": "",
     "url": "https://nitter.net/DrJimFan/status/2039360925606760690#m",
-    "date": "2026-04-30",
+    "date": "2026-05-01",
+    "category": "Twitter"
+  },
+  {
+    "title": "Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs",
+    "source": "Hacker News",
+    "description": "HN Score: 190 | 152 comments",
+    "url": "https://github.com/cauchy221/Alignment-Whack-a-Mole-Code",
+    "score": 190,
+    "date": "2026-05-01",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: It's crazy to realize how my life depends on AI right now. I filed my 2025 taxes using AI, read and write contracts with it, managed th",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2049875941254660334#m",
+    "date": "2026-05-01",
+    "category": "Twitter"
+  },
+  {
+    "title": "Copy Fail",
+    "source": "Hacker News",
+    "description": "HN Score: 1368 | 483 comments",
+    "url": "https://copy.fail/",
+    "score": 1368,
+    "date": "2026-05-01",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: I'm spending so much time managing context, and I hate it. Here is a tip for you: don't use /compact any more in Claude Code. There's a",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2049828761710063980#m",
+    "date": "2026-05-01",
     "category": "Twitter"
   },
   {
     "title": "Show HN: Pu.sh \u2013 a full coding-agent harness in 400 lines of shell",
     "source": "Hacker News",
-    "description": "HN Score: 33 | 14 comments",
+    "description": "HN Score: 72 | 21 comments",
     "url": "https://pu.dev/",
-    "score": 33,
-    "date": "2026-04-30",
+    "score": 72,
+    "date": "2026-05-01",
     "category": "AI News"
   },
   {
-    "title": "Really good article here about the future of UI in the era of AI: \u2022 We are going in two directions right now: headless APIs/CLIs for agents, and gener",
-    "source": "@svpino",
+    "title": "Grok 4.3 launched today \ud83d\ude80 It is as smart as Sonnet 4.6 and 5x cheaper and faster Gemini models coming soon",
+    "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2049915335860432935#m",
-    "date": "2026-04-30",
+    "url": "https://nitter.net/bindureddy/status/2050028784242536585#m",
+    "date": "2026-05-01",
     "category": "Twitter"
   },
   {
-    "title": "The Human Creativity Benchmark \u2013 Evaluating Generative AI in Creative Work",
+    "title": "Brain scans reveal 3 ADHD subtypes",
     "source": "Hacker News",
-    "description": "HN Score: 14 | 1 comments",
-    "url": "https://contralabs.com/research/human-creativity-benchmark",
-    "score": 14,
-    "date": "2026-04-30",
-    "category": "AI News"
-  },
-  {
-    "title": "R to @svpino: Here is the link to the extension: https://chromewebstore.google.com/detail/cuey-compare-results-from/gdbiinmclpikjlmfnekmggbddgmlglia T",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2049875953804087352#m",
-    "date": "2026-04-30",
-    "category": "Twitter"
-  },
-  {
-    "title": "What can we gain by losing infinity?",
-    "source": "Hacker News",
-    "description": "HN Score: 93 | 101 comments",
-    "url": "https://www.quantamagazine.org/what-can-we-gain-by-losing-infinity-20260429/",
-    "score": 93,
-    "date": "2026-04-30",
+    "description": "HN Score: 7 | 2 comments",
+    "url": "https://www.washingtonpost.com/health/2026/04/30/adhd-subtype-extreme-brain-scans/",
+    "score": 7,
+    "date": "2026-05-01",
     "category": "AI News"
   },
   {
@@ -140,33 +157,7 @@
     "source": "@bindureddy",
     "description": "",
     "url": "https://nitter.net/bindureddy/status/2049924288510337345#m",
-    "date": "2026-04-30",
+    "date": "2026-05-01",
     "category": "Twitter"
-  },
-  {
-    "title": "Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs",
-    "source": "Hacker News",
-    "description": "HN Score: 186 | 151 comments",
-    "url": "https://github.com/cauchy221/Alignment-Whack-a-Mole-Code",
-    "score": 186,
-    "date": "2026-04-30",
-    "category": "AI News"
-  },
-  {
-    "title": "\ud83d\udea8 BREAKING NEWS - Announcing Video and Image Agentic Orchestration GPT 5.5 and Opus 4.7 agents orchestrate the best video and audio models Combine Gro",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2049720212866617357#m",
-    "date": "2026-04-30",
-    "category": "Twitter"
-  },
-  {
-    "title": "Show HN: TRiP \u2013 a complete transformer engine in C built from scratch just by me",
-    "source": "Hacker News",
-    "description": "HN Score: 30 | 6 comments",
-    "url": "https://github.com/carlovalenti/TRiP",
-    "score": 30,
-    "date": "2026-04-30",
-    "category": "AI News"
   }
 ]
