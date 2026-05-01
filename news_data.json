@@ -1,5 +1,12 @@
 [
   {
+    "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
+    "source": "TechCrunch",
+    "summary": "Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.",
+    "url": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
+    "date": "2026-05-01"
+  },
+  {
     "title": "Did you know you can\u2019t steal a charity? Don\u2019t worry. Elon Musk will remind you.",
     "source": "TechCrunch",
     "summary": "Elon Musk spent the better part of three days on the witness stand this week in his lawsuit against OpenAI, and it s already getting messy. Emails, texts, and his own tweets are surfacing in court, and there are plenty more witnesses to come. Musk s argument against OpenAI? By converting the comp...",
@@ -98,10 +105,10 @@
     "date": "2026-05-01"
   },
   {
-    "title": "X announces a rebuilt ad platform powered by AI",
-    "source": "TechCrunch",
-    "summary": "X is rolling out a rebuilt ads platform powered by AI as it works to grow revenue again.",
-    "url": "https://techcrunch.com/2026/04/30/x-announces-a-rebuilt-ad-platform-powered-by-ai/",
+    "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI\u2019s models",
+    "source": "MIT Tech Review",
+    "summary": "In the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into bankrolling the company. Along the way, he warned that AI could destroy us all and sat",
+    "url": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
     "date": "2026-05-01"
   },
   {
@@ -165,13 +172,6 @@
     "source": "MIT Tech Review",
     "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Digging for clues about the North Pole\u2019s past In the past, getting to the North Pole involved a treacherous trip through ice many meters thick. But last year, ...",
     "url": "https://www.technologyreview.com/2026/04/30/1136713/the-download-north-pole-future-humanoid-data/",
-    "date": "2026-05-01"
-  },
-  {
-    "title": "The Download: storing nuclear waste and orchestrating agents",
-    "source": "MIT Tech Review",
-    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. It\u2019s time to make a plan for nuclear waste Today, nuclear energy enjoys rare support across the political spectrum. Public approval has spiked, and Big Tech is...",
-    "url": "https://www.technologyreview.com/2026/04/29/1136666/the-download-nuclear-waste-orchestrated-ai-agents/",
     "date": "2026-05-01"
   },
   {
@@ -242,6 +242,13 @@
     "source": "Wired",
     "summary": "\u201cI believe the technology was deployed too quickly in too vast amounts, with hundreds of vehicles, when it wasn\u2019t really ready,\u201d one police official told federal regulators last month.",
     "url": "https://www.wired.com/story/emergency-first-responders-say-waymos-are-getting-worse/",
+    "date": "2026-05-01"
+  },
+  {
+    "title": "Study: AI models that consider user's feeling are more likely to make errors",
+    "source": "Ars Technica",
+    "summary": "Overtuning can cause models to 'prioritize user satisfaction over truthfulness.\u201d",
+    "url": "https://arstechnica.com/ai/2026/05/study-ai-models-that-consider-users-feeling-are-more-likely-to-make-errors/",
     "date": "2026-05-01"
   },
   {
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "Amended agreement clears the way for OpenAI models to run on Amazon Bedrock.",
     "url": "https://arstechnica.com/ai/2026/04/no-longer-exclusive-microsoft-agrees-to-let-openai-see-other-cloud-providers/",
-    "date": "2026-05-01"
-  },
-  {
-    "title": "EU tells Google to open up AI on Android; Google says that's 'unwarranted intervention'",
-    "source": "Ars Technica",
-    "summary": "Gemini gets preferential treatment on Android, but maybe not for long (in Europe).",
-    "url": "https://arstechnica.com/ai/2026/04/europe-could-force-google-to-open-android-to-other-ai-assistants/",
     "date": "2026-05-01"
   }
 ]
