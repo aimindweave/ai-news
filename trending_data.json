@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Eka\u2019s robotic claw feels like we're approaching a ChatGPT moment",
+    "title": "Show HN: Mljar Studio \u2013 local AI data analyst that saves analysis as notebooks",
     "source": "Hacker News",
-    "description": "HN Score: 139 | 190 comments",
-    "url": "https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/",
-    "score": 139,
+    "description": "HN Score: 10 | 1 comments",
+    "url": "https://mljar.com/",
+    "score": 10,
     "date": "2026-05-02",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Direct electrochemical black coffee quality appraisal using cyclic voltammetry",
+    "title": "Show HN: DAC \u2013 open-source dashboard as code tool for agents and humans",
     "source": "Hacker News",
-    "description": "HN Score: 52 | 17 comments",
-    "url": "https://www.nature.com/articles/s41467-026-71526-5",
-    "score": 52,
+    "description": "HN Score: 18 | 1 comments",
+    "url": "https://github.com/bruin-data/dac",
+    "score": 18,
     "date": "2026-05-02",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "The gay jailbreak technique (2025)",
+    "title": "Show HN: Filling PDF forms with AI using client-side tool calling",
     "source": "Hacker News",
-    "description": "HN Score: 520 | 215 comments",
-    "url": "https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md",
-    "score": 520,
+    "description": "HN Score: 13 | 5 comments",
+    "url": "https://copilot.simplepdf.com/?share=a7d00ad073c75a75d493228e6ff7b11eb3f2d945b6175913e87898ec96ca8076&form=w9&lang=en",
+    "score": 13,
     "date": "2026-05-02",
     "category": "AI News"
   },
@@ -55,6 +55,74 @@
     "source": "@EMostaque",
     "description": "",
     "url": "https://nitter.net/EMostaque/status/2050074699284054523#m",
+    "date": "2026-05-02",
+    "category": "Twitter"
+  },
+  {
+    "title": "Eka\u2019s robotic claw feels like we're approaching a ChatGPT moment",
+    "source": "Hacker News",
+    "description": "HN Score: 145 | 205 comments",
+    "url": "https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/",
+    "score": 145,
+    "date": "2026-05-02",
+    "category": "AI News"
+  },
+  {
+    "title": "R to @DrJimFan: Please check out lead author @letian_fu's deep dive thread! https://x.com/letian_fu/status/2039342130565357956?s=20",
+    "source": "@DrJimFan",
+    "description": "",
+    "url": "https://nitter.net/DrJimFan/status/2039360927653614004#m",
+    "date": "2026-05-02",
+    "category": "Twitter"
+  },
+  {
+    "title": "Direct electrochemical black coffee quality appraisal using cyclic voltammetry",
+    "source": "Hacker News",
+    "description": "HN Score: 54 | 28 comments",
+    "url": "https://www.nature.com/articles/s41467-026-71526-5",
+    "score": 54,
+    "date": "2026-05-02",
+    "category": "AI News"
+  },
+  {
+    "title": "R to @DrJimFan: As usual, we open-source everything, MIT license: https://capgym.github.io Code: https://github.com/capgym/cap-x Paper: https://arxiv.",
+    "source": "@DrJimFan",
+    "description": "",
+    "url": "https://nitter.net/DrJimFan/status/2039360925606760690#m",
+    "date": "2026-05-02",
+    "category": "Twitter"
+  },
+  {
+    "title": "The gay jailbreak technique (2025)",
+    "source": "Hacker News",
+    "description": "HN Score: 527 | 223 comments",
+    "url": "https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md",
+    "score": 527,
+    "date": "2026-05-02",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: I love how much we can 'teach' Claude by giving it skills and access to new MCP servers. A few things you can now do with Pika MCP: \u2022 D",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2050308117376962817#m",
+    "date": "2026-05-02",
+    "category": "Twitter"
+  },
+  {
+    "title": "Open source ballistic simulator with NASA SRTM terrain masking (Python/C#)",
+    "source": "Hacker News",
+    "description": "HN Score: 3 | 3 comments",
+    "url": "https://github.com/InsaneInfinity/Balistic",
+    "score": 3,
+    "date": "2026-05-02",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: Code reviews will benefit a ton from this. I've been familiar with Macroscope for a while. They handle the basics: \u2022 Identifying bugs \u2022",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2050262803475472687#m",
     "date": "2026-05-02",
     "category": "Twitter"
   },
@@ -68,69 +136,37 @@
     "category": "AI News"
   },
   {
-    "title": "R to @DrJimFan: Please check out lead author @letian_fu's deep dive thread! https://x.com/letian_fu/status/2039342130565357956?s=20",
-    "source": "@DrJimFan",
-    "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2039360927653614004#m",
-    "date": "2026-05-02",
-    "category": "Twitter"
-  },
-  {
-    "title": "Spotify adds 'Verified' badges to distinguish human artists from AI",
-    "source": "Hacker News",
-    "description": "HN Score: 242 | 267 comments",
-    "url": "https://www.bbc.com/news/articles/c5yerr4m1yno",
-    "score": 242,
-    "date": "2026-05-02",
-    "category": "AI News"
-  },
-  {
-    "title": "R to @DrJimFan: As usual, we open-source everything, MIT license: https://capgym.github.io Code: https://github.com/capgym/cap-x Paper: https://arxiv.",
-    "source": "@DrJimFan",
-    "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2039360925606760690#m",
-    "date": "2026-05-02",
-    "category": "Twitter"
-  },
-  {
-    "title": "AI uses less water than the public thinks",
-    "source": "Hacker News",
-    "description": "HN Score: 374 | 348 comments",
-    "url": "https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/",
-    "score": 374,
-    "date": "2026-05-02",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: I love how much we can 'teach' Claude by giving it skills and access to new MCP servers. A few things you can now do with Pika MCP: \u2022 D",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2050308117376962817#m",
-    "date": "2026-05-02",
-    "category": "Twitter"
-  },
-  {
-    "title": "RT by @svpino: Code reviews will benefit a ton from this. I've been familiar with Macroscope for a while. They handle the basics: \u2022 Identifying bugs \u2022",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2050262803475472687#m",
-    "date": "2026-05-02",
-    "category": "Twitter"
-  },
-  {
-    "title": "Furiously running a dozen agents across GPT 5.5 thinking, Opus 4.7 and Sonnet 4.6 Will be working the entire weekend - hope to be the first in the wor",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2050453411670483048#m",
-    "date": "2026-05-02",
-    "category": "Twitter"
-  },
-  {
     "title": "DeepSeek V4 flash is not getting the attention it deserves It's a VERY GOOD fast open-source model Perfect for many simple use-cases at scale - much f",
     "source": "@bindureddy",
     "description": "",
     "url": "https://nitter.net/bindureddy/status/2050414613293084942#m",
     "date": "2026-05-02",
     "category": "Twitter"
+  },
+  {
+    "title": "Show HN: Agent-desktop \u2013 Native desktop automation CLI for AI agents",
+    "source": "Hacker News",
+    "description": "HN Score: 82 | 26 comments",
+    "url": "https://github.com/lahfir/agent-desktop",
+    "score": 82,
+    "date": "2026-05-02",
+    "category": "AI News"
+  },
+  {
+    "title": "Kimi 2.6 and GLM 5.1 are insanely close to closed AI in performance The only issue is speed. I am hopeful the open source models will soon solve them ",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2050229807502512539#m",
+    "date": "2026-05-02",
+    "category": "Twitter"
+  },
+  {
+    "title": "Spotify adds 'Verified' badges to distinguish human artists from AI",
+    "source": "Hacker News",
+    "description": "HN Score: 243 | 268 comments",
+    "url": "https://www.bbc.com/news/articles/c5yerr4m1yno",
+    "score": 243,
+    "date": "2026-05-02",
+    "category": "AI News"
   }
 ]
