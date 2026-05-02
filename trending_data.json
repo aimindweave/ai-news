@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Mljar Studio \u2013 local AI data analyst that saves analysis as notebooks",
+    "title": "Open Design: Use Your Coding Agent as a Design Engine",
     "source": "Hacker News",
-    "description": "HN Score: 10 | 1 comments",
-    "url": "https://mljar.com/",
-    "score": 10,
+    "description": "HN Score: 15 | 3 comments",
+    "url": "https://github.com/nexu-io/open-design",
+    "score": 15,
     "date": "2026-05-02",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "Show HN: DAC \u2013 open-source dashboard as code tool for agents and humans",
     "source": "Hacker News",
-    "description": "HN Score: 18 | 1 comments",
+    "description": "HN Score: 47 | 11 comments",
     "url": "https://github.com/bruin-data/dac",
-    "score": 18,
+    "score": 47,
     "date": "2026-05-02",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Filling PDF forms with AI using client-side tool calling",
+    "title": "Show HN: Mljar Studio \u2013 local AI data analyst that saves analysis as notebooks",
     "source": "Hacker News",
-    "description": "HN Score: 13 | 5 comments",
-    "url": "https://copilot.simplepdf.com/?share=a7d00ad073c75a75d493228e6ff7b11eb3f2d945b6175913e87898ec96ca8076&form=w9&lang=en",
-    "score": 13,
+    "description": "HN Score: 26 | 3 comments",
+    "url": "https://mljar.com/",
+    "score": 26,
     "date": "2026-05-02",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Eka\u2019s robotic claw feels like we're approaching a ChatGPT moment",
+    "title": "Show HN: Filling PDF forms with AI using client-side tool calling",
     "source": "Hacker News",
-    "description": "HN Score: 145 | 205 comments",
-    "url": "https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/",
-    "score": 145,
+    "description": "HN Score: 23 | 14 comments",
+    "url": "https://copilot.simplepdf.com/?share=a7d00ad073c75a75d493228e6ff7b11eb3f2d945b6175913e87898ec96ca8076&form=w9&lang=en",
+    "score": 23,
     "date": "2026-05-02",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Direct electrochemical black coffee quality appraisal using cyclic voltammetry",
+    "title": "Craig Venter of Human Genome Project Dies at 79",
     "source": "Hacker News",
-    "description": "HN Score: 54 | 28 comments",
-    "url": "https://www.nature.com/articles/s41467-026-71526-5",
-    "score": 54,
+    "description": "HN Score: 4 | 0 comments",
+    "url": "https://www.economist.com/obituary/2026/05/01/craig-venter-raced-to-decode-the-human-genome",
+    "score": 4,
     "date": "2026-05-02",
     "category": "AI News"
   },
@@ -93,11 +93,28 @@
     "category": "Twitter"
   },
   {
-    "title": "The gay jailbreak technique (2025)",
+    "title": "Eka\u2019s robotic claw feels like we're approaching a ChatGPT moment",
     "source": "Hacker News",
-    "description": "HN Score: 527 | 223 comments",
-    "url": "https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md",
-    "score": 527,
+    "description": "HN Score: 153 | 216 comments",
+    "url": "https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/",
+    "score": 153,
+    "date": "2026-05-02",
+    "category": "AI News"
+  },
+  {
+    "title": "20 Claude Code tips: 1. Esc+Esc: Rewind your session to any previous checkpoint; treat it as free undo so you can let the agent attempt risky changes.",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2050563493708112190#m",
+    "date": "2026-05-02",
+    "category": "Twitter"
+  },
+  {
+    "title": "Direct electrochemical black coffee quality appraisal using cyclic voltammetry",
+    "source": "Hacker News",
+    "description": "HN Score: 57 | 29 comments",
+    "url": "https://www.nature.com/articles/s41467-026-71526-5",
+    "score": 57,
     "date": "2026-05-02",
     "category": "AI News"
   },
@@ -110,28 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Open source ballistic simulator with NASA SRTM terrain masking (Python/C#)",
+    "title": "The gay jailbreak technique (2025)",
     "source": "Hacker News",
-    "description": "HN Score: 3 | 3 comments",
-    "url": "https://github.com/InsaneInfinity/Balistic",
-    "score": 3,
-    "date": "2026-05-02",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: Code reviews will benefit a ton from this. I've been familiar with Macroscope for a while. They handle the basics: \u2022 Identifying bugs \u2022",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2050262803475472687#m",
-    "date": "2026-05-02",
-    "category": "Twitter"
-  },
-  {
-    "title": "Show HN: AI CAD Harness",
-    "source": "Hacker News",
-    "description": "HN Score: 85 | 86 comments",
-    "url": "https://fusion.adam.new/install",
-    "score": 85,
+    "description": "HN Score: 544 | 225 comments",
+    "url": "https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md",
+    "score": 544,
     "date": "2026-05-02",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Agent-desktop \u2013 Native desktop automation CLI for AI agents",
+    "title": "Show HN: AI CAD Harness",
     "source": "Hacker News",
-    "description": "HN Score: 82 | 26 comments",
-    "url": "https://github.com/lahfir/agent-desktop",
-    "score": 82,
+    "description": "HN Score: 86 | 86 comments",
+    "url": "https://fusion.adam.new/install",
+    "score": 86,
     "date": "2026-05-02",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Spotify adds 'Verified' badges to distinguish human artists from AI",
+    "title": "Open source ballistic simulator with NASA SRTM terrain masking (Python/C#)",
     "source": "Hacker News",
-    "description": "HN Score: 243 | 268 comments",
-    "url": "https://www.bbc.com/news/articles/c5yerr4m1yno",
-    "score": 243,
+    "description": "HN Score: 6 | 3 comments",
+    "url": "https://github.com/InsaneInfinity/Balistic",
+    "score": 6,
     "date": "2026-05-02",
     "category": "AI News"
   }
