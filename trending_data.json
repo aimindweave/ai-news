@@ -10,9 +10,9 @@
   {
     "title": "OpenAI's o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
     "source": "Hacker News",
-    "description": "HN Score: 133 | 71 comments",
+    "description": "HN Score: 209 | 156 comments",
     "url": "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses",
-    "score": 133,
+    "score": 209,
     "date": "2026-05-03",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "I built my own hair electrolysis machine",
+    "title": "DeepClaude \u2013 Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper",
     "source": "Hacker News",
-    "description": "HN Score: 107 | 19 comments",
-    "url": "https://www.scd31.com/posts/diy-hair-electrolysis-machine",
-    "score": 107,
+    "description": "HN Score: 3 | 0 comments",
+    "url": "https://github.com/aattaran/deepclaude",
+    "score": 3,
     "date": "2026-05-03",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Talking to Transformers",
+    "title": "I built my own hair electrolysis machine",
     "source": "Hacker News",
-    "description": "HN Score: 14 | 1 comments",
-    "url": "https://miraos.org/blog/2026/05/02/talking-to-transformers",
-    "score": 14,
+    "description": "HN Score: 148 | 37 comments",
+    "url": "https://www.scd31.com/posts/diy-hair-electrolysis-machine",
+    "score": 148,
     "date": "2026-05-03",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Brain scans reveal 3 ADHD subtypes",
+    "title": "Talking to Transformers",
     "source": "Hacker News",
-    "description": "HN Score: 62 | 45 comments",
-    "url": "https://www.washingtonpost.com/health/2026/04/30/adhd-subtype-extreme-brain-scans/",
-    "score": 62,
+    "description": "HN Score: 23 | 2 comments",
+    "url": "https://miraos.org/blog/2026/05/02/talking-to-transformers",
+    "score": 23,
     "date": "2026-05-03",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Group averages obscure how an individual's brain controls behavior: study",
+    "title": "The agent harness belongs outside the sandbox",
     "source": "Hacker News",
-    "description": "HN Score: 104 | 32 comments",
-    "url": "https://med.stanford.edu/news/all-news/2026/04/brain-scans-individual-versus-group.html",
-    "score": 104,
+    "description": "HN Score: 161 | 111 comments",
+    "url": "https://www.mendral.com/blog/agent-harness-belongs-outside-sandbox",
+    "score": 161,
     "date": "2026-05-03",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "The agent harness belongs outside the sandbox",
+    "title": "Group averages obscure how an individual's brain controls behavior: study",
     "source": "Hacker News",
-    "description": "HN Score: 150 | 106 comments",
-    "url": "https://www.mendral.com/blog/agent-harness-belongs-outside-sandbox",
-    "score": 150,
+    "description": "HN Score: 106 | 32 comments",
+    "url": "https://med.stanford.edu/news/all-news/2026/04/brain-scans-individual-versus-group.html",
+    "score": 106,
     "date": "2026-05-03",
     "category": "AI News"
   },
@@ -110,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "How Kepler built verifiable AI for financial services with Claude",
+    "title": "Performance of a large language model on the reasoning tasks of a physician",
     "source": "Hacker News",
-    "description": "HN Score: 24 | 12 comments",
-    "url": "https://claude.com/blog/how-kepler-built-verifiable-ai-for-financial-services-with-claude",
-    "score": 24,
+    "description": "HN Score: 3 | 1 comments",
+    "url": "https://www.science.org/doi/10.1126/science.adz4433",
+    "score": 3,
     "date": "2026-05-03",
     "category": "AI News"
   },
@@ -127,11 +127,28 @@
     "category": "Twitter"
   },
   {
-    "title": "ASU Using AI Tool to Create Courses from Professors' Work Without Their",
+    "title": "LLMs Are Not a Higher Level of Abstraction",
     "source": "Hacker News",
-    "description": "HN Score: 10 | 0 comments",
-    "url": "https://azfreenews.com/2026/05/asu-using-ai-tool-to-create-courses-from-professors-work-without-their-knowledge/",
-    "score": 10,
+    "description": "HN Score: 8 | 7 comments",
+    "url": "https://www.lelanthran.com/chap15/content.html",
+    "score": 8,
+    "date": "2026-05-03",
+    "category": "AI News"
+  },
+  {
+    "title": "GPT 5.5 simply has more sense, awareness and overall EQ than any other model Most LLMs are too eager to please, are very superficial and don\u2019t seem li",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2051070242890354739#m",
+    "date": "2026-05-03",
+    "category": "Twitter"
+  },
+  {
+    "title": "How Kepler built verifiable AI for financial services with Claude",
+    "source": "Hacker News",
+    "description": "HN Score: 30 | 20 comments",
+    "url": "https://claude.com/blog/how-kepler-built-verifiable-ai-for-financial-services-with-claude",
+    "score": 30,
     "date": "2026-05-03",
     "category": "AI News"
   },
@@ -144,28 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Largest electric autonomous container ship begins commercial service",
+    "title": "Brain scans reveal 3 ADHD subtypes",
     "source": "Hacker News",
-    "description": "HN Score: 28 | 9 comments",
-    "url": "https://global.chinadaily.com.cn/a/202604/16/WS69e0ee90a310d6866eb43dd4.html",
-    "score": 28,
-    "date": "2026-05-03",
-    "category": "AI News"
-  },
-  {
-    "title": "The AI lab that drops a better model consistently every month will win the AGI race - Google and Grok have to iterate quicker - OpenAI has to become m",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2050583957918650627#m",
-    "date": "2026-05-03",
-    "category": "Twitter"
-  },
-  {
-    "title": "Specsmaxxing \u2013 On overcoming AI psychosis, and why I write specs in YAML",
-    "source": "Hacker News",
-    "description": "HN Score: 252 | 264 comments",
-    "url": "https://acai.sh/blog/specsmaxxing",
-    "score": 252,
+    "description": "HN Score: 86 | 78 comments",
+    "url": "https://www.washingtonpost.com/health/2026/04/30/adhd-subtype-extreme-brain-scans/",
+    "score": 86,
     "date": "2026-05-03",
     "category": "AI News"
   }
