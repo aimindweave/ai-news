@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: State of the Art of Coding Models, According to Hacker News Commenters",
+    "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
     "source": "Hacker News",
-    "description": "HN Score: 67 | 32 comments",
-    "url": "https://hnup.date/hn-sota",
-    "score": 67,
+    "description": "HN Score: 163 | 75 comments",
+    "url": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
+    "score": 163,
     "date": "2026-05-03",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Voice-AI-for-Beginners \u2013 A curated learning path for developers",
+    "title": "The IBM Granite 4.1 family of models",
     "source": "Hacker News",
-    "description": "HN Score: 41 | 3 comments",
-    "url": "https://github.com/mahimairaja/voiceai",
-    "score": 41,
+    "description": "HN Score: 43 | 5 comments",
+    "url": "https://research.ibm.com/blog/granite-4-1-ai-foundation-models",
+    "score": 43,
     "date": "2026-05-03",
     "category": "AI News"
   },
@@ -44,9 +44,9 @@
   {
     "title": "The agent harness belongs outside the sandbox",
     "source": "Hacker News",
-    "description": "HN Score: 73 | 57 comments",
+    "description": "HN Score: 90 | 70 comments",
     "url": "https://www.mendral.com/blog/agent-harness-belongs-outside-sandbox",
-    "score": 73,
+    "score": 90,
     "date": "2026-05-03",
     "category": "AI News"
   },
@@ -59,28 +59,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Refusal in Language Models Is Mediated by a Single Direction",
+    "title": "Show HN: State of the Art of Coding Models, According to Hacker News Commenters",
     "source": "Hacker News",
-    "description": "HN Score: 99 | 36 comments",
-    "url": "https://arxiv.org/abs/2406.11717",
-    "score": 99,
+    "description": "HN Score: 87 | 44 comments",
+    "url": "https://hnup.date/hn-sota",
+    "score": 87,
     "date": "2026-05-03",
     "category": "AI News"
   },
   {
-    "title": "R to @DrJimFan: Please check out lead author @letian_fu's deep dive thread! https://x.com/letian_fu/status/2039342130565357956?s=20",
+    "title": "The power of the Claw, in the palm of a robot hand. Agentic robotics is here! Today, we open-source CaP-X: vibe agents, alive in the physical world. T",
     "source": "@DrJimFan",
     "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2039360927653614004#m",
+    "url": "https://nitter.net/DrJimFan/status/2039358115318243352#m",
     "date": "2026-05-03",
     "category": "Twitter"
   },
   {
-    "title": "Open Design: Use Your Coding Agent as a Design Engine",
+    "title": "When Dawkins met Claude \u2013 Could this AI be conscious?",
     "source": "Hacker News",
-    "description": "HN Score: 188 | 87 comments",
-    "url": "https://github.com/nexu-io/open-design",
-    "score": 188,
+    "description": "HN Score: 20 | 96 comments",
+    "url": "https://unherd.com/2026/04/is-ai-the-next-phase-of-evolution/",
+    "score": 20,
     "date": "2026-05-03",
     "category": "AI News"
   },
@@ -93,11 +93,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: DAC \u2013 open-source dashboard as code tool for agents and humans",
+    "title": "Refusal in Language Models Is Mediated by a Single Direction",
     "source": "Hacker News",
-    "description": "HN Score: 100 | 31 comments",
-    "url": "https://github.com/bruin-data/dac",
-    "score": 100,
+    "description": "HN Score: 107 | 37 comments",
+    "url": "https://arxiv.org/abs/2406.11717",
+    "score": 107,
+    "date": "2026-05-03",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: My new AI/ML cohort starts on Monday. So far, 3,336 students have gone through the program. My promise is simple: You'll come out of th",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2050623871628554472#m",
+    "date": "2026-05-03",
+    "category": "Twitter"
+  },
+  {
+    "title": "Voice-AI-for-Beginners \u2013 A curated learning path for developers",
+    "source": "Hacker News",
+    "description": "HN Score: 66 | 4 comments",
+    "url": "https://github.com/mahimairaja/voiceai",
+    "score": 66,
     "date": "2026-05-03",
     "category": "AI News"
   },
@@ -110,28 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Flue is a TypeScript framework for building the next generation of agents",
+    "title": "AI, Intimacy, and the Data You Never Meant to Share",
     "source": "Hacker News",
-    "description": "HN Score: 87 | 50 comments",
-    "url": "https://flueframework.com/",
-    "score": 87,
-    "date": "2026-05-03",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: 20 Claude Code tips: 1. Esc+Esc: Rewind your session to any previous checkpoint; treat it as free undo so you can let the agent attempt",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2050563493708112190#m",
-    "date": "2026-05-03",
-    "category": "Twitter"
-  },
-  {
-    "title": "Wyoming celebrates 'nuclear Renaissance' as feds approve license for a reactor",
-    "source": "Hacker News",
-    "description": "HN Score: 10 | 0 comments",
-    "url": "https://text.npr.org/nx-s1-5798892",
-    "score": 10,
+    "description": "HN Score: 11 | 0 comments",
+    "url": "https://fshot.org/techzone/the-algorithm-knows.php",
+    "score": 11,
     "date": "2026-05-03",
     "category": "AI News"
   },
@@ -144,11 +144,29 @@
     "category": "Twitter"
   },
   {
+    "title": "Open Design: Use Your Coding Agent as a Design Engine",
+    "source": "Hacker News",
+    "description": "HN Score: 198 | 88 comments",
+    "url": "https://github.com/nexu-io/open-design",
+    "score": 198,
+    "date": "2026-05-03",
+    "category": "AI News"
+  },
+  {
     "title": "The AI lab that drops a better model consistently every month will win the AGI race - Google and Grok have to iterate quicker - OpenAI has to become m",
     "source": "@bindureddy",
     "description": "",
     "url": "https://nitter.net/bindureddy/status/2050583957918650627#m",
     "date": "2026-05-03",
     "category": "Twitter"
+  },
+  {
+    "title": "Flue is a TypeScript framework for building the next generation of agents",
+    "source": "Hacker News",
+    "description": "HN Score: 89 | 50 comments",
+    "url": "https://flueframework.com/",
+    "score": 89,
+    "date": "2026-05-03",
+    "category": "AI News"
   }
 ]
