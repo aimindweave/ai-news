@@ -10,9 +10,9 @@
   {
     "title": "How OpenAI delivers low-latency voice AI at scale",
     "source": "Hacker News",
-    "description": "HN Score: 81 | 30 comments",
+    "description": "HN Score: 170 | 69 comments",
     "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
-    "score": 81,
+    "score": 170,
     "date": "2026-05-04",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Let's talk about LLMs",
+    "title": "Agent Skills",
     "source": "Hacker News",
-    "description": "HN Score: 65 | 34 comments",
-    "url": "https://www.b-list.org/weblog/2026/apr/09/llms/",
-    "score": 65,
+    "description": "HN Score: 17 | 2 comments",
+    "url": "https://addyosmani.com/blog/agent-skills/",
+    "score": 17,
     "date": "2026-05-04",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Sierra Raises $950M at $15B Valuation",
+    "title": "Let's talk about LLMs",
     "source": "Hacker News",
-    "description": "HN Score: 57 | 79 comments",
-    "url": "https://sierra.ai/blog/better-customer-experiences-built-on-sierra",
-    "score": 57,
+    "description": "HN Score: 101 | 66 comments",
+    "url": "https://www.b-list.org/weblog/2026/apr/09/llms/",
+    "score": 101,
     "date": "2026-05-04",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Why are neural networks and cryptographic ciphers so similar? (2025)",
+    "title": "Sierra Raises $950M at $15B Valuation",
     "source": "Hacker News",
-    "description": "HN Score: 111 | 34 comments",
-    "url": "https://reiner.org/neural-net-ciphers",
-    "score": 111,
+    "description": "HN Score: 69 | 95 comments",
+    "url": "https://sierra.ai/blog/better-customer-experiences-built-on-sierra",
+    "score": 69,
     "date": "2026-05-04",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "OpenAI, Google, and Microsoft Back Bill to Fund 'AI Literacy' in Schools",
+    "title": "Transformers Are Inherently Succinct",
     "source": "Hacker News",
-    "description": "HN Score: 99 | 87 comments",
-    "url": "https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/",
-    "score": 99,
+    "description": "HN Score: 15 | 5 comments",
+    "url": "https://arxiv.org/abs/2510.19315",
+    "score": 15,
     "date": "2026-05-04",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "DeepClaude \u2013 Claude Code agent loop with DeepSeek V4 Pro",
+    "title": "Why are neural networks and cryptographic ciphers so similar? (2025)",
     "source": "Hacker News",
-    "description": "HN Score: 639 | 269 comments",
-    "url": "https://github.com/aattaran/deepclaude",
-    "score": 639,
+    "description": "HN Score: 121 | 35 comments",
+    "url": "https://reiner.org/neural-net-ciphers",
+    "score": 121,
     "date": "2026-05-04",
     "category": "AI News"
   },
@@ -110,54 +110,63 @@
     "category": "Twitter"
   },
   {
-    "title": "'Staggering' number of people believe unproven health claims",
+    "title": "OpenAI, Google, and Microsoft Back Bill to Fund 'AI Literacy' in Schools",
     "source": "Hacker News",
-    "description": "HN Score: 18 | 6 comments",
-    "url": "https://www.nature.com/articles/d41586-026-01285-2",
-    "score": 18,
+    "description": "HN Score: 103 | 95 comments",
+    "url": "https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/",
+    "score": 103,
     "date": "2026-05-04",
     "category": "AI News"
   },
   {
-    "title": "Databases are far from dead. Hot take within the vibe-coding community, but you can't build a reliable agentic memory system using files alone. The fi",
+    "title": "R to @svpino: Here is the funny part: I've seen several teams already putting a ton of time 'hardening' their filesystem implementation to support con",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2051318846850765090#m",
+    "url": "https://nitter.net/svpino/status/2051318859727257722#m",
     "date": "2026-05-04",
     "category": "Twitter"
   },
   {
-    "title": "Usage-based pricing killing your vibe, here's how to roll your own local AI",
+    "title": "'Staggering' number of people believe unproven health claims",
     "source": "Hacker News",
-    "description": "HN Score: 26 | 24 comments",
-    "url": "https://www.theregister.com/2026/05/02/local_ai_coding_agents/",
-    "score": 26,
+    "description": "HN Score: 25 | 14 comments",
+    "url": "https://www.nature.com/articles/d41586-026-01285-2",
+    "score": 25,
     "date": "2026-05-04",
     "category": "AI News"
   },
   {
-    "title": "Most people have overfit their harness to a closed expensive model - largely Anthropic models You need to spend time generalizing to open source model",
+    "title": "Yikes, the US government is planning on vetting all new AI models! This gives China an INSANE ADVANTAGE and they will definitely catch up and overtake",
     "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/bindureddy/status/2051349728974225748#m",
+    "url": "https://nitter.net/bindureddy/status/2051422572173287437#m",
     "date": "2026-05-04",
     "category": "Twitter"
   },
   {
     "title": "Let's Buy Spirit Air",
     "source": "Hacker News",
-    "description": "HN Score: 556 | 531 comments",
+    "description": "HN Score: 564 | 539 comments",
     "url": "https://letsbuyspiritair.com/",
-    "score": 556,
+    "score": 564,
     "date": "2026-05-04",
     "category": "AI News"
   },
   {
-    "title": "DeepSeek V4 Beats Opus 4.7 And GPT 5.5 To Become The World's Best Open Source Model DeepSeek V4 Pro is the NEW KING of open-source . - better and 10x ",
+    "title": "Gemini is over due. Expect a really good Flash model Something that beats GPT 5.5/Opus 4.7 medium but is considerably cheaper and faster",
     "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/bindureddy/status/2051142381752517114#m",
+    "url": "https://nitter.net/bindureddy/status/2051416139235053586#m",
     "date": "2026-05-04",
     "category": "Twitter"
+  },
+  {
+    "title": "Usage-based pricing killing your vibe, here's how to roll your own local AI",
+    "source": "Hacker News",
+    "description": "HN Score: 33 | 32 comments",
+    "url": "https://www.theregister.com/2026/05/02/local_ai_coding_agents/",
+    "score": 33,
+    "date": "2026-05-04",
+    "category": "AI News"
   }
 ]
