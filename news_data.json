@@ -105,6 +105,13 @@
     "date": "2026-05-04"
   },
   {
+    "title": "Tailoring AI solutions for health care needs",
+    "source": "MIT Tech Review",
+    "summary": "The AI market is full of big promises of grand transformation. Health care is a prime target for those promises, beset as it is by financial pressures, labor shortages, and the growing burden of caring for an aging population. AI developers are targeting functions that vary widely, from curing ca...",
+    "url": "https://www.technologyreview.com/2026/05/04/1134425/tailoring-ai-solutions-for-health-care-needs/",
+    "date": "2026-05-04"
+  },
+  {
     "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI\u2019s models",
     "source": "MIT Tech Review",
     "summary": "In the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into bankrolling the company. Along the way, he warned that AI could destroy us all and sat th...",
@@ -165,13 +172,6 @@
     "source": "MIT Tech Review",
     "summary": "The San Francisco\u2013based startup Goodfire just released a new tool, called Silico, that lets researchers and engineers peer inside an AI model and adjust its parameters\u2014the settings that determine a model\u2019s behavior\u2014during training. This could give model makers more fine-grained control over how t...",
     "url": "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/",
-    "date": "2026-05-04"
-  },
-  {
-    "title": "The Download: the North Pole\u2019s future and humanoid data",
-    "source": "MIT Tech Review",
-    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Digging for clues about the North Pole\u2019s past In the past, getting to the North Pole involved a treacherous trip through ice many meters thick. But last year, ...",
-    "url": "https://www.technologyreview.com/2026/04/30/1136713/the-download-north-pole-future-humanoid-data/",
     "date": "2026-05-04"
   },
   {
@@ -245,7 +245,7 @@
     "date": "2026-05-04"
   },
   {
-    "title": "Study: AI models that consider user's feeling are more likely to make errors",
+    "title": "Study: AI models that consider users' feelings are more likely to make errors",
     "source": "Ars Technica",
     "summary": "Overtuning can cause models to 'prioritize user satisfaction over truthfulness.\u201d",
     "url": "https://arstechnica.com/ai/2026/05/study-ai-models-that-consider-users-feeling-are-more-likely-to-make-errors/",

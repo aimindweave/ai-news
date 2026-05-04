@@ -1,5 +1,22 @@
 [
   {
+    "title": "\u4eca\u56de\u306e\u602a\u7570\u3063\u3066 \u300c\u3082\u3057\u5cb8\u8fba\u9732\u4f34\u304c\u307f\u3093\u306a\u306b\u30c1\u30e4\u30db\u30e4\u3055\u308c\u308b\u305f\u3081\u306b\u6f2b\u753b\u3092\u63cf\u3044\u3066\u305f\u3089\u300d \u3060\u3063\u305f\u306a #\u6cc9\u4eac\u9999\u306f\u9ed9\u3089\u306a\u3044",
+    "source": "@kaborobot",
+    "description": "",
+    "url": "https://nitter.net/kaborobot/status/2051300761896972364#m",
+    "date": "2026-05-04",
+    "category": "Twitter"
+  },
+  {
+    "title": "Someone allegedly used a hairdryer to rig Polymarket weather bets",
+    "source": "Hacker News",
+    "description": "HN Score: 41 | 10 comments",
+    "url": "https://www.engadget.com/big-tech/someone-allegedly-used-a-hairdryer-to-rig-polymarket-weather-bets-155312411.html",
+    "score": 41,
+    "date": "2026-05-04",
+    "category": "AI News"
+  },
+  {
     "title": "1\u30da\u30fc\u30b8\u76ee\u3067\u3061\u3083\u3093\u3068\u6253\u6483\u98df\u3089\u3063\u3066\u30ac\u30b3\u30f3\u3057\u3066\u308b\u306e\u3067 \u3042\u308c\u304c\u306a\u304b\u3063\u305f\u3089\u6469\u864e\u7f85\u653b\u7565\u3067\u304d\u3066\u305f\u304b\u3082\u3057\u308c\u3093",
     "source": "@kaborobot",
     "description": "",
@@ -8,28 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "DeepClaude \u2013 Claude Code agent loop with DeepSeek V4 Pro",
+    "title": "Why are neural networks and cryptographic ciphers so similar? (2025)",
     "source": "Hacker News",
-    "description": "HN Score: 470 | 185 comments",
-    "url": "https://github.com/aattaran/deepclaude",
-    "score": 470,
-    "date": "2026-05-04",
-    "category": "AI News"
-  },
-  {
-    "title": "\u30ec\u30bc\u304c\u300c\u79c1\u306b\u306f\u904e\u304e\u305f\u9858\u3044\u3060\u3063\u305f\u300d\u306a\u3093\u3066\u601d\u3063\u3066\u3044\u307e\u305b\u3093\u3088\u3046\u306b\u3068\u7948\u3063\u3066\u305f\u9023\u4f11\u3060\u3063\u305f",
-    "source": "@kaborobot",
-    "description": "",
-    "url": "https://nitter.net/kaborobot/status/1977673306670330109#m",
-    "date": "2026-05-04",
-    "category": "Twitter"
-  },
-  {
-    "title": "Let's Buy Spirit Air",
-    "source": "Hacker News",
-    "description": "HN Score: 347 | 328 comments",
-    "url": "https://letsbuyspiritair.com/",
-    "score": 347,
+    "description": "HN Score: 47 | 13 comments",
+    "url": "https://reiner.org/neural-net-ciphers",
+    "score": 47,
     "date": "2026-05-04",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "OpenAI\u2019s o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
+    "title": "DeepClaude \u2013 Claude Code agent loop with DeepSeek V4 Pro",
     "source": "Hacker News",
-    "description": "HN Score: 400 | 348 comments",
-    "url": "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses",
-    "score": 400,
+    "description": "HN Score: 551 | 233 comments",
+    "url": "https://github.com/aattaran/deepclaude",
+    "score": 551,
     "date": "2026-05-04",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "I built my own hair electrolysis machine",
+    "title": "Let's Buy Spirit Air",
     "source": "Hacker News",
-    "description": "HN Score: 230 | 59 comments",
-    "url": "https://www.scd31.com/posts/diy-hair-electrolysis-machine",
-    "score": 230,
+    "description": "HN Score: 440 | 420 comments",
+    "url": "https://letsbuyspiritair.com/",
+    "score": 440,
     "date": "2026-05-04",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Group averages obscure how an individual's brain controls behavior: study",
+    "title": "OpenAI\u2019s o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
     "source": "Hacker News",
-    "description": "HN Score: 119 | 38 comments",
-    "url": "https://med.stanford.edu/news/all-news/2026/04/brain-scans-individual-versus-group.html",
-    "score": 119,
+    "description": "HN Score: 442 | 390 comments",
+    "url": "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses",
+    "score": 442,
     "date": "2026-05-04",
     "category": "AI News"
   },
@@ -93,36 +93,36 @@
     "category": "Twitter"
   },
   {
-    "title": "LLMs Are Not a Higher Level of Abstraction",
+    "title": "I built my own hair electrolysis machine",
     "source": "Hacker News",
-    "description": "HN Score: 120 | 110 comments",
-    "url": "https://www.lelanthran.com/chap15/content.html",
+    "description": "HN Score: 240 | 64 comments",
+    "url": "https://www.scd31.com/posts/diy-hair-electrolysis-machine",
+    "score": 240,
+    "date": "2026-05-04",
+    "category": "AI News"
+  },
+  {
+    "title": "These guys came out of the blue and climbed the text-to-video leaderboard overnight. I tried their model. Video quality is really, really good (I trie",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2051297971870818729#m",
+    "date": "2026-05-04",
+    "category": "Twitter"
+  },
+  {
+    "title": "Group averages obscure how an individual's brain controls behavior: study",
+    "source": "Hacker News",
+    "description": "HN Score: 120 | 37 comments",
+    "url": "https://med.stanford.edu/news/all-news/2026/04/brain-scans-individual-versus-group.html",
     "score": 120,
     "date": "2026-05-04",
     "category": "AI News"
   },
   {
-    "title": "RT by @svpino: I want to buy a mini pc for my summer apartment. I'm planning to run Omarchy in it. I'm looking for 32GB RAM/1TB SSD minimum. Ideally, ",
+    "title": "Opus 1M, past 400K tokens, is a huge downgrade. The model is great, but that extra context isn't free (and it's straight-up a sure way to degrade your",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2050998892775514227#m",
-    "date": "2026-05-04",
-    "category": "Twitter"
-  },
-  {
-    "title": "Agentic Coding Is a Trap",
-    "source": "Hacker News",
-    "description": "HN Score: 367 | 259 comments",
-    "url": "https://larsfaye.com/articles/agentic-coding-is-a-trap",
-    "score": 367,
-    "date": "2026-05-04",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: The new cohort starts tomorrow. Two complete sessions about agents and agentic coding. You'll learn everything I know about using Claud",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2050971158598824005#m",
+    "url": "https://nitter.net/svpino/status/2051278280393982137#m",
     "date": "2026-05-04",
     "category": "Twitter"
   },
