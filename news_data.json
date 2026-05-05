@@ -1,5 +1,12 @@
 [
   {
+    "title": "Altara secures $7M to bridge the data gap that\u2019s slowing down physical sciences",
+    "source": "TechCrunch",
+    "summary": "Altara\u2019s AI aims to diagnose failures and help speed up R D by unifying data siloed across spreadsheets and legacy systems.",
+    "url": "https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences/",
+    "date": "2026-05-05"
+  },
+  {
     "title": "Apple plans to make iOS 27 a Choose Your Own Adventure of AI models",
     "source": "TechCrunch",
     "summary": "With Apple's latest operating system updates, users will reportedly have their pick of which third-party AI models they want to use for a host of tasks.",
@@ -95,13 +102,6 @@
     "source": "TechCrunch",
     "summary": "Appfigures finds visual model launches generate 6.5x more downloads \u2014 but most don\u2019t convert that spike into revenue.",
     "url": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/",
-    "date": "2026-05-05"
-  },
-  {
-    "title": "Elon Musk\u2019s only AI expert witness at the OpenAI trial fears an AGI arms race",
-    "source": "TechCrunch",
-    "summary": "Stuart Russell is a long-time AI researcher who thinks governments need to restrain frontier labs.",
-    "url": "https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/",
     "date": "2026-05-05"
   },
   {
@@ -245,6 +245,20 @@
     "date": "2026-05-05"
   },
   {
+    "title": "OpenAI president forced to read his personal diary entries to jury",
+    "source": "Ars Technica",
+    "summary": "Elon Musk argued the journals show the moment when OpenAI abandoned its mission.",
+    "url": "https://arstechnica.com/tech-policy/2026/05/openai-president-explains-to-jury-why-his-diary-entries-sound-greedy/",
+    "date": "2026-05-05"
+  },
+  {
+    "title": "Silicon Valley bets $200M on AI data centers floating in the ocean",
+    "source": "Ars Technica",
+    "summary": "Panthalassa aims to test floating AI computing nodes in the Pacific in 2026.",
+    "url": "https://arstechnica.com/ai/2026/05/silicon-valley-bets-on-floating-ai-data-centers-powered-by-ocean-waves/",
+    "date": "2026-05-05"
+  },
+  {
     "title": "Character.AI sued over chatbot that claims to be a real doctor with a license",
     "source": "Ars Technica",
     "summary": "State says chatbot claimed to practice medicine, gave invalid license number.",
@@ -333,20 +347,6 @@
     "source": "Ars Technica",
     "summary": "Google says it respects user privacy in AI, but the reality is not so black and white.",
     "url": "https://arstechnica.com/ai/2026/04/googles-privacy-maze-how-gemini-traps-you-and-your-data/",
-    "date": "2026-05-05"
-  },
-  {
-    "title": "OpenAI Codex system prompt includes explicit directive to 'never talk about goblins'",
-    "source": "Ars Technica",
-    "summary": "Directions also include system instructions to act like 'you have a vivid inner life.'",
-    "url": "https://arstechnica.com/ai/2026/04/openai-codex-system-prompt-includes-explicit-directive-to-never-talk-about-goblins/",
-    "date": "2026-05-05"
-  },
-  {
-    "title": "Drone strikes on data centers spook Big Tech, halting Middle East projects",
-    "source": "Ars Technica",
-    "summary": "Uninsurable war damage is forcing tech companies to rethink Middle East plans.",
-    "url": "https://arstechnica.com/ai/2026/04/data-center-developer-pauses-middle-east-projects-after-war-damage/",
     "date": "2026-05-05"
   }
 ]
