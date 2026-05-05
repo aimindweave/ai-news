@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Train Your Own LLM from Scratch",
+    "title": "Should I Run Plain Docker Compose in Production in 2026?",
     "source": "Hacker News",
-    "description": "HN Score: 67 | 9 comments",
-    "url": "https://github.com/angelos-p/llm-from-scratch",
-    "score": 67,
+    "description": "HN Score: 11 | 7 comments",
+    "url": "https://distr.sh/blog/running-docker-in-production/",
+    "score": 11,
     "date": "2026-05-05",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "CVE-2026-31431: Copy Fail vs. rootless containers",
+    "title": "How OpenAI delivers low-latency voice AI at scale",
     "source": "Hacker News",
-    "description": "HN Score: 66 | 20 comments",
-    "url": "https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/",
-    "score": 66,
+    "description": "HN Score: 409 | 127 comments",
+    "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
+    "score": 409,
     "date": "2026-05-05",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "How OpenAI delivers low-latency voice AI at scale",
+    "title": "CVE-2026-31431: Copy Fail vs. rootless containers",
     "source": "Hacker News",
-    "description": "HN Score: 367 | 118 comments",
-    "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
-    "score": 367,
+    "description": "HN Score: 104 | 39 comments",
+    "url": "https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/",
+    "score": 104,
     "date": "2026-05-05",
     "category": "AI News"
   },
@@ -59,28 +59,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Agent Skills",
+    "title": "Train Your Own LLM from Scratch",
     "source": "Hacker News",
-    "description": "HN Score: 207 | 90 comments",
-    "url": "https://addyosmani.com/blog/agent-skills/",
-    "score": 207,
+    "description": "HN Score: 247 | 29 comments",
+    "url": "https://github.com/angelos-p/llm-from-scratch",
+    "score": 247,
     "date": "2026-05-05",
     "category": "AI News"
   },
   {
-    "title": "R to @DrJimFan: Please check out lead author @letian_fu's deep dive thread! https://x.com/letian_fu/status/2039342130565357956?s=20",
+    "title": "The power of the Claw, in the palm of a robot hand. Agentic robotics is here! Today, we open-source CaP-X: vibe agents, alive in the physical world. T",
     "source": "@DrJimFan",
     "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2039360927653614004#m",
+    "url": "https://nitter.net/DrJimFan/status/2039358115318243352#m",
     "date": "2026-05-05",
     "category": "Twitter"
   },
   {
-    "title": "Y Combinator's Stake in OpenAI (0.6%)",
+    "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
     "source": "Hacker News",
-    "description": "HN Score: 257 | 31 comments",
-    "url": "https://daringfireball.net/2026/05/y_combinators_stake_in_openai",
-    "score": 257,
+    "description": "HN Score: 214 | 223 comments",
+    "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
+    "score": 214,
     "date": "2026-05-05",
     "category": "AI News"
   },
@@ -93,11 +93,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Sierra Raises $950M at $15B Valuation",
+    "title": "Agent Skills",
     "source": "Hacker News",
-    "description": "HN Score: 103 | 130 comments",
-    "url": "https://sierra.ai/blog/better-customer-experiences-built-on-sierra",
-    "score": 103,
+    "description": "HN Score: 254 | 117 comments",
+    "url": "https://addyosmani.com/blog/agent-skills/",
+    "score": 254,
+    "date": "2026-05-05",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: Make your agentic coding tool 2x smarter for free: TinyFish just made their web search and fetch services free for every AI agent. You ",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2051375071101604055#m",
+    "date": "2026-05-05",
+    "category": "Twitter"
+  },
+  {
+    "title": "Y Combinator's Stake in OpenAI (0.6%?)",
+    "source": "Hacker News",
+    "description": "HN Score: 333 | 51 comments",
+    "url": "https://daringfireball.net/2026/05/y_combinators_stake_in_openai",
+    "score": 333,
     "date": "2026-05-05",
     "category": "AI News"
   },
@@ -110,45 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Transformers Are Inherently Succinct (2025)",
+    "title": "Lessons for Agentic Coding: What should we do when code is cheap?",
     "source": "Hacker News",
-    "description": "HN Score: 46 | 6 comments",
-    "url": "https://arxiv.org/abs/2510.19315",
-    "score": 46,
-    "date": "2026-05-05",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: There's still nothing like this platform. 3.6M+ views and 10x homepage traffic from a well-coordinated post on X. Social media marketin",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2051306870367981871#m",
-    "date": "2026-05-05",
-    "category": "Twitter"
-  },
-  {
-    "title": "Why are neural networks and cryptographic ciphers so similar? (2025)",
-    "source": "Hacker News",
-    "description": "HN Score: 130 | 47 comments",
-    "url": "https://reiner.org/neural-net-ciphers",
-    "score": 130,
-    "date": "2026-05-05",
-    "category": "AI News"
-  },
-  {
-    "title": "Meta used to be relevant AI company when they were innovating and iterating on Llama Every developer and AI enthusiast knew about them Muse Spark, on ",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2051541132795068697#m",
-    "date": "2026-05-05",
-    "category": "Twitter"
-  },
-  {
-    "title": "Apple Explores Using Intel and Samsung to Build Main Device Chips in the US",
-    "source": "Hacker News",
-    "description": "HN Score: 22 | 3 comments",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-05/apple-explores-using-intel-and-samsung-to-build-main-device-chips-in-the-us",
-    "score": 22,
+    "description": "HN Score: 50 | 44 comments",
+    "url": "https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html",
+    "score": 50,
     "date": "2026-05-05",
     "category": "AI News"
   },
@@ -159,5 +142,31 @@
     "url": "https://nitter.net/bindureddy/status/2051536067766206517#m",
     "date": "2026-05-05",
     "category": "Twitter"
+  },
+  {
+    "title": "Sierra Raises $950M at $15B Valuation",
+    "source": "Hacker News",
+    "description": "HN Score: 105 | 132 comments",
+    "url": "https://sierra.ai/blog/better-customer-experiences-built-on-sierra",
+    "score": 105,
+    "date": "2026-05-05",
+    "category": "AI News"
+  },
+  {
+    "title": "Gemini is over due. Expect a really good Flash model Something that beats GPT 5.5/Opus 4.7 medium but is considerably cheaper and faster",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2051416139235053586#m",
+    "date": "2026-05-05",
+    "category": "Twitter"
+  },
+  {
+    "title": "Transformers Are Inherently Succinct (2025)",
+    "source": "Hacker News",
+    "description": "HN Score: 54 | 6 comments",
+    "url": "https://arxiv.org/abs/2510.19315",
+    "score": 54,
+    "date": "2026-05-05",
+    "category": "AI News"
   }
 ]
