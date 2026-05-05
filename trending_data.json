@@ -4,16 +4,16 @@
     "source": "@kaborobot",
     "description": "",
     "url": "https://nitter.net/kaborobot/status/2051300761896972364#m",
-    "date": "2026-05-04",
+    "date": "2026-05-05",
     "category": "Twitter"
   },
   {
     "title": "How OpenAI delivers low-latency voice AI at scale",
     "source": "Hacker News",
-    "description": "HN Score: 170 | 69 comments",
+    "description": "HN Score: 315 | 106 comments",
     "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
-    "score": 170,
-    "date": "2026-05-04",
+    "score": 315,
+    "date": "2026-05-05",
     "category": "AI News"
   },
   {
@@ -21,16 +21,16 @@
     "source": "@kaborobot",
     "description": "",
     "url": "https://nitter.net/kaborobot/status/2015735996248420451#m",
-    "date": "2026-05-04",
+    "date": "2026-05-05",
     "category": "Twitter"
   },
   {
     "title": "Agent Skills",
     "source": "Hacker News",
-    "description": "HN Score: 17 | 2 comments",
+    "description": "HN Score: 150 | 51 comments",
     "url": "https://addyosmani.com/blog/agent-skills/",
-    "score": 17,
-    "date": "2026-05-04",
+    "score": 150,
+    "date": "2026-05-05",
     "category": "AI News"
   },
   {
@@ -38,16 +38,16 @@
     "source": "@EMostaque",
     "description": "",
     "url": "https://nitter.net/rdolmedo_/status/2050665193374732430#m",
-    "date": "2026-05-04",
+    "date": "2026-05-05",
     "category": "Twitter"
   },
   {
-    "title": "Let's talk about LLMs",
+    "title": "Y Combinator's Stake in OpenAI (0.6%)",
     "source": "Hacker News",
-    "description": "HN Score: 101 | 66 comments",
-    "url": "https://www.b-list.org/weblog/2026/apr/09/llms/",
-    "score": 101,
-    "date": "2026-05-04",
+    "description": "HN Score: 131 | 3 comments",
+    "url": "https://daringfireball.net/2026/05/y_combinators_stake_in_openai",
+    "score": 131,
+    "date": "2026-05-05",
     "category": "AI News"
   },
   {
@@ -55,16 +55,16 @@
     "source": "@EMostaque",
     "description": "",
     "url": "https://nitter.net/EMostaque/status/2050616771535634439#m",
-    "date": "2026-05-04",
+    "date": "2026-05-05",
     "category": "Twitter"
   },
   {
-    "title": "Sierra Raises $950M at $15B Valuation",
+    "title": "Transformers Are Inherently Succinct (2025)",
     "source": "Hacker News",
-    "description": "HN Score: 69 | 95 comments",
-    "url": "https://sierra.ai/blog/better-customer-experiences-built-on-sierra",
-    "score": 69,
-    "date": "2026-05-04",
+    "description": "HN Score: 40 | 6 comments",
+    "url": "https://arxiv.org/abs/2510.19315",
+    "score": 40,
+    "date": "2026-05-05",
     "category": "AI News"
   },
   {
@@ -72,16 +72,16 @@
     "source": "@DrJimFan",
     "description": "",
     "url": "https://nitter.net/DrJimFan/status/2039360927653614004#m",
-    "date": "2026-05-04",
+    "date": "2026-05-05",
     "category": "Twitter"
   },
   {
-    "title": "Transformers Are Inherently Succinct",
+    "title": "Sierra Raises $950M at $15B Valuation",
     "source": "Hacker News",
-    "description": "HN Score: 15 | 5 comments",
-    "url": "https://arxiv.org/abs/2510.19315",
-    "score": 15,
-    "date": "2026-05-04",
+    "description": "HN Score: 97 | 123 comments",
+    "url": "https://sierra.ai/blog/better-customer-experiences-built-on-sierra",
+    "score": 97,
+    "date": "2026-05-05",
     "category": "AI News"
   },
   {
@@ -89,67 +89,50 @@
     "source": "@DrJimFan",
     "description": "",
     "url": "https://nitter.net/DrJimFan/status/2039360925606760690#m",
-    "date": "2026-05-04",
+    "date": "2026-05-05",
+    "category": "Twitter"
+  },
+  {
+    "title": "SprintiQ \u2013 open-source sprint planning for Claude Code",
+    "source": "Hacker News",
+    "description": "HN Score: 8 | 1 comments",
+    "url": "https://github.com/SprintiQ-Incorporated/sprintiq",
+    "score": 8,
+    "date": "2026-05-05",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: There's still nothing like this platform. 3.6M+ views and 10x homepage traffic from a well-coordinated post on X. Social media marketin",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2051306870367981871#m",
+    "date": "2026-05-05",
     "category": "Twitter"
   },
   {
     "title": "Why are neural networks and cryptographic ciphers so similar? (2025)",
     "source": "Hacker News",
-    "description": "HN Score: 121 | 35 comments",
+    "description": "HN Score: 127 | 45 comments",
     "url": "https://reiner.org/neural-net-ciphers",
-    "score": 121,
-    "date": "2026-05-04",
+    "score": 127,
+    "date": "2026-05-05",
     "category": "AI News"
   },
   {
-    "title": "Make your agentic coding tool 2x smarter for free: TinyFish just made their web search and fetch services free for every AI agent. You can wire it int",
+    "title": "RT by @svpino: Opus 1M, past 400K tokens, is a huge downgrade. The model is great, but that extra context isn't free (and it's straight-up a sure way ",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2051375071101604055#m",
-    "date": "2026-05-04",
+    "url": "https://nitter.net/svpino/status/2051278280393982137#m",
+    "date": "2026-05-05",
     "category": "Twitter"
   },
   {
-    "title": "OpenAI, Google, and Microsoft Back Bill to Fund 'AI Literacy' in Schools",
+    "title": "Let's talk about LLMs",
     "source": "Hacker News",
-    "description": "HN Score: 103 | 95 comments",
-    "url": "https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/",
-    "score": 103,
-    "date": "2026-05-04",
-    "category": "AI News"
-  },
-  {
-    "title": "R to @svpino: Here is the funny part: I've seen several teams already putting a ton of time 'hardening' their filesystem implementation to support con",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2051318859727257722#m",
-    "date": "2026-05-04",
-    "category": "Twitter"
-  },
-  {
-    "title": "'Staggering' number of people believe unproven health claims",
-    "source": "Hacker News",
-    "description": "HN Score: 25 | 14 comments",
-    "url": "https://www.nature.com/articles/d41586-026-01285-2",
-    "score": 25,
-    "date": "2026-05-04",
-    "category": "AI News"
-  },
-  {
-    "title": "Yikes, the US government is planning on vetting all new AI models! This gives China an INSANE ADVANTAGE and they will definitely catch up and overtake",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2051422572173287437#m",
-    "date": "2026-05-04",
-    "category": "Twitter"
-  },
-  {
-    "title": "Let's Buy Spirit Air",
-    "source": "Hacker News",
-    "description": "HN Score: 564 | 539 comments",
-    "url": "https://letsbuyspiritair.com/",
-    "score": 564,
-    "date": "2026-05-04",
+    "description": "HN Score: 148 | 120 comments",
+    "url": "https://www.b-list.org/weblog/2026/apr/09/llms/",
+    "score": 148,
+    "date": "2026-05-05",
     "category": "AI News"
   },
   {
@@ -157,16 +140,24 @@
     "source": "@bindureddy",
     "description": "",
     "url": "https://nitter.net/bindureddy/status/2051416139235053586#m",
-    "date": "2026-05-04",
+    "date": "2026-05-05",
     "category": "Twitter"
   },
   {
-    "title": "Usage-based pricing killing your vibe, here's how to roll your own local AI",
+    "title": "Shelley: Mobile-friendly, web-based, multi-modal, single-user coding agent",
     "source": "Hacker News",
-    "description": "HN Score: 33 | 32 comments",
-    "url": "https://www.theregister.com/2026/05/02/local_ai_coding_agents/",
-    "score": 33,
-    "date": "2026-05-04",
+    "description": "HN Score: 5 | 0 comments",
+    "url": "https://github.com/boldsoftware/shelley",
+    "score": 5,
+    "date": "2026-05-05",
     "category": "AI News"
+  },
+  {
+    "title": "Most people have overfit their harness to a closed expensive model - largely Anthropic models You need to spend time generalizing to open source model",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2051349728974225748#m",
+    "date": "2026-05-05",
+    "category": "Twitter"
   }
 ]
