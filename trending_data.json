@@ -10,9 +10,9 @@
   {
     "title": "Three Inverse Laws of AI",
     "source": "Hacker News",
-    "description": "HN Score: 180 | 98 comments",
+    "description": "HN Score: 253 | 166 comments",
     "url": "https://susam.net/inverse-laws-of-robotics.html",
-    "score": 180,
+    "score": 253,
     "date": "2026-05-05",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Should I Run Plain Docker Compose in Production in 2026?",
+    "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
     "source": "Hacker News",
-    "description": "HN Score: 253 | 193 comments",
-    "url": "https://distr.sh/blog/running-docker-in-production/",
-    "score": 253,
+    "description": "HN Score: 902 | 627 comments",
+    "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
+    "score": 902,
     "date": "2026-05-05",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Agents for financial services and insurance",
+    "title": "GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents",
     "source": "Hacker News",
-    "description": "HN Score: 98 | 73 comments",
-    "url": "https://www.anthropic.com/news/finance-agents",
-    "score": 98,
+    "description": "HN Score: 51 | 10 comments",
+    "url": "https://arxiv.org/abs/2604.26752",
+    "score": 51,
     "date": "2026-05-05",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Airbyte Agents \u2013 context for agents across multiple data sources",
+    "title": "Agents for financial services and insurance",
     "source": "Hacker News",
-    "description": "HN Score: 40 | 6 comments",
-    "url": "https://news.ycombinator.com/item?id=48023496",
-    "score": 40,
+    "description": "HN Score: 131 | 105 comments",
+    "url": "https://www.anthropic.com/news/finance-agents",
+    "score": 131,
     "date": "2026-05-05",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "AI Product Graveyard",
+    "title": "Show HN: Explore color palettes inspired by 3000 master painter artworks",
     "source": "Hacker News",
-    "description": "HN Score: 206 | 79 comments",
-    "url": "https://tooldirectory.ai/ai-graveyard",
-    "score": 206,
+    "description": "HN Score: 18 | 8 comments",
+    "url": "https://paletteinspiration.com/",
+    "score": 18,
     "date": "2026-05-05",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "When everyone has AI and the company still learns nothing",
+    "title": "Show HN: Airbyte Agents \u2013 context for agents across multiple data sources",
     "source": "Hacker News",
-    "description": "HN Score: 204 | 136 comments",
-    "url": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/",
-    "score": 204,
+    "description": "HN Score: 60 | 7 comments",
+    "url": "https://news.ycombinator.com/item?id=48023496",
+    "score": 60,
     "date": "2026-05-05",
     "category": "AI News"
   },
@@ -110,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "AI didn't delete your database, you did",
+    "title": "When everyone has AI and the company still learns nothing",
     "source": "Hacker News",
-    "description": "HN Score: 365 | 194 comments",
-    "url": "https://idiallo.com/blog/ai-didnt-delete-your-database-you-did",
-    "score": 365,
+    "description": "HN Score: 238 | 167 comments",
+    "url": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/",
+    "score": 238,
     "date": "2026-05-05",
     "category": "AI News"
   },
@@ -127,11 +127,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
+    "title": "Should I Run Plain Docker Compose in Production in 2026?",
     "source": "Hacker News",
-    "description": "HN Score: 822 | 572 comments",
-    "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
-    "score": 822,
+    "description": "HN Score: 289 | 218 comments",
+    "url": "https://distr.sh/blog/running-docker-in-production/",
+    "score": 289,
+    "date": "2026-05-05",
+    "category": "AI News"
+  },
+  {
+    "title": "LITERALLY A RECIPE FOR DISASTER 'Non technical teams shipping code to production' The LLMs - even the top ones - make a lot of mistakes and sometimes ",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2051745809461641223#m",
+    "date": "2026-05-05",
+    "category": "Twitter"
+  },
+  {
+    "title": "Lessons for Agentic Coding: What should we do when code is cheap?",
+    "source": "Hacker News",
+    "description": "HN Score: 200 | 199 comments",
+    "url": "https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html",
+    "score": 200,
     "date": "2026-05-05",
     "category": "AI News"
   },
@@ -144,28 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Lessons for Agentic Coding: What should we do when code is cheap?",
+    "title": "AI didn't delete your database, you did",
     "source": "Hacker News",
-    "description": "HN Score: 179 | 191 comments",
-    "url": "https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html",
-    "score": 179,
-    "date": "2026-05-05",
-    "category": "AI News"
-  },
-  {
-    "title": "Gemini is over due. Expect a really good Flash model Something that beats GPT 5.5/Opus 4.7 medium but is considerably cheaper and faster",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2051416139235053586#m",
-    "date": "2026-05-05",
-    "category": "Twitter"
-  },
-  {
-    "title": "How OpenAI delivers low-latency voice AI at scale",
-    "source": "Hacker News",
-    "description": "HN Score: 480 | 141 comments",
-    "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
-    "score": 480,
+    "description": "HN Score: 446 | 234 comments",
+    "url": "https://idiallo.com/blog/ai-didnt-delete-your-database-you-did",
+    "score": 446,
     "date": "2026-05-05",
     "category": "AI News"
   }
