@@ -1,5 +1,61 @@
 [
   {
+    "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
+    "source": "TechCrunch",
+    "summary": "The company said the model reduces hallucination in sensitive areas such as law, medicine, and finance, while maintaining the low latency of its predecessor.",
+    "url": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
+    "date": "2026-05-05"
+  },
+  {
+    "title": "PayPal says it\u2019s \u2018becoming a technology company again\u2019 \u2014 that means AI",
+    "source": "TechCrunch",
+    "summary": "PayPal is pitching an AI-led turnaround, tying automation and restructuring to $1.5 billion in savings as it cuts jobs and works to modernize its tech stack.",
+    "url": "https://techcrunch.com/2026/05/05/paypal-says-its-becoming-a-technology-company-again-that-means-ai/",
+    "date": "2026-05-05"
+  },
+  {
+    "title": "Etsy launches its app within ChatGPT as it continues its AI push",
+    "source": "TechCrunch",
+    "summary": "Etsy's new native app within ChatGPT aims to be a conversational shopping experience for users.",
+    "url": "https://techcrunch.com/2026/05/05/etsy-launches-its-app-within-chatgpt-as-it-continues-its-ai-push/",
+    "date": "2026-05-05"
+  },
+  {
+    "title": "Meta will use AI to analyze height and bone structure to identify if users are underage",
+    "source": "TechCrunch",
+    "summary": "The visual analysis system is now operating in select countries, but Meta says it's working toward a broader rollout.",
+    "url": "https://techcrunch.com/2026/05/05/meta-will-use-ai-to-analyze-height-and-bone-structure-to-identify-if-users-are-underage/",
+    "date": "2026-05-05"
+  },
+  {
+    "title": "ElevenLabs lists BlackRock, Jamie Foxx, and Eva Longoria as new investors",
+    "source": "TechCrunch",
+    "summary": "ElevenLabs reveals new investors, hits $500M ARR, and expands enterprise footprint as voice AI becomes a critical interface.",
+    "url": "https://techcrunch.com/2026/05/05/elevenlabs-lists-blackrock-jamie-foxx-and-eva-longoria-as-new-investors/",
+    "date": "2026-05-05"
+  },
+  {
+    "title": "CopilotKit raises $27M to help devs deploy app-native AI agents",
+    "source": "TechCrunch",
+    "summary": "The Seattle-based startup's Series A round was led by Glilot Capital, NFX, and SignalFire, TechCrunch has exclusively learned.",
+    "url": "https://techcrunch.com/2026/05/05/copilotkit-raises-27m-to-help-devs-deploy-app-native-ai-agents/",
+    "date": "2026-05-05"
+  },
+  {
+    "title": "4 days left: Get 50% off a second TechCrunch Disrupt 2026 pass to make more deals faster",
+    "source": "TechCrunch",
+    "summary": "For the next four days only, you can buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. That window closes May 8 at 11:59 p.m. PT. After that, prices go up, and you\u2019ll pay more to bring a partner or colleague. Register today to get your plus-one pass at 50% ...",
+    "url": "https://techcrunch.com/2026/05/05/4-days-left-get-50-off-a-second-techcrunch-disrupt-2026-pass-to-make-more-deals-faster/",
+    "date": "2026-05-05"
+  },
+  {
+    "title": "India\u2019s first GenAI unicorn shifts to cloud services as AI model ambitions face reality",
+    "source": "TechCrunch",
+    "summary": "Krutrim's pivot to cloud after layoffs and limited product updates reflects the economic challenges of building AI models in India.",
+    "url": "https://techcrunch.com/2026/05/05/indias-first-genai-unicorn-shifts-to-cloud-services-as-ai-model-ambitions-face-reality/",
+    "date": "2026-05-05"
+  },
+  {
     "title": "As workers worry about AI, Nvidia\u2019s Jensen Huang says AI is \u2018creating an enormous number of jobs\u2019",
     "source": "TechCrunch",
     "summary": "The Nvidia CEO seems to feel that claims of AI's job-killing potential have been greatly exaggerated.",
@@ -49,59 +105,10 @@
     "date": "2026-05-05"
   },
   {
-    "title": "5 days only: Bring a partner or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
-    "source": "TechCrunch",
-    "summary": "The BOGO offer is live. For a limited time, buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Offer ends this Friday, May 8. Save here.",
-    "url": "https://techcrunch.com/2026/05/04/5-days-only-bring-a-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
-    "date": "2026-05-05"
-  },
-  {
-    "title": "DoorDash adds AI tools to speed up merchant onboarding, edit photos of dishes",
-    "source": "TechCrunch",
-    "summary": "DoorDash on Monday added new AI-powered tools that let merchants speed up onboarding, edit photos to make dishes look better, and create new websites from existing content.",
-    "url": "https://techcrunch.com/2026/05/04/doordash-adds-ai-tools-to-speed-up-merchant-onboarding-edit-photos-of-dishes/",
-    "date": "2026-05-05"
-  },
-  {
-    "title": "\u2018This is fine\u2019 creator says AI startup stole his art",
-    "source": "TechCrunch",
-    "summary": "The ad comes from Artisan, the AI startup behind billboards urging businesses to 'stop hiring humans.'",
-    "url": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
-    "date": "2026-05-05"
-  },
-  {
-    "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
-    "source": "TechCrunch",
-    "summary": "A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases \u2014 where at least one model seemed to be more accurate than human doctors.",
-    "url": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
-    "date": "2026-05-05"
-  },
-  {
-    "title": "AI-generated actors and scripts are now ineligible for Oscars",
-    "source": "TechCrunch",
-    "summary": "The Academy of Motion Picture Arts and Sciences said that only performances \u201ccredited in the film\u2019s legal billing and demonstrably performed by humans with their consent\u201d will be eligible for Academy Awards.",
-    "url": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
-    "date": "2026-05-05"
-  },
-  {
-    "title": "The best AI dictation apps, tested and ranked",
-    "source": "TechCrunch",
-    "summary": "AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice",
-    "url": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/",
-    "date": "2026-05-05"
-  },
-  {
-    "title": "Replit\u2019s Amjad Masad on the Cursor deal, fighting Apple, and why he\u2019d rather not sell",
-    "source": "TechCrunch",
-    "summary": "At TechCrunch's sold-out StrictlyVC event in San Francisco on Thursday night, we covered a lot of ground in a short time, beginning with the question everyone in the industry is asking right now: In a world where rival Cursor is reportedly in talks to be acquired by SpaceX for $60 billion, is Rep...",
-    "url": "https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/",
-    "date": "2026-05-05"
-  },
-  {
-    "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
-    "source": "TechCrunch",
-    "summary": "Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.",
-    "url": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
+    "title": "The Download: inside the Musk v. Altman trial, and AI for democracy",
+    "source": "MIT Tech Review",
+    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Week one of the Musk v. Altman trial: what it was like in the room Two of the most powerful figures in AI\u2014Sam Altman and Elon Musk\u2014are in the middle of",
+    "url": "https://www.technologyreview.com/2026/05/05/1136848/the-download-musk-openai-altman-trial-ai-democracy/",
     "date": "2026-05-05"
   },
   {
@@ -168,10 +175,10 @@
     "date": "2026-05-05"
   },
   {
-    "title": "A new US phone network for Christians aims to block porn and gender-related content",
-    "source": "MIT Tech Review",
-    "summary": "A new US-wide cell phone network marketed to Christians is set to launch next week. It blocks porn, which experts in network security say marks the first time a US cell plan has used network-level blocking for such content that can\u2019t be turned off even by adult account owners. It\u2019s also rolling o...",
-    "url": "https://www.technologyreview.com/2026/05/01/1136739/a-new-t-mobile-network-for-christians-aims-to-block-porn-and-gender-related-content/",
+    "title": "Google DeepMind Workers Vote to Unionize Over Military AI Deals",
+    "source": "Wired",
+    "summary": "UK staff of Google\u2019s AI research lab hope to block the use of the company\u2019s artificial intelligence models in military settings.",
+    "url": "https://www.wired.com/story/google-deepmind-workers-vote-to-unionize-over-military-ai-deals/",
     "date": "2026-05-05"
   },
   {
@@ -238,10 +245,10 @@
     "date": "2026-05-05"
   },
   {
-    "title": "These Men Allegedly Profit Off Teaching People How to Make AI Porn",
-    "source": "Wired",
-    "summary": "Three Arizona women have filed a lawsuit against a group of men that alleges they used the women\u2019s photos to make AI porn influencers, then offered online courses showing others how to do it.",
-    "url": "https://www.wired.com/story/ai-porn-lawsuit-arizona/",
+    "title": "Google Home gets upgraded Gemini voice assistant and new camera controls",
+    "source": "Ars Technica",
+    "summary": "Google's smart home ecosystem is getting its biggest update since the AI-fueled 2025 revamp.",
+    "url": "https://arstechnica.com/gadgets/2026/05/google-home-gets-upgraded-gemini-voice-assistant-and-new-camera-controls/",
     "date": "2026-05-05"
   },
   {
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "Lawsuits: OpenAI didn't report ChatGPT user to cops to protect Altman, IPO.",
     "url": "https://arstechnica.com/tech-policy/2026/04/school-shooting-lawsuits-accuse-openai-of-hiding-violent-chatgpt-users/",
-    "date": "2026-05-05"
-  },
-  {
-    "title": "Humanoid robots start sorting luggage in Tokyo airport test amid labor shortage",
-    "source": "Ars Technica",
-    "summary": "Humanoid robots could load cargo and clean aircraft cabins at Haneda Airport.",
-    "url": "https://arstechnica.com/ai/2026/04/japan-airlines-tests-having-robots-instead-of-humans-handle-travelers-luggage/",
     "date": "2026-05-05"
   }
 ]
