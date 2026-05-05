@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "How OpenAI delivers low-latency voice AI at scale",
+    "title": "Train Your Own LLM from Scratch",
     "source": "Hacker News",
-    "description": "HN Score: 315 | 106 comments",
-    "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
-    "score": 315,
+    "description": "HN Score: 67 | 9 comments",
+    "url": "https://github.com/angelos-p/llm-from-scratch",
+    "score": 67,
     "date": "2026-05-05",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Agent Skills",
+    "title": "CVE-2026-31431: Copy Fail vs. rootless containers",
     "source": "Hacker News",
-    "description": "HN Score: 150 | 51 comments",
-    "url": "https://addyosmani.com/blog/agent-skills/",
-    "score": 150,
+    "description": "HN Score: 66 | 20 comments",
+    "url": "https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/",
+    "score": 66,
     "date": "2026-05-05",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Y Combinator's Stake in OpenAI (0.6%)",
+    "title": "How OpenAI delivers low-latency voice AI at scale",
     "source": "Hacker News",
-    "description": "HN Score: 131 | 3 comments",
-    "url": "https://daringfireball.net/2026/05/y_combinators_stake_in_openai",
-    "score": 131,
+    "description": "HN Score: 367 | 118 comments",
+    "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
+    "score": 367,
     "date": "2026-05-05",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Transformers Are Inherently Succinct (2025)",
+    "title": "Agent Skills",
     "source": "Hacker News",
-    "description": "HN Score: 40 | 6 comments",
-    "url": "https://arxiv.org/abs/2510.19315",
-    "score": 40,
+    "description": "HN Score: 207 | 90 comments",
+    "url": "https://addyosmani.com/blog/agent-skills/",
+    "score": 207,
     "date": "2026-05-05",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Sierra Raises $950M at $15B Valuation",
+    "title": "Y Combinator's Stake in OpenAI (0.6%)",
     "source": "Hacker News",
-    "description": "HN Score: 97 | 123 comments",
-    "url": "https://sierra.ai/blog/better-customer-experiences-built-on-sierra",
-    "score": 97,
+    "description": "HN Score: 257 | 31 comments",
+    "url": "https://daringfireball.net/2026/05/y_combinators_stake_in_openai",
+    "score": 257,
     "date": "2026-05-05",
     "category": "AI News"
   },
@@ -93,11 +93,28 @@
     "category": "Twitter"
   },
   {
-    "title": "SprintiQ \u2013 open-source sprint planning for Claude Code",
+    "title": "Sierra Raises $950M at $15B Valuation",
     "source": "Hacker News",
-    "description": "HN Score: 8 | 1 comments",
-    "url": "https://github.com/SprintiQ-Incorporated/sprintiq",
-    "score": 8,
+    "description": "HN Score: 103 | 130 comments",
+    "url": "https://sierra.ai/blog/better-customer-experiences-built-on-sierra",
+    "score": 103,
+    "date": "2026-05-05",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: Databases are far from dead. Hot take within the vibe-coding community, but you can't build a reliable agentic memory system using file",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2051318846850765090#m",
+    "date": "2026-05-05",
+    "category": "Twitter"
+  },
+  {
+    "title": "Transformers Are Inherently Succinct (2025)",
+    "source": "Hacker News",
+    "description": "HN Score: 46 | 6 comments",
+    "url": "https://arxiv.org/abs/2510.19315",
+    "score": 46,
     "date": "2026-05-05",
     "category": "AI News"
   },
@@ -112,51 +129,34 @@
   {
     "title": "Why are neural networks and cryptographic ciphers so similar? (2025)",
     "source": "Hacker News",
-    "description": "HN Score: 127 | 45 comments",
+    "description": "HN Score: 130 | 47 comments",
     "url": "https://reiner.org/neural-net-ciphers",
-    "score": 127,
+    "score": 130,
     "date": "2026-05-05",
     "category": "AI News"
   },
   {
-    "title": "RT by @svpino: Opus 1M, past 400K tokens, is a huge downgrade. The model is great, but that extra context isn't free (and it's straight-up a sure way ",
-    "source": "@svpino",
+    "title": "Meta used to be relevant AI company when they were innovating and iterating on Llama Every developer and AI enthusiast knew about them Muse Spark, on ",
+    "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2051278280393982137#m",
+    "url": "https://nitter.net/bindureddy/status/2051541132795068697#m",
     "date": "2026-05-05",
     "category": "Twitter"
   },
   {
-    "title": "Let's talk about LLMs",
+    "title": "Apple Explores Using Intel and Samsung to Build Main Device Chips in the US",
     "source": "Hacker News",
-    "description": "HN Score: 148 | 120 comments",
-    "url": "https://www.b-list.org/weblog/2026/apr/09/llms/",
-    "score": 148,
+    "description": "HN Score: 22 | 3 comments",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-05/apple-explores-using-intel-and-samsung-to-build-main-device-chips-in-the-us",
+    "score": 22,
     "date": "2026-05-05",
     "category": "AI News"
   },
   {
-    "title": "Gemini is over due. Expect a really good Flash model Something that beats GPT 5.5/Opus 4.7 medium but is considerably cheaper and faster",
+    "title": "China still manages to ship open source models But US with its trillions and free market capitalism is unable to do so The crazy thing is these Chines",
     "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/bindureddy/status/2051416139235053586#m",
-    "date": "2026-05-05",
-    "category": "Twitter"
-  },
-  {
-    "title": "Shelley: Mobile-friendly, web-based, multi-modal, single-user coding agent",
-    "source": "Hacker News",
-    "description": "HN Score: 5 | 0 comments",
-    "url": "https://github.com/boldsoftware/shelley",
-    "score": 5,
-    "date": "2026-05-05",
-    "category": "AI News"
-  },
-  {
-    "title": "Most people have overfit their harness to a closed expensive model - largely Anthropic models You need to spend time generalizing to open source model",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2051349728974225748#m",
+    "url": "https://nitter.net/bindureddy/status/2051536067766206517#m",
     "date": "2026-05-05",
     "category": "Twitter"
   }
