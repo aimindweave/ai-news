@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "A Theory of Deep Learning",
+    "title": "Vibe coding and agentic engineering are getting closer than I'd like",
     "source": "Hacker News",
-    "description": "HN Score: 39 | 10 comments",
-    "url": "https://elonlit.com/scrivings/a-theory-of-deep-learning/",
-    "score": 39,
+    "description": "HN Score: 215 | 265 comments",
+    "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
+    "score": 215,
     "date": "2026-05-06",
     "category": "AI News"
   },
@@ -27,9 +27,26 @@
   {
     "title": "Learning the Integral of a Diffusion Model",
     "source": "Hacker News",
-    "description": "HN Score: 12 | 1 comments",
+    "description": "HN Score: 37 | 7 comments",
     "url": "https://sander.ai/2026/05/06/flow-maps.html",
-    "score": 12,
+    "score": 37,
+    "date": "2026-05-06",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: RL on ZAYA also made it clear to me how much RL training is just an SNR problem. Poor SNR due to numerics, easy/noisy data, or verif",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/BerenMillidge/status/2052108432732492162#m",
+    "date": "2026-05-06",
+    "category": "Twitter"
+  },
+  {
+    "title": "Show HN: Tilde.run \u2013 Agent sandbox with a transactional, versioned filesystem",
+    "source": "Hacker News",
+    "description": "HN Score: 95 | 80 comments",
+    "url": "https://tilde.run/",
+    "score": 95,
     "date": "2026-05-06",
     "category": "AI News"
   },
@@ -44,17 +61,51 @@
   {
     "title": "Show HN: I built an open-source email builder, alternative to Beefree/Unlayer",
     "source": "Hacker News",
-    "description": "HN Score: 49 | 15 comments",
+    "description": "HN Score: 66 | 18 comments",
     "url": "https://play.templatical.com",
-    "score": 49,
+    "score": 66,
     "date": "2026-05-06",
     "category": "AI News"
   },
   {
-    "title": "This likely costs about ~$500m a month, ~$6bn a year to rent blended Which is about the run rate net loss of xai end of q1 Anthropics revenue run rate",
-    "source": "@EMostaque",
+    "title": "The power of the Claw, in the palm of a robot hand. Agentic robotics is here! Today, we open-source CaP-X: vibe agents, alive in the physical world. T",
+    "source": "@DrJimFan",
     "description": "",
-    "url": "https://nitter.net/EMostaque/status/2052091878619717638#m",
+    "url": "https://nitter.net/DrJimFan/status/2039358115318243352#m",
+    "date": "2026-05-06",
+    "category": "Twitter"
+  },
+  {
+    "title": "Higher usage limits for Claude and a compute deal with SpaceX",
+    "source": "Hacker News",
+    "description": "HN Score: 258 | 194 comments",
+    "url": "https://www.anthropic.com/news/higher-limits-spacex",
+    "score": 258,
+    "date": "2026-05-06",
+    "category": "AI News"
+  },
+  {
+    "title": "R to @DrJimFan: As usual, we open-source everything, MIT license: https://capgym.github.io Code: https://github.com/capgym/cap-x Paper: https://arxiv.",
+    "source": "@DrJimFan",
+    "description": "",
+    "url": "https://nitter.net/DrJimFan/status/2039360925606760690#m",
+    "date": "2026-05-06",
+    "category": "Twitter"
+  },
+  {
+    "title": "A Theory of Deep Learning",
+    "source": "Hacker News",
+    "description": "HN Score: 72 | 18 comments",
+    "url": "https://elonlit.com/scrivings/a-theory-of-deep-learning/",
+    "score": 72,
+    "date": "2026-05-06",
+    "category": "AI News"
+  },
+  {
+    "title": "Here is a fun way to make $1,000: @Nori_FamilyAI is running a challenge for Mother's Day: \u2022 Moms can post the tools they wish existed \u2022 You can pick f",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2052108653868773568#m",
     "date": "2026-05-06",
     "category": "Twitter"
   },
@@ -68,74 +119,6 @@
     "category": "AI News"
   },
   {
-    "title": "The power of the Claw, in the palm of a robot hand. Agentic robotics is here! Today, we open-source CaP-X: vibe agents, alive in the physical world. T",
-    "source": "@DrJimFan",
-    "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2039358115318243352#m",
-    "date": "2026-05-06",
-    "category": "Twitter"
-  },
-  {
-    "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
-    "source": "Hacker News",
-    "description": "HN Score: 595 | 344 comments",
-    "url": "https://blog.cloudflare.com/agents-stripe-projects/",
-    "score": 595,
-    "date": "2026-05-06",
-    "category": "AI News"
-  },
-  {
-    "title": "R to @DrJimFan: As usual, we open-source everything, MIT license: https://capgym.github.io Code: https://github.com/capgym/cap-x Paper: https://arxiv.",
-    "source": "@DrJimFan",
-    "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2039360925606760690#m",
-    "date": "2026-05-06",
-    "category": "Twitter"
-  },
-  {
-    "title": "Show HN: Tilde.run \u2013 Agent Sandbox with a Transactional, Versioned Filesystem",
-    "source": "Hacker News",
-    "description": "HN Score: 92 | 77 comments",
-    "url": "https://tilde.run/",
-    "score": 92,
-    "date": "2026-05-06",
-    "category": "AI News"
-  },
-  {
-    "title": "Here is a fun way to make $1,000: @Nori_FamilyAI is running a challenge for Mother's Day: \u2022 Moms can post the tools they wish existed \u2022 You can pick f",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2052108653868773568#m",
-    "date": "2026-05-06",
-    "category": "Twitter"
-  },
-  {
-    "title": "Vibe coding and agentic engineering are getting closer than I'd like",
-    "source": "Hacker News",
-    "description": "HN Score: 193 | 254 comments",
-    "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
-    "score": 193,
-    "date": "2026-05-06",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: We are back. After one year of quiet building. Introducing GENE-26.5, our first robotic brain that takes a major step toward human-leve",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/gs_ai_/status/2052050956272230577#m",
-    "date": "2026-05-06",
-    "category": "Twitter"
-  },
-  {
-    "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
-    "source": "Hacker News",
-    "description": "HN Score: 1621 | 1073 comments",
-    "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
-    "score": 1621,
-    "date": "2026-05-06",
-    "category": "AI News"
-  },
-  {
     "title": "GPT 5.5 instant is incredible and is the best, fast everyday model out there Already my go-to for all non-coding questions",
     "source": "@bindureddy",
     "description": "",
@@ -144,11 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "DNSSEC disruption affecting .de domains \u2013 Resolved",
+    "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
     "source": "Hacker News",
-    "description": "HN Score: 726 | 391 comments",
-    "url": "https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38",
-    "score": 726,
+    "description": "HN Score: 609 | 349 comments",
+    "url": "https://blog.cloudflare.com/agents-stripe-projects/",
+    "score": 609,
     "date": "2026-05-06",
     "category": "AI News"
   },
@@ -161,11 +144,20 @@
     "category": "Twitter"
   },
   {
-    "title": "Wiki Builder: Skill to Build LLM Knowledge Bases",
+    "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
     "source": "Hacker News",
-    "description": "HN Score: 111 | 15 comments",
-    "url": "https://academy.dair.ai/blog/wiki-builder-claude-code-plugin",
-    "score": 111,
+    "description": "HN Score: 1632 | 1079 comments",
+    "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
+    "score": 1632,
+    "date": "2026-05-06",
+    "category": "AI News"
+  },
+  {
+    "title": "DNSSEC disruption affecting .de domains \u2013 Resolved",
+    "source": "Hacker News",
+    "description": "HN Score: 729 | 394 comments",
+    "url": "https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38",
+    "score": 729,
     "date": "2026-05-06",
     "category": "AI News"
   }
