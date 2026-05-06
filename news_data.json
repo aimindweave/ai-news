@@ -1,5 +1,26 @@
 [
   {
+    "title": "Barry Diller trusts Sam Altman. But \u2018trust is irrelevant\u2019 as AGI nears, he says.",
+    "source": "TechCrunch",
+    "summary": "Barry Diller defended OpenAI CEO Sam Altman, while warning that AGI remains an unpredictable force needing guardrails.",
+    "url": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
+    "date": "2026-05-06"
+  },
+  {
+    "title": "Snap says its $400M deal with Perplexity \u2018amicably ended\u2019",
+    "source": "TechCrunch",
+    "summary": "The deal, announced last November, would have seen Perplexity's AI search engine integrated directly into Snapchat.",
+    "url": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
+    "date": "2026-05-06"
+  },
+  {
+    "title": "Is xAI a neocloud now?",
+    "source": "TechCrunch",
+    "summary": "xAI's real business may be more about building data centers than training AI models.",
+    "url": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
+    "date": "2026-05-06"
+  },
+  {
     "title": "How Elon Musk left OpenAI, according to Greg Brockman",
     "source": "TechCrunch",
     "summary": "Cutthroat negotiations between startup founders are rarely shared so publicly, especially when a company becomes as world-changing as OpenAI.",
@@ -81,27 +102,6 @@
     "source": "TechCrunch",
     "summary": "Enterprise AI will be QuTwo\u2019s bread and butter. \u201cAI is the north star that we will continue to aim for. Quantum is just a new type of compute,\u201d said Sarlin, who is adamant that QuTwo is an AI company.",
     "url": "https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/",
-    "date": "2026-05-06"
-  },
-  {
-    "title": "Marc Lore says that AI will soon enable anyone to open a restaurant",
-    "source": "TechCrunch",
-    "summary": "Wonder wants to turn its robotic kitchens into AI-powered \u201crestaurant factories,\u201d letting anyone spin up a virtual food brand with a prompt.",
-    "url": "https://techcrunch.com/2026/05/05/marc-lore-says-that-ai-will-soon-enable-anyone-open-a-restaurant/",
-    "date": "2026-05-06"
-  },
-  {
-    "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
-    "source": "TechCrunch",
-    "summary": "SAP plans to buy German AI startup Prior Labs and invest heavily in it. It is also prohibiting customers' agents use to a select few like Nvidia's NemoClaw.",
-    "url": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
-    "date": "2026-05-06"
-  },
-  {
-    "title": "Altara secures $7M to bridge the data gap that\u2019s slowing down physical sciences",
-    "source": "TechCrunch",
-    "summary": "Altara\u2019s AI aims to diagnose failures and help speed up R D by unifying data siloed across spreadsheets and legacy systems.",
-    "url": "https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences/",
     "date": "2026-05-06"
   },
   {
@@ -245,6 +245,27 @@
     "date": "2026-05-06"
   },
   {
+    "title": "Anthropic raises Claude Code usage limits, credits new deal with SpaceX",
+    "source": "Ars Technica",
+    "summary": "Deal follows others with Microsoft, Amazon, and more.",
+    "url": "https://arstechnica.com/ai/2026/05/anthropic-raises-claude-code-usage-limits-credits-new-deal-with-spacex/",
+    "date": "2026-05-06"
+  },
+  {
+    "title": "TSMC taps wind power as AI chip demand soars, Taiwan feels energy crunch",
+    "source": "Ars Technica",
+    "summary": "TSMC backs renewables during record demand for energy-hungry chip manufacturing.",
+    "url": "https://arstechnica.com/gadgets/2026/05/tsmc-taps-wind-power-as-ai-chip-demand-soars-taiwan-feels-energy-crunch/",
+    "date": "2026-05-06"
+  },
+  {
+    "title": "Spooked by Mythos, Trump suddenly realized AI safety testing might be good",
+    "source": "Ars Technica",
+    "summary": "Trump forced to admit Biden was right on AI safety testing.",
+    "url": "https://arstechnica.com/tech-policy/2026/05/everything-that-could-go-wrong-with-trumps-ai-safety-tests-according-to-experts/",
+    "date": "2026-05-06"
+  },
+  {
     "title": "Google DeepMind partners with EVE Online for AI model testing",
     "source": "Ars Technica",
     "summary": "Move comes as CCP Games spends $120M to go independent, rebrands as Fenris Creations.",
@@ -326,27 +347,6 @@
     "source": "Ars Technica",
     "summary": "Overtuning can cause models to 'prioritize user satisfaction over truthfulness.\u201d",
     "url": "https://arstechnica.com/ai/2026/05/study-ai-models-that-consider-users-feeling-are-more-likely-to-make-errors/",
-    "date": "2026-05-06"
-  },
-  {
-    "title": "Minnesota passes ban on fake AI nudes; app makers risk $500K fines",
-    "source": "Ars Technica",
-    "summary": "More evidence of Grok CSAM seen as Minnesota passes nudifying app ban.",
-    "url": "https://arstechnica.com/tech-policy/2026/05/minnesota-set-to-be-first-state-to-ban-nudification-apps/",
-    "date": "2026-05-06"
-  },
-  {
-    "title": "GPT-5.5 matches heavily hyped Mythos Preview in new cybersecurity tests",
-    "source": "Ars Technica",
-    "summary": "New results suggest Mythos' cyber threat isn't 'a breakthrough specific to one model.'",
-    "url": "https://arstechnica.com/ai/2026/05/amid-mythos-hyped-cybersecurity-prowess-researchers-find-gpt-5-5-is-just-as-good/",
-    "date": "2026-05-06"
-  },
-  {
-    "title": "Elon Musk's 7 biggest stumbles on the stand at OpenAI trial",
-    "source": "Ars Technica",
-    "summary": "Elon Musk spent three days testifying as the first witness in his trial against OpenAI.",
-    "url": "https://arstechnica.com/tech-policy/2026/04/elon-musks-7-biggest-stumbles-on-the-stand-at-openai-trial/",
     "date": "2026-05-06"
   }
 ]
