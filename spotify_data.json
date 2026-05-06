@@ -94,6 +94,16 @@
   "episodes": [
     {
       "id": "a]6z Pod_0",
+      "name": "The New Space Race: NASA, Artemis, and the Race to the Moon",
+      "show": "a]6z Podcast",
+      "description": "Morgan Brennan speaks with NASA Administrator Jared Isaacman about the next phase of American space exploration and the urgency behind returning to the moon. They discuss the Artemis program, the c",
+      "release_date": "2026-05-06",
+      "duration_min": 29,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
+      "id": "a]6z Pod_1",
       "name": "Building Blackstone, Backing Costco, with Tony James",
       "show": "a]6z Podcast",
       "description": "David Haber speaks with Tony James about building enduring firms across multiple eras of finance. From joining DLJ when it was a subscale firm to helping grow Blackstone into one of the largest ass",
@@ -103,7 +113,7 @@
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "Sarah Rogers: Free Speech, AI Diplomacy, and What America Owes Its Allies",
       "show": "a]6z Podcast",
       "description": "Katherine Boyle speaks with Sarah Rogers, Under Secretary for Public Diplomacy, about the intersection of AI, free speech, and global information systems. They discuss how major technological shift",
@@ -121,16 +131,6 @@
       "duration_min": 69,
       "image": "",
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
-    },
-    {
-      "id": "a]6z Pod_2",
-      "name": "Balaji and Taylor Lorenz on AI and Media",
-      "show": "a]6z Podcast",
-      "description": "Theo Jaffee speaks with Balaji Srinivasan and Taylor Lorenz about how AI is reshaping media, trust, and online communication. Building on prior public disagreements between the two, the conversatio",
-      "release_date": "2026-05-01",
-      "duration_min": 51,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
       "id": "The TWIM_0",
