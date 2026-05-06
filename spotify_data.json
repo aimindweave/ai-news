@@ -93,6 +93,16 @@
   ],
   "episodes": [
     {
+      "id": "The AI P_0",
+      "name": "Harrison Chase of LangChain on Deep Agents, LangSmith, and Earning Trust | NVIDIA AI Podcast Ep. 297",
+      "show": "The AI Podcast (NVIDIA)",
+      "description": "LangChain has surpassed 1 billion downloads—and the framework that started as a weekend project is now the harness powering the next generation of production-grade AI agents. In this episode, Harrison",
+      "release_date": "2026-05-06",
+      "duration_min": 24,
+      "image": "",
+      "url": "https://open.spotify.com/show/0e1X4kJVfwQRPF8lZzqqfX"
+    },
+    {
       "id": "a]6z Pod_0",
       "name": "The New Space Race: NASA, Artemis, and the Race to the Moon",
       "show": "a]6z Podcast",
@@ -143,7 +153,7 @@
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
     },
     {
-      "id": "The AI P_0",
+      "id": "The AI P_1",
       "name": "How Dassault Systèmes Is Building AI That Understands Physics - Ep. 296",
       "show": "The AI Podcast (NVIDIA)",
       "description": "Generative AI can predict whether a plane takes off—but does it know why? Nicolas Cerisier, VP of 3DEXPERIENCE Platform R&D at Dassault Systèmes, explains how industrial world models go beyond pattern",
@@ -173,7 +183,7 @@
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
-      "id": "The AI P_1",
+      "id": "The AI P_2",
       "name": "One Brain, Any Robot: Skild AI's Skild Brain Explained - Ep. 295",
       "show": "The AI Podcast (NVIDIA)",
       "description": "What if one AI brain could run every robot on the planet—a humanoid, a warehouse arm, and a dog-like inspection bot—all at once?\n\nThat's not a thought experiment. That's what Skild AI is building righ",
@@ -211,16 +221,6 @@
       "duration_min": 54,
       "image": "",
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
-    },
-    {
-      "id": "The AI P_2",
-      "name": "How AI Will Change Quantum Computing - Ep. 294",
-      "show": "The AI Podcast (NVIDIA)",
-      "description": "What happens when you combine AI with quantum computing? NVIDIA's Nic Harrigan joins the AI Podcast to break down the state of quantum, explain why error correction is the pivotal challenge, and revea",
-      "release_date": "2026-04-14",
-      "duration_min": 31,
-      "image": "",
-      "url": "https://open.spotify.com/show/0e1X4kJVfwQRPF8lZzqqfX"
     },
     {
       "id": "Lex Frid_0",
