@@ -10,9 +10,9 @@
   {
     "title": "Vibe coding and agentic engineering are getting closer than I'd like",
     "source": "Hacker News",
-    "description": "HN Score: 533 | 579 comments",
+    "description": "HN Score: 614 | 663 comments",
     "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
-    "score": 533,
+    "score": 614,
     "date": "2026-05-07",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "ProgramBench: Can Language Models Rebuild Programs from Scratch?",
+    "title": "ZAYA1-8B: An 8B Moe Model with 760M Active Params Matching DeepSeek-R1 on Math",
     "source": "Hacker News",
-    "description": "HN Score: 14 | 11 comments",
-    "url": "https://arxiv.org/abs/2605.03546",
-    "score": 14,
+    "description": "HN Score: 9 | 2 comments",
+    "url": "https://firethering.com/zaya1-8b-open-source-math-coding-model/",
+    "score": 9,
     "date": "2026-05-07",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Tilde.run \u2013 Agent sandbox with a transactional, versioned filesystem",
+    "title": "ProgramBench: Can Language Models Rebuild Programs from Scratch?",
     "source": "Hacker News",
-    "description": "HN Score: 151 | 105 comments",
-    "url": "https://tilde.run/",
-    "score": 151,
+    "description": "HN Score: 52 | 30 comments",
+    "url": "https://arxiv.org/abs/2605.03546",
+    "score": 52,
     "date": "2026-05-07",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Learning the Integral of a Diffusion Model",
+    "title": "Making LLM Training Faster with Unsloth and NVIDIA",
     "source": "Hacker News",
-    "description": "HN Score: 124 | 20 comments",
-    "url": "https://sander.ai/2026/05/06/flow-maps.html",
-    "score": 124,
+    "description": "HN Score: 44 | 7 comments",
+    "url": "https://unsloth.ai/blog/nvidia-collab",
+    "score": 44,
     "date": "2026-05-07",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "A Theory of Deep Learning",
+    "title": "Show HN: Agent-skills-eval \u2013 Test whether Agent Skills improve outputs",
     "source": "Hacker News",
-    "description": "HN Score: 167 | 36 comments",
-    "url": "https://elonlit.com/scrivings/a-theory-of-deep-learning/",
-    "score": 167,
+    "description": "HN Score: 21 | 4 comments",
+    "url": "https://github.com/darkrishabh/agent-skills-eval",
+    "score": 21,
     "date": "2026-05-07",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: I built an open-source email builder, alternative to Beefree/Unlayer",
+    "title": "Show HN: Tilde.run \u2013 Agent sandbox with a transactional, versioned filesystem",
     "source": "Hacker News",
-    "description": "HN Score: 128 | 31 comments",
-    "url": "https://play.templatical.com",
-    "score": 128,
+    "description": "HN Score: 165 | 118 comments",
+    "url": "https://tilde.run/",
+    "score": 165,
     "date": "2026-05-07",
     "category": "AI News"
   },
@@ -110,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Higher usage limits for Claude and a compute deal with SpaceX",
+    "title": "Learning the Integral of a Diffusion Model",
     "source": "Hacker News",
-    "description": "HN Score: 448 | 391 comments",
-    "url": "https://www.anthropic.com/news/higher-limits-spacex",
-    "score": 448,
+    "description": "HN Score: 137 | 21 comments",
+    "url": "https://sander.ai/2026/05/06/flow-maps.html",
+    "score": 137,
     "date": "2026-05-07",
     "category": "AI News"
   },
@@ -127,11 +127,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
+    "title": "A Theory of Deep Learning",
     "source": "Hacker News",
-    "description": "HN Score: 631 | 355 comments",
-    "url": "https://blog.cloudflare.com/agents-stripe-projects/",
-    "score": 631,
+    "description": "HN Score: 200 | 46 comments",
+    "url": "https://elonlit.com/scrivings/a-theory-of-deep-learning/",
+    "score": 200,
+    "date": "2026-05-07",
+    "category": "AI News"
+  },
+  {
+    "title": "\ud83d\udea8 RIP FIGMA - CREATE PIXEL PERFECT DESIGNS AND MOCK-UPs Excited for Abacus AI's Design Vertical It's almost jaw dropping - create pixel perfect high f",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2052284475321815365#m",
+    "date": "2026-05-07",
+    "category": "Twitter"
+  },
+  {
+    "title": "Show HN: I built an open-source email builder, alternative to Beefree/Unlayer",
+    "source": "Hacker News",
+    "description": "HN Score: 133 | 33 comments",
+    "url": "https://play.templatical.com",
+    "score": 133,
     "date": "2026-05-07",
     "category": "AI News"
   },
@@ -149,23 +166,6 @@
     "description": "HN Score: 1 | 0 comments",
     "url": "https://www.coveragecat.com/careers/engineering/fractional-growth-engineer",
     "score": 1,
-    "date": "2026-05-07",
-    "category": "AI News"
-  },
-  {
-    "title": "Pro Tip - Run all your vibe coding prompts on Codex 5.3 It\u2019s low key better on GPT 5.5 on some problems",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2052231613380231601#m",
-    "date": "2026-05-07",
-    "category": "Twitter"
-  },
-  {
-    "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
-    "source": "Hacker News",
-    "description": "HN Score: 1665 | 1099 comments",
-    "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
-    "score": 1665,
     "date": "2026-05-07",
     "category": "AI News"
   }

@@ -93,6 +93,26 @@
   ],
   "episodes": [
     {
+      "id": "Practica_0",
+      "name": "The Myth of Model Wars: Open vs Closed AI in 2026",
+      "show": "Practical AI",
+      "description": "\n        In this fully connected episode, Dan and Chris break down one of the biggest questions in AI today: do open vs. closed models still matter? From the rise of physical AI and edge devices to",
+      "release_date": "2026-05-07",
+      "duration_min": 42,
+      "image": "",
+      "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
+    },
+    {
+      "id": "a]6z Pod_0",
+      "name": "Crypto Fund 5: We Raised $2.2B. Here’s Why.",
+      "show": "a]6z Podcast",
+      "description": "Robert Hackett speaks with the general partners at a16z crypto about the launch of their fifth crypto fund and the current state of the industry. They reflect on how crypto has evolved from an ideo",
+      "release_date": "2026-05-07",
+      "duration_min": 62,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
       "id": "Lex Frid_0",
       "name": "#496 – FFmpeg: The Incredible Technology Behind Video on the Internet",
       "show": "Lex Fridman Podcast",
@@ -113,7 +133,7 @@
       "url": "https://open.spotify.com/show/0e1X4kJVfwQRPF8lZzqqfX"
     },
     {
-      "id": "a]6z Pod_0",
+      "id": "a]6z Pod_1",
       "name": "The New Space Race: NASA, Artemis, and the Race to the Moon",
       "show": "a]6z Podcast",
       "description": "Morgan Brennan speaks with NASA Administrator Jared Isaacman about the next phase of American space exploration and the urgency behind returning to the moon. They discuss the Artemis program, the c",
@@ -123,22 +143,12 @@
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "Building Blackstone, Backing Costco, with Tony James",
       "show": "a]6z Podcast",
       "description": "David Haber speaks with Tony James about building enduring firms across multiple eras of finance. From joining DLJ when it was a subscale firm to helping grow Blackstone into one of the largest ass",
       "release_date": "2026-05-05",
       "duration_min": 83,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
-    },
-    {
-      "id": "a]6z Pod_2",
-      "name": "Sarah Rogers: Free Speech, AI Diplomacy, and What America Owes Its Allies",
-      "show": "a]6z Podcast",
-      "description": "Katherine Boyle speaks with Sarah Rogers, Under Secretary for Public Diplomacy, about the intersection of AI, free speech, and global information systems. They discuss how major technological shift",
-      "release_date": "2026-05-04",
-      "duration_min": 24,
       "image": "",
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
@@ -183,7 +193,7 @@
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
-      "id": "Practica_0",
+      "id": "Practica_1",
       "name": "The mythos of Mythos and Allbirds takes flight to the neocloud",
       "show": "Practical AI",
       "description": "\n        In this Fully-Connected episode, Dan and Chris start with Anthropic's Mythos frontier model, parsing what is publicly known about its cybersecurity capabilities and projecting its possible",
@@ -213,7 +223,7 @@
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
-      "id": "Practica_1",
+      "id": "Practica_2",
       "name": "Open Source Self-Driving with Comma AI",
       "show": "Practical AI",
       "description": "\n        Autonomous driving is not just a big tech or closed-source game, it's becoming accessible through open innovation and real-world deployment. Dan and Chris sit down with Harald Schäfer, CTO",
@@ -241,16 +251,6 @@
       "duration_min": 129,
       "image": "",
       "url": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"
-    },
-    {
-      "id": "Practica_2",
-      "name": "Post-Mortem of Anthropic's Claude Code Leak",
-      "show": "Practical AI",
-      "description": "\n        In this fully connected episode, Dan and Chris break down the Anthropic Claude Code leak, what went wrong and what it reveals about agentic systems, AI architecture, and AI safety. They al",
-      "release_date": "2026-04-09",
-      "duration_min": 44,
-      "image": "",
-      "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
       "id": "The TWIM_2",
