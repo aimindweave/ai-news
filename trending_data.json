@@ -10,9 +10,9 @@
   {
     "title": "Vibe coding and agentic engineering are getting closer than I'd like",
     "source": "Hacker News",
-    "description": "HN Score: 444 | 488 comments",
+    "description": "HN Score: 533 | 579 comments",
     "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
-    "score": 444,
+    "score": 533,
     "date": "2026-05-07",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Learning the Integral of a Diffusion Model",
+    "title": "ProgramBench: Can Language Models Rebuild Programs from Scratch?",
     "source": "Hacker News",
-    "description": "HN Score: 110 | 18 comments",
-    "url": "https://sander.ai/2026/05/06/flow-maps.html",
-    "score": 110,
+    "description": "HN Score: 14 | 11 comments",
+    "url": "https://arxiv.org/abs/2605.03546",
+    "score": 14,
     "date": "2026-05-07",
     "category": "AI News"
   },
@@ -44,9 +44,9 @@
   {
     "title": "Show HN: Tilde.run \u2013 Agent sandbox with a transactional, versioned filesystem",
     "source": "Hacker News",
-    "description": "HN Score: 130 | 99 comments",
+    "description": "HN Score: 151 | 105 comments",
     "url": "https://tilde.run/",
-    "score": 130,
+    "score": 151,
     "date": "2026-05-07",
     "category": "AI News"
   },
@@ -59,28 +59,28 @@
     "category": "Twitter"
   },
   {
-    "title": "A Theory of Deep Learning",
+    "title": "Learning the Integral of a Diffusion Model",
     "source": "Hacker News",
-    "description": "HN Score: 144 | 29 comments",
-    "url": "https://elonlit.com/scrivings/a-theory-of-deep-learning/",
-    "score": 144,
+    "description": "HN Score: 124 | 20 comments",
+    "url": "https://sander.ai/2026/05/06/flow-maps.html",
+    "score": 124,
     "date": "2026-05-07",
     "category": "AI News"
   },
   {
-    "title": "The power of the Claw, in the palm of a robot hand. Agentic robotics is here! Today, we open-source CaP-X: vibe agents, alive in the physical world. T",
+    "title": "R to @DrJimFan: Please check out lead author @letian_fu's deep dive thread! https://x.com/letian_fu/status/2039342130565357956?s=20",
     "source": "@DrJimFan",
     "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2039358115318243352#m",
+    "url": "https://nitter.net/DrJimFan/status/2039360927653614004#m",
     "date": "2026-05-07",
     "category": "Twitter"
   },
   {
-    "title": "Show HN: I built an open-source email builder, alternative to Beefree/Unlayer",
+    "title": "A Theory of Deep Learning",
     "source": "Hacker News",
-    "description": "HN Score: 111 | 26 comments",
-    "url": "https://play.templatical.com",
-    "score": 111,
+    "description": "HN Score: 167 | 36 comments",
+    "url": "https://elonlit.com/scrivings/a-theory-of-deep-learning/",
+    "score": 167,
     "date": "2026-05-07",
     "category": "AI News"
   },
@@ -93,11 +93,28 @@
     "category": "Twitter"
   },
   {
+    "title": "Show HN: I built an open-source email builder, alternative to Beefree/Unlayer",
+    "source": "Hacker News",
+    "description": "HN Score: 128 | 31 comments",
+    "url": "https://play.templatical.com",
+    "score": 128,
+    "date": "2026-05-07",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: I want this anti-fingerprinting thing in my browser, for sure. Kind of obvious after you read about how this works. Why don't we have t",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2052059580700729630#m",
+    "date": "2026-05-07",
+    "category": "Twitter"
+  },
+  {
     "title": "Higher usage limits for Claude and a compute deal with SpaceX",
     "source": "Hacker News",
-    "description": "HN Score: 410 | 360 comments",
+    "description": "HN Score: 448 | 391 comments",
     "url": "https://www.anthropic.com/news/higher-limits-spacex",
-    "score": 410,
+    "score": 448,
     "date": "2026-05-07",
     "category": "AI News"
   },
@@ -106,6 +123,23 @@
     "source": "@svpino",
     "description": "",
     "url": "https://nitter.net/svpino/status/2052048100076958087#m",
+    "date": "2026-05-07",
+    "category": "Twitter"
+  },
+  {
+    "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
+    "source": "Hacker News",
+    "description": "HN Score: 631 | 355 comments",
+    "url": "https://blog.cloudflare.com/agents-stripe-projects/",
+    "score": 631,
+    "date": "2026-05-07",
+    "category": "AI News"
+  },
+  {
+    "title": "In the midst of all this extreme OpenAI drama WHERE IS ILYA?",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2052264649354338411#m",
     "date": "2026-05-07",
     "category": "Twitter"
   },
@@ -119,53 +153,19 @@
     "category": "AI News"
   },
   {
-    "title": "Here is a fun way to make $1,000: @Nori_FamilyAI is running a challenge for Mother's Day: \u2022 Moms can post the tools they wish existed \u2022 You can pick f",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2052228783302721666#m",
-    "date": "2026-05-07",
-    "category": "Twitter"
-  },
-  {
-    "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
-    "source": "Hacker News",
-    "description": "HN Score: 628 | 355 comments",
-    "url": "https://blog.cloudflare.com/agents-stripe-projects/",
-    "score": 628,
-    "date": "2026-05-07",
-    "category": "AI News"
-  },
-  {
-    "title": "If OpenAI can come back with GPT 5.5... Google can also come back with Gemini 3.2 Sooner or later, it will happen",
+    "title": "Pro Tip - Run all your vibe coding prompts on Codex 5.3 It\u2019s low key better on GPT 5.5 on some problems",
     "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/bindureddy/status/2052182126209146943#m",
+    "url": "https://nitter.net/bindureddy/status/2052231613380231601#m",
     "date": "2026-05-07",
     "category": "Twitter"
   },
   {
     "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
     "source": "Hacker News",
-    "description": "HN Score: 1656 | 1097 comments",
+    "description": "HN Score: 1665 | 1099 comments",
     "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
-    "score": 1656,
-    "date": "2026-05-07",
-    "category": "AI News"
-  },
-  {
-    "title": "GPT 5.5 instant is incredible and is the best, fast everyday model out there Already my go-to for all non-coding questions",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2052098145363136522#m",
-    "date": "2026-05-07",
-    "category": "Twitter"
-  },
-  {
-    "title": "Apple is enforcing an old App Store rule against a new kind of software",
-    "source": "Hacker News",
-    "description": "HN Score: 66 | 27 comments",
-    "url": "https://adaptivesoftware.substack.com/p/the-wrapper-and-the-code",
-    "score": 66,
+    "score": 1665,
     "date": "2026-05-07",
     "category": "AI News"
   }
