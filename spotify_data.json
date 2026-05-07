@@ -103,6 +103,16 @@
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
+      "id": "The TWIM_0",
+      "name": "How to Find the Agent Failures Your Evals Miss with Scott Clark - #767",
+      "show": "The TWIML AI Podcast",
+      "description": "In this episode, Scott Clark, co-founder and CEO of Distributional, joins us to explore how teams can reliably operate and improve complex LLM systems and agents in production. Scott introduces a Masl",
+      "release_date": "2026-05-07",
+      "duration_min": 53,
+      "image": "",
+      "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
+    },
+    {
       "id": "a]6z Pod_0",
       "name": "Crypto Fund 5: We Raised $2.2B. Here’s Why.",
       "show": "a]6z Podcast",
@@ -163,7 +173,7 @@
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
-      "id": "The TWIM_0",
+      "id": "The TWIM_1",
       "name": "How to Engineer AI Inference Systems with Philip Kiely - #766",
       "show": "The TWIML AI Podcast",
       "description": "In this episode, Philip Kiely, head of AI education at Baseten, joins us to unpack the fast-evolving discipline of inference engineering. We explore why inference has become the stickiest and most cri",
@@ -233,7 +243,7 @@
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
-      "id": "The TWIM_1",
+      "id": "The TWIM_2",
       "name": "How Capital One Delivers Multi-Agent Systems with Rashmi Shetty - #765",
       "show": "The TWIML AI Podcast",
       "description": "In this episode, Rashmi Shetty, senior director of enterprise generative AI platform at Capital One, joins us to explore how the company is designing, deploying, and scaling multi-agent systems in a h",
@@ -251,16 +261,6 @@
       "duration_min": 129,
       "image": "",
       "url": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"
-    },
-    {
-      "id": "The TWIM_2",
-      "name": "The Race to Production-Grade Diffusion LLMs with Stefano Ermon - #764",
-      "show": "The TWIML AI Podcast",
-      "description": "Today, we're joined by Stefano Ermon, associate professor at Stanford University and CEO of Inception Labs to discuss diffusion language models. We dig into how diffusion approaches—traditionally used",
-      "release_date": "2026-03-26",
-      "duration_min": 63,
-      "image": "",
-      "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
     },
     {
       "id": "Lex Frid_2",

@@ -10,9 +10,9 @@
   {
     "title": "Agents need control flow, not more prompts",
     "source": "Hacker News",
-    "description": "HN Score: 197 | 106 comments",
+    "description": "HN Score: 261 | 147 comments",
     "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
-    "score": 197,
+    "score": 261,
     "date": "2026-05-07",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
+    "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
     "source": "Hacker News",
-    "description": "HN Score: 103 | 33 comments",
-    "url": "https://www.anthropic.com/research/natural-language-autoencoders",
-    "score": 103,
+    "description": "HN Score: 232 | 89 comments",
+    "url": "https://deepmind.google/blog/alphaevolve-impact/",
+    "score": 232,
     "date": "2026-05-07",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
+    "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
     "source": "Hacker News",
-    "description": "HN Score: 210 | 81 comments",
-    "url": "https://deepmind.google/blog/alphaevolve-impact/",
-    "score": 210,
+    "description": "HN Score: 149 | 47 comments",
+    "url": "https://www.anthropic.com/research/natural-language-autoencoders",
+    "score": 149,
     "date": "2026-05-07",
     "category": "AI News"
   },
@@ -61,26 +61,26 @@
   {
     "title": "AI slop is killing online communities",
     "source": "Hacker News",
-    "description": "HN Score: 189 | 177 comments",
+    "description": "HN Score: 343 | 323 comments",
     "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
-    "score": 189,
+    "score": 343,
     "date": "2026-05-07",
     "category": "AI News"
   },
   {
-    "title": "The power of the Claw, in the palm of a robot hand. Agentic robotics is here! Today, we open-source CaP-X: vibe agents, alive in the physical world. T",
+    "title": "R to @DrJimFan: Please check out lead author @letian_fu's deep dive thread! https://x.com/letian_fu/status/2039342130565357956?s=20",
     "source": "@DrJimFan",
     "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2039358115318243352#m",
+    "url": "https://nitter.net/DrJimFan/status/2039360927653614004#m",
     "date": "2026-05-07",
     "category": "Twitter"
   },
   {
     "title": "Chrome removes claim of On-device Al not sending data to Google Servers",
     "source": "Hacker News",
-    "description": "HN Score: 337 | 127 comments",
+    "description": "HN Score: 402 | 154 comments",
     "url": "https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/",
-    "score": 337,
+    "score": 402,
     "date": "2026-05-07",
     "category": "AI News"
   },
@@ -95,9 +95,9 @@
   {
     "title": "Principles for agent-native CLIs",
     "source": "Hacker News",
-    "description": "HN Score: 31 | 17 comments",
+    "description": "HN Score: 46 | 28 comments",
     "url": "https://twitter.com/trevin/status/2051316002730991795",
-    "score": 31,
+    "score": 46,
     "date": "2026-05-07",
     "category": "AI News"
   },
@@ -110,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Kstack \u2013 Skill pack for monitoring/troubleshooting K8s in Claude Code",
+    "title": "Two Home Affairs officials suspended after AI 'hallucinations' found",
     "source": "Hacker News",
-    "description": "HN Score: 5 | 0 comments",
-    "url": "https://github.com/kubetail-org/kstack",
-    "score": 5,
+    "description": "HN Score: 15 | 1 comments",
+    "url": "https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/",
+    "score": 15,
     "date": "2026-05-07",
     "category": "AI News"
   },
@@ -123,23 +123,6 @@
     "source": "@svpino",
     "description": "",
     "url": "https://nitter.net/svpino/status/2052405835243139370#m",
-    "date": "2026-05-07",
-    "category": "Twitter"
-  },
-  {
-    "title": "Motherboard sales 'collapse' amid unprecedented shortages fueled by AI",
-    "source": "Hacker News",
-    "description": "HN Score: 199 | 238 comments",
-    "url": "https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers",
-    "score": 199,
-    "date": "2026-05-07",
-    "category": "AI News"
-  },
-  {
-    "title": "Gemini 3.1 Flash Lite Preview is now Gemini 3.1 Flash Lite.... \ud83e\udd37 Not the earth shattering new release we are all expecting I think that is still comin",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2052490332043174392#m",
     "date": "2026-05-07",
     "category": "Twitter"
   },
@@ -153,19 +136,36 @@
     "category": "AI News"
   },
   {
-    "title": "\ud83d\udea8 RIP FIGMA - CREATE PIXEL PERFECT DESIGNS AND MOCK-UPs Excited for Abacus AI's Design Vertical It's almost jaw dropping - create pixel perfect high f",
+    "title": "Automatically choose the right model based on your coding task Easy - Kimi 2.6 Thinking Medium - Opus 4.6 High - GPT 5.5 xHigh",
     "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/bindureddy/status/2052284475321815365#m",
+    "url": "https://nitter.net/bindureddy/status/2052520661298683914#m",
     "date": "2026-05-07",
     "category": "Twitter"
   },
   {
-    "title": "ProgramBench: Can language models rebuild programs from scratch?",
+    "title": "Motherboard sales 'collapse' amid unprecedented shortages fueled by AI",
     "source": "Hacker News",
-    "description": "HN Score: 129 | 72 comments",
-    "url": "https://arxiv.org/abs/2605.03546",
-    "score": 129,
+    "description": "HN Score: 229 | 271 comments",
+    "url": "https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers",
+    "score": 229,
+    "date": "2026-05-07",
+    "category": "AI News"
+  },
+  {
+    "title": "Gemini 3.1 Flash Lite Preview is now Gemini 3.1 Flash Lite.... \ud83e\udd37 Not the earth shattering new release we are all expecting I think that is still comin",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2052490332043174392#m",
+    "date": "2026-05-07",
+    "category": "Twitter"
+  },
+  {
+    "title": "Show HN: Kstack \u2013 Skill pack for monitoring/troubleshooting K8s in Claude Code",
+    "source": "Hacker News",
+    "description": "HN Score: 13 | 5 comments",
+    "url": "https://github.com/kubetail-org/kstack",
+    "score": 13,
     "date": "2026-05-07",
     "category": "AI News"
   }
