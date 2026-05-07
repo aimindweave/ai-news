@@ -1,5 +1,19 @@
 [
   {
+    "title": "Elon Musk\u2019s lawsuit is putting OpenAI\u2019s safety record under the microscope",
+    "source": "TechCrunch",
+    "summary": "Can Sam Altman\u2014or any CEO\u2014be trusted with super intelligence?",
+    "url": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/",
+    "date": "2026-05-07"
+  },
+  {
+    "title": "Bumble is getting rid of the swipe, CEO says",
+    "source": "TechCrunch",
+    "summary": "Based on Whitney Wolfe Herd's past comments about Bumble's new direction, the company is expected to lean into AI -- Bumble is even working on an AI dating assistant called Bee, and the CEO has made many comments over the years about how AI will be 'a supercharger to love and relationships.'",
+    "url": "https://techcrunch.com/2026/05/07/bumble-is-getting-rid-of-the-swipe-ceo-says/",
+    "date": "2026-05-07"
+  },
+  {
     "title": "How Anthropic\u2019s Mythos has rewritten Firefox\u2019s approach to cybersecurity",
     "source": "TechCrunch",
     "summary": "Security researchers at Mozilla say Anthropic's Mythos has unearthed a wealth of high-severity bugs in Firefox.",
@@ -88,20 +102,6 @@
     "source": "TechCrunch",
     "summary": "Cutthroat negotiations between startup founders are rarely shared so publicly, especially when a company becomes as world-changing as OpenAI.",
     "url": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/",
-    "date": "2026-05-07"
-  },
-  {
-    "title": "SpaceX may spend up to $119B on \u2018Terafab\u2019 chip factory in Texas",
-    "source": "TechCrunch",
-    "summary": "The project would be a 'multi-phase, next-generation, vertically integrated semiconductor manufacturing and advanced computing fabrication facility,' according to the proposal.",
-    "url": "https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/",
-    "date": "2026-05-07"
-  },
-  {
-    "title": "DeepSeek could hit $45B valuation from its first investment round",
-    "source": "TechCrunch",
-    "summary": "The Chinese AI lab came to prominence in early 2025 after launching a large language model that trained on a fraction of the compute power and at a fraction of the cost of the big U.S. models like those from OpenAI and Anthropic.",
-    "url": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/",
     "date": "2026-05-07"
   },
   {
@@ -245,6 +245,13 @@
     "date": "2026-05-07"
   },
   {
+    "title": "Mozilla says 271 vulnerabilities found by Mythos have 'almost no false positives'",
+    "source": "Ars Technica",
+    "summary": "The developer of Firefox says it has 'completely bought in' on AI-assisted bug discovery.",
+    "url": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/",
+    "date": "2026-05-07"
+  },
+  {
     "title": "Google unveils screenless Fitbit Air and Google Health app to replace Fitbit",
     "source": "Ars Technica",
     "summary": "The $100 Fitbit Air is available for preorder today.",
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "Intentional errors can be useful.",
     "url": "https://arstechnica.com/tech-policy/2026/05/in-canada-a-canary-trap-springs-shut-and-ids-election-database-leak/",
-    "date": "2026-05-07"
-  },
-  {
-    "title": "Influential study touting ChatGPT in education retracted over red flags",
-    "source": "Ars Technica",
-    "summary": "The retracted study on ChatGPT in education was already cited hundreds of times.",
-    "url": "https://arstechnica.com/ai/2026/05/influential-study-touting-chatgpt-in-education-retracted-over-red-flags/",
     "date": "2026-05-07"
   }
 ]
