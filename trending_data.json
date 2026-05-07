@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Vibe coding and agentic engineering are getting closer than I'd like",
+    "title": "Cloudflare responded to the 'Copy Fail' Linux vulnerability",
     "source": "Hacker News",
-    "description": "HN Score: 614 | 663 comments",
-    "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
-    "score": 614,
+    "description": "HN Score: 19 | 8 comments",
+    "url": "https://blog.cloudflare.com/copy-fail-linux-vulnerability-mitigation/",
+    "score": 19,
     "date": "2026-05-07",
     "category": "AI News"
   },
@@ -25,11 +25,28 @@
     "category": "Twitter"
   },
   {
-    "title": "ZAYA1-8B: An 8B Moe Model with 760M Active Params Matching DeepSeek-R1 on Math",
+    "title": "Agent-harness-kit scaffolding for multi-agent workflows (MCP, provider-agnostic)",
     "source": "Hacker News",
-    "description": "HN Score: 9 | 2 comments",
-    "url": "https://firethering.com/zaya1-8b-open-source-math-coding-model/",
-    "score": 9,
+    "description": "HN Score: 46 | 8 comments",
+    "url": "https://ahk.cardor.dev",
+    "score": 46,
+    "date": "2026-05-07",
+    "category": "AI News"
+  },
+  {
+    "title": "Tokens are the bricks by which the information superhighway is being rebuilt. There is a lot of information. It'll need a whole lot of bricks.",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/EMostaque/status/2052381900149289449#m",
+    "date": "2026-05-07",
+    "category": "Twitter"
+  },
+  {
+    "title": "GovernGPT (YC W24) Is Hiring Engineers to Build Thinking Systems in Montreal",
+    "source": "Hacker News",
+    "description": "HN Score: 1 | 0 comments",
+    "url": "https://www.ycombinator.com/companies/governgpt/jobs/hRyltS0-backend-engineer-thinking-systems",
+    "score": 1,
     "date": "2026-05-07",
     "category": "AI News"
   },
@@ -42,28 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "ProgramBench: Can Language Models Rebuild Programs from Scratch?",
+    "title": "Vibe coding and agentic engineering are getting closer than I'd like",
     "source": "Hacker News",
-    "description": "HN Score: 52 | 30 comments",
-    "url": "https://arxiv.org/abs/2605.03546",
-    "score": 52,
-    "date": "2026-05-07",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @EMostaque: Today we're releasing ZAYA1-8B, a reasoning MoE trained on @AMD and optimized for intelligence density. With <1B active params, it o",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/ZyphraAI/status/2052103618145501459#m",
-    "date": "2026-05-07",
-    "category": "Twitter"
-  },
-  {
-    "title": "Making LLM Training Faster with Unsloth and NVIDIA",
-    "source": "Hacker News",
-    "description": "HN Score: 44 | 7 comments",
-    "url": "https://unsloth.ai/blog/nvidia-collab",
-    "score": 44,
+    "description": "HN Score: 678 | 760 comments",
+    "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
+    "score": 678,
     "date": "2026-05-07",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Agent-skills-eval \u2013 Test whether Agent Skills improve outputs",
+    "title": "ProgramBench: Can Language Models Rebuild Programs from Scratch?",
     "source": "Hacker News",
-    "description": "HN Score: 21 | 4 comments",
-    "url": "https://github.com/darkrishabh/agent-skills-eval",
-    "score": 21,
+    "description": "HN Score: 98 | 55 comments",
+    "url": "https://arxiv.org/abs/2605.03546",
+    "score": 98,
     "date": "2026-05-07",
     "category": "AI News"
   },
@@ -93,45 +93,45 @@
     "category": "Twitter"
   },
   {
+    "title": "Show HN: Agent-skills-eval \u2013 Test whether Agent Skills improve outputs",
+    "source": "Hacker News",
+    "description": "HN Score: 41 | 17 comments",
+    "url": "https://github.com/darkrishabh/agent-skills-eval",
+    "score": 41,
+    "date": "2026-05-07",
+    "category": "AI News"
+  },
+  {
+    "title": "R to @svpino: Here is another take. This time, I put the characters in a medieval setting. Notice how the faces are the same across every shot. The mo",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2052377579307573672#m",
+    "date": "2026-05-07",
+    "category": "Twitter"
+  },
+  {
+    "title": "Making LLM Training Faster with Unsloth and NVIDIA",
+    "source": "Hacker News",
+    "description": "HN Score: 87 | 12 comments",
+    "url": "https://unsloth.ai/blog/nvidia-collab",
+    "score": 87,
+    "date": "2026-05-07",
+    "category": "AI News"
+  },
+  {
+    "title": "R to @svpino: Now look at the water. It looks like water! The fire looks like fire too, with particles that don't glitch out halfway through. This is ",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2052377514178449444#m",
+    "date": "2026-05-07",
+    "category": "Twitter"
+  },
+  {
     "title": "Show HN: Tilde.run \u2013 Agent sandbox with a transactional, versioned filesystem",
     "source": "Hacker News",
-    "description": "HN Score: 165 | 118 comments",
+    "description": "HN Score: 183 | 125 comments",
     "url": "https://tilde.run/",
-    "score": 165,
-    "date": "2026-05-07",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: I want this anti-fingerprinting thing in my browser, for sure. Kind of obvious after you read about how this works. Why don't we have t",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2052059580700729630#m",
-    "date": "2026-05-07",
-    "category": "Twitter"
-  },
-  {
-    "title": "Learning the Integral of a Diffusion Model",
-    "source": "Hacker News",
-    "description": "HN Score: 137 | 21 comments",
-    "url": "https://sander.ai/2026/05/06/flow-maps.html",
-    "score": 137,
-    "date": "2026-05-07",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: You are brain-dead if you think the CLI killed MCP. Anthropic just reported 300 million downloads for the MCP SDK (up from 100M at the ",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2052048100076958087#m",
-    "date": "2026-05-07",
-    "category": "Twitter"
-  },
-  {
-    "title": "A Theory of Deep Learning",
-    "source": "Hacker News",
-    "description": "HN Score: 200 | 46 comments",
-    "url": "https://elonlit.com/scrivings/a-theory-of-deep-learning/",
-    "score": 200,
+    "score": 183,
     "date": "2026-05-07",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: I built an open-source email builder, alternative to Beefree/Unlayer",
+    "title": "Show HN: I made a vertical-pedalling bike with a novel drivetrain [video]",
     "source": "Hacker News",
-    "description": "HN Score: 133 | 33 comments",
-    "url": "https://play.templatical.com",
-    "score": 133,
+    "description": "HN Score: 10 | 0 comments",
+    "url": "https://www.youtube.com/watch?v=4HLOsi2gWXQ",
+    "score": 10,
     "date": "2026-05-07",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Coverage Cat (YC S22) Seeks Fractional Engineer to Build AI Growth Toolkit",
+    "title": "A Theory of Deep Learning",
     "source": "Hacker News",
-    "description": "HN Score: 1 | 0 comments",
-    "url": "https://www.coveragecat.com/careers/engineering/fractional-growth-engineer",
-    "score": 1,
+    "description": "HN Score: 212 | 51 comments",
+    "url": "https://elonlit.com/scrivings/a-theory-of-deep-learning/",
+    "score": 212,
     "date": "2026-05-07",
     "category": "AI News"
   }
