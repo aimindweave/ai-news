@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Cloudflare responded to the 'Copy Fail' Linux vulnerability",
+    "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
     "source": "Hacker News",
-    "description": "HN Score: 19 | 8 comments",
-    "url": "https://blog.cloudflare.com/copy-fail-linux-vulnerability-mitigation/",
-    "score": 19,
+    "description": "HN Score: 136 | 37 comments",
+    "url": "https://deepmind.google/blog/alphaevolve-impact/",
+    "score": 136,
     "date": "2026-05-07",
     "category": "AI News"
   },
@@ -25,11 +25,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Agent-harness-kit scaffolding for multi-agent workflows (MCP, provider-agnostic)",
+    "title": "Agents need control flow, not more prompts",
     "source": "Hacker News",
-    "description": "HN Score: 46 | 8 comments",
-    "url": "https://ahk.cardor.dev",
-    "score": 46,
+    "description": "HN Score: 43 | 10 comments",
+    "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
+    "score": 43,
+    "date": "2026-05-07",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: One-shot continuous video, from a single prompt. Made with Factory\u2122\ufe0f",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/ii_posts/status/2052414954112749972#m",
+    "date": "2026-05-07",
+    "category": "Twitter"
+  },
+  {
+    "title": "Chrome removes claim of On-device Al not sending data to Google Servers",
+    "source": "Hacker News",
+    "description": "HN Score: 119 | 24 comments",
+    "url": "https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/",
+    "score": 119,
     "date": "2026-05-07",
     "category": "AI News"
   },
@@ -51,23 +68,6 @@
     "category": "AI News"
   },
   {
-    "title": "RT by @EMostaque: RL on ZAYA also made it clear to me how much RL training is just an SNR problem. Poor SNR due to numerics, easy/noisy data, or verif",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/BerenMillidge/status/2052108432732492162#m",
-    "date": "2026-05-07",
-    "category": "Twitter"
-  },
-  {
-    "title": "Vibe coding and agentic engineering are getting closer than I'd like",
-    "source": "Hacker News",
-    "description": "HN Score: 678 | 760 comments",
-    "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
-    "score": 678,
-    "date": "2026-05-07",
-    "category": "AI News"
-  },
-  {
     "title": "R to @DrJimFan: Please check out lead author @letian_fu's deep dive thread! https://x.com/letian_fu/status/2039342130565357956?s=20",
     "source": "@DrJimFan",
     "description": "",
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "ProgramBench: Can Language Models Rebuild Programs from Scratch?",
+    "title": "Show HN: Stage CLI \u2013 a tool to make reading your AI generated changes easier",
     "source": "Hacker News",
-    "description": "HN Score: 98 | 55 comments",
-    "url": "https://arxiv.org/abs/2605.03546",
-    "score": 98,
+    "description": "HN Score: 6 | 0 comments",
+    "url": "https://github.com/ReviewStage/stage-cli",
+    "score": 6,
     "date": "2026-05-07",
     "category": "AI News"
   },
@@ -93,45 +93,45 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Agent-skills-eval \u2013 Test whether Agent Skills improve outputs",
+    "title": "Agent-harness-kit scaffolding for multi-agent workflows (MCP, provider-agnostic)",
     "source": "Hacker News",
-    "description": "HN Score: 41 | 17 comments",
-    "url": "https://github.com/darkrishabh/agent-skills-eval",
-    "score": 41,
+    "description": "HN Score: 59 | 18 comments",
+    "url": "https://ahk.cardor.dev",
+    "score": 59,
     "date": "2026-05-07",
     "category": "AI News"
   },
   {
-    "title": "R to @svpino: Here is another take. This time, I put the characters in a medieval setting. Notice how the faces are the same across every shot. The mo",
+    "title": "R to @svpino: Agentic coding is as much about the harness as it is about the model. The greatest and latest model in a mediocre harness will suck. Her",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2052377579307573672#m",
+    "url": "https://nitter.net/svpino/status/2052405847368888765#m",
     "date": "2026-05-07",
     "category": "Twitter"
   },
   {
-    "title": "Making LLM Training Faster with Unsloth and NVIDIA",
+    "title": "Motherboard sales are now collapsing amid unprecedented shortages fueled by AI",
     "source": "Hacker News",
-    "description": "HN Score: 87 | 12 comments",
-    "url": "https://unsloth.ai/blog/nvidia-collab",
-    "score": 87,
+    "description": "HN Score: 119 | 96 comments",
+    "url": "https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers",
+    "score": 119,
     "date": "2026-05-07",
     "category": "AI News"
   },
   {
-    "title": "R to @svpino: Now look at the water. It looks like water! The fire looks like fire too, with particles that don't glitch out halfway through. This is ",
+    "title": "JetBrains' agentic coding CLI comes with full bidirectional integration with their IDE. Watch the video. I'm using PyCharm and Junie CLI, and they com",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2052377514178449444#m",
+    "url": "https://nitter.net/svpino/status/2052405835243139370#m",
     "date": "2026-05-07",
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Tilde.run \u2013 Agent sandbox with a transactional, versioned filesystem",
+    "title": "Vibe coding and agentic engineering are getting closer than I'd like",
     "source": "Hacker News",
-    "description": "HN Score: 183 | 125 comments",
-    "url": "https://tilde.run/",
-    "score": 183,
+    "description": "HN Score: 722 | 815 comments",
+    "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
+    "score": 722,
     "date": "2026-05-07",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: I made a vertical-pedalling bike with a novel drivetrain [video]",
+    "title": "ProgramBench: Can Language Models Rebuild Programs from Scratch?",
     "source": "Hacker News",
-    "description": "HN Score: 10 | 0 comments",
-    "url": "https://www.youtube.com/watch?v=4HLOsi2gWXQ",
-    "score": 10,
+    "description": "HN Score: 111 | 60 comments",
+    "url": "https://arxiv.org/abs/2605.03546",
+    "score": 111,
     "date": "2026-05-07",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "A Theory of Deep Learning",
+    "title": "Advancing voice intelligence with new models in the API",
     "source": "Hacker News",
-    "description": "HN Score: 212 | 51 comments",
-    "url": "https://elonlit.com/scrivings/a-theory-of-deep-learning/",
-    "score": 212,
+    "description": "HN Score: 10 | 0 comments",
+    "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api/",
+    "score": 10,
     "date": "2026-05-07",
     "category": "AI News"
   }
