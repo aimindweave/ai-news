@@ -1,91 +1,171 @@
 [
   {
-    "title": "ClojureScript Gets Async/Await",
-    "source": "Hacker News",
-    "description": "HN Score: 152 | 43 comments",
-    "url": "https://clojurescript.org/news/2026-05-07-release",
-    "score": 152,
+    "title": "\u4eca\u56de\u306e\u602a\u7570\u3063\u3066 \u300c\u3082\u3057\u5cb8\u8fba\u9732\u4f34\u304c\u307f\u3093\u306a\u306b\u30c1\u30e4\u30db\u30e4\u3055\u308c\u308b\u305f\u3081\u306b\u6f2b\u753b\u3092\u63cf\u3044\u3066\u305f\u3089\u300d \u3060\u3063\u305f\u306a #\u6cc9\u4eac\u9999\u306f\u9ed9\u3089\u306a\u3044",
+    "source": "@kaborobot",
+    "description": "",
+    "url": "https://nitter.net/kaborobot/status/2051300761896972364#m",
     "date": "2026-05-08",
-    "category": "AI News"
+    "category": "Twitter"
   },
   {
     "title": "Podman rootless containers and the Copy Fail exploit",
     "source": "Hacker News",
-    "description": "HN Score: 5 | 0 comments",
+    "description": "HN Score: 61 | 11 comments",
     "url": "https://garrido.io/notes/podman-rootless-containers-copy-fail/",
-    "score": 5,
+    "score": 61,
     "date": "2026-05-08",
     "category": "AI News"
+  },
+  {
+    "title": "1\u30da\u30fc\u30b8\u76ee\u3067\u3061\u3083\u3093\u3068\u6253\u6483\u98df\u3089\u3063\u3066\u30ac\u30b3\u30f3\u3057\u3066\u308b\u306e\u3067 \u3042\u308c\u304c\u306a\u304b\u3063\u305f\u3089\u6469\u864e\u7f85\u653b\u7565\u3067\u304d\u3066\u305f\u304b\u3082\u3057\u308c\u3093",
+    "source": "@kaborobot",
+    "description": "",
+    "url": "https://nitter.net/kaborobot/status/2015735996248420451#m",
+    "date": "2026-05-08",
+    "category": "Twitter"
+  },
+  {
+    "title": "Show HN: Git for AI Agents",
+    "source": "Hacker News",
+    "description": "HN Score: 43 | 26 comments",
+    "url": "https://github.com/regent-vcs/re_gent",
+    "score": 43,
+    "date": "2026-05-08",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: New research: long-running agents often fail by stopping too early, not because the model can't make progress. We tested 5 harness d",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/ii_posts/status/2052764819950907490#m",
+    "date": "2026-05-08",
+    "category": "Twitter"
+  },
+  {
+    "title": "Canvas online again as ShinyHunters threatens to leak schools\u2019 data",
+    "source": "Hacker News",
+    "description": "HN Score: 865 | 569 comments",
+    "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
+    "score": 865,
+    "date": "2026-05-08",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: Oh?",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/ii_posts/status/2047361350154825979#m",
+    "date": "2026-05-08",
+    "category": "Twitter"
+  },
+  {
+    "title": "ClojureScript Gets Async/Await",
+    "source": "Hacker News",
+    "description": "HN Score: 235 | 56 comments",
+    "url": "https://clojurescript.org/news/2026-05-07-release",
+    "score": 235,
+    "date": "2026-05-08",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @DrJimFan: Our crowd favorite from last year\u2019s AI Ascent is back for round 2\u2026 this time: Robotics The Endgame \u265f\ufe0f thank you for dazzling us @DrJi",
+    "source": "@DrJimFan",
+    "description": "",
+    "url": "https://nitter.net/sonyatweetybird/status/2052766329887957350#m",
+    "date": "2026-05-08",
+    "category": "Twitter"
   },
   {
     "title": "Agents need control flow, not more prompts",
     "source": "Hacker News",
-    "description": "HN Score: 519 | 255 comments",
+    "description": "HN Score: 553 | 269 comments",
     "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
-    "score": 519,
+    "score": 553,
     "date": "2026-05-08",
     "category": "AI News"
   },
   {
-    "title": "A polynomial autoencoder beats PCA on transformer embeddings",
-    "source": "Hacker News",
-    "description": "HN Score: 66 | 17 comments",
-    "url": "https://ivanpleshkov.dev/blog/polynomial-autoencoder/",
-    "score": 66,
+    "title": "I promise this will be the best 20 min you spend today! Robotics: Endgame, the sequel to my last year's Sequoia AI Ascent talk, 'Physical Turing Test'",
+    "source": "@DrJimFan",
+    "description": "",
+    "url": "https://nitter.net/DrJimFan/status/2052758642781487237#m",
     "date": "2026-05-08",
-    "category": "AI News"
-  },
-  {
-    "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
-    "source": "Hacker News",
-    "description": "HN Score: 324 | 100 comments",
-    "url": "https://www.anthropic.com/research/natural-language-autoencoders",
-    "score": 324,
-    "date": "2026-05-08",
-    "category": "AI News"
-  },
-  {
-    "title": "Blaise \u2013 A modern self-hosting zero-legacy Object Pascal compiler targeting QBE",
-    "source": "Hacker News",
-    "description": "HN Score: 73 | 31 comments",
-    "url": "https://github.com/graemeg/blaise",
-    "score": 73,
-    "date": "2026-05-08",
-    "category": "AI News"
-  },
-  {
-    "title": "Hardening Firefox with Claude Mythos Preview",
-    "source": "Hacker News",
-    "description": "HN Score: 256 | 118 comments",
-    "url": "https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/",
-    "score": 256,
-    "date": "2026-05-08",
-    "category": "AI News"
+    "category": "Twitter"
   },
   {
     "title": "GPT-5.5 Price Increase: What It Costs",
     "source": "Hacker News",
-    "description": "HN Score: 109 | 25 comments",
+    "description": "HN Score: 169 | 50 comments",
     "url": "https://openrouter.ai/announcements/gpt55-cost-analysis",
-    "score": 109,
+    "score": 169,
     "date": "2026-05-08",
     "category": "AI News"
   },
   {
-    "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
+    "title": "The trackpad of the Framework 13 Pro is one of its highlights. I'm running Omarchy, and there was something that wasn't working quite well for me (com",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2052771533144113246#m",
+    "date": "2026-05-08",
+    "category": "Twitter"
+  },
+  {
+    "title": "Hardening Firefox with Claude Mythos Preview",
     "source": "Hacker News",
-    "description": "HN Score: 308 | 132 comments",
-    "url": "https://deepmind.google/blog/alphaevolve-impact/",
-    "score": 308,
+    "description": "HN Score: 318 | 138 comments",
+    "url": "https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/",
+    "score": 318,
     "date": "2026-05-08",
     "category": "AI News"
   },
   {
-    "title": "AI slop is killing online communities",
+    "title": "Most underrated skill today: Observability. I feel you can build a career just on this and have 2 decades of guaranteed money if you learn the skill w",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2052768260198928686#m",
+    "date": "2026-05-08",
+    "category": "Twitter"
+  },
+  {
+    "title": "A polynomial autoencoder beats PCA on transformer embeddings",
     "source": "Hacker News",
-    "description": "HN Score: 742 | 636 comments",
-    "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
-    "score": 742,
+    "description": "HN Score: 90 | 23 comments",
+    "url": "https://ivanpleshkov.dev/blog/polynomial-autoencoder/",
+    "score": 90,
+    "date": "2026-05-08",
+    "category": "AI News"
+  },
+  {
+    "title": "Running loops burning infinite tokens a day leads to extreme brain rot Once AI has generated 10k lines of code, engineers have zero idea of what is go",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2052621702337827112#m",
+    "date": "2026-05-08",
+    "category": "Twitter"
+  },
+  {
+    "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
+    "source": "Hacker News",
+    "description": "HN Score: 348 | 111 comments",
+    "url": "https://www.anthropic.com/research/natural-language-autoencoders",
+    "score": 348,
+    "date": "2026-05-08",
+    "category": "AI News"
+  },
+  {
+    "title": "Google I/O Predictions - new video model, Veo 3.5 - Nano Banana 3 - Flash 3.2 - Gemini Pro 3.5 Gemini beats GPT 5.5 at coding",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2052535776660123713#m",
+    "date": "2026-05-08",
+    "category": "Twitter"
+  },
+  {
+    "title": "Sandboxing AIOps and Agentic AI Security",
+    "source": "Hacker News",
+    "description": "HN Score: 5 | 0 comments",
+    "url": "https://blog.cosmonic.com/engineering/aiops-and-agentic-ai-security-in-a-componentized-world/",
+    "score": 5,
     "date": "2026-05-08",
     "category": "AI News"
   }
