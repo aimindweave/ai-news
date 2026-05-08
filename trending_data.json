@@ -1,171 +1,91 @@
 [
   {
-    "title": "\u4eca\u56de\u306e\u602a\u7570\u3063\u3066 \u300c\u3082\u3057\u5cb8\u8fba\u9732\u4f34\u304c\u307f\u3093\u306a\u306b\u30c1\u30e4\u30db\u30e4\u3055\u308c\u308b\u305f\u3081\u306b\u6f2b\u753b\u3092\u63cf\u3044\u3066\u305f\u3089\u300d \u3060\u3063\u305f\u306a #\u6cc9\u4eac\u9999\u306f\u9ed9\u3089\u306a\u3044",
-    "source": "@kaborobot",
-    "description": "",
-    "url": "https://nitter.net/kaborobot/status/2051300761896972364#m",
-    "date": "2026-05-08",
-    "category": "Twitter"
-  },
-  {
     "title": "ClojureScript Gets Async/Await",
     "source": "Hacker News",
-    "description": "HN Score: 82 | 22 comments",
+    "description": "HN Score: 152 | 43 comments",
     "url": "https://clojurescript.org/news/2026-05-07-release",
-    "score": 82,
+    "score": 152,
     "date": "2026-05-08",
     "category": "AI News"
   },
   {
-    "title": "1\u30da\u30fc\u30b8\u76ee\u3067\u3061\u3083\u3093\u3068\u6253\u6483\u98df\u3089\u3063\u3066\u30ac\u30b3\u30f3\u3057\u3066\u308b\u306e\u3067 \u3042\u308c\u304c\u306a\u304b\u3063\u305f\u3089\u6469\u864e\u7f85\u653b\u7565\u3067\u304d\u3066\u305f\u304b\u3082\u3057\u308c\u3093",
-    "source": "@kaborobot",
-    "description": "",
-    "url": "https://nitter.net/kaborobot/status/2015735996248420451#m",
-    "date": "2026-05-08",
-    "category": "Twitter"
-  },
-  {
-    "title": "A polynomial autoencoder beats PCA on transformer embeddings",
+    "title": "Podman rootless containers and the Copy Fail exploit",
     "source": "Hacker News",
-    "description": "HN Score: 51 | 15 comments",
-    "url": "https://ivanpleshkov.dev/blog/polynomial-autoencoder/",
-    "score": 51,
+    "description": "HN Score: 5 | 0 comments",
+    "url": "https://garrido.io/notes/podman-rootless-containers-copy-fail/",
+    "score": 5,
     "date": "2026-05-08",
     "category": "AI News"
-  },
-  {
-    "title": "RT by @EMostaque: Oh?",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/ii_posts/status/2047361350154825979#m",
-    "date": "2026-05-08",
-    "category": "Twitter"
   },
   {
     "title": "Agents need control flow, not more prompts",
     "source": "Hacker News",
-    "description": "HN Score: 480 | 239 comments",
+    "description": "HN Score: 519 | 255 comments",
     "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
-    "score": 480,
+    "score": 519,
     "date": "2026-05-08",
     "category": "AI News"
   },
   {
-    "title": "RT by @EMostaque: Financial Times perfectly illustrates our possible futures",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/typesfast/status/2052439277800452262#m",
+    "title": "A polynomial autoencoder beats PCA on transformer embeddings",
+    "source": "Hacker News",
+    "description": "HN Score: 66 | 17 comments",
+    "url": "https://ivanpleshkov.dev/blog/polynomial-autoencoder/",
+    "score": 66,
     "date": "2026-05-08",
-    "category": "Twitter"
+    "category": "AI News"
   },
   {
     "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
     "source": "Hacker News",
-    "description": "HN Score: 292 | 99 comments",
+    "description": "HN Score: 324 | 100 comments",
     "url": "https://www.anthropic.com/research/natural-language-autoencoders",
-    "score": 292,
+    "score": 324,
     "date": "2026-05-08",
     "category": "AI News"
-  },
-  {
-    "title": "R to @DrJimFan: Please check out lead author @letian_fu's deep dive thread! https://x.com/letian_fu/status/2039342130565357956?s=20",
-    "source": "@DrJimFan",
-    "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2039360927653614004#m",
-    "date": "2026-05-08",
-    "category": "Twitter"
-  },
-  {
-    "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
-    "source": "Hacker News",
-    "description": "HN Score: 300 | 124 comments",
-    "url": "https://deepmind.google/blog/alphaevolve-impact/",
-    "score": 300,
-    "date": "2026-05-08",
-    "category": "AI News"
-  },
-  {
-    "title": "R to @DrJimFan: As usual, we open-source everything, MIT license: https://capgym.github.io Code: https://github.com/capgym/cap-x Paper: https://arxiv.",
-    "source": "@DrJimFan",
-    "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2039360925606760690#m",
-    "date": "2026-05-08",
-    "category": "Twitter"
   },
   {
     "title": "Blaise \u2013 A modern self-hosting zero-legacy Object Pascal compiler targeting QBE",
     "source": "Hacker News",
-    "description": "HN Score: 53 | 19 comments",
+    "description": "HN Score: 73 | 31 comments",
     "url": "https://github.com/graemeg/blaise",
-    "score": 53,
+    "score": 73,
     "date": "2026-05-08",
     "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: JetBrains' agentic coding CLI comes with full bidirectional integration with their IDE. Watch the video. I'm using PyCharm and Junie CL",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2052405835243139370#m",
-    "date": "2026-05-08",
-    "category": "Twitter"
   },
   {
     "title": "Hardening Firefox with Claude Mythos Preview",
     "source": "Hacker News",
-    "description": "HN Score: 217 | 101 comments",
+    "description": "HN Score: 256 | 118 comments",
     "url": "https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/",
-    "score": 217,
+    "score": 256,
     "date": "2026-05-08",
     "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: Huge leap in video generation! Look at the faces here. For the first time, we have a tool that doesn't change characters' faces between",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2052377449619750995#m",
-    "date": "2026-05-08",
-    "category": "Twitter"
-  },
-  {
-    "title": "AI slop is killing online communities",
-    "source": "Hacker News",
-    "description": "HN Score: 684 | 591 comments",
-    "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
-    "score": 684,
-    "date": "2026-05-08",
-    "category": "AI News"
-  },
-  {
-    "title": "Running loops burning infinite tokens a day leads to extreme brain rot Once AI has generated 10k lines of code, engineers have zero idea of what is go",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2052621702337827112#m",
-    "date": "2026-05-08",
-    "category": "Twitter"
-  },
-  {
-    "title": "Two Home Affairs officials suspended after AI 'hallucinations' found",
-    "source": "Hacker News",
-    "description": "HN Score: 106 | 22 comments",
-    "url": "https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/",
-    "score": 106,
-    "date": "2026-05-08",
-    "category": "AI News"
-  },
-  {
-    "title": "Google I/O Predictions - new video model, Veo 3.5 - Nano Banana 3 - Flash 3.2 - Gemini Pro 3.5 Gemini beats GPT 5.5 at coding",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2052535776660123713#m",
-    "date": "2026-05-08",
-    "category": "Twitter"
   },
   {
     "title": "GPT-5.5 Price Increase: What It Costs",
     "source": "Hacker News",
-    "description": "HN Score: 56 | 7 comments",
+    "description": "HN Score: 109 | 25 comments",
     "url": "https://openrouter.ai/announcements/gpt55-cost-analysis",
-    "score": 56,
+    "score": 109,
+    "date": "2026-05-08",
+    "category": "AI News"
+  },
+  {
+    "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
+    "source": "Hacker News",
+    "description": "HN Score: 308 | 132 comments",
+    "url": "https://deepmind.google/blog/alphaevolve-impact/",
+    "score": 308,
+    "date": "2026-05-08",
+    "category": "AI News"
+  },
+  {
+    "title": "AI slop is killing online communities",
+    "source": "Hacker News",
+    "description": "HN Score: 742 | 636 comments",
+    "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
+    "score": 742,
     "date": "2026-05-08",
     "category": "AI News"
   }
