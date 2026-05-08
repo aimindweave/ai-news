@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Podman rootless containers and the Copy Fail exploit",
+    "title": "AI Is Breaking Two Vulnerability Cultures",
     "source": "Hacker News",
-    "description": "HN Score: 61 | 11 comments",
-    "url": "https://garrido.io/notes/podman-rootless-containers-copy-fail/",
-    "score": 61,
+    "description": "HN Score: 51 | 11 comments",
+    "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
+    "score": 51,
     "date": "2026-05-08",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "Show HN: Git for AI Agents",
     "source": "Hacker News",
-    "description": "HN Score: 43 | 26 comments",
+    "description": "HN Score: 68 | 39 comments",
     "url": "https://github.com/regent-vcs/re_gent",
-    "score": 43,
+    "score": 68,
     "date": "2026-05-08",
     "category": "AI News"
   },
@@ -44,9 +44,9 @@
   {
     "title": "Canvas online again as ShinyHunters threatens to leak schools\u2019 data",
     "source": "Hacker News",
-    "description": "HN Score: 865 | 569 comments",
+    "description": "HN Score: 880 | 586 comments",
     "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
-    "score": 865,
+    "score": 880,
     "date": "2026-05-08",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "ClojureScript Gets Async/Await",
+    "title": "Podman rootless containers and the Copy Fail exploit",
     "source": "Hacker News",
-    "description": "HN Score: 235 | 56 comments",
-    "url": "https://clojurescript.org/news/2026-05-07-release",
-    "score": 235,
+    "description": "HN Score: 89 | 15 comments",
+    "url": "https://garrido.io/notes/podman-rootless-containers-copy-fail/",
+    "score": 89,
     "date": "2026-05-08",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Agents need control flow, not more prompts",
+    "title": "ClojureScript Gets Async/Await",
     "source": "Hacker News",
-    "description": "HN Score: 553 | 269 comments",
-    "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
-    "score": 553,
+    "description": "HN Score: 250 | 59 comments",
+    "url": "https://clojurescript.org/news/2026-05-07-release",
+    "score": 250,
     "date": "2026-05-08",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "GPT-5.5 Price Increase: What It Costs",
+    "title": "Agents need control flow, not more prompts",
     "source": "Hacker News",
-    "description": "HN Score: 169 | 50 comments",
-    "url": "https://openrouter.ai/announcements/gpt55-cost-analysis",
-    "score": 169,
+    "description": "HN Score: 561 | 276 comments",
+    "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
+    "score": 561,
     "date": "2026-05-08",
     "category": "AI News"
   },
@@ -110,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Hardening Firefox with Claude Mythos Preview",
+    "title": "GPT-5.5 Price Increase: What It Costs",
     "source": "Hacker News",
-    "description": "HN Score: 318 | 138 comments",
-    "url": "https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/",
-    "score": 318,
+    "description": "HN Score: 184 | 54 comments",
+    "url": "https://openrouter.ai/announcements/gpt55-cost-analysis",
+    "score": 184,
     "date": "2026-05-08",
     "category": "AI News"
   },
@@ -127,11 +127,28 @@
     "category": "Twitter"
   },
   {
-    "title": "A polynomial autoencoder beats PCA on transformer embeddings",
+    "title": "Hardening Firefox with Claude Mythos Preview",
     "source": "Hacker News",
-    "description": "HN Score: 90 | 23 comments",
-    "url": "https://ivanpleshkov.dev/blog/polynomial-autoencoder/",
-    "score": 90,
+    "description": "HN Score: 329 | 141 comments",
+    "url": "https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/",
+    "score": 329,
+    "date": "2026-05-08",
+    "category": "AI News"
+  },
+  {
+    "title": "DeepSeek Pro and Flash continue to be extremely underrated. Both are excellent choices for easy agentic loops 20x cheaper than GPT 5.5 and just as goo",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2052824184498299068#m",
+    "date": "2026-05-08",
+    "category": "Twitter"
+  },
+  {
+    "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
+    "source": "Hacker News",
+    "description": "HN Score: 352 | 115 comments",
+    "url": "https://www.anthropic.com/research/natural-language-autoencoders",
+    "score": 352,
     "date": "2026-05-08",
     "category": "AI News"
   },
@@ -144,28 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
+    "title": "Court to DOGE: Asking ChatGPT 'Is This DEI?' Is Not Proper Legal Process",
     "source": "Hacker News",
-    "description": "HN Score: 348 | 111 comments",
-    "url": "https://www.anthropic.com/research/natural-language-autoencoders",
-    "score": 348,
-    "date": "2026-05-08",
-    "category": "AI News"
-  },
-  {
-    "title": "Google I/O Predictions - new video model, Veo 3.5 - Nano Banana 3 - Flash 3.2 - Gemini Pro 3.5 Gemini beats GPT 5.5 at coding",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2052535776660123713#m",
-    "date": "2026-05-08",
-    "category": "Twitter"
-  },
-  {
-    "title": "Sandboxing AIOps and Agentic AI Security",
-    "source": "Hacker News",
-    "description": "HN Score: 5 | 0 comments",
-    "url": "https://blog.cosmonic.com/engineering/aiops-and-agentic-ai-security-in-a-componentized-world/",
-    "score": 5,
+    "description": "HN Score: 41 | 8 comments",
+    "url": "https://www.techdirt.com/2026/05/08/court-to-doge-bros-asking-chatgpt-yo-is-this-dei-is-not-proper-legal-process-also-a-first-amendment-violation/",
+    "score": 41,
     "date": "2026-05-08",
     "category": "AI News"
   }
