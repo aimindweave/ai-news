@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "AI Is Breaking Two Vulnerability Cultures",
+    "title": "AI is breaking two vulnerability cultures",
     "source": "Hacker News",
-    "description": "HN Score: 51 | 11 comments",
+    "description": "HN Score: 107 | 48 comments",
     "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
-    "score": 51,
+    "score": 107,
     "date": "2026-05-08",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Git for AI Agents",
+    "title": "Canvas online again as ShinyHunters threatens to leak schools\u2019 data",
     "source": "Hacker News",
-    "description": "HN Score: 68 | 39 comments",
-    "url": "https://github.com/regent-vcs/re_gent",
-    "score": 68,
+    "description": "HN Score: 889 | 592 comments",
+    "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
+    "score": 889,
     "date": "2026-05-08",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Canvas online again as ShinyHunters threatens to leak schools\u2019 data",
+    "title": "Show HN: Git for AI Agents",
     "source": "Hacker News",
-    "description": "HN Score: 880 | 586 comments",
-    "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
-    "score": 880,
+    "description": "HN Score: 81 | 43 comments",
+    "url": "https://github.com/regent-vcs/re_gent",
+    "score": 81,
     "date": "2026-05-08",
     "category": "AI News"
   },
@@ -61,9 +61,26 @@
   {
     "title": "Podman rootless containers and the Copy Fail exploit",
     "source": "Hacker News",
-    "description": "HN Score: 89 | 15 comments",
+    "description": "HN Score: 100 | 20 comments",
     "url": "https://garrido.io/notes/podman-rootless-containers-copy-fail/",
-    "score": 89,
+    "score": 100,
+    "date": "2026-05-08",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @DrJimFan: Jim is always a crowd favorite at AI Ascent. His ability to simplify the latest research into a clear 'what and why it matters' while",
+    "source": "@DrJimFan",
+    "description": "",
+    "url": "https://nitter.net/Alfred_Lin/status/2052847050379936113#m",
+    "date": "2026-05-08",
+    "category": "Twitter"
+  },
+  {
+    "title": "ClojureScript Gets Async/Await",
+    "source": "Hacker News",
+    "description": "HN Score: 255 | 66 comments",
+    "url": "https://clojurescript.org/news/2026-05-07-release",
+    "score": 255,
     "date": "2026-05-08",
     "category": "AI News"
   },
@@ -76,28 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "ClojureScript Gets Async/Await",
-    "source": "Hacker News",
-    "description": "HN Score: 250 | 59 comments",
-    "url": "https://clojurescript.org/news/2026-05-07-release",
-    "score": 250,
-    "date": "2026-05-08",
-    "category": "AI News"
-  },
-  {
-    "title": "I promise this will be the best 20 min you spend today! Robotics: Endgame, the sequel to my last year's Sequoia AI Ascent talk, 'Physical Turing Test'",
-    "source": "@DrJimFan",
-    "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2052758642781487237#m",
-    "date": "2026-05-08",
-    "category": "Twitter"
-  },
-  {
     "title": "Agents need control flow, not more prompts",
     "source": "Hacker News",
-    "description": "HN Score: 561 | 276 comments",
+    "description": "HN Score: 564 | 281 comments",
     "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
-    "score": 561,
+    "score": 564,
     "date": "2026-05-08",
     "category": "AI News"
   },
@@ -110,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "GPT-5.5 Price Increase: What It Costs",
+    "title": "Teaching Claude Why",
     "source": "Hacker News",
-    "description": "HN Score: 184 | 54 comments",
-    "url": "https://openrouter.ai/announcements/gpt55-cost-analysis",
-    "score": 184,
+    "description": "HN Score: 7 | 0 comments",
+    "url": "https://www.anthropic.com/research/teaching-claude-why",
+    "score": 7,
     "date": "2026-05-08",
     "category": "AI News"
   },
@@ -129,9 +129,26 @@
   {
     "title": "Hardening Firefox with Claude Mythos Preview",
     "source": "Hacker News",
-    "description": "HN Score: 329 | 141 comments",
+    "description": "HN Score: 334 | 143 comments",
     "url": "https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/",
-    "score": 329,
+    "score": 334,
+    "date": "2026-05-08",
+    "category": "AI News"
+  },
+  {
+    "title": "And they said open-source AI would be worthless!! All of these companies will 5-10x in 1 year",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2052833552212115750#m",
+    "date": "2026-05-08",
+    "category": "Twitter"
+  },
+  {
+    "title": "GPT-5.5 Price Increase: What It Costs",
+    "source": "Hacker News",
+    "description": "HN Score: 187 | 57 comments",
+    "url": "https://openrouter.ai/announcements/gpt55-cost-analysis",
+    "score": 187,
     "date": "2026-05-08",
     "category": "AI News"
   },
@@ -142,31 +159,5 @@
     "url": "https://nitter.net/bindureddy/status/2052824184498299068#m",
     "date": "2026-05-08",
     "category": "Twitter"
-  },
-  {
-    "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
-    "source": "Hacker News",
-    "description": "HN Score: 352 | 115 comments",
-    "url": "https://www.anthropic.com/research/natural-language-autoencoders",
-    "score": 352,
-    "date": "2026-05-08",
-    "category": "AI News"
-  },
-  {
-    "title": "Running loops burning infinite tokens a day leads to extreme brain rot Once AI has generated 10k lines of code, engineers have zero idea of what is go",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2052621702337827112#m",
-    "date": "2026-05-08",
-    "category": "Twitter"
-  },
-  {
-    "title": "Court to DOGE: Asking ChatGPT 'Is This DEI?' Is Not Proper Legal Process",
-    "source": "Hacker News",
-    "description": "HN Score: 41 | 8 comments",
-    "url": "https://www.techdirt.com/2026/05/08/court-to-doge-bros-asking-chatgpt-yo-is-this-dei-is-not-proper-legal-process-also-a-first-amendment-violation/",
-    "score": 41,
-    "date": "2026-05-08",
-    "category": "AI News"
   }
 ]
