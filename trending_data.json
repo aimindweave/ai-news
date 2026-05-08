@@ -10,9 +10,9 @@
   {
     "title": "Agents need control flow, not more prompts",
     "source": "Hacker News",
-    "description": "HN Score: 360 | 191 comments",
+    "description": "HN Score: 415 | 204 comments",
     "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
-    "score": 360,
+    "score": 415,
     "date": "2026-05-08",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Researchers discover advanced language processing in the unconscious human brain",
+    "title": "A polynomial autoencoder beats PCA on transformer embeddings",
     "source": "Hacker News",
-    "description": "HN Score: 62 | 23 comments",
-    "url": "https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain",
-    "score": 62,
+    "description": "HN Score: 7 | 1 comments",
+    "url": "https://ivanpleshkov.dev/blog/polynomial-autoencoder/",
+    "score": 7,
     "date": "2026-05-08",
     "category": "AI News"
   },
@@ -44,9 +44,9 @@
   {
     "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
     "source": "Hacker News",
-    "description": "HN Score: 216 | 71 comments",
+    "description": "HN Score: 249 | 80 comments",
     "url": "https://www.anthropic.com/research/natural-language-autoencoders",
-    "score": 216,
+    "score": 249,
     "date": "2026-05-08",
     "category": "AI News"
   },
@@ -61,9 +61,9 @@
   {
     "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
     "source": "Hacker News",
-    "description": "HN Score: 255 | 108 comments",
+    "description": "HN Score: 274 | 118 comments",
     "url": "https://deepmind.google/blog/alphaevolve-impact/",
-    "score": 255,
+    "score": 274,
     "date": "2026-05-08",
     "category": "AI News"
   },
@@ -78,9 +78,9 @@
   {
     "title": "AI slop is killing online communities",
     "source": "Hacker News",
-    "description": "HN Score: 494 | 468 comments",
+    "description": "HN Score: 567 | 500 comments",
     "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
-    "score": 494,
+    "score": 567,
     "date": "2026-05-08",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Komai: a fine Matrix chat app you can get to love",
+    "title": "Blaise \u2013 A modern self-hosting zero-legacy Object Pascal compiler targeting QBE",
     "source": "Hacker News",
-    "description": "HN Score: 28 | 10 comments",
-    "url": "https://etke.cc/blog/introducing-komai",
-    "score": 28,
+    "description": "HN Score: 7 | 0 comments",
+    "url": "https://github.com/graemeg/blaise",
+    "score": 7,
     "date": "2026-05-08",
     "category": "AI News"
   },
@@ -110,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Two Home Affairs officials suspended after AI 'hallucinations' found",
+    "title": "Komai: a fine Matrix chat app you can get to love",
     "source": "Hacker News",
-    "description": "HN Score: 61 | 16 comments",
-    "url": "https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/",
-    "score": 61,
+    "description": "HN Score: 41 | 19 comments",
+    "url": "https://etke.cc/blog/introducing-komai",
+    "score": 41,
     "date": "2026-05-08",
     "category": "AI News"
   },
@@ -127,11 +127,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Chrome removes claim of On-device Al not sending data to Google Servers",
+    "title": "Hardening Firefox with Claude Mythos Preview",
     "source": "Hacker News",
-    "description": "HN Score: 492 | 188 comments",
-    "url": "https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/",
-    "score": 492,
+    "description": "HN Score: 127 | 72 comments",
+    "url": "https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/",
+    "score": 127,
+    "date": "2026-05-08",
+    "category": "AI News"
+  },
+  {
+    "title": "Running loops burning infinite tokens a day leads to extreme brain rot Once AI has generated 10k lines of code, engineers have zero idea of what is go",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2052621702337827112#m",
+    "date": "2026-05-08",
+    "category": "Twitter"
+  },
+  {
+    "title": "Two Home Affairs officials suspended after AI 'hallucinations' found",
+    "source": "Hacker News",
+    "description": "HN Score: 74 | 18 comments",
+    "url": "https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/",
+    "score": 74,
     "date": "2026-05-08",
     "category": "AI News"
   },
@@ -146,26 +163,9 @@
   {
     "title": "Principles for agent-native CLIs",
     "source": "Hacker News",
-    "description": "HN Score: 69 | 42 comments",
+    "description": "HN Score: 82 | 43 comments",
     "url": "https://twitter.com/trevin/status/2051316002730991795",
-    "score": 69,
-    "date": "2026-05-08",
-    "category": "AI News"
-  },
-  {
-    "title": "Gemini 3.1 Flash Lite Preview is now Gemini 3.1 Flash Lite.... \ud83e\udd37 Not the earth shattering new release we are all expecting I think that is still comin",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2052490332043174392#m",
-    "date": "2026-05-08",
-    "category": "Twitter"
-  },
-  {
-    "title": "Tools in the Grass: Raising the next generation of crafts person",
-    "source": "Hacker News",
-    "description": "HN Score: 35 | 3 comments",
-    "url": "https://www.popularwoodworking.com/editors-blog/tools-in-the-grass/",
-    "score": 35,
+    "score": 82,
     "date": "2026-05-08",
     "category": "AI News"
   }
