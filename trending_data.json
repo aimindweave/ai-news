@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Using Claude Code: The unreasonable effectiveness of HTML",
+    "title": "LLMs Corrupt Your Documents When You Delegate",
     "source": "Hacker News",
-    "description": "HN Score: 268 | 158 comments",
-    "url": "https://twitter.com/trq212/status/2052809885763747935",
-    "score": 268,
+    "description": "HN Score: 173 | 57 comments",
+    "url": "https://arxiv.org/abs/2604.15597",
+    "score": 173,
     "date": "2026-05-09",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "LLMs Corrupt Your Documents When You Delegate",
+    "title": "Using Claude Code: The unreasonable effectiveness of HTML",
     "source": "Hacker News",
-    "description": "HN Score: 79 | 27 comments",
-    "url": "https://arxiv.org/abs/2604.15597",
-    "score": 79,
+    "description": "HN Score: 321 | 201 comments",
+    "url": "https://twitter.com/trq212/status/2052809885763747935",
+    "score": 321,
     "date": "2026-05-09",
     "category": "AI News"
   },
@@ -44,9 +44,9 @@
   {
     "title": "A recent experience with ChatGPT 5.5 Pro",
     "source": "Hacker News",
-    "description": "HN Score: 460 | 319 comments",
+    "description": "HN Score: 502 | 362 comments",
     "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
-    "score": 460,
+    "score": 502,
     "date": "2026-05-09",
     "category": "AI News"
   },
@@ -61,9 +61,9 @@
   {
     "title": "OpenAI\u2019s WebRTC problem",
     "source": "Hacker News",
-    "description": "HN Score: 383 | 108 comments",
+    "description": "HN Score: 411 | 124 comments",
     "url": "https://moq.dev/blog/webrtc-is-the-problem/",
-    "score": 383,
+    "score": 411,
     "date": "2026-05-09",
     "category": "AI News"
   },
@@ -78,9 +78,9 @@
   {
     "title": "AI is breaking two vulnerability cultures",
     "source": "Hacker News",
-    "description": "HN Score: 366 | 147 comments",
+    "description": "HN Score: 384 | 151 comments",
     "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
-    "score": 366,
+    "score": 384,
     "date": "2026-05-09",
     "category": "AI News"
   },
@@ -95,9 +95,26 @@
   {
     "title": "Teaching Claude Why",
     "source": "Hacker News",
-    "description": "HN Score: 212 | 100 comments",
+    "description": "HN Score: 227 | 115 comments",
     "url": "https://www.anthropic.com/research/teaching-claude-why",
-    "score": 212,
+    "score": 227,
+    "date": "2026-05-09",
+    "category": "AI News"
+  },
+  {
+    "title": "Python, MCP, A2A, and a whole lot about how to build multi-agent systems. This goes well beyond building a single agent: it focuses on how multiple ag",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2053130397211660309#m",
+    "date": "2026-05-09",
+    "category": "Twitter"
+  },
+  {
+    "title": "Can LLMs model real-world systems in TLA+?",
+    "source": "Hacker News",
+    "description": "HN Score: 111 | 27 comments",
+    "url": "https://www.sigops.org/2026/can-llms-model-real-world-systems-in-tla/",
+    "score": 111,
     "date": "2026-05-09",
     "category": "AI News"
   },
@@ -110,28 +127,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Can LLMs model real-world systems in TLA+?",
+    "title": "All means are fair except solving the problem",
     "source": "Hacker News",
-    "description": "HN Score: 102 | 27 comments",
-    "url": "https://www.sigops.org/2026/can-llms-model-real-world-systems-in-tla/",
-    "score": 102,
+    "description": "HN Score: 73 | 50 comments",
+    "url": "https://yosefk.com/blog/all-means-are-fair-except-solving-the-problem.html",
+    "score": 73,
     "date": "2026-05-09",
     "category": "AI News"
   },
   {
-    "title": "RT by @svpino: Most underrated skill today: Observability. I feel you can build a career just on this and have 2 decades of guaranteed money if you le",
-    "source": "@svpino",
+    "title": "Google I/O will be a critical point in the evolution of the company Either Gemini models deliver on multiple fronts\u2026.. Or Google becomes a data center",
+    "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2052768260198928686#m",
+    "url": "https://nitter.net/bindureddy/status/2053144971482693995#m",
     "date": "2026-05-09",
     "category": "Twitter"
   },
   {
     "title": "The soul of maintaining a new machine",
     "source": "Hacker News",
-    "description": "HN Score: 73 | 6 comments",
+    "description": "HN Score: 77 | 6 comments",
     "url": "https://books.worksinprogress.co/book/maintenance-of-everything/communities-of-practice/the-soul-of-maintaining-a-new-machine/3",
-    "score": 73,
+    "score": 77,
     "date": "2026-05-09",
     "category": "AI News"
   },
@@ -142,31 +159,5 @@
     "url": "https://nitter.net/bindureddy/status/2052982206344409242#m",
     "date": "2026-05-09",
     "category": "Twitter"
-  },
-  {
-    "title": "All means are fair except solving the problem",
-    "source": "Hacker News",
-    "description": "HN Score: 71 | 50 comments",
-    "url": "https://yosefk.com/blog/all-means-are-fair-except-solving-the-problem.html",
-    "score": 71,
-    "date": "2026-05-09",
-    "category": "AI News"
-  },
-  {
-    "title": "Best models - May Edition Coding - GPT 5.5 xHigh Seeking truth - Grok 4.3 Video - SeeDance 2.0 Image - GPT Image 2.0 Voice - Gemini Live Hermes - m2.7",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2052959511368118750#m",
-    "date": "2026-05-09",
-    "category": "Twitter"
-  },
-  {
-    "title": "Aids Creeps Back in Parts of Zambia, a Year After U.S. Cuts to HIV Assistance",
-    "source": "Hacker News",
-    "description": "HN Score: 33 | 5 comments",
-    "url": "https://www.nytimes.com/2026/04/25/health/pepfar-hiv-aids-zambia.html",
-    "score": 33,
-    "date": "2026-05-09",
-    "category": "AI News"
   }
 ]
