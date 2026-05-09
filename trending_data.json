@@ -10,9 +10,9 @@
   {
     "title": "A recent experience with ChatGPT 5.5 Pro",
     "source": "Hacker News",
-    "description": "HN Score: 332 | 186 comments",
+    "description": "HN Score: 423 | 272 comments",
     "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
-    "score": 332,
+    "score": 423,
     "date": "2026-05-09",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "Using Claude Code: The unreasonable effectiveness of HTML",
     "source": "Hacker News",
-    "description": "HN Score: 164 | 89 comments",
+    "description": "HN Score: 229 | 133 comments",
     "url": "https://twitter.com/trq212/status/2052809885763747935",
-    "score": 164,
+    "score": 229,
     "date": "2026-05-09",
     "category": "AI News"
   },
@@ -44,9 +44,9 @@
   {
     "title": "OpenAI\u2019s WebRTC problem",
     "source": "Hacker News",
-    "description": "HN Score: 333 | 83 comments",
+    "description": "HN Score: 364 | 92 comments",
     "url": "https://moq.dev/blog/webrtc-is-the-problem/",
-    "score": 333,
+    "score": 364,
     "date": "2026-05-09",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "AI is breaking two vulnerability cultures",
+    "title": "LLMs Corrupt Your Documents When You Delegate",
     "source": "Hacker News",
-    "description": "HN Score: 343 | 136 comments",
-    "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
-    "score": 343,
+    "description": "HN Score: 31 | 6 comments",
+    "url": "https://arxiv.org/abs/2604.15597",
+    "score": 31,
     "date": "2026-05-09",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Teaching Claude Why",
+    "title": "AI is breaking two vulnerability cultures",
     "source": "Hacker News",
-    "description": "HN Score: 171 | 82 comments",
-    "url": "https://www.anthropic.com/research/teaching-claude-why",
-    "score": 171,
+    "description": "HN Score: 358 | 142 comments",
+    "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
+    "score": 358,
     "date": "2026-05-09",
     "category": "AI News"
   },
@@ -93,11 +93,28 @@
     "category": "Twitter"
   },
   {
+    "title": "Teaching Claude Why",
+    "source": "Hacker News",
+    "description": "HN Score: 197 | 91 comments",
+    "url": "https://www.anthropic.com/research/teaching-claude-why",
+    "score": 197,
+    "date": "2026-05-09",
+    "category": "AI News"
+  },
+  {
+    "title": "The Framework 13 Pro I'm using is running the Intel Core Ultra 5 325, and I'm yet to hear the fans. I haven't done anything super crazy with it yet, b",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2053100202085765334#m",
+    "date": "2026-05-09",
+    "category": "Twitter"
+  },
+  {
     "title": "Can LLMs model real-world systems in TLA+?",
     "source": "Hacker News",
-    "description": "HN Score: 88 | 21 comments",
+    "description": "HN Score: 98 | 26 comments",
     "url": "https://www.sigops.org/2026/can-llms-model-real-world-systems-in-tla/",
-    "score": 88,
+    "score": 98,
     "date": "2026-05-09",
     "category": "AI News"
   },
@@ -112,26 +129,9 @@
   {
     "title": "The soul of maintaining a new machine",
     "source": "Hacker News",
-    "description": "HN Score: 55 | 5 comments",
+    "description": "HN Score: 70 | 5 comments",
     "url": "https://books.worksinprogress.co/book/maintenance-of-everything/communities-of-practice/the-soul-of-maintaining-a-new-machine/3",
-    "score": 55,
-    "date": "2026-05-09",
-    "category": "AI News"
-  },
-  {
-    "title": "The trackpad of the Framework 13 Pro is one of its highlights. I'm running Omarchy, and there was something that wasn't working quite well for me (com",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2052771533144113246#m",
-    "date": "2026-05-09",
-    "category": "Twitter"
-  },
-  {
-    "title": "All means are fair except solving the problem",
-    "source": "Hacker News",
-    "description": "HN Score: 60 | 46 comments",
-    "url": "https://yosefk.com/blog/all-means-are-fair-except-solving-the-problem.html",
-    "score": 60,
+    "score": 70,
     "date": "2026-05-09",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "All my clients wanted a carousel, now it's an AI chatbot",
+    "title": "Aids Creeps Back in Parts of Zambia, a Year After U.S. Cuts to HIV Assistance",
     "source": "Hacker News",
-    "description": "HN Score: 101 | 48 comments",
-    "url": "https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md",
-    "score": 101,
+    "description": "HN Score: 11 | 0 comments",
+    "url": "https://www.nytimes.com/2026/04/25/health/pepfar-hiv-aids-zambia.html",
+    "score": 11,
     "date": "2026-05-09",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Podman rootless containers and the Copy Fail exploit",
+    "title": "All means are fair except solving the problem",
     "source": "Hacker News",
-    "description": "HN Score: 128 | 24 comments",
-    "url": "https://garrido.io/notes/podman-rootless-containers-copy-fail/",
-    "score": 128,
+    "description": "HN Score: 70 | 48 comments",
+    "url": "https://yosefk.com/blog/all-means-are-fair-except-solving-the-problem.html",
+    "score": 70,
     "date": "2026-05-09",
     "category": "AI News"
   }
