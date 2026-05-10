@@ -10,9 +10,9 @@
   {
     "title": "LLMs corrupt your documents when you delegate",
     "source": "Hacker News",
-    "description": "HN Score: 367 | 142 comments",
+    "description": "HN Score: 389 | 148 comments",
     "url": "https://arxiv.org/abs/2604.15597",
-    "score": 367,
+    "score": 389,
     "date": "2026-05-10",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "A recent experience with ChatGPT 5.5 Pro",
     "source": "Hacker News",
-    "description": "HN Score: 612 | 441 comments",
+    "description": "HN Score: 623 | 452 comments",
     "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
-    "score": 612,
+    "score": 623,
     "date": "2026-05-10",
     "category": "AI News"
   },
@@ -44,9 +44,9 @@
   {
     "title": "Using Claude Code: The unreasonable effectiveness of HTML",
     "source": "Hacker News",
-    "description": "HN Score: 425 | 241 comments",
+    "description": "HN Score: 444 | 250 comments",
     "url": "https://twitter.com/trq212/status/2052809885763747935",
-    "score": 425,
+    "score": 444,
     "date": "2026-05-10",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "OpenAI\u2019s WebRTC problem",
+    "title": "Meta's embrace of AI is making its employees miserable",
     "source": "Hacker News",
-    "description": "HN Score: 473 | 141 comments",
-    "url": "https://moq.dev/blog/webrtc-is-the-problem/",
-    "score": 473,
+    "description": "HN Score: 366 | 389 comments",
+    "url": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
+    "score": 366,
     "date": "2026-05-10",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "The Trail of Jeremiah",
+    "title": "OpenAI\u2019s WebRTC problem",
     "source": "Hacker News",
-    "description": "HN Score: 4 | 0 comments",
-    "url": "https://theamericanscholar.org/on-the-trail-of-jeremiah/",
-    "score": 4,
+    "description": "HN Score: 484 | 141 comments",
+    "url": "https://moq.dev/blog/webrtc-is-the-problem/",
+    "score": 484,
     "date": "2026-05-10",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "AI is breaking two vulnerability cultures",
+    "title": "Superintelligent Retrieval Agent: The Next Frontier of Information Retrieval",
     "source": "Hacker News",
-    "description": "HN Score: 413 | 166 comments",
-    "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
-    "score": 413,
+    "description": "HN Score: 6 | 0 comments",
+    "url": "https://arxiv.org/abs/2605.06647",
+    "score": 6,
     "date": "2026-05-10",
     "category": "AI News"
   },
@@ -110,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Teaching Claude Why",
+    "title": "MCP for sandboxed, reproducible envs for agentic-first coding workflows",
     "source": "Hacker News",
-    "description": "HN Score: 250 | 138 comments",
-    "url": "https://www.anthropic.com/research/teaching-claude-why",
-    "score": 250,
+    "description": "HN Score: 4 | 0 comments",
+    "url": "https://github.com/aniongithub/devcontainer-mcp",
+    "score": 4,
     "date": "2026-05-10",
     "category": "AI News"
   },
@@ -127,12 +127,30 @@
     "category": "Twitter"
   },
   {
+    "title": "AI is breaking two vulnerability cultures",
+    "source": "Hacker News",
+    "description": "HN Score: 415 | 166 comments",
+    "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
+    "score": 415,
+    "date": "2026-05-10",
+    "category": "AI News"
+  },
+  {
     "title": "It\u2019s no longer a given that the next generation model will be better - Opus 4.7 is legit worse than 4.6 - Gemini 3.1 worse than 2.5 - Sonnet 4.6 buggi",
     "source": "@bindureddy",
     "description": "",
     "url": "https://nitter.net/bindureddy/status/2053287286524309611#m",
     "date": "2026-05-10",
     "category": "Twitter"
+  },
+  {
+    "title": "Teaching Claude Why",
+    "source": "Hacker News",
+    "description": "HN Score: 252 | 139 comments",
+    "url": "https://www.anthropic.com/research/teaching-claude-why",
+    "score": 252,
+    "date": "2026-05-10",
+    "category": "AI News"
   },
   {
     "title": "Google I/O will be a critical point in the evolution of the company Either Gemini models deliver on multiple fronts\u2026.. Or Google becomes a data center",
