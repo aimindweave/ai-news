@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Local AI needs to be the norm",
+    "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
     "source": "Hacker News",
-    "description": "HN Score: 1317 | 539 comments",
-    "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
-    "score": 1317,
+    "description": "HN Score: 95 | 7 comments",
+    "url": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
+    "score": 95,
     "date": "2026-05-11",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "The greatest shot in television: James Burke had one chance to nail this scene (2024)",
+    "title": "Gmail registration now requires scanning a QR code and sending a text message",
     "source": "Hacker News",
-    "description": "HN Score: 219 | 97 comments",
-    "url": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
-    "score": 219,
+    "description": "HN Score: 270 | 137 comments",
+    "url": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
+    "score": 270,
     "date": "2026-05-11",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Running local models on an M4 with 24GB memory",
+    "title": "Am\u00e1lia and the Future of European Portuguese LLMs",
     "source": "Hacker News",
-    "description": "HN Score: 375 | 119 comments",
-    "url": "https://jola.dev/posts/running-local-models-on-m4",
-    "score": 375,
+    "description": "HN Score: 36 | 17 comments",
+    "url": "https://duarteocarmo.com/blog/amalia-and-the-future-of-european-portuguese-llms",
+    "score": 36,
     "date": "2026-05-11",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
+    "title": "Local AI needs to be the norm",
     "source": "Hacker News",
-    "description": "HN Score: 213 | 51 comments",
-    "url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
-    "score": 213,
+    "description": "HN Score: 1592 | 622 comments",
+    "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
+    "score": 1592,
     "date": "2026-05-11",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "I Work in Hollywood. Everyone Who Used to Make TV Is Now Training AI",
+    "title": "Running local models on an M4 with 24GB memory",
     "source": "Hacker News",
-    "description": "HN Score: 33 | 13 comments",
-    "url": "https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/",
-    "score": 33,
+    "description": "HN Score: 471 | 136 comments",
+    "url": "https://jola.dev/posts/running-local-models-on-m4",
+    "score": 471,
     "date": "2026-05-11",
     "category": "AI News"
   },
@@ -93,11 +93,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Gmail registration now requires scanning a QR code and sending a text message",
+    "title": "The greatest shot in television: James Burke had one chance to nail this scene (2024)",
     "source": "Hacker News",
-    "description": "HN Score: 37 | 21 comments",
-    "url": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
-    "score": 37,
+    "description": "HN Score: 280 | 153 comments",
+    "url": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
+    "score": 280,
+    "date": "2026-05-11",
+    "category": "AI News"
+  },
+  {
+    "title": "So many companies are trying to kill the SaaS model, that for the first time I think we might have a shot at creating something different. Literally e",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2053845530237927478#m",
+    "date": "2026-05-11",
+    "category": "Twitter"
+  },
+  {
+    "title": "What's Wrong with AI?",
+    "source": "Hacker News",
+    "description": "HN Score: 21 | 7 comments",
+    "url": "https://kurtis.weblog.lol/2026/05/whats-wrong-with-ai",
+    "score": 21,
     "date": "2026-05-11",
     "category": "AI News"
   },
@@ -110,28 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: adamsreview \u2013 better multi-agent PR reviews for Claude Code",
+    "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
     "source": "Hacker News",
-    "description": "HN Score: 48 | 16 comments",
-    "url": "https://github.com/adamjgmiller/adamsreview",
-    "score": 48,
-    "date": "2026-05-11",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: The Framework 13 Pro keyboard is better than both my MacBook Pro 16 and my MacBook Air keyboards. I honestly don't want to go back. Mac",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2053462675527700513#m",
-    "date": "2026-05-11",
-    "category": "Twitter"
-  },
-  {
-    "title": "How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?",
-    "source": "Hacker News",
-    "description": "HN Score: 105 | 36 comments",
-    "url": "https://dunkels.com/adam/claude-user-space-ip-stack-ping/",
-    "score": 105,
+    "description": "HN Score: 285 | 85 comments",
+    "url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
+    "score": 285,
     "date": "2026-05-11",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Using AI for just 10 minutes might make you lazy and dumb",
+    "title": "How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?",
     "source": "Hacker News",
-    "description": "HN Score: 10 | 6 comments",
-    "url": "https://www.wired.com/story/using-ai-negative-impact-thinking-problem-solving-study/",
-    "score": 10,
+    "description": "HN Score: 142 | 51 comments",
+    "url": "https://dunkels.com/adam/claude-user-space-ip-stack-ping/",
+    "score": 142,
     "date": "2026-05-11",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Task Paralysis and AI",
+    "title": "Show HN: adamsreview \u2013 better multi-agent PR reviews for Claude Code",
     "source": "Hacker News",
-    "description": "HN Score: 246 | 127 comments",
-    "url": "https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html",
-    "score": 246,
+    "description": "HN Score: 67 | 35 comments",
+    "url": "https://github.com/adamjgmiller/adamsreview",
+    "score": 67,
     "date": "2026-05-11",
     "category": "AI News"
   }
