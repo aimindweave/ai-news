@@ -10,9 +10,9 @@
   {
     "title": "Local AI needs to be the norm",
     "source": "Hacker News",
-    "description": "HN Score: 1142 | 488 comments",
+    "description": "HN Score: 1317 | 539 comments",
     "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
-    "score": 1142,
+    "score": 1317,
     "date": "2026-05-11",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "The greatest shot in television: James Burke had one chance to nail this scene (2024)",
     "source": "Hacker News",
-    "description": "HN Score: 170 | 67 comments",
+    "description": "HN Score: 219 | 97 comments",
     "url": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
-    "score": 170,
+    "score": 219,
     "date": "2026-05-11",
     "category": "AI News"
   },
@@ -44,9 +44,9 @@
   {
     "title": "Running local models on an M4 with 24GB memory",
     "source": "Hacker News",
-    "description": "HN Score: 310 | 94 comments",
+    "description": "HN Score: 375 | 119 comments",
     "url": "https://jola.dev/posts/running-local-models-on-m4",
-    "score": 310,
+    "score": 375,
     "date": "2026-05-11",
     "category": "AI News"
   },
@@ -61,9 +61,9 @@
   {
     "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
     "source": "Hacker News",
-    "description": "HN Score: 161 | 40 comments",
+    "description": "HN Score: 213 | 51 comments",
     "url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
-    "score": 161,
+    "score": 213,
     "date": "2026-05-11",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: adamsreview \u2013 better multi-agent PR reviews for Claude Code",
+    "title": "I Work in Hollywood. Everyone Who Used to Make TV Is Now Training AI",
     "source": "Hacker News",
-    "description": "HN Score: 34 | 10 comments",
-    "url": "https://github.com/adamjgmiller/adamsreview",
-    "score": 34,
+    "description": "HN Score: 33 | 13 comments",
+    "url": "https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/",
+    "score": 33,
     "date": "2026-05-11",
     "category": "AI News"
   },
@@ -93,11 +93,28 @@
     "category": "Twitter"
   },
   {
-    "title": "How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?",
+    "title": "Gmail registration now requires scanning a QR code and sending a text message",
     "source": "Hacker News",
-    "description": "HN Score: 76 | 23 comments",
-    "url": "https://dunkels.com/adam/claude-user-space-ip-stack-ping/",
-    "score": 76,
+    "description": "HN Score: 37 | 21 comments",
+    "url": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
+    "score": 37,
+    "date": "2026-05-11",
+    "category": "AI News"
+  },
+  {
+    "title": "I don't like the power cable that comes with the Framework 13 Pro. It's one of those 3-piece cables. Thick, inflexible, ugly cable that takes a ton of",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2053815072284348909#m",
+    "date": "2026-05-11",
+    "category": "Twitter"
+  },
+  {
+    "title": "Show HN: adamsreview \u2013 better multi-agent PR reviews for Claude Code",
+    "source": "Hacker News",
+    "description": "HN Score: 48 | 16 comments",
+    "url": "https://github.com/adamjgmiller/adamsreview",
+    "score": 48,
     "date": "2026-05-11",
     "category": "AI News"
   },
@@ -110,28 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Maryland citizens hit with $2B power grid upgrade for out-of-state AI",
+    "title": "How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?",
     "source": "Hacker News",
-    "description": "HN Score: 251 | 145 comments",
-    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises",
-    "score": 251,
-    "date": "2026-05-11",
-    "category": "AI News"
-  },
-  {
-    "title": "Python, MCP, A2A, and a whole lot about how to build multi-agent systems. This goes well beyond building a single agent: it focuses on how multiple ag",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2053130397211660309#m",
-    "date": "2026-05-11",
-    "category": "Twitter"
-  },
-  {
-    "title": "Task Paralysis and AI",
-    "source": "Hacker News",
-    "description": "HN Score: 237 | 119 comments",
-    "url": "https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html",
-    "score": 237,
+    "description": "HN Score: 105 | 36 comments",
+    "url": "https://dunkels.com/adam/claude-user-space-ip-stack-ping/",
+    "score": 105,
     "date": "2026-05-11",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "A recent experience with ChatGPT 5.5 Pro",
+    "title": "Using AI for just 10 minutes might make you lazy and dumb",
     "source": "Hacker News",
-    "description": "HN Score: 692 | 520 comments",
-    "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
-    "score": 692,
+    "description": "HN Score: 10 | 6 comments",
+    "url": "https://www.wired.com/story/using-ai-negative-impact-thinking-problem-solving-study/",
+    "score": 10,
     "date": "2026-05-11",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs",
+    "title": "Task Paralysis and AI",
     "source": "Hacker News",
-    "description": "HN Score: 163 | 116 comments",
-    "url": "https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656",
-    "score": 163,
+    "description": "HN Score: 246 | 127 comments",
+    "url": "https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html",
+    "score": 246,
     "date": "2026-05-11",
     "category": "AI News"
   }
