@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Why senior developers fail to communicate their expertise",
+    "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
     "source": "Hacker News",
-    "description": "HN Score: 61 | 24 comments",
-    "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
-    "score": 61,
+    "description": "HN Score: 141 | 45 comments",
+    "url": "https://github.com/cactus-compute/needle",
+    "score": 141,
     "date": "2026-05-12",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Dead.letter (CVE-2026-45185) Humans vs. LLM for Unauthenticated RCE Race on Exim",
+    "title": "Why senior developers fail to communicate their expertise",
     "source": "Hacker News",
-    "description": "HN Score: 5 | 0 comments",
-    "url": "https://xbow.com/blog/dead-letter-cve-2026-45185-xbow-found-rce-exim",
-    "score": 5,
+    "description": "HN Score: 241 | 123 comments",
+    "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
+    "score": 241,
     "date": "2026-05-12",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Launch HN: Voker (YC S24) \u2013 Analytics for AI Agents",
+    "title": "Reimagining the mouse pointer for the AI era",
     "source": "Hacker News",
-    "description": "HN Score: 25 | 11 comments",
-    "url": "https://voker.ai",
-    "score": 25,
+    "description": "HN Score: 76 | 60 comments",
+    "url": "https://deepmind.google/blog/ai-pointer/",
+    "score": 76,
     "date": "2026-05-12",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Agentic interface for mainframes and COBOL",
+    "title": "Launch HN: Voker (YC S24) \u2013 Analytics for AI Agents",
     "source": "Hacker News",
-    "description": "HN Score: 10 | 2 comments",
-    "url": "https://www.hypercubic.ai/hopper",
-    "score": 10,
+    "description": "HN Score: 32 | 15 comments",
+    "url": "https://voker.ai",
+    "score": 32,
     "date": "2026-05-12",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Postmortem: TanStack NPM supply-chain compromise",
+    "title": "Show HN: Statewright \u2013 Visual state machines that make AI agents reliable",
     "source": "Hacker News",
-    "description": "HN Score: 1018 | 430 comments",
-    "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
-    "score": 1018,
+    "description": "HN Score: 39 | 10 comments",
+    "url": "https://github.com/statewright/statewright",
+    "score": 39,
     "date": "2026-05-12",
     "category": "AI News"
   },
@@ -93,11 +93,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Statewright \u2013 Visual state machines that make AI agents reliable",
+    "title": "Show HN: Agentic interface for mainframes and COBOL",
     "source": "Hacker News",
-    "description": "HN Score: 4 | 0 comments",
-    "url": "https://github.com/statewright/statewright",
-    "score": 4,
+    "description": "HN Score: 39 | 15 comments",
+    "url": "https://www.hypercubic.ai/hopper",
+    "score": 39,
+    "date": "2026-05-12",
+    "category": "AI News"
+  },
+  {
+    "title": "Is this the best Linux alternative to Adobe Lightroom? I'm sorry, but this looks ugly. Ironically, the entire purpose of this app is to edit photos to",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2054277999776956799#m",
+    "date": "2026-05-12",
+    "category": "Twitter"
+  },
+  {
+    "title": "Show HN: Gigacatalyst \u2013 Extend your SaaS with an embedded AI builder",
+    "source": "Hacker News",
+    "description": "HN Score: 29 | 8 comments",
+    "url": "https://news.ycombinator.com/item?id=48110593",
+    "score": 29,
     "date": "2026-05-12",
     "category": "AI News"
   },
@@ -106,23 +123,6 @@
     "source": "@svpino",
     "description": "",
     "url": "https://nitter.net/svpino/status/2054217731898319155#m",
-    "date": "2026-05-12",
-    "category": "Twitter"
-  },
-  {
-    "title": "Show HN: Gigacatalyst \u2013 Extend your SaaS with an embedded AI builder",
-    "source": "Hacker News",
-    "description": "HN Score: 16 | 4 comments",
-    "url": "https://news.ycombinator.com/item?id=48110593",
-    "score": 16,
-    "date": "2026-05-12",
-    "category": "AI News"
-  },
-  {
-    "title": "Working with a single model is a recipe for disaster. Do not marry yourself to one LLM provider. They can pull the rug out from under you and break yo",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2054217719780983067#m",
     "date": "2026-05-12",
     "category": "Twitter"
   },
@@ -136,6 +136,23 @@
     "category": "AI News"
   },
   {
+    "title": "Opus 4.7 is released in fast mode... Will pass on it - it's NOT a great model and is insanely expensive In the meantime, we finally have DeepSeek flas",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2054286519767117971#m",
+    "date": "2026-05-12",
+    "category": "Twitter"
+  },
+  {
+    "title": "Postmortem: TanStack NPM supply-chain compromise",
+    "source": "Hacker News",
+    "description": "HN Score: 1049 | 435 comments",
+    "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
+    "score": 1049,
+    "date": "2026-05-12",
+    "category": "AI News"
+  },
+  {
     "title": "Flash 3.2 is more or less confirmed for Google I/O We are already using Flash instead of GPT 5.5 low in 70% of our scheduled jobs It will be HUGE if G",
     "source": "@bindureddy",
     "description": "",
@@ -144,28 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "If AI writes your code, why use Python?",
+    "title": "Meta employees protest against mouse tracking tech at US offices",
     "source": "Hacker News",
-    "description": "HN Score: 791 | 817 comments",
-    "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
-    "score": 791,
-    "date": "2026-05-12",
-    "category": "AI News"
-  },
-  {
-    "title": "Gemini Omni is coming... A supremely advanced video model that can do really fancy video editing and understands the world better Google I/O hype trai",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2053892696025055472#m",
-    "date": "2026-05-12",
-    "category": "Twitter"
-  },
-  {
-    "title": "Amazon employees are 'tokenmaxxing' due to pressure to use AI tools",
-    "source": "Hacker News",
-    "description": "HN Score: 131 | 118 comments",
-    "url": "https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/",
-    "score": 131,
+    "description": "HN Score: 8 | 1 comments",
+    "url": "https://www.reuters.com/sustainability/society-equity/meta-us-employees-organize-protest-against-mouse-tracking-tech-2026-05-12/",
+    "score": 8,
     "date": "2026-05-12",
     "category": "AI News"
   }
