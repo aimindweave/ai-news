@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Postmortem: TanStack NPM supply-chain compromise",
+    "title": "Why senior developers fail to communicate their expertise",
     "source": "Hacker News",
-    "description": "HN Score: 942 | 397 comments",
-    "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
-    "score": 942,
+    "description": "HN Score: 61 | 24 comments",
+    "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
+    "score": 61,
     "date": "2026-05-12",
     "category": "AI News"
   },
@@ -25,19 +25,104 @@
     "category": "Twitter"
   },
   {
-    "title": "If AI writes your code, why use Python?",
+    "title": "Dead.letter (CVE-2026-45185) Humans vs. LLM for Unauthenticated RCE Race on Exim",
     "source": "Hacker News",
-    "description": "HN Score: 678 | 696 comments",
-    "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
-    "score": 678,
+    "description": "HN Score: 5 | 0 comments",
+    "url": "https://xbow.com/blog/dead-letter-cve-2026-45185-xbow-found-rce-exim",
+    "score": 5,
     "date": "2026-05-12",
     "category": "AI News"
   },
   {
-    "title": "RT by @EMostaque: One-shot continuous video, from a single prompt. Made with Factory\u2122\ufe0f",
+    "title": "What is everyone's favourite platforms for Seedance and Happy Horse etc",
     "source": "@EMostaque",
     "description": "",
-    "url": "https://nitter.net/ii_posts/status/2052414954112749972#m",
+    "url": "https://nitter.net/EMostaque/status/2054234123946897699#m",
+    "date": "2026-05-12",
+    "category": "Twitter"
+  },
+  {
+    "title": "Launch HN: Voker (YC S24) \u2013 Analytics for AI Agents",
+    "source": "Hacker News",
+    "description": "HN Score: 25 | 11 comments",
+    "url": "https://voker.ai",
+    "score": 25,
+    "date": "2026-05-12",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: Meet physics-intern\ud83e\uddd1\u200d\ud83c\udf93, our agentic framework for theoretical physics. It takes Gemini 3.1 Pro from 17.7% to 31.4% on CritPt, a new ",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/dlouapre/status/2054217281895309480#m",
+    "date": "2026-05-12",
+    "category": "Twitter"
+  },
+  {
+    "title": "Show HN: Agentic interface for mainframes and COBOL",
+    "source": "Hacker News",
+    "description": "HN Score: 10 | 2 comments",
+    "url": "https://www.hypercubic.ai/hopper",
+    "score": 10,
+    "date": "2026-05-12",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @DrJimFan: Mark: 1/ First milestone: the Physical Turing Test. You literally can\u2019t tell if a human or robot is doing the task. 2/ Next: Physical",
+    "source": "@DrJimFan",
+    "description": "",
+    "url": "https://nitter.net/CyberRobooo/status/2053149920740450732#m",
+    "date": "2026-05-12",
+    "category": "Twitter"
+  },
+  {
+    "title": "Postmortem: TanStack NPM supply-chain compromise",
+    "source": "Hacker News",
+    "description": "HN Score: 1018 | 430 comments",
+    "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
+    "score": 1018,
+    "date": "2026-05-12",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @DrJimFan: Jim is always a crowd favorite at AI Ascent. His ability to simplify the latest research into a clear 'what and why it matters' while",
+    "source": "@DrJimFan",
+    "description": "",
+    "url": "https://nitter.net/Alfred_Lin/status/2052847050379936113#m",
+    "date": "2026-05-12",
+    "category": "Twitter"
+  },
+  {
+    "title": "Show HN: Statewright \u2013 Visual state machines that make AI agents reliable",
+    "source": "Hacker News",
+    "description": "HN Score: 4 | 0 comments",
+    "url": "https://github.com/statewright/statewright",
+    "score": 4,
+    "date": "2026-05-12",
+    "category": "AI News"
+  },
+  {
+    "title": "R to @svpino: Here is how to build this: https://router.orq.ai/ Thanks to the @orq_ai team for partnering with me on this post.",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2054217731898319155#m",
+    "date": "2026-05-12",
+    "category": "Twitter"
+  },
+  {
+    "title": "Show HN: Gigacatalyst \u2013 Extend your SaaS with an embedded AI builder",
+    "source": "Hacker News",
+    "description": "HN Score: 16 | 4 comments",
+    "url": "https://news.ycombinator.com/item?id=48110593",
+    "score": 16,
+    "date": "2026-05-12",
+    "category": "AI News"
+  },
+  {
+    "title": "Working with a single model is a recipe for disaster. Do not marry yourself to one LLM provider. They can pull the rug out from under you and break yo",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2054217719780983067#m",
     "date": "2026-05-12",
     "category": "Twitter"
   },
@@ -51,74 +136,6 @@
     "category": "AI News"
   },
   {
-    "title": "RT by @DrJimFan: Mark: 1/ First milestone: the Physical Turing Test. You literally can\u2019t tell if a human or robot is doing the task. 2/ Next: Physical",
-    "source": "@DrJimFan",
-    "description": "",
-    "url": "https://nitter.net/CyberRobooo/status/2053149920740450732#m",
-    "date": "2026-05-12",
-    "category": "Twitter"
-  },
-  {
-    "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
-    "source": "Hacker News",
-    "description": "HN Score: 390 | 78 comments",
-    "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
-    "score": 390,
-    "date": "2026-05-12",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @DrJimFan: Jim is always a crowd favorite at AI Ascent. His ability to simplify the latest research into a clear 'what and why it matters' while",
-    "source": "@DrJimFan",
-    "description": "",
-    "url": "https://nitter.net/Alfred_Lin/status/2052847050379936113#m",
-    "date": "2026-05-12",
-    "category": "Twitter"
-  },
-  {
-    "title": "Claude Platform on AWS",
-    "source": "Hacker News",
-    "description": "HN Score: 185 | 81 comments",
-    "url": "https://claude.com/blog/claude-platform-on-aws",
-    "score": 185,
-    "date": "2026-05-12",
-    "category": "AI News"
-  },
-  {
-    "title": "R to @svpino: One line installation: $ curl -fsSL https://junie.jetbrains.com/xs/install.sh | bash #ad",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2054197156056355316#m",
-    "date": "2026-05-12",
-    "category": "Twitter"
-  },
-  {
-    "title": "I let AI build a tool to help me figure out what was waking me up at night",
-    "source": "Hacker News",
-    "description": "HN Score: 230 | 239 comments",
-    "url": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
-    "score": 230,
-    "date": "2026-05-12",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: You either move fast, or you are left behind. AI companies are ruthless... they are coming after everyone.",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2053886618529132875#m",
-    "date": "2026-05-12",
-    "category": "Twitter"
-  },
-  {
-    "title": "Google says criminal hackers used AI to find a major software flaw",
-    "source": "Hacker News",
-    "description": "HN Score: 215 | 157 comments",
-    "url": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
-    "score": 215,
-    "date": "2026-05-12",
-    "category": "AI News"
-  },
-  {
     "title": "Flash 3.2 is more or less confirmed for Google I/O We are already using Flash instead of GPT 5.5 low in 70% of our scheduled jobs It will be HUGE if G",
     "source": "@bindureddy",
     "description": "",
@@ -127,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Interaction Models",
+    "title": "If AI writes your code, why use Python?",
     "source": "Hacker News",
-    "description": "HN Score: 275 | 36 comments",
-    "url": "https://thinkingmachines.ai/blog/interaction-models/",
-    "score": 275,
+    "description": "HN Score: 791 | 817 comments",
+    "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
+    "score": 791,
     "date": "2026-05-12",
     "category": "AI News"
   },
@@ -144,20 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
+    "title": "Amazon employees are 'tokenmaxxing' due to pressure to use AI tools",
     "source": "Hacker News",
-    "description": "HN Score: 246 | 12 comments",
-    "url": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
-    "score": 246,
-    "date": "2026-05-12",
-    "category": "AI News"
-  },
-  {
-    "title": "Interfaze: A new model architecture built for high accuracy at scale",
-    "source": "Hacker News",
-    "description": "HN Score: 154 | 36 comments",
-    "url": "https://interfaze.ai/blog/interfaze-a-new-model-architecture-built-for-high-accuracy-at-scale",
-    "score": 154,
+    "description": "HN Score: 131 | 118 comments",
+    "url": "https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/",
+    "score": 131,
     "date": "2026-05-12",
     "category": "AI News"
   }
