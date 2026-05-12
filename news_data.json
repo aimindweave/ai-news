@@ -1,5 +1,19 @@
 [
   {
+    "title": "Dessn raises $6M for its production focused design tool",
+    "source": "TechCrunch",
+    "summary": "A new startup called Dessn has raised $6M to build AI-powered design tools that work directly with production codebases.",
+    "url": "https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/",
+    "date": "2026-05-12"
+  },
+  {
+    "title": "AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 rivals",
+    "source": "TechCrunch",
+    "summary": "Vapi says its enterprise business has grown 10-fold since early 2025 as companies shift customer support and sales calls to AI agents.",
+    "url": "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/",
+    "date": "2026-05-12"
+  },
+  {
     "title": "Thinking Machines wants to build an AI that actually listens while it talks",
     "source": "TechCrunch",
     "summary": "Right now, every AI model you've ever used works the same way. You talk, it listens. It responds, you listen. Thinking Machines is trying to change that by building a model that processes your input and generates a response at the same time, so it's more like a phone call than a text chain.",
@@ -91,17 +105,10 @@
     "date": "2026-05-12"
   },
   {
-    "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
-    "source": "TechCrunch",
-    "summary": "Cloudflare announced its first large-scale layoff. CEO Matthew Prince says because of AI efficiency gains, the company doesn't need as many support roles.",
-    "url": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
-    "date": "2026-05-12"
-  },
-  {
-    "title": "The \u201cpeople\u2019s airline\u201d and the enterprise AI gold rush",
-    "source": "TechCrunch",
-    "summary": "Everyone wants a piece of the enterprise AI pie, and this week, we saw a string of companies making their moves. From Anthropic and OpenAI announcing new joint ventures targeting enterprise AI deployment to SAP dropping $1B on German AI startup Prior Labs, it s becoming clear that if you re a sta...",
-    "url": "https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/",
+    "title": "The Download: a Nobel winner on AI, and the case for fixing everything",
+    "source": "MIT Tech Review",
+    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Three things in AI to watch, according to a Nobel-winning economist A few months before he won the Nobel Prize in economics in 2024, Daron Acemoglu published a...",
+    "url": "https://www.technologyreview.com/2026/05/12/1137103/the-download-nobel-winner-ai-maintenance-of-everything/",
     "date": "2026-05-12"
   },
   {
@@ -165,13 +172,6 @@
     "source": "MIT Tech Review",
     "summary": "Technology is changing the way we make babies. The pioneering work of the scientists who invented IVF led to the birth of the first \u201ctest tube baby\u201d in 1978. We\u2019ve come a long, long way since then. This week, I\u2019ve been working on a piece about the cutting edge of IVF technologies and what\u2019s coming",
     "url": "https://www.technologyreview.com/2026/05/08/1136974/heres-how-technology-transformed-babymaking-ivf/",
-    "date": "2026-05-12"
-  },
-  {
-    "title": "The Download: the tech reshaping IVF and the rise of balcony solar",
-    "source": "MIT Tech Review",
-    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. What\u2019s next for IVF IVF has brought millions of babies into the world over the last four decades. But the process can still be slow, painful, and expensive\u2014and...",
-    "url": "https://www.technologyreview.com/2026/05/07/1136956/the-download-ivf-tech-balcony-solar/",
     "date": "2026-05-12"
   },
   {
@@ -245,7 +245,14 @@
     "date": "2026-05-12"
   },
   {
-    "title": "Data center guzzled 30 million gallons of water and nobody noticed for months",
+    "title": "Amazon employees are 'tokenmaxxing' due to pressure to use AI tools",
+    "source": "Ars Technica",
+    "summary": "Workers are using an internal AI tool to automate non-essential tasks.",
+    "url": "https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/",
+    "date": "2026-05-12"
+  },
+  {
+    "title": "Data center guzzled 30 million gallons of water, and nobody noticed for months",
     "source": "Ars Technica",
     "summary": "Can AI save us from the AI industry\u2019s endless thirst for water? Outlook not so good.",
     "url": "https://arstechnica.com/tech-policy/2026/05/data-center-used-30-million-gallons-of-water-without-initially-paying/",
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "Up to 3x the speed with no loss of quality\u2014is it too good to be true?",
     "url": "https://arstechnica.com/ai/2026/05/googles-gemma-4-open-ai-models-use-speculative-decoding-to-get-up-to-3x-faster/",
-    "date": "2026-05-12"
-  },
-  {
-    "title": "OpenAI president forced to read his personal diary entries to jury",
-    "source": "Ars Technica",
-    "summary": "Elon Musk argued the journals show the moment when OpenAI abandoned its mission.",
-    "url": "https://arstechnica.com/tech-policy/2026/05/openai-president-explains-to-jury-why-his-diary-entries-sound-greedy/",
     "date": "2026-05-12"
   }
 ]
