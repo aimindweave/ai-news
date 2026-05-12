@@ -94,6 +94,16 @@
   "episodes": [
     {
       "id": "a]6z Pod_0",
+      "name": "Lloyd Blankfein on Risk, Crisis, and Leadership",
+      "show": "a]6z Podcast",
+      "description": "David Haber speaks with Lloyd Blankfein, former CEO of Goldman Sachs, about leadership, risk, and navigating moments of extreme uncertainty. Drawing on his experience leading Goldman through the fi",
+      "release_date": "2026-05-12",
+      "duration_min": 72,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
+      "id": "a]6z Pod_1",
       "name": "Marc Andreessen on Builder Culture in the Age of AI",
       "show": "a]6z Podcast",
       "description": "Erik Torenberg speaks with Marc Andreessen about the state of AI, media, and the broader cultural and economic shifts shaping the internet. They discuss how narratives around AI, from fear to hype,",
@@ -113,7 +123,7 @@
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "Ben Horowitz on the Next Technology Era",
       "show": "a]6z Podcast",
       "description": "David Ulevitch speaks with Ben Horowitz about what it means to lead the technology industry at scale, and the responsibilities that come with it. Following the firm’s largest-ever fundraise, they d",
@@ -141,16 +151,6 @@
       "duration_min": 53,
       "image": "",
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
-    },
-    {
-      "id": "a]6z Pod_2",
-      "name": "Crypto Fund 5: We Raised $2.2B. Here’s Why.",
-      "show": "a]6z Podcast",
-      "description": "Robert Hackett speaks with the general partners at a16z crypto about the launch of their fifth crypto fund and the current state of the industry. They reflect on how crypto has evolved from an ideo",
-      "release_date": "2026-05-07",
-      "duration_min": 62,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
       "id": "Lex Frid_0",
