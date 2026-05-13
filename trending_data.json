@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Setting up a free *.city.state.us locality domain",
+    "title": "Setting up a free *.city.state.us locality domain (2025)",
     "source": "Hacker News",
-    "description": "HN Score: 278 | 76 comments",
+    "description": "HN Score: 415 | 132 comments",
     "url": "https://fredchan.org/blog/locality-domains-guide/",
-    "score": 278,
+    "score": 415,
     "date": "2026-05-13",
     "category": "AI News"
   },
@@ -25,11 +25,28 @@
     "category": "Twitter"
   },
   {
+    "title": "Rars: a Rust RAR implementation, mostly written by LLMs",
+    "source": "Hacker News",
+    "description": "HN Score: 55 | 35 comments",
+    "url": "https://bitplane.net/log/2026/05/rars/",
+    "score": 55,
+    "date": "2026-05-13",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: New paper: research agenda for secret loyalties Imagine a frontier model that has been trained to covertly advance a specific actor'",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/TomDavidsonX/status/2054614224437907770#m",
+    "date": "2026-05-13",
+    "category": "Twitter"
+  },
+  {
     "title": "The US is winning the AI race where it matters most: commercialization",
     "source": "Hacker News",
-    "description": "HN Score: 63 | 168 comments",
+    "description": "HN Score: 128 | 352 comments",
     "url": "https://avkcode.github.io/blog/us-winning-ai-race.html",
-    "score": 63,
+    "score": 128,
     "date": "2026-05-13",
     "category": "AI News"
   },
@@ -42,28 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "New stainless steel can survive conditions for hydrogen production in seawater",
+    "title": "Making the news available at no cost is a victory",
     "source": "Hacker News",
-    "description": "HN Score: 243 | 105 comments",
-    "url": "https://www.sciencedaily.com/releases/2026/05/260510030950.htm",
-    "score": 243,
-    "date": "2026-05-13",
-    "category": "AI News"
-  },
-  {
-    "title": "When you want to move from single agent SQLite on something like QMD, PostgreSQL is a great choice for multi agent and production quality, but not as ",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/EMostaque/status/2054587062033043799#m",
-    "date": "2026-05-13",
-    "category": "Twitter"
-  },
-  {
-    "title": "Haiku",
-    "source": "Hacker News",
-    "description": "HN Score: 106 | 48 comments",
-    "url": "https://www.haiku-os.org",
-    "score": 106,
+    "description": "HN Score: 80 | 88 comments",
+    "url": "https://www.sltrib.com/opinion/commentary/2026/05/12/just-days-tribune-reporting/",
+    "score": 80,
     "date": "2026-05-13",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+    "title": "New stainless steel can survive conditions for hydrogen production in seawater",
     "source": "Hacker News",
-    "description": "HN Score: 586 | 172 comments",
-    "url": "https://github.com/cactus-compute/needle",
-    "score": 586,
+    "description": "HN Score: 271 | 128 comments",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260510030950.htm",
+    "score": 271,
     "date": "2026-05-13",
     "category": "AI News"
   },
@@ -93,11 +93,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Nailing jelly to a wall: is it possible? (2005)",
+    "title": "Meta won't let you block its AI account on Threads",
     "source": "Hacker News",
-    "description": "HN Score: 45 | 16 comments",
-    "url": "https://greem.co.uk/otherbits/jelly.html",
-    "score": 45,
+    "description": "HN Score: 30 | 7 comments",
+    "url": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block",
+    "score": 30,
+    "date": "2026-05-13",
+    "category": "AI News"
+  },
+  {
+    "title": "Computer Use is getting a huge upgrade! I know everyone is trying to demo their 'computer use' abilities, but most agents are either too finicky (and ",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2054639324520677813#m",
+    "date": "2026-05-13",
+    "category": "Twitter"
+  },
+  {
+    "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+    "source": "Hacker News",
+    "description": "HN Score: 621 | 179 comments",
+    "url": "https://github.com/cactus-compute/needle",
+    "score": 621,
     "date": "2026-05-13",
     "category": "AI News"
   },
@@ -110,28 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Reimagining the mouse pointer for the AI era",
+    "title": "Nailing jelly to a wall: is it possible? (2005)",
     "source": "Hacker News",
-    "description": "HN Score: 240 | 211 comments",
-    "url": "https://deepmind.google/blog/ai-pointer/",
-    "score": 240,
-    "date": "2026-05-13",
-    "category": "AI News"
-  },
-  {
-    "title": "MCP is not dead. For the people who keep saying 'bUt McP pUts GaRbaGe iN yOuR cOntExT', that's an outdated complaint: None of the tools you use suffer",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2054580116060332094#m",
-    "date": "2026-05-13",
-    "category": "Twitter"
-  },
-  {
-    "title": "Show HN: Gigacatalyst \u2013 Extend your SaaS with an embedded AI builder",
-    "source": "Hacker News",
-    "description": "HN Score: 53 | 20 comments",
-    "url": "https://news.ycombinator.com/item?id=48110593",
-    "score": 53,
+    "description": "HN Score: 68 | 25 comments",
+    "url": "https://greem.co.uk/otherbits/jelly.html",
+    "score": 68,
     "date": "2026-05-13",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Why senior developers fail to communicate their expertise",
+    "title": "Continual Harness: Online Adaptation for Self-Improving Foundation Agents",
     "source": "Hacker News",
-    "description": "HN Score: 747 | 315 comments",
-    "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
-    "score": 747,
+    "description": "HN Score: 3 | 0 comments",
+    "url": "https://arxiv.org/abs/2605.09998",
+    "score": 3,
     "date": "2026-05-13",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Torrix, self hosted, LLM Observability,(no Postgres, no Redis)",
+    "title": "Haiku",
     "source": "Hacker News",
-    "description": "HN Score: 19 | 0 comments",
-    "url": "https://github.com/torrix-ai/install",
-    "score": 19,
+    "description": "HN Score: 154 | 76 comments",
+    "url": "https://www.haiku-os.org",
+    "score": 154,
     "date": "2026-05-13",
     "category": "AI News"
   }
