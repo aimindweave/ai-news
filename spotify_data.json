@@ -93,6 +93,16 @@
   ],
   "episodes": [
     {
+      "id": "The AI P_0",
+      "name": "Snap’s Secret to Processing 10 Petabytes a Day: GPU-Accelerated Spark | NVIDIA AI Podcast Ep. 298",
+      "show": "The AI Podcast (NVIDIA)",
+      "description": "Snap processes more than 10 petabytes of experimentation data every single morning—and with NVIDIA GPU-accelerated Apache Spark on Google Cloud, Snap cut job costs by 76%, reduced memory usage by 80%,",
+      "release_date": "2026-05-13",
+      "duration_min": 23,
+      "image": "",
+      "url": "https://open.spotify.com/show/0e1X4kJVfwQRPF8lZzqqfX"
+    },
+    {
       "id": "a]6z Pod_0",
       "name": "Energy, Minerals, and the Physical Stack Behind AI",
       "show": "a]6z Podcast",
@@ -163,7 +173,7 @@
       "url": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"
     },
     {
-      "id": "The AI P_0",
+      "id": "The AI P_1",
       "name": "Harrison Chase of LangChain on Deep Agents, LangSmith, and Earning Trust | NVIDIA AI Podcast Ep. 297",
       "show": "The AI Podcast (NVIDIA)",
       "description": "LangChain has surpassed 1 billion downloads—and the framework that started as a weekend project is now the harness powering the next generation of production-grade AI agents. In this episode, Harrison",
@@ -193,7 +203,7 @@
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
     },
     {
-      "id": "The AI P_1",
+      "id": "The AI P_2",
       "name": "How Dassault Systèmes Is Building AI That Understands Physics - Ep. 296",
       "show": "The AI Podcast (NVIDIA)",
       "description": "Generative AI can predict whether a plane takes off—but does it know why? Nicolas Cerisier, VP of 3DEXPERIENCE Platform R&D at Dassault Systèmes, explains how industrial world models go beyond pattern",
@@ -221,16 +231,6 @@
       "duration_min": 45,
       "image": "",
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
-    },
-    {
-      "id": "The AI P_2",
-      "name": "One Brain, Any Robot: Skild AI's Skild Brain Explained - Ep. 295",
-      "show": "The AI Podcast (NVIDIA)",
-      "description": "What if one AI brain could run every robot on the planet—a humanoid, a warehouse arm, and a dog-like inspection bot—all at once?\n\nThat's not a thought experiment. That's what Skild AI is building righ",
-      "release_date": "2026-04-22",
-      "duration_min": 29,
-      "image": "",
-      "url": "https://open.spotify.com/show/0e1X4kJVfwQRPF8lZzqqfX"
     },
     {
       "id": "Practica_2",
