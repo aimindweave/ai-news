@@ -1,5 +1,26 @@
 [
   {
+    "title": "Cisco cuts nearly 4,000 jobs to spend more on AI, reports \u2018record quarterly revenue\u2019",
+    "source": "TechCrunch",
+    "summary": "This is Cisco's latest layoff in recent years, while the company's chief executive touts record revenue and growth.",
+    "url": "https://techcrunch.com/2026/05/14/cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-record-quarterly-revenue/",
+    "date": "2026-05-14"
+  },
+  {
+    "title": "Two weeks left: Startup Battlefield 200 applications close May 27",
+    "source": "TechCrunch",
+    "summary": "Your shot at VC access, global visibility, TechCrunch coverage, and $100K equity-free funding is running out. Deadline to apply is May 27. Apply now.",
+    "url": "https://techcrunch.com/2026/05/14/two-weeks-left-startup-battlefield-200-applications-close-may-27/",
+    "date": "2026-05-14"
+  },
+  {
+    "title": "Wirestock raises $23M to supply creative multi-modal data to AI labs",
+    "source": "TechCrunch",
+    "summary": "Wirestock has over 700,000 creators on its platform, which supplies photos, videos and 3D content to AI labs.",
+    "url": "https://techcrunch.com/2026/05/14/wirestock-raises-23m-to-supply-multi-modal-data-to-ai-labs/",
+    "date": "2026-05-14"
+  },
+  {
     "title": "Who decides what AI tells you? Campbell Brown, once Meta\u2019s news chief, has thoughts",
     "source": "TechCrunch",
     "summary": "'The conversation is sort of happening in Silicon Valley around one thing, and a totally different conversation is happening among consumers.'",
@@ -70,13 +91,6 @@
     "date": "2026-05-14"
   },
   {
-    "title": "WhatsApp adds an incognito mode in Meta AI chats",
-    "source": "TechCrunch",
-    "summary": "Meta said these incognito conversations are not saved, and messages will disappear by default once you close the chat.",
-    "url": "https://techcrunch.com/2026/05/13/whatsapp-adds-an-incognito-mode-in-meta-ai-chats/",
-    "date": "2026-05-14"
-  },
-  {
     "title": "Anthropic now has more business customers than OpenAI, according to Ramp data",
     "source": "TechCrunch",
     "summary": "A survey compiled from fintech firm Ramp\u2019s clients\u2019 expense data shows 34.4% of participating businesses are paying for Anthropic services, more than any other AI lab, while only 32.3% pay for OpenAI.",
@@ -84,24 +98,38 @@
     "date": "2026-05-14"
   },
   {
-    "title": "Poppy debuts a proactive AI assistant to help organize your digital life",
+    "title": "WhatsApp adds an incognito mode in Meta AI chats",
     "source": "TechCrunch",
-    "summary": "Poppy is an AI-powered app that connects your calendar, email, messages, and other services to surface reminders, suggestions, and tasks based on what\u2019s happening in your life.",
-    "url": "https://techcrunch.com/2026/05/13/poppy-debuts-a-proactive-ai-assistant-to-help-organize-your-digital-life/",
+    "summary": "Meta said these incognito conversations are not saved, and messages will disappear by default once you close the chat.",
+    "url": "https://techcrunch.com/2026/05/13/whatsapp-adds-an-incognito-mode-in-meta-ai-chats/",
     "date": "2026-05-14"
   },
   {
-    "title": "Adaption aims big with AutoScientist, an AI tool that helps models train themselves",
-    "source": "TechCrunch",
-    "summary": "Adaption's new AutoScientist tool is designed to let models adapt to specific capabilities quickly through an automated approach to conventional fine-tuning.",
-    "url": "https://techcrunch.com/2026/05/13/adaption-aims-big-with-autoscientist-an-ai-tool-that-helps-models-train-themselves/",
+    "title": "Data readiness for agentic AI in financial services",
+    "source": "MIT Tech Review",
+    "summary": "Financial services companies have unique needs when it comes to business AI. They operate in one of the most highly regulated sectors while responding to external events that are updated by the second. As a result, the success of agentic AI in financial services depends less on the sophistication...",
+    "url": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/",
     "date": "2026-05-14"
   },
   {
-    "title": "Medicare\u2019s new payment model is built for AI, and most of the tech world has no idea",
-    "source": "TechCrunch",
-    "summary": "There is no governmental mechanism to pay for an AI agent that monitors a patient between visits, calls to check in, coordinates a housing referral, or makes sure someone picks up their medication. ACCESS creates that mechanism for the first time.",
-    "url": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
+    "title": "Establishing AI and data sovereignty in the age of autonomous systems",
+    "source": "MIT Tech Review",
+    "summary": "When generative AI first moved from research labs into real-world business applications, enterprises made a tacit bargain: \u201cCapability now, control later.\u201d Feed your proprietary data into third-party AI models, and you will get powerful results. But your data passes through systems you do not own...",
+    "url": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/",
+    "date": "2026-05-14"
+  },
+  {
+    "title": "The Download: deepfake porn\u2019s stolen bodies and AI sharing private numbers",
+    "source": "MIT Tech Review",
+    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. The shock of seeing your body used in deepfake porn When Jennifer got a research job in 2023, she ran her new professional headshot through a facial recognitio...",
+    "url": "https://www.technologyreview.com/2026/05/14/1137257/the-download-deepfake-porn-bodies-ai-exposing-phone-numbers/",
+    "date": "2026-05-14"
+  },
+  {
+    "title": "The Tesla Semi could be a big deal for electric trucking",
+    "source": "MIT Tech Review",
+    "summary": "The Tesla Semi has officially arrived. The company recently released a photo of the first vehicle rolling off its new full-scale production line. This moment has been nearly a decade in the making: The company first announced the Tesla Semi in late 2017. And now we\u2019ve got final battery specs, off...",
+    "url": "https://www.technologyreview.com/2026/05/14/1137197/tesla-semi-electric-trucking/",
     "date": "2026-05-14"
   },
   {
@@ -114,7 +142,7 @@
   {
     "title": "AI chatbots are giving out people\u2019s real phone numbers",
     "source": "MIT Tech Review",
-    "summary": "People report that their personal contact info was surfaced by Google AI\u2014and there\u2019s apparently no easy way to prevent it. A Redditor recently wrote that he was \u201cdesperate for help\u201d: for about a month, he said, his phone had been inundated by calls from \u201cstrangers\u201d who were \u201clooking for a lawyer,...",
+    "summary": "A Redditor recently wrote that he was \u201cdesperate for help\u201d: for about a month, he said, his phone had been inundated by calls from \u201cstrangers\u201d who were \u201clooking for a lawyer, a product designer, a locksmith.\u201d Callers were apparently misdirected by Google\u2019s generative AI. In March, a software deve...",
     "url": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/",
     "date": "2026-05-14"
   },
@@ -147,31 +175,17 @@
     "date": "2026-05-14"
   },
   {
-    "title": "Three things in AI to watch, according to a Nobel-winning economist",
-    "source": "MIT Tech Review",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. A few months before he was awarded the Nobel Prize in economics in 2024, Daron Acemoglu published a paper that earned him few fans in Silicon Valley. Contrary ...",
-    "url": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
+    "title": "AI Promised the Audemars Piguet x Swatch Wristwatch. China Will Deliver It",
+    "source": "Wired",
+    "summary": "Watch fans spent a week falling in love with colorful Royal Oak wristwatches that didn\u2019t exist\u2014then the real thing arrived. Now, fantasy is becoming a manufacturing opportunity.",
+    "url": "https://www.wired.com/story/ai-ruined-the-audemars-piguet-x-swatch-collaboration-china-could-save-it/",
     "date": "2026-05-14"
   },
   {
-    "title": "Fostering breakthrough AI innovation through customer-back engineering",
-    "source": "MIT Tech Review",
-    "summary": "Despite years of digitization, organizations capture less than one-third of the value expected from digital investments, according to McKinsey research. That\u2019s because most big companies begin with technological capabilities and bolt applications onto them, rather than starting with customer need...",
-    "url": "https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/",
-    "date": "2026-05-14"
-  },
-  {
-    "title": "Innovation abounds in device charging",
-    "source": "MIT Tech Review",
-    "summary": "The changes may be less perceptible than in smartphones, tablets, or wearables, but chargers have also been quietly reinvented over the last decade. At one time a bulky mix of tangled cables and connectors, slow to perform and prone to overheating, they\u2019re now smaller, safer, and faster, thanks t...",
-    "url": "https://www.technologyreview.com/2026/05/11/1136406/innovation-abounds-in-device-charging/",
-    "date": "2026-05-14"
-  },
-  {
-    "title": "Implementing advanced AI technologies in finance",
-    "source": "MIT Tech Review",
-    "summary": "In finance departments that have long been defined by precision and control, AI has arrived less as a neatly managed upgrade than as a quiet insurgency. Employees are already using it while leadership races to impose structure, governance, and strategy after the fact. The result is a paradox: one...",
-    "url": "https://www.technologyreview.com/2026/05/11/1136786/implementing-advanced-ai-technologies-in-finance/",
+    "title": "Gen Z Is Pioneering a New Understanding of Truth",
+    "source": "Wired",
+    "summary": "The first generation to truly grow up online, Generation Z and their cohort live in a social media ecosystem that blends facts and feelings. It\u2019s significantly shifting how they understand what\u2019s true.",
+    "url": "https://www.wired.com/story/book-excerpt-the-future-of-truth-steven-rosenbaum/",
     "date": "2026-05-14"
   },
   {
@@ -231,17 +245,10 @@
     "date": "2026-05-14"
   },
   {
-    "title": "Meet the Sad Wives of AI",
-    "source": "Wired",
-    "summary": "Are you married to a man who\u2019s obsessed with AI? I\u2019m so, so sorry.",
-    "url": "https://www.wired.com/story/meet-the-sad-wives-of-ai/",
-    "date": "2026-05-14"
-  },
-  {
-    "title": "Elon Musk Had \u2018Hair-Raising\u2019 Idea of Passing OpenAI On to His Kids, Sam Altman Says",
-    "source": "Wired",
-    "summary": "Musk\u2019s lawyers questioned Altman over allegations of deception and his network of financial investments, but the OpenAI CEO painted a picture of Musk as obsessed with controlling the company.",
-    "url": "https://www.wired.com/story/sam-altman-testifies-musk-v-altman-trial/",
+    "title": "Desperate Trump taps 'Tim Apple,' Jensen Huang, Elon Musk to attend Xi summit",
+    "source": "Ars Technica",
+    "summary": "Xi meeting may force Trump to pivot on chip restrictions and Taiwan.",
+    "url": "https://arstechnica.com/tech-policy/2026/05/desperate-trump-taps-tim-apple-jensen-huang-elon-musk-to-attend-xi-summit/",
     "date": "2026-05-14"
   },
   {
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "You can stop Chrome from taking up 4GB of storage for local AI, but that shouldn't be your problem.",
     "url": "https://arstechnica.com/google/2026/05/no-google-hasnt-changed-chromes-local-ai-features-its-just-as-confusing-as-ever/",
-    "date": "2026-05-14"
-  },
-  {
-    "title": "Mozilla says 271 vulnerabilities found by Mythos have 'almost no false positives'",
-    "source": "Ars Technica",
-    "summary": "The developer of Firefox says it has 'completely bought in' on AI-assisted bug discovery.",
-    "url": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/",
     "date": "2026-05-14"
   }
 ]
