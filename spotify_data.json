@@ -93,6 +93,26 @@
   ],
   "episodes": [
     {
+      "id": "Practica_0",
+      "name": "U.S. Congressman Beyer on AI challenges facing America and the World",
+      "show": "Practical AI",
+      "description": "\n        U.S. Congressman Don Beyer returns to Practical AI for another far-reaching conversation with Chris about many of the most important AI challenges facing America and the world.  Blending p",
+      "release_date": "2026-05-14",
+      "duration_min": 45,
+      "image": "",
+      "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
+    },
+    {
+      "id": "a]6z Pod_0",
+      "name": "Ben Horowitz - \"Your ONLY job is Right Product, Right Time\"",
+      "show": "a]6z Podcast",
+      "description": "Ben Horowitz shares lessons from building and scaling companies, drawing on his experience as a founder and CEO. He explains why a founder’s primary responsibility comes down to one thing: deliveri",
+      "release_date": "2026-05-14",
+      "duration_min": 18,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
       "id": "The AI P_0",
       "name": "Snap’s Secret to Processing 10 Petabytes a Day: GPU-Accelerated Spark | NVIDIA AI Podcast Ep. 298",
       "show": "The AI Podcast (NVIDIA)",
@@ -103,7 +123,7 @@
       "url": "https://open.spotify.com/show/0e1X4kJVfwQRPF8lZzqqfX"
     },
     {
-      "id": "a]6z Pod_0",
+      "id": "a]6z Pod_1",
       "name": "Energy, Minerals, and the Physical Stack Behind AI",
       "show": "a]6z Podcast",
       "description": "Erin Price-Wright speaks with Turner Caldwell and Drew Baglino about what it will take to close America's critical minerals gap and modernize the power infrastructure that underpins the AI economy.",
@@ -113,22 +133,12 @@
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "Lloyd Blankfein on Risk, Crisis, and Leadership",
       "show": "a]6z Podcast",
       "description": "David Haber speaks with Lloyd Blankfein, former CEO of Goldman Sachs, about leadership, risk, and navigating moments of extreme uncertainty. Drawing on his experience leading Goldman through the fi",
       "release_date": "2026-05-12",
       "duration_min": 72,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
-    },
-    {
-      "id": "a]6z Pod_2",
-      "name": "Marc Andreessen on Builder Culture in the Age of AI",
-      "show": "a]6z Podcast",
-      "description": "Erik Torenberg speaks with Marc Andreessen about the state of AI, media, and the broader cultural and economic shifts shaping the internet. They discuss how narratives around AI, from fear to hype,",
-      "release_date": "2026-05-11",
-      "duration_min": 64,
       "image": "",
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
@@ -143,7 +153,7 @@
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
-      "id": "Practica_0",
+      "id": "Practica_1",
       "name": "The Myth of Model Wars: Open vs Closed AI in 2026",
       "show": "Practical AI",
       "description": "\n        In this fully connected episode, Dan and Chris break down one of the biggest questions in AI today: do open vs. closed models still matter? From the rise of physical AI and edge devices to",
@@ -223,22 +233,12 @@
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
-      "id": "Practica_1",
+      "id": "Practica_2",
       "name": "The mythos of Mythos and Allbirds takes flight to the neocloud",
       "show": "Practical AI",
       "description": "\n        In this Fully-Connected episode, Dan and Chris start with Anthropic's Mythos frontier model, parsing what is publicly known about its cybersecurity capabilities and projecting its possible",
       "release_date": "2026-04-23",
       "duration_min": 45,
-      "image": "",
-      "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
-    },
-    {
-      "id": "Practica_2",
-      "name": "Open Source Self-Driving with Comma AI",
-      "show": "Practical AI",
-      "description": "\n        Autonomous driving is not just a big tech or closed-source game, it's becoming accessible through open innovation and real-world deployment. Dan and Chris sit down with Harald Schäfer, CTO",
-      "release_date": "2026-04-16",
-      "duration_min": 46,
       "image": "",
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
