@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "A 0-click exploit chain for the Pixel 10",
+    "title": "Mitchellh \u2013 I strongly believe there are entire companies now under AI psychosis",
     "source": "Hacker News",
-    "description": "HN Score: 248 | 103 comments",
-    "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
-    "score": 248,
+    "description": "HN Score: 91 | 10 comments",
+    "url": "https://twitter.com/mitchellh/status/2055380239711457578",
+    "score": 91,
     "date": "2026-05-15",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Bun Rust rewrite: 'codebase fails basic miri checks, allows for UB in safe rust'",
+    "title": "A 0-click exploit chain for the Pixel 10",
     "source": "Hacker News",
-    "description": "HN Score: 232 | 147 comments",
-    "url": "https://github.com/oven-sh/bun/issues/30719",
-    "score": 232,
+    "description": "HN Score: 279 | 118 comments",
+    "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
+    "score": 279,
     "date": "2026-05-15",
     "category": "AI News"
   },
@@ -44,9 +44,9 @@
   {
     "title": "Show HN: Watch a neural net learn to play Snake",
     "source": "Hacker News",
-    "description": "HN Score: 71 | 16 comments",
+    "description": "HN Score: 90 | 18 comments",
     "url": "https://ppo.gradexp.xyz/",
-    "score": 71,
+    "score": 90,
     "date": "2026-05-15",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Amazon workers under pressure to up their AI usage are making up tasks",
+    "title": "Bun Rust rewrite: 'codebase fails basic miri checks, allows for UB in safe rust'",
     "source": "Hacker News",
-    "description": "HN Score: 257 | 252 comments",
-    "url": "https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks",
-    "score": 257,
+    "description": "HN Score: 320 | 225 comments",
+    "url": "https://github.com/oven-sh/bun/issues/30719",
+    "score": 320,
     "date": "2026-05-15",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Sx \u2013 an open-source package manager for AI skills, MCPs, and commands",
+    "title": "Amazon workers under pressure to up their AI usage are making up tasks",
     "source": "Hacker News",
-    "description": "HN Score: 18 | 10 comments",
-    "url": "https://github.com/sleuth-io/sx",
-    "score": 18,
+    "description": "HN Score: 283 | 298 comments",
+    "url": "https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks",
+    "score": 283,
     "date": "2026-05-15",
     "category": "AI News"
   },
@@ -93,11 +93,28 @@
     "category": "Twitter"
   },
   {
+    "title": "Show HN: Sx \u2013 an open-source package manager for AI skills, MCPs, and commands",
+    "source": "Hacker News",
+    "description": "HN Score: 24 | 13 comments",
+    "url": "https://github.com/sleuth-io/sx",
+    "score": 24,
+    "date": "2026-05-15",
+    "category": "AI News"
+  },
+  {
+    "title": "This is the architecture pattern that's going to kill single-model tools: You send a prompt, the agent breaks it into sub-tasks, and routes each one t",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2055388123010662472#m",
+    "date": "2026-05-15",
+    "category": "Twitter"
+  },
+  {
     "title": "Details of the Daring Airdrop at Tristan Da Cunha",
     "source": "Hacker News",
-    "description": "HN Score: 243 | 90 comments",
+    "description": "HN Score: 249 | 92 comments",
     "url": "https://www.tristandc.com/government/news-2026-05-11-airdrop.php",
-    "score": 243,
+    "score": 249,
     "date": "2026-05-15",
     "category": "AI News"
   },
@@ -112,26 +129,9 @@
   {
     "title": "Codex is now in the ChatGPT mobile app",
     "source": "Hacker News",
-    "description": "HN Score: 452 | 229 comments",
+    "description": "HN Score: 461 | 233 comments",
     "url": "https://openai.com/index/work-with-codex-from-anywhere/",
-    "score": 452,
-    "date": "2026-05-15",
-    "category": "AI News"
-  },
-  {
-    "title": "R to @svpino: Here is the repository link: https://github.com/bruin-data/dac",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2055296014266008004#m",
-    "date": "2026-05-15",
-    "category": "Twitter"
-  },
-  {
-    "title": "Claude for Legal",
-    "source": "Hacker News",
-    "description": "HN Score: 179 | 173 comments",
-    "url": "https://github.com/anthropics/claude-for-legal",
-    "score": 179,
+    "score": 461,
     "date": "2026-05-15",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Kairos: The ancient Greek art of knowing when to act",
+    "title": "Claude for Legal",
     "source": "Hacker News",
-    "description": "HN Score: 7 | 0 comments",
-    "url": "https://bigthink.com/mini-philosophy/kairos-the-ancient-greek-art-of-knowing-when-to-act/",
-    "score": 7,
+    "description": "HN Score: 184 | 177 comments",
+    "url": "https://github.com/anthropics/claude-for-legal",
+    "score": 184,
     "date": "2026-05-15",
     "category": "AI News"
   },
@@ -161,10 +161,10 @@
     "category": "Twitter"
   },
   {
-    "title": "Travelers on Air Force One ordered to throw away gifts, phones after China trip",
+    "title": "Your AI Use Is Breaking My Brain",
     "source": "Hacker News",
-    "description": "HN Score: 20 | 20 comments",
-    "url": "https://techcrunch.com/2026/05/15/us-orders-travelers-on-air-force-one-to-throw-away-gifts-pins-and-burner-phones-after-china-trip/",
+    "description": "HN Score: 20 | 3 comments",
+    "url": "https://www.404media.co/your-ai-use-is-breaking-my-brain/",
     "score": 20,
     "date": "2026-05-15",
     "category": "AI News"
