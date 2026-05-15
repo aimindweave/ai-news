@@ -10,9 +10,9 @@
   {
     "title": "A 0-click exploit chain for the Pixel 10",
     "source": "Hacker News",
-    "description": "HN Score: 202 | 84 comments",
+    "description": "HN Score: 248 | 103 comments",
     "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
-    "score": 202,
+    "score": 248,
     "date": "2026-05-15",
     "category": "AI News"
   },
@@ -25,11 +25,28 @@
     "category": "Twitter"
   },
   {
+    "title": "Bun Rust rewrite: 'codebase fails basic miri checks, allows for UB in safe rust'",
+    "source": "Hacker News",
+    "description": "HN Score: 232 | 147 comments",
+    "url": "https://github.com/oven-sh/bun/issues/30719",
+    "score": 232,
+    "date": "2026-05-15",
+    "category": "AI News"
+  },
+  {
+    "title": "I discuss this applied to economics in The Last Economy with reference to Smith, Marx & Hayek Harmonic flow is the landscape itself https://ii.inc/web",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/EMostaque/status/2055355018744574133#m",
+    "date": "2026-05-15",
+    "category": "Twitter"
+  },
+  {
     "title": "Show HN: Watch a neural net learn to play Snake",
     "source": "Hacker News",
-    "description": "HN Score: 39 | 6 comments",
+    "description": "HN Score: 71 | 16 comments",
     "url": "https://ppo.gradexp.xyz/",
-    "score": 39,
+    "score": 71,
     "date": "2026-05-15",
     "category": "AI News"
   },
@@ -44,26 +61,9 @@
   {
     "title": "Amazon workers under pressure to up their AI usage are making up tasks",
     "source": "Hacker News",
-    "description": "HN Score: 191 | 170 comments",
+    "description": "HN Score: 257 | 252 comments",
     "url": "https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks",
-    "score": 191,
-    "date": "2026-05-15",
-    "category": "AI News"
-  },
-  {
-    "title": "Team @grok @xai can you please allow latex uploads on mobile app thx",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/EMostaque/status/2055336188878135445#m",
-    "date": "2026-05-15",
-    "category": "Twitter"
-  },
-  {
-    "title": "OpenAI is connecting ChatGPT to bank accounts via Plaid",
-    "source": "Hacker News",
-    "description": "HN Score: 52 | 75 comments",
-    "url": "https://firethering.com/chatgpt-bank-account-plaid-openai/",
-    "score": 52,
+    "score": 257,
     "date": "2026-05-15",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Details of the Daring Airdrop at Tristan Da Cunha",
+    "title": "Show HN: Sx \u2013 an open-source package manager for AI skills, MCPs, and commands",
     "source": "Hacker News",
-    "description": "HN Score: 226 | 88 comments",
-    "url": "https://www.tristandc.com/government/news-2026-05-11-airdrop.php",
-    "score": 226,
+    "description": "HN Score: 18 | 10 comments",
+    "url": "https://github.com/sleuth-io/sx",
+    "score": 18,
     "date": "2026-05-15",
     "category": "AI News"
   },
@@ -93,11 +93,28 @@
     "category": "Twitter"
   },
   {
-    "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
+    "title": "Details of the Daring Airdrop at Tristan Da Cunha",
     "source": "Hacker News",
-    "description": "HN Score: 665 | 159 comments",
-    "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
-    "score": 665,
+    "description": "HN Score: 243 | 90 comments",
+    "url": "https://www.tristandc.com/government/news-2026-05-11-airdrop.php",
+    "score": 243,
+    "date": "2026-05-15",
+    "category": "AI News"
+  },
+  {
+    "title": "For the first time, I feel open-weight models are impossible to ignore. We are at a point where these models are competitive with the best models out ",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2055355144037089354#m",
+    "date": "2026-05-15",
+    "category": "Twitter"
+  },
+  {
+    "title": "Codex is now in the ChatGPT mobile app",
+    "source": "Hacker News",
+    "description": "HN Score: 452 | 229 comments",
+    "url": "https://openai.com/index/work-with-codex-from-anywhere/",
+    "score": 452,
     "date": "2026-05-15",
     "category": "AI News"
   },
@@ -110,28 +127,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Codex is now in the ChatGPT mobile app",
+    "title": "Claude for Legal",
     "source": "Hacker News",
-    "description": "HN Score: 436 | 222 comments",
-    "url": "https://openai.com/index/work-with-codex-from-anywhere/",
-    "score": 436,
+    "description": "HN Score: 179 | 173 comments",
+    "url": "https://github.com/anthropics/claude-for-legal",
+    "score": 179,
     "date": "2026-05-15",
     "category": "AI News"
   },
   {
-    "title": "Markdown was doomed from the start. It's just a format with low information density. HTML is better for humans, and agents can now consume and produce",
-    "source": "@svpino",
+    "title": "China is building pragmatic open-source AI models and no one can really stop them.... These models can already handle 50% of every day tasks effective",
+    "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2055296002169671940#m",
+    "url": "https://nitter.net/bindureddy/status/2055361266898649194#m",
     "date": "2026-05-15",
     "category": "Twitter"
   },
   {
-    "title": "Claude for Legal",
+    "title": "Kairos: The ancient Greek art of knowing when to act",
     "source": "Hacker News",
-    "description": "HN Score: 173 | 167 comments",
-    "url": "https://github.com/anthropics/claude-for-legal",
-    "score": 173,
+    "description": "HN Score: 7 | 0 comments",
+    "url": "https://bigthink.com/mini-philosophy/kairos-the-ancient-greek-art-of-knowing-when-to-act/",
+    "score": 7,
     "date": "2026-05-15",
     "category": "AI News"
   },
@@ -144,20 +161,12 @@
     "category": "Twitter"
   },
   {
-    "title": "DeepSeek V4: The Open-Source Model Frontier Labs Feared",
+    "title": "Travelers on Air Force One ordered to throw away gifts, phones after China trip",
     "source": "Hacker News",
-    "description": "HN Score: 23 | 11 comments",
-    "url": "https://helloai.com/articles/deepseek-v4-open-source-frontier-parity",
-    "score": 23,
+    "description": "HN Score: 20 | 20 comments",
+    "url": "https://techcrunch.com/2026/05/15/us-orders-travelers-on-air-force-one-to-throw-away-gifts-pins-and-burner-phones-after-china-trip/",
+    "score": 20,
     "date": "2026-05-15",
     "category": "AI News"
-  },
-  {
-    "title": "Gemini 3.2 Flash - Capitalizing on DeepMind's clever distillation techniques... Rumors are that benchmarks show it's hitting 92% of GPT 5.5's performa",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2054767771418861964#m",
-    "date": "2026-05-15",
-    "category": "Twitter"
   }
 ]
