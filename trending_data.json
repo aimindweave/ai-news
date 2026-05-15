@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
+    "title": "How Claude Code works in large codebases",
     "source": "Hacker News",
-    "description": "HN Score: 513 | 139 comments",
-    "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
-    "score": 513,
+    "description": "HN Score: 138 | 88 comments",
+    "url": "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start",
+    "score": 138,
     "date": "2026-05-15",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Codex is now in the ChatGPT mobile app",
+    "title": "Access to frontier AI will soon be limited by economic and security constraints",
     "source": "Hacker News",
-    "description": "HN Score: 231 | 110 comments",
-    "url": "https://openai.com/index/work-with-codex-from-anywhere/",
-    "score": 231,
+    "description": "HN Score: 101 | 62 comments",
+    "url": "https://writing.antonleicht.me/p/cut-off",
+    "score": 101,
     "date": "2026-05-15",
     "category": "AI News"
   },
@@ -38,6 +38,74 @@
     "source": "@EMostaque",
     "description": "",
     "url": "https://nitter.net/arampell/status/2055010054886285761#m",
+    "date": "2026-05-15",
+    "category": "Twitter"
+  },
+  {
+    "title": "Details of the Daring Airdrop at Tristan Da Cunha",
+    "source": "Hacker News",
+    "description": "HN Score: 63 | 10 comments",
+    "url": "https://www.tristandc.com/government/news-2026-05-11-airdrop.php",
+    "score": 63,
+    "date": "2026-05-15",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: Training a diffusion LLM from scratch is challenging, and diffusion inference advantages don't show up at training. So we convert in",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/ZyphraAI/status/2055038855594856739#m",
+    "date": "2026-05-15",
+    "category": "Twitter"
+  },
+  {
+    "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
+    "source": "Hacker News",
+    "description": "HN Score: 559 | 141 comments",
+    "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
+    "score": 559,
+    "date": "2026-05-15",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @DrJimFan: Mark: 1/ First milestone: the Physical Turing Test. You literally can\u2019t tell if a human or robot is doing the task. 2/ Next: Physical",
+    "source": "@DrJimFan",
+    "description": "",
+    "url": "https://nitter.net/CyberRobooo/status/2053149920740450732#m",
+    "date": "2026-05-15",
+    "category": "Twitter"
+  },
+  {
+    "title": "Codex is now in the ChatGPT mobile app",
+    "source": "Hacker News",
+    "description": "HN Score: 299 | 145 comments",
+    "url": "https://openai.com/index/work-with-codex-from-anywhere/",
+    "score": 299,
+    "date": "2026-05-15",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @DrJimFan: Jim is always a crowd favorite at AI Ascent. His ability to simplify the latest research into a clear 'what and why it matters' while",
+    "source": "@DrJimFan",
+    "description": "",
+    "url": "https://nitter.net/Alfred_Lin/status/2052847050379936113#m",
+    "date": "2026-05-15",
+    "category": "Twitter"
+  },
+  {
+    "title": "LLM Policy for Rust Compiler",
+    "source": "Hacker News",
+    "description": "HN Score: 69 | 26 comments",
+    "url": "https://github.com/rust-lang/rust-forge/pull/1040",
+    "score": 69,
+    "date": "2026-05-15",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: Back in 2010, we could get away with SSH keys and API tokens in .env files. We can't do that anymore. I went down a rabbit hole to unde",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2054942981816455196#m",
     "date": "2026-05-15",
     "category": "Twitter"
   },
@@ -51,74 +119,6 @@
     "category": "AI News"
   },
   {
-    "title": "RT by @EMostaque: Training a diffusion LLM from scratch is challenging, and diffusion inference advantages don't show up at training. So we convert in",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/ZyphraAI/status/2055038855594856739#m",
-    "date": "2026-05-15",
-    "category": "Twitter"
-  },
-  {
-    "title": "Ontario auditors find doctors' AI note takers routinely blow basic facts",
-    "source": "Hacker News",
-    "description": "HN Score: 155 | 70 comments",
-    "url": "https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771",
-    "score": 155,
-    "date": "2026-05-15",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @DrJimFan: Mark: 1/ First milestone: the Physical Turing Test. You literally can\u2019t tell if a human or robot is doing the task. 2/ Next: Physical",
-    "source": "@DrJimFan",
-    "description": "",
-    "url": "https://nitter.net/CyberRobooo/status/2053149920740450732#m",
-    "date": "2026-05-15",
-    "category": "Twitter"
-  },
-  {
-    "title": "LLM Policy for Rust Compiler",
-    "source": "Hacker News",
-    "description": "HN Score: 23 | 7 comments",
-    "url": "https://github.com/rust-lang/rust-forge/pull/1040",
-    "score": 23,
-    "date": "2026-05-15",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @DrJimFan: Jim is always a crowd favorite at AI Ascent. His ability to simplify the latest research into a clear 'what and why it matters' while",
-    "source": "@DrJimFan",
-    "description": "",
-    "url": "https://nitter.net/Alfred_Lin/status/2052847050379936113#m",
-    "date": "2026-05-15",
-    "category": "Twitter"
-  },
-  {
-    "title": "Cut Off: why access to frontier AI will soon be scarce and selective",
-    "source": "Hacker News",
-    "description": "HN Score: 6 | 0 comments",
-    "url": "https://writing.antonleicht.me/p/cut-off",
-    "score": 6,
-    "date": "2026-05-15",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: Back in 2010, we could get away with SSH keys and API tokens in .env files. We can't do that anymore. I went down a rabbit hole to unde",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2054942981816455196#m",
-    "date": "2026-05-15",
-    "category": "Twitter"
-  },
-  {
-    "title": "Have a Coherent AI Policy",
-    "source": "Hacker News",
-    "description": "HN Score: 59 | 51 comments",
-    "url": "https://brianmeeker.me/2026/05/14/have-a-coherent-ai-policy/",
-    "score": 59,
-    "date": "2026-05-15",
-    "category": "AI News"
-  },
-  {
     "title": "RT by @svpino: I bought a GEEKOM A9 Max AI. \u2022 AMD Ryzen AI 9 HX 370 \u2022 32GB RAM \u2022 1TB SSD I installed @OmarchyLinux on it. Beautiful mini computer. Sma",
     "source": "@svpino",
     "description": "",
@@ -127,11 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Best 'Brain' for Agents Is Just Versioned Folders of Markdown Files",
+    "title": "Ontario auditors find doctors' AI note takers routinely blow basic facts",
     "source": "Hacker News",
-    "description": "HN Score: 28 | 6 comments",
-    "url": "https://extency.com/blog/markdown-versioned-folders-agent-brain-2026",
-    "score": 28,
+    "description": "HN Score: 207 | 97 comments",
+    "url": "https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771",
+    "score": 207,
     "date": "2026-05-15",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "AI is making me dumb",
+    "title": "The era of 15GB free Gmail storage is ending",
     "source": "Hacker News",
-    "description": "HN Score: 446 | 278 comments",
-    "url": "https://jpain.io/god-damn-ai-is-making-me-dumb/",
-    "score": 446,
+    "description": "HN Score: 4 | 0 comments",
+    "url": "https://www.androidauthority.com/google-gmail-5gb-free-storage-test-3667002/",
+    "score": 4,
     "date": "2026-05-15",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "A Claude Code and Codex Skill for Deliberate Skill Development",
+    "title": "AI is making me dumb",
     "source": "Hacker News",
-    "description": "HN Score: 224 | 46 comments",
-    "url": "https://github.com/DrCatHicks/learning-opportunities",
-    "score": 224,
+    "description": "HN Score: 473 | 284 comments",
+    "url": "https://jpain.io/god-damn-ai-is-making-me-dumb/",
+    "score": 473,
     "date": "2026-05-15",
     "category": "AI News"
   }
