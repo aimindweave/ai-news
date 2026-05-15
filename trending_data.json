@@ -4,16 +4,16 @@
     "source": "@kaborobot",
     "description": "",
     "url": "https://nitter.net/kaborobot/status/2051300761896972364#m",
-    "date": "2026-05-14",
+    "date": "2026-05-15",
     "category": "Twitter"
   },
   {
     "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
     "source": "Hacker News",
-    "description": "HN Score: 440 | 114 comments",
+    "description": "HN Score: 513 | 139 comments",
     "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
-    "score": 440,
-    "date": "2026-05-14",
+    "score": 513,
+    "date": "2026-05-15",
     "category": "AI News"
   },
   {
@@ -21,7 +21,24 @@
     "source": "@kaborobot",
     "description": "",
     "url": "https://nitter.net/kaborobot/status/2015735996248420451#m",
-    "date": "2026-05-14",
+    "date": "2026-05-15",
+    "category": "Twitter"
+  },
+  {
+    "title": "Codex is now in the ChatGPT mobile app",
+    "source": "Hacker News",
+    "description": "HN Score: 231 | 110 comments",
+    "url": "https://openai.com/index/work-with-codex-from-anywhere/",
+    "score": 231,
+    "date": "2026-05-15",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: one time a reporter did an 'expose' on a founder I backed whose last company failed...here's how I responded: Wow, you discovered th",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/arampell/status/2055010054886285761#m",
+    "date": "2026-05-15",
     "category": "Twitter"
   },
   {
@@ -30,41 +47,24 @@
     "description": "HN Score: 1 | 0 comments",
     "url": "https://www.ycombinator.com/companies/infracost/jobs/NzwUQ7c-senior-developer-advocate",
     "score": 1,
-    "date": "2026-05-14",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @EMostaque: one time a reporter did an 'expose' on a founder I backed whose last company failed...here's how I responded: Wow, you discovered th",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/i/status/2055010054886285761#m",
-    "date": "2026-05-14",
-    "category": "Twitter"
-  },
-  {
-    "title": "You Don't Align an AI, You Align with It",
-    "source": "Hacker News",
-    "description": "HN Score: 82 | 42 comments",
-    "url": "https://danieltan.weblog.lol/2026/05/you-dont-align-an-ai-you-align-with-it",
-    "score": 82,
-    "date": "2026-05-14",
+    "date": "2026-05-15",
     "category": "AI News"
   },
   {
     "title": "RT by @EMostaque: Training a diffusion LLM from scratch is challenging, and diffusion inference advantages don't show up at training. So we convert in",
     "source": "@EMostaque",
     "description": "",
-    "url": "https://nitter.net/i/status/2055038855594856739#m",
-    "date": "2026-05-14",
+    "url": "https://nitter.net/ZyphraAI/status/2055038855594856739#m",
+    "date": "2026-05-15",
     "category": "Twitter"
   },
   {
-    "title": "AI is making me dumb",
+    "title": "Ontario auditors find doctors' AI note takers routinely blow basic facts",
     "source": "Hacker News",
-    "description": "HN Score: 361 | 224 comments",
-    "url": "https://jpain.io/god-damn-ai-is-making-me-dumb/",
-    "score": 361,
-    "date": "2026-05-14",
+    "description": "HN Score: 155 | 70 comments",
+    "url": "https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771",
+    "score": 155,
+    "date": "2026-05-15",
     "category": "AI News"
   },
   {
@@ -72,16 +72,16 @@
     "source": "@DrJimFan",
     "description": "",
     "url": "https://nitter.net/CyberRobooo/status/2053149920740450732#m",
-    "date": "2026-05-14",
+    "date": "2026-05-15",
     "category": "Twitter"
   },
   {
-    "title": "Claude for Legal",
+    "title": "LLM Policy for Rust Compiler",
     "source": "Hacker News",
-    "description": "HN Score: 53 | 50 comments",
-    "url": "https://github.com/anthropics/claude-for-legal",
-    "score": 53,
-    "date": "2026-05-14",
+    "description": "HN Score: 23 | 7 comments",
+    "url": "https://github.com/rust-lang/rust-forge/pull/1040",
+    "score": 23,
+    "date": "2026-05-15",
     "category": "AI News"
   },
   {
@@ -89,50 +89,67 @@
     "source": "@DrJimFan",
     "description": "",
     "url": "https://nitter.net/Alfred_Lin/status/2052847050379936113#m",
-    "date": "2026-05-14",
+    "date": "2026-05-15",
+    "category": "Twitter"
+  },
+  {
+    "title": "Cut Off: why access to frontier AI will soon be scarce and selective",
+    "source": "Hacker News",
+    "description": "HN Score: 6 | 0 comments",
+    "url": "https://writing.antonleicht.me/p/cut-off",
+    "score": 6,
+    "date": "2026-05-15",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: Back in 2010, we could get away with SSH keys and API tokens in .env files. We can't do that anymore. I went down a rabbit hole to unde",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2054942981816455196#m",
+    "date": "2026-05-15",
+    "category": "Twitter"
+  },
+  {
+    "title": "Have a Coherent AI Policy",
+    "source": "Hacker News",
+    "description": "HN Score: 59 | 51 comments",
+    "url": "https://brianmeeker.me/2026/05/14/have-a-coherent-ai-policy/",
+    "score": 59,
+    "date": "2026-05-15",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: I bought a GEEKOM A9 Max AI. \u2022 AMD Ryzen AI 9 HX 370 \u2022 32GB RAM \u2022 1TB SSD I installed @OmarchyLinux on it. Beautiful mini computer. Sma",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2054902130054779292#m",
+    "date": "2026-05-15",
     "category": "Twitter"
   },
   {
     "title": "Best 'Brain' for Agents Is Just Versioned Folders of Markdown Files",
     "source": "Hacker News",
-    "description": "HN Score: 9 | 1 comments",
+    "description": "HN Score: 28 | 6 comments",
     "url": "https://extency.com/blog/markdown-versioned-folders-agent-brain-2026",
-    "score": 9,
-    "date": "2026-05-14",
+    "score": 28,
+    "date": "2026-05-15",
     "category": "AI News"
   },
   {
-    "title": "'Do you need to buy a Mac Mini for local inference?' Here is the correct answer.",
-    "source": "@svpino",
+    "title": "Next week is going to be crucial Will Google pull ahead of OpenAI or vice versa? GPT 5.6 or Gemini 3.2 Who will win?",
+    "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2055031248012165489#m",
-    "date": "2026-05-14",
+    "url": "https://nitter.net/bindureddy/status/2055130007291207731#m",
+    "date": "2026-05-15",
     "category": "Twitter"
   },
   {
-    "title": "Ontario auditors find doctors' AI note takers routinely blow basic facts",
+    "title": "AI is making me dumb",
     "source": "Hacker News",
-    "description": "HN Score: 9 | 0 comments",
-    "url": "https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771",
-    "score": 9,
-    "date": "2026-05-14",
-    "category": "AI News"
-  },
-  {
-    "title": "Turns out, Linux can't put this computer to sleep. Apparently, there's a bug and no solution. I've spent two days trying to disable sleep, but any tim",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2055020668207485076#m",
-    "date": "2026-05-14",
-    "category": "Twitter"
-  },
-  {
-    "title": "EditLens: Quantifying the extent of AI editing in text (2025)",
-    "source": "Hacker News",
-    "description": "HN Score: 25 | 5 comments",
-    "url": "https://arxiv.org/abs/2510.03154",
-    "score": 25,
-    "date": "2026-05-14",
+    "description": "HN Score: 446 | 278 comments",
+    "url": "https://jpain.io/god-damn-ai-is-making-me-dumb/",
+    "score": 446,
+    "date": "2026-05-15",
     "category": "AI News"
   },
   {
@@ -140,33 +157,16 @@
     "source": "@bindureddy",
     "description": "",
     "url": "https://nitter.net/bindureddy/status/2054767771418861964#m",
-    "date": "2026-05-14",
-    "category": "Twitter"
-  },
-  {
-    "title": "Codex is now available on mobile via ChatGPT app",
-    "source": "Hacker News",
-    "description": "HN Score: 31 | 9 comments",
-    "url": "https://twitter.com/openai/status/2055016850849993072",
-    "score": 31,
-    "date": "2026-05-14",
-    "category": "AI News"
-  },
-  {
-    "title": "Open-source AI is ruthlessly out-innovating the trillion-dollar monopolies. \ud83d\ude80 Big labs are burning billions brute-forcing AGI on massive GPU clusters.",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2054406299408871745#m",
-    "date": "2026-05-14",
+    "date": "2026-05-15",
     "category": "Twitter"
   },
   {
     "title": "A Claude Code and Codex Skill for Deliberate Skill Development",
     "source": "Hacker News",
-    "description": "HN Score: 215 | 46 comments",
+    "description": "HN Score: 224 | 46 comments",
     "url": "https://github.com/DrCatHicks/learning-opportunities",
-    "score": 215,
-    "date": "2026-05-14",
+    "score": 224,
+    "date": "2026-05-15",
     "category": "AI News"
   }
 ]
