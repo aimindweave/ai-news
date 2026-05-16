@@ -10,9 +10,9 @@
   {
     "title": "\u0394-Mem: Efficient Online Memory for Large Language Models",
     "source": "Hacker News",
-    "description": "HN Score: 33 | 8 comments",
+    "description": "HN Score: 104 | 25 comments",
     "url": "https://arxiv.org/abs/2605.12357",
-    "score": 33,
+    "score": 104,
     "date": "2026-05-16",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Frontier AI has broken the open CTF format",
+    "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
     "source": "Hacker News",
-    "description": "HN Score: 155 | 133 comments",
-    "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
-    "score": 155,
+    "description": "HN Score: 20 | 12 comments",
+    "url": "https://nvlabs.github.io/Sana/WM/",
+    "score": 20,
     "date": "2026-05-16",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "I believe there are entire companies right now under AI psychosis",
+    "title": "Frontier AI has broken the open CTF format",
     "source": "Hacker News",
-    "description": "HN Score: 1412 | 709 comments",
-    "url": "https://twitter.com/mitchellh/status/2055380239711457578",
-    "score": 1412,
+    "description": "HN Score: 213 | 177 comments",
+    "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
+    "score": 213,
     "date": "2026-05-16",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "The main thing about P2P meth is that there's so much of it (2021)",
+    "title": "Moving away from Tailwind, and learning to structure my CSS",
     "source": "Hacker News",
-    "description": "HN Score: 131 | 156 comments",
-    "url": "https://dynomight.net/p2p-meth/",
-    "score": 131,
+    "description": "HN Score: 29 | 4 comments",
+    "url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
+    "score": 29,
     "date": "2026-05-16",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Gaining control of every projector and camera on campus",
+    "title": "I believe there are entire companies right now under AI psychosis",
     "source": "Hacker News",
-    "description": "HN Score: 33 | 7 comments",
-    "url": "https://www.edna.land/blogs/posts/scanning/",
-    "score": 33,
+    "description": "HN Score: 1523 | 785 comments",
+    "url": "https://twitter.com/mitchellh/status/2055380239711457578",
+    "score": 1523,
     "date": "2026-05-16",
     "category": "AI News"
   },
@@ -93,11 +93,28 @@
     "category": "Twitter"
   },
   {
-    "title": "A 0-click exploit chain for the Pixel 10",
+    "title": "Gaining control of every projector and camera on campus",
     "source": "Hacker News",
-    "description": "HN Score: 386 | 206 comments",
-    "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
-    "score": 386,
+    "description": "HN Score: 55 | 15 comments",
+    "url": "https://www.edna.land/blogs/posts/scanning/",
+    "score": 55,
+    "date": "2026-05-16",
+    "category": "AI News"
+  },
+  {
+    "title": "Show me a more relevant book right now, and I'll deactivate my account. It came out a couple of months ago. Here is the link: https://a.co/d/0ftHT4hT",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2055638915374318059#m",
+    "date": "2026-05-16",
+    "category": "Twitter"
+  },
+  {
+    "title": "The main thing about P2P meth is that there's so much of it (2021)",
+    "source": "Hacker News",
+    "description": "HN Score: 151 | 175 comments",
+    "url": "https://dynomight.net/p2p-meth/",
+    "score": 151,
     "date": "2026-05-16",
     "category": "AI News"
   },
@@ -110,28 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Watch a neural net learn to play Snake",
+    "title": "A 0-click exploit chain for the Pixel 10",
     "source": "Hacker News",
-    "description": "HN Score: 161 | 38 comments",
-    "url": "https://ppo.gradexp.xyz/",
-    "score": 161,
-    "date": "2026-05-16",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: This is the architecture pattern that's going to kill single-model tools: You send a prompt, the agent breaks it into sub-tasks, and ro",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2055388123010662472#m",
-    "date": "2026-05-16",
-    "category": "Twitter"
-  },
-  {
-    "title": "Bun Rust rewrite: 'codebase fails basic miri checks, allows for UB in safe rust'",
-    "source": "Hacker News",
-    "description": "HN Score: 421 | 293 comments",
-    "url": "https://github.com/oven-sh/bun/issues/30719",
-    "score": 421,
+    "description": "HN Score: 397 | 215 comments",
+    "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
+    "score": 397,
     "date": "2026-05-16",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "OpenAI is connecting ChatGPT to bank accounts via Plaid",
+    "title": "OpenClaw Creator Spent $1.3M on OpenAI Tokens in 30 Days",
     "source": "Hacker News",
-    "description": "HN Score: 80 | 114 comments",
-    "url": "https://firethering.com/chatgpt-bank-account-plaid-openai/",
-    "score": 80,
+    "description": "HN Score: 64 | 73 comments",
+    "url": "https://twitter.com/steipete/status/2055346265869721905",
+    "score": 64,
     "date": "2026-05-16",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: AI that audits your codebase in 60 seconds",
+    "title": "Show HN: Watch a neural net learn to play Snake",
     "source": "Hacker News",
-    "description": "HN Score: 8 | 3 comments",
-    "url": "https://triyambakam-apex-corp.hf.space",
-    "score": 8,
+    "description": "HN Score: 170 | 40 comments",
+    "url": "https://ppo.gradexp.xyz/",
+    "score": 170,
     "date": "2026-05-16",
     "category": "AI News"
   }
