@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "I believe there are entire companies right now under AI psychosis",
+    "title": "Frontier AI has broken the open CTF format",
     "source": "Hacker News",
-    "description": "HN Score: 1139 | 520 comments",
-    "url": "https://twitter.com/mitchellh/status/2055380239711457578",
-    "score": 1139,
+    "description": "HN Score: 117 | 91 comments",
+    "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
+    "score": 117,
     "date": "2026-05-16",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "The main thing about P2P meth is that there's so much of it (2021)",
+    "title": "I believe there are entire companies right now under AI psychosis",
     "source": "Hacker News",
-    "description": "HN Score: 100 | 91 comments",
-    "url": "https://dynomight.net/p2p-meth/",
-    "score": 100,
+    "description": "HN Score: 1342 | 664 comments",
+    "url": "https://twitter.com/mitchellh/status/2055380239711457578",
+    "score": 1342,
     "date": "2026-05-16",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "A 0-click exploit chain for the Pixel 10",
+    "title": "The main thing about P2P meth is that there's so much of it (2021)",
     "source": "Hacker News",
-    "description": "HN Score: 358 | 167 comments",
-    "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
-    "score": 358,
+    "description": "HN Score: 121 | 139 comments",
+    "url": "https://dynomight.net/p2p-meth/",
+    "score": 121,
     "date": "2026-05-16",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Gaining control of every projector and camera on campus",
+    "title": "A 0-click exploit chain for the Pixel 10",
     "source": "Hacker News",
-    "description": "HN Score: 6 | 1 comments",
-    "url": "https://www.edna.land/blogs/posts/scanning/",
-    "score": 6,
+    "description": "HN Score: 376 | 205 comments",
+    "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
+    "score": 376,
     "date": "2026-05-16",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Watch a neural net learn to play Snake",
+    "title": "Gaining control of every projector and camera on campus",
     "source": "Hacker News",
-    "description": "HN Score: 140 | 34 comments",
-    "url": "https://ppo.gradexp.xyz/",
-    "score": 140,
+    "description": "HN Score: 24 | 2 comments",
+    "url": "https://www.edna.land/blogs/posts/scanning/",
+    "score": 24,
     "date": "2026-05-16",
     "category": "AI News"
   },
@@ -93,29 +93,47 @@
     "category": "Twitter"
   },
   {
-    "title": "Amazon workers under pressure to up their AI usage are making up tasks",
+    "title": "Someone Shared a Real Monet Painting as AI and Asked for Critiques",
     "source": "Hacker News",
-    "description": "HN Score: 339 | 378 comments",
-    "url": "https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks",
-    "score": 339,
+    "description": "HN Score: 15 | 7 comments",
+    "url": "https://petapixel.com/2026/05/14/someone-shared-a-real-monet-painting-as-ai-and-asked-for-critiques/",
+    "score": 15,
     "date": "2026-05-16",
     "category": "AI News"
   },
   {
-    "title": "RT by @svpino: Markdown was doomed from the start. It's just a format with low information density. HTML is better for humans, and agents can now cons",
+    "title": "RT by @svpino: This is the architecture pattern that's going to kill single-model tools: You send a prompt, the agent breaks it into sub-tasks, and ro",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2055296002169671940#m",
+    "url": "https://nitter.net/svpino/status/2055388123010662472#m",
     "date": "2026-05-16",
     "category": "Twitter"
   },
   {
-    "title": "RT by @svpino: I'm now *subagent-pilled* with Claude Code. This is the biggest update I've made in the way I work over the last 2 weeks: 'Everything t",
+    "title": "Show HN: Watch a neural net learn to play Snake",
+    "source": "Hacker News",
+    "description": "HN Score: 158 | 37 comments",
+    "url": "https://ppo.gradexp.xyz/",
+    "score": 158,
+    "date": "2026-05-16",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: For the first time, I feel open-weight models are impossible to ignore. We are at a point where these models are competitive with the b",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2055264566934978959#m",
+    "url": "https://nitter.net/svpino/status/2055355144037089354#m",
     "date": "2026-05-16",
     "category": "Twitter"
+  },
+  {
+    "title": "Bun Rust rewrite: 'codebase fails basic miri checks, allows for UB in safe rust'",
+    "source": "Hacker News",
+    "description": "HN Score: 406 | 285 comments",
+    "url": "https://github.com/oven-sh/bun/issues/30719",
+    "score": 406,
+    "date": "2026-05-16",
+    "category": "AI News"
   },
   {
     "title": "The Gemini Pro model is rumored to be a GPT 5.5 level coding model \ud83e\uddd0 The catch - it will be more than 50% cheaper at $12/1M output token Gemini will t",
@@ -126,11 +144,29 @@
     "category": "Twitter"
   },
   {
+    "title": "Show HN: AI that audits your codebase in 60 seconds",
+    "source": "Hacker News",
+    "description": "HN Score: 7 | 3 comments",
+    "url": "https://triyambakam-apex-corp.hf.space",
+    "score": 7,
+    "date": "2026-05-16",
+    "category": "AI News"
+  },
+  {
     "title": "China is building pragmatic open-source AI models and no one can really stop them.... These models can already handle 50% of every day tasks effective",
     "source": "@bindureddy",
     "description": "",
     "url": "https://nitter.net/bindureddy/status/2055361266898649194#m",
     "date": "2026-05-16",
     "category": "Twitter"
+  },
+  {
+    "title": "OpenAI is connecting ChatGPT to bank accounts via Plaid",
+    "source": "Hacker News",
+    "description": "HN Score: 77 | 113 comments",
+    "url": "https://firethering.com/chatgpt-bank-account-plaid-openai/",
+    "score": 77,
+    "date": "2026-05-16",
+    "category": "AI News"
   }
 ]
