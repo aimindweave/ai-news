@@ -10,9 +10,9 @@
   {
     "title": "I don't think AI will make your processes go faster",
     "source": "Hacker News",
-    "description": "HN Score: 375 | 281 comments",
+    "description": "HN Score: 425 | 303 comments",
     "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
-    "score": 375,
+    "score": 425,
     "date": "2026-05-17",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Meta deletes popular 1M follower account after Kuwaiti request",
+    "title": "Zerostack \u2013 A Unix-inspired coding agent written in pure Rust",
     "source": "Hacker News",
-    "description": "HN Score: 100 | 50 comments",
-    "url": "https://twitter.com/ryangrim/status/2055992439031185782",
-    "score": 100,
+    "description": "HN Score: 522 | 287 comments",
+    "url": "https://crates.io/crates/zerostack/1.0.0",
+    "score": 522,
     "date": "2026-05-17",
     "category": "AI News"
   },
@@ -44,9 +44,9 @@
   {
     "title": "Prolog Basics Explained with Pok\u00e9mon",
     "source": "Hacker News",
-    "description": "HN Score: 160 | 28 comments",
+    "description": "HN Score: 169 | 29 comments",
     "url": "https://unplannedobsolescence.com/blog/prolog-basics-pokemon/",
-    "score": 160,
+    "score": 169,
     "date": "2026-05-17",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Every AI Subscription Is a Ticking Time Bomb for Enterprise",
+    "title": "Show HN: Semble \u2013 Code search for agents that uses 98% fewer tokens than grep",
     "source": "Hacker News",
-    "description": "HN Score: 313 | 312 comments",
-    "url": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb",
-    "score": 313,
+    "description": "HN Score: 34 | 15 comments",
+    "url": "https://github.com/MinishLab/semble",
+    "score": 34,
     "date": "2026-05-17",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "AI is a technology not a product",
+    "title": "Scientists believe ibogaine can help veterans overcome PTSD",
     "source": "Hacker News",
-    "description": "HN Score: 207 | 74 comments",
-    "url": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product",
-    "score": 207,
+    "description": "HN Score: 55 | 55 comments",
+    "url": "https://www.bbc.com/future/article/20260514-how-hallucinogenic-ibogaine-helps-veterans-overcome-ptsd",
+    "score": 55,
     "date": "2026-05-17",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Zerostack \u2013 A Unix-inspired coding agent written in pure Rust",
+    "title": "AI is a technology not a product",
     "source": "Hacker News",
-    "description": "HN Score: 512 | 284 comments",
-    "url": "https://crates.io/crates/zerostack/1.0.0",
-    "score": 512,
+    "description": "HN Score: 249 | 87 comments",
+    "url": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product",
+    "score": 249,
     "date": "2026-05-17",
     "category": "AI News"
   },
@@ -110,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Moving away from Tailwind, and learning to structure my CSS",
+    "title": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
     "source": "Hacker News",
-    "description": "HN Score: 638 | 355 comments",
-    "url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
-    "score": 638,
+    "description": "HN Score: 302 | 314 comments",
+    "url": "https://openai.com/index/malta-chatgpt-plus-partnership/",
+    "score": 302,
     "date": "2026-05-17",
     "category": "AI News"
   },
@@ -127,11 +127,28 @@
     "category": "Twitter"
   },
   {
+    "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
+    "source": "Hacker News",
+    "description": "HN Score: 386 | 145 comments",
+    "url": "https://nvlabs.github.io/Sana/WM/",
+    "score": 386,
+    "date": "2026-05-17",
+    "category": "AI News"
+  },
+  {
+    "title": "The corporate media types who have had access to the new Google video model can\u2019t stop raving about it The claim is it\u2019s as good, if not better than S",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2056103942438723864#m",
+    "date": "2026-05-17",
+    "category": "Twitter"
+  },
+  {
     "title": "Agentic Trading with Safe Guardrails",
     "source": "Hacker News",
-    "description": "HN Score: 36 | 17 comments",
+    "description": "HN Score: 37 | 17 comments",
     "url": "https://github.com/ShurikenTrade/shuriken-skills",
-    "score": 36,
+    "score": 37,
     "date": "2026-05-17",
     "category": "AI News"
   },
@@ -144,28 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
+    "title": "Meta deletes popular 1M follower account after Kuwaiti request",
     "source": "Hacker News",
-    "description": "HN Score: 292 | 308 comments",
-    "url": "https://openai.com/index/malta-chatgpt-plus-partnership/",
-    "score": 292,
-    "date": "2026-05-17",
-    "category": "AI News"
-  },
-  {
-    "title": "Where did all the AI haters go? \ud83e\udd14 You know, the ones screaming 'it's just autocomplete!' and 'it'll never be useful!' They're real quiet now that AI i",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2055983857707663690#m",
-    "date": "2026-05-17",
-    "category": "Twitter"
-  },
-  {
-    "title": "Scientists believe ibogaine can help veterans overcome PTSD",
-    "source": "Hacker News",
-    "description": "HN Score: 55 | 48 comments",
-    "url": "https://www.bbc.com/future/article/20260514-how-hallucinogenic-ibogaine-helps-veterans-overcome-ptsd",
-    "score": 55,
+    "description": "HN Score: 169 | 98 comments",
+    "url": "https://twitter.com/ryangrim/status/2055992439031185782",
+    "score": 169,
     "date": "2026-05-17",
     "category": "AI News"
   }
