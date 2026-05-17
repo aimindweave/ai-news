@@ -10,9 +10,9 @@
   {
     "title": "Zerostack \u2013 A Unix-inspired coding agent written in pure Rust",
     "source": "Hacker News",
-    "description": "HN Score: 310 | 124 comments",
+    "description": "HN Score: 392 | 160 comments",
     "url": "https://crates.io/crates/zerostack/1.0.0",
-    "score": 310,
+    "score": 392,
     "date": "2026-05-17",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
     "source": "Hacker News",
-    "description": "HN Score: 144 | 140 comments",
+    "description": "HN Score: 188 | 212 comments",
     "url": "https://openai.com/index/malta-chatgpt-plus-partnership/",
-    "score": 144,
+    "score": 188,
     "date": "2026-05-17",
     "category": "AI News"
   },
@@ -44,9 +44,9 @@
   {
     "title": "Moving away from Tailwind, and learning to structure my CSS",
     "source": "Hacker News",
-    "description": "HN Score: 495 | 306 comments",
+    "description": "HN Score: 540 | 316 comments",
     "url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
-    "score": 495,
+    "score": 540,
     "date": "2026-05-17",
     "category": "AI News"
   },
@@ -61,9 +61,9 @@
   {
     "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
     "source": "Hacker News",
-    "description": "HN Score: 324 | 133 comments",
+    "description": "HN Score: 339 | 135 comments",
     "url": "https://nvlabs.github.io/Sana/WM/",
-    "score": 324,
+    "score": 339,
     "date": "2026-05-17",
     "category": "AI News"
   },
@@ -78,9 +78,9 @@
   {
     "title": "Frontier AI has broken the open CTF format",
     "source": "Hacker News",
-    "description": "HN Score: 359 | 363 comments",
+    "description": "HN Score: 377 | 382 comments",
     "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
-    "score": 359,
+    "score": 377,
     "date": "2026-05-17",
     "category": "AI News"
   },
@@ -95,9 +95,26 @@
   {
     "title": "\u03b4-mem: Efficient Online Memory for Large Language Models",
     "source": "Hacker News",
-    "description": "HN Score: 204 | 55 comments",
+    "description": "HN Score: 214 | 57 comments",
     "url": "https://arxiv.org/abs/2605.12357",
-    "score": 204,
+    "score": 214,
+    "date": "2026-05-17",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: After MCP, AG-UI is probably the agentic protocol that's growing the fastest. It's a lightweight event-streaming protocol for building ",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2055759187825893461#m",
+    "date": "2026-05-17",
+    "category": "Twitter"
+  },
+  {
+    "title": "I believe there are entire companies right now under AI psychosis",
+    "source": "Hacker News",
+    "description": "HN Score: 1967 | 1152 comments",
+    "url": "https://twitter.com/mitchellh/status/2055380239711457578",
+    "score": 1967,
     "date": "2026-05-17",
     "category": "AI News"
   },
@@ -110,28 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "I believe there are entire companies right now under AI psychosis",
-    "source": "Hacker News",
-    "description": "HN Score: 1936 | 1127 comments",
-    "url": "https://twitter.com/mitchellh/status/2055380239711457578",
-    "score": 1936,
-    "date": "2026-05-17",
-    "category": "AI News"
-  },
-  {
-    "title": "After MCP, AG-UI is probably the agentic protocol that's growing the fastest. It's a lightweight event-streaming protocol for building user-facing AI ",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2055759187825893461#m",
-    "date": "2026-05-17",
-    "category": "Twitter"
-  },
-  {
     "title": "A 0-click exploit chain for the Pixel 10",
     "source": "Hacker News",
-    "description": "HN Score: 430 | 230 comments",
+    "description": "HN Score: 433 | 232 comments",
     "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
-    "score": 430,
+    "score": 433,
     "date": "2026-05-17",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
+    "title": "Gaining control of every projector and camera on campus",
     "source": "Hacker News",
-    "description": "HN Score: 225 | 72 comments",
-    "url": "https://www.seangoedecke.com/steering-vectors/",
-    "score": 225,
+    "description": "HN Score: 112 | 32 comments",
+    "url": "https://www.edna.land/blogs/posts/scanning/",
+    "score": 112,
     "date": "2026-05-17",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Gaining control of every projector and camera on campus",
+    "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
     "source": "Hacker News",
-    "description": "HN Score: 112 | 32 comments",
-    "url": "https://www.edna.land/blogs/posts/scanning/",
-    "score": 112,
+    "description": "HN Score: 238 | 72 comments",
+    "url": "https://www.seangoedecke.com/steering-vectors/",
+    "score": 238,
     "date": "2026-05-17",
     "category": "AI News"
   }
