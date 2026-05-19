@@ -1,5 +1,12 @@
 [
   {
+    "title": "OpenAI co-founder Andrej Karpathy joins Anthropic\u2019s pre-training team",
+    "source": "TechCrunch",
+    "summary": "Pre-training is responsible for the large-scale training runs that give Claude its core knowledge and capabilities, according to the company. It's also one of the most expensive, compute-intensive phases of building a frontier model.",
+    "url": "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/",
+    "date": "2026-05-19"
+  },
+  {
     "title": "SandboxAQ brings its drug discovery models to Claude \u2014 no PhD in computing required",
     "source": "TechCrunch",
     "summary": "Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that access is the bigger obstacle and that Claude solves it.",
@@ -98,10 +105,10 @@
     "date": "2026-05-19"
   },
   {
-    "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
-    "source": "TechCrunch",
-    "summary": "Once users connect their accounts, they will see a dashboard of their portfolio performance, spending, subscriptions, and upcoming payments.",
-    "url": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
+    "title": "Understanding the modern cybercrime landscape",
+    "source": "MIT Tech Review",
+    "summary": "Throughout 2025, HPE observed significant changes in how cybercriminals operate. Analyzing real-world threats, our HPE Threat Labs highlighted an industrialization of the cyber criminals\u2019 methods in its new In the Wild Report, enabling greater scale, speed and structure in their campaigns. They t...",
+    "url": "https://www.technologyreview.com/2026/05/19/1136925/understanding-the-modern-cybercrime-landscape/",
     "date": "2026-05-19"
   },
   {
@@ -112,7 +119,7 @@
     "date": "2026-05-19"
   },
   {
-    "title": "Colossal Biosciences is growing chickens in a 3D-printed container",
+    "title": "Colossal Biosciences is growing chickens in a 3D-printed artificial eggshell",
     "source": "MIT Tech Review",
     "summary": "The baby chicks were shifting and starting to pip\u2014or trying to hatch. But not from an egg. Instead, these chickens were growing inside transparent 3D-printed plastic cups at the Dallas headquarters of Colossal Biosciences. The biotech company today claimed it has developed a \u201cfully artificial egg...",
     "url": "https://www.technologyreview.com/2026/05/19/1137471/colossal-biosciences-is-growing-chickens-in-a-3d-printed-container/",
@@ -168,10 +175,10 @@
     "date": "2026-05-19"
   },
   {
-    "title": "The world is on track to miss its health targets",
-    "source": "MIT Tech Review",
-    "summary": "Every year the World Health Organization publishes a global health statistics report. It features the numbers behind world health trends and, importantly, assesses whether we\u2019re on track to reach ambitious goals set in 2015. It\u2019s a bit like a health grade. The 2026 report was published on Wednesd...",
-    "url": "https://www.technologyreview.com/2026/05/15/1137270/the-world-is-on-track-to-miss-its-health-targets/",
+    "title": "Former OpenAI Staffers Warn That xAI\u2019s Poor Safety Record Could Complicate SpaceX\u2019s IPO",
+    "source": "Wired",
+    "summary": "The ex-employees, who cofounded a new AI watchdog group, say investors deserve more information about xAI\u2019s safety practices before SpaceX goes public.",
+    "url": "https://www.wired.com/story/ex-openai-staffers-warn-spacex-investors-of-ai-safety-risks/",
     "date": "2026-05-19"
   },
   {
@@ -238,10 +245,10 @@
     "date": "2026-05-19"
   },
   {
-    "title": "AI Promised the Audemars Piguet x Swatch Wristwatch. China Will Deliver It",
-    "source": "Wired",
-    "summary": "Watch fans spent a week falling in love with colorful Royal Oak wristwatches that didn\u2019t exist\u2014then the real thing arrived. Now, fantasy is becoming a manufacturing opportunity.",
-    "url": "https://www.wired.com/story/ai-ruined-the-audemars-piguet-x-swatch-collaboration-china-could-save-it/",
+    "title": "Electrical utility megamerger is all about the data centers",
+    "source": "Ars Technica",
+    "summary": "NextEra\u2019s blockbuster deal with Dominion likely means higher bills for consumers.",
+    "url": "https://arstechnica.com/tech-policy/2026/05/electrical-utility-megamerger-is-all-about-the-data-centers/",
     "date": "2026-05-19"
   },
   {
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "'Very painful': Altman relives his Muskian reaction to losing control over OpenAI.",
     "url": "https://arstechnica.com/tech-policy/2026/05/altman-forced-to-confront-claims-at-openai-trial-that-hes-a-prolific-liar/",
-    "date": "2026-05-19"
-  },
-  {
-    "title": "Anthropic blames dystopian sci-fi for training AI models to act \u201cevil\u201d",
-    "source": "Ars Technica",
-    "summary": "But training on 'synthetic stories' that model good AI behavior can help.",
-    "url": "https://arstechnica.com/ai/2026/05/anthropic-blames-dystopian-sci-fi-for-training-ai-models-to-act-evil/",
     "date": "2026-05-19"
   }
 ]
