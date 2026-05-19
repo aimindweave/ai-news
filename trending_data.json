@@ -10,9 +10,9 @@
   {
     "title": "The last six months in LLMs in five minutes",
     "source": "Hacker News",
-    "description": "HN Score: 67 | 15 comments",
+    "description": "HN Score: 440 | 304 comments",
     "url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
-    "score": 67,
+    "score": 440,
     "date": "2026-05-19",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "Anthropic acquires Stainless",
     "source": "Hacker News",
-    "description": "HN Score: 389 | 263 comments",
+    "description": "HN Score: 452 | 306 comments",
     "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
-    "score": 389,
+    "score": 452,
     "date": "2026-05-19",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "We stopped AI bot spam in our GitHub repo using Git's \u2013author flag",
+    "title": "Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised",
     "source": "Hacker News",
-    "description": "HN Score: 437 | 195 comments",
-    "url": "https://archestra.ai/blog/only-responsible-ai",
-    "score": 437,
+    "description": "HN Score: 92 | 44 comments",
+    "url": "https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/",
+    "score": 92,
     "date": "2026-05-19",
     "category": "AI News"
   },
@@ -61,9 +61,9 @@
   {
     "title": "We let AIs run radio stations",
     "source": "Hacker News",
-    "description": "HN Score: 203 | 175 comments",
+    "description": "HN Score: 261 | 209 comments",
     "url": "https://andonlabs.com/blog/andon-fm",
-    "score": 203,
+    "score": 261,
     "date": "2026-05-19",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "The American Rebellion Against AI Is Gaining Steam",
+    "title": "AI eats the world (Spring 26) [pdf]",
     "source": "Hacker News",
-    "description": "HN Score: 64 | 54 comments",
-    "url": "https://www.wsj.com/tech/ai/the-american-rebellion-against-ai-is-gaining-steam-94b72529",
-    "score": 64,
+    "description": "HN Score: 228 | 126 comments",
+    "url": "https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf",
+    "score": 228,
     "date": "2026-05-19",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+    "title": "LLMCap \u2013 A proxy that hard-stops LLM API calls when you hit a dollar cap",
     "source": "Hacker News",
-    "description": "HN Score: 845 | 429 comments",
-    "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
-    "score": 845,
+    "description": "HN Score: 18 | 15 comments",
+    "url": "https://www.llmcap.io/",
+    "score": 18,
     "date": "2026-05-19",
     "category": "AI News"
   },
@@ -110,11 +110,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Agora-1: The Multi-Agent World Model",
+    "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
     "source": "Hacker News",
-    "description": "HN Score: 90 | 17 comments",
-    "url": "https://odyssey.ml/introducing-agora-1",
-    "score": 90,
+    "description": "HN Score: 954 | 471 comments",
+    "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+    "score": 954,
+    "date": "2026-05-19",
+    "category": "AI News"
+  },
+  {
+    "title": "There is no doubt Gemini will max benchmarks - they always do The only question is whether it\u2019s actually a good model or will it simply be a benchmaxx",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2056588642538099168#m",
+    "date": "2026-05-19",
+    "category": "Twitter"
+  },
+  {
+    "title": "Alignment pretraining: AI discourse creates self-fulfilling (mis)alignment",
+    "source": "Hacker News",
+    "description": "HN Score: 56 | 23 comments",
+    "url": "https://arxiv.org/abs/2601.10160",
+    "score": 56,
     "date": "2026-05-19",
     "category": "AI News"
   },
@@ -127,37 +144,20 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: InsForge \u2013 Open-source Heroku for coding agents",
+    "title": "Agora-1: The Multi-Agent World Model",
     "source": "Hacker News",
-    "description": "HN Score: 38 | 6 comments",
-    "url": "https://github.com/InsForge/InsForge",
-    "score": 38,
+    "description": "HN Score: 109 | 22 comments",
+    "url": "https://odyssey.ml/introducing-agora-1",
+    "score": 109,
     "date": "2026-05-19",
     "category": "AI News"
   },
   {
-    "title": "Big week for AI Google is dropping 3.2 and it\u2019s a pretty good model Historically OpenAI has countered with their own launch - GPT 5.6 may land as well",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2056341822624915856#m",
-    "date": "2026-05-19",
-    "category": "Twitter"
-  },
-  {
-    "title": "Alignment pretraining: AI discourse creates self-fulfilling (mis)alignment",
+    "title": "We stopped AI bot spam in our GitHub repo using Git's \u2013author flag",
     "source": "Hacker News",
-    "description": "HN Score: 29 | 12 comments",
-    "url": "https://arxiv.org/abs/2601.10160",
-    "score": 29,
-    "date": "2026-05-19",
-    "category": "AI News"
-  },
-  {
-    "title": "Iran starts Bitcoin-backed ship insurance for Hormuz strait",
-    "source": "Hacker News",
-    "description": "HN Score: 285 | 467 comments",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-18/iran-starts-bitcoin-backed-shipping-insurance-for-hormuz-strait",
-    "score": 285,
+    "description": "HN Score: 469 | 228 comments",
+    "url": "https://archestra.ai/blog/only-responsible-ai",
+    "score": 469,
     "date": "2026-05-19",
     "category": "AI News"
   }
