@@ -1,5 +1,40 @@
 [
   {
+    "title": "Google just declared itself a contender in AI design at IO 2026",
+    "source": "TechCrunch",
+    "summary": "Google says it's designed the app to be accessible to everyone, from teachers to small business owners.",
+    "url": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/",
+    "date": "2026-05-19"
+  },
+  {
+    "title": "You can now talk to your Gmail inbox, as seen at Google IO 2026",
+    "source": "TechCrunch",
+    "summary": "Google expands Gmail\u2019s AI Inbox with conversational voice search, letting users ask Gemini to find buried email details.",
+    "url": "https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/",
+    "date": "2026-05-19"
+  },
+  {
+    "title": "How to use Google\u2019s new AI agents to go beyond your standard searches",
+    "source": "TechCrunch",
+    "summary": "Google is launching AI-powered \u201cinformation agents\u201d that can monitor topics in the background and proactively alert users to updates and changes.",
+    "url": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/",
+    "date": "2026-05-19"
+  },
+  {
+    "title": "From teen hacker to Iron Dome researcher, this founder raised $28M to fight AI phishing",
+    "source": "TechCrunch",
+    "summary": "Ocean, an agentic email security platform, raised funding from Lightspeed Venture Partners.",
+    "url": "https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing/",
+    "date": "2026-05-19"
+  },
+  {
+    "title": "Elon Musk said Sam Altman \u201cstole\u201d a non-profit \u2014 but the trial showed he had similar aims",
+    "source": "TechCrunch",
+    "summary": "\u201cBy the end of this week, you and Sam will be the most hated men in America.\u201d",
+    "url": "https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/",
+    "date": "2026-05-19"
+  },
+  {
     "title": "Google takes a page out of Meta\u2019s book, announces new audio-powered smart glasses",
     "source": "TechCrunch",
     "summary": "Google is calling the new devices 'audio glasses,' in that users will be able to issue verbal commands to them and get things done via its ecosystem of apps and services, including Gemini.",
@@ -21,31 +56,10 @@
     "date": "2026-05-19"
   },
   {
-    "title": "How to use Google\u2019s new information agents",
-    "source": "TechCrunch",
-    "summary": "Google is launching AI-powered \u201cinformation agents\u201d that can monitor topics in the background and proactively alert users to updates and changes.",
-    "url": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-information-agents/",
-    "date": "2026-05-19"
-  },
-  {
     "title": "Google Search as you know it is over",
     "source": "TechCrunch",
     "summary": "Google is transforming Search from a list of links into an AI-powered experience filled with conversational answers, autonomous agents, and interactive interfaces \u2014 a shift that could further reduce traffic to publishers across the web.",
     "url": "https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/",
-    "date": "2026-05-19"
-  },
-  {
-    "title": "Google\u2019s AI now lets you talk to your Gmail inbox",
-    "source": "TechCrunch",
-    "summary": "Google expands Gmail\u2019s AI Inbox with conversational voice search, letting users ask Gemini to find buried email details.",
-    "url": "https://techcrunch.com/2026/05/19/googles-ai-now-lets-you-talk-to-your-gmail-inbox/",
-    "date": "2026-05-19"
-  },
-  {
-    "title": "Google\u2019s AI Studio now lets anyone build Android apps in minutes",
-    "source": "TechCrunch",
-    "summary": "Google unveiled new web-based AI tools that can generate native Android apps in minutes, as the company expands its push into AI-powered software development.",
-    "url": "https://techcrunch.com/2026/05/19/googles-ai-studio-now-lets-anyone-build-android-apps-in-minutes/",
     "date": "2026-05-19"
   },
   {
@@ -56,24 +70,10 @@
     "date": "2026-05-19"
   },
   {
-    "title": "OpenAI is making it easier to check if an image was made by their models",
+    "title": "Google adds voice-based prompting to Docs and Keep",
     "source": "TechCrunch",
-    "summary": "OpenAI announced two new measures to help detect AI generated imagery: joining the open C2PA standard and adding Google's SynthID to its products.",
-    "url": "https://techcrunch.com/2026/05/19/openai-is-making-it-easier-to-check-if-an-image-was-made-by-their-models/",
-    "date": "2026-05-19"
-  },
-  {
-    "title": "Google launches Antigravity 2.0 with an updated desktop app and CLI tool",
-    "source": "TechCrunch",
-    "summary": "Google is debuting a new AI Ultra plan priced at $100, which will give users 5x more usage limit than the AI Pro plan alongside Antigravity 2.0 launch.",
-    "url": "https://techcrunch.com/2026/05/19/google-launches-antigravity-2-0-with-an-updated-desktop-app-and-cli-tool/",
-    "date": "2026-05-19"
-  },
-  {
-    "title": "Google updates its Gemini app to take on ChatGPT and Claude",
-    "source": "TechCrunch",
-    "summary": "The updates signal Google\u2019s push to turn its Gemini app into an all-purpose AI hub rather than a stand-alone chatbot.",
-    "url": "https://techcrunch.com/2026/05/19/google-updates-its-gemini-app-to-take-on-chatgpt-and-claude/",
+    "summary": "Google is letting users create drafts, take notes, and search for email with voice with the new Workspace update.",
+    "url": "https://techcrunch.com/2026/05/19/google-adds-voice-based-prompting-to-docs-and-keep/",
     "date": "2026-05-19"
   },
   {
@@ -84,24 +84,31 @@
     "date": "2026-05-19"
   },
   {
-    "title": "Google adds voice-based prompting to Docs and Keep",
+    "title": "OpenAI is making it easier to check if an image was made by their models",
     "source": "TechCrunch",
-    "summary": "Google is letting users create drafts, take notes, and search for email with voice with the new Workspace update.",
-    "url": "https://techcrunch.com/2026/05/19/google-adds-voice-based-prompting-to-docs-and-keep/",
+    "summary": "OpenAI announced two new measures to help detect AI generated imagery: joining the open C2PA standard and adding Google's SynthID to its products.",
+    "url": "https://techcrunch.com/2026/05/19/openai-is-making-it-easier-to-check-if-an-image-was-made-by-their-models/",
     "date": "2026-05-19"
   },
   {
-    "title": "Google just declared itself a contender in AI design",
+    "title": "Google\u2019s new Universal Cart wants to follow you across the entire internet",
     "source": "TechCrunch",
-    "summary": "The tech giant says it's designed the app to be accessible to everyone, from teachers to small business owners.",
-    "url": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in/",
+    "summary": "The tech giant says it's aware that most people shop across multiple devices, many retailers, and over the course of many days, which is why it's launching Universal Cart.",
+    "url": "https://techcrunch.com/2026/05/19/googles-new-universal-cart-wants-to-follow-you-across-the-entire-internet/",
     "date": "2026-05-19"
   },
   {
-    "title": "Agentic app coding gets an upgrade with Google\u2019s release of Android CLI",
+    "title": "Google launches Antigravity 2.0 with an updated desktop app and CLI tool",
     "source": "TechCrunch",
-    "summary": "Google is embracing the rise of AI coding agents with new Android tools designed to work with platforms like Claude Code and OpenAI\u2019s Codex, allowing developers \u2014 or their AI assistants \u2014 to build Android apps faster from the command line.",
-    "url": "https://techcrunch.com/2026/05/19/agentic-app-coding-gets-an-upgrade-with-googles-release-of-android-cli/",
+    "summary": "Google is debuting a new AI Ultra plan priced at $100, which will give users 5x more usage limit than the AI Pro plan alongside the Antigravity 2.0 launch.",
+    "url": "https://techcrunch.com/2026/05/19/google-launches-antigravity-2-0-with-an-updated-desktop-app-and-cli-tool/",
+    "date": "2026-05-19"
+  },
+  {
+    "title": "Roundtables: Inside the Musk v. Altman Trial",
+    "source": "MIT Tech Review",
+    "summary": "Listen to the session or watch below Elon Musk lost his suit against OpenAI, in which he alleged CEO Sam Altman and President Greg Brockman had deceived him over the company\u2019s non-profit status. Watch as AI reporter and attorney Michelle Kim, who covered the trial for MIT Technology Review, joins...",
+    "url": "https://www.technologyreview.com/2026/05/19/1137454/roundtables-inside-the-musk-v-altman-trial/",
     "date": "2026-05-19"
   },
   {
@@ -168,10 +175,10 @@
     "date": "2026-05-19"
   },
   {
-    "title": "The Download: China\u2019s AI drama factory and the WHO\u2019s missing health targets",
-    "source": "MIT Tech Review",
-    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. How Chinese short dramas became AI content machines China\u2019s short drama industry is fueled by bite-sized, melodramatic, and smutty shows built for smartphone s...",
-    "url": "https://www.technologyreview.com/2026/05/15/1137341/the-download-china-short-drama-ai-who-health-targets/",
+    "title": "Everything Announced at Google I/O 2026: Gemini, Search, Smart Glasses",
+    "source": "Wired",
+    "summary": "Google is sprucing up its Gemini models, revamping search, and enabling AI agents in everything. There are also some spiffy new smart glasses coming this fall.",
+    "url": "https://www.wired.com/story/everything-google-announced-at-google-io-2026/",
     "date": "2026-05-19"
   },
   {
@@ -179,6 +186,13 @@
     "source": "Wired",
     "summary": "On the eve of about 8,000 jobs being cut, employees are cashing in on headphone stipends and other perks while they still can.",
     "url": "https://www.wired.com/story/meta-employees-scramble-benefits-layoffs-ai/",
+    "date": "2026-05-19"
+  },
+  {
+    "title": "Google Search Goes Agentic\u2014and Doesn\u2019t Need You Anymore",
+    "source": "Wired",
+    "summary": "Vibe-coded results! Super widgets! Bots that never sleep! Google\u2019s vision for the future of Search is hyper-personalized, automated, and extremely AI.",
+    "url": "https://www.wired.com/story/google-search-goes-agentic-and-doesnt-need-you-anymore/",
     "date": "2026-05-19"
   },
   {
@@ -193,13 +207,6 @@
     "source": "Wired",
     "summary": "The CEO of Google DeepMind tells WIRED that companies should use the productivity gains of AI to do more, not lay people off.",
     "url": "https://www.wired.com/story/demis-hassabis-ai-layoffs-deepmind-google-io/",
-    "date": "2026-05-19"
-  },
-  {
-    "title": "Google Search Goes Agentic\u2014and Doesn\u2019t Need You Anymore",
-    "source": "Wired",
-    "summary": "Vibe-coded results! Super widgets! Bots that never sleep! Google\u2019s vision for the future of Search is hyper-personalized, automated, and extremely AI.",
-    "url": "https://www.wired.com/story/google-search-goes-agentic-and-doesnt-need-you-anymore/",
     "date": "2026-05-19"
   },
   {
@@ -235,13 +242,6 @@
     "source": "Wired",
     "summary": "Apparently anyone can vibe code anything these days. So Claude and I tried to make a database for tracking the petty grievances of the masses.",
     "url": "https://www.wired.com/story/normie-vibe-code/",
-    "date": "2026-05-19"
-  },
-  {
-    "title": "Some Asexuals Are Using AI Companions for Intimacy Without the Sex",
-    "source": "Wired",
-    "summary": "\u201cI\u2019ve got one hand on the keyboard, one hand down below,\u201d an artist who role-plays with their chatbot tells WIRED. But some asexual advocates aren\u2019t thrilled about the association.",
-    "url": "https://www.wired.com/story/some-asexual-people-are-using-ai-companions-for-intimacy-without-the-sex/",
     "date": "2026-05-19"
   },
   {
