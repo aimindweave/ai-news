@@ -1,5 +1,19 @@
 [
   {
+    "title": "IrisGo, a startup backed by Andrew Ng, looks to become the AI desktop buddy you never knew you needed",
+    "source": "TechCrunch",
+    "summary": "Initially billed as an 'AI butler,' Iris watches what happens on a user's desktop and automatically learns how to do tasks for them, its co-founder says.",
+    "url": "https://techcrunch.com/2026/05/20/irisgo-a-startup-backed-by-andrew-ng-looks-to-become-the-ai-desktop-buddy-you-never-knew-you-needed/",
+    "date": "2026-05-20"
+  },
+  {
+    "title": "OpenAI barrels toward IPO that may happen in September",
+    "source": "TechCrunch",
+    "summary": "A day after Elon Musk lost his lawsuit that threatened OpenAI's structure, leadership, and finances, OpenAI is reportedly back to prepping for its IPO.",
+    "url": "https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/",
+    "date": "2026-05-20"
+  },
+  {
     "title": "AI search startups are blowing up",
     "source": "TechCrunch",
     "summary": "AI search has quietly become one of the most attractive targets in consumer AI.",
@@ -7,30 +21,30 @@
     "date": "2026-05-20"
   },
   {
-    "title": "Stability AI releases a new audio model that can create six-minute songs",
+    "title": "Stability AI releases a new audio model that can create 6-minute songs",
     "source": "TechCrunch",
-    "summary": "Stability Audio 3.0 small model can run on-device and generate two-minute long tracks",
+    "summary": "Stability Audio 3.0 small model can run on-device and generate two-minute long tracks.",
     "url": "https://techcrunch.com/2026/05/20/stability-ai-release-a-new-audio-model-that-can-create-six-minute-songs/",
+    "date": "2026-05-20"
+  },
+  {
+    "title": "Startup Battlefield 200 applications close in 1 week: Window to nominate and apply for the most promising startups closes May 27",
+    "source": "TechCrunch",
+    "summary": "Startup Battlefield 200 applications close May 27. Pitch at TechCrunch Disrupt, get investor access, win $100K, plus more scaling perks. Nominate an early-stage founder or submit your startup today.",
+    "url": "https://techcrunch.com/2026/05/20/startup-battlefield-200-applications-close-in-1-week-window-to-nominate-and-apply-for-the-most-promising-startups-closes-may-27/",
     "date": "2026-05-20"
   },
   {
     "title": "NanoClaw creator turns down $20M buyout offer, raises $12M seed instead",
     "source": "TechCrunch",
-    "summary": "NanoCo, the company behind OpenClaw alternative NanoClaw, has raised a $12 million seed after a viral launch, the founders tell TechCrunch.",
+    "summary": "NanoClaw was created as a secure alternative to OpenClaw to assist the Cohen brothers with their AI marketing firm that used agents to do much of the work. But instead of running directly on a computer, NanoClaw runs sandboxed in a container.",
     "url": "https://techcrunch.com/2026/05/20/nanoclaw-creator-turns-down-20m-buyout-offer-raises-12m-seed-instead/",
-    "date": "2026-05-20"
-  },
-  {
-    "title": "Startup Battlefield 200 applications close in one week: Window to nominate and apply for the most promising startups ends May 27",
-    "source": "TechCrunch",
-    "summary": "Startup Battlefield 200 applications close May 27. Pitch at TechCrunch Disrupt, get investor access, win $100K, plus more scaling perks. Nominate an early-stage founder or submit your startup here.",
-    "url": "https://techcrunch.com/2026/05/20/startup-battlefield-200-applications-close-in-one-week-window-to-nominate-and-apply-for-the-most-promising-startups-ends-may-27/",
     "date": "2026-05-20"
   },
   {
     "title": "Figma adds an AI assistant to its collaborative canvas",
     "source": "TechCrunch",
-    "summary": "Figma's new AI assistant will be first available on Figma Design",
+    "summary": "Figma says users can employ natural language text prompts to direct its new AI agent to generate new designs, edit existing ones, or automate tasks such as generating iterations of existing designs.",
     "url": "https://techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas/",
     "date": "2026-05-20"
   },
@@ -88,20 +102,6 @@
     "source": "TechCrunch",
     "summary": "Google launched Gemini 3.5 Flash, its most powerful coding and agentic AI model yet, at the company's annual developer conference. It is capable of autonomously executing complex tasks and building software from scratch.",
     "url": "https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/",
-    "date": "2026-05-20"
-  },
-  {
-    "title": "Google Search as you know it is over",
-    "source": "TechCrunch",
-    "summary": "Google is transforming Search from a list of links into an AI-powered experience filled with conversational answers, autonomous agents, and interactive interfaces \u2014 a shift that could further reduce traffic to publishers across the web.",
-    "url": "https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/",
-    "date": "2026-05-20"
-  },
-  {
-    "title": "OpenAI is making it easier to check if an image was made by their models",
-    "source": "TechCrunch",
-    "summary": "OpenAI announced two new measures to help detect AI generated imagery: joining the open C2PA standard and adding Google's SynthID to its products.",
-    "url": "https://techcrunch.com/2026/05/19/openai-is-making-it-easier-to-check-if-an-image-was-made-by-their-models/",
     "date": "2026-05-20"
   },
   {
@@ -175,6 +175,13 @@
     "date": "2026-05-20"
   },
   {
+    "title": "I Gave My OpenClaw Agent a Physical Body",
+    "source": "Wired",
+    "summary": "The coding skills of AI models are about to make it much easier to build and deploy robots.",
+    "url": "https://www.wired.com/story/i-gave-my-openclaw-agent-physical-body-robot/",
+    "date": "2026-05-20"
+  },
+  {
     "title": "Literary Prizewinners Are Facing AI Allegations. It Feels Like the New Normal",
     "source": "Wired",
     "summary": "Three of five regional winners of the prestigious Commonwealth Short Story Prize are suspected of relying on chatbots. They\u2019re certainly not alone.",
@@ -238,10 +245,10 @@
     "date": "2026-05-20"
   },
   {
-    "title": "Elon Musk Loses Landmark Lawsuit Against OpenAI",
-    "source": "Wired",
-    "summary": "The nine-member panel took only two hours to return a verdict in favor of OpenAI on Monday, which the judge quickly adopted as her own final decision.",
-    "url": "https://www.wired.com/story/musk-v-altman-jury-verdict/",
+    "title": "Buckle up: Google is set to remake search with agentic AI in 2026",
+    "source": "Ars Technica",
+    "summary": "Google's AI search evolution is accelerating at I/O 2026.",
+    "url": "https://arstechnica.com/google/2026/05/buckle-up-google-is-set-to-remake-search-with-agentic-ai-in-2026/",
     "date": "2026-05-20"
   },
   {
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "'We have no grand plan,' says Anthropic's Cat Wu\u2014but that's by design.",
     "url": "https://arstechnica.com/ai/2026/05/claude-codes-product-lead-talks-usage-limits-transparency-and-the-lean-harness/",
-    "date": "2026-05-20"
-  },
-  {
-    "title": "Lake Tahoe residents lose energy supplier to data center boom",
-    "source": "Ars Technica",
-    "summary": "Town\u2019s 49,000 California residents compete with Nevada data centers for energy.",
-    "url": "https://arstechnica.com/ai/2026/05/energy-supplier-abandons-lake-tahoe-residents-to-serve-data-centers/",
     "date": "2026-05-20"
   }
 ]
