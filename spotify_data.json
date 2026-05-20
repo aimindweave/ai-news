@@ -94,6 +94,16 @@
   "episodes": [
     {
       "id": "a]6z Pod_0",
+      "name": "Marc Andreessen on AI, California, and the Future of America | Joe Rogan",
+      "show": "a]6z Podcast",
+      "description": "Marc Andreessen joins Joe Rogan for a conversation on AI, politics, technology, and the future of American society. They discuss how artificial intelligence is rapidly moving from novelty to infras",
+      "release_date": "2026-05-20",
+      "duration_min": 184,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
+      "id": "a]6z Pod_1",
       "name": "Rebuilding The American Shipyard",
       "show": "a]6z Podcast",
       "description": "Erin Price-Wright speaks with Michael Duffey and Dino Mavrookas about what it will take to rebuild the American defense industrial base for a new era of competition. As production capacity becomes ",
@@ -103,7 +113,7 @@
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "The Plan to Make American Crime Obsolete",
       "show": "a]6z Podcast",
       "description": "David Ulevitch speaks with Col. Jeffrey Glover and Rahul Sidhu about how AI, drones, and sensor networks are reshaping public safety and what it takes to bring new technology into law enforcement a",
@@ -121,16 +131,6 @@
       "duration_min": 67,
       "image": "",
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
-    },
-    {
-      "id": "a]6z Pod_2",
-      "name": "Vitalik Buterin on Human Agency in the AI Era",
-      "show": "a]6z Podcast",
-      "description": "Sophia Dew and Binji Pande speak with Vitalik Buterin about technology, human agency, and how the internet is changing the way people think, build, and relate to the world around them. Drawing from",
-      "release_date": "2026-05-15",
-      "duration_min": 26,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
       "id": "Practica_0",
@@ -181,6 +181,16 @@
       "duration_min": 53,
       "image": "",
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
+    },
+    {
+      "id": "Lex Frid_0",
+      "name": "#496 – FFmpeg: The Incredible Technology Behind Video on the Internet",
+      "show": "Lex Fridman Podcast",
+      "description": "Jean-Baptiste Kempf is lead developer of VLC and president of VideoLAN. Kieran Kunhya is a longtime FFmpeg contributor, codec engineer, and the person behind the now-infamous FFmpeg account on X.<b",
+      "release_date": "2026-05-06",
+      "duration_min": 263,
+      "image": "",
+      "url": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"
     },
     {
       "id": "The AI P_1",
@@ -241,6 +251,26 @@
       "duration_min": 54,
       "image": "",
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
+    },
+    {
+      "id": "Lex Frid_1",
+      "name": "#495 – Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age",
+      "show": "Lex Fridman Podcast",
+      "description": "Lars Brownworth is a historian, teacher, podcaster, and author specializing in Viking history, medieval Europe, and the Byzantine Empire.<br />\nThank you for listening ❤ Check out our sponsors: <a ",
+      "release_date": "2026-04-09",
+      "duration_min": 129,
+      "image": "",
+      "url": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"
+    },
+    {
+      "id": "Lex Frid_2",
+      "name": "#494 – Jensen Huang: NVIDIA – The $4 Trillion Company & the AI Revolution",
+      "show": "Lex Fridman Podcast",
+      "description": "Jensen Huang is the co-founder and CEO of NVIDIA, the world&#8217;s most valuable company and the engine powering the AI computing revolution.<br />\nThank you for listening ❤ Check out our sponsors",
+      "release_date": "2026-03-23",
+      "duration_min": 0,
+      "image": "",
+      "url": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"
     }
   ]
 }
