@@ -93,6 +93,16 @@
   ],
   "episodes": [
     {
+      "id": "The AI P_0",
+      "name": "Inside AI Tokenomics: How to Profitably Turn Tokens Into Business Value | NVIDIA AI Podcast Ep. 299",
+      "show": "The AI Podcast (NVIDIA)",
+      "description": "As AI factories scale and token costs become a defining competitive variable, the way businesses measure infrastructure ROI needs to change. In this episode, Shruti Koparkar from NVIDIA's Accelerated ",
+      "release_date": "2026-05-20",
+      "duration_min": 33,
+      "image": "",
+      "url": "https://open.spotify.com/show/0e1X4kJVfwQRPF8lZzqqfX"
+    },
+    {
       "id": "a]6z Pod_0",
       "name": "Marc Andreessen on AI, California, and the Future of America | Joe Rogan",
       "show": "a]6z Podcast",
@@ -143,7 +153,7 @@
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
-      "id": "The AI P_0",
+      "id": "The AI P_1",
       "name": "Snap’s Secret to Processing 10 Petabytes a Day: GPU-Accelerated Spark | NVIDIA AI Podcast Ep. 298",
       "show": "The AI Podcast (NVIDIA)",
       "description": "Snap processes more than 10 petabytes of experimentation data every single morning—and with NVIDIA GPU-accelerated Apache Spark on Google Cloud, Snap cut job costs by 76%, reduced memory usage by 80%,",
@@ -193,7 +203,7 @@
       "url": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"
     },
     {
-      "id": "The AI P_1",
+      "id": "The AI P_2",
       "name": "Harrison Chase of LangChain on Deep Agents, LangSmith, and Earning Trust | NVIDIA AI Podcast Ep. 297",
       "show": "The AI Podcast (NVIDIA)",
       "description": "LangChain has surpassed 1 billion downloads—and the framework that started as a weekend project is now the harness powering the next generation of production-grade AI agents. In this episode, Harrison",
@@ -221,16 +231,6 @@
       "duration_min": 54,
       "image": "",
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
-    },
-    {
-      "id": "The AI P_2",
-      "name": "How Dassault Systèmes Is Building AI That Understands Physics - Ep. 296",
-      "show": "The AI Podcast (NVIDIA)",
-      "description": "Generative AI can predict whether a plane takes off—but does it know why? Nicolas Cerisier, VP of 3DEXPERIENCE Platform R&D at Dassault Systèmes, explains how industrial world models go beyond pattern",
-      "release_date": "2026-04-29",
-      "duration_min": 23,
-      "image": "",
-      "url": "https://open.spotify.com/show/0e1X4kJVfwQRPF8lZzqqfX"
     },
     {
       "id": "Practica_2",

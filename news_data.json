@@ -1,5 +1,40 @@
 [
   {
+    "title": "AI search startups are blowing up",
+    "source": "TechCrunch",
+    "summary": "AI search has quietly become one of the most attractive targets in consumer AI.",
+    "url": "https://techcrunch.com/2026/05/20/ai-search-startups-are-blowing-up/",
+    "date": "2026-05-20"
+  },
+  {
+    "title": "Stability AI releases a new audio model that can create six-minute songs",
+    "source": "TechCrunch",
+    "summary": "Stability Audio 3.0 small model can run on-device and generate two-minute long tracks",
+    "url": "https://techcrunch.com/2026/05/20/stability-ai-release-a-new-audio-model-that-can-create-six-minute-songs/",
+    "date": "2026-05-20"
+  },
+  {
+    "title": "NanoClaw creator turns down $20M buyout offer, raises $12M seed instead",
+    "source": "TechCrunch",
+    "summary": "NanoCo, the company behind OpenClaw alternative NanoClaw, has raised a $12 million seed after a viral launch, the founders tell TechCrunch.",
+    "url": "https://techcrunch.com/2026/05/20/nanoclaw-creator-turns-down-20m-buyout-offer-raises-12m-seed-instead/",
+    "date": "2026-05-20"
+  },
+  {
+    "title": "Startup Battlefield 200 applications close in one week: Window to nominate and apply for the most promising startups ends May 27",
+    "source": "TechCrunch",
+    "summary": "Startup Battlefield 200 applications close May 27. Pitch at TechCrunch Disrupt, get investor access, win $100K, plus more scaling perks. Nominate an early-stage founder or submit your startup here.",
+    "url": "https://techcrunch.com/2026/05/20/startup-battlefield-200-applications-close-in-one-week-window-to-nominate-and-apply-for-the-most-promising-startups-ends-may-27/",
+    "date": "2026-05-20"
+  },
+  {
+    "title": "Figma adds an AI assistant to its collaborative canvas",
+    "source": "TechCrunch",
+    "summary": "Figma's new AI assistant will be first available on Figma Design",
+    "url": "https://techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas/",
+    "date": "2026-05-20"
+  },
+  {
     "title": "Google just declared itself a contender in AI design at IO 2026",
     "source": "TechCrunch",
     "summary": "Google says it's designed the app to be accessible to everyone, from teachers to small business owners.",
@@ -70,38 +105,17 @@
     "date": "2026-05-20"
   },
   {
-    "title": "Agentic app coding gets an upgrade with Google\u2019s release of Android CLI",
-    "source": "TechCrunch",
-    "summary": "Google is embracing the rise of AI coding agents with new Android tools designed to work with platforms like Claude Code and OpenAI\u2019s Codex, allowing developers \u2014 or their AI assistants \u2014 to build Android apps faster from the command line.",
-    "url": "https://techcrunch.com/2026/05/19/agentic-app-coding-gets-an-upgrade-with-googles-release-of-android-cli/",
+    "title": "Green steel startup Boston Metal is doubling down on critical metals",
+    "source": "MIT Tech Review",
+    "summary": "The startup Boston Metal has raised a $75 million funding round to produce critical metals, MIT Technology Review can exclusively report. The company has been known largely for its efforts to clean up steel production, an industry that s responsible for about 8% of global greenhouse emissions tod...",
+    "url": "https://www.technologyreview.com/2026/05/20/1137523/boston-metal-funding-critical-metals/",
     "date": "2026-05-20"
   },
   {
-    "title": "Google\u2019s AI Studio now lets anyone build Android apps in minutes",
-    "source": "TechCrunch",
-    "summary": "Google unveiled new web-based AI tools that can generate native Android apps in minutes, as the company expands its push into AI-powered software development.",
-    "url": "https://techcrunch.com/2026/05/19/googles-ai-studio-now-lets-anyone-build-android-apps-in-minutes/",
-    "date": "2026-05-20"
-  },
-  {
-    "title": "Google updates its Gemini app to take on ChatGPT and Claude at IO 2026",
-    "source": "TechCrunch",
-    "summary": "The updates signal Google\u2019s push to turn its Gemini app into an all-purpose AI hub rather than a stand-alone chatbot.",
-    "url": "https://techcrunch.com/2026/05/19/google-updates-its-gemini-app-to-take-on-chatgpt-and-claude-at-io-2026/",
-    "date": "2026-05-20"
-  },
-  {
-    "title": "Google\u2019s new Universal Cart wants to follow your entire shopping journey across the internet",
-    "source": "TechCrunch",
-    "summary": "Most people shop across multiple devices, many retailers, and over the course of many days, which is why Google is launching Universal Cart.",
-    "url": "https://techcrunch.com/2026/05/19/googles-new-universal-cart-wants-to-follow-your-entire-shopping-journey-across-the-internet/",
-    "date": "2026-05-20"
-  },
-  {
-    "title": "Google launches Antigravity 2.0 with an updated desktop app and CLI tool at IO 2026",
-    "source": "TechCrunch",
-    "summary": "Google is debuting a new AI Ultra plan priced at $100, which will give users 5x more usage limit than the AI Pro plan alongside the Antigravity 2.0 launch.",
-    "url": "https://techcrunch.com/2026/05/19/google-launches-antigravity-2-0-with-an-updated-desktop-app-and-cli-tool-at-io-2026/",
+    "title": "The Download: fully artificial chicken eggs and why Musk lost",
+    "source": "MIT Tech Review",
+    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Colossal Biosciences is growing chickens in a 3D-printed artificial eggshell The baby chicks were shifting and starting to pip\u2014or trying to hatch. But not from...",
+    "url": "https://www.technologyreview.com/2026/05/20/1137579/the-download-colossal-biosciences-egg-musk-altman-trial/",
     "date": "2026-05-20"
   },
   {
@@ -158,20 +172,6 @@
     "source": "MIT Tech Review",
     "summary": "The defense-tech company Anduril has shared new details about the augmented-reality headset for the military it\u2019s prototyping with Meta, including a vision for ordering drone strikes via eye-tracking and voice commands. Quay Barnett, who leads the efforts as a vice president at Anduril following ...",
     "url": "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/",
-    "date": "2026-05-20"
-  },
-  {
-    "title": "The Download: Musk v. Altman week 3, and Trump\u2019s tech trading",
-    "source": "MIT Tech Review",
-    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Musk v. Altman week 3: Musk and Altman traded blows over each other\u2019s credibility. Now the jury will pick a side. In the final week of the Musk v. Altman trial,",
-    "url": "https://www.technologyreview.com/2026/05/18/1137407/the-download-musk-altman-trial-trump-tech-trading/",
-    "date": "2026-05-20"
-  },
-  {
-    "title": "Musk v. Altman week 3: Elon Musk and Sam Altman traded blows over each other\u2019s credibility. Now the jury will pick a side.",
-    "source": "MIT Tech Review",
-    "summary": "Update: On Monday May 18, the jury sided with OpenAI, delivering an advisory verdict finding that Musk s claims are barred by the statute of limitations. US District Judge Yvonne Gonzalez Rogers accepted the verdict. In the final week of the Musk v. Altman trial, lawyers traded blows over Elon Mu...",
-    "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
     "date": "2026-05-20"
   },
   {
