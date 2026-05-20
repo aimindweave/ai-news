@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Railway Blocked by Google Cloud",
+    "title": "Infomaniak transitions to a foundation model to protect user data privacy",
     "source": "Hacker News",
-    "description": "HN Score: 288 | 126 comments",
-    "url": "https://status.railway.com/?date=20260519",
-    "score": 288,
+    "description": "HN Score: 71 | 12 comments",
+    "url": "https://news.infomaniak.com/en/infomaniak-foundation-sovereign-cloud/",
+    "score": 71,
     "date": "2026-05-20",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Remove\u2013AI\u2013Watermarks \u2013 CLI and library for removing AI watermarks from images",
+    "title": "Show HN: Forge \u2013 Guardrails take an 8B model from 53% to 99% on agentic tasks",
     "source": "Hacker News",
-    "description": "HN Score: 158 | 99 comments",
-    "url": "https://github.com/wiltodelta/remove-ai-watermarks",
-    "score": 158,
+    "description": "HN Score: 478 | 172 comments",
+    "url": "https://github.com/antoinezambelli/forge",
+    "score": 478,
     "date": "2026-05-20",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
+    "title": "Remove\u2013AI\u2013Watermarks \u2013 CLI and library for removing AI watermarks from images",
     "source": "Hacker News",
-    "description": "HN Score: 224 | 123 comments",
-    "url": "https://openai.com/index/advancing-content-provenance/",
-    "score": 224,
+    "description": "HN Score: 278 | 160 comments",
+    "url": "https://github.com/wiltodelta/remove-ai-watermarks",
+    "score": 278,
     "date": "2026-05-20",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Forge \u2013 Guardrails take an 8B model from 53% to 99% on agentic tasks",
+    "title": "The AI Quant Desk for Onchain Finance",
     "source": "Hacker News",
-    "description": "HN Score: 328 | 123 comments",
-    "url": "https://github.com/antoinezambelli/forge",
-    "score": 328,
+    "description": "HN Score: 4 | 0 comments",
+    "url": "https://grid.raster.finance/en/portfolio-analytics",
+    "score": 4,
     "date": "2026-05-20",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Mistral AI acquires Emmi AI",
+    "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
     "source": "Hacker News",
-    "description": "HN Score: 190 | 50 comments",
-    "url": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai",
-    "score": 190,
+    "description": "HN Score: 278 | 149 comments",
+    "url": "https://openai.com/index/advancing-content-provenance/",
+    "score": 278,
     "date": "2026-05-20",
     "category": "AI News"
   },
@@ -93,45 +93,62 @@
     "category": "Twitter"
   },
   {
-    "title": "I\u2019ve joined Anthropic",
+    "title": "Mistral AI acquires Emmi AI",
     "source": "Hacker News",
-    "description": "HN Score: 1223 | 509 comments",
-    "url": "https://twitter.com/karpathy/status/2056753169888334312",
-    "score": 1223,
+    "description": "HN Score: 261 | 76 comments",
+    "url": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai",
+    "score": 261,
     "date": "2026-05-20",
     "category": "AI News"
   },
   {
-    "title": "RT by @svpino: How to enable full observability and automatic analytics for your LLM-based application. It takes one library + one line of code, and y",
+    "title": "RT by @svpino: Nobody cares about chatbots anymore. You want AI agents that can reason, plan, collaborate, and solve tasks. That's what modern AI is a",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2056751988185223589#m",
+    "url": "https://nitter.net/svpino/status/2056813448974209463#m",
+    "date": "2026-05-20",
+    "category": "Twitter"
+  },
+  {
+    "title": "CopyFail: From Pod to Host",
+    "source": "Hacker News",
+    "description": "HN Score: 15 | 0 comments",
+    "url": "https://xint.io/blog/copy-fail-pod-to-host",
+    "score": 15,
+    "date": "2026-05-20",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: \u20ac40,000 is a great incentive for creative people who are all over AI video generation. Great to see Annecy and Dreamina AI encouraging ",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2056775652456718386#m",
     "date": "2026-05-20",
     "category": "Twitter"
   },
   {
     "title": "Growing Neural Cellular Automata",
     "source": "Hacker News",
-    "description": "HN Score: 84 | 10 comments",
+    "description": "HN Score: 111 | 12 comments",
     "url": "https://distill.pub/2020/growing-ca/",
-    "score": 84,
+    "score": 111,
     "date": "2026-05-20",
     "category": "AI News"
   },
   {
-    "title": "RT by @svpino: Google published an entire library of highly sophisticated, end-to-end agent examples. 100% open-source. \u2022 Complete documentation \u2022 Sou",
-    "source": "@svpino",
+    "title": "TBH, Kimi 2.6 beats Gemini Flash 3.6 Plus it is 10x cheaper So, yes, open source is still winning",
+    "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2056721811480719553#m",
+    "url": "https://nitter.net/bindureddy/status/2056959959082885316#m",
     "date": "2026-05-20",
     "category": "Twitter"
   },
   {
-    "title": "Tool mapping 90 companies in the photonics and CPO supply chain",
+    "title": "I\u2019ve joined Anthropic",
     "source": "Hacker News",
-    "description": "HN Score: 32 | 2 comments",
-    "url": "https://leonardo-boquillon.com/photonic-cop-supply-chain",
-    "score": 32,
+    "description": "HN Score: 1317 | 557 comments",
+    "url": "https://twitter.com/karpathy/status/2056753169888334312",
+    "score": 1317,
     "date": "2026-05-20",
     "category": "AI News"
   },
@@ -144,28 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Copy Fail, Dirty Frag, and Fragnesia kernel vulnerabilities",
+    "title": "Incident Report: Railway Blocked by Google Cloud (Resolved)",
     "source": "Hacker News",
-    "description": "HN Score: 116 | 42 comments",
-    "url": "https://www.gentoo.org/news/2026/05/19/copy-fail-fragnesia-vulnerabilities.html",
-    "score": 116,
-    "date": "2026-05-20",
-    "category": "AI News"
-  },
-  {
-    "title": "The flash version is pretty good\u2026. Now imagine a Gemini Pro 3.5 that is NOT benchmaxxed Beating everyone at everything!",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2056894685705093269#m",
-    "date": "2026-05-20",
-    "category": "Twitter"
-  },
-  {
-    "title": "Intro to TLA+ for the LLM Era: Prompt Your Way to Victory",
-    "source": "Hacker News",
-    "description": "HN Score: 122 | 27 comments",
-    "url": "https://emptysqua.re/blog/intro-to-tla-plus-for-the-llm-era/",
-    "score": 122,
+    "description": "HN Score: 474 | 301 comments",
+    "url": "https://blog.railway.com/p/incident-report-may-19-2026-gcp-account-outage",
+    "score": 474,
     "date": "2026-05-20",
     "category": "AI News"
   }
