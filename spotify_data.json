@@ -93,6 +93,16 @@
   ],
   "episodes": [
     {
+      "id": "Practica_0",
+      "name": "Hermes Agent: Agents that grow with you",
+      "show": "Practical AI",
+      "description": "\n        Open Source AI is entering a new era, one shaped by self-improving AI Agents, recursive learning systems, and rapidly evolving AI Tools that blur the line between software and autonomous c",
+      "release_date": "2026-05-21",
+      "duration_min": 51,
+      "image": "",
+      "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
+    },
+    {
       "id": "a]6z Pod_0",
       "name": "Marc Andreessen on AI, California, and the Future of America | Joe Rogan",
       "show": "a]6z Podcast",
@@ -133,7 +143,7 @@
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
-      "id": "Practica_0",
+      "id": "Practica_1",
       "name": "U.S. Congressman Beyer on AI challenges facing America and the World",
       "show": "Practical AI",
       "description": "\n        U.S. Congressman Don Beyer returns to Practical AI for another far-reaching conversation with Chris about many of the most important AI challenges facing America and the world.  Blending p",
@@ -163,7 +173,7 @@
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
-      "id": "Practica_1",
+      "id": "Practica_2",
       "name": "The Myth of Model Wars: Open vs Closed AI in 2026",
       "show": "Practical AI",
       "description": "\n        In this fully connected episode, Dan and Chris break down one of the biggest questions in AI today: do open vs. closed models still matter? From the rise of physical AI and edge devices to",
@@ -231,16 +241,6 @@
       "duration_min": 23,
       "image": "",
       "url": "https://open.spotify.com/show/0e1X4kJVfwQRPF8lZzqqfX"
-    },
-    {
-      "id": "Practica_2",
-      "name": "The mythos of Mythos and Allbirds takes flight to the neocloud",
-      "show": "Practical AI",
-      "description": "\n        In this Fully-Connected episode, Dan and Chris start with Anthropic's Mythos frontier model, parsing what is publicly known about its cybersecurity capabilities and projecting its possible",
-      "release_date": "2026-04-23",
-      "duration_min": 45,
-      "image": "",
-      "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
       "id": "The TWIM_2",

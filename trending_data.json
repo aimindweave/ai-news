@@ -10,9 +10,9 @@
   {
     "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
     "source": "Hacker News",
-    "description": "HN Score: 852 | 638 comments",
+    "description": "HN Score: 1160 | 844 comments",
     "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
-    "score": 852,
+    "score": 1160,
     "date": "2026-05-21",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Intuit to lay off over 3k employees to refocus on AI",
+    "title": "Typewise (YC S22) Is Hiring an AI Growth Engineer (Zurich or Remote)",
     "source": "Hacker News",
-    "description": "HN Score: 98 | 51 comments",
-    "url": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/",
-    "score": 98,
+    "description": "HN Score: 1 | 0 comments",
+    "url": "https://www.ycombinator.com/companies/typewise/jobs/HmCzfBK-ai-growth-engineer",
+    "score": 1,
     "date": "2026-05-21",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "OpenAI to confidentially file for IPO as soon as Friday",
+    "title": "Anthropic is expanding to Colossus2. Will use GB200",
     "source": "Hacker News",
-    "description": "HN Score: 42 | 2 comments",
-    "url": "https://www.cnbc.com/2026/05/20/openai-ipo-filing.html",
-    "score": 42,
+    "description": "HN Score: 201 | 181 comments",
+    "url": "https://twitter.com/nottombrown/status/2057194829986300375",
+    "score": 201,
     "date": "2026-05-21",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Qian Xuesen: The missile genius America lost and China gained (2025)",
+    "title": "OpenAI Is Preparing to File for an IPO Soon",
     "source": "Hacker News",
-    "description": "HN Score: 141 | 76 comments",
-    "url": "https://www.usni.org/magazines/naval-history/2025/december/missile-genius-america-lost-and-china-gained",
-    "score": 141,
+    "description": "HN Score: 87 | 220 comments",
+    "url": "https://www.wsj.com/tech/ai/openai-is-preparing-to-file-for-an-ipo-very-soon-0ec95af5",
+    "score": 87,
     "date": "2026-05-21",
     "category": "AI News"
   },
@@ -76,11 +76,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Google's AI is being manipulated. The search giant is quietly fighting back",
+    "title": "Google\u2019s AI is being manipulated. The search giant is quietly fighting back",
     "source": "Hacker News",
-    "description": "HN Score: 278 | 179 comments",
+    "description": "HN Score: 313 | 193 comments",
     "url": "https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results",
-    "score": 278,
+    "score": 313,
+    "date": "2026-05-21",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: One of the hardest parts of building AI agents is connecting them to your UI. The problem most people realize: Agents completely break ",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2057165729456369820#m",
+    "date": "2026-05-21",
+    "category": "Twitter"
+  },
+  {
+    "title": "Intuit to lay off over 3k employees to refocus on AI",
+    "source": "Hacker News",
+    "description": "HN Score: 190 | 141 comments",
+    "url": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/",
+    "score": 190,
     "date": "2026-05-21",
     "category": "AI News"
   },
@@ -93,28 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "PopuLoRA: Co-Evolving LLM Populations for Reasoning Self- Play",
+    "title": "Qian Xuesen: The missile genius America lost and China gained (2025)",
     "source": "Hacker News",
-    "description": "HN Score: 38 | 6 comments",
-    "url": "https://vmax.ai/team/populora-co-evolving-llm-populations-for-reasoning-self-play",
-    "score": 38,
-    "date": "2026-05-21",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: For the first time ever, I did a presentation using the Framework 13 Pro running Omarchy. \u2022 Using Microsoft Teams \u2022 Sharing my screen u",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2057077134611665286#m",
-    "date": "2026-05-21",
-    "category": "Twitter"
-  },
-  {
-    "title": "Qwen3.7-Max: The Agent Frontier",
-    "source": "Hacker News",
-    "description": "HN Score: 638 | 254 comments",
-    "url": "https://qwen.ai/blog?id=qwen3.7",
-    "score": 638,
+    "description": "HN Score: 174 | 92 comments",
+    "url": "https://www.usni.org/magazines/naval-history/2025/december/missile-genius-america-lost-and-china-gained",
+    "score": 174,
     "date": "2026-05-21",
     "category": "AI News"
   },
@@ -127,11 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Formal Verification Gates for AI Coding Loops",
+    "title": "Learnings from 100K lines of Rust with AI (2025)",
     "source": "Hacker News",
-    "description": "HN Score: 115 | 29 comments",
-    "url": "https://reubenbrooks.dev/blog/structural-backpressure-beats-smarter-agents/",
-    "score": 115,
+    "description": "HN Score: 151 | 167 comments",
+    "url": "https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html",
+    "score": 151,
     "date": "2026-05-21",
     "category": "AI News"
   },
@@ -144,20 +144,20 @@
     "category": "Twitter"
   },
   {
-    "title": "Not alive, but not dead: disembodied human brains used for drug testing",
+    "title": "Qwen3.7-Max: The Agent Frontier",
     "source": "Hacker News",
-    "description": "HN Score: 168 | 147 comments",
-    "url": "https://www.science.org/content/article/not-alive-not-dead-disembodied-human-brains-used-drug-testing",
-    "score": 168,
+    "description": "HN Score: 664 | 261 comments",
+    "url": "https://qwen.ai/blog?id=qwen3.7",
+    "score": 664,
     "date": "2026-05-21",
     "category": "AI News"
   },
   {
-    "title": "Anthropic is expanding to Colossus2. Will use GB200",
+    "title": "Formal Verification Gates for AI Coding Loops",
     "source": "Hacker News",
-    "description": "HN Score: 96 | 86 comments",
-    "url": "https://xcancel.com/nottombrown/status/2057194829986300375",
-    "score": 96,
+    "description": "HN Score: 125 | 30 comments",
+    "url": "https://reubenbrooks.dev/blog/structural-backpressure-beats-smarter-agents/",
+    "score": 125,
     "date": "2026-05-21",
     "category": "AI News"
   }
