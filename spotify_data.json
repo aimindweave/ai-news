@@ -93,6 +93,26 @@
   ],
   "episodes": [
     {
+      "id": "Hard For_0",
+      "name": "Our Field Trip to Google I/O + A Sit-Down With Sundar Pichai + System Update",
+      "show": "Hard Fork",
+      "description": "This week, we headed to Mountain View, Calif., for the annual developer event Google I/O. We share our reactions to Google’s biggest announcements, including a revamped search box, new agentic tool",
+      "release_date": "2026-05-22",
+      "duration_min": 55,
+      "image": "",
+      "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
+    },
+    {
+      "id": "a]6z Pod_0",
+      "name": "Hugging Face's Clem Delangue on Open Source AI and the LLM Bubble | MTS Live",
+      "show": "a]6z Podcast",
+      "description": "Clem Delangue joins MTS to discuss the global open-source AI landscape, the current large language model bubble, and the future of consumer robotics.\nOriginally aired on MTS, Theo Jaffee and",
+      "release_date": "2026-05-22",
+      "duration_min": 15,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
       "id": "The AI P_0",
       "name": "Inside AI Tokenomics: How to Profitably Turn Tokens Into Business Value | NVIDIA AI Podcast Ep. 299",
       "show": "The AI Podcast (NVIDIA)",
@@ -123,7 +143,7 @@
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
     },
     {
-      "id": "a]6z Pod_0",
+      "id": "a]6z Pod_1",
       "name": "How Superhuman Took Over Silicon Valley Email",
       "show": "a]6z Podcast",
       "description": "Rahul Vorra is the founder and CEO of Superhuman, the premium email client for power users. He previously built the Gmail plug-in Reportive and sold it to LinkedIn. He began somewhere unexpected th",
@@ -133,7 +153,7 @@
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "Marc Andreessen on AI, California, and the Future of America | Joe Rogan",
       "show": "a]6z Podcast",
       "description": "Marc Andreessen joins Joe Rogan for a conversation on AI, politics, technology, and the future of American society. They discuss how artificial intelligence is rapidly moving from novelty to infras",
@@ -143,17 +163,7 @@
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
-      "id": "a]6z Pod_2",
-      "name": "Rebuilding The American Shipyard",
-      "show": "a]6z Podcast",
-      "description": "Erin Price-Wright speaks with Michael Duffey and Dino Mavrookas about what it will take to rebuild the American defense industrial base for a new era of competition. As production capacity becomes ",
-      "release_date": "2026-05-19",
-      "duration_min": 12,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
-    },
-    {
-      "id": "Hard For_0",
+      "id": "Hard For_1",
       "name": "A.I. Safety Is So Back + Mythos Mayhem with Nikesh Arora + Hot Mess Express",
       "show": "Hard Fork",
       "description": "This week, between the president’s negotiations in China and a potential executive order, we discuss why the Trump administration seems to be changing its tune on A.I. safety. Then, Nikesh Arora, c",
@@ -183,7 +193,7 @@
       "url": "https://open.spotify.com/show/0e1X4kJVfwQRPF8lZzqqfX"
     },
     {
-      "id": "Hard For_1",
+      "id": "Hard For_2",
       "name": "Can the U.S. Rein in Prediction Markets? + Joanna Stern on Her Year of A.I. Experiments + Our Producer Goes to Attention School",
       "show": "Hard Fork",
       "description": "This week we’re taking another look at prediction markets and a new series of scandals. Is Congress finally ready to rein them in? Then, the journalist Joanna Stern returns to the show to discuss h",
@@ -231,16 +241,6 @@
       "duration_min": 24,
       "image": "",
       "url": "https://open.spotify.com/show/0e1X4kJVfwQRPF8lZzqqfX"
-    },
-    {
-      "id": "Hard For_2",
-      "name": "OpenAI’s Big Reset + A.I. in the Doctor’s Office + Talkie, a pre-1930s LLM",
-      "show": "Hard Fork",
-      "description": "This week, OpenAI announced a loosened partnership with Microsoft and an aggressive new strategy to secure computing power. We unpack what these updates signal about OpenAI’s business strategy and ",
-      "release_date": "2026-05-01",
-      "duration_min": 69,
-      "image": "",
-      "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
       "id": "The TWIM_2",
