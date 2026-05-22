@@ -10,9 +10,9 @@
   {
     "title": "Project Hail Mary \u2013 Stellar Navigation Chart",
     "source": "Hacker News",
-    "description": "HN Score: 672 | 161 comments",
+    "description": "HN Score: 900 | 196 comments",
     "url": "https://valhovey.github.io/gaia-mary/",
-    "score": 672,
+    "score": 900,
     "date": "2026-05-22",
     "category": "AI News"
   },
@@ -25,11 +25,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Samsung chip workers will get an average $340k bonus as AI profits soar",
+    "title": "CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs",
     "source": "Hacker News",
-    "description": "HN Score: 106 | 31 comments",
-    "url": "https://qz.com/samsung-chip-workers-bonus-ai-profits-052126",
-    "score": 106,
+    "description": "HN Score: 61 | 7 comments",
+    "url": "https://arxiv.org/abs/2605.19269",
+    "score": 61,
+    "date": "2026-05-22",
+    "category": "AI News"
+  },
+  {
+    "title": "20x sales for something growing that fast js a great deal for @SpaceX It will be immediately accretive given @SpaceX is likely coming to the market at",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/EMostaque/status/2057727317439361215#m",
+    "date": "2026-05-22",
+    "category": "Twitter"
+  },
+  {
+    "title": "Launch HN: Runtime (YC P26) \u2013 Sandboxed coding agents for everyone on a team",
+    "source": "Hacker News",
+    "description": "HN Score: 86 | 23 comments",
+    "url": "https://www.runtm.com/",
+    "score": 86,
     "date": "2026-05-22",
     "category": "AI News"
   },
@@ -42,28 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Launch HN: Runtime (YC P26) \u2013 Sandboxed coding agents for everyone on a team",
-    "source": "Hacker News",
-    "description": "HN Score: 73 | 22 comments",
-    "url": "https://www.runtm.com/",
-    "score": 73,
-    "date": "2026-05-22",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @EMostaque: The Summer of AI Research 2026 is now accepting applications! Work on an open science AI research project between July 13 and August",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/AiEleuther/status/2057175875788177906#m",
-    "date": "2026-05-22",
-    "category": "Twitter"
-  },
-  {
     "title": "Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O",
     "source": "Hacker News",
-    "description": "HN Score: 76 | 5 comments",
+    "description": "HN Score: 107 | 12 comments",
     "url": "https://arxiv.org/abs/2605.12460",
-    "score": 76,
+    "score": 107,
     "date": "2026-05-22",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Google's Antigravity bait and switch",
+    "title": "Throwing AI-generated walls of text into conversations",
     "source": "Hacker News",
-    "description": "HN Score: 579 | 279 comments",
-    "url": "https://www.0xsid.com/blog/antigravity-bait-n-switch",
-    "score": 579,
+    "description": "HN Score: 609 | 353 comments",
+    "url": "https://noslopgrenade.com/",
+    "score": 609,
     "date": "2026-05-22",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Throwing AI-generated walls of text into conversations",
+    "title": "Google's Antigravity bait and switch",
     "source": "Hacker News",
-    "description": "HN Score: 532 | 314 comments",
-    "url": "https://noslopgrenade.com/",
-    "score": 532,
+    "description": "HN Score: 678 | 300 comments",
+    "url": "https://www.0xsid.com/blog/antigravity-bait-n-switch",
+    "score": 678,
     "date": "2026-05-22",
     "category": "AI News"
   },
@@ -112,9 +112,9 @@
   {
     "title": "Show HN: Agent.email \u2013 sign up via curl, claim with a human OTP",
     "source": "Hacker News",
-    "description": "HN Score: 66 | 73 comments",
+    "description": "HN Score: 74 | 89 comments",
     "url": "https://news.ycombinator.com/item?id=48225596",
-    "score": 66,
+    "score": 74,
     "date": "2026-05-22",
     "category": "AI News"
   },
@@ -129,9 +129,9 @@
   {
     "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
     "source": "Hacker News",
-    "description": "HN Score: 1379 | 998 comments",
+    "description": "HN Score: 1387 | 1012 comments",
     "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
-    "score": 1379,
+    "score": 1387,
     "date": "2026-05-22",
     "category": "AI News"
   },
@@ -146,9 +146,9 @@
   {
     "title": "Fender escalates legal campaign against S-style guitars",
     "source": "Hacker News",
-    "description": "HN Score: 106 | 107 comments",
+    "description": "HN Score: 115 | 109 comments",
     "url": "https://www.guitarworld.com/gear/electric-guitars/fender-cease-and-desist-lsl-instruments",
-    "score": 106,
+    "score": 115,
     "date": "2026-05-22",
     "category": "AI News"
   },
@@ -159,14 +159,5 @@
     "url": "https://nitter.net/bindureddy/status/2057532856130256977#m",
     "date": "2026-05-22",
     "category": "Twitter"
-  },
-  {
-    "title": "Show HN: I Made a Claude Skill for Spec-Driven Development (SDD)",
-    "source": "Hacker News",
-    "description": "HN Score: 23 | 3 comments",
-    "url": "https://github.com/FredAntB/Spec-Driven-Development",
-    "score": 23,
-    "date": "2026-05-22",
-    "category": "AI News"
   }
 ]
