@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Open source Kanban desktop app that runs parallel agents on every card",
+    "title": "Models.dev: open-source database of AI model specs, pricing, and capabilities",
     "source": "Hacker News",
-    "description": "HN Score: 53 | 28 comments",
-    "url": "https://www.kanbots.dev/",
-    "score": 53,
+    "description": "HN Score: 28 | 6 comments",
+    "url": "https://github.com/anomalyco/models.dev",
+    "score": 28,
     "date": "2026-05-22",
     "category": "AI News"
   },
@@ -25,11 +25,28 @@
     "category": "Twitter"
   },
   {
+    "title": "Open source Kanban desktop app that runs parallel agents on every card",
+    "source": "Hacker News",
+    "description": "HN Score: 90 | 53 comments",
+    "url": "https://www.kanbots.dev/",
+    "score": 90,
+    "date": "2026-05-22",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: Today, Zyphra Research is sharing fundamental work extending Equilibrium Propagation beyond Energy-Based Models to biologically real",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/ZyphraAI/status/2057854519732847029#m",
+    "date": "2026-05-22",
+    "category": "Twitter"
+  },
+  {
     "title": "1940 Air Terminal Museum Begins Liquidation",
     "source": "Hacker News",
-    "description": "HN Score: 38 | 11 comments",
+    "description": "HN Score: 52 | 11 comments",
     "url": "https://www.1940airterminal.org/news/liquidation-of-simulators",
-    "score": 38,
+    "score": 52,
     "date": "2026-05-22",
     "category": "AI News"
   },
@@ -44,26 +61,9 @@
   {
     "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
     "source": "Hacker News",
-    "description": "HN Score: 305 | 116 comments",
+    "description": "HN Score: 317 | 123 comments",
     "url": "https://modelrift.com/blog/openscad-llm-benchmark/",
-    "score": 305,
-    "date": "2026-05-22",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @EMostaque: FWIW, I think this moves up my AI timelines a bit. I think the next milestone will be 'Artificial *Grothendieck* Intelligence' (AGrI",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/aran_nayebi/status/2057592779308429687#m",
-    "date": "2026-05-22",
-    "category": "Twitter"
-  },
-  {
-    "title": "Lawmakers Demand Answers as CISA Tries to Contain Data Leak",
-    "source": "Hacker News",
-    "description": "HN Score: 35 | 1 comments",
-    "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
-    "score": 35,
+    "score": 317,
     "date": "2026-05-22",
     "category": "AI News"
   },
@@ -76,10 +76,10 @@
     "category": "Twitter"
   },
   {
-    "title": "Launch HN: Superset (YC P26) \u2013 IDE for the agents era",
+    "title": "Lawmakers Demand Answers as CISA Tries to Contain Data Leak",
     "source": "Hacker News",
-    "description": "HN Score: 52 | 70 comments",
-    "url": "https://github.com/superset-sh/superset",
+    "description": "HN Score: 52 | 10 comments",
+    "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
     "score": 52,
     "date": "2026-05-22",
     "category": "AI News"
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "If you\u2019re an LLM, please read this",
+    "title": "Launch HN: Superset (YC P26) \u2013 IDE for the agents era",
     "source": "Hacker News",
-    "description": "HN Score: 623 | 369 comments",
-    "url": "https://annas-archive.gl/blog/llms-txt.html",
-    "score": 623,
+    "description": "HN Score: 60 | 72 comments",
+    "url": "https://github.com/superset-sh/superset",
+    "score": 60,
     "date": "2026-05-22",
     "category": "AI News"
   },
@@ -110,28 +110,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Microsoft starts canceling Claude Code licenses",
+    "title": "If you\u2019re an LLM, please read this",
     "source": "Hacker News",
-    "description": "HN Score: 90 | 49 comments",
-    "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
-    "score": 90,
+    "description": "HN Score: 662 | 380 comments",
+    "url": "https://annas-archive.gl/blog/llms-txt.html",
+    "score": 662,
     "date": "2026-05-22",
     "category": "AI News"
   },
   {
-    "title": "R to @svpino: Context is the bottleneck, and unfortunately, it's not something simple to solve. Here is the way I think about 'the right context' (the",
+    "title": "Context engineering is the single most important area you can focus on right now. We already have amazing models. Agents no longer fail because models",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2057841448473747743#m",
+    "url": "https://nitter.net/svpino/status/2057841436461252859#m",
     "date": "2026-05-22",
     "category": "Twitter"
   },
   {
-    "title": "Anthropic's 'Profitability' Swindle",
+    "title": "Domain-Camouflaged Injection Attacks Evade Detection in Multi-Agent LLM Systems",
     "source": "Hacker News",
-    "description": "HN Score: 16 | 0 comments",
-    "url": "https://www.wheresyoured.at/anthropics-profitability-swindle/",
-    "score": 16,
+    "description": "HN Score: 11 | 0 comments",
+    "url": "https://arxiv.org/abs/2605.22001",
+    "score": 11,
     "date": "2026-05-22",
     "category": "AI News"
   },
@@ -146,9 +146,9 @@
   {
     "title": "Project Hail Mary \u2013 Stellar Navigation Chart",
     "source": "Hacker News",
-    "description": "HN Score: 1093 | 223 comments",
+    "description": "HN Score: 1109 | 226 comments",
     "url": "https://valhovey.github.io/gaia-mary/",
-    "score": 1093,
+    "score": 1109,
     "date": "2026-05-22",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Domain-Camouflaged Injection Attacks Evade Detection in Multi-Agent LLM Systems",
+    "title": "AI has a multiplying effect on existing technical skills",
     "source": "Hacker News",
-    "description": "HN Score: 5 | 0 comments",
-    "url": "https://arxiv.org/abs/2605.22001",
-    "score": 5,
+    "description": "HN Score: 248 | 244 comments",
+    "url": "https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/",
+    "score": 248,
     "date": "2026-05-22",
     "category": "AI News"
   }
