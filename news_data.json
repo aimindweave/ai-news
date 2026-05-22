@@ -1,5 +1,12 @@
 [
   {
+    "title": "Elon Musk can\u2019t hear you over the sound of his $1.75 trillion IPO",
+    "source": "TechCrunch",
+    "summary": "The SpaceX S-1 is finally here, and the story it tells goes way further than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a $28 trillion total addressable market, a pay package tied to establishing a Mars colony, and a valuation target tha...",
+    "url": "https://techcrunch.com/podcast/elon-musk-cant-hear-you-over-the-sound-of-his-1-75-trillion-ipo/",
+    "date": "2026-05-22"
+  },
+  {
     "title": "You can no longer Google the word \u2018disregard\u2019",
     "source": "TechCrunch",
     "summary": "After Google Search's AI update, the word 'disregard' now effectively breaks the search interface.",
@@ -11,6 +18,13 @@
     "source": "TechCrunch",
     "summary": "Google demoed prototype Android XR glasses that overlay Gemini-powered translation, navigation, and other information directly into your field of view.",
     "url": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
+    "date": "2026-05-22"
+  },
+  {
+    "title": "SpaceX files to go public, and the math requires a little faith",
+    "source": "TechCrunch",
+    "summary": "The SpaceX S-1 is finally here, and the story it tells goes way further than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a $28 trillion total addressable market, a pay package tied to establishing a Mars colony, and a valuation target tha...",
+    "url": "https://techcrunch.com/video/spacex-files-to-go-public-and-the-math-requires-a-little-faith/",
     "date": "2026-05-22"
   },
   {
@@ -88,20 +102,6 @@
     "source": "TechCrunch",
     "summary": "The next big thing for Nvidia will be CPUs for AI agents, $200 billion worth, CEO Jensen Huang predicts.",
     "url": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
-    "date": "2026-05-22"
-  },
-  {
-    "title": "Anthropic says it\u2019s about to have its first profitable quarter",
-    "source": "TechCrunch",
-    "summary": "Anthropic has told its investors that it will more than double revenue to around $10.9 billion in its second quarter.",
-    "url": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
-    "date": "2026-05-22"
-  },
-  {
-    "title": "Clouted wants to take the guesswork out of making short videos go viral",
-    "source": "TechCrunch",
-    "summary": "The video clipping startup raised a $7 million seed round led by Slow Ventures.",
-    "url": "https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/",
     "date": "2026-05-22"
   },
   {
@@ -245,6 +245,20 @@
     "date": "2026-05-22"
   },
   {
+    "title": "US scrambles to stop Internet users re-creating dead pilots\u2019 voices",
+    "source": "Ars Technica",
+    "summary": "Workaround flouts law that bans NTSB disclosures of cockpit audio recordings.",
+    "url": "https://arstechnica.com/ai/2026/05/ai-users-re-create-dead-pilots-voices-from-crash-investigation-docs/",
+    "date": "2026-05-22"
+  },
+  {
+    "title": "Trump abruptly cancels EO signing event after top AI firm CEOs declined to go",
+    "source": "Ars Technica",
+    "summary": "Trump delays AI safety testing EO, claiming it would be an innovation \u201cblocker.\u201d",
+    "url": "https://arstechnica.com/tech-policy/2026/05/trump-canceled-ai-safety-testing-eo-after-snub-from-tech-ceos/",
+    "date": "2026-05-22"
+  },
+  {
     "title": "AI put 'synthetic quotes' in his book. But this author wants to keep using it.",
     "source": "Ars Technica",
     "summary": "Steven Rosenbaum explains how inaccurate quotes got into his book The Future of Truth.",
@@ -333,20 +347,6 @@
     "source": "Ars Technica",
     "summary": "Lawyers accused of rushing historic settlement to seize $320 million in fees.",
     "url": "https://arstechnica.com/tech-policy/2026/05/authors-fight-for-higher-payouts-from-anthropics-1-5b-copyright-settlement/",
-    "date": "2026-05-22"
-  },
-  {
-    "title": "Send the arXiv AI-generated slop, get a yearlong vacation from submissions",
-    "source": "Ars Technica",
-    "summary": "One of the site's moderators described the new policy on social media.",
-    "url": "https://arstechnica.com/science/2026/05/preprint-server-arxiv-will-ban-submitters-of-ai-generated-hallucinations/",
-    "date": "2026-05-22"
-  },
-  {
-    "title": "OpenAI feels \u201cburned\u201d by Apple\u2019s crappy ChatGPT integration, insiders say",
-    "source": "Ars Technica",
-    "summary": "Judge orders Apple to give Musk internal messages discussing secretive ChatGPT deal.",
-    "url": "https://arstechnica.com/tech-policy/2026/05/openai-feels-burned-by-apples-crappy-chatgpt-integration-insiders-say/",
     "date": "2026-05-22"
   }
 ]
