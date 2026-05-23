@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Italy Cancels Boeing Pegasus Order, Shifting to Airbus A330 MRTT",
+    "title": "Making Deep Learning Go Brrrr from First Principles (2022)",
     "source": "Hacker News",
-    "description": "HN Score: 134 | 40 comments",
-    "url": "https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift",
-    "score": 134,
+    "description": "HN Score: 131 | 46 comments",
+    "url": "https://horace.io/brrr_intro.html",
+    "score": 131,
     "date": "2026-05-23",
     "category": "AI News"
   },
@@ -25,11 +25,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Making Deep Learning Go Brrrr from First Principles (2022)",
+    "title": "Italy Cancels Boeing Pegasus Order, Shifting to Airbus A330 MRTT",
     "source": "Hacker News",
-    "description": "HN Score: 118 | 44 comments",
-    "url": "https://horace.io/brrr_intro.html",
-    "score": 118,
+    "description": "HN Score: 183 | 56 comments",
+    "url": "https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift",
+    "score": 183,
+    "date": "2026-05-23",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: Image diffusion models like Flux natively output at 1k resolution, but what if we want to generate much higher resolution images (6k",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/DaveLindell/status/2058214572620661061#m",
+    "date": "2026-05-23",
+    "category": "Twitter"
+  },
+  {
+    "title": "Microsoft starts canceling Claude Code licenses",
+    "source": "Hacker News",
+    "description": "HN Score: 435 | 421 comments",
+    "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
+    "score": 435,
     "date": "2026-05-23",
     "category": "AI News"
   },
@@ -42,28 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Microsoft starts canceling Claude Code licenses",
-    "source": "Hacker News",
-    "description": "HN Score: 430 | 412 comments",
-    "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
-    "score": 430,
-    "date": "2026-05-23",
-    "category": "AI News"
-  },
-  {
-    "title": "20x sales for something growing that fast js a great deal for @SpaceX It will be immediately accretive given @SpaceX is likely coming to the market at",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/EMostaque/status/2057727317439361215#m",
-    "date": "2026-05-23",
-    "category": "Twitter"
-  },
-  {
     "title": "CISA tries to contain data leak",
     "source": "Hacker News",
-    "description": "HN Score: 256 | 55 comments",
+    "description": "HN Score: 258 | 56 comments",
     "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
-    "score": 256,
+    "score": 258,
     "date": "2026-05-23",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
+    "title": "Open source Kanban desktop app that runs parallel agents on every card",
     "source": "Hacker News",
-    "description": "HN Score: 412 | 156 comments",
-    "url": "https://modelrift.com/blog/openscad-llm-benchmark/",
-    "score": 412,
+    "description": "HN Score: 245 | 150 comments",
+    "url": "https://www.kanbots.dev/",
+    "score": 245,
     "date": "2026-05-23",
     "category": "AI News"
   },
@@ -93,27 +93,10 @@
     "category": "Twitter"
   },
   {
-    "title": "Open source Kanban desktop app that runs parallel agents on every card",
-    "source": "Hacker News",
-    "description": "HN Score: 243 | 148 comments",
-    "url": "https://www.kanbots.dev/",
-    "score": 243,
-    "date": "2026-05-23",
-    "category": "AI News"
-  },
-  {
     "title": "I'm letting Claude Code run on my Omarchy installation and make changes to the configuration files. It's pretty neat that config files drive most thin",
     "source": "@svpino",
     "description": "",
     "url": "https://nitter.net/svpino/status/2058167324130398408#m",
-    "date": "2026-05-23",
-    "category": "Twitter"
-  },
-  {
-    "title": "RT by @svpino: Higgsfield MCP is now live on Manus. Because of this, you can have Manus agents call frontier image/video models like Seedance 2.0, Nan",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2057906424399921616#m",
     "date": "2026-05-23",
     "category": "Twitter"
   },
