@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Greg Brockman: Inside the 72 Hours That Almost Killed OpenAI",
+    "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
     "source": "Hacker News",
-    "description": "HN Score: 98 | 60 comments",
-    "url": "https://fs.blog/knowledge-project-podcast/greg-brockman/",
-    "score": 98,
+    "description": "HN Score: 49 | 26 comments",
+    "url": "https://esengine.github.io/DeepSeek-Reasonix/",
+    "score": 49,
     "date": "2026-05-24",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Making deep learning go brrrr from first principles (2022)",
+    "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
     "source": "Hacker News",
-    "description": "HN Score: 175 | 63 comments",
-    "url": "https://horace.io/brrr_intro.html",
-    "score": 175,
+    "description": "HN Score: 14 | 3 comments",
+    "url": "https://arxiv.org/abs/2605.06445",
+    "score": 14,
     "date": "2026-05-24",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Air France and Airbus found guilty of manslaughter over 2009 plane crash",
+    "title": "Greg Brockman: Inside the 72 Hours That Almost Killed OpenAI",
     "source": "Hacker News",
-    "description": "HN Score: 110 | 89 comments",
-    "url": "https://www.bbc.com/news/articles/czd2qmdvmq6o",
-    "score": 110,
+    "description": "HN Score: 125 | 93 comments",
+    "url": "https://fs.blog/knowledge-project-podcast/greg-brockman/",
+    "score": 125,
     "date": "2026-05-24",
     "category": "AI News"
   },
@@ -59,6 +59,15 @@
     "category": "Twitter"
   },
   {
+    "title": "DeepSeek to Make Permanent 75% Discount on Flagship AI Model",
+    "source": "Hacker News",
+    "description": "HN Score: 7 | 0 comments",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model",
+    "score": 7,
+    "date": "2026-05-24",
+    "category": "AI News"
+  },
+  {
     "title": "RT by @DrJimFan: Mark: 1/ First milestone: the Physical Turing Test. You literally can\u2019t tell if a human or robot is doing the task. 2/ Next: Physical",
     "source": "@DrJimFan",
     "description": "",
@@ -67,12 +76,30 @@
     "category": "Twitter"
   },
   {
+    "title": "Official Kotlin Support for Visual Studio Code Is Now Available in Alpha",
+    "source": "Hacker News",
+    "description": "HN Score: 5 | 1 comments",
+    "url": "https://blog.jetbrains.com/kotlin/2026/05/official-kotlin-support-for-visual-studio-code-is-now-available-in-alpha/",
+    "score": 5,
+    "date": "2026-05-24",
+    "category": "AI News"
+  },
+  {
     "title": "RT by @DrJimFan: Jim is always a crowd favorite at AI Ascent. His ability to simplify the latest research into a clear 'what and why it matters' while",
     "source": "@DrJimFan",
     "description": "",
     "url": "https://nitter.net/Alfred_Lin/status/2052847050379936113#m",
     "date": "2026-05-24",
     "category": "Twitter"
+  },
+  {
+    "title": "Making deep learning go brrrr from first principles (2022)",
+    "source": "Hacker News",
+    "description": "HN Score: 177 | 63 comments",
+    "url": "https://horace.io/brrr_intro.html",
+    "score": 177,
+    "date": "2026-05-24",
+    "category": "AI News"
   },
   {
     "title": "I can run Claude Code with open weight models: $ ollama launch claude --model gemma4:26b But this no longer lets me use Anthropic models. Is there a w",
