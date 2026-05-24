@@ -10,9 +10,9 @@
   {
     "title": "Greg Brockman: Inside the 72 Hours That Almost Killed OpenAI",
     "source": "Hacker News",
-    "description": "HN Score: 28 | 13 comments",
+    "description": "HN Score: 98 | 60 comments",
     "url": "https://fs.blog/knowledge-project-podcast/greg-brockman/",
-    "score": 28,
+    "score": 98,
     "date": "2026-05-24",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Air France and Airbus found guilty of manslaughter over 2009 plane crash",
+    "title": "Making deep learning go brrrr from first principles (2022)",
     "source": "Hacker News",
-    "description": "HN Score: 102 | 79 comments",
-    "url": "https://www.bbc.com/news/articles/czd2qmdvmq6o",
-    "score": 102,
+    "description": "HN Score: 175 | 63 comments",
+    "url": "https://horace.io/brrr_intro.html",
+    "score": 175,
     "date": "2026-05-24",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Making deep learning go brrrr from first principles (2022)",
+    "title": "Air France and Airbus found guilty of manslaughter over 2009 plane crash",
     "source": "Hacker News",
-    "description": "HN Score: 174 | 63 comments",
-    "url": "https://horace.io/brrr_intro.html",
-    "score": 174,
+    "description": "HN Score: 110 | 89 comments",
+    "url": "https://www.bbc.com/news/articles/czd2qmdvmq6o",
+    "score": 110,
     "date": "2026-05-24",
     "category": "AI News"
   },
@@ -59,30 +59,12 @@
     "category": "Twitter"
   },
   {
-    "title": "Italy moves to Airbus A330 tankers",
-    "source": "Hacker News",
-    "description": "HN Score: 260 | 102 comments",
-    "url": "https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift",
-    "score": 260,
-    "date": "2026-05-24",
-    "category": "AI News"
-  },
-  {
     "title": "RT by @DrJimFan: Mark: 1/ First milestone: the Physical Turing Test. You literally can\u2019t tell if a human or robot is doing the task. 2/ Next: Physical",
     "source": "@DrJimFan",
     "description": "",
     "url": "https://nitter.net/CyberRobooo/status/2053149920740450732#m",
     "date": "2026-05-24",
     "category": "Twitter"
-  },
-  {
-    "title": "NeuralNote",
-    "source": "Hacker News",
-    "description": "HN Score: 25 | 1 comments",
-    "url": "https://github.com/DamRsn/NeuralNote",
-    "score": 25,
-    "date": "2026-05-24",
-    "category": "AI News"
   },
   {
     "title": "RT by @DrJimFan: Jim is always a crowd favorite at AI Ascent. His ability to simplify the latest research into a clear 'what and why it matters' while",
@@ -93,16 +75,15 @@
     "category": "Twitter"
   },
   {
-    "title": "Google Discover's headline rewrites strike again",
-    "source": "Hacker News",
-    "description": "HN Score: 3 | 0 comments",
-    "url": "https://www.theverge.com/tech/936822/google-discovers-headline-rewrites-strike-again",
-    "score": 3,
+    "title": "I can run Claude Code with open weight models: $ ollama launch claude --model gemma4:26b But this no longer lets me use Anthropic models. Is there a w",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2058536010712318156#m",
     "date": "2026-05-24",
-    "category": "AI News"
+    "category": "Twitter"
   },
   {
-    "title": "RT by @svpino: I'm letting Claude Code run on my Omarchy installation and make changes to the configuration files. It's pretty neat that config files ",
+    "title": "I'm letting Claude Code run on my Omarchy installation and make changes to the configuration files. It's pretty neat that config files drive most thin",
     "source": "@svpino",
     "description": "",
     "url": "https://nitter.net/svpino/status/2058167324130398408#m",
