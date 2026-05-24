@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Memory has grown to nearly two-thirds of AI chip component costs",
+    "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
     "source": "Hacker News",
-    "description": "HN Score: 145 | 153 comments",
-    "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
-    "score": 145,
+    "description": "HN Score: 323 | 161 comments",
+    "url": "https://esengine.github.io/DeepSeek-Reasonix/",
+    "score": 323,
     "date": "2026-05-24",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+    "title": "Memory has grown to nearly two-thirds of AI chip component costs",
     "source": "Hacker News",
-    "description": "HN Score: 235 | 132 comments",
-    "url": "https://esengine.github.io/DeepSeek-Reasonix/",
-    "score": 235,
+    "description": "HN Score: 214 | 229 comments",
+    "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
+    "score": 214,
     "date": "2026-05-24",
     "category": "AI News"
   },
@@ -44,9 +44,9 @@
   {
     "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
     "source": "Hacker News",
-    "description": "HN Score: 104 | 55 comments",
+    "description": "HN Score: 137 | 66 comments",
     "url": "https://arxiv.org/abs/2605.06445",
-    "score": 104,
+    "score": 137,
     "date": "2026-05-24",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Claude Is Not Your Architect. Stop Letting It Pretend",
+    "title": "Claude is not your architect. Stop letting it pretend",
     "source": "Hacker News",
-    "description": "HN Score: 30 | 13 comments",
+    "description": "HN Score: 168 | 112 comments",
     "url": "https://www.hollandtech.net/claude-is-not-your-architect/",
-    "score": 30,
+    "score": 168,
     "date": "2026-05-24",
     "category": "AI News"
   },
@@ -72,6 +72,23 @@
     "source": "@DrJimFan",
     "description": "",
     "url": "https://nitter.net/CyberRobooo/status/2053149920740450732#m",
+    "date": "2026-05-24",
+    "category": "Twitter"
+  },
+  {
+    "title": "Don't know where your data is from? Bayesian modeling for unknown coordinates",
+    "source": "Hacker News",
+    "description": "HN Score: 17 | 0 comments",
+    "url": "https://christopherkrapu.com/blog/2026/dont-know-where-your-data-is-from/",
+    "score": 17,
+    "date": "2026-05-24",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @DrJimFan: Jim is always a crowd favorite at AI Ascent. His ability to simplify the latest research into a clear 'what and why it matters' while",
+    "source": "@DrJimFan",
+    "description": "",
+    "url": "https://nitter.net/Alfred_Lin/status/2052847050379936113#m",
     "date": "2026-05-24",
     "category": "Twitter"
   },
@@ -85,23 +102,6 @@
     "category": "AI News"
   },
   {
-    "title": "RT by @DrJimFan: Jim is always a crowd favorite at AI Ascent. His ability to simplify the latest research into a clear 'what and why it matters' while",
-    "source": "@DrJimFan",
-    "description": "",
-    "url": "https://nitter.net/Alfred_Lin/status/2052847050379936113#m",
-    "date": "2026-05-24",
-    "category": "Twitter"
-  },
-  {
-    "title": "'AI washing': firms are scrambling to rebrand themselves as tech-focused",
-    "source": "Hacker News",
-    "description": "HN Score: 122 | 94 comments",
-    "url": "https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand",
-    "score": 122,
-    "date": "2026-05-24",
-    "category": "AI News"
-  },
-  {
     "title": "I can run Claude Code with open weight models: $ ollama launch claude --model gemma4:26b But this no longer lets me use Anthropic models. Is there a w",
     "source": "@svpino",
     "description": "",
@@ -110,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Don't know where your data is from? Bayesian modeling for unknown coordinates",
+    "title": "DeepSeek to Make Permanent 75% Discount on Flagship AI Model",
     "source": "Hacker News",
-    "description": "HN Score: 4 | 0 comments",
-    "url": "https://christopherkrapu.com/blog/2026/dont-know-where-your-data-is-from/",
-    "score": 4,
+    "description": "HN Score: 166 | 2 comments",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model",
+    "score": 166,
     "date": "2026-05-24",
     "category": "AI News"
   },
@@ -127,11 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "DeepSeek to Make Permanent 75% Discount on Flagship AI Model",
+    "title": "'AI washing': firms are scrambling to rebrand themselves as tech-focused",
     "source": "Hacker News",
-    "description": "HN Score: 130 | 130 comments",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model",
-    "score": 130,
+    "description": "HN Score: 139 | 124 comments",
+    "url": "https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand",
+    "score": 139,
     "date": "2026-05-24",
     "category": "AI News"
   },
@@ -142,15 +142,6 @@
     "url": "https://nitter.net/bindureddy/status/2058595484869034260#m",
     "date": "2026-05-24",
     "category": "Twitter"
-  },
-  {
-    "title": "FreeBSD Foundation Executive Director Tries Daily Driving FreeBSD on Laptop",
-    "source": "Hacker News",
-    "description": "HN Score: 61 | 50 comments",
-    "url": "https://www.phoronix.com/news/FreeBSD-On-Laptop-Driver",
-    "score": 61,
-    "date": "2026-05-24",
-    "category": "AI News"
   },
   {
     "title": "Google can still come back with 3.5 Pro, if they don\u2019t increase prices A cheaper Opus class model will make a significant dent",
