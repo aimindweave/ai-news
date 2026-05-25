@@ -10,9 +10,9 @@
   {
     "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
     "source": "Hacker News",
-    "description": "HN Score: 483 | 205 comments",
+    "description": "HN Score: 569 | 233 comments",
     "url": "https://esengine.github.io/DeepSeek-Reasonix/",
-    "score": 483,
+    "score": 569,
     "date": "2026-05-25",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Memory has grown to nearly two-thirds of AI chip component costs",
+    "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
     "source": "Hacker News",
-    "description": "HN Score: 333 | 357 comments",
-    "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
-    "score": 333,
+    "description": "HN Score: 242 | 136 comments",
+    "url": "https://arxiv.org/abs/2605.06445",
+    "score": 242,
     "date": "2026-05-25",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
+    "title": "Notes about reading messages with the Python email packages",
     "source": "Hacker News",
-    "description": "HN Score: 195 | 103 comments",
-    "url": "https://arxiv.org/abs/2605.06445",
-    "score": 195,
+    "description": "HN Score: 6 | 0 comments",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/python/EmailPackagesNotes",
+    "score": 6,
     "date": "2026-05-25",
     "category": "AI News"
   },
@@ -55,6 +55,23 @@
     "source": "@EMostaque",
     "description": "",
     "url": "https://nitter.net/Wario64/status/2058594015197745464#m",
+    "date": "2026-05-25",
+    "category": "Twitter"
+  },
+  {
+    "title": "Memory has grown to nearly two-thirds of AI chip component costs",
+    "source": "Hacker News",
+    "description": "HN Score: 387 | 402 comments",
+    "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
+    "score": 387,
+    "date": "2026-05-25",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @DrJimFan: Mark: 1/ First milestone: the Physical Turing Test. You literally can\u2019t tell if a human or robot is doing the task. 2/ Next: Physical",
+    "source": "@DrJimFan",
+    "description": "",
+    "url": "https://nitter.net/CyberRobooo/status/2053149920740450732#m",
     "date": "2026-05-25",
     "category": "Twitter"
   },
@@ -68,29 +85,21 @@
     "category": "AI News"
   },
   {
-    "title": "RT by @DrJimFan: Mark: 1/ First milestone: the Physical Turing Test. You literally can\u2019t tell if a human or robot is doing the task. 2/ Next: Physical",
-    "source": "@DrJimFan",
-    "description": "",
-    "url": "https://nitter.net/CyberRobooo/status/2053149920740450732#m",
-    "date": "2026-05-25",
-    "category": "Twitter"
-  },
-  {
-    "title": "Don't know where your data is from? Bayesian modeling for unknown coordinates",
-    "source": "Hacker News",
-    "description": "HN Score: 33 | 1 comments",
-    "url": "https://christopherkrapu.com/blog/2026/dont-know-where-your-data-is-from/",
-    "score": 33,
-    "date": "2026-05-25",
-    "category": "AI News"
-  },
-  {
     "title": "RT by @DrJimFan: Jim is always a crowd favorite at AI Ascent. His ability to simplify the latest research into a clear 'what and why it matters' while",
     "source": "@DrJimFan",
     "description": "",
     "url": "https://nitter.net/Alfred_Lin/status/2052847050379936113#m",
     "date": "2026-05-25",
     "category": "Twitter"
+  },
+  {
+    "title": "Don't know where your data is from? Bayesian modeling for unknown coordinates",
+    "source": "Hacker News",
+    "description": "HN Score: 44 | 1 comments",
+    "url": "https://christopherkrapu.com/blog/2026/dont-know-where-your-data-is-from/",
+    "score": 44,
+    "date": "2026-05-25",
+    "category": "AI News"
   },
   {
     "title": "RT by @svpino: I can run Claude Code with open weight models: $ ollama launch claude --model gemma4:26b But this no longer lets me use Anthropic model",
@@ -109,18 +118,18 @@
     "category": "Twitter"
   },
   {
-    "title": "\ud83d\udea8 AGENT SWARMS - BUILD COMPLEX APPS AND AUTOMATIONS WITH ONE PROMPT Combine Gemini 3.1 Pro, Opus 4.7 and GPT 5.5 to create complex multi-agent systems",
+    "title": "TBH, Flash 3.5 is a fantastic chat model It\u2019s very quick, pretty smart and a total joy to interact with Have been chatting with it all day",
     "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/bindureddy/status/2058674321179222437#m",
+    "url": "https://nitter.net/bindureddy/status/2058769498170179942#m",
     "date": "2026-05-25",
     "category": "Twitter"
   },
   {
-    "title": "June is going to be an insane month - Gemini 3.5 Pro - GPT 5.6 and 5.6 Pro - Sonnet 4.7 - Mythos (maybe?) - Kimi or GLM next versions My current bet i",
+    "title": "\ud83d\udea8 AGENT SWARMS - BUILD COMPLEX APPS AND AUTOMATIONS WITH ONE PROMPT Combine Gemini 3.1 Pro, Opus 4.7 and GPT 5.5 to create complex multi-agent systems",
     "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/bindureddy/status/2058595484869034260#m",
+    "url": "https://nitter.net/bindureddy/status/2058674321179222437#m",
     "date": "2026-05-25",
     "category": "Twitter"
   }
