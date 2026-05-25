@@ -10,9 +10,9 @@
   {
     "title": "Norway's 2 petabytes of Huawei flash storage and LLM training",
     "source": "Hacker News",
-    "description": "HN Score: 39 | 29 comments",
+    "description": "HN Score: 111 | 55 comments",
     "url": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910",
-    "score": 39,
+    "score": 111,
     "date": "2026-05-25",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Everyone Against Us (2023)",
+    "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
     "source": "Hacker News",
-    "description": "HN Score: 24 | 3 comments",
-    "url": "https://www.chicagomag.com/chicago-magazine/april-2023/everyone-against-us/",
-    "score": 24,
+    "description": "HN Score: 1 | 0 comments",
+    "url": "https://jobs.ashbyhq.com/workweave",
+    "score": 1,
     "date": "2026-05-25",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+    "title": "Everyone Against Us (2023)",
     "source": "Hacker News",
-    "description": "HN Score: 1 | 0 comments",
-    "url": "https://jobs.ashbyhq.com/workweave",
-    "score": 1,
+    "description": "HN Score: 47 | 4 comments",
+    "url": "https://www.chicagomag.com/chicago-magazine/april-2023/everyone-against-us/",
+    "score": 47,
     "date": "2026-05-25",
     "category": "AI News"
   },
@@ -61,9 +61,9 @@
   {
     "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
     "source": "Hacker News",
-    "description": "HN Score: 227 | 60 comments",
+    "description": "HN Score: 251 | 68 comments",
     "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
-    "score": 227,
+    "score": 251,
     "date": "2026-05-25",
     "category": "AI News"
   },
@@ -78,26 +78,9 @@
   {
     "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
     "source": "Hacker News",
-    "description": "HN Score: 688 | 269 comments",
+    "description": "HN Score: 702 | 271 comments",
     "url": "https://esengine.github.io/DeepSeek-Reasonix/",
-    "score": 688,
-    "date": "2026-05-25",
-    "category": "AI News"
-  },
-  {
-    "title": "R to @svpino: By the way, the Oracle team is pushing a lot of free content to FreeSQL website: https://fandf.co/4v58M1G They are also publishing a ton",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2058971669948223741#m",
-    "date": "2026-05-25",
-    "category": "Twitter"
-  },
-  {
-    "title": "The physicists who convinced Fermilab to send Brazil's emails",
-    "source": "Hacker News",
-    "description": "HN Score: 44 | 17 comments",
-    "url": "https://buttondown.com/blog/brazil-fermilab-email",
-    "score": 44,
+    "score": 702,
     "date": "2026-05-25",
     "category": "AI News"
   },
@@ -112,17 +95,34 @@
   {
     "title": "AI errno(2) values",
     "source": "Hacker News",
-    "description": "HN Score: 107 | 18 comments",
+    "description": "HN Score: 115 | 18 comments",
     "url": "https://www.netmeister.org/blog/ai-errno.html",
-    "score": 107,
+    "score": 115,
     "date": "2026-05-25",
     "category": "AI News"
   },
   {
-    "title": "TBH, Flash 3.5 is a fantastic chat model It\u2019s very quick, pretty smart and a total joy to interact with Have been chatting with it all day",
+    "title": "R to @svpino: By the way, the Oracle team is pushing a lot of free content to FreeSQL website: https://fandf.co/4v58M1G They are also publishing a ton",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2058971669948223741#m",
+    "date": "2026-05-25",
+    "category": "Twitter"
+  },
+  {
+    "title": "The physicists who convinced Fermilab to send Brazil's emails",
+    "source": "Hacker News",
+    "description": "HN Score: 47 | 17 comments",
+    "url": "https://buttondown.com/blog/brazil-fermilab-email",
+    "score": 47,
+    "date": "2026-05-25",
+    "category": "AI News"
+  },
+  {
+    "title": "\ud83d\udea8 Production usage of open-source models has grown dramatically this year Best Open Source Model For The Use Case: Agentic coding (parallel) - Kimi K2",
     "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/bindureddy/status/2058769498170179942#m",
+    "url": "https://nitter.net/bindureddy/status/2059039683355492425#m",
     "date": "2026-05-25",
     "category": "Twitter"
   },
@@ -136,29 +136,11 @@
     "category": "AI News"
   },
   {
-    "title": "\ud83d\udea8 AGENT SWARMS - BUILD COMPLEX APPS AND AUTOMATIONS WITH ONE PROMPT Combine Gemini 3.1 Pro, Opus 4.7 and GPT 5.5 to create complex multi-agent systems",
+    "title": "TBH, Flash 3.5 is a fantastic chat model It\u2019s very quick, pretty smart and a total joy to interact with Have been chatting with it all day",
     "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/bindureddy/status/2058674321179222437#m",
+    "url": "https://nitter.net/bindureddy/status/2058769498170179942#m",
     "date": "2026-05-25",
     "category": "Twitter"
-  },
-  {
-    "title": "Memory has grown to nearly two-thirds of AI chip component costs",
-    "source": "Hacker News",
-    "description": "HN Score: 426 | 467 comments",
-    "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
-    "score": 426,
-    "date": "2026-05-25",
-    "category": "AI News"
-  },
-  {
-    "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
-    "source": "Hacker News",
-    "description": "HN Score: 277 | 176 comments",
-    "url": "https://arxiv.org/abs/2605.06445",
-    "score": 277,
-    "date": "2026-05-25",
-    "category": "AI News"
   }
 ]
