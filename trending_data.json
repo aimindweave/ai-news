@@ -10,9 +10,9 @@
   {
     "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
     "source": "Hacker News",
-    "description": "HN Score: 406 | 197 comments",
+    "description": "HN Score: 645 | 309 comments",
     "url": "https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/",
-    "score": 406,
+    "score": 645,
     "date": "2026-05-26",
     "category": "AI News"
   },
@@ -25,28 +25,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Using AI to write better code more slowly",
+    "title": "Outsourcing plus local AI will soon become more economical vs. frontier labs",
     "source": "Hacker News",
-    "description": "HN Score: 1051 | 393 comments",
-    "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
-    "score": 1051,
+    "description": "HN Score: 208 | 230 comments",
+    "url": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/",
+    "score": 208,
     "date": "2026-05-26",
     "category": "AI News"
   },
   {
-    "title": "I think folk are underestimating how much of AI models are actually engineering at scale versus breakthrough research. See how @cursor_ai caught up to",
+    "title": "RT by @EMostaque: In our new paper, EDGE-OPD (EviDence GuidEd On-Policy Distillation), we introduce two key ideas for improving On-Policy Distillation",
     "source": "@EMostaque",
     "description": "",
-    "url": "https://nitter.net/EMostaque/status/2059278758649967099#m",
+    "url": "https://nitter.net/EdgeRunnerAI/status/2059355397291675773#m",
     "date": "2026-05-26",
     "category": "Twitter"
   },
   {
-    "title": "Language Models Need Sleep",
+    "title": "Use boring languages with LLMs",
     "source": "Hacker News",
-    "description": "HN Score: 120 | 89 comments",
-    "url": "https://arxiv.org/abs/2605.26099",
-    "score": 120,
+    "description": "HN Score: 131 | 105 comments",
+    "url": "https://jry.io/writing/use-boring-languages-with-llms/",
+    "score": 131,
     "date": "2026-05-26",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Outsourcing plus local AI will soon become more economical vs. frontier labs",
+    "title": "A sleep-like consolidation mechanism for LLMs",
     "source": "Hacker News",
-    "description": "HN Score: 145 | 157 comments",
-    "url": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/",
-    "score": 145,
+    "description": "HN Score: 164 | 122 comments",
+    "url": "https://arxiv.org/abs/2605.26099",
+    "score": 164,
     "date": "2026-05-26",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Use boring languages with LLMs",
+    "title": "Using AI to write better code more slowly",
     "source": "Hacker News",
-    "description": "HN Score: 78 | 66 comments",
-    "url": "https://jry.io/writing/use-boring-languages-with-llms/",
-    "score": 78,
+    "description": "HN Score: 1121 | 413 comments",
+    "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+    "score": 1121,
     "date": "2026-05-26",
     "category": "AI News"
   },
@@ -93,45 +93,62 @@
     "category": "Twitter"
   },
   {
-    "title": "Stack Overflow's forum is dead thanks to AI",
+    "title": "DeepSWE: A contamination-free benchmark for long-horizon coding agents",
     "source": "Hacker News",
-    "description": "HN Score: 4 | 2 comments",
-    "url": "https://wiert.me/2026/05/26/stack-overflows-forum-is-dead-thanks-to-ai-but-the-companys-still-kicking-thanks-to-ai-sherwood-news/",
-    "score": 4,
+    "description": "HN Score: 11 | 3 comments",
+    "url": "https://deepswe.datacurve.ai/blog",
+    "score": 11,
     "date": "2026-05-26",
     "category": "AI News"
   },
   {
-    "title": "How to match the complexity of the problem you want to solve with the proper model. You want an inference router. In the video, I show you how simple ",
+    "title": "R to @svpino: Here's how it actually works: @Spokiapp has a prompt bar on the dashboard. You type what you want, and the AI runs the marketing for you",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2059291117162774584#m",
+    "url": "https://nitter.net/svpino/status/2059351515140325640#m",
+    "date": "2026-05-26",
+    "category": "Twitter"
+  },
+  {
+    "title": "AltTab.app makes free features paid, drops old releases",
+    "source": "Hacker News",
+    "description": "HN Score: 12 | 6 comments",
+    "url": "https://github.com/lwouis/alt-tab-macos/discussions/5533",
+    "score": 12,
+    "date": "2026-05-26",
+    "category": "AI News"
+  },
+  {
+    "title": "Agents changed software forever. For everyone. You won't need to 'learn a tool' anymore. Instead, you'll tell tools what you want, and they will figur",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2059351503094391068#m",
     "date": "2026-05-26",
     "category": "Twitter"
   },
   {
     "title": "Eagle 3.1: Collaboration Between the EAGLE Team, vLLM Team, and TorchSpec Team",
     "source": "Hacker News",
-    "description": "HN Score: 60 | 20 comments",
+    "description": "HN Score: 63 | 21 comments",
     "url": "https://vllm.ai/blog/2026-05-26-eagle-3-1",
-    "score": 60,
+    "score": 63,
     "date": "2026-05-26",
     "category": "AI News"
   },
   {
-    "title": "R to @svpino: Here is a link to know more about @digitalocean's Inference Router: https://docs.digitalocean.com/products/inference/how-to/use-inferenc",
-    "source": "@svpino",
+    "title": "Gemini Flash is way better at instruction following and chat than any OpenAI or Anthropic model Moved a lot of chat requests to Flash 3.5 It\u2019s working",
+    "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2059291129871479051#m",
+    "url": "https://nitter.net/bindureddy/status/2059378788471894515#m",
     "date": "2026-05-26",
     "category": "Twitter"
   },
   {
-    "title": "A successful Japanese trial of a ramjet engine designed for Mach\u20115 aircraft",
+    "title": "Uber president says AI spending is getting 'harder to justify'",
     "source": "Hacker News",
-    "description": "HN Score: 221 | 166 comments",
-    "url": "https://www.bgr.com/2178211/japan-hypersonic-engine-ramjet-2-hour-flights-to-us/",
-    "score": 221,
+    "description": "HN Score: 243 | 128 comments",
+    "url": "https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify",
+    "score": 243,
     "date": "2026-05-26",
     "category": "AI News"
   },
@@ -144,28 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Uber president says AI spending is getting 'harder to justify'",
+    "title": "Bay Area mom out thousands after scammers use AI to mimic daughter's voice",
     "source": "Hacker News",
-    "description": "HN Score: 216 | 110 comments",
-    "url": "https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify",
-    "score": 216,
-    "date": "2026-05-26",
-    "category": "AI News"
-  },
-  {
-    "title": "OpenAI can hit the ball out of the park\u2026. By simply pricing 5.6 at half the price of 5.5 Imagine the number of serious developers who would move to th",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2059102370198376608#m",
-    "date": "2026-05-26",
-    "category": "Twitter"
-  },
-  {
-    "title": "Norway's 2 petabytes of Huawei flash storage and LLM training",
-    "source": "Hacker News",
-    "description": "HN Score: 317 | 199 comments",
-    "url": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910",
-    "score": 317,
+    "description": "HN Score: 8 | 0 comments",
+    "url": "https://abc7news.com/post/bay-area-mom-thousands-scammers-use-ai-mimic-daughters-voice-fake-kidnapping-part-growing-trend/19154381/",
+    "score": 8,
     "date": "2026-05-26",
     "category": "AI News"
   }

@@ -1,5 +1,12 @@
 [
   {
+    "title": "OpenRouter more than doubles valuation to $1.3B in a year",
+    "source": "TechCrunch",
+    "summary": "OpenRouter has raised a $113 million Series B led by CapitalG. Its 5x growth in usage over six months indicates the multi-AI-model future is here.",
+    "url": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
+    "date": "2026-05-26"
+  },
+  {
     "title": "This startup is betting India\u2019s gig economy can train the world\u2019s robots",
     "source": "TechCrunch",
     "summary": "Human Archive, a startup founded by UC Berkeley and Stanford researchers, is paying gig workers in India to wear camera-equipped caps and sensor devices to collect the real-world physical training data that AI and robotics labs are racing to acquire.",
@@ -98,13 +105,6 @@
     "date": "2026-05-26"
   },
   {
-    "title": "Elon Musk can\u2019t hear you over the sound of his $1.75 trillion IPO",
-    "source": "TechCrunch",
-    "summary": "The SpaceX S-1 is finally here, and the story it tells goes way further than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a $28 trillion total addressable market, a pay package tied to establishing a Mars colony, and a valuation target tha...",
-    "url": "https://techcrunch.com/podcast/elon-musk-cant-hear-you-over-the-sound-of-his-1-75-trillion-ipo/",
-    "date": "2026-05-26"
-  },
-  {
     "title": "Rethinking organizational design in the age of agentic AI",
     "source": "MIT Tech Review",
     "summary": "Amid rapidly growing adoption of enterprise-level AI agents, there\u2019s a disconnect emerging between ambition and execution. Although 85% of organizations say they want to be agentic within the next three years, 76% say their current operations and infrastructure can\u2019t support that change. They cit...",
@@ -175,6 +175,27 @@
     "date": "2026-05-26"
   },
   {
+    "title": "Why the Vatican Invited Anthropic to the Pope\u2019s AI Encyclical Presentation",
+    "source": "Wired",
+    "summary": "Pope Leo\u2019s first encyclical marks an unprecedented alliance between the Church and Silicon Valley.",
+    "url": "https://www.wired.com/story/anthropic-christopher-olah-pope-ai-encyclical/",
+    "date": "2026-05-26"
+  },
+  {
+    "title": "What Pope Leo XIV\u2019s First Encyclical Says About the Power of AI",
+    "source": "Wired",
+    "summary": "In Magnifica Humanitas, the Pope decries the concentration of technological power in a few global players.",
+    "url": "https://www.wired.com/story/what-pope-leo-xivs-first-encyclical-says-about-the-power-of-ai/",
+    "date": "2026-05-26"
+  },
+  {
+    "title": "AI Agents Plunged the Tech World Into Chaos. Here\u2019s Exactly How That Happened",
+    "source": "Wired",
+    "summary": "The definitive story of how Claude Code and OpenClaw kicked off computing\u2019s biggest transformation possibly ever.",
+    "url": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/",
+    "date": "2026-05-26"
+  },
+  {
     "title": "Quiz: Will AI Destroy Your Career?",
     "source": "Wired",
     "summary": "Some jobs may be toast. Some will survive. Click your answers to learn your fate.",
@@ -196,20 +217,6 @@
     "date": "2026-05-26"
   },
   {
-    "title": "AI Agents Plunged the Tech World Into Chaos. Here\u2019s Exactly How That Happened",
-    "source": "Wired",
-    "summary": "The definitive story of how Claude Code and OpenClaw kicked off computing\u2019s biggest transformation possibly ever.",
-    "url": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/",
-    "date": "2026-05-26"
-  },
-  {
-    "title": "I\u2019m a Professional Fact-Checker. AI Is Wrong More Often Than You Think",
-    "source": "Wired",
-    "summary": "Can AI do fact-checking? A WIRED fact-checker fact-checks.",
-    "url": "https://www.wired.com/story/fact-checking-ai/",
-    "date": "2026-05-26"
-  },
-  {
     "title": "To Land a Job in AI, Try Reading Kant",
     "source": "Wired",
     "summary": "The world\u2019s leading AI labs are hiring philosophers to think through ethical edge cases and grand questions of mind and morality. Are they another instrument of hype?",
@@ -224,6 +231,13 @@
     "date": "2026-05-26"
   },
   {
+    "title": "I\u2019m a Professional Fact-Checker. AI Is Wrong More Often Than You Think",
+    "source": "Wired",
+    "summary": "Can AI do fact-checking? A WIRED fact-checker fact-checks.",
+    "url": "https://www.wired.com/story/fact-checking-ai/",
+    "date": "2026-05-26"
+  },
+  {
     "title": "7 Ways to Get So Good at AI, People Will Think You Are AI",
     "source": "Wired",
     "summary": "From killing your chatbots to optimizing your prompts, here are the best ways to go full AI native and conquer the new world.",
@@ -231,17 +245,10 @@
     "date": "2026-05-26"
   },
   {
-    "title": "US Law Enforcement Warns of \u2018Anti-Tech Extremism\u2019 as AI Hatred Grows",
-    "source": "Wired",
-    "summary": "As Americans stew over the looming risk of job-stealing AI and data centers in their back yards, the feds are raising the alarm about a new category of threat, documents obtained by WIRED show.",
-    "url": "https://www.wired.com/story/us-law-enforcement-warns-of-anti-tech-extremism/",
-    "date": "2026-05-26"
-  },
-  {
-    "title": "The AI Era Is Creating a Bug-Hunting Arms Race",
-    "source": "Wired",
-    "summary": "As attackers ramp up their AI exploit development, the search for software vulnerabilities is changing rapidly.",
-    "url": "https://www.wired.com/story/the-ai-era-is-creating-a-bug-hunting-arms-race/",
+    "title": "Millions of AI agents imperiled by critical vulnerability in open source package",
+    "source": "Ars Technica",
+    "summary": "'BadHost' was found in Starlette, a package with 325 million weekly downloads.",
+    "url": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
     "date": "2026-05-26"
   },
   {
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "Musk plans to appeal after judge immediately affirmed the jury's decision.",
     "url": "https://arstechnica.com/tech-policy/2026/05/elon-musk-loses-trial-accusing-sam-altman-openai-of-stealing-a-charity/",
-    "date": "2026-05-26"
-  },
-  {
-    "title": "Bug bounty businesses bombarded with AI slop",
-    "source": "Ars Technica",
-    "summary": "'Never-ending' AI slop strains corporate hacking reward schemes.",
-    "url": "https://arstechnica.com/ai/2026/05/bug-bounty-businesses-bombarded-with-ai-slop/",
     "date": "2026-05-26"
   }
 ]
