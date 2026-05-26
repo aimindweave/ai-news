@@ -10,9 +10,9 @@
   {
     "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
     "source": "Hacker News",
-    "description": "HN Score: 645 | 309 comments",
+    "description": "HN Score: 695 | 330 comments",
     "url": "https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/",
-    "score": 645,
+    "score": 695,
     "date": "2026-05-26",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "Outsourcing plus local AI will soon become more economical vs. frontier labs",
     "source": "Hacker News",
-    "description": "HN Score: 208 | 230 comments",
+    "description": "HN Score: 225 | 246 comments",
     "url": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/",
-    "score": 208,
+    "score": 225,
     "date": "2026-05-26",
     "category": "AI News"
   },
@@ -44,9 +44,9 @@
   {
     "title": "Use boring languages with LLMs",
     "source": "Hacker News",
-    "description": "HN Score: 131 | 105 comments",
+    "description": "HN Score: 148 | 116 comments",
     "url": "https://jry.io/writing/use-boring-languages-with-llms/",
-    "score": 131,
+    "score": 148,
     "date": "2026-05-26",
     "category": "AI News"
   },
@@ -61,9 +61,9 @@
   {
     "title": "A sleep-like consolidation mechanism for LLMs",
     "source": "Hacker News",
-    "description": "HN Score: 164 | 122 comments",
+    "description": "HN Score: 176 | 124 comments",
     "url": "https://arxiv.org/abs/2605.26099",
-    "score": 164,
+    "score": 176,
     "date": "2026-05-26",
     "category": "AI News"
   },
@@ -78,9 +78,9 @@
   {
     "title": "Using AI to write better code more slowly",
     "source": "Hacker News",
-    "description": "HN Score: 1121 | 413 comments",
+    "description": "HN Score: 1129 | 416 comments",
     "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
-    "score": 1121,
+    "score": 1129,
     "date": "2026-05-26",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "DeepSWE: A contamination-free benchmark for long-horizon coding agents",
+    "title": "Bay Area mom out thousands after scammers use AI to mimic daughter's voice",
     "source": "Hacker News",
-    "description": "HN Score: 11 | 3 comments",
-    "url": "https://deepswe.datacurve.ai/blog",
-    "score": 11,
+    "description": "HN Score: 17 | 2 comments",
+    "url": "https://abc7news.com/post/bay-area-mom-thousands-scammers-use-ai-mimic-daughters-voice-fake-kidnapping-part-growing-trend/19154381/",
+    "score": 17,
     "date": "2026-05-26",
     "category": "AI News"
   },
@@ -112,9 +112,9 @@
   {
     "title": "AltTab.app makes free features paid, drops old releases",
     "source": "Hacker News",
-    "description": "HN Score: 12 | 6 comments",
+    "description": "HN Score: 16 | 9 comments",
     "url": "https://github.com/lwouis/alt-tab-macos/discussions/5533",
-    "score": 12,
+    "score": 16,
     "date": "2026-05-26",
     "category": "AI News"
   },
@@ -123,6 +123,23 @@
     "source": "@svpino",
     "description": "",
     "url": "https://nitter.net/svpino/status/2059351503094391068#m",
+    "date": "2026-05-26",
+    "category": "Twitter"
+  },
+  {
+    "title": "Uber president says AI spending is getting 'harder to justify'",
+    "source": "Hacker News",
+    "description": "HN Score: 252 | 132 comments",
+    "url": "https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify",
+    "score": 252,
+    "date": "2026-05-26",
+    "category": "AI News"
+  },
+  {
+    "title": "Gemini Flash is way better at instruction following and chat than any OpenAI or Anthropic model Moved a lot of chat requests to Flash 3.5 It\u2019s working",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2059378788471894515#m",
     "date": "2026-05-26",
     "category": "Twitter"
   },
@@ -136,23 +153,6 @@
     "category": "AI News"
   },
   {
-    "title": "Gemini Flash is way better at instruction following and chat than any OpenAI or Anthropic model Moved a lot of chat requests to Flash 3.5 It\u2019s working",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2059378788471894515#m",
-    "date": "2026-05-26",
-    "category": "Twitter"
-  },
-  {
-    "title": "Uber president says AI spending is getting 'harder to justify'",
-    "source": "Hacker News",
-    "description": "HN Score: 243 | 128 comments",
-    "url": "https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify",
-    "score": 243,
-    "date": "2026-05-26",
-    "category": "AI News"
-  },
-  {
     "title": "\ud83d\udea8 Agent Swarms - The Best Way To Turn Your AI Side-Hustle Into A $1B Business - use frontier LLMS to run multi-agent systems - combine Opus 4.7, GPT 5",
     "source": "@bindureddy",
     "description": "",
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Bay Area mom out thousands after scammers use AI to mimic daughter's voice",
+    "title": "DeepSWE: A contamination-free benchmark for long-horizon coding agents",
     "source": "Hacker News",
-    "description": "HN Score: 8 | 0 comments",
-    "url": "https://abc7news.com/post/bay-area-mom-thousands-scammers-use-ai-mimic-daughters-voice-fake-kidnapping-part-growing-trend/19154381/",
-    "score": 8,
+    "description": "HN Score: 17 | 4 comments",
+    "url": "https://deepswe.datacurve.ai/blog",
+    "score": 17,
     "date": "2026-05-26",
     "category": "AI News"
   }
