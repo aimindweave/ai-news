@@ -1,8 +1,15 @@
 [
   {
+    "title": "This startup is betting India\u2019s gig economy can train the world\u2019s robots",
+    "source": "TechCrunch",
+    "summary": "Human Archive, a startup founded by UC Berkeley and Stanford researchers, is paying gig workers in India to wear camera-equipped caps and sensor devices to collect the real-world physical training data that AI and robotics labs are racing to acquire.",
+    "url": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/",
+    "date": "2026-05-26"
+  },
+  {
     "title": "Universal Music Group and TikTok renew agreement to combat unauthorized AI music",
     "source": "TechCrunch",
-    "summary": "For years, UMG has pushed platforms, streaming services, and AI companies to implement stricter content moderation policies",
+    "summary": "For years, UMG has pushed platforms, streaming services, and AI companies to implement stricter content moderation policies.",
     "url": "https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/",
     "date": "2026-05-26"
   },
@@ -95,13 +102,6 @@
     "source": "TechCrunch",
     "summary": "The SpaceX S-1 is finally here, and the story it tells goes way further than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a $28 trillion total addressable market, a pay package tied to establishing a Mars colony, and a valuation target tha...",
     "url": "https://techcrunch.com/podcast/elon-musk-cant-hear-you-over-the-sound-of-his-1-75-trillion-ipo/",
-    "date": "2026-05-26"
-  },
-  {
-    "title": "You can no longer Google the word \u2018disregard\u2019",
-    "source": "TechCrunch",
-    "summary": "After Google Search's AI update, the word 'disregard' now effectively breaks the search interface.",
-    "url": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
     "date": "2026-05-26"
   },
   {
@@ -238,10 +238,24 @@
     "date": "2026-05-26"
   },
   {
-    "title": "The AI Era Is Creating a Bug Hunting Arms Race",
+    "title": "The AI Era Is Creating a Bug-Hunting Arms Race",
     "source": "Wired",
     "summary": "As attackers ramp up their AI exploit development, the search for software vulnerabilities is changing rapidly.",
     "url": "https://www.wired.com/story/the-ai-era-is-creating-a-bug-hunting-arms-race/",
+    "date": "2026-05-26"
+  },
+  {
+    "title": "FBI agent explains how easy it is to ID people posting AI porn without consent",
+    "source": "Ars Technica",
+    "summary": "A creepy saved post on Instagram linked man to AI porn account, FBI says.",
+    "url": "https://arstechnica.com/tech-policy/2026/05/fbi-easily-nabs-man-selling-sexy-deepfakes-who-used-his-own-photo-in-profile/",
+    "date": "2026-05-26"
+  },
+  {
+    "title": "3D-printable humanoid legs let robotics experiments run wild",
+    "source": "Ars Technica",
+    "summary": "Hugging Face debuts $2,500 bipedal robot project for builders and researchers.",
+    "url": "https://arstechnica.com/ai/2026/05/3d-printable-humanoid-legs-let-robotics-experiments-run-wild/",
     "date": "2026-05-26"
   },
   {
@@ -333,20 +347,6 @@
     "source": "Ars Technica",
     "summary": "'Never-ending' AI slop strains corporate hacking reward schemes.",
     "url": "https://arstechnica.com/ai/2026/05/bug-bounty-businesses-bombarded-with-ai-slop/",
-    "date": "2026-05-26"
-  },
-  {
-    "title": "The US is betting on AI to catch insider trading in prediction markets",
-    "source": "Ars Technica",
-    "summary": "The Commodity Futures Trading Commission wants us to know it's taking this very seriously.",
-    "url": "https://arstechnica.com/tech-policy/2026/05/the-us-is-betting-on-ai-to-catch-insider-trading-in-prediction-markets/",
-    "date": "2026-05-26"
-  },
-  {
-    "title": "Anthropic\u2019s $1.5B copyright settlement is getting messy as judge delays approval",
-    "source": "Ars Technica",
-    "summary": "Lawyers accused of rushing historic settlement to seize $320 million in fees.",
-    "url": "https://arstechnica.com/tech-policy/2026/05/authors-fight-for-higher-payouts-from-anthropics-1-5b-copyright-settlement/",
     "date": "2026-05-26"
   }
 ]

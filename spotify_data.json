@@ -94,6 +94,16 @@
   "episodes": [
     {
       "id": "a]6z Pod_0",
+      "name": "Robin Hanson on Prediction Markets, Gambling, and the Future of Forecasting",
+      "show": "a]6z Podcast",
+      "description": "Theo Jaffee and Sophia Puccini speak with economist Robin Hanson about prediction markets, gambling, and why he believes speculative markets are one of the most powerful tools humans have for aggre",
+      "release_date": "2026-05-26",
+      "duration_min": 27,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
+      "id": "a]6z Pod_1",
       "name": "Why AI Isn’t Killing SaaS Yet",
       "show": "a]6z Podcast",
       "description": "Originally aired on MTS segment, Monetary Matters, Jack Farley and Max Wiethe speak with Ara Kharazian, Lead Economist at Ramp, about what real business spending data says about AI adoption, why th",
@@ -113,7 +123,7 @@
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "Hugging Face's Clem Delangue on Open Source AI and the LLM Bubble | MTS Live",
       "show": "a]6z Podcast",
       "description": "Clem Delangue joins MTS to discuss the global open-source AI landscape, the current large language model bubble, and the future of consumer robotics.\nOriginally aired on MTS, Theo Jaffee and",
@@ -151,16 +161,6 @@
       "duration_min": 66,
       "image": "",
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
-    },
-    {
-      "id": "a]6z Pod_2",
-      "name": "How Superhuman Took Over Silicon Valley Email",
-      "show": "a]6z Podcast",
-      "description": "Rahul Vohra is the founder and CEO of Superhuman, the premium email client for power users. He previously built the Gmail plug-in Reportive and sold it to LinkedIn. He began somewhere unexpected th",
-      "release_date": "2026-05-21",
-      "duration_min": 55,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
       "id": "Hard For_1",
