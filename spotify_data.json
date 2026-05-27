@@ -93,6 +93,16 @@
   ],
   "episodes": [
     {
+      "id": "The AI P_0",
+      "name": "Everyone Can Build a Robot: Open Source Embodied AI With Seeed Studio | NVIDIA AI Podcast Ep. 300",
+      "show": "The AI Podcast (NVIDIA)",
+      "description": "Seeed Studio is a leader in open source robotics, delivering affordable NVIDIA Jetson‑powered arms that put embodied AI into the hands of millions of makers, students, and small businesses. In this ep",
+      "release_date": "2026-05-27",
+      "duration_min": 29,
+      "image": "",
+      "url": "https://open.spotify.com/show/0e1X4kJVfwQRPF8lZzqqfX"
+    },
+    {
       "id": "a]6z Pod_0",
       "name": "Marc Rowan on Private Markets, Software Repricing, and Capital Allocation",
       "show": "a]6z Podcast",
@@ -133,7 +143,7 @@
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
-      "id": "The AI P_0",
+      "id": "The AI P_1",
       "name": "Inside AI Tokenomics: How to Profitably Turn Tokens Into Business Value | NVIDIA AI Podcast Ep. 299",
       "show": "The AI Podcast (NVIDIA)",
       "description": "As AI factories scale and token costs become a defining competitive variable, the way businesses measure infrastructure ROI needs to change. In this episode, Shruti Koparkar from NVIDIA's Accelerated ",
@@ -183,7 +193,7 @@
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
-      "id": "The AI P_1",
+      "id": "The AI P_2",
       "name": "Snap’s Secret to Processing 10 Petabytes a Day: GPU-Accelerated Spark | NVIDIA AI Podcast Ep. 298",
       "show": "The AI Podcast (NVIDIA)",
       "description": "Snap processes more than 10 petabytes of experimentation data every single morning—and with NVIDIA GPU-accelerated Apache Spark on Google Cloud, Snap cut job costs by 76%, reduced memory usage by 80%,",
@@ -231,16 +241,6 @@
       "duration_min": 263,
       "image": "",
       "url": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"
-    },
-    {
-      "id": "The AI P_2",
-      "name": "Harrison Chase of LangChain on Deep Agents, LangSmith, and Earning Trust | NVIDIA AI Podcast Ep. 297",
-      "show": "The AI Podcast (NVIDIA)",
-      "description": "LangChain has surpassed 1 billion downloads—and the framework that started as a weekend project is now the harness powering the next generation of production-grade AI agents. In this episode, Harrison",
-      "release_date": "2026-05-06",
-      "duration_min": 24,
-      "image": "",
-      "url": "https://open.spotify.com/show/0e1X4kJVfwQRPF8lZzqqfX"
     },
     {
       "id": "The TWIM_2",
