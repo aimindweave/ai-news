@@ -1,5 +1,26 @@
 [
   {
+    "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
+    "source": "TechCrunch",
+    "summary": "Snowflake has signed a new, enormous five-year deal with Amazon to secure chips for AI usage. Nvidia is once again being put on notice.",
+    "url": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
+    "date": "2026-05-27"
+  },
+  {
+    "title": "Payroll startup Remote says it grew revenue 50% per employee without adding headcount",
+    "source": "TechCrunch",
+    "summary": "Payroll service provider Remote recently surpassed $300 million in annual recurring revenue (ARR) and became cash-flow positive, thanks to a 50% increase in revenue per employee resulting from AI adoption.",
+    "url": "https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/",
+    "date": "2026-05-27"
+  },
+  {
+    "title": "Your SEO strategy is optimized for a search engine that no longer exists.",
+    "source": "TechCrunch",
+    "summary": "Google I/O made it official: AI-generated answers are now front and center in search, and most brands have almost no visibility into how AI is describing them to their customers. For anyone who has spent years building a strategy around 10 blue links, the rules just changed in a pretty significan...",
+    "url": "https://techcrunch.com/podcast/your-seo-strategy-is-optimized-for-a-search-engine-that-no-longer-exists/",
+    "date": "2026-05-27"
+  },
+  {
     "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans",
     "source": "TechCrunch",
     "summary": "Meta is rolling out paid subscription plans for Instagram, Facebook, and WhatsApp worldwide, while also testing new AI, creator, and business-focused offerings under its broader \u201cMeta One\u201d subscription brand.",
@@ -37,7 +58,7 @@
   {
     "title": "SOND, a sleep tech startup from Bose\u2019s former head of sleep, exits stealth with $7M",
     "source": "TechCrunch",
-    "summary": "SOND, a startup led by Bose\u2019s former head of sleep products, emerged from stealth with $7M in funding for its AI-powered sleep earbuds.",
+    "summary": "SOND introduced its debut product: Dreambuds, a closed-loop, in-ear system that captures 12 physiological signals from the wearer, then acts on them in real time to help consumers get better sleep.",
     "url": "https://techcrunch.com/2026/05/27/sond-a-sleep-tech-startup-from-boses-former-head-of-sleep-exits-stealth-with-7m/",
     "date": "2026-05-27"
   },
@@ -49,10 +70,10 @@
     "date": "2026-05-27"
   },
   {
-    "title": "ClickHouse triples anualized revenue to $250M, charting a path toward an IPO",
+    "title": "ClickHouse triples annualized revenue to $250M, charting a path toward an IPO",
     "source": "TechCrunch",
     "summary": "The database provider is eyeing a public debut within the next few years.",
-    "url": "https://techcrunch.com/2026/05/27/clickhouse-triples-anualized-revenue-to-250m-charting-a-path-toward-an-ipo/",
+    "url": "https://techcrunch.com/2026/05/27/clickhouse-triples-annualized-revenue-to-250m-charting-a-path-toward-an-ipo/",
     "date": "2026-05-27"
   },
   {
@@ -65,7 +86,7 @@
   {
     "title": "Robinhood now lets your AI agents trade stocks",
     "source": "TechCrunch",
-    "summary": "Robinhood will let users create a separate account with pre-loaded balance that an agent use to trade",
+    "summary": "While these agents would be able to read and analyze users' portfolios to come up with trading strategies and suggest investments, they'll only be able to access the pre-loaded balance in the dedicated wallet to place orders.",
     "url": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
     "date": "2026-05-27"
   },
@@ -81,27 +102,6 @@
     "source": "TechCrunch",
     "summary": "Google overhauled Search at I/O 2026, replacing blue links with AI agents. The backlash has been swift. DuckDuckGo app installs spiked 30% as users seek a way out.",
     "url": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
-    "date": "2026-05-27"
-  },
-  {
-    "title": "OpenRouter more than doubles valuation to $1.3B in a year",
-    "source": "TechCrunch",
-    "summary": "OpenRouter has raised a $113 million Series B led by CapitalG. Its 5x growth in usage over six months indicates the multi-AI-model future is here.",
-    "url": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
-    "date": "2026-05-27"
-  },
-  {
-    "title": "This startup is betting India\u2019s gig economy can train the world\u2019s robots",
-    "source": "TechCrunch",
-    "summary": "Human Archive, a startup founded by UC Berkeley and Stanford researchers, is paying gig workers in India to wear camera-equipped caps and sensor devices to collect the real-world physical training data that AI and robotics labs are racing to acquire.",
-    "url": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/",
-    "date": "2026-05-27"
-  },
-  {
-    "title": "Universal Music Group and TikTok renew agreement to combat unauthorized AI music",
-    "source": "TechCrunch",
-    "summary": "For years, UMG has pushed platforms, streaming services, and AI companies to implement stricter content moderation policies.",
-    "url": "https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/",
     "date": "2026-05-27"
   },
   {
@@ -245,6 +245,13 @@
     "date": "2026-05-27"
   },
   {
+    "title": "Nvidia bets $150B on Taiwan as Trump's plan to make US an AI hub backfires",
+    "source": "Ars Technica",
+    "summary": "Nvidia will invest $150 billion a year to make Taiwan an AI \u201cepicenter.\u201d",
+    "url": "https://arstechnica.com/tech-policy/2026/05/nvidia-ceo-wants-taiwan-to-be-center-of-ai-revolution-not-us/",
+    "date": "2026-05-27"
+  },
+  {
     "title": "YouTube to begin automatically labeling AI videos",
     "source": "Ars Technica",
     "summary": "AI videos that are animated, unrealistic, or only have a little AI may still hide their origins, though.",
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "Google says its more efficient Gemini 3.5 Flash is the key to your agentic AI future.",
     "url": "https://arstechnica.com/google/2026/05/google-announces-agent-optimized-gemini-3-5-flash-and-a-do-anything-model-called-omni/",
-    "date": "2026-05-27"
-  },
-  {
-    "title": "Electrical utility megamerger is all about the data centers",
-    "source": "Ars Technica",
-    "summary": "NextEra\u2019s blockbuster deal with Dominion likely means higher bills for consumers.",
-    "url": "https://arstechnica.com/tech-policy/2026/05/electrical-utility-megamerger-is-all-about-the-data-centers/",
     "date": "2026-05-27"
   }
 ]
