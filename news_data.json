@@ -1,8 +1,15 @@
 [
   {
-    "title": "Asana acquires no-code agent-builder Stack AI",
+    "title": "The internet is being rebuilt for machines",
     "source": "TechCrunch",
-    "summary": "Asana will incorporate Stack AI into its growing suite of AI workflow tools.",
+    "summary": "As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by machine-generated internet traffic instead of human users.",
+    "url": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
+    "date": "2026-05-28"
+  },
+  {
+    "title": "Asana acquires no-code agent-builder StackAI",
+    "source": "TechCrunch",
+    "summary": "Asana will incorporate StackAI into its growing suite of AI workflow tools.",
     "url": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
     "date": "2026-05-28"
   },
@@ -95,13 +102,6 @@
     "source": "TechCrunch",
     "summary": "General Compute is betting SambaNova will be the next breakout chipmaker.",
     "url": "https://techcrunch.com/2026/05/28/has-the-hunt-for-ai-compute-uncovered-the-next-cerebras/",
-    "date": "2026-05-28"
-  },
-  {
-    "title": "Vertu wants CEOs to run companies from an AI foldable starting at $6,880",
-    "source": "TechCrunch",
-    "summary": "Built on top of the open source Hermes project, Vertu's new foldable combines AI-agent workflows, enterprise integrations, and ultra-premium luxury finishes.",
-    "url": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/",
     "date": "2026-05-28"
   },
   {
@@ -245,6 +245,20 @@
     "date": "2026-05-28"
   },
   {
+    "title": "LLMs believe false statements even after explicit warnings that they're false",
+    "source": "Ars Technica",
+    "summary": "Fine-tuning tests show 'bias ... toward confidently representing the claims as true.'",
+    "url": "https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false/",
+    "date": "2026-05-28"
+  },
+  {
+    "title": "Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code",
+    "source": "Ars Technica",
+    "summary": "Undisclosed addition in jqwik instructed AI coding agents to delete app output.",
+    "url": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
+    "date": "2026-05-28"
+  },
+  {
     "title": "Apple working to cram massive Gemini model into iPhone to power new Siri",
     "source": "Ars Technica",
     "summary": "As Apple tries to shrink Gemini for the iPhone, a cloud component is probably inevitable.",
@@ -333,20 +347,6 @@
     "source": "Ars Technica",
     "summary": "Google's AI search evolution is accelerating at I/O 2026.",
     "url": "https://arstechnica.com/google/2026/05/buckle-up-google-is-set-to-remake-search-with-agentic-ai-in-2026/",
-    "date": "2026-05-28"
-  },
-  {
-    "title": "The Internet can't stop watching Figure AI's humanoid robots handling packages",
-    "source": "Ars Technica",
-    "summary": "Figure AI's 24/7 livestream showcases human soft spot for humanoid robots.",
-    "url": "https://arstechnica.com/ai/2026/05/the-internet-cant-stop-watching-figure-ais-humanoid-robots-handling-packages/",
-    "date": "2026-05-28"
-  },
-  {
-    "title": "Two AI-based science assistants succeed with drug-retargeting tasks",
-    "source": "Ars Technica",
-    "summary": "Both tools generate hypotheses; one goes on to analyze some of the data.",
-    "url": "https://arstechnica.com/science/2026/05/two-ai-based-science-assistants-succeed-with-drug-retargeting-tasks/",
     "date": "2026-05-28"
   }
 ]

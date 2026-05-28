@@ -10,9 +10,9 @@
   {
     "title": "Claude Opus 4.8",
     "source": "Hacker News",
-    "description": "HN Score: 891 | 684 comments",
+    "description": "HN Score: 1118 | 898 comments",
     "url": "https://www.anthropic.com/news/claude-opus-4-8",
-    "score": 891,
+    "score": 1118,
     "date": "2026-05-28",
     "category": "AI News"
   },
@@ -25,11 +25,28 @@
     "category": "Twitter"
   },
   {
+    "title": "Various LLM Smells",
+    "source": "Hacker News",
+    "description": "HN Score: 149 | 112 comments",
+    "url": "https://shvbsle.in/various-llm-smells/",
+    "score": 149,
+    "date": "2026-05-28",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: We're releasing Paris 2.0, which, to our knowledge, is the world's first decentralized trained video generation model. We benchmarke",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/bidhan/status/2060043273545429503#m",
+    "date": "2026-05-28",
+    "category": "Twitter"
+  },
+  {
     "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
     "source": "Hacker News",
-    "description": "HN Score: 172 | 84 comments",
+    "description": "HN Score: 219 | 100 comments",
     "url": "https://llmgame.scalex.dev",
-    "score": 172,
+    "score": 219,
     "date": "2026-05-28",
     "category": "AI News"
   },
@@ -44,26 +61,9 @@
   {
     "title": "Show HN: Ktx \u2013 Open-source executable context layer for data agents",
     "source": "Hacker News",
-    "description": "HN Score: 31 | 3 comments",
+    "description": "HN Score: 49 | 9 comments",
     "url": "https://github.com/Kaelio/ktx",
-    "score": 31,
-    "date": "2026-05-28",
-    "category": "AI News"
-  },
-  {
-    "title": "It's highly likely that the cosmological constant a) is actually a constant and b) can't be adjusted It is actually forced by the algebra of relativit",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/EMostaque/status/2060040754366414921#m",
-    "date": "2026-05-28",
-    "category": "Twitter"
-  },
-  {
-    "title": "Sam Altman and Dario Amodei are both walking back AI jobs apocalypse predictions",
-    "source": "Hacker News",
-    "description": "HN Score: 34 | 19 comments",
-    "url": "https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/",
-    "score": 34,
+    "score": 49,
     "date": "2026-05-28",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Using Tailscale with an OrbStack VM on macOS",
+    "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
     "source": "Hacker News",
-    "description": "HN Score: 32 | 6 comments",
-    "url": "https://github.com/highpost/tailscale-macos-vm",
-    "score": 32,
+    "description": "HN Score: 216 | 200 comments",
+    "url": "https://www.anthropic.com/news/series-h",
+    "score": 216,
     "date": "2026-05-28",
     "category": "AI News"
   },
@@ -93,11 +93,28 @@
     "category": "Twitter"
   },
   {
-    "title": "YouTube to automatically label AI-generated videos",
+    "title": "Using Tailscale with an OrbStack VM on macOS",
     "source": "Hacker News",
-    "description": "HN Score: 1246 | 743 comments",
-    "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
-    "score": 1246,
+    "description": "HN Score: 55 | 13 comments",
+    "url": "https://github.com/highpost/tailscale-macos-vm",
+    "score": 55,
+    "date": "2026-05-28",
+    "category": "AI News"
+  },
+  {
+    "title": "For the nerds out there: The way this model was trained was pretty cool, and probably, the first time this has been done to train a video generation m",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2060102535520940036#m",
+    "date": "2026-05-28",
+    "category": "Twitter"
+  },
+  {
+    "title": "Protestware for Coding Agents",
+    "source": "Hacker News",
+    "description": "HN Score: 13 | 2 comments",
+    "url": "https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html",
+    "score": 13,
     "date": "2026-05-28",
     "category": "AI News"
   },
@@ -110,28 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
+    "title": "YouTube to automatically label AI-generated videos",
     "source": "Hacker News",
-    "description": "HN Score: 145 | 126 comments",
-    "url": "https://www.anthropic.com/news/series-h",
-    "score": 145,
-    "date": "2026-05-28",
-    "category": "AI News"
-  },
-  {
-    "title": "I would have killed for this a few years ago: If you have no clue about marketing a product, these are 4 skills you can use with your agentic coding t",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2060082819301552512#m",
-    "date": "2026-05-28",
-    "category": "Twitter"
-  },
-  {
-    "title": "Dynamic Workflows in Claude Code",
-    "source": "Hacker News",
-    "description": "HN Score: 111 | 92 comments",
-    "url": "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code",
-    "score": 111,
+    "description": "HN Score: 1263 | 757 comments",
+    "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+    "score": 1263,
     "date": "2026-05-28",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Open-Source AI Racing Harness",
+    "title": "Sam Altman and Dario Amodei are both walking back AI jobs apocalypse predictions",
     "source": "Hacker News",
-    "description": "HN Score: 56 | 6 comments",
-    "url": "https://www.elodin.systems/post/elodin-ai-grand-prix-race-sim-harness",
-    "score": 56,
+    "description": "HN Score: 150 | 124 comments",
+    "url": "https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/",
+    "score": 150,
     "date": "2026-05-28",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Thornton Wilder's Last Play Vanished into Thin Air. Or Did It?",
+    "title": "Show HN: Open-Source AI Racing Harness",
     "source": "Hacker News",
-    "description": "HN Score: 7 | 0 comments",
-    "url": "https://www.nytimes.com/2026/05/27/theater/thornton-wilder-emporium-last-play.html",
-    "score": 7,
+    "description": "HN Score: 65 | 9 comments",
+    "url": "https://www.elodin.systems/post/elodin-ai-grand-prix-race-sim-harness",
+    "score": 65,
     "date": "2026-05-28",
     "category": "AI News"
   }
