@@ -4,16 +4,16 @@
     "source": "@kaborobot",
     "description": "",
     "url": "https://nitter.net/kaborobot/status/2058205543760838842#m",
-    "date": "2026-05-27",
+    "date": "2026-05-28",
     "category": "Twitter"
   },
   {
     "title": "YouTube to automatically label AI-generated videos",
     "source": "Hacker News",
-    "description": "HN Score: 274 | 149 comments",
+    "description": "HN Score: 603 | 365 comments",
     "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
-    "score": 274,
-    "date": "2026-05-27",
+    "score": 603,
+    "date": "2026-05-28",
     "category": "AI News"
   },
   {
@@ -21,16 +21,16 @@
     "source": "@kaborobot",
     "description": "",
     "url": "https://nitter.net/kaborobot/status/2051300761896972364#m",
-    "date": "2026-05-27",
+    "date": "2026-05-28",
     "category": "Twitter"
   },
   {
     "title": "I think Anthropic and OpenAI have found product-market fit",
     "source": "Hacker News",
-    "description": "HN Score: 494 | 606 comments",
+    "description": "HN Score: 702 | 872 comments",
     "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
-    "score": 494,
-    "date": "2026-05-27",
+    "score": 702,
+    "date": "2026-05-28",
     "category": "AI News"
   },
   {
@@ -38,16 +38,16 @@
     "source": "@EMostaque",
     "description": "",
     "url": "https://nitter.net/EMostaque/status/2059740894027264159#m",
-    "date": "2026-05-27",
+    "date": "2026-05-28",
     "category": "Twitter"
   },
   {
-    "title": "Rust (and Slint) on a Jailbroken Kindle",
+    "title": "Why Ctrl+V won't paste images in Claude Code on WSL, with a fix",
     "source": "Hacker News",
-    "description": "HN Score: 45 | 6 comments",
-    "url": "https://sverre.me/blog/rust-on-kindle/",
-    "score": 45,
-    "date": "2026-05-27",
+    "description": "HN Score: 27 | 14 comments",
+    "url": "https://rajveerbachkaniwala.com/blog/2026/05/24/on-the-difficulty-of-pasting-a-picture/",
+    "score": 27,
+    "date": "2026-05-28",
     "category": "AI News"
   },
   {
@@ -55,16 +55,16 @@
     "source": "@EMostaque",
     "description": "",
     "url": "https://nitter.net/ericries/status/2059447018716549182#m",
-    "date": "2026-05-27",
+    "date": "2026-05-28",
     "category": "Twitter"
   },
   {
-    "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+    "title": "Rust (and Slint) on a Jailbroken Kindle",
     "source": "Hacker News",
-    "description": "HN Score: 543 | 274 comments",
-    "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
-    "score": 543,
-    "date": "2026-05-27",
+    "description": "HN Score: 115 | 13 comments",
+    "url": "https://sverre.me/blog/rust-on-kindle/",
+    "score": 115,
+    "date": "2026-05-28",
     "category": "AI News"
   },
   {
@@ -72,16 +72,16 @@
     "source": "@DrJimFan",
     "description": "",
     "url": "https://nitter.net/CyberRobooo/status/2053149920740450732#m",
-    "date": "2026-05-27",
+    "date": "2026-05-28",
     "category": "Twitter"
   },
   {
-    "title": "Tech CEOs are apparently suffering from AI psychosis",
+    "title": "RamAIn (YC W26) Is Hiring",
     "source": "Hacker News",
-    "description": "HN Score: 468 | 241 comments",
-    "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
-    "score": 468,
-    "date": "2026-05-27",
+    "description": "HN Score: 1 | 0 comments",
+    "url": "https://www.ycombinator.com/companies/ramain/jobs/hqvmyKN-founding-gtm-engineer",
+    "score": 1,
+    "date": "2026-05-28",
     "category": "AI News"
   },
   {
@@ -89,16 +89,33 @@
     "source": "@DrJimFan",
     "description": "",
     "url": "https://nitter.net/Alfred_Lin/status/2052847050379936113#m",
-    "date": "2026-05-27",
+    "date": "2026-05-28",
     "category": "Twitter"
   },
   {
-    "title": "Multi-Agent LLM System for Automated Vulnerability Discovery and Reproduction",
+    "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
     "source": "Hacker News",
-    "description": "HN Score: 35 | 4 comments",
-    "url": "https://arxiv.org/abs/2605.21779",
-    "score": 35,
-    "date": "2026-05-27",
+    "description": "HN Score: 716 | 355 comments",
+    "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
+    "score": 716,
+    "date": "2026-05-28",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: I'm going extremely hard on sub-agents with Claude Code. Everything that can be an agent, should be an agent. I mean, not really, but t",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2059614863056617652#m",
+    "date": "2026-05-28",
+    "category": "Twitter"
+  },
+  {
+    "title": "Show HN: Open-Source AI Racing Harness",
+    "source": "Hacker News",
+    "description": "HN Score: 24 | 4 comments",
+    "url": "https://www.elodin.systems/post/elodin-ai-grand-prix-race-sim-harness",
+    "score": 24,
+    "date": "2026-05-28",
     "category": "AI News"
   },
   {
@@ -106,67 +123,50 @@
     "source": "@svpino",
     "description": "",
     "url": "https://nitter.net/svpino/status/2059713795925430537#m",
-    "date": "2026-05-27",
+    "date": "2026-05-28",
     "category": "Twitter"
   },
   {
-    "title": "Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs",
+    "title": "Tech CEOs are apparently suffering from AI psychosis",
     "source": "Hacker News",
-    "description": "HN Score: 330 | 219 comments",
-    "url": "https://arps18.github.io/posts/claude-code-mastery/",
-    "score": 330,
-    "date": "2026-05-27",
+    "description": "HN Score: 615 | 305 comments",
+    "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
+    "score": 615,
+    "date": "2026-05-28",
     "category": "AI News"
   },
   {
-    "title": "I'm going extremely hard on sub-agents with Claude Code. Everything that can be an agent, should be an agent. I mean, not really, but that's the best ",
-    "source": "@svpino",
+    "title": "\ud83d\udea8 BREAKING - Use Agent Swarms To Build Complex Software Systems Use - Opus 4.7 High - GPT 5.5 xHigh - Gemini 3.5 Pro - Seedance 2.0 - GPT Image 2.0 & ",
+    "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2059614863056617652#m",
-    "date": "2026-05-27",
+    "url": "https://nitter.net/bindureddy/status/2059827979279077783#m",
+    "date": "2026-05-28",
     "category": "Twitter"
   },
   {
-    "title": "In-Browser Container Builds",
+    "title": "Fully in-browser container builds",
     "source": "Hacker News",
-    "description": "HN Score: 38 | 19 comments",
+    "description": "HN Score: 48 | 26 comments",
     "url": "https://ochagavia.nl/blog/fully-in-browser-container-builds/",
-    "score": 38,
-    "date": "2026-05-27",
+    "score": 48,
+    "date": "2026-05-28",
     "category": "AI News"
   },
   {
-    "title": "GPT 5.5 xHigh is exceptionally good at very long running complex tasks You can create extremely complex apps with a single prompt It's strangely under",
+    "title": "How many frontier models are gonna drop tomorrow? Sonnet, Gemini Pro, Opus or GPT 5.6 Any guesses? Zero is the wrong answer \ud83d\ude02",
     "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/bindureddy/status/2059410502543896931#m",
-    "date": "2026-05-27",
+    "url": "https://nitter.net/bindureddy/status/2059770226368028766#m",
+    "date": "2026-05-28",
     "category": "Twitter"
   },
   {
-    "title": "Training our own AI models",
+    "title": "Multi-Agent LLM System for Automated Vulnerability Discovery and Reproduction",
     "source": "Hacker News",
-    "description": "HN Score: 177 | 122 comments",
-    "url": "https://posthog.com/blog/training-ai-models",
-    "score": 177,
-    "date": "2026-05-27",
-    "category": "AI News"
-  },
-  {
-    "title": "Gemini Flash is way better at instruction following and chat than any OpenAI or Anthropic model Moved a lot of chat requests to Flash 3.5 It\u2019s working",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2059378788471894515#m",
-    "date": "2026-05-27",
-    "category": "Twitter"
-  },
-  {
-    "title": "Show HN: Open-source Workspace (mail,docs,spreadsheet,drive) web/iOS",
-    "source": "Hacker News",
-    "description": "HN Score: 61 | 32 comments",
-    "url": "https://tinycld.org/",
-    "score": 61,
-    "date": "2026-05-27",
+    "description": "HN Score: 42 | 5 comments",
+    "url": "https://arxiv.org/abs/2605.21779",
+    "score": 42,
+    "date": "2026-05-28",
     "category": "AI News"
   }
 ]
