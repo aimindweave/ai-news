@@ -93,6 +93,26 @@
   ],
   "episodes": [
     {
+      "id": "Practica_0",
+      "name": "Rebooting Enterprise AI with MCP and Kubernetes",
+      "show": "Practical AI",
+      "description": "\n        What happens when AI agents start acting less like chatbots and more like coworkers? In this episode, Dan and Chris sit down with Craig McLuckie, CEO of Stacklok to explore MCP, Kubernetes",
+      "release_date": "2026-05-28",
+      "duration_min": 48,
+      "image": "",
+      "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
+    },
+    {
+      "id": "a]6z Pod_0",
+      "name": "Stablecoins, AI Agents, and The Future of Global Banking",
+      "show": "a]6z Podcast",
+      "description": "Angela Strange speaks with Dileep Thazhmon, founder and CEO of Jeeves, about building a global financial operating system for enterprises across Latin America using stablecoins and AI.\nThe c",
+      "release_date": "2026-05-28",
+      "duration_min": 37,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
       "id": "The AI P_0",
       "name": "Everyone Can Build a Robot: Open Source Embodied AI With Seeed Studio | NVIDIA AI Podcast Ep. 300",
       "show": "The AI Podcast (NVIDIA)",
@@ -103,7 +123,7 @@
       "url": "https://open.spotify.com/show/0e1X4kJVfwQRPF8lZzqqfX"
     },
     {
-      "id": "a]6z Pod_0",
+      "id": "a]6z Pod_1",
       "name": "Marc Rowan on Private Markets, Software Repricing, and Capital Allocation",
       "show": "a]6z Podcast",
       "description": "In 1990, Marc Rowan walked out of Drexel with his belongings in a cardboard box. Within a year, Apollo was managing $6 billion.\nDavid Haber speaks with Marc Rowan, Cofounder, CEO, and Chair ",
@@ -113,22 +133,12 @@
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "Robin Hanson on Prediction Markets, Gambling, and the Future of Forecasting",
       "show": "a]6z Podcast",
       "description": "Theo Jaffee and Sophia Puccini speak with economist Robin Hanson about prediction markets, gambling, and why he believes speculative markets are one of the most powerful tools humans have for aggre",
       "release_date": "2026-05-26",
       "duration_min": 27,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
-    },
-    {
-      "id": "a]6z Pod_2",
-      "name": "Why AI Isn’t Killing SaaS Yet",
-      "show": "a]6z Podcast",
-      "description": "Originally aired on MTS segment, Monetary Matters, Jack Farley and Max Wiethe speak with Ara Kharazian, Lead Economist at Ramp, about what real business spending data says about AI adoption, why th",
-      "release_date": "2026-05-25",
-      "duration_min": 40,
       "image": "",
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
@@ -153,7 +163,7 @@
       "url": "https://open.spotify.com/show/0e1X4kJVfwQRPF8lZzqqfX"
     },
     {
-      "id": "Practica_0",
+      "id": "Practica_1",
       "name": "Hermes Agent: Agents that grow with you",
       "show": "Practical AI",
       "description": "\n        Open Source AI is entering a new era, one shaped by self-improving AI Agents, recursive learning systems, and rapidly evolving AI Tools that blur the line between software and autonomous c",
@@ -183,7 +193,7 @@
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
-      "id": "Practica_1",
+      "id": "Practica_2",
       "name": "U.S. Congressman Beyer on AI challenges facing America and the World",
       "show": "Practical AI",
       "description": "\n        U.S. Congressman Don Beyer returns to Practical AI for another far-reaching conversation with Chris about many of the most important AI challenges facing America and the world.  Blending p",
@@ -211,16 +221,6 @@
       "duration_min": 72,
       "image": "",
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
-    },
-    {
-      "id": "Practica_2",
-      "name": "The Myth of Model Wars: Open vs Closed AI in 2026",
-      "show": "Practical AI",
-      "description": "\n        In this fully connected episode, Dan and Chris break down one of the biggest questions in AI today: do open vs. closed models still matter? From the rise of physical AI and edge devices to",
-      "release_date": "2026-05-07",
-      "duration_min": 42,
-      "image": "",
-      "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
       "id": "The TWIM_1",

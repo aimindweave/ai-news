@@ -10,9 +10,9 @@
   {
     "title": "YouTube to automatically label AI-generated videos",
     "source": "Hacker News",
-    "description": "HN Score: 603 | 365 comments",
+    "description": "HN Score: 888 | 549 comments",
     "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
-    "score": 603,
+    "score": 888,
     "date": "2026-05-28",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "I think Anthropic and OpenAI have found product-market fit",
+    "title": "A Eureka machine that thinks like nature and explores what AI cannot",
     "source": "Hacker News",
-    "description": "HN Score: 702 | 872 comments",
-    "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
-    "score": 702,
+    "description": "HN Score: 72 | 24 comments",
+    "url": "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/",
+    "score": 72,
     "date": "2026-05-28",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Why Ctrl+V won't paste images in Claude Code on WSL, with a fix",
+    "title": "I think Anthropic and OpenAI have found product-market fit",
     "source": "Hacker News",
-    "description": "HN Score: 27 | 14 comments",
-    "url": "https://rajveerbachkaniwala.com/blog/2026/05/24/on-the-difficulty-of-pasting-a-picture/",
-    "score": 27,
+    "description": "HN Score: 874 | 996 comments",
+    "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+    "score": 874,
     "date": "2026-05-28",
     "category": "AI News"
   },
@@ -61,9 +61,9 @@
   {
     "title": "Rust (and Slint) on a Jailbroken Kindle",
     "source": "Hacker News",
-    "description": "HN Score: 115 | 13 comments",
+    "description": "HN Score: 165 | 22 comments",
     "url": "https://sverre.me/blog/rust-on-kindle/",
-    "score": 115,
+    "score": 165,
     "date": "2026-05-28",
     "category": "AI News"
   },
@@ -72,6 +72,40 @@
     "source": "@DrJimFan",
     "description": "",
     "url": "https://nitter.net/CyberRobooo/status/2053149920740450732#m",
+    "date": "2026-05-28",
+    "category": "Twitter"
+  },
+  {
+    "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+    "source": "Hacker News",
+    "description": "HN Score: 870 | 412 comments",
+    "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
+    "score": 870,
+    "date": "2026-05-28",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @DrJimFan: Jim is always a crowd favorite at AI Ascent. His ability to simplify the latest research into a clear 'what and why it matters' while",
+    "source": "@DrJimFan",
+    "description": "",
+    "url": "https://nitter.net/Alfred_Lin/status/2052847050379936113#m",
+    "date": "2026-05-28",
+    "category": "Twitter"
+  },
+  {
+    "title": "AI Datacenters Were Built for GPUs. What Happens When You Remove the GPUs?",
+    "source": "Hacker News",
+    "description": "HN Score: 32 | 22 comments",
+    "url": "https://almartis.xyz/gpu-free-datacenter.html",
+    "score": 32,
+    "date": "2026-05-28",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: Agentic orchestration is now the difference between junior and senior developers. Every cracked developer I know is running multiple ag",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2059713795925430537#m",
     "date": "2026-05-28",
     "category": "Twitter"
   },
@@ -85,23 +119,6 @@
     "category": "AI News"
   },
   {
-    "title": "RT by @DrJimFan: Jim is always a crowd favorite at AI Ascent. His ability to simplify the latest research into a clear 'what and why it matters' while",
-    "source": "@DrJimFan",
-    "description": "",
-    "url": "https://nitter.net/Alfred_Lin/status/2052847050379936113#m",
-    "date": "2026-05-28",
-    "category": "Twitter"
-  },
-  {
-    "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
-    "source": "Hacker News",
-    "description": "HN Score: 716 | 355 comments",
-    "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
-    "score": 716,
-    "date": "2026-05-28",
-    "category": "AI News"
-  },
-  {
     "title": "RT by @svpino: I'm going extremely hard on sub-agents with Claude Code. Everything that can be an agent, should be an agent. I mean, not really, but t",
     "source": "@svpino",
     "description": "",
@@ -110,28 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Open-Source AI Racing Harness",
+    "title": "Investigating how prompt politeness affects LLM accuracy (2025)",
     "source": "Hacker News",
-    "description": "HN Score: 24 | 4 comments",
-    "url": "https://www.elodin.systems/post/elodin-ai-grand-prix-race-sim-harness",
-    "score": 24,
-    "date": "2026-05-28",
-    "category": "AI News"
-  },
-  {
-    "title": "Agentic orchestration is now the difference between junior and senior developers. Every cracked developer I know is running multiple agents to build t",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2059713795925430537#m",
-    "date": "2026-05-28",
-    "category": "Twitter"
-  },
-  {
-    "title": "Tech CEOs are apparently suffering from AI psychosis",
-    "source": "Hacker News",
-    "description": "HN Score: 615 | 305 comments",
-    "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
-    "score": 615,
+    "description": "HN Score: 73 | 74 comments",
+    "url": "https://arxiv.org/abs/2510.04950",
+    "score": 73,
     "date": "2026-05-28",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Fully in-browser container builds",
+    "title": "Tech CEOs are apparently suffering from AI psychosis",
     "source": "Hacker News",
-    "description": "HN Score: 48 | 26 comments",
-    "url": "https://ochagavia.nl/blog/fully-in-browser-container-builds/",
-    "score": 48,
+    "description": "HN Score: 651 | 322 comments",
+    "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
+    "score": 651,
     "date": "2026-05-28",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Multi-Agent LLM System for Automated Vulnerability Discovery and Reproduction",
+    "title": "Show HN: Open-Source AI Racing Harness",
     "source": "Hacker News",
-    "description": "HN Score: 42 | 5 comments",
-    "url": "https://arxiv.org/abs/2605.21779",
-    "score": 42,
+    "description": "HN Score: 36 | 4 comments",
+    "url": "https://www.elodin.systems/post/elodin-ai-grand-prix-race-sim-harness",
+    "score": 36,
     "date": "2026-05-28",
     "category": "AI News"
   }
