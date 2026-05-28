@@ -10,9 +10,9 @@
   {
     "title": "YouTube to automatically label AI-generated videos",
     "source": "Hacker News",
-    "description": "HN Score: 888 | 549 comments",
+    "description": "HN Score: 1153 | 684 comments",
     "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
-    "score": 888,
+    "score": 1153,
     "date": "2026-05-28",
     "category": "AI News"
   },
@@ -25,11 +25,28 @@
     "category": "Twitter"
   },
   {
-    "title": "A Eureka machine that thinks like nature and explores what AI cannot",
+    "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
     "source": "Hacker News",
-    "description": "HN Score: 72 | 24 comments",
-    "url": "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/",
-    "score": 72,
+    "description": "HN Score: 26 | 17 comments",
+    "url": "https://llmgame.scalex.dev",
+    "score": 26,
+    "date": "2026-05-28",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: Make your agent smarter. The II-Commons skill gives your agent reliable knowledge from arxiv, PubMed & more, plug it in Repo: https:",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/ii_posts/status/2060013720022007830#m",
+    "date": "2026-05-28",
+    "category": "Twitter"
+  },
+  {
+    "title": "I think Anthropic and OpenAI have found product-market fit",
+    "source": "Hacker News",
+    "description": "HN Score: 1023 | 1133 comments",
+    "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+    "score": 1023,
     "date": "2026-05-28",
     "category": "AI News"
   },
@@ -42,28 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "I think Anthropic and OpenAI have found product-market fit",
+    "title": "AMD pulls a bait-and-switch on Linux users with Vivado licensing changes",
     "source": "Hacker News",
-    "description": "HN Score: 874 | 996 comments",
-    "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
-    "score": 874,
-    "date": "2026-05-28",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @EMostaque: I built a public site to track how Incorruptible is going. It scans the internet twice a day for verified reader reactions, podcast ",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/ericries/status/2059447018716549182#m",
-    "date": "2026-05-28",
-    "category": "Twitter"
-  },
-  {
-    "title": "Rust (and Slint) on a Jailbroken Kindle",
-    "source": "Hacker News",
-    "description": "HN Score: 165 | 22 comments",
-    "url": "https://sverre.me/blog/rust-on-kindle/",
-    "score": 165,
+    "description": "HN Score: 288 | 127 comments",
+    "url": "https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/",
+    "score": 288,
     "date": "2026-05-28",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+    "title": "Disagreement Among Frontier LLMs on Real-World Fact-Checks",
     "source": "Hacker News",
-    "description": "HN Score: 870 | 412 comments",
-    "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
-    "score": 870,
+    "description": "HN Score: 420 | 291 comments",
+    "url": "https://lenz.io/research/llm-disagreement",
+    "score": 420,
     "date": "2026-05-28",
     "category": "AI News"
   },
@@ -93,19 +93,53 @@
     "category": "Twitter"
   },
   {
-    "title": "AI Datacenters Were Built for GPUs. What Happens When You Remove the GPUs?",
+    "title": "A Eureka machine that thinks like nature and explores what AI cannot",
     "source": "Hacker News",
-    "description": "HN Score: 32 | 22 comments",
-    "url": "https://almartis.xyz/gpu-free-datacenter.html",
-    "score": 32,
+    "description": "HN Score: 134 | 39 comments",
+    "url": "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/",
+    "score": 134,
     "date": "2026-05-28",
     "category": "AI News"
   },
   {
-    "title": "RT by @svpino: Agentic orchestration is now the difference between junior and senior developers. Every cracked developer I know is running multiple ag",
+    "title": "R to @svpino: Model pricing and capabilities change every week. If you marry your code to a single API endpoint, you'll end up doing a ton of work to ",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2059713795925430537#m",
+    "url": "https://nitter.net/svpino/status/2060017011787517969#m",
+    "date": "2026-05-28",
+    "category": "Twitter"
+  },
+  {
+    "title": "Rust (and Slint) on a Jailbroken Kindle",
+    "source": "Hacker News",
+    "description": "HN Score: 212 | 33 comments",
+    "url": "https://sverre.me/blog/rust-on-kindle/",
+    "score": 212,
+    "date": "2026-05-28",
+    "category": "AI News"
+  },
+  {
+    "title": "I met a team last week who's rewriting a ton of their code. They integrated their product with one open-weight model. From day one, they bet everythin",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2060016999472988354#m",
+    "date": "2026-05-28",
+    "category": "Twitter"
+  },
+  {
+    "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+    "source": "Hacker News",
+    "description": "HN Score: 995 | 482 comments",
+    "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
+    "score": 995,
+    "date": "2026-05-28",
+    "category": "AI News"
+  },
+  {
+    "title": "The biggest mistake OpenAI has made to-date is Pricing GPT 5.5 wrong At half the price, it would have experienced astronomical adoption and driven Cod",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2059958444875006090#m",
     "date": "2026-05-28",
     "category": "Twitter"
   },
@@ -119,53 +153,19 @@
     "category": "AI News"
   },
   {
-    "title": "RT by @svpino: I'm going extremely hard on sub-agents with Claude Code. Everything that can be an agent, should be an agent. I mean, not really, but t",
-    "source": "@svpino",
+    "title": "Prediction - Gemini 3.5 Pro will top GPT 5.6 and Opus new 3.5 Flash is an amazing chat model with excellent speed, grounding and reasoning Points to a",
+    "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2059614863056617652#m",
+    "url": "https://nitter.net/bindureddy/status/2059950830871068799#m",
     "date": "2026-05-28",
     "category": "Twitter"
   },
   {
     "title": "Investigating how prompt politeness affects LLM accuracy (2025)",
     "source": "Hacker News",
-    "description": "HN Score: 73 | 74 comments",
+    "description": "HN Score: 115 | 146 comments",
     "url": "https://arxiv.org/abs/2510.04950",
-    "score": 73,
-    "date": "2026-05-28",
-    "category": "AI News"
-  },
-  {
-    "title": "\ud83d\udea8 BREAKING - Use Agent Swarms To Build Complex Software Systems Use - Opus 4.7 High - GPT 5.5 xHigh - Gemini 3.5 Pro - Seedance 2.0 - GPT Image 2.0 & ",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2059827979279077783#m",
-    "date": "2026-05-28",
-    "category": "Twitter"
-  },
-  {
-    "title": "Tech CEOs are apparently suffering from AI psychosis",
-    "source": "Hacker News",
-    "description": "HN Score: 651 | 322 comments",
-    "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
-    "score": 651,
-    "date": "2026-05-28",
-    "category": "AI News"
-  },
-  {
-    "title": "How many frontier models are gonna drop tomorrow? Sonnet, Gemini Pro, Opus or GPT 5.6 Any guesses? Zero is the wrong answer \ud83d\ude02",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2059770226368028766#m",
-    "date": "2026-05-28",
-    "category": "Twitter"
-  },
-  {
-    "title": "Show HN: Open-Source AI Racing Harness",
-    "source": "Hacker News",
-    "description": "HN Score: 36 | 4 comments",
-    "url": "https://www.elodin.systems/post/elodin-ai-grand-prix-race-sim-harness",
-    "score": 36,
+    "score": 115,
     "date": "2026-05-28",
     "category": "AI News"
   }
