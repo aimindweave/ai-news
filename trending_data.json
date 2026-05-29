@@ -10,9 +10,9 @@
   {
     "title": "Claude Opus 4.8",
     "source": "Hacker News",
-    "description": "HN Score: 1312 | 1056 comments",
+    "description": "HN Score: 1533 | 1198 comments",
     "url": "https://www.anthropic.com/news/claude-opus-4-8",
-    "score": 1312,
+    "score": 1533,
     "date": "2026-05-29",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
+    "title": "Claude Code \u2013 Everything You Can Configure That the Docs Don't Tell You",
     "source": "Hacker News",
-    "description": "HN Score: 26 | 6 comments",
-    "url": "https://minimaxir.com/2026/05/openrouter-hy3/",
-    "score": 26,
+    "description": "HN Score: 93 | 21 comments",
+    "url": "https://buildingbetter.tech/p/i-read-the-claude-code-source-code",
+    "score": 93,
     "date": "2026-05-29",
     "category": "AI News"
   },
@@ -44,9 +44,9 @@
   {
     "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
     "source": "Hacker News",
-    "description": "HN Score: 268 | 115 comments",
+    "description": "HN Score: 325 | 133 comments",
     "url": "https://llmgame.scalex.dev",
-    "score": 268,
+    "score": 325,
     "date": "2026-05-29",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims",
+    "title": "Orchestrating AI code review at scale",
     "source": "Hacker News",
-    "description": "HN Score: 131 | 65 comments",
-    "url": "https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/",
-    "score": 131,
+    "description": "HN Score: 4 | 1 comments",
+    "url": "https://blog.cloudflare.com/ai-code-review/",
+    "score": 4,
     "date": "2026-05-29",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Various LLM Smells",
+    "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
     "source": "Hacker News",
-    "description": "HN Score: 257 | 188 comments",
-    "url": "https://shvbsle.in/various-llm-smells/",
-    "score": 257,
+    "description": "HN Score: 79 | 56 comments",
+    "url": "https://minimaxir.com/2026/05/openrouter-hy3/",
+    "score": 79,
     "date": "2026-05-29",
     "category": "AI News"
   },
@@ -93,11 +93,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
+    "title": "SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims",
     "source": "Hacker News",
-    "description": "HN Score: 290 | 297 comments",
-    "url": "https://www.anthropic.com/news/series-h",
-    "score": 290,
+    "description": "HN Score: 209 | 101 comments",
+    "url": "https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/",
+    "score": 209,
+    "date": "2026-05-29",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: This is an open-source framework for self-improving agents. These agents can modify 3 things: \u2022 Their harness \u2022 Their underlying model'",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2060087939468767240#m",
+    "date": "2026-05-29",
+    "category": "Twitter"
+  },
+  {
+    "title": "Various LLM Smells",
+    "source": "Hacker News",
+    "description": "HN Score: 308 | 245 comments",
+    "url": "https://shvbsle.in/various-llm-smells/",
+    "score": 308,
     "date": "2026-05-29",
     "category": "AI News"
   },
@@ -112,26 +129,9 @@
   {
     "title": "Show HN: Ktx \u2013 Open-source executable context layer for data agents",
     "source": "Hacker News",
-    "description": "HN Score: 59 | 14 comments",
+    "description": "HN Score: 75 | 17 comments",
     "url": "https://github.com/Kaelio/ktx",
-    "score": 59,
-    "date": "2026-05-29",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: Best model so far that I run regularly on my Mac Studio: gemma-4:26b This fella is pretty capable. I started using it once or twice eve",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2059978243957240228#m",
-    "date": "2026-05-29",
-    "category": "Twitter"
-  },
-  {
-    "title": "YouTube to automatically label AI-generated videos",
-    "source": "Hacker News",
-    "description": "HN Score: 1279 | 778 comments",
-    "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
-    "score": 1279,
+    "score": 75,
     "date": "2026-05-29",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Microsoft data suggests using AI is more expensive than hiring people",
+    "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
     "source": "Hacker News",
-    "description": "HN Score: 32 | 3 comments",
-    "url": "https://finance.yahoo.com/sectors/technology/articles/microsoft-data-suggests-using-ai-225900743.html",
-    "score": 32,
+    "description": "HN Score: 344 | 364 comments",
+    "url": "https://www.anthropic.com/news/series-h",
+    "score": 344,
     "date": "2026-05-29",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Using Tailscale with an OrbStack VM on macOS",
+    "title": "YouTube to automatically label AI-generated videos",
     "source": "Hacker News",
-    "description": "HN Score: 63 | 15 comments",
-    "url": "https://github.com/highpost/tailscale-macos-vm",
-    "score": 63,
+    "description": "HN Score: 1287 | 790 comments",
+    "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+    "score": 1287,
     "date": "2026-05-29",
     "category": "AI News"
   }
