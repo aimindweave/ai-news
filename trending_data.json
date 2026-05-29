@@ -10,9 +10,9 @@
   {
     "title": "Notes from the Mistral AI Now Summit in Paris",
     "source": "Hacker News",
-    "description": "HN Score: 156 | 31 comments",
+    "description": "HN Score: 274 | 81 comments",
     "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
-    "score": 156,
+    "score": 274,
     "date": "2026-05-29",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "CAPTCHAs can still detect AI agents",
+    "title": "Shift will clean homes for free to train future robots",
     "source": "Hacker News",
-    "description": "HN Score: 35 | 23 comments",
-    "url": "https://research.roundtable.ai/captchas-detect-ai/",
-    "score": 35,
+    "description": "HN Score: 33 | 54 comments",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
+    "score": 33,
     "date": "2026-05-29",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "We should be more tired than the model",
+    "title": "Show HN: Tiny-vLLM \u2013 high performance LLM inference engine in C++ and CUDA",
     "source": "Hacker News",
-    "description": "HN Score: 101 | 92 comments",
-    "url": "https://vickiboykis.com/2026/05/28/we-should-be-more-tired-than-the-model/",
-    "score": 101,
+    "description": "HN Score: 38 | 3 comments",
+    "url": "https://github.com/jmaczan/tiny-vllm",
+    "score": 38,
     "date": "2026-05-29",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Expertise in the age of AI",
+    "title": "Liquid AI reveals 8B-A1B MoE trained on 38T",
     "source": "Hacker News",
-    "description": "HN Score: 60 | 68 comments",
-    "url": "https://www.moderndescartes.com/essays/ai_and_expertise/",
-    "score": 60,
+    "description": "HN Score: 112 | 33 comments",
+    "url": "https://www.liquid.ai/blog/lfm2-5-8b-a1b",
+    "score": 112,
     "date": "2026-05-29",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
+    "title": "Show HN: Zot \u2013 Yet another coding agent harness",
     "source": "Hacker News",
-    "description": "HN Score: 171 | 77 comments",
-    "url": "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/",
-    "score": 171,
+    "description": "HN Score: 37 | 50 comments",
+    "url": "https://www.zot.sh",
+    "score": 37,
     "date": "2026-05-29",
     "category": "AI News"
   },
@@ -93,45 +93,62 @@
     "category": "Twitter"
   },
   {
-    "title": "To see to it that the forces of Napoleon are driven out of Spain (1809)",
+    "title": "Is AI causing a repeat of frontend\u2019s lost decade?",
     "source": "Hacker News",
-    "description": "HN Score: 3 | 0 comments",
-    "url": "https://wellsoc.org/society-member-pages/anecdotes-of-wellington/",
-    "score": 3,
+    "description": "HN Score: 242 | 207 comments",
+    "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
+    "score": 242,
     "date": "2026-05-29",
     "category": "AI News"
   },
   {
-    "title": "R to @svpino: Here is the link to the Agent Garden: https://fandf.co/3PneH2Z By the way, Google is running a 5-day intensive vibe coding course on AI ",
+    "title": "R to @svpino: In case you don't know, here is what you can do with Apify:",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2060376077290361052#m",
+    "url": "https://nitter.net/svpino/status/2060438551976988901#m",
     "date": "2026-05-29",
     "category": "Twitter"
   },
   {
-    "title": "Robinhood now lets your AI agents trade stocks",
+    "title": "CAPTCHAs can still detect AI agents",
     "source": "Hacker News",
-    "description": "HN Score: 44 | 64 comments",
-    "url": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
-    "score": 44,
+    "description": "HN Score: 55 | 43 comments",
+    "url": "https://research.roundtable.ai/captchas-detect-ai/",
+    "score": 55,
     "date": "2026-05-29",
     "category": "AI News"
   },
   {
-    "title": "Here is a repository with 30 open-source, end-to-end agent examples. These are very sophisticated workflows using Google ADK. Their architecture diagr",
+    "title": "R to @svpino: Instructions: 1. Fork https://apify.it/awesomeskills-santiago 2. Copy skills/_template/ to skills/apify-/ 3. Edit SKILL .md 4. Add one e",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2060376064967479480#m",
+    "url": "https://nitter.net/svpino/status/2060438540245487956#m",
     "date": "2026-05-29",
     "category": "Twitter"
   },
   {
-    "title": "Orchestrating AI code review at scale",
+    "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
     "source": "Hacker News",
-    "description": "HN Score: 112 | 43 comments",
-    "url": "https://blog.cloudflare.com/ai-code-review/",
-    "score": 112,
+    "description": "HN Score: 91 | 81 comments",
+    "url": "https://minimaxir.com/2026/05/openrouter-hy3/",
+    "score": 91,
+    "date": "2026-05-29",
+    "category": "AI News"
+  },
+  {
+    "title": "Open 4.8 runs around in circles MORE THAN Opus 4.7 Seems like Anthropic loves to burn their GPUs cause they can \ud83d\ude02 TBH this was more of a press release",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2060444757008990294#m",
+    "date": "2026-05-29",
+    "category": "Twitter"
+  },
+  {
+    "title": "We should be more tired than the model",
+    "source": "Hacker News",
+    "description": "HN Score: 132 | 119 comments",
+    "url": "https://vickiboykis.com/2026/05/28/we-should-be-more-tired-than-the-model/",
+    "score": 132,
     "date": "2026-05-29",
     "category": "AI News"
   },
@@ -144,28 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Claude Opus 4.8",
+    "title": "Robinhood now lets your AI agents trade stocks",
     "source": "Hacker News",
-    "description": "HN Score: 1699 | 1327 comments",
-    "url": "https://www.anthropic.com/news/claude-opus-4-8",
-    "score": 1699,
-    "date": "2026-05-29",
-    "category": "AI News"
-  },
-  {
-    "title": "\ud83d\udea8 Build Mobile Apps End To End - No Coding Experience Needed Use Opus 4.8, GPT 5.5 xHigh, Gemini 3.5 and Grok 4.3 to make MAGIC No need to set up data",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2060193663305572739#m",
-    "date": "2026-05-29",
-    "category": "Twitter"
-  },
-  {
-    "title": "Dynamic Workflows in Claude Code",
-    "source": "Hacker News",
-    "description": "HN Score: 156 | 121 comments",
-    "url": "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code",
-    "score": 156,
+    "description": "HN Score: 80 | 151 comments",
+    "url": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
+    "score": 80,
     "date": "2026-05-29",
     "category": "AI News"
   }
