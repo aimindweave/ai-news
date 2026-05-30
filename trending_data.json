@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Notes from the Mistral AI Now Summit",
+    "title": "The Kaiser and a 'Mediocre Man' Theory of History",
     "source": "Hacker News",
-    "description": "HN Score: 338 | 127 comments",
-    "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
-    "score": 338,
+    "description": "HN Score: 8 | 1 comments",
+    "url": "https://www.deadcarl.com/p/the-kaiser-and-a-mediocre-man-theory",
+    "score": 8,
     "date": "2026-05-30",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Shift will clean homes for free to train future robots",
+    "title": "Algebraic Effects for the Rest of Us",
     "source": "Hacker News",
-    "description": "HN Score: 121 | 175 comments",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
-    "score": 121,
+    "description": "HN Score: 58 | 33 comments",
+    "url": "https://overreacted.io/algebraic-effects-for-the-rest-of-us/",
+    "score": 58,
     "date": "2026-05-30",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Tiny-vLLM \u2013 high performance LLM inference engine in C++ and CUDA",
+    "title": "Notes from the Mistral AI Now Summit",
     "source": "Hacker News",
-    "description": "HN Score: 129 | 10 comments",
-    "url": "https://github.com/jmaczan/tiny-vllm",
-    "score": 129,
+    "description": "HN Score: 377 | 155 comments",
+    "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
+    "score": 377,
     "date": "2026-05-30",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Liquid AI reveals 8B-A1B MoE trained on 38T",
+    "title": "Shift will clean homes for free to train future robots",
     "source": "Hacker News",
-    "description": "HN Score: 174 | 66 comments",
-    "url": "https://www.liquid.ai/blog/lfm2-5-8b-a1b",
-    "score": 174,
+    "description": "HN Score: 142 | 191 comments",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
+    "score": 142,
     "date": "2026-05-30",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Algebraic Effects for the Rest of Us",
+    "title": "Liquid AI reveals 8B-A1B MoE trained on 38T",
     "source": "Hacker News",
-    "description": "HN Score: 3 | 0 comments",
-    "url": "https://overreacted.io/algebraic-effects-for-the-rest-of-us/",
-    "score": 3,
+    "description": "HN Score: 189 | 75 comments",
+    "url": "https://www.liquid.ai/blog/lfm2-5-8b-a1b",
+    "score": 189,
     "date": "2026-05-30",
     "category": "AI News"
   },
@@ -93,45 +93,45 @@
     "category": "Twitter"
   },
   {
+    "title": "Show HN: Tiny-vLLM \u2013 high performance LLM inference engine in C++ and CUDA",
+    "source": "Hacker News",
+    "description": "HN Score: 149 | 13 comments",
+    "url": "https://github.com/jmaczan/tiny-vllm",
+    "score": 149,
+    "date": "2026-05-30",
+    "category": "AI News"
+  },
+  {
+    "title": "I'm yet to see an agent running inside a browser that doesn't feel like a hack. I tried a headless browser, but I can't use my logins with it. I tried",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2060643018752094458#m",
+    "date": "2026-05-30",
+    "category": "Twitter"
+  },
+  {
     "title": "Is AI causing a repeat of frontend\u2019s lost decade?",
     "source": "Hacker News",
-    "description": "HN Score: 323 | 281 comments",
+    "description": "HN Score: 351 | 295 comments",
     "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
-    "score": 323,
+    "score": 351,
     "date": "2026-05-30",
     "category": "AI News"
   },
   {
-    "title": "RT by @svpino: Here is a repository with 30 open-source, end-to-end agent examples. These are very sophisticated workflows using Google ADK. Their arc",
+    "title": "RT by @svpino: Apify is paying $100 in credits for every new agent skill you ship. Here are the terms: 1. $100 in Apify credits per merged PR 2. One s",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2060376064967479480#m",
+    "url": "https://nitter.net/svpino/status/2060438528010727928#m",
     "date": "2026-05-30",
     "category": "Twitter"
   },
   {
-    "title": "The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin",
+    "title": "Ho-scale slot car racing in the Santa Cruz Mountains",
     "source": "Hacker News",
-    "description": "HN Score: 121 | 98 comments",
-    "url": "https://minimaxir.com/2026/05/openrouter-hy3/",
-    "score": 121,
-    "date": "2026-05-30",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: Claude is pretty good at finding the optimal route to visit a bunch of places in a city. It generates this cool Google Map route with e",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2060341646232031406#m",
-    "date": "2026-05-30",
-    "category": "Twitter"
-  },
-  {
-    "title": "We should be more tired than the model",
-    "source": "Hacker News",
-    "description": "HN Score: 170 | 133 comments",
-    "url": "https://vickiboykis.com/2026/05/28/we-should-be-more-tired-than-the-model/",
-    "score": 170,
+    "description": "HN Score: 7 | 1 comments",
+    "url": "https://stewartraceway.org/",
+    "score": 7,
     "date": "2026-05-30",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "CAPTCHAs can still detect AI agents",
+    "title": "We should be more tired than the model",
     "source": "Hacker News",
-    "description": "HN Score: 73 | 56 comments",
-    "url": "https://research.roundtable.ai/captchas-detect-ai/",
-    "score": 73,
+    "description": "HN Score: 172 | 136 comments",
+    "url": "https://vickiboykis.com/2026/05/28/we-should-be-more-tired-than-the-model/",
+    "score": 172,
     "date": "2026-05-30",
     "category": "AI News"
   },
@@ -163,9 +163,9 @@
   {
     "title": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
     "source": "Hacker News",
-    "description": "HN Score: 203 | 91 comments",
+    "description": "HN Score: 204 | 91 comments",
     "url": "https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/",
-    "score": 203,
+    "score": 204,
     "date": "2026-05-30",
     "category": "AI News"
   }
