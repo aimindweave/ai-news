@@ -1,5 +1,40 @@
 [
   {
+    "title": "Trump signs narrower executive order on AI oversight after industry objections",
+    "source": "TechCrunch",
+    "summary": "After industry objections, President Trump signed a revised AI executive order requiring only voluntary prerelease government reviews of advanced models.",
+    "url": "https://techcrunch.com/2026/06/02/trump-signs-narrower-executive-order-on-ai-oversight-after-industry-objections/",
+    "date": "2026-06-02"
+  },
+  {
+    "title": "OpenAI launches new Codex tools for white-collar work",
+    "source": "TechCrunch",
+    "summary": "OpenAI is getting serious about courting enterprise users. On Tuesday, the AI lab released a new set of capabilities for Codex, meant to expand the agentic tool s uses in the workplace. Together with the new tools, the company released an internal report on how Codex is being used for knowledge w...",
+    "url": "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/",
+    "date": "2026-06-02"
+  },
+  {
+    "title": "Anthropic scales Claude Mythos to critical infrastructure in 15+ countries",
+    "source": "TechCrunch",
+    "summary": "Anthropic is expanding Project Glasswing, its security vulnerability program, and access to Mythos to 150 organizations across 15 countries \u2014 targeting critical infrastructure in power, water, healthcare, and communications where a cyberattack could affect 100 million people.",
+    "url": "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/",
+    "date": "2026-06-02"
+  },
+  {
+    "title": "ZeroDrift raises $10M to protect AI models from themselves",
+    "source": "TechCrunch",
+    "summary": "A new AI compliance service sits between AI models and end users to flag and replace any messages that might present a compliance problem.",
+    "url": "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/",
+    "date": "2026-06-02"
+  },
+  {
+    "title": "Rocket engine startup Impulse raises $500 million to hire people, not AI",
+    "source": "TechCrunch",
+    "summary": "Engineering physical systems still depends on human talent, according to Impulse Space president Eric Romo.",
+    "url": "https://techcrunch.com/2026/06/02/rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai/",
+    "date": "2026-06-02"
+  },
+  {
     "title": "Alphabet plans to raise $80B to pay for AI buildout",
     "source": "TechCrunch",
     "summary": "'The company is experiencing strong demand for its AI solutions and services from enterprises and consumers, at levels that are exceeding the company\u2019s available supply,' Alphabet said in its statement.",
@@ -70,38 +105,17 @@
     "date": "2026-06-02"
   },
   {
-    "title": "\u2018What a joke\u2019: GitHub Copilot\u2019s new token-based billing spurs consternation among devs",
-    "source": "TechCrunch",
-    "summary": "The golden age of Microsoft's GitHub Copilot appears to be at an end.",
-    "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
+    "title": "The Download: AI can run your admin department now",
+    "source": "MIT Tech Review",
+    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. How small businesses can leverage AI From accounting to design to market research and product development, there\u2019s a staggering breadth of skills needed to run...",
+    "url": "https://www.technologyreview.com/2026/06/02/1138277/the-download-ai-tips-small-businesses-admin/",
     "date": "2026-06-02"
   },
   {
-    "title": "Meta is reportedly developing an AI pendant",
-    "source": "TechCrunch",
-    "summary": "Meta seems to be making big bets on AI-powered hardware.",
-    "url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
-    "date": "2026-06-02"
-  },
-  {
-    "title": "I put Google\u2019s 24/7 AI assistant Gemini Spark to work, and it\u2019s actually pretty useful",
-    "source": "TechCrunch",
-    "summary": "Gemini Spark helps automate everyday tasks, from inbox summaries to local event planning, but it\u2019s unclear why Google made it a separate product.",
-    "url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
-    "date": "2026-06-02"
-  },
-  {
-    "title": "The groupthink boom: what 3 top VCs really think about the AI frenzy",
-    "source": "TechCrunch",
-    "summary": "'If you're 22 years old in San Francisco and building something in AI, there may be a seed term sheet in your inbox \u2014 but if you're 19, oh my God, this means you're really good; you might already have a Series A [offer],' said one, half-kiddingly.",
-    "url": "https://techcrunch.com/2026/05/30/the-groupthink-boom-what-three-top-vcs-really-think-about-the-ai-frenzy/",
-    "date": "2026-06-02"
-  },
-  {
-    "title": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026",
-    "source": "TechCrunch",
-    "summary": "We\u2019ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
-    "url": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+    "title": "Rehumanizing global health care with agentic AI",
+    "source": "MIT Tech Review",
+    "summary": "The global health care sector is under increasing strain. Decades of chronic underinvestment and constraints in recruitment have coincided with a surge in demand for services for aging populations. Gaps in provision are already taking a toll, with fragmented access to care and high rates of stres...",
+    "url": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
     "date": "2026-06-02"
   },
   {
@@ -161,17 +175,10 @@
     "date": "2026-06-02"
   },
   {
-    "title": "Climate tech companies are going public. What\u2019s next?",
-    "source": "MIT Tech Review",
-    "summary": "This year, there\u2019s been a wave of notable energy companies going public via IPO in the US. The solar and battery company Solv Energy went public in February, to the tune of $6 billion. X-energy, which is building small modular nuclear reactors, did the same in April, and its stocks surged on its ...",
-    "url": "https://www.technologyreview.com/2026/05/28/1138067/climate-tech-ipos/",
-    "date": "2026-06-02"
-  },
-  {
-    "title": "The AI Hype Index: AI gets booed in graduation season",
-    "source": "MIT Tech Review",
-    "summary": "It is one thing to say AI will change the world. It is another to expect the class of 2026 to applaud it. In fact, when former Google CEO Eric Schmidt told University of Arizona graduates that their task is to help shape AI, he was met with a resounding chorus of boos. \u201cI can",
-    "url": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
+    "title": "Flush With Cash From OpenAI, Opal Is Making an AI-Powered Audio Gadget",
+    "source": "Wired",
+    "summary": "Opal, the company famous for making a fancy webcam, has pivoted to making other consumer electronics. Fueled by big investments from OpenAI and Samsung, it\u2019s working on an audio gadget first.",
+    "url": "https://www.wired.com/story/opal-electronics-openai-investment-ai-powered-audio-gadget/",
     "date": "2026-06-02"
   },
   {
@@ -235,13 +242,6 @@
     "source": "Wired",
     "summary": "Pope Leo XIV may not be able to disarm AI, but he\u2019s got the attention of the industry.",
     "url": "https://www.wired.com/story/the-vaticans-man-inside-anthropic/",
-    "date": "2026-06-02"
-  },
-  {
-    "title": "Here Comes Ojai, Waymo\u2019s New Chinese-Made Robotaxi",
-    "source": "Wired",
-    "summary": "The pale-blue Ojai vehicles will start picking up members of the public in California and Arizona in the next few weeks.",
-    "url": "https://www.wired.com/story/here-comes-ojai-waymos-new-chinese-made-robotaxi/",
     "date": "2026-06-02"
   },
   {
