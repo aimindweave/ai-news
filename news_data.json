@@ -1,5 +1,54 @@
 [
   {
+    "title": "Uber caps employee AI spending after blowing through budget in four months",
+    "source": "TechCrunch",
+    "summary": "Uber's cutback has occurred after the company had reportedly encouraged staff to use AI as much as possible.",
+    "url": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
+    "date": "2026-06-02"
+  },
+  {
+    "title": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
+    "source": "TechCrunch",
+    "summary": "Microsoft on Tuesday took the wraps off Adaptive Spec-driven Scoring for Evaluation and Regression Testing, an open source framework for spinning up AI evaluations.",
+    "url": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
+    "date": "2026-06-02"
+  },
+  {
+    "title": "Martin Scorsese becomes the latest \u2014 and most unlikely \u2014 Hollywood voice for AI",
+    "source": "TechCrunch",
+    "summary": "The caveat is that one of the world's most famous living directors is using the tech solely for storyboarding.",
+    "url": "https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/",
+    "date": "2026-06-02"
+  },
+  {
+    "title": "Microsoft launches Scout, an OpenClaw-inspired personal assistant",
+    "source": "TechCrunch",
+    "summary": "Launched at Build, Microsoft Scout is a new AI assistant meant to bring the power and flexibility of OpenClaw into the Microsoft 365 system.",
+    "url": "https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/",
+    "date": "2026-06-02"
+  },
+  {
+    "title": "Google rolls out fake call detection to protect against AI deepfake impersonation scams",
+    "source": "TechCrunch",
+    "summary": "As people increasingly refuse to answer calls from unknown numbers, scammers are shifting their tactics by spoofing trusted phone numbers and using AI deepfake technology to sound like authority figures, family members, or employers.",
+    "url": "https://techcrunch.com/2026/06/02/google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonation-scams/",
+    "date": "2026-06-02"
+  },
+  {
+    "title": "Microsoft offers devs a better way to control AI agent behavior",
+    "source": "TechCrunch",
+    "summary": "The specification lets developer, compliance, and security teams define their own policies for agents to follow in portable policy files.",
+    "url": "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/",
+    "date": "2026-06-02"
+  },
+  {
+    "title": "Amazon faces class action lawsuit over Ring facial-recognition feature",
+    "source": "TechCrunch",
+    "summary": "The class action lawsuit, filed in Seattle by Virginia resident Charles Sigwalt, claims that Ring's Familiar Faces feature stores images of passersby without consent.",
+    "url": "https://techcrunch.com/2026/06/02/amazon-faces-class-action-lawsuit-over-ring-facial-recognition-feature/",
+    "date": "2026-06-02"
+  },
+  {
     "title": "Trump signs narrower executive order on AI oversight after industry objections",
     "source": "TechCrunch",
     "summary": "After industry objections, President Trump signed a revised AI executive order requiring only voluntary prerelease government reviews of advanced models.",
@@ -9,7 +58,7 @@
   {
     "title": "OpenAI launches new Codex tools for white-collar work",
     "source": "TechCrunch",
-    "summary": "OpenAI is getting serious about courting enterprise users. On Tuesday, the AI lab released a new set of capabilities for Codex, meant to expand the agentic tool s uses in the workplace. Together with the new tools, the company released an internal report on how Codex is being used for knowledge w...",
+    "summary": "OpenAI released a set of six plug-ins aimed at specific jobs: data analytics, creative production, sales, product design, equity investing, and investment banking. Available from within the Codex app, each of the new tools bundles integrations, instructions, and context to allow Codex to approxim...",
     "url": "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/",
     "date": "2026-06-02"
   },
@@ -53,55 +102,6 @@
     "source": "TechCrunch",
     "summary": "The lawsuit partially revolves around a shooting at Florida State University last year, and ChatGPT's alleged role in the incident.",
     "url": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
-    "date": "2026-06-02"
-  },
-  {
-    "title": "Water access is now a risk factor in SpaceX\u2019s IPO",
-    "source": "TechCrunch",
-    "summary": "The company says it needs 'significant' water resources to cool its data centers, and that access to abundant, affordable water is a challenge.",
-    "url": "https://techcrunch.com/2026/06/01/water-access-is-now-a-risk-factor-in-spacexs-ipo/",
-    "date": "2026-06-02"
-  },
-  {
-    "title": "Anthropic files to go public",
-    "source": "TechCrunch",
-    "summary": "Anthropic, now an AI powerhouse that has landed top-tier enterprise customers, was once considered an underdog in the emerging world of large language models.",
-    "url": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
-    "date": "2026-06-02"
-  },
-  {
-    "title": "This AI weather startup is out-forecasting government agencies",
-    "source": "TechCrunch",
-    "summary": "WindBorne benefits from its unique combination of model-building and data collection. The company now has about 400 balloons in flight gathering sensor readings at any given time, launched from 15 sites around the globe. The advances in its current model come from improvements in how the data col...",
-    "url": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/",
-    "date": "2026-06-02"
-  },
-  {
-    "title": "DuckDuckGo makes its \u2018no-AI\u2019 search engine easier to access as its traffic booms",
-    "source": "TechCrunch",
-    "summary": "Alternative search engine DuckDuckGo launches 'no AI' web extensions for Chrome and Firefox users.",
-    "url": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
-    "date": "2026-06-02"
-  },
-  {
-    "title": "Erin Brockovich takes aim at data center secrecy",
-    "source": "TechCrunch",
-    "summary": "Environmental activist Erin Brockovich has a new mission.",
-    "url": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
-    "date": "2026-06-02"
-  },
-  {
-    "title": "Making sense of the debate over AI psychosis",
-    "source": "TechCrunch",
-    "summary": "On the latest episode of Equity, we debate whether tech CEOs are 'uniquely prone to AI psychosis.'",
-    "url": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
-    "date": "2026-06-02"
-  },
-  {
-    "title": "SoftBank says it will invest up to \u20ac75B to build French data centers",
-    "source": "TechCrunch",
-    "summary": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity.",
-    "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
     "date": "2026-06-02"
   },
   {
@@ -175,6 +175,13 @@
     "date": "2026-06-02"
   },
   {
+    "title": "Meet Microsoft Scout, Your AI Coworker That Never Logs Off",
+    "source": "Wired",
+    "summary": "Microsoft\u2019s OpenClaw-style agent appears in Teams, just like a human colleague, and automates your dull office tasks.",
+    "url": "https://www.wired.com/story/meet-microsoft-scout-your-ai-coworker-that-never-logs-off/",
+    "date": "2026-06-02"
+  },
+  {
     "title": "Flush With Cash From OpenAI, Opal Is Making an AI-Powered Audio Gadget",
     "source": "Wired",
     "summary": "Opal, the company famous for making a fancy webcam, has pivoted to making other consumer electronics. Fueled by big investments from OpenAI and Samsung, it\u2019s working on an audio gadget first.",
@@ -238,10 +245,24 @@
     "date": "2026-06-02"
   },
   {
-    "title": "The Vatican\u2019s Man Inside Anthropic",
-    "source": "Wired",
-    "summary": "Pope Leo XIV may not be able to disarm AI, but he\u2019s got the attention of the industry.",
-    "url": "https://www.wired.com/story/the-vaticans-man-inside-anthropic/",
+    "title": "Microsoft's Project Solara is an Android OS designed for agents instead of apps",
+    "source": "Ars Technica",
+    "summary": "Microsoft missed the boat on apps, so get ready for agents.",
+    "url": "https://arstechnica.com/gadgets/2026/06/microsofts-project-solara-is-an-android-os-designed-for-agents-instead-of-apps/",
+    "date": "2026-06-02"
+  },
+  {
+    "title": "Mathematicians warn of AI threats to profession as industry encroaches",
+    "source": "Ars Technica",
+    "summary": "International Mathematical Union endorses warning about tech industry influence.",
+    "url": "https://arstechnica.com/tech-policy/2026/06/mathematicians-warn-of-ai-threats-to-profession-as-industry-encroaches/",
+    "date": "2026-06-02"
+  },
+  {
+    "title": "Android phones will soon be able to detect spoofed calls and impersonation scams",
+    "source": "Ars Technica",
+    "summary": "Google's June Android feature drop includes more scam detection, more AirDrop, and yes, more AI.",
+    "url": "https://arstechnica.com/gadgets/2026/06/google-announces-deepfake-call-detection-for-android-new-airdrop-device-support/",
     "date": "2026-06-02"
   },
   {
@@ -326,27 +347,6 @@
     "source": "Ars Technica",
     "summary": "Here\u2019s why Anthropic and OpenAI are on board with Illinois safety testing.",
     "url": "https://arstechnica.com/tech-policy/2026/05/trump-loses-more-control-over-ai-regulation-as-illinois-passes-landmark-law/",
-    "date": "2026-06-02"
-  },
-  {
-    "title": "Nvidia bets $150B on Taiwan as Trump's plan to make US an AI hub backfires",
-    "source": "Ars Technica",
-    "summary": "Nvidia will invest $150 billion a year to make Taiwan an AI \u201cepicenter.\u201d",
-    "url": "https://arstechnica.com/tech-policy/2026/05/nvidia-ceo-wants-taiwan-to-be-center-of-ai-revolution-not-us/",
-    "date": "2026-06-02"
-  },
-  {
-    "title": "YouTube to begin automatically labeling AI videos",
-    "source": "Ars Technica",
-    "summary": "AI videos that are animated, unrealistic, or only have a little AI may still hide their origins, though.",
-    "url": "https://arstechnica.com/google/2026/05/youtube-to-begin-automatically-labeling-ai-videos/",
-    "date": "2026-06-02"
-  },
-  {
-    "title": "US law enforcement warns of 'anti-tech extremism' as AI hatred grows",
-    "source": "Ars Technica",
-    "summary": "The feds are raising the alarm about a new category of threat.",
-    "url": "https://arstechnica.com/ai/2026/05/us-law-enforcement-warns-of-anti-tech-extremism-as-ai-hatred-grows/",
     "date": "2026-06-02"
   }
 ]

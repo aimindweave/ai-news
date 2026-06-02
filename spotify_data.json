@@ -94,6 +94,16 @@
   "episodes": [
     {
       "id": "a]6z Pod_0",
+      "name": "Steven Sinofsky on Apple at 50, Microsoft, and the Future of Computing",
+      "show": "a]6z Podcast",
+      "description": "Theo Jaffee speaks with Steven Sinofsky about Apple’s 50th anniversary and the evolution of personal computing over the last four decades.\nDrawing on his experience helping lead Microsoft th",
+      "release_date": "2026-06-02",
+      "duration_min": 29,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
+      "id": "a]6z Pod_1",
       "name": "Building AI Agents for Enterprise Operations",
       "show": "a]6z Podcast",
       "description": "Anish Acharya and Olivia Moore speak with Pablo Palafox and Luis Paarup about the challenges of deploying AI agents in operationally complex industries.\nThe conversation covers the evolution",
@@ -123,7 +133,7 @@
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "Why $1B Exits are Dead",
       "show": "a]6z Podcast",
       "description": "David George, General Partner at a16z, and David Clark, CIO at VenCap, discuss how AI is reshaping venture capital and the technology industry itself. They examine why today’s AI companies are scal",
@@ -141,16 +151,6 @@
       "duration_min": 48,
       "image": "",
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
-    },
-    {
-      "id": "a]6z Pod_2",
-      "name": "Stablecoins, AI Agents, and The Future of Global Banking",
-      "show": "a]6z Podcast",
-      "description": "Angela Strange speaks with Dileep Thazhmon, founder and CEO of Jeeves, about building a global financial operating system for enterprises across Latin America using stablecoins and AI.\nThe c",
-      "release_date": "2026-05-28",
-      "duration_min": 37,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
       "id": "The AI P_0",
