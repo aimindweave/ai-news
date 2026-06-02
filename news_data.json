@@ -1,6 +1,13 @@
 [
   {
-    "title": "Uber caps employee AI spending after blowing through budget in four months",
+    "title": "Cyera eyes $12B valuation at 80x ARR multiple despite operating losses",
+    "source": "TechCrunch",
+    "summary": "The cybersecurity company is nearing a $300 million round led by Evolution Equity Partners.",
+    "url": "https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/",
+    "date": "2026-06-02"
+  },
+  {
+    "title": "Uber caps employee AI spending after blowing through budget in 4 months",
     "source": "TechCrunch",
     "summary": "Uber's cutback has occurred after the company had reportedly encouraged staff to use AI as much as possible.",
     "url": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
@@ -95,13 +102,6 @@
     "source": "TechCrunch",
     "summary": "If Nvidia has cracked a way to bring AI agents easily, safely, and usefully to the masses, it could \u2014 and should \u2014 be big.",
     "url": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
-    "date": "2026-06-02"
-  },
-  {
-    "title": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
-    "source": "TechCrunch",
-    "summary": "The lawsuit partially revolves around a shooting at Florida State University last year, and ChatGPT's alleged role in the incident.",
-    "url": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
     "date": "2026-06-02"
   },
   {
@@ -242,111 +242,6 @@
     "source": "Wired",
     "summary": "A book about how AI shapes perceptions of reality came under fire for using AI-generated quotes. Its problems go beyond that.",
     "url": "https://www.wired.com/story/future-of-truth-ai-interview/",
-    "date": "2026-06-02"
-  },
-  {
-    "title": "Microsoft's Project Solara is an Android OS designed for agents instead of apps",
-    "source": "Ars Technica",
-    "summary": "Microsoft missed the boat on apps, so get ready for agents.",
-    "url": "https://arstechnica.com/gadgets/2026/06/microsofts-project-solara-is-an-android-os-designed-for-agents-instead-of-apps/",
-    "date": "2026-06-02"
-  },
-  {
-    "title": "Mathematicians warn of AI threats to profession as industry encroaches",
-    "source": "Ars Technica",
-    "summary": "International Mathematical Union endorses warning about tech industry influence.",
-    "url": "https://arstechnica.com/tech-policy/2026/06/mathematicians-warn-of-ai-threats-to-profession-as-industry-encroaches/",
-    "date": "2026-06-02"
-  },
-  {
-    "title": "Android phones will soon be able to detect spoofed calls and impersonation scams",
-    "source": "Ars Technica",
-    "summary": "Google's June Android feature drop includes more scam detection, more AirDrop, and yes, more AI.",
-    "url": "https://arstechnica.com/gadgets/2026/06/google-announces-deepfake-call-detection-for-android-new-airdrop-device-support/",
-    "date": "2026-06-02"
-  },
-  {
-    "title": "AI costs how much? GitHub Copilot users react to new usage-based pricing system.",
-    "source": "Ars Technica",
-    "summary": "Some report burning through their whole monthly 'AI credit' allotment in a single day.",
-    "url": "https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/",
-    "date": "2026-06-02"
-  },
-  {
-    "title": "Hackers duped Meta AI support chatbot to steal celebrity Instagram accounts",
-    "source": "Ars Technica",
-    "summary": "Pricey Instagram handles were stolen and resold before Meta patched the exploit.",
-    "url": "https://arstechnica.com/ai/2026/06/meta-ai-support-chatbot-gave-hackers-access-to-notable-instagram-accounts/",
-    "date": "2026-06-02"
-  },
-  {
-    "title": "Florida sues OpenAI, Sam Altman after multiple ChatGPT-linked murders",
-    "source": "Ars Technica",
-    "summary": "Altman has an 'utter disregard' for human lives, Florida AG says.",
-    "url": "https://arstechnica.com/tech-policy/2026/06/florida-sues-openai-sam-altman-after-multiple-chatgpt-linked-murders/",
-    "date": "2026-06-02"
-  },
-  {
-    "title": "From 15 hours to one minute: How AI/ML is speeding up GM's development",
-    "source": "Ars Technica",
-    "summary": "From CFD and FEA to digital twins, carmaking now involves a lot of virtualization.",
-    "url": "https://arstechnica.com/cars/2026/06/from-15-hours-to-one-minute-how-ai-ml-is-speeding-up-gms-development/",
-    "date": "2026-06-02"
-  },
-  {
-    "title": "Allegedly trashing Airbnbs to test robots puts startup in legal trouble",
-    "source": "Ars Technica",
-    "summary": "Lawsuit seeks $12,000 from startup that allegedly damaged home in robot tests.",
-    "url": "https://arstechnica.com/ai/2026/06/allegedly-trashing-airbnbs-to-test-robots-puts-startup-in-legal-trouble/",
-    "date": "2026-06-02"
-  },
-  {
-    "title": "Intel: Our upcoming AI chip will be cheaper, run cooler than Nvidia, AMD options",
-    "source": "Ars Technica",
-    "summary": "Crescent Island is an air-cooled chip that uses LPDDR5 memory.",
-    "url": "https://arstechnica.com/ai/2026/06/intel-our-upcoming-ai-chip-will-be-cheaper-run-cooler-than-nvidia-amd-options/",
-    "date": "2026-06-02"
-  },
-  {
-    "title": "An OpenAI model solved a famous math problem that stumped humans for 80 years",
-    "source": "Ars Technica",
-    "summary": "I tried to explain OpenAI\u2019s solution more clearly than OpenAI did.",
-    "url": "https://arstechnica.com/ai/2026/06/openais-math-breakthrough-played-to-ais-strengths/",
-    "date": "2026-06-02"
-  },
-  {
-    "title": "Startup offers free home cleaning\u2014if it can record it all for robot training",
-    "source": "Ars Technica",
-    "summary": "The latest twist in paying humans to wear head cameras for robot training data.",
-    "url": "https://arstechnica.com/ai/2026/05/robot-training-startup-will-send-humans-wearing-cameras-to-clean-your-home/",
-    "date": "2026-06-02"
-  },
-  {
-    "title": "LLMs believe false statements even after explicit warnings that they're false",
-    "source": "Ars Technica",
-    "summary": "Fine-tuning tests show 'bias... toward confidently representing the claims as true.'",
-    "url": "https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false/",
-    "date": "2026-06-02"
-  },
-  {
-    "title": "Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code",
-    "source": "Ars Technica",
-    "summary": "Undisclosed addition in jqwik instructed AI coding agents to delete app output.",
-    "url": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
-    "date": "2026-06-02"
-  },
-  {
-    "title": "Apple working to cram massive Gemini model into iPhone to power new Siri",
-    "source": "Ars Technica",
-    "summary": "As Apple tries to shrink Gemini for the iPhone, a cloud component is probably inevitable.",
-    "url": "https://arstechnica.com/ai/2026/05/apple-reportedly-trying-to-distill-googles-multi-trillion-parameter-gemini-ai-to-run-on-iphone/",
-    "date": "2026-06-02"
-  },
-  {
-    "title": "Trump loses more control over AI regulation as Illinois passes landmark law",
-    "source": "Ars Technica",
-    "summary": "Here\u2019s why Anthropic and OpenAI are on board with Illinois safety testing.",
-    "url": "https://arstechnica.com/tech-policy/2026/05/trump-loses-more-control-over-ai-regulation-as-illinois-passes-landmark-law/",
     "date": "2026-06-02"
   }
 ]
