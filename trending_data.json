@@ -10,9 +10,9 @@
   {
     "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
     "source": "Hacker News",
-    "description": "HN Score: 107 | 43 comments",
+    "description": "HN Score: 532 | 198 comments",
     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
-    "score": 107,
+    "score": 532,
     "date": "2026-06-03",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "MAI-Code-1-Flash",
+    "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
     "source": "Hacker News",
-    "description": "HN Score: 515 | 243 comments",
-    "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
-    "score": 515,
+    "description": "HN Score: 238 | 304 comments",
+    "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
+    "score": 238,
     "date": "2026-06-03",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "32GB of DDR5 now costs $375 \u2013 AI shortage continues to squeeze PC building",
+    "title": "Launch HN: Hyper (YC P26) \u2013 Company brain to power agentic development",
     "source": "Hacker News",
-    "description": "HN Score: 221 | 228 comments",
-    "url": "https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building",
-    "score": 221,
+    "description": "HN Score: 38 | 34 comments",
+    "url": "https://news.ycombinator.com/item?id=48387095",
+    "score": 38,
     "date": "2026-06-03",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "AI outperforms law professors in Stanford Law study",
+    "title": "Show HN: Mnemo \u2013 local-first AI memory layer for any LLM (Rust, SQLite,petgraph)",
     "source": "Hacker News",
-    "description": "HN Score: 367 | 316 comments",
-    "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
-    "score": 367,
+    "description": "HN Score: 6 | 0 comments",
+    "url": "https://github.com/zaydmulani09/mnemo",
+    "score": 6,
     "date": "2026-06-03",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "U of T researchers demonstrate AI worm could target any online device",
+    "title": "Rootshell: A new E2EE email service hosted in Iceland",
     "source": "Hacker News",
-    "description": "HN Score: 114 | 35 comments",
-    "url": "https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device",
-    "score": 114,
+    "description": "HN Score: 26 | 18 comments",
+    "url": "https://rootshell.is",
+    "score": 26,
     "date": "2026-06-03",
     "category": "AI News"
   },
@@ -93,45 +93,62 @@
     "category": "Twitter"
   },
   {
-    "title": "DIY Bipedal Robot Used Pneumatic 'Air-Muscles' Instead of Motors",
+    "title": "Mathematicians issue warning as AI rapidly gains ground",
     "source": "Hacker News",
-    "description": "HN Score: 63 | 18 comments",
-    "url": "https://spectrum.ieee.org/shadow-walker-biped-humanoid-robot",
-    "score": 63,
+    "description": "HN Score: 117 | 148 comments",
+    "url": "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground",
+    "score": 117,
     "date": "2026-06-03",
     "category": "AI News"
   },
   {
-    "title": "Surreal how good Claude Code is at fixing anything in your computer. My new favorite use case right now: use Opus 4.8 to troubleshoot, configure, and ",
+    "title": "I've been trying to pay more attention to the random, little things around me every day. I'm honestly sick of looking at the world through a phone scr",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2062154338454401063#m",
+    "url": "https://nitter.net/svpino/status/2062278184713019487#m",
     "date": "2026-06-03",
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Tired of duct-taping access control into agent prompts. Here's the fix",
+    "title": "32GB of DDR5 now costs $375 \u2013 AI shortage continues to squeeze PC building",
     "source": "Hacker News",
-    "description": "HN Score: 14 | 16 comments",
-    "url": "https://github.com/yaodub/cast",
-    "score": 14,
+    "description": "HN Score: 350 | 314 comments",
+    "url": "https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building",
+    "score": 350,
     "date": "2026-06-03",
     "category": "AI News"
   },
   {
-    "title": "RT by @svpino: The architecture in Kyoto is fascinating. There's so much charm, soul, and personality in this place! I feel calmed and relaxed walking",
+    "title": "Humans have an average of 200-250 ms of latency when speaking to each other. This voice model is even faster: only 110 ms of latency! Open-weights \u2190Yo",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2061958559286600047#m",
+    "url": "https://nitter.net/svpino/status/2062274863788929147#m",
     "date": "2026-06-03",
     "category": "Twitter"
   },
   {
-    "title": "Gmail thinks I'm stupid, so I left",
+    "title": "How turkey hacked the hair-transplant industry",
     "source": "Hacker News",
-    "description": "HN Score: 1106 | 748 comments",
-    "url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
-    "score": 1106,
+    "description": "HN Score: 93 | 155 comments",
+    "url": "https://www.wired.com/story/how-turkey-hacked-the-hair-transplant-industry/",
+    "score": 93,
+    "date": "2026-06-03",
+    "category": "AI News"
+  },
+  {
+    "title": "Open Source AI has gone up by 500% in 2 months - Gemma 4 12B just dropped - Deepseek Flash is used in production workloads - Kimi 2.6 for coding - Min",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2062260778623795569#m",
+    "date": "2026-06-03",
+    "category": "Twitter"
+  },
+  {
+    "title": "A blueprint for democratic governance of frontier AI",
+    "source": "Hacker News",
+    "description": "HN Score: 12 | 3 comments",
+    "url": "https://openai.com/index/frontier-safety-blueprint/",
+    "score": 12,
     "date": "2026-06-03",
     "category": "AI News"
   },
@@ -144,20 +161,12 @@
     "category": "Twitter"
   },
   {
-    "title": "Open Repair Data Standard",
+    "title": "U of T researchers demonstrate AI worm could target any online device",
     "source": "Hacker News",
-    "description": "HN Score: 149 | 11 comments",
-    "url": "https://openrepair.org/open-data/open-standard/",
-    "score": 149,
+    "description": "HN Score: 129 | 41 comments",
+    "url": "https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device",
+    "score": 129,
     "date": "2026-06-03",
     "category": "AI News"
-  },
-  {
-    "title": "Finally, Microsoft enters the AI arena! They just announced two foundation models - MAI and Mai-Flash They used to have a great research lab... and ea",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2061877732708176214#m",
-    "date": "2026-06-03",
-    "category": "Twitter"
   }
 ]
