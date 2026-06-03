@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Mathematicians issue warning as AI rapidly gains ground",
+    "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
     "source": "Hacker News",
-    "description": "HN Score: 8 | 2 comments",
-    "url": "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground",
-    "score": 8,
+    "description": "HN Score: 107 | 43 comments",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
+    "score": 107,
     "date": "2026-06-03",
     "category": "AI News"
   },
@@ -27,77 +27,111 @@
   {
     "title": "MAI-Code-1-Flash",
     "source": "Hacker News",
-    "description": "HN Score: 477 | 215 comments",
+    "description": "HN Score: 515 | 243 comments",
     "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
-    "score": 477,
+    "score": 515,
     "date": "2026-06-03",
     "category": "AI News"
   },
   {
-    "title": "RT by @EMostaque: Pretty refreshing for foundation model training in 2026. I wonder how much of the capability gap between their model and other front",
+    "title": "RT by @EMostaque: Introducing Ideogram 4.0: the best open image model in the world. Think it. Make it. Own it. Download the weights, fine-tune on your",
     "source": "@EMostaque",
     "description": "",
-    "url": "https://nitter.net/lu__jasper/status/2061907606520680938#m",
+    "url": "https://nitter.net/ideogram_ai/status/2062202208700313872#m",
+    "date": "2026-06-03",
+    "category": "Twitter"
+  },
+  {
+    "title": "32GB of DDR5 now costs $375 \u2013 AI shortage continues to squeeze PC building",
+    "source": "Hacker News",
+    "description": "HN Score: 221 | 228 comments",
+    "url": "https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building",
+    "score": 221,
+    "date": "2026-06-03",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: II-Browser is here: a Chrome extension that lets II-Agent work inside your browser, across the tabs, sessions, and tools you already",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/ii_posts/status/2062187454468174247#m",
     "date": "2026-06-03",
     "category": "Twitter"
   },
   {
     "title": "AI outperforms law professors in Stanford Law study",
     "source": "Hacker News",
-    "description": "HN Score: 268 | 211 comments",
+    "description": "HN Score: 367 | 316 comments",
     "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
-    "score": 268,
+    "score": 367,
     "date": "2026-06-03",
     "category": "AI News"
   },
   {
-    "title": "Pinned: I promise this will be the best 20 min you spend today! Robotics: Endgame, the sequel to my last year's Sequoia AI Ascent talk, 'Physical Turi",
+    "title": "RT by @DrJimFan: Mark: 1/ First milestone: the Physical Turing Test. You literally can\u2019t tell if a human or robot is doing the task. 2/ Next: Physical",
     "source": "@DrJimFan",
     "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2052758642781487237#m",
-    "date": "2026-06-03",
-    "category": "Twitter"
-  },
-  {
-    "title": "DIY Bipedal Robot Used Pneumatic 'Air-Muscles' Instead of Motors",
-    "source": "Hacker News",
-    "description": "HN Score: 19 | 7 comments",
-    "url": "https://spectrum.ieee.org/shadow-walker-biped-humanoid-robot",
-    "score": 19,
-    "date": "2026-06-03",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: My friend deployed his first website with a couple of prompts. He doesn't understand what 'HTML', 'security', or 'VPC' mean. He doesn't",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2061925133275861481#m",
+    "url": "https://nitter.net/CyberRobooo/status/2053149920740450732#m",
     "date": "2026-06-03",
     "category": "Twitter"
   },
   {
     "title": "U of T researchers demonstrate AI worm could target any online device",
     "source": "Hacker News",
-    "description": "HN Score: 50 | 13 comments",
+    "description": "HN Score: 114 | 35 comments",
     "url": "https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device",
-    "score": 50,
+    "score": 114,
     "date": "2026-06-03",
     "category": "AI News"
   },
   {
-    "title": "RT by @svpino: Here is an open-source tool to generate a complete dataset. 1. Describe the data you want 2. An orchestrator agent searches the web 3. ",
+    "title": "RT by @DrJimFan: Jim is always a crowd favorite at AI Ascent. His ability to simplify the latest research into a clear 'what and why it matters' while",
+    "source": "@DrJimFan",
+    "description": "",
+    "url": "https://nitter.net/Alfred_Lin/status/2052847050379936113#m",
+    "date": "2026-06-03",
+    "category": "Twitter"
+  },
+  {
+    "title": "DIY Bipedal Robot Used Pneumatic 'Air-Muscles' Instead of Motors",
+    "source": "Hacker News",
+    "description": "HN Score: 63 | 18 comments",
+    "url": "https://spectrum.ieee.org/shadow-walker-biped-humanoid-robot",
+    "score": 63,
+    "date": "2026-06-03",
+    "category": "AI News"
+  },
+  {
+    "title": "Surreal how good Claude Code is at fixing anything in your computer. My new favorite use case right now: use Opus 4.8 to troubleshoot, configure, and ",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2061901892448555160#m",
+    "url": "https://nitter.net/svpino/status/2062154338454401063#m",
+    "date": "2026-06-03",
+    "category": "Twitter"
+  },
+  {
+    "title": "Show HN: Tired of duct-taping access control into agent prompts. Here's the fix",
+    "source": "Hacker News",
+    "description": "HN Score: 14 | 16 comments",
+    "url": "https://github.com/yaodub/cast",
+    "score": 14,
+    "date": "2026-06-03",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: The architecture in Kyoto is fascinating. There's so much charm, soul, and personality in this place! I feel calmed and relaxed walking",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2061958559286600047#m",
     "date": "2026-06-03",
     "category": "Twitter"
   },
   {
     "title": "Gmail thinks I'm stupid, so I left",
     "source": "Hacker News",
-    "description": "HN Score: 991 | 657 comments",
+    "description": "HN Score: 1106 | 748 comments",
     "url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
-    "score": 991,
+    "score": 1106,
     "date": "2026-06-03",
     "category": "AI News"
   },
@@ -112,9 +146,9 @@
   {
     "title": "Open Repair Data Standard",
     "source": "Hacker News",
-    "description": "HN Score: 135 | 9 comments",
+    "description": "HN Score: 149 | 11 comments",
     "url": "https://openrepair.org/open-data/open-standard/",
-    "score": 135,
+    "score": 149,
     "date": "2026-06-03",
     "category": "AI News"
   },
@@ -125,32 +159,5 @@
     "url": "https://nitter.net/bindureddy/status/2061877732708176214#m",
     "date": "2026-06-03",
     "category": "Twitter"
-  },
-  {
-    "title": "Trump signs downsized AI order after weeks of reversals",
-    "source": "Hacker News",
-    "description": "HN Score: 215 | 158 comments",
-    "url": "https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389",
-    "score": 215,
-    "date": "2026-06-03",
-    "category": "AI News"
-  },
-  {
-    "title": "Great Question (YC W21) Is Hiring Applied AI Interns",
-    "source": "Hacker News",
-    "description": "HN Score: 1 | 0 comments",
-    "url": "https://www.ycombinator.com/companies/great-question/jobs/J5TNvQH-ai-engineer-intern",
-    "score": 1,
-    "date": "2026-06-03",
-    "category": "AI News"
-  },
-  {
-    "title": "Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.ai",
-    "source": "Hacker News",
-    "description": "HN Score: 652 | 268 comments",
-    "url": "https://blog.adafruit.com/",
-    "score": 652,
-    "date": "2026-06-03",
-    "category": "AI News"
   }
 ]

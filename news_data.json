@@ -1,5 +1,40 @@
 [
   {
+    "title": "Amazon will show AI product images when you search for some reason",
+    "source": "TechCrunch",
+    "summary": "Amazon will use visual search and AI to show AI generated product images that match your search queries. The retailer says it will help guide users to products.",
+    "url": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
+    "date": "2026-06-03"
+  },
+  {
+    "title": "These two founders left Goldman and Meta to build voice AI for markets everyone else overlooked",
+    "source": "TechCrunch",
+    "summary": "The startup's own stack for Africa and Middle East is now handling more than 17,000 calls per day.",
+    "url": "https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/",
+    "date": "2026-06-03"
+  },
+  {
+    "title": "Publishers will be able to opt out of AI Search, thanks to new regulation",
+    "source": "TechCrunch",
+    "summary": "U.K. regulators are requiring Google offer a tool allowing website publishers to opt-out of generative AI search features. The option will be tested in the U.K. then rolled out globally.",
+    "url": "https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/",
+    "date": "2026-06-03"
+  },
+  {
+    "title": "Meta\u2019s AI agent for WhatsApp Business is now available globally",
+    "source": "TechCrunch",
+    "summary": "WhatsApp will charge businesses for using its AI agent based on token usage",
+    "url": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
+    "date": "2026-06-03"
+  },
+  {
+    "title": "Coralogix raises $200M on bet that someone needs to watch the AI agents",
+    "source": "TechCrunch",
+    "summary": "The Series F round values Coralogix at $1.6 billion and comes less than a year after its previous raise.",
+    "url": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
+    "date": "2026-06-03"
+  },
+  {
     "title": "Cyera eyes $12B valuation at 80x ARR multiple despite operating losses",
     "source": "TechCrunch",
     "summary": "The cybersecurity company is nearing a $300 million round led by Evolution Equity Partners.",
@@ -70,38 +105,10 @@
     "date": "2026-06-03"
   },
   {
-    "title": "Anthropic scales Claude Mythos to critical infrastructure in 15+ countries",
-    "source": "TechCrunch",
-    "summary": "Anthropic is expanding Project Glasswing, its security vulnerability program, and access to Mythos to 150 organizations across 15 countries \u2014 targeting critical infrastructure in power, water, healthcare, and communications where a cyberattack could affect 100 million people.",
-    "url": "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/",
-    "date": "2026-06-03"
-  },
-  {
-    "title": "ZeroDrift raises $10M to protect AI models from themselves",
-    "source": "TechCrunch",
-    "summary": "A new AI compliance service sits between AI models and end users to flag and replace any messages that might present a compliance problem.",
-    "url": "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/",
-    "date": "2026-06-03"
-  },
-  {
-    "title": "Rocket engine startup Impulse raises $500 million to hire people, not AI",
-    "source": "TechCrunch",
-    "summary": "Engineering physical systems still depends on human talent, according to Impulse Space president Eric Romo.",
-    "url": "https://techcrunch.com/2026/06/02/rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai/",
-    "date": "2026-06-03"
-  },
-  {
-    "title": "Alphabet plans to raise $80B to pay for AI buildout",
-    "source": "TechCrunch",
-    "summary": "'The company is experiencing strong demand for its AI solutions and services from enterprises and consumers, at levels that are exceeding the company\u2019s available supply,' Alphabet said in its statement.",
-    "url": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
-    "date": "2026-06-03"
-  },
-  {
-    "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
-    "source": "TechCrunch",
-    "summary": "If Nvidia has cracked a way to bring AI agents easily, safely, and usefully to the masses, it could \u2014 and should \u2014 be big.",
-    "url": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
+    "title": "The Download: Trump\u2019s new AI order, and smart glasses for warfare",
+    "source": "MIT Tech Review",
+    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. 5 key points in Trump s new AI order Less than two weeks after scrapping an executive order on AI, President Donald Trump signed a new one on Tuesday. Promisin...",
+    "url": "https://www.technologyreview.com/2026/06/03/1138322/the-download-trump-ai-order-smart-glasses-warfare/",
     "date": "2026-06-03"
   },
   {
@@ -168,10 +175,10 @@
     "date": "2026-06-03"
   },
   {
-    "title": "The Download: climate tech goes public and the AI Hype Index returns",
-    "source": "MIT Tech Review",
-    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Climate tech companies are going public. What\u2019s next? Solar and battery company Solv Energy went public in February, hitting a $6 billion valuation. X-energy, ...",
-    "url": "https://www.technologyreview.com/2026/05/28/1138085/the-download-climate-tech-ipos-ai-hype-index/",
+    "title": "This Is How Trump Finally Signed the AI Executive Order",
+    "source": "Wired",
+    "summary": "After shelving the original executive order last month, Donald Trump finally got on board Monday night.",
+    "url": "https://www.wired.com/story/this-is-how-trump-finally-signed-the-ai-executive-order/",
     "date": "2026-06-03"
   },
   {
@@ -238,10 +245,10 @@
     "date": "2026-06-03"
   },
   {
-    "title": "Do You Actually Need to Pay for Transcription Software?",
-    "source": "Wired",
-    "summary": "I tested Wispr Flow and various AI-powered transcription software to see whether you should bother subscribing or stick with free services.",
-    "url": "https://www.wired.com/story/do-you-actually-need-to-pay-for-transcription-software/",
+    "title": "Inside Meta's attempts to play catch-up with AI",
+    "source": "Ars Technica",
+    "summary": "Doubts linger over whether Meta can close the gap with rivals.",
+    "url": "https://arstechnica.com/ai/2026/06/inside-metas-attempts-to-play-catch-up-with-ai/",
     "date": "2026-06-03"
   },
   {
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "As Apple tries to shrink Gemini for the iPhone, a cloud component is probably inevitable.",
     "url": "https://arstechnica.com/ai/2026/05/apple-reportedly-trying-to-distill-googles-multi-trillion-parameter-gemini-ai-to-run-on-iphone/",
-    "date": "2026-06-03"
-  },
-  {
-    "title": "Trump loses more control over AI regulation as Illinois passes landmark law",
-    "source": "Ars Technica",
-    "summary": "Here\u2019s why Anthropic and OpenAI are on board with Illinois safety testing.",
-    "url": "https://arstechnica.com/tech-policy/2026/05/trump-loses-more-control-over-ai-regulation-as-illinois-passes-landmark-law/",
     "date": "2026-06-03"
   }
 ]
