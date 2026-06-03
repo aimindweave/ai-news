@@ -1,5 +1,12 @@
 [
   {
+    "title": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
+    "source": "TechCrunch",
+    "summary": "Lovable and Google signed an expanded multiyear deal that involves a 5x expansion of Lovable's footprint on Google Cloud, and expanded access to Anthropic Claude.",
+    "url": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
+    "date": "2026-06-03"
+  },
+  {
     "title": "Alphabet\u2019s record-breaking $85B raise for Google\u2019s AI business is a helluva good signal",
     "source": "TechCrunch",
     "summary": "If Alphabet's record-breaking $85 billion stock sale signals investor appetite for AI-related offerings, we can see that investors are ready to chow.",
@@ -95,13 +102,6 @@
     "source": "TechCrunch",
     "summary": "The specification lets developer, compliance, and security teams define their own policies for agents to follow in portable policy files.",
     "url": "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/",
-    "date": "2026-06-03"
-  },
-  {
-    "title": "Amazon faces class action lawsuit over Ring facial-recognition feature",
-    "source": "TechCrunch",
-    "summary": "The class action lawsuit, filed in Seattle by Virginia resident Charles Sigwalt, claims that Ring's Familiar Faces feature stores images of passersby without consent.",
-    "url": "https://techcrunch.com/2026/06/02/amazon-faces-class-action-lawsuit-over-ring-facial-recognition-feature/",
     "date": "2026-06-03"
   },
   {
@@ -242,6 +242,111 @@
     "source": "Wired",
     "summary": "The AI giant behind Claude submitted paperwork on Monday that would take it public, just a couple of weeks after SpaceX\u2019s splashy IPO announcement.",
     "url": "https://www.wired.com/story/anthropic-files-s1-ipo-sec/",
+    "date": "2026-06-03"
+  },
+  {
+    "title": "Google ordered to put clearer links in AI search and let UK publishers opt out",
+    "source": "Ars Technica",
+    "summary": "Google must change AI Overviews after claiming users don't want 'lots of sources.'",
+    "url": "https://arstechnica.com/tech-policy/2026/06/google-ordered-to-put-clearer-links-in-ai-search-and-let-uk-publishers-opt-out/",
+    "date": "2026-06-03"
+  },
+  {
+    "title": "Google's new Gemma 4 12B model is designed to run on any laptop with 16GB of RAM",
+    "source": "Ars Technica",
+    "summary": "Gemma 4 12B uses a new encoding scheme and token prediction to punch above its weight.",
+    "url": "https://arstechnica.com/google/2026/06/googles-new-gemma-4-open-ai-model-is-sized-for-your-laptop/",
+    "date": "2026-06-03"
+  },
+  {
+    "title": "Trump plan to test AI models has a problem\u2014US security teams were gutted by DOGE",
+    "source": "Ars Technica",
+    "summary": "Critics say Trump plan to test AI models is short-sighted, performative.",
+    "url": "https://arstechnica.com/tech-policy/2026/06/trumps-ai-executive-order-may-not-prevent-dangerous-deployments/",
+    "date": "2026-06-03"
+  },
+  {
+    "title": "Inside Meta's attempts to play catch-up with AI",
+    "source": "Ars Technica",
+    "summary": "Doubts linger over whether Meta can close the gap with rivals.",
+    "url": "https://arstechnica.com/ai/2026/06/inside-metas-attempts-to-play-catch-up-with-ai/",
+    "date": "2026-06-03"
+  },
+  {
+    "title": "Microsoft's Project Solara is an Android OS designed for agents instead of apps",
+    "source": "Ars Technica",
+    "summary": "Microsoft missed the boat on apps, so get ready for agents.",
+    "url": "https://arstechnica.com/gadgets/2026/06/microsofts-project-solara-is-an-android-os-designed-for-agents-instead-of-apps/",
+    "date": "2026-06-03"
+  },
+  {
+    "title": "Mathematicians warn of AI threats to profession as industry encroaches",
+    "source": "Ars Technica",
+    "summary": "International Mathematical Union endorses warning about tech industry influence.",
+    "url": "https://arstechnica.com/tech-policy/2026/06/mathematicians-warn-of-ai-threats-to-profession-as-industry-encroaches/",
+    "date": "2026-06-03"
+  },
+  {
+    "title": "Android phones will soon be able to detect spoofed calls and impersonation scams",
+    "source": "Ars Technica",
+    "summary": "Google's June Android feature drop includes more scam detection, more AirDrop, and yes, more AI.",
+    "url": "https://arstechnica.com/gadgets/2026/06/google-announces-deepfake-call-detection-for-android-new-airdrop-device-support/",
+    "date": "2026-06-03"
+  },
+  {
+    "title": "AI costs how much? GitHub Copilot users react to new usage-based pricing system.",
+    "source": "Ars Technica",
+    "summary": "Some report burning through their whole monthly 'AI credit' allotment in a single day.",
+    "url": "https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/",
+    "date": "2026-06-03"
+  },
+  {
+    "title": "Hackers duped Meta AI support chatbot to steal celebrity Instagram accounts",
+    "source": "Ars Technica",
+    "summary": "Pricey Instagram handles were stolen and resold before Meta patched the exploit.",
+    "url": "https://arstechnica.com/ai/2026/06/meta-ai-support-chatbot-gave-hackers-access-to-notable-instagram-accounts/",
+    "date": "2026-06-03"
+  },
+  {
+    "title": "Florida sues OpenAI, Sam Altman after multiple ChatGPT-linked murders",
+    "source": "Ars Technica",
+    "summary": "Altman has an 'utter disregard' for human lives, Florida AG says.",
+    "url": "https://arstechnica.com/tech-policy/2026/06/florida-sues-openai-sam-altman-after-multiple-chatgpt-linked-murders/",
+    "date": "2026-06-03"
+  },
+  {
+    "title": "From 15 hours to one minute: How AI/ML is speeding up GM's development",
+    "source": "Ars Technica",
+    "summary": "From CFD and FEA to digital twins, carmaking now involves a lot of virtualization.",
+    "url": "https://arstechnica.com/cars/2026/06/from-15-hours-to-one-minute-how-ai-ml-is-speeding-up-gms-development/",
+    "date": "2026-06-03"
+  },
+  {
+    "title": "Allegedly trashing Airbnbs to test robots puts startup in legal trouble",
+    "source": "Ars Technica",
+    "summary": "Lawsuit seeks $12,000 from startup that allegedly damaged home in robot tests.",
+    "url": "https://arstechnica.com/ai/2026/06/allegedly-trashing-airbnbs-to-test-robots-puts-startup-in-legal-trouble/",
+    "date": "2026-06-03"
+  },
+  {
+    "title": "Intel: Our upcoming AI chip will be cheaper, run cooler than Nvidia, AMD options",
+    "source": "Ars Technica",
+    "summary": "Crescent Island is an air-cooled chip that uses LPDDR5 memory.",
+    "url": "https://arstechnica.com/ai/2026/06/intel-our-upcoming-ai-chip-will-be-cheaper-run-cooler-than-nvidia-amd-options/",
+    "date": "2026-06-03"
+  },
+  {
+    "title": "An OpenAI model solved a famous math problem that stumped humans for 80 years",
+    "source": "Ars Technica",
+    "summary": "I tried to explain OpenAI\u2019s solution more clearly than OpenAI did.",
+    "url": "https://arstechnica.com/ai/2026/06/openais-math-breakthrough-played-to-ais-strengths/",
+    "date": "2026-06-03"
+  },
+  {
+    "title": "Startup offers free home cleaning\u2014if it can record it all for robot training",
+    "source": "Ars Technica",
+    "summary": "The latest twist in paying humans to wear head cameras for robot training data.",
+    "url": "https://arstechnica.com/ai/2026/05/robot-training-startup-will-send-humans-wearing-cameras-to-clean-your-home/",
     "date": "2026-06-03"
   }
 ]
