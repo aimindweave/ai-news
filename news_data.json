@@ -1,5 +1,12 @@
 [
   {
+    "title": "Apple touts $1.4 trillion in App Store billings and sales, 90% without a commission",
+    "source": "TechCrunch",
+    "summary": "Apple's App Store generated $1.4 trillion in sales, up from $1.3 trillion last year, with $149 billion in sales for digital goods.",
+    "url": "https://techcrunch.com/2026/06/04/apple-touts-1-4-trillion-in-app-store-billings-and-sales-90-without-a-commission/",
+    "date": "2026-06-04"
+  },
+  {
     "title": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
     "source": "TechCrunch",
     "summary": "Lovable and Google signed an expanded multiyear deal that involves a 5x expansion of Lovable's footprint on Google Cloud, and expanded access to Anthropic Claude.",
@@ -98,10 +105,17 @@
     "date": "2026-06-04"
   },
   {
-    "title": "Microsoft offers devs a better way to control AI agent behavior",
-    "source": "TechCrunch",
-    "summary": "The specification lets developer, compliance, and security teams define their own policies for agents to follow in portable policy files.",
-    "url": "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/",
+    "title": "The Download: AI-generated lawsuits and virtual power plants for data centers",
+    "source": "MIT Tech Review",
+    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. How courts are coping with a flood of AI-generated lawsuits Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts th...",
+    "url": "https://www.technologyreview.com/2026/06/04/1138408/the-download-ai-lawsuits-virtual-power-plants-data-centers/",
+    "date": "2026-06-04"
+  },
+  {
+    "title": "How courts are coping with a flood of AI-generated lawsuits",
+    "source": "MIT Tech Review",
+    "summary": "Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by people without a lawyer. Many of them can\u2019t afford to hire a lawyer, and others have cases too weak or too small to interest one. She reads each one carefully, m...",
+    "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
     "date": "2026-06-04"
   },
   {
@@ -161,17 +175,10 @@
     "date": "2026-06-04"
   },
   {
-    "title": "The deadly Ebola outbreak is proving difficult to control",
-    "source": "MIT Tech Review",
-    "summary": "The alert was raised on May 5. Four health-care workers in the Ituri Province of the Democratic Republic of the Congo had died from an unknown illness within four days. Rapid response teams were sent to investigate, and tests at a research center in Kinshasa revealed the culprit: the Bundibugyo v...",
-    "url": "https://www.technologyreview.com/2026/05/29/1138093/the-deadly-ebola-outbreak-is-proving-difficult-to-control/",
-    "date": "2026-06-04"
-  },
-  {
-    "title": "How the Pope\u2019s Magnifica Humanitas offers a template for individuals to meet the AI moment",
-    "source": "MIT Tech Review",
-    "summary": "Pope Leo XIV\u2019s new encyclical on artificial intelligence includes a statement that warrants serious attention from technologists and policymakers: \u201cTechnology is never neutral.\u201d Magnifica Humanitas (\u201cMagnificent Humanity\u201d) is a clarion call to all people to act with courage and solidarity as we e...",
-    "url": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
+    "title": "Jeff Bezos Is Funding a Wild Hunt for the Brain\u2019s \u2018Core Algorithm\u2019",
+    "source": "Wired",
+    "summary": "With $500 million in funding and a reported $2.5 billion valuation, Flourish wants to reinvent AI by putting real neurons under the microscope.",
+    "url": "https://www.wired.com/story/jeff-bezos-is-funding-a-wild-hunt-for-the-brains-core-algorithm/",
     "date": "2026-06-04"
   },
   {
@@ -238,10 +245,10 @@
     "date": "2026-06-04"
   },
   {
-    "title": "Meet Microsoft Scout, Your AI Coworker That Never Logs Off",
-    "source": "Wired",
-    "summary": "Microsoft\u2019s OpenClaw-style agent appears in Teams, just like a human colleague, and automates your dull office tasks.",
-    "url": "https://www.wired.com/story/meet-microsoft-scout-your-ai-coworker-that-never-logs-off/",
+    "title": "How some data center operators are tackling their water use problems",
+    "source": "Ars Technica",
+    "summary": "Hyperscalers have come under scrutiny for their impact on water quality and availability.",
+    "url": "https://arstechnica.com/ai/2026/06/how-data-center-operators-are-tackling-their-water-use-problems/",
     "date": "2026-06-04"
   },
   {
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "I tried to explain OpenAI\u2019s solution more clearly than OpenAI did.",
     "url": "https://arstechnica.com/ai/2026/06/openais-math-breakthrough-played-to-ais-strengths/",
-    "date": "2026-06-04"
-  },
-  {
-    "title": "Startup offers free home cleaning\u2014if it can record it all for robot training",
-    "source": "Ars Technica",
-    "summary": "The latest twist in paying humans to wear head cameras for robot training data.",
-    "url": "https://arstechnica.com/ai/2026/05/robot-training-startup-will-send-humans-wearing-cameras-to-clean-your-home/",
     "date": "2026-06-04"
   }
 ]
