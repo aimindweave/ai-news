@@ -93,6 +93,16 @@
   ],
   "episodes": [
     {
+      "id": "Practica_0",
+      "name": "Breaking down the 2026 Stanford AI Index Report",
+      "show": "Practical AI",
+      "description": "\n        AI models can win math olympiads… but still struggle to read an analog clock. In this fully connected episode, Dan and Chris break down the latest Stanford AI Index Report and explore what",
+      "release_date": "2026-06-04",
+      "duration_min": 47,
+      "image": "",
+      "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
+    },
+    {
       "id": "a]6z Pod_0",
       "name": "Balaji and Steven Glinert on Network States, Supply Chains, and Allied Coalition Strategy",
       "show": "a]6z Podcast",
@@ -143,7 +153,7 @@
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
-      "id": "Practica_0",
+      "id": "Practica_1",
       "name": "Rebooting Enterprise AI with MCP and Kubernetes",
       "show": "Practical AI",
       "description": "\n        What happens when AI agents start acting less like chatbots and more like coworkers? In this episode, Dan and Chris sit down with Craig McLuckie, CEO of Stacklok to explore MCP, Kubernetes",
@@ -183,7 +193,7 @@
       "url": "https://open.spotify.com/show/0e1X4kJVfwQRPF8lZzqqfX"
     },
     {
-      "id": "Practica_1",
+      "id": "Practica_2",
       "name": "Hermes Agent: Agents that grow with you",
       "show": "Practical AI",
       "description": "\n        Open Source AI is entering a new era, one shaped by self-improving AI Agents, recursive learning systems, and rapidly evolving AI Tools that blur the line between software and autonomous c",
@@ -211,16 +221,6 @@
       "duration_min": 67,
       "image": "",
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
-    },
-    {
-      "id": "Practica_2",
-      "name": "U.S. Congressman Beyer on AI challenges facing America and the World",
-      "show": "Practical AI",
-      "description": "\n        U.S. Congressman Don Beyer returns to Practical AI for another far-reaching conversation with Chris about many of the most important AI challenges facing America and the world.  Blending p",
-      "release_date": "2026-05-14",
-      "duration_min": 45,
-      "image": "",
-      "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
       "id": "The AI P_2",
