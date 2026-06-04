@@ -10,9 +10,9 @@
   {
     "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
     "source": "Hacker News",
-    "description": "HN Score: 117 | 42 comments",
+    "description": "HN Score: 186 | 68 comments",
     "url": "https://github.com/anthropics/defending-code-reference-harness",
-    "score": 117,
+    "score": 186,
     "date": "2026-06-04",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
     "source": "Hacker News",
-    "description": "HN Score: 192 | 235 comments",
+    "description": "HN Score: 250 | 335 comments",
     "url": "https://www.anthropic.com/institute/recursive-self-improvement",
-    "score": 192,
+    "score": 250,
     "date": "2026-06-04",
     "category": "AI News"
   },
@@ -44,9 +44,9 @@
   {
     "title": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
     "source": "Hacker News",
-    "description": "HN Score: 99 | 9 comments",
+    "description": "HN Score: 107 | 11 comments",
     "url": "https://github.com/huawei-csl/KVarN",
-    "score": 99,
+    "score": 107,
     "date": "2026-06-04",
     "category": "AI News"
   },
@@ -61,9 +61,9 @@
   {
     "title": "Samurai City",
     "source": "Hacker News",
-    "description": "HN Score: 57 | 5 comments",
+    "description": "HN Score: 75 | 9 comments",
     "url": "https://worksinprogress.co/issue/samurai-city/",
-    "score": 57,
+    "score": 75,
     "date": "2026-06-04",
     "category": "AI News"
   },
@@ -76,11 +76,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
+    "title": "AI, Ashby Engineering, and the future",
     "source": "Hacker News",
-    "description": "HN Score: 701 | 661 comments",
-    "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
-    "score": 701,
+    "description": "HN Score: 42 | 23 comments",
+    "url": "https://www.ashbyhq.com/blog/engineering/ai-ashby-engineering-and-the-future",
+    "score": 42,
+    "date": "2026-06-04",
+    "category": "AI News"
+  },
+  {
+    "title": "These guys sold 6 figures of a $500 device nobody has ever heard of by getting viral on X. That's why I love this platform. If you can sell a headset ",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2062652416122814726#m",
+    "date": "2026-06-04",
+    "category": "Twitter"
+  },
+  {
+    "title": "Show HN: Formally verified polygon intersection \u2013 Opus 4.8 oneshots, prev failed",
+    "source": "Hacker News",
+    "description": "HN Score: 30 | 3 comments",
+    "url": "https://github.com/schildep/verified-polygon-intersection",
+    "score": 30,
     "date": "2026-06-04",
     "category": "AI News"
   },
@@ -95,26 +112,26 @@
   {
     "title": "U.S. Army Corps of Engineers Bay Model",
     "source": "Hacker News",
-    "description": "HN Score: 197 | 51 comments",
+    "description": "HN Score: 201 | 52 comments",
     "url": "https://en.wikipedia.org/wiki/U.S._Army_Corps_of_Engineers_Bay_Model",
-    "score": 197,
+    "score": 201,
     "date": "2026-06-04",
     "category": "AI News"
   },
   {
-    "title": "NVIDIA and Microsoft just finished the biggest round of announcements I remember from any tech company over the last 5 years. I'm not a Windows user a",
-    "source": "@svpino",
+    "title": "Mythos will be timed to launch with GPT 5.6 and Gemini 3.5 The only problem is that it costs $70 per 1M output tokens \ud83d\ude32",
+    "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2062630487819219082#m",
+    "url": "https://nitter.net/bindureddy/status/2062663752768458956#m",
     "date": "2026-06-04",
     "category": "Twitter"
   },
   {
-    "title": "NSA using Anthropic's Mythos for cyber attacks",
+    "title": "3D-printed book turns its own G-code into raised lettering",
     "source": "Hacker News",
-    "description": "HN Score: 40 | 7 comments",
-    "url": "https://www.ft.com/content/d02d91b3-2636-454e-9442-dc7e69f51815",
-    "score": 40,
+    "description": "HN Score: 68 | 26 comments",
+    "url": "https://www.designboom.com/design/3d-printed-book-manual-darius-ou-benson-chong/",
+    "score": 68,
     "date": "2026-06-04",
     "category": "AI News"
   },
@@ -127,37 +144,20 @@
     "category": "Twitter"
   },
   {
-    "title": "AI, Ashby Engineering, and the future",
+    "title": "Show HN: Cost.dev (YC W21) \u2013 making agents cost-aware and cheaper to call",
     "source": "Hacker News",
-    "description": "HN Score: 26 | 15 comments",
-    "url": "https://www.ashbyhq.com/blog/engineering/ai-ashby-engineering-and-the-future",
-    "score": 26,
+    "description": "HN Score: 24 | 8 comments",
+    "url": "https://cost.dev/",
+    "score": 24,
     "date": "2026-06-04",
     "category": "AI News"
   },
   {
-    "title": "AI Time Table GPT 5.6 - next week Gemini 3.5 - week after Expect a significant open source release in between",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2062353453297320314#m",
-    "date": "2026-06-04",
-    "category": "Twitter"
-  },
-  {
-    "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
+    "title": "NSA using Anthropic's Mythos for cyber attacks",
     "source": "Hacker News",
-    "description": "HN Score: 1007 | 379 comments",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
-    "score": 1007,
-    "date": "2026-06-04",
-    "category": "AI News"
-  },
-  {
-    "title": "3D-printed book turns its own G-code into raised lettering",
-    "source": "Hacker News",
-    "description": "HN Score: 65 | 25 comments",
-    "url": "https://www.designboom.com/design/3d-printed-book-manual-darius-ou-benson-chong/",
-    "score": 65,
+    "description": "HN Score: 59 | 21 comments",
+    "url": "https://www.ft.com/content/d02d91b3-2636-454e-9442-dc7e69f51815",
+    "score": 59,
     "date": "2026-06-04",
     "category": "AI News"
   }
