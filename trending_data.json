@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+    "title": "Fine-tuning an LLM to write docs like it's 1995",
     "source": "Hacker News",
-    "description": "HN Score: 319 | 102 comments",
-    "url": "https://github.com/anthropics/defending-code-reference-harness",
-    "score": 319,
+    "description": "HN Score: 67 | 21 comments",
+    "url": "https://passo.uno/fine-tuning-docs-llm/",
+    "score": 67,
     "date": "2026-06-05",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Do transformers need three projections? Systematic study of QKV variants",
+    "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
     "source": "Hacker News",
-    "description": "HN Score: 125 | 20 comments",
-    "url": "https://arxiv.org/abs/2606.04032",
-    "score": 125,
+    "description": "HN Score: 422 | 119 comments",
+    "url": "https://github.com/anthropics/defending-code-reference-harness",
+    "score": 422,
     "date": "2026-06-05",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Open Code Review \u2013 An AI-powered code review CLI tool",
+    "title": "Do transformers need three projections? Systematic study of QKV variants",
     "source": "Hacker News",
-    "description": "HN Score: 85 | 21 comments",
-    "url": "https://github.com/alibaba/open-code-review",
-    "score": 85,
+    "description": "HN Score: 168 | 34 comments",
+    "url": "https://arxiv.org/abs/2606.04032",
+    "score": 168,
     "date": "2026-06-05",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "South Korean Forums Will Need to Scan Every Images with AI Censorship Tools",
+    "title": "Open Code Review \u2013 An AI-powered code review CLI tool",
     "source": "Hacker News",
-    "description": "HN Score: 58 | 24 comments",
-    "url": "https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341",
-    "score": 58,
+    "description": "HN Score: 180 | 50 comments",
+    "url": "https://github.com/alibaba/open-code-review",
+    "score": 180,
     "date": "2026-06-05",
     "category": "AI News"
   },
@@ -76,11 +76,28 @@
     "category": "Twitter"
   },
   {
-    "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
+    "title": "Go Experiments Explained",
     "source": "Hacker News",
-    "description": "HN Score: 383 | 508 comments",
-    "url": "https://www.anthropic.com/institute/recursive-self-improvement",
-    "score": 383,
+    "description": "HN Score: 36 | 12 comments",
+    "url": "https://www.alexedwards.net/blog/go-experiments-explained",
+    "score": 36,
+    "date": "2026-06-05",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: NVIDIA and Microsoft just finished the biggest round of announcements I remember from any tech company over the last 5 years. I'm not a",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2062630487819219082#m",
+    "date": "2026-06-05",
+    "category": "Twitter"
+  },
+  {
+    "title": "Magenta RealTime 2: Open and Local Live Music Models",
+    "source": "Hacker News",
+    "description": "HN Score: 37 | 7 comments",
+    "url": "https://magenta.withgoogle.com/magenta-realtime-2",
+    "score": 37,
     "date": "2026-06-05",
     "category": "AI News"
   },
@@ -95,26 +112,9 @@
   {
     "title": "Samurai City",
     "source": "Hacker News",
-    "description": "HN Score: 124 | 21 comments",
+    "description": "HN Score: 168 | 33 comments",
     "url": "https://worksinprogress.co/issue/samurai-city/",
-    "score": 124,
-    "date": "2026-06-05",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: Beautiful way to display real-time session information in your Claude Code terminal. To configure this: 1. Run /statusline in Claude Co",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2062512218080792674#m",
-    "date": "2026-06-05",
-    "category": "Twitter"
-  },
-  {
-    "title": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
-    "source": "Hacker News",
-    "description": "HN Score: 120 | 12 comments",
-    "url": "https://github.com/huawei-csl/KVarN",
-    "score": 120,
+    "score": 168,
     "date": "2026-06-05",
     "category": "AI News"
   },
@@ -127,11 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "I made a kernel 2.2x faster. It made my training loop 3x slower",
+    "title": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
     "source": "Hacker News",
-    "description": "HN Score: 15 | 1 comments",
-    "url": "https://kyrieblunders.bearblog.dev/making-dr-grpo-go-brrr/",
-    "score": 15,
+    "description": "HN Score: 133 | 13 comments",
+    "url": "https://github.com/huawei-csl/KVarN",
+    "score": 133,
     "date": "2026-06-05",
     "category": "AI News"
   },
@@ -144,20 +144,20 @@
     "category": "Twitter"
   },
   {
-    "title": "Go Experiments Explained",
+    "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
     "source": "Hacker News",
-    "description": "HN Score: 3 | 0 comments",
-    "url": "https://www.alexedwards.net/blog/go-experiments-explained",
-    "score": 3,
+    "description": "HN Score: 456 | 614 comments",
+    "url": "https://www.anthropic.com/institute/recursive-self-improvement",
+    "score": 456,
     "date": "2026-06-05",
     "category": "AI News"
   },
   {
-    "title": "Latent Agents: A Post-Training Procedure for Internalized Multi-Agent Debate",
+    "title": "South Korean Forums Will Need to Scan Every Images with AI Censorship Tools",
     "source": "Hacker News",
-    "description": "HN Score: 19 | 0 comments",
-    "url": "https://arxiv.org/abs/2604.24881",
-    "score": 19,
+    "description": "HN Score: 130 | 102 comments",
+    "url": "https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341",
+    "score": 130,
     "date": "2026-06-05",
     "category": "AI News"
   }

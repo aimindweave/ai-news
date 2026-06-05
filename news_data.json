@@ -1,5 +1,12 @@
 [
   {
+    "title": "Mira Murati steps back into the spotlight, carefully",
+    "source": "TechCrunch",
+    "summary": "In the current environment, remaining heads down has diminishing returns; at some point, you have to make some noise just to remind the market you exist.",
+    "url": "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/",
+    "date": "2026-06-05"
+  },
+  {
     "title": "Ahead of its IPO, Anthropic\u2019s Daniela Amodei shrugs off doubts about AI\u2019s returns",
     "source": "TechCrunch",
     "summary": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory faces a real test, though.",
@@ -98,10 +105,10 @@
     "date": "2026-06-05"
   },
   {
-    "title": "Publishers will be able to opt out of AI Search, thanks to new regulation",
-    "source": "TechCrunch",
-    "summary": "U.K. regulators are requiring Google offer a tool allowing website publishers to opt-out of generative AI search features. The option will be tested in the U.K. then rolled out globally.",
-    "url": "https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/",
+    "title": "Are AI chatbots making us lose control of our brains?",
+    "source": "MIT Tech Review",
+    "summary": "This week I\u2019ve been at SXSW London. There\u2019s been music, film, and a lot\u2014and I mean a lot\u2014of talk about AI. I also had the opportunity to sit down with Gloria Mark, a psychologist at the University of California, Irvine, who has spent the last 30 years studying how people interact with digital tec...",
+    "url": "https://www.technologyreview.com/2026/06/05/1138427/are-ai-chatbots-making-us-lose-control-of-our-brains/",
     "date": "2026-06-05"
   },
   {
@@ -168,10 +175,10 @@
     "date": "2026-06-05"
   },
   {
-    "title": "The Download: unlocking lithium and controlling Ebola",
-    "source": "MIT Tech Review",
-    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. How a new extraction process could unlock the world\u2019s lithium A new method for extracting lithium could cut costs and emissions from one of the world\u2019s most im...",
-    "url": "https://www.technologyreview.com/2026/05/29/1138110/the-download-lithium-extraction-ebola-ai-pope/",
+    "title": "AI Has Come for Serif Fonts",
+    "source": "Wired",
+    "summary": "AI companies are using serif to project humanity. Critics are calling it \u201ctasteslop.\u201d",
+    "url": "https://www.wired.com/story/ai-has-come-for-serif-fonts/",
     "date": "2026-06-05"
   },
   {
@@ -238,10 +245,108 @@
     "date": "2026-06-05"
   },
   {
-    "title": "What\u2019s Worth More Than Cash in San Francisco Real Estate? Anthropic Stock",
-    "source": "Wired",
-    "summary": "Several real estate listings in the San Francisco Bay Area are offering to exchange a home for a piece of the AI startup.",
-    "url": "https://www.wired.com/story/whats-worth-more-than-san-francisco-real-estate-anthropic-stock/",
+    "title": "The skeptic\u2019s guide to humanoid robots going viral on the Internet",
+    "source": "Ars Technica",
+    "summary": "Robot demonstrations can distort public perceptions of robotic capabilities.",
+    "url": "https://arstechnica.com/ai/2026/06/the-skeptics-guide-to-humanoid-robots-going-viral-on-the-internet/",
+    "date": "2026-06-05"
+  },
+  {
+    "title": "These LLMs are the best at resisting Russian propaganda",
+    "source": "Ars Technica",
+    "summary": "Estonian government benchmark shows how dozens of models combat Russia's 'strategic narratives.'",
+    "url": "https://arstechnica.com/ai/2026/06/these-llms-are-the-best-at-resisting-russian-propaganda/",
+    "date": "2026-06-05"
+  },
+  {
+    "title": "Elon Musk tries again to escape FTC audits of X data handling",
+    "source": "Ars Technica",
+    "summary": "Musk can't be trusted to protect X user privacy, public commenters warn FTC.",
+    "url": "https://arstechnica.com/tech-policy/2026/06/elon-musk-tries-again-to-escape-ftc-audits-of-x-data-handling/",
+    "date": "2026-06-05"
+  },
+  {
+    "title": "How some data center operators are tackling their water use problems",
+    "source": "Ars Technica",
+    "summary": "Hyperscalers have come under scrutiny for their impact on water quality and availability.",
+    "url": "https://arstechnica.com/ai/2026/06/how-data-center-operators-are-tackling-their-water-use-problems/",
+    "date": "2026-06-05"
+  },
+  {
+    "title": "Google ordered to put clearer links in AI search and let UK publishers opt out",
+    "source": "Ars Technica",
+    "summary": "Google must change AI Overviews after claiming users don't want 'lots of sources.'",
+    "url": "https://arstechnica.com/tech-policy/2026/06/google-ordered-to-put-clearer-links-in-ai-search-and-let-uk-publishers-opt-out/",
+    "date": "2026-06-05"
+  },
+  {
+    "title": "Google's new Gemma 4 12B model is designed to run on any laptop with 16GB of RAM",
+    "source": "Ars Technica",
+    "summary": "Gemma 4 12B uses a new encoding scheme and token prediction to punch above its weight.",
+    "url": "https://arstechnica.com/google/2026/06/googles-new-gemma-4-open-ai-model-is-sized-for-your-laptop/",
+    "date": "2026-06-05"
+  },
+  {
+    "title": "Trump plan to test AI models has a problem\u2014US security teams were gutted by DOGE",
+    "source": "Ars Technica",
+    "summary": "Critics say Trump plan to test AI models is short-sighted, performative.",
+    "url": "https://arstechnica.com/tech-policy/2026/06/trumps-ai-executive-order-may-not-prevent-dangerous-deployments/",
+    "date": "2026-06-05"
+  },
+  {
+    "title": "Inside Meta's attempts to play catch-up with AI",
+    "source": "Ars Technica",
+    "summary": "Doubts linger over whether Meta can close the gap with rivals.",
+    "url": "https://arstechnica.com/ai/2026/06/inside-metas-attempts-to-play-catch-up-with-ai/",
+    "date": "2026-06-05"
+  },
+  {
+    "title": "Microsoft's Project Solara is an Android OS designed for agents instead of apps",
+    "source": "Ars Technica",
+    "summary": "Microsoft missed the boat on apps, so get ready for agents.",
+    "url": "https://arstechnica.com/gadgets/2026/06/microsofts-project-solara-is-an-android-os-designed-for-agents-instead-of-apps/",
+    "date": "2026-06-05"
+  },
+  {
+    "title": "Mathematicians warn of AI threats to profession as industry encroaches",
+    "source": "Ars Technica",
+    "summary": "International Mathematical Union endorses warning about tech industry influence.",
+    "url": "https://arstechnica.com/tech-policy/2026/06/mathematicians-warn-of-ai-threats-to-profession-as-industry-encroaches/",
+    "date": "2026-06-05"
+  },
+  {
+    "title": "Android phones will soon be able to detect spoofed calls and impersonation scams",
+    "source": "Ars Technica",
+    "summary": "Google's June Android feature drop includes more scam detection, more AirDrop, and yes, more AI.",
+    "url": "https://arstechnica.com/gadgets/2026/06/google-announces-deepfake-call-detection-for-android-new-airdrop-device-support/",
+    "date": "2026-06-05"
+  },
+  {
+    "title": "AI costs how much? GitHub Copilot users react to new usage-based pricing system.",
+    "source": "Ars Technica",
+    "summary": "Some report burning through their whole monthly 'AI credit' allotment in a single day.",
+    "url": "https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/",
+    "date": "2026-06-05"
+  },
+  {
+    "title": "Hackers duped Meta AI support chatbot to steal celebrity Instagram accounts",
+    "source": "Ars Technica",
+    "summary": "Pricey Instagram handles were stolen and resold before Meta patched the exploit.",
+    "url": "https://arstechnica.com/ai/2026/06/meta-ai-support-chatbot-gave-hackers-access-to-notable-instagram-accounts/",
+    "date": "2026-06-05"
+  },
+  {
+    "title": "Florida sues OpenAI, Sam Altman after multiple ChatGPT-linked murders",
+    "source": "Ars Technica",
+    "summary": "Altman has an 'utter disregard' for human lives, Florida AG says.",
+    "url": "https://arstechnica.com/tech-policy/2026/06/florida-sues-openai-sam-altman-after-multiple-chatgpt-linked-murders/",
+    "date": "2026-06-05"
+  },
+  {
+    "title": "From 15 hours to one minute: How AI/ML is speeding up GM's development",
+    "source": "Ars Technica",
+    "summary": "From CFD and FEA to digital twins, carmaking now involves a lot of virtualization.",
+    "url": "https://arstechnica.com/cars/2026/06/from-15-hours-to-one-minute-how-ai-ml-is-speeding-up-gms-development/",
     "date": "2026-06-05"
   }
 ]
