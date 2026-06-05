@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Fine-tuning an LLM to write docs like it's 1995",
+    "title": "Astronauts on ISS told to shelter as repairs under way to fix air leaks",
     "source": "Hacker News",
-    "description": "HN Score: 67 | 21 comments",
-    "url": "https://passo.uno/fine-tuning-docs-llm/",
-    "score": 67,
+    "description": "HN Score: 39 | 4 comments",
+    "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
+    "score": 39,
     "date": "2026-06-05",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+    "title": "Fine-tuning an LLM to write docs like it's 1995",
     "source": "Hacker News",
-    "description": "HN Score: 422 | 119 comments",
-    "url": "https://github.com/anthropics/defending-code-reference-harness",
-    "score": 422,
+    "description": "HN Score: 137 | 49 comments",
+    "url": "https://passo.uno/fine-tuning-docs-llm/",
+    "score": 137,
     "date": "2026-06-05",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Do transformers need three projections? Systematic study of QKV variants",
+    "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
     "source": "Hacker News",
-    "description": "HN Score: 168 | 34 comments",
-    "url": "https://arxiv.org/abs/2606.04032",
-    "score": 168,
+    "description": "HN Score: 480 | 135 comments",
+    "url": "https://github.com/anthropics/defending-code-reference-harness",
+    "score": 480,
     "date": "2026-06-05",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Open Code Review \u2013 An AI-powered code review CLI tool",
+    "title": "Show HN: Lowfat \u2013 pluggable CLI filter that saved 91.8% of my LLM tokens",
     "source": "Hacker News",
-    "description": "HN Score: 180 | 50 comments",
-    "url": "https://github.com/alibaba/open-code-review",
-    "score": 180,
+    "description": "HN Score: 44 | 33 comments",
+    "url": "https://github.com/zdk/lowfat",
+    "score": 44,
     "date": "2026-06-05",
     "category": "AI News"
   },
@@ -76,11 +76,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Go Experiments Explained",
+    "title": "Open Code Review \u2013 An AI-powered code review CLI tool",
     "source": "Hacker News",
-    "description": "HN Score: 36 | 12 comments",
-    "url": "https://www.alexedwards.net/blog/go-experiments-explained",
-    "score": 36,
+    "description": "HN Score: 230 | 66 comments",
+    "url": "https://github.com/alibaba/open-code-review",
+    "score": 230,
+    "date": "2026-06-05",
+    "category": "AI News"
+  },
+  {
+    "title": "I've built two voice pipelines for two different companies. They both look like this: Audio \u2192 STT \u2192 Clean transcript \u2192 NLP \u2192 Classify \u2192 Act This works",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2062891026998833632#m",
+    "date": "2026-06-05",
+    "category": "Twitter"
+  },
+  {
+    "title": "Do transformers need three projections? Systematic study of QKV variants",
+    "source": "Hacker News",
+    "description": "HN Score: 194 | 36 comments",
+    "url": "https://arxiv.org/abs/2606.04032",
+    "score": 194,
     "date": "2026-06-05",
     "category": "AI News"
   },
@@ -93,28 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Magenta RealTime 2: Open and Local Live Music Models",
+    "title": "Show HN: I benchmarked LLM agents on fixing real-world security vulnerabilities",
     "source": "Hacker News",
-    "description": "HN Score: 37 | 7 comments",
-    "url": "https://magenta.withgoogle.com/magenta-realtime-2",
-    "score": 37,
-    "date": "2026-06-05",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: The way we do research is about to change. Today, doing research is overwhelming. There's so much literature to review and so little ti",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2062556061673140549#m",
-    "date": "2026-06-05",
-    "category": "Twitter"
-  },
-  {
-    "title": "Samurai City",
-    "source": "Hacker News",
-    "description": "HN Score: 168 | 33 comments",
-    "url": "https://worksinprogress.co/issue/samurai-city/",
-    "score": 168,
+    "description": "HN Score: 4 | 2 comments",
+    "url": "https://giovannigatti.github.io/cve-bench/",
+    "score": 4,
     "date": "2026-06-05",
     "category": "AI News"
   },
@@ -127,11 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
+    "title": "Programmers will document for Claude, but not for each other",
     "source": "Hacker News",
-    "description": "HN Score: 133 | 13 comments",
-    "url": "https://github.com/huawei-csl/KVarN",
-    "score": 133,
+    "description": "HN Score: 85 | 90 comments",
+    "url": "https://blog.plover.com/2026/03/09/#documentation-wins-2",
+    "score": 85,
     "date": "2026-06-05",
     "category": "AI News"
   },
@@ -144,20 +144,20 @@
     "category": "Twitter"
   },
   {
-    "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
+    "title": "Go Experiments Explained",
     "source": "Hacker News",
-    "description": "HN Score: 456 | 614 comments",
-    "url": "https://www.anthropic.com/institute/recursive-self-improvement",
-    "score": 456,
+    "description": "HN Score: 68 | 18 comments",
+    "url": "https://www.alexedwards.net/blog/go-experiments-explained",
+    "score": 68,
     "date": "2026-06-05",
     "category": "AI News"
   },
   {
-    "title": "South Korean Forums Will Need to Scan Every Images with AI Censorship Tools",
+    "title": "Samurai City",
     "source": "Hacker News",
-    "description": "HN Score: 130 | 102 comments",
-    "url": "https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341",
-    "score": 130,
+    "description": "HN Score: 190 | 40 comments",
+    "url": "https://worksinprogress.co/issue/samurai-city/",
+    "score": 190,
     "date": "2026-06-05",
     "category": "AI News"
   }

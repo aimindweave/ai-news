@@ -1,5 +1,19 @@
 [
   {
+    "title": "The token bill comes due: Inside the industry scramble to manage AI\u2019s runaway costs",
+    "source": "TechCrunch",
+    "summary": "'The whole conversation shifted from tokenmaxxing and 'go fast' to 'we need guardrails, how do we control this?''",
+    "url": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
+    "date": "2026-06-05"
+  },
+  {
+    "title": "AirTrunk commits $30B to build 5GW of AI data centers in India",
+    "source": "TechCrunch",
+    "summary": "The Australian data center operator plans to set up 5GW of capacity in India.",
+    "url": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
+    "date": "2026-06-05"
+  },
+  {
     "title": "Mira Murati steps back into the spotlight, carefully",
     "source": "TechCrunch",
     "summary": "In the current environment, remaining heads down has diminishing returns; at some point, you have to make some noise just to remind the market you exist.",
@@ -91,17 +105,10 @@
     "date": "2026-06-05"
   },
   {
-    "title": "Amazon will show AI product images when you search for some reason",
-    "source": "TechCrunch",
-    "summary": "Amazon will use visual search and AI to show AI-generated product images that match your search queries. The retailer says it will help guide users to products.",
-    "url": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
-    "date": "2026-06-05"
-  },
-  {
-    "title": "These two founders left Goldman and Meta to build voice AI for markets everyone else overlooked",
-    "source": "TechCrunch",
-    "summary": "The startup's own stack for Africa and Middle East is now handling more than 17,000 calls per day.",
-    "url": "https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/",
+    "title": "The Download: AI hacking beyond Mythos, and chatbots\u2019 impact on our brains",
+    "source": "MIT Tech Review",
+    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. The Meta hack shows there\u2019s more to AI security than Mythos On Monday, reports emerged that attackers had used Meta\u2019s AI customer support agent to steal Instag...",
+    "url": "https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/",
     "date": "2026-06-05"
   },
   {
@@ -109,6 +116,13 @@
     "source": "MIT Tech Review",
     "summary": "This week I\u2019ve been at SXSW London. There\u2019s been music, film, and a lot\u2014and I mean a lot\u2014of talk about AI. I also had the opportunity to sit down with Gloria Mark, a psychologist at the University of California, Irvine, who has spent the last 30 years studying how people interact with digital tec...",
     "url": "https://www.technologyreview.com/2026/06/05/1138427/are-ai-chatbots-making-us-lose-control-of-our-brains/",
+    "date": "2026-06-05"
+  },
+  {
+    "title": "The Meta hack shows there\u2019s more to AI security than Mythos",
+    "source": "MIT Tech Review",
+    "summary": "On June 5, 404 Media reported that attackers had been using Meta\u2019s AI customer support agent to steal Instagram accounts. Their approach was simple: They asked the agent to link the accounts to email addresses that they controlled, and the agent complied. One attacker broke into the dormant Obama...",
+    "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
     "date": "2026-06-05"
   },
   {
@@ -161,17 +175,24 @@
     "date": "2026-06-05"
   },
   {
-    "title": "The Download: China\u2019s brain implant ambitions",
-    "source": "MIT Tech Review",
-    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. China has approved the world\u2019s first invasive brain-computer chip\u2014here\u2019s what\u2019s next Sitting in the courtyard of his house in China\u2019s Henan province last Octob...",
-    "url": "https://www.technologyreview.com/2026/06/01/1138207/the-download-china-bci-brain-implant-nvidia-ai-chips-laptops/",
+    "title": "Has Microsoft Lost Its Mojo (Again)?",
+    "source": "Wired",
+    "summary": "Microsoft\u2019s AI products aren\u2019t selling and Github\u2019s been plagued with troubles. WIRED spoke with VP Scott Hanselman about whether the company is in catch-up mode.",
+    "url": "https://www.wired.com/story/has-microsoft-lost-its-mojo-again/",
     "date": "2026-06-05"
   },
   {
-    "title": "China has approved the world\u2019s first invasive brain-computer chip\u2014here\u2019s what\u2019s next",
-    "source": "MIT Tech Review",
-    "summary": "One day last October, sitting in the courtyard of his house in China\u2019s Henan province, Dong Hui decided to see if he could hold a pen to write. Dong, 39, had sustained spinal cord injuries in a car accident six years earlier that left him paralyzed from the neck down. Slowly but determinedly, he ...",
-    "url": "https://www.technologyreview.com/2026/06/01/1138133/china-world-first-brain-chip/",
+    "title": "OpenAI and Anthropic May Be Rivals, but Investors Aren\u2019t Picking Sides",
+    "source": "Wired",
+    "summary": "\u201cWhy wouldn\u2019t you want to be in both Pepsi and Coke?\u201d says one venture capitalist. \u201cIt\u2019s the same here.\u201d",
+    "url": "https://www.wired.com/story/openai-and-anthropic-may-be-rivals-but-their-investors-arent-choosing-sides/",
+    "date": "2026-06-05"
+  },
+  {
+    "title": "Why Apple Might Put Cameras Into Its Next AirPods",
+    "source": "Wired",
+    "summary": "From battery life to privacy, there are many hurdles to the idea taking off.",
+    "url": "https://www.wired.com/story/why-apple-might-put-cameras-into-its-next-airpods/",
     "date": "2026-06-05"
   },
   {
@@ -221,27 +242,6 @@
     "source": "Wired",
     "summary": "Four people suing Elon Musk's AI firm under pseudonyms due to the risks of being identified may face a difficult choice: Reveal your real names, or drop the lawsuit.",
     "url": "https://www.wired.com/story/xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims-of-anonymity/",
-    "date": "2026-06-05"
-  },
-  {
-    "title": "The Humanoid Robot of the Future Is a 6-Foot-Tall Beefcake With a Chinese Body and an American Brain",
-    "source": "Wired",
-    "summary": "Spencer Huang, Nvidia\u2019s robotics lead, tells WIRED that the new bot combines the best of both worlds.",
-    "url": "https://www.wired.com/story/nvidia-unitree-humanoid-robot-h2-plus/",
-    "date": "2026-06-05"
-  },
-  {
-    "title": "This Is How Trump Finally Signed the AI Executive Order",
-    "source": "Wired",
-    "summary": "After shelving the original executive order last month, Donald Trump finally got on board Monday night.",
-    "url": "https://www.wired.com/story/this-is-how-trump-finally-signed-the-ai-executive-order/",
-    "date": "2026-06-05"
-  },
-  {
-    "title": "Nvidia\u2019s RTX Spark Laptops Look Hell-Bent on Disruption",
-    "source": "Wired",
-    "summary": "The company\u2019s RTX Spark chips might finally turn the \u201cAI PC\u201d into reality.",
-    "url": "https://www.wired.com/story/nvidia-rtx-spark-laptop-disruption/",
     "date": "2026-06-05"
   },
   {
