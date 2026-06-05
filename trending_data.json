@@ -10,9 +10,9 @@
   {
     "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
     "source": "Hacker News",
-    "description": "HN Score: 288 | 187 comments",
+    "description": "HN Score: 337 | 211 comments",
     "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
-    "score": 288,
+    "score": 337,
     "date": "2026-06-05",
     "category": "AI News"
   },
@@ -27,43 +27,43 @@
   {
     "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
     "source": "Hacker News",
-    "description": "HN Score: 157 | 29 comments",
+    "description": "HN Score: 219 | 70 comments",
     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
-    "score": 157,
+    "score": 219,
     "date": "2026-06-05",
     "category": "AI News"
   },
   {
-    "title": "This single deal is about the revenue of @CoreWeave to put it in perspective @SpaceX is the largest neocloud & its AI cloud revenue at $26b run rate i",
+    "title": "R to @EMostaque: Unless it\u2019s Claude Opus 4.8 in which case it\u2019ll tell you you\u2019re not good enough and to go to sleep or something",
     "source": "@EMostaque",
     "description": "",
-    "url": "https://nitter.net/EMostaque/status/2062983848795803720#m",
+    "url": "https://nitter.net/EMostaque/status/2063001059606315496#m",
+    "date": "2026-06-05",
+    "category": "Twitter"
+  },
+  {
+    "title": "Microsoft wants users to be addicted to Scout, their AI personal assistant",
+    "source": "Hacker News",
+    "description": "HN Score: 17 | 15 comments",
+    "url": "https://disassociated.com/microsoft-users-addicted-ai-personal-assistant/",
+    "score": 17,
+    "date": "2026-06-05",
+    "category": "AI News"
+  },
+  {
+    "title": "If Claude is good enough for Nobel Prize winners it is good enough for you https://arxiv.org/abs/2606.03300",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/EMostaque/status/2063000615383421400#m",
     "date": "2026-06-05",
     "category": "Twitter"
   },
   {
     "title": "My Agent Skill for Test-Driven Development",
     "source": "Hacker News",
-    "description": "HN Score: 40 | 6 comments",
+    "description": "HN Score: 100 | 39 comments",
     "url": "https://www.saturnci.com/my-agent-skill-for-test-driven-development.html",
-    "score": 40,
-    "date": "2026-06-05",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @EMostaque: Introducing Magenta RealTime 2 \ud83c\udfba - Open model for live music generation - Just 2.4B parameters, perfect for on-device - Low latency ",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/osanseviero/status/2062598679735763304#m",
-    "date": "2026-06-05",
-    "category": "Twitter"
-  },
-  {
-    "title": "Transformers Are Inherently Succinct",
-    "source": "Hacker News",
-    "description": "HN Score: 16 | 4 comments",
-    "url": "https://openreview.net/pdf?id=Yxz92UuPLQ",
-    "score": 16,
+    "score": 100,
     "date": "2026-06-05",
     "category": "AI News"
   },
@@ -78,9 +78,9 @@
   {
     "title": "Did Claude increase bugs in rsync?",
     "source": "Hacker News",
-    "description": "HN Score: 149 | 145 comments",
+    "description": "HN Score: 243 | 237 comments",
     "url": "https://alexispurslane.github.io/rsync-analysis/",
-    "score": 149,
+    "score": 243,
     "date": "2026-06-05",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Launch HN: General Instinct (YC P26) \u2013 Frontier models on edge devices",
+    "title": "Transformers Are Inherently Succinct",
     "source": "Hacker News",
-    "description": "HN Score: 27 | 10 comments",
-    "url": "https://news.ycombinator.com/item?id=48414869",
-    "score": 27,
+    "description": "HN Score: 64 | 26 comments",
+    "url": "https://openreview.net/pdf?id=Yxz92UuPLQ",
+    "score": 64,
     "date": "2026-06-05",
     "category": "AI News"
   },
@@ -110,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Inside FAISS: Billion-Scale Similarity Search",
+    "title": "Ask HN: What was your 'oh shit' moment with GenAI?",
     "source": "Hacker News",
-    "description": "HN Score: 16 | 0 comments",
-    "url": "https://fremaconsulting.ch/blog/faiss",
-    "score": 16,
+    "description": "HN Score: 99 | 281 comments",
+    "url": "https://news.ycombinator.com/item?id=48406174",
+    "score": 99,
     "date": "2026-06-05",
     "category": "AI News"
   },
@@ -127,11 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Lowfat \u2013 pluggable CLI filter that saved 91.8% of my LLM tokens",
+    "title": "Boeing 787 Dreamliner Loses Door at Remote Pacific Airport, Puzzling Engineers",
     "source": "Hacker News",
-    "description": "HN Score: 76 | 46 comments",
-    "url": "https://github.com/zdk/lowfat",
-    "score": 76,
+    "description": "HN Score: 18 | 18 comments",
+    "url": "https://aeroxplorer.com/articles/boeing-787-dreamliner-loses-door-at-remote-pacific-airport-puzzling-engineers",
+    "score": 18,
     "date": "2026-06-05",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "South Korean forums will need to scan every images with AI censorship tools",
+    "title": "Launch HN: General Instinct (YC P26) \u2013 Frontier models on edge devices",
     "source": "Hacker News",
-    "description": "HN Score: 191 | 125 comments",
-    "url": "https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341",
-    "score": 191,
+    "description": "HN Score: 39 | 13 comments",
+    "url": "https://news.ycombinator.com/item?id=48414869",
+    "score": 39,
     "date": "2026-06-05",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Fine-tuning an LLM to write docs like it's 1995",
+    "title": "Inside FAISS: Billion-Scale Similarity Search",
     "source": "Hacker News",
-    "description": "HN Score: 171 | 64 comments",
-    "url": "https://passo.uno/fine-tuning-docs-llm/",
-    "score": 171,
+    "description": "HN Score: 30 | 0 comments",
+    "url": "https://fremaconsulting.ch/blog/faiss",
+    "score": 30,
     "date": "2026-06-05",
     "category": "AI News"
   }
