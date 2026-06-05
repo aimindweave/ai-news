@@ -10,9 +10,9 @@
   {
     "title": "Astronauts on ISS told to shelter as repairs under way to fix air leaks",
     "source": "Hacker News",
-    "description": "HN Score: 39 | 4 comments",
+    "description": "HN Score: 204 | 139 comments",
     "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
-    "score": 39,
+    "score": 204,
     "date": "2026-06-05",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Fine-tuning an LLM to write docs like it's 1995",
+    "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
     "source": "Hacker News",
-    "description": "HN Score: 137 | 49 comments",
-    "url": "https://passo.uno/fine-tuning-docs-llm/",
-    "score": 137,
+    "description": "HN Score: 56 | 13 comments",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
+    "score": 56,
     "date": "2026-06-05",
     "category": "AI News"
   },
@@ -42,45 +42,45 @@
     "category": "Twitter"
   },
   {
-    "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+    "title": "Launch HN: General Instinct (YC P26) \u2013 Frontier models on edge devices",
     "source": "Hacker News",
-    "description": "HN Score: 480 | 135 comments",
-    "url": "https://github.com/anthropics/defending-code-reference-harness",
-    "score": 480,
+    "description": "HN Score: 14 | 7 comments",
+    "url": "https://news.ycombinator.com/item?id=48414869",
+    "score": 14,
     "date": "2026-06-05",
     "category": "AI News"
   },
   {
-    "title": "RT by @DrJimFan: Mark: 1/ First milestone: the Physical Turing Test. You literally can\u2019t tell if a human or robot is doing the task. 2/ Next: Physical",
+    "title": "R to @DrJimFan: Check out the NVIDIA blog!",
     "source": "@DrJimFan",
     "description": "",
-    "url": "https://nitter.net/CyberRobooo/status/2053149920740450732#m",
+    "url": "https://nitter.net/DrJimFan/status/2062943409216897258#m",
     "date": "2026-06-05",
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Lowfat \u2013 pluggable CLI filter that saved 91.8% of my LLM tokens",
+    "title": "Did Claude increase bugs in rsync?",
     "source": "Hacker News",
-    "description": "HN Score: 44 | 33 comments",
-    "url": "https://github.com/zdk/lowfat",
-    "score": 44,
+    "description": "HN Score: 62 | 59 comments",
+    "url": "https://alexispurslane.github.io/rsync-analysis/",
+    "score": 62,
     "date": "2026-06-05",
     "category": "AI News"
   },
   {
-    "title": "RT by @DrJimFan: Jim is always a crowd favorite at AI Ascent. His ability to simplify the latest research into a clear 'what and why it matters' while",
+    "title": "NitroGen just won CVPR Best Paper Honorable Mention!! We are making strides towards general-purpose embodied agents that master not only the real worl",
     "source": "@DrJimFan",
     "description": "",
-    "url": "https://nitter.net/Alfred_Lin/status/2052847050379936113#m",
+    "url": "https://nitter.net/DrJimFan/status/2062942941363286048#m",
     "date": "2026-06-05",
     "category": "Twitter"
   },
   {
-    "title": "Open Code Review \u2013 An AI-powered code review CLI tool",
+    "title": "Ask HN: What is your (AI) dev tech stack / workflow?",
     "source": "Hacker News",
-    "description": "HN Score: 230 | 66 comments",
-    "url": "https://github.com/alibaba/open-code-review",
-    "score": 230,
+    "description": "HN Score: 61 | 50 comments",
+    "url": "https://news.ycombinator.com/item?id=48413629",
+    "score": 61,
     "date": "2026-06-05",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Do transformers need three projections? Systematic study of QKV variants",
+    "title": "Fine-tuning an LLM to write docs like it's 1995",
     "source": "Hacker News",
-    "description": "HN Score: 194 | 36 comments",
-    "url": "https://arxiv.org/abs/2606.04032",
-    "score": 194,
+    "description": "HN Score: 167 | 58 comments",
+    "url": "https://passo.uno/fine-tuning-docs-llm/",
+    "score": 167,
     "date": "2026-06-05",
     "category": "AI News"
   },
@@ -110,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: I benchmarked LLM agents on fixing real-world security vulnerabilities",
+    "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
     "source": "Hacker News",
-    "description": "HN Score: 4 | 2 comments",
-    "url": "https://giovannigatti.github.io/cve-bench/",
-    "score": 4,
+    "description": "HN Score: 508 | 140 comments",
+    "url": "https://github.com/anthropics/defending-code-reference-harness",
+    "score": 508,
     "date": "2026-06-05",
     "category": "AI News"
   },
@@ -127,11 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Programmers will document for Claude, but not for each other",
+    "title": "Open Code Review \u2013 An AI-powered code review CLI tool",
     "source": "Hacker News",
-    "description": "HN Score: 85 | 90 comments",
-    "url": "https://blog.plover.com/2026/03/09/#documentation-wins-2",
-    "score": 85,
+    "description": "HN Score: 246 | 67 comments",
+    "url": "https://github.com/alibaba/open-code-review",
+    "score": 246,
     "date": "2026-06-05",
     "category": "AI News"
   },
@@ -144,20 +144,20 @@
     "category": "Twitter"
   },
   {
-    "title": "Go Experiments Explained",
+    "title": "Do transformers need three projections? Systematic study of QKV variants",
     "source": "Hacker News",
-    "description": "HN Score: 68 | 18 comments",
-    "url": "https://www.alexedwards.net/blog/go-experiments-explained",
-    "score": 68,
+    "description": "HN Score: 202 | 43 comments",
+    "url": "https://arxiv.org/abs/2606.04032",
+    "score": 202,
     "date": "2026-06-05",
     "category": "AI News"
   },
   {
-    "title": "Samurai City",
+    "title": "Programmers will document for Claude, but not for each other",
     "source": "Hacker News",
-    "description": "HN Score: 190 | 40 comments",
-    "url": "https://worksinprogress.co/issue/samurai-city/",
-    "score": 190,
+    "description": "HN Score: 141 | 132 comments",
+    "url": "https://blog.plover.com/2026/03/09/#documentation-wins-2",
+    "score": 141,
     "date": "2026-06-05",
     "category": "AI News"
   }
