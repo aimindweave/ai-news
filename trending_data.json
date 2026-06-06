@@ -10,9 +10,9 @@
   {
     "title": "How LLMs work",
     "source": "Hacker News",
-    "description": "HN Score: 502 | 153 comments",
+    "description": "HN Score: 604 | 173 comments",
     "url": "https://www.0xkato.xyz/how-llms-actually-work/",
-    "score": 502,
+    "score": 604,
     "date": "2026-06-06",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
     "source": "Hacker News",
-    "description": "HN Score: 802 | 263 comments",
+    "description": "HN Score: 948 | 343 comments",
     "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
-    "score": 802,
+    "score": 948,
     "date": "2026-06-06",
     "category": "AI News"
   },
@@ -44,9 +44,9 @@
   {
     "title": "The intracies of modern camera lens repair (2024)",
     "source": "Hacker News",
-    "description": "HN Score: 197 | 68 comments",
+    "description": "HN Score: 208 | 71 comments",
     "url": "https://salvagedcircuitry.com/sigma-45mm.html",
-    "score": 197,
+    "score": 208,
     "date": "2026-06-06",
     "category": "AI News"
   },
@@ -55,40 +55,6 @@
     "source": "@EMostaque",
     "description": "",
     "url": "https://nitter.net/Discoplomacy/status/2062922882217349548#m",
-    "date": "2026-06-06",
-    "category": "Twitter"
-  },
-  {
-    "title": "Ask HN: What was your 'oh shit' moment with GenAI?",
-    "source": "Hacker News",
-    "description": "HN Score: 404 | 732 comments",
-    "url": "https://news.ycombinator.com/item?id=48406174",
-    "score": 404,
-    "date": "2026-06-06",
-    "category": "AI News"
-  },
-  {
-    "title": "R to @DrJimFan: Check out the NVIDIA blog!",
-    "source": "@DrJimFan",
-    "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2062943409216897258#m",
-    "date": "2026-06-06",
-    "category": "Twitter"
-  },
-  {
-    "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
-    "source": "Hacker News",
-    "description": "HN Score: 408 | 253 comments",
-    "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
-    "score": 408,
-    "date": "2026-06-06",
-    "category": "AI News"
-  },
-  {
-    "title": "NitroGen just won CVPR Best Paper Honorable Mention!! We are making strides towards general-purpose embodied agents that master not only the real worl",
-    "source": "@DrJimFan",
-    "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2062942941363286048#m",
     "date": "2026-06-06",
     "category": "Twitter"
   },
@@ -102,6 +68,40 @@
     "category": "AI News"
   },
   {
+    "title": "R to @DrJimFan: Check out the NVIDIA blog!",
+    "source": "@DrJimFan",
+    "description": "",
+    "url": "https://nitter.net/DrJimFan/status/2062943409216897258#m",
+    "date": "2026-06-06",
+    "category": "Twitter"
+  },
+  {
+    "title": "Ask HN: What was your 'oh shit' moment with GenAI?",
+    "source": "Hacker News",
+    "description": "HN Score: 436 | 772 comments",
+    "url": "https://news.ycombinator.com/item?id=48406174",
+    "score": 436,
+    "date": "2026-06-06",
+    "category": "AI News"
+  },
+  {
+    "title": "NitroGen just won CVPR Best Paper Honorable Mention!! We are making strides towards general-purpose embodied agents that master not only the real worl",
+    "source": "@DrJimFan",
+    "description": "",
+    "url": "https://nitter.net/DrJimFan/status/2062942941363286048#m",
+    "date": "2026-06-06",
+    "category": "Twitter"
+  },
+  {
+    "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
+    "source": "Hacker News",
+    "description": "HN Score: 412 | 254 comments",
+    "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
+    "score": 412,
+    "date": "2026-06-06",
+    "category": "AI News"
+  },
+  {
     "title": "Somebody I know shipped a product a couple of months ago, and he is already making money. He doesn't care about the code. Has no clue whether it's goo",
     "source": "@svpino",
     "description": "",
@@ -110,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Did Claude increase bugs in rsync?",
+    "title": "US House lawmakers release draft bill to prohibit state AI rules",
     "source": "Hacker News",
-    "description": "HN Score: 456 | 460 comments",
-    "url": "https://alexispurslane.github.io/rsync-analysis/",
-    "score": 456,
+    "description": "HN Score: 23 | 6 comments",
+    "url": "https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/",
+    "score": 23,
     "date": "2026-06-06",
     "category": "AI News"
   },
@@ -127,11 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
+    "title": "Did Claude increase bugs in rsync?",
     "source": "Hacker News",
-    "description": "HN Score: 366 | 110 comments",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
-    "score": 366,
+    "description": "HN Score: 476 | 479 comments",
+    "url": "https://alexispurslane.github.io/rsync-analysis/",
+    "score": 476,
     "date": "2026-06-06",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy",
+    "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
     "source": "Hacker News",
-    "description": "HN Score: 109 | 26 comments",
-    "url": "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/",
-    "score": 109,
+    "description": "HN Score: 372 | 113 comments",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
+    "score": 372,
     "date": "2026-06-06",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "The back cover of C++: The Language raises questions not answered by front cover",
+    "title": "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy",
     "source": "Hacker News",
-    "description": "HN Score: 117 | 40 comments",
-    "url": "https://devblogs.microsoft.com/oldnewthing/20260605-01/?p=112391",
-    "score": 117,
+    "description": "HN Score: 128 | 40 comments",
+    "url": "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/",
+    "score": 128,
     "date": "2026-06-06",
     "category": "AI News"
   }
