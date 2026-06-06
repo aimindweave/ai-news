@@ -10,9 +10,9 @@
   {
     "title": "How LLMs work",
     "source": "Hacker News",
-    "description": "HN Score: 413 | 120 comments",
+    "description": "HN Score: 502 | 153 comments",
     "url": "https://www.0xkato.xyz/how-llms-actually-work/",
-    "score": 413,
+    "score": 502,
     "date": "2026-06-06",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
     "source": "Hacker News",
-    "description": "HN Score: 586 | 195 comments",
+    "description": "HN Score: 802 | 263 comments",
     "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
-    "score": 586,
+    "score": 802,
     "date": "2026-06-06",
     "category": "AI News"
   },
@@ -44,9 +44,9 @@
   {
     "title": "The intracies of modern camera lens repair (2024)",
     "source": "Hacker News",
-    "description": "HN Score: 182 | 62 comments",
+    "description": "HN Score: 197 | 68 comments",
     "url": "https://salvagedcircuitry.com/sigma-45mm.html",
-    "score": 182,
+    "score": 197,
     "date": "2026-06-06",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy",
+    "title": "Ask HN: What was your 'oh shit' moment with GenAI?",
     "source": "Hacker News",
-    "description": "HN Score: 12 | 0 comments",
-    "url": "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/",
-    "score": 12,
+    "description": "HN Score: 404 | 732 comments",
+    "url": "https://news.ycombinator.com/item?id=48406174",
+    "score": 404,
     "date": "2026-06-06",
     "category": "AI News"
   },
@@ -78,9 +78,9 @@
   {
     "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
     "source": "Hacker News",
-    "description": "HN Score: 402 | 251 comments",
+    "description": "HN Score: 408 | 253 comments",
     "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
-    "score": 402,
+    "score": 408,
     "date": "2026-06-06",
     "category": "AI News"
   },
@@ -93,11 +93,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Ask HN: What was your 'oh shit' moment with GenAI?",
+    "title": "Mbodi AI (YC P25) Is Hiring Founding Machine Learning Engineer (Robotics)",
     "source": "Hacker News",
-    "description": "HN Score: 360 | 676 comments",
-    "url": "https://news.ycombinator.com/item?id=48406174",
-    "score": 360,
+    "description": "HN Score: 1 | 0 comments",
+    "url": "https://www.ycombinator.com/companies/mbodi-ai/jobs/WYAcNkX-founding-machine-learning-engineer",
+    "score": 1,
+    "date": "2026-06-06",
+    "category": "AI News"
+  },
+  {
+    "title": "Somebody I know shipped a product a couple of months ago, and he is already making money. He doesn't care about the code. Has no clue whether it's goo",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2063247032681406636#m",
+    "date": "2026-06-06",
+    "category": "Twitter"
+  },
+  {
+    "title": "Did Claude increase bugs in rsync?",
+    "source": "Hacker News",
+    "description": "HN Score: 456 | 460 comments",
+    "url": "https://alexispurslane.github.io/rsync-analysis/",
+    "score": 456,
     "date": "2026-06-06",
     "category": "AI News"
   },
@@ -110,45 +127,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Did Claude increase bugs in rsync?",
-    "source": "Hacker News",
-    "description": "HN Score: 435 | 445 comments",
-    "url": "https://alexispurslane.github.io/rsync-analysis/",
-    "score": 435,
-    "date": "2026-06-06",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: I've built two voice pipelines for two different companies. They both look like this: Audio \u2192 STT \u2192 Clean transcript \u2192 NLP \u2192 Classify \u2192",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2062891026998833632#m",
-    "date": "2026-06-06",
-    "category": "Twitter"
-  },
-  {
     "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
     "source": "Hacker News",
-    "description": "HN Score: 358 | 109 comments",
+    "description": "HN Score: 366 | 110 comments",
     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
-    "score": 358,
+    "score": 366,
     "date": "2026-06-06",
     "category": "AI News"
   },
   {
-    "title": "\ud83d\udea8 AGENT SWARMS V2 - RUN MULTIPLE SMALL AGENTS IN PARALLEL Introducing the next generation of Agent Swarms - run complex agentic loops using cheap mode",
+    "title": "The entire engineering team does nothing but interact with AI all day \ud83d\ude05 -~ 100% of the code written by our AI - all PRs have AI code reviews - AI rout",
     "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/bindureddy/status/2063213678309019932#m",
+    "url": "https://nitter.net/bindureddy/status/2063238484467294550#m",
     "date": "2026-06-06",
     "category": "Twitter"
   },
   {
-    "title": "The back cover of C++: The Language raises questions not answered by front cover",
+    "title": "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy",
     "source": "Hacker News",
-    "description": "HN Score: 104 | 31 comments",
-    "url": "https://devblogs.microsoft.com/oldnewthing/20260605-01/?p=112391",
-    "score": 104,
+    "description": "HN Score: 109 | 26 comments",
+    "url": "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/",
+    "score": 109,
     "date": "2026-06-06",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "My Agent Skill for Test-Driven Development",
+    "title": "The back cover of C++: The Language raises questions not answered by front cover",
     "source": "Hacker News",
-    "description": "HN Score: 188 | 80 comments",
-    "url": "https://www.saturnci.com/my-agent-skill-for-test-driven-development.html",
-    "score": 188,
+    "description": "HN Score: 117 | 40 comments",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20260605-01/?p=112391",
+    "score": 117,
     "date": "2026-06-06",
     "category": "AI News"
   }
