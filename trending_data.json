@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "The intracies of modern camera lens repair (2024)",
+    "title": "How LLMs work",
     "source": "Hacker News",
-    "description": "HN Score: 91 | 26 comments",
-    "url": "https://salvagedcircuitry.com/sigma-45mm.html",
-    "score": 91,
+    "description": "HN Score: 283 | 80 comments",
+    "url": "https://www.0xkato.xyz/how-llms-actually-work/",
+    "score": 283,
     "date": "2026-06-06",
     "category": "AI News"
   },
@@ -25,11 +25,28 @@
     "category": "Twitter"
   },
   {
-    "title": "How LLMs work",
+    "title": "The intracies of modern camera lens repair (2024)",
     "source": "Hacker News",
-    "description": "HN Score: 49 | 6 comments",
-    "url": "https://www.0xkato.xyz/how-llms-actually-work/",
-    "score": 49,
+    "description": "HN Score: 159 | 54 comments",
+    "url": "https://salvagedcircuitry.com/sigma-45mm.html",
+    "score": 159,
+    "date": "2026-06-06",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: Love this. Juan Hernandez immigrates to the US, learns how to weld because it pays well, begins contracting at SpaceX, gets full tim",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/Discoplomacy/status/2062922882217349548#m",
+    "date": "2026-06-06",
+    "category": "Twitter"
+  },
+  {
+    "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+    "source": "Hacker News",
+    "description": "HN Score: 345 | 102 comments",
+    "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+    "score": 345,
     "date": "2026-06-06",
     "category": "AI News"
   },
@@ -44,43 +61,9 @@
   {
     "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
     "source": "Hacker News",
-    "description": "HN Score: 367 | 241 comments",
+    "description": "HN Score: 388 | 249 comments",
     "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
-    "score": 367,
-    "date": "2026-06-06",
-    "category": "AI News"
-  },
-  {
-    "title": "If Claude is good enough for Nobel Prize winners it is good enough for you https://arxiv.org/abs/2606.03300",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/EMostaque/status/2063000615383421400#m",
-    "date": "2026-06-06",
-    "category": "Twitter"
-  },
-  {
-    "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
-    "source": "Hacker News",
-    "description": "HN Score: 298 | 90 comments",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
-    "score": 298,
-    "date": "2026-06-06",
-    "category": "AI News"
-  },
-  {
-    "title": "R to @DrJimFan: Check out the NVIDIA blog!",
-    "source": "@DrJimFan",
-    "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2062943409216897258#m",
-    "date": "2026-06-06",
-    "category": "Twitter"
-  },
-  {
-    "title": "Did Claude increase bugs in rsync?",
-    "source": "Hacker News",
-    "description": "HN Score: 339 | 350 comments",
-    "url": "https://alexispurslane.github.io/rsync-analysis/",
-    "score": 339,
+    "score": 388,
     "date": "2026-06-06",
     "category": "AI News"
   },
@@ -93,11 +76,45 @@
     "category": "Twitter"
   },
   {
+    "title": "The back cover of C++: The Language raises questions not answered by front cover",
+    "source": "Hacker News",
+    "description": "HN Score: 80 | 22 comments",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20260605-01/?p=112391",
+    "score": 80,
+    "date": "2026-06-06",
+    "category": "AI News"
+  },
+  {
+    "title": "R to @DrJimFan: Check out the NVIDIA blog!",
+    "source": "@DrJimFan",
+    "description": "",
+    "url": "https://nitter.net/DrJimFan/status/2062943409216897258#m",
+    "date": "2026-06-06",
+    "category": "Twitter"
+  },
+  {
     "title": "Ask HN: What was your 'oh shit' moment with GenAI?",
     "source": "Hacker News",
-    "description": "HN Score: 210 | 443 comments",
+    "description": "HN Score: 315 | 582 comments",
     "url": "https://news.ycombinator.com/item?id=48406174",
-    "score": 210,
+    "score": 315,
+    "date": "2026-06-06",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: If you think MCP is dead, you are delusional. This is every marketing team's wet dream: An MCP server that will give your agentic platf",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2062973983230939350#m",
+    "date": "2026-06-06",
+    "category": "Twitter"
+  },
+  {
+    "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
+    "source": "Hacker News",
+    "description": "HN Score: 344 | 106 comments",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
+    "score": 344,
     "date": "2026-06-06",
     "category": "AI News"
   },
@@ -110,28 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "My Agent Skill for Test-Driven Development",
+    "title": "Did Claude increase bugs in rsync?",
     "source": "Hacker News",
-    "description": "HN Score: 148 | 59 comments",
-    "url": "https://www.saturnci.com/my-agent-skill-for-test-driven-development.html",
-    "score": 148,
-    "date": "2026-06-06",
-    "category": "AI News"
-  },
-  {
-    "title": "If you think MCP is dead, you are delusional. This is every marketing team's wet dream: An MCP server that will give your agentic platform (Claude, Co",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2062973983230939350#m",
-    "date": "2026-06-06",
-    "category": "Twitter"
-  },
-  {
-    "title": "Transformers are inherently succinct",
-    "source": "Hacker News",
-    "description": "HN Score: 100 | 31 comments",
-    "url": "https://openreview.net/pdf?id=Yxz92UuPLQ",
-    "score": 100,
+    "description": "HN Score: 399 | 402 comments",
+    "url": "https://alexispurslane.github.io/rsync-analysis/",
+    "score": 399,
     "date": "2026-06-06",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Launch HN: General Instinct (YC P26) \u2013 Frontier models on edge devices",
+    "title": "My Agent Skill for Test-Driven Development",
     "source": "Hacker News",
-    "description": "HN Score: 46 | 15 comments",
-    "url": "https://news.ycombinator.com/item?id=48414869",
-    "score": 46,
+    "description": "HN Score: 170 | 73 comments",
+    "url": "https://www.saturnci.com/my-agent-skill-for-test-driven-development.html",
+    "score": 170,
     "date": "2026-06-06",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Formally verified polygon intersection \u2013 Opus 4.8 oneshots, prev failed",
+    "title": "Ask HN: Why is the HN crowd so anti-AI?",
     "source": "Hacker News",
-    "description": "HN Score: 63 | 14 comments",
-    "url": "https://github.com/schildep/verified-polygon-intersection",
-    "score": 63,
+    "description": "HN Score: 131 | 244 comments",
+    "url": "https://news.ycombinator.com/item?id=48420827",
+    "score": 131,
     "date": "2026-06-06",
     "category": "AI News"
   }
