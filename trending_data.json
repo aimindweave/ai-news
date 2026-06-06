@@ -10,9 +10,9 @@
   {
     "title": "How LLMs work",
     "source": "Hacker News",
-    "description": "HN Score: 283 | 80 comments",
+    "description": "HN Score: 413 | 120 comments",
     "url": "https://www.0xkato.xyz/how-llms-actually-work/",
-    "score": 283,
+    "score": 413,
     "date": "2026-06-06",
     "category": "AI News"
   },
@@ -25,11 +25,28 @@
     "category": "Twitter"
   },
   {
+    "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+    "source": "Hacker News",
+    "description": "HN Score: 586 | 195 comments",
+    "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+    "score": 586,
+    "date": "2026-06-06",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: Mocap actress @xixiyusakana Real Time Teleoperating 6 robots in an AMD sponsored event.",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/ErenChenAI/status/2062881058631155959#m",
+    "date": "2026-06-06",
+    "category": "Twitter"
+  },
+  {
     "title": "The intracies of modern camera lens repair (2024)",
     "source": "Hacker News",
-    "description": "HN Score: 159 | 54 comments",
+    "description": "HN Score: 182 | 62 comments",
     "url": "https://salvagedcircuitry.com/sigma-45mm.html",
-    "score": 159,
+    "score": 182,
     "date": "2026-06-06",
     "category": "AI News"
   },
@@ -42,45 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+    "title": "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy",
     "source": "Hacker News",
-    "description": "HN Score: 345 | 102 comments",
-    "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
-    "score": 345,
-    "date": "2026-06-06",
-    "category": "AI News"
-  },
-  {
-    "title": "R to @EMostaque: Unless it\u2019s Claude Opus 4.8 in which case it\u2019ll tell you you\u2019re not good enough and to go to sleep or something",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/EMostaque/status/2063001059606315496#m",
-    "date": "2026-06-06",
-    "category": "Twitter"
-  },
-  {
-    "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
-    "source": "Hacker News",
-    "description": "HN Score: 388 | 249 comments",
-    "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
-    "score": 388,
-    "date": "2026-06-06",
-    "category": "AI News"
-  },
-  {
-    "title": "NitroGen just won CVPR Best Paper Honorable Mention!! We are making strides towards general-purpose embodied agents that master not only the real worl",
-    "source": "@DrJimFan",
-    "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2062942941363286048#m",
-    "date": "2026-06-06",
-    "category": "Twitter"
-  },
-  {
-    "title": "The back cover of C++: The Language raises questions not answered by front cover",
-    "source": "Hacker News",
-    "description": "HN Score: 80 | 22 comments",
-    "url": "https://devblogs.microsoft.com/oldnewthing/20260605-01/?p=112391",
-    "score": 80,
+    "description": "HN Score: 12 | 0 comments",
+    "url": "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/",
+    "score": 12,
     "date": "2026-06-06",
     "category": "AI News"
   },
@@ -93,11 +76,28 @@
     "category": "Twitter"
   },
   {
+    "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
+    "source": "Hacker News",
+    "description": "HN Score: 402 | 251 comments",
+    "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
+    "score": 402,
+    "date": "2026-06-06",
+    "category": "AI News"
+  },
+  {
+    "title": "NitroGen just won CVPR Best Paper Honorable Mention!! We are making strides towards general-purpose embodied agents that master not only the real worl",
+    "source": "@DrJimFan",
+    "description": "",
+    "url": "https://nitter.net/DrJimFan/status/2062942941363286048#m",
+    "date": "2026-06-06",
+    "category": "Twitter"
+  },
+  {
     "title": "Ask HN: What was your 'oh shit' moment with GenAI?",
     "source": "Hacker News",
-    "description": "HN Score: 315 | 582 comments",
+    "description": "HN Score: 360 | 676 comments",
     "url": "https://news.ycombinator.com/item?id=48406174",
-    "score": 315,
+    "score": 360,
     "date": "2026-06-06",
     "category": "AI News"
   },
@@ -110,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
+    "title": "Did Claude increase bugs in rsync?",
     "source": "Hacker News",
-    "description": "HN Score: 344 | 106 comments",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
-    "score": 344,
+    "description": "HN Score: 435 | 445 comments",
+    "url": "https://alexispurslane.github.io/rsync-analysis/",
+    "score": 435,
     "date": "2026-06-06",
     "category": "AI News"
   },
@@ -127,11 +127,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Did Claude increase bugs in rsync?",
+    "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
     "source": "Hacker News",
-    "description": "HN Score: 399 | 402 comments",
-    "url": "https://alexispurslane.github.io/rsync-analysis/",
-    "score": 399,
+    "description": "HN Score: 358 | 109 comments",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
+    "score": 358,
+    "date": "2026-06-06",
+    "category": "AI News"
+  },
+  {
+    "title": "\ud83d\udea8 AGENT SWARMS V2 - RUN MULTIPLE SMALL AGENTS IN PARALLEL Introducing the next generation of Agent Swarms - run complex agentic loops using cheap mode",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2063213678309019932#m",
+    "date": "2026-06-06",
+    "category": "Twitter"
+  },
+  {
+    "title": "The back cover of C++: The Language raises questions not answered by front cover",
+    "source": "Hacker News",
+    "description": "HN Score: 104 | 31 comments",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20260605-01/?p=112391",
+    "score": 104,
     "date": "2026-06-06",
     "category": "AI News"
   },
@@ -146,26 +163,9 @@
   {
     "title": "My Agent Skill for Test-Driven Development",
     "source": "Hacker News",
-    "description": "HN Score: 170 | 73 comments",
+    "description": "HN Score: 188 | 80 comments",
     "url": "https://www.saturnci.com/my-agent-skill-for-test-driven-development.html",
-    "score": 170,
-    "date": "2026-06-06",
-    "category": "AI News"
-  },
-  {
-    "title": "Cranking very hard for the past two weeks The team seems to have cracked it Complex agentic loops using Deepseek Flash 10x cheaper than Opus \ud83e\udd79",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2062718230318215647#m",
-    "date": "2026-06-06",
-    "category": "Twitter"
-  },
-  {
-    "title": "Ask HN: Why is the HN crowd so anti-AI?",
-    "source": "Hacker News",
-    "description": "HN Score: 131 | 244 comments",
-    "url": "https://news.ycombinator.com/item?id=48420827",
-    "score": 131,
+    "score": 188,
     "date": "2026-06-06",
     "category": "AI News"
   }
