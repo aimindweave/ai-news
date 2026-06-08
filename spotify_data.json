@@ -94,6 +94,16 @@
   "episodes": [
     {
       "id": "a]6z Pod_0",
+      "name": "AI Eats the World? A Reality Check with Benedict Evans",
+      "show": "a]6z Podcast",
+      "description": "Erik Torenberg speaks with tech analyst Benedict Evans about the current state of AI, what has changed over the past year, and which questions remain unanswered.\nThe conversation covers codi",
+      "release_date": "2026-06-08",
+      "duration_min": 61,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
+      "id": "a]6z Pod_1",
       "name": "Building Search for AI Agents with Exa CEO Will Bryk",
       "show": "a]6z Podcast",
       "description": "Sarah Wang speaks with Exa cofounder and CEO Will Bryk about building search infrastructure for the AI era.\nThe conversation covers Exa’s origins, why traditional search engines were not des",
@@ -113,7 +123,7 @@
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "AI Agents and the Fight for Customer Data",
       "show": "a]6z Podcast",
       "description": "Martin Casado speaks with George Fraser, cofounder and CEO of Fivetran, about the future of data infrastructure in the age of AI.\nThe conversation covers Fivetran’s merger with dbt, the chan",
@@ -131,16 +141,6 @@
       "duration_min": 47,
       "image": "",
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
-    },
-    {
-      "id": "a]6z Pod_2",
-      "name": "Balaji and Steven Glinert on Network States, Supply Chains, and Allied Coalition Strategy",
-      "show": "a]6z Podcast",
-      "description": "Theo Jaffee and Sophia Puccini speak with Balaji Srinivasan and Steven Glinert about the shifting balance of power between nations, networks, and technology.\nThe conversation covers China’s ",
-      "release_date": "2026-06-03",
-      "duration_min": 55,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
       "id": "Lex Frid_0",
