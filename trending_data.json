@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Replies to comments on my 'LLMs are eroding my career' post",
+    "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
     "source": "Hacker News",
-    "description": "HN Score: 13 | 10 comments",
-    "url": "https://human-in-the-loop.bearblog.dev/replies-to-comments-on-my-llms-are-eroding-my-career-post/",
-    "score": 13,
+    "description": "HN Score: 72 | 18 comments",
+    "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
+    "score": 72,
     "date": "2026-06-08",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "The Smallest Brain You Can Build: A Perceptron in Python",
+    "title": "Config Files That Run Code: Supply Chain Security Blindspot",
     "source": "Hacker News",
-    "description": "HN Score: 207 | 35 comments",
-    "url": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
-    "score": 207,
+    "description": "HN Score: 48 | 11 comments",
+    "url": "https://safedep.io/config-files-that-run-code/",
+    "score": 48,
     "date": "2026-06-08",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
+    "title": "The Smallest Brain You Can Build: A Perceptron in Python",
     "source": "Hacker News",
-    "description": "HN Score: 287 | 138 comments",
-    "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
-    "score": 287,
+    "description": "HN Score: 272 | 60 comments",
+    "url": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
+    "score": 272,
     "date": "2026-06-08",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Tiny hackable CUDA language model implementation",
+    "title": "SoulsOnly.tff \u2013 A font for humans not AI and keyboard firmware to type in it",
     "source": "Hacker News",
-    "description": "HN Score: 32 | 2 comments",
-    "url": "https://github.com/markusheimerl/gpt",
-    "score": 32,
+    "description": "HN Score: 19 | 9 comments",
+    "url": "https://github.com/convictional/souls-only",
+    "score": 19,
     "date": "2026-06-08",
     "category": "AI News"
   },
@@ -76,11 +76,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Do agents.md files help coding agents?",
+    "title": "AI Is Slowing Down",
     "source": "Hacker News",
-    "description": "HN Score: 42 | 32 comments",
-    "url": "https://twitter.com/rasbt/status/2063649136323252397",
-    "score": 42,
+    "description": "HN Score: 9 | 0 comments",
+    "url": "https://www.wheresyoured.at/ai-is-slowing-down/",
+    "score": 9,
+    "date": "2026-06-08",
+    "category": "AI News"
+  },
+  {
+    "title": "I still think about this every day.",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2063965517480861963#m",
+    "date": "2026-06-08",
+    "category": "Twitter"
+  },
+  {
+    "title": "Tiny hackable CUDA language model implementation",
+    "source": "Hacker News",
+    "description": "HN Score: 60 | 13 comments",
+    "url": "https://github.com/markusheimerl/gpt",
+    "score": 60,
     "date": "2026-06-08",
     "category": "AI News"
   },
@@ -95,26 +112,9 @@
   {
     "title": "Show HN: Lathe \u2013 Use LLMs to learn a new domain, not skip past it",
     "source": "Hacker News",
-    "description": "HN Score: 324 | 57 comments",
+    "description": "HN Score: 363 | 65 comments",
     "url": "https://github.com/devenjarvis/lathe",
-    "score": 324,
-    "date": "2026-06-08",
-    "category": "AI News"
-  },
-  {
-    "title": "Somebody I know shipped a product a couple of months ago, and he is already making money. He doesn't care about the code. Has no clue whether it's goo",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2063247032681406636#m",
-    "date": "2026-06-08",
-    "category": "Twitter"
-  },
-  {
-    "title": "LLMs are eroding my software engineering career and I don't know what to do",
-    "source": "Hacker News",
-    "description": "HN Score: 993 | 949 comments",
-    "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
-    "score": 993,
+    "score": 363,
     "date": "2026-06-08",
     "category": "AI News"
   },
@@ -127,11 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Texas grid flags risks as data centers, crypto sites fail voltage tests",
+    "title": "LLMs are eroding my software engineering career and I don't know what to do",
     "source": "Hacker News",
-    "description": "HN Score: 112 | 82 comments",
-    "url": "https://www.reuters.com/business/energy/texas-grid-flags-risks-data-centers-crypto-sites-fail-voltage-tests-2026-06-05/",
-    "score": 112,
+    "description": "HN Score: 1077 | 1015 comments",
+    "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
+    "score": 1077,
     "date": "2026-06-08",
     "category": "AI News"
   },
@@ -144,20 +144,20 @@
     "category": "Twitter"
   },
   {
-    "title": "I design with Claude more than Figma now",
+    "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
     "source": "Hacker News",
-    "description": "HN Score: 289 | 251 comments",
-    "url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
-    "score": 289,
+    "description": "HN Score: 371 | 195 comments",
+    "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
+    "score": 371,
     "date": "2026-06-08",
     "category": "AI News"
   },
   {
-    "title": "Anthropic, please ship an official Claude Desktop for Linux",
+    "title": "I design with Claude more than Figma now",
     "source": "Hacker News",
-    "description": "HN Score: 502 | 283 comments",
-    "url": "https://github.com/anthropics/claude-code/issues/65697",
-    "score": 502,
+    "description": "HN Score: 301 | 258 comments",
+    "url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
+    "score": 301,
     "date": "2026-06-08",
     "category": "AI News"
   }
