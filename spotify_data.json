@@ -94,6 +94,16 @@
   "episodes": [
     {
       "id": "a]6z Pod_0",
+      "name": "Tyler Cowen & Alex Tabarrok on AI, Jobs, and Economic Growth",
+      "show": "a]6z Podcast",
+      "description": "Wyatt Thomson of OpenAI speaks with economists Tyler Cowen and Alex Tabarrok about AI, labor markets, and the future of economic growth.\nThe conversation explores one of the most common fear",
+      "release_date": "2026-06-09",
+      "duration_min": 59,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
+      "id": "a]6z Pod_1",
       "name": "AI Eats the World? A Reality Check with Benedict Evans",
       "show": "a]6z Podcast",
       "description": "Erik Torenberg speaks with tech analyst Benedict Evans about the current state of AI, what has changed over the past year, and which questions remain unanswered.\nThe conversation covers codi",
@@ -103,7 +113,7 @@
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "Building Search for AI Agents with Exa CEO Will Bryk",
       "show": "a]6z Podcast",
       "description": "Sarah Wang speaks with Exa cofounder and CEO Will Bryk about building search infrastructure for the AI era.\nThe conversation covers Exa’s origins, why traditional search engines were not des",
@@ -121,16 +131,6 @@
       "duration_min": 64,
       "image": "",
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
-    },
-    {
-      "id": "a]6z Pod_2",
-      "name": "AI Agents and the Fight for Customer Data",
-      "show": "a]6z Podcast",
-      "description": "Martin Casado speaks with George Fraser, cofounder and CEO of Fivetran, about the future of data infrastructure in the age of AI.\nThe conversation covers Fivetran’s merger with dbt, the chan",
-      "release_date": "2026-06-05",
-      "duration_min": 50,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
       "id": "Practica_0",
