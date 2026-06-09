@@ -1,5 +1,26 @@
 [
   {
+    "title": "Can tech companies learn to love cheaper AI models?",
+    "source": "TechCrunch",
+    "summary": "If those same AI workloads can be handled by cheaper models without affecting quality, it would mean a massive shift in the economics of AI.",
+    "url": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
+    "date": "2026-06-09"
+  },
+  {
+    "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more",
+    "source": "TechCrunch",
+    "summary": "Apple primarily made the case for an improved experience with its long-standing Siri assistant, which like most other announcements had a hefty helping of AI.",
+    "url": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+    "date": "2026-06-09"
+  },
+  {
+    "title": "Anthropic\u2019s Claude Fable 5 is a version of Mythos the public can access today",
+    "source": "TechCrunch",
+    "summary": "Anthropic is releasing Claude Fable 5, its first Mythos-class model available to the public. The model comes with guardrails that block responses in high-risk areas like cybersecurity and biology.",
+    "url": "https://techcrunch.com/2026/06/09/anthropic-released-claude-fable-5-its-most-powerful-model-publicly-days-after-warning-ai-is-getting-too-dangerous/",
+    "date": "2026-06-09"
+  },
+  {
     "title": "It\u2019s not FAANG anymore. It\u2019s MANGOS.",
     "source": "TechCrunch",
     "summary": "With SpaceX, Anthropic, and OpenAI all eyeing massive public debuts, the tech industry may soon have a new class of corporate overlords \u2014 and a new acronym to match. Say goodbye to FAANG and hello to MANGOS.",
@@ -9,7 +30,7 @@
   {
     "title": "Sandstone raises $30M to bring AI to in-house legal teams",
     "source": "TechCrunch",
-    "summary": "Sandstone's Series A was led by Lightspeed Partners, with participation from Sequoia.",
+    "summary": "Sandstone's Series A comes just six months after a Sequoia-led seed round.",
     "url": "https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/",
     "date": "2026-06-09"
   },
@@ -30,7 +51,7 @@
   {
     "title": "Why Apple\u2019s slow-and-steady AI bet is starting to look pretty smart",
     "source": "TechCrunch",
-    "summary": "Can Apple's new AI glow up put to bed accusations that it's losing an all-important industry race?",
+    "summary": "Can Apple's new AI glow-up put to bed accusations that it's losing an all-important industry race?",
     "url": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
     "date": "2026-06-09"
   },
@@ -77,31 +98,10 @@
     "date": "2026-06-09"
   },
   {
-    "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
-    "source": "TechCrunch",
-    "summary": "Apple primarily made the case for an improved experience with its longstanding Siri assistant, which like most other announcements had a hefty helping of AI.",
-    "url": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
-    "date": "2026-06-09"
-  },
-  {
     "title": "Apple just taught your iPhone to finish your sentences, your photos, and your workflows",
     "source": "TechCrunch",
     "summary": "Apple is adding new AI-powered features to Safari, Shortcuts, and Password apps.",
     "url": "https://techcrunch.com/2026/06/08/apple-just-taught-your-iphone-to-finish-your-sentences-your-photos-and-your-workflows/",
-    "date": "2026-06-09"
-  },
-  {
-    "title": "Apple will let you build workflows using AI in its new Shortcuts app",
-    "source": "TechCrunch",
-    "summary": "Shortcuts gets an AI upgrade, letting you describe the workflow you want in a prompt.",
-    "url": "https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/",
-    "date": "2026-06-09"
-  },
-  {
-    "title": "Apple\u2019s Image Playground doesn\u2019t suck anymore",
-    "source": "TechCrunch",
-    "summary": "Apple's AI image generator is getting a makeover that could make it more competitive.",
-    "url": "https://techcrunch.com/2026/06/08/apples-image-playground-doesnt-suck-anymore/",
     "date": "2026-06-09"
   },
   {
@@ -175,6 +175,13 @@
     "date": "2026-06-09"
   },
   {
+    "title": "Anthropic Offers Mythos Upgrade for Cyber Partners and a \u2018Safe\u2019 Version for the Rest of You",
+    "source": "Wired",
+    "summary": "Anthropic is releasing Claude Mythos 5 to trusted organizations and Claude Fable 5 to the public, a version it says can\u2019t be used for cyberattacks.",
+    "url": "https://www.wired.com/story/anthropic-releases-claude-fable-5-mythos-5/",
+    "date": "2026-06-09"
+  },
+  {
     "title": "Alex Vindman Survived Trump\u2019s Retaliation Machine. Now He\u2019s Running for Senate",
     "source": "Wired",
     "summary": "In 2019, Alex Vindman testified during President Trump\u2019s first impeachment trial\u2013a decision that ended his military career. Now he wants to challenge the president from the halls of Congress.",
@@ -238,10 +245,17 @@
     "date": "2026-06-09"
   },
   {
-    "title": "Why Apple Might Put Cameras Into Its Next AirPods",
-    "source": "Wired",
-    "summary": "From battery life to privacy, there are many hurdles to the idea taking off.",
-    "url": "https://www.wired.com/story/why-apple-might-put-cameras-into-its-next-airpods/",
+    "title": "Anthropic says these topics are too dangerous to let its Fable 5 model talk about",
+    "source": "Ars Technica",
+    "summary": "New frontier model refuses cybersecurity, biology, and chemistry queries.",
+    "url": "https://arstechnica.com/ai/2026/06/anthropic-says-these-topics-are-too-dangerous-to-let-its-fable-5-model-talk-about/",
+    "date": "2026-06-09"
+  },
+  {
+    "title": "Google announces Gemini 3.5 Live Translate for instant voice-to-voice translation",
+    "source": "Ars Technica",
+    "summary": "Voice translations preserve speaker's tone, pacing, pitch\u2014with SynthID watermarks for security.",
+    "url": "https://arstechnica.com/ai/2026/06/google-announces-gemini-3-5-live-translate-for-instant-voice-to-voice-translation/",
     "date": "2026-06-09"
   },
   {
@@ -333,20 +347,6 @@
     "source": "Ars Technica",
     "summary": "Musk can't be trusted to protect X user privacy, public commenters warn FTC.",
     "url": "https://arstechnica.com/tech-policy/2026/06/elon-musk-tries-again-to-escape-ftc-audits-of-x-data-handling/",
-    "date": "2026-06-09"
-  },
-  {
-    "title": "How some data center operators are tackling their water use problems",
-    "source": "Ars Technica",
-    "summary": "Hyperscalers have come under scrutiny for their impact on water quality and availability.",
-    "url": "https://arstechnica.com/ai/2026/06/how-data-center-operators-are-tackling-their-water-use-problems/",
-    "date": "2026-06-09"
-  },
-  {
-    "title": "Google ordered to put clearer links in AI search and let UK publishers opt out",
-    "source": "Ars Technica",
-    "summary": "Google must change AI Overviews after claiming users don't want 'lots of sources.'",
-    "url": "https://arstechnica.com/tech-policy/2026/06/google-ordered-to-put-clearer-links-in-ai-search-and-let-uk-publishers-opt-out/",
     "date": "2026-06-09"
   }
 ]

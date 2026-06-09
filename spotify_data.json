@@ -93,6 +93,16 @@
   ],
   "episodes": [
     {
+      "id": "The TWIM_0",
+      "name": "Is RAG Dead? Lessons from Building AI for Tax Law with Alex Bowcut - #769",
+      "show": "The TWIML AI Podcast",
+      "description": "As context windows grow into the millions of tokens, many AI practitioners are questioning whether retrieval-augmented generation (RAG) is still necessary. If modern models can ingest entire libraries",
+      "release_date": "2026-06-09",
+      "duration_min": 51,
+      "image": "",
+      "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
+    },
+    {
       "id": "a]6z Pod_0",
       "name": "Tyler Cowen & Alex Tabarrok on AI, Jobs, and Economic Growth",
       "show": "a]6z Podcast",
@@ -213,7 +223,7 @@
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
-      "id": "The TWIM_0",
+      "id": "The TWIM_1",
       "name": "Relational Foundation Models for Enterprise Data with Jure Leskovec - #768",
       "show": "The TWIML AI Podcast",
       "description": "In this episode, Jure Leskovec, co-founder and chief scientist at Kumo and professor of computer science at Stanford, joins us to explore two fronts of his work: AI for science and relational deep lea",
@@ -233,7 +243,7 @@
       "url": "https://open.spotify.com/show/0e1X4kJVfwQRPF8lZzqqfX"
     },
     {
-      "id": "The TWIM_1",
+      "id": "The TWIM_2",
       "name": "How to Find the Agent Failures Your Evals Miss with Scott Clark - #767",
       "show": "The TWIML AI Podcast",
       "description": "In this episode, Scott Clark, co-founder and CEO of Distributional, joins us to explore how teams can reliably operate and improve complex LLM systems and agents in production. Scott introduces a Masl",
@@ -251,16 +261,6 @@
       "duration_min": 263,
       "image": "",
       "url": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"
-    },
-    {
-      "id": "The TWIM_2",
-      "name": "How to Engineer AI Inference Systems with Philip Kiely - #766",
-      "show": "The TWIML AI Podcast",
-      "description": "In this episode, Philip Kiely, head of AI education at Baseten, joins us to unpack the fast-evolving discipline of inference engineering. We explore why inference has become the stickiest and most cri",
-      "release_date": "2026-04-30",
-      "duration_min": 54,
-      "image": "",
-      "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
     },
     {
       "id": "Lex Frid_2",
