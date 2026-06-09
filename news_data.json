@@ -1,5 +1,26 @@
 [
   {
+    "title": "It\u2019s not FAANG anymore. It\u2019s MANGOS.",
+    "source": "TechCrunch",
+    "summary": "With SpaceX, Anthropic, and OpenAI all eyeing massive public debuts, the tech industry may soon have a new class of corporate overlords \u2014 and a new acronym to match. Say goodbye to FAANG and hello to MANGOS.",
+    "url": "https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/",
+    "date": "2026-06-09"
+  },
+  {
+    "title": "Sandstone raises $30M to bring AI to in-house legal teams",
+    "source": "TechCrunch",
+    "summary": "Sandstone's Series A was led by Lightspeed Partners, with participation from Sequoia.",
+    "url": "https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/",
+    "date": "2026-06-09"
+  },
+  {
+    "title": "Lovable says it has hit $500M in annualized revenue, with 1 million new projects a week",
+    "source": "TechCrunch",
+    "summary": "Lovable says it has now surpassed $500 million in annualized run-rate revenue and its users are building businesses and replacing internal software.",
+    "url": "https://techcrunch.com/2026/06/09/lovable-says-it-has-hit-500m-in-annualized-revenue-with-1-million-new-projects-a-week/",
+    "date": "2026-06-09"
+  },
+  {
     "title": "How an e-scooter founder raised $5 million to build space data centers",
     "source": "TechCrunch",
     "summary": "Orbital founder Euwyn Poon built 250,000 scooters at Spin. Now he wants to launch 10,000 space data centers.",
@@ -81,27 +102,6 @@
     "source": "TechCrunch",
     "summary": "Apple's AI image generator is getting a makeover that could make it more competitive.",
     "url": "https://techcrunch.com/2026/06/08/apples-image-playground-doesnt-suck-anymore/",
-    "date": "2026-06-09"
-  },
-  {
-    "title": "Apple\u2019s Photos app is getting new AI editing features",
-    "source": "TechCrunch",
-    "summary": "A new spatial 'Reframe' feature will let users use AI to adjust perspectives.",
-    "url": "https://techcrunch.com/2026/06/08/apples-photos-app-is-getting-new-ai-editing-features/",
-    "date": "2026-06-09"
-  },
-  {
-    "title": "Apple gives Siri its own dedicated app",
-    "source": "TechCrunch",
-    "summary": "Siri is finally getting its own app.",
-    "url": "https://techcrunch.com/2026/06/08/apple-gives-siri-its-own-dedicated-app/",
-    "date": "2026-06-09"
-  },
-  {
-    "title": "Apple is fixing the headache of splitting the bill with its new Siri in Camera feature",
-    "source": "TechCrunch",
-    "summary": "'If you're grabbing a bite with friends and point your iPhone at the bill, then [you can] select what you ordered to split the tab with Apple Cash,' said Apple VP of Software Sebastien Marineau-Mes.",
-    "url": "https://techcrunch.com/2026/06/08/apple-is-fixing-the-headache-of-splitting-the-bill-with-its-new-siri-in-camera-feature/",
     "date": "2026-06-09"
   },
   {
@@ -245,6 +245,13 @@
     "date": "2026-06-09"
   },
   {
+    "title": "Apple says its AI is still private, even when it's running on Google's servers",
+    "source": "Ars Technica",
+    "summary": "Some models run in Google's cloud, but without giving Google any kind of access.",
+    "url": "https://arstechnica.com/apple/2026/06/apple-says-its-ai-is-still-private-even-when-its-running-on-googles-servers/",
+    "date": "2026-06-09"
+  },
+  {
     "title": "Say hi to 'Siri AI'\u2014Apple announces new, more 'conversational' voice assistant",
     "source": "Ars Technica",
     "summary": "New features coming this fall alongside two-tiered, Google-powered AI model overhaul.",
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "Google must change AI Overviews after claiming users don't want 'lots of sources.'",
     "url": "https://arstechnica.com/tech-policy/2026/06/google-ordered-to-put-clearer-links-in-ai-search-and-let-uk-publishers-opt-out/",
-    "date": "2026-06-09"
-  },
-  {
-    "title": "Google's new Gemma 4 12B model is designed to run on any laptop with 16GB of RAM",
-    "source": "Ars Technica",
-    "summary": "Gemma 4 12B uses a new encoding scheme and token prediction to punch above its weight.",
-    "url": "https://arstechnica.com/google/2026/06/googles-new-gemma-4-open-ai-model-is-sized-for-your-laptop/",
     "date": "2026-06-09"
   }
 ]
