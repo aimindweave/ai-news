@@ -1,5 +1,19 @@
 [
   {
+    "title": "\u2018AI-pilled\u2019 firms spend $7,500 per employee each month on AI",
+    "source": "TechCrunch",
+    "summary": "The most AI-obsessed firms are spending roughly $7,500 monthly per employee on AI, per Ramp AI Index. That's not more than an engineer's salary \u2014 yet.",
+    "url": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
+    "date": "2026-06-10"
+  },
+  {
+    "title": "How memory tools can make AI models worse",
+    "source": "TechCrunch",
+    "summary": "New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies.",
+    "url": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
+    "date": "2026-06-10"
+  },
+  {
     "title": "Cybersecurity researchers aren\u2019t happy about the guardrails on Anthropic\u2019s Fable",
     "source": "TechCrunch",
     "summary": "Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work.",
@@ -30,7 +44,7 @@
   {
     "title": "Jedify raises $24M to help companies arm AI agents with context on their business",
     "source": "TechCrunch",
-    "summary": "The funding round was led by Norwest, with participation S Capital VC, Cerca Partners, and Oceans Ventures. Snowflake Ventures also participated as a strategic investor.",
+    "summary": "The funding round was led by Norwest, with participation from S Capital VC, Cerca Partners, and Oceans Ventures. Snowflake Ventures also participated as a strategic investor.",
     "url": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/",
     "date": "2026-06-10"
   },
@@ -88,20 +102,6 @@
     "source": "TechCrunch",
     "summary": "Apple primarily made the case for an improved experience with its long-standing Siri assistant, which like most other announcements had a hefty helping of AI.",
     "url": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
-    "date": "2026-06-10"
-  },
-  {
-    "title": "Anthropic\u2019s Claude Fable 5 is a version of Mythos the public can access today",
-    "source": "TechCrunch",
-    "summary": "Anthropic is releasing Claude Fable 5, its first Mythos-class model available to the public. The model comes with guardrails that block responses in high-risk areas like cybersecurity and biology.",
-    "url": "https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/",
-    "date": "2026-06-10"
-  },
-  {
-    "title": "It\u2019s not FAANG anymore. It\u2019s MANGOS.",
-    "source": "TechCrunch",
-    "summary": "With SpaceX, Anthropic, and OpenAI all eyeing massive public debuts, the tech industry may soon have a new class of corporate overlords \u2014 and a new acronym to match. Say goodbye to FAANG and hello to MANGOS.",
-    "url": "https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/",
     "date": "2026-06-10"
   },
   {
@@ -245,6 +245,13 @@
     "date": "2026-06-10"
   },
   {
+    "title": "Nobody needs AI to search the Internet, court says in ruling against Google",
+    "source": "Ars Technica",
+    "summary": "Google AI Overview court loss in Germany could spell doom for AI search industry.",
+    "url": "https://arstechnica.com/tech-policy/2026/06/nobody-needs-ai-to-search-the-internet-court-says-in-ruling-against-google/",
+    "date": "2026-06-10"
+  },
+  {
     "title": "Anthropic says these topics are too dangerous to let its Fable 5 model talk about",
     "source": "Ars Technica",
     "summary": "New frontier model refuses cybersecurity, biology, and chemistry queries.",
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "Estonian government benchmark shows how dozens of models combat Russia's 'strategic narratives.'",
     "url": "https://arstechnica.com/ai/2026/06/these-llms-are-the-best-at-resisting-russian-propaganda/",
-    "date": "2026-06-10"
-  },
-  {
-    "title": "Elon Musk tries again to escape FTC audits of X data handling",
-    "source": "Ars Technica",
-    "summary": "Musk can't be trusted to protect X user privacy, public commenters warn FTC.",
-    "url": "https://arstechnica.com/tech-policy/2026/06/elon-musk-tries-again-to-escape-ftc-audits-of-x-data-handling/",
     "date": "2026-06-10"
   }
 ]
