@@ -1,5 +1,12 @@
 [
   {
+    "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
+    "source": "TechCrunch",
+    "summary": "Companies are burning through exorbitant sums of money to keep pace in the AI arms race. Debt is climbing.",
+    "url": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
+    "date": "2026-06-10"
+  },
+  {
     "title": "\u2018AI-pilled\u2019 firms spend $7,500 per employee each month on AI",
     "source": "TechCrunch",
     "summary": "The most AI-obsessed firms are spending roughly $7,500 monthly per employee on AI, per Ramp AI Index. That's not more than an engineer's salary \u2014 yet.",
@@ -95,13 +102,6 @@
     "source": "TechCrunch",
     "summary": "If those same AI workloads can be handled by cheaper models without affecting quality, it would mean a massive shift in the economics of AI.",
     "url": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
-    "date": "2026-06-10"
-  },
-  {
-    "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more",
-    "source": "TechCrunch",
-    "summary": "Apple primarily made the case for an improved experience with its long-standing Siri assistant, which like most other announcements had a hefty helping of AI.",
-    "url": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
     "date": "2026-06-10"
   },
   {
@@ -245,6 +245,13 @@
     "date": "2026-06-10"
   },
   {
+    "title": "Google DeepMind releases DiffusionGemma, a model that runs local AI 4x faster",
+    "source": "Ars Technica",
+    "summary": "Diffusion AI is most common in image generation, but it can make text outputs much faster.",
+    "url": "https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/",
+    "date": "2026-06-10"
+  },
+  {
     "title": "Nobody needs AI to search the Internet, court says in ruling against Google",
     "source": "Ars Technica",
     "summary": "Google AI Overview court loss in Germany could spell doom for AI search industry.",
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "Robot demonstrations can distort public perceptions of robotic capabilities.",
     "url": "https://arstechnica.com/ai/2026/06/the-skeptics-guide-to-humanoid-robots-going-viral-on-the-internet/",
-    "date": "2026-06-10"
-  },
-  {
-    "title": "These LLMs are the best at resisting Russian propaganda",
-    "source": "Ars Technica",
-    "summary": "Estonian government benchmark shows how dozens of models combat Russia's 'strategic narratives.'",
-    "url": "https://arstechnica.com/ai/2026/06/these-llms-are-the-best-at-resisting-russian-propaganda/",
     "date": "2026-06-10"
   }
 ]

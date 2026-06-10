@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Claude Desktop spins up a VM without no way of stopping it",
+    "title": "L'Affaire Siloxane",
     "source": "Hacker News",
-    "description": "HN Score: 54 | 32 comments",
-    "url": "https://github.com/anthropics/claude-code/issues/29045",
-    "score": 54,
+    "description": "HN Score: 103 | 18 comments",
+    "url": "https://mceglowski.substack.com/p/laffaire-siloxane",
+    "score": 103,
     "date": "2026-06-10",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "All 9,300 Japanese train station, animated by the year it opened (1872\u20132026)",
+    "title": "Anthropic's Model Naming, Extrapolated",
     "source": "Hacker News",
-    "description": "HN Score: 138 | 47 comments",
-    "url": "https://jivx.com/eki",
-    "score": 138,
+    "description": "HN Score: 229 | 62 comments",
+    "url": "https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated",
+    "score": 229,
     "date": "2026-06-10",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Apache Burr: Build reliable AI agents and applications",
+    "title": "Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use",
     "source": "Hacker News",
-    "description": "HN Score: 103 | 68 comments",
-    "url": "https://burr.apache.org/",
-    "score": 103,
+    "description": "HN Score: 279 | 194 comments",
+    "url": "https://github.com/anthropics/claude-code/issues/29045",
+    "score": 279,
     "date": "2026-06-10",
     "category": "AI News"
   },
@@ -59,28 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "L'Affaire Siloxane",
+    "title": "Apache Burr: Build reliable AI agents and applications",
     "source": "Hacker News",
-    "description": "HN Score: 6 | 0 comments",
-    "url": "https://mceglowski.substack.com/p/laffaire-siloxane",
-    "score": 6,
-    "date": "2026-06-10",
-    "category": "AI News"
-  },
-  {
-    "title": "NitroGen just won CVPR Best Paper Honorable Mention!! We are making strides towards general-purpose embodied agents that master not only the real worl",
-    "source": "@DrJimFan",
-    "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2062942941363286048#m",
-    "date": "2026-06-10",
-    "category": "Twitter"
-  },
-  {
-    "title": "Buy a train, bridge or tracks from the Swiss Railway",
-    "source": "Hacker News",
-    "description": "HN Score: 137 | 67 comments",
-    "url": "https://sbbresale.ch/",
-    "score": 137,
+    "description": "HN Score: 151 | 84 comments",
+    "url": "https://burr.apache.org/",
+    "score": 151,
     "date": "2026-06-10",
     "category": "AI News"
   },
@@ -93,28 +76,45 @@
     "category": "Twitter"
   },
   {
-    "title": "A \u20ac0.01 bank transfer could compromise a banking AI agent",
+    "title": "All 9,300 Japanese train station, animated by the year it opened (1872\u20132026)",
     "source": "Hacker News",
-    "description": "HN Score: 90 | 72 comments",
-    "url": "https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/",
-    "score": 90,
+    "description": "HN Score: 172 | 59 comments",
+    "url": "https://jivx.com/eki",
+    "score": 172,
     "date": "2026-06-10",
     "category": "AI News"
   },
   {
-    "title": "R to @svpino: For the first time ever, you will be able to run a trillion-parameter model on your personal hardware. They announced many more things, ",
+    "title": "NitroGen just won CVPR Best Paper Honorable Mention!! We are making strides towards general-purpose embodied agents that master not only the real worl",
+    "source": "@DrJimFan",
+    "description": "",
+    "url": "https://nitter.net/DrJimFan/status/2062942941363286048#m",
+    "date": "2026-06-10",
+    "category": "Twitter"
+  },
+  {
+    "title": "A \u20ac0.01 bank transfer could compromise a banking AI agent",
+    "source": "Hacker News",
+    "description": "HN Score: 149 | 130 comments",
+    "url": "https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/",
+    "score": 149,
+    "date": "2026-06-10",
+    "category": "AI News"
+  },
+  {
+    "title": "One of the best providers of voice AI has just halved its API prices across its entire stack: TTS, STT, and LLM costs are now 50% down. Even better: t",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2064755227648233931#m",
+    "url": "https://nitter.net/svpino/status/2064781393557938497#m",
     "date": "2026-06-10",
     "category": "Twitter"
   },
   {
     "title": "'They take you out of life, out of time': a journey into Spain's cave paintings",
     "source": "Hacker News",
-    "description": "HN Score: 43 | 19 comments",
+    "description": "HN Score: 60 | 25 comments",
     "url": "https://www.theguardian.com/science/2026/jun/02/journey-into-spain-palaeolithic-cave-paintings-altamira",
-    "score": 43,
+    "score": 60,
     "date": "2026-06-10",
     "category": "AI News"
   },
@@ -127,11 +127,28 @@
     "category": "Twitter"
   },
   {
-    "title": "The iPad was on Tailscale: a WebRTC debugging story",
+    "title": "macOS Container Machines",
     "source": "Hacker News",
-    "description": "HN Score: 33 | 15 comments",
-    "url": "https://p2claw.com/blog/2026-06-09-the-ipad-was-on-tailscale/",
-    "score": 33,
+    "description": "HN Score: 1175 | 413 comments",
+    "url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
+    "score": 1175,
+    "date": "2026-06-10",
+    "category": "AI News"
+  },
+  {
+    "title": "Fable is too censored, nerfed and paranoid... My bet is now on GPT 5.6 as the go to model for agentic coding Yes, agentic coding \ud83d\ude80\ud83d\ude80",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2064784796602257518#m",
+    "date": "2026-06-10",
+    "category": "Twitter"
+  },
+  {
+    "title": "Claude Fable 5",
+    "source": "Hacker News",
+    "description": "HN Score: 2537 | 2065 comments",
+    "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+    "score": 2537,
     "date": "2026-06-10",
     "category": "AI News"
   },
@@ -144,28 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "macOS Container Machines",
+    "title": "Buy a train, bridge or tracks from the Swiss Railway",
     "source": "Hacker News",
-    "description": "HN Score: 1124 | 389 comments",
-    "url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
-    "score": 1124,
-    "date": "2026-06-10",
-    "category": "AI News"
-  },
-  {
-    "title": "TBH Fable tends to over think problems quite often - spins a lot as well.\ud83d\ude05 Only makes sense when your go-to practical intelligence model fails on a ha",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2064681895980650624#m",
-    "date": "2026-06-10",
-    "category": "Twitter"
-  },
-  {
-    "title": "AWS Bedrock to require sharing data with Anthropic for Mythos and future models",
-    "source": "Hacker News",
-    "description": "HN Score: 363 | 214 comments",
-    "url": "https://news.ycombinator.com/item?id=48473166",
-    "score": 363,
+    "description": "HN Score: 160 | 90 comments",
+    "url": "https://sbbresale.ch/",
+    "score": 160,
     "date": "2026-06-10",
     "category": "AI News"
   }
