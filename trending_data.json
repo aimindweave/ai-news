@@ -10,9 +10,9 @@
   {
     "title": "macOS Container Machines",
     "source": "Hacker News",
-    "description": "HN Score: 369 | 135 comments",
+    "description": "HN Score: 771 | 281 comments",
     "url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
-    "score": 369,
+    "score": 771,
     "date": "2026-06-10",
     "category": "AI News"
   },
@@ -27,9 +27,26 @@
   {
     "title": "Claude Fable 5",
     "source": "Hacker News",
-    "description": "HN Score: 1912 | 1496 comments",
+    "description": "HN Score: 2248 | 1735 comments",
     "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
-    "score": 1912,
+    "score": 2248,
+    "date": "2026-06-10",
+    "category": "AI News"
+  },
+  {
+    "title": "whose feeling the agi",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/EMostaque/status/2064605658373124412#m",
+    "date": "2026-06-10",
+    "category": "Twitter"
+  },
+  {
+    "title": "AWS Bedrock to require sharing data with Anthropic for Mythos and future models",
+    "source": "Hacker News",
+    "description": "HN Score: 54 | 15 comments",
+    "url": "https://news.ycombinator.com/item?id=48473166",
+    "score": 54,
     "date": "2026-06-10",
     "category": "AI News"
   },
@@ -44,9 +61,9 @@
   {
     "title": "Rich Sutton on AI creativity and discovery",
     "source": "Hacker News",
-    "description": "HN Score: 37 | 16 comments",
+    "description": "HN Score: 119 | 59 comments",
     "url": "https://twitter.com/RichardSSutton/status/2061216087744946656",
-    "score": 37,
+    "score": 119,
     "date": "2026-06-10",
     "category": "AI News"
   },
@@ -61,9 +78,9 @@
   {
     "title": "German ruling declares Google liable for false answers in AI Overviews",
     "source": "Hacker News",
-    "description": "HN Score: 167 | 80 comments",
+    "description": "HN Score: 559 | 321 comments",
     "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
-    "score": 167,
+    "score": 559,
     "date": "2026-06-10",
     "category": "AI News"
   },
@@ -78,31 +95,14 @@
   {
     "title": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
     "source": "Hacker News",
-    "description": "HN Score: 178 | 25 comments",
+    "description": "HN Score: 227 | 33 comments",
     "url": "https://aarushgupta.io/posts/kan-fpga/",
-    "score": 178,
+    "score": 227,
     "date": "2026-06-10",
     "category": "AI News"
   },
   {
-    "title": "RT by @svpino: Measuring AI productivity in 'number of lines written' is a stupid mistake. One Day, Everyone Will Have Always Been Against This.",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2064326898034118785#m",
-    "date": "2026-06-10",
-    "category": "Twitter"
-  },
-  {
-    "title": "If Claude Fable stops helping you, you'll never know",
-    "source": "Hacker News",
-    "description": "HN Score: 611 | 299 comments",
-    "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
-    "score": 611,
-    "date": "2026-06-10",
-    "category": "AI News"
-  },
-  {
-    "title": "This is so freaking cool! When I'm in Spain, I never go to the movie theater if they only play dubbed movies. Horrible experience watching Hollywood a",
+    "title": "RT by @svpino: This is so freaking cool! When I'm in Spain, I never go to the movie theater if they only play dubbed movies. Horrible experience watch",
     "source": "@svpino",
     "description": "",
     "url": "https://nitter.net/svpino/status/2064451766046101879#m",
@@ -110,11 +110,28 @@
     "category": "Twitter"
   },
   {
+    "title": "If Claude Fable stops helping you, you'll never know",
+    "source": "Hacker News",
+    "description": "HN Score: 821 | 401 comments",
+    "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
+    "score": 821,
+    "date": "2026-06-10",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: This is not the first tool to promise AI-backed analytics. I've tried a ton, some better than others, but most suffer from hallucinatio",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2064410767701823611#m",
+    "date": "2026-06-10",
+    "category": "Twitter"
+  },
+  {
     "title": "Lies we tell ourselves about email addresses",
     "source": "Hacker News",
-    "description": "HN Score: 63 | 48 comments",
+    "description": "HN Score: 119 | 104 comments",
     "url": "https://gitpush--force.com/commits/2026/06/lies-we-tell-ourselves-about-email/",
-    "score": 63,
+    "score": 119,
     "date": "2026-06-10",
     "category": "AI News"
   },
@@ -129,9 +146,9 @@
   {
     "title": "CEOs who think AI replaces their employees are just bad CEOs",
     "source": "Hacker News",
-    "description": "HN Score: 499 | 207 comments",
+    "description": "HN Score: 671 | 248 comments",
     "url": "https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/",
-    "score": 499,
+    "score": 671,
     "date": "2026-06-10",
     "category": "AI News"
   },
@@ -146,18 +163,9 @@
   {
     "title": "Grit: Rewriting Git in Rust with agents",
     "source": "Hacker News",
-    "description": "HN Score: 98 | 135 comments",
+    "description": "HN Score: 143 | 211 comments",
     "url": "https://blog.gitbutler.com/true-grit",
-    "score": 98,
-    "date": "2026-06-10",
-    "category": "AI News"
-  },
-  {
-    "title": "Experience using AI software to prove Euler sum results [pdf]",
-    "source": "Hacker News",
-    "description": "HN Score: 5 | 0 comments",
-    "url": "https://www.davidhbailey.com/dhbpapers/Chatbots.pdf",
-    "score": 5,
+    "score": 143,
     "date": "2026-06-10",
     "category": "AI News"
   }
