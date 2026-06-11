@@ -4,16 +4,16 @@
     "source": "@kaborobot",
     "description": "",
     "url": "https://nitter.net/kaborobot/status/2063568544277909948#m",
-    "date": "2026-06-10",
+    "date": "2026-06-11",
     "category": "Twitter"
   },
   {
-    "title": "L'Affaire Siloxane",
+    "title": "AI agent runs amok in Fedora and elsewhere",
     "source": "Hacker News",
-    "description": "HN Score: 103 | 18 comments",
-    "url": "https://mceglowski.substack.com/p/laffaire-siloxane",
-    "score": 103,
-    "date": "2026-06-10",
+    "description": "HN Score: 222 | 56 comments",
+    "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
+    "score": 222,
+    "date": "2026-06-11",
     "category": "AI News"
   },
   {
@@ -21,16 +21,33 @@
     "source": "@kaborobot",
     "description": "",
     "url": "https://nitter.net/kaborobot/status/2058205543760838842#m",
-    "date": "2026-06-10",
+    "date": "2026-06-11",
     "category": "Twitter"
   },
   {
-    "title": "Anthropic's Model Naming, Extrapolated",
+    "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
     "source": "Hacker News",
-    "description": "HN Score: 229 | 62 comments",
-    "url": "https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated",
-    "score": 229,
-    "date": "2026-06-10",
+    "description": "HN Score: 301 | 280 comments",
+    "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+    "score": 301,
+    "date": "2026-06-11",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: in arxiv paper #2, i tackle the last topic from paper #1: @activegraphai as an architectural affordance for self-improving agents 'R",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/yoheinakajima/status/2064830891143381076#m",
+    "date": "2026-06-11",
+    "category": "Twitter"
+  },
+  {
+    "title": "Anthropic requires 30 day data retention for Fable and Mythos",
+    "source": "Hacker News",
+    "description": "HN Score: 276 | 128 comments",
+    "url": "https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models",
+    "score": 276,
+    "date": "2026-06-11",
     "category": "AI News"
   },
   {
@@ -38,33 +55,16 @@
     "source": "@EMostaque",
     "description": "",
     "url": "https://nitter.net/EMostaque/status/2064744695335456960#m",
-    "date": "2026-06-10",
+    "date": "2026-06-11",
     "category": "Twitter"
   },
   {
-    "title": "Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use",
+    "title": "Klondike Solitaire game for curses in 5k of C",
     "source": "Hacker News",
-    "description": "HN Score: 279 | 194 comments",
-    "url": "https://github.com/anthropics/claude-code/issues/29045",
-    "score": 279,
-    "date": "2026-06-10",
-    "category": "AI News"
-  },
-  {
-    "title": "You should really all try Opus Fable low mode versus high or ultracost It's a good enough model to semi one-shot most things and this uses far fewer t",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/EMostaque/status/2064700327857660098#m",
-    "date": "2026-06-10",
-    "category": "Twitter"
-  },
-  {
-    "title": "Apache Burr: Build reliable AI agents and applications",
-    "source": "Hacker News",
-    "description": "HN Score: 151 | 84 comments",
-    "url": "https://burr.apache.org/",
-    "score": 151,
-    "date": "2026-06-10",
+    "description": "HN Score: 44 | 2 comments",
+    "url": "https://nanochess.org/klondike_in_c.html",
+    "score": 44,
+    "date": "2026-06-11",
     "category": "AI News"
   },
   {
@@ -72,16 +72,16 @@
     "source": "@DrJimFan",
     "description": "",
     "url": "https://nitter.net/DrJimFan/status/2062943409216897258#m",
-    "date": "2026-06-10",
+    "date": "2026-06-11",
     "category": "Twitter"
   },
   {
-    "title": "All 9,300 Japanese train station, animated by the year it opened (1872\u20132026)",
+    "title": "The Road to the WASM Component Model 1.0",
     "source": "Hacker News",
-    "description": "HN Score: 172 | 59 comments",
-    "url": "https://jivx.com/eki",
-    "score": 172,
-    "date": "2026-06-10",
+    "description": "HN Score: 11 | 4 comments",
+    "url": "https://bytecodealliance.org/articles/the-road-to-component-model-1-0",
+    "score": 11,
+    "date": "2026-06-11",
     "category": "AI News"
   },
   {
@@ -89,16 +89,33 @@
     "source": "@DrJimFan",
     "description": "",
     "url": "https://nitter.net/DrJimFan/status/2062942941363286048#m",
-    "date": "2026-06-10",
+    "date": "2026-06-11",
     "category": "Twitter"
   },
   {
-    "title": "A \u20ac0.01 bank transfer could compromise a banking AI agent",
+    "title": "L'Affaire Siloxane",
     "source": "Hacker News",
-    "description": "HN Score: 149 | 130 comments",
-    "url": "https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/",
-    "score": 149,
-    "date": "2026-06-10",
+    "description": "HN Score: 185 | 29 comments",
+    "url": "https://mceglowski.substack.com/p/laffaire-siloxane",
+    "score": 185,
+    "date": "2026-06-11",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: If my boat sinks and I end up stranded on a deserted island, and the only way to get back to civilization is to send an email using Out",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2064688027478499785#m",
+    "date": "2026-06-11",
+    "category": "Twitter"
+  },
+  {
+    "title": "Deficient executive control in transformer attention",
+    "source": "Hacker News",
+    "description": "HN Score: 29 | 10 comments",
+    "url": "https://academic.oup.com/pnasnexus/article/5/6/pgag149/8698838",
+    "score": 29,
+    "date": "2026-06-11",
     "category": "AI News"
   },
   {
@@ -106,67 +123,50 @@
     "source": "@svpino",
     "description": "",
     "url": "https://nitter.net/svpino/status/2064781393557938497#m",
-    "date": "2026-06-10",
+    "date": "2026-06-11",
     "category": "Twitter"
   },
   {
-    "title": "'They take you out of life, out of time': a journey into Spain's cave paintings",
+    "title": "Apache Burr: Build reliable AI agents and applications",
     "source": "Hacker News",
-    "description": "HN Score: 60 | 25 comments",
-    "url": "https://www.theguardian.com/science/2026/jun/02/journey-into-spain-palaeolithic-cave-paintings-altamira",
-    "score": 60,
-    "date": "2026-06-10",
+    "description": "HN Score: 184 | 95 comments",
+    "url": "https://burr.apache.org/",
+    "score": 184,
+    "date": "2026-06-11",
     "category": "AI News"
   },
   {
-    "title": "We are getting 2 new devices from NVIDIA and Microsoft: 1. The DGX Station, with GB300 superchip and up to 748GB of memory. 2. The RTX Spark laptop, w",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2064755215140831439#m",
-    "date": "2026-06-10",
-    "category": "Twitter"
-  },
-  {
-    "title": "macOS Container Machines",
-    "source": "Hacker News",
-    "description": "HN Score: 1175 | 413 comments",
-    "url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
-    "score": 1175,
-    "date": "2026-06-10",
-    "category": "AI News"
-  },
-  {
-    "title": "Fable is too censored, nerfed and paranoid... My bet is now on GPT 5.6 as the go to model for agentic coding Yes, agentic coding \ud83d\ude80\ud83d\ude80",
+    "title": "Hearing credible rumors that GPT 5.6 may be way cheaper....\ud83d\ude05 Literally, the entire planet is waiting in anticipation",
     "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/bindureddy/status/2064784796602257518#m",
-    "date": "2026-06-10",
+    "url": "https://nitter.net/bindureddy/status/2064904743647056268#m",
+    "date": "2026-06-11",
     "category": "Twitter"
   },
   {
-    "title": "Claude Fable 5",
+    "title": "Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use",
     "source": "Hacker News",
-    "description": "HN Score: 2537 | 2065 comments",
-    "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
-    "score": 2537,
-    "date": "2026-06-10",
+    "description": "HN Score: 369 | 257 comments",
+    "url": "https://github.com/anthropics/claude-code/issues/29045",
+    "score": 369,
+    "date": "2026-06-11",
     "category": "AI News"
   },
   {
-    "title": "OpenAI are you listening\u2026. We will LOVE YOU if you made GPT 5.6 less censored and 2x cheaper than 5.5 \ud83d\ude4f",
+    "title": "Claude Fable Report Card hard agentic loops: A general chat: C- (refuses chats) design: B- (opus is better) simple agents: B- (gpt 5.5 is cheaper) Thi",
     "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/bindureddy/status/2064703209718055282#m",
-    "date": "2026-06-10",
+    "url": "https://nitter.net/bindureddy/status/2064873278502731776#m",
+    "date": "2026-06-11",
     "category": "Twitter"
   },
   {
-    "title": "Buy a train, bridge or tracks from the Swiss Railway",
+    "title": "All 9,300 Japanese train station, animated by the year it opened (1872\u20132026)",
     "source": "Hacker News",
-    "description": "HN Score: 160 | 90 comments",
-    "url": "https://sbbresale.ch/",
-    "score": 160,
-    "date": "2026-06-10",
+    "description": "HN Score: 213 | 73 comments",
+    "url": "https://jivx.com/eki",
+    "score": 213,
+    "date": "2026-06-11",
     "category": "AI News"
   }
 ]
