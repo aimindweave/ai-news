@@ -10,9 +10,9 @@
   {
     "title": "How to setup a local coding agent on macOS",
     "source": "Hacker News",
-    "description": "HN Score: 160 | 55 comments",
+    "description": "HN Score: 212 | 67 comments",
     "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
-    "score": 160,
+    "score": 212,
     "date": "2026-06-12",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Mmorpg World of ClaudeCraft, vibe coded with Fable 5",
+    "title": "Palantir loses legal challenge against Swiss investigative magazine",
     "source": "Hacker News",
-    "description": "HN Score: 30 | 12 comments",
-    "url": "https://worldofclaudecraft.com/",
-    "score": 30,
+    "description": "HN Score: 125 | 21 comments",
+    "url": "https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979",
+    "score": 125,
     "date": "2026-06-12",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Palantir loses legal challenge against Swiss investigative magazine",
+    "title": "Show HN: Putt.day a daily mini golf game",
     "source": "Hacker News",
-    "description": "HN Score: 56 | 7 comments",
-    "url": "https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979",
-    "score": 56,
+    "description": "HN Score: 11 | 2 comments",
+    "url": "https://putt.day/",
+    "score": 11,
     "date": "2026-06-12",
     "category": "AI News"
   },
@@ -61,9 +61,9 @@
   {
     "title": "Slightly reducing the sloppiness of AI generated front end",
     "source": "Hacker News",
-    "description": "HN Score: 145 | 101 comments",
+    "description": "HN Score: 155 | 107 comments",
     "url": "https://envs.net/~volpe/blog/posts/reduce-slop.html",
-    "score": 145,
+    "score": 155,
     "date": "2026-06-12",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Launch HN: BitBoard (YC P25) \u2013 Analytics Workspace for Agents",
+    "title": "'Don't You Just Upload It to ChatGPT?'",
     "source": "Hacker News",
-    "description": "HN Score: 28 | 15 comments",
-    "url": "https://bitboard.work/",
-    "score": 28,
+    "description": "HN Score: 258 | 218 comments",
+    "url": "https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/",
+    "score": 258,
     "date": "2026-06-12",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "'Don't You Just Upload It to ChatGPT?'",
+    "title": "Launch HN: BitBoard (YC P25) \u2013 Analytics Workspace for Agents",
     "source": "Hacker News",
-    "description": "HN Score: 204 | 185 comments",
-    "url": "https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/",
-    "score": 204,
+    "description": "HN Score: 31 | 18 comments",
+    "url": "https://bitboard.work/",
+    "score": 31,
     "date": "2026-06-12",
     "category": "AI News"
   },
@@ -112,9 +112,9 @@
   {
     "title": "There Is Life Before Main in Rust",
     "source": "Hacker News",
-    "description": "HN Score: 57 | 13 comments",
+    "description": "HN Score: 64 | 17 comments",
     "url": "https://grack.com/blog/2026/06/11/life-before-main/",
-    "score": 57,
+    "score": 64,
     "date": "2026-06-12",
     "category": "AI News"
   },
@@ -127,11 +127,28 @@
     "category": "Twitter"
   },
   {
+    "title": "Mmorpg World of ClaudeCraft, vibe coded with Fable 5",
+    "source": "Hacker News",
+    "description": "HN Score: 76 | 77 comments",
+    "url": "https://worldofclaudecraft.com/",
+    "score": 76,
+    "date": "2026-06-12",
+    "category": "AI News"
+  },
+  {
+    "title": "Kimi 2.7 Code Is The Best Open Source Coding Model In The World - 80% of Claude Fable and GPT 5.5 accuracy on tasks - 12x cheaper Use Kimi 2.7 for eas",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2065565279632195990#m",
+    "date": "2026-06-12",
+    "category": "Twitter"
+  },
+  {
     "title": "Kimi K2.7-Code: open-source coding model with better token efficiency",
     "source": "Hacker News",
-    "description": "HN Score: 386 | 207 comments",
+    "description": "HN Score: 394 | 213 comments",
     "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
-    "score": 386,
+    "score": 394,
     "date": "2026-06-12",
     "category": "AI News"
   },
@@ -144,28 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Script to bulk delete Claude chats from the web UI",
+    "title": "I Think They [Anthropic] Are Lying to You [video]",
     "source": "Hacker News",
-    "description": "HN Score: 49 | 18 comments",
-    "url": "https://github.com/MatteoLeonesi/bulk-delete-claude-chat",
-    "score": 49,
-    "date": "2026-06-12",
-    "category": "AI News"
-  },
-  {
-    "title": "Kimi 2.7 Just Dropped And Will Top The Open Source Leaderboards - comparable to Opus 4.8 and GPT 5.5! - step above Kimi 2.6 which is an excellent mode",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2065443902132502929#m",
-    "date": "2026-06-12",
-    "category": "Twitter"
-  },
-  {
-    "title": "AI agent bankrupted their operator while trying to scan DN42",
-    "source": "Hacker News",
-    "description": "HN Score: 1362 | 494 comments",
-    "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
-    "score": 1362,
+    "description": "HN Score: 4 | 0 comments",
+    "url": "https://www.youtube.com/watch?v=zfYsSFY4l18",
+    "score": 4,
     "date": "2026-06-12",
     "category": "AI News"
   }
