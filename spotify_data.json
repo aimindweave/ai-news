@@ -93,6 +93,26 @@
   ],
   "episodes": [
     {
+      "id": "Hard For_0",
+      "name": "‘Hard Fork’ Live, Part 1: Satya Nadella and Cindy Cohn",
+      "show": "Hard Fork",
+      "description": "This week and next, we’re bringing you recordings from our second-ever live taping in San Francisco. First, we sit down with Microsoft’s chief executive, Satya Nadella, to hear what he’s maxing out",
+      "release_date": "2026-06-12",
+      "duration_min": 65,
+      "image": "",
+      "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
+    },
+    {
+      "id": "a]6z Pod_0",
+      "name": "Samo Burja on Growth, Energy, and AI",
+      "show": "a]6z Podcast",
+      "description": "Theo Jaffee speaks with Samo Burja, founder of Bismarck Analysis, about AI, industrial capacity, economic growth, and the institutions that shape civilization.\nThe conversation explores how ",
+      "release_date": "2026-06-12",
+      "duration_min": 27,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
       "id": "Practica_0",
       "name": "Zero Trust for AI Agents",
       "show": "Practical AI",
@@ -103,7 +123,7 @@
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
-      "id": "a]6z Pod_0",
+      "id": "a]6z Pod_1",
       "name": "Designing the Physical World with AI",
       "show": "a]6z Podcast",
       "description": "Erin Price-Wright speaks with Alex Modon, cofounder and CEO at Unlimited Industries, and Davide Asnaghi, CEO at Diode Computers, about how AI is moving from software into the physical world. They d",
@@ -133,7 +153,7 @@
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "Tyler Cowen & Alex Tabarrok on AI, Jobs, and Economic Growth",
       "show": "a]6z Podcast",
       "description": "Wyatt Thomson of OpenAI speaks with economists Tyler Cowen and Alex Tabarrok about AI, labor markets, and the future of economic growth.\nThe conversation explores one of the most common fear",
@@ -143,17 +163,7 @@
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
-      "id": "a]6z Pod_2",
-      "name": "AI Eats the World? A Reality Check with Benedict Evans",
-      "show": "a]6z Podcast",
-      "description": "Erik Torenberg speaks with tech analyst Benedict Evans about the current state of AI, what has changed over the past year, and which questions remain unanswered.\nThe conversation covers codi",
-      "release_date": "2026-06-08",
-      "duration_min": 61,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
-    },
-    {
-      "id": "Hard For_0",
+      "id": "Hard For_1",
       "name": "Hot I.P.O Summer + What Is A.I. Doing to Math? + HatGPT",
       "show": "Hard Fork",
       "description": "SpaceX, Anthropic and OpenAI are all racing to the public markets. We discuss what their I.P.O.s mean for the industry, charitable giving and anyone invested in an index fund. Then, more than 1,000",
@@ -183,7 +193,7 @@
       "url": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"
     },
     {
-      "id": "Hard For_1",
+      "id": "Hard For_2",
       "name": "Interesting Times: Why Are We Still Driving?",
       "show": "Hard Fork",
       "description": "The “Hard Fork” team is taking a break this week as we prepare for our upcoming live show in San Francisco.\nWhile we’re away, we’re bringing you a recent episode of “Interesting Times” with ",
@@ -211,16 +221,6 @@
       "duration_min": 29,
       "image": "",
       "url": "https://open.spotify.com/show/0e1X4kJVfwQRPF8lZzqqfX"
-    },
-    {
-      "id": "Hard For_2",
-      "name": "Our Field Trip to Google I/O + A Sit-Down With Sundar Pichai + System Update",
-      "show": "Hard Fork",
-      "description": "This week, we headed to Mountain View, Calif., for the annual developer event Google I/O. We share our reactions to Google’s biggest announcements, including a revamped search box, new agentic tool",
-      "release_date": "2026-05-22",
-      "duration_min": 55,
-      "image": "",
-      "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
       "id": "The AI P_2",

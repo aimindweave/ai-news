@@ -10,9 +10,9 @@
   {
     "title": "AI agent bankrupted their operator while trying to scan DN42",
     "source": "Hacker News",
-    "description": "HN Score: 597 | 226 comments",
+    "description": "HN Score: 1124 | 428 comments",
     "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
-    "score": 597,
+    "score": 1124,
     "date": "2026-06-12",
     "category": "AI News"
   },
@@ -25,62 +25,45 @@
     "category": "Twitter"
   },
   {
+    "title": "The Future of Email",
+    "source": "Hacker News",
+    "description": "HN Score: 145 | 166 comments",
+    "url": "https://www.fastmail.com/blog/the-future-of-email/",
+    "score": 145,
+    "date": "2026-06-12",
+    "category": "AI News"
+  },
+  {
+    "title": "Unitree whose robots you have all seen only shipped 5,500 last year. The robotics market is literally going to be thousands of times bigger and likely",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/EMostaque/status/2065449464727302579#m",
+    "date": "2026-06-12",
+    "category": "Twitter"
+  },
+  {
+    "title": "Slightly reducing the sloppiness of AI generated front end",
+    "source": "Hacker News",
+    "description": "HN Score: 10 | 1 comments",
+    "url": "https://envs.net/~volpe/blog/posts/reduce-slop.html",
+    "score": 10,
+    "date": "2026-06-12",
+    "category": "AI News"
+  },
+  {
+    "title": "If you think AI valuations are crazy just wait until SpaceX, OpenAI and Anthropic all are liquid. Hopefully some crazy ideas and impactful ideas get f",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/EMostaque/status/2065441963810124196#m",
+    "date": "2026-06-12",
+    "category": "Twitter"
+  },
+  {
     "title": "Claude Fable is relentlessly proactive",
     "source": "Hacker News",
-    "description": "HN Score: 457 | 352 comments",
+    "description": "HN Score: 640 | 513 comments",
     "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
-    "score": 457,
-    "date": "2026-06-12",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @EMostaque: AI is now doing our AI research. At Recursive we set out to build recursive self-improving superintelligence (RSI) to automate knowl",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/RichardSocher/status/2065094362774876232#m",
-    "date": "2026-06-12",
-    "category": "Twitter"
-  },
-  {
-    "title": "Anthropic apologizes for invisible Claude Fable guardrails",
-    "source": "Hacker News",
-    "description": "HN Score: 426 | 385 comments",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
-    "score": 426,
-    "date": "2026-06-12",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @EMostaque: Unlike other models Fable 5 was far, far more subtle. It gave outright false information only once. Most of the time, it controlled ",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/kradleai/status/2064907905372180754#m",
-    "date": "2026-06-12",
-    "category": "Twitter"
-  },
-  {
-    "title": "Digital Sovereignty Becomes an Imperative as the US Reads Dutch Emails",
-    "source": "Hacker News",
-    "description": "HN Score: 131 | 118 comments",
-    "url": "https://www.korte.co/2026/06/11/digital-sovereignty-becomes-an-imparative-as-the-us-reads-dutch-emails/",
-    "score": 131,
-    "date": "2026-06-12",
-    "category": "AI News"
-  },
-  {
-    "title": "R to @DrJimFan: Check out the NVIDIA blog!",
-    "source": "@DrJimFan",
-    "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2062943409216897258#m",
-    "date": "2026-06-12",
-    "category": "Twitter"
-  },
-  {
-    "title": "Ear Training Practice",
-    "source": "Hacker News",
-    "description": "HN Score: 246 | 101 comments",
-    "url": "https://tonedear.com/",
-    "score": 246,
+    "score": 640,
     "date": "2026-06-12",
     "category": "AI News"
   },
@@ -93,45 +76,79 @@
     "category": "Twitter"
   },
   {
+    "title": "Kimi K2.7-Code: open-source coding model with better token efficiency",
+    "source": "Hacker News",
+    "description": "HN Score: 231 | 115 comments",
+    "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
+    "score": 231,
+    "date": "2026-06-12",
+    "category": "AI News"
+  },
+  {
+    "title": "R to @DrJimFan: Check out the NVIDIA blog!",
+    "source": "@DrJimFan",
+    "description": "",
+    "url": "https://nitter.net/DrJimFan/status/2062943409216897258#m",
+    "date": "2026-06-12",
+    "category": "Twitter"
+  },
+  {
+    "title": "Ryanair dark UX patterns summer 2026 refresher",
+    "source": "Hacker News",
+    "description": "HN Score: 170 | 129 comments",
+    "url": "https://blog.osull.com/2026/06/12/ryanair-dark-ux-patterns-summer-2026-refresher/",
+    "score": 170,
+    "date": "2026-06-12",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: AI tutorials stop too early. They show you the model and maybe an agent loop. They skip everything that makes it work in production: th",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/RaulJuncoV/status/2065414994158911533#m",
+    "date": "2026-06-12",
+    "category": "Twitter"
+  },
+  {
+    "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+    "source": "Hacker News",
+    "description": "HN Score: 474 | 413 comments",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+    "score": 474,
+    "date": "2026-06-12",
+    "category": "AI News"
+  },
+  {
+    "title": "R to @svpino: Here is the link to the notebook: https://fandf.co/4ofyvSR This image search example is the basis for solving a ton of different useful ",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2065432769564733457#m",
+    "date": "2026-06-12",
+    "category": "Twitter"
+  },
+  {
+    "title": "Making a vintage LLM from scratch",
+    "source": "Hacker News",
+    "description": "HN Score: 66 | 18 comments",
+    "url": "https://crlf.link/log/entries/260525-1/",
+    "score": 66,
+    "date": "2026-06-12",
+    "category": "AI News"
+  },
+  {
+    "title": "Kimi 2.7 Just Dropped And Will Top The Open Source Leaderboards - comparable to Opus 4.8 and GPT 5.5! - step above Kimi 2.6 which is an excellent mode",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2065443902132502929#m",
+    "date": "2026-06-12",
+    "category": "Twitter"
+  },
+  {
     "title": "Claude Fable 5: mid-tier results on coding tasks",
     "source": "Hacker News",
-    "description": "HN Score: 323 | 151 comments",
+    "description": "HN Score: 372 | 213 comments",
     "url": "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype",
-    "score": 323,
-    "date": "2026-06-12",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: Claude Code is already powerful, but you can make it dramatically better and ~60% cheaper with this MCP server. We tested the same spee",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2065079108959363290#m",
-    "date": "2026-06-12",
-    "category": "Twitter"
-  },
-  {
-    "title": "A jacket that harvests drinking water from the air",
-    "source": "Hacker News",
-    "description": "HN Score: 109 | 69 comments",
-    "url": "https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/",
-    "score": 109,
-    "date": "2026-06-12",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: Here is your daily reminder to use a gateway between your code and the model providers. You get freedom, visibility, observability, fle",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2065052681220329677#m",
-    "date": "2026-06-12",
-    "category": "Twitter"
-  },
-  {
-    "title": "How Terry Tao became an evangelist for AI in math",
-    "source": "Hacker News",
-    "description": "HN Score: 125 | 103 comments",
-    "url": "https://www.quantamagazine.org/how-terry-tao-became-an-evangelist-for-ai-in-math-20260608/",
-    "score": 125,
+    "score": 372,
     "date": "2026-06-12",
     "category": "AI News"
   },
@@ -144,28 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Tailwind and slop apps",
+    "title": "Ear Training Practice",
     "source": "Hacker News",
-    "description": "HN Score: 75 | 60 comments",
-    "url": "https://briandouglas.ie/llm-tailwind-template/",
-    "score": 75,
-    "date": "2026-06-12",
-    "category": "AI News"
-  },
-  {
-    "title": "\ud83d\udea8 AI Addiction Alert I am addicted to using AI almost 24/7 I have about 8 conversations going at any one time - 5 PRs, 1-2 research and 1-2 media I ne",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2065226566335132148#m",
-    "date": "2026-06-12",
-    "category": "Twitter"
-  },
-  {
-    "title": "MTG Bench: Testing how well LLMs can play Magic",
-    "source": "Hacker News",
-    "description": "HN Score: 55 | 29 comments",
-    "url": "https://mtgautodeck.com/articles/mtg-bench/",
-    "score": 55,
+    "description": "HN Score: 290 | 118 comments",
+    "url": "https://tonedear.com/",
+    "score": 290,
     "date": "2026-06-12",
     "category": "AI News"
   }
