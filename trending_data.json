@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Slightly reducing the sloppiness of AI generated front end",
+    "title": "How to setup a local coding agent on macOS",
     "source": "Hacker News",
-    "description": "HN Score: 95 | 61 comments",
-    "url": "https://envs.net/~volpe/blog/posts/reduce-slop.html",
-    "score": 95,
+    "description": "HN Score: 160 | 55 comments",
+    "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
+    "score": 160,
     "date": "2026-06-12",
     "category": "AI News"
   },
@@ -25,11 +25,28 @@
     "category": "Twitter"
   },
   {
-    "title": "'Don't You Just Upload It to ChatGPT?'",
+    "title": "Mmorpg World of ClaudeCraft, vibe coded with Fable 5",
     "source": "Hacker News",
-    "description": "HN Score: 6 | 2 comments",
-    "url": "https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/",
-    "score": 6,
+    "description": "HN Score: 30 | 12 comments",
+    "url": "https://worldofclaudecraft.com/",
+    "score": 30,
+    "date": "2026-06-12",
+    "category": "AI News"
+  },
+  {
+    "title": "So looks like @SpaceX will spend 2.5% of its market cap to buy @cursor_ai at 15x revenue \ud83d\udc40",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/EMostaque/status/2065514350090059901#m",
+    "date": "2026-06-12",
+    "category": "Twitter"
+  },
+  {
+    "title": "Palantir loses legal challenge against Swiss investigative magazine",
+    "source": "Hacker News",
+    "description": "HN Score: 56 | 7 comments",
+    "url": "https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979",
+    "score": 56,
     "date": "2026-06-12",
     "category": "AI News"
   },
@@ -42,28 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Launch HN: BitBoard (YC P25) \u2013 Analytics Workspace for Agents",
+    "title": "Slightly reducing the sloppiness of AI generated front end",
     "source": "Hacker News",
-    "description": "HN Score: 10 | 4 comments",
-    "url": "https://bitboard.work/",
-    "score": 10,
-    "date": "2026-06-12",
-    "category": "AI News"
-  },
-  {
-    "title": "Unitree whose robots you have all seen only shipped 5,500 last year. The robotics market is literally going to be thousands of times bigger and likely",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/EMostaque/status/2065449464727302579#m",
-    "date": "2026-06-12",
-    "category": "Twitter"
-  },
-  {
-    "title": "How to Setup a Local Coding Agent on macOS",
-    "source": "Hacker News",
-    "description": "HN Score: 5 | 0 comments",
-    "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
-    "score": 5,
+    "description": "HN Score: 145 | 101 comments",
+    "url": "https://envs.net/~volpe/blog/posts/reduce-slop.html",
+    "score": 145,
     "date": "2026-06-12",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "AI agent bankrupted their operator while trying to scan DN42",
+    "title": "Launch HN: BitBoard (YC P25) \u2013 Analytics Workspace for Agents",
     "source": "Hacker News",
-    "description": "HN Score: 1285 | 466 comments",
-    "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
-    "score": 1285,
+    "description": "HN Score: 28 | 15 comments",
+    "url": "https://bitboard.work/",
+    "score": 28,
     "date": "2026-06-12",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "There Is Life Before Main in Rust",
+    "title": "'Don't You Just Upload It to ChatGPT?'",
     "source": "Hacker News",
-    "description": "HN Score: 17 | 4 comments",
-    "url": "https://grack.com/blog/2026/06/11/life-before-main/",
-    "score": 17,
+    "description": "HN Score: 204 | 185 comments",
+    "url": "https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/",
+    "score": 204,
     "date": "2026-06-12",
     "category": "AI News"
   },
@@ -110,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Script to bulk delete Claude chats from the web UI",
+    "title": "There Is Life Before Main in Rust",
     "source": "Hacker News",
-    "description": "HN Score: 34 | 12 comments",
-    "url": "https://github.com/MatteoLeonesi/bulk-delete-claude-chat",
-    "score": 34,
+    "description": "HN Score: 57 | 13 comments",
+    "url": "https://grack.com/blog/2026/06/11/life-before-main/",
+    "score": 57,
     "date": "2026-06-12",
     "category": "AI News"
   },
@@ -129,26 +129,26 @@
   {
     "title": "Kimi K2.7-Code: open-source coding model with better token efficiency",
     "source": "Hacker News",
-    "description": "HN Score: 325 | 167 comments",
+    "description": "HN Score: 386 | 207 comments",
     "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
-    "score": 325,
+    "score": 386,
     "date": "2026-06-12",
     "category": "AI News"
   },
   {
-    "title": "Kimi 2.7 - A bigger drop than Fable? - accessible to everyone - does not censor - 100x cheaper - solves 70% of Fable's tasks successsfully Open source",
+    "title": "Congrats to SpaceX for kick starting the golden age of AI Now everyone can own an AI-native stock and become a millionaire \ud83d\ude80 Plus - the Twitter buy is",
     "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/bindureddy/status/2065493140501651813#m",
+    "url": "https://nitter.net/bindureddy/status/2065501103773606128#m",
     "date": "2026-06-12",
     "category": "Twitter"
   },
   {
-    "title": "A jacket that harvests drinking water from the air",
+    "title": "Show HN: Script to bulk delete Claude chats from the web UI",
     "source": "Hacker News",
-    "description": "HN Score: 138 | 88 comments",
-    "url": "https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/",
-    "score": 138,
+    "description": "HN Score: 49 | 18 comments",
+    "url": "https://github.com/MatteoLeonesi/bulk-delete-claude-chat",
+    "score": 49,
     "date": "2026-06-12",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Making a vintage LLM from scratch",
+    "title": "AI agent bankrupted their operator while trying to scan DN42",
     "source": "Hacker News",
-    "description": "HN Score: 85 | 23 comments",
-    "url": "https://crlf.link/log/entries/260525-1/",
-    "score": 85,
+    "description": "HN Score: 1362 | 494 comments",
+    "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+    "score": 1362,
     "date": "2026-06-12",
     "category": "AI News"
   }
