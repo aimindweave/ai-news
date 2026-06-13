@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Open source AI must win",
+    "title": "Shepherd's Dog: A Game by the Most Dangerous AI Model",
     "source": "Hacker News",
-    "description": "HN Score: 384 | 114 comments",
-    "url": "https://opensourceaimustwin.com/?share=v2",
-    "score": 384,
+    "description": "HN Score: 81 | 64 comments",
+    "url": "https://koenvangilst.nl/lab/claude-fable-shepherds-dog",
+    "score": 81,
     "date": "2026-06-13",
     "category": "AI News"
   },
@@ -25,11 +25,28 @@
     "category": "Twitter"
   },
   {
-    "title": "We've suspended access to Claude Mythos 5 and Claude Fable 5",
+    "title": "Open source AI must win",
     "source": "Hacker News",
-    "description": "HN Score: 187 | 77 comments",
-    "url": "https://status.claude.com/incidents/s9w82lp9dcn9",
-    "score": 187,
+    "description": "HN Score: 886 | 276 comments",
+    "url": "https://opensourceaimustwin.com/?share=v2",
+    "score": 886,
+    "date": "2026-06-13",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: Yeah, so open source AI is important & will be even more so in the coming years. Not your models, not your mind \u270a\ud83c\udffe",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/EMostaque/status/1711078427782943064#m",
+    "date": "2026-06-13",
+    "category": "Twitter"
+  },
+  {
+    "title": "How to setup a local coding agent on macOS",
+    "source": "Hacker News",
+    "description": "HN Score: 368 | 91 comments",
+    "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
+    "score": 368,
     "date": "2026-06-13",
     "category": "AI News"
   },
@@ -44,26 +61,9 @@
   {
     "title": "Show HN: Putt.day a daily mini golf game",
     "source": "Hacker News",
-    "description": "HN Score: 104 | 59 comments",
+    "description": "HN Score: 168 | 73 comments",
     "url": "https://putt.day/",
-    "score": 104,
-    "date": "2026-06-13",
-    "category": "AI News"
-  },
-  {
-    "title": "Thanks @elder_plinius \ud83d\ude02",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/EMostaque/status/2065605506165518722#m",
-    "date": "2026-06-13",
-    "category": "Twitter"
-  },
-  {
-    "title": "How to setup a local coding agent on macOS",
-    "source": "Hacker News",
-    "description": "HN Score: 303 | 77 comments",
-    "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
-    "score": 303,
+    "score": 168,
     "date": "2026-06-13",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Tectonic: A modernized, complete, self-contained TeX/LaTeX engine",
+    "title": "Launch HN: BitBoard (YC P25) \u2013 Analytics Workspace for Agents",
     "source": "Hacker News",
-    "description": "HN Score: 23 | 2 comments",
-    "url": "https://tectonic-typesetting.github.io/en-US/",
-    "score": 23,
+    "description": "HN Score: 43 | 21 comments",
+    "url": "https://bitboard.work/",
+    "score": 43,
     "date": "2026-06-13",
     "category": "AI News"
   },
@@ -93,11 +93,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Slightly reducing the sloppiness of AI generated front end",
+    "title": "Show HN: Skill for your agent to visualize your gbrain and Obsidian",
     "source": "Hacker News",
-    "description": "HN Score: 170 | 112 comments",
-    "url": "https://envs.net/~volpe/blog/posts/reduce-slop.html",
-    "score": 170,
+    "description": "HN Score: 6 | 1 comments",
+    "url": "https://github.com/vladignatyev/brain-map-skill",
+    "score": 6,
+    "date": "2026-06-13",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: You can give Claude Code the ability to parse any website in the world with Apify actors. It's the closest thing to a superpower that I",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2065491385344790758#m",
+    "date": "2026-06-13",
+    "category": "Twitter"
+  },
+  {
+    "title": "Tectonic: A modernized, complete, self-contained TeX/LaTeX engine",
+    "source": "Hacker News",
+    "description": "HN Score: 52 | 18 comments",
+    "url": "https://tectonic-typesetting.github.io/en-US/",
+    "score": 52,
     "date": "2026-06-13",
     "category": "AI News"
   },
@@ -110,62 +127,45 @@
     "category": "Twitter"
   },
   {
-    "title": "Palantir loses legal challenge against Swiss investigative magazine",
+    "title": "Slightly reducing the sloppiness of AI generated front end",
     "source": "Hacker News",
-    "description": "HN Score: 236 | 50 comments",
-    "url": "https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979",
-    "score": 236,
+    "description": "HN Score: 193 | 120 comments",
+    "url": "https://envs.net/~volpe/blog/posts/reduce-slop.html",
+    "score": 193,
     "date": "2026-06-13",
     "category": "AI News"
   },
   {
-    "title": "R to @svpino: Setting this up takes a few seconds: \u2022 Open your Apify settings > API & Integrations \u2022 Connect your tool (Notion, Google Calendar, ...) ",
-    "source": "@svpino",
+    "title": "The US government is crippling our AI lead The more they block frontier models, the more everyone else will be forced to innovate Sooner or later Chin",
+    "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2065491410414117135#m",
+    "url": "https://nitter.net/bindureddy/status/2065684526551220693#m",
+    "date": "2026-06-13",
+    "category": "Twitter"
+  },
+  {
+    "title": "Palantir loses legal challenge against Swiss investigative magazine",
+    "source": "Hacker News",
+    "description": "HN Score: 337 | 67 comments",
+    "url": "https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979",
+    "score": 337,
+    "date": "2026-06-13",
+    "category": "AI News"
+  },
+  {
+    "title": "LOL! Forget Fable 5 Just got our benchmark results Kimi 2.7 code is MIND BLOWING when it comes to agentic coding Will publish shortly!",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2065659371410030680#m",
     "date": "2026-06-13",
     "category": "Twitter"
   },
   {
     "title": "'Don't You Just Upload It to ChatGPT?'",
     "source": "Hacker News",
-    "description": "HN Score: 355 | 284 comments",
+    "description": "HN Score: 408 | 334 comments",
     "url": "https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/",
-    "score": 355,
-    "date": "2026-06-13",
-    "category": "AI News"
-  },
-  {
-    "title": "This is why you should support open source AI Authoritarian governments can\u2019t exert control on our lives and play god Without open source AI, US gover",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2065627605144055865#m",
-    "date": "2026-06-13",
-    "category": "Twitter"
-  },
-  {
-    "title": "Launch HN: BitBoard (YC P25) \u2013 Analytics Workspace for Agents",
-    "source": "Hacker News",
-    "description": "HN Score: 38 | 19 comments",
-    "url": "https://bitboard.work/",
-    "score": 38,
-    "date": "2026-06-13",
-    "category": "AI News"
-  },
-  {
-    "title": "GPT 5.5 xHigh, NOT Claude Fable, Tops LiveBench Fable got banned, does this mean GPT 5.5 xHigh should be banned as well? The Trump Administration went",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2065614847929413801#m",
-    "date": "2026-06-13",
-    "category": "Twitter"
-  },
-  {
-    "title": "There Is Life Before Main in Rust",
-    "source": "Hacker News",
-    "description": "HN Score: 75 | 21 comments",
-    "url": "https://grack.com/blog/2026/06/11/life-before-main/",
-    "score": 75,
+    "score": 408,
     "date": "2026-06-13",
     "category": "AI News"
   }
