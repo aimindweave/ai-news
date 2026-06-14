@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Making Claude a Chemist",
+    "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
     "source": "Hacker News",
-    "description": "HN Score: 42 | 32 comments",
-    "url": "https://www.anthropic.com/research/making-claude-a-chemist",
-    "score": 42,
+    "description": "HN Score: 713 | 523 comments",
+    "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
+    "score": 713,
     "date": "2026-06-14",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
+    "title": "AI coding at home without going broke",
     "source": "Hacker News",
-    "description": "HN Score: 686 | 501 comments",
-    "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
-    "score": 686,
+    "description": "HN Score: 305 | 244 comments",
+    "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
+    "score": 305,
     "date": "2026-06-14",
     "category": "AI News"
   },
@@ -44,9 +44,9 @@
   {
     "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
     "source": "Hacker News",
-    "description": "HN Score: 320 | 158 comments",
+    "description": "HN Score: 337 | 167 comments",
     "url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
-    "score": 320,
+    "score": 337,
     "date": "2026-06-14",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "AI coding at home without going broke",
+    "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
     "source": "Hacker News",
-    "description": "HN Score: 289 | 237 comments",
-    "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
-    "score": 289,
+    "description": "HN Score: 265 | 165 comments",
+    "url": "https://github.com/tensorzero/tensorzero",
+    "score": 265,
     "date": "2026-06-14",
     "category": "AI News"
   },
@@ -78,28 +78,36 @@
   {
     "title": "Ancient genome duplications laid the foundations of complex brains",
     "source": "Hacker News",
-    "description": "HN Score: 33 | 3 comments",
+    "description": "HN Score: 35 | 3 comments",
     "url": "https://www.ox.ac.uk/news/2026-06-09-ancient-genome-duplications-laid-the-foundations-of-complex-brains",
-    "score": 33,
+    "score": 35,
     "date": "2026-06-14",
     "category": "AI News"
   },
   {
-    "title": "obviously, banning mythos is stupid, but after all the fearmongering from anthropic, i'm not sure what exactly they were expecting? you reap what you ",
+    "title": "Anthropic should turn the ban of Fable into an ad. They might come out of this mess stronger than ever. There's a chance this turns out to be amazing ",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2065851670974562584#m",
+    "url": "https://nitter.net/svpino/status/2066107362457321844#m",
     "date": "2026-06-14",
     "category": "Twitter"
   },
   {
-    "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
+    "title": "Show HN: Paca \u2013 Lightweight Jira alternative for human-AI collaboration",
     "source": "Hacker News",
-    "description": "HN Score: 261 | 163 comments",
-    "url": "https://github.com/tensorzero/tensorzero",
-    "score": 261,
+    "description": "HN Score: 156 | 55 comments",
+    "url": "https://github.com/Paca-AI/paca",
+    "score": 156,
     "date": "2026-06-14",
     "category": "AI News"
+  },
+  {
+    "title": "Lots to look forward to in June - new OpenAI model - likely GPT 5.6 - Gemini 3.5 Pro - Gemini Omni for video editing Both Gemini 3.5 Pro and GPT 5.6 w",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2066127216191418736#m",
+    "date": "2026-06-14",
+    "category": "Twitter"
   },
   {
     "title": "China Keeps Cranking - GLM 5.2 Just Dropped Hours Ago It\u2019s a very useful Opus 4.7 class model and looks very promising With every passing hour open so",
@@ -108,31 +116,5 @@
     "url": "https://nitter.net/bindureddy/status/2066091588040970382#m",
     "date": "2026-06-14",
     "category": "Twitter"
-  },
-  {
-    "title": "Show HN: Bastion \u2013 isolated Linux VMs for background coding agents",
-    "source": "Hacker News",
-    "description": "HN Score: 12 | 0 comments",
-    "url": "https://bastion.computer/",
-    "score": 12,
-    "date": "2026-06-14",
-    "category": "AI News"
-  },
-  {
-    "title": "\ud83d\udea8 Host Your Own Local LLM On The Abacus AI SuperComputer Stop being sad about Fable and control your destiny by hosting your own LLM - host open sourc",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2065979796916723930#m",
-    "date": "2026-06-14",
-    "category": "Twitter"
-  },
-  {
-    "title": "Show HN: Paca \u2013 Lightweight Jira alternative for human-AI collaboration",
-    "source": "Hacker News",
-    "description": "HN Score: 151 | 55 comments",
-    "url": "https://github.com/Paca-AI/paca",
-    "score": 151,
-    "date": "2026-06-14",
-    "category": "AI News"
   }
 ]
