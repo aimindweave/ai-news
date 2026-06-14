@@ -10,9 +10,9 @@
   {
     "title": "Rio de Janeiro's 'homegrown' LLM appears to be a merge of an existing model",
     "source": "Hacker News",
-    "description": "HN Score: 72 | 40 comments",
+    "description": "HN Score: 184 | 104 comments",
     "url": "https://github.com/nex-agi/Nex-N2/issues/4",
-    "score": 72,
+    "score": 184,
     "date": "2026-06-14",
     "category": "AI News"
   },
@@ -27,9 +27,26 @@
   {
     "title": "No, everyone is not using AI for everything",
     "source": "Hacker News",
-    "description": "HN Score: 230 | 228 comments",
+    "description": "HN Score: 321 | 339 comments",
     "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
-    "score": 230,
+    "score": 321,
+    "date": "2026-06-14",
+    "category": "AI News"
+  },
+  {
+    "title": "AI is heteroousios with Man, as Man is heteroousios with God",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/EMostaque/status/2066217706014101937#m",
+    "date": "2026-06-14",
+    "category": "Twitter"
+  },
+  {
+    "title": "I indexed 669 GB of my GoPro videos using my M1 Max computer and local ML models",
+    "source": "Hacker News",
+    "description": "HN Score: 143 | 31 comments",
+    "url": "https://news.ycombinator.com/item?id=48528029",
+    "score": 143,
     "date": "2026-06-14",
     "category": "AI News"
   },
@@ -42,28 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "I indexed 669 GB of my GoPro videos using my M1 Max computer and local ML models",
-    "source": "Hacker News",
-    "description": "HN Score: 80 | 10 comments",
-    "url": "https://news.ycombinator.com/item?id=48528029",
-    "score": 80,
-    "date": "2026-06-14",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @EMostaque: London is ground zero for the AI jobs shift, as listings for roles in the Square Mile see a startling drop-off https://www.bloomberg",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/business/status/2066118231383839002#m",
-    "date": "2026-06-14",
-    "category": "Twitter"
-  },
-  {
     "title": "Rio de Janeiro's city government model Rio3.5 beats Qwen3.7 in recent benchmarks",
     "source": "Hacker News",
-    "description": "HN Score: 100 | 28 comments",
+    "description": "HN Score: 120 | 31 comments",
     "url": "https://twitter.com/zenmagnets/status/2065796012820848699",
-    "score": 100,
+    "score": 120,
     "date": "2026-06-14",
     "category": "AI News"
   },
@@ -78,9 +78,9 @@
   {
     "title": "KPMG pulls report on AI usage due to apparent hallucinations",
     "source": "Hacker News",
-    "description": "HN Score: 72 | 6 comments",
+    "description": "HN Score: 97 | 16 comments",
     "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
-    "score": 72,
+    "score": 97,
     "date": "2026-06-14",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "FTX's former Anthropic stake would be worth about $75B at today's valuation",
+    "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
     "source": "Hacker News",
-    "description": "HN Score: 5 | 4 comments",
-    "url": "https://news.ycombinator.com/item?id=48529190",
-    "score": 5,
+    "description": "HN Score: 767 | 572 comments",
+    "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
+    "score": 767,
     "date": "2026-06-14",
     "category": "AI News"
   },
@@ -110,47 +110,12 @@
     "category": "Twitter"
   },
   {
-    "title": "AI is code and can't be prompted into being smarter",
-    "source": "Hacker News",
-    "description": "HN Score: 8 | 2 comments",
-    "url": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/",
-    "score": 8,
-    "date": "2026-06-14",
-    "category": "AI News"
-  },
-  {
-    "title": "obviously, banning mythos is stupid, but after all the fearmongering from anthropic, i'm not sure what exactly they were expecting? you reap what you ",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2065851670974562584#m",
-    "date": "2026-06-14",
-    "category": "Twitter"
-  },
-  {
-    "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
-    "source": "Hacker News",
-    "description": "HN Score: 762 | 561 comments",
-    "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
-    "score": 762,
-    "date": "2026-06-14",
-    "category": "AI News"
-  },
-  {
     "title": "After all this closed source drama we are going to create a dedicated 10 persona open-source engineering team - research team dedicated to improve age",
     "source": "@bindureddy",
     "description": "",
     "url": "https://nitter.net/bindureddy/status/2066195303498477848#m",
     "date": "2026-06-14",
     "category": "Twitter"
-  },
-  {
-    "title": "Making Claude a Chemist",
-    "source": "Hacker News",
-    "description": "HN Score: 76 | 73 comments",
-    "url": "https://www.anthropic.com/research/making-claude-a-chemist",
-    "score": 76,
-    "date": "2026-06-14",
-    "category": "AI News"
   },
   {
     "title": "Why isn\u2019t David Sacks running all things AI for the US? He understands the tech, the trade-offs and the risks of banning AI Governments are by nature ",
