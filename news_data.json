@@ -1,5 +1,12 @@
 [
   {
+    "title": "The US government\u2019s Anthropic models ban was never about an AI jailbreak",
+    "source": "TechCrunch",
+    "summary": "The Trump administration's decision that forced Anthropic to pull its latest cybersecurity models could be reactionary, retaliatory, or both, but the message is clear: The AI industry isn't immune from U.S. government interference.",
+    "url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+    "date": "2026-06-15"
+  },
+  {
     "title": "Meta\u2019s new \u2018AI Mode\u2019 on Facebook pulls from public info across its platforms",
     "source": "TechCrunch",
     "summary": "Meta announced Monday that it's rolling out a wave of new AI features on Facebook, the latest sign of the company's effort to catch up in the AI race and keep users more engaged on the platform.",
@@ -16,12 +23,12 @@
   {
     "title": "Cybersecurity vets protest \u2018dangerous\u2019 US government ban on Anthropic\u2019s most powerful models",
     "source": "TechCrunch",
-    "summary": "A group made up of dozens of cybersecurity experts urged the White House to remove export control restrictions on Anthropic\u2019s models Fable and Mythos, arguing that the order is going to limit the ability of cybersecurity defenders to secure their software and products.",
+    "summary": "A group made up of dozens of cybersecurity experts urged the White House to remove export-control restrictions on Anthropic\u2019s Fable and Mythos models, arguing that the order is going to limit the ability of cybersecurity defenders to secure their software and products.",
     "url": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
     "date": "2026-06-15"
   },
   {
-    "title": "Salesforce acquires AI customer service platform Fin for $3.6 billion",
+    "title": "Salesforce acquires AI customer service platform Fin for $3.6B",
     "source": "TechCrunch",
     "summary": "Salesforce says it wants to use Fin's team and technology to improve Agentforce, its existing enterprise platform that businesses can use to build custom AI agents that automate tasks.",
     "url": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
@@ -72,7 +79,7 @@
   {
     "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing\u2019s demand",
     "source": "TechCrunch",
-    "summary": "Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed.",
+    "summary": "This is the most concrete step yet toward complying with a divestiture order Beijing issued roughly two months ago on national security grounds.",
     "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
     "date": "2026-06-15"
   },
@@ -98,10 +105,10 @@
     "date": "2026-06-15"
   },
   {
-    "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
-    "source": "TechCrunch",
-    "summary": "Andrew Yang made a list of everything Americans overpay for \u2014 housing, food, wireless \u2014 and thinks the next startup gold rush is giving that money back.",
-    "url": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
+    "title": "Why do South Koreans love AI so much?",
+    "source": "MIT Tech Review",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When I landed in Seoul after a grueling 12-hour flight from San Francisco, I walked through an unmanned immigration checkpoint, where a machine scanned my face...",
+    "url": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
     "date": "2026-06-15"
   },
   {
@@ -168,10 +175,10 @@
     "date": "2026-06-15"
   },
   {
-    "title": "Job titles of the future: Nature\u2019s drug designer",
-    "source": "MIT Tech Review",
-    "summary": "In 2018, after nearly two decades working in Big Pharma, chemist Tim Cernak was ready to put his skills to a new use. For Merck, he\u2019d developed precision therapies for cancer, HIV, and diabetes that could target disease while minimizing harm to healthy cells. But as a lifelong nature lover, he wa...",
-    "url": "https://www.technologyreview.com/2026/06/11/1138502/job-titles-natures-drug-designer-tim-cernak/",
+    "title": "Meta CTO Andrew Bosworth Admits the Company\u2019s AI Reorg Was \u2018Atrocious\u2019",
+    "source": "Wired",
+    "summary": "In an internal memo seen by WIRED, Bosworth promised employees more stability, better communication, and the return of workplace perks as the company seeks to improve morale.",
+    "url": "https://www.wired.com/story/andrew-bosworth-meta-employees-unrest/",
     "date": "2026-06-15"
   },
   {
@@ -238,10 +245,10 @@
     "date": "2026-06-15"
   },
   {
-    "title": "Meet the OpenAI Engineer Leading ChatGPT\u2019s Biggest Transformation Yet",
-    "source": "Wired",
-    "summary": "Thibault Sottiaux helped make AI coding one of OpenAI\u2019s fastest-growing businesses. Now he\u2019s overseeing a sweeping overhaul of ChatGPT.",
-    "url": "https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/",
+    "title": "Chipmaker Nvidia seeks to raise over $25B in first bond deal since 2021",
+    "source": "Ars Technica",
+    "summary": "Debt sale set to test investor appetite for further exposure to AI sector amid a deluge of borrowing.",
+    "url": "https://arstechnica.com/ai/2026/06/chipmaker-nvidia-seeks-to-raise-over-25b-in-first-bond-deal-since-2021/",
     "date": "2026-06-15"
   },
   {
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "New features coming this fall alongside two-tiered, Google-powered AI model overhaul.",
     "url": "https://arstechnica.com/apple/2026/06/say-hi-to-siri-ai-apple-announces-new-more-conversational-voice-assistant/",
-    "date": "2026-06-15"
-  },
-  {
-    "title": "Gemini 3.5 and Antigravity come to Google NotebookLM",
-    "source": "Ars Technica",
-    "summary": "NotebookLM is getting a big upgrade, but it's only for AI Ultra and enterprise accounts right now.",
-    "url": "https://arstechnica.com/ai/2026/06/gemini-3-5-and-antigravity-come-to-google-notebooklm/",
     "date": "2026-06-15"
   }
 ]

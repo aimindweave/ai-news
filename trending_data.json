@@ -10,9 +10,9 @@
   {
     "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
     "source": "Hacker News",
-    "description": "HN Score: 230 | 48 comments",
+    "description": "HN Score: 505 | 105 comments",
     "url": "https://tinywind.io",
-    "score": 230,
+    "score": 505,
     "date": "2026-06-15",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
     "source": "Hacker News",
-    "description": "HN Score: 169 | 114 comments",
+    "description": "HN Score: 527 | 260 comments",
     "url": "https://news.ycombinator.com/item?id=48542100",
-    "score": 169,
+    "score": 527,
     "date": "2026-06-15",
     "category": "AI News"
   },
@@ -44,9 +44,9 @@
   {
     "title": "My Homelab AI Dev Platform",
     "source": "Hacker News",
-    "description": "HN Score: 110 | 30 comments",
+    "description": "HN Score: 193 | 39 comments",
     "url": "https://rsgm.dev/post/ai-dev-platform/",
-    "score": 110,
+    "score": 193,
     "date": "2026-06-15",
     "category": "AI News"
   },
@@ -59,28 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Launch HN: Drafted (YC P26) \u2013 Models for residential architecture",
+    "title": "Show HN: Vet turned founder, AI lawn diagnosis",
     "source": "Hacker News",
-    "description": "HN Score: 24 | 22 comments",
-    "url": "https://news.ycombinator.com/item?id=48543908",
-    "score": 24,
-    "date": "2026-06-15",
-    "category": "AI News"
-  },
-  {
-    "title": "NitroGen just won CVPR Best Paper Honorable Mention!! We are making strides towards general-purpose embodied agents that master not only the real worl",
-    "source": "@DrJimFan",
-    "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2062942941363286048#m",
-    "date": "2026-06-15",
-    "category": "Twitter"
-  },
-  {
-    "title": "Show HN: Fata \u2013 Spaced repetition to fight skill rot from AI coding",
-    "source": "Hacker News",
-    "description": "HN Score: 18 | 6 comments",
-    "url": "https://fata.dev",
-    "score": 18,
+    "description": "HN Score: 20 | 12 comments",
+    "url": "https://grassdx.com/",
+    "score": 20,
     "date": "2026-06-15",
     "category": "AI News"
   },
@@ -93,11 +76,28 @@
     "category": "Twitter"
   },
   {
-    "title": "CrankGPT",
+    "title": "Show HN: Fata \u2013 Spaced repetition to fight skill rot from AI coding",
     "source": "Hacker News",
-    "description": "HN Score: 460 | 188 comments",
-    "url": "https://crankgpt.com",
-    "score": 460,
+    "description": "HN Score: 64 | 38 comments",
+    "url": "https://fata.dev",
+    "score": 64,
+    "date": "2026-06-15",
+    "category": "AI News"
+  },
+  {
+    "title": "NitroGen just won CVPR Best Paper Honorable Mention!! We are making strides towards general-purpose embodied agents that master not only the real worl",
+    "source": "@DrJimFan",
+    "description": "",
+    "url": "https://nitter.net/DrJimFan/status/2062942941363286048#m",
+    "date": "2026-06-15",
+    "category": "Twitter"
+  },
+  {
+    "title": "Why I Email Complete Strangers",
+    "source": "Hacker News",
+    "description": "HN Score: 5 | 0 comments",
+    "url": "https://www.goodinternetmagazine.com/why-i-email-complete-strangers/",
+    "score": 5,
     "date": "2026-06-15",
     "category": "AI News"
   },
@@ -110,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Apple Foundation Models",
+    "title": "Launch HN: Drafted (YC P26) \u2013 Models for residential architecture",
     "source": "Hacker News",
-    "description": "HN Score: 418 | 196 comments",
-    "url": "https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models",
-    "score": 418,
+    "description": "HN Score: 30 | 43 comments",
+    "url": "https://news.ycombinator.com/item?id=48543908",
+    "score": 30,
     "date": "2026-06-15",
     "category": "AI News"
   },
@@ -127,11 +127,28 @@
     "category": "Twitter"
   },
   {
+    "title": "CrankGPT",
+    "source": "Hacker News",
+    "description": "HN Score: 531 | 210 comments",
+    "url": "https://crankgpt.com",
+    "score": 531,
+    "date": "2026-06-15",
+    "category": "AI News"
+  },
+  {
+    "title": "The anthropic ban should be a wake up call for all organizations. - don't rely on one model or model provider - don't cancel open source, embrace it -",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2066615451514470650#m",
+    "date": "2026-06-15",
+    "category": "Twitter"
+  },
+  {
     "title": "Can Europe train a frontier AI model on the compute it owns?",
     "source": "Hacker News",
-    "description": "HN Score: 57 | 70 comments",
+    "description": "HN Score: 105 | 184 comments",
     "url": "https://github.com/sammysltd/euromesh",
-    "score": 57,
+    "score": 105,
     "date": "2026-06-15",
     "category": "AI News"
   },
@@ -144,28 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Anthropic's Safety Superpower",
+    "title": "LLMs Will Replace 8-Track Duplication Engineers",
     "source": "Hacker News",
-    "description": "HN Score: 190 | 163 comments",
-    "url": "https://stratechery.com/2026/anthropics-safety-superpower/",
-    "score": 190,
-    "date": "2026-06-15",
-    "category": "AI News"
-  },
-  {
-    "title": "I hope they bring back Fable today.... Keeping it banned is already having a HUGE IMPACT with Enterprises and their perception of AI models How can th",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2066565917073719430#m",
-    "date": "2026-06-15",
-    "category": "Twitter"
-  },
-  {
-    "title": "Rio de Janeiro's 'homegrown' LLM appears to be a merge of an existing model",
-    "source": "Hacker News",
-    "description": "HN Score: 389 | 208 comments",
-    "url": "https://github.com/nex-agi/Nex-N2/issues/4",
-    "score": 389,
+    "description": "HN Score: 9 | 0 comments",
+    "url": "https://bbenchoff.github.io/pages/8Tracks.html",
+    "score": 9,
     "date": "2026-06-15",
     "category": "AI News"
   }
