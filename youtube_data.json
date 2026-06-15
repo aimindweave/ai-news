@@ -1,1 +1,90 @@
-[]
+[
+  {
+    "id": "EXB8HokGVMI",
+    "title": "Small Language Models (SLMs) Are the Future: Fine-Tuning AI That Runs on Your iPhone",
+    "channel": "Daniel Bourke",
+    "description": "In this talk, I go over the rise of small language models (SLMs) and how they can benefit your business or day to day life.",
+    "publishedAt": "2026-03-13T08:09:38Z",
+    "thumbnail": "https://i.ytimg.com/vi/EXB8HokGVMI/hqdefault.jpg",
+    "views": 128832,
+    "likes": 2875,
+    "url": "https://youtube.com/watch?v=EXB8HokGVMI"
+  },
+  {
+    "id": "8FmJ2ypu1KQ",
+    "title": "NVIDIA DGX Spark vs RTX 4090 | LLM inference, training speed and more",
+    "channel": "Daniel Bourke",
+    "description": "This video compares the NVIDIA DGX Spark and NVIDIA RTX 4090 across several benchmarks and attributes such as price and ...",
+    "publishedAt": "2026-02-06T02:41:02Z",
+    "thumbnail": "https://i.ytimg.com/vi/8FmJ2ypu1KQ/hqdefault.jpg",
+    "views": 55541,
+    "likes": 955,
+    "url": "https://youtube.com/watch?v=8FmJ2ypu1KQ"
+  },
+  {
+    "id": "7GQPFS7NQrA",
+    "title": "Local Multimodal RAG Pipeline End-to-End Tutorial | On DGX Spark",
+    "channel": "Daniel Bourke",
+    "description": "Let's build a multimodal RAG (Retrieval Augmented Generation) pipeline using NVIDIA's Nemotron embedding and rerank ...",
+    "publishedAt": "2026-01-27T08:01:45Z",
+    "thumbnail": "https://i.ytimg.com/vi/7GQPFS7NQrA/hqdefault.jpg",
+    "views": 9377,
+    "likes": 310,
+    "url": "https://youtube.com/watch?v=7GQPFS7NQrA"
+  },
+  {
+    "id": "KVxzyWurDQQ",
+    "title": "Introducing Sunny - A MedGemma-Powered Skin Health Tracking App (Kaggle Competition Entry)",
+    "channel": "Daniel Bourke",
+    "description": "Sunny is an iOS application designed for skin health tracking. It uses a fine-tuned version of MedGemma to extract structured ...",
+    "publishedAt": "2026-02-24T02:14:55Z",
+    "thumbnail": "https://i.ytimg.com/vi/KVxzyWurDQQ/hqdefault.jpg",
+    "views": 6669,
+    "likes": 224,
+    "url": "https://youtube.com/watch?v=KVxzyWurDQQ"
+  },
+  {
+    "id": "vih2WuggZB0",
+    "title": "Benchmarking: NVIDIA DGX Spark &amp; NVIDIA RTX 4090 | Part 1 - Creating a series of tests",
+    "channel": "Daniel Bourke",
+    "description": "The NVIDIA DGX Spark and the NVIDIA RTX 4090 GPU are outstanding pieces of hardware in their own right. Let's compare them ...",
+    "publishedAt": "2026-01-28T18:42:05Z",
+    "thumbnail": "https://i.ytimg.com/vi/vih2WuggZB0/hqdefault.jpg",
+    "views": 2105,
+    "likes": 44,
+    "url": "https://youtube.com/watch?v=vih2WuggZB0"
+  },
+  {
+    "id": "GJluFs2_rzU",
+    "title": "Benchmarking: NVIDIA DGX Spark &amp; NVIDIA RTX 4090 | Part 4 - Comparing the results",
+    "channel": "Daniel Bourke",
+    "description": "The NVIDIA DGX Spark and the NVIDIA RTX 4090 GPU are outstanding pieces of hardware in their own right. Let's compare them ...",
+    "publishedAt": "2026-02-04T17:03:50Z",
+    "thumbnail": "https://i.ytimg.com/vi/GJluFs2_rzU/hqdefault.jpg",
+    "views": 1399,
+    "likes": 24,
+    "url": "https://youtube.com/watch?v=GJluFs2_rzU"
+  },
+  {
+    "id": "012uW_NSwhc",
+    "title": "Benchmarking: NVIDIA DGX Spark &amp; NVIDIA RTX 4090 | Part 2 - Formalizing the tests",
+    "channel": "Daniel Bourke",
+    "description": "The NVIDIA DGX Spark and the NVIDIA RTX 4090 GPU are outstanding pieces of hardware in their own right. Let's compare them ...",
+    "publishedAt": "2026-01-29T18:45:26Z",
+    "thumbnail": "https://i.ytimg.com/vi/012uW_NSwhc/hqdefault.jpg",
+    "views": 1272,
+    "likes": 38,
+    "url": "https://youtube.com/watch?v=012uW_NSwhc"
+  },
+  {
+    "id": "uDUSs5f_JfU",
+    "title": "Benchmarking: NVIDIA DGX Spark &amp; NVIDIA RTX 4090 | Part 3 - Running LLMs on the RTX 4090",
+    "channel": "Daniel Bourke",
+    "description": "The NVIDIA DGX Spark and the NVIDIA RTX 4090 GPU are outstanding pieces of hardware in their own right. Let's compare them ...",
+    "publishedAt": "2026-02-03T17:08:27Z",
+    "thumbnail": "https://i.ytimg.com/vi/uDUSs5f_JfU/hqdefault.jpg",
+    "views": 1206,
+    "likes": 24,
+    "url": "https://youtube.com/watch?v=uDUSs5f_JfU"
+  }
+]
