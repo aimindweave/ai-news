@@ -94,6 +94,16 @@
   "episodes": [
     {
       "id": "a]6z Pod_0",
+      "name": "Jack Altman on Product-Market Fit",
+      "show": "a]6z Podcast",
+      "description": "Jack Altman joins Speedrun to discuss product-market fit, customer feedback, hiring, fundraising, and the realities of building an enduring company.\nDrawing on his experience building Lattic",
+      "release_date": "2026-06-16",
+      "duration_min": 29,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
+      "id": "a]6z Pod_1",
       "name": "AI, Design, and the Power of Open Models",
       "show": "a]6z Podcast",
       "description": "Yoko Li and Justine Moore speak with Ideogram founder and CEO Mohammad Norouzi about image generation models, design workflows, and the evolving relationship between AI and creative work.\nTh",
@@ -113,7 +123,7 @@
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "Samo Burja on Growth, Energy, and AI",
       "show": "a]6z Podcast",
       "description": "Theo Jaffee speaks with Samo Burja, founder of Bismarck Analysis, about AI, industrial capacity, economic growth, and the institutions that shape civilization.\nThe conversation explores how ",
@@ -131,16 +141,6 @@
       "duration_min": 47,
       "image": "",
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
-    },
-    {
-      "id": "a]6z Pod_2",
-      "name": "Designing the Physical World with AI",
-      "show": "a]6z Podcast",
-      "description": "Erin Price-Wright speaks with Alex Modon, cofounder and CEO at Unlimited Industries, and Davide Asnaghi, CEO at Diode Computers, about how AI is moving from software into the physical world. They d",
-      "release_date": "2026-06-11",
-      "duration_min": 50,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
       "id": "The AI P_0",
