@@ -1,6 +1,20 @@
 [
   {
-    "title": "Sixty percent of U.S. consumers say \u2018AI\u2019 in brand messaging is a turnoff, survey finds",
+    "title": "SpaceX valuation balloons to $2.6T, briefly passes Amazon",
+    "source": "TechCrunch",
+    "summary": "SpaceX's valuation has increased by $1 trillion since its shares started trading on Friday.",
+    "url": "https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/",
+    "date": "2026-06-16"
+  },
+  {
+    "title": "Android 17 launches with new multitasking tools as Google expands Gemini features",
+    "source": "TechCrunch",
+    "summary": "Google has released Android 17 and Wear OS 7, introducing new multitasking features, parental controls, security tools, and smartwatch upgrades. The launch is also accompanied by a Pixel Drop that brings Google\u2019s latest AI models to its devices.",
+    "url": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
+    "date": "2026-06-16"
+  },
+  {
+    "title": "Sixty percent of US consumers say \u2018AI\u2019 in brand messaging is a turnoff, survey finds",
     "source": "TechCrunch",
     "summary": "WordPress VIP\u2019s latest survey suggests consumers are wary of AI-generated answers even as companies increasingly view AI search as an important referral channel.",
     "url": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
@@ -35,13 +49,6 @@
     "date": "2026-06-16"
   },
   {
-    "title": "SpaceX passes Amazon as valuation balloons to $2.7T",
-    "source": "TechCrunch",
-    "summary": "SpaceX's valuation has increased by $1 trillion since its shares started trading on Friday.",
-    "url": "https://techcrunch.com/2026/06/16/spacex-passes-amazon-as-valuation-balloons-to-2-7t/",
-    "date": "2026-06-16"
-  },
-  {
     "title": "Probably raises $9M to build a more reliable kind of AI",
     "source": "TechCrunch",
     "summary": "Probably wants to prevent hallucinations and factual errors from reaching users, and achieve accuracy on par with deterministic systems.",
@@ -56,9 +63,16 @@
     "date": "2026-06-16"
   },
   {
+    "title": "ChatGPT\u2019s market share slips below 50% for first time",
+    "source": "TechCrunch",
+    "summary": "The chatbot still remains the most popular AI assistant worldwide with over 1.1 billion monthly users, followed by Gemini with 662 million and Claude with 245 million.",
+    "url": "https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/",
+    "date": "2026-06-16"
+  },
+  {
     "title": "Malaysia\u2019s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
     "source": "TechCrunch",
-    "summary": "Respond.io, one of Malaysia startups to watch, uses AI agents to handle high volumes of customer inquiries and charges per convo, not per seat.",
+    "summary": "Respond.io, one of Malaysia's startups to watch, uses AI agents to handle high volumes of customer inquiries and charges per convo, not per seat.",
     "url": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/",
     "date": "2026-06-16"
   },
@@ -91,17 +105,10 @@
     "date": "2026-06-16"
   },
   {
-    "title": "Salesforce acquires AI customer service platform Fin for $3.6B",
-    "source": "TechCrunch",
-    "summary": "Salesforce says it wants to use Fin's team and technology to improve Agentforce, its existing enterprise platform that businesses can use to build custom AI agents that automate tasks.",
-    "url": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
-    "date": "2026-06-16"
-  },
-  {
-    "title": "Sarvam becomes India\u2019s newest AI unicorn with $234 million funding round led by HCLTech",
-    "source": "TechCrunch",
-    "summary": "Indian IT services company HCLTech is investing $150 million in the Bengaluru startup.",
-    "url": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
+    "title": "Exclusive eBook: How AI is becoming the next military advisor",
+    "source": "MIT Tech Review",
+    "summary": "A collection of stories about how militaries are using AI models to make decisions. This subscriber-only eBook is a package of six stories that were originally published in MIT Technology Review between April 11, 2025, and April 21, 2026, and have been updated to reflect recent developments. by J...",
+    "url": "https://www.technologyreview.com/2026/06/16/1138905/exclusive-ebook-how-ai-is-becoming-the-next-military-advisor/",
     "date": "2026-06-16"
   },
   {
@@ -168,17 +175,10 @@
     "date": "2026-06-16"
   },
   {
-    "title": "Inside interoception: The hidden sense of how you feel inside",
-    "source": "MIT Tech Review",
-    "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what\u2019s coming next. You can read more from the series here. Your brain lives in the dark space of your skull. Yet it knows when the wind lifts the hairs on your skin,...",
-    "url": "https://www.technologyreview.com/2026/06/12/1138833/inside-interoception-brain-body/",
-    "date": "2026-06-16"
-  },
-  {
-    "title": "What Do We Need From Our Homes Right Now?",
+    "title": "\u2018Dangerous\u2019 AI Models Are Coming No Matter What",
     "source": "Wired",
-    "summary": "The global editorial directors of WIRED and Architectural Digest on teaming up to help you understand how we live today, and what comes next.",
-    "url": "https://www.wired.com/story/wired-architectural-digest-future-of-home-editors-letter/",
+    "summary": "The US government crackdown on Anthropic\u2019s Claude Fable 5 and Mythos 5 hides a glaring truth: AI models with advanced hacking capabilities will soon be the norm.",
+    "url": "https://www.wired.com/story/dangerous-ai-models-are-coming-no-matter-what/",
     "date": "2026-06-16"
   },
   {
@@ -186,6 +186,13 @@
     "source": "Wired",
     "summary": "Devices that monitor seniors for safety are appealing to worried loved ones and underresourced home care agencies.",
     "url": "https://www.wired.com/story/sensi-ai-seniors-home-care-aging-in-place/",
+    "date": "2026-06-16"
+  },
+  {
+    "title": "What Do We Need From Our Homes Right Now?",
+    "source": "Wired",
+    "summary": "The global editorial directors of WIRED and Architectural Digest on teaming up to help you understand how we live today, and what comes next.",
+    "url": "https://www.wired.com/story/wired-architectural-digest-future-of-home-editors-letter/",
     "date": "2026-06-16"
   },
   {
@@ -238,14 +245,21 @@
     "date": "2026-06-16"
   },
   {
-    "title": "Meta Employees Absolutely Hate Mark Zuckerberg\u2019s Plan for a Companywide AI Hackathon",
-    "source": "Wired",
-    "summary": "\u201cI\u2019m not sure that this company supports a hackathon culture anymore,\u201d one employee posted in a forum open to the entire staff.",
-    "url": "https://www.wired.com/story/meta-employees-absolutely-hate-mark-zuckerbergs-hackathon-idea/",
+    "title": "Anthropic 'pauses' token-based billing for its Claude Agent SDK",
+    "source": "Ars Technica",
+    "summary": "Move originally planned for Monday would have heavily increased power users' costs.",
+    "url": "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/",
     "date": "2026-06-16"
   },
   {
-    "title": "SpaceX acquires AI coding platform Cursor for $60 billion",
+    "title": "Pentagon boasts of using AI to write reports mandated by Congress",
+    "source": "Ars Technica",
+    "summary": "Pentagon also claims 1.5 million personnel are using generative AI tools.",
+    "url": "https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/",
+    "date": "2026-06-16"
+  },
+  {
+    "title": "SpaceX to acquire AI coding platform Cursor for $60 billion",
     "source": "Ars Technica",
     "summary": "Separately, neither could compete. Now they hope they can.",
     "url": "https://arstechnica.com/ai/2026/06/spacex-will-acquire-coding-tool-cursor-to-compete-with-anthropic-openai/",
@@ -333,20 +347,6 @@
     "source": "Ars Technica",
     "summary": "Diffusion AI is most common in image generation, but it can make text outputs much faster.",
     "url": "https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/",
-    "date": "2026-06-16"
-  },
-  {
-    "title": "Nobody needs AI to search the Internet, court says in ruling against Google",
-    "source": "Ars Technica",
-    "summary": "Google AI Overview court loss in Germany could spell doom for AI search industry.",
-    "url": "https://arstechnica.com/tech-policy/2026/06/nobody-needs-ai-to-search-the-internet-court-says-in-ruling-against-google/",
-    "date": "2026-06-16"
-  },
-  {
-    "title": "Anthropic says these topics are too dangerous to let its Fable 5 model talk about",
-    "source": "Ars Technica",
-    "summary": "New frontier model refuses cybersecurity, biology, and chemistry queries.",
-    "url": "https://arstechnica.com/ai/2026/06/anthropic-says-these-topics-are-too-dangerous-to-let-its-fable-5-model-talk-about/",
     "date": "2026-06-16"
   }
 ]
