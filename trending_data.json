@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
+    "title": "Running local models is good now",
     "source": "Hacker News",
-    "description": "HN Score: 1045 | 456 comments",
-    "url": "https://news.ycombinator.com/item?id=48542100",
-    "score": 1045,
+    "description": "HN Score: 359 | 182 comments",
+    "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
+    "score": 359,
     "date": "2026-06-16",
     "category": "AI News"
   },
@@ -25,139 +25,147 @@
     "category": "Twitter"
   },
   {
-    "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
+    "title": "I admire Fabrice Bellard. He is almost certainly a better overall programmer",
     "source": "Hacker News",
-    "description": "HN Score: 867 | 157 comments",
-    "url": "https://tinywind.io",
-    "score": 867,
+    "description": "HN Score: 706 | 344 comments",
+    "url": "https://twitter.com/ID_AA_Carmack/status/2064095424420487226",
+    "score": 706,
     "date": "2026-06-16",
     "category": "AI News"
   },
   {
-    "title": "At what valuation of SpaceX does Elon merge Tesla into it?",
+    "title": "RT by @EMostaque: With most AI video, one bad shot means regenerating the whole thing and losing the parts you loved. Factory Agent makes every shot i",
     "source": "@EMostaque",
     "description": "",
-    "url": "https://nitter.net/EMostaque/status/2066829123754799194#m",
+    "url": "https://nitter.net/ii_posts/status/2066904785555521539#m",
     "date": "2026-06-16",
     "category": "Twitter"
   },
   {
-    "title": "Feds freaked over Fable 5 after simple 'fix this code' prompt, not jailbreak",
+    "title": "Feds freaked over Fable 5 after 'fix this code', not jailbreak, say researchers",
     "source": "Hacker News",
-    "description": "HN Score: 44 | 10 comments",
+    "description": "HN Score: 441 | 272 comments",
     "url": "https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827",
-    "score": 44,
+    "score": 441,
     "date": "2026-06-16",
     "category": "AI News"
   },
   {
-    "title": "R to @DrJimFan: Check out the NVIDIA blog!",
-    "source": "@DrJimFan",
+    "title": "With the acquisition of @cursor_ai the AI run rate of $SPCX will actually go above that of OpenAI, Google Cloud and AWS (!)",
+    "source": "@EMostaque",
     "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2062943409216897258#m",
+    "url": "https://nitter.net/EMostaque/status/2066856395463344526#m",
     "date": "2026-06-16",
     "category": "Twitter"
   },
   {
-    "title": "My Homelab AI Dev Platform",
+    "title": "GateGPT: 56k tokens per second Transformer (KV cache) on FPGA at 80 MHz",
     "source": "Hacker News",
-    "description": "HN Score: 320 | 54 comments",
-    "url": "https://rsgm.dev/post/ai-dev-platform/",
-    "score": 320,
+    "description": "HN Score: 16 | 3 comments",
+    "url": "https://twitter.com/fguzmanai/status/2065832668172845209",
+    "score": 16,
     "date": "2026-06-16",
     "category": "AI News"
   },
   {
-    "title": "NitroGen just won CVPR Best Paper Honorable Mention!! We are making strides towards general-purpose embodied agents that master not only the real worl",
+    "title": "R to @DrJimFan: Project site: https://research.nvidia.com/labs/gear/enpire/ Wenli has written an excellent technical thread, please check it out!",
     "source": "@DrJimFan",
     "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2062942941363286048#m",
+    "url": "https://nitter.net/DrJimFan/status/2066921739087729043#m",
     "date": "2026-06-16",
     "category": "Twitter"
   },
   {
-    "title": "Cohere's First Model for Developers",
+    "title": "Qwen-Robot Suite: A Foundation Model Suite for Physical World Intelligence",
     "source": "Hacker News",
-    "description": "HN Score: 103 | 23 comments",
-    "url": "https://cohere.com/blog/north-mini-code",
-    "score": 103,
+    "description": "HN Score: 14 | 0 comments",
+    "url": "https://qwen.ai/blog?id=qwen-robotsuite",
+    "score": 14,
     "date": "2026-06-16",
     "category": "AI News"
   },
   {
-    "title": "RT by @svpino: There's no way call centers stay in business after this. Listen to this conversation. You cannot tell I'm speaking to an AI voice agent",
+    "title": "Today, we enable AutoResearch in the physical world for the first time! Introducing ENPIRE: we give 8 Codex agents a fleet of robots, an allocation of",
+    "source": "@DrJimFan",
+    "description": "",
+    "url": "https://nitter.net/DrJimFan/status/2066921736369766762#m",
+    "date": "2026-06-16",
+    "category": "Twitter"
+  },
+  {
+    "title": "After AI Takes Everything",
+    "source": "Hacker News",
+    "description": "HN Score: 6 | 0 comments",
+    "url": "https://ursb.me/en/posts/after-ai-takes-everything/",
+    "score": 6,
+    "date": "2026-06-16",
+    "category": "AI News"
+  },
+  {
+    "title": "This runs locally and watches what's on your screen. If you're about to expose something sensitive (like sharing your screen in a Zoom call with a pri",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2066569527341744396#m",
+    "url": "https://nitter.net/svpino/status/2066927787857060313#m",
     "date": "2026-06-16",
     "category": "Twitter"
   },
   {
     "title": "Why I email complete strangers",
     "source": "Hacker News",
-    "description": "HN Score: 160 | 69 comments",
+    "description": "HN Score: 203 | 92 comments",
     "url": "https://www.goodinternetmagazine.com/why-i-email-complete-strangers/",
-    "score": 160,
+    "score": 203,
     "date": "2026-06-16",
     "category": "AI News"
   },
   {
-    "title": "RT by @svpino: If your code is married to a single model provider, you will suffer. The best time to start using a model gateway was a week ago. The s",
+    "title": "I want one of these robots so badly. Funny thing is, Musk promised general-purpose household robots, but somebody else will deliver instead. At least,",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2066559658849116361#m",
+    "url": "https://nitter.net/svpino/status/2066901173580562792#m",
     "date": "2026-06-16",
     "category": "Twitter"
   },
   {
-    "title": "SpaceX to buy Cursor AI coding agent operator Anysphere for $60B",
+    "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
     "source": "Hacker News",
-    "description": "HN Score: 19 | 3 comments",
-    "url": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/",
-    "score": 19,
+    "description": "HN Score: 1213 | 509 comments",
+    "url": "https://news.ycombinator.com/item?id=48542100",
+    "score": 1213,
     "date": "2026-06-16",
     "category": "AI News"
   },
   {
-    "title": "GPT 5.6 and Gemini 3.5 are coming! - on par with Fable performance - more than 2x cheaper - faster and less censored US will be sooo back \ud83c\udf89",
+    "title": "Supremely annoying that the US government continues to block something that they have NO CLUE about Anthropic is a very safety aware company and if th",
     "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/bindureddy/status/2066841524764393604#m",
+    "url": "https://nitter.net/bindureddy/status/2066924813428670857#m",
     "date": "2026-06-16",
     "category": "Twitter"
   },
   {
-    "title": "Claude Corps",
+    "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
     "source": "Hacker News",
-    "description": "HN Score: 139 | 95 comments",
-    "url": "https://www.anthropic.com/news/claude-corps",
-    "score": 139,
+    "description": "HN Score: 957 | 169 comments",
+    "url": "https://tinywind.io",
+    "score": 957,
     "date": "2026-06-16",
     "category": "AI News"
   },
   {
-    "title": "\ud83d\udea8 FUSION AGENTS - Build Complete SaaS Apps With Open-Source AI Fusion agents combine Kimi 2.7 and GLM with Opus 4.8 and GPT 5.5 - multi-agent architec",
+    "title": "GPT 5.6 and Gemini 3.5 are coming! - on par with Fable performance - more than 2x cheaper - faster and less censored Don\u2019t be depressed\u2026.. we will be ",
     "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/bindureddy/status/2066711798800322771#m",
+    "url": "https://nitter.net/bindureddy/status/2066844815489437885#m",
     "date": "2026-06-16",
     "category": "Twitter"
   },
   {
-    "title": "Launch HN: Drafted (YC P26) \u2013 Models for residential architecture",
+    "title": "Cohere's First Model for Developers",
     "source": "Hacker News",
-    "description": "HN Score: 55 | 59 comments",
-    "url": "https://news.ycombinator.com/item?id=48543908",
-    "score": 55,
-    "date": "2026-06-16",
-    "category": "AI News"
-  },
-  {
-    "title": "Show HN: Veterinarian turned founder, AI lawn diagnosis",
-    "source": "Hacker News",
-    "description": "HN Score: 65 | 55 comments",
-    "url": "https://grassdx.com/",
-    "score": 65,
+    "description": "HN Score: 131 | 32 comments",
+    "url": "https://cohere.com/blog/north-mini-code",
+    "score": 131,
     "date": "2026-06-16",
     "category": "AI News"
   }
