@@ -1,5 +1,12 @@
 [
   {
+    "title": "Anthropic\u2019s latest feud with the Trump admin may actually help it, sales data suggests",
+    "source": "TechCrunch",
+    "summary": "Anthropic's popularity with business users is growing so well that the latest beef with the government might actually boost it, data from Ramp suggests.",
+    "url": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
+    "date": "2026-06-16"
+  },
+  {
     "title": "SpaceX valuation balloons to $2.6T, briefly passes Amazon",
     "source": "TechCrunch",
     "summary": "SpaceX's valuation has increased by $1 trillion since its shares started trading on Friday.",
@@ -95,13 +102,6 @@
     "source": "TechCrunch",
     "summary": "Meta announced Monday that it's rolling out a wave of new AI features on Facebook, the latest sign of the company's effort to catch up in the AI race and keep users more engaged on the platform.",
     "url": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
-    "date": "2026-06-16"
-  },
-  {
-    "title": "Cybersecurity vets protest \u2018dangerous\u2019 US government ban on Anthropic\u2019s most powerful models",
-    "source": "TechCrunch",
-    "summary": "A group made up of dozens of cybersecurity experts urged the White House to remove export-control restrictions on Anthropic\u2019s Fable and Mythos models, arguing that the order is going to limit the ability of cybersecurity defenders to secure their software and products.",
-    "url": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
     "date": "2026-06-16"
   },
   {
@@ -245,6 +245,13 @@
     "date": "2026-06-16"
   },
   {
+    "title": "Trump admin tries to block Clean Air Act lawsuit over xAI's gas turbines",
+    "source": "Ars Technica",
+    "summary": "NAACP lawsuit says xAI uses gas turbines without permits for Grok data center.",
+    "url": "https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war/",
+    "date": "2026-06-16"
+  },
+  {
     "title": "Anthropic 'pauses' token-based billing for its Claude Agent SDK",
     "source": "Ars Technica",
     "summary": "Move originally planned for Monday would have heavily increased power users' costs.",
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "The repurposing of Pok\u00e9mon Go data for AI training continues to draw scrutiny.",
     "url": "https://arstechnica.com/ai/2026/06/pokemon-go-players-unwittingly-contributed-to-tech-with-military-drone-uses/",
-    "date": "2026-06-16"
-  },
-  {
-    "title": "Google DeepMind releases DiffusionGemma, a model that runs local AI 4x faster",
-    "source": "Ars Technica",
-    "summary": "Diffusion AI is most common in image generation, but it can make text outputs much faster.",
-    "url": "https://arstechnica.com/google/2026/06/googles-latest-diffusiongemma-open-ai-model-comes-with-a-4x-speed-boost/",
     "date": "2026-06-16"
   }
 ]

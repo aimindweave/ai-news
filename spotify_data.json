@@ -93,6 +93,16 @@
   ],
   "episodes": [
     {
+      "id": "The TWIM_0",
+      "name": "Why AI Agents Break the GenAI Security Model with Devvret Rishi - #770",
+      "show": "The TWIML AI Podcast",
+      "description": "In this episode, Sam talks with Dev Rishi, GM of AI at Rubrik, about what happens when agents move beyond answering questions and start taking action across tools, systems, and business processes.\n\nWe",
+      "release_date": "2026-06-16",
+      "duration_min": 56,
+      "image": "",
+      "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
+    },
+    {
       "id": "a]6z Pod_0",
       "name": "Jack Altman on Product-Market Fit",
       "show": "a]6z Podcast",
@@ -153,7 +163,7 @@
       "url": "https://open.spotify.com/show/0e1X4kJVfwQRPF8lZzqqfX"
     },
     {
-      "id": "The TWIM_0",
+      "id": "The TWIM_1",
       "name": "Is RAG Dead? Lessons from Building AI for Tax Law with Alex Bowcut - #769",
       "show": "The TWIML AI Podcast",
       "description": "As context windows grow into the millions of tokens, many AI practitioners are questioning whether retrieval-augmented generation (RAG) is still necessary. If modern models can ingest entire libraries",
@@ -233,22 +243,12 @@
       "url": "https://open.spotify.com/show/0e1X4kJVfwQRPF8lZzqqfX"
     },
     {
-      "id": "The TWIM_1",
+      "id": "The TWIM_2",
       "name": "Relational Foundation Models for Enterprise Data with Jure Leskovec - #768",
       "show": "The TWIML AI Podcast",
       "description": "In this episode, Jure Leskovec, co-founder and chief scientist at Kumo and professor of computer science at Stanford, joins us to explore two fronts of his work: AI for science and relational deep lea",
       "release_date": "2026-05-21",
       "duration_min": 66,
-      "image": "",
-      "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
-    },
-    {
-      "id": "The TWIM_2",
-      "name": "How to Find the Agent Failures Your Evals Miss with Scott Clark - #767",
-      "show": "The TWIML AI Podcast",
-      "description": "In this episode, Scott Clark, co-founder and CEO of Distributional, joins us to explore how teams can reliably operate and improve complex LLM systems and agents in production. Scott introduces a Masl",
-      "release_date": "2026-05-07",
-      "duration_min": 53,
       "image": "",
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
     },
