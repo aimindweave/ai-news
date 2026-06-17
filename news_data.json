@@ -1,5 +1,33 @@
 [
   {
+    "title": "Social media\u2019s next evolution: user-controlled algorithms",
+    "source": "TechCrunch",
+    "summary": "Social media feeds are becoming more customizable as platforms like Threads, Instagram, and TikTok introduce tools that let users directly influence the algorithms powering their recommendations.",
+    "url": "https://techcrunch.com/2026/06/17/social-medias-next-evolution-user-controlled-algorithms/",
+    "date": "2026-06-17"
+  },
+  {
+    "title": "World model maker Odyssey nabs $1.45B valuation backed by Amazon and other big names",
+    "source": "TechCrunch",
+    "summary": "World models are the next big thing in AI beyond LLMs and, with this round, Odyssey has cemented itself as one of the startups to watch.",
+    "url": "https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/",
+    "date": "2026-06-17"
+  },
+  {
+    "title": "Only 16 percent of Americans think AI will have a positive impact on society, a new study shows",
+    "source": "TechCrunch",
+    "summary": "Although Wall Street loves AI, every day Americans are significantly less optimistic about the industry, a new report from Pew Research shows.",
+    "url": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
+    "date": "2026-06-17"
+  },
+  {
+    "title": "Google bets on Gemini to reinvent the smart home speaker",
+    "source": "TechCrunch",
+    "summary": "Google is betting generative AI can breathe new life into the smart speaker. The company's new $99.99 Google Home Speaker replaces the rigid commands of the Google Assistant era with more conversational Gemini interactions.",
+    "url": "https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker/",
+    "date": "2026-06-17"
+  },
+  {
     "title": "The slowtech revolution is here to kill your phone addiction and rescue your attention span",
     "source": "TechCrunch",
     "summary": "\u201cPeople just really want to take back control of their time, their lives, their attention... They\u2019re down for whatever helps them do that.\u201d",
@@ -77,34 +105,6 @@
     "date": "2026-06-17"
   },
   {
-    "title": "DOJ claims xAI\u2019s unpermitted gas turbines are a matter of \u2018national, economic, and energy security\u2019",
-    "source": "TechCrunch",
-    "summary": "The Justice department says the Pentagon needs xAI to keep using its unpermitted gas turbines.",
-    "url": "https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/",
-    "date": "2026-06-17"
-  },
-  {
-    "title": "Plaud says its software business topped $100M in ARR after shipping over 2M AI notetakers",
-    "source": "TechCrunch",
-    "summary": "Plaud is trying to make a mark in a crowded market full of AI-powered meeting notetakers.",
-    "url": "https://techcrunch.com/2026/06/16/plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-notetakers/",
-    "date": "2026-06-17"
-  },
-  {
-    "title": "Robinhood\u2019s note on 10% layoffs shows blaming AI isn\u2019t cutting it",
-    "source": "TechCrunch",
-    "summary": "Unlike many of his tech industry peers who have cut thousands of jobs citing the need to restructure to make the most of AI, Robinhood's CEO Vlad Tenev conspicuously made no mention of AI in his note about layoffs.",
-    "url": "https://techcrunch.com/2026/06/16/robinhoods-note-on-10-layoffs-shows-blaming-ai-isnt-cutting-it/",
-    "date": "2026-06-17"
-  },
-  {
-    "title": "Probably raises $9M to build a more reliable kind of AI",
-    "source": "TechCrunch",
-    "summary": "Probably wants to prevent hallucinations and factual errors from reaching users, and achieve accuracy on par with deterministic systems.",
-    "url": "https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/",
-    "date": "2026-06-17"
-  },
-  {
     "title": "The Download: a reality check for geoengineering and the science of interoception",
     "source": "MIT Tech Review",
     "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Hacking the atmosphere: geoengineering gets a reality check Solar geoengineering, the controversial idea that we could deliberately intervene in the climate sy...",
@@ -128,7 +128,7 @@
   {
     "title": "Exclusive eBook: How AI is becoming the next military advisor",
     "source": "MIT Tech Review",
-    "summary": "A collection of stories about how militaries are using AI models to make decisions. This subscriber-only eBook is a package of six stories that were originally published in MIT Technology Review between April 11, 2025, and April 21, 2026, and have been updated to reflect recent developments. by J...",
+    "summary": "A collection of stories about how militaries are using AI models to make decisions. This subscriber-only eBook is a package of six stories that were originally published in MIT Technology Review between April 11, 2025, and April 21, 2026, and have been updated to reflect recent developments. Stor...",
     "url": "https://www.technologyreview.com/2026/06/16/1138905/exclusive-ebook-how-ai-is-becoming-the-next-military-advisor/",
     "date": "2026-06-17"
   },
@@ -172,6 +172,13 @@
     "source": "MIT Tech Review",
     "summary": "After three years of record-\u00adbreaking heat, this one is set to be yet another scorcher. Air-conditioning? Not going anywhere. The International Energy Agency projects that the number of AC units will triple by 2050. That\u2019s good for health\u2014one Lancet study estimated that AC prevented nearly 200,00...",
     "url": "https://www.technologyreview.com/2026/06/15/1138552/solid-state-acs-promise-cool-future/",
+    "date": "2026-06-17"
+  },
+  {
+    "title": "The White House Wants Anthropic to Block All Jailbreaks. That May Not Be Possible",
+    "source": "Wired",
+    "summary": "Trump administration officials tell WIRED that if Anthropic wants to rerelease Fable 5, it will need to ensure the model's guardrails can't be circumvented. Security experts say that can't be done.",
+    "url": "https://www.wired.com/story/the-white-house-wants-anthropic-to-block-all-jailbreaks-that-may-not-be-possible/",
     "date": "2026-06-17"
   },
   {
@@ -238,10 +245,17 @@
     "date": "2026-06-17"
   },
   {
-    "title": "A Court Has Ruled That Google Is Liable for False Statements Generated by AI Overviews",
-    "source": "Wired",
-    "summary": "The ruling holds that a company that designs, trains, operates, and manages an AI system must assume legal liability for any damages caused by the responses it generates.",
-    "url": "https://www.wired.com/story/a-court-has-ruled-that-google-is-liable-for-false-statements-generated-by-ai-overviews/",
+    "title": "'Dangerous' AI models are coming no matter what",
+    "source": "Ars Technica",
+    "summary": "AI models with advanced hacking capabilities will soon be the norm.",
+    "url": "https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/",
+    "date": "2026-06-17"
+  },
+  {
+    "title": "Ten months later, the $100 Google Home Speaker is finally available for preorder",
+    "source": "Ars Technica",
+    "summary": "Google's new smart speaker is more about Gemini than audio quality.",
+    "url": "https://arstechnica.com/google/2026/06/the-gemini-powered-google-home-speaker-arrives-on-june-25-for-100/",
     "date": "2026-06-17"
   },
   {
@@ -333,20 +347,6 @@
     "source": "Ars Technica",
     "summary": "Even moderately sized data centers can have an outsized local impact.",
     "url": "https://arstechnica.com/ai/2026/06/when-it-comes-to-total-water-use-ai-data-centers-are-a-drop-in-the-bucket/",
-    "date": "2026-06-17"
-  },
-  {
-    "title": "Google sues Chinese cybercrime network that used Gemini to automate scams",
-    "source": "Ars Technica",
-    "summary": "The fraudsters allegedly targeted hundreds of thousands of people with Gemini-coded scams sites.",
-    "url": "https://arstechnica.com/google/2026/06/google-sues-chinese-cybercrime-network-that-used-gemini-to-automate-scams/",
-    "date": "2026-06-17"
-  },
-  {
-    "title": "Pok\u00e9mon Go players unwittingly contributed to tech with military drone uses",
-    "source": "Ars Technica",
-    "summary": "The repurposing of Pok\u00e9mon Go data for AI training continues to draw scrutiny.",
-    "url": "https://arstechnica.com/ai/2026/06/pokemon-go-players-unwittingly-contributed-to-tech-with-military-drone-uses/",
     "date": "2026-06-17"
   }
 ]
