@@ -93,6 +93,26 @@
   ],
   "episodes": [
     {
+      "id": "Hard For_0",
+      "name": "‘Hard Fork’ Live Part 2: Dylan Field on Standing Out in the A.I. Era",
+      "show": "Hard Fork",
+      "description": "We’re back with more from our live event at the Yerba Buena Center for the Arts in San Francisco. In this episode, we sit down with Dylan Field, a founder and the chief executive of the design comp",
+      "release_date": "2026-06-17",
+      "duration_min": 31,
+      "image": "",
+      "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
+    },
+    {
+      "id": "a]6z Pod_0",
+      "name": "The Fintech Playbook for Latin America",
+      "show": "a]6z Podcast",
+      "description": "Angela Strange and Gabriel Vásquez speak with Addi founder and CEO Santiago Suárez about building one of Latin America's largest financial platforms.\nWhat began as a buy now, pay later produ",
+      "release_date": "2026-06-17",
+      "duration_min": 48,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
       "id": "The TWIM_0",
       "name": "Why AI Agents Break the GenAI Security Model with Devvret Rishi - #770",
       "show": "The TWIML AI Podcast",
@@ -103,7 +123,7 @@
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
     },
     {
-      "id": "a]6z Pod_0",
+      "id": "a]6z Pod_1",
       "name": "Jack Altman on Product-Market Fit",
       "show": "a]6z Podcast",
       "description": "Jack Altman joins Speedrun to discuss product-market fit, customer feedback, hiring, fundraising, and the realities of building an enduring company.\nDrawing on his experience building Lattic",
@@ -113,7 +133,7 @@
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "AI, Design, and the Power of Open Models",
       "show": "a]6z Podcast",
       "description": "Yoko Li and Justine Moore speak with Ideogram founder and CEO Mohammad Norouzi about image generation models, design workflows, and the evolving relationship between AI and creative work.\nTh",
@@ -123,7 +143,7 @@
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
-      "id": "Hard For_0",
+      "id": "Hard For_1",
       "name": "‘Hard Fork’ Live, Part 1: Satya Nadella and Cindy Cohn",
       "show": "Hard Fork",
       "description": "This week and next, we’re bringing you recordings from our second-ever live taping in San Francisco. First, we sit down with Microsoft’s chief executive, Satya Nadella, to hear what he’s maxing out",
@@ -131,16 +151,6 @@
       "duration_min": 66,
       "image": "",
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
-    },
-    {
-      "id": "a]6z Pod_2",
-      "name": "Samo Burja on Growth, Energy, and AI",
-      "show": "a]6z Podcast",
-      "description": "Theo Jaffee speaks with Samo Burja, founder of Bismarck Analysis, about AI, industrial capacity, economic growth, and the institutions that shape civilization.\nThe conversation explores how ",
-      "release_date": "2026-06-12",
-      "duration_min": 27,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
       "id": "Practica_0",
@@ -173,7 +183,7 @@
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
     },
     {
-      "id": "Hard For_1",
+      "id": "Hard For_2",
       "name": "Hot I.P.O Summer + What Is A.I. Doing to Math? + HatGPT",
       "show": "Hard Fork",
       "description": "SpaceX, Anthropic and OpenAI are all racing to the public markets. We discuss what their I.P.O.s mean for the industry, charitable giving and anyone invested in an index fund. Then, more than 1,000",
@@ -201,16 +211,6 @@
       "duration_min": 181,
       "image": "",
       "url": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"
-    },
-    {
-      "id": "Hard For_2",
-      "name": "Interesting Times: Why Are We Still Driving?",
-      "show": "Hard Fork",
-      "description": "The “Hard Fork” team is taking a break this week as we prepare for our upcoming live show in San Francisco.\nWhile we’re away, we’re bringing you a recent episode of “Interesting Times” with ",
-      "release_date": "2026-05-29",
-      "duration_min": 58,
-      "image": "",
-      "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
       "id": "Practica_2",
