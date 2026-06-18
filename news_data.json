@@ -1,8 +1,36 @@
 [
   {
+    "title": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
+    "source": "TechCrunch",
+    "summary": "AWS is in talks to sell its chips to other data centers. CEO Andy Jassy has said this represents a $50 billion opportunity for the company.",
+    "url": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
+    "date": "2026-06-18"
+  },
+  {
+    "title": "AI data centers just got a government-mandated fast lane to the grid",
+    "source": "TechCrunch",
+    "summary": "FERC told grid operators to give data centers a fast lane for interconnections, but it failed to address electricity supply shortages.",
+    "url": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/",
+    "date": "2026-06-18"
+  },
+  {
+    "title": "The smartphone era created an attention crisis. Slowtech is fixing it",
+    "source": "TechCrunch",
+    "summary": "\u201cPeople just really want to take back control of their time, their lives, their attention... They\u2019re down for whatever helps them do that.\u201d",
+    "url": "https://techcrunch.com/2026/06/18/the-smartphone-era-created-an-attention-crisis-slowtech-is-fixing-it/",
+    "date": "2026-06-18"
+  },
+  {
+    "title": "\u2018Queer Eye\u2019s\u2019 life coach Karamo Brown launches K\u0113, a wellness app featuring his AI digital clone",
+    "source": "TechCrunch",
+    "summary": "Karamo Brown, famous for his pep talks on Netflix s \u201cQueer Eye,\u201d has jumped into the wellness and AI space with his new app, K\u0113. After spending a year and a half focusing on his own journey\u2014from fitness and nutrition to meditation, sobriety, relationships, and personal growth\u2014Brown wants to help ...",
+    "url": "https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/",
+    "date": "2026-06-18"
+  },
+  {
     "title": "General Intuition in talks to raise $300M at around $2B valuation",
     "source": "TechCrunch",
-    "summary": "General Intuition is in talks to raise around $300 million at a roughly $2 billion valuation from backers including Jeff Bezos. The startup trains AI agents on spatial-temporal reasoning.",
+    "summary": "The startup trains embodied AI and world models using Medal\u2019s dataset of 2 billion videos per year from 10 million monthly active users.",
     "url": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
     "date": "2026-06-18"
   },
@@ -77,34 +105,6 @@
     "date": "2026-06-18"
   },
   {
-    "title": "World model maker Odyssey nabs $1.45B valuation backed by Amazon and other big names",
-    "source": "TechCrunch",
-    "summary": "World models are the next big thing in AI beyond LLMs and, with this round, Odyssey has cemented itself as one of the startups to watch.",
-    "url": "https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/",
-    "date": "2026-06-18"
-  },
-  {
-    "title": "Only 16 percent of Americans think AI will have a positive impact on society, a new study shows",
-    "source": "TechCrunch",
-    "summary": "Although Wall Street loves AI, every day Americans are significantly less optimistic about the industry, a new report from Pew Research shows.",
-    "url": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
-    "date": "2026-06-18"
-  },
-  {
-    "title": "Google bets on Gemini to reinvent the smart home speaker",
-    "source": "TechCrunch",
-    "summary": "Google is betting generative AI can breathe new life into the smart speaker. The company's new $99.99 Google Home Speaker replaces the rigid commands of the Google Assistant era with more conversational Gemini interactions.",
-    "url": "https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker/",
-    "date": "2026-06-18"
-  },
-  {
-    "title": "The slowtech revolution is here to kill your phone addiction and rescue your attention span",
-    "source": "TechCrunch",
-    "summary": "\u201cPeople just really want to take back control of their time, their lives, their attention... They\u2019re down for whatever helps them do that.\u201d",
-    "url": "https://techcrunch.com/2026/06/17/the-slowtech-revolution-is-here-to-kill-your-phone-addiction-and-rescue-your-attention-span/",
-    "date": "2026-06-18"
-  },
-  {
     "title": "The Download: a new hunt for dark matter and Kenya\u2019s case for going solar",
     "source": "MIT Tech Review",
     "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. The search for dark matter has been blown wide open For decades, physicists have hunted for weakly interacting massive particles (WIMPs), a leading candidate f...",
@@ -175,6 +175,13 @@
     "date": "2026-06-18"
   },
   {
+    "title": "3 Amazon Workers Say They\u2019re Under Investigation for Speaking Out About Data Centers",
+    "source": "Wired",
+    "summary": "The software engineers filed a complaint with Seattle\u2019s civil rights office accusing Amazon of illegally retaliating against them for expressing their personal political beliefs.",
+    "url": "https://www.wired.com/story/amazon-workers-under-internal-investigation-after-speaking-out-about-data-centers/",
+    "date": "2026-06-18"
+  },
+  {
     "title": "The UK Will Scan Asylum-Seekers\u2019 Faces for Age Checks\u2014Despite Knowing the Tech Is Flawed",
     "source": "Wired",
     "summary": "Internal Home Office tests of age-verification technology show the risks of life-altering errors. It\u2019s moving forward anyway.",
@@ -238,10 +245,10 @@
     "date": "2026-06-18"
   },
   {
-    "title": "DOJ Lawyers Argue xAI Is \u2018Vital\u2019 for National Security in NAACP Lawsuit",
-    "source": "Wired",
-    "summary": "In a bid to dismiss a lawsuit over xAI\u2019s polluting gas turbines, the Justice Department claimed the company is integral to military operations\u2014including the Iran War.",
-    "url": "https://www.wired.com/story/doj-lawyers-argue-xai-vital-national-security-naacp-lawsuit/",
+    "title": "Bernie Sanders unveils $7 trillion plan to give Americans control of AI industry",
+    "source": "Ars Technica",
+    "summary": "Biggest AI firms will likely recoil at Bernie Sanders' AI wealth fund.",
+    "url": "https://arstechnica.com/tech-policy/2026/06/bernie-sanders-unveils-7-trillion-plan-to-give-americans-control-of-ai-industry/",
     "date": "2026-06-18"
   },
   {
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "Full autonomy is rare, but Ukraine is installing AI modules on drones and robots.",
     "url": "https://arstechnica.com/ai/2026/06/ukraines-one-time-test-used-fully-autonomous-drones-to-kill-russian-soldiers/",
-    "date": "2026-06-18"
-  },
-  {
-    "title": "$130 billion in data center projects blocked by protests so far this year",
-    "source": "Ars Technica",
-    "summary": "Winning fight against AI data centers gives people a 'taste of political power.'",
-    "url": "https://arstechnica.com/tech-policy/2026/06/130-billion-in-data-center-projects-blocked-by-protests-so-far-this-year/",
     "date": "2026-06-18"
   }
 ]
