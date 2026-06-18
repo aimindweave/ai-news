@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "[x86] AI Compute Extensions (ACE) Specification",
+    "title": "The Australian Government to Require SMS/MMS Sender ID Registraion",
     "source": "Hacker News",
-    "description": "HN Score: 19 | 8 comments",
-    "url": "https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/",
-    "score": 19,
+    "description": "HN Score: 99 | 57 comments",
+    "url": "https://www.acma.gov.au/sms-sender-id-register",
+    "score": 99,
     "date": "2026-06-18",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "Launch HN: Adam (YC W25) \u2013 Open-Source AI CAD",
     "source": "Hacker News",
-    "description": "HN Score: 171 | 84 comments",
+    "description": "HN Score: 184 | 87 comments",
     "url": "https://github.com/Adam-CAD/CADAM",
-    "score": 171,
+    "score": 184,
     "date": "2026-06-18",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
+    "title": "AI Compute Extensions (ACE) Specification",
     "source": "Hacker News",
-    "description": "HN Score: 820 | 394 comments",
-    "url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
-    "score": 820,
+    "description": "HN Score: 37 | 16 comments",
+    "url": "https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/",
+    "score": 37,
     "date": "2026-06-18",
     "category": "AI News"
   },
@@ -55,6 +55,23 @@
     "source": "@EMostaque",
     "description": "",
     "url": "https://nitter.net/EMostaque/status/2067208281727054123#m",
+    "date": "2026-06-18",
+    "category": "Twitter"
+  },
+  {
+    "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
+    "source": "Hacker News",
+    "description": "HN Score: 856 | 415 comments",
+    "url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
+    "score": 856,
+    "date": "2026-06-18",
+    "category": "AI News"
+  },
+  {
+    "title": "I made Physical AutoResearch sound simple (conceptually), but it took a village to pull off and lots of design thinking into the robot /loopcraft. The",
+    "source": "@DrJimFan",
+    "description": "",
+    "url": "https://nitter.net/DrJimFan/status/2067283904986517866#m",
     "date": "2026-06-18",
     "category": "Twitter"
   },
@@ -68,19 +85,19 @@
     "category": "AI News"
   },
   {
-    "title": "I made Physical AutoResearch sound simple (conceptually), but it took a village to pull off and lots of design thinking into the robot /loopcraft. The",
-    "source": "@DrJimFan",
+    "title": "RT by @svpino: My favorite models right now: \u2022 Everyday: Claude Opus 4.7 and ChatGPT 5.5 Thinking \u2022 Real-time news: Grok (whatever version they offer)",
+    "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2067283904986517866#m",
+    "url": "https://nitter.net/svpino/status/2067303763275305225#m",
     "date": "2026-06-18",
     "category": "Twitter"
   },
   {
     "title": "The founder's playbook: Building an AI-native startup",
     "source": "Hacker News",
-    "description": "HN Score: 220 | 155 comments",
+    "description": "HN Score: 231 | 160 comments",
     "url": "https://claude.com/blog/the-founders-playbook",
-    "score": 220,
+    "score": 231,
     "date": "2026-06-18",
     "category": "AI News"
   },
@@ -93,28 +110,28 @@
     "category": "Twitter"
   },
   {
-    "title": "A robot is sprinting towards you. Do you want it running on Claude or Grok?",
+    "title": "ChatGPT's image generator can be manipulated to produce violent, sexual content",
     "source": "Hacker News",
-    "description": "HN Score: 199 | 181 comments",
-    "url": "https://openrouter.ai/blog/insights/royale-last-agent-standing/",
-    "score": 199,
+    "description": "HN Score: 99 | 140 comments",
+    "url": "https://mindgard.ai/blog/chatgpt-spontaneously-generated-violent-images-from-a-viral-prompt",
+    "score": 99,
     "date": "2026-06-18",
     "category": "AI News"
   },
   {
-    "title": "RT by @svpino: Look at the speed at which this model generates video! Imagine a chat interface that uses real-time video streaming to talk to us inste",
-    "source": "@svpino",
+    "title": "The biggest question in AI today - Will GPT 5.6 Be Allowed to Launch? Hopefully \ud83e\udd1e",
+    "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2067223690853691894#m",
+    "url": "https://nitter.net/bindureddy/status/2067519376681804011#m",
     "date": "2026-06-18",
     "category": "Twitter"
   },
   {
-    "title": "Show HN: BlitzGraph \u2013 Supabase for graphs, built for LLM agents",
+    "title": "The hacker sent by Anthropic to calm the government's nerves about AI safety",
     "source": "Hacker News",
-    "description": "HN Score: 10 | 3 comments",
-    "url": "https://blitzgraph.com",
-    "score": 10,
+    "description": "HN Score: 78 | 79 comments",
+    "url": "https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas-carlini-20bceaa3",
+    "score": 78,
     "date": "2026-06-18",
     "category": "AI News"
   },
@@ -127,37 +144,20 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Local personal data redaction for any AI tools",
+    "title": "Running local models is good now",
     "source": "Hacker News",
-    "description": "HN Score: 5 | 0 comments",
-    "url": "https://github.com/sophia486/pii-gui",
-    "score": 5,
+    "description": "HN Score: 1535 | 590 comments",
+    "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
+    "score": 1535,
     "date": "2026-06-18",
     "category": "AI News"
   },
   {
-    "title": "Anthropic employees are complaining that the Trump admin is attacking them They are in part to blame - maybe they should stop saying they are building",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2067342531617337513#m",
-    "date": "2026-06-18",
-    "category": "Twitter"
-  },
-  {
-    "title": "Using AI to improve a challenging reaction in medicinal chemistry",
+    "title": "Abandoned and Little-Known Airfields",
     "source": "Hacker News",
-    "description": "HN Score: 51 | 20 comments",
-    "url": "https://openai.com/index/ai-chemist-improves-reaction/",
-    "score": 51,
-    "date": "2026-06-18",
-    "category": "AI News"
-  },
-  {
-    "title": "AI demands more engineering discipline. Not less",
-    "source": "Hacker News",
-    "description": "HN Score: 354 | 180 comments",
-    "url": "https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline",
-    "score": 354,
+    "description": "HN Score: 148 | 54 comments",
+    "url": "https://airfields-freeman.com/",
+    "score": 148,
     "date": "2026-06-18",
     "category": "AI News"
   }
