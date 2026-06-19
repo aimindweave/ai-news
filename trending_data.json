@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "How Japan's railways stayed one while splitting apart",
+    "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
     "source": "Hacker News",
-    "description": "HN Score: 69 | 48 comments",
-    "url": "https://arun.is/blog/jr-logo/",
-    "score": 69,
+    "description": "HN Score: 151 | 69 comments",
+    "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
+    "score": 151,
     "date": "2026-06-19",
     "category": "AI News"
   },
@@ -21,6 +21,57 @@
     "source": "@kaborobot",
     "description": "",
     "url": "https://nitter.net/kaborobot/status/2058205543760838842#m",
+    "date": "2026-06-19",
+    "category": "Twitter"
+  },
+  {
+    "title": "Zen and the Art of Machine Learning Research",
+    "source": "Hacker News",
+    "description": "HN Score: 60 | 16 comments",
+    "url": "https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning",
+    "score": 60,
+    "date": "2026-06-19",
+    "category": "AI News"
+  },
+  {
+    "title": "Elon on when Chinese models hit fable level performance. I have always thought Chinese labs have a huge advantage here. The feedback loops for usefuln",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/EMostaque/status/2067694396691157315#m",
+    "date": "2026-06-19",
+    "category": "Twitter"
+  },
+  {
+    "title": "How Japan's railways stayed one while splitting apart",
+    "source": "Hacker News",
+    "description": "HN Score: 102 | 86 comments",
+    "url": "https://arun.is/blog/jr-logo/",
+    "score": 102,
+    "date": "2026-06-19",
+    "category": "AI News"
+  },
+  {
+    "title": "How would you change your priors if a Chinese lab released an open model that beat Fable across benchmarks and on feel.",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/EMostaque/status/2067610502826463409#m",
+    "date": "2026-06-19",
+    "category": "Twitter"
+  },
+  {
+    "title": "The AirPods Effect",
+    "source": "Hacker News",
+    "description": "HN Score: 106 | 210 comments",
+    "url": "https://www.theescapenewsletter.com/p/the-airpods-effect",
+    "score": 106,
+    "date": "2026-06-19",
+    "category": "AI News"
+  },
+  {
+    "title": "I made Physical AutoResearch sound simple (conceptually), but it took a village to pull off and lots of design thinking into the robot /loopcraft. The",
+    "source": "@DrJimFan",
+    "description": "",
+    "url": "https://nitter.net/DrJimFan/status/2067283904986517866#m",
     "date": "2026-06-19",
     "category": "Twitter"
   },
@@ -34,87 +85,36 @@
     "category": "AI News"
   },
   {
-    "title": "Elon on when Chinese models hit fable level performance. I have always thought Chinese labs have a huge advantage here. The feedback loops for usefuln",
-    "source": "@EMostaque",
+    "title": "RT by @svpino: The good thing about this: you don't need to understand how it works or how to prompt it. There are no 'tricks', no manual, and nothing",
+    "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/EMostaque/status/2067694396691157315#m",
+    "url": "https://nitter.net/svpino/status/2067705335188685164#m",
+    "date": "2026-06-19",
+    "category": "Twitter"
+  },
+  {
+    "title": "The Korean telecom giant at the center of Anthropic's Mythos controversy",
+    "source": "Hacker News",
+    "description": "HN Score: 115 | 104 comments",
+    "url": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
+    "score": 115,
+    "date": "2026-06-19",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: This is one of the reasons I don't want to use OpenClaw or Hermes: I don't trust them not to blindly follow instructions that somebody ",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2067651554774298760#m",
     "date": "2026-06-19",
     "category": "Twitter"
   },
   {
     "title": "Launch HN: TesterArmy (YC P26) \u2013 Agents that test web and mobile apps",
     "source": "Hacker News",
-    "description": "HN Score: 111 | 47 comments",
+    "description": "HN Score: 120 | 55 comments",
     "url": "https://tester.army",
-    "score": 111,
-    "date": "2026-06-19",
-    "category": "AI News"
-  },
-  {
-    "title": "How would you change your priors if a Chinese lab released an open model that beat Fable across benchmarks and on feel.",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/EMostaque/status/2067610502826463409#m",
-    "date": "2026-06-19",
-    "category": "Twitter"
-  },
-  {
-    "title": "Noam Shazeer Joins OpenAI",
-    "source": "Hacker News",
-    "description": "HN Score: 308 | 297 comments",
-    "url": "https://twitter.com/NoamShazeer/status/2067400851438932297",
-    "score": 308,
-    "date": "2026-06-19",
-    "category": "AI News"
-  },
-  {
-    "title": "I made Physical AutoResearch sound simple (conceptually), but it took a village to pull off and lots of design thinking into the robot /loopcraft. The",
-    "source": "@DrJimFan",
-    "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2067283904986517866#m",
-    "date": "2026-06-19",
-    "category": "Twitter"
-  },
-  {
-    "title": "Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts",
-    "source": "Hacker News",
-    "description": "HN Score: 152 | 66 comments",
-    "url": "https://gerrymandle.cc/",
-    "score": 152,
-    "date": "2026-06-19",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: Nearly half of all production code is now generated by AI. Checkmarx surveyed 2,350 engineers, and the results are concerning: Companie",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2067626389088661639#m",
-    "date": "2026-06-19",
-    "category": "Twitter"
-  },
-  {
-    "title": "Agentic Resource Discovery Specification",
-    "source": "Hacker News",
-    "description": "HN Score: 60 | 15 comments",
-    "url": "https://agenticresourcediscovery.org/introduction/",
-    "score": 60,
-    "date": "2026-06-19",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: A new AI employee that works on Microsoft Teams. I gave it a try. I asked it to pull some results and put together a summary. @viktor__",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2067607186298351763#m",
-    "date": "2026-06-19",
-    "category": "Twitter"
-  },
-  {
-    "title": "Emacs 31 is around the corner: The changes I'm daily driving",
-    "source": "Hacker News",
-    "description": "HN Score: 428 | 241 comments",
-    "url": "https://www.rahuljuliato.com/posts/emacs-31-around-the-corner",
-    "score": 428,
+    "score": 120,
     "date": "2026-06-19",
     "category": "AI News"
   },
@@ -127,11 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "The founder of Craigslist has given away half a billion dollars",
+    "title": "Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts",
     "source": "Hacker News",
-    "description": "HN Score: 345 | 261 comments",
-    "url": "https://www.independent.co.uk/us/money/craigslist-multimillionaire-craig-newmark-b2980681.html",
-    "score": 345,
+    "description": "HN Score: 176 | 70 comments",
+    "url": "https://gerrymandle.cc/",
+    "score": 176,
     "date": "2026-06-19",
     "category": "AI News"
   },
@@ -144,20 +144,20 @@
     "category": "Twitter"
   },
   {
-    "title": "The Korean telecom giant at the center of Anthropic's Mythos controversy",
+    "title": "Akse3D \u2013 open-source 3D modelling anyone can master",
     "source": "Hacker News",
-    "description": "HN Score: 104 | 88 comments",
-    "url": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
-    "score": 104,
+    "description": "HN Score: 22 | 2 comments",
+    "url": "https://akse3d-en.skaperiet.no",
+    "score": 22,
     "date": "2026-06-19",
     "category": "AI News"
   },
   {
-    "title": "Dutch Railways offers unlimited off-peak train travel nationwide for \u20ac49/month",
+    "title": "Noam Shazeer Joins OpenAI",
     "source": "Hacker News",
-    "description": "HN Score: 209 | 99 comments",
-    "url": "https://www.ns.nl/en/season-tickets/dal-vrij",
-    "score": 209,
+    "description": "HN Score: 330 | 327 comments",
+    "url": "https://twitter.com/NoamShazeer/status/2067400851438932297",
+    "score": 330,
     "date": "2026-06-19",
     "category": "AI News"
   }
