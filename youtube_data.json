@@ -1,1 +1,178 @@
-[]
+[
+  {
+    "id": "g2hiVp6oPZc",
+    "title": "Writing a Text Editor - Computerphile",
+    "channel": "Computerphile",
+    "description": "Writing a text editor can't be that hard can it? Surely just a case of shifting around a bunch of ASCII characters? Dr Steve Bagley is ...",
+    "publishedAt": "2025-07-29T14:55:08Z",
+    "thumbnail": "https://i.ytimg.com/vi/g2hiVp6oPZc/hqdefault.jpg",
+    "views": 243868,
+    "likes": 8435,
+    "url": "https://youtube.com/watch?v=g2hiVp6oPZc"
+  },
+  {
+    "id": "5UAvECavmFA",
+    "title": "Super Intelligence Speculation - Computerphile",
+    "channel": "Computerphile",
+    "description": "Looking to the future, just how intelligent might the current crop of Large Language Models get? Daniel Kokotajlo joins us to ...",
+    "publishedAt": "2025-06-17T14:54:47Z",
+    "thumbnail": "https://i.ytimg.com/vi/5UAvECavmFA/hqdefault.jpg",
+    "views": 163030,
+    "likes": 4266,
+    "url": "https://youtube.com/watch?v=5UAvECavmFA"
+  },
+  {
+    "id": "Isen8IHtrvE",
+    "title": "The &quot;Goodbye&quot; Problem - Computerphile",
+    "channel": "Computerphile",
+    "description": "You say \"bye\" first! - no, you say \"bye\" first! - how do you know when to close the connection? Dr Richard G. Clegg of Queen Mary ...",
+    "publishedAt": "2024-10-24T19:02:18Z",
+    "thumbnail": "https://i.ytimg.com/vi/Isen8IHtrvE/hqdefault.jpg",
+    "views": 146099,
+    "likes": 5604,
+    "url": "https://youtube.com/watch?v=Isen8IHtrvE"
+  },
+  {
+    "id": "JXUOMsFBDXQ",
+    "title": "Code Optimisation via Memoization - Computerphile",
+    "channel": "Computerphile",
+    "description": "Learn this caching trick for faster code from Dr Mike Pound -- Check out Brilliant's courses and start for free at ...",
+    "publishedAt": "2025-11-27T15:29:09Z",
+    "thumbnail": "https://i.ytimg.com/vi/JXUOMsFBDXQ/hqdefault.jpg",
+    "views": 143637,
+    "likes": 6178,
+    "url": "https://youtube.com/watch?v=JXUOMsFBDXQ"
+  },
+  {
+    "id": "SAk-6gVkio0",
+    "title": "How CPU Memory &amp; Caches Work - Computerphile",
+    "channel": "Computerphile",
+    "description": "Relatively speedy-to-access cache saves your computer having to trudge over to the RAM, but with multiple levels of cache ...",
+    "publishedAt": "2025-02-06T17:45:01Z",
+    "thumbnail": "https://i.ytimg.com/vi/SAk-6gVkio0/hqdefault.jpg",
+    "views": 129726,
+    "likes": 4219,
+    "url": "https://youtube.com/watch?v=SAk-6gVkio0"
+  },
+  {
+    "id": "EXB8HokGVMI",
+    "title": "Small Language Models (SLMs) Are the Future: Fine-Tuning AI That Runs on Your iPhone",
+    "channel": "Daniel Bourke",
+    "description": "In this talk, I go over the rise of small language models (SLMs) and how they can benefit your business or day to day life.",
+    "publishedAt": "2026-03-13T08:09:38Z",
+    "thumbnail": "https://i.ytimg.com/vi/EXB8HokGVMI/hqdefault.jpg",
+    "views": 129266,
+    "likes": 2882,
+    "url": "https://youtube.com/watch?v=EXB8HokGVMI"
+  },
+  {
+    "id": "cP8xpkvs_UI",
+    "title": "MikeBot3000: Can We Build an AI Mike from Open Source Tools? - Computerphile",
+    "channel": "Computerphile",
+    "description": "Open source tools for creating videos? Lewis decides to help Mike take a break by creating 'MikeBot3000' - an AI generated Mike ...",
+    "publishedAt": "2025-05-29T16:43:03Z",
+    "thumbnail": "https://i.ytimg.com/vi/cP8xpkvs_UI/hqdefault.jpg",
+    "views": 116184,
+    "likes": 4932,
+    "url": "https://youtube.com/watch?v=cP8xpkvs_UI"
+  },
+  {
+    "id": "2jJeSgO_MGo",
+    "title": "Is it Possible to Block Childrens&#39; Access to Social Media? - Computerphile",
+    "channel": "Computerphile",
+    "description": "With the UK planning to follow Australia in a ban on social media for under 16s, we ask how it might work? Dr Mike Pound is an ...",
+    "publishedAt": "2026-06-16T14:30:04Z",
+    "thumbnail": "https://i.ytimg.com/vi/2jJeSgO_MGo/hqdefault.jpg",
+    "views": 60409,
+    "likes": 3116,
+    "url": "https://youtube.com/watch?v=2jJeSgO_MGo"
+  },
+  {
+    "id": "8FmJ2ypu1KQ",
+    "title": "NVIDIA DGX Spark vs RTX 4090 | LLM inference, training speed and more",
+    "channel": "Daniel Bourke",
+    "description": "This video compares the NVIDIA DGX Spark and NVIDIA RTX 4090 across several benchmarks and attributes such as price and ...",
+    "publishedAt": "2026-02-06T02:41:02Z",
+    "thumbnail": "https://i.ytimg.com/vi/8FmJ2ypu1KQ/hqdefault.jpg",
+    "views": 56569,
+    "likes": 968,
+    "url": "https://youtube.com/watch?v=8FmJ2ypu1KQ"
+  },
+  {
+    "id": "nKVML4YaBqs",
+    "title": "TCP b : Additive Increase Multiplicative Decrease &amp; &#39;Slow Start&#39; - Computerphile",
+    "channel": "Computerphile",
+    "description": "Network Basics story continues with the second part of the TCP segment. Richard G Clegg is based at Queen Mary University ...",
+    "publishedAt": "2026-06-15T14:33:58Z",
+    "thumbnail": "https://i.ytimg.com/vi/nKVML4YaBqs/hqdefault.jpg",
+    "views": 12851,
+    "likes": 573,
+    "url": "https://youtube.com/watch?v=nKVML4YaBqs"
+  },
+  {
+    "id": "7GQPFS7NQrA",
+    "title": "Local Multimodal RAG Pipeline End-to-End Tutorial | On DGX Spark",
+    "channel": "Daniel Bourke",
+    "description": "Let's build a multimodal RAG (Retrieval Augmented Generation) pipeline using NVIDIA's Nemotron embedding and rerank ...",
+    "publishedAt": "2026-01-27T08:01:45Z",
+    "thumbnail": "https://i.ytimg.com/vi/7GQPFS7NQrA/hqdefault.jpg",
+    "views": 9485,
+    "likes": 312,
+    "url": "https://youtube.com/watch?v=7GQPFS7NQrA"
+  },
+  {
+    "id": "KVxzyWurDQQ",
+    "title": "Introducing Sunny - A MedGemma-Powered Skin Health Tracking App (Kaggle Competition Entry)",
+    "channel": "Daniel Bourke",
+    "description": "Sunny is an iOS application designed for skin health tracking. It uses a fine-tuned version of MedGemma to extract structured ...",
+    "publishedAt": "2026-02-24T02:14:55Z",
+    "thumbnail": "https://i.ytimg.com/vi/KVxzyWurDQQ/hqdefault.jpg",
+    "views": 6722,
+    "likes": 224,
+    "url": "https://youtube.com/watch?v=KVxzyWurDQQ"
+  },
+  {
+    "id": "vih2WuggZB0",
+    "title": "Benchmarking: NVIDIA DGX Spark &amp; NVIDIA RTX 4090 | Part 1 - Creating a series of tests",
+    "channel": "Daniel Bourke",
+    "description": "The NVIDIA DGX Spark and the NVIDIA RTX 4090 GPU are outstanding pieces of hardware in their own right. Let's compare them ...",
+    "publishedAt": "2026-01-28T18:42:05Z",
+    "thumbnail": "https://i.ytimg.com/vi/vih2WuggZB0/hqdefault.jpg",
+    "views": 2118,
+    "likes": 44,
+    "url": "https://youtube.com/watch?v=vih2WuggZB0"
+  },
+  {
+    "id": "GJluFs2_rzU",
+    "title": "Benchmarking: NVIDIA DGX Spark &amp; NVIDIA RTX 4090 | Part 4 - Comparing the results",
+    "channel": "Daniel Bourke",
+    "description": "The NVIDIA DGX Spark and the NVIDIA RTX 4090 GPU are outstanding pieces of hardware in their own right. Let's compare them ...",
+    "publishedAt": "2026-02-04T17:03:50Z",
+    "thumbnail": "https://i.ytimg.com/vi/GJluFs2_rzU/hqdefault.jpg",
+    "views": 1406,
+    "likes": 24,
+    "url": "https://youtube.com/watch?v=GJluFs2_rzU"
+  },
+  {
+    "id": "012uW_NSwhc",
+    "title": "Benchmarking: NVIDIA DGX Spark &amp; NVIDIA RTX 4090 | Part 2 - Formalizing the tests",
+    "channel": "Daniel Bourke",
+    "description": "The NVIDIA DGX Spark and the NVIDIA RTX 4090 GPU are outstanding pieces of hardware in their own right. Let's compare them ...",
+    "publishedAt": "2026-01-29T18:45:26Z",
+    "thumbnail": "https://i.ytimg.com/vi/012uW_NSwhc/hqdefault.jpg",
+    "views": 1273,
+    "likes": 38,
+    "url": "https://youtube.com/watch?v=012uW_NSwhc"
+  },
+  {
+    "id": "uDUSs5f_JfU",
+    "title": "Benchmarking: NVIDIA DGX Spark &amp; NVIDIA RTX 4090 | Part 3 - Running LLMs on the RTX 4090",
+    "channel": "Daniel Bourke",
+    "description": "The NVIDIA DGX Spark and the NVIDIA RTX 4090 GPU are outstanding pieces of hardware in their own right. Let's compare them ...",
+    "publishedAt": "2026-02-03T17:08:27Z",
+    "thumbnail": "https://i.ytimg.com/vi/uDUSs5f_JfU/hqdefault.jpg",
+    "views": 1208,
+    "likes": 24,
+    "url": "https://youtube.com/watch?v=uDUSs5f_JfU"
+  }
+]
