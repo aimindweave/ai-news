@@ -10,9 +10,9 @@
   {
     "title": "Loupe \u2013 A iOS app that raises awareness about what native apps can see",
     "source": "Hacker News",
-    "description": "HN Score: 138 | 35 comments",
+    "description": "HN Score: 285 | 106 comments",
     "url": "https://github.com/mysk-research/loupe",
-    "score": 138,
+    "score": 285,
     "date": "2026-06-21",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "Slow breathing modulates brain function and risk behavior",
     "source": "Hacker News",
-    "description": "HN Score: 104 | 23 comments",
+    "description": "HN Score: 207 | 50 comments",
     "url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
-    "score": 104,
+    "score": 207,
     "date": "2026-06-21",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "When I reject AI code even if it works",
+    "title": "Building reliable agentic AI systems",
     "source": "Hacker News",
-    "description": "HN Score: 98 | 59 comments",
-    "url": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
-    "score": 98,
+    "description": "HN Score: 105 | 21 comments",
+    "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+    "score": 105,
     "date": "2026-06-21",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Semiconductor Lifeline Keeps Fighter Jets in the Air",
+    "title": "Your brain was never designed for this much bad news",
     "source": "Hacker News",
-    "description": "HN Score: 55 | 18 comments",
-    "url": "https://spectrum.ieee.org/phoenix-semiconductors-legacychips-oems",
-    "score": 55,
+    "description": "HN Score: 194 | 129 comments",
+    "url": "https://www.sciencedaily.com/releases/2026/06/260614012006.htm",
+    "score": 194,
     "date": "2026-06-21",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Your brain was never designed for this much bad news",
+    "title": "When I reject AI code even if it works",
     "source": "Hacker News",
-    "description": "HN Score: 29 | 8 comments",
-    "url": "https://www.sciencedaily.com/releases/2026/06/260614012006.htm",
-    "score": 29,
+    "description": "HN Score: 180 | 99 comments",
+    "url": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
+    "score": 180,
     "date": "2026-06-21",
     "category": "AI News"
   },
@@ -95,9 +95,9 @@
   {
     "title": "Temporary Cloudflare accounts for AI agents",
     "source": "Hacker News",
-    "description": "HN Score: 187 | 101 comments",
+    "description": "HN Score: 209 | 111 comments",
     "url": "https://blog.cloudflare.com/temporary-accounts/",
-    "score": 187,
+    "score": 209,
     "date": "2026-06-21",
     "category": "AI News"
   },
@@ -110,11 +110,28 @@
     "category": "Twitter"
   },
   {
+    "title": "The 100k Whys of AI",
+    "source": "Hacker News",
+    "description": "HN Score: 108 | 56 comments",
+    "url": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
+    "score": 108,
+    "date": "2026-06-21",
+    "category": "AI News"
+  },
+  {
+    "title": "\ud83d\udea8 AI Agents Can Now Embed Any App And Create Complex Visualizations Weekend launches are the best!! - AI agents can embed and use any app - do detaile",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2068569320968626422#m",
+    "date": "2026-06-21",
+    "category": "Twitter"
+  },
+  {
     "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
     "source": "Hacker News",
-    "description": "HN Score: 512 | 249 comments",
+    "description": "HN Score: 527 | 253 comments",
     "url": "https://arrowtsx.dev/bigger-models/",
-    "score": 512,
+    "score": 527,
     "date": "2026-06-21",
     "category": "AI News"
   },
@@ -127,28 +144,20 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: We post-trained a model that pen tests instead of refusing",
+    "title": "Semiconductor Lifeline Keeps Fighter Jets in the Air",
     "source": "Hacker News",
-    "description": "HN Score: 78 | 37 comments",
-    "url": "https://www.argusred.com/cli",
-    "score": 78,
+    "description": "HN Score: 68 | 20 comments",
+    "url": "https://spectrum.ieee.org/phoenix-semiconductors-legacychips-oems",
+    "score": 68,
     "date": "2026-06-21",
     "category": "AI News"
   },
   {
-    "title": "Haha - this is unbelievable! I suspect you just need Opus 4.8 and GPT 5.6 for just 10-15% of tasks Kimi and GLM will do the rest Enterprises who are p",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2068289101787513165#m",
-    "date": "2026-06-21",
-    "category": "Twitter"
-  },
-  {
-    "title": "Bootimus \u2013 A Self-Contained PXE and HTTP Boot Server",
+    "title": "Show HN: We post-trained a model that pen tests instead of refusing",
     "source": "Hacker News",
-    "description": "HN Score: 108 | 37 comments",
-    "url": "https://bootimus.com",
-    "score": 108,
+    "description": "HN Score: 81 | 37 comments",
+    "url": "https://www.argusred.com/cli",
+    "score": 81,
     "date": "2026-06-21",
     "category": "AI News"
   }
