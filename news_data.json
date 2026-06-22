@@ -1,5 +1,33 @@
 [
   {
+    "title": "The AI world is getting \u2018loopy\u2019",
+    "source": "TechCrunch",
+    "summary": "The loop takes agentic AI a step further by authorizing a swarm of agents to work continuously in the background, endlessly.",
+    "url": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
+    "date": "2026-06-22"
+  },
+  {
+    "title": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia\u2019s $20B not-acqui-hire deal",
+    "source": "TechCrunch",
+    "summary": "What does an AI company do after one of those not-acqui-hire deals? Groq raised money, is leaning into its neocloud business, and is hiring new execs.",
+    "url": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
+    "date": "2026-06-22"
+  },
+  {
+    "title": "Nvidia wants to cut data center water use, but that\u2019s not the same as fixing AI\u2019s water problem",
+    "source": "TechCrunch",
+    "summary": "Nvidia announced a new cooling system that cuts water use inside the data center. But it does nothing to address AI's biggest water use \u2014 fossil fuel power plants.",
+    "url": "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/",
+    "date": "2026-06-22"
+  },
+  {
+    "title": "Google DeepMind bets $75M on AI\u2019s future in Hollywood with A24 deal",
+    "source": "TechCrunch",
+    "summary": "Google DeepMind and A24 are teaming up to build AI filmmaking tools.",
+    "url": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
+    "date": "2026-06-22"
+  },
+  {
     "title": "Amazon is testing Alexa+ in India with Hindi support",
     "source": "TechCrunch",
     "summary": "Amazon is planning to increase the footprint of its new conversational AI assistant Alexa+ to India and is inviting users in the country to test out a Hindi-language version.",
@@ -77,31 +105,10 @@
     "date": "2026-06-22"
   },
   {
-    "title": "Billionaire Ambani wants AI in every call, app, and home",
-    "source": "TechCrunch",
-    "summary": "Reliance is weaving AI into telecom services used by more than 500 million people.",
-    "url": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
-    "date": "2026-06-22"
-  },
-  {
-    "title": "The CEO of Allbirds\u2019 new AI biz has a plan. Now she needs a \u201cbrand-new team\u201d",
-    "source": "TechCrunch",
-    "summary": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear.",
-    "url": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
-    "date": "2026-06-22"
-  },
-  {
-    "title": "The US says ASML\u2019s top chip tool may be in China, but how?",
-    "source": "TechCrunch",
-    "summary": "There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer.",
-    "url": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
-    "date": "2026-06-22"
-  },
-  {
-    "title": "Source: Elastic agrees to buy CRV-backed Deductive AI for up to $85M",
-    "source": "TechCrunch",
-    "summary": "Deductive AI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.",
-    "url": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
+    "title": "Three things to watch amid Anthropic\u2019s latest feud with the government",
+    "source": "MIT Tech Review",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. For those of you enjoying your summer unaware of Anthropic\u2019s latest feud with the US government, here\u2019s a recap: In April the company said it had built an AI m...",
+    "url": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
     "date": "2026-06-22"
   },
   {
@@ -168,10 +175,17 @@
     "date": "2026-06-22"
   },
   {
-    "title": "The Download: a reality check for geoengineering and the science of interoception",
-    "source": "MIT Tech Review",
-    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Hacking the atmosphere: geoengineering gets a reality check Solar geoengineering, the controversial idea that we could deliberately intervene in the climate sy...",
-    "url": "https://www.technologyreview.com/2026/06/17/1139200/the-download-solar-geoengineering-interoception/",
+    "title": "Meta Pauses Employee-Tracking Program Following Internal Data Leak",
+    "source": "Wired",
+    "summary": "The move comes after the company left potentially sensitive data from the initiative exposed internally.",
+    "url": "https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/",
+    "date": "2026-06-22"
+  },
+  {
+    "title": "Meta Exposed Data Internally From Its Controversial Employee-Tracking Program",
+    "source": "Wired",
+    "summary": "Employees had previously raised concerns about the initiative, which involves collecting workers\u2019 keystroke data to train AI models.",
+    "url": "https://www.wired.com/story/meta-accidentally-let-employees-access-each-others-keystroke-data/",
     "date": "2026-06-22"
   },
   {
@@ -231,17 +245,10 @@
     "date": "2026-06-22"
   },
   {
-    "title": "3 Amazon Workers Say They\u2019re Under Investigation for Speaking Out About Data Centers",
-    "source": "Wired",
-    "summary": "The software engineers filed a complaint with Seattle\u2019s civil rights office accusing Amazon of illegally retaliating against them for expressing their personal political beliefs.",
-    "url": "https://www.wired.com/story/amazon-workers-under-internal-investigation-after-speaking-out-about-data-centers/",
-    "date": "2026-06-22"
-  },
-  {
-    "title": "The UK Will Scan Asylum-Seekers\u2019 Faces for Age Checks\u2014Despite Knowing the Tech Is Flawed",
-    "source": "Wired",
-    "summary": "Internal Home Office tests of age-verification technology show the risks of life-altering errors. It\u2019s moving forward anyway.",
-    "url": "https://www.wired.com/story/facial-age-estimate-uk-asylum-seekers/",
+    "title": "GM installs robots at flagship EV factory after laying off 1,300 workers",
+    "source": "Ars Technica",
+    "summary": "US autoworkers union warns of robot automation as dark factory future looms.",
+    "url": "https://arstechnica.com/ai/2026/06/gm-installs-robots-at-flagship-ev-factory-after-laying-off-1300-workers/",
     "date": "2026-06-22"
   },
   {
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "Commerce dept. worries that a Fable 5 'jailbreak' could be a national security threat.",
     "url": "https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/",
-    "date": "2026-06-22"
-  },
-  {
-    "title": "SpaceX is now a public company valued for its AI potential, so what comes next?",
-    "source": "Ars Technica",
-    "summary": "As of today, SpaceX is owned by investors who will want to see it make money.",
-    "url": "https://arstechnica.com/space/2026/06/spacex-is-now-a-public-company-valued-for-its-ai-potential-so-what-comes-next/",
     "date": "2026-06-22"
   }
 ]
