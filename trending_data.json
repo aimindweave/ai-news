@@ -10,9 +10,9 @@
   {
     "title": "Apertus \u2013 Open Foundation Model for Sovereign AI",
     "source": "Hacker News",
-    "description": "HN Score: 282 | 102 comments",
+    "description": "HN Score: 439 | 141 comments",
     "url": "https://apertvs.ai/",
-    "score": 282,
+    "score": 439,
     "date": "2026-06-22",
     "category": "AI News"
   },
@@ -25,45 +25,45 @@
     "category": "Twitter"
   },
   {
+    "title": "Munich 1991: The Roots of the Current AI Boom",
+    "source": "Hacker News",
+    "description": "HN Score: 102 | 37 comments",
+    "url": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html",
+    "score": 102,
+    "date": "2026-06-22",
+    "category": "AI News"
+  },
+  {
+    "title": "What\u2019s the best place to rent on demand B200s? Ideally CLI so agents can spin them up",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/EMostaque/status/2069028419757551623#m",
+    "date": "2026-06-22",
+    "category": "Twitter"
+  },
+  {
+    "title": "Britain's prime minister to step down, Burnham puts himself forward as successor",
+    "source": "Hacker News",
+    "description": "HN Score: 29 | 23 comments",
+    "url": "https://www.reuters.com/world/uk-politics-live-starmer-expected-announce-he-will-resign-prime-minister-2026-06-22/",
+    "score": 29,
+    "date": "2026-06-22",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: Incoming heat wave in the UK got me moving like Lee Kuan Yew",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/ordinarytings/status/2068669527039107433#m",
+    "date": "2026-06-22",
+    "category": "Twitter"
+  },
+  {
     "title": "There is minimal downside to switching to open models",
     "source": "Hacker News",
-    "description": "HN Score: 124 | 70 comments",
+    "description": "HN Score: 265 | 223 comments",
     "url": "https://www.marble.onl/posts/cancel_claude.html",
-    "score": 124,
-    "date": "2026-06-22",
-    "category": "AI News"
-  },
-  {
-    "title": "R to @EMostaque: My guess is 18 months fwiw. My forecasts have been reasonably accurate on capabilities previously.",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/EMostaque/status/2068386807532687634#m",
-    "date": "2026-06-22",
-    "category": "Twitter"
-  },
-  {
-    "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
-    "source": "Hacker News",
-    "description": "HN Score: 66 | 10 comments",
-    "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
-    "score": 66,
-    "date": "2026-06-22",
-    "category": "AI News"
-  },
-  {
-    "title": "There will be an open source fable-level model that runs on a base MacBook mini / Air or equivalent. I don\u2019t think people have realised this.",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/EMostaque/status/2068354551413960871#m",
-    "date": "2026-06-22",
-    "category": "Twitter"
-  },
-  {
-    "title": "Identity verification on Claude",
-    "source": "Hacker News",
-    "description": "HN Score: 650 | 554 comments",
-    "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
-    "score": 650,
+    "score": 265,
     "date": "2026-06-22",
     "category": "AI News"
   },
@@ -76,11 +76,28 @@
     "category": "Twitter"
   },
   {
-    "title": "JSON-LD explained for personal websites",
+    "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
     "source": "Hacker News",
-    "description": "HN Score: 187 | 56 comments",
-    "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
-    "score": 187,
+    "description": "HN Score: 156 | 30 comments",
+    "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
+    "score": 156,
+    "date": "2026-06-22",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: Inference Engines for LLMs & Local AI Hardware (2026 Edition)",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/TheAhmadOsman/status/2057183854444843202#m",
+    "date": "2026-06-22",
+    "category": "Twitter"
+  },
+  {
+    "title": "Identity verification on Claude",
+    "source": "Hacker News",
+    "description": "HN Score: 790 | 661 comments",
+    "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
+    "score": 790,
     "date": "2026-06-22",
     "category": "AI News"
   },
@@ -93,28 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Recall \u2013 Local project memory for Claude Code",
+    "title": "JSON-LD explained for personal websites",
     "source": "Hacker News",
-    "description": "HN Score: 91 | 61 comments",
-    "url": "https://github.com/raiyanyahya/recall",
-    "score": 91,
-    "date": "2026-06-22",
-    "category": "AI News"
-  },
-  {
-    "title": "You can now assign Jira tickets directly to Claude Code. Built right into Jira's UI: You can either select 'Claude' from the assignee dropdown or ment",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2067973175380734003#m",
-    "date": "2026-06-22",
-    "category": "Twitter"
-  },
-  {
-    "title": "Danish privacy activist Lars Andersen raided by police",
-    "source": "Hacker News",
-    "description": "HN Score: 6 | 0 comments",
-    "url": "https://xcancel.com/LarsAnders1620/status/2068208864747540516#m",
-    "score": 6,
+    "description": "HN Score: 229 | 70 comments",
+    "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
+    "score": 229,
     "date": "2026-06-22",
     "category": "AI News"
   },
@@ -127,11 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "You're probably using Agent Skills wrong",
+    "title": "LLMs do not merely reflect the bias of their training, they police it",
     "source": "Hacker News",
-    "description": "HN Score: 17 | 3 comments",
-    "url": "https://notes.ansonbiggs.com/youre-probably-using-agent-skills-wrong/",
-    "score": 17,
+    "description": "HN Score: 25 | 7 comments",
+    "url": "https://twitter.com/brianroemmele/status/1991714955339657384",
+    "score": 25,
     "date": "2026-06-22",
     "category": "AI News"
   },
@@ -144,20 +144,20 @@
     "category": "Twitter"
   },
   {
-    "title": "The case against geometric algebra (2024)",
+    "title": "Show HN: Recall \u2013 Local project memory for Claude Code",
     "source": "Hacker News",
-    "description": "HN Score: 121 | 116 comments",
-    "url": "https://alexkritchevsky.com/2024/02/28/geometric-algebra.html",
-    "score": 121,
+    "description": "HN Score: 118 | 73 comments",
+    "url": "https://github.com/raiyanyahya/recall",
+    "score": 118,
     "date": "2026-06-22",
     "category": "AI News"
   },
   {
-    "title": "Japan to raise visa fees for foreign nationals",
+    "title": "You're probably using Agent Skills wrong",
     "source": "Hacker News",
-    "description": "HN Score: 3 | 0 comments",
-    "url": "https://www.japantimes.co.jp/news/2026/06/20/japan/japan-raise-visa-fees/",
-    "score": 3,
+    "description": "HN Score: 36 | 19 comments",
+    "url": "https://notes.ansonbiggs.com/youre-probably-using-agent-skills-wrong/",
+    "score": 36,
     "date": "2026-06-22",
     "category": "AI News"
   }
