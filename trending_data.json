@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "AI's Affordability Crisis",
+    "title": "Anthropic updates their terms to verify age or identity",
     "source": "Hacker News",
-    "description": "HN Score: 102 | 91 comments",
-    "url": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html",
-    "score": 102,
+    "description": "HN Score: 54 | 14 comments",
+    "url": "https://www.anthropic.com/legal/privacy",
+    "score": 54,
     "date": "2026-06-23",
     "category": "AI News"
   },
@@ -25,45 +25,45 @@
     "category": "Twitter"
   },
   {
-    "title": "VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO",
+    "title": "FUTO Swipe \u2013 A new swipe typing model",
     "source": "Hacker News",
-    "description": "HN Score: 311 | 165 comments",
-    "url": "https://arxiv.org/abs/2606.16140",
-    "score": 311,
+    "description": "HN Score: 31 | 5 comments",
+    "url": "https://swipe.futo.tech/",
+    "score": 31,
     "date": "2026-06-23",
     "category": "AI News"
   },
   {
-    "title": "The upcoming @Seedance 2.5 model looking insane as well with multi asset input, way longer outputs etc I would expect @grok imagine to keep pace and r",
+    "title": "I am surprised there isn't a talent agency for ML engineers.",
     "source": "@EMostaque",
     "description": "",
-    "url": "https://nitter.net/EMostaque/status/2069338016452141270#m",
+    "url": "https://nitter.net/EMostaque/status/2069497370228699585#m",
     "date": "2026-06-23",
     "category": "Twitter"
   },
   {
-    "title": "The Low-Tech AI of Elden Ring",
+    "title": "Claude Tag",
     "source": "Hacker News",
-    "description": "HN Score: 20 | 6 comments",
-    "url": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
-    "score": 20,
+    "description": "HN Score: 162 | 83 comments",
+    "url": "https://www.anthropic.com/news/introducing-claude-tag",
+    "score": 162,
     "date": "2026-06-23",
     "category": "AI News"
   },
   {
-    "title": "When I left Stability AI a couple of years ago I predicted we would see almost perfect video from Chinese labs around now But it\u2019s still amazing to se",
+    "title": "RT by @EMostaque: I'm proud that announce that today, GPTZero announced plans to join Superhuman. When we founded GPTZero in 2023, the goal was to pre",
     "source": "@EMostaque",
     "description": "",
-    "url": "https://nitter.net/EMostaque/status/2069335924987600914#m",
+    "url": "https://nitter.net/alexcdot/status/2069435722663186550#m",
     "date": "2026-06-23",
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Neural Particle Automata",
+    "title": "AI Hiring Tools Yield Racial Bias and Systemic Rejection; 26% Black & 15% Asian",
     "source": "Hacker News",
-    "description": "HN Score: 64 | 14 comments",
-    "url": "https://selforg-npa.github.io/",
-    "score": 64,
+    "description": "HN Score: 18 | 5 comments",
+    "url": "https://hai.stanford.edu/news/ai-hiring-tools-can-yield-racial-bias-and-systemic-rejection",
+    "score": 18,
     "date": "2026-06-23",
     "category": "AI News"
   },
@@ -76,45 +76,62 @@
     "category": "Twitter"
   },
   {
+    "title": "The Low-Tech AI of Elden Ring",
+    "source": "Hacker News",
+    "description": "HN Score: 66 | 38 comments",
+    "url": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
+    "score": 66,
+    "date": "2026-06-23",
+    "category": "AI News"
+  },
+  {
+    "title": "Claude Code can parse the whole Internet using Apify actors. And with MCP connectors, you can talk to servers and have your agents perform operations ",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2069494516621730114#m",
+    "date": "2026-06-23",
+    "category": "Twitter"
+  },
+  {
+    "title": "Elevated error rate across multiple models",
+    "source": "Hacker News",
+    "description": "HN Score: 184 | 238 comments",
+    "url": "https://status.claude.com/incidents/jbhf20wjmzrf",
+    "score": 184,
+    "date": "2026-06-23",
+    "category": "AI News"
+  },
+  {
+    "title": "So many tech people think they can ChatGPT their way through life. Since AI is good at writing for loops, it must be good at everything else.",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2069460796678005163#m",
+    "date": "2026-06-23",
+    "category": "Twitter"
+  },
+  {
+    "title": "VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO",
+    "source": "Hacker News",
+    "description": "HN Score: 357 | 185 comments",
+    "url": "https://arxiv.org/abs/2606.16140",
+    "score": 357,
+    "date": "2026-06-23",
+    "category": "AI News"
+  },
+  {
+    "title": "CLOSED SOURCE AI IS PAUSED - MAKE OPEN SOURCE RULE Closed Models Are All Taking A Pause!! Rumors are everything has been delayed for at least 3 weeks.",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2069464494192087130#m",
+    "date": "2026-06-23",
+    "category": "Twitter"
+  },
+  {
     "title": "In praise of memcached",
     "source": "Hacker News",
-    "description": "HN Score: 236 | 99 comments",
+    "description": "HN Score: 251 | 101 comments",
     "url": "https://jchri.st/blog/in-praise-of-memcached/",
-    "score": 236,
-    "date": "2026-06-23",
-    "category": "AI News"
-  },
-  {
-    "title": "I sent this to the entire team I\u2019m currently working with. It\u2019s a very good team, but they are still on a 10-year-old process with project managers th",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2069452348708335975#m",
-    "date": "2026-06-23",
-    "category": "Twitter"
-  },
-  {
-    "title": "Show HN: Shumai \u2013 open-source Frame.io alternative for creative work",
-    "source": "Hacker News",
-    "description": "HN Score: 40 | 2 comments",
-    "url": "https://github.com/shumaiOne/shumai",
-    "score": 40,
-    "date": "2026-06-23",
-    "category": "AI News"
-  },
-  {
-    "title": "We don't need another dashboard. Nobody has time to check a dashboard to see if their agents are working. A dashboard is more work. It's one more thin",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2069437877168320522#m",
-    "date": "2026-06-23",
-    "category": "Twitter"
-  },
-  {
-    "title": "OpenAI DayBreak \u2013 GPT-5.5-Cyber",
-    "source": "Hacker News",
-    "description": "HN Score: 182 | 137 comments",
-    "url": "https://openai.com/index/daybreak-securing-the-world/",
-    "score": 182,
+    "score": 251,
     "date": "2026-06-23",
     "category": "AI News"
   },
@@ -127,37 +144,20 @@
     "category": "Twitter"
   },
   {
-    "title": "Elevated error rate across multiple models",
+    "title": "Show HN: Neural Particle Automata",
     "source": "Hacker News",
-    "description": "HN Score: 164 | 189 comments",
-    "url": "https://status.claude.com/incidents/jbhf20wjmzrf",
-    "score": 164,
+    "description": "HN Score: 74 | 19 comments",
+    "url": "https://selforg-npa.github.io/",
+    "score": 74,
     "date": "2026-06-23",
     "category": "AI News"
   },
   {
-    "title": "Fable won\u2019t matter after GPT 5.6 launch 5.6 is cheaper, faster and far more pragmatic Anthropic models guzzle way too many tokens \u201cthinking\u201d",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2069219248648650863#m",
-    "date": "2026-06-23",
-    "category": "Twitter"
-  },
-  {
-    "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
+    "title": "Show HN: Shumai \u2013 open-source Frame.io alternative for creative work",
     "source": "Hacker News",
-    "description": "HN Score: 308 | 79 comments",
-    "url": "https://hustvl.github.io/Moebius/",
-    "score": 308,
-    "date": "2026-06-23",
-    "category": "AI News"
-  },
-  {
-    "title": "The new HTTP QUERY method explained",
-    "source": "Hacker News",
-    "description": "HN Score: 198 | 142 comments",
-    "url": "https://kreya.app/blog/new-http-query-method-explained/",
-    "score": 198,
+    "description": "HN Score: 51 | 4 comments",
+    "url": "https://github.com/shumaiOne/shumai",
+    "score": 51,
     "date": "2026-06-23",
     "category": "AI News"
   }
