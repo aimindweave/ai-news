@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Europeans should learn to love the air-conditioner \u2026 green electricity",
+    "title": "RubyLLM: A Ruby framework for all major AI providers",
     "source": "Hacker News",
-    "description": "HN Score: 4 | 1 comments",
-    "url": "https://www.economist.com/europe/2026/06/18/europeans-should-learn-to-love-the-air-conditioner",
-    "score": 4,
+    "description": "HN Score: 134 | 18 comments",
+    "url": "https://rubyllm.com/",
+    "score": 134,
     "date": "2026-06-24",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Minimus container images are now free",
+    "title": "Krea 2: SOTA open-weights 12B image model",
     "source": "Hacker News",
-    "description": "HN Score: 7 | 1 comments",
-    "url": "https://images.minimus.io/",
-    "score": 7,
+    "description": "HN Score: 145 | 14 comments",
+    "url": "https://www.krea.ai/blog/krea-2-technical-report",
+    "score": 145,
     "date": "2026-06-24",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "FUTO Swipe \u2013 A new swipe typing model",
+    "title": "Haystack: Open-Source AI Framework for Production Ready Agents, RAG",
     "source": "Hacker News",
-    "description": "HN Score: 583 | 211 comments",
-    "url": "https://swipe.futo.tech/",
-    "score": 583,
+    "description": "HN Score: 54 | 17 comments",
+    "url": "https://haystack.deepset.ai/",
+    "score": 54,
     "date": "2026-06-24",
     "category": "AI News"
   },
@@ -59,89 +59,81 @@
     "category": "Twitter"
   },
   {
-    "title": "Why eval startups fail (2025)",
+    "title": "Boffin claims Microsoft's 'quantum leap' is invalid due to 'basic Python errors'",
     "source": "Hacker News",
-    "description": "HN Score: 38 | 34 comments",
-    "url": "https://thomasliao.com/eval-startups",
-    "score": 38,
+    "description": "HN Score: 33 | 22 comments",
+    "url": "https://www.theregister.com/research/2026/06/24/boffin-claims-microsofts-supposed-quantum-leap-does-not-compute-due-to-basic-python-errors/5260489",
+    "score": 33,
     "date": "2026-06-24",
     "category": "AI News"
   },
   {
-    "title": "Today, we enable AutoResearch in the physical world for the first time! Introducing ENPIRE: we give 8 Codex agents a fleet of robots, an allocation of",
+    "title": "I made Physical AutoResearch sound simple (conceptually), but it took a village to pull off and lots of design thinking into the robot /loopcraft. The",
     "source": "@DrJimFan",
     "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2066921736369766762#m",
+    "url": "https://nitter.net/DrJimFan/status/2067283904986517866#m",
+    "date": "2026-06-24",
+    "category": "Twitter"
+  },
+  {
+    "title": "PR spam today looks like email spam in the early 2000s",
+    "source": "Hacker News",
+    "description": "HN Score: 6 | 0 comments",
+    "url": "https://www.greptile.com/blog/prs-on-openclaw",
+    "score": 6,
+    "date": "2026-06-24",
+    "category": "AI News"
+  },
+  {
+    "title": "The iOS app here is pretty cool. For example, you can take a photo of a school calendar, and SuperNori will add all relevant dates to your family cale",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2069797323614695520#m",
+    "date": "2026-06-24",
+    "category": "Twitter"
+  },
+  {
+    "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+    "source": "Hacker News",
+    "description": "HN Score: 80 | 27 comments",
+    "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip/",
+    "score": 80,
+    "date": "2026-06-24",
+    "category": "AI News"
+  },
+  {
+    "title": "R to @svpino: There are a ton more examples on the @Akamai Developer Hub. They have a ton of free resources for developers: code samples, tutorials, a",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2069791429069857055#m",
     "date": "2026-06-24",
     "category": "Twitter"
   },
   {
     "title": "Qwen-AgentWorld: Language World Models for General Agents",
     "source": "Hacker News",
-    "description": "HN Score: 135 | 42 comments",
+    "description": "HN Score: 174 | 47 comments",
     "url": "https://arxiv.org/abs/2606.24597",
-    "score": 135,
+    "score": 174,
     "date": "2026-06-24",
     "category": "AI News"
   },
   {
-    "title": "R to @DrJimFan: Project site: https://research.nvidia.com/labs/gear/enpire/ Wenli has written an excellent technical thread, please check it out!",
-    "source": "@DrJimFan",
-    "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2066921739087729043#m",
-    "date": "2026-06-24",
-    "category": "Twitter"
-  },
-  {
-    "title": "The Low-Tech AI of Elden Ring",
-    "source": "Hacker News",
-    "description": "HN Score: 154 | 89 comments",
-    "url": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
-    "score": 154,
-    "date": "2026-06-24",
-    "category": "AI News"
-  },
-  {
-    "title": "Are we honestly calling a Slack bot \u201ca new paradigm\u201d? Have we lost all decency?",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2069745560538452459#m",
-    "date": "2026-06-24",
-    "category": "Twitter"
-  },
-  {
-    "title": "How to burst the AI bubble: Strike at its roots",
-    "source": "Hacker News",
-    "description": "HN Score: 44 | 32 comments",
-    "url": "https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/",
-    "score": 44,
-    "date": "2026-06-24",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: Claude Code can parse the whole Internet using Apify actors. And with MCP connectors, you can talk to servers and have your agents perf",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2069494516621730114#m",
-    "date": "2026-06-24",
-    "category": "Twitter"
-  },
-  {
-    "title": "DiffusionBench: Towards Holistic Evaluation of Generative Diffusion Transformers",
-    "source": "Hacker News",
-    "description": "HN Score: 38 | 1 comments",
-    "url": "https://github.com/End2End-Diffusion/diffusion-bench",
-    "score": 38,
-    "date": "2026-06-24",
-    "category": "AI News"
-  },
-  {
-    "title": "Stock futures are tumbling as they grapple with the consequences of a closed source ban The US is in a perilous position with no open source play A si",
+    "title": "Super excited for our recursive self-improving agents launch\u2026 No, they won\u2019t be using Anthropic\u2019s expensive token-guzzling models It will be superior ",
     "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/bindureddy/status/2069754691500802109#m",
+    "url": "https://nitter.net/bindureddy/status/2069781585868808679#m",
     "date": "2026-06-24",
     "category": "Twitter"
+  },
+  {
+    "title": "Minimus container images are now free",
+    "source": "Hacker News",
+    "description": "HN Score: 96 | 58 comments",
+    "url": "https://images.minimus.io/",
+    "score": 96,
+    "date": "2026-06-24",
+    "category": "AI News"
   },
   {
     "title": "Software engineering is devolving rapidly 90% of the folks are simply talking to an AI model all day Soon the talking won\u2019t be necessary - the AI will",
@@ -150,5 +142,23 @@
     "url": "https://nitter.net/bindureddy/status/2069747406959481334#m",
     "date": "2026-06-24",
     "category": "Twitter"
+  },
+  {
+    "title": "FUTO Swipe \u2013 A new swipe typing model",
+    "source": "Hacker News",
+    "description": "HN Score: 650 | 229 comments",
+    "url": "https://swipe.futo.tech/",
+    "score": 650,
+    "date": "2026-06-24",
+    "category": "AI News"
+  },
+  {
+    "title": "Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck'",
+    "source": "Hacker News",
+    "description": "HN Score: 195 | 222 comments",
+    "url": "https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/",
+    "score": 195,
+    "date": "2026-06-24",
+    "category": "AI News"
   }
 ]
