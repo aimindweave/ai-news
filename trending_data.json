@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Why eval startups fail (2025)",
+    "title": "Europeans should learn to love the air-conditioner \u2026 green electricity",
     "source": "Hacker News",
-    "description": "HN Score: 19 | 14 comments",
-    "url": "https://thomasliao.com/eval-startups",
-    "score": 19,
+    "description": "HN Score: 4 | 1 comments",
+    "url": "https://www.economist.com/europe/2026/06/18/europeans-should-learn-to-love-the-air-conditioner",
+    "score": 4,
     "date": "2026-06-24",
     "category": "AI News"
   },
@@ -25,11 +25,28 @@
     "category": "Twitter"
   },
   {
+    "title": "Minimus container images are now free",
+    "source": "Hacker News",
+    "description": "HN Score: 7 | 1 comments",
+    "url": "https://images.minimus.io/",
+    "score": 7,
+    "date": "2026-06-24",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: today, we release the open weights of Krea 2. welcome Krea 2 Raw and Krea 2 Turbo, an undistilled model from mid-training meant to b",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/krea_ai/status/2069435590995812396#m",
+    "date": "2026-06-24",
+    "category": "Twitter"
+  },
+  {
     "title": "FUTO Swipe \u2013 A new swipe typing model",
     "source": "Hacker News",
-    "description": "HN Score: 537 | 169 comments",
+    "description": "HN Score: 583 | 211 comments",
     "url": "https://swipe.futo.tech/",
-    "score": 537,
+    "score": 583,
     "date": "2026-06-24",
     "category": "AI News"
   },
@@ -42,45 +59,62 @@
     "category": "Twitter"
   },
   {
-    "title": "Qwen-AgentWorld: Language World Models for General Agents",
+    "title": "Why eval startups fail (2025)",
     "source": "Hacker News",
-    "description": "HN Score: 103 | 28 comments",
-    "url": "https://arxiv.org/abs/2606.24597",
-    "score": 103,
+    "description": "HN Score: 38 | 34 comments",
+    "url": "https://thomasliao.com/eval-startups",
+    "score": 38,
     "date": "2026-06-24",
     "category": "AI News"
   },
   {
-    "title": "I am surprised there isn't a talent agency for ML engineers.",
-    "source": "@EMostaque",
+    "title": "Today, we enable AutoResearch in the physical world for the first time! Introducing ENPIRE: we give 8 Codex agents a fleet of robots, an allocation of",
+    "source": "@DrJimFan",
     "description": "",
-    "url": "https://nitter.net/EMostaque/status/2069497370228699585#m",
+    "url": "https://nitter.net/DrJimFan/status/2066921736369766762#m",
+    "date": "2026-06-24",
+    "category": "Twitter"
+  },
+  {
+    "title": "Qwen-AgentWorld: Language World Models for General Agents",
+    "source": "Hacker News",
+    "description": "HN Score: 135 | 42 comments",
+    "url": "https://arxiv.org/abs/2606.24597",
+    "score": 135,
+    "date": "2026-06-24",
+    "category": "AI News"
+  },
+  {
+    "title": "R to @DrJimFan: Project site: https://research.nvidia.com/labs/gear/enpire/ Wenli has written an excellent technical thread, please check it out!",
+    "source": "@DrJimFan",
+    "description": "",
+    "url": "https://nitter.net/DrJimFan/status/2066921739087729043#m",
     "date": "2026-06-24",
     "category": "Twitter"
   },
   {
     "title": "The Low-Tech AI of Elden Ring",
     "source": "Hacker News",
-    "description": "HN Score: 148 | 86 comments",
+    "description": "HN Score: 154 | 89 comments",
     "url": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
-    "score": 148,
+    "score": 154,
     "date": "2026-06-24",
     "category": "AI News"
   },
   {
-    "title": "I made Physical AutoResearch sound simple (conceptually), but it took a village to pull off and lots of design thinking into the robot /loopcraft. The",
-    "source": "@DrJimFan",
+    "title": "Are we honestly calling a Slack bot \u201ca new paradigm\u201d? Have we lost all decency?",
+    "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2067283904986517866#m",
+    "url": "https://nitter.net/svpino/status/2069745560538452459#m",
     "date": "2026-06-24",
     "category": "Twitter"
   },
   {
-    "title": "DiffusionBench: Towards Holistic Evaluation of Generative Diffusion Transformers",
+    "title": "How to burst the AI bubble: Strike at its roots",
     "source": "Hacker News",
-    "description": "HN Score: 34 | 1 comments",
-    "url": "https://github.com/End2End-Diffusion/diffusion-bench",
-    "score": 34,
+    "description": "HN Score: 44 | 32 comments",
+    "url": "https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/",
+    "score": 44,
     "date": "2026-06-24",
     "category": "AI News"
   },
@@ -93,63 +127,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: RLM-based local debugger for AI agent traces",
+    "title": "DiffusionBench: Towards Holistic Evaluation of Generative Diffusion Transformers",
     "source": "Hacker News",
-    "description": "HN Score: 19 | 7 comments",
-    "url": "https://github.com/context-labs/halo",
-    "score": 19,
+    "description": "HN Score: 38 | 1 comments",
+    "url": "https://github.com/End2End-Diffusion/diffusion-bench",
+    "score": 38,
     "date": "2026-06-24",
     "category": "AI News"
   },
   {
-    "title": "RT by @svpino: I sent this to the entire team I\u2019m currently working with. It\u2019s a very good team, but they are still on a 10-year-old process with proj",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2069452348708335975#m",
-    "date": "2026-06-24",
-    "category": "Twitter"
-  },
-  {
-    "title": "AI's Affordability Crisis",
-    "source": "Hacker News",
-    "description": "HN Score: 287 | 379 comments",
-    "url": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html",
-    "score": 287,
-    "date": "2026-06-24",
-    "category": "AI News"
-  },
-  {
-    "title": "Several sightings of GPT 5.6 in the code today So it may still drop on Thursday. It will be a huge mood booster \ud83d\ude80",
+    "title": "Stock futures are tumbling as they grapple with the consequences of a closed source ban The US is in a perilous position with no open source play A si",
     "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/bindureddy/status/2069598464728842631#m",
+    "url": "https://nitter.net/bindureddy/status/2069754691500802109#m",
     "date": "2026-06-24",
     "category": "Twitter"
   },
   {
-    "title": "Apple is going to raise device prices, but when?",
-    "source": "Hacker News",
-    "description": "HN Score: 105 | 82 comments",
-    "url": "https://daringfireball.net/linked/2026/06/22/apple-device-prices-when",
-    "score": 105,
-    "date": "2026-06-24",
-    "category": "AI News"
-  },
-  {
-    "title": "CLOSED SOURCE AI IS PAUSED - MAKE OPEN SOURCE RULE Closed Models Are All Taking A Pause!! Rumors are everything has been delayed for at least 3 weeks.",
+    "title": "Software engineering is devolving rapidly 90% of the folks are simply talking to an AI model all day Soon the talking won\u2019t be necessary - the AI will",
     "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/bindureddy/status/2069464494192087130#m",
+    "url": "https://nitter.net/bindureddy/status/2069747406959481334#m",
     "date": "2026-06-24",
     "category": "Twitter"
-  },
-  {
-    "title": "Don't verify email addresses by sending spam to them",
-    "source": "Hacker News",
-    "description": "HN Score: 175 | 52 comments",
-    "url": "https://milek7.pl/mailverifyspam/",
-    "score": 175,
-    "date": "2026-06-24",
-    "category": "AI News"
   }
 ]
