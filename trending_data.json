@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "RubyLLM: A Ruby framework for all major AI providers",
+    "title": "OpenAI unveils its first custom chip, built by Broadcom",
     "source": "Hacker News",
-    "description": "HN Score: 134 | 18 comments",
-    "url": "https://rubyllm.com/",
-    "score": 134,
+    "description": "HN Score: 221 | 170 comments",
+    "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+    "score": 221,
     "date": "2026-06-24",
     "category": "AI News"
   },
@@ -25,11 +25,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Krea 2: SOTA open-weights 12B image model",
+    "title": "Thomann takes legal action against Fender",
     "source": "Hacker News",
-    "description": "HN Score: 145 | 14 comments",
-    "url": "https://www.krea.ai/blog/krea-2-technical-report",
-    "score": 145,
+    "description": "HN Score: 53 | 8 comments",
+    "url": "https://www.thomann.de/blog/en/inside/thomann-takes-legal-action-against-fender/",
+    "score": 53,
+    "date": "2026-06-24",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: Introducing AI IQ Bio: the most comprehensive set of biotech benchmarks in the world ...& Bio IQ: the most comprehensive 'biotech ca",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/ryaneshea/status/2069806849147175146#m",
+    "date": "2026-06-24",
+    "category": "Twitter"
+  },
+  {
+    "title": "RubyLLM: A Ruby framework for all major AI providers",
+    "source": "Hacker News",
+    "description": "HN Score: 265 | 40 comments",
+    "url": "https://rubyllm.com/",
+    "score": 265,
     "date": "2026-06-24",
     "category": "AI News"
   },
@@ -42,28 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Haystack: Open-Source AI Framework for Production Ready Agents, RAG",
+    "title": "PR spam today looks like email spam in the early 2000s",
     "source": "Hacker News",
-    "description": "HN Score: 54 | 17 comments",
-    "url": "https://haystack.deepset.ai/",
-    "score": 54,
-    "date": "2026-06-24",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @EMostaque: NEW RESEARCH ALERT! Led by my postdoc Dr. Anto Lonappan, we used the exquisite ACT DR6 CMB lensing data to search for evidence of co",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/Briankeating/status/2069525937591648331#m",
-    "date": "2026-06-24",
-    "category": "Twitter"
-  },
-  {
-    "title": "Boffin claims Microsoft's 'quantum leap' is invalid due to 'basic Python errors'",
-    "source": "Hacker News",
-    "description": "HN Score: 33 | 22 comments",
-    "url": "https://www.theregister.com/research/2026/06/24/boffin-claims-microsofts-supposed-quantum-leap-does-not-compute-due-to-basic-python-errors/5260489",
-    "score": 33,
+    "description": "HN Score: 96 | 63 comments",
+    "url": "https://www.greptile.com/blog/prs-on-openclaw",
+    "score": 96,
     "date": "2026-06-24",
     "category": "AI News"
   },
@@ -76,45 +76,62 @@
     "category": "Twitter"
   },
   {
-    "title": "PR spam today looks like email spam in the early 2000s",
+    "title": "Krea 2: SOTA open-weights 12B image model",
     "source": "Hacker News",
-    "description": "HN Score: 6 | 0 comments",
-    "url": "https://www.greptile.com/blog/prs-on-openclaw",
-    "score": 6,
+    "description": "HN Score: 247 | 33 comments",
+    "url": "https://www.krea.ai/blog/krea-2-technical-report",
+    "score": 247,
     "date": "2026-06-24",
     "category": "AI News"
   },
   {
-    "title": "The iOS app here is pretty cool. For example, you can take a photo of a school calendar, and SuperNori will add all relevant dates to your family cale",
+    "title": "Welcome to the 3rd Reich of Slop.",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2069797323614695520#m",
+    "url": "https://nitter.net/svpino/status/2069848248202715205#m",
     "date": "2026-06-24",
     "category": "Twitter"
   },
   {
-    "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+    "title": "Big AI labs are hiring philosophers",
     "source": "Hacker News",
-    "description": "HN Score: 80 | 27 comments",
-    "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip/",
-    "score": 80,
+    "description": "HN Score: 23 | 12 comments",
+    "url": "https://www.economist.com/science-and-technology/2026/06/24/why-big-ai-labs-are-hiring-so-many-philosophers",
+    "score": 23,
     "date": "2026-06-24",
     "category": "AI News"
   },
   {
-    "title": "R to @svpino: There are a ton more examples on the @Akamai Developer Hub. They have a ton of free resources for developers: code samples, tutorials, a",
+    "title": "The architecture of this new world model is one of the most interesting things I've seen lately: Let me first explain how most world models work: They",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2069791429069857055#m",
+    "url": "https://nitter.net/svpino/status/2069846836270211514#m",
     "date": "2026-06-24",
     "category": "Twitter"
   },
   {
-    "title": "Qwen-AgentWorld: Language World Models for General Agents",
+    "title": "Why eval startups fail (2025)",
     "source": "Hacker News",
-    "description": "HN Score: 174 | 47 comments",
-    "url": "https://arxiv.org/abs/2606.24597",
-    "score": 174,
+    "description": "HN Score: 77 | 50 comments",
+    "url": "https://thomasliao.com/eval-startups",
+    "score": 77,
+    "date": "2026-06-24",
+    "category": "AI News"
+  },
+  {
+    "title": "Claude Fable 5 is now coming back GPT 5.6 will also likely launch tomorrow Seems like we are back on track! \ud83d\ude80",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2069831547054911739#m",
+    "date": "2026-06-24",
+    "category": "Twitter"
+  },
+  {
+    "title": "Show HN: peerd \u2013 AI agent harness that runs entirely in your browser",
+    "source": "Hacker News",
+    "description": "HN Score: 38 | 16 comments",
+    "url": "https://github.com/NotASithLord/peerd",
+    "score": 38,
     "date": "2026-06-24",
     "category": "AI News"
   },
@@ -127,37 +144,20 @@
     "category": "Twitter"
   },
   {
-    "title": "Minimus container images are now free",
+    "title": "For Most of the World, Open-Source AI Is the Only Way Forward",
     "source": "Hacker News",
-    "description": "HN Score: 96 | 58 comments",
-    "url": "https://images.minimus.io/",
-    "score": 96,
+    "description": "HN Score: 150 | 98 comments",
+    "url": "https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/",
+    "score": 150,
     "date": "2026-06-24",
     "category": "AI News"
   },
   {
-    "title": "Software engineering is devolving rapidly 90% of the folks are simply talking to an AI model all day Soon the talking won\u2019t be necessary - the AI will",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2069747406959481334#m",
-    "date": "2026-06-24",
-    "category": "Twitter"
-  },
-  {
-    "title": "FUTO Swipe \u2013 A new swipe typing model",
+    "title": "Boffin claims Microsoft\u2019s \u201cquantum leap\u201d is invalid due to \u201cbasic Python errors\u201d",
     "source": "Hacker News",
-    "description": "HN Score: 650 | 229 comments",
-    "url": "https://swipe.futo.tech/",
-    "score": 650,
-    "date": "2026-06-24",
-    "category": "AI News"
-  },
-  {
-    "title": "Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck'",
-    "source": "Hacker News",
-    "description": "HN Score: 195 | 222 comments",
-    "url": "https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/",
-    "score": 195,
+    "description": "HN Score: 122 | 45 comments",
+    "url": "https://www.theregister.com/research/2026/06/24/boffin-claims-microsofts-supposed-quantum-leap-does-not-compute-due-to-basic-python-errors/5260489",
+    "score": 122,
     "date": "2026-06-24",
     "category": "AI News"
   }
