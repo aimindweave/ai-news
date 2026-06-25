@@ -10,9 +10,9 @@
   {
     "title": "Show HN: OpenKnowledge \u2013 open source AI-first alternative to Obsidian/Notion",
     "source": "Hacker News",
-    "description": "HN Score: 44 | 14 comments",
+    "description": "HN Score: 160 | 77 comments",
     "url": "https://github.com/inkeep/open-knowledge",
-    "score": 44,
+    "score": 160,
     "date": "2026-06-25",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "Apple raises prices of MacBooks, iPads",
     "source": "Hacker News",
-    "description": "HN Score: 445 | 657 comments",
+    "description": "HN Score: 583 | 835 comments",
     "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
-    "score": 445,
+    "score": 583,
     "date": "2026-06-25",
     "category": "AI News"
   },
@@ -38,6 +38,23 @@
     "source": "@EMostaque",
     "description": "",
     "url": "https://nitter.net/azeem/status/2070113886884552755#m",
+    "date": "2026-06-25",
+    "category": "Twitter"
+  },
+  {
+    "title": "The annotated PyTorch training loop",
+    "source": "Hacker News",
+    "description": "HN Score: 49 | 9 comments",
+    "url": "https://idlemachines.co.uk/essays/pytorch-training-loop",
+    "score": 49,
+    "date": "2026-06-25",
+    "category": "AI News"
+  },
+  {
+    "title": "What is the difference between distilling Mythos & paying experts somewhere like @mercor_ai to generate training samples? Who are the Chinese equivale",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/EMostaque/status/2070146203937808600#m",
     "date": "2026-06-25",
     "category": "Twitter"
   },
@@ -51,23 +68,6 @@
     "category": "AI News"
   },
   {
-    "title": "What is the difference between distilling Mythos & paying experts somewhere like @mercor_ai to generate training samples? Who are the Chinese equivale",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/EMostaque/status/2070146203937808600#m",
-    "date": "2026-06-25",
-    "category": "Twitter"
-  },
-  {
-    "title": "The annotated PyTorch training loop",
-    "source": "Hacker News",
-    "description": "HN Score: 21 | 2 comments",
-    "url": "https://idlemachines.co.uk/essays/pytorch-training-loop",
-    "score": 21,
-    "date": "2026-06-25",
-    "category": "AI News"
-  },
-  {
     "title": "I made Physical AutoResearch sound simple (conceptually), but it took a village to pull off and lots of design thinking into the robot /loopcraft. The",
     "source": "@DrJimFan",
     "description": "",
@@ -76,11 +76,28 @@
     "category": "Twitter"
   },
   {
+    "title": "OpenAI Leans Toward Waiting Until Next Year for IPO",
+    "source": "Hacker News",
+    "description": "HN Score: 74 | 45 comments",
+    "url": "https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html",
+    "score": 74,
+    "date": "2026-06-25",
+    "category": "AI News"
+  },
+  {
+    "title": "I have a friend who works in sales. He always jokes that 10% of his job is playing golf with clients, while the other 90% is building slide decks. Sal",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2070253197927801216#m",
+    "date": "2026-06-25",
+    "category": "Twitter"
+  },
+  {
     "title": "Advanced Nintendo Entertainment System (ANES) \u2013 NES Modded to Use 2 PPUs",
     "source": "Hacker News",
-    "description": "HN Score: 55 | 19 comments",
+    "description": "HN Score: 90 | 30 comments",
     "url": "https://github.com/decrazyo/anes",
-    "score": 55,
+    "score": 90,
     "date": "2026-06-25",
     "category": "AI News"
   },
@@ -95,43 +112,26 @@
   {
     "title": "Political bias in AI: Where the AI models stand",
     "source": "Hacker News",
-    "description": "HN Score: 64 | 134 comments",
+    "description": "HN Score: 100 | 198 comments",
     "url": "https://trakkr.ai/bias",
-    "score": 64,
+    "score": 100,
     "date": "2026-06-25",
     "category": "AI News"
   },
   {
-    "title": "This agent relies on a marketplace of 2.8M+ specialized agents to complete a task. This is how I imagine the future of personal agents. Here is how th",
-    "source": "@svpino",
+    "title": "Ok, now I am hearing that we may yet have a frontier model launch very soon GPT 5.6 is delayed and will show up on July 15th\u2026. But, there are others\u2026 ",
+    "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2070163927959523831#m",
+    "url": "https://nitter.net/bindureddy/status/2070270748749668416#m",
     "date": "2026-06-25",
     "category": "Twitter"
   },
   {
     "title": "The unbearable cheapness of open weight models",
     "source": "Hacker News",
-    "description": "HN Score: 123 | 114 comments",
+    "description": "HN Score: 137 | 130 comments",
     "url": "https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models/",
-    "score": 123,
-    "date": "2026-06-25",
-    "category": "AI News"
-  },
-  {
-    "title": "Back to frontier models being delayed again.... It doesn't seem like anything will happen till mid-July",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2070225614104359068#m",
-    "date": "2026-06-25",
-    "category": "Twitter"
-  },
-  {
-    "title": "Show HN: Persona.js \u2013 a vanilla-JS agent UI library with native WebMCP (MIT)",
-    "source": "Hacker News",
-    "description": "HN Score: 18 | 16 comments",
-    "url": "https://github.com/runtypelabs/persona",
-    "score": 18,
+    "score": 137,
     "date": "2026-06-25",
     "category": "AI News"
   },
@@ -144,20 +144,20 @@
     "category": "Twitter"
   },
   {
-    "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+    "title": "Jailbreaking Isn't Theft",
     "source": "Hacker News",
-    "description": "HN Score: 732 | 1178 comments",
-    "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
-    "score": 732,
+    "description": "HN Score: 6 | 0 comments",
+    "url": "https://pluralistic.net/2026/06/25/thieve-different/",
+    "score": 6,
     "date": "2026-06-25",
     "category": "AI News"
   },
   {
-    "title": "Ford AI hiccups push carmaker to rehire \u2018gray beard\u2019 inspectors",
+    "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
     "source": "Hacker News",
-    "description": "HN Score: 540 | 285 comments",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short",
-    "score": 540,
+    "description": "HN Score: 741 | 1199 comments",
+    "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+    "score": 741,
     "date": "2026-06-25",
     "category": "AI News"
   }
