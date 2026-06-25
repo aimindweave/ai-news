@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Ford rehires 350 engineers after AI fails to preserve expertise or train juniors",
+    "title": "Show HN: OpenKnowledge \u2013 open source AI-first alternative to Obsidian/Notion",
     "source": "Hacker News",
-    "description": "HN Score: 311 | 150 comments",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short",
-    "score": 311,
+    "description": "HN Score: 44 | 14 comments",
+    "url": "https://github.com/inkeep/open-knowledge",
+    "score": 44,
     "date": "2026-06-25",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+    "title": "Apple raises prices of MacBooks, iPads",
     "source": "Hacker News",
-    "description": "HN Score: 667 | 1092 comments",
-    "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
-    "score": 667,
+    "description": "HN Score: 445 | 657 comments",
+    "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
+    "score": 445,
     "date": "2026-06-25",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Wikipedia Workers in Britain set global first by seeking union recognition",
+    "title": "Besimple AI (YC P25) Is Hiring",
     "source": "Hacker News",
-    "description": "HN Score: 187 | 172 comments",
-    "url": "https://utaw.tech/news/wikipedia-recognition",
-    "score": 187,
+    "description": "HN Score: 1 | 0 comments",
+    "url": "https://www.ycombinator.com/companies/besimple-ai/jobs/yWfhhOR-strategic-projects-lead-audio-data",
+    "score": 1,
     "date": "2026-06-25",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "OpenAI unveils its first custom chip, built by Broadcom",
+    "title": "The annotated PyTorch training loop",
     "source": "Hacker News",
-    "description": "HN Score: 780 | 447 comments",
-    "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-    "score": 780,
+    "description": "HN Score: 21 | 2 comments",
+    "url": "https://idlemachines.co.uk/essays/pytorch-training-loop",
+    "score": 21,
     "date": "2026-06-25",
     "category": "AI News"
   },
@@ -76,11 +76,28 @@
     "category": "Twitter"
   },
   {
-    "title": "GLM-5.2 is a step change for open agents",
+    "title": "Advanced Nintendo Entertainment System (ANES) \u2013 NES Modded to Use 2 PPUs",
     "source": "Hacker News",
-    "description": "HN Score: 334 | 191 comments",
-    "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
-    "score": 334,
+    "description": "HN Score: 55 | 19 comments",
+    "url": "https://github.com/decrazyo/anes",
+    "score": 55,
+    "date": "2026-06-25",
+    "category": "AI News"
+  },
+  {
+    "title": "How to build an agent that gets better over time: There are 3 areas an agent can learn from: 1. The model: Only works for code and math, where a compu",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2070210421995569537#m",
+    "date": "2026-06-25",
+    "category": "Twitter"
+  },
+  {
+    "title": "Political bias in AI: Where the AI models stand",
+    "source": "Hacker News",
+    "description": "HN Score: 64 | 134 comments",
+    "url": "https://trakkr.ai/bias",
+    "score": 64,
     "date": "2026-06-25",
     "category": "AI News"
   },
@@ -93,28 +110,28 @@
     "category": "Twitter"
   },
   {
-    "title": "RubyLLM: A Ruby framework for all major AI providers",
+    "title": "The unbearable cheapness of open weight models",
     "source": "Hacker News",
-    "description": "HN Score: 433 | 75 comments",
-    "url": "https://rubyllm.com/",
-    "score": 433,
+    "description": "HN Score: 123 | 114 comments",
+    "url": "https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models/",
+    "score": 123,
     "date": "2026-06-25",
     "category": "AI News"
   },
   {
-    "title": "I have a Mac Studio at home that I never turn off, but when I'm traveling, I can't have a local agent running with my laptop closed. I'm glad we are g",
-    "source": "@svpino",
+    "title": "Back to frontier models being delayed again.... It doesn't seem like anything will happen till mid-July",
+    "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2070155972560199712#m",
+    "url": "https://nitter.net/bindureddy/status/2070225614104359068#m",
     "date": "2026-06-25",
     "category": "Twitter"
   },
   {
-    "title": "PR spam today looks like email spam in the early 2000s",
+    "title": "Show HN: Persona.js \u2013 a vanilla-JS agent UI library with native WebMCP (MIT)",
     "source": "Hacker News",
-    "description": "HN Score: 249 | 147 comments",
-    "url": "https://www.greptile.com/blog/prs-on-openclaw",
-    "score": 249,
+    "description": "HN Score: 18 | 16 comments",
+    "url": "https://github.com/runtypelabs/persona",
+    "score": 18,
     "date": "2026-06-25",
     "category": "AI News"
   },
@@ -127,37 +144,20 @@
     "category": "Twitter"
   },
   {
-    "title": "Markdy: Like Mermaid Diagrams, but for Motion",
+    "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
     "source": "Hacker News",
-    "description": "HN Score: 102 | 61 comments",
-    "url": "https://markdy.com",
-    "score": 102,
+    "description": "HN Score: 732 | 1178 comments",
+    "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+    "score": 732,
     "date": "2026-06-25",
     "category": "AI News"
   },
   {
-    "title": "Super excited for our recursive self-improving agents launch\u2026 No, they won\u2019t be using Anthropic\u2019s expensive token-guzzling models It will be superior ",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2069781585868808679#m",
-    "date": "2026-06-25",
-    "category": "Twitter"
-  },
-  {
-    "title": "Krea 2: SOTA open-weights 12B image model",
+    "title": "Ford AI hiccups push carmaker to rehire \u2018gray beard\u2019 inspectors",
     "source": "Hacker News",
-    "description": "HN Score: 406 | 44 comments",
-    "url": "https://www.krea.ai/blog/krea-2-technical-report",
-    "score": 406,
-    "date": "2026-06-25",
-    "category": "AI News"
-  },
-  {
-    "title": "Tell HN: OpenAI has started putting ads on paid programs",
-    "source": "Hacker News",
-    "description": "HN Score: 80 | 36 comments",
-    "url": "https://news.ycombinator.com/item?id=48673194",
-    "score": 80,
+    "description": "HN Score: 540 | 285 comments",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short",
+    "score": 540,
     "date": "2026-06-25",
     "category": "AI News"
   }

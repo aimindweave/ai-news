@@ -1,9 +1,23 @@
 [
   {
-    "title": "General Intuition raises $2.3B on bet that video games can train AI agents for the real world",
+    "title": "Anthropic\u2019s Claude is winning over paid consumers, a market owned by ChatGPT",
+    "source": "TechCrunch",
+    "summary": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.",
+    "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+    "date": "2026-06-25"
+  },
+  {
+    "title": "General Intuition\u2019s $2.3B bet that video games can train AI agents for the real world",
     "source": "TechCrunch",
     "summary": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition.",
-    "url": "https://techcrunch.com/2026/06/25/from-fortnite-to-robots-general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+    "url": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+    "date": "2026-06-25"
+  },
+  {
+    "title": "Databricks\u2019 former AI chief thinks he can cut AI\u2019s power bill by 1,000x",
+    "source": "TechCrunch",
+    "summary": "Un-0 is an image-generation system tool that shows for the first time how the company's technology can replicate conventional AI systems.",
+    "url": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
     "date": "2026-06-25"
   },
   {
@@ -88,20 +102,6 @@
     "source": "TechCrunch",
     "summary": "The new app, which is currently being tested with select creators, will have Facebook's recently launched AI creator assistant built into it.",
     "url": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/",
-    "date": "2026-06-25"
-  },
-  {
-    "title": "Agility Robotics plans to go public via SPAC in a $2.5B deal",
-    "source": "TechCrunch",
-    "summary": "Agility Robotics, the humanoid robotics startup that spun out of Oregon State University in 2015, expects to generate $620 million in proceeds.",
-    "url": "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/",
-    "date": "2026-06-25"
-  },
-  {
-    "title": "Figma adds code layers, support for animations, more AI features in new update",
-    "source": "TechCrunch",
-    "summary": "Figma's update adds a new code layer, support for motion and shaders, and the ability to create custom plug-ins for various tasks using AI.",
-    "url": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/",
     "date": "2026-06-25"
   },
   {
@@ -245,6 +245,27 @@
     "date": "2026-06-25"
   },
   {
+    "title": "Notion killing Skiff-influenced email app since most users use AI agents instead",
+    "source": "Ars Technica",
+    "summary": "Notion is 'going all in on using agents to run your inbox.'",
+    "url": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
+    "date": "2026-06-25"
+  },
+  {
+    "title": "Google finally releases a Finance Android app, promises iOS version later in 2026",
+    "source": "Ars Technica",
+    "summary": "It took 20 years, but the Finance app arrives just in time to be packed full of AI.",
+    "url": "https://arstechnica.com/google/2026/06/google-finance-finally-gets-a-mobile-app-as-ai-powered-overhaul-leaves-beta/",
+    "date": "2026-06-25"
+  },
+  {
+    "title": "Anthropic says Alibaba must be punished for largest Claude cloning attack",
+    "source": "Ars Technica",
+    "summary": "Alibaba allegedly used 25,000 accounts to mine Claude over 28.8 million exchanges.",
+    "url": "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/",
+    "date": "2026-06-25"
+  },
+  {
     "title": "IBM claims world\u2019s first sub-1 nanometer chip technology",
     "source": "Ars Technica",
     "summary": "IBM\u2019s nanostack transistors could boost chip performance or energy efficiency.",
@@ -326,27 +347,6 @@
     "source": "Ars Technica",
     "summary": "NAACP lawsuit says xAI uses gas turbines without permits for Grok data center.",
     "url": "https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war/",
-    "date": "2026-06-25"
-  },
-  {
-    "title": "Anthropic 'pauses' token-based billing for its Claude Agent SDK",
-    "source": "Ars Technica",
-    "summary": "Move originally planned for Monday would have heavily increased power users' costs.",
-    "url": "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/",
-    "date": "2026-06-25"
-  },
-  {
-    "title": "Pentagon boasts of using AI to write reports mandated by Congress",
-    "source": "Ars Technica",
-    "summary": "Pentagon also claims 1.5 million personnel are using generative AI tools.",
-    "url": "https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/",
-    "date": "2026-06-25"
-  },
-  {
-    "title": "SpaceX to acquire AI coding platform Cursor for $60 billion",
-    "source": "Ars Technica",
-    "summary": "Separately, neither could compete. Now they hope they can.",
-    "url": "https://arstechnica.com/ai/2026/06/spacex-will-acquire-coding-tool-cursor-to-compete-with-anthropic-openai/",
     "date": "2026-06-25"
   }
 ]
