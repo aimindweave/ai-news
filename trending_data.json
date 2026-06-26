@@ -10,9 +10,9 @@
   {
     "title": "What happened after 2k people tried to hack my AI assistant",
     "source": "Hacker News",
-    "description": "HN Score: 146 | 51 comments",
+    "description": "HN Score: 209 | 77 comments",
     "url": "https://www.fernandoi.cl/posts/hackmyclaw/",
-    "score": 146,
+    "score": 209,
     "date": "2026-06-26",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Why current LLM costs are not sustainable",
+    "title": "Show HN: OpenKnowledge \u2013 open source AI-first alternative to Obsidian/Notion",
     "source": "Hacker News",
-    "description": "HN Score: 77 | 81 comments",
-    "url": "https://aditya.patadia.org/p/ai-and-cloud-costs",
-    "score": 77,
+    "description": "HN Score: 293 | 148 comments",
+    "url": "https://github.com/inkeep/open-knowledge",
+    "score": 293,
     "date": "2026-06-26",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Doing a masters while working in Spain",
+    "title": "Apple raises prices of MacBooks, iPads",
     "source": "Hacker News",
-    "description": "HN Score: 44 | 21 comments",
-    "url": "https://jan-herlyn.com/blog/doing-a-masters-while-working/",
-    "score": 44,
+    "description": "HN Score: 746 | 1081 comments",
+    "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
+    "score": 746,
     "date": "2026-06-26",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: OpenKnowledge \u2013 open source AI-first alternative to Obsidian/Notion",
+    "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
     "source": "Hacker News",
-    "description": "HN Score: 272 | 134 comments",
-    "url": "https://github.com/inkeep/open-knowledge",
-    "score": 272,
+    "description": "HN Score: 285 | 302 comments",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true",
+    "score": 285,
     "date": "2026-06-26",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
+    "title": "Political bias in AI: Where the AI models stand",
     "source": "Hacker News",
-    "description": "HN Score: 256 | 247 comments",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true",
-    "score": 256,
+    "description": "HN Score: 149 | 262 comments",
+    "url": "https://trakkr.ai/bias",
+    "score": 149,
     "date": "2026-06-26",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Apple raises prices of MacBooks, iPads",
+    "title": "Doing a masters while working in Spain",
     "source": "Hacker News",
-    "description": "HN Score: 720 | 1030 comments",
-    "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
-    "score": 720,
+    "description": "HN Score: 59 | 42 comments",
+    "url": "https://jan-herlyn.com/blog/doing-a-masters-while-working/",
+    "score": 59,
     "date": "2026-06-26",
     "category": "AI News"
   },
@@ -106,6 +106,40 @@
     "source": "@svpino",
     "description": "",
     "url": "https://nitter.net/svpino/status/2070210421995569537#m",
+    "date": "2026-06-26",
+    "category": "Twitter"
+  },
+  {
+    "title": "The unbearable cheapness of open weight models",
+    "source": "Hacker News",
+    "description": "HN Score: 165 | 157 comments",
+    "url": "https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models/",
+    "score": 165,
+    "date": "2026-06-26",
+    "category": "AI News"
+  },
+  {
+    "title": "Betting the mood on X will change later today when a frontier model drops \ud83d\ude00",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2070447164741103872#m",
+    "date": "2026-06-26",
+    "category": "Twitter"
+  },
+  {
+    "title": "Advanced Nintendo Entertainment System (ANES) \u2013 NES Modded to Use 2 PPUs",
+    "source": "Hacker News",
+    "description": "HN Score: 115 | 34 comments",
+    "url": "https://github.com/decrazyo/anes",
+    "score": 115,
+    "date": "2026-06-26",
+    "category": "AI News"
+  },
+  {
+    "title": "\ud83d\udea8 AI Can Build Complex Apps With Just One Single Prompt New AI models may be banned but multi-LLM agents can build insane things.... Here is our agent",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2070388588211306695#m",
     "date": "2026-06-26",
     "category": "Twitter"
   },
@@ -119,45 +153,11 @@
     "category": "AI News"
   },
   {
-    "title": "\ud83d\udea8 AI Can Build Complex Apps With Just One Single Prompt New AI models may be banned but multi-LLM agents can build insane things.... Here is our agent",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2070388588211306695#m",
-    "date": "2026-06-26",
-    "category": "Twitter"
-  },
-  {
-    "title": "Political bias in AI: Where the AI models stand",
-    "source": "Hacker News",
-    "description": "HN Score: 147 | 255 comments",
-    "url": "https://trakkr.ai/bias",
-    "score": 147,
-    "date": "2026-06-26",
-    "category": "AI News"
-  },
-  {
-    "title": "If the closed AI pause continues\u2026 The frontier model companies will be reduced to marketing AI slop like expensive slack bots vibe coded by their even",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2070354947007455615#m",
-    "date": "2026-06-26",
-    "category": "Twitter"
-  },
-  {
-    "title": "Advanced Nintendo Entertainment System (ANES) \u2013 NES Modded to Use 2 PPUs",
-    "source": "Hacker News",
-    "description": "HN Score: 114 | 34 comments",
-    "url": "https://github.com/decrazyo/anes",
-    "score": 114,
-    "date": "2026-06-26",
-    "category": "AI News"
-  },
-  {
     "title": "The annotated PyTorch training loop",
     "source": "Hacker News",
-    "description": "HN Score: 69 | 15 comments",
+    "description": "HN Score: 70 | 16 comments",
     "url": "https://idlemachines.co.uk/essays/pytorch-training-loop",
-    "score": 69,
+    "score": 70,
     "date": "2026-06-26",
     "category": "AI News"
   }
