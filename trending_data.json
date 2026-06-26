@@ -10,9 +10,9 @@
   {
     "title": "Previewing GPT\u20115.6 Sol: a next-generation model",
     "source": "Hacker News",
-    "description": "HN Score: 629 | 370 comments",
+    "description": "HN Score: 738 | 457 comments",
     "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
-    "score": 629,
+    "score": 738,
     "date": "2026-06-26",
     "category": "AI News"
   },
@@ -25,11 +25,28 @@
     "category": "Twitter"
   },
   {
+    "title": "The gap between open weights LLMs and closed source LLMs",
+    "source": "Hacker News",
+    "description": "HN Score: 71 | 49 comments",
+    "url": "https://blog.doubleword.ai/frontier-os-llm",
+    "score": 71,
+    "date": "2026-06-26",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: 1/ On p (doom) tl;dr a) Everyone is making up the numbers b) nobody knows anything (least of all the experts), c) don't worry about ",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/punk6529/status/2070615552805294511#m",
+    "date": "2026-06-26",
+    "category": "Twitter"
+  },
+  {
     "title": "U.S. government will decide who gets to use GPT-5.6",
     "source": "Hacker News",
-    "description": "HN Score: 516 | 665 comments",
+    "description": "HN Score: 690 | 822 comments",
     "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
-    "score": 516,
+    "score": 690,
     "date": "2026-06-26",
     "category": "AI News"
   },
@@ -44,26 +61,9 @@
   {
     "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
     "source": "Hacker News",
-    "description": "HN Score: 107 | 72 comments",
+    "description": "HN Score: 130 | 81 comments",
     "url": "https://github.com/workweave/router",
-    "score": 107,
-    "date": "2026-06-26",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @EMostaque: The GenAI economy has generated $110 billion in sales over the past 12 months. It is growing fast. On an annualized basis, the reven",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/azeem/status/2070113886884552755#m",
-    "date": "2026-06-26",
-    "category": "Twitter"
-  },
-  {
-    "title": "Ultrasound imaging of the brain",
-    "source": "Hacker News",
-    "description": "HN Score: 196 | 65 comments",
-    "url": "https://alephneuro.com/blog/ultrasound-brain",
-    "score": 196,
+    "score": 130,
     "date": "2026-06-26",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "What happened after 2k people tried to hack my AI assistant",
+    "title": "Ultrasound imaging of the brain",
     "source": "Hacker News",
-    "description": "HN Score: 340 | 156 comments",
-    "url": "https://www.fernandoi.cl/posts/hackmyclaw/",
-    "score": 340,
+    "description": "HN Score: 220 | 88 comments",
+    "url": "https://alephneuro.com/blog/ultrasound-brain",
+    "score": 220,
     "date": "2026-06-26",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Murmur: Shared communication bus for your coding agents",
+    "title": "Doing a masters while working in Spain",
     "source": "Hacker News",
-    "description": "HN Score: 8 | 1 comments",
-    "url": "https://github.com/instavm/murmur",
-    "score": 8,
+    "description": "HN Score: 87 | 62 comments",
+    "url": "https://jan-herlyn.com/blog/doing-a-masters-while-working/",
+    "score": 87,
     "date": "2026-06-26",
     "category": "AI News"
   },
@@ -110,11 +110,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Doing a masters while working in Spain",
+    "title": "The Nationwide Backlash Against Cameras Watching Your Car",
     "source": "Hacker News",
-    "description": "HN Score: 84 | 60 comments",
-    "url": "https://jan-herlyn.com/blog/doing-a-masters-while-working/",
-    "score": 84,
+    "description": "HN Score: 11 | 1 comments",
+    "url": "https://www.wsj.com/us-news/the-nationwide-backlash-against-cameras-watching-your-car-401a656a",
+    "score": 11,
+    "date": "2026-06-26",
+    "category": "AI News"
+  },
+  {
+    "title": "The world has turned upside down > US, a functioning democracy, has banned AI > China, an authoritarian regime, is the leader in open-source AI \ud83d\ude32",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2070630675284386007#m",
+    "date": "2026-06-26",
+    "category": "Twitter"
+  },
+  {
+    "title": "Malware Insights: macOS Phexia Campaign",
+    "source": "Hacker News",
+    "description": "HN Score: 8 | 0 comments",
+    "url": "https://cookie.engineer/weblog/articles/malware-insights-macos-phexia-campaign.html",
+    "score": 8,
     "date": "2026-06-26",
     "category": "AI News"
   },
@@ -127,37 +144,20 @@
     "category": "Twitter"
   },
   {
-    "title": "Malware Insights: macOS Phexia Campaign",
+    "title": "Murmur: Shared communication bus for your coding agents",
     "source": "Hacker News",
-    "description": "HN Score: 5 | 0 comments",
-    "url": "https://cookie.engineer/weblog/articles/malware-insights-macos-phexia-campaign.html",
-    "score": 5,
+    "description": "HN Score: 11 | 3 comments",
+    "url": "https://github.com/instavm/murmur",
+    "score": 11,
     "date": "2026-06-26",
     "category": "AI News"
-  },
-  {
-    "title": "Oh for good measure, GPT 5.6 tops all the leaderboards Yes, even agentic coding Especially on typescript, python and javascript \ud83d\ude80\ud83d\ude80",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2070563969740558624#m",
-    "date": "2026-06-26",
-    "category": "Twitter"
   },
   {
     "title": "Show HN: OpenKnowledge \u2013 open source AI-first alternative to Obsidian/Notion",
     "source": "Hacker News",
-    "description": "HN Score: 356 | 166 comments",
+    "description": "HN Score: 360 | 168 comments",
     "url": "https://github.com/inkeep/open-knowledge",
-    "score": 356,
-    "date": "2026-06-26",
-    "category": "AI News"
-  },
-  {
-    "title": "ActPlane: Programmable OS-Level Policy Enforcement for Agent Harnesses",
-    "source": "Hacker News",
-    "description": "HN Score: 3 | 0 comments",
-    "url": "https://arxiv.org/abs/2606.25189",
-    "score": 3,
+    "score": 360,
     "date": "2026-06-26",
     "category": "AI News"
   }
