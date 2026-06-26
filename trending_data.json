@@ -4,16 +4,16 @@
     "source": "@kaborobot",
     "description": "",
     "url": "https://nitter.net/kaborobot/status/2063568544277909948#m",
-    "date": "2026-06-25",
+    "date": "2026-06-26",
     "category": "Twitter"
   },
   {
-    "title": "Show HN: OpenKnowledge \u2013 open source AI-first alternative to Obsidian/Notion",
+    "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
     "source": "Hacker News",
-    "description": "HN Score: 160 | 77 comments",
-    "url": "https://github.com/inkeep/open-knowledge",
-    "score": 160,
-    "date": "2026-06-25",
+    "description": "HN Score: 140 | 92 comments",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true",
+    "score": 140,
+    "date": "2026-06-26",
     "category": "AI News"
   },
   {
@@ -21,16 +21,33 @@
     "source": "@kaborobot",
     "description": "",
     "url": "https://nitter.net/kaborobot/status/2058205543760838842#m",
-    "date": "2026-06-25",
+    "date": "2026-06-26",
     "category": "Twitter"
   },
   {
-    "title": "Apple raises prices of MacBooks, iPads",
+    "title": "Overfitted a 900KB Transformer to Compress a 100MB CSV into 7MB",
     "source": "Hacker News",
-    "description": "HN Score: 583 | 835 comments",
-    "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
-    "score": 583,
-    "date": "2026-06-25",
+    "description": "HN Score: 44 | 20 comments",
+    "url": "https://news.ycombinator.com/item?id=48644463",
+    "score": 44,
+    "date": "2026-06-26",
+    "category": "AI News"
+  },
+  {
+    "title": "Will above fable level open source models be made illegal in the USA",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/EMostaque/status/2070304540402851898#m",
+    "date": "2026-06-26",
+    "category": "Twitter"
+  },
+  {
+    "title": "Show HN: OpenKnowledge \u2013 open source AI-first alternative to Obsidian/Notion",
+    "source": "Hacker News",
+    "description": "HN Score: 226 | 108 comments",
+    "url": "https://github.com/inkeep/open-knowledge",
+    "score": 226,
+    "date": "2026-06-26",
     "category": "AI News"
   },
   {
@@ -38,24 +55,58 @@
     "source": "@EMostaque",
     "description": "",
     "url": "https://nitter.net/azeem/status/2070113886884552755#m",
-    "date": "2026-06-25",
+    "date": "2026-06-26",
     "category": "Twitter"
   },
   {
-    "title": "The annotated PyTorch training loop",
+    "title": "Doing a masters while working in Spain",
     "source": "Hacker News",
-    "description": "HN Score: 49 | 9 comments",
-    "url": "https://idlemachines.co.uk/essays/pytorch-training-loop",
-    "score": 49,
-    "date": "2026-06-25",
+    "description": "HN Score: 4 | 0 comments",
+    "url": "https://jan-herlyn.com/blog/doing-a-masters-while-working/",
+    "score": 4,
+    "date": "2026-06-26",
     "category": "AI News"
   },
   {
-    "title": "What is the difference between distilling Mythos & paying experts somewhere like @mercor_ai to generate training samples? Who are the Chinese equivale",
-    "source": "@EMostaque",
+    "title": "I made Physical AutoResearch sound simple (conceptually), but it took a village to pull off and lots of design thinking into the robot /loopcraft. The",
+    "source": "@DrJimFan",
     "description": "",
-    "url": "https://nitter.net/EMostaque/status/2070146203937808600#m",
-    "date": "2026-06-25",
+    "url": "https://nitter.net/DrJimFan/status/2067283904986517866#m",
+    "date": "2026-06-26",
+    "category": "Twitter"
+  },
+  {
+    "title": "What happened after 2k people tried to hack my AI assistant",
+    "source": "Hacker News",
+    "description": "HN Score: 8 | 0 comments",
+    "url": "https://www.fernandoi.cl/posts/hackmyclaw/",
+    "score": 8,
+    "date": "2026-06-26",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: This agent relies on a marketplace of 2.8M+ specialized agents to complete a task. This is how I imagine the future of personal agents.",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2070163927959523831#m",
+    "date": "2026-06-26",
+    "category": "Twitter"
+  },
+  {
+    "title": "Apple raises prices of MacBooks, iPads",
+    "source": "Hacker News",
+    "description": "HN Score: 664 | 957 comments",
+    "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
+    "score": 664,
+    "date": "2026-06-26",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: I have a Mac Studio at home that I never turn off, but when I'm traveling, I can't have a local agent running with my laptop closed. I'",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2070155972560199712#m",
+    "date": "2026-06-26",
     "category": "Twitter"
   },
   {
@@ -64,101 +115,50 @@
     "description": "HN Score: 1 | 0 comments",
     "url": "https://www.ycombinator.com/companies/besimple-ai/jobs/yWfhhOR-strategic-projects-lead-audio-data",
     "score": 1,
-    "date": "2026-06-25",
+    "date": "2026-06-26",
     "category": "AI News"
   },
   {
-    "title": "I made Physical AutoResearch sound simple (conceptually), but it took a village to pull off and lots of design thinking into the robot /loopcraft. The",
-    "source": "@DrJimFan",
+    "title": "If the closed AI pause continues\u2026 The frontier model companies will be reduced to marketing AI slop like expensive slack bots vibe coded by their even",
+    "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2067283904986517866#m",
-    "date": "2026-06-25",
+    "url": "https://nitter.net/bindureddy/status/2070354947007455615#m",
+    "date": "2026-06-26",
     "category": "Twitter"
   },
   {
-    "title": "OpenAI Leans Toward Waiting Until Next Year for IPO",
+    "title": "The annotated PyTorch training loop",
     "source": "Hacker News",
-    "description": "HN Score: 74 | 45 comments",
-    "url": "https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html",
-    "score": 74,
-    "date": "2026-06-25",
+    "description": "HN Score: 66 | 14 comments",
+    "url": "https://idlemachines.co.uk/essays/pytorch-training-loop",
+    "score": 66,
+    "date": "2026-06-26",
     "category": "AI News"
   },
   {
-    "title": "I have a friend who works in sales. He always jokes that 10% of his job is playing golf with clients, while the other 90% is building slide decks. Sal",
-    "source": "@svpino",
+    "title": "Anthropic is to directly blame for this pause! They should either shut down the company or stop claiming that their company will destroy humanity Fear",
+    "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2070253197927801216#m",
-    "date": "2026-06-25",
+    "url": "https://nitter.net/bindureddy/status/2070338774593405372#m",
+    "date": "2026-06-26",
     "category": "Twitter"
   },
   {
     "title": "Advanced Nintendo Entertainment System (ANES) \u2013 NES Modded to Use 2 PPUs",
     "source": "Hacker News",
-    "description": "HN Score: 90 | 30 comments",
+    "description": "HN Score: 109 | 34 comments",
     "url": "https://github.com/decrazyo/anes",
-    "score": 90,
-    "date": "2026-06-25",
+    "score": 109,
+    "date": "2026-06-26",
     "category": "AI News"
-  },
-  {
-    "title": "How to build an agent that gets better over time: There are 3 areas an agent can learn from: 1. The model: Only works for code and math, where a compu",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2070210421995569537#m",
-    "date": "2026-06-25",
-    "category": "Twitter"
   },
   {
     "title": "Political bias in AI: Where the AI models stand",
     "source": "Hacker News",
-    "description": "HN Score: 100 | 198 comments",
+    "description": "HN Score: 126 | 245 comments",
     "url": "https://trakkr.ai/bias",
-    "score": 100,
-    "date": "2026-06-25",
-    "category": "AI News"
-  },
-  {
-    "title": "Ok, now I am hearing that we may yet have a frontier model launch very soon GPT 5.6 is delayed and will show up on July 15th\u2026. But, there are others\u2026 ",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2070270748749668416#m",
-    "date": "2026-06-25",
-    "category": "Twitter"
-  },
-  {
-    "title": "The unbearable cheapness of open weight models",
-    "source": "Hacker News",
-    "description": "HN Score: 137 | 130 comments",
-    "url": "https://jamesoclaire.com/2026/06/25/the-unbearable-cheapness-of-open-weight-models/",
-    "score": 137,
-    "date": "2026-06-25",
-    "category": "AI News"
-  },
-  {
-    "title": "Claude Fable 5 is now coming back GPT 5.6 will also likely launch tomorrow Seems like we are back on track! \ud83d\ude80",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2069831547054911739#m",
-    "date": "2026-06-25",
-    "category": "Twitter"
-  },
-  {
-    "title": "Jailbreaking Isn't Theft",
-    "source": "Hacker News",
-    "description": "HN Score: 6 | 0 comments",
-    "url": "https://pluralistic.net/2026/06/25/thieve-different/",
-    "score": 6,
-    "date": "2026-06-25",
-    "category": "AI News"
-  },
-  {
-    "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-    "source": "Hacker News",
-    "description": "HN Score: 741 | 1199 comments",
-    "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
-    "score": 741,
-    "date": "2026-06-25",
+    "score": 126,
+    "date": "2026-06-26",
     "category": "AI News"
   }
 ]
