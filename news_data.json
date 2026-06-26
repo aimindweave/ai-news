@@ -1,5 +1,40 @@
 [
   {
+    "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn\u2019t be the norm",
+    "source": "TechCrunch",
+    "summary": "\u201cWe don\u2019t believe this kind of government access process should become the long-term default,\u201d says OpenAI. \u201cIt keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them.\u201d",
+    "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+    "date": "2026-06-26"
+  },
+  {
+    "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
+    "source": "TechCrunch",
+    "summary": "The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring.",
+    "url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
+    "date": "2026-06-26"
+  },
+  {
+    "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
+    "source": "TechCrunch",
+    "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending. OpenAI just shared its plans to spice things up with Jalape\u00f1o, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies building their way out...",
+    "url": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
+    "date": "2026-06-26"
+  },
+  {
+    "title": "It\u2019s not about Anthropic vs. OpenAI anymore",
+    "source": "TechCrunch",
+    "summary": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action.",
+    "url": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
+    "date": "2026-06-26"
+  },
+  {
+    "title": "OpenAI\u2019s Jalape\u00f1o chip is Big Tech\u2019s spiciest move away from Nvidia",
+    "source": "TechCrunch",
+    "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending. OpenAI just shared its plans to spice things up with Jalape\u00f1o, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies building their way out...",
+    "url": "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/",
+    "date": "2026-06-26"
+  },
+  {
     "title": "Early Bird pricing ends tonight for TechCrunch Founder Summit",
     "source": "TechCrunch",
     "summary": "Save up to $190 on your pass to TechCrunch Founder Summit 2026. Early Bird pricing ends today, at 11:59 p.m. PT, after which rates increase. Register now.",
@@ -67,41 +102,6 @@
     "source": "TechCrunch",
     "summary": "Amazon\u2019s latest India investment comes as global tech companies race to expand AI infrastructure in the country.",
     "url": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/",
-    "date": "2026-06-26"
-  },
-  {
-    "title": "Europe is pushing back on Washington\u2019s chip war",
-    "source": "TechCrunch",
-    "summary": "As ASML CEO Christophe Fouquet told TechCrunch in May, what China can currently buy are older-generation deep ultraviolet tools \u2014 gear first shipped about a decade ago \u2014 the same machines the MATCH Act would now put off-limits.",
-    "url": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/",
-    "date": "2026-06-26"
-  },
-  {
-    "title": "Former Infosys chief has a new startup that wants to challenge the IT services world",
-    "source": "TechCrunch",
-    "summary": "Backed by Mayfield and Aramco Ventures, Vishal Sikka\u2019s new venture brings together veterans from SAP, Infosys, and VianAI.",
-    "url": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
-    "date": "2026-06-26"
-  },
-  {
-    "title": "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood",
-    "source": "TechCrunch",
-    "summary": "In its first earnings report since going public, the AI chipmaker forecast a narrower gross margin in its core business, scaring investors.",
-    "url": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
-    "date": "2026-06-26"
-  },
-  {
-    "title": "AI was supposed to kill engineering jobs, but new data suggests they\u2019re the most resilient",
-    "source": "TechCrunch",
-    "summary": "While AI dominates the layoff narrative, engineers are actually making up a larger share of new hires, according to SignalFire data.",
-    "url": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
-    "date": "2026-06-26"
-  },
-  {
-    "title": "AI researchers continue to leave Google for its rivals",
-    "source": "TechCrunch",
-    "summary": "Top AI researchers Jonas Adler and Alexander Pritzel are leaving Google for Anthropic, following departures from top scientists Noam Shazeer and John Jumper.",
-    "url": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
     "date": "2026-06-26"
   },
   {
@@ -175,6 +175,13 @@
     "date": "2026-06-26"
   },
   {
+    "title": "OpenAI Has New AI Models. Here\u2019s Why You Can\u2019t Use Them",
+    "source": "Wired",
+    "summary": "The White House asked OpenAI to delay the rollout of its GPT-5.6 AI models, two weeks after Anthropic had to take its most advanced AI models offline.",
+    "url": "https://www.wired.com/story/openai-gpt-56-model-release-trump-admin-approval/",
+    "date": "2026-06-26"
+  },
+  {
     "title": "Europe Is Fed Up and Wants Its Own AI",
     "source": "Wired",
     "summary": "It's a stretch to think that the continent can build a top-tier model, but it has an advantage: Donald Trump.",
@@ -235,13 +242,6 @@
     "source": "Wired",
     "summary": "The AI arms race between China and the US has researchers on both sides worried about a \u201cChernobyl moment.\u201d",
     "url": "https://www.wired.com/story/ai-arms-race-china-us-cooperation/",
-    "date": "2026-06-26"
-  },
-  {
-    "title": "The Trump White House Is Over Anthropic CEO Dario Amodei",
-    "source": "Wired",
-    "summary": "At high-stakes meetings with the White House, Anthropic's cofounder\u2014a 'weirdo,' per one official\u2014has been replaced by cofounder Tom Brown.",
-    "url": "https://www.wired.com/story/the-trump-white-house-is-over-anthropics-dario-amodei/",
     "date": "2026-06-26"
   },
   {
