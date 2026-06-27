@@ -10,9 +10,9 @@
   {
     "title": "Previewing GPT\u20115.6 Sol: a next-generation model",
     "source": "Hacker News",
-    "description": "HN Score: 957 | 593 comments",
+    "description": "HN Score: 1011 | 634 comments",
     "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
-    "score": 957,
+    "score": 1011,
     "date": "2026-06-27",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "U.S. allows Anthropic to release Mythos AI to \u2018trusted\u2019 US organizations",
     "source": "Hacker News",
-    "description": "HN Score: 374 | 378 comments",
+    "description": "HN Score: 439 | 510 comments",
     "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
-    "score": 374,
+    "score": 439,
     "date": "2026-06-27",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Hacker News on a train station-style flip board",
+    "title": "AI in mathematics is forcing big questions",
     "source": "Hacker News",
-    "description": "HN Score: 56 | 10 comments",
-    "url": "https://popflame.quickish.space/hn-flipboard/",
-    "score": 56,
+    "description": "HN Score: 126 | 96 comments",
+    "url": "https://spectrum.ieee.org/ai-in-mathematics",
+    "score": 126,
     "date": "2026-06-27",
     "category": "AI News"
   },
@@ -59,28 +59,45 @@
     "category": "Twitter"
   },
   {
-    "title": "Anatomy of a Failed (Nation-State?) Attack",
+    "title": "U.S. government will decide who gets to use GPT-5.6",
     "source": "Hacker News",
-    "description": "HN Score: 29 | 7 comments",
-    "url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/",
-    "score": 29,
+    "description": "HN Score: 1035 | 1090 comments",
+    "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
+    "score": 1035,
     "date": "2026-06-27",
     "category": "AI News"
   },
   {
-    "title": "I made Physical AutoResearch sound simple (conceptually), but it took a village to pull off and lots of design thinking into the robot /loopcraft. The",
+    "title": "Today, we enable AutoResearch in the physical world for the first time! Introducing ENPIRE: we give 8 Codex agents a fleet of robots, an allocation of",
     "source": "@DrJimFan",
     "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2067283904986517866#m",
+    "url": "https://nitter.net/DrJimFan/status/2066921736369766762#m",
     "date": "2026-06-27",
     "category": "Twitter"
   },
   {
-    "title": "AI in mathematics is forcing big questions",
+    "title": "Anatomy of a Failed (Nation-State?) Attack",
     "source": "Hacker News",
-    "description": "HN Score: 105 | 71 comments",
-    "url": "https://spectrum.ieee.org/ai-in-mathematics",
-    "score": 105,
+    "description": "HN Score: 60 | 9 comments",
+    "url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/",
+    "score": 60,
+    "date": "2026-06-27",
+    "category": "AI News"
+  },
+  {
+    "title": "R to @DrJimFan: Project site: https://research.nvidia.com/labs/gear/enpire/ Wenli has written an excellent technical thread, please check it out!",
+    "source": "@DrJimFan",
+    "description": "",
+    "url": "https://nitter.net/DrJimFan/status/2066921739087729043#m",
+    "date": "2026-06-27",
+    "category": "Twitter"
+  },
+  {
+    "title": "Show HN: Hacker News on a train station-style flip board",
+    "source": "Hacker News",
+    "description": "HN Score: 71 | 16 comments",
+    "url": "https://popflame.quickish.space/hn-flipboard/",
+    "score": 71,
     "date": "2026-06-27",
     "category": "AI News"
   },
@@ -93,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "U.S. government will decide who gets to use GPT-5.6",
+    "title": "Ultrasound imaging of the brain",
     "source": "Hacker News",
-    "description": "HN Score: 976 | 1034 comments",
-    "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
-    "score": 976,
+    "description": "HN Score: 284 | 114 comments",
+    "url": "https://alephneuro.com/blog/ultrasound-brain",
+    "score": 284,
     "date": "2026-06-27",
     "category": "AI News"
   },
@@ -112,9 +129,9 @@
   {
     "title": "The gap between open weights LLMs and closed source LLMs",
     "source": "Hacker News",
-    "description": "HN Score: 181 | 155 comments",
+    "description": "HN Score: 211 | 170 comments",
     "url": "https://blog.doubleword.ai/frontier-os-llm",
-    "score": 181,
+    "score": 211,
     "date": "2026-06-27",
     "category": "AI News"
   },
@@ -127,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Ultrasound imaging of the brain",
+    "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
     "source": "Hacker News",
-    "description": "HN Score: 266 | 111 comments",
-    "url": "https://alephneuro.com/blog/ultrasound-brain",
-    "score": 266,
+    "description": "HN Score: 168 | 98 comments",
+    "url": "https://github.com/workweave/router",
+    "score": 168,
     "date": "2026-06-27",
     "category": "AI News"
   },
@@ -144,20 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
+    "title": "OpenAI leans toward waiting until next year for IPO",
     "source": "Hacker News",
-    "description": "HN Score: 164 | 96 comments",
-    "url": "https://github.com/workweave/router",
-    "score": 164,
-    "date": "2026-06-27",
-    "category": "AI News"
-  },
-  {
-    "title": "AgentKits \u2013 60 production-ready AI agent blueprints with guardrails",
-    "source": "Hacker News",
-    "description": "HN Score: 22 | 0 comments",
-    "url": "https://www.agent-kits.com",
-    "score": 22,
+    "description": "HN Score: 167 | 141 comments",
+    "url": "https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html",
+    "score": 167,
     "date": "2026-06-27",
     "category": "AI News"
   }
