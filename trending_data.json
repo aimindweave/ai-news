@@ -10,9 +10,9 @@
   {
     "title": ".self: A new top-level domain designed to support self-hosting",
     "source": "Hacker News",
-    "description": "HN Score: 83 | 73 comments",
+    "description": "HN Score: 205 | 133 comments",
     "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
-    "score": 83,
+    "score": 205,
     "date": "2026-06-29",
     "category": "AI News"
   },
@@ -27,43 +27,43 @@
   {
     "title": "Ornith-1.0: self-improving open-source models for agentic coding",
     "source": "Hacker News",
-    "description": "HN Score: 103 | 25 comments",
+    "description": "HN Score: 125 | 27 comments",
     "url": "https://github.com/deepreinforce-ai/Ornith-1",
-    "score": 103,
+    "score": 125,
     "date": "2026-06-29",
     "category": "AI News"
   },
   {
-    "title": "This week's Moonshots podcast with @PeterDiamandis, @alexwg & @DaveBlundin was one of the more interesting discussions we have had Really take off tim",
+    "title": "RT by @EMostaque: In his speech today Andy Burnham promised to turn Britain into an 'Innovation Nation' through decentralisation But in AI - arguably ",
     "source": "@EMostaque",
     "description": "",
-    "url": "https://nitter.net/EMostaque/status/2071706106611609787#m",
+    "url": "https://nitter.net/rowlsmanthorpe/status/2071669081850191952#m",
+    "date": "2026-06-29",
+    "category": "Twitter"
+  },
+  {
+    "title": "Apple Neural Engine: Architecture, Programming, and Performance",
+    "source": "Hacker News",
+    "description": "HN Score: 78 | 10 comments",
+    "url": "https://arxiv.org/abs/2606.22283",
+    "score": 78,
+    "date": "2026-06-29",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: You don't need Fable for the most complex tasks, from training models for protein prediction to optimising compilers Our open source",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/ii_posts/status/2071674024011161926#m",
     "date": "2026-06-29",
     "category": "Twitter"
   },
   {
     "title": "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API",
     "source": "Hacker News",
-    "description": "HN Score: 31 | 9 comments",
+    "description": "HN Score: 40 | 11 comments",
     "url": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models",
-    "score": 31,
-    "date": "2026-06-29",
-    "category": "AI News"
-  },
-  {
-    "title": "Most popular model on @OpenRouter (10tr tokens) turns out to be a 1.6tr MoE by @Meituan_LongCat (superapp/DoorDash of China) Basically Gemini / Opus 4",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/EMostaque/status/2071701921241448574#m",
-    "date": "2026-06-29",
-    "category": "Twitter"
-  },
-  {
-    "title": "Working With AI: A concrete example",
-    "source": "Hacker News",
-    "description": "HN Score: 44 | 10 comments",
-    "url": "https://htmx.org/essays/working-with-ai/",
-    "score": 44,
+    "score": 40,
     "date": "2026-06-29",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Apple Neural Engine: Architecture, Programming, and Performance",
+    "title": "Working With AI: A concrete example",
     "source": "Hacker News",
-    "description": "HN Score: 57 | 2 comments",
-    "url": "https://arxiv.org/abs/2606.22283",
-    "score": 57,
+    "description": "HN Score: 61 | 24 comments",
+    "url": "https://htmx.org/essays/working-with-ai/",
+    "score": 61,
     "date": "2026-06-29",
     "category": "AI News"
   },
@@ -95,9 +95,9 @@
   {
     "title": "Ornith-1.0: Self-scaffolding LLMs for agentic coding",
     "source": "Hacker News",
-    "description": "HN Score: 39 | 6 comments",
+    "description": "HN Score: 47 | 6 comments",
     "url": "https://deep-reinforce.com/ornith_1_0.html",
-    "score": 39,
+    "score": 47,
     "date": "2026-06-29",
     "category": "AI News"
   },
@@ -110,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "ACL 1.0: A source-available commercial license for the AI era",
+    "title": "The CEO of Mullvad is the main financer of the Swedish \u00d6rebro party",
     "source": "Hacker News",
-    "description": "HN Score: 12 | 7 comments",
-    "url": "https://www.auditablelicense.org/",
-    "score": 12,
+    "description": "HN Score: 506 | 1138 comments",
+    "url": "https://det.social/@lostgen/116820546568940358",
+    "score": 506,
     "date": "2026-06-29",
     "category": "AI News"
   },
@@ -127,37 +127,37 @@
     "category": "Twitter"
   },
   {
-    "title": "The CEO of Mullvad is the main financer of the Swedish \u00d6rebro party",
+    "title": "Tidal AI Policy",
     "source": "Hacker News",
-    "description": "HN Score: 480 | 1061 comments",
-    "url": "https://det.social/@lostgen/116820546568940358",
-    "score": 480,
+    "description": "HN Score: 288 | 312 comments",
+    "url": "https://tidal.com/ai-policy",
+    "score": 288,
     "date": "2026-06-29",
     "category": "AI News"
   },
   {
-    "title": "\ud83d\udea8Combine open and closed AI to build complex software systems You can't do much with open source alone and closed source is too expensive - Multi-LLM ",
+    "title": "US AI is definitely coming back and still dominates the space - Fable back this week - GPT 5.6 in two weeks - Gemini 3.5 and Grok 4.5 are in testing P",
     "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/bindureddy/status/2071668500909998317#m",
+    "url": "https://nitter.net/bindureddy/status/2071596529241231664#m",
     "date": "2026-06-29",
     "category": "Twitter"
   },
   {
-    "title": "Tidal AI Policy",
+    "title": "ACL 1.0: A source-available commercial license for the AI era",
     "source": "Hacker News",
-    "description": "HN Score: 281 | 308 comments",
-    "url": "https://tidal.com/ai-policy",
-    "score": 281,
+    "description": "HN Score: 14 | 7 comments",
+    "url": "https://www.auditablelicense.org/",
+    "score": 14,
     "date": "2026-06-29",
     "category": "AI News"
   },
   {
     "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No \u2013 88",
     "source": "Hacker News",
-    "description": "HN Score: 936 | 397 comments",
+    "description": "HN Score: 942 | 402 comments",
     "url": "https://danunparsed.com/p/hackerrank-open-source-ats",
-    "score": 936,
+    "score": 942,
     "date": "2026-06-29",
     "category": "AI News"
   }
