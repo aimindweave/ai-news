@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "GLM 5.2 beats Claude in our benchmarks",
+    "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No \u2013 88",
     "source": "Hacker News",
-    "description": "HN Score: 599 | 289 comments",
-    "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
-    "score": 599,
+    "description": "HN Score: 512 | 204 comments",
+    "url": "https://danunparsed.com/p/hackerrank-open-source-ats",
+    "score": 512,
     "date": "2026-06-29",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Knowledge Distillation of Black-Box Large Language Models (2024)",
+    "title": "GLM 5.2 beats Claude in our benchmarks",
     "source": "Hacker News",
-    "description": "HN Score: 66 | 13 comments",
-    "url": "https://arxiv.org/abs/2401.07013",
-    "score": 66,
+    "description": "HN Score: 882 | 407 comments",
+    "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+    "score": 882,
     "date": "2026-06-29",
     "category": "AI News"
   },
@@ -44,9 +44,9 @@
   {
     "title": "I used Claude Code to get a second opinion on my MRI",
     "source": "Hacker News",
-    "description": "HN Score: 380 | 495 comments",
+    "description": "HN Score: 447 | 583 comments",
     "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
-    "score": 380,
+    "score": 447,
     "date": "2026-06-29",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Professor denounces mass AI fraud on an exam at Brown",
+    "title": "Knowledge Distillation of Black-Box Large Language Models (2024)",
     "source": "Hacker News",
-    "description": "HN Score: 326 | 434 comments",
-    "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
-    "score": 326,
+    "description": "HN Score: 103 | 19 comments",
+    "url": "https://arxiv.org/abs/2401.07013",
+    "score": 103,
     "date": "2026-06-29",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Librepods: AirPods liberated",
+    "title": "Herdr: Agent multiplexer that lives in your terminal",
     "source": "Hacker News",
-    "description": "HN Score: 320 | 101 comments",
-    "url": "https://github.com/librepods-org/librepods",
-    "score": 320,
+    "description": "HN Score: 76 | 44 comments",
+    "url": "https://github.com/ogulcancelik/herdr",
+    "score": 76,
     "date": "2026-06-29",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Daisugi, the Japanese technique of growing trees out of other trees (2020)",
+    "title": "Professor denounces mass AI fraud on an exam at Brown",
     "source": "Hacker News",
-    "description": "HN Score: 124 | 39 comments",
-    "url": "https://www.openculture.com/2020/10/daisugi.html",
-    "score": 124,
+    "description": "HN Score: 421 | 557 comments",
+    "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
+    "score": 421,
     "date": "2026-06-29",
     "category": "AI News"
   },
@@ -110,28 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
+    "title": "Model Training as Code",
     "source": "Hacker News",
-    "description": "HN Score: 185 | 121 comments",
-    "url": "https://github.com/openai/codex/issues/2847",
-    "score": 185,
-    "date": "2026-06-29",
-    "category": "AI News"
-  },
-  {
-    "title": "The Gemini team should claim that their latest model has hacked into all the systems... And is fantastic at finding exploits... It's the fastest way t",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2071438477380718863#m",
-    "date": "2026-06-29",
-    "category": "Twitter"
-  },
-  {
-    "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No \u2013 88",
-    "source": "Hacker News",
-    "description": "HN Score: 5 | 0 comments",
-    "url": "https://danunparsed.com/p/hackerrank-open-source-ats",
-    "score": 5,
+    "description": "HN Score: 165 | 16 comments",
+    "url": "https://aleph-alpha.com/en/blog/model-training-as-code/",
+    "score": 165,
     "date": "2026-06-29",
     "category": "AI News"
   },
@@ -144,20 +127,37 @@
     "category": "Twitter"
   },
   {
-    "title": "Model Training as Code",
+    "title": "Daisugi, the Japanese technique of growing trees out of other trees (2020)",
     "source": "Hacker News",
-    "description": "HN Score: 29 | 10 comments",
-    "url": "https://aleph-alpha.com/en/blog/model-training-as-code/",
-    "score": 29,
+    "description": "HN Score: 146 | 47 comments",
+    "url": "https://www.openculture.com/2020/10/daisugi.html",
+    "score": 146,
     "date": "2026-06-29",
     "category": "AI News"
   },
   {
-    "title": "Show HN: NanoEuler \u2013 GPT-2 scale model in pure C/CUDA from scratch",
+    "title": "Best Models Per Use Case - The Un-Banned Version :) back-end coding - GPT 5.5 xHigh front-end coding Opus 4.8 xHigh real-time - Grok 4.3 design - Opus",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2071195264216711383#m",
+    "date": "2026-06-29",
+    "category": "Twitter"
+  },
+  {
+    "title": "Librepods: AirPods liberated",
     "source": "Hacker News",
-    "description": "HN Score: 44 | 10 comments",
-    "url": "https://github.com/JustVugg/nanoeuler",
-    "score": 44,
+    "description": "HN Score: 404 | 138 comments",
+    "url": "https://github.com/librepods-org/librepods",
+    "score": 404,
+    "date": "2026-06-29",
+    "category": "AI News"
+  },
+  {
+    "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
+    "source": "Hacker News",
+    "description": "HN Score: 210 | 133 comments",
+    "url": "https://github.com/openai/codex/issues/2847",
+    "score": 210,
     "date": "2026-06-29",
     "category": "AI News"
   }
