@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No \u2013 88",
+    "title": "Tidal AI Policy",
     "source": "Hacker News",
-    "description": "HN Score: 512 | 204 comments",
-    "url": "https://danunparsed.com/p/hackerrank-open-source-ats",
-    "score": 512,
+    "description": "HN Score: 178 | 207 comments",
+    "url": "https://tidal.com/ai-policy",
+    "score": 178,
     "date": "2026-06-29",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "GLM 5.2 beats Claude in our benchmarks",
+    "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No \u2013 88",
     "source": "Hacker News",
-    "description": "HN Score: 882 | 407 comments",
-    "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
-    "score": 882,
+    "description": "HN Score: 786 | 333 comments",
+    "url": "https://danunparsed.com/p/hackerrank-open-source-ats",
+    "score": 786,
     "date": "2026-06-29",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "I used Claude Code to get a second opinion on my MRI",
+    "title": "Herdr: Agent multiplexer that lives in your terminal",
     "source": "Hacker News",
-    "description": "HN Score: 447 | 583 comments",
-    "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
-    "score": 447,
+    "description": "HN Score: 116 | 76 comments",
+    "url": "https://github.com/ogulcancelik/herdr",
+    "score": 116,
     "date": "2026-06-29",
     "category": "AI News"
   },
@@ -59,33 +59,67 @@
     "category": "Twitter"
   },
   {
-    "title": "Knowledge Distillation of Black-Box Large Language Models (2024)",
+    "title": "GLM 5.2 beats Claude in our benchmarks",
     "source": "Hacker News",
-    "description": "HN Score: 103 | 19 comments",
-    "url": "https://arxiv.org/abs/2401.07013",
-    "score": 103,
+    "description": "HN Score: 1027 | 472 comments",
+    "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+    "score": 1027,
     "date": "2026-06-29",
     "category": "AI News"
   },
   {
-    "title": "I made Physical AutoResearch sound simple (conceptually), but it took a village to pull off and lots of design thinking into the robot /loopcraft. The",
+    "title": "Today, we enable AutoResearch in the physical world for the first time! Introducing ENPIRE: we give 8 Codex agents a fleet of robots, an allocation of",
     "source": "@DrJimFan",
     "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2067283904986517866#m",
+    "url": "https://nitter.net/DrJimFan/status/2066921736369766762#m",
     "date": "2026-06-29",
     "category": "Twitter"
   },
   {
-    "title": "Herdr: Agent multiplexer that lives in your terminal",
+    "title": "I used Claude Code to get a second opinion on my MRI",
     "source": "Hacker News",
-    "description": "HN Score: 76 | 44 comments",
-    "url": "https://github.com/ogulcancelik/herdr",
-    "score": 76,
+    "description": "HN Score: 527 | 650 comments",
+    "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+    "score": 527,
     "date": "2026-06-29",
     "category": "AI News"
   },
   {
-    "title": "RT by @svpino: Cina's AI ecosystem is different from everyone else: Every company wants to release its own SOTA model, but they are all going open sou",
+    "title": "R to @DrJimFan: Project site: https://research.nvidia.com/labs/gear/enpire/ Wenli has written an excellent technical thread, please check it out!",
+    "source": "@DrJimFan",
+    "description": "",
+    "url": "https://nitter.net/DrJimFan/status/2066921739087729043#m",
+    "date": "2026-06-29",
+    "category": "Twitter"
+  },
+  {
+    "title": "Data breach exposes up to 14.2M email logins at six ISPs",
+    "source": "Hacker News",
+    "description": "HN Score: 24 | 3 comments",
+    "url": "https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/",
+    "score": 24,
+    "date": "2026-06-29",
+    "category": "AI News"
+  },
+  {
+    "title": "How to measure whether using an agent is worth it: Instead of focusing on whether agents can do this or that, focus on 'value per token dollar'. Basic",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2071618375084835321#m",
+    "date": "2026-06-29",
+    "category": "Twitter"
+  },
+  {
+    "title": "Working with AI",
+    "source": "Hacker News",
+    "description": "HN Score: 11 | 6 comments",
+    "url": "https://htmx.org/essays/working-with-ai/",
+    "score": 11,
+    "date": "2026-06-29",
+    "category": "AI News"
+  },
+  {
+    "title": "Cina's AI ecosystem is different from everyone else: Every company wants to release its own SOTA model, but they are all going open source. They are c",
     "source": "@svpino",
     "description": "",
     "url": "https://nitter.net/svpino/status/2071233345737076945#m",
@@ -93,28 +127,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Professor denounces mass AI fraud on an exam at Brown",
+    "title": "Knowledge Distillation of Black-Box Large Language Models (2024)",
     "source": "Hacker News",
-    "description": "HN Score: 421 | 557 comments",
-    "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
-    "score": 421,
+    "description": "HN Score: 117 | 23 comments",
+    "url": "https://arxiv.org/abs/2401.07013",
+    "score": 117,
     "date": "2026-06-29",
     "category": "AI News"
   },
   {
-    "title": "RT by @svpino: This is all open source, and it's probably the direction we'll be automating a ton of tasks in the future: 1. Record yourself using a w",
-    "source": "@svpino",
+    "title": "US AI is definitely coming back and still dominates the space - Fable back this week - GPT 5.6 in two weeks - Gemini 3.5 and Grok 4.5 are in testing P",
+    "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2071204466653827480#m",
+    "url": "https://nitter.net/bindureddy/status/2071596529241231664#m",
     "date": "2026-06-29",
     "category": "Twitter"
   },
   {
-    "title": "Model Training as Code",
+    "title": "Professor denounces mass AI fraud on an exam at Brown",
     "source": "Hacker News",
-    "description": "HN Score: 165 | 16 comments",
-    "url": "https://aleph-alpha.com/en/blog/model-training-as-code/",
-    "score": 165,
+    "description": "HN Score: 503 | 645 comments",
+    "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
+    "score": 503,
     "date": "2026-06-29",
     "category": "AI News"
   },
@@ -129,35 +163,9 @@
   {
     "title": "Daisugi, the Japanese technique of growing trees out of other trees (2020)",
     "source": "Hacker News",
-    "description": "HN Score: 146 | 47 comments",
+    "description": "HN Score: 163 | 50 comments",
     "url": "https://www.openculture.com/2020/10/daisugi.html",
-    "score": 146,
-    "date": "2026-06-29",
-    "category": "AI News"
-  },
-  {
-    "title": "Best Models Per Use Case - The Un-Banned Version :) back-end coding - GPT 5.5 xHigh front-end coding Opus 4.8 xHigh real-time - Grok 4.3 design - Opus",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2071195264216711383#m",
-    "date": "2026-06-29",
-    "category": "Twitter"
-  },
-  {
-    "title": "Librepods: AirPods liberated",
-    "source": "Hacker News",
-    "description": "HN Score: 404 | 138 comments",
-    "url": "https://github.com/librepods-org/librepods",
-    "score": 404,
-    "date": "2026-06-29",
-    "category": "AI News"
-  },
-  {
-    "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
-    "source": "Hacker News",
-    "description": "HN Score: 210 | 133 comments",
-    "url": "https://github.com/openai/codex/issues/2847",
-    "score": 210,
+    "score": 163,
     "date": "2026-06-29",
     "category": "AI News"
   }

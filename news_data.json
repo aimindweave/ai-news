@@ -1,5 +1,19 @@
 [
   {
+    "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
+    "source": "TechCrunch",
+    "summary": "The startup, Proception, is taking a unique approach to collecting training data to tackle one of the hardest problems in robotics: hands.",
+    "url": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
+    "date": "2026-06-29"
+  },
+  {
+    "title": "Omen AI\u2019s plan to optimize data centers is all wet",
+    "source": "TechCrunch",
+    "summary": "Omen AI raised a $31 million Series A to monitor chip coolant and stop bacterial outbreaks in data centers.",
+    "url": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
+    "date": "2026-06-29"
+  },
+  {
     "title": "Ford rehires \u2018gray beard\u2019 engineers after AI falls short",
     "source": "TechCrunch",
     "summary": "'Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.\u201d",
@@ -30,7 +44,7 @@
   {
     "title": "The fittest founder in the room got cancer. Here\u2019s how he used AI to fight back.",
     "source": "TechCrunch",
-    "summary": "When confronted with cancer, Connor Christou fed everything tied tied to his regime \u2014 blood results, scan data, wearable output, journal entries \u2014 into Claude.",
+    "summary": "When confronted with cancer, Conno Christou fed everything tied to his regime \u2014 blood results, scan data, wearable output, journal entries \u2014 into Claude.",
     "url": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
     "date": "2026-06-29"
   },
@@ -91,17 +105,17 @@
     "date": "2026-06-29"
   },
   {
-    "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
-    "source": "TechCrunch",
-    "summary": "OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump administration told it to.",
-    "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+    "title": "Agent confidence on the technical frontier",
+    "source": "MIT Tech Review",
+    "summary": "Enterprise investment in AI is booming. Gartner is calling 2026 an \u201cinflection year\u201d for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mounts, executives and technology leaders are looking to agentic AI to drive the measurable financial ...",
+    "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
     "date": "2026-06-29"
   },
   {
-    "title": "Patronus AI lands $50M to build \u2018digital worlds\u2019 that stress-test AI agents",
-    "source": "TechCrunch",
-    "summary": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
-    "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
+    "title": "The Download: metric weaknesses and AI elephant warnings",
+    "source": "MIT Tech Review",
+    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. The inevitable weakness of metrics There are plenty of useful things a metric can reveal. There are even more that it can obscure or corrupt. Like a lot of peo...",
+    "url": "https://www.technologyreview.com/2026/06/29/1139834/the-download-metric-weaknesses-ai-elephant-warnings/",
     "date": "2026-06-29"
   },
   {
@@ -158,20 +172,6 @@
     "source": "MIT Tech Review",
     "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Introducing: the Engineering issue We can\u2019t fix everything, but we can be ambitious. We can take on the challenge of making the world better through human inge...",
     "url": "https://www.technologyreview.com/2026/06/24/1139658/the-download-introducing-engineering-issue/",
-    "date": "2026-06-29"
-  },
-  {
-    "title": "Stripe, Anthropic, and OpenAI are backing an effort to stop respiratory infections",
-    "source": "MIT Tech Review",
-    "summary": "The common cold comes for us all\u2014often more than once a year. And there is no way to prevent it. The best you can do is take vitamin C and stay away from people with the sniffles. Now the payment company Stripe, founded by brothers Patrick and John Collison, says it will fund a new",
-    "url": "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/",
-    "date": "2026-06-29"
-  },
-  {
-    "title": "The emergence of the web data infrastructure layer for AI",
-    "source": "MIT Tech Review",
-    "summary": "AI is booming. New use cases are emerging each day. To capitalize on the technology\u2019s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstructured, which limits its use by AI models. To understand this challenge, consider the foundation ...",
-    "url": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
     "date": "2026-06-29"
   },
   {
@@ -247,7 +247,7 @@
   {
     "title": "South Korea plans to train entire military as 'drone warriors'",
     "source": "Ars Technica",
-    "summary": "Half-million strong military will train on drones as \u201cuniversal combat tool.\u201d",
+    "summary": "Half-million-strong military will train on drones as \u201cuniversal combat tool.\u201d",
     "url": "https://arstechnica.com/ai/2026/06/south-korea-plans-to-train-entire-military-as-drone-warriors/",
     "date": "2026-06-29"
   },
