@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No \u2013 88",
+    "title": ".self: A new top-level domain designed to support self-hosting",
     "source": "Hacker News",
-    "description": "HN Score: 869 | 374 comments",
-    "url": "https://danunparsed.com/p/hackerrank-open-source-ats",
-    "score": 869,
+    "description": "HN Score: 83 | 73 comments",
+    "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
+    "score": 83,
     "date": "2026-06-29",
     "category": "AI News"
   },
@@ -27,43 +27,43 @@
   {
     "title": "Ornith-1.0: self-improving open-source models for agentic coding",
     "source": "Hacker News",
-    "description": "HN Score: 5 | 0 comments",
+    "description": "HN Score: 103 | 25 comments",
     "url": "https://github.com/deepreinforce-ai/Ornith-1",
-    "score": 5,
+    "score": 103,
     "date": "2026-06-29",
     "category": "AI News"
   },
   {
-    "title": "RT by @EMostaque: Introducing Cloak: Use Claude or ChatGPT without your personal data ever leaving your machine. Two 3B models do the on-device PII cl",
+    "title": "This week's Moonshots podcast with @PeterDiamandis, @alexwg & @DaveBlundin was one of the more interesting discussions we have had Really take off tim",
     "source": "@EMostaque",
     "description": "",
-    "url": "https://nitter.net/praxisnation/status/2071625438292517248#m",
+    "url": "https://nitter.net/EMostaque/status/2071706106611609787#m",
     "date": "2026-06-29",
     "category": "Twitter"
   },
   {
-    "title": "Tidal AI Policy",
+    "title": "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API",
     "source": "Hacker News",
-    "description": "HN Score: 238 | 262 comments",
-    "url": "https://tidal.com/ai-policy",
-    "score": 238,
+    "description": "HN Score: 31 | 9 comments",
+    "url": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models",
+    "score": 31,
     "date": "2026-06-29",
     "category": "AI News"
   },
   {
-    "title": "What if the Great Filter is government bureaucracy The Dark Forest is export license paperwork",
+    "title": "Most popular model on @OpenRouter (10tr tokens) turns out to be a 1.6tr MoE by @Meituan_LongCat (superapp/DoorDash of China) Basically Gemini / Opus 4",
     "source": "@EMostaque",
     "description": "",
-    "url": "https://nitter.net/EMostaque/status/2070675391157571936#m",
+    "url": "https://nitter.net/EMostaque/status/2071701921241448574#m",
     "date": "2026-06-29",
     "category": "Twitter"
   },
   {
-    "title": "The CEO of Mullvad is the main financer of the Swedish \u00d6rebro party",
+    "title": "Working With AI: A concrete example",
     "source": "Hacker News",
-    "description": "HN Score: 265 | 651 comments",
-    "url": "https://det.social/@lostgen/116820546568940358",
-    "score": 265,
+    "description": "HN Score: 44 | 10 comments",
+    "url": "https://htmx.org/essays/working-with-ai/",
+    "score": 44,
     "date": "2026-06-29",
     "category": "AI News"
   },
@@ -76,11 +76,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Amazon Is Awash with AI-Written Guideslop for Games That Aren't Even Out",
+    "title": "Apple Neural Engine: Architecture, Programming, and Performance",
     "source": "Hacker News",
-    "description": "HN Score: 16 | 3 comments",
-    "url": "https://kotaku.com/amazon-ai-game-guidebooks-alien-isolation-gears-of-war-2000711365",
-    "score": 16,
+    "description": "HN Score: 57 | 2 comments",
+    "url": "https://arxiv.org/abs/2606.22283",
+    "score": 57,
+    "date": "2026-06-29",
+    "category": "AI News"
+  },
+  {
+    "title": "LinkedIn better do something if they don't want to become the next StackOverflow.",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2071680100538716453#m",
+    "date": "2026-06-29",
+    "category": "Twitter"
+  },
+  {
+    "title": "Ornith-1.0: Self-scaffolding LLMs for agentic coding",
+    "source": "Hacker News",
+    "description": "HN Score: 39 | 6 comments",
+    "url": "https://deep-reinforce.com/ornith_1_0.html",
+    "score": 39,
     "date": "2026-06-29",
     "category": "AI News"
   },
@@ -93,62 +110,54 @@
     "category": "Twitter"
   },
   {
-    "title": "GLM 5.2 beats Claude in our benchmarks",
+    "title": "ACL 1.0: A source-available commercial license for the AI era",
     "source": "Hacker News",
-    "description": "HN Score: 1045 | 481 comments",
-    "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
-    "score": 1045,
+    "description": "HN Score: 12 | 7 comments",
+    "url": "https://www.auditablelicense.org/",
+    "score": 12,
     "date": "2026-06-29",
     "category": "AI News"
   },
   {
-    "title": "Harnesses matter way more than people think. Cline ran a couple of experiments on a set of coding tasks using GLM 5.2: \u2022 57.3% using their harness wit",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2071628258307977499#m",
-    "date": "2026-06-29",
-    "category": "Twitter"
-  },
-  {
-    "title": "Herdr: Agent multiplexer that lives in your terminal",
-    "source": "Hacker News",
-    "description": "HN Score: 127 | 84 comments",
-    "url": "https://github.com/ogulcancelik/herdr",
-    "score": 127,
-    "date": "2026-06-29",
-    "category": "AI News"
-  },
-  {
-    "title": "US AI is definitely coming back and still dominates the space - Fable back this week - GPT 5.6 in two weeks - Gemini 3.5 and Grok 4.5 are in testing P",
+    "title": "Prediction - a new frontier model will drop tomorrow Everyone will go back to raving about close source AI \ud83e\udd23",
     "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/bindureddy/status/2071596529241231664#m",
+    "url": "https://nitter.net/bindureddy/status/2071691419929190456#m",
     "date": "2026-06-29",
     "category": "Twitter"
   },
   {
-    "title": "Working with AI",
+    "title": "The CEO of Mullvad is the main financer of the Swedish \u00d6rebro party",
     "source": "Hacker News",
-    "description": "HN Score: 30 | 8 comments",
-    "url": "https://htmx.org/essays/working-with-ai/",
-    "score": 30,
+    "description": "HN Score: 480 | 1061 comments",
+    "url": "https://det.social/@lostgen/116820546568940358",
+    "score": 480,
     "date": "2026-06-29",
     "category": "AI News"
   },
   {
-    "title": "Grok 4.5 is in beta and I am hearing great things\u2026. Let\u2019s hope this model doesn\u2019t get banned \ud83e\udd1e Will be fantastic to get a fast agentic model",
+    "title": "\ud83d\udea8Combine open and closed AI to build complex software systems You can't do much with open source alone and closed source is too expensive - Multi-LLM ",
     "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/bindureddy/status/2071328916267250133#m",
+    "url": "https://nitter.net/bindureddy/status/2071668500909998317#m",
     "date": "2026-06-29",
     "category": "Twitter"
   },
   {
-    "title": "Knowledge Distillation of Black-Box Large Language Models (2024)",
+    "title": "Tidal AI Policy",
     "source": "Hacker News",
-    "description": "HN Score: 119 | 23 comments",
-    "url": "https://arxiv.org/abs/2401.07013",
-    "score": 119,
+    "description": "HN Score: 281 | 308 comments",
+    "url": "https://tidal.com/ai-policy",
+    "score": 281,
+    "date": "2026-06-29",
+    "category": "AI News"
+  },
+  {
+    "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No \u2013 88",
+    "source": "Hacker News",
+    "description": "HN Score: 936 | 397 comments",
+    "url": "https://danunparsed.com/p/hackerrank-open-source-ats",
+    "score": 936,
     "date": "2026-06-29",
     "category": "AI News"
   }
