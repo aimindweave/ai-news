@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Tidal AI Policy",
+    "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No \u2013 88",
     "source": "Hacker News",
-    "description": "HN Score: 178 | 207 comments",
-    "url": "https://tidal.com/ai-policy",
-    "score": 178,
+    "description": "HN Score: 869 | 374 comments",
+    "url": "https://danunparsed.com/p/hackerrank-open-source-ats",
+    "score": 869,
     "date": "2026-06-29",
     "category": "AI News"
   },
@@ -25,11 +25,28 @@
     "category": "Twitter"
   },
   {
-    "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No \u2013 88",
+    "title": "Ornith-1.0: self-improving open-source models for agentic coding",
     "source": "Hacker News",
-    "description": "HN Score: 786 | 333 comments",
-    "url": "https://danunparsed.com/p/hackerrank-open-source-ats",
-    "score": 786,
+    "description": "HN Score: 5 | 0 comments",
+    "url": "https://github.com/deepreinforce-ai/Ornith-1",
+    "score": 5,
+    "date": "2026-06-29",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: Introducing Cloak: Use Claude or ChatGPT without your personal data ever leaving your machine. Two 3B models do the on-device PII cl",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/praxisnation/status/2071625438292517248#m",
+    "date": "2026-06-29",
+    "category": "Twitter"
+  },
+  {
+    "title": "Tidal AI Policy",
+    "source": "Hacker News",
+    "description": "HN Score: 238 | 262 comments",
+    "url": "https://tidal.com/ai-policy",
+    "score": 238,
     "date": "2026-06-29",
     "category": "AI News"
   },
@@ -42,96 +59,62 @@
     "category": "Twitter"
   },
   {
-    "title": "Herdr: Agent multiplexer that lives in your terminal",
+    "title": "The CEO of Mullvad is the main financer of the Swedish \u00d6rebro party",
     "source": "Hacker News",
-    "description": "HN Score: 116 | 76 comments",
-    "url": "https://github.com/ogulcancelik/herdr",
-    "score": 116,
+    "description": "HN Score: 265 | 651 comments",
+    "url": "https://det.social/@lostgen/116820546568940358",
+    "score": 265,
     "date": "2026-06-29",
     "category": "AI News"
   },
   {
-    "title": "RT by @EMostaque: Will above fable level open source models be made illegal in the USA",
-    "source": "@EMostaque",
+    "title": "I made Physical AutoResearch sound simple (conceptually), but it took a village to pull off and lots of design thinking into the robot /loopcraft. The",
+    "source": "@DrJimFan",
     "description": "",
-    "url": "https://nitter.net/EMostaque/status/2070304540402851898#m",
+    "url": "https://nitter.net/DrJimFan/status/2067283904986517866#m",
+    "date": "2026-06-29",
+    "category": "Twitter"
+  },
+  {
+    "title": "Amazon Is Awash with AI-Written Guideslop for Games That Aren't Even Out",
+    "source": "Hacker News",
+    "description": "HN Score: 16 | 3 comments",
+    "url": "https://kotaku.com/amazon-ai-game-guidebooks-alien-isolation-gears-of-war-2000711365",
+    "score": 16,
+    "date": "2026-06-29",
+    "category": "AI News"
+  },
+  {
+    "title": "Oh wow, this makes a ton of sense: Scout is a platform that automatically creates agents based on a KPI you want to measure. You aren't building the a",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2071656695470919841#m",
     "date": "2026-06-29",
     "category": "Twitter"
   },
   {
     "title": "GLM 5.2 beats Claude in our benchmarks",
     "source": "Hacker News",
-    "description": "HN Score: 1027 | 472 comments",
+    "description": "HN Score: 1045 | 481 comments",
     "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
-    "score": 1027,
+    "score": 1045,
     "date": "2026-06-29",
     "category": "AI News"
   },
   {
-    "title": "Today, we enable AutoResearch in the physical world for the first time! Introducing ENPIRE: we give 8 Codex agents a fleet of robots, an allocation of",
-    "source": "@DrJimFan",
-    "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2066921736369766762#m",
-    "date": "2026-06-29",
-    "category": "Twitter"
-  },
-  {
-    "title": "I used Claude Code to get a second opinion on my MRI",
-    "source": "Hacker News",
-    "description": "HN Score: 527 | 650 comments",
-    "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
-    "score": 527,
-    "date": "2026-06-29",
-    "category": "AI News"
-  },
-  {
-    "title": "R to @DrJimFan: Project site: https://research.nvidia.com/labs/gear/enpire/ Wenli has written an excellent technical thread, please check it out!",
-    "source": "@DrJimFan",
-    "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2066921739087729043#m",
-    "date": "2026-06-29",
-    "category": "Twitter"
-  },
-  {
-    "title": "Data breach exposes up to 14.2M email logins at six ISPs",
-    "source": "Hacker News",
-    "description": "HN Score: 24 | 3 comments",
-    "url": "https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/",
-    "score": 24,
-    "date": "2026-06-29",
-    "category": "AI News"
-  },
-  {
-    "title": "How to measure whether using an agent is worth it: Instead of focusing on whether agents can do this or that, focus on 'value per token dollar'. Basic",
+    "title": "Harnesses matter way more than people think. Cline ran a couple of experiments on a set of coding tasks using GLM 5.2: \u2022 57.3% using their harness wit",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2071618375084835321#m",
+    "url": "https://nitter.net/svpino/status/2071628258307977499#m",
     "date": "2026-06-29",
     "category": "Twitter"
   },
   {
-    "title": "Working with AI",
+    "title": "Herdr: Agent multiplexer that lives in your terminal",
     "source": "Hacker News",
-    "description": "HN Score: 11 | 6 comments",
-    "url": "https://htmx.org/essays/working-with-ai/",
-    "score": 11,
-    "date": "2026-06-29",
-    "category": "AI News"
-  },
-  {
-    "title": "Cina's AI ecosystem is different from everyone else: Every company wants to release its own SOTA model, but they are all going open source. They are c",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2071233345737076945#m",
-    "date": "2026-06-29",
-    "category": "Twitter"
-  },
-  {
-    "title": "Knowledge Distillation of Black-Box Large Language Models (2024)",
-    "source": "Hacker News",
-    "description": "HN Score: 117 | 23 comments",
-    "url": "https://arxiv.org/abs/2401.07013",
-    "score": 117,
+    "description": "HN Score: 127 | 84 comments",
+    "url": "https://github.com/ogulcancelik/herdr",
+    "score": 127,
     "date": "2026-06-29",
     "category": "AI News"
   },
@@ -144,11 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Professor denounces mass AI fraud on an exam at Brown",
+    "title": "Working with AI",
     "source": "Hacker News",
-    "description": "HN Score: 503 | 645 comments",
-    "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
-    "score": 503,
+    "description": "HN Score: 30 | 8 comments",
+    "url": "https://htmx.org/essays/working-with-ai/",
+    "score": 30,
     "date": "2026-06-29",
     "category": "AI News"
   },
@@ -161,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Daisugi, the Japanese technique of growing trees out of other trees (2020)",
+    "title": "Knowledge Distillation of Black-Box Large Language Models (2024)",
     "source": "Hacker News",
-    "description": "HN Score: 163 | 50 comments",
-    "url": "https://www.openculture.com/2020/10/daisugi.html",
-    "score": 163,
+    "description": "HN Score: 119 | 23 comments",
+    "url": "https://arxiv.org/abs/2401.07013",
+    "score": 119,
     "date": "2026-06-29",
     "category": "AI News"
   }
