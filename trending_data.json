@@ -10,9 +10,9 @@
   {
     "title": ".self: A new top-level domain designed to support self-hosting",
     "source": "Hacker News",
-    "description": "HN Score: 513 | 294 comments",
+    "description": "HN Score: 546 | 316 comments",
     "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
-    "score": 513,
+    "score": 546,
     "date": "2026-06-30",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
     "source": "Hacker News",
-    "description": "HN Score: 146 | 42 comments",
+    "description": "HN Score: 174 | 47 comments",
     "url": "https://longcat.chat/blog/longcat-2.0/",
-    "score": 146,
+    "score": 174,
     "date": "2026-06-30",
     "category": "AI News"
   },
@@ -44,9 +44,9 @@
   {
     "title": "Ornith-1.0: self-improving open-source models for agentic coding",
     "source": "Hacker News",
-    "description": "HN Score: 211 | 39 comments",
+    "description": "HN Score: 221 | 40 comments",
     "url": "https://github.com/deepreinforce-ai/Ornith-1",
-    "score": 211,
+    "score": 221,
     "date": "2026-06-30",
     "category": "AI News"
   },
@@ -61,9 +61,9 @@
   {
     "title": "Apple Neural Engine: Architecture, Programming, and Performance",
     "source": "Hacker News",
-    "description": "HN Score: 173 | 23 comments",
+    "description": "HN Score: 191 | 25 comments",
     "url": "https://arxiv.org/abs/2606.22283",
-    "score": 173,
+    "score": 191,
     "date": "2026-06-30",
     "category": "AI News"
   },
@@ -78,9 +78,9 @@
   {
     "title": "Working With AI: A concrete example",
     "source": "Hacker News",
-    "description": "HN Score: 162 | 53 comments",
+    "description": "HN Score: 165 | 57 comments",
     "url": "https://htmx.org/essays/working-with-ai/",
-    "score": 162,
+    "score": 165,
     "date": "2026-06-30",
     "category": "AI News"
   },
@@ -95,9 +95,9 @@
   {
     "title": "Ornith-1.0: Self-scaffolding LLMs for agentic coding",
     "source": "Hacker News",
-    "description": "HN Score: 73 | 7 comments",
+    "description": "HN Score: 74 | 7 comments",
     "url": "https://deep-reinforce.com/ornith_1_0.html",
-    "score": 73,
+    "score": 74,
     "date": "2026-06-30",
     "category": "AI News"
   },
@@ -112,9 +112,9 @@
   {
     "title": "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API",
     "source": "Hacker News",
-    "description": "HN Score: 71 | 20 comments",
+    "description": "HN Score: 72 | 20 comments",
     "url": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models",
-    "score": 71,
+    "score": 72,
     "date": "2026-06-30",
     "category": "AI News"
   },
@@ -125,15 +125,6 @@
     "url": "https://nitter.net/bindureddy/status/2071828804620988539#m",
     "date": "2026-06-30",
     "category": "Twitter"
-  },
-  {
-    "title": "Anthropic embedded spyware in Claude Code \u2013 and attempted to hide it from you",
-    "source": "Hacker News",
-    "description": "HN Score: 5 | 0 comments",
-    "url": "https://old.reddit.com/r/ClaudeAI/comments/1ujila1/anthropic_embedded_spyware_in_claude_code_and/",
-    "score": 5,
-    "date": "2026-06-30",
-    "category": "AI News"
   },
   {
     "title": "\ud83d\udea8 Multi-LLM Agent Swarms - combine open and closed AI to build complex software using prompts open-source AI model can't handle long conversations but",
