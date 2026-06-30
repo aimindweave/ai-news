@@ -10,9 +10,9 @@
   {
     "title": ".self: A new top-level domain designed to support self-hosting",
     "source": "Hacker News",
-    "description": "HN Score: 379 | 216 comments",
+    "description": "HN Score: 513 | 294 comments",
     "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
-    "score": 379,
+    "score": 513,
     "date": "2026-06-30",
     "category": "AI News"
   },
@@ -27,43 +27,43 @@
   {
     "title": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
     "source": "Hacker News",
-    "description": "HN Score: 50 | 12 comments",
+    "description": "HN Score: 146 | 42 comments",
     "url": "https://longcat.chat/blog/longcat-2.0/",
-    "score": 50,
+    "score": 146,
     "date": "2026-06-30",
     "category": "AI News"
   },
   {
-    "title": "RT by @EMostaque: Thoughts: 1. Harness > models 2. Enterprises will jump on using zenith-shaped things to optimize costs (esp. with open source models",
+    "title": "RT by @EMostaque: You don't need Fable for the most complex tasks, from training models for protein prediction to optimising compilers Our open source",
     "source": "@EMostaque",
     "description": "",
-    "url": "https://nitter.net/brexton/status/2071693137630630372#m",
+    "url": "https://nitter.net/ii_posts/status/2071674024011161926#m",
     "date": "2026-06-30",
     "category": "Twitter"
   },
   {
     "title": "Ornith-1.0: self-improving open-source models for agentic coding",
     "source": "Hacker News",
-    "description": "HN Score: 173 | 32 comments",
+    "description": "HN Score: 211 | 39 comments",
     "url": "https://github.com/deepreinforce-ai/Ornith-1",
-    "score": 173,
+    "score": 211,
     "date": "2026-06-30",
     "category": "AI News"
   },
   {
-    "title": "RT by @EMostaque: In his speech today Andy Burnham promised to turn Britain into an 'Innovation Nation' through decentralisation But in AI - arguably ",
+    "title": "China's playboko is really simple. Take intelligence down to the cost of energy Output more power than the USA The giant training cluster focus was a ",
     "source": "@EMostaque",
     "description": "",
-    "url": "https://nitter.net/rowlsmanthorpe/status/2071669081850191952#m",
+    "url": "https://nitter.net/EMostaque/status/2071849429506666968#m",
     "date": "2026-06-30",
     "category": "Twitter"
   },
   {
     "title": "Apple Neural Engine: Architecture, Programming, and Performance",
     "source": "Hacker News",
-    "description": "HN Score: 138 | 18 comments",
+    "description": "HN Score: 173 | 23 comments",
     "url": "https://arxiv.org/abs/2606.22283",
-    "score": 138,
+    "score": 173,
     "date": "2026-06-30",
     "category": "AI News"
   },
@@ -76,33 +76,33 @@
     "category": "Twitter"
   },
   {
-    "title": "Open Memory Protocol \u2013 One Memory Store for Claude, ChatGPT, Curso",
+    "title": "Working With AI: A concrete example",
     "source": "Hacker News",
-    "description": "HN Score: 19 | 6 comments",
-    "url": "https://github.com/SMJAI/open-memory-protocol",
-    "score": 19,
+    "description": "HN Score: 162 | 53 comments",
+    "url": "https://htmx.org/essays/working-with-ai/",
+    "score": 162,
     "date": "2026-06-30",
     "category": "AI News"
   },
   {
-    "title": "RT by @svpino: How to measure whether using an agent is worth it: Instead of focusing on whether agents can do this or that, focus on 'value per token",
+    "title": "I agree with this, although it\u2019s easier said than done. Every model has its quirks, so swapping them is never as easy as it sounds. So far, every time",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2071618375084835321#m",
+    "url": "https://nitter.net/svpino/status/2071876558483005554#m",
     "date": "2026-06-30",
     "category": "Twitter"
   },
   {
-    "title": "Working With AI: A concrete example",
+    "title": "Ornith-1.0: Self-scaffolding LLMs for agentic coding",
     "source": "Hacker News",
-    "description": "HN Score: 107 | 35 comments",
-    "url": "https://htmx.org/essays/working-with-ai/",
-    "score": 107,
+    "description": "HN Score: 73 | 7 comments",
+    "url": "https://deep-reinforce.com/ornith_1_0.html",
+    "score": 73,
     "date": "2026-06-30",
     "category": "AI News"
   },
   {
-    "title": "LinkedIn better do something if they don't want to become the next StackOverflow.",
+    "title": "RT by @svpino: LinkedIn better do something if they don't want to become the next StackOverflow.",
     "source": "@svpino",
     "description": "",
     "url": "https://nitter.net/svpino/status/2071680100538716453#m",
@@ -112,9 +112,26 @@
   {
     "title": "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API",
     "source": "Hacker News",
-    "description": "HN Score: 63 | 19 comments",
+    "description": "HN Score: 71 | 20 comments",
     "url": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models",
-    "score": 63,
+    "score": 71,
+    "date": "2026-06-30",
+    "category": "AI News"
+  },
+  {
+    "title": "GLM 5.2 doesn't quite work in the real world because it doesn't have any vision capabilities and can't 'see images' Unless this is fixed, it can't rea",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2071828804620988539#m",
+    "date": "2026-06-30",
+    "category": "Twitter"
+  },
+  {
+    "title": "Anthropic embedded spyware in Claude Code \u2013 and attempted to hide it from you",
+    "source": "Hacker News",
+    "description": "HN Score: 5 | 0 comments",
+    "url": "https://old.reddit.com/r/ClaudeAI/comments/1ujila1/anthropic_embedded_spyware_in_claude_code_and/",
+    "score": 5,
     "date": "2026-06-30",
     "category": "AI News"
   },
@@ -125,40 +142,5 @@
     "url": "https://nitter.net/bindureddy/status/2071801296286605543#m",
     "date": "2026-06-30",
     "category": "Twitter"
-  },
-  {
-    "title": "Ornith-1.0: Self-scaffolding LLMs for agentic coding",
-    "source": "Hacker News",
-    "description": "HN Score: 66 | 7 comments",
-    "url": "https://deep-reinforce.com/ornith_1_0.html",
-    "score": 66,
-    "date": "2026-06-30",
-    "category": "AI News"
-  },
-  {
-    "title": "Prediction - a new frontier model will drop tomorrow Everyone will go back to raving about close source AI \ud83e\udd23",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2071691419929190456#m",
-    "date": "2026-06-30",
-    "category": "Twitter"
-  },
-  {
-    "title": "The CEO of Mullvad is the main financer of the Swedish \u00d6rebro party",
-    "source": "Hacker News",
-    "description": "HN Score: 555 | 1242 comments",
-    "url": "https://det.social/@lostgen/116820546568940358",
-    "score": 555,
-    "date": "2026-06-30",
-    "category": "AI News"
-  },
-  {
-    "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No \u2013 88",
-    "source": "Hacker News",
-    "description": "HN Score: 966 | 406 comments",
-    "url": "https://danunparsed.com/p/hackerrank-open-source-ats",
-    "score": 966,
-    "date": "2026-06-30",
-    "category": "AI News"
   }
 ]
