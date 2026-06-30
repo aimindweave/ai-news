@@ -1,5 +1,40 @@
 [
   {
+    "title": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
+    "source": "TechCrunch",
+    "summary": "Google is updating its image generator to make it faster and cheaper, making it a more useful tool for creators looking to make AI content.",
+    "url": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
+    "date": "2026-06-30"
+  },
+  {
+    "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
+    "source": "TechCrunch",
+    "summary": "Nvidia AI chip competitor Etched says it has already booked $1 billion under contract for the inference systems powered by its chip.",
+    "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
+    "date": "2026-06-30"
+  },
+  {
+    "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
+    "source": "TechCrunch",
+    "summary": "Anthropic\u2019s Claude Sonnet 5 brings stronger agentic capabilities, lower pricing, and improved safety, positioning the model as a cheaper alternative to Opus, GPT-5.5, and Gemini Pro.",
+    "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
+    "date": "2026-06-30"
+  },
+  {
+    "title": "Acti puts AI agents directly into your smartphone keyboard",
+    "source": "TechCrunch",
+    "summary": "Acti is betting the smartphone keyboard is the next home for AI assistants. The startup's new keyboard for iOS and Android works across apps and lets users create custom AI-powered shortcuts using natural language.",
+    "url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/",
+    "date": "2026-06-30"
+  },
+  {
+    "title": "Anthropic\u2019s Claude Science bets on workflow, not a new model, to win over scientists",
+    "source": "TechCrunch",
+    "summary": "Anthropic's Claude Science is a workbench that gives scientists one environment to do computational research, saving them from the need to bounce between databases, pipelines, and tools.",
+    "url": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
+    "date": "2026-06-30"
+  },
+  {
     "title": "X now offers an MCP server to make its platform easier for AI tools to use",
     "source": "TechCrunch",
     "summary": "X has launched a hosted MCP server, making it easier for developers to connect AI applications with the company\u2019s API.",
@@ -70,38 +105,10 @@
     "date": "2026-06-30"
   },
   {
-    "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
-    "source": "TechCrunch",
-    "summary": "The startup, which runs a popular free AI leaderboard, launched its commercial service just last September.",
-    "url": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
-    "date": "2026-06-30"
-  },
-  {
-    "title": "Cursor now has a mobile app for guiding your coding agent on the go",
-    "source": "TechCrunch",
-    "summary": "Cursor has launched a new mobile app for remote oversight over coding agents.",
-    "url": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
-    "date": "2026-06-30"
-  },
-  {
-    "title": "TIDAL cracks down on AI music by cutting off monetization",
-    "source": "TechCrunch",
-    "summary": "In addition, TIDAL will use automated tools to remove AI-generated music that attempts to impersonate an artist or a group, the company said.",
-    "url": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
-    "date": "2026-06-30"
-  },
-  {
-    "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
-    "source": "TechCrunch",
-    "summary": "The startup, Proception, is taking a unique approach to collecting training data to tackle one of the hardest problems in robotics: hands.",
-    "url": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
-    "date": "2026-06-30"
-  },
-  {
-    "title": "Omen AI\u2019s plan to optimize data centers is all wet",
-    "source": "TechCrunch",
-    "summary": "Omen AI raised a $31 million Series A to monitor chip coolant and stop bacterial outbreaks in data centers.",
-    "url": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
+    "title": "Roundtables: Longevity\u2019s Next Frontier: \u201cReprogramming\u201d Your Body",
+    "source": "MIT Tech Review",
+    "summary": "Listen to the session or watch below Billions of dollars are flooding into efforts to reverse aging as scientists explore ways to return cells to a younger state. But how far off are these experimental treatments? Will they really work? Watch a conversation exploring longevity s new focus. Speake...",
+    "url": "https://www.technologyreview.com/2026/06/30/1139958/roundtables-longevitys-next-frontier-reprogramming-your-body/",
     "date": "2026-06-30"
   },
   {
@@ -165,13 +172,6 @@
     "source": "MIT Tech Review",
     "summary": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how decisions are made behind the scenes: how products surface in search results, how in...",
     "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
-    "date": "2026-06-30"
-  },
-  {
-    "title": "The Download: Europe\u2019s heat wave hits the grid, and IBM\u2019s chip targets Moore\u2019s Law",
-    "source": "MIT Tech Review",
-    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Europe\u2019s extreme heat is shutting down power plants Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits as peopl...",
-    "url": "https://www.technologyreview.com/2026/06/25/1139738/the-download-europe-heat-wave-ibm-chip-moores-law/",
     "date": "2026-06-30"
   },
   {
@@ -242,6 +242,20 @@
     "source": "Wired",
     "summary": "This year, FIFA is providing an AI agent that any team can use. Is it enough to level the playing field or will future winners be determined by which team can afford the best tools?",
     "url": "https://www.wired.com/story/fifa-world-cup-2026-artificial-intelligence-tools/",
+    "date": "2026-06-30"
+  },
+  {
+    "title": "Google's new Nano Banana 2 Lite image model is its fastest and cheapest yet",
+    "source": "Ars Technica",
+    "summary": "They may not look as good, but Nano Banana 2 Lite images only take a few seconds to create.",
+    "url": "https://arstechnica.com/ai/2026/06/googles-new-nano-banana-2-lite-image-model-is-its-fastest-and-cheapest-yet/",
+    "date": "2026-06-30"
+  },
+  {
+    "title": "Trump's plan to redesign every .gov website leads to AI-designed horrors",
+    "source": "Ars Technica",
+    "summary": "A year in, National Design Studio delays plan to update government web standards.",
+    "url": "https://arstechnica.com/tech-policy/2026/06/trumps-plan-to-redesign-every-gov-website-leads-to-ai-designed-horrors/",
     "date": "2026-06-30"
   },
   {
@@ -333,20 +347,6 @@
     "source": "Ars Technica",
     "summary": "The company warned about dangers of advanced AI far more than rival OpenAI.",
     "url": "https://arstechnica.com/ai/2026/06/how-anthropic-may-have-talked-itself-into-an-ai-export-ban/",
-    "date": "2026-06-30"
-  },
-  {
-    "title": "As China looms, Taiwan makes more drones for defense and the US military",
-    "source": "Ars Technica",
-    "summary": "Taiwan's drone spending plans for defense could also boost business overseas.",
-    "url": "https://arstechnica.com/ai/2026/06/as-china-looms-taiwan-makes-more-drones-for-defense-and-the-us-military/",
-    "date": "2026-06-30"
-  },
-  {
-    "title": "Bernie Sanders unveils $7 trillion plan to give Americans control of AI industry",
-    "source": "Ars Technica",
-    "summary": "Biggest AI firms will likely recoil at Bernie Sanders' AI wealth fund.",
-    "url": "https://arstechnica.com/tech-policy/2026/06/bernie-sanders-unveils-7-trillion-plan-to-give-americans-control-of-ai-industry/",
     "date": "2026-06-30"
   }
 ]
