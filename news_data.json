@@ -1,8 +1,36 @@
 [
   {
+    "title": "X now offers an MCP server to make its platform easier for AI tools to use",
+    "source": "TechCrunch",
+    "summary": "X has launched a hosted MCP server, making it easier for developers to connect AI applications with the company\u2019s API.",
+    "url": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
+    "date": "2026-06-30"
+  },
+  {
+    "title": "Podcasting platform Riverside enters the newsletter publishing game",
+    "source": "TechCrunch",
+    "summary": "Users will be able use AI to create newsletters based on their recordings.",
+    "url": "https://techcrunch.com/2026/06/30/podcasting-platform-riverside-enters-the-newsletter-publishing-game/",
+    "date": "2026-06-30"
+  },
+  {
+    "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
+    "source": "TechCrunch",
+    "summary": "Engineers on the new team will embed within companies to deploy purpose-built agents, focusing on fast deployments and customer self-sufficiency.",
+    "url": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
+    "date": "2026-06-30"
+  },
+  {
+    "title": "Lumo, Proton\u2019s privacy-focused AI chatbot, gets an upgrade",
+    "source": "TechCrunch",
+    "summary": "Proton's Lumo 2.0 is dropping this week, giving users a broader variety of capabilities.",
+    "url": "https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/",
+    "date": "2026-06-30"
+  },
+  {
     "title": "Crypto exchange OKX wants AI agents to hire and pay each other",
     "source": "TechCrunch",
-    "summary": "OKX is bringing together payments, identity and reputation into a marketplace for AI agents.",
+    "summary": "OKX is bringing together payments, identity, and reputation into a marketplace for AI agents.",
     "url": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
     "date": "2026-06-30"
   },
@@ -14,9 +42,9 @@
     "date": "2026-06-30"
   },
   {
-    "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
+    "title": "Vibe-coding platform Base44 launches own model as AI startups seek defensibility",
     "source": "TechCrunch",
-    "summary": "Wix-owned vibe coding platform Base44 has started rolling out its own AI model \u2014 with hopes that it will eventually outperform frontier models.",
+    "summary": "Wix-owned vibe-coding platform Base44 has started rolling out its own AI model \u2014 with hopes that it will eventually outperform frontier models.",
     "url": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
     "date": "2026-06-30"
   },
@@ -77,31 +105,17 @@
     "date": "2026-06-30"
   },
   {
-    "title": "Ford rehires \u2018gray beard\u2019 engineers after AI falls short",
-    "source": "TechCrunch",
-    "summary": "'Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.\u201d",
-    "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+    "title": "The Download: AI \u201ccoworkers\u201d and stratospheric internet",
+    "source": "MIT Tech Review",
+    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. AI agents are not your \u201ccoworkers\u201d Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool\u2014one",
+    "url": "https://www.technologyreview.com/2026/06/30/1139954/the-download-ai-agents-coworkers-solar-powered-internet/",
     "date": "2026-06-30"
   },
   {
-    "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
-    "source": "TechCrunch",
-    "summary": "Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron.",
-    "url": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
-    "date": "2026-06-30"
-  },
-  {
-    "title": "SoftBank\u2019s CEO isn\u2019t the only one with questions about Elon Musk\u2019s orbital data center hype",
-    "source": "TechCrunch",
-    "summary": "Not everyone is buying Elon Musk\u2019s vision for orbital data centers.",
-    "url": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
-    "date": "2026-06-30"
-  },
-  {
-    "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
-    "source": "TechCrunch",
-    "summary": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI\u2019s hardware team.",
-    "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+    "title": "Agriculture is ready for AI, but its data isn\u2019t",
+    "source": "MIT Tech Review",
+    "summary": "Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying the groundwork. The use cases are promising, especially for an industry navigating volatile fertilizer costs, unpredictable weather, and margins tha...",
+    "url": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
     "date": "2026-06-30"
   },
   {
@@ -158,20 +172,6 @@
     "source": "MIT Tech Review",
     "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Europe\u2019s extreme heat is shutting down power plants Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits as peopl...",
     "url": "https://www.technologyreview.com/2026/06/25/1139738/the-download-europe-heat-wave-ibm-chip-moores-law/",
-    "date": "2026-06-30"
-  },
-  {
-    "title": "What Europe\u2019s heat wave means for the power grid",
-    "source": "MIT Tech Review",
-    "summary": "It\u2019s been hard to look away from headlines about the European heat wave this week. Temperatures are breaking records across the continent, and the weather is threatening lives, shutting down schools, and in one particularly ironic case, forcing the cancellation of a London Climate Action Week eve...",
-    "url": "https://www.technologyreview.com/2026/06/25/1139690/europe-heat-wave-grid/",
-    "date": "2026-06-30"
-  },
-  {
-    "title": "IBM has unveiled chip technology that could help extend Moore\u2019s Law another decade",
-    "source": "MIT Tech Review",
-    "summary": "IBM has built a new prototype chip with around 100 billion transistors on an area the size of a fingernail, which is twice the density of the company\u2019s previous state-of-the-art technology announced in 2021. The design could pave the way for faster and more energy efficient computers for years to...",
-    "url": "https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/",
     "date": "2026-06-30"
   },
   {
@@ -242,6 +242,13 @@
     "source": "Wired",
     "summary": "This year, FIFA is providing an AI agent that any team can use. Is it enough to level the playing field or will future winners be determined by which team can afford the best tools?",
     "url": "https://www.wired.com/story/fifa-world-cup-2026-artificial-intelligence-tools/",
+    "date": "2026-06-30"
+  },
+  {
+    "title": "Trump asked Musk for SpaceX stock to seed US kids\u2019 savings accounts, report says",
+    "source": "Ars Technica",
+    "summary": "Sources suggest Musk may be mulling big donation to Trump Accounts.",
+    "url": "https://arstechnica.com/tech-policy/2026/06/spacex-may-donate-stock-to-trumps-savings-accounts-for-kids-report-says/",
     "date": "2026-06-30"
   },
   {
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "Biggest AI firms will likely recoil at Bernie Sanders' AI wealth fund.",
     "url": "https://arstechnica.com/tech-policy/2026/06/bernie-sanders-unveils-7-trillion-plan-to-give-americans-control-of-ai-industry/",
-    "date": "2026-06-30"
-  },
-  {
-    "title": "AI coding agents taught robots how to install GPUs and cut zip ties",
-    "source": "Ars Technica",
-    "summary": "Nvidia's self-improvement program for robots enlists teams of AI coding agents.",
-    "url": "https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/",
     "date": "2026-06-30"
   }
 ]
