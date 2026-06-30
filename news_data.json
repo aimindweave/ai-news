@@ -1,5 +1,19 @@
 [
   {
+    "title": "OpenClaw is finally available on Android and iOS",
+    "source": "TechCrunch",
+    "summary": "The free open source agentic program is finally invading your phone.",
+    "url": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
+    "date": "2026-06-30"
+  },
+  {
+    "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
+    "source": "TechCrunch",
+    "summary": "EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind researchers, is now valued at more than $500 million.",
+    "url": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
+    "date": "2026-06-30"
+  },
+  {
     "title": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
     "source": "TechCrunch",
     "summary": "Google is updating its image generator to make it faster and cheaper, making it a more useful tool for creators looking to make AI content.",
@@ -91,17 +105,10 @@
     "date": "2026-06-30"
   },
   {
-    "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
-    "source": "TechCrunch",
-    "summary": "As Anthropic forges a closer relationship with the state of California, the federal government has made an enemy out of the OpenAI rival.",
-    "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
-    "date": "2026-06-30"
-  },
-  {
-    "title": "South Korean tech giants commit over $550B to ease \u2018RAMageddon\u2019",
-    "source": "TechCrunch",
-    "summary": "The world's two largest memory chip companies vow to build more memory lab fabs as South Korea positions itself as an AI tech powerhouse country.",
-    "url": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
+    "title": "Claude Science is Anthropic\u2019s newest flagship product",
+    "source": "MIT Tech Review",
+    "summary": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software engineering. Like Claude Code, Claude Science can autonomousl...",
+    "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
     "date": "2026-06-30"
   },
   {
@@ -165,13 +172,6 @@
     "source": "MIT Tech Review",
     "summary": "It\u2019s been hot in London this week. Really hot. A dangerous heat wave has hit Western Europe. Yesterday, the UK recorded its highest ever June temperature at 36.1 \u00b0C (about 97 \u00b0F). But as the weather app on my phone confirmed, it felt like 39 \u00b0C. It\u2019s frightening that we are seeing such temperatur...",
     "url": "https://www.technologyreview.com/2026/06/26/1139760/heat-waves-mess-with-your-brain-scientists-are-trying-to-figure-out-why/",
-    "date": "2026-06-30"
-  },
-  {
-    "title": "Repositioning retail for the AI era",
-    "source": "MIT Tech Review",
-    "summary": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how decisions are made behind the scenes: how products surface in search results, how in...",
-    "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
     "date": "2026-06-30"
   },
   {
@@ -242,6 +242,13 @@
     "source": "Wired",
     "summary": "This year, FIFA is providing an AI agent that any team can use. Is it enough to level the playing field or will future winners be determined by which team can afford the best tools?",
     "url": "https://www.wired.com/story/fifa-world-cup-2026-artificial-intelligence-tools/",
+    "date": "2026-06-30"
+  },
+  {
+    "title": "New attack provides one more reason why AI browsers are a bad idea",
+    "source": "Ars Technica",
+    "summary": "Telling an LLM that 2 + 2 = 5 is enough to make it follow forbidden instructions.",
+    "url": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
     "date": "2026-06-30"
   },
   {
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "US autoworkers union warns of robot automation as dark factory future looms.",
     "url": "https://arstechnica.com/ai/2026/06/gm-installs-robots-at-flagship-ev-factory-after-laying-off-1300-workers/",
-    "date": "2026-06-30"
-  },
-  {
-    "title": "How Anthropic may have talked itself into an AI export ban",
-    "source": "Ars Technica",
-    "summary": "The company warned about dangers of advanced AI far more than rival OpenAI.",
-    "url": "https://arstechnica.com/ai/2026/06/how-anthropic-may-have-talked-itself-into-an-ai-export-ban/",
     "date": "2026-06-30"
   }
 ]

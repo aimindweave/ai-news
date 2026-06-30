@@ -10,9 +10,9 @@
   {
     "title": "Claude Sonnet 5",
     "source": "Hacker News",
-    "description": "HN Score: 511 | 263 comments",
+    "description": "HN Score: 786 | 444 comments",
     "url": "https://www.anthropic.com/news/claude-sonnet-5",
-    "score": 511,
+    "score": 786,
     "date": "2026-06-30",
     "category": "AI News"
   },
@@ -27,9 +27,26 @@
   {
     "title": "Claude Code is steganographically marking requests",
     "source": "Hacker News",
-    "description": "HN Score: 905 | 249 comments",
+    "description": "HN Score: 1267 | 356 comments",
     "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
-    "score": 905,
+    "score": 1267,
+    "date": "2026-06-30",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: You don't need Fable for the most complex tasks, from training models for protein prediction to optimising compilers Our open source",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/ii_posts/status/2071674024011161926#m",
+    "date": "2026-06-30",
+    "category": "Twitter"
+  },
+  {
+    "title": "From brain waves to words: a new path to communication without surgery",
+    "source": "Hacker News",
+    "description": "HN Score: 71 | 42 comments",
+    "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1",
+    "score": 71,
     "date": "2026-06-30",
     "category": "AI News"
   },
@@ -44,26 +61,9 @@
   {
     "title": "Claude Science",
     "source": "Hacker News",
-    "description": "HN Score: 202 | 80 comments",
+    "description": "HN Score: 322 | 109 comments",
     "url": "https://claude.com/product/claude-science",
-    "score": 202,
-    "date": "2026-06-30",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @EMostaque: Follow & contribute to Zenith in our repo Meta-Zenith and other updates to come https://github.com/Intelligent-Internet/zenith",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/ii_posts/status/2071674026863251656#m",
-    "date": "2026-06-30",
-    "category": "Twitter"
-  },
-  {
-    "title": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
-    "source": "Hacker News",
-    "description": "HN Score: 258 | 76 comments",
-    "url": "https://longcat.chat/blog/longcat-2.0/",
-    "score": 258,
+    "score": 322,
     "date": "2026-06-30",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: I made a heatmap of 3400 VCs who are open to cold emails",
+    "title": "TabFM: A zero-shot foundation model for tabular data",
     "source": "Hacker News",
-    "description": "HN Score: 18 | 8 comments",
-    "url": "https://apparent.social/heat-map",
-    "score": 18,
+    "description": "HN Score: 16 | 3 comments",
+    "url": "https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/",
+    "score": 16,
     "date": "2026-06-30",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": ".self: A new top-level domain designed to support self-hosting",
+    "title": "Ask HN: Since when does Craigslist's front page have emojis?",
     "source": "Hacker News",
-    "description": "HN Score: 649 | 361 comments",
-    "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
-    "score": 649,
+    "description": "HN Score: 5 | 5 comments",
+    "url": "https://news.ycombinator.com/item?id=48739792",
+    "score": 5,
     "date": "2026-06-30",
     "category": "AI News"
   },
@@ -110,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Computer-Aided Language Development in Nonspeaking Children (1968) [pdf]",
+    "title": "Claude Code Just Got 5x More Expensive",
     "source": "Hacker News",
-    "description": "HN Score: 33 | 2 comments",
-    "url": "https://archive.org/details/colby1968-computer-aided-language-development-in-non-speaking-children",
-    "score": 33,
+    "description": "HN Score: 26 | 1 comments",
+    "url": "https://www.vincentschmalbach.com/claude-code-quietly-looks-5x-more-expensive/",
+    "score": 26,
     "date": "2026-06-30",
     "category": "AI News"
   },
@@ -127,46 +127,19 @@
     "category": "Twitter"
   },
   {
-    "title": "Ornith-1.0: self-improving open-source models for agentic coding",
-    "source": "Hacker News",
-    "description": "HN Score: 251 | 48 comments",
-    "url": "https://github.com/deepreinforce-ai/Ornith-1",
-    "score": 251,
-    "date": "2026-06-30",
-    "category": "AI News"
-  },
-  {
-    "title": "Sonnet 5.0 just dropped. Early vibes > huge token guzzler, promotion pricing helps > step above 4.6, but not really as good as Opus 4.8 Opus 4.8 still",
+    "title": "Latest news from Politico, is that White House will be lifting the Fable 5 ban tonite The big question - will it be generally available? If it's not G",
     "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/bindureddy/status/2072020853282549973#m",
+    "url": "https://nitter.net/bindureddy/status/2072091953513320886#m",
     "date": "2026-06-30",
     "category": "Twitter"
   },
   {
-    "title": "Apple Neural Engine: Architecture, Programming, and Performance",
-    "source": "Hacker News",
-    "description": "HN Score: 225 | 27 comments",
-    "url": "https://arxiv.org/abs/2606.22283",
-    "score": 225,
-    "date": "2026-06-30",
-    "category": "AI News"
-  },
-  {
-    "title": "Every single day, GPT 5.6 is not generally available the US loses the AI race Already my timeline is full of Chinese models Two more weeks of this and",
+    "title": "What if I said, Sonnet 5.0 scores below GLM 5.2 \ud83d\ude32 In other words, this is how badly we need Fable and GPT 5.6",
     "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/bindureddy/status/2071945874398433319#m",
+    "url": "https://nitter.net/bindureddy/status/2072051439422304742#m",
     "date": "2026-06-30",
     "category": "Twitter"
-  },
-  {
-    "title": "Claude Desktop is now available on Linux (in beta)",
-    "source": "Hacker News",
-    "description": "HN Score: 34 | 4 comments",
-    "url": "https://code.claude.com/docs/en/desktop-linux",
-    "score": 34,
-    "date": "2026-06-30",
-    "category": "AI News"
   }
 ]
