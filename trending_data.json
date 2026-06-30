@@ -4,16 +4,16 @@
     "source": "@kaborobot",
     "description": "",
     "url": "https://nitter.net/kaborobot/status/2063568544277909948#m",
-    "date": "2026-06-29",
+    "date": "2026-06-30",
     "category": "Twitter"
   },
   {
     "title": ".self: A new top-level domain designed to support self-hosting",
     "source": "Hacker News",
-    "description": "HN Score: 205 | 133 comments",
+    "description": "HN Score: 379 | 216 comments",
     "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
-    "score": 205,
-    "date": "2026-06-29",
+    "score": 379,
+    "date": "2026-06-30",
     "category": "AI News"
   },
   {
@@ -21,16 +21,33 @@
     "source": "@kaborobot",
     "description": "",
     "url": "https://nitter.net/kaborobot/status/2058205543760838842#m",
-    "date": "2026-06-29",
+    "date": "2026-06-30",
+    "category": "Twitter"
+  },
+  {
+    "title": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
+    "source": "Hacker News",
+    "description": "HN Score: 50 | 12 comments",
+    "url": "https://longcat.chat/blog/longcat-2.0/",
+    "score": 50,
+    "date": "2026-06-30",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: Thoughts: 1. Harness > models 2. Enterprises will jump on using zenith-shaped things to optimize costs (esp. with open source models",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/brexton/status/2071693137630630372#m",
+    "date": "2026-06-30",
     "category": "Twitter"
   },
   {
     "title": "Ornith-1.0: self-improving open-source models for agentic coding",
     "source": "Hacker News",
-    "description": "HN Score: 125 | 27 comments",
+    "description": "HN Score: 173 | 32 comments",
     "url": "https://github.com/deepreinforce-ai/Ornith-1",
-    "score": 125,
-    "date": "2026-06-29",
+    "score": 173,
+    "date": "2026-06-30",
     "category": "AI News"
   },
   {
@@ -38,33 +55,16 @@
     "source": "@EMostaque",
     "description": "",
     "url": "https://nitter.net/rowlsmanthorpe/status/2071669081850191952#m",
-    "date": "2026-06-29",
+    "date": "2026-06-30",
     "category": "Twitter"
   },
   {
     "title": "Apple Neural Engine: Architecture, Programming, and Performance",
     "source": "Hacker News",
-    "description": "HN Score: 78 | 10 comments",
+    "description": "HN Score: 138 | 18 comments",
     "url": "https://arxiv.org/abs/2606.22283",
-    "score": 78,
-    "date": "2026-06-29",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @EMostaque: You don't need Fable for the most complex tasks, from training models for protein prediction to optimising compilers Our open source",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/ii_posts/status/2071674024011161926#m",
-    "date": "2026-06-29",
-    "category": "Twitter"
-  },
-  {
-    "title": "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API",
-    "source": "Hacker News",
-    "description": "HN Score: 40 | 11 comments",
-    "url": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models",
-    "score": 40,
-    "date": "2026-06-29",
+    "score": 138,
+    "date": "2026-06-30",
     "category": "AI News"
   },
   {
@@ -72,16 +72,33 @@
     "source": "@DrJimFan",
     "description": "",
     "url": "https://nitter.net/DrJimFan/status/2067283904986517866#m",
-    "date": "2026-06-29",
+    "date": "2026-06-30",
+    "category": "Twitter"
+  },
+  {
+    "title": "Open Memory Protocol \u2013 One Memory Store for Claude, ChatGPT, Curso",
+    "source": "Hacker News",
+    "description": "HN Score: 19 | 6 comments",
+    "url": "https://github.com/SMJAI/open-memory-protocol",
+    "score": 19,
+    "date": "2026-06-30",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: How to measure whether using an agent is worth it: Instead of focusing on whether agents can do this or that, focus on 'value per token",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2071618375084835321#m",
+    "date": "2026-06-30",
     "category": "Twitter"
   },
   {
     "title": "Working With AI: A concrete example",
     "source": "Hacker News",
-    "description": "HN Score: 61 | 24 comments",
+    "description": "HN Score: 107 | 35 comments",
     "url": "https://htmx.org/essays/working-with-ai/",
-    "score": 61,
-    "date": "2026-06-29",
+    "score": 107,
+    "date": "2026-06-30",
     "category": "AI News"
   },
   {
@@ -89,33 +106,33 @@
     "source": "@svpino",
     "description": "",
     "url": "https://nitter.net/svpino/status/2071680100538716453#m",
-    "date": "2026-06-29",
+    "date": "2026-06-30",
+    "category": "Twitter"
+  },
+  {
+    "title": "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API",
+    "source": "Hacker News",
+    "description": "HN Score: 63 | 19 comments",
+    "url": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models",
+    "score": 63,
+    "date": "2026-06-30",
+    "category": "AI News"
+  },
+  {
+    "title": "\ud83d\udea8 Multi-LLM Agent Swarms - combine open and closed AI to build complex software using prompts open-source AI model can't handle long conversations but",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2071801296286605543#m",
+    "date": "2026-06-30",
     "category": "Twitter"
   },
   {
     "title": "Ornith-1.0: Self-scaffolding LLMs for agentic coding",
     "source": "Hacker News",
-    "description": "HN Score: 47 | 6 comments",
+    "description": "HN Score: 66 | 7 comments",
     "url": "https://deep-reinforce.com/ornith_1_0.html",
-    "score": 47,
-    "date": "2026-06-29",
-    "category": "AI News"
-  },
-  {
-    "title": "Oh wow, this makes a ton of sense: Scout is a platform that automatically creates agents based on a KPI you want to measure. You aren't building the a",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2071656695470919841#m",
-    "date": "2026-06-29",
-    "category": "Twitter"
-  },
-  {
-    "title": "The CEO of Mullvad is the main financer of the Swedish \u00d6rebro party",
-    "source": "Hacker News",
-    "description": "HN Score: 506 | 1138 comments",
-    "url": "https://det.social/@lostgen/116820546568940358",
-    "score": 506,
-    "date": "2026-06-29",
+    "score": 66,
+    "date": "2026-06-30",
     "category": "AI News"
   },
   {
@@ -123,42 +140,25 @@
     "source": "@bindureddy",
     "description": "",
     "url": "https://nitter.net/bindureddy/status/2071691419929190456#m",
-    "date": "2026-06-29",
+    "date": "2026-06-30",
     "category": "Twitter"
   },
   {
-    "title": "Tidal AI Policy",
+    "title": "The CEO of Mullvad is the main financer of the Swedish \u00d6rebro party",
     "source": "Hacker News",
-    "description": "HN Score: 288 | 312 comments",
-    "url": "https://tidal.com/ai-policy",
-    "score": 288,
-    "date": "2026-06-29",
-    "category": "AI News"
-  },
-  {
-    "title": "US AI is definitely coming back and still dominates the space - Fable back this week - GPT 5.6 in two weeks - Gemini 3.5 and Grok 4.5 are in testing P",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2071596529241231664#m",
-    "date": "2026-06-29",
-    "category": "Twitter"
-  },
-  {
-    "title": "ACL 1.0: A source-available commercial license for the AI era",
-    "source": "Hacker News",
-    "description": "HN Score: 14 | 7 comments",
-    "url": "https://www.auditablelicense.org/",
-    "score": 14,
-    "date": "2026-06-29",
+    "description": "HN Score: 555 | 1242 comments",
+    "url": "https://det.social/@lostgen/116820546568940358",
+    "score": 555,
+    "date": "2026-06-30",
     "category": "AI News"
   },
   {
     "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No \u2013 88",
     "source": "Hacker News",
-    "description": "HN Score: 942 | 402 comments",
+    "description": "HN Score: 966 | 406 comments",
     "url": "https://danunparsed.com/p/hackerrank-open-source-ats",
-    "score": 942,
-    "date": "2026-06-29",
+    "score": 966,
+    "date": "2026-06-30",
     "category": "AI News"
   }
 ]
