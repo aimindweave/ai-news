@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+    "title": "ZCode: Claude Code from the Makers of GLM",
     "source": "Hacker News",
-    "description": "HN Score: 840 | 552 comments",
-    "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
-    "score": 840,
+    "description": "HN Score: 93 | 27 comments",
+    "url": "https://zcode.z.ai/cn",
+    "score": 93,
     "date": "2026-07-01",
     "category": "AI News"
   },
@@ -25,11 +25,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Sony Deletes 551 Movies PlayStation Owners Paid For",
+    "title": "Show HN: Z-Jail \u2013 A 130 KB Linux sandbox-C99 with 7 defense layers and zero deps",
     "source": "Hacker News",
-    "description": "HN Score: 146 | 61 comments",
-    "url": "https://reclaimthenet.org/sony-deletes-551-studiocanal-movies-playstation-owners-paid-for",
-    "score": 146,
+    "description": "HN Score: 8 | 2 comments",
+    "url": "https://github.com/Division-36/Z-Jail/",
+    "score": 8,
+    "date": "2026-07-01",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: You don't need Fable for the most complex tasks, from training models for protein prediction to optimising compilers Our open source",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/ii_posts/status/2071674024011161926#m",
+    "date": "2026-07-01",
+    "category": "Twitter"
+  },
+  {
+    "title": "Claude Fable 5 Promotional Access",
+    "source": "Hacker News",
+    "description": "HN Score: 11 | 4 comments",
+    "url": "https://support.claude.com/en/articles/15424964-claude-fable-5-promotional-access",
+    "score": 11,
     "date": "2026-07-01",
     "category": "AI News"
   },
@@ -42,28 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Nintendo has raised its employees base salary by 10%",
+    "title": "Sony Deletes 551 Movies PlayStation Owners Paid For",
     "source": "Hacker News",
-    "description": "HN Score: 344 | 173 comments",
-    "url": "https://mynintendonews.com/2026/06/26/nintendo-has-raised-its-employees-base-salary-by-10/",
-    "score": 344,
-    "date": "2026-07-01",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @EMostaque: Emad Mostaque on PostAGI: 'Right now, not a single institution is on your side. The companies won't look out for you, and the govern",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/soubhikdeb/status/2072017923754135819#m",
-    "date": "2026-07-01",
-    "category": "Twitter"
-  },
-  {
-    "title": "Meta loses bid to dismiss US states' claims that FB, Instagram addict children",
-    "source": "Hacker News",
-    "description": "HN Score: 31 | 1 comments",
-    "url": "https://www.reuters.com/legal/government/meta-loses-bid-dismiss-us-states-claims-that-facebook-instagram-addict-children-2026-06-30/",
-    "score": 31,
+    "description": "HN Score: 351 | 172 comments",
+    "url": "https://reclaimthenet.org/sony-deletes-551-studiocanal-movies-playstation-owners-paid-for",
+    "score": 351,
     "date": "2026-07-01",
     "category": "AI News"
   },
@@ -76,62 +76,79 @@
     "category": "Twitter"
   },
   {
-    "title": "Claude Sonnet 5",
+    "title": "Apple 'Hide My Email' vulnerability reveals peoples' real email addresses",
     "source": "Hacker News",
-    "description": "HN Score: 1216 | 751 comments",
-    "url": "https://www.anthropic.com/news/claude-sonnet-5",
-    "score": 1216,
+    "description": "HN Score: 183 | 36 comments",
+    "url": "https://easyoptouts.com/guides/apple-hide-my-email-is-leaking-email-addresses",
+    "score": 183,
     "date": "2026-07-01",
     "category": "AI News"
   },
   {
-    "title": "Today, we give robots a /skills library that self-evolves and compounds indefinitely! Introducing ASPIRE: a robot solving its 100th task is no longer ",
+    "title": "R to @DrJimFan: Project gallery and whitepaper: https://research.nvidia.com/labs/gear/aspire/ ASPIRE is a great collaboration between NVIDIA GEAR lab,",
     "source": "@DrJimFan",
     "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2072004190856212902#m",
+    "url": "https://nitter.net/DrJimFan/status/2072004192294830583#m",
+    "date": "2026-07-01",
+    "category": "Twitter"
+  },
+  {
+    "title": "Nintendo has raised its employees base salary by 10%",
+    "source": "Hacker News",
+    "description": "HN Score: 457 | 276 comments",
+    "url": "https://mynintendonews.com/2026/06/26/nintendo-has-raised-its-employees-base-salary-by-10/",
+    "score": 457,
+    "date": "2026-07-01",
+    "category": "AI News"
+  },
+  {
+    "title": "R to @svpino: From the information page of our hotel:",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2072408963920875786#m",
+    "date": "2026-07-01",
+    "category": "Twitter"
+  },
+  {
+    "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+    "source": "Hacker News",
+    "description": "HN Score: 905 | 611 comments",
+    "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
+    "score": 905,
+    "date": "2026-07-01",
+    "category": "AI News"
+  },
+  {
+    "title": "In Brussels for the first time. My hotel tells me I can't control the A/C because of the environment. They promise they will keep it at 26C for me the",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2072395062210941212#m",
+    "date": "2026-07-01",
+    "category": "Twitter"
+  },
+  {
+    "title": "Show HN: AnalystAIPack \u2013 118 runnable agent skills for malware analysis and RE",
+    "source": "Hacker News",
+    "description": "HN Score: 6 | 1 comments",
+    "url": "https://meltedinhex.com/posts/analyst-ai-pack/",
+    "score": 6,
+    "date": "2026-07-01",
+    "category": "AI News"
+  },
+  {
+    "title": "Fable 5 is back! Rolling out now both in Abacus AI agent and ChatLLM Routes automatically to Fable 5.0 for complex coding tasks",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2072404816903741817#m",
     "date": "2026-07-01",
     "category": "Twitter"
   },
   {
     "title": "Claude Code is steganographically marking requests",
     "source": "Hacker News",
-    "description": "HN Score: 2318 | 692 comments",
+    "description": "HN Score: 2340 | 704 comments",
     "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
-    "score": 2318,
-    "date": "2026-07-01",
-    "category": "AI News"
-  },
-  {
-    "title": "I wouldn\u2019t be surprised if people were actively sabotaging AI at their company right now.",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2072339003483758914#m",
-    "date": "2026-07-01",
-    "category": "Twitter"
-  },
-  {
-    "title": "Claude Science",
-    "source": "Hacker News",
-    "description": "HN Score: 548 | 160 comments",
-    "url": "https://claude.com/product/claude-science",
-    "score": 548,
-    "date": "2026-07-01",
-    "category": "AI News"
-  },
-  {
-    "title": "AG-UI makes building agentic applications dramatically easier. Here's how it works. This is a model for a simple chatbot: User \u2192 LLM \u2192 Response But in",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2072335227142427117#m",
-    "date": "2026-07-01",
-    "category": "Twitter"
-  },
-  {
-    "title": "I don't maintain my homelab, it maintains itself",
-    "source": "Hacker News",
-    "description": "HN Score: 61 | 56 comments",
-    "url": "https://cleberg.net/blog/homelab-maintenance.html",
-    "score": 61,
+    "score": 2340,
     "date": "2026-07-01",
     "category": "AI News"
   },
@@ -144,20 +161,12 @@
     "category": "Twitter"
   },
   {
-    "title": "Matrix Orthogonalization Improves Memory in Recurrent Models",
+    "title": "Show HN: Classify mechanical faults using Contrastive Language-Audio Pretraining",
     "source": "Hacker News",
-    "description": "HN Score: 74 | 23 comments",
-    "url": "https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/",
-    "score": 74,
+    "description": "HN Score: 5 | 0 comments",
+    "url": "https://github.com/adam-s/car-diagnosis",
+    "score": 5,
     "date": "2026-07-01",
     "category": "AI News"
-  },
-  {
-    "title": "Stop hating so much and celebrate \ud83c\udf89 Fable and 5.6 will be available globally This is a HUGE VICTORY for the world The alternative is a permanent under",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2072314990430982396#m",
-    "date": "2026-07-01",
-    "category": "Twitter"
   }
 ]

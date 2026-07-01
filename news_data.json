@@ -1,5 +1,26 @@
 [
   {
+    "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
+    "source": "TechCrunch",
+    "summary": "SpaceX reportedly showed investors a 'handset-like' AI device before going public. It could be another signal SpaceX wants to expand into wireless.",
+    "url": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
+    "date": "2026-07-01"
+  },
+  {
+    "title": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
+    "source": "TechCrunch",
+    "summary": "Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing the layer underneath those companies \u2014 the infrastructure and energy that power them.",
+    "url": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
+    "date": "2026-07-01"
+  },
+  {
+    "title": "Cloudflare\u2019s new policy pushes AI companies to pay for publishers\u2019 content",
+    "source": "TechCrunch",
+    "summary": "Cloudflare is giving AI companies until September 15 to separate web crawlers used for search from those used for AI training and agents, or risk being blocked by default on many publisher sites.",
+    "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+    "date": "2026-07-01"
+  },
+  {
     "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
     "source": "TechCrunch",
     "summary": "Venice AI is already profitable, with annualized run-rate revenues of over $70 million, CEO Erik Voorhees said.",
@@ -84,27 +105,6 @@
     "date": "2026-07-01"
   },
   {
-    "title": "Acti puts AI agents directly into your smartphone keyboard",
-    "source": "TechCrunch",
-    "summary": "Acti is betting the smartphone keyboard is the next home for AI assistants. The startup's new keyboard for iOS and Android works across apps and lets users create custom AI-powered shortcuts using natural language.",
-    "url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/",
-    "date": "2026-07-01"
-  },
-  {
-    "title": "Anthropic\u2019s Claude Science bets on workflow, not a new model, to win over scientists",
-    "source": "TechCrunch",
-    "summary": "Anthropic's Claude Science is a workbench that gives scientists one environment to do computational research, saving them from the need to bounce between databases, pipelines, and tools.",
-    "url": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
-    "date": "2026-07-01"
-  },
-  {
-    "title": "X now offers an MCP server to make its platform easier for AI tools to use",
-    "source": "TechCrunch",
-    "summary": "X has launched a hosted MCP server, making it easier for developers to connect AI applications with the company\u2019s API.",
-    "url": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
-    "date": "2026-07-01"
-  },
-  {
     "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
     "source": "MIT Tech Review",
     "summary": "Let\u2019s start with a game. Open up your chatbot of choice\u2014Claude, ChatGPT, Gemini\u2014and type \u201cGive me a random number between 1 and 10.\u201d You\u2019re going to get 7. Almost always. Now type \u201cAnother\u201d and you\u2019ll get 3 or 4. Type \u201cAnother\u201d again and you\u2019ll get 8 or 9. That won\u2019t work every time\u2014but if it",
@@ -175,6 +175,13 @@
     "date": "2026-07-01"
   },
   {
+    "title": "You Can Now Sound the Alarm on AI Behaving Badly",
+    "source": "Wired",
+    "summary": "Are you worried your AI chatbot is trying to build a bomb or leak personal information about you? There\u2019s a website for that.",
+    "url": "https://www.wired.com/story/flare-website-ai-flaw-reporting-safety/",
+    "date": "2026-07-01"
+  },
+  {
     "title": "Anthropic Added a New Security Measure to Get Back Into the Trump Administration\u2019s Good Graces",
     "source": "Wired",
     "summary": "The government has removed restrictions on Anthropic\u2019s Fable 5 and Mythos 5 AI models\u2014but there were strings attached.",
@@ -238,10 +245,10 @@
     "date": "2026-07-01"
   },
   {
-    "title": "How Qatar Became FIFA\u2019s Technology Test Lab",
-    "source": "Wired",
-    "summary": "Qatar has become the place where FIFA experiments with the next generation of football technology. The results are already visible across this year\u2019s World Cup.",
-    "url": "https://www.wired.com/story/how-qatar-became-fifas-technology-test-lab/",
+    "title": "After spooking Trump into safety testing, Anthropic AI models get global release",
+    "source": "Ars Technica",
+    "summary": "US lifts curbs on Anthropic\u2019s advanced Fable and Mythos models.",
+    "url": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/",
     "date": "2026-07-01"
   },
   {
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "Sci-fi author/tech journalist Cory Doctorow on his new book, The Reverse Centaur's Guide to Life After AI.",
     "url": "https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/",
-    "date": "2026-07-01"
-  },
-  {
-    "title": "GM installs robots at flagship EV factory after laying off 1,300 workers",
-    "source": "Ars Technica",
-    "summary": "US autoworkers union warns of robot automation as dark factory future looms.",
-    "url": "https://arstechnica.com/ai/2026/06/gm-installs-robots-at-flagship-ev-factory-after-laying-off-1300-workers/",
     "date": "2026-07-01"
   }
 ]
