@@ -10,9 +10,9 @@
   {
     "title": "Claude Code is steganographically marking requests",
     "source": "Hacker News",
-    "description": "HN Score: 2026 | 586 comments",
+    "description": "HN Score: 2188 | 631 comments",
     "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
-    "score": 2026,
+    "score": 2188,
     "date": "2026-07-01",
     "category": "AI News"
   },
@@ -27,43 +27,43 @@
   {
     "title": "Claude Sonnet 5",
     "source": "Hacker News",
-    "description": "HN Score: 1133 | 669 comments",
+    "description": "HN Score: 1165 | 698 comments",
     "url": "https://www.anthropic.com/news/claude-sonnet-5",
-    "score": 1133,
+    "score": 1165,
     "date": "2026-07-01",
     "category": "AI News"
   },
   {
-    "title": "RT by @EMostaque: You don't need Fable for the most complex tasks, from training models for protein prediction to optimising compilers Our open source",
+    "title": "Anyone else still using Opus 4.6 over 4.8",
     "source": "@EMostaque",
     "description": "",
-    "url": "https://nitter.net/ii_posts/status/2071674024011161926#m",
+    "url": "https://nitter.net/EMostaque/status/2072273290542842205#m",
     "date": "2026-07-01",
     "category": "Twitter"
   },
   {
     "title": "Godot will no longer accept AI-authored code contributions",
     "source": "Hacker News",
-    "description": "HN Score: 143 | 70 comments",
+    "description": "HN Score: 305 | 194 comments",
     "url": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
-    "score": 143,
+    "score": 305,
     "date": "2026-07-01",
     "category": "AI News"
   },
   {
-    "title": "RT by @EMostaque: Zenith took GPT-5.5 from 5th to 1st on Frontier SWE. @EMostaque and @PeterDiamandis talk it through, and more, on Moonshots. https:/",
+    "title": "RT by @EMostaque: Emad Mostaque on PostAGI: 'Right now, not a single institution is on your side. The companies won't look out for you, and the govern",
     "source": "@EMostaque",
     "description": "",
-    "url": "https://nitter.net/ii_posts/status/2072009956966961412#m",
+    "url": "https://nitter.net/soubhikdeb/status/2072017923754135819#m",
     "date": "2026-07-01",
     "category": "Twitter"
   },
   {
-    "title": "Matrix Orthogonalization Improves Memory in Recurrent Models",
+    "title": "Claude Science",
     "source": "Hacker News",
-    "description": "HN Score: 39 | 2 comments",
-    "url": "https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/",
-    "score": 39,
+    "description": "HN Score: 513 | 150 comments",
+    "url": "https://claude.com/product/claude-science",
+    "score": 513,
     "date": "2026-07-01",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Claude Science",
+    "title": "Matrix Orthogonalization Improves Memory in Recurrent Models",
     "source": "Hacker News",
-    "description": "HN Score: 494 | 146 comments",
-    "url": "https://claude.com/product/claude-science",
-    "score": 494,
+    "description": "HN Score: 58 | 6 comments",
+    "url": "https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/",
+    "score": 58,
     "date": "2026-07-01",
     "category": "AI News"
   },
@@ -95,9 +95,26 @@
   {
     "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
     "source": "Hacker News",
-    "description": "HN Score: 688 | 396 comments",
+    "description": "HN Score: 756 | 472 comments",
     "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
-    "score": 688,
+    "score": 756,
+    "date": "2026-07-01",
+    "category": "AI News"
+  },
+  {
+    "title": "People have really soured on AI over the last few weeks. Overall sentiment: very negative. This mostly comes from the developers I talk to. The non-te",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2072296673947369970#m",
+    "date": "2026-07-01",
+    "category": "Twitter"
+  },
+  {
+    "title": "Nintendo has raised its employees base salary by 10%",
+    "source": "Hacker News",
+    "description": "HN Score: 14 | 0 comments",
+    "url": "https://mynintendonews.com/2026/06/26/nintendo-has-raised-its-employees-base-salary-by-10/",
+    "score": 14,
     "date": "2026-07-01",
     "category": "AI News"
   },
@@ -112,26 +129,9 @@
   {
     "title": "From brain waves to words: a new path to communication without surgery",
     "source": "Hacker News",
-    "description": "HN Score: 158 | 82 comments",
+    "description": "HN Score: 172 | 83 comments",
     "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1",
-    "score": 158,
-    "date": "2026-07-01",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: This new AI IDE is from the company that sells the K1 and T1 Booster robots. If you haven't seen them yet, these open-source humanoid r",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2072022858671480923#m",
-    "date": "2026-07-01",
-    "category": "Twitter"
-  },
-  {
-    "title": "TabFM: A zero-shot foundation model for tabular data",
-    "source": "Hacker News",
-    "description": "HN Score: 79 | 10 comments",
-    "url": "https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/",
-    "score": 79,
+    "score": 172,
     "date": "2026-07-01",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "How employment changes when firms adopt generative AI",
+    "title": "TabFM: A zero-shot foundation model for tabular data",
     "source": "Hacker News",
-    "description": "HN Score: 45 | 37 comments",
-    "url": "https://ramp.com/data/ai-jobs-impact",
-    "score": 45,
+    "description": "HN Score: 81 | 10 comments",
+    "url": "https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/",
+    "score": 81,
     "date": "2026-07-01",
     "category": "AI News"
   },
@@ -159,5 +159,14 @@
     "url": "https://nitter.net/bindureddy/status/2072221109450313800#m",
     "date": "2026-07-01",
     "category": "Twitter"
+  },
+  {
+    "title": "I Don't Maintain My Homelab",
+    "source": "Hacker News",
+    "description": "HN Score: 53 | 48 comments",
+    "url": "https://cleberg.net/blog/homelab-maintenance.html",
+    "score": 53,
+    "date": "2026-07-01",
+    "category": "AI News"
   }
 ]

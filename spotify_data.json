@@ -94,6 +94,26 @@
   "episodes": [
     {
       "id": "a]6z Pod_0",
+      "name": "Rick Rubin on AI, Creativity, and The Way of Code",
+      "show": "a]6z Podcast",
+      "description": "Rick Rubin joins Marc Andreessen, Ben Horowitz, Anjney Midha, and Erik Torenberg to discuss creativity, artificial intelligence, and his book <i>The Way of Code</i>, which reimagines the <i>Tao Te ",
+      "release_date": "2026-07-01",
+      "duration_min": 75,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
+      "id": "Lex Frid_0",
+      "name": "#498 – Anthony Kaldellis: Roman Empire, Byzantine Empire, Rise & Fall of Empires",
+      "show": "Lex Fridman Podcast",
+      "description": "Anthony Kaldellis is a historian of the Roman Empire and author of &#8220;The New Roman Empire&#8221;, a comprehensive history of the Byzantine Empire (Eastern Roman Empire).<br />\nThank you for li",
+      "release_date": "2026-06-30",
+      "duration_min": 0,
+      "image": "",
+      "url": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"
+    },
+    {
+      "id": "a]6z Pod_1",
       "name": "Building AI for Creators | Luma & Phota Labs",
       "show": "a]6z Podcast",
       "description": "Yoko Li speaks with Luma's Head of Applied Research Matt Tancik and Phota Labs cofounder and CTO Zach Xia about how AI is changing creativity, photography, and the tools people use to make art.",
@@ -103,7 +123,7 @@
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "Beyond P(doom): Marc Andreessen - Betting on America",
       "show": "a]6z Podcast",
       "description": "Marc Andreessen joins CSIS's Navin Girishankar for a wide-ranging conversation on artificial intelligence, productivity growth, industrial policy, and America's technological future.\nAndrees",
@@ -121,16 +141,6 @@
       "duration_min": 59,
       "image": "",
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
-    },
-    {
-      "id": "a]6z Pod_2",
-      "name": "AI Is Crossing the Frontier of Human Knowledge | Kevin Weil",
-      "show": "a]6z Podcast",
-      "description": "Kevin Weil, the previous CPO & Vice President of Science at OpenAI, joins Speedrun to discuss the future of AI, scientific discovery, and startup building.\nAfter helping build products at Tw",
-      "release_date": "2026-06-26",
-      "duration_min": 34,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
       "id": "Practica_0",
@@ -223,6 +233,16 @@
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
+      "id": "Lex Frid_1",
+      "name": "#497 – Biggest Mysteries in Physics: Antimatter, Dark Energy & ToE – Don Lincoln",
+      "show": "Lex Fridman Podcast",
+      "description": "Don Lincoln is a particle physicist at Fermilab who has spent decades working at the frontiers of high energy physics.<br />\nThank you for listening ❤ Check out our sponsors: <a href=\"https://lexfr",
+      "release_date": "2026-05-29",
+      "duration_min": 181,
+      "image": "",
+      "url": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"
+    },
+    {
       "id": "The AI P_2",
       "name": "Everyone Can Build a Robot: Open Source Embodied AI With Seeed Studio | NVIDIA AI Podcast Ep. 300",
       "show": "The AI Podcast (NVIDIA)",
@@ -241,6 +261,16 @@
       "duration_min": 66,
       "image": "",
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
+    },
+    {
+      "id": "Lex Frid_2",
+      "name": "#496 – FFmpeg: The Incredible Technology Behind Video on the Internet",
+      "show": "Lex Fridman Podcast",
+      "description": "Jean-Baptiste Kempf is lead developer of VLC and president of VideoLAN. Kieran Kunhya is a longtime FFmpeg contributor, codec engineer, and the person behind the now-infamous FFmpeg account on X.<b",
+      "release_date": "2026-05-06",
+      "duration_min": 263,
+      "image": "",
+      "url": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"
     }
   ]
 }
