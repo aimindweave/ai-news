@@ -1,8 +1,29 @@
 [
   {
+    "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
+    "source": "TechCrunch",
+    "summary": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company\u2019s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI boom.",
+    "url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+    "date": "2026-07-02"
+  },
+  {
+    "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
+    "source": "TechCrunch",
+    "summary": "Microsoft follows Amazon, OpenAI, and Anthropic with its new AI deployment group.",
+    "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+    "date": "2026-07-02"
+  },
+  {
+    "title": "Yep, we\u2019re using OpenClaw to date now",
+    "source": "TechCrunch",
+    "summary": "Ben Guez has 'a bunch of potential international wives in [his] DMs,' thanks to an automated script he set up using OpenClaw, Claude code, and Instagram trials.",
+    "url": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
+    "date": "2026-07-02"
+  },
+  {
     "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
     "source": "TechCrunch",
-    "summary": "Neo is Bhavin Turakhia\u2019s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office, Google Apps with AI.",
+    "summary": "Neo is Bhavin Turakhia\u2019s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office and Google Apps with AI.",
     "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
     "date": "2026-07-02"
   },
@@ -84,24 +105,24 @@
     "date": "2026-07-02"
   },
   {
-    "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
-    "source": "TechCrunch",
-    "summary": "EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind researchers, is now valued at more than $500 million.",
-    "url": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
+    "title": "Achieving operational excellence with AI",
+    "source": "MIT Tech Review",
+    "summary": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos\u2014a structured way to bring order to messy, sprawling operations. Lean Six Sigma emphasized statistical rigor and quality control; BPM created end-to-end maps of how...",
+    "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
     "date": "2026-07-02"
   },
   {
-    "title": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
-    "source": "TechCrunch",
-    "summary": "Google is updating its image generator to make it faster and cheaper, making it a more useful tool for creators looking to make AI content.",
-    "url": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
+    "title": "Teaching AI to run with the turbines",
+    "source": "MIT Tech Review",
+    "summary": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In industries where physical infrastructure, operational continuity, and safety are paramount, AI is b...",
+    "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
     "date": "2026-07-02"
   },
   {
-    "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
-    "source": "TechCrunch",
-    "summary": "Nvidia AI chip competitor Etched says it has already booked $1 billion under contract for the inference systems powered by its chip.",
-    "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
+    "title": "The Download: a startup has a solution for AI\u2019s groupthink problem",
+    "source": "MIT Tech Review",
+    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. LLMs are stuck in a groupthink groove. This startup is trying to get them out. Open up your chatbot of choice\u2014Claude, ChatGPT, Gemini\u2014and type \u201cGive me a rando...",
+    "url": "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/",
     "date": "2026-07-02"
   },
   {
@@ -151,27 +172,6 @@
     "source": "MIT Tech Review",
     "summary": "Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying the groundwork. The use cases are promising, especially for an industry navigating volatile fertilizer costs, unpredictable weather, and margins tha...",
     "url": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
-    "date": "2026-07-02"
-  },
-  {
-    "title": "Building tech in the world\u2019s secret R&D hub",
-    "source": "MIT Tech Review",
-    "summary": "Apple. Anthropic. Disney Research. Google. Meta. Microsoft. NVIDIA. OpenAI. Few places outside Silicon Valley can claim R D hubs from all of these companies. Fewer still are concentrated in a city of just over 400,000 people\u2014roughly half the size of San Francisco. Over the past two decades, howev...",
-    "url": "https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/",
-    "date": "2026-07-02"
-  },
-  {
-    "title": "AI agents are not your \u201ccoworkers\u201d",
-    "source": "MIT Tech Review",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool\u2014one that your company nonetheless calls A...",
-    "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
-    "date": "2026-07-02"
-  },
-  {
-    "title": "Agent confidence on the technical frontier",
-    "source": "MIT Tech Review",
-    "summary": "Enterprise investment in AI is booming. Gartner is calling 2026 an \u201cinflection year\u201d for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mounts, executives and technology leaders are looking to agentic AI to drive the measurable financial ...",
-    "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
     "date": "2026-07-02"
   },
   {
@@ -242,6 +242,20 @@
     "source": "Wired",
     "summary": "After weeks of negotiations, the White House permitted Anthropic to grant access to its most advanced AI model to a select group of US companies and government agencies.",
     "url": "https://www.wired.com/story/anthropic-restores-access-to-mythos/",
+    "date": "2026-07-02"
+  },
+  {
+    "title": "Trump gets OpenAI to offer US 5% stake, far lower than Sanders\u2019 target",
+    "source": "Ars Technica",
+    "summary": "Insiders say Sam Altman is in active talks with the Trump administration.",
+    "url": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/",
+    "date": "2026-07-02"
+  },
+  {
+    "title": "Musk\u2019s X poses \u201cserious risk to Americans\u2019 privacy,\u201d advocates warn FTC",
+    "source": "Ars Technica",
+    "summary": "FTC urged to reject Elon Musk\u2019s bid to end X monitoring amid AI concerns.",
+    "url": "https://arstechnica.com/tech-policy/2026/07/musks-x-poses-serious-risk-to-americans-privacy-advocates-warn-ftc/",
     "date": "2026-07-02"
   },
   {
@@ -333,20 +347,6 @@
     "source": "Ars Technica",
     "summary": "IBM\u2019s nanostack transistors could boost chip performance or energy efficiency.",
     "url": "https://arstechnica.com/gadgets/2026/06/ibm-claims-worlds-first-sub-1-nanometer-chip-technology/",
-    "date": "2026-07-02"
-  },
-  {
-    "title": "OpenAI and Broadcom announce chip designed for LLM inference at scale",
-    "source": "Ars Technica",
-    "summary": "The silicon race is heating up amid the struggle to keep up with demand.",
-    "url": "https://arstechnica.com/gadgets/2026/06/openai-and-broadcom-announce-chip-designed-for-llm-inference-at-scale/",
-    "date": "2026-07-02"
-  },
-  {
-    "title": "Oracle\u2019s 21,000 layoffs help drive its debt-fueled AI investments",
-    "source": "Ars Technica",
-    "summary": "Oracle is spending billions on data center infrastructure to support AI.",
-    "url": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
     "date": "2026-07-02"
   }
 ]
