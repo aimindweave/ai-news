@@ -93,6 +93,16 @@
   ],
   "episodes": [
     {
+      "id": "Practica_0",
+      "name": "Image Generation and Visual Intelligence with Black Forest Labs",
+      "show": "Practical AI",
+      "description": "\n        How has AI image generation evolved from blurry outputs to powerful visual intelligence models? Dustin Podell, Co-Founder and Researcher at Black Forest Labs, explains the progression from",
+      "release_date": "2026-07-02",
+      "duration_min": 48,
+      "image": "",
+      "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
+    },
+    {
       "id": "a]6z Pod_0",
       "name": "Rick Rubin on AI, Creativity, and The Way of Code",
       "show": "a]6z Podcast",
@@ -143,7 +153,7 @@
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
-      "id": "Practica_0",
+      "id": "Practica_1",
       "name": "AIUC-1: Building trust in AI agents",
       "show": "Practical AI",
       "description": "\n        How do we build trust in AI agents before the AI hailstorm arrives? Emil Lassen from the Artificial Intelligence Underwriting Company (AIUC) joins the show to discuss how the enterprise fl",
@@ -193,7 +203,7 @@
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
     },
     {
-      "id": "Practica_1",
+      "id": "Practica_2",
       "name": "Zero Trust for AI Agents",
       "show": "Practical AI",
       "description": "\n        As AI agents become more capable and autonomous, they also introduce new security challenges. In this 'Fully Connected' episode, Dan and Chris unpack Anthropic’s Zero Trust for AI Agents s",
@@ -221,16 +231,6 @@
       "duration_min": 51,
       "image": "",
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
-    },
-    {
-      "id": "Practica_2",
-      "name": "Breaking down the 2026 Stanford AI Index Report",
-      "show": "Practical AI",
-      "description": "\n        AI models can win math olympiads… but still struggle to read an analog clock. In this fully connected episode, Dan and Chris break down the latest Stanford AI Index Report and explore what",
-      "release_date": "2026-06-04",
-      "duration_min": 47,
-      "image": "",
-      "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
       "id": "Lex Frid_1",
