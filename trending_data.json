@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Mail Memories \u2013 A desktop app to rescue photos from Gmail",
+    "title": "AI can't be listed as inventor on patent applications, Japan's top court rules",
     "source": "Hacker News",
-    "description": "HN Score: 48 | 16 comments",
-    "url": "https://mailmemories.com",
-    "score": 48,
+    "description": "HN Score: 285 | 148 comments",
+    "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/",
+    "score": 285,
     "date": "2026-07-02",
     "category": "AI News"
   },
@@ -25,11 +25,28 @@
     "category": "Twitter"
   },
   {
-    "title": "AI can't be listed as inventor on patent applications, Japan's top court rules",
+    "title": "Spain Orders Blacklist of Palantir from Public and Private Companies",
     "source": "Hacker News",
-    "description": "HN Score: 139 | 55 comments",
-    "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/",
-    "score": 139,
+    "description": "HN Score: 292 | 79 comments",
+    "url": "https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv",
+    "score": 292,
+    "date": "2026-07-02",
+    "category": "AI News"
+  },
+  {
+    "title": "OpenAI and Anthropic should put 10% of their equity each in Invest America accounts for the children of the USA Valuation will go up more than 10%",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/EMostaque/status/2072719294253650411#m",
+    "date": "2026-07-02",
+    "category": "Twitter"
+  },
+  {
+    "title": "Show HN: CLI tool for detecting non-exact code duplication with embedding models",
+    "source": "Hacker News",
+    "description": "HN Score: 56 | 24 comments",
+    "url": "https://github.com/rafal-qa/slopo",
+    "score": 56,
     "date": "2026-07-02",
     "category": "AI News"
   },
@@ -42,28 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train",
-    "source": "Hacker News",
-    "description": "HN Score: 68 | 15 comments",
-    "url": "https://arxiv.org/abs/2607.01232",
-    "score": 68,
-    "date": "2026-07-02",
-    "category": "AI News"
-  },
-  {
-    "title": "Anyone else still using Opus 4.6 over 4.8",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/EMostaque/status/2072273290542842205#m",
-    "date": "2026-07-02",
-    "category": "Twitter"
-  },
-  {
     "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
     "source": "Hacker News",
-    "description": "HN Score: 303 | 128 comments",
+    "description": "HN Score: 371 | 156 comments",
     "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
-    "score": 303,
+    "score": 371,
     "date": "2026-07-02",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "The Egg Bandits Made a Thousand Times the Fine They Just Paid for Price Fixing",
+    "title": "Claude's AskUserQuestion: 'No response after 60s \u2013 continued without an answer'",
     "source": "Hacker News",
-    "description": "HN Score: 101 | 22 comments",
-    "url": "https://www.thebignewsletter.com/p/crime-pays-the-egg-bandits-made-a",
-    "score": 101,
+    "description": "HN Score: 8 | 4 comments",
+    "url": "https://github.com/anthropics/claude-code/issues/73125",
+    "score": 8,
     "date": "2026-07-02",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "The primary purpose of code review is to find code that will be hard to maintain",
+    "title": "No LLM Code in Dependencies",
     "source": "Hacker News",
-    "description": "HN Score: 176 | 99 comments",
-    "url": "https://mathstodon.xyz/@mjd/115096720350507897",
-    "score": 176,
+    "description": "HN Score: 48 | 24 comments",
+    "url": "https://joeyh.name/blog/entry/no_LLM_code_in_dependencies/",
+    "score": 48,
     "date": "2026-07-02",
     "category": "AI News"
   },
@@ -110,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: CLI tool for detecting non-exact code duplication with embedding models",
+    "title": "Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train",
     "source": "Hacker News",
-    "description": "HN Score: 18 | 5 comments",
-    "url": "https://github.com/rafal-qa/slopo",
-    "score": 18,
+    "description": "HN Score: 114 | 28 comments",
+    "url": "https://arxiv.org/abs/2607.01232",
+    "score": 114,
     "date": "2026-07-02",
     "category": "AI News"
   },
@@ -127,45 +127,45 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Claudoro, Pomodoro timer embedded in the Claude Code statusline",
+    "title": "The Egg Bandits Made a Thousand Times the Fine They Just Paid for Price Fixing",
     "source": "Hacker News",
-    "description": "HN Score: 22 | 17 comments",
-    "url": "https://github.com/emson/claudoro",
-    "score": 22,
+    "description": "HN Score: 318 | 153 comments",
+    "url": "https://www.thebignewsletter.com/p/crime-pays-the-egg-bandits-made-a",
+    "score": 318,
     "date": "2026-07-02",
     "category": "AI News"
   },
   {
-    "title": "GPT-6 may be generally available as soon as next week Fable is great but it\u2019s way overkill for everyday use - kinda like driving a Ferrari to the coff",
+    "title": "Fable is an insanely good model for very hard and complex coding It literally sucks for everything else You have to know how to use it and yield it",
     "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/bindureddy/status/2072566512335155379#m",
+    "url": "https://nitter.net/bindureddy/status/2072758865754718717#m",
     "date": "2026-07-02",
     "category": "Twitter"
   },
   {
-    "title": "Comparing Fable and 10 other LLMs on refactoring a LangGraph god node",
+    "title": "The primary purpose of code review is to find code that will be hard to maintain",
     "source": "Hacker News",
-    "description": "HN Score: 20 | 5 comments",
-    "url": "https://wtf.korridzy.com/twilight-of-the-gods/",
-    "score": 20,
+    "description": "HN Score: 266 | 148 comments",
+    "url": "https://mathstodon.xyz/@mjd/115096720350507897",
+    "score": 266,
     "date": "2026-07-02",
     "category": "AI News"
   },
   {
-    "title": "Fable 5 is back! Rolling out now both in Abacus AI agent and ChatLLM Routes automatically to Fable 5.0 for complex coding tasks",
+    "title": "The US govt has kick started an era of AI regulatory capture The immediate impact of this move will be a HUGE rise in open-source AI. No country, will",
     "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/bindureddy/status/2072404816903741817#m",
+    "url": "https://nitter.net/bindureddy/status/2072737360048181393#m",
     "date": "2026-07-02",
     "category": "Twitter"
   },
   {
-    "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
+    "title": "Vulkan is now available on NetBSD",
     "source": "Hacker News",
-    "description": "HN Score: 125 | 93 comments",
-    "url": "https://senior-swe-bench.snorkel.ai/",
-    "score": 125,
+    "description": "HN Score: 4 | 1 comments",
+    "url": "https://github.com/segaboy/vulkan-netbsd",
+    "score": 4,
     "date": "2026-07-02",
     "category": "AI News"
   }
