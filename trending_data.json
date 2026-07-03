@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Claude, please stop trying to memorize random crap",
+    "title": "Jamesob's guide to running SOTA LLMs locally",
     "source": "Hacker News",
-    "description": "HN Score: 60 | 27 comments",
-    "url": "https://12gramsofcarbon.com/p/agentics-memorizing-session-transcripts",
-    "score": 60,
+    "description": "HN Score: 151 | 63 comments",
+    "url": "https://github.com/jamesob/local-llm",
+    "score": 151,
     "date": "2026-07-03",
     "category": "AI News"
   },
@@ -25,11 +25,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Jamesob's guide to running SOTA LLMs locally",
+    "title": "My dad helped build North America's oat supply chain: Can it be remade?",
     "source": "Hacker News",
-    "description": "HN Score: 71 | 28 comments",
-    "url": "https://github.com/jamesob/local-llm",
-    "score": 71,
+    "description": "HN Score: 58 | 25 comments",
+    "url": "https://ambrook.com/offrange/perspective/how-we-lost-our-oats",
+    "score": 58,
+    "date": "2026-07-03",
+    "category": "AI News"
+  },
+  {
+    "title": "R to @EMostaque: Yes they can move and dance and stuff You can assume they will talk and sing and more as good as anyone",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/EMostaque/status/2073107314043678726#m",
+    "date": "2026-07-03",
+    "category": "Twitter"
+  },
+  {
+    "title": "Instead of banning AI, I made a classroom contract with my students",
+    "source": "Hacker News",
+    "description": "HN Score: 25 | 5 comments",
+    "url": "https://www.science.org/content/article/instead-banning-ai-i-made-classroom-contract-my-students",
+    "score": 25,
     "date": "2026-07-03",
     "category": "AI News"
   },
@@ -42,28 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "My Dad Helped Build North America's Oat Supply Chain: Can It Be Remade?",
-    "source": "Hacker News",
-    "description": "HN Score: 29 | 2 comments",
-    "url": "https://ambrook.com/offrange/perspective/how-we-lost-our-oats",
-    "score": 29,
-    "date": "2026-07-03",
-    "category": "AI News"
-  },
-  {
-    "title": "OpenAI and Anthropic should put 10% of their equity each in Invest America accounts for the children of the USA Valuation will go up more than 10%",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/EMostaque/status/2072719294253650411#m",
-    "date": "2026-07-03",
-    "category": "Twitter"
-  },
-  {
     "title": "60% Fable cost cut by converting code to images and having the model OCR it",
     "source": "Hacker News",
-    "description": "HN Score: 30 | 11 comments",
+    "description": "HN Score: 112 | 40 comments",
     "url": "https://github.com/teamchong/pxpipe",
-    "score": 30,
+    "score": 112,
     "date": "2026-07-03",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Reality has a surprising amount of detail (2017)",
+    "title": "Ask HN: Is anyone experimenting with different ways of using LLMs for coding?",
     "source": "Hacker News",
-    "description": "HN Score: 346 | 131 comments",
-    "url": "https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
-    "score": 346,
+    "description": "HN Score: 47 | 64 comments",
+    "url": "https://news.ycombinator.com/item?id=48771515",
+    "score": 47,
     "date": "2026-07-03",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
+    "title": "I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination",
     "source": "Hacker News",
-    "description": "HN Score: 286 | 242 comments",
-    "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/",
-    "score": 286,
+    "description": "HN Score: 81 | 50 comments",
+    "url": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
+    "score": 81,
     "date": "2026-07-03",
     "category": "AI News"
   },
@@ -110,11 +110,28 @@
     "category": "Twitter"
   },
   {
-    "title": "AI coding is addictive. Engineers are paying the price",
+    "title": "Show HN: ctx \u2013 Search the coding agent history already on your machine",
     "source": "Hacker News",
-    "description": "HN Score: 23 | 10 comments",
-    "url": "https://leaddev.com/ai/ai-coding-is-addictive-engineers-are-paying-the-price",
-    "score": 23,
+    "description": "HN Score: 50 | 22 comments",
+    "url": "https://github.com/ctxrs/ctx",
+    "score": 50,
+    "date": "2026-07-03",
+    "category": "AI News"
+  },
+  {
+    "title": "GPT 5.6 sol is NOT in the same class as Fable It's an Opus class model that is actually cheaper and faster than Opus 4.8",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2073117544840634552#m",
+    "date": "2026-07-03",
+    "category": "Twitter"
+  },
+  {
+    "title": "Reality has a surprising amount of detail (2017)",
+    "source": "Hacker News",
+    "description": "HN Score: 354 | 137 comments",
+    "url": "https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
+    "score": 354,
     "date": "2026-07-03",
     "category": "AI News"
   },
@@ -127,37 +144,20 @@
     "category": "Twitter"
   },
   {
-    "title": "The short leash AI coding method for beating Fable",
+    "title": "Protect your right to run local AI",
     "source": "Hacker News",
-    "description": "HN Score: 176 | 219 comments",
-    "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method/",
-    "score": 176,
+    "description": "HN Score: 465 | 164 comments",
+    "url": "https://righttointelligence.org/",
+    "score": 465,
     "date": "2026-07-03",
     "category": "AI News"
   },
   {
-    "title": "My AI spend is about $12K a month It's about 85% code, 5% content gen and 10% media gen Totally worth it's weight in gold for me \ud83e\udd37\u200d\u2640\ufe0f",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2072850102880981269#m",
-    "date": "2026-07-03",
-    "category": "Twitter"
-  },
-  {
-    "title": "AI's $2.2T deficit fix is already half fake, economists say",
+    "title": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
     "source": "Hacker News",
-    "description": "HN Score: 4 | 0 comments",
-    "url": "https://fortune.com/2026/07/02/ai-productivity-deficit-national-debt-brookings-fed-study/",
-    "score": 4,
-    "date": "2026-07-03",
-    "category": "AI News"
-  },
-  {
-    "title": "Show HN: TaskPeace \u2013 a task queue my AI coding agents pull work from over MCP",
-    "source": "Hacker News",
-    "description": "HN Score: 3 | 5 comments",
-    "url": "https://taskpeace.com/",
-    "score": 3,
+    "description": "HN Score: 294 | 255 comments",
+    "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/",
+    "score": 294,
     "date": "2026-07-03",
     "category": "AI News"
   }
