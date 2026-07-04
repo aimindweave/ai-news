@@ -10,9 +10,9 @@
   {
     "title": "Postgres data stored in Parquet on S3: LTAP architecture explained",
     "source": "Hacker News",
-    "description": "HN Score: 94 | 25 comments",
+    "description": "HN Score: 122 | 41 comments",
     "url": "https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage",
-    "score": 94,
+    "score": 122,
     "date": "2026-07-04",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "The bottleneck might be the air in the room",
     "source": "Hacker News",
-    "description": "HN Score: 540 | 325 comments",
+    "description": "HN Score: 625 | 353 comments",
     "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
-    "score": 540,
+    "score": 625,
     "date": "2026-07-04",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "The Vespa at 80: Why the Italian scooter remains the coolest thing on 2 wheels",
+    "title": "The Reports of Jim Carrey's Death Are a Failure Mode",
     "source": "Hacker News",
-    "description": "HN Score: 68 | 63 comments",
-    "url": "https://www.cbc.ca/news/world/vespa-italy-postwar-design-9.7252641",
-    "score": 68,
+    "description": "HN Score: 18 | 15 comments",
+    "url": "https://tane.dev/2026/07/the-reports-of-jim-carreys-death-are-a-failure-mode/",
+    "score": 18,
     "date": "2026-07-04",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Agentic coding notes from Galapagos Island",
+    "title": "Jamesob's guide to running SOTA LLMs locally",
     "source": "Hacker News",
-    "description": "HN Score: 140 | 64 comments",
-    "url": "https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post",
-    "score": 140,
+    "description": "HN Score: 386 | 173 comments",
+    "url": "https://github.com/jamesob/local-llm",
+    "score": 386,
     "date": "2026-07-04",
     "category": "AI News"
   },
@@ -78,9 +78,9 @@
   {
     "title": "MSI Center \u2013 How to gain SYSTEM privileges in seconds",
     "source": "Hacker News",
-    "description": "HN Score: 120 | 49 comments",
+    "description": "HN Score: 129 | 52 comments",
     "url": "https://mrbruh.com/msicenter/",
-    "score": 120,
+    "score": 129,
     "date": "2026-07-04",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Jamesob's guide to running SOTA LLMs locally",
+    "title": "Agentic coding notes from Galapagos Island",
     "source": "Hacker News",
-    "description": "HN Score: 377 | 169 comments",
-    "url": "https://github.com/jamesob/local-llm",
-    "score": 377,
+    "description": "HN Score: 151 | 69 comments",
+    "url": "https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post",
+    "score": 151,
     "date": "2026-07-04",
     "category": "AI News"
   },
@@ -110,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "2026 Unslop AI-Written Fiction Contest Results",
+    "title": "New serious vulnerabilities spiked around release of Claude Mythos Preview",
     "source": "Hacker News",
-    "description": "HN Score: 38 | 103 comments",
-    "url": "https://www.hyperstitionai.com/unslop-results",
-    "score": 38,
+    "description": "HN Score: 146 | 64 comments",
+    "url": "https://epoch.ai/data-insights/cve-severity-spike",
+    "score": 146,
     "date": "2026-07-04",
     "category": "AI News"
   },
@@ -127,11 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "New serious vulnerabilities spiked around release of Claude Mythos Preview",
+    "title": "Ship traces journey Spanish Armada sailors made in 1588",
     "source": "Hacker News",
-    "description": "HN Score: 136 | 58 comments",
-    "url": "https://epoch.ai/data-insights/cve-severity-spike",
-    "score": 136,
+    "description": "HN Score: 21 | 11 comments",
+    "url": "https://www.irishtimes.com/ireland/2026/06/30/it-is-a-huge-honour-ship-traces-journey-spanish-armada-sailors-made-in-1588/",
+    "score": 21,
     "date": "2026-07-04",
     "category": "AI News"
   },
@@ -144,20 +144,20 @@
     "category": "Twitter"
   },
   {
-    "title": "Ship traces journey Spanish Armada sailors made in 1588",
+    "title": "2026 Unslop AI-Written Fiction Contest Results",
     "source": "Hacker News",
-    "description": "HN Score: 17 | 9 comments",
-    "url": "https://www.irishtimes.com/ireland/2026/06/30/it-is-a-huge-honour-ship-traces-journey-spanish-armada-sailors-made-in-1588/",
-    "score": 17,
+    "description": "HN Score: 50 | 119 comments",
+    "url": "https://www.hyperstitionai.com/unslop-results",
+    "score": 50,
     "date": "2026-07-04",
     "category": "AI News"
   },
   {
     "title": "Show HN: Classify mechanical faults using Contrastive Language-Audio Pretraining",
     "source": "Hacker News",
-    "description": "HN Score: 31 | 2 comments",
+    "description": "HN Score: 32 | 3 comments",
     "url": "https://github.com/adam-s/car-diagnosis",
-    "score": 31,
+    "score": 32,
     "date": "2026-07-04",
     "category": "AI News"
   }
