@@ -10,9 +10,9 @@
   {
     "title": "Airplane Boneyards List and Map",
     "source": "Hacker News",
-    "description": "HN Score: 20 | 1 comments",
+    "description": "HN Score: 46 | 8 comments",
     "url": "https://airplaneboneyards.com/airplane-boneyards-list-and-map.htm",
-    "score": 20,
+    "score": 46,
     "date": "2026-07-05",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Claude Design System Prompt",
+    "title": "Why DMARC's new 'NP' tag can fail with DNSSEC",
     "source": "Hacker News",
-    "description": "HN Score: 98 | 26 comments",
-    "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
-    "score": 98,
+    "description": "HN Score: 8 | 0 comments",
+    "url": "https://dmarcwise.io/blog/dmarc-np-incompatibility-with-dnssec",
+    "score": 8,
     "date": "2026-07-05",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Spain's cadastre API is SOAP from 2003, so I built a JSON wrapper (+MCP)",
+    "title": "Solar rail could become common in Europe after successful trial in Switzerland",
     "source": "Hacker News",
-    "description": "HN Score: 12 | 2 comments",
-    "url": "https://prediohq.com/",
-    "score": 12,
+    "description": "HN Score: 48 | 41 comments",
+    "url": "https://www.euronews.com/2026/07/05/italy-could-be-the-next-country-to-build-a-solar-railway-after-switzerlands-successful-tri",
+    "score": 48,
     "date": "2026-07-05",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "The Log is the Agent",
+    "title": "Autonomous flying umbrella follows and shields users from rain and sunlight",
     "source": "Hacker News",
-    "description": "HN Score: 76 | 25 comments",
-    "url": "https://arxiv.org/abs/2605.21997",
-    "score": 76,
+    "description": "HN Score: 20 | 12 comments",
+    "url": "https://www.designboom.com/technology/autonomous-flying-umbrella-follows-users-rain-sunlight-i-build-stuff-01-13-2026/",
+    "score": 20,
     "date": "2026-07-05",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+    "title": "The Log is the Agent",
     "source": "Hacker News",
-    "description": "HN Score: 329 | 129 comments",
-    "url": "https://github.com/openai/codex/issues/30364",
-    "score": 329,
+    "description": "HN Score: 88 | 36 comments",
+    "url": "https://arxiv.org/abs/2605.21997",
+    "score": 88,
     "date": "2026-07-05",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "SigMap: 97% token reduction for AI coding sessions",
+    "title": "Mark Zuckerberg tells staff that AI agents haven't progressed enough",
     "source": "Hacker News",
-    "description": "HN Score: 11 | 0 comments",
-    "url": "https://sigmap.io/",
-    "score": 11,
+    "description": "HN Score: 3 | 2 comments",
+    "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+    "score": 3,
     "date": "2026-07-05",
     "category": "AI News"
   },
@@ -110,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Record-breaking solo rower Kelsey Pfendler arrives in Hawaii",
+    "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
     "source": "Hacker News",
-    "description": "HN Score: 72 | 7 comments",
-    "url": "https://www.hawaiinewsnow.com/2026/07/04/record-breaking-solo-rower-kelsey-pfendler-arrives-hawaii/",
-    "score": 72,
+    "description": "HN Score: 341 | 142 comments",
+    "url": "https://github.com/openai/codex/issues/30364",
+    "score": 341,
     "date": "2026-07-05",
     "category": "AI News"
   },
@@ -127,11 +127,29 @@
     "category": "Twitter"
   },
   {
-    "title": "Better Models: Worse Tools",
+    "title": "Record-breaking solo rower Kelsey Pfendler arrives in Hawaii",
     "source": "Hacker News",
-    "description": "HN Score: 205 | 73 comments",
-    "url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
-    "score": 205,
+    "description": "HN Score: 78 | 8 comments",
+    "url": "https://www.hawaiinewsnow.com/2026/07/04/record-breaking-solo-rower-kelsey-pfendler-arrives-hawaii/",
+    "score": 78,
+    "date": "2026-07-05",
+    "category": "AI News"
+  },
+  {
+    "title": "Claude Design System Prompt",
+    "source": "Hacker News",
+    "description": "HN Score: 106 | 28 comments",
+    "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
+    "score": 106,
+    "date": "2026-07-05",
+    "category": "AI News"
+  },
+  {
+    "title": "SigMap: 97% token reduction for AI coding sessions",
+    "source": "Hacker News",
+    "description": "HN Score: 12 | 4 comments",
+    "url": "https://sigmap.io/",
+    "score": 12,
     "date": "2026-07-05",
     "category": "AI News"
   }
