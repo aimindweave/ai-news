@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Emily Bender Sets the Record Straight on 'Stochastic Parrots'",
+    "title": "AMD Ryzen AI Halo \u2013 $4k AI Dev Kit",
     "source": "Hacker News",
-    "description": "HN Score: 67 | 43 comments",
-    "url": "https://spectrum.ieee.org/stochastic-parrot",
-    "score": 67,
+    "description": "HN Score: 142 | 117 comments",
+    "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
+    "score": 142,
     "date": "2026-07-06",
     "category": "AI News"
   },
@@ -25,11 +25,28 @@
     "category": "Twitter"
   },
   {
-    "title": "AMD Ryzen AI Halo \u2013 $4k AI Dev Kit",
+    "title": "Kani: A Model Checker for Rust",
     "source": "Hacker News",
-    "description": "HN Score: 30 | 30 comments",
-    "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
-    "score": 30,
+    "description": "HN Score: 43 | 1 comments",
+    "url": "https://arxiv.org/abs/2607.01504",
+    "score": 43,
+    "date": "2026-07-06",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: Built something great with II-Agent? Submit it to Showcase. earn credits. get featured. let others explore the result and replay the",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/ii_posts/status/2074173093082243177#m",
+    "date": "2026-07-06",
+    "category": "Twitter"
+  },
+  {
+    "title": "Real-time map of Great Britain's rail network",
+    "source": "Hacker News",
+    "description": "HN Score: 330 | 124 comments",
+    "url": "https://www.map.signalbox.io",
+    "score": 330,
     "date": "2026-07-06",
     "category": "AI News"
   },
@@ -42,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Real-time map of Great Britain's rail network",
+    "title": "Show HN: Pulpie \u2013 Models for Cleaning the Web",
     "source": "Hacker News",
-    "description": "HN Score: 291 | 111 comments",
-    "url": "https://www.map.signalbox.io",
-    "score": 291,
+    "description": "HN Score: 33 | 5 comments",
+    "url": "https://usefeyn.com/blog/pulpie-pareto-optimal-models-for-cleaning-the-web/",
+    "score": 33,
     "date": "2026-07-06",
     "category": "AI News"
   },
@@ -59,28 +76,45 @@
     "category": "Twitter"
   },
   {
-    "title": "GPT-5.6 Sol Ultra will be in Codex",
+    "title": "The AI Superforecasters Are Here",
     "source": "Hacker News",
-    "description": "HN Score: 377 | 326 comments",
-    "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
-    "score": 377,
+    "description": "HN Score: 27 | 21 comments",
+    "url": "https://www.astralcodexten.com/p/the-ai-superforecasters-are-here",
+    "score": 27,
     "date": "2026-07-06",
     "category": "AI News"
   },
   {
-    "title": "Today, we give robots a /skills library that self-evolves and compounds indefinitely! Introducing ASPIRE: a robot solving its 100th task is no longer ",
+    "title": "R to @DrJimFan: Project gallery and whitepaper: https://research.nvidia.com/labs/gear/aspire/ ASPIRE is a great collaboration between NVIDIA GEAR lab,",
     "source": "@DrJimFan",
     "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2072004190856212902#m",
+    "url": "https://nitter.net/DrJimFan/status/2072004192294830583#m",
     "date": "2026-07-06",
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Scan your AI agents for dangerous capabilities",
+    "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
     "source": "Hacker News",
-    "description": "HN Score: 31 | 17 comments",
-    "url": "https://github.com/makerchecker/MakerChecker",
-    "score": 31,
+    "description": "HN Score: 22 | 1 comments",
+    "url": "https://github.com/iOfficeAI/OfficeCLI",
+    "score": 22,
+    "date": "2026-07-06",
+    "category": "AI News"
+  },
+  {
+    "title": "Nobody cares anymore if Python is better than JavaScript. Now all people talk about is whether Claude is better than Codex or Cursor. Model arguments ",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2074173099944104284#m",
+    "date": "2026-07-06",
+    "category": "Twitter"
+  },
+  {
+    "title": "Big Tech Has Suddenly Flipped on the AI Jobs Wipeout Scenario",
+    "source": "Hacker News",
+    "description": "HN Score: 18 | 6 comments",
+    "url": "https://www.wsj.com/tech/ai/ai-workers-tech-ceos-job-losses-afc71e15",
+    "score": 18,
     "date": "2026-07-06",
     "category": "AI News"
   },
@@ -95,26 +129,9 @@
   {
     "title": "Electric anti-aircraft interceptor drone breaks world air speed record at 434mph",
     "source": "Hacker News",
-    "description": "HN Score: 8 | 0 comments",
+    "description": "HN Score: 48 | 32 comments",
     "url": "https://www.tomshardware.com/tech-industry/drones/electric-drone-breaks-world-air-speed-record-at-434-mph-designed-for-anti-aircraft-interceptor-roles-german-firm-convincingly-smashed-the-official-409-mph-record-hopes-to-get-stamp-of-approval-from-guinness-soon",
-    "score": 8,
-    "date": "2026-07-06",
-    "category": "AI News"
-  },
-  {
-    "title": "I really want to know what\u2019s driving these robots. Are they automatic or remotely monitored by people? If the former, this video is bonkers and this i",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2073857941674111253#m",
-    "date": "2026-07-06",
-    "category": "Twitter"
-  },
-  {
-    "title": "C programmers commit fresh crimes against readability",
-    "source": "Hacker News",
-    "description": "HN Score: 94 | 13 comments",
-    "url": "https://www.theregister.com/offbeat/2026/07/05/c-programmers-commit-fresh-crimes-against-readability/5265981",
-    "score": 94,
+    "score": 48,
     "date": "2026-07-06",
     "category": "AI News"
   },
@@ -127,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Does code cleanliness affect coding agents? A controlled minimal-pair study",
+    "title": "Marc Andreessen Says One Job Is Mostly Safe from AI: Venture Capitalist",
     "source": "Hacker News",
-    "description": "HN Score: 176 | 85 comments",
-    "url": "https://arxiv.org/abs/2605.20049",
-    "score": 176,
+    "description": "HN Score: 12 | 8 comments",
+    "url": "https://gizmodo.com/marc-andreessen-says-one-job-is-mostly-safe-from-ai-venture-capitalist-2000596506",
+    "score": 12,
     "date": "2026-07-06",
     "category": "AI News"
   },
@@ -144,20 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Paint the Earth on a live, interactive globe (collaborative art.)",
+    "title": "Does code cleanliness affect coding agents? A controlled minimal-pair study",
     "source": "Hacker News",
-    "description": "HN Score: 17 | 8 comments",
-    "url": "https://earth.tattoo",
-    "score": 17,
-    "date": "2026-07-06",
-    "category": "AI News"
-  },
-  {
-    "title": "Delta flight hit by firework while landing at Midway Airport on Fourth of July",
-    "source": "Hacker News",
-    "description": "HN Score: 150 | 348 comments",
-    "url": "https://www.nbcchicago.com/news/local/delta-flight-hit-by-firework-while-landing-at-midway-airport-on-fourth-of-july/3957451/",
-    "score": 150,
+    "description": "HN Score: 185 | 87 comments",
+    "url": "https://arxiv.org/abs/2605.20049",
+    "score": 185,
     "date": "2026-07-06",
     "category": "AI News"
   }
