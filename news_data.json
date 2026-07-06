@@ -1,8 +1,29 @@
 [
   {
+    "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
+    "source": "TechCrunch",
+    "summary": "'The reality is, when you're optimizing for production, you start looking at a price/performance,' Guillermo Rauch tells TechCrunch.",
+    "url": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
+    "date": "2026-07-06"
+  },
+  {
+    "title": "You can now customize Siri\u2019s pace and expressivity in the latest iOS 27 beta",
+    "source": "TechCrunch",
+    "summary": "The update is part of Apple's broader effort to make Siri feel more natural and personal, as it rebuilds the assistant around generative AI.",
+    "url": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
+    "date": "2026-07-06"
+  },
+  {
+    "title": "Every major tech layoff in 2026 that has name-checked AI",
+    "source": "TechCrunch",
+    "summary": "A running look \u2014 in reverse chronological order \u2014 at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+    "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+    "date": "2026-07-06"
+  },
+  {
     "title": "If you use Google, you\u2019re training its AI. Here\u2019s how to opt out.",
     "source": "TechCrunch",
-    "summary": "PSA: A change to Google's privacy settings let it train its AI on more of your data. Here's how to opt out.",
+    "summary": "Consider this a belated PSA: A recent change to Google\u2019s privacy settings is allowing the company to store more of your data, including media such as \u201cimages, files, and audio and video recordings,\u201d to improve its AI models.",
     "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
     "date": "2026-07-06"
   },
@@ -11,6 +32,13 @@
     "source": "TechCrunch",
     "summary": "Microsoft cut around 4,800 roles, or 2.1% of its global workforce, on Monday \u2014 the latest in a series of layoffs that\u2019s stoking fears of AI replacing jobs. The layoffs will hit Xbox and commercial sales the hardest.",
     "url": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
+    "date": "2026-07-06"
+  },
+  {
+    "title": "Reddit is using LLMs to solve a problem LLMs largely created",
+    "source": "TechCrunch",
+    "summary": "In the AI era, platforms have no choice but to fight fire with fire to cull spam.",
+    "url": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
     "date": "2026-07-06"
   },
   {
@@ -77,31 +105,10 @@
     "date": "2026-07-06"
   },
   {
-    "title": "Jersey Mike\u2019s IPO illustrates how bad the AI hype has become",
-    "source": "TechCrunch",
-    "summary": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold.",
-    "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
-    "date": "2026-07-06"
-  },
-  {
-    "title": "Meta quietly launches vibe-coded gaming app Pocket",
-    "source": "TechCrunch",
-    "summary": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts.",
-    "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
-    "date": "2026-07-06"
-  },
-  {
-    "title": "Anthropic is discussing a new custom chip with Samsung",
-    "source": "TechCrunch",
-    "summary": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom.",
-    "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
-    "date": "2026-07-06"
-  },
-  {
-    "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
-    "source": "TechCrunch",
-    "summary": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company\u2019s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI boom.",
-    "url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+    "title": "Your family\u2019s $300 stake in OpenAI",
+    "source": "MIT Tech Review",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman\u2019s oft-discussed promise that Americans will share in the wealth AI creates was in the news again last week. On Thursday, the Financial Ti...",
+    "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
     "date": "2026-07-06"
   },
   {
@@ -165,13 +172,6 @@
     "source": "MIT Tech Review",
     "summary": "Something stinks in California\u2019s climate policies. Years ago, the state set up a system that pays cattle farmers across the country to turn the methane emitted from cattle manure into natural gas, encouraging the dairy sector to produce a gas we burn instead of one that just pollutes the air. It\u2019...",
     "url": "https://www.technologyreview.com/2026/07/02/1139981/why-californias-carbon-manure-math-doesnt-add-up/",
-    "date": "2026-07-06"
-  },
-  {
-    "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
-    "source": "MIT Tech Review",
-    "summary": "Let\u2019s start with a game. Open up your chatbot of choice\u2014Claude, ChatGPT, Gemini\u2014and type \u201cGive me a random number between 1 and 10.\u201d You\u2019re going to get 7. Almost always. Now type \u201cAnother\u201d and you\u2019ll get 3 or 4. Type \u201cAnother\u201d again and you\u2019ll get 8 or 9. That won\u2019t work every time\u2014but if it",
-    "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
     "date": "2026-07-06"
   },
   {
