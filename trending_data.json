@@ -10,9 +10,9 @@
   {
     "title": "GLM 5.2 and the coming AI margin collapse",
     "source": "Hacker News",
-    "description": "HN Score: 346 | 218 comments",
+    "description": "HN Score: 465 | 280 comments",
     "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
-    "score": 346,
+    "score": 465,
     "date": "2026-07-07",
     "category": "AI News"
   },
@@ -27,9 +27,26 @@
   {
     "title": "Small AI Models Gain Traction In places with unreliable networks",
     "source": "Hacker News",
-    "description": "HN Score: 114 | 27 comments",
+    "description": "HN Score: 163 | 54 comments",
     "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
-    "score": 114,
+    "score": 163,
+    "date": "2026-07-07",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: \u201cWe were going to run out of money.\u201d Groq was 3 weeks away from death and @JonathanRoss321\u2019s leadership team put together a list of ",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/davidsenra/status/2074133448550490194#m",
+    "date": "2026-07-07",
+    "category": "Twitter"
+  },
+  {
+    "title": "Ternlight \u2013 7 MB embedding model that runs in browser (WASM)",
+    "source": "Hacker News",
+    "description": "HN Score: 248 | 56 comments",
+    "url": "https://ternlight-demo.vercel.app/",
+    "score": 248,
     "date": "2026-07-07",
     "category": "AI News"
   },
@@ -42,28 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Ternlight \u2013 7 MB embedding model that runs in browser (WASM)",
-    "source": "Hacker News",
-    "description": "HN Score: 195 | 47 comments",
-    "url": "https://ternlight-demo.vercel.app/",
-    "score": 195,
-    "date": "2026-07-07",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @EMostaque: First animation from integrated PyTTI C++/CUDA port. I used DD style (@dango233max) CLIP cutouts since that's what I already had in ",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/gandamu_ml/status/2073294093099135321#m",
-    "date": "2026-07-07",
-    "category": "Twitter"
-  },
-  {
     "title": "A global workspace in language models",
     "source": "Hacker News",
-    "description": "HN Score: 349 | 127 comments",
+    "description": "HN Score: 387 | 145 comments",
     "url": "https://www.anthropic.com/research/global-workspace",
-    "score": 349,
+    "score": 387,
     "date": "2026-07-07",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "AMD Ryzen AI Halo \u2013 $4k AI Dev Kit",
+    "title": "In Praise of Observational Evidence",
     "source": "Hacker News",
-    "description": "HN Score: 317 | 220 comments",
-    "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
-    "score": 317,
+    "description": "HN Score: 25 | 1 comments",
+    "url": "https://asteriskmag.com/issues/14/in-praise-of-observational-evidence",
+    "score": 25,
     "date": "2026-07-07",
     "category": "AI News"
   },
@@ -93,11 +93,28 @@
     "category": "Twitter"
   },
   {
-    "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
+    "title": "AMD Ryzen AI Halo \u2013 $4k AI Dev Kit",
     "source": "Hacker News",
-    "description": "HN Score: 166 | 51 comments",
-    "url": "https://github.com/iOfficeAI/OfficeCLI",
-    "score": 166,
+    "description": "HN Score: 342 | 228 comments",
+    "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
+    "score": 342,
+    "date": "2026-07-07",
+    "category": "AI News"
+  },
+  {
+    "title": "I started learning French. Wish me luck. Je vais en avoir besoin.",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2074411700384587971#m",
+    "date": "2026-07-07",
+    "category": "Twitter"
+  },
+  {
+    "title": "Why migrants come to Germany for work and then leave again",
+    "source": "Hacker News",
+    "description": "HN Score: 11 | 5 comments",
+    "url": "https://www.dw.com/en/germany-migrants-skilled-workers-integration-labor-market-bureaucracy-language-housing/a-77853162",
+    "score": 11,
     "date": "2026-07-07",
     "category": "AI News"
   },
@@ -110,28 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Kani: A Model Checker for Rust",
+    "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
     "source": "Hacker News",
-    "description": "HN Score: 141 | 7 comments",
-    "url": "https://arxiv.org/abs/2607.01504",
-    "score": 141,
-    "date": "2026-07-07",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: I maintain several skills. I run regularly with Claude Code. I asked Fable to read every skill and optimize them. They are now 40% shor",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2074108642899775800#m",
-    "date": "2026-07-07",
-    "category": "Twitter"
-  },
-  {
-    "title": "NSA and IETF: Fairness",
-    "source": "Hacker News",
-    "description": "HN Score: 91 | 80 comments",
-    "url": "https://blog.cr.yp.to/20260706-fairness.html",
-    "score": 91,
+    "description": "HN Score: 187 | 55 comments",
+    "url": "https://github.com/iOfficeAI/OfficeCLI",
+    "score": 187,
     "date": "2026-07-07",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Giving a domain a hill to climb: benchmarking as data activation",
+    "title": "Kani: A Model Checker for Rust",
     "source": "Hacker News",
-    "description": "HN Score: 10 | 6 comments",
-    "url": "https://sparsethought.com/2026/07/03/benchmarking-as-data-activation/",
-    "score": 10,
+    "description": "HN Score: 149 | 8 comments",
+    "url": "https://arxiv.org/abs/2607.01504",
+    "score": 149,
     "date": "2026-07-07",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Pulpie \u2013 Models for Cleaning the Web",
+    "title": "NSA and IETF: Fairness",
     "source": "Hacker News",
-    "description": "HN Score: 89 | 25 comments",
-    "url": "https://usefeyn.com/blog/pulpie-pareto-optimal-models-for-cleaning-the-web/",
-    "score": 89,
+    "description": "HN Score: 119 | 93 comments",
+    "url": "https://blog.cr.yp.to/20260706-fairness.html",
+    "score": 119,
     "date": "2026-07-07",
     "category": "AI News"
   }
