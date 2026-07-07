@@ -10,9 +10,9 @@
   {
     "title": "GLM 5.2 and the coming AI margin collapse",
     "source": "Hacker News",
-    "description": "HN Score: 225 | 147 comments",
+    "description": "HN Score: 346 | 218 comments",
     "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
-    "score": 225,
+    "score": 346,
     "date": "2026-07-07",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Ternlight \u2013 7 MB embedding model that runs in browser (WASM)",
+    "title": "Small AI Models Gain Traction In places with unreliable networks",
     "source": "Hacker News",
-    "description": "HN Score: 119 | 34 comments",
-    "url": "https://ternlight-demo.vercel.app/",
-    "score": 119,
+    "description": "HN Score: 114 | 27 comments",
+    "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+    "score": 114,
     "date": "2026-07-07",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Small AI Models Gain Traction In places with unreliable networks",
+    "title": "Ternlight \u2013 7 MB embedding model that runs in browser (WASM)",
     "source": "Hacker News",
-    "description": "HN Score: 44 | 10 comments",
-    "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
-    "score": 44,
+    "description": "HN Score: 195 | 47 comments",
+    "url": "https://ternlight-demo.vercel.app/",
+    "score": 195,
     "date": "2026-07-07",
     "category": "AI News"
   },
@@ -61,9 +61,9 @@
   {
     "title": "A global workspace in language models",
     "source": "Hacker News",
-    "description": "HN Score: 300 | 106 comments",
+    "description": "HN Score: 349 | 127 comments",
     "url": "https://www.anthropic.com/research/global-workspace",
-    "score": 300,
+    "score": 349,
     "date": "2026-07-07",
     "category": "AI News"
   },
@@ -78,9 +78,9 @@
   {
     "title": "AMD Ryzen AI Halo \u2013 $4k AI Dev Kit",
     "source": "Hacker News",
-    "description": "HN Score: 291 | 214 comments",
+    "description": "HN Score: 317 | 220 comments",
     "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
-    "score": 291,
+    "score": 317,
     "date": "2026-07-07",
     "category": "AI News"
   },
@@ -95,8 +95,25 @@
   {
     "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
     "source": "Hacker News",
-    "description": "HN Score: 141 | 36 comments",
+    "description": "HN Score: 166 | 51 comments",
     "url": "https://github.com/iOfficeAI/OfficeCLI",
+    "score": 166,
+    "date": "2026-07-07",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: Europe's degrowth is so shortsighted. They regulate first, focus on protecting what they have instead of building what's next, and tax ",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2074211031539499444#m",
+    "date": "2026-07-07",
+    "category": "Twitter"
+  },
+  {
+    "title": "Kani: A Model Checker for Rust",
+    "source": "Hacker News",
+    "description": "HN Score: 141 | 7 comments",
+    "url": "https://arxiv.org/abs/2607.01504",
     "score": 141,
     "date": "2026-07-07",
     "category": "AI News"
@@ -110,28 +127,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Giving a domain a hill to climb: benchmarking as data activation",
+    "title": "NSA and IETF: Fairness",
     "source": "Hacker News",
-    "description": "HN Score: 6 | 2 comments",
-    "url": "https://sparsethought.com/2026/07/03/benchmarking-as-data-activation/",
-    "score": 6,
+    "description": "HN Score: 91 | 80 comments",
+    "url": "https://blog.cr.yp.to/20260706-fairness.html",
+    "score": 91,
     "date": "2026-07-07",
     "category": "AI News"
   },
   {
-    "title": "An email for AI agents is actually an interesting idea. I guess it\u2019s like having an employee with its own email address and you cc\u2019d them whenever you",
-    "source": "@svpino",
+    "title": "\ud83d\udea8 Literally Build Anything Using The Fable 5 Max Mode You can simply prompt the Abacus AI agent to build pretty much anything - complex SaaS apps - cu",
+    "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2074244014719828269#m",
+    "url": "https://nitter.net/bindureddy/status/2074374612117492207#m",
     "date": "2026-07-07",
     "category": "Twitter"
   },
   {
-    "title": "Kani: A Model Checker for Rust",
+    "title": "Giving a domain a hill to climb: benchmarking as data activation",
     "source": "Hacker News",
-    "description": "HN Score: 130 | 7 comments",
-    "url": "https://arxiv.org/abs/2607.01504",
-    "score": 130,
+    "description": "HN Score: 10 | 6 comments",
+    "url": "https://sparsethought.com/2026/07/03/benchmarking-as-data-activation/",
+    "score": 10,
     "date": "2026-07-07",
     "category": "AI News"
   },
@@ -144,28 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "AI: The ROI Runway Could Be Long Outside the Tech Sector",
+    "title": "Show HN: Pulpie \u2013 Models for Cleaning the Web",
     "source": "Hacker News",
-    "description": "HN Score: 60 | 54 comments",
-    "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/ai-the-roi-runway-could-be-long-outside-the-tech-sector",
-    "score": 60,
-    "date": "2026-07-07",
-    "category": "AI News"
-  },
-  {
-    "title": "July Timetable for models GPT 5.6 - tomorrow or thursday Grok 4.5 - in beta Gemini 3.5 - available to testers, release next week? Deepseek v4 - GA, th",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2074284004828905962#m",
-    "date": "2026-07-07",
-    "category": "Twitter"
-  },
-  {
-    "title": "Taiganet.com, Home of the WS4000 Simulator",
-    "source": "Hacker News",
-    "description": "HN Score: 20 | 3 comments",
-    "url": "https://www.taiganet.com/",
-    "score": 20,
+    "description": "HN Score: 89 | 25 comments",
+    "url": "https://usefeyn.com/blog/pulpie-pareto-optimal-models-for-cleaning-the-web/",
+    "score": 89,
     "date": "2026-07-07",
     "category": "AI News"
   }
