@@ -1,5 +1,12 @@
 [
   {
+    "title": "Claude Cowork expands to mobile and web",
+    "source": "TechCrunch",
+    "summary": "With this update, users can start a task from their desk, get status updates on their phone, and pick up the finished output later \u2014 even if their laptop is closed.",
+    "url": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
+    "date": "2026-07-07"
+  },
+  {
     "title": "Savi\u2019s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
     "source": "TechCrunch",
     "summary": "The company just raised $7 million in seed funding, and is launching its app for iPhone and Android on Tuesday.",
@@ -98,13 +105,6 @@
     "date": "2026-07-07"
   },
   {
-    "title": "Alibaba reportedly bans employees from using Claude Code",
-    "source": "TechCrunch",
-    "summary": "Alibaba has reportedly classified Claude Code as high-risk software.",
-    "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
-    "date": "2026-07-07"
-  },
-  {
     "title": "The Download: your stake in OpenAI, and the Treasury\u2019s AI warning",
     "source": "MIT Tech Review",
     "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Your family\u2019s $300 stake in OpenAI Sam Altman\u2019s proposal that Americans should share in the wealth created by AI is back in the spotlight, with reports that he...",
@@ -175,6 +175,13 @@
     "date": "2026-07-07"
   },
   {
+    "title": "Shut Those Laptops! Anthropic Puts Its Claude Cowork Agent on Your Phone",
+    "source": "Wired",
+    "summary": "Claude Cowork now keeps working on tasks even after you close your laptop. It\u2019s part of a larger push toward smartphone-controlled agents.",
+    "url": "https://www.wired.com/story/shut-those-laptops-anthropic-puts-its-claude-cowork-agent-on-your-phone/",
+    "date": "2026-07-07"
+  },
+  {
     "title": "These New Smart Glasses From Solos Come With a Privacy Shield for the Cameras",
     "source": "Wired",
     "summary": "You can clip a cover over the cameras, which could be a double-edged sword.",
@@ -238,10 +245,10 @@
     "date": "2026-07-07"
   },
   {
-    "title": "Claude Helped a Hacker Find a Way to Issue Tickets to Almost Every US Music Festival",
-    "source": "Wired",
-    "summary": "A researcher found that using Anthropic\u2019s Claude Opus 4.7, he could break into the website of Front Gate\u2014used by every festival from Lollapalooza to Bonnaroo\u2014and freely issue any ticket he chose.",
-    "url": "https://www.wired.com/story/claude-helped-a-hacker-find-a-way-to-issue-tickets-to-almost-every-us-music-festival/",
+    "title": "Facing US export controls, China's DeepSeek plans to make its own chips",
+    "source": "Ars Technica",
+    "summary": "It's early, but the plan is to reduce dependency on Nvidia and Huawei.",
+    "url": "https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/",
     "date": "2026-07-07"
   },
   {
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "NYT shifts OpenAI/Microsoft copyright claims after SCOTUS ruling against Sony.",
     "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/",
-    "date": "2026-07-07"
-  },
-  {
-    "title": "Notion killing Skiff-influenced email app since most users use AI agents instead",
-    "source": "Ars Technica",
-    "summary": "Notion is 'going all in on using agents to run your inbox.'",
-    "url": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
     "date": "2026-07-07"
   }
 ]
