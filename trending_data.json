@@ -10,9 +10,9 @@
   {
     "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
     "source": "Hacker News",
-    "description": "HN Score: 56 | 9 comments",
+    "description": "HN Score: 144 | 36 comments",
     "url": "https://kb.cert.org/vuls/id/213560",
-    "score": 56,
+    "score": 144,
     "date": "2026-07-08",
     "category": "AI News"
   },
@@ -27,9 +27,26 @@
   {
     "title": "Chat Control 1.0 and 2.0 Explained",
     "source": "Hacker News",
-    "description": "HN Score: 476 | 152 comments",
+    "description": "HN Score: 556 | 184 comments",
     "url": "https://fightchatcontrol.eu/chat-control-overview",
-    "score": 476,
+    "score": 556,
+    "date": "2026-07-08",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: Boom also had a board meeting where the board told me to shut the company down. XB-1 hadn\u2019t broken the sound barrier yet. The team d",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/bscholl/status/2074643123503092034#m",
+    "date": "2026-07-08",
+    "category": "Twitter"
+  },
+  {
+    "title": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday",
+    "source": "Hacker News",
+    "description": "HN Score: 111 | 41 comments",
+    "url": "https://twitter.com/OpenAI/status/2074704958419792299",
+    "score": 111,
     "date": "2026-07-08",
     "category": "AI News"
   },
@@ -42,28 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "We're extending access to Fable 5 on all paid plans through July 12",
-    "source": "Hacker News",
-    "description": "HN Score: 80 | 58 comments",
-    "url": "https://twitter.com/claudeai/status/2074548242386178258",
-    "score": 80,
-    "date": "2026-07-08",
-    "category": "AI News"
-  },
-  {
-    "title": "I write about this in my book The Last Economy 'tis the Great Fragmentation https://ii.inc/the-last-economy/chapter-16#future-two-the-great-fragmentat",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/EMostaque/status/2074488542428856753#m",
-    "date": "2026-07-08",
-    "category": "Twitter"
-  },
-  {
     "title": "Show HN: Davit, a Apple Containers UI",
     "source": "Hacker News",
-    "description": "HN Score: 224 | 50 comments",
+    "description": "HN Score: 268 | 59 comments",
     "url": "https://davit.app",
-    "score": 224,
+    "score": 268,
     "date": "2026-07-08",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Fortress \u2013 a stealth Chromium so your agents stop getting blocked",
+    "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
     "source": "Hacker News",
-    "description": "HN Score: 34 | 30 comments",
-    "url": "https://github.com/tiliondev/fortress",
-    "score": 34,
+    "description": "HN Score: 7 | 0 comments",
+    "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
+    "score": 7,
     "date": "2026-07-08",
     "category": "AI News"
   },
@@ -95,9 +95,26 @@
   {
     "title": "Show HN: Rowboat \u2013 Open-source, local-first alternative to Claude Desktop",
     "source": "Hacker News",
-    "description": "HN Score: 109 | 27 comments",
+    "description": "HN Score: 139 | 38 comments",
     "url": "https://github.com/rowboatlabs/rowboat",
-    "score": 109,
+    "score": 139,
+    "date": "2026-07-08",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: I still read my code.",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2074554082656985557#m",
+    "date": "2026-07-08",
+    "category": "Twitter"
+  },
+  {
+    "title": "Out of the Armchair",
+    "source": "Hacker News",
+    "description": "HN Score: 3 | 0 comments",
+    "url": "https://literaryreview.co.uk/out-of-the-armchair",
+    "score": 3,
     "date": "2026-07-08",
     "category": "AI News"
   },
@@ -110,28 +127,28 @@
     "category": "Twitter"
   },
   {
-    "title": "First Principles of Model Routing",
+    "title": "IEEE Rolls Out Large Language Models Training Course",
     "source": "Hacker News",
-    "description": "HN Score: 27 | 12 comments",
-    "url": "https://try.works/first-principles-of-model-routing",
-    "score": 27,
+    "description": "HN Score: 56 | 8 comments",
+    "url": "https://spectrum.ieee.org/large-language-models-ieee-course",
+    "score": 56,
     "date": "2026-07-08",
     "category": "AI News"
   },
   {
-    "title": "RT by @svpino: I've already talked to two companies that limit engineers to $100 in weekly tokens. That's around $20,000 in extra costs per person per",
-    "source": "@svpino",
+    "title": "Make your own agent - combine Fable and GPT 5.6 sol Putting the final touches to our custom router APIs that help you mix and match LLMs We will time ",
+    "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2074467718385021251#m",
+    "url": "https://nitter.net/bindureddy/status/2074700938930160079#m",
     "date": "2026-07-08",
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Free Mermaid Diagram Editor",
+    "title": "We're extending access to Fable 5 on all paid plans through July 12",
     "source": "Hacker News",
-    "description": "HN Score: 17 | 4 comments",
-    "url": "https://moxiedocs.com/mermaid-diagram-editor",
-    "score": 17,
+    "description": "HN Score: 149 | 160 comments",
+    "url": "https://twitter.com/claudeai/status/2074548242386178258",
+    "score": 149,
     "date": "2026-07-08",
     "category": "AI News"
   },
@@ -144,28 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "IEEE Rolls Out Large Language Models Training Course",
-    "source": "Hacker News",
-    "description": "HN Score: 43 | 7 comments",
-    "url": "https://spectrum.ieee.org/large-language-models-ieee-course",
-    "score": 43,
-    "date": "2026-07-08",
-    "category": "AI News"
-  },
-  {
-    "title": "WTF - China is now considering banning their models to the rest of us The flex is unmistakable! They believe their companies are better positioned for",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2074494729178501271#m",
-    "date": "2026-07-08",
-    "category": "Twitter"
-  },
-  {
     "title": "Why skilled workers come to Germany and then leave again",
     "source": "Hacker News",
-    "description": "HN Score: 196 | 494 comments",
+    "description": "HN Score: 224 | 571 comments",
     "url": "https://www.dw.com/en/germany-migrants-skilled-workers-integration-labor-market-bureaucracy-language-housing/a-77853162",
-    "score": 196,
+    "score": 224,
     "date": "2026-07-08",
     "category": "AI News"
   }
