@@ -1,5 +1,33 @@
 [
   {
+    "title": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
+    "source": "TechCrunch",
+    "summary": "Meta is adding a new safeguard to stop people from secretly recording others with its AI glasses. But the update comes as the company continues to expand how much personal data its AI products collect and use.",
+    "url": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
+    "date": "2026-07-08"
+  },
+  {
+    "title": "OpenAI releases new voice models for more natural live conversations",
+    "source": "TechCrunch",
+    "summary": "OpenAI says its new voice mode can speak and listen at the same time, a key ability for live translation.",
+    "url": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
+    "date": "2026-07-08"
+  },
+  {
+    "title": "Prime Intellect raises $130M Series A to help enterprises build their own AI agents",
+    "source": "TechCrunch",
+    "summary": "Founded in 2024, Prime Intellect\u2019s goal is to give organizations capabilities to train their own agentic systems without relying on frontier AI labs.",
+    "url": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
+    "date": "2026-07-08"
+  },
+  {
+    "title": "These AI startups are growing revenue at faster and faster rates",
+    "source": "TechCrunch",
+    "summary": "There are a lot of fast-growing AI startups, but some are growing even faster, they say.",
+    "url": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
+    "date": "2026-07-08"
+  },
+  {
     "title": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
     "source": "TechCrunch",
     "summary": "Kevin Weil's new role at Stoke Space suggests reusable rockets are the next hot thing in Silicon Valley.",
@@ -16,7 +44,7 @@
   {
     "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
     "source": "TechCrunch",
-    "summary": "AI chip maker SambaNova has raised at an $11B valuation months after Intel was rumored to be trying to buy it for about $1.6 billion.",
+    "summary": "AI chip maker SambaNova has raised at an $11 billion valuation months after Intel was rumored to be trying to buy it for about $1.6 billion.",
     "url": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
     "date": "2026-07-08"
   },
@@ -77,31 +105,10 @@
     "date": "2026-07-08"
   },
   {
-    "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
-    "source": "TechCrunch",
-    "summary": "SK Hynix is experiencing a boom credited to AI. It will ride that to a multibillion-dollar U.S. IPO, expected to take place on Friday.",
-    "url": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
-    "date": "2026-07-08"
-  },
-  {
-    "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
-    "source": "TechCrunch",
-    "summary": "'The reality is, when you're optimizing for production, you start looking at a price/performance,' Guillermo Rauch tells TechCrunch.",
-    "url": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
-    "date": "2026-07-08"
-  },
-  {
-    "title": "You can now customize Siri\u2019s pace and expressivity in the latest iOS 27 beta",
-    "source": "TechCrunch",
-    "summary": "The update is part of Apple's broader effort to make Siri feel more natural and personal, as it rebuilds the assistant around generative AI.",
-    "url": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
-    "date": "2026-07-08"
-  },
-  {
-    "title": "Every major tech layoff in 2026 that has name-checked AI",
-    "source": "TechCrunch",
-    "summary": "A running look \u2014 in reverse chronological order \u2014 at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
-    "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+    "title": "EmTech AI 2026: The Rise of the AI Platform",
+    "source": "MIT Tech Review",
+    "summary": "",
+    "url": "https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/",
     "date": "2026-07-08"
   },
   {
@@ -165,13 +172,6 @@
     "source": "MIT Tech Review",
     "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. The UK\u2019s generational tobacco ban might not work. I\u2019m supporting it anyway. \u2014Jessica Hamzelou As the parent of two little girls, I often think about how their ...",
     "url": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/",
-    "date": "2026-07-08"
-  },
-  {
-    "title": "The UK\u2019s generational tobacco ban might not work. I\u2019m supporting it anyway.",
-    "source": "MIT Tech Review",
-    "summary": "As the parent of two little girls, I often think about how their childhood is different from mine. The seven-year-old is learning about AI at school. The five-year-old is given internet-based homework every week. And they are both absolutely repulsed by the idea of smoking. That was not the preva...",
-    "url": "https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/",
     "date": "2026-07-08"
   },
   {
@@ -242,6 +242,13 @@
     "source": "Wired",
     "summary": "Cursor hopes to continue offering third-party AI models after it's acquired by SpaceX, testing the relationships between frontier AI labs.",
     "url": "https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/",
+    "date": "2026-07-08"
+  },
+  {
+    "title": "Google updates Android Bench with new LLMs, but Gemini still lags behind",
+    "source": "Ars Technica",
+    "summary": "Android Bench is evolving, and developers can help guide that process.",
+    "url": "https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/",
     "date": "2026-07-08"
   },
   {
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "Sources suggest Musk may be mulling big donation to Trump Accounts.",
     "url": "https://arstechnica.com/tech-policy/2026/06/spacex-may-donate-stock-to-trumps-savings-accounts-for-kids-report-says/",
-    "date": "2026-07-08"
-  },
-  {
-    "title": "South Korea to spend $1T on more memory chip production and humanoid robots",
-    "source": "Ars Technica",
-    "summary": "South Korea targets physical AI lead and commercial humanoid robots by 2028.",
-    "url": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
     "date": "2026-07-08"
   }
 ]
