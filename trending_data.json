@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
+    "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
     "source": "Hacker News",
-    "description": "HN Score: 144 | 36 comments",
-    "url": "https://kb.cert.org/vuls/id/213560",
-    "score": 144,
+    "description": "HN Score: 197 | 76 comments",
+    "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
+    "score": 197,
     "date": "2026-07-08",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Chat Control 1.0 and 2.0 Explained",
+    "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
     "source": "Hacker News",
-    "description": "HN Score: 556 | 184 comments",
-    "url": "https://fightchatcontrol.eu/chat-control-overview",
-    "score": 556,
+    "description": "HN Score: 220 | 67 comments",
+    "url": "https://kb.cert.org/vuls/id/213560",
+    "score": 220,
     "date": "2026-07-08",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday",
+    "title": "Chat Control 1.0 and 2.0 Explained",
     "source": "Hacker News",
-    "description": "HN Score: 111 | 41 comments",
-    "url": "https://twitter.com/OpenAI/status/2074704958419792299",
-    "score": 111,
+    "description": "HN Score: 665 | 259 comments",
+    "url": "https://fightchatcontrol.eu/chat-control-overview",
+    "score": 665,
     "date": "2026-07-08",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Davit, a Apple Containers UI",
+    "title": "EVE Online's Carbon engine is now open source: Fenris Creations explains why",
     "source": "Hacker News",
-    "description": "HN Score: 268 | 59 comments",
-    "url": "https://davit.app",
-    "score": 268,
+    "description": "HN Score: 25 | 0 comments",
+    "url": "https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why",
+    "score": 25,
     "date": "2026-07-08",
     "category": "AI News"
   },
@@ -76,28 +76,45 @@
     "category": "Twitter"
   },
   {
-    "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
+    "title": "Geosql: A Claude/Codex skill for geospatial data",
     "source": "Hacker News",
-    "description": "HN Score: 7 | 0 comments",
-    "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
-    "score": 7,
+    "description": "HN Score: 6 | 0 comments",
+    "url": "https://github.com/dekart-xyz/geosql",
+    "score": 6,
     "date": "2026-07-08",
     "category": "AI News"
   },
   {
-    "title": "Today, we give robots a /skills library that self-evolves and compounds indefinitely! Introducing ASPIRE: a robot solving its 100th task is no longer ",
+    "title": "R to @DrJimFan: Project gallery and whitepaper: https://research.nvidia.com/labs/gear/aspire/ ASPIRE is a great collaboration between NVIDIA GEAR lab,",
     "source": "@DrJimFan",
     "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2072004190856212902#m",
+    "url": "https://nitter.net/DrJimFan/status/2072004192294830583#m",
+    "date": "2026-07-08",
+    "category": "Twitter"
+  },
+  {
+    "title": "Show HN: Davit, a Apple Containers UI",
+    "source": "Hacker News",
+    "description": "HN Score: 311 | 75 comments",
+    "url": "https://davit.app",
+    "score": 311,
+    "date": "2026-07-08",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: This benchmark tests how frontier models handle child-safety risks that aren't explicit abuse material: grooming, impersonation, profil",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2074590097966784951#m",
     "date": "2026-07-08",
     "category": "Twitter"
   },
   {
     "title": "Show HN: Rowboat \u2013 Open-source, local-first alternative to Claude Desktop",
     "source": "Hacker News",
-    "description": "HN Score: 139 | 38 comments",
+    "description": "HN Score: 162 | 50 comments",
     "url": "https://github.com/rowboatlabs/rowboat",
-    "score": 139,
+    "score": 162,
     "date": "2026-07-08",
     "category": "AI News"
   },
@@ -110,28 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Out of the Armchair",
-    "source": "Hacker News",
-    "description": "HN Score: 3 | 0 comments",
-    "url": "https://literaryreview.co.uk/out-of-the-armchair",
-    "score": 3,
-    "date": "2026-07-08",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: AI is cool to generate 3D scenes and all, but it's mostly a gimmick and really hard to use for anything serious. If we want a chance to",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2074490965042303160#m",
-    "date": "2026-07-08",
-    "category": "Twitter"
-  },
-  {
     "title": "IEEE Rolls Out Large Language Models Training Course",
     "source": "Hacker News",
-    "description": "HN Score: 56 | 8 comments",
+    "description": "HN Score: 77 | 10 comments",
     "url": "https://spectrum.ieee.org/large-language-models-ieee-course",
-    "score": 56,
+    "score": 77,
     "date": "2026-07-08",
     "category": "AI News"
   },
@@ -146,9 +146,9 @@
   {
     "title": "We're extending access to Fable 5 on all paid plans through July 12",
     "source": "Hacker News",
-    "description": "HN Score: 149 | 160 comments",
+    "description": "HN Score: 191 | 209 comments",
     "url": "https://twitter.com/claudeai/status/2074548242386178258",
-    "score": 149,
+    "score": 191,
     "date": "2026-07-08",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Why skilled workers come to Germany and then leave again",
+    "title": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
     "source": "Hacker News",
-    "description": "HN Score: 224 | 571 comments",
-    "url": "https://www.dw.com/en/germany-migrants-skilled-workers-integration-labor-market-bureaucracy-language-housing/a-77853162",
-    "score": 224,
+    "description": "HN Score: 107 | 12 comments",
+    "url": "https://blog.zksecurity.xyz/posts/circl-bugs/",
+    "score": 107,
     "date": "2026-07-08",
     "category": "AI News"
   }
