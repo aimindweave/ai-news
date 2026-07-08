@@ -10,9 +10,9 @@
   {
     "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
     "source": "Hacker News",
-    "description": "HN Score: 197 | 76 comments",
+    "description": "HN Score: 343 | 139 comments",
     "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
-    "score": 197,
+    "score": 343,
     "date": "2026-07-08",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
+    "title": "EVE Online's Carbon engine is now open source: Fenris Creations explains why",
     "source": "Hacker News",
-    "description": "HN Score: 220 | 67 comments",
-    "url": "https://kb.cert.org/vuls/id/213560",
-    "score": 220,
+    "description": "HN Score: 164 | 49 comments",
+    "url": "https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why",
+    "score": 164,
     "date": "2026-07-08",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Chat Control 1.0 and 2.0 Explained",
+    "title": "Geosql: A Claude/Codex skill for geospatial data",
     "source": "Hacker News",
-    "description": "HN Score: 665 | 259 comments",
-    "url": "https://fightchatcontrol.eu/chat-control-overview",
-    "score": 665,
+    "description": "HN Score: 66 | 9 comments",
+    "url": "https://github.com/dekart-xyz/geosql",
+    "score": 66,
     "date": "2026-07-08",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "EVE Online's Carbon engine is now open source: Fenris Creations explains why",
+    "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
     "source": "Hacker News",
-    "description": "HN Score: 25 | 0 comments",
-    "url": "https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why",
-    "score": 25,
+    "description": "HN Score: 278 | 94 comments",
+    "url": "https://kb.cert.org/vuls/id/213560",
+    "score": 278,
     "date": "2026-07-08",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Geosql: A Claude/Codex skill for geospatial data",
+    "title": "Chat Control 1.0 and 2.0 Explained",
     "source": "Hacker News",
-    "description": "HN Score: 6 | 0 comments",
-    "url": "https://github.com/dekart-xyz/geosql",
-    "score": 6,
+    "description": "HN Score: 763 | 308 comments",
+    "url": "https://fightchatcontrol.eu/chat-control-overview",
+    "score": 763,
     "date": "2026-07-08",
     "category": "AI News"
   },
@@ -93,11 +93,28 @@
     "category": "Twitter"
   },
   {
+    "title": "Show HN: Follow London Trains in 3D",
+    "source": "Hacker News",
+    "description": "HN Score: 6 | 2 comments",
+    "url": "https://ride.nexttrain.london/",
+    "score": 6,
+    "date": "2026-07-08",
+    "category": "AI News"
+  },
+  {
+    "title": "How you can build a moat with self-learning agents: If you can build an agent that gets better every time people use it, you will be unstoppable. Here",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2074832126055489814#m",
+    "date": "2026-07-08",
+    "category": "Twitter"
+  },
+  {
     "title": "Show HN: Davit, a Apple Containers UI",
     "source": "Hacker News",
-    "description": "HN Score: 311 | 75 comments",
+    "description": "HN Score: 347 | 85 comments",
     "url": "https://davit.app",
-    "score": 311,
+    "score": 347,
     "date": "2026-07-08",
     "category": "AI News"
   },
@@ -112,26 +129,9 @@
   {
     "title": "Show HN: Rowboat \u2013 Open-source, local-first alternative to Claude Desktop",
     "source": "Hacker News",
-    "description": "HN Score: 162 | 50 comments",
+    "description": "HN Score: 191 | 73 comments",
     "url": "https://github.com/rowboatlabs/rowboat",
-    "score": 162,
-    "date": "2026-07-08",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: I still read my code.",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2074554082656985557#m",
-    "date": "2026-07-08",
-    "category": "Twitter"
-  },
-  {
-    "title": "IEEE Rolls Out Large Language Models Training Course",
-    "source": "Hacker News",
-    "description": "HN Score: 77 | 10 comments",
-    "url": "https://spectrum.ieee.org/large-language-models-ieee-course",
-    "score": 77,
+    "score": 191,
     "date": "2026-07-08",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "We're extending access to Fable 5 on all paid plans through July 12",
+    "title": "IEEE Rolls Out Large Language Models Training Course",
     "source": "Hacker News",
-    "description": "HN Score: 191 | 209 comments",
-    "url": "https://twitter.com/claudeai/status/2074548242386178258",
-    "score": 191,
+    "description": "HN Score: 95 | 16 comments",
+    "url": "https://spectrum.ieee.org/large-language-models-ieee-course",
+    "score": 95,
     "date": "2026-07-08",
     "category": "AI News"
   },
@@ -163,9 +163,9 @@
   {
     "title": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
     "source": "Hacker News",
-    "description": "HN Score: 107 | 12 comments",
+    "description": "HN Score: 110 | 12 comments",
     "url": "https://blog.zksecurity.xyz/posts/circl-bugs/",
-    "score": 107,
+    "score": 110,
     "date": "2026-07-08",
     "category": "AI News"
   }
