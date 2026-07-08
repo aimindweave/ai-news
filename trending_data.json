@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
+    "title": "Fable is not a useful model",
     "source": "Hacker News",
-    "description": "HN Score: 319 | 74 comments",
-    "url": "https://mistral.ai/news/robostral-navigate/",
-    "score": 319,
+    "description": "HN Score: 80 | 53 comments",
+    "url": "https://combine-lab.github.io/blog/2026/07/07/fable-is-not-a-useful-model.html",
+    "score": 80,
     "date": "2026-07-08",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
     "source": "Hacker News",
-    "description": "HN Score: 157 | 91 comments",
+    "description": "HN Score: 205 | 111 comments",
     "url": "https://cognition.com/blog/swe-1-7",
-    "score": 157,
+    "score": 205,
     "date": "2026-07-08",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
+    "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
     "source": "Hacker News",
-    "description": "HN Score: 77 | 28 comments",
-    "url": "https://microsoft.github.io/flint-chart/#/",
-    "score": 77,
+    "description": "HN Score: 354 | 84 comments",
+    "url": "https://mistral.ai/news/robostral-navigate/",
+    "score": 354,
     "date": "2026-07-08",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "GPT\u2011Live",
+    "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
     "source": "Hacker News",
-    "description": "HN Score: 390 | 267 comments",
-    "url": "https://openai.com/index/introducing-gpt-live/",
-    "score": 390,
+    "description": "HN Score: 113 | 47 comments",
+    "url": "https://microsoft.github.io/flint-chart/#/",
+    "score": 113,
     "date": "2026-07-08",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
+    "title": "OpenAI no longer recommends SWE-Bench Pro",
     "source": "Hacker News",
-    "description": "HN Score: 470 | 180 comments",
-    "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
-    "score": 470,
+    "description": "HN Score: 10 | 1 comments",
+    "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
+    "score": 10,
     "date": "2026-07-08",
     "category": "AI News"
   },
@@ -93,11 +93,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Agent Draw: An agent draws while you talk, built on TLDraw",
+    "title": "GPT\u2011Live",
     "source": "Hacker News",
-    "description": "HN Score: 8 | 0 comments",
-    "url": "https://techstackups.com/articles/tldraw-agent-draw/",
-    "score": 8,
+    "description": "HN Score: 484 | 334 comments",
+    "url": "https://openai.com/index/introducing-gpt-live/",
+    "score": 484,
+    "date": "2026-07-08",
+    "category": "AI News"
+  },
+  {
+    "title": "New open-source model: \u2022 Interactive \u2022 You can generate up to 1 hour of video \u2022 There's an agent that drives the whole thing GitHub repo: https://gith",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2074954231103082905#m",
+    "date": "2026-07-08",
+    "category": "Twitter"
+  },
+  {
+    "title": "Show HN: Onboard-CLI, a LLM powered and AST-based tool to visualize codebase",
+    "source": "Hacker News",
+    "description": "HN Score: 6 | 1 comments",
+    "url": "https://github.com/animesh-94/Onboard-CLI",
+    "score": 6,
     "date": "2026-07-08",
     "category": "AI News"
   },
@@ -110,28 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Follow London Trains in 3D",
+    "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
     "source": "Hacker News",
-    "description": "HN Score: 98 | 44 comments",
-    "url": "https://ride.nexttrain.london/",
-    "score": 98,
-    "date": "2026-07-08",
-    "category": "AI News"
-  },
-  {
-    "title": "How you can build a moat with self-learning agents: If you can build an agent that gets better every time people use it, you will be unstoppable. Here",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2074832126055489814#m",
-    "date": "2026-07-08",
-    "category": "Twitter"
-  },
-  {
-    "title": "EVE Online's Carbon engine is now open source: Fenris Creations explains why",
-    "source": "Hacker News",
-    "description": "HN Score: 340 | 118 comments",
-    "url": "https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why",
-    "score": 340,
+    "description": "HN Score: 485 | 184 comments",
+    "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
+    "score": 485,
     "date": "2026-07-08",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Geosql: A Claude/Codex skill for geospatial data",
+    "title": "EVE Online's Carbon engine is now open source: Fenris Creations explains why",
     "source": "Hacker News",
-    "description": "HN Score: 111 | 13 comments",
-    "url": "https://github.com/dekart-xyz/geosql",
-    "score": 111,
+    "description": "HN Score: 353 | 120 comments",
+    "url": "https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why",
+    "score": 353,
     "date": "2026-07-08",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
+    "title": "Show HN: Follow London Trains in 3D",
     "source": "Hacker News",
-    "description": "HN Score: 330 | 114 comments",
-    "url": "https://kb.cert.org/vuls/id/213560",
-    "score": 330,
+    "description": "HN Score: 113 | 52 comments",
+    "url": "https://ride.nexttrain.london/",
+    "score": 113,
     "date": "2026-07-08",
     "category": "AI News"
   }
