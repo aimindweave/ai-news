@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Fable is not a useful model",
+    "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
     "source": "Hacker News",
-    "description": "HN Score: 80 | 53 comments",
-    "url": "https://combine-lab.github.io/blog/2026/07/07/fable-is-not-a-useful-model.html",
-    "score": 80,
+    "description": "HN Score: 383 | 89 comments",
+    "url": "https://mistral.ai/news/robostral-navigate/",
+    "score": 383,
     "date": "2026-07-08",
     "category": "AI News"
   },
@@ -25,11 +25,28 @@
     "category": "Twitter"
   },
   {
-    "title": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
+    "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
     "source": "Hacker News",
-    "description": "HN Score: 205 | 111 comments",
-    "url": "https://cognition.com/blog/swe-1-7",
-    "score": 205,
+    "description": "HN Score: 152 | 65 comments",
+    "url": "https://microsoft.github.io/flint-chart/#/",
+    "score": 152,
+    "date": "2026-07-08",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: I used Codex to port Command & Conquer: Red Alert to Mac and Android. No emulation. The original engine now compiles natively to ARM",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/4gb7xvbwqx/status/2074834114847309981#m",
+    "date": "2026-07-08",
+    "category": "Twitter"
+  },
+  {
+    "title": "GPT\u2011Live",
+    "source": "Hacker News",
+    "description": "HN Score: 552 | 375 comments",
+    "url": "https://openai.com/index/introducing-gpt-live/",
+    "score": 552,
     "date": "2026-07-08",
     "category": "AI News"
   },
@@ -42,28 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
+    "title": "The classifiers Anthropic puts in front of Fable are too zealous",
     "source": "Hacker News",
-    "description": "HN Score: 354 | 84 comments",
-    "url": "https://mistral.ai/news/robostral-navigate/",
-    "score": 354,
-    "date": "2026-07-08",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @EMostaque: Prime Intellect raises $130M Series A to help enterprises build their own AI agents https://techcrunch.com/2026/07/08/prime-intellec",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/TechCrunch/status/2074892174085542058#m",
-    "date": "2026-07-08",
-    "category": "Twitter"
-  },
-  {
-    "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
-    "source": "Hacker News",
-    "description": "HN Score: 113 | 47 comments",
-    "url": "https://microsoft.github.io/flint-chart/#/",
-    "score": 113,
+    "description": "HN Score: 173 | 156 comments",
+    "url": "https://combine-lab.github.io/blog/2026/07/07/fable-is-not-a-useful-model.html",
+    "score": 173,
     "date": "2026-07-08",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "OpenAI no longer recommends SWE-Bench Pro",
+    "title": "Show HN: Onboard-CLI, a LLM powered and AST-based tool to visualize codebase",
     "source": "Hacker News",
-    "description": "HN Score: 10 | 1 comments",
-    "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
-    "score": 10,
+    "description": "HN Score: 15 | 3 comments",
+    "url": "https://github.com/animesh-94/Onboard-CLI",
+    "score": 15,
     "date": "2026-07-08",
     "category": "AI News"
   },
@@ -93,11 +93,28 @@
     "category": "Twitter"
   },
   {
-    "title": "GPT\u2011Live",
+    "title": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
     "source": "Hacker News",
-    "description": "HN Score: 484 | 334 comments",
-    "url": "https://openai.com/index/introducing-gpt-live/",
-    "score": 484,
+    "description": "HN Score: 239 | 123 comments",
+    "url": "https://cognition.com/blog/swe-1-7",
+    "score": 239,
+    "date": "2026-07-08",
+    "category": "AI News"
+  },
+  {
+    "title": "Last time I asked here, most people preferred Hermes over OpenClaw. Since then, almost every person I know migrated to Hermes. I think Hermes is corne",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2074977726100901931#m",
+    "date": "2026-07-08",
+    "category": "Twitter"
+  },
+  {
+    "title": "EVE Online's Carbon engine is now open source: Fenris Creations explains why",
+    "source": "Hacker News",
+    "description": "HN Score: 370 | 124 comments",
+    "url": "https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why",
+    "score": 370,
     "date": "2026-07-08",
     "category": "AI News"
   },
@@ -110,28 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Onboard-CLI, a LLM powered and AST-based tool to visualize codebase",
+    "title": "Show HN: Agent Draw: An agent draws while you talk, built on TLDraw",
     "source": "Hacker News",
-    "description": "HN Score: 6 | 1 comments",
-    "url": "https://github.com/animesh-94/Onboard-CLI",
-    "score": 6,
-    "date": "2026-07-08",
-    "category": "AI News"
-  },
-  {
-    "title": "An open-source foundation model for robots. Show me something more hardcore than this, and I'll deactivate my account. Bots are coming!",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2074913291789316572#m",
-    "date": "2026-07-08",
-    "category": "Twitter"
-  },
-  {
-    "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
-    "source": "Hacker News",
-    "description": "HN Score: 485 | 184 comments",
-    "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
-    "score": 485,
+    "description": "HN Score: 26 | 2 comments",
+    "url": "https://techstackups.com/articles/tldraw-agent-draw/",
+    "score": 26,
     "date": "2026-07-08",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "EVE Online's Carbon engine is now open source: Fenris Creations explains why",
+    "title": "Show HN: Follow London Trains in 3D",
     "source": "Hacker News",
-    "description": "HN Score: 353 | 120 comments",
-    "url": "https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why",
-    "score": 353,
+    "description": "HN Score: 123 | 56 comments",
+    "url": "https://ride.nexttrain.london/",
+    "score": 123,
     "date": "2026-07-08",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Follow London Trains in 3D",
+    "title": "Show HN: Abralo \u2013 Free, easy way to run several Claude Code agents in one window",
     "source": "Hacker News",
-    "description": "HN Score: 113 | 52 comments",
-    "url": "https://ride.nexttrain.london/",
-    "score": 113,
+    "description": "HN Score: 4 | 2 comments",
+    "url": "https://abralo.com/",
+    "score": 4,
     "date": "2026-07-08",
     "category": "AI News"
   }
