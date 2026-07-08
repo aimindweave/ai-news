@@ -93,6 +93,16 @@
   ],
   "episodes": [
     {
+      "id": "The TWIM_0",
+      "name": "How AI Learns to Smell with Alex Wiltschko - #771",
+      "show": "The TWIML AI Podcast",
+      "description": "In this episode, Alex Wiltschko, founder and CEO of Osmo, joins the show to discuss his goal of giving computers a sense of smell and what it takes to build olfactory intelligence.\n\nWe explore the sci",
+      "release_date": "2026-07-08",
+      "duration_min": 59,
+      "image": "",
+      "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
+    },
+    {
       "id": "a]6z Pod_0",
       "name": "Adam Neumann: This Is How You Build Iconic Companies",
       "show": "a]6z Podcast",
@@ -193,7 +203,7 @@
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
-      "id": "The TWIM_0",
+      "id": "The TWIM_1",
       "name": "Why AI Agents Break the GenAI Security Model with Devvret Rishi - #770",
       "show": "The TWIML AI Podcast",
       "description": "In this episode, Sam talks with Dev Rishi, GM of AI at Rubrik, about what happens when agents move beyond answering questions and start taking action across tools, systems, and business processes.\n\nWe",
@@ -223,7 +233,7 @@
       "url": "https://open.spotify.com/show/0e1X4kJVfwQRPF8lZzqqfX"
     },
     {
-      "id": "The TWIM_1",
+      "id": "The TWIM_2",
       "name": "Is RAG Dead? Lessons from Building AI for Tax Law with Alex Bowcut - #769",
       "show": "The TWIML AI Podcast",
       "description": "As context windows grow into the millions of tokens, many AI practitioners are questioning whether retrieval-augmented generation (RAG) is still necessary. If modern models can ingest entire libraries",
@@ -251,16 +261,6 @@
       "duration_min": 29,
       "image": "",
       "url": "https://open.spotify.com/show/0e1X4kJVfwQRPF8lZzqqfX"
-    },
-    {
-      "id": "The TWIM_2",
-      "name": "Relational Foundation Models for Enterprise Data with Jure Leskovec - #768",
-      "show": "The TWIML AI Podcast",
-      "description": "In this episode, Jure Leskovec, co-founder and chief scientist at Kumo and professor of computer science at Stanford, joins us to explore two fronts of his work: AI for science and relational deep lea",
-      "release_date": "2026-05-21",
-      "duration_min": 66,
-      "image": "",
-      "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
     },
     {
       "id": "Lex Frid_2",

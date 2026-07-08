@@ -1,5 +1,33 @@
 [
   {
+    "title": "SpaceXAI releases Grok 4.5, which Elon describes as an \u2018Opus-class model\u2019",
+    "source": "TechCrunch",
+    "summary": "Elon Musk's tech company released the newest version of Grok on Wednesday, promising a cheaper, more efficient alternative to other powerful AI models.",
+    "url": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+    "date": "2026-07-08"
+  },
+  {
+    "title": "This startup thinks robotics is about to have its ChatGPT moment",
+    "source": "TechCrunch",
+    "summary": "General Intuition is betting millions of hours of video game data can train the foundation models for physical AI, making it easier to build smarter robots with minimal real-world data.",
+    "url": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
+    "date": "2026-07-08"
+  },
+  {
+    "title": "Google Photos adds a new AI \u2018Video Remix\u2019 tool",
+    "source": "TechCrunch",
+    "summary": "The feature can do things like apply cinematic relighting to brighten up a dark clip, swap out a plain background for something fun, or add artistic styles to videos.",
+    "url": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
+    "date": "2026-07-08"
+  },
+  {
+    "title": "Why this CEO thinks video games make better training data than the internet",
+    "source": "TechCrunch",
+    "summary": "When it comes to achieving artificial general intelligence (AGI), large language models just don\u2019t have what it takes. Models like ChatGPT and Claude are great at text, but they re less skilled at understanding how things actually move through space and time \u2014 an essential skill for producing int...",
+    "url": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
+    "date": "2026-07-08"
+  },
+  {
     "title": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
     "source": "TechCrunch",
     "summary": "Meta is adding a new safeguard to stop people from secretly recording others with its AI glasses. But the update comes as the company continues to expand how much personal data its AI products collect and use.",
@@ -25,6 +53,13 @@
     "source": "TechCrunch",
     "summary": "There are a lot of fast-growing AI startups, but some are growing even faster, they say.",
     "url": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
+    "date": "2026-07-08"
+  },
+  {
+    "title": "Your gaming data could be the secret to AGI, according to this Bezos-backed startup",
+    "source": "TechCrunch",
+    "summary": "When it comes to achieving artificial general intelligence (AGI), large language models just don\u2019t have what it takes. Models like ChatGPT and Claude are great at text, but they re less skilled at understanding how things actually move through space and time \u2014 an essential skill for producing int...",
+    "url": "https://techcrunch.com/podcast/your-gaming-data-could-be-the-secret-to-agi-according-to-this-bezos-backed-startup/",
     "date": "2026-07-08"
   },
   {
@@ -67,41 +102,6 @@
     "source": "TechCrunch",
     "summary": "Microsoft is the latest Silicon Valley giant to cut back on its AI spending.",
     "url": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
-    "date": "2026-07-08"
-  },
-  {
-    "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
-    "source": "TechCrunch",
-    "summary": "The company confirmed that the issue had been affecting accounts since May, with an additional 200 users banned over the weekend before its team identified and fixed the problem.",
-    "url": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
-    "date": "2026-07-08"
-  },
-  {
-    "title": "Claude Cowork expands to mobile and web",
-    "source": "TechCrunch",
-    "summary": "With this update, users can start a task from their desk, get status updates on their phone, and pick up the finished output later \u2014 even if their laptop is closed.",
-    "url": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
-    "date": "2026-07-08"
-  },
-  {
-    "title": "Savi\u2019s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
-    "source": "TechCrunch",
-    "summary": "The company just raised $7 million in seed funding, and is launching its app for iPhone and Android on Tuesday.",
-    "url": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
-    "date": "2026-07-08"
-  },
-  {
-    "title": "The first American autonomous ground vehicles are fighting in Ukraine",
-    "source": "TechCrunch",
-    "summary": "Forterra has deployed more than 100 of its self-driving ATVs in conflict zones in Ukraine.",
-    "url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
-    "date": "2026-07-08"
-  },
-  {
-    "title": "The \u2018first\u2019 AI-run ransomware attack still needed a human",
-    "source": "TechCrunch",
-    "summary": "An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infrastructure, and supplied stolen credentials \u2014 meaning it wasn't quite the fully autonomous cybercrime debut that last wee...",
-    "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
     "date": "2026-07-08"
   },
   {
