@@ -1,5 +1,40 @@
 [
   {
+    "title": "Anthropic\u2019s new Claude feature is quietly selling you on AI",
+    "source": "TechCrunch",
+    "summary": "Claude\u2019s new Reflect dashboard doesn\u2019t just visualize how you use AI. It also subtly reinforces how much of your daily work now depends on Anthropic\u2019s chatbot.",
+    "url": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
+    "date": "2026-07-09"
+  },
+  {
+    "title": "Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits",
+    "source": "TechCrunch",
+    "summary": "Three big AI IPOs are set to generate more value than all the U.S. VC-backed exits since 2000.",
+    "url": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/",
+    "date": "2026-07-09"
+  },
+  {
+    "title": "Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users",
+    "source": "TechCrunch",
+    "summary": "Benchmark-backed Ollama has amassed 176,000 stars, and nearly 17,000 forks on GitHub by helping developers easily run AI on their PCs.",
+    "url": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/",
+    "date": "2026-07-09"
+  },
+  {
+    "title": "Character.AI enters the microdrama arena with its own productions, but there\u2019s a twist",
+    "source": "TechCrunch",
+    "summary": "In an interesting twist that takes advantage of the company's core product, users can chat with these shows' characters, ask them questions, and even roleplay different storylines.",
+    "url": "https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/",
+    "date": "2026-07-09"
+  },
+  {
+    "title": "Nandan Nilekani leaves GP role at Fundamentum as it launches $200M third fund",
+    "source": "TechCrunch",
+    "summary": "Nilekani remains Fundamentum's anchor investor as the firm expands its leadership team and targets AI and fintech startups in India.",
+    "url": "https://techcrunch.com/2026/07/09/nandan-nilekani-leaves-gp-role-at-his-vc-firm-as-it-launches-third-200m-fund/",
+    "date": "2026-07-09"
+  },
+  {
     "title": "Lovable reportedly in talks to double its valuation to $13.2B",
     "source": "TechCrunch",
     "summary": "The $300 million round is expected to be led by Menlo Ventures, Sifted reported.",
@@ -70,38 +105,10 @@
     "date": "2026-07-09"
   },
   {
-    "title": "Your gaming data could be the secret to AGI, according to this Bezos-backed startup",
-    "source": "TechCrunch",
-    "summary": "When it comes to achieving artificial general intelligence (AGI), large language models just don\u2019t have what it takes. Models like ChatGPT and Claude are great at text, but they re less skilled at understanding how things actually move through space and time \u2014 an essential skill for producing int...",
-    "url": "https://techcrunch.com/podcast/your-gaming-data-could-be-the-secret-to-agi-according-to-this-bezos-backed-startup/",
-    "date": "2026-07-09"
-  },
-  {
-    "title": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
-    "source": "TechCrunch",
-    "summary": "Kevin Weil's new role at Stoke Space suggests reusable rockets are the next hot thing in Silicon Valley.",
-    "url": "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/",
-    "date": "2026-07-09"
-  },
-  {
-    "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
-    "source": "TechCrunch",
-    "summary": "ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly.",
-    "url": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
-    "date": "2026-07-09"
-  },
-  {
-    "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
-    "source": "TechCrunch",
-    "summary": "AI chip maker SambaNova has raised at an $11 billion valuation months after Intel was rumored to be trying to buy it for about $1.6 billion.",
-    "url": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
-    "date": "2026-07-09"
-  },
-  {
-    "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
-    "source": "TechCrunch",
-    "summary": "The new image-generating model has numerous use cases, including advertising and decorating, and creator-based opportunities.",
-    "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+    "title": "The Download: a nuclear landmark, and China eyes Nvidia chips",
+    "source": "MIT Tech Review",
+    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Four nuclear reactors hit a big milestone in the US \u2014Casey Crownhart I was really looking forward to July 4, and not just because I love a poolside barbecue. T...",
+    "url": "https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/",
     "date": "2026-07-09"
   },
   {
@@ -165,13 +172,6 @@
     "source": "MIT Tech Review",
     "summary": "Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in Sunoo, a matchmaking company based in Seoul, a year ago. In a move typical of anxious South Korean parents, his mother signed him up, hoping to find a good wife for her son. Lately, says Baek (who asked ...",
     "url": "https://www.technologyreview.com/2026/07/06/1140000/south-korea-bachelors-samsung-skhynix-chip-workers/",
-    "date": "2026-07-09"
-  },
-  {
-    "title": "A device that revives eyeballs from dead donors could make eye transplants possible",
-    "source": "MIT Tech Review",
-    "summary": "It\u2019s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they\u2019ve left the body. When surgeons attempted it a few years ago, the newly transplanted eye wasn\u2019t able to see. But researchers believe they might have a solution: a d...",
-    "url": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/",
     "date": "2026-07-09"
   },
   {
