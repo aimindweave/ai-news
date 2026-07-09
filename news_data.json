@@ -1,5 +1,40 @@
 [
   {
+    "title": "OpenAI launches its new family of models with GPT-5.6",
+    "source": "TechCrunch",
+    "summary": "OpenAI's latest family of models promise improvements across a range of areas, including cybersecurity.",
+    "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+    "date": "2026-07-09"
+  },
+  {
+    "title": "An AI agent startup just let its agent run its $100 million fundraise",
+    "source": "TechCrunch",
+    "summary": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round \u2014 proof, evidently, that the product actually works.",
+    "url": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
+    "date": "2026-07-09"
+  },
+  {
+    "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
+    "source": "TechCrunch",
+    "summary": "OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome extension.",
+    "url": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
+    "date": "2026-07-09"
+  },
+  {
+    "title": "Elon Musk praises Mythos/Fable, promises not to \u2018cut off\u2019 Anthropic",
+    "source": "TechCrunch",
+    "summary": "Should Anthropic trust Elon Musk to host its models? With about $40 billion in revenue at stake, Musk insists that the company can.",
+    "url": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/",
+    "date": "2026-07-09"
+  },
+  {
+    "title": "Can AI answer the $3 trillion question?",
+    "source": "TechCrunch",
+    "summary": "The AI ROI debate has returned and the numbers are even bigger, as are, perhaps, the consequences.",
+    "url": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/",
+    "date": "2026-07-09"
+  },
+  {
     "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
     "source": "TechCrunch",
     "summary": "Meta's pitch to users is Spark's ability to handle large agentic workloads, fix bugs, and help with large code migrations \u2014 the kind of automation that enterprises are increasingly turning to AI companies to provide.",
@@ -67,41 +102,6 @@
     "source": "TechCrunch",
     "summary": "Three big AI IPOs are set to generate more value than all the U.S. VC-backed exits since 2000.",
     "url": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/",
-    "date": "2026-07-09"
-  },
-  {
-    "title": "Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users",
-    "source": "TechCrunch",
-    "summary": "Benchmark-backed Ollama has amassed 176,000 stars, and nearly 17,000 forks on GitHub by helping developers easily run AI on their PCs.",
-    "url": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/",
-    "date": "2026-07-09"
-  },
-  {
-    "title": "Character.AI enters the microdrama arena with its own productions, but there\u2019s a twist",
-    "source": "TechCrunch",
-    "summary": "In an interesting twist that takes advantage of the company's core product, users can chat with these shows' characters, ask them questions, and even roleplay different storylines.",
-    "url": "https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/",
-    "date": "2026-07-09"
-  },
-  {
-    "title": "Nandan Nilekani leaves GP role at Fundamentum as it launches $200M third fund",
-    "source": "TechCrunch",
-    "summary": "Nilekani remains Fundamentum's anchor investor as the firm expands its leadership team and targets AI and fintech startups in India.",
-    "url": "https://techcrunch.com/2026/07/09/nandan-nilekani-leaves-gp-role-at-his-vc-firm-as-it-launches-third-200m-fund/",
-    "date": "2026-07-09"
-  },
-  {
-    "title": "Lovable reportedly in talks to double its valuation to $13.2B",
-    "source": "TechCrunch",
-    "summary": "The $300 million round is expected to be led by Menlo Ventures, Sifted reported.",
-    "url": "https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/",
-    "date": "2026-07-09"
-  },
-  {
-    "title": "Google\u2019s deepfake detector system used to debunk McConnell hoax pic",
-    "source": "TechCrunch",
-    "summary": "Earlier this week, a picture seemed to show Kentucky Senator Mitch McConnell covered in tubes in a hospital bed in a state of extreme distress. It turned out to be an AI-generated fake.",
-    "url": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
     "date": "2026-07-09"
   },
   {
@@ -175,6 +175,13 @@
     "date": "2026-07-09"
   },
   {
+    "title": "OpenAI\u2019s CEO of AGI Deployment Fidji Simo Is Stepping Down",
+    "source": "Wired",
+    "summary": "The move comes after Simo took significant medical leave. Simo will stay on as a part-time advisor.",
+    "url": "https://www.wired.com/story/fidji-simo-ceo-agi-deployment-openai/",
+    "date": "2026-07-09"
+  },
+  {
     "title": "Anthropic Wants You to Pay Up for Claude Fable 5",
     "source": "Wired",
     "summary": "Claude subscribers must soon pay usage-based fees to access Anthropic\u2019s best consumer AI model\u2014a sign that the golden era of AI subscriptions is ending.",
@@ -238,10 +245,10 @@
     "date": "2026-07-09"
   },
   {
-    "title": "Shut Those Laptops! Anthropic Puts Its Claude Cowork Agent on Your Phone",
-    "source": "Wired",
-    "summary": "Claude Cowork now keeps working on tasks even after you close your laptop. It\u2019s part of a larger push toward smartphone-controlled agents.",
-    "url": "https://www.wired.com/story/shut-those-laptops-anthropic-puts-its-claude-cowork-agent-on-your-phone/",
+    "title": "OpenAI wants its new tool to do your work for you and with you",
+    "source": "Ars Technica",
+    "summary": "Rebranded Codex promises independent workflows that can run 'for hours if needed.'",
+    "url": "https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/",
     "date": "2026-07-09"
   },
   {
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "Google tries balancing AI data center emissions with clean energy efforts.",
     "url": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025/",
-    "date": "2026-07-09"
-  },
-  {
-    "title": "After spooking Trump into safety testing, Anthropic AI models get global release",
-    "source": "Ars Technica",
-    "summary": "US lifts curbs on Anthropic\u2019s advanced Fable and Mythos models.",
-    "url": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/",
     "date": "2026-07-09"
   }
 ]
