@@ -1,8 +1,43 @@
 [
   {
-    "title": "How to stop Meta\u2019s AI image generator from using your Instagram photos",
+    "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
     "source": "TechCrunch",
-    "summary": "Meta's new AI image generator is using your public Instagram photos unless you opt out. Here's how to do that.",
+    "summary": "Meta's pitch to users is Spark's ability to handle large agentic workloads, fix bugs, and help with large code migrations \u2014 the kind of automation that enterprises are increasingly turning to AI companies to provide.",
+    "url": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
+    "date": "2026-07-09"
+  },
+  {
+    "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
+    "source": "TechCrunch",
+    "summary": "News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new motion for sanctions.",
+    "url": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
+    "date": "2026-07-09"
+  },
+  {
+    "title": "Google will now disclose which ads are made with AI",
+    "source": "TechCrunch",
+    "summary": "While Google prohibits misleading and deceptive ads, an ad can still leverage AI to create some type of synthetic or digitally altered content. Until now, that's something Google only required election ads to disclose.",
+    "url": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/",
+    "date": "2026-07-09"
+  },
+  {
+    "title": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
+    "source": "TechCrunch",
+    "summary": "The company is using the cash to open an office in the Bay Area and compete for talent there, 'strengthening its position at the heart of the world's leading AI ecosystem.'",
+    "url": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/",
+    "date": "2026-07-09"
+  },
+  {
+    "title": "How did the government decide OpenAI\u2019s frontier model was safe to release?",
+    "source": "TechCrunch",
+    "summary": "'Exactly what that dialog looked like between the government and Anthropic and OpenAI is unclear.'",
+    "url": "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/",
+    "date": "2026-07-09"
+  },
+  {
+    "title": "Instagram users: Here\u2019s how to stop Meta\u2019s AI from using your photos",
+    "source": "TechCrunch",
+    "summary": "Muse Image allows users to generate AI images using photos from public Instagram accounts. As long as a person's profile is public, another user can tag that account and use their images as part of an AI-generated creation.",
     "url": "https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-using-your-instagram-photos/",
     "date": "2026-07-09"
   },
@@ -70,38 +105,10 @@
     "date": "2026-07-09"
   },
   {
-    "title": "SpaceXAI releases Grok 4.5, which Elon describes as an \u2018Opus-class model\u2019",
-    "source": "TechCrunch",
-    "summary": "Elon Musk's tech company released the newest version of Grok on Wednesday, promising a cheaper, more efficient alternative to other powerful AI models.",
-    "url": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
-    "date": "2026-07-09"
-  },
-  {
-    "title": "This startup thinks robotics is about to have its ChatGPT moment",
-    "source": "TechCrunch",
-    "summary": "General Intuition is betting millions of hours of video game data can train the foundation models for physical AI, making it easier to build smarter robots with minimal real-world data.",
-    "url": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
-    "date": "2026-07-09"
-  },
-  {
-    "title": "Google Photos adds a new AI \u2018Video Remix\u2019 tool",
-    "source": "TechCrunch",
-    "summary": "The feature can do things like apply cinematic relighting to brighten up a dark clip, swap out a plain background for something fun, or add artistic styles to videos.",
-    "url": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
-    "date": "2026-07-09"
-  },
-  {
-    "title": "Why this CEO thinks video games make better training data than the internet",
-    "source": "TechCrunch",
-    "summary": "When it comes to achieving artificial general intelligence (AGI), large language models just don\u2019t have what it takes. Models like ChatGPT and Claude are great at text, but they re less skilled at understanding how things actually move through space and time \u2014 an essential skill for producing int...",
-    "url": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
-    "date": "2026-07-09"
-  },
-  {
-    "title": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
-    "source": "TechCrunch",
-    "summary": "Meta is adding a new safeguard to stop people from secretly recording others with its AI glasses. But the update comes as the company continues to expand how much personal data its AI products collect and use.",
-    "url": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
+    "title": "Anthropic found a hidden space where Claude puzzles over concepts",
+    "source": "MIT Tech Review",
+    "summary": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what\u2019s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. Researchers at the company built a tool called t...",
+    "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
     "date": "2026-07-09"
   },
   {
@@ -168,16 +175,16 @@
     "date": "2026-07-09"
   },
   {
-    "title": "South Korea\u2019s hottest new bachelors are chip workers",
-    "source": "MIT Tech Review",
-    "summary": "Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in Sunoo, a matchmaking company based in Seoul, a year ago. In a move typical of anxious South Korean parents, his mother signed him up, hoping to find a good wife for her son. Lately, says Baek (who asked ...",
-    "url": "https://www.technologyreview.com/2026/07/06/1140000/south-korea-bachelors-samsung-skhynix-chip-workers/",
+    "title": "Anthropic Wants You to Pay Up for Claude Fable 5",
+    "source": "Wired",
+    "summary": "Claude subscribers must soon pay usage-based fees to access Anthropic\u2019s best consumer AI model\u2014a sign that the golden era of AI subscriptions is ending.",
+    "url": "https://www.wired.com/story/model-behavior-anthropic-will-charge-consumers-extra-to-use-claude-fable-5/",
     "date": "2026-07-09"
   },
   {
     "title": "The 1X Neo Robot Has Freaky Fast Fingers",
     "source": "Wired",
-    "summary": "The soft, weirdly sexualized home-chore robot has been given some very tactile hands.",
+    "summary": "The soft, oddly intimate home-chore robot has been given some very tactile hands.",
     "url": "https://www.wired.com/story/the-1x-neo-robot-has-freaky-fast-fingers/",
     "date": "2026-07-09"
   },
@@ -238,10 +245,17 @@
     "date": "2026-07-09"
   },
   {
-    "title": "These New Smart Glasses From Solos Come With a Privacy Shield for the Cameras",
-    "source": "Wired",
-    "summary": "You can clip a cover over the cameras, which could be a double-edged sword.",
-    "url": "https://www.wired.com/story/these-new-smart-glasses-from-solos-come-with-a-privacy-shield-for-the-cameras/",
+    "title": "Humanoid robots controlled by surgeons did world-first operation on live pigs",
+    "source": "Ars Technica",
+    "summary": "Preclinical trial is testing the feasibility of humanoid robots in surgery.",
+    "url": "https://arstechnica.com/ai/2026/07/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs/",
+    "date": "2026-07-09"
+  },
+  {
+    "title": "OpenAI may have made a fatal misstep in copyright fight with news orgs",
+    "source": "Ars Technica",
+    "summary": "OpenAI may be sanctioned for hiding, deleting ChatGPT logs in NYT copyright fight.",
+    "url": "https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/",
     "date": "2026-07-09"
   },
   {
@@ -333,20 +347,6 @@
     "source": "Ars Technica",
     "summary": "US lifts curbs on Anthropic\u2019s advanced Fable and Mythos models.",
     "url": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/",
-    "date": "2026-07-09"
-  },
-  {
-    "title": "New attack provides one more reason why AI browsers are a bad idea",
-    "source": "Ars Technica",
-    "summary": "Telling an LLM that 2 + 2 = 5 is enough to make it follow forbidden instructions.",
-    "url": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
-    "date": "2026-07-09"
-  },
-  {
-    "title": "Google's new Nano Banana 2 Lite image model is its fastest and cheapest yet",
-    "source": "Ars Technica",
-    "summary": "They may not look as good, but Nano Banana 2 Lite images only take a few seconds to create.",
-    "url": "https://arstechnica.com/ai/2026/06/googles-new-nano-banana-2-lite-image-model-is-its-fastest-and-cheapest-yet/",
     "date": "2026-07-09"
   }
 ]
