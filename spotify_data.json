@@ -93,6 +93,26 @@
   ],
   "episodes": [
     {
+      "id": "Practica_0",
+      "name": "Building Durable AI Agents",
+      "show": "Practical AI",
+      "description": "\n        What does it take to move AI agents from demos to reliable production systems? In this episode, Hamza Tahir explores how MLOps principles are shaping the future of generative AI, covering ",
+      "release_date": "2026-07-09",
+      "duration_min": 46,
+      "image": "",
+      "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
+    },
+    {
+      "id": "a]6z Pod_0",
+      "name": "Mark Zuckerberg & Priscilla Chan: How AI Will Help Cure Disease",
+      "show": "a]6z Podcast",
+      "description": "As part of our summer replay series, we're revisiting one of our favorite conversations from the past year.\nMark Zuckerberg and Dr. Priscilla Chan join Ben Horowitz, Vineeta Agarwala, and Er",
+      "release_date": "2026-07-09",
+      "duration_min": 45,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
       "id": "The TWIM_0",
       "name": "How AI Learns to Smell with Alex Wiltschko - #771",
       "show": "The TWIML AI Podcast",
@@ -103,7 +123,7 @@
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
     },
     {
-      "id": "a]6z Pod_0",
+      "id": "a]6z Pod_1",
       "name": "Adam Neumann: This Is How You Build Iconic Companies",
       "show": "a]6z Podcast",
       "description": "Adam Neumann joins Marc Andreessen, Ben Horowitz, and Erik Torenberg for a candid conversation about entrepreneurship, failure, and building Flow.\nNeumann reflects on his childhood, military",
@@ -113,22 +133,12 @@
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "Is Software Losing Its Head?",
       "show": "a]6z Podcast",
       "description": "Seema Amble, Steven Sinofsky, and Elena Burger unpack one of the biggest questions facing enterprise software: what happens when AI agents become the primary users of software instead of humans?</p",
       "release_date": "2026-07-07",
       "duration_min": 61,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
-    },
-    {
-      "id": "a]6z Pod_2",
-      "name": "Don’t Follow Your Passion | Ben Horowitz’s Advice for New Graduates",
-      "show": "a]6z Podcast",
-      "description": "In this commencement address to Columbia University's Fu Foundation School of Engineering and Applied Science Class of 2015, Ben Horowitz challenges some of the most common advice given to graduate",
-      "release_date": "2026-07-06",
-      "duration_min": 19,
       "image": "",
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
@@ -143,7 +153,7 @@
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
-      "id": "Practica_0",
+      "id": "Practica_1",
       "name": "Image Generation and Visual Intelligence with Black Forest Labs",
       "show": "Practical AI",
       "description": "\n        How has AI image generation evolved from blurry outputs to powerful visual intelligence models? Dustin Podell, Co-Founder and Researcher at Black Forest Labs, explains the progression from",
@@ -173,7 +183,7 @@
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
-      "id": "Practica_1",
+      "id": "Practica_2",
       "name": "AIUC-1: Building trust in AI agents",
       "show": "Practical AI",
       "description": "\n        How do we build trust in AI agents before the AI hailstorm arrives? Emil Lassen from the Artificial Intelligence Underwriting Company (AIUC) joins the show to discuss how the enterprise fl",
@@ -211,16 +221,6 @@
       "duration_min": 56,
       "image": "",
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
-    },
-    {
-      "id": "Practica_2",
-      "name": "Zero Trust for AI Agents",
-      "show": "Practical AI",
-      "description": "\n        As AI agents become more capable and autonomous, they also introduce new security challenges. In this 'Fully Connected' episode, Dan and Chris unpack Anthropic’s Zero Trust for AI Agents s",
-      "release_date": "2026-06-11",
-      "duration_min": 47,
-      "image": "",
-      "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
       "id": "The AI P_1",

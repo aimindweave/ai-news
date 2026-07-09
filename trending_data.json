@@ -10,9 +10,9 @@
   {
     "title": "John Deere owners will get the right to repair equipment under FTC settlement",
     "source": "Hacker News",
-    "description": "HN Score: 436 | 89 comments",
+    "description": "HN Score: 889 | 173 comments",
     "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
-    "score": 436,
+    "score": 889,
     "date": "2026-07-09",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "I Think I Have LLM Burnout",
+    "title": "Benchmarking coding agents on Databricks' multi-million line codebase",
     "source": "Hacker News",
-    "description": "HN Score: 157 | 106 comments",
-    "url": "https://www.alecscollon.com/blog/llm-burnout/",
-    "score": 157,
+    "description": "HN Score: 101 | 40 comments",
+    "url": "https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase",
+    "score": 101,
     "date": "2026-07-09",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
+    "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
     "source": "Hacker News",
-    "description": "HN Score: 429 | 97 comments",
-    "url": "https://mistral.ai/news/robostral-navigate/",
-    "score": 429,
+    "description": "HN Score: 295 | 113 comments",
+    "url": "https://microsoft.github.io/flint-chart/#/",
+    "score": 295,
     "date": "2026-07-09",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "We made Grok 4.5, GPT-5.5, and Claude build the same apps",
+    "title": "3D Airplane tracker on Mercator map",
     "source": "Hacker News",
-    "description": "HN Score: 99 | 40 comments",
-    "url": "https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off",
-    "score": 99,
+    "description": "HN Score: 20 | 3 comments",
+    "url": "https://github.com/jamalrfordii-arch/Vanguard-Map",
+    "score": 20,
     "date": "2026-07-09",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
+    "title": "MIRA: Multiplayer Interactive World Models Trained on Rocket League",
     "source": "Hacker News",
-    "description": "HN Score: 225 | 83 comments",
-    "url": "https://microsoft.github.io/flint-chart/#/",
-    "score": 225,
+    "description": "HN Score: 83 | 15 comments",
+    "url": "https://mira-wm.com/",
+    "score": 83,
     "date": "2026-07-09",
     "category": "AI News"
   },
@@ -93,11 +93,28 @@
     "category": "Twitter"
   },
   {
-    "title": "MIRA: Multiplayer Interactive World Models Trained on Rocket League",
+    "title": "GPT\u2011Live",
     "source": "Hacker News",
-    "description": "HN Score: 40 | 9 comments",
-    "url": "https://mira-wm.com/",
-    "score": 40,
+    "description": "HN Score: 717 | 478 comments",
+    "url": "https://openai.com/index/introducing-gpt-live/",
+    "score": 717,
+    "date": "2026-07-09",
+    "category": "AI News"
+  },
+  {
+    "title": "A man carrying an AC unit in the streets of Paris.",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2075155603882717426#m",
+    "date": "2026-07-09",
+    "category": "Twitter"
+  },
+  {
+    "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
+    "source": "Hacker News",
+    "description": "HN Score: 468 | 104 comments",
+    "url": "https://mistral.ai/news/robostral-navigate/",
+    "score": 468,
     "date": "2026-07-09",
     "category": "AI News"
   },
@@ -110,62 +127,45 @@
     "category": "Twitter"
   },
   {
-    "title": "Benchmarking coding agents on Databricks' multi-million line codebase",
+    "title": "Show HN: Follow London Trains in 3D",
     "source": "Hacker News",
-    "description": "HN Score: 16 | 3 comments",
-    "url": "https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase",
-    "score": 16,
+    "description": "HN Score: 144 | 59 comments",
+    "url": "https://ride.nexttrain.london/",
+    "score": 144,
     "date": "2026-07-09",
     "category": "AI News"
   },
   {
-    "title": "Last time I asked here, most people preferred Hermes over OpenClaw. Since then, almost every person I know migrated to Hermes. I think Hermes is corne",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2074977726100901931#m",
-    "date": "2026-07-09",
-    "category": "Twitter"
-  },
-  {
-    "title": "GPT\u2011Live",
-    "source": "Hacker News",
-    "description": "HN Score: 631 | 422 comments",
-    "url": "https://openai.com/index/introducing-gpt-live/",
-    "score": 631,
-    "date": "2026-07-09",
-    "category": "AI News"
-  },
-  {
-    "title": "Fable 5 still rules and is the best model GPT 5.6 is Opus 4.8 level but cheaper and faster Grok 4.5 is better than GLM 5.2 but is behind 4.8 All three",
+    "title": "Fable 5 as the advisor and the other LLMs as workers GPT 5.6 sol for back-end coding Opus 4.8 for front-end and feature work Grok 4.5 for easy coding ",
     "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/bindureddy/status/2075029395392303292#m",
-    "date": "2026-07-09",
-    "category": "Twitter"
-  },
-  {
-    "title": "Show HN: Frugon \u2013 Find which LLM calls a cheaper model could handle (local, MIT)",
-    "source": "Hacker News",
-    "description": "HN Score: 15 | 2 comments",
-    "url": "https://github.com/Rodiun/frugon",
-    "score": 15,
-    "date": "2026-07-09",
-    "category": "AI News"
-  },
-  {
-    "title": "Planning to move all our Opus 4.6 workloads to GPT 5.6 sol INSTANTLY Yeah, 4.6....we have a lot of stuff stuck on it Because Opus 4.8 is very expensiv",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2074994812781203958#m",
+    "url": "https://nitter.net/bindureddy/status/2075098922700456225#m",
     "date": "2026-07-09",
     "category": "Twitter"
   },
   {
     "title": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
     "source": "Hacker News",
-    "description": "HN Score: 259 | 131 comments",
+    "description": "HN Score: 266 | 134 comments",
     "url": "https://cognition.com/blog/swe-1-7",
-    "score": 259,
+    "score": 266,
+    "date": "2026-07-09",
+    "category": "AI News"
+  },
+  {
+    "title": "Safe to say Grok is now ahead of Gemini Very much in the race! Congrats \ud83c\udf8a",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2075074409048772868#m",
+    "date": "2026-07-09",
+    "category": "Twitter"
+  },
+  {
+    "title": "Show HN: Frugon \u2013 Find which LLM calls a cheaper model could handle (local, MIT)",
+    "source": "Hacker News",
+    "description": "HN Score: 23 | 6 comments",
+    "url": "https://github.com/Rodiun/frugon",
+    "score": 23,
     "date": "2026-07-09",
     "category": "AI News"
   }
