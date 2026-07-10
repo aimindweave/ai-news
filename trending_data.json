@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "GPT-5.6",
+    "title": "Write code like a human will maintain it",
     "source": "Hacker News",
-    "description": "HN Score: 1321 | 922 comments",
-    "url": "https://openai.com/index/gpt-5-6/",
-    "score": 1321,
+    "description": "HN Score: 75 | 54 comments",
+    "url": "https://unstack.io/write-code-like-a-human-will-maintain-it",
+    "score": 75,
     "date": "2026-07-10",
     "category": "AI News"
   },
@@ -25,11 +25,28 @@
     "category": "Twitter"
   },
   {
+    "title": "GPT-5.6",
+    "source": "Hacker News",
+    "description": "HN Score: 1422 | 999 comments",
+    "url": "https://openai.com/index/gpt-5-6/",
+    "score": 1422,
+    "date": "2026-07-10",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: The future will not be defined by who builds the smartest AI. It will be defined by who builds the infrastructure people can trust. ",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/ii_posts/status/2075572384401174568#m",
+    "date": "2026-07-10",
+    "category": "Twitter"
+  },
+  {
     "title": "Train sim created by just one person is being called the best ever made",
     "source": "Hacker News",
-    "description": "HN Score: 636 | 235 comments",
+    "description": "HN Score: 734 | 287 comments",
     "url": "https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429",
-    "score": 636,
+    "score": 734,
     "date": "2026-07-10",
     "category": "AI News"
   },
@@ -44,26 +61,9 @@
   {
     "title": "Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future",
     "source": "Hacker News",
-    "description": "HN Score: 85 | 111 comments",
+    "description": "HN Score: 137 | 188 comments",
     "url": "https://www.macrumors.com/2026/07/06/apple-silicon-exec-explains-mac-mini-ai-demand/",
-    "score": 85,
-    "date": "2026-07-10",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @EMostaque: I used Codex to port Command & Conquer: Red Alert to Mac and Android. No emulation. The original engine now compiles natively to ARM",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/4gb7xvbwqx/status/2074834114847309981#m",
-    "date": "2026-07-10",
-    "category": "Twitter"
-  },
-  {
-    "title": "AI-generated videos to maximally drive a target brain region",
-    "source": "Hacker News",
-    "description": "HN Score: 76 | 69 comments",
-    "url": "https://nevo-project.epfl.ch/",
-    "score": 76,
+    "score": 137,
     "date": "2026-07-10",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Building a real-time AI tutor for 5-year-olds",
+    "title": "AI-generated videos to maximally drive a target brain region",
     "source": "Hacker News",
-    "description": "HN Score: 92 | 166 comments",
-    "url": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
-    "score": 92,
+    "description": "HN Score: 155 | 162 comments",
+    "url": "https://nevo-project.epfl.ch/",
+    "score": 155,
     "date": "2026-07-10",
     "category": "AI News"
   },
@@ -93,16 +93,33 @@
     "category": "Twitter"
   },
   {
-    "title": "Girls just wanna have fast MPMC queues with bounded waiting",
+    "title": "Unified Memory, Explained: Why Mini PCs Can Run 70B Models a Big GPU Can't",
     "source": "Hacker News",
-    "description": "HN Score: 177 | 34 comments",
-    "url": "https://nahla.dev/blog/waitfree_queue/",
-    "score": 177,
+    "description": "HN Score: 10 | 1 comments",
+    "url": "https://vettedconsumer.com/unified-memory-explained-why-mini-pcs-can-run-70b-models-a-big-gpu-cant-and-where-they-slow-down/",
+    "score": 10,
     "date": "2026-07-10",
     "category": "AI News"
   },
   {
-    "title": "RT by @svpino: So many people are sending AI-written cover letters and r\u00e9sum\u00e9s that it's easier than ever to stand out with a genuine application. If ",
+    "title": "I keep hearing that building with AI is easier than ever before, and yet I don't see that many new good applications? Why haven't I seen a significant",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2075560166943326391#m",
+    "date": "2026-07-10",
+    "category": "Twitter"
+  },
+  {
+    "title": "Ryanair Passenger Sucked Toward Broken Window After Midair Engine Failure",
+    "source": "Hacker News",
+    "description": "HN Score: 35 | 31 comments",
+    "url": "https://simpleflying.com/ryanair-thessaloniki-diversion-window-damage/",
+    "score": 35,
+    "date": "2026-07-10",
+    "category": "AI News"
+  },
+  {
+    "title": "So many people are sending AI-written cover letters and r\u00e9sum\u00e9s that it's easier than ever to stand out with a genuine application. If you just take t",
     "source": "@svpino",
     "description": "",
     "url": "https://nitter.net/svpino/status/2075195779476848661#m",
@@ -110,28 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "John Deere owners will get the right to repair equipment under FTC settlement",
+    "title": "Building a real-time AI tutor for 5-year-olds",
     "source": "Hacker News",
-    "description": "HN Score: 1328 | 278 comments",
-    "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
-    "score": 1328,
-    "date": "2026-07-10",
-    "category": "AI News"
-  },
-  {
-    "title": "A man carrying an AC unit in the streets of Paris.",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2075155603882717426#m",
-    "date": "2026-07-10",
-    "category": "Twitter"
-  },
-  {
-    "title": "AI content is everywhere on social media, especially LinkedIn",
-    "source": "Hacker News",
-    "description": "HN Score: 220 | 196 comments",
-    "url": "https://www.pangram.com/blog/ai-in-your-feed",
-    "score": 220,
+    "description": "HN Score: 118 | 238 comments",
+    "url": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
+    "score": 118,
     "date": "2026-07-10",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "What's slowing down the AI buildout",
+    "title": "Girls just wanna have fast MPMC queues with bounded waiting",
     "source": "Hacker News",
-    "description": "HN Score: 74 | 166 comments",
-    "url": "https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid",
-    "score": 74,
+    "description": "HN Score: 189 | 35 comments",
+    "url": "https://nahla.dev/blog/waitfree_queue/",
+    "score": 189,
     "date": "2026-07-10",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "ChatGPT Work",
+    "title": "John Deere owners will get the right to repair equipment under FTC settlement",
     "source": "Hacker News",
-    "description": "HN Score: 340 | 173 comments",
-    "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work/",
-    "score": 340,
+    "description": "HN Score: 1340 | 289 comments",
+    "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
+    "score": 1340,
     "date": "2026-07-10",
     "category": "AI News"
   }
