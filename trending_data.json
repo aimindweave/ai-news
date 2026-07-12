@@ -10,9 +10,9 @@
   {
     "title": "Mesh LLM: distributed AI computing on iroh",
     "source": "Hacker News",
-    "description": "HN Score: 133 | 32 comments",
+    "description": "HN Score: 184 | 43 comments",
     "url": "https://www.iroh.computer/blog/mesh-llm",
-    "score": 133,
+    "score": 184,
     "date": "2026-07-12",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "What xAI's Grok Build CLI Actually Sends to xAI",
+    "title": "An agent in 100 lines of Lisp",
     "source": "Hacker News",
-    "description": "HN Score: 85 | 43 comments",
-    "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
-    "score": 85,
+    "description": "HN Score: 103 | 6 comments",
+    "url": "https://thebeach.dev/posts/lisp-agent/",
+    "score": 103,
     "date": "2026-07-12",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Sqlsure \u2013 deterministic semantic checks for AI-generated SQL",
+    "title": "Under federal rule, colleges must leave grads better off or lose financial aid",
     "source": "Hacker News",
-    "description": "HN Score: 23 | 3 comments",
-    "url": "https://github.com/sqlsure/sqlsure",
-    "score": 23,
+    "description": "HN Score: 45 | 60 comments",
+    "url": "https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans",
+    "score": 45,
     "date": "2026-07-12",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Female US rower completes historic solo journey from California to Hawaii",
+    "title": "Fixed three bugs that made Qwen3.5-122B a daily driver on Mac Studio",
     "source": "Hacker News",
-    "description": "HN Score: 277 | 92 comments",
-    "url": "https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey",
-    "score": 277,
+    "description": "HN Score: 32 | 15 comments",
+    "url": "https://mrzk.io/posts/qmlx-maximising-ai-psychosis-minmaxing-mac-studio/",
+    "score": 32,
     "date": "2026-07-12",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Fixed three bugs that made Qwen3.5-122B a daily driver on Mac Studio",
+    "title": "What xAI's Grok Build CLI Actually Sends to xAI",
     "source": "Hacker News",
-    "description": "HN Score: 8 | 1 comments",
-    "url": "https://mrzk.io/posts/qmlx-maximising-ai-psychosis-minmaxing-mac-studio/",
-    "score": 8,
+    "description": "HN Score: 232 | 114 comments",
+    "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+    "score": 232,
     "date": "2026-07-12",
     "category": "AI News"
   },
@@ -95,9 +95,9 @@
   {
     "title": "Wealthy AI workers send San Francisco house prices soaring",
     "source": "Hacker News",
-    "description": "HN Score: 19 | 7 comments",
+    "description": "HN Score: 31 | 31 comments",
     "url": "https://www.bbc.com/news/articles/c9q29j47v9ro",
-    "score": 19,
+    "score": 31,
     "date": "2026-07-12",
     "category": "AI News"
   },
@@ -110,6 +110,15 @@
     "category": "Twitter"
   },
   {
+    "title": "Show HN: Sqlsure \u2013 deterministic semantic checks for AI-generated SQL",
+    "source": "Hacker News",
+    "description": "HN Score: 29 | 5 comments",
+    "url": "https://github.com/sqlsure/sqlsure",
+    "score": 29,
+    "date": "2026-07-12",
+    "category": "AI News"
+  },
+  {
     "title": "R to @svpino: Here is the link to try @viktor_com and get your $100 in credits: https://ref.viktor.com/santiago-x",
     "source": "@svpino",
     "description": "",
@@ -118,18 +127,27 @@
     "category": "Twitter"
   },
   {
-    "title": "Opus 4.8 is still our main driver model > Grok 4.5 works for low mode but is expensive for hard core tasks > GPT 5.6 sol spins endlessly for 10% of th",
+    "title": "Female US rower completes historic solo journey from California to Hawaii",
+    "source": "Hacker News",
+    "description": "HN Score: 286 | 97 comments",
+    "url": "https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey",
+    "score": 286,
+    "date": "2026-07-12",
+    "category": "AI News"
+  },
+  {
+    "title": "\ud83d\udea8 Create Your Own Custom Coding Agent - Mix Fable 5, GPT 5.6 sol and Grok 4.5! Our newest feature allows you to mix and match your favorite LLMs and c",
     "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/bindureddy/status/2076079801065206023#m",
+    "url": "https://nitter.net/bindureddy/status/2076165296977858836#m",
     "date": "2026-07-12",
     "category": "Twitter"
   },
   {
-    "title": "LOL! The Drama Is Back On X.... Sam and Elon are trading barbs again! Safe to say - Grok is challenging OpenAI for the first time and the AI race is h",
+    "title": "Opus 4.8 is still our main driver model > Grok 4.5 works for low mode but is expensive for hard core tasks > GPT 5.6 sol spins endlessly for 10% of th",
     "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/bindureddy/status/2076051634157941004#m",
+    "url": "https://nitter.net/bindureddy/status/2076079801065206023#m",
     "date": "2026-07-12",
     "category": "Twitter"
   }
