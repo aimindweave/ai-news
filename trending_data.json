@@ -10,9 +10,9 @@
   {
     "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
     "source": "Hacker News",
-    "description": "HN Score: 257 | 137 comments",
+    "description": "HN Score: 372 | 206 comments",
     "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-    "score": 257,
+    "score": 372,
     "date": "2026-07-12",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "I love LLMs, I hate hype",
+    "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
     "source": "Hacker News",
-    "description": "HN Score: 181 | 92 comments",
-    "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
-    "score": 181,
+    "description": "HN Score: 86 | 19 comments",
+    "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+    "score": 86,
     "date": "2026-07-12",
     "category": "AI News"
   },
@@ -44,9 +44,9 @@
   {
     "title": "Old and new apps, via modern coding agents",
     "source": "Hacker News",
-    "description": "HN Score: 372 | 104 comments",
+    "description": "HN Score: 389 | 111 comments",
     "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
-    "score": 372,
+    "score": 389,
     "date": "2026-07-12",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "The One-Step Trap (In AI Research)",
+    "title": "Mechanistic interpretability researchers applying causality theory to LLMs",
     "source": "Hacker News",
-    "description": "HN Score: 23 | 3 comments",
-    "url": "http://incompleteideas.net/IncIdeas/OneStepTrap.html",
-    "score": 23,
+    "description": "HN Score: 70 | 58 comments",
+    "url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/",
+    "score": 70,
     "date": "2026-07-12",
     "category": "AI News"
   },
@@ -78,9 +78,9 @@
   {
     "title": "I Learned to Read Again",
     "source": "Hacker News",
-    "description": "HN Score: 35 | 5 comments",
+    "description": "HN Score: 65 | 24 comments",
     "url": "https://substack.magazinenongrata.com/p/how-i-learned-to-read-again",
-    "score": 35,
+    "score": 65,
     "date": "2026-07-12",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Against Usefulness",
+    "title": "I love LLMs, I hate hype",
     "source": "Hacker News",
-    "description": "HN Score: 53 | 13 comments",
-    "url": "https://www.motivenotes.ai/p/against-usefulness",
-    "score": 53,
+    "description": "HN Score: 263 | 145 comments",
+    "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+    "score": 263,
     "date": "2026-07-12",
     "category": "AI News"
   },
@@ -110,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+    "title": "The One-Step Trap (In AI Research)",
     "source": "Hacker News",
-    "description": "HN Score: 39 | 7 comments",
-    "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
-    "score": 39,
+    "description": "HN Score: 37 | 7 comments",
+    "url": "http://incompleteideas.net/IncIdeas/OneStepTrap.html",
+    "score": 37,
     "date": "2026-07-12",
     "category": "AI News"
   },
@@ -127,11 +127,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Can We Understand How Large Language Models Reason?",
+    "title": "Against Usefulness",
     "source": "Hacker News",
-    "description": "HN Score: 47 | 46 comments",
-    "url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/",
-    "score": 47,
+    "description": "HN Score: 69 | 17 comments",
+    "url": "https://www.motivenotes.ai/p/against-usefulness",
+    "score": 69,
+    "date": "2026-07-12",
+    "category": "AI News"
+  },
+  {
+    "title": "Hilarious! Microsoft hasn\u2019t succeeded in making an LLM it can actually sell So it is now recommending that every company should train their own From a",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2076411455612842477#m",
+    "date": "2026-07-12",
+    "category": "Twitter"
+  },
+  {
+    "title": "Show HN: Agent Draw: An agent draws while you talk, built on TLDraw",
+    "source": "Hacker News",
+    "description": "HN Score: 36 | 14 comments",
+    "url": "https://techstackups.com/articles/tldraw-agent-draw/",
+    "score": 36,
     "date": "2026-07-12",
     "category": "AI News"
   },
@@ -144,28 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "What xAI's Grok build CLI sends to xAI: A wire-level analysis",
+    "title": "Flash-MSA: Accelerating Million-Token Training with Sparse Attention Kernels",
     "source": "Hacker News",
-    "description": "HN Score: 374 | 149 comments",
-    "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
-    "score": 374,
-    "date": "2026-07-12",
-    "category": "AI News"
-  },
-  {
-    "title": "All AI benchmarks are completely broken Almost all of them measure simple first turn responses LLMs are literally tuned to optimize on cost and perfor",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2076351078015418575#m",
-    "date": "2026-07-12",
-    "category": "Twitter"
-  },
-  {
-    "title": "AI boosts research careers but narrow the span of ideas explored: study",
-    "source": "Hacker News",
-    "description": "HN Score: 130 | 94 comments",
-    "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
-    "score": 130,
+    "description": "HN Score: 10 | 0 comments",
+    "url": "https://nanduruganesh.github.io/flash-msa/",
+    "score": 10,
     "date": "2026-07-12",
     "category": "AI News"
   }
