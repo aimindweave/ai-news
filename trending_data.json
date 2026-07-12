@@ -10,9 +10,9 @@
   {
     "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
     "source": "Hacker News",
-    "description": "HN Score: 72 | 26 comments",
+    "description": "HN Score: 257 | 137 comments",
     "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-    "score": 72,
+    "score": 257,
     "date": "2026-07-12",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Old and new apps, via modern coding agents",
+    "title": "I love LLMs, I hate hype",
     "source": "Hacker News",
-    "description": "HN Score: 348 | 98 comments",
-    "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
-    "score": 348,
+    "description": "HN Score: 181 | 92 comments",
+    "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+    "score": 181,
     "date": "2026-07-12",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "I love LLMs, I hate hype",
+    "title": "Old and new apps, via modern coding agents",
     "source": "Hacker News",
-    "description": "HN Score: 9 | 0 comments",
-    "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
-    "score": 9,
+    "description": "HN Score: 372 | 104 comments",
+    "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
+    "score": 372,
     "date": "2026-07-12",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Against Usefulness",
+    "title": "The One-Step Trap (In AI Research)",
     "source": "Hacker News",
-    "description": "HN Score: 27 | 4 comments",
-    "url": "https://www.motivenotes.ai/p/against-usefulness",
-    "score": 27,
+    "description": "HN Score: 23 | 3 comments",
+    "url": "http://incompleteideas.net/IncIdeas/OneStepTrap.html",
+    "score": 23,
     "date": "2026-07-12",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Can We Understand How Large Language Models Reason?",
+    "title": "I Learned to Read Again",
     "source": "Hacker News",
-    "description": "HN Score: 8 | 3 comments",
-    "url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/",
-    "score": 8,
+    "description": "HN Score: 35 | 5 comments",
+    "url": "https://substack.magazinenongrata.com/p/how-i-learned-to-read-again",
+    "score": 35,
     "date": "2026-07-12",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "What xAI's Grok build CLI sends to xAI: A wire-level analysis",
+    "title": "Against Usefulness",
     "source": "Hacker News",
-    "description": "HN Score: 341 | 146 comments",
-    "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
-    "score": 341,
+    "description": "HN Score: 53 | 13 comments",
+    "url": "https://www.motivenotes.ai/p/against-usefulness",
+    "score": 53,
     "date": "2026-07-12",
     "category": "AI News"
   },
@@ -110,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Autoresearch, Claude and Constrained Optimization",
+    "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
     "source": "Hacker News",
-    "description": "HN Score: 20 | 4 comments",
-    "url": "https://www.elliotcsmith.com/autoresearch-claude-and-constrained-optimization/",
-    "score": 20,
+    "description": "HN Score: 39 | 7 comments",
+    "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+    "score": 39,
     "date": "2026-07-12",
     "category": "AI News"
   },
@@ -127,11 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "AI boosts research careers but narrow the span of ideas explored: study",
+    "title": "Can We Understand How Large Language Models Reason?",
     "source": "Hacker News",
-    "description": "HN Score: 110 | 85 comments",
-    "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
-    "score": 110,
+    "description": "HN Score: 47 | 46 comments",
+    "url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/",
+    "score": 47,
     "date": "2026-07-12",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Abject Praise",
+    "title": "What xAI's Grok build CLI sends to xAI: A wire-level analysis",
     "source": "Hacker News",
-    "description": "HN Score: 10 | 5 comments",
-    "url": "https://infrequently.org/2026/07/abject-praise/",
-    "score": 10,
+    "description": "HN Score: 374 | 149 comments",
+    "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+    "score": 374,
     "date": "2026-07-12",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Mesh LLM: distributed AI computing on iroh",
+    "title": "AI boosts research careers but narrow the span of ideas explored: study",
     "source": "Hacker News",
-    "description": "HN Score: 326 | 76 comments",
-    "url": "https://www.iroh.computer/blog/mesh-llm",
-    "score": 326,
+    "description": "HN Score: 130 | 94 comments",
+    "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
+    "score": 130,
     "date": "2026-07-12",
     "category": "AI News"
   }
