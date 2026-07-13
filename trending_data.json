@@ -10,9 +10,9 @@
   {
     "title": "Ask HN: Add flag for AI-generated articles",
     "source": "Hacker News",
-    "description": "HN Score: 155 | 101 comments",
+    "description": "HN Score: 519 | 258 comments",
     "url": "https://news.ycombinator.com/item?id=48886741",
-    "score": 155,
+    "score": 519,
     "date": "2026-07-13",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
     "source": "Hacker News",
-    "description": "HN Score: 152 | 50 comments",
+    "description": "HN Score: 195 | 80 comments",
     "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
-    "score": 152,
+    "score": 195,
     "date": "2026-07-13",
     "category": "AI News"
   },
@@ -44,9 +44,9 @@
   {
     "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
     "source": "Hacker News",
-    "description": "HN Score: 489 | 274 comments",
+    "description": "HN Score: 552 | 313 comments",
     "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-    "score": 489,
+    "score": 552,
     "date": "2026-07-13",
     "category": "AI News"
   },
@@ -61,9 +61,9 @@
   {
     "title": "I Learned to Read Again",
     "source": "Hacker News",
-    "description": "HN Score: 109 | 48 comments",
+    "description": "HN Score: 132 | 50 comments",
     "url": "https://substack.magazinenongrata.com/p/how-i-learned-to-read-again",
-    "score": 109,
+    "score": 132,
     "date": "2026-07-13",
     "category": "AI News"
   },
@@ -76,28 +76,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Flash-MSA: Accelerating Million-Token Training with Sparse Attention Kernels",
+    "title": "What xAI's Grok build CLI sends to xAI: A wire-level analysis",
     "source": "Hacker News",
-    "description": "HN Score: 29 | 1 comments",
-    "url": "https://nanduruganesh.github.io/flash-msa/",
-    "score": 29,
+    "description": "HN Score: 461 | 169 comments",
+    "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+    "score": 461,
     "date": "2026-07-13",
     "category": "AI News"
   },
   {
-    "title": "Today, we give robots a /skills library that self-evolves and compounds indefinitely! Introducing ASPIRE: a robot solving its 100th task is no longer ",
+    "title": "R to @DrJimFan: Project gallery and whitepaper: https://research.nvidia.com/labs/gear/aspire/ ASPIRE is a great collaboration between NVIDIA GEAR lab,",
     "source": "@DrJimFan",
     "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2072004190856212902#m",
+    "url": "https://nitter.net/DrJimFan/status/2072004192294830583#m",
     "date": "2026-07-13",
     "category": "Twitter"
   },
   {
     "title": "Mechanistic interpretability researchers applying causality theory to LLMs",
     "source": "Hacker News",
-    "description": "HN Score: 86 | 64 comments",
+    "description": "HN Score: 95 | 68 comments",
     "url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/",
-    "score": 86,
+    "score": 95,
     "date": "2026-07-13",
     "category": "AI News"
   },
@@ -110,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "I love LLMs, I hate hype",
+    "title": "Against Usefulness",
     "source": "Hacker News",
-    "description": "HN Score: 351 | 210 comments",
-    "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
-    "score": 351,
+    "description": "HN Score: 101 | 28 comments",
+    "url": "https://www.motivenotes.ai/p/against-usefulness",
+    "score": 101,
     "date": "2026-07-13",
     "category": "AI News"
   },
@@ -127,11 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Against Usefulness",
+    "title": "I love LLMs, I hate hype",
     "source": "Hacker News",
-    "description": "HN Score: 88 | 23 comments",
-    "url": "https://www.motivenotes.ai/p/against-usefulness",
-    "score": 88,
+    "description": "HN Score: 405 | 250 comments",
+    "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+    "score": 405,
     "date": "2026-07-13",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "What xAI's Grok build CLI sends to xAI: A wire-level analysis",
+    "title": "Flash-MSA: Accelerating Million-Token Training with Sparse Attention Kernels",
     "source": "Hacker News",
-    "description": "HN Score: 409 | 160 comments",
-    "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
-    "score": 409,
+    "description": "HN Score: 34 | 3 comments",
+    "url": "https://nanduruganesh.github.io/flash-msa/",
+    "score": 34,
     "date": "2026-07-13",
     "category": "AI News"
   },
@@ -163,9 +163,9 @@
   {
     "title": "Old and new apps, via modern coding agents",
     "source": "Hacker News",
-    "description": "HN Score: 422 | 124 comments",
+    "description": "HN Score: 428 | 126 comments",
     "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
-    "score": 422,
+    "score": 428,
     "date": "2026-07-13",
     "category": "AI News"
   }
