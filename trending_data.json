@@ -10,9 +10,9 @@
   {
     "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
     "source": "Hacker News",
-    "description": "HN Score: 150 | 73 comments",
+    "description": "HN Score: 271 | 123 comments",
     "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
-    "score": 150,
+    "score": 271,
     "date": "2026-07-13",
     "category": "AI News"
   },
@@ -25,11 +25,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Clawk \u2013 Give coding agents a disposable Linux VM, not your laptop",
+    "title": "The real prices of frontier models. Tokens * Price, right?",
     "source": "Hacker News",
-    "description": "HN Score: 128 | 119 comments",
-    "url": "https://github.com/clawkwork/clawk",
-    "score": 128,
+    "description": "HN Score: 32 | 13 comments",
+    "url": "https://playcode.io/blog/real-price-of-frontier-models",
+    "score": 32,
+    "date": "2026-07-13",
+    "category": "AI News"
+  },
+  {
+    "title": "Argentina have had 4 Premier League players score this World Cup (Fern\u00e1ndez, Mac Allister, Mart\u00ednez, Romero) England have had 0",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/EMostaque/status/2076745137707708722#m",
+    "date": "2026-07-13",
+    "category": "Twitter"
+  },
+  {
+    "title": "Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents",
+    "source": "Hacker News",
+    "description": "HN Score: 17 | 9 comments",
+    "url": "https://github.com/morganwilliscloud/billai-bass",
+    "score": 17,
     "date": "2026-07-13",
     "category": "AI News"
   },
@@ -42,28 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
+    "title": "Show HN: Nobie \u2013 an Excel-compatible runtime for agents and humans",
     "source": "Hacker News",
-    "description": "HN Score: 1231 | 624 comments",
-    "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
-    "score": 1231,
-    "date": "2026-07-13",
-    "category": "AI News"
-  },
-  {
-    "title": "What would you need to specifically see for you to say that recursive self improvement was here?",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/EMostaque/status/2076709586342482392#m",
-    "date": "2026-07-13",
-    "category": "Twitter"
-  },
-  {
-    "title": "Interrail: 6,379Km and 13 Countries over 7 weeks",
-    "source": "Hacker News",
-    "description": "HN Score: 180 | 127 comments",
-    "url": "https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/",
-    "score": 180,
+    "description": "HN Score: 5 | 2 comments",
+    "url": "https://nobie.com",
+    "score": 5,
     "date": "2026-07-13",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Frieve Vinyl Explained \u2013 Microscopic stylus/groove physics simulation",
+    "title": "Show HN: Clawk \u2013 Give coding agents a disposable Linux VM, not your laptop",
     "source": "Hacker News",
-    "description": "HN Score: 71 | 9 comments",
-    "url": "https://frieve-a.github.io/sound_toolbox/vinyl_explained/vinyl_explained.html",
-    "score": 71,
+    "description": "HN Score: 146 | 131 comments",
+    "url": "https://github.com/clawkwork/clawk",
+    "score": 146,
     "date": "2026-07-13",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+    "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
     "source": "Hacker News",
-    "description": "HN Score: 248 | 116 comments",
-    "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
-    "score": 248,
+    "description": "HN Score: 1299 | 657 comments",
+    "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
+    "score": 1299,
     "date": "2026-07-13",
     "category": "AI News"
   },
@@ -110,53 +110,44 @@
     "category": "Twitter"
   },
   {
-    "title": "Ask HN: Add flag for AI-generated articles",
+    "title": "Frieve Vinyl Explained \u2013 Microscopic stylus/groove physics simulation",
     "source": "Hacker News",
-    "description": "HN Score: 944 | 410 comments",
-    "url": "https://news.ycombinator.com/item?id=48886741",
-    "score": 944,
+    "description": "HN Score: 74 | 11 comments",
+    "url": "https://frieve-a.github.io/sound_toolbox/vinyl_explained/vinyl_explained.html",
+    "score": 74,
     "date": "2026-07-13",
     "category": "AI News"
   },
   {
-    "title": "This model can generate coherent 1+ hour videos across multiple scenes without skipping a beat. I read their paper so you don't have to. Here is how i",
+    "title": "R to @svpino: GitHub Repository: https://github.com/Robbyant/lingbot-world-v2 HuggingFace model weights: https://huggingface.co/collections/robbyant/l",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2076683879050854412#m",
+    "url": "https://nitter.net/svpino/status/2076683891788939392#m",
     "date": "2026-07-13",
     "category": "Twitter"
   },
   {
-    "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+    "title": "Interrail: 6,379Km and 13 Countries over 7 weeks",
     "source": "Hacker News",
-    "description": "HN Score: 675 | 356 comments",
-    "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-    "score": 675,
+    "description": "HN Score: 184 | 133 comments",
+    "url": "https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/",
+    "score": 184,
     "date": "2026-07-13",
     "category": "AI News"
+  },
+  {
+    "title": "If you think GPT 5.6 sol is anywhere near Fabel 5 You are smoking something..",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2076748501141381188#m",
+    "date": "2026-07-13",
+    "category": "Twitter"
   },
   {
     "title": "Grok 4.5 is a pretty good replacement for Haiku and is actually usable in the real world Very glad to see Grok being useful \ud83d\ude80",
     "source": "@bindureddy",
     "description": "",
     "url": "https://nitter.net/bindureddy/status/2076720426089369678#m",
-    "date": "2026-07-13",
-    "category": "Twitter"
-  },
-  {
-    "title": "Apple's rumored M7 Ultra targets 1.5TB and Blackwell-class AI performance",
-    "source": "Hacker News",
-    "description": "HN Score: 16 | 17 comments",
-    "url": "https://www.tomshardware.com/tech-industry/semiconductors/apples-rumored-m7-ultra-targets-1-5tb-of-memory-and-blackwell-class-ai",
-    "score": 16,
-    "date": "2026-07-13",
-    "category": "AI News"
-  },
-  {
-    "title": "Big cloud including Amazon and Microsoft are panicking about Anthropic and OpenAI It\u2019s simple - Do what Grok and Muse spark just did Release cheap and",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2076673529572147229#m",
     "date": "2026-07-13",
     "category": "Twitter"
   }
