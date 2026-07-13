@@ -1,8 +1,29 @@
 [
   {
+    "title": "Sam Altman\u2019s space data center trash talk is what most experts already believe",
+    "source": "TechCrunch",
+    "summary": "'homeboy you're the one sellling [sic] public market investors on short-term space datacenters.'",
+    "url": "https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/",
+    "date": "2026-07-13"
+  },
+  {
+    "title": "Should AI help you get away with killing your spouse?",
+    "source": "TechCrunch",
+    "summary": "What does a world of total user-aligned AI actually look like?",
+    "url": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
+    "date": "2026-07-13"
+  },
+  {
+    "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
+    "source": "TechCrunch",
+    "summary": "Claude users in India are starting to see Indian rupee-denominated subscription plans.",
+    "url": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
+    "date": "2026-07-13"
+  },
+  {
     "title": "Waze adds new AI-powered features and customization updates",
     "source": "TechCrunch",
-    "summary": "Some of the new features are powered by Google's Gemini AI assistant, which reflects the the tech giant's broader push to integrate Gemini across its products while also better positioning Waze to compete with rival services such as Apple Maps.",
+    "summary": "Some of the new features are powered by Google's Gemini AI assistant, which reflects the tech giant's broader push to integrate Gemini across its products while also better positioning Waze to compete with rival services such as Apple Maps.",
     "url": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
     "date": "2026-07-13"
   },
@@ -81,27 +102,6 @@
     "source": "TechCrunch",
     "summary": "OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome extension.",
     "url": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
-    "date": "2026-07-13"
-  },
-  {
-    "title": "Elon Musk praises Mythos/Fable, promises not to \u2018cut off\u2019 Anthropic",
-    "source": "TechCrunch",
-    "summary": "Should Anthropic trust Elon Musk to host its models? With about $40 billion in revenue at stake, Musk insists that the company can.",
-    "url": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/",
-    "date": "2026-07-13"
-  },
-  {
-    "title": "Can AI answer the $3 trillion question?",
-    "source": "TechCrunch",
-    "summary": "The AI ROI debate has returned and the numbers are even bigger, as are, perhaps, the consequences.",
-    "url": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/",
-    "date": "2026-07-13"
-  },
-  {
-    "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
-    "source": "TechCrunch",
-    "summary": "Meta's pitch to users is Spark's ability to handle large agentic workloads, fix bugs, and help with large code migrations \u2014 the kind of automation that enterprises are increasingly turning to AI companies to provide.",
-    "url": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
     "date": "2026-07-13"
   },
   {
@@ -245,6 +245,20 @@
     "date": "2026-07-13"
   },
   {
+    "title": "Now, defenders are embracing the prompt injection, too",
+    "source": "Ars Technica",
+    "summary": "'Context bombing' tricks hacking agents into shutting down before they can do harm.",
+    "url": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
+    "date": "2026-07-13"
+  },
+  {
+    "title": "Simulating everything, sort of: The promise and limits of world models",
+    "source": "Ars Technica",
+    "summary": "Experts explain how they work, what they can do, and what's still unsettled.",
+    "url": "https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/",
+    "date": "2026-07-13"
+  },
+  {
     "title": "Disable autoplay and infinite scroll or risk massive fines, EU tells Meta",
     "source": "Ars Technica",
     "summary": "Digital Services Act may force Meta to make big changes on its platforms.",
@@ -333,20 +347,6 @@
     "source": "Ars Technica",
     "summary": "FCA official makes case for greater powers for watchdog as millions use technology for personal finance decisions.",
     "url": "https://arstechnica.com/ai/2026/07/uk-regulator-warns-of-arms-race-to-keep-up-with-ai-use-in-financial-services/",
-    "date": "2026-07-13"
-  },
-  {
-    "title": "Trump gets OpenAI to offer US 5% stake, far lower than Sanders\u2019 target",
-    "source": "Ars Technica",
-    "summary": "Insiders say Sam Altman is in active talks with the Trump administration.",
-    "url": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/",
-    "date": "2026-07-13"
-  },
-  {
-    "title": "Musk\u2019s X poses \u201cserious risk to Americans\u2019 privacy,\u201d advocates warn FTC",
-    "source": "Ars Technica",
-    "summary": "FTC urged to reject Elon Musk\u2019s bid to end X monitoring amid AI concerns.",
-    "url": "https://arstechnica.com/tech-policy/2026/07/musks-x-poses-serious-risk-to-americans-privacy-advocates-warn-ftc/",
     "date": "2026-07-13"
   }
 ]
