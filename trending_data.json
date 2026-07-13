@@ -1,39 +1,5 @@
 [
   {
-    "title": "\u7c73\u6fa4\u3055\u3093\u3068\u4e09\u5b85\u3055\u3093\u306e\u5bfe\u8ac7\u3001\u5b66\u6821\u796d\u3067 \u3042\u306e\u4f5c\u54c1\u306e\u30c6\u30fc\u30de\u306f\u2026\u3092\u805e\u3051\u305f\u306e\u306f\u3044\u3044\u4f53\u9a13\u3060\u3063\u305f",
-    "source": "@kaborobot",
-    "description": "",
-    "url": "https://nitter.net/kaborobot/status/2063568544277909948#m",
-    "date": "2026-07-13",
-    "category": "Twitter"
-  },
-  {
-    "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
-    "source": "Hacker News",
-    "description": "HN Score: 334 | 147 comments",
-    "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
-    "score": 334,
-    "date": "2026-07-13",
-    "category": "AI News"
-  },
-  {
-    "title": "\u30d6\u30c3\u30c1\u30e3\u30fc\u304c\u30db\u30ef\u30a4\u30c8\u30cf\u30a6\u30b9\u306e\u58c1\u3076\u3061\u7834\u3063\u3066\u304d\u305f\u6642\u306e\u30db\u30fc\u30e0\u30e9\u30f3\u30c0\u30fc\u306e\u67d4\u3089\u304b\u306a\u8868\u60c5\u3063\u3066 \u3042\u306e\u653e\u9001\u306e\u6f14\u8aac\u3092\u7d42\u3048\u3066\u3057\u307e\u3063\u3066\u8ab0\u304b\u306b\u611b\u3055\u308c\u308b\u3053\u3068\u306f\u3082\u3046\u306a\u304f\u306a\u308a\u6050\u6016\u306e\u5bfe\u8c61\u306b\u3057\u304b\u306a\u3089\u306a\u3044\u904b\u547d\u3092\u7d42\u308f\u3089\u305b\u3066\u304f\u308c\u308b\u4eba\u304c\u6765\u305f\u304b\u3089\u306a\u306e\u304b",
-    "source": "@kaborobot",
-    "description": "",
-    "url": "https://nitter.net/kaborobot/status/2058205543760838842#m",
-    "date": "2026-07-13",
-    "category": "Twitter"
-  },
-  {
-    "title": "The real prices of frontier models. Tokens * Price, right?",
-    "source": "Hacker News",
-    "description": "HN Score: 85 | 40 comments",
-    "url": "https://playcode.io/blog/real-price-of-frontier-models",
-    "score": 85,
-    "date": "2026-07-13",
-    "category": "AI News"
-  },
-  {
     "title": "Argentina have had 4 Premier League players score this World Cup (Fern\u00e1ndez, Mac Allister, Mart\u00ednez, Romero) England have had 0",
     "source": "@EMostaque",
     "description": "",
@@ -42,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: I implemented a neural network in SQL",
+    "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
     "source": "Hacker News",
-    "description": "HN Score: 18 | 2 comments",
-    "url": "https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py",
-    "score": 18,
+    "description": "HN Score: 390 | 166 comments",
+    "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
+    "score": 390,
     "date": "2026-07-13",
     "category": "AI News"
   },
@@ -59,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Telegram's t.me domain has been suspended",
+    "title": "Claude is just Mr. Meeseeks",
     "source": "Hacker News",
-    "description": "HN Score: 69 | 52 comments",
-    "url": "https://www.whois.com/whois/t.me",
-    "score": 69,
+    "description": "HN Score: 16 | 2 comments",
+    "url": "https://github.com/thephw/claude-meseeks",
+    "score": 16,
     "date": "2026-07-13",
     "category": "AI News"
   },
@@ -76,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Nobie \u2013 an Excel-compatible runtime for agents and humans",
+    "title": "Telegram's t.me domain has been suspended",
     "source": "Hacker News",
-    "description": "HN Score: 30 | 10 comments",
-    "url": "https://nobie.com",
-    "score": 30,
+    "description": "HN Score: 200 | 111 comments",
+    "url": "https://www.whois.com/whois/t.me",
+    "score": 200,
     "date": "2026-07-13",
     "category": "AI News"
   },
@@ -93,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents",
+    "title": "The real prices of frontier models",
     "source": "Hacker News",
-    "description": "HN Score: 31 | 13 comments",
-    "url": "https://github.com/morganwilliscloud/billai-bass",
-    "score": 31,
+    "description": "HN Score: 135 | 66 comments",
+    "url": "https://playcode.io/blog/real-price-of-frontier-models",
+    "score": 135,
     "date": "2026-07-13",
     "category": "AI News"
   },
@@ -110,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: PlanWright \u2013 A control plane for AI coding agents",
+    "title": "Samsung Health app threatens data deletion if users opt out AI training",
     "source": "Hacker News",
-    "description": "HN Score: 6 | 2 comments",
-    "url": "https://planwright.tools",
-    "score": 6,
+    "description": "HN Score: 193 | 52 comments",
+    "url": "https://neow.in/cWsyMTV3",
+    "score": 193,
     "date": "2026-07-13",
     "category": "AI News"
   },
@@ -127,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "AI Is a Bad Tool",
+    "title": "Show HN: I implemented a neural network in SQL",
     "source": "Hacker News",
-    "description": "HN Score: 52 | 50 comments",
-    "url": "https://bytecode.news/posts/2026/07/user-submission-ai-is-a-bad-tool",
-    "score": 52,
+    "description": "HN Score: 41 | 10 comments",
+    "url": "https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py",
+    "score": 41,
     "date": "2026-07-13",
     "category": "AI News"
   },
@@ -144,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Clawk \u2013 Give coding agents a disposable Linux VM, not your laptop",
+    "title": "Show HN: Jacquard, a programming language for AI-written, human-reviewed code",
     "source": "Hacker News",
-    "description": "HN Score: 158 | 137 comments",
-    "url": "https://github.com/clawkwork/clawk",
-    "score": 158,
+    "description": "HN Score: 20 | 10 comments",
+    "url": "https://github.com/jbwinters/jacquard-lang",
+    "score": 20,
     "date": "2026-07-13",
     "category": "AI News"
   },
@@ -161,11 +127,29 @@
     "category": "Twitter"
   },
   {
-    "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
+    "title": "Show HN: Nobie \u2013 an Excel-compatible runtime for agents and humans",
     "source": "Hacker News",
-    "description": "HN Score: 1333 | 669 comments",
-    "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
-    "score": 1333,
+    "description": "HN Score: 63 | 30 comments",
+    "url": "https://nobie.com",
+    "score": 63,
+    "date": "2026-07-13",
+    "category": "AI News"
+  },
+  {
+    "title": "Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents",
+    "source": "Hacker News",
+    "description": "HN Score: 44 | 20 comments",
+    "url": "https://github.com/morganwilliscloud/billai-bass",
+    "score": 44,
+    "date": "2026-07-13",
+    "category": "AI News"
+  },
+  {
+    "title": "MIT's New Method Flags AI Models Trained on CASM Without Generating It",
+    "source": "Hacker News",
+    "description": "HN Score: 4 | 0 comments",
+    "url": "https://insideai.news/news/ai-safety/mits-new-method-flags-ai-models-trained-on-child-abuse-imagery-without-generating-it/3869/",
+    "score": 4,
     "date": "2026-07-13",
     "category": "AI News"
   }
