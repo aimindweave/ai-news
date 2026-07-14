@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
+    "title": "Australian energy retailers must provide three hours of free daytime electricity",
     "source": "Hacker News",
-    "description": "HN Score: 512 | 200 comments",
-    "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
-    "score": 512,
+    "description": "HN Score: 96 | 123 comments",
+    "url": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
+    "score": 96,
     "date": "2026-07-14",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Building Food Metadata with LLM Juries",
+    "title": "Indian scientists produce most detailed 3D atlas of the human brainstem",
     "source": "Hacker News",
-    "description": "HN Score: 27 | 7 comments",
-    "url": "https://careersatdoordash.com/blog/building-food-metadata-with-llm-juries-context-optimization-multimodal-ai/",
-    "score": 27,
+    "description": "HN Score: 42 | 2 comments",
+    "url": "https://www.bbc.com/news/articles/cg53l737v1qo",
+    "score": 42,
     "date": "2026-07-14",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Sx 2.0 \u2013 Share AI skills with your team through a Dropbox folder",
+    "title": "Building Food Metadata with LLM Juries",
     "source": "Hacker News",
-    "description": "HN Score: 31 | 27 comments",
-    "url": "https://sleuth-io.github.io/sx/2026/07/10/your-dropbox-is-now-a-skill-server.html",
-    "score": 31,
+    "description": "HN Score: 39 | 9 comments",
+    "url": "https://careersatdoordash.com/blog/building-food-metadata-with-llm-juries-context-optimization-multimodal-ai/",
+    "score": 39,
     "date": "2026-07-14",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: I implemented a neural network in SQL",
+    "title": "Show HN: Clawk \u2013 Give coding agents a disposable Linux VM, not your laptop",
     "source": "Hacker News",
-    "description": "HN Score: 78 | 17 comments",
-    "url": "https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py",
-    "score": 78,
+    "description": "HN Score: 196 | 153 comments",
+    "url": "https://github.com/clawkwork/clawk",
+    "score": 196,
     "date": "2026-07-14",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "A Study of Microsoft's Early 2026 Rollout of Claude Code and GitHub Copilot CLI",
+    "title": "Show HN: I implemented a neural network in SQL",
     "source": "Hacker News",
-    "description": "HN Score: 51 | 28 comments",
-    "url": "https://arxiv.org/abs/2607.01418",
-    "score": 51,
+    "description": "HN Score: 96 | 18 comments",
+    "url": "https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py",
+    "score": 96,
     "date": "2026-07-14",
     "category": "AI News"
   },
@@ -93,11 +93,28 @@
     "category": "Twitter"
   },
   {
+    "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
+    "source": "Hacker News",
+    "description": "HN Score: 536 | 212 comments",
+    "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
+    "score": 536,
+    "date": "2026-07-14",
+    "category": "AI News"
+  },
+  {
+    "title": "Reframe: *Most* things shouldn't be an AI agent.",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2076953347437793672#m",
+    "date": "2026-07-14",
+    "category": "Twitter"
+  },
+  {
     "title": "Show HN: Jacquard, a programming language for AI-written, human-reviewed code",
     "source": "Hacker News",
-    "description": "HN Score: 77 | 43 comments",
+    "description": "HN Score: 88 | 47 comments",
     "url": "https://github.com/jbwinters/jacquard-lang",
-    "score": 77,
+    "score": 88,
     "date": "2026-07-14",
     "category": "AI News"
   },
@@ -110,28 +127,28 @@
     "category": "Twitter"
   },
   {
-    "title": "The AI Whale Fall and Open Source",
+    "title": "A Study of Microsoft's Early 2026 Rollout of Claude Code and GitHub Copilot CLI",
     "source": "Hacker News",
-    "description": "HN Score: 26 | 11 comments",
-    "url": "https://minor.gripe/posts/2026-07-13-the_ai_whalefall_and_open_source/",
-    "score": 26,
+    "description": "HN Score: 59 | 37 comments",
+    "url": "https://arxiv.org/abs/2607.01418",
+    "score": 59,
     "date": "2026-07-14",
     "category": "AI News"
   },
   {
-    "title": "RT by @svpino: This model can generate coherent 1+ hour videos across multiple scenes without skipping a beat. I read their paper so you don't have to",
-    "source": "@svpino",
+    "title": "\ud83d\udea8 Fable 5 + GPT 5.6 sol on the right infrastructure can build anything with text prompts - complex 3d games - real-time trading servers - desktop and ",
+    "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2076683879050854412#m",
+    "url": "https://nitter.net/bindureddy/status/2076931055282745666#m",
     "date": "2026-07-14",
     "category": "Twitter"
   },
   {
-    "title": "Telegram's t.me domain has been suspended",
+    "title": "Show HN: Sx 2.0 \u2013 Share AI skills with your team through a Dropbox folder",
     "source": "Hacker News",
-    "description": "HN Score: 297 | 213 comments",
-    "url": "https://www.whois.com/whois/t.me",
-    "score": 297,
+    "description": "HN Score: 37 | 31 comments",
+    "url": "https://sleuth-io.github.io/sx/2026/07/10/your-dropbox-is-now-a-skill-server.html",
+    "score": 37,
     "date": "2026-07-14",
     "category": "AI News"
   },
@@ -144,28 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "The Difference Between Watercolor and Gouache Paints",
+    "title": "Show HN: Benchmark your eng team's AI agent maturity in 5 minutes",
     "source": "Hacker News",
-    "description": "HN Score: 29 | 4 comments",
-    "url": "https://www.jetpens.com/blog/The-Difference-Between-Watercolor-and-Gouache-Paints/pt/963",
-    "score": 29,
-    "date": "2026-07-14",
-    "category": "AI News"
-  },
-  {
-    "title": "Currently working on AutoBots Completely autonomous cost optimized self-improving agents that do not require a human in the loop Simply set a bunch of",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2076867907552989496#m",
-    "date": "2026-07-14",
-    "category": "Twitter"
-  },
-  {
-    "title": "Samsung Health app threatens data deletion if users opt out AI training",
-    "source": "Hacker News",
-    "description": "HN Score: 301 | 82 comments",
-    "url": "https://neow.in/cWsyMTV3",
-    "score": 301,
+    "description": "HN Score: 6 | 4 comments",
+    "url": "https://agent-benchmarks.com/software-factory/",
+    "score": 6,
     "date": "2026-07-14",
     "category": "AI News"
   }
