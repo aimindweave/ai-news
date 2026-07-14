@@ -94,6 +94,16 @@
   "episodes": [
     {
       "id": "a]6z Pod_0",
+      "name": "Is AI a Bubble? | Gavin Baker on Data Centers, GPUs, and the AI Economy",
+      "show": "a]6z Podcast",
+      "description": "As part of our summer replay series, we're revisiting one of the standout conversations from Runtime, a16z's conference on AI infrastructure and the future of computing.\nGavin Baker, Managin",
+      "release_date": "2026-07-14",
+      "duration_min": 31,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
+      "id": "a]6z Pod_1",
       "name": "Before Blockchains, There Was State Machine Replication",
       "show": "a]6z Podcast",
       "description": "Every blockchain today relies on replication techniques first developed in the 1980s by researchers who weren't thinking about cryptocurrencies at all.\nIn this episode, Tim Roughgarden speak",
@@ -113,7 +123,7 @@
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "How Bitcoin Rewired a Classic Computer Science Problem",
       "show": "a]6z Podcast",
       "description": "We're excited to share a special feed drop from The a16z Crypto Show.\nIn the first episode of <i>First Principles: The Scientific Roots of Blockchain Technology</i>, Tim Roughgarden and Itta",
@@ -131,16 +141,6 @@
       "duration_min": 46,
       "image": "",
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
-    },
-    {
-      "id": "a]6z Pod_2",
-      "name": "Mark Zuckerberg & Priscilla Chan: How AI Will Help Cure Disease",
-      "show": "a]6z Podcast",
-      "description": "As part of our summer replay series, we're revisiting one of our favorite conversations from the past year.\nMark Zuckerberg and Dr. Priscilla Chan join Ben Horowitz, Vineeta Agarwala, and Er",
-      "release_date": "2026-07-09",
-      "duration_min": 45,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
       "id": "The TWIM_0",
