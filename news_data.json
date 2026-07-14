@@ -1,5 +1,19 @@
 [
   {
+    "title": "Meta\u2019s Adam Mosseri says AI token budgets could soon be capped per engineer",
+    "source": "TechCrunch",
+    "summary": "Instagram head Adam Mosseri believes companies will eventually need to manage AI token spending the same way they manage payroll or other operating expenses, predicting that engineers could soon face limits on how much they spend using AI tools.",
+    "url": "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/",
+    "date": "2026-07-14"
+  },
+  {
+    "title": "Google Images gets a Pinterest-like redesign focused on discovery",
+    "source": "TechCrunch",
+    "summary": "Now, when users navigate to Google Images, they'll see a 'For You' gallery of images tailored to their interests and browsing history.",
+    "url": "https://techcrunch.com/2026/07/14/google-images-gets-a-pinterest-like-redesign-focused-on-discovery/",
+    "date": "2026-07-14"
+  },
+  {
     "title": "New York State halts construction of all new data centers",
     "source": "TechCrunch",
     "summary": "New York has become the first state to temporarily halt approval of large data centers, as Gov. Kathy Hochul argues the AI-driven building boom shouldn\u2019t come at the expense of higher electricity costs, water supplies, or local control.",
@@ -91,20 +105,6 @@
     "date": "2026-07-14"
   },
   {
-    "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
-    "source": "TechCrunch",
-    "summary": "Claude users in India are starting to see Indian rupee-denominated subscription plans.",
-    "url": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
-    "date": "2026-07-14"
-  },
-  {
-    "title": "Waze adds new AI-powered features and customization updates",
-    "source": "TechCrunch",
-    "summary": "Some of the new features are powered by Google's Gemini AI assistant, which reflects the tech giant's broader push to integrate Gemini across its products while also better positioning Waze to compete with rival services such as Apple Maps.",
-    "url": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
-    "date": "2026-07-14"
-  },
-  {
     "title": "The Download: Claude\u2019s inner workings, and the future of world models",
     "source": "MIT Tech Review",
     "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. What Anthropic\u2019s latest AI discovery does\u2014and doesn\u2019t\u2014show \u2014James O Donnell When Anthropic announced last week that it had found a new window into its models\u2019 ...",
@@ -175,6 +175,13 @@
     "date": "2026-07-14"
   },
   {
+    "title": "YouTube and X Have Become \u2018Gateways\u2019 to Nudify Apps",
+    "source": "Wired",
+    "summary": "A new study found that social media platforms are referring people to sites where they can create nonconsensual, sexually explicit deepfakes for as little as $1 an image.",
+    "url": "https://www.wired.com/story/youtube-and-x-have-become-gateways-to-nudify-apps/",
+    "date": "2026-07-14"
+  },
+  {
     "title": "This Luddite Puppet Hopes You\u2019re Not Reading This on Your Smartphone",
     "source": "Wired",
     "summary": "On this week\u2019s episode of The Big Interview podcast, WIRED\u2019s senior culture editor Manisha Krishnan talks to Gowanus about eschewing Big Tech, going outside, and rejection in the age of dating apps.",
@@ -238,10 +245,10 @@
     "date": "2026-07-14"
   },
   {
-    "title": "OpenAI\u2019s CEO of AGI Deployment, Fidji Simo, Is Stepping Down",
-    "source": "Wired",
-    "summary": "The move comes after Simo took significant medical leave. She will stay on as a part-time adviser.",
-    "url": "https://www.wired.com/story/fidji-simo-ceo-agi-deployment-openai/",
+    "title": "Google revamps image search for its 25th anniversary with more images and more AI",
+    "source": "Ars Technica",
+    "summary": "The new Google image search will use your 'unique interests' to create an always-updated gallery.",
+    "url": "https://arstechnica.com/google/2026/07/google-revamps-image-search-for-its-25th-anniversary-with-more-images-and-more-ai/",
     "date": "2026-07-14"
   },
   {
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "It's early, but the plan is to reduce dependency on Nvidia and Huawei.",
     "url": "https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/",
-    "date": "2026-07-14"
-  },
-  {
-    "title": "How AI could enable autonomous robot workers in workplaces\u2014and maybe homes",
-    "source": "Ars Technica",
-    "summary": "Top robotics researchers and founders explain how robot autonomy is evolving.",
-    "url": "https://arstechnica.com/ai/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/",
     "date": "2026-07-14"
   }
 ]

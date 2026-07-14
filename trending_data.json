@@ -10,9 +10,9 @@
   {
     "title": "Are we offloading too much of our thinking to AI?",
     "source": "Hacker News",
-    "description": "HN Score: 10 | 1 comments",
+    "description": "HN Score: 168 | 143 comments",
     "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
-    "score": 10,
+    "score": 168,
     "date": "2026-07-14",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Juggler \u2013 an open-source GUI coding agent, by the creator of JUCE",
+    "title": "How to stop Claude from saying load-bearing",
     "source": "Hacker News",
-    "description": "HN Score: 40 | 14 comments",
-    "url": "https://github.com/juggler-ai/juggler",
-    "score": 40,
+    "description": "HN Score: 161 | 259 comments",
+    "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
+    "score": 161,
     "date": "2026-07-14",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Demis Hassabis has a plan to harness AI safely",
+    "title": "Launch HN: Agnost AI (YC S26) \u2013 Extract user feedback from agent conversations",
     "source": "Hacker News",
-    "description": "HN Score: 62 | 51 comments",
-    "url": "https://twitter.com/demishassabis/status/2076957440109625718",
-    "score": 62,
+    "description": "HN Score: 13 | 0 comments",
+    "url": "https://agnost.ai",
+    "score": 13,
     "date": "2026-07-14",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "How to stop Claude from saying load-bearing",
+    "title": "Show HN: Juggler \u2013 an open-source GUI coding agent, by the creator of JUCE",
     "source": "Hacker News",
-    "description": "HN Score: 65 | 110 comments",
-    "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
-    "score": 65,
+    "description": "HN Score: 91 | 45 comments",
+    "url": "https://github.com/juggler-ai/juggler",
+    "score": 91,
     "date": "2026-07-14",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Coding agents think ahead of time",
+    "title": "Show HN: I RL-trained an agent that trains models with RL (for \u2013$1.3k)",
     "source": "Hacker News",
-    "description": "HN Score: 64 | 51 comments",
-    "url": "https://arxiv.org/abs/2607.05188",
-    "score": 64,
+    "description": "HN Score: 68 | 26 comments",
+    "url": "https://github.com/Danau5tin/ai-trains-ai",
+    "score": 68,
     "date": "2026-07-14",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: I RL-trained an agent that trains models with RL (for \u2013$1.3k)",
+    "title": "Australian energy retailers must provide three hours of free daytime electricity",
     "source": "Hacker News",
-    "description": "HN Score: 44 | 18 comments",
-    "url": "https://github.com/Danau5tin/ai-trains-ai",
-    "score": 44,
+    "description": "HN Score: 223 | 307 comments",
+    "url": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
+    "score": 223,
     "date": "2026-07-14",
     "category": "AI News"
   },
@@ -110,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Australian energy retailers must provide three hours of free daytime electricity",
+    "title": "The Agentic Loop: Three loops in a trench coat",
     "source": "Hacker News",
-    "description": "HN Score: 191 | 290 comments",
-    "url": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
-    "score": 191,
+    "description": "HN Score: 13 | 3 comments",
+    "url": "https://www.bobbytables.io/p/the-agentic-loop-three-loops-in-a",
+    "score": 13,
     "date": "2026-07-14",
     "category": "AI News"
   },
@@ -127,28 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Codex starts encrypting sub-agent prompts",
-    "source": "Hacker News",
-    "description": "HN Score: 344 | 216 comments",
-    "url": "https://github.com/openai/codex/issues/28058",
-    "score": 344,
-    "date": "2026-07-14",
-    "category": "AI News"
-  },
-  {
-    "title": "Pretty funny! OpenAI is constantly hassling Anthropic to offer Fable 5 for free in Claude Wouldn\u2019t OpenAI literally be dead is that happens \ud83d\ude2c",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2077039905646293311#m",
-    "date": "2026-07-14",
-    "category": "Twitter"
-  },
-  {
     "title": "Indian scientists produce most detailed 3D atlas of the human brainstem",
     "source": "Hacker News",
-    "description": "HN Score: 137 | 17 comments",
+    "description": "HN Score: 160 | 20 comments",
     "url": "https://www.bbc.com/news/articles/cg53l737v1qo",
-    "score": 137,
+    "score": 160,
     "date": "2026-07-14",
     "category": "AI News"
   },
@@ -161,11 +144,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Proof of care in the age of AI",
+    "title": "Codex starts encrypting sub-agent prompts",
     "source": "Hacker News",
-    "description": "HN Score: 121 | 77 comments",
-    "url": "https://jacobfilipp.com/care/",
-    "score": 121,
+    "description": "HN Score: 383 | 231 comments",
+    "url": "https://github.com/openai/codex/issues/28058",
+    "score": 383,
+    "date": "2026-07-14",
+    "category": "AI News"
+  },
+  {
+    "title": "Grok 4.5 has a new surprise every day! It literally is the BEST MODEL for pdf creation Yes, it beats everyone - sol, opus, fable etc.",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2076899594810896799#m",
+    "date": "2026-07-14",
+    "category": "Twitter"
+  },
+  {
+    "title": "Demis Hassabis has a plan to harness AI safely",
+    "source": "Hacker News",
+    "description": "HN Score: 96 | 106 comments",
+    "url": "https://twitter.com/demishassabis/status/2076957440109625718",
+    "score": 96,
     "date": "2026-07-14",
     "category": "AI News"
   }
