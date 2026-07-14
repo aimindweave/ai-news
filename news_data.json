@@ -1,5 +1,40 @@
 [
   {
+    "title": "New York State halts construction of all new data centers",
+    "source": "TechCrunch",
+    "summary": "New York has become the first state to temporarily halt approval of large data centers, as Gov. Kathy Hochul argues the AI-driven building boom shouldn\u2019t come at the expense of higher electricity costs, water supplies, or local control.",
+    "url": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/",
+    "date": "2026-07-14"
+  },
+  {
+    "title": "Reflection inks $1B compute deal with Nebius",
+    "source": "TechCrunch",
+    "summary": "Reflection AI has signed a $1 billion deal to access Nebius' compute. Reflection was founded in 2024 and is developing open source AI technology.",
+    "url": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/",
+    "date": "2026-07-14"
+  },
+  {
+    "title": "The real AI race may no longer be at the frontier",
+    "source": "TechCrunch",
+    "summary": "Hugging Face CEO Clem Delangue says enterprises increasingly want open models, due to cost, accessibility, and ownership. Do frontier models still matter if most production AI ends up running on open models?",
+    "url": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
+    "date": "2026-07-14"
+  },
+  {
+    "title": "Spotify expands its AI push with a ChatGPT-like music assistant",
+    "source": "TechCrunch",
+    "summary": "Spotify is rolling out a new AI-powered conversational feature that lets Premium subscribers chat with the app to discover music, podcasts, audiobooks, and more.",
+    "url": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/",
+    "date": "2026-07-14"
+  },
+  {
+    "title": "Superhuman\u2019s new auto-draft feature almost makes me like AI replies",
+    "source": "TechCrunch",
+    "summary": "Superhuman\u2019s latest AI email drafting feature is its most convincing yet, generating replies that often required little to no editing in our testing.",
+    "url": "https://techcrunch.com/2026/07/14/superhumans-new-auto-draft-feature-almost-makes-me-like-ai-replies/",
+    "date": "2026-07-14"
+  },
+  {
     "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
     "source": "TechCrunch",
     "summary": "They're rolling up their sleeves again, seemingly out of fear of missing AI's defining moment and, presumably, the irresistible allure of making even more money -- potentially a lot more.",
@@ -67,41 +102,6 @@
     "source": "TechCrunch",
     "summary": "Some of the new features are powered by Google's Gemini AI assistant, which reflects the tech giant's broader push to integrate Gemini across its products while also better positioning Waze to compete with rival services such as Apple Maps.",
     "url": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
-    "date": "2026-07-14"
-  },
-  {
-    "title": "OpenAI bets on families as ChatGPT goes deeper into households",
-    "source": "TechCrunch",
-    "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
-    "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
-    "date": "2026-07-14"
-  },
-  {
-    "title": "Meta removes controversial AI feature on Instagram after backlash",
-    "source": "TechCrunch",
-    "summary": "'Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,' the company said in a blog post. 'We've heard the feedback that this feature missed the mark, so it's no longer available.'",
-    "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
-    "date": "2026-07-14"
-  },
-  {
-    "title": "Apple sues OpenAI over alleged trade secret theft",
-    "source": "TechCrunch",
-    "summary": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.",
-    "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
-    "date": "2026-07-14"
-  },
-  {
-    "title": "Open source AI matters more than ever, according to Hugging Face\u2019s Clem Delangue",
-    "source": "TechCrunch",
-    "summary": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same story play out...",
-    "url": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
-    "date": "2026-07-14"
-  },
-  {
-    "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
-    "source": "TechCrunch",
-    "summary": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.",
-    "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
     "date": "2026-07-14"
   },
   {
@@ -245,6 +245,13 @@
     "date": "2026-07-14"
   },
   {
+    "title": "New York bans data center construction for a year, rattling AI industry",
+    "source": "Ars Technica",
+    "summary": "New York\u2019s data center moratorium may become the blueprint for anti-AI movement.",
+    "url": "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/",
+    "date": "2026-07-14"
+  },
+  {
     "title": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
     "source": "Ars Technica",
     "summary": "OpenAI accused of conspiring with former Apple employees to steal trade secrets.",
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "Top robotics researchers and founders explain how robot autonomy is evolving.",
     "url": "https://arstechnica.com/ai/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/",
-    "date": "2026-07-14"
-  },
-  {
-    "title": "Secret Claude tracker shocks users after Anthropic\u2019s anti-surveillance stance",
-    "source": "Ars Technica",
-    "summary": "Anthropic accused of spying on users; engineer says \u201cexperiment\u201d is over.",
-    "url": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
     "date": "2026-07-14"
   }
 ]
