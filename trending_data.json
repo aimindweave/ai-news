@@ -4,16 +4,16 @@
     "source": "@kaborobot",
     "description": "",
     "url": "https://nitter.net/kaborobot/status/2063568544277909948#m",
-    "date": "2026-07-14",
+    "date": "2026-07-15",
     "category": "Twitter"
   },
   {
-    "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
+    "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
     "source": "Hacker News",
-    "description": "HN Score: 334 | 121 comments",
-    "url": "https://prismml.com/news/bonsai-27b",
-    "score": 334,
-    "date": "2026-07-14",
+    "description": "HN Score: 47 | 20 comments",
+    "url": "https://tailscale.com/security-bulletins",
+    "score": 47,
+    "date": "2026-07-15",
     "category": "AI News"
   },
   {
@@ -21,16 +21,16 @@
     "source": "@kaborobot",
     "description": "",
     "url": "https://nitter.net/kaborobot/status/2058205543760838842#m",
-    "date": "2026-07-14",
+    "date": "2026-07-15",
     "category": "Twitter"
   },
   {
-    "title": "Financing the AI boom: from cash flows to debt [pdf]",
+    "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
     "source": "Hacker News",
-    "description": "HN Score: 27 | 2 comments",
-    "url": "https://www.bis.org/publ/bisbull120.pdf",
-    "score": 27,
-    "date": "2026-07-14",
+    "description": "HN Score: 458 | 171 comments",
+    "url": "https://prismml.com/news/bonsai-27b",
+    "score": 458,
+    "date": "2026-07-15",
     "category": "AI News"
   },
   {
@@ -38,16 +38,16 @@
     "source": "@EMostaque",
     "description": "",
     "url": "https://nitter.net/EMostaque/status/2077106355693891688#m",
-    "date": "2026-07-14",
+    "date": "2026-07-15",
     "category": "Twitter"
   },
   {
-    "title": "The largest available Minecraft world, totalling 15 TB",
+    "title": "Financing the AI boom: from cash flows to debt [pdf]",
     "source": "Hacker News",
-    "description": "HN Score: 131 | 37 comments",
-    "url": "https://2b2t.place/1million",
-    "score": 131,
-    "date": "2026-07-14",
+    "description": "HN Score: 100 | 50 comments",
+    "url": "https://www.bis.org/publ/bisbull120.pdf",
+    "score": 100,
+    "date": "2026-07-15",
     "category": "AI News"
   },
   {
@@ -55,16 +55,16 @@
     "source": "@EMostaque",
     "description": "",
     "url": "https://nitter.net/EMostaque/status/2077103737953304683#m",
-    "date": "2026-07-14",
+    "date": "2026-07-15",
     "category": "Twitter"
   },
   {
-    "title": "Guardian Angels: LLM Personalization for Productivity and Security",
+    "title": "LeMario: Training a JEPA World Model on Super Mario Bros",
     "source": "Hacker News",
-    "description": "HN Score: 46 | 3 comments",
-    "url": "https://gwern.net/guardian-angel",
-    "score": 46,
-    "date": "2026-07-14",
+    "description": "HN Score: 57 | 7 comments",
+    "url": "https://www.benjamin-bai.com/projects/lemario",
+    "score": 57,
+    "date": "2026-07-15",
     "category": "AI News"
   },
   {
@@ -72,16 +72,16 @@
     "source": "@DrJimFan",
     "description": "",
     "url": "https://nitter.net/DrJimFan/status/2072337488782475390#m",
-    "date": "2026-07-14",
+    "date": "2026-07-15",
     "category": "Twitter"
   },
   {
     "title": "How to stop Claude from saying load-bearing",
     "source": "Hacker News",
-    "description": "HN Score: 395 | 453 comments",
+    "description": "HN Score: 446 | 508 comments",
     "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
-    "score": 395,
-    "date": "2026-07-14",
+    "score": 446,
+    "date": "2026-07-15",
     "category": "AI News"
   },
   {
@@ -89,16 +89,33 @@
     "source": "@DrJimFan",
     "description": "",
     "url": "https://nitter.net/DrJimFan/status/2072004192294830583#m",
-    "date": "2026-07-14",
+    "date": "2026-07-15",
     "category": "Twitter"
   },
   {
-    "title": "The zero-cost fallacy: open-source software in the agentic era",
+    "title": "The largest available Minecraft world, totalling 15 TB",
     "source": "Hacker News",
-    "description": "HN Score: 88 | 68 comments",
-    "url": "https://www.thoughtworks.com/insights/blog/open-source/zero-cost-fallacy-open-source-agentic-era",
-    "score": 88,
-    "date": "2026-07-14",
+    "description": "HN Score: 172 | 57 comments",
+    "url": "https://2b2t.place/1million",
+    "score": 172,
+    "date": "2026-07-15",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: How to become GOD-LEVEL with Large Language Models. Here are 50 hands-on projects with solutions that will teach you how Large Language",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2077007711179563427#m",
+    "date": "2026-07-15",
+    "category": "Twitter"
+  },
+  {
+    "title": "Guardian Angels: LLM Personalization for Productivity and Security",
+    "source": "Hacker News",
+    "description": "HN Score: 59 | 11 comments",
+    "url": "https://gwern.net/guardian-angel",
+    "score": 59,
+    "date": "2026-07-15",
     "category": "AI News"
   },
   {
@@ -106,33 +123,33 @@
     "source": "@svpino",
     "description": "",
     "url": "https://nitter.net/svpino/status/2077135428604543093#m",
-    "date": "2026-07-14",
+    "date": "2026-07-15",
+    "category": "Twitter"
+  },
+  {
+    "title": "The zero-cost fallacy: open-source software in the agentic era",
+    "source": "Hacker News",
+    "description": "HN Score: 112 | 91 comments",
+    "url": "https://www.thoughtworks.com/insights/blog/open-source/zero-cost-fallacy-open-source-agentic-era",
+    "score": 112,
+    "date": "2026-07-15",
+    "category": "AI News"
+  },
+  {
+    "title": "Coming soon - open and closed source model releases - Opus 5 - Gemini 3.5 Pro ( checkpoints are better) - DeepSeek v4 - Kimi 3 Fable 5 will remain the",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2077187288644387292#m",
+    "date": "2026-07-15",
     "category": "Twitter"
   },
   {
     "title": "Are we offloading too much of our thinking to AI?",
     "source": "Hacker News",
-    "description": "HN Score: 345 | 335 comments",
+    "description": "HN Score: 387 | 389 comments",
     "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
-    "score": 345,
-    "date": "2026-07-14",
-    "category": "AI News"
-  },
-  {
-    "title": "R to @svpino: Here are a couple more links to learn more: \u2022 Coder Workspaces: https://fandf.co/4h4iyx6 \u2022 Coder Agents: https://fandf.co/4gvpmUw Thanks",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2077044310428844212#m",
-    "date": "2026-07-14",
-    "category": "Twitter"
-  },
-  {
-    "title": "Launch HN: Agnost AI (YC S26) \u2013 Extract user feedback from agent conversations",
-    "source": "Hacker News",
-    "description": "HN Score: 37 | 22 comments",
-    "url": "https://agnost.ai",
-    "score": 37,
-    "date": "2026-07-14",
+    "score": 387,
+    "date": "2026-07-15",
     "category": "AI News"
   },
   {
@@ -140,33 +157,16 @@
     "source": "@bindureddy",
     "description": "",
     "url": "https://nitter.net/bindureddy/status/2077098296477426151#m",
-    "date": "2026-07-14",
+    "date": "2026-07-15",
     "category": "Twitter"
   },
   {
     "title": "Show HN: Juggler \u2013 an open-source GUI coding agent, by the creator of JUCE",
     "source": "Hacker News",
-    "description": "HN Score: 154 | 77 comments",
+    "description": "HN Score: 187 | 80 comments",
     "url": "https://github.com/juggler-ai/juggler",
-    "score": 154,
-    "date": "2026-07-14",
-    "category": "AI News"
-  },
-  {
-    "title": "\ud83d\udea8 Fable 5 + GPT 5.6 sol on the right infrastructure can build anything with text prompts - complex 3d games - real-time trading servers - desktop and ",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2076931055282745666#m",
-    "date": "2026-07-14",
-    "category": "Twitter"
-  },
-  {
-    "title": "Same model, same Q4_K_M label: 5.02, 5.07 and 5.27 bits per weight",
-    "source": "Hacker News",
-    "description": "HN Score: 9 | 2 comments",
-    "url": "https://github.com/logxio/picchio",
-    "score": 9,
-    "date": "2026-07-14",
+    "score": 187,
+    "date": "2026-07-15",
     "category": "AI News"
   }
 ]
