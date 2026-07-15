@@ -10,9 +10,9 @@
   {
     "title": "Inkling: Our Open-Weights Model",
     "source": "Hacker News",
-    "description": "HN Score: 332 | 86 comments",
+    "description": "HN Score: 520 | 128 comments",
     "url": "https://thinkingmachines.ai/news/introducing-inkling/",
-    "score": 332,
+    "score": 520,
     "date": "2026-07-15",
     "category": "AI News"
   },
@@ -25,45 +25,62 @@
     "category": "Twitter"
   },
   {
+    "title": "Speculative Growth and the AI 'Bubble' [pdf]",
+    "source": "Hacker News",
+    "description": "HN Score: 34 | 26 comments",
+    "url": "https://economics.mit.edu/sites/default/files/2026-07/speculative_growth_AI_public.pdf",
+    "score": 34,
+    "date": "2026-07-15",
+    "category": "AI News"
+  },
+  {
+    "title": "Ah well. Last World Cup before AGI",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/EMostaque/status/2077513852225273905#m",
+    "date": "2026-07-15",
+    "category": "Twitter"
+  },
+  {
+    "title": "We don't use AI in any of our design or production processes",
+    "source": "Hacker News",
+    "description": "HN Score: 55 | 31 comments",
+    "url": "https://mass-driver.com/article/from-human-hands",
+    "score": 55,
+    "date": "2026-07-15",
+    "category": "AI News"
+  },
+  {
+    "title": "England football team should go fully positive & aggressive from now on We should call it Gazball No shame in losing, far less stress as we have seen ",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/EMostaque/status/2077501945720229904#m",
+    "date": "2026-07-15",
+    "category": "Twitter"
+  },
+  {
+    "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+    "source": "Hacker News",
+    "description": "HN Score: 32 | 7 comments",
+    "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+    "score": 32,
+    "date": "2026-07-15",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @DrJimFan: I\u2019m very excited by this test time training work for robotic learning! It\u2019s an awesome collaboration between @StanfordSVL and @NVIDIA",
+    "source": "@DrJimFan",
+    "description": "",
+    "url": "https://nitter.net/drfeifei/status/2077497317255737422#m",
+    "date": "2026-07-15",
+    "category": "Twitter"
+  },
+  {
     "title": "Brainless: Shadcn components that look like Claude Code, Codex and Grok",
     "source": "Hacker News",
-    "description": "HN Score: 15 | 2 comments",
+    "description": "HN Score: 65 | 10 comments",
     "url": "https://brainless.swerdlow.dev",
-    "score": 15,
-    "date": "2026-07-15",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @EMostaque: AGI is 3 years out. Humanity faces a choice: \ud835\udc00\ud835\udc1c\ud835\udc1c\ud835\udc1e\ud835\udc25\ud835\udc1e\ud835\udc2b\ud835\udc1a\ud835\udc2d\ud835\udc1e \ud835\udc2d\ud835\udc21\ud835\udc1e \ud835\udc02\ud835\udc32\ud835\udc1b\ud835\udc1e\ud835\udc2b\ud835\udc27\ud835\udc1e\ud835\udc2d\ud835\udc22\ud835\udc1c \ud835\udc04\ud835\udc1c\ud835\udc28\ud835\udc27\ud835\udc28\ud835\udc26\ud835\udc32 \ud835\udc28\ud835\udc2b \ud835\udc00\ud835\udc1c\ud835\udc1c\ud835\udc1e\ud835\udc29\ud835\udc2d \ud835\udc02\ud835\udc32\ud835\udc1b\ud835\udc1e\ud835\udc2b\ud835\udc2c\ud835\udc25\ud835\udc1a\ud835\udc2f\ud835\udc1e\ud835\udc2b\ud835\udc32 Today we share our thesis on w",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/cyberfund/status/2077072008136085933#m",
-    "date": "2026-07-15",
-    "category": "Twitter"
-  },
-  {
-    "title": "Designing APIs for Agents",
-    "source": "Hacker News",
-    "description": "HN Score: 9 | 3 comments",
-    "url": "https://www.freestyle.sh/blog/opinion/designing-apis-for-agents",
-    "score": 9,
-    "date": "2026-07-15",
-    "category": "AI News"
-  },
-  {
-    "title": "R to @EMostaque: This is for pretraining based on nemotron nvp4 figures, mfu etc Large context, multimodal, long RL we are seeing now could make it a ",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/EMostaque/status/2077489846755471717#m",
-    "date": "2026-07-15",
-    "category": "Twitter"
-  },
-  {
-    "title": "Show HN: Capn-hook for coding agents \u2013 don't grep the same mystery twice",
-    "source": "Hacker News",
-    "description": "HN Score: 19 | 5 comments",
-    "url": "https://github.com/cyrusNuevoDia/capn-hook",
-    "score": 19,
+    "score": 65,
     "date": "2026-07-15",
     "category": "AI News"
   },
@@ -76,28 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Open-source memory for coding agents, synced over SSH",
+    "title": "Designing APIs for Agents",
     "source": "Hacker News",
-    "description": "HN Score: 85 | 18 comments",
-    "url": "https://github.com/vshulcz/deja-vu/",
-    "score": 85,
-    "date": "2026-07-15",
-    "category": "AI News"
-  },
-  {
-    "title": "We scaled a robot model natively to 8,000 timesteps of context, 5 minutes worth of muscle memory, with constant inference cost. Robot policies used to",
-    "source": "@DrJimFan",
-    "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2077414142340988962#m",
-    "date": "2026-07-15",
-    "category": "Twitter"
-  },
-  {
-    "title": "Launch HN: Coasty (YC S26) \u2013 An API for computer-use agents",
-    "source": "Hacker News",
-    "description": "HN Score: 27 | 4 comments",
-    "url": "https://coasty.ai/docs",
-    "score": 27,
+    "description": "HN Score: 30 | 11 comments",
+    "url": "https://www.freestyle.sh/blog/opinion/designing-apis-for-agents",
+    "score": 30,
     "date": "2026-07-15",
     "category": "AI News"
   },
@@ -110,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Briar is in maintenance mode",
+    "title": "Show HN: Low-latency local LLM runner via OpenJDK Panama FFM (Java 22)",
     "source": "Hacker News",
-    "description": "HN Score: 126 | 87 comments",
-    "url": "https://briarproject.org/news/2026-maintenance-mode/",
-    "score": 126,
+    "description": "HN Score: 19 | 2 comments",
+    "url": "https://github.com/projectargus-cc/libargus.cc",
+    "score": 19,
     "date": "2026-07-15",
     "category": "AI News"
   },
@@ -127,11 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "OpenAI loses trademark dispute at EU court",
+    "title": "Open-source memory for coding agents, synced over SSH",
     "source": "Hacker News",
-    "description": "HN Score: 193 | 134 comments",
-    "url": "https://dpa-international.com/economics/urn:newsml:dpa.com:20090101:260715-930-389143/",
-    "score": 193,
+    "description": "HN Score: 103 | 25 comments",
+    "url": "https://github.com/vshulcz/deja-vu/",
+    "score": 103,
     "date": "2026-07-15",
     "category": "AI News"
   },
@@ -144,20 +144,20 @@
     "category": "Twitter"
   },
   {
-    "title": "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
+    "title": "Twain Town, USA",
     "source": "Hacker News",
-    "description": "HN Score: 152 | 195 comments",
-    "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
-    "score": 152,
+    "description": "HN Score: 12 | 1 comments",
+    "url": "https://theamericanscholar.org/twain-town-u-s-a/",
+    "score": 12,
     "date": "2026-07-15",
     "category": "AI News"
   },
   {
-    "title": "A General Goal-Conditioned Minecraft Model",
+    "title": "Briar is in maintenance mode",
     "source": "Hacker News",
-    "description": "HN Score: 33 | 14 comments",
-    "url": "https://pantograph.com/journal/pan-1",
-    "score": 33,
+    "description": "HN Score: 140 | 92 comments",
+    "url": "https://briarproject.org/news/2026-maintenance-mode/",
+    "score": 140,
     "date": "2026-07-15",
     "category": "AI News"
   }
