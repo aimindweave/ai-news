@@ -1,5 +1,19 @@
 [
   {
+    "title": "SpaceX slips below its $135 IPO price ahead of Starship launch",
+    "source": "TechCrunch",
+    "summary": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public.",
+    "url": "https://techcrunch.com/2026/07/15/spacex-slips-below-its-135-ipo-price-ahead-of-starship-launch/",
+    "date": "2026-07-15"
+  },
+  {
+    "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
+    "source": "TechCrunch",
+    "summary": "It's the company's first public proof point after a year and a half spent building AI infrastructure largely out of public view.",
+    "url": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
+    "date": "2026-07-15"
+  },
+  {
     "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
     "source": "TechCrunch",
     "summary": "The hacker used an employee's credentials to access source code, which revealed how Suno scraped decades of audio.",
@@ -23,8 +37,15 @@
   {
     "title": "Apple Intelligence approved for launch in China with Alibaba\u2019s Qwen AI",
     "source": "TechCrunch",
-    "summary": "Apple Intelligence is headed to China after regulators approved Apple\u2019s AI services through a partnership with Alibaba. The long-rumored deal will bring Alibaba\u2019s Qwen AI models to Apple\u2019s operating systems, marking a major expansion of the company\u2019s generative AI platform into one of its most im...",
+    "summary": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.",
     "url": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+    "date": "2026-07-15"
+  },
+  {
+    "title": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
+    "source": "TechCrunch",
+    "summary": "Can a handful of engineers really do the work of an army of consultants? That\u2019s the bet behind Ode with Anthropic \u2014 the joint venture dedicated to embedding forward-deployed engineers in enterprise firms, backed by Anthropic, Blackstone, Hellman Friedman, Goldman Sachs and others. On this episode...",
+    "url": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/",
     "date": "2026-07-15"
   },
   {
@@ -84,24 +105,10 @@
     "date": "2026-07-15"
   },
   {
-    "title": "OpenAI pushes back on Apple trade secret lawsuit",
-    "source": "TechCrunch",
-    "summary": "OpenAI has issued another statement on the lawsuit, this time suggesting it lacks merit.",
-    "url": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
-    "date": "2026-07-15"
-  },
-  {
-    "title": "OpenAI\u2019s new flagship model deletes files on its own, people keep warning",
-    "source": "TechCrunch",
-    "summary": "A number of social media posts claim that GPT-5.6 Sol deleted files and data without warning. OpenAI had basically disclosed the problem in June.",
-    "url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
-    "date": "2026-07-15"
-  },
-  {
-    "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
-    "source": "TechCrunch",
-    "summary": "If you\u2019ve been waiting to try Apple\u2019s revamped Siri without installing a developer beta, you now can. The company on Tuesday released the iOS 27 public beta, giving iPhone owners early access to its AI-powered assistant and other new features before the software\u2019s official launch this fall.",
-    "url": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
+    "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+    "source": "MIT Tech Review",
+    "summary": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. OpenAI says that training it against GPT-Red made the model it...",
+    "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
     "date": "2026-07-15"
   },
   {
@@ -168,10 +175,17 @@
     "date": "2026-07-15"
   },
   {
-    "title": "Four nuclear reactors hit a big milestone in the US",
-    "source": "MIT Tech Review",
-    "summary": "I was really looking forward to July 4, and not just because I love a poolside barbecue. This year the American holiday also marked a big symbolic deadline for US nuclear power. Last year the Trump administration set a goal to see three new microreactors achieve criticality, a technical milestone...",
-    "url": "https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/",
+    "title": "AI Isn\u2019t Smarter Than a Baby\u2014Yet",
+    "source": "Wired",
+    "summary": "Babies are tremendous learning machines, and key advances for AI may soon be found in the architecture of their little brains.",
+    "url": "https://www.wired.com/story/ai-isnt-smarter-than-a-baby-yet/",
+    "date": "2026-07-15"
+  },
+  {
+    "title": "Thinking Machines Lab Drops Its First Model",
+    "source": "Wired",
+    "summary": "Inkling, a 975-billion-parameter open source model, was trained to understand video and audio. It could help Thinking Machines establish itself among competitors like Anthropic and OpenAI.",
+    "url": "https://www.wired.com/story/thinking-machines-lab-releases-its-first-model-inkling/",
     "date": "2026-07-15"
   },
   {
@@ -228,20 +242,6 @@
     "source": "Wired",
     "summary": "Apple\u2019s revamped Siri is more than a voice assistant; it\u2019s now the backbone of the iPhone user experience. You can try it now through the iOS 27 public beta.",
     "url": "https://www.wired.com/story/siri-ai-is-now-apple-everything-tool/",
-    "date": "2026-07-15"
-  },
-  {
-    "title": "Scientists\u2019 Side Hustle? Using AI and Quantum Computing to Generate New Peptides",
-    "source": "Wired",
-    "summary": "Researchers cobbled together funding and time to show how quantum computing could aid in the development of drugs to help underserved populations and combat rare diseases.",
-    "url": "https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/",
-    "date": "2026-07-15"
-  },
-  {
-    "title": "OpenAI\u2019s Head of Safety Is Leaving the Company",
-    "source": "Wired",
-    "summary": "Johannes Heidecke\u2019s departure comes as OpenAI tries to further integrate its research and safety teams.",
-    "url": "https://www.wired.com/story/openai-head-of-safety-leaving/",
     "date": "2026-07-15"
   },
   {

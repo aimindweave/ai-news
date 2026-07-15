@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Launch HN: Coasty (YC S26) \u2013 An API for computer-use agents",
+    "title": "Inkling: Our Open-Weights Model",
     "source": "Hacker News",
-    "description": "HN Score: 14 | 0 comments",
-    "url": "https://coasty.ai/docs",
-    "score": 14,
+    "description": "HN Score: 76 | 30 comments",
+    "url": "https://thinkingmachines.ai/news/introducing-inkling/",
+    "score": 76,
     "date": "2026-07-15",
     "category": "AI News"
   },
@@ -25,45 +25,45 @@
     "category": "Twitter"
   },
   {
+    "title": "Launch HN: Coasty (YC S26) \u2013 An API for computer-use agents",
+    "source": "Hacker News",
+    "description": "HN Score: 23 | 1 comments",
+    "url": "https://coasty.ai/docs",
+    "score": 23,
+    "date": "2026-07-15",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: how small can you make a world model? we built mira mini, the first reproduction of mira: \u2022\u2060 \u2060reproduced in a week from scratch \u2022\u2060 \u2060",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/hugothomel/status/2077440553973936530#m",
+    "date": "2026-07-15",
+    "category": "Twitter"
+  },
+  {
     "title": "Open-source memory for coding agents, synced over SSH",
     "source": "Hacker News",
-    "description": "HN Score: 19 | 7 comments",
+    "description": "HN Score: 61 | 15 comments",
     "url": "https://github.com/vshulcz/deja-vu/",
-    "score": 19,
+    "score": 61,
     "date": "2026-07-15",
     "category": "AI News"
   },
   {
-    "title": "Note the current expectations are still around test time compute/more tokens for a given task This is not the case Tokens per task will now drop even ",
+    "title": "If @SpaceX bought @PayPal for $65b (2% market cap) would that be a good deal?",
     "source": "@EMostaque",
     "description": "",
-    "url": "https://nitter.net/EMostaque/status/2077409616523059212#m",
+    "url": "https://nitter.net/EMostaque/status/2077447962737688701#m",
     "date": "2026-07-15",
     "category": "Twitter"
   },
   {
-    "title": "Jurassic Park computers in excruciating detail",
+    "title": "Briar is in maintenance mode",
     "source": "Hacker News",
-    "description": "HN Score: 779 | 202 comments",
-    "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
-    "score": 779,
-    "date": "2026-07-15",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @EMostaque: Sooo, what's the Verdict",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/EMostaque/status/2076718938524623210#m",
-    "date": "2026-07-15",
-    "category": "Twitter"
-  },
-  {
-    "title": "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
-    "source": "Hacker News",
-    "description": "HN Score: 113 | 139 comments",
-    "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
-    "score": 113,
+    "description": "HN Score: 111 | 76 comments",
+    "url": "https://briarproject.org/news/2026-maintenance-mode/",
+    "score": 111,
     "date": "2026-07-15",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "A General Goal-Conditioned Minecraft Model",
+    "title": "OpenAI loses trademark dispute at EU court",
     "source": "Hacker News",
-    "description": "HN Score: 10 | 3 comments",
-    "url": "https://pantograph.com/journal/pan-1",
-    "score": 10,
+    "description": "HN Score: 160 | 111 comments",
+    "url": "https://dpa-international.com/economics/urn:newsml:dpa.com:20090101:260715-930-389143/",
+    "score": 160,
     "date": "2026-07-15",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "OpenAI loses trademark dispute at EU court",
+    "title": "A General Goal-Conditioned Minecraft Model",
     "source": "Hacker News",
-    "description": "HN Score: 94 | 85 comments",
-    "url": "https://dpa-international.com/economics/urn:newsml:dpa.com:20090101:260715-930-389143/",
-    "score": 94,
+    "description": "HN Score: 24 | 9 comments",
+    "url": "https://pantograph.com/journal/pan-1",
+    "score": 24,
     "date": "2026-07-15",
     "category": "AI News"
   },
@@ -110,54 +110,54 @@
     "category": "Twitter"
   },
   {
-    "title": "Briar Is in Maintenance Mode",
+    "title": "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
     "source": "Hacker News",
-    "description": "HN Score: 98 | 68 comments",
-    "url": "https://briarproject.org/news/2026-maintenance-mode/",
-    "score": 98,
+    "description": "HN Score: 136 | 173 comments",
+    "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
+    "score": 136,
     "date": "2026-07-15",
     "category": "AI News"
   },
   {
-    "title": "Don't go to college - start building your company 1-person companies will be the norm in the future Disrupt everything - Legal, Health, Finance....",
+    "title": "\ud83d\ude80 Yay, the US finally launched a open-source model worth benchmarking \ud83d\ude80 Inkling from Thinking Machines claims to be just a bit worse than GLM 5.2 Exci",
     "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/bindureddy/status/2077398575437496531#m",
+    "url": "https://nitter.net/bindureddy/status/2077462185081753665#m",
     "date": "2026-07-15",
     "category": "Twitter"
   },
   {
-    "title": "A Trip to 90s Kansai: Exploring the XD FirstClass Network BBS",
+    "title": "Jurassic Park computers in excruciating detail",
     "source": "Hacker News",
-    "description": "HN Score: 49 | 9 comments",
-    "url": "https://cdrom.ca/games/2026/05/30/xd.html",
-    "score": 49,
+    "description": "HN Score: 833 | 216 comments",
+    "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+    "score": 833,
     "date": "2026-07-15",
     "category": "AI News"
   },
   {
-    "title": "Use a strong model like Fable or 5.6 sol to build your entire product The more complex the requirements, the better These models are scaling up to the",
+    "title": "How we are automating all our internal workflows Self-improving autonomous AI agents run on schedule or trigger and we use a variety of LLMs based on ",
     "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/bindureddy/status/2077373498658623704#m",
+    "url": "https://nitter.net/bindureddy/status/2077443574925509010#m",
     "date": "2026-07-15",
     "category": "Twitter"
   },
   {
-    "title": "SendLang: A DSL for Email Automation",
+    "title": "Show HN: Painterly \u2013 Turn pictures into digital paintings without generative AI",
     "source": "Hacker News",
-    "description": "HN Score: 11 | 7 comments",
-    "url": "https://www.sendlang.com",
-    "score": 11,
+    "description": "HN Score: 9 | 2 comments",
+    "url": "https://github.com/jbunke/painterly",
+    "score": 9,
     "date": "2026-07-15",
     "category": "AI News"
   },
   {
-    "title": "Show HN: Aict \u2013 Unix coreutils that output XML/JSON, built for AI agents",
+    "title": "DSLs Enable Reliable Use of LLMs",
     "source": "Hacker News",
-    "description": "HN Score: 12 | 5 comments",
-    "url": "https://github.com/synseqack/aict",
-    "score": 12,
+    "description": "HN Score: 101 | 69 comments",
+    "url": "https://martinfowler.com/articles/llm-and-dsls.html",
+    "score": 101,
     "date": "2026-07-15",
     "category": "AI News"
   }
