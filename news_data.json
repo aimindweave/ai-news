@@ -1,5 +1,26 @@
 [
   {
+    "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
+    "source": "TechCrunch",
+    "summary": "The hacker used an employee's credentials to access source code, which revealed how Suno scraped decades of audio.",
+    "url": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/",
+    "date": "2026-07-15"
+  },
+  {
+    "title": "Whatnot acquires Shaped to power real-time live shopping recommendations",
+    "source": "TechCrunch",
+    "summary": "Livestream shopping platform Whatnot has acquired AI startup Shaped, a machine learning company focused on real-time recommendations and search. The deal will bolster Whatnot\u2019s personalization and discovery features as it expands into new product categories.",
+    "url": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
+    "date": "2026-07-15"
+  },
+  {
+    "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
+    "source": "TechCrunch",
+    "summary": "Microsoft's monthly release of security fixes, dubbed Patch Tuesday, resolved a record 570 security vulnerabilities across the company's product line, thanks to discoveries with AI.",
+    "url": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
+    "date": "2026-07-15"
+  },
+  {
     "title": "Apple Intelligence approved for launch in China with Alibaba\u2019s Qwen AI",
     "source": "TechCrunch",
     "summary": "Apple Intelligence is headed to China after regulators approved Apple\u2019s AI services through a partnership with Alibaba. The long-rumored deal will bring Alibaba\u2019s Qwen AI models to Apple\u2019s operating systems, marking a major expansion of the company\u2019s generative AI platform into one of its most im...",
@@ -81,27 +102,6 @@
     "source": "TechCrunch",
     "summary": "If you\u2019ve been waiting to try Apple\u2019s revamped Siri without installing a developer beta, you now can. The company on Tuesday released the iOS 27 public beta, giving iPhone owners early access to its AI-powered assistant and other new features before the software\u2019s official launch this fall.",
     "url": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
-    "date": "2026-07-15"
-  },
-  {
-    "title": "Anthropic\u2019s newest ad is creeping people out",
-    "source": "TechCrunch",
-    "summary": "Anthropic has consistently attempted to depict itself as the ethical foil to other AI companies. This latest marketing stunt \u2014 which leans into criticism of AI as a way to make Anthropic seem aware of the responsibility it carries \u2014 would appear to be more of the same.",
-    "url": "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/",
-    "date": "2026-07-15"
-  },
-  {
-    "title": "The founder of Hinge raised $18M to build a new AI dating service, Overtone",
-    "source": "TechCrunch",
-    "summary": "Overtone describes itself as 'a voice- and audio-forward service, enabled by AI, that provides highly curated introductions.'",
-    "url": "https://techcrunch.com/2026/07/14/the-founder-of-hinge-raised-18m-to-build-a-new-ai-dating-service-overtone/",
-    "date": "2026-07-15"
-  },
-  {
-    "title": "Google faces another AI training lawsuit from major publishers",
-    "source": "TechCrunch",
-    "summary": "Hachette, Cengage, Elsevier, and other publishers allege that Google trained its AI on copyrighted works without the necessary permissions.",
-    "url": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/",
     "date": "2026-07-15"
   },
   {
@@ -245,6 +245,13 @@
     "date": "2026-07-15"
   },
   {
+    "title": "OpenAI's first branded hardware is... a light-up keyboard?",
+    "source": "Ars Technica",
+    "summary": "The Codex Micro is designed to monitor multiple agentic threads at a glance.",
+    "url": "https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard/",
+    "date": "2026-07-15"
+  },
+  {
     "title": "Lawsuit claims Meta's layoff decisions were made by AI, not humans",
     "source": "Ars Technica",
     "summary": "Meta denies using AI to terminate workers with disabilities and medical problems.",
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "Android Bench is evolving, and developers can help guide that process.",
     "url": "https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/",
-    "date": "2026-07-15"
-  },
-  {
-    "title": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
-    "source": "Ars Technica",
-    "summary": "'HalluSquatting' weaponizes LLMs' inability to say 'I don't know.'",
-    "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
     "date": "2026-07-15"
   }
 ]
