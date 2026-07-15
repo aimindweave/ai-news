@@ -10,9 +10,9 @@
   {
     "title": "Jurassic Park computers in excruciating detail",
     "source": "Hacker News",
-    "description": "HN Score: 230 | 51 comments",
+    "description": "HN Score: 453 | 110 comments",
     "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
-    "score": 230,
+    "score": 453,
     "date": "2026-07-15",
     "category": "AI News"
   },
@@ -25,11 +25,28 @@
     "category": "Twitter"
   },
   {
+    "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
+    "source": "Hacker News",
+    "description": "HN Score: 598 | 211 comments",
+    "url": "https://prismml.com/news/bonsai-27b",
+    "score": 598,
+    "date": "2026-07-15",
+    "category": "AI News"
+  },
+  {
+    "title": "I have quite a few thoughts on this but one of the main ones is how does it apply to @ssi etc? @ilyasut is never going to release AGI, just laser focu",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/EMostaque/status/2077321513905107039#m",
+    "date": "2026-07-15",
+    "category": "Twitter"
+  },
+  {
     "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
     "source": "Hacker News",
-    "description": "HN Score: 108 | 46 comments",
+    "description": "HN Score: 152 | 79 comments",
     "url": "https://tailscale.com/security-bulletins",
-    "score": 108,
+    "score": 152,
     "date": "2026-07-15",
     "category": "AI News"
   },
@@ -42,28 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
+    "title": "I tricked Claude into leaking your deepest, darkest secrets",
     "source": "Hacker News",
-    "description": "HN Score: 528 | 187 comments",
-    "url": "https://prismml.com/news/bonsai-27b",
-    "score": 528,
-    "date": "2026-07-15",
-    "category": "AI News"
-  },
-  {
-    "title": "This is v bearish for RAM companies. We saw strong ternary numbers from @PrismML today (27b dense on a mobile!) but the tiny degradation (~5%) from 16",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/EMostaque/status/2077103737953304683#m",
-    "date": "2026-07-15",
-    "category": "Twitter"
-  },
-  {
-    "title": "Financing the AI boom: from cash flows to debt [pdf]",
-    "source": "Hacker News",
-    "description": "HN Score: 139 | 78 comments",
-    "url": "https://www.bis.org/publ/bisbull120.pdf",
-    "score": 139,
+    "description": "HN Score: 307 | 142 comments",
+    "url": "https://www.ayush.digital/blog/the-memory-heist",
+    "score": 307,
     "date": "2026-07-15",
     "category": "AI News"
   },
@@ -78,9 +78,9 @@
   {
     "title": "How to stop Claude from saying load-bearing",
     "source": "Hacker News",
-    "description": "HN Score: 492 | 533 comments",
+    "description": "HN Score: 528 | 558 comments",
     "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
-    "score": 492,
+    "score": 528,
     "date": "2026-07-15",
     "category": "AI News"
   },
@@ -93,11 +93,28 @@
     "category": "Twitter"
   },
   {
+    "title": "The largest available Minecraft world, totalling 15 TB",
+    "source": "Hacker News",
+    "description": "HN Score: 222 | 71 comments",
+    "url": "https://2b2t.place/1million",
+    "score": 222,
+    "date": "2026-07-15",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: This MCP puts Claude inside your After Effects projects. You can simply guide Claude to help you with expressions and other repetitive ",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2077135428604543093#m",
+    "date": "2026-07-15",
+    "category": "Twitter"
+  },
+  {
     "title": "LeMario: Training a JEPA World Model on Super Mario Bros",
     "source": "Hacker News",
-    "description": "HN Score: 76 | 10 comments",
+    "description": "HN Score: 99 | 13 comments",
     "url": "https://www.benjamin-bai.com/projects/lemario",
-    "score": 76,
+    "score": 99,
     "date": "2026-07-15",
     "category": "AI News"
   },
@@ -110,28 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "The largest available Minecraft world, totalling 15 TB",
+    "title": "Launch HN: Agnost AI (YC S26) \u2013 Extract user feedback from agent conversations",
     "source": "Hacker News",
-    "description": "HN Score: 193 | 65 comments",
-    "url": "https://2b2t.place/1million",
-    "score": 193,
-    "date": "2026-07-15",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: How to become GOD-LEVEL with Large Language Models. Here are 50 hands-on projects with solutions that will teach you how Large Language",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2077007711179563427#m",
-    "date": "2026-07-15",
-    "category": "Twitter"
-  },
-  {
-    "title": "The zero-cost fallacy: open-source software in the agentic era",
-    "source": "Hacker News",
-    "description": "HN Score: 139 | 105 comments",
-    "url": "https://www.thoughtworks.com/insights/blog/open-source/zero-cost-fallacy-open-source-agentic-era",
-    "score": 139,
+    "description": "HN Score: 77 | 40 comments",
+    "url": "https://agnost.ai",
+    "score": 77,
     "date": "2026-07-15",
     "category": "AI News"
   },
@@ -146,9 +146,9 @@
   {
     "title": "Show HN: Juggler \u2013 an open-source GUI coding agent, by the creator of JUCE",
     "source": "Hacker News",
-    "description": "HN Score: 213 | 92 comments",
+    "description": "HN Score: 239 | 105 comments",
     "url": "https://github.com/juggler-ai/juggler",
-    "score": 213,
+    "score": 239,
     "date": "2026-07-15",
     "category": "AI News"
   },
@@ -163,9 +163,9 @@
   {
     "title": "Are we offloading too much of our thinking to AI?",
     "source": "Hacker News",
-    "description": "HN Score: 428 | 409 comments",
+    "description": "HN Score: 473 | 431 comments",
     "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
-    "score": 428,
+    "score": 473,
     "date": "2026-07-15",
     "category": "AI News"
   }
