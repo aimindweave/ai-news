@@ -10,9 +10,9 @@
   {
     "title": "LM Studio Bionic: the AI agent for open models",
     "source": "Hacker News",
-    "description": "HN Score: 13 | 1 comments",
+    "description": "HN Score: 94 | 30 comments",
     "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
-    "score": 13,
+    "score": 94,
     "date": "2026-07-16",
     "category": "AI News"
   },
@@ -25,11 +25,28 @@
     "category": "Twitter"
   },
   {
-    "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
+    "title": "FIFA World Cup 2026 Data Portraits",
     "source": "Hacker News",
-    "description": "HN Score: 14 | 13 comments",
-    "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
-    "score": 14,
+    "description": "HN Score: 24 | 11 comments",
+    "url": "https://wc26.bogachev.fr/index.html",
+    "score": 24,
+    "date": "2026-07-16",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: No. We are focused on intelligence frontier right now. Video generation does not bring much intelligence both theoretically and prac",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/zxytim/status/2077847196867993711#m",
+    "date": "2026-07-16",
+    "category": "Twitter"
+  },
+  {
+    "title": "Detecting LLM-Generated Texts with \u201cClassical\u201d Machine Learning",
+    "source": "Hacker News",
+    "description": "HN Score: 131 | 94 comments",
+    "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
+    "score": 131,
     "date": "2026-07-16",
     "category": "AI News"
   },
@@ -42,28 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Detecting LLM-Generated Texts with \u201cClassical\u201d Machine Learning",
+    "title": "Show HN: ReasonGate- An explainable gate that blocks LLM prompt injection",
     "source": "Hacker News",
-    "description": "HN Score: 109 | 78 comments",
-    "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
-    "score": 109,
-    "date": "2026-07-16",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @EMostaque: fwiw the amount of compute needed for Kimi K2 is around about the same as DeepSeek V3/R1 ($5m worth) More stable training, similar a",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/EMostaque/status/1944343637015306719#m",
-    "date": "2026-07-16",
-    "category": "Twitter"
-  },
-  {
-    "title": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
-    "source": "Hacker News",
-    "description": "HN Score: 71 | 48 comments",
-    "url": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model",
-    "score": 71,
+    "description": "HN Score: 5 | 0 comments",
+    "url": "https://github.com/cgrtml/reasongate",
+    "score": 5,
     "date": "2026-07-16",
     "category": "AI News"
   },
@@ -76,28 +76,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Timeline Scan \u2013 AI fixes the dates on your scanned photos",
+    "title": "Show HN: Libretto PR agents \u2013 Automatically fix failing playwright scripts",
     "source": "Hacker News",
-    "description": "HN Score: 4 | 7 comments",
-    "url": "https://timelinescan.com/",
-    "score": 4,
+    "description": "HN Score: 11 | 0 comments",
+    "url": "https://libretto.sh/debug-agents",
+    "score": 11,
     "date": "2026-07-16",
     "category": "AI News"
   },
   {
-    "title": "We scaled a robot model natively to 8,000 timesteps of context, 5 minutes worth of muscle memory, with constant inference cost. Robot policies used to",
+    "title": "R to @DrJimFan: Blog and paper: https://research.nvidia.com/labs/gear/robottt/ Presented to you from NVIDIA GEAR Lab. Please check out Yunfan's techni",
     "source": "@DrJimFan",
     "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2077414142340988962#m",
+    "url": "https://nitter.net/DrJimFan/status/2077414143901188195#m",
     "date": "2026-07-16",
     "category": "Twitter"
   },
   {
-    "title": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks",
+    "title": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
     "source": "Hacker News",
-    "description": "HN Score: 94 | 20 comments",
-    "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/",
-    "score": 94,
+    "description": "HN Score: 82 | 52 comments",
+    "url": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model",
+    "score": 82,
     "date": "2026-07-16",
     "category": "AI News"
   },
@@ -110,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Launch HN: Traceforce (YC S26) \u2013 Company-wide security monitoring for AI apps",
+    "title": "Timeline Scan \u2013 AI fixes the dates on your scanned photos",
     "source": "Hacker News",
-    "description": "HN Score: 15 | 8 comments",
-    "url": "https://news.ycombinator.com/item?id=48937020",
-    "score": 15,
+    "description": "HN Score: 13 | 19 comments",
+    "url": "https://timelinescan.com/",
+    "score": 13,
     "date": "2026-07-16",
     "category": "AI News"
   },
@@ -127,45 +127,45 @@
     "category": "Twitter"
   },
   {
-    "title": "Agent-talk: Enabling coding agents to work together",
+    "title": "Launch HN: Traceforce (YC S26) \u2013 Company-wide security monitoring for AI apps",
     "source": "Hacker News",
-    "description": "HN Score: 33 | 11 comments",
-    "url": "https://github.com/xhluca/agent-talk",
-    "score": 33,
+    "description": "HN Score: 21 | 10 comments",
+    "url": "https://news.ycombinator.com/item?id=48937020",
+    "score": 21,
     "date": "2026-07-16",
     "category": "AI News"
   },
   {
-    "title": "Kimi K3 Benchmarks Are Over The Top - Take It With A Grain Of Salt - We will want to confirm the numbers on a un-contaminated benchmark like LiveBench",
+    "title": "Download the weights in case Kimi 3 gets banned \ud83d\ude02",
     "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/bindureddy/status/2077816569489678703#m",
+    "url": "https://nitter.net/bindureddy/status/2077881273717256330#m",
     "date": "2026-07-16",
     "category": "Twitter"
   },
   {
-    "title": "Switzerland turned its train tracks into solar power plants",
+    "title": "Show HN: BambooGrid \u2013 Open-source web UI for power grid modeling and power flow",
     "source": "Hacker News",
-    "description": "HN Score: 7 | 2 comments",
-    "url": "https://www.goodgoodgood.co/articles/switzerland-train-tracks-solar-panels",
-    "score": 7,
+    "description": "HN Score: 16 | 4 comments",
+    "url": "https://bamboo.kickstage.com",
+    "score": 16,
     "date": "2026-07-16",
     "category": "AI News"
   },
   {
-    "title": "AutoBots - Multi-LLM Self-Improving Agens. Currently dog-fooding our next release - recursively self-improving autonomous AI agents that run on schedu",
+    "title": "LOL, the tables have totally turned! OpenAI models are very good at design 5.6 Sol for design Fable 5 for coding This is the current killing combinati",
     "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/bindureddy/status/2077640358406783007#m",
+    "url": "https://nitter.net/bindureddy/status/2077871190354653567#m",
     "date": "2026-07-16",
     "category": "Twitter"
   },
   {
-    "title": "Inkling: Our Open-Weights Model",
+    "title": "The LLM Critics Are Right. I Use LLMs Anyway",
     "source": "Hacker News",
-    "description": "HN Score: 1170 | 280 comments",
-    "url": "https://thinkingmachines.ai/news/introducing-inkling/",
-    "score": 1170,
+    "description": "HN Score: 170 | 177 comments",
+    "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
+    "score": 170,
     "date": "2026-07-16",
     "category": "AI News"
   }
