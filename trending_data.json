@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Inkling: Our Open-Weights Model",
+    "title": "SpaceX stock erases all its gains and slides below IPO price in intraday trading",
     "source": "Hacker News",
-    "description": "HN Score: 985 | 248 comments",
-    "url": "https://thinkingmachines.ai/news/introducing-inkling/",
-    "score": 985,
+    "description": "HN Score: 220 | 163 comments",
+    "url": "https://www.latimes.com/business/story/2026-07-16/spacex-stock-erases-gains-slides-below-ipo-price-in-intraday-trading",
+    "score": 220,
     "date": "2026-07-16",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+    "title": "Where are YC founders now? OpenAI and Anthropic, mostly",
     "source": "Hacker News",
-    "description": "HN Score: 200 | 72 comments",
-    "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
-    "score": 200,
+    "description": "HN Score: 160 | 72 comments",
+    "url": "https://joinedanthropic.com",
+    "score": 160,
     "date": "2026-07-16",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Where are YC founders now? OpenAI and Anthropic, mostly",
+    "title": "Inkling: Our Open-Weights Model",
     "source": "Hacker News",
-    "description": "HN Score: 9 | 0 comments",
-    "url": "https://joinedanthropic.com",
-    "score": 9,
+    "description": "HN Score: 1089 | 269 comments",
+    "url": "https://thinkingmachines.ai/news/introducing-inkling/",
+    "score": 1089,
     "date": "2026-07-16",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "High-Bandwidth Flash offers efficient storage for model weights",
+    "title": "Show HN: AI Law Tracker \u2013 one audited API for US, EU and global AI law",
     "source": "Hacker News",
-    "description": "HN Score: 46 | 17 comments",
-    "url": "https://spectrum.ieee.org/high-bandwidth-flash",
-    "score": 46,
+    "description": "HN Score: 3 | 0 comments",
+    "url": "https://ai-law-tracker.com",
+    "score": 3,
     "date": "2026-07-16",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "The Tokio/Rayon Trap and Why Async/Await Fails Concurrency",
+    "title": "The LLM Critics Are Right. I Use LLMs Anyway",
     "source": "Hacker News",
-    "description": "HN Score: 69 | 42 comments",
-    "url": "https://pmbanugo.me/blog/why-async-await-complect-concurrency",
-    "score": 69,
+    "description": "HN Score: 79 | 89 comments",
+    "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
+    "score": 79,
     "date": "2026-07-16",
     "category": "AI News"
   },
@@ -93,11 +93,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Launch HN: Coasty (YC S26) \u2013 An API for computer-use agents",
+    "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
     "source": "Hacker News",
-    "description": "HN Score: 37 | 12 comments",
-    "url": "https://coasty.ai/docs",
-    "score": 37,
+    "description": "HN Score: 243 | 85 comments",
+    "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+    "score": 243,
+    "date": "2026-07-16",
+    "category": "AI News"
+  },
+  {
+    "title": "Me: Anthropic is lying to you with their 'Software Engineering is dead' claims. The Internet: You are a retard if you don't like AI, sucker!",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2077734242184991199#m",
+    "date": "2026-07-16",
+    "category": "Twitter"
+  },
+  {
+    "title": "Teen hackers who live streamed cyber-attack on TfL jailed",
+    "source": "Hacker News",
+    "description": "HN Score: 11 | 0 comments",
+    "url": "https://www.bbc.com/news/articles/c4gyg0y6yg2o",
+    "score": 11,
     "date": "2026-07-16",
     "category": "AI News"
   },
@@ -110,28 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers",
+    "title": "High-Bandwidth Flash offers efficient storage for model weights",
     "source": "Hacker News",
-    "description": "HN Score: 56 | 12 comments",
-    "url": "https://arxiv.org/abs/2607.11859",
-    "score": 56,
-    "date": "2026-07-16",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: Why is Anthropic hiring Software Engineers? Why aren't they using agents with loops to do all of this?",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2077373874887639258#m",
-    "date": "2026-07-16",
-    "category": "Twitter"
-  },
-  {
-    "title": "LLM Networking with MikroTik",
-    "source": "Hacker News",
-    "description": "HN Score: 90 | 40 comments",
-    "url": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
-    "score": 90,
+    "description": "HN Score: 64 | 23 comments",
+    "url": "https://spectrum.ieee.org/high-bandwidth-flash",
+    "score": 64,
     "date": "2026-07-16",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Brainless: Shadcn components that look like Claude Code, Codex and Grok",
+    "title": "Launch HN: Coasty (YC S26) \u2013 An API for computer-use agents",
     "source": "Hacker News",
-    "description": "HN Score: 123 | 24 comments",
-    "url": "https://brainless.swerdlow.dev",
-    "score": 123,
+    "description": "HN Score: 40 | 15 comments",
+    "url": "https://coasty.ai/docs",
+    "score": 40,
     "date": "2026-07-16",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Agentty \u2013 A drop-in alternative to claude-code, written in C++26. 11.0 MB binary",
+    "title": "LLM Networking with MikroTik",
     "source": "Hacker News",
-    "description": "HN Score: 36 | 6 comments",
-    "url": "https://github.com/1ay1/agentty",
-    "score": 36,
+    "description": "HN Score: 97 | 47 comments",
+    "url": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
+    "score": 97,
     "date": "2026-07-16",
     "category": "AI News"
   }
