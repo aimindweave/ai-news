@@ -10,9 +10,9 @@
   {
     "title": "Inkling: Our Open-Weights Model",
     "source": "Hacker News",
-    "description": "HN Score: 750 | 188 comments",
+    "description": "HN Score: 865 | 215 comments",
     "url": "https://thinkingmachines.ai/news/introducing-inkling/",
-    "score": 750,
+    "score": 865,
     "date": "2026-07-16",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
     "source": "Hacker News",
-    "description": "HN Score: 101 | 45 comments",
+    "description": "HN Score: 149 | 54 comments",
     "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
-    "score": 101,
+    "score": 149,
     "date": "2026-07-16",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "LLM Networking with MikroTik",
+    "title": "Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers",
     "source": "Hacker News",
-    "description": "HN Score: 59 | 22 comments",
-    "url": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
-    "score": 59,
+    "description": "HN Score: 21 | 2 comments",
+    "url": "https://arxiv.org/abs/2607.11859",
+    "score": 21,
     "date": "2026-07-16",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Brainless: Shadcn components that look like Claude Code, Codex and Grok",
+    "title": "Stop saying that AI is just a tool and it only matters how it is used",
     "source": "Hacker News",
-    "description": "HN Score: 103 | 21 comments",
-    "url": "https://brainless.swerdlow.dev",
-    "score": 103,
+    "description": "HN Score: 32 | 21 comments",
+    "url": "https://www.frank.computer/blog/2025/05/just-a-tool.html",
+    "score": 32,
     "date": "2026-07-16",
     "category": "AI News"
   },
@@ -76,28 +76,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Designing APIs for Agents",
+    "title": "High-Bandwidth Flash offers efficient storage for model weights",
     "source": "Hacker News",
-    "description": "HN Score: 59 | 28 comments",
-    "url": "https://www.freestyle.sh/blog/opinion/designing-apis-for-agents",
-    "score": 59,
+    "description": "HN Score: 30 | 9 comments",
+    "url": "https://spectrum.ieee.org/high-bandwidth-flash",
+    "score": 30,
     "date": "2026-07-16",
     "category": "AI News"
   },
   {
-    "title": "R to @DrJimFan: Blog and paper: https://research.nvidia.com/labs/gear/robottt/ Presented to you from NVIDIA GEAR Lab. Please check out Yunfan's techni",
+    "title": "We scaled a robot model natively to 8,000 timesteps of context, 5 minutes worth of muscle memory, with constant inference cost. Robot policies used to",
     "source": "@DrJimFan",
     "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2077414143901188195#m",
+    "url": "https://nitter.net/DrJimFan/status/2077414142340988962#m",
     "date": "2026-07-16",
     "category": "Twitter"
   },
   {
-    "title": "Briar is in maintenance mode",
+    "title": "My Throw Decides My Aim",
     "source": "Hacker News",
-    "description": "HN Score: 152 | 96 comments",
-    "url": "https://briarproject.org/news/2026-maintenance-mode/",
-    "score": 152,
+    "description": "HN Score: 15 | 2 comments",
+    "url": "https://thegustafson.com/blog/my-throw-decides-my-aim",
+    "score": 15,
     "date": "2026-07-16",
     "category": "AI News"
   },
@@ -110,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Open-source memory for coding agents, synced over SSH",
+    "title": "Launch HN: Coasty (YC S26) \u2013 An API for computer-use agents",
     "source": "Hacker News",
-    "description": "HN Score: 112 | 28 comments",
-    "url": "https://github.com/vshulcz/deja-vu/",
-    "score": 112,
+    "description": "HN Score: 31 | 7 comments",
+    "url": "https://coasty.ai/docs",
+    "score": 31,
     "date": "2026-07-16",
     "category": "AI News"
   },
@@ -127,11 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Agentty \u2013 A drop-in alternative to claude-code, written in C++26. 11.0 MB binary",
+    "title": "LLM Networking with MikroTik",
     "source": "Hacker News",
-    "description": "HN Score: 15 | 0 comments",
-    "url": "https://github.com/1ay1/agentty",
-    "score": 15,
+    "description": "HN Score: 70 | 32 comments",
+    "url": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
+    "score": 70,
     "date": "2026-07-16",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Low-latency local LLM runner via OpenJDK Panama FFM (Java 22)",
+    "title": "The Tokio/Rayon Trap and Why Async/Await Fails Concurrency",
     "source": "Hacker News",
-    "description": "HN Score: 31 | 4 comments",
-    "url": "https://github.com/projectargus-cc/libargus.cc",
-    "score": 31,
+    "description": "HN Score: 34 | 32 comments",
+    "url": "https://pmbanugo.me/blog/why-async-await-complect-concurrency",
+    "score": 34,
     "date": "2026-07-16",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Jurassic Park computers in excruciating detail",
+    "title": "Open Source, Free Tier Capable Whispr Using Cloudflare AI",
     "source": "Hacker News",
-    "description": "HN Score: 873 | 231 comments",
-    "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
-    "score": 873,
+    "description": "HN Score: 11 | 6 comments",
+    "url": "https://github.com/PrestigePvP/Voicebox",
+    "score": 11,
     "date": "2026-07-16",
     "category": "AI News"
   }
