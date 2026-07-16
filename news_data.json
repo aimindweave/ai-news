@@ -1,5 +1,19 @@
 [
   {
+    "title": "Google Vids now lets you star in your own AI videos",
+    "source": "TechCrunch",
+    "summary": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from prompts and reference images.",
+    "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+    "date": "2026-07-16"
+  },
+  {
+    "title": "Roblox launches an AI-powered game creation feature in its mobile app",
+    "source": "TechCrunch",
+    "summary": "Roblox's new 'Build' feature lets users generate basic games using a single text prompt.",
+    "url": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
+    "date": "2026-07-16"
+  },
+  {
     "title": "Google\u2019s AI Mode now lets you link and interact with select apps",
     "source": "TechCrunch",
     "summary": "With this new update, Google is expanding AI Mode beyond answering questions and into completing tasks across the apps they use regularly.",
@@ -91,20 +105,6 @@
     "date": "2026-07-16"
   },
   {
-    "title": "Whatnot acquires Shaped to power real-time live shopping recommendations",
-    "source": "TechCrunch",
-    "summary": "Livestream shopping platform Whatnot has acquired AI startup Shaped, a machine learning company focused on real-time recommendations and search. The deal will bolster Whatnot\u2019s personalization and discovery features as it expands into new product categories.",
-    "url": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
-    "date": "2026-07-16"
-  },
-  {
-    "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
-    "source": "TechCrunch",
-    "summary": "Microsoft's monthly release of security fixes, dubbed Patch Tuesday, resolved a record 570 security vulnerabilities across the company's product line, thanks to discoveries with AI.",
-    "url": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
-    "date": "2026-07-16"
-  },
-  {
     "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
     "source": "MIT Tech Review",
     "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner ...",
@@ -175,6 +175,13 @@
     "date": "2026-07-16"
   },
   {
+    "title": "Here\u2019s Why Anthropic Is Pushing States to Regulate AI Faster",
+    "source": "Wired",
+    "summary": "The company endorsed landmark AI transparency laws in California and New York last year, but its head of US state and local policy says they may already be outdated.",
+    "url": "https://www.wired.com/story/why-anthropic-is-pushing-states-to-regulate-ai-faster/",
+    "date": "2026-07-16"
+  },
+  {
     "title": "Please Stop Making Me Opt Out of AI",
     "source": "Wired",
     "summary": "I\u2019m sick of \u201copt-out\u201d toggles for automatically enabled generative AI features. It\u2019s past time to make \u201copt in\u201d the default setting for sensitive features.",
@@ -238,10 +245,10 @@
     "date": "2026-07-16"
   },
   {
-    "title": "DOGE Used AI for Housing Policy. The Government Won\u2019t Say How",
-    "source": "Wired",
-    "summary": "In response to a public records request, HUD has withheld documents about DOGE\u2019s use of AI\u2014in part by citing a privilege that doesn\u2019t exist.",
-    "url": "https://www.wired.com/story/doge-deployed-ai-housing-policy/",
+    "title": "Linus Torvalds to critics of AI coding in Linux: 'Fork it. Or just walk away.'",
+    "source": "Ars Technica",
+    "summary": "Creator says he will 'very loudly ignore' those arguing for a ban on AI tools.",
+    "url": "https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/",
     "date": "2026-07-16"
   },
   {
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "AI cheating leads to 'a failed society,' professor says.",
     "url": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
-    "date": "2026-07-16"
-  },
-  {
-    "title": "Lawsuit: Man used Grok to make 7K sex images of stepdaughter, then shot himself",
-    "source": "Ars Technica",
-    "summary": "More young girls sue X over Grok CSAM; X accused of shielding child predators.",
-    "url": "https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt/",
     "date": "2026-07-16"
   }
 ]
