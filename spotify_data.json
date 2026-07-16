@@ -94,6 +94,16 @@
   "episodes": [
     {
       "id": "a]6z Pod_0",
+      "name": "Replay 2025: David Sacks on AI, Crypto, and America's Technology Future",
+      "show": "a]6z Podcast",
+      "description": "As part of our summer replay series, we're revisiting one of our most-discussed conversations from the past year.\nDavid Sacks joins Marc Andreessen, Ben Horowitz, and Erik Torenberg to discu",
+      "release_date": "2026-07-16",
+      "duration_min": 77,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
+      "id": "a]6z Pod_1",
       "name": "From the Archive: Can Anyone Catch NVIDIA? | The Future of Chips and Infrastructure",
       "show": "a]6z Podcast",
       "description": "As part of our summer replay series, we're revisiting one of our favorite conversations on the future of AI infrastructure.\nSemiAnalysis founder Dylan Patel joins Erin Price-Wright, Guido Ap",
@@ -103,22 +113,12 @@
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "Is AI a Bubble? | Gavin Baker on Data Centers, GPUs, and the AI Economy",
       "show": "a]6z Podcast",
       "description": "As part of our summer replay series, we're revisiting one of the standout conversations from Runtime, a16z's conference on AI infrastructure and the future of computing.\nGavin Baker, Managin",
       "release_date": "2026-07-14",
       "duration_min": 31,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
-    },
-    {
-      "id": "a]6z Pod_2",
-      "name": "Before Blockchains, There Was State Machine Replication",
-      "show": "a]6z Podcast",
-      "description": "Every blockchain today relies on replication techniques first developed in the 1980s by researchers who weren't thinking about cryptocurrencies at all.\nIn this episode, Tim Roughgarden speak",
-      "release_date": "2026-07-13",
-      "duration_min": 37,
       "image": "",
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
