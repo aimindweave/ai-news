@@ -93,7 +93,27 @@
   ],
   "episodes": [
     {
+      "id": "Practica_0",
+      "name": "The Future of AI Infrastructure with CoreWeave",
+      "show": "Practical AI",
+      "description": "\n        As AI applications become more complex, the infrastructure powering them needs to evolve. Corey Sanders, SVP of Product at CoreWeave, joins Chris to discuss why AI requires a fundamentally",
+      "release_date": "2026-07-17",
+      "duration_min": 50,
+      "image": "",
+      "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
+    },
+    {
       "id": "a]6z Pod_0",
+      "name": "Amjad Masad on Going Direct, Building Replit, and the Future of Software",
+      "show": "a]6z Podcast",
+      "description": "Recorded live at the New Media Summit, Erik Torenberg sits down with Replit founder and CEO Amjad Masad to discuss founder-led storytelling, building in public, and the role of media in company bui",
+      "release_date": "2026-07-17",
+      "duration_min": 25,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
+      "id": "a]6z Pod_1",
       "name": "Replay 2025: David Sacks on AI, Crypto, and America's Technology Future",
       "show": "a]6z Podcast",
       "description": "As part of our summer replay series, we're revisiting one of our most-discussed conversations from the past year.\nDavid Sacks joins Marc Andreessen, Ben Horowitz, and Erik Torenberg to discu",
@@ -103,22 +123,12 @@
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "From the Archive: Can Anyone Catch NVIDIA? | The Future of Chips and Infrastructure",
       "show": "a]6z Podcast",
       "description": "As part of our summer replay series, we're revisiting one of our favorite conversations on the future of AI infrastructure.\nSemiAnalysis founder Dylan Patel joins Erin Price-Wright, Guido Ap",
       "release_date": "2026-07-15",
       "duration_min": 65,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
-    },
-    {
-      "id": "a]6z Pod_2",
-      "name": "Is AI a Bubble? | Gavin Baker on Data Centers, GPUs, and the AI Economy",
-      "show": "a]6z Podcast",
-      "description": "As part of our summer replay series, we're revisiting one of the standout conversations from Runtime, a16z's conference on AI infrastructure and the future of computing.\nGavin Baker, Managin",
-      "release_date": "2026-07-14",
-      "duration_min": 31,
       "image": "",
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
@@ -133,7 +143,7 @@
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
-      "id": "Practica_0",
+      "id": "Practica_1",
       "name": "Building Durable AI Agents",
       "show": "Practical AI",
       "description": "\n        What does it take to move AI agents from demos to reliable production systems? In this episode, Hamza Tahir explores how MLOps principles are shaping the future of generative AI, covering ",
@@ -163,7 +173,7 @@
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
-      "id": "Practica_1",
+      "id": "Practica_2",
       "name": "Image Generation and Visual Intelligence with Black Forest Labs",
       "show": "Practical AI",
       "description": "\n        How has AI image generation evolved from blurry outputs to powerful visual intelligence models? Dustin Podell, Co-Founder and Researcher at Black Forest Labs, explains the progression from",
@@ -191,16 +201,6 @@
       "duration_min": 59,
       "image": "",
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
-    },
-    {
-      "id": "Practica_2",
-      "name": "AIUC-1: Building trust in AI agents",
-      "show": "Practical AI",
-      "description": "\n        How do we build trust in AI agents before the AI hailstorm arrives? Emil Lassen from the Artificial Intelligence Underwriting Company (AIUC) joins the show to discuss how the enterprise fl",
-      "release_date": "2026-06-25",
-      "duration_min": 45,
-      "image": "",
-      "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
       "id": "The AI P_0",

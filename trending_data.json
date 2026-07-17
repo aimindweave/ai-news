@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "LM Studio Bionic: the AI agent for open models",
+    "title": "EEG shows brain can simultaneous encode two speech streams",
     "source": "Hacker News",
-    "description": "HN Score: 208 | 73 comments",
-    "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
-    "score": 208,
+    "description": "HN Score: 92 | 49 comments",
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
+    "score": 92,
     "date": "2026-07-17",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
+    "title": "LM Studio Bionic: the AI agent for open models",
     "source": "Hacker News",
-    "description": "HN Score: 212 | 244 comments",
-    "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
-    "score": 212,
+    "description": "HN Score: 251 | 89 comments",
+    "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+    "score": 251,
     "date": "2026-07-17",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "UIUC AI Teaching Assistant",
+    "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
     "source": "Hacker News",
-    "description": "HN Score: 12 | 0 comments",
-    "url": "https://github.com/Center-for-AI-Innovation/ai-teaching-assistant-uiuc",
-    "score": 12,
+    "description": "HN Score: 272 | 376 comments",
+    "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
+    "score": 272,
     "date": "2026-07-17",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Simulating everything, sort of: The promise and limits of world models",
+    "title": "In Praise of Exhaustive Destructuring",
     "source": "Hacker News",
-    "description": "HN Score: 26 | 1 comments",
-    "url": "https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/",
-    "score": 26,
+    "description": "HN Score: 19 | 5 comments",
+    "url": "https://antoine.vandecreme.net/blog/exhaustive-destructuring-praise/",
+    "score": 19,
     "date": "2026-07-17",
     "category": "AI News"
   },
@@ -78,9 +78,9 @@
   {
     "title": "Detecting LLM-Generated Texts with \u201cClassical\u201d Machine Learning",
     "source": "Hacker News",
-    "description": "HN Score: 180 | 122 comments",
+    "description": "HN Score: 201 | 143 comments",
     "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
-    "score": 180,
+    "score": 201,
     "date": "2026-07-17",
     "category": "AI News"
   },
@@ -93,11 +93,28 @@
     "category": "Twitter"
   },
   {
+    "title": "The LLM Critics Are Right. I Use LLMs Anyway",
+    "source": "Hacker News",
+    "description": "HN Score: 230 | 242 comments",
+    "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
+    "score": 230,
+    "date": "2026-07-17",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: Remember Humane? Remember the Rabbit R1? Remember how Jony Ive and OpenAI have been promising a device for more than a year, and still ",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2077818804705579512#m",
+    "date": "2026-07-17",
+    "category": "Twitter"
+  },
+  {
     "title": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
     "source": "Hacker News",
-    "description": "HN Score: 117 | 57 comments",
+    "description": "HN Score: 137 | 63 comments",
     "url": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model",
-    "score": 117,
+    "score": 137,
     "date": "2026-07-17",
     "category": "AI News"
   },
@@ -110,45 +127,28 @@
     "category": "Twitter"
   },
   {
-    "title": "The LLM Critics Are Right. I Use LLMs Anyway",
+    "title": "UIUC AI Teaching Assistant",
     "source": "Hacker News",
-    "description": "HN Score: 211 | 214 comments",
-    "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
-    "score": 211,
+    "description": "HN Score: 18 | 0 comments",
+    "url": "https://github.com/Center-for-AI-Innovation/ai-teaching-assistant-uiuc",
+    "score": 18,
     "date": "2026-07-17",
     "category": "AI News"
   },
   {
-    "title": "RT by @svpino: How to monitor the web and research what comes back in 300 lines of code. I want to buy some cheap products on Amazon, but I want to gr",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2077764801594544418#m",
-    "date": "2026-07-17",
-    "category": "Twitter"
-  },
-  {
-    "title": "Lingbot-map: A 3D foundation model for reconstructing scenes from streaming data",
-    "source": "Hacker News",
-    "description": "HN Score: 16 | 0 comments",
-    "url": "https://github.com/Robbyant/lingbot-map",
-    "score": 16,
-    "date": "2026-07-17",
-    "category": "AI News"
-  },
-  {
-    "title": "KIMI K3 CLOSES THE GAP BUT RANKS BEHIND FRONTIER MODELS Our benchmark, LiveBench, has a lot of hidden questions so that models it's hard to memorize i",
+    "title": "KIMI K3 CLOSES THE GAP BUT RANKS BEHIND FRONTIER MODELS Our benchmark, LiveBench, has a lot of hidden questions and models can't memorize them K3 is t",
     "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/bindureddy/status/2077980360793788789#m",
+    "url": "https://nitter.net/bindureddy/status/2078029223282053510#m",
     "date": "2026-07-17",
     "category": "Twitter"
   },
   {
-    "title": "Launch HN: Traceforce (YC S26) \u2013 Company-wide security monitoring for AI apps",
+    "title": "Simulating everything, sort of: The promise and limits of world models",
     "source": "Hacker News",
-    "description": "HN Score: 39 | 19 comments",
-    "url": "https://news.ycombinator.com/item?id=48937020",
-    "score": 39,
+    "description": "HN Score: 32 | 2 comments",
+    "url": "https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/",
+    "score": 32,
     "date": "2026-07-17",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Timeline Scan \u2013 AI fixes the dates on your scanned photos",
+    "title": "Launch HN: Traceforce (YC S26) \u2013 Company-wide security monitoring for AI apps",
     "source": "Hacker News",
-    "description": "HN Score: 28 | 29 comments",
-    "url": "https://timelinescan.com/",
-    "score": 28,
+    "description": "HN Score: 39 | 19 comments",
+    "url": "https://news.ycombinator.com/item?id=48937020",
+    "score": 39,
     "date": "2026-07-17",
     "category": "AI News"
   }
