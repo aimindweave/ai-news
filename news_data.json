@@ -1,5 +1,12 @@
 [
   {
+    "title": "Patreon stops asking AI bots not to scrape \u2014 and starts blocking them",
+    "source": "TechCrunch",
+    "summary": "Patreon is strengthening its defenses against AI scraping by working with Cloudflare to block bots that train AI models on creators\u2019 content without permission. The move marks a shift away from relying on websites using robots.txt alone to actively block unauthorized AI training.",
+    "url": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
+    "date": "2026-07-17"
+  },
+  {
     "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
     "source": "TechCrunch",
     "summary": "A $400 million chip-backed loan points to the next wave of AI infrastructure deals.",
@@ -95,13 +102,6 @@
     "source": "TechCrunch",
     "summary": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public.",
     "url": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/",
-    "date": "2026-07-17"
-  },
-  {
-    "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
-    "source": "TechCrunch",
-    "summary": "It's the company's first public proof point after a year and a half spent building AI infrastructure largely out of public view.",
-    "url": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
     "date": "2026-07-17"
   },
   {
@@ -245,6 +245,13 @@
     "date": "2026-07-17"
   },
   {
+    "title": "San Francisco orders Apple, Google to remove nudify apps from app stores",
+    "source": "Ars Technica",
+    "summary": "Official estimates Google and Apple likely made millions in nudify app fees.",
+    "url": "https://arstechnica.com/tech-policy/2026/07/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says/",
+    "date": "2026-07-17"
+  },
+  {
     "title": "It's official: EU will force Google to share search data and open up AI on Android",
     "source": "Ars Technica",
     "summary": "Google says these changes could endanger user privacy and security.",
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "Digital Services Act may force Meta to make big changes on its platforms.",
     "url": "https://arstechnica.com/tech-policy/2026/07/disable-auto-play-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta/",
-    "date": "2026-07-17"
-  },
-  {
-    "title": "OpenAI wants its new tool to do your work for you and with you",
-    "source": "Ars Technica",
-    "summary": "Rebranded Codex promises independent workflows that can run 'for hours if needed.'",
-    "url": "https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/",
     "date": "2026-07-17"
   }
 ]
