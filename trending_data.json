@@ -10,9 +10,9 @@
   {
     "title": "Mozilla: The state of open source AI",
     "source": "Hacker News",
-    "description": "HN Score: 183 | 119 comments",
+    "description": "HN Score: 267 | 177 comments",
     "url": "https://stateofopensource.ai/",
-    "score": 183,
+    "score": 267,
     "date": "2026-07-17",
     "category": "AI News"
   },
@@ -27,43 +27,43 @@
   {
     "title": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
     "source": "Hacker News",
-    "description": "HN Score: 51 | 0 comments",
+    "description": "HN Score: 60 | 0 comments",
     "url": "https://blog.zksecurity.xyz/posts/openvm-bugs/",
-    "score": 51,
+    "score": 60,
     "date": "2026-07-17",
     "category": "AI News"
   },
   {
-    "title": "RT by @EMostaque: Kimi K3 by @Kimi_Moonshot is a true frontier model, open source! Congrats! We don't have all details (training tokens etc), but woul",
+    "title": "RT by @EMostaque: Introducing ZUNA1.1, a far more flexible version of our open EEG foundation model and a further advancement toward noninvasive thoug",
     "source": "@EMostaque",
     "description": "",
-    "url": "https://nitter.net/EMostaque/status/2077828058489209184#m",
+    "url": "https://nitter.net/ZyphraAI/status/2077840103309988301#m",
     "date": "2026-07-17",
     "category": "Twitter"
   },
   {
     "title": "EEG shows brain can simultaneous encode two speech streams",
     "source": "Hacker News",
-    "description": "HN Score: 212 | 135 comments",
+    "description": "HN Score: 232 | 149 comments",
     "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
-    "score": 212,
+    "score": 232,
     "date": "2026-07-17",
     "category": "AI News"
   },
   {
-    "title": "We will conquer sleep just as we will conquer aging and disease",
+    "title": "Chinese models aren\u2019t that good at cyber attacks versus front end design mainly because of the data that is fed to them If you don\u2019t want crazy cyber ",
     "source": "@EMostaque",
     "description": "",
-    "url": "https://nitter.net/EMostaque/status/2078137205466231179#m",
+    "url": "https://nitter.net/EMostaque/status/2078185159065514264#m",
     "date": "2026-07-17",
     "category": "Twitter"
   },
   {
-    "title": "Claude Code: Anatomy of a Misfeature",
+    "title": "Apple targets dozens of OpenAI employees with legal letters",
     "source": "Hacker News",
-    "description": "HN Score: 103 | 68 comments",
-    "url": "https://www.olafalders.com/2026/07/17/claude-code-anatomy-of-a-misfeature/",
-    "score": 103,
+    "description": "HN Score: 300 | 246 comments",
+    "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
+    "score": 300,
     "date": "2026-07-17",
     "category": "AI News"
   },
@@ -78,9 +78,9 @@
   {
     "title": "VulnHunter: Capital One's agentic AI code security tool",
     "source": "Hacker News",
-    "description": "HN Score: 30 | 19 comments",
+    "description": "HN Score: 44 | 27 comments",
     "url": "https://www.capitalone.com/tech/open-source/announcing-vulnhunter/",
-    "score": 30,
+    "score": 44,
     "date": "2026-07-17",
     "category": "AI News"
   },
@@ -93,11 +93,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: On-chain bond market where the issuers are AI agents",
+    "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
     "source": "Hacker News",
-    "description": "HN Score: 11 | 13 comments",
-    "url": "https://selbonds.now",
-    "score": 11,
+    "description": "HN Score: 371 | 498 comments",
+    "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
+    "score": 371,
+    "date": "2026-07-17",
+    "category": "AI News"
+  },
+  {
+    "title": "The problem with AI video generation right now is the tooling. You can't get too far if you need to do it all by writing prompts. Unfortunately, that'",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2078169107753758816#m",
+    "date": "2026-07-17",
+    "category": "Twitter"
+  },
+  {
+    "title": "Fear of humanoid robots spurs human workers to strike at Hyundai auto factory",
+    "source": "Hacker News",
+    "description": "HN Score: 14 | 1 comments",
+    "url": "https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/",
+    "score": 14,
     "date": "2026-07-17",
     "category": "AI News"
   },
@@ -110,45 +127,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Apple targets dozens of OpenAI employees with legal letters",
-    "source": "Hacker News",
-    "description": "HN Score: 246 | 196 comments",
-    "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
-    "score": 246,
-    "date": "2026-07-17",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: Remember Humane? Remember the Rabbit R1? Remember how Jony Ive and OpenAI have been promising a device for more than a year, and still ",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2077818804705579512#m",
-    "date": "2026-07-17",
-    "category": "Twitter"
-  },
-  {
-    "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
-    "source": "Hacker News",
-    "description": "HN Score: 362 | 479 comments",
-    "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
-    "score": 362,
-    "date": "2026-07-17",
-    "category": "AI News"
-  },
-  {
-    "title": "Hype cycles are starting to last a day instead of a week Everyone was hyping Sol 3 days ago, Inkling a day ago, now it's Kimi K3 - Monday - Opus 5 - W",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2078162943683019131#m",
-    "date": "2026-07-17",
-    "category": "Twitter"
-  },
-  {
     "title": "LM Studio Bionic: the AI agent for open models",
     "source": "Hacker News",
-    "description": "HN Score: 311 | 111 comments",
+    "description": "HN Score: 314 | 115 comments",
     "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
-    "score": 311,
+    "score": 314,
+    "date": "2026-07-17",
+    "category": "AI News"
+  },
+  {
+    "title": "After a week, we have successfully launched - GPT 5.6 sol for design. better than Opus - Grok 4.5 to replace Haiku workloads Super happy to see other ",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2078190370555564146#m",
+    "date": "2026-07-17",
+    "category": "Twitter"
+  },
+  {
+    "title": "Claude Code: Anatomy of a Misfeature",
+    "source": "Hacker News",
+    "description": "HN Score: 123 | 100 comments",
+    "url": "https://www.olafalders.com/2026/07/17/claude-code-anatomy-of-a-misfeature/",
+    "score": 123,
     "date": "2026-07-17",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Detecting LLM-Generated Texts with \u201cClassical\u201d Machine Learning",
+    "title": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10B Deal",
     "source": "Hacker News",
-    "description": "HN Score: 229 | 170 comments",
-    "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
-    "score": 229,
+    "description": "HN Score: 14 | 0 comments",
+    "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html",
+    "score": 14,
     "date": "2026-07-17",
     "category": "AI News"
   }
