@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "In-toto: A framework to secure the integrity of software supply chains",
+    "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
     "source": "Hacker News",
-    "description": "HN Score: 37 | 1 comments",
-    "url": "https://in-toto.io/",
-    "score": 37,
+    "description": "HN Score: 11 | 0 comments",
+    "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+    "score": 11,
     "date": "2026-07-18",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Painting the sides of railroad rails white to reduce derailment",
+    "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
     "source": "Hacker News",
-    "description": "HN Score: 106 | 55 comments",
-    "url": "https://www.up.com/news/safety/Tracking-Rail-Heat-260608",
-    "score": 106,
+    "description": "HN Score: 43 | 18 comments",
+    "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
+    "score": 43,
     "date": "2026-07-18",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "The state of open source AI",
+    "title": "What AI did to stackoverflow in a graph",
     "source": "Hacker News",
-    "description": "HN Score: 453 | 325 comments",
-    "url": "https://stateofopensource.ai/",
-    "score": 453,
+    "description": "HN Score: 101 | 117 comments",
+    "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
+    "score": 101,
     "date": "2026-07-18",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
+    "title": "In-toto: A framework to secure the integrity of software supply chains",
     "source": "Hacker News",
-    "description": "HN Score: 514 | 340 comments",
-    "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
-    "score": 514,
+    "description": "HN Score: 48 | 7 comments",
+    "url": "https://in-toto.io/",
+    "score": 48,
     "date": "2026-07-18",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again",
+    "title": "Why do AI company logos look like buttholes? (2025)",
     "source": "Hacker News",
-    "description": "HN Score: 176 | 98 comments",
-    "url": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html",
-    "score": 176,
+    "description": "HN Score: 285 | 87 comments",
+    "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
+    "score": 285,
     "date": "2026-07-18",
     "category": "AI News"
   },
@@ -93,38 +93,64 @@
     "category": "Twitter"
   },
   {
+    "title": "Painting the sides of railroad rails white to reduce derailment",
+    "source": "Hacker News",
+    "description": "HN Score: 119 | 68 comments",
+    "url": "https://www.up.com/news/safety/Tracking-Rail-Heat-260608",
+    "score": 119,
+    "date": "2026-07-18",
+    "category": "AI News"
+  },
+  {
+    "title": "R to @svpino: Here is the 30-day update:",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2078461043576312025#m",
+    "date": "2026-07-18",
+    "category": "Twitter"
+  },
+  {
+    "title": "The state of open source AI",
+    "source": "Hacker News",
+    "description": "HN Score: 460 | 337 comments",
+    "url": "https://stateofopensource.ai/",
+    "score": 460,
+    "date": "2026-07-18",
+    "category": "AI News"
+  },
+  {
+    "title": "It's been 60 days since I started using Linux full time and stopped using a Mac. I want to go back. Overall, I've been pleasantly surprised by the Fra",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2078461031467377081#m",
+    "date": "2026-07-18",
+    "category": "Twitter"
+  },
+  {
+    "title": "Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
+    "source": "Hacker News",
+    "description": "HN Score: 525 | 349 comments",
+    "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+    "score": 525,
+    "date": "2026-07-18",
+    "category": "AI News"
+  },
+  {
+    "title": "Finally got GPT 5.6 SOL to behave \ud83d\ude02 It can easily spin out of control But once you can stop it, it\u2019s both cheaper and higher quality than Opus 4.8 Ant",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2078463485680505119#m",
+    "date": "2026-07-18",
+    "category": "Twitter"
+  },
+  {
     "title": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
     "source": "Hacker News",
-    "description": "HN Score: 95 | 6 comments",
+    "description": "HN Score: 97 | 6 comments",
     "url": "https://blog.zksecurity.xyz/posts/openvm-bugs/",
-    "score": 95,
+    "score": 97,
     "date": "2026-07-18",
     "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: The problem with AI video generation right now is the tooling. You can't get too far if you need to do it all by writing prompts. Unfor",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2078169107753758816#m",
-    "date": "2026-07-18",
-    "category": "Twitter"
-  },
-  {
-    "title": "Claude Code(Fable) refused my slow down instruction",
-    "source": "Hacker News",
-    "description": "HN Score: 23 | 9 comments",
-    "url": "https://qusaisuwan.github.io/cc-incident/index.html",
-    "score": 23,
-    "date": "2026-07-18",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: These guys trained a robot with water bottles, and the robot learned to pick up other objects it had never practiced on. They did this ",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2078120063463473524#m",
-    "date": "2026-07-18",
-    "category": "Twitter"
   },
   {
     "title": "\ud83d\udea8 Mix and Match Kimi K3 With Sol and Fable on ChatLLM Auto-route to the best model based on prompt simple-coding - Grok 4.5 medium-agentic - Kimi K3 v",
@@ -135,11 +161,12 @@
     "category": "Twitter"
   },
   {
-    "title": "Replace all our Sonnet workloads with Kimi K3 Billions are still being spent on Sonnet K3 is 50% cheaper and 2x more performant than Sonnet 4+",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2078321999928324398#m",
+    "title": "FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again",
+    "source": "Hacker News",
+    "description": "HN Score: 182 | 109 comments",
+    "url": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html",
+    "score": 182,
     "date": "2026-07-18",
-    "category": "Twitter"
+    "category": "AI News"
   }
 ]
