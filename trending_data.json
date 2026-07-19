@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Claude Code uses Bun written in Rust now",
+    "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
     "source": "Hacker News",
-    "description": "HN Score: 61 | 35 comments",
-    "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
-    "score": 61,
+    "description": "HN Score: 79 | 34 comments",
+    "url": "https://github.com/openai/codex/pull/33972/files",
+    "score": 79,
     "date": "2026-07-19",
     "category": "AI News"
   },
@@ -25,28 +25,45 @@
     "category": "Twitter"
   },
   {
-    "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
+    "title": "NYC may require landlords and realtors to disclose the use of AI in listings",
     "source": "Hacker News",
-    "description": "HN Score: 23 | 4 comments",
-    "url": "https://github.com/openai/codex/pull/33972/files",
-    "score": 23,
+    "description": "HN Score: 508 | 221 comments",
+    "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+    "score": 508,
     "date": "2026-07-19",
     "category": "AI News"
   },
   {
-    "title": "RT by @EMostaque: \u201cI\u2019m not going to watch England vs France it\u2019s a nothing game\u201d England vs France:",
+    "title": "I am pretty sure the open weight release of stable diffusion was accelerationist & led to huge capex As to whether it was AI communism eh",
     "source": "@EMostaque",
     "description": "",
-    "url": "https://nitter.net/TomP1Bellingham/status/2078616657564508576#m",
+    "url": "https://nitter.net/EMostaque/status/2078812674868023419#m",
     "date": "2026-07-19",
     "category": "Twitter"
   },
   {
-    "title": "Perforce charges $500 for training training videos.. and it's AI narrated",
+    "title": "AI Mania Is Eviscerating Global Decision-Making",
     "source": "Hacker News",
-    "description": "HN Score: 36 | 52 comments",
-    "url": "https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic",
-    "score": 36,
+    "description": "HN Score: 285 | 128 comments",
+    "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
+    "score": 285,
+    "date": "2026-07-19",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: Trial lawyers are lobbying against self-driving cars because they're too safe. They need people to be killed and injured so that the",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/paulg/status/2078807311263392182#m",
+    "date": "2026-07-19",
+    "category": "Twitter"
+  },
+  {
+    "title": "Claude Code uses Bun written in Rust now",
+    "source": "Hacker News",
+    "description": "HN Score: 130 | 168 comments",
+    "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+    "score": 130,
     "date": "2026-07-19",
     "category": "AI News"
   },
@@ -59,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "NYC may require landlords and realtors to disclose the use of AI in listings",
+    "title": "Ollama: All Aboard Open Models",
     "source": "Hacker News",
-    "description": "HN Score: 483 | 212 comments",
-    "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
-    "score": 483,
+    "description": "HN Score: 18 | 3 comments",
+    "url": "https://ollama.com/blog/all-aboard-open-models",
+    "score": 18,
     "date": "2026-07-19",
     "category": "AI News"
   },
@@ -76,28 +93,28 @@
     "category": "Twitter"
   },
   {
-    "title": "AI Mania Is Eviscerating Global Decision-Making",
+    "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
     "source": "Hacker News",
-    "description": "HN Score: 233 | 84 comments",
-    "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
-    "score": 233,
+    "description": "HN Score: 572 | 369 comments",
+    "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+    "score": 572,
     "date": "2026-07-19",
     "category": "AI News"
   },
   {
-    "title": "RT by @svpino: It's been 60 days since I started using Linux full time and stopped using a Mac. I want to go back. Overall, I've been pleasantly surpr",
+    "title": "I just met a developer. I started talking about graphs and he looked at me with dead eyes. Poor bastard still thinks that loops are relevant. He ain\u2019t",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2078461031467377081#m",
+    "url": "https://nitter.net/svpino/status/2078817261851193355#m",
     "date": "2026-07-19",
     "category": "Twitter"
   },
   {
-    "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+    "title": "What's the deal with all the random weekly quota resets for agents lately?",
     "source": "Hacker News",
-    "description": "HN Score: 567 | 364 comments",
-    "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
-    "score": 567,
+    "description": "HN Score: 59 | 67 comments",
+    "url": "https://minimaxir.com/2026/07/agent-quota-reset/",
+    "score": 59,
     "date": "2026-07-19",
     "category": "AI News"
   },
@@ -110,11 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "What's the deal with all the random weekly quota resets for agents lately?",
+    "title": "IceCream \u2013 Never use print() to debug again",
     "source": "Hacker News",
-    "description": "HN Score: 55 | 62 comments",
-    "url": "https://minimaxir.com/2026/07/agent-quota-reset/",
-    "score": 55,
+    "description": "HN Score: 26 | 8 comments",
+    "url": "https://github.com/gruns/icecream",
+    "score": 26,
     "date": "2026-07-19",
     "category": "AI News"
   },
@@ -127,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Ollama: All Aboard Open Models",
+    "title": "Show HN: LoopGain \u2013 Stop agent loops with control theory, not max_iterations",
     "source": "Hacker News",
-    "description": "HN Score: 5 | 2 comments",
-    "url": "https://ollama.com/blog/all-aboard-open-models",
-    "score": 5,
+    "description": "HN Score: 15 | 8 comments",
+    "url": "https://github.com/loopgain-ai/loopgain",
+    "score": 15,
     "date": "2026-07-19",
     "category": "AI News"
   },
@@ -142,23 +159,5 @@
     "url": "https://nitter.net/bindureddy/status/2078624031880966406#m",
     "date": "2026-07-19",
     "category": "Twitter"
-  },
-  {
-    "title": "IceCream \u2013 Never use print() to debug again",
-    "source": "Hacker News",
-    "description": "HN Score: 23 | 6 comments",
-    "url": "https://github.com/gruns/icecream",
-    "score": 23,
-    "date": "2026-07-19",
-    "category": "AI News"
-  },
-  {
-    "title": "Show HN: PilotCite \u2013 Get your brand cited by ChatGPT, Gemini, and more",
-    "source": "Hacker News",
-    "description": "HN Score: 4 | 0 comments",
-    "url": "https://www.pilotcite.com",
-    "score": 4,
-    "date": "2026-07-19",
-    "category": "AI News"
   }
 ]
