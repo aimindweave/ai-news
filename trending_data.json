@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "DRIVE \u2013 Operational Excellence for AI-accelerated engineering",
+    "title": "Claude Code uses Bun written in Rust now",
     "source": "Hacker News",
-    "description": "HN Score: 11 | 3 comments",
-    "url": "https://www.cortex.io/drive",
-    "score": 11,
+    "description": "HN Score: 204 | 299 comments",
+    "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+    "score": 204,
     "date": "2026-07-19",
     "category": "AI News"
   },
@@ -27,9 +27,26 @@
   {
     "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
     "source": "Hacker News",
-    "description": "HN Score: 120 | 49 comments",
+    "description": "HN Score: 177 | 88 comments",
     "url": "https://github.com/openai/codex/pull/33972/files",
-    "score": 120,
+    "score": 177,
+    "date": "2026-07-19",
+    "category": "AI News"
+  },
+  {
+    "title": "K3 and other open source models are obviously insanely bullish for compute and RAM. Inference was always going to be almost all high performance compu",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/EMostaque/status/2078870148039995880#m",
+    "date": "2026-07-19",
+    "category": "Twitter"
+  },
+  {
+    "title": "Clever hacker fits 537,000 domains in a $5 ESP32 ad-blocking dongle",
+    "source": "Hacker News",
+    "description": "HN Score: 38 | 13 comments",
+    "url": "https://www.tomshardware.com/networking/clever-hacker-fits-537-000-domains-in-a-tiny-usd5-esp32-ad-blocking-dongle-firmware-uses-only-around-50kb-of-ram-and-can-answer-blocked-lookups-in-10-milliseconds",
+    "score": 38,
     "date": "2026-07-19",
     "category": "AI News"
   },
@@ -44,26 +61,9 @@
   {
     "title": "Ollama: All Aboard Open Models",
     "source": "Hacker News",
-    "description": "HN Score: 24 | 6 comments",
+    "description": "HN Score: 46 | 23 comments",
     "url": "https://ollama.com/blog/all-aboard-open-models",
-    "score": 24,
-    "date": "2026-07-19",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @EMostaque: Trial lawyers are lobbying against self-driving cars because they're too safe. They need people to be killed and injured so that the",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/paulg/status/2078807311263392182#m",
-    "date": "2026-07-19",
-    "category": "Twitter"
-  },
-  {
-    "title": "NYC may require landlords and realtors to disclose the use of AI in listings",
-    "source": "Hacker News",
-    "description": "HN Score: 535 | 232 comments",
-    "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
-    "score": 535,
+    "score": 46,
     "date": "2026-07-19",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Anthropic runs large-scale code migrations with Claude Code",
+    "title": "NYC may require landlords and realtors to disclose the use of AI in listings",
     "source": "Hacker News",
-    "description": "HN Score: 7 | 1 comments",
-    "url": "https://claude.com/blog/ai-code-migration",
-    "score": 7,
+    "description": "HN Score: 551 | 242 comments",
+    "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+    "score": 551,
     "date": "2026-07-19",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "AI Mania Is Eviscerating Global Decision-Making",
+    "title": "Anthropic runs large-scale code migrations with Claude Code",
     "source": "Hacker News",
-    "description": "HN Score: 310 | 155 comments",
-    "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
-    "score": 310,
+    "description": "HN Score: 10 | 5 comments",
+    "url": "https://claude.com/blog/ai-code-migration",
+    "score": 10,
     "date": "2026-07-19",
     "category": "AI News"
   },
@@ -110,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+    "title": "What's the deal with all the random weekly quota resets for agents lately?",
     "source": "Hacker News",
-    "description": "HN Score: 574 | 370 comments",
-    "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
-    "score": 574,
+    "description": "HN Score: 69 | 74 comments",
+    "url": "https://minimaxir.com/2026/07/agent-quota-reset/",
+    "score": 69,
     "date": "2026-07-19",
     "category": "AI News"
   },
@@ -127,11 +127,28 @@
     "category": "Twitter"
   },
   {
-    "title": "What's the deal with all the random weekly quota resets for agents lately?",
+    "title": "AI Mania Is Eviscerating Global Decision-Making",
     "source": "Hacker News",
-    "description": "HN Score: 63 | 67 comments",
-    "url": "https://minimaxir.com/2026/07/agent-quota-reset/",
-    "score": 63,
+    "description": "HN Score: 335 | 179 comments",
+    "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
+    "score": 335,
+    "date": "2026-07-19",
+    "category": "AI News"
+  },
+  {
+    "title": "Prediction - OpenAI and Anthropic are going push hard to ban open source AI \ud83d\udc80 Of course, they will want to monopolize and make the trillions Everyone ",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2078871988228260253#m",
+    "date": "2026-07-19",
+    "category": "Twitter"
+  },
+  {
+    "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+    "source": "Hacker News",
+    "description": "HN Score: 576 | 376 comments",
+    "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+    "score": 576,
     "date": "2026-07-19",
     "category": "AI News"
   },
@@ -144,28 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: LoopGain \u2013 Stop agent loops with control theory, not max_iterations",
+    "title": "IceCream \u2013 Never use print() to debug again",
     "source": "Hacker News",
-    "description": "HN Score: 16 | 9 comments",
-    "url": "https://github.com/loopgain-ai/loopgain",
-    "score": 16,
-    "date": "2026-07-19",
-    "category": "AI News"
-  },
-  {
-    "title": "AI is building AI and we will see new models every month Opus 5 GPT 6 Grok 4.6 Gemini 3.5 GLM Deepseek Fable 5.1 In the next few weeks\u2026",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2078624031880966406#m",
-    "date": "2026-07-19",
-    "category": "Twitter"
-  },
-  {
-    "title": "Clever hacker fits 537,000 domains in a $5 ESP32 ad-blocking dongle",
-    "source": "Hacker News",
-    "description": "HN Score: 5 | 0 comments",
-    "url": "https://www.tomshardware.com/networking/clever-hacker-fits-537-000-domains-in-a-tiny-usd5-esp32-ad-blocking-dongle-firmware-uses-only-around-50kb-of-ram-and-can-answer-blocked-lookups-in-10-milliseconds",
-    "score": 5,
+    "description": "HN Score: 28 | 10 comments",
+    "url": "https://github.com/gruns/icecream",
+    "score": 28,
     "date": "2026-07-19",
     "category": "AI News"
   }
