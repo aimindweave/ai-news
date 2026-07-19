@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Heavy TV watching associated with smaller brain structures, study finds",
+    "title": "AI advice made people 3x less accurate but 2x confident, researchers found",
     "source": "Hacker News",
-    "description": "HN Score: 33 | 3 comments",
-    "url": "https://dornsife.usc.edu/news/stories/heavy-tv-watching-associated-with-smaller-brain-structures/",
-    "score": 33,
+    "description": "HN Score: 98 | 39 comments",
+    "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+    "score": 98,
     "date": "2026-07-19",
     "category": "AI News"
   },
@@ -27,9 +27,26 @@
   {
     "title": "Claude Code uses Bun written in Rust now",
     "source": "Hacker News",
-    "description": "HN Score: 328 | 434 comments",
+    "description": "HN Score: 359 | 486 comments",
     "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
-    "score": 328,
+    "score": 359,
+    "date": "2026-07-19",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: Mephisto, by Joaqu\u00edn Espalter y Rull, 1872, \ud83d\udcf8 by Dan Mullan",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/ArtButSports/status/2078955244801741065#m",
+    "date": "2026-07-19",
+    "category": "Twitter"
+  },
+  {
+    "title": "Talk: The Art of Braiding Algorithms",
+    "source": "Hacker News",
+    "description": "HN Score: 4 | 0 comments",
+    "url": "https://pgadey.ca/notes/talk-relatorium-2026/",
+    "score": 4,
     "date": "2026-07-19",
     "category": "AI News"
   },
@@ -44,26 +61,9 @@
   {
     "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
     "source": "Hacker News",
-    "description": "HN Score: 261 | 118 comments",
+    "description": "HN Score: 282 | 134 comments",
     "url": "https://github.com/openai/codex/pull/33972/files",
-    "score": 261,
-    "date": "2026-07-19",
-    "category": "AI News"
-  },
-  {
-    "title": "In terms of AI capex worth remembering a US nuclear air craft carrier is $13b US is going to spend more than that easily on AGI dominance, defence spe",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/EMostaque/status/2078893141478846704#m",
-    "date": "2026-07-19",
-    "category": "Twitter"
-  },
-  {
-    "title": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
-    "source": "Hacker News",
-    "description": "HN Score: 127 | 45 comments",
-    "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
-    "score": 127,
+    "score": 282,
     "date": "2026-07-19",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Clever hacker fits 537,000 domains in a $5 ESP32 ad-blocking dongle",
+    "title": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
     "source": "Hacker News",
-    "description": "HN Score: 61 | 23 comments",
-    "url": "https://www.tomshardware.com/networking/clever-hacker-fits-537-000-domains-in-a-tiny-usd5-esp32-ad-blocking-dongle-firmware-uses-only-around-50kb-of-ram-and-can-answer-blocked-lookups-in-10-milliseconds",
-    "score": 61,
+    "description": "HN Score: 172 | 59 comments",
+    "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
+    "score": 172,
     "date": "2026-07-19",
     "category": "AI News"
   },
@@ -91,6 +91,15 @@
     "url": "https://nitter.net/DrJimFan/status/2078150032575082616#m",
     "date": "2026-07-19",
     "category": "Twitter"
+  },
+  {
+    "title": "Heavy TV watching associated with smaller brain structures, study finds",
+    "source": "Hacker News",
+    "description": "HN Score: 82 | 51 comments",
+    "url": "https://dornsife.usc.edu/news/stories/heavy-tv-watching-associated-with-smaller-brain-structures/",
+    "score": 82,
+    "date": "2026-07-19",
+    "category": "AI News"
   },
   {
     "title": "I just met a developer. I started talking about graphs and he looked at me with dead eyes. Poor bastard still thinks that loops are relevant. He ain\u2019t",
