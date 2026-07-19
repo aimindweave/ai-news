@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
+    "title": "DRIVE \u2013 Operational Excellence for AI-accelerated engineering",
     "source": "Hacker News",
-    "description": "HN Score: 79 | 34 comments",
-    "url": "https://github.com/openai/codex/pull/33972/files",
-    "score": 79,
+    "description": "HN Score: 11 | 3 comments",
+    "url": "https://www.cortex.io/drive",
+    "score": 11,
     "date": "2026-07-19",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "NYC may require landlords and realtors to disclose the use of AI in listings",
+    "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
     "source": "Hacker News",
-    "description": "HN Score: 508 | 221 comments",
-    "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
-    "score": 508,
+    "description": "HN Score: 120 | 49 comments",
+    "url": "https://github.com/openai/codex/pull/33972/files",
+    "score": 120,
     "date": "2026-07-19",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "AI Mania Is Eviscerating Global Decision-Making",
+    "title": "Ollama: All Aboard Open Models",
     "source": "Hacker News",
-    "description": "HN Score: 285 | 128 comments",
-    "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
-    "score": 285,
+    "description": "HN Score: 24 | 6 comments",
+    "url": "https://ollama.com/blog/all-aboard-open-models",
+    "score": 24,
     "date": "2026-07-19",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Claude Code uses Bun written in Rust now",
+    "title": "NYC may require landlords and realtors to disclose the use of AI in listings",
     "source": "Hacker News",
-    "description": "HN Score: 130 | 168 comments",
-    "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
-    "score": 130,
+    "description": "HN Score: 535 | 232 comments",
+    "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+    "score": 535,
     "date": "2026-07-19",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Ollama: All Aboard Open Models",
+    "title": "Anthropic runs large-scale code migrations with Claude Code",
     "source": "Hacker News",
-    "description": "HN Score: 18 | 3 comments",
-    "url": "https://ollama.com/blog/all-aboard-open-models",
-    "score": 18,
+    "description": "HN Score: 7 | 1 comments",
+    "url": "https://claude.com/blog/ai-code-migration",
+    "score": 7,
     "date": "2026-07-19",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+    "title": "AI Mania Is Eviscerating Global Decision-Making",
     "source": "Hacker News",
-    "description": "HN Score: 572 | 369 comments",
-    "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
-    "score": 572,
+    "description": "HN Score: 310 | 155 comments",
+    "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
+    "score": 310,
     "date": "2026-07-19",
     "category": "AI News"
   },
@@ -110,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "What's the deal with all the random weekly quota resets for agents lately?",
+    "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
     "source": "Hacker News",
-    "description": "HN Score: 59 | 67 comments",
-    "url": "https://minimaxir.com/2026/07/agent-quota-reset/",
-    "score": 59,
+    "description": "HN Score: 574 | 370 comments",
+    "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+    "score": 574,
     "date": "2026-07-19",
     "category": "AI News"
   },
@@ -127,11 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "IceCream \u2013 Never use print() to debug again",
+    "title": "What's the deal with all the random weekly quota resets for agents lately?",
     "source": "Hacker News",
-    "description": "HN Score: 26 | 8 comments",
-    "url": "https://github.com/gruns/icecream",
-    "score": 26,
+    "description": "HN Score: 63 | 67 comments",
+    "url": "https://minimaxir.com/2026/07/agent-quota-reset/",
+    "score": 63,
     "date": "2026-07-19",
     "category": "AI News"
   },
@@ -146,9 +146,9 @@
   {
     "title": "Show HN: LoopGain \u2013 Stop agent loops with control theory, not max_iterations",
     "source": "Hacker News",
-    "description": "HN Score: 15 | 8 comments",
+    "description": "HN Score: 16 | 9 comments",
     "url": "https://github.com/loopgain-ai/loopgain",
-    "score": 15,
+    "score": 16,
     "date": "2026-07-19",
     "category": "AI News"
   },
@@ -159,5 +159,14 @@
     "url": "https://nitter.net/bindureddy/status/2078624031880966406#m",
     "date": "2026-07-19",
     "category": "Twitter"
+  },
+  {
+    "title": "Clever hacker fits 537,000 domains in a $5 ESP32 ad-blocking dongle",
+    "source": "Hacker News",
+    "description": "HN Score: 5 | 0 comments",
+    "url": "https://www.tomshardware.com/networking/clever-hacker-fits-537-000-domains-in-a-tiny-usd5-esp32-ad-blocking-dongle-firmware-uses-only-around-50kb-of-ram-and-can-answer-blocked-lookups-in-10-milliseconds",
+    "score": 5,
+    "date": "2026-07-19",
+    "category": "AI News"
   }
 ]
