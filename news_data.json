@@ -1,8 +1,22 @@
 [
   {
+    "title": "Trump\u2019s latest AI czar has already resigned",
+    "source": "TechCrunch",
+    "summary": "The director role for the Center for AI Standards and Innovation (CAISI) has become a revolving door since David Sacks left his position as czar.",
+    "url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
+    "date": "2026-07-20"
+  },
+  {
+    "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+    "source": "TechCrunch",
+    "summary": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently.",
+    "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+    "date": "2026-07-20"
+  },
+  {
     "title": "AI\u2019s most important protocol is getting a little bit easier to use",
     "source": "TechCrunch",
-    "summary": "The Model Context Protocol (MCP) is one of the basic building blocks of AI interoperability, giving AI models a secure way to access external data sources and services. It s the plumbing that lets a chatbot reach into your calendar, your database, or your internal tools, instead of engineers buil...",
+    "summary": "Under the new system, the protocol will take a looser, 'stateless' approach to session IDs on the server side, similar to how most ordinary websites already work.",
     "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
     "date": "2026-07-20"
   },
@@ -88,20 +102,6 @@
     "source": "TechCrunch",
     "summary": "Databricks has remade its image into an AI company and has published research on the cost savings of open-weight AI models for coding.",
     "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
-    "date": "2026-07-20"
-  },
-  {
-    "title": "The Zoom hack that says, \u2018Don\u2019t record me\u2019",
-    "source": "TechCrunch",
-    "summary": "If every meeting, watercooler conversation, and date gets transcribed and summarized, who's actually reading any of it?",
-    "url": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
-    "date": "2026-07-20"
-  },
-  {
-    "title": "Agility Robotics plants its flag in Tesla\u2019s backyard",
-    "source": "TechCrunch",
-    "summary": "Agility is opening a new training center for its Digit robots in Fremont, California.",
-    "url": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
     "date": "2026-07-20"
   },
   {
@@ -245,6 +245,13 @@
     "date": "2026-07-20"
   },
   {
+    "title": "Firefighting drones in the works as wildfires plague US nearly year-round",
+    "source": "Ars Technica",
+    "summary": "California and XPRIZE competition tests whether drones can stop wildfires early.",
+    "url": "https://arstechnica.com/ai/2026/07/firefighting-drones-in-the-works-as-wildfires-plague-us-nearly-year-round/",
+    "date": "2026-07-20"
+  },
+  {
     "title": "Beyond grep: The case for a context-rich AI coding harness",
     "source": "Ars Technica",
     "summary": "Augment Code's Vinay Perneti talks models, harnesses, and context.",
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "New York\u2019s data center moratorium may become the blueprint for anti-AI movement.",
     "url": "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/",
-    "date": "2026-07-20"
-  },
-  {
-    "title": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
-    "source": "Ars Technica",
-    "summary": "OpenAI accused of conspiring with former Apple employees to steal trade secrets.",
-    "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
     "date": "2026-07-20"
   }
 ]

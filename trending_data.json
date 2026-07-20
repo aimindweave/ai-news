@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "China's open-weights AI strategy is winning",
+    "title": "China\u2019s open-weights AI strategy is winning",
     "source": "Hacker News",
-    "description": "HN Score: 733 | 612 comments",
+    "description": "HN Score: 868 | 706 comments",
     "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
-    "score": 733,
+    "score": 868,
     "date": "2026-07-20",
     "category": "AI News"
   },
@@ -25,28 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Nativ: Run frontier open models locally on your Mac",
+    "title": "Who's Afraid of Chinese Models?",
     "source": "Hacker News",
-    "description": "HN Score: 89 | 35 comments",
-    "url": "https://blaizzy.github.io/nativ/",
-    "score": 89,
-    "date": "2026-07-20",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @EMostaque: OpenAI had to pause internal deployment of the unreleased model that disproved the Erd\u0151s unit distance conjecture after it repeatedl",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/AndrewCurran_/status/2079253388211183970#m",
-    "date": "2026-07-20",
-    "category": "Twitter"
-  },
-  {
-    "title": "How we measured AI writing across arXiv, and where the measurement breaks",
-    "source": "Hacker News",
-    "description": "HN Score: 172 | 127 comments",
-    "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
-    "score": 172,
+    "description": "HN Score: 68 | 58 comments",
+    "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+    "score": 68,
     "date": "2026-07-20",
     "category": "AI News"
   },
@@ -59,11 +42,28 @@
     "category": "Twitter"
   },
   {
+    "title": "Nativ: Run frontier open models locally on your Mac",
+    "source": "Hacker News",
+    "description": "HN Score: 131 | 53 comments",
+    "url": "https://blaizzy.github.io/nativ/",
+    "score": 131,
+    "date": "2026-07-20",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: for those like me who need a @3blue1brown video to understand what this means say thanks to fable",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/OccupyingM/status/2079201782253994235#m",
+    "date": "2026-07-20",
+    "category": "Twitter"
+  },
+  {
     "title": "Airport Simulator",
     "source": "Hacker News",
-    "description": "HN Score: 581 | 118 comments",
+    "description": "HN Score: 645 | 128 comments",
     "url": "https://airport.apunen.com/",
-    "score": 581,
+    "score": 645,
     "date": "2026-07-20",
     "category": "AI News"
   },
@@ -78,9 +78,9 @@
   {
     "title": "Agent swarms and the new model economics",
     "source": "Hacker News",
-    "description": "HN Score: 55 | 23 comments",
+    "description": "HN Score: 84 | 37 comments",
     "url": "https://cursor.com/blog/agent-swarm-model-economics",
-    "score": 55,
+    "score": 84,
     "date": "2026-07-20",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Launch HN: Bloomy (YC S26) \u2013 AI-powered mastery learning for K-12",
+    "title": "How we measured AI writing across arXiv, and where the measurement breaks",
     "source": "Hacker News",
-    "description": "HN Score: 42 | 68 comments",
-    "url": "https://news.ycombinator.com/item?id=48981136",
-    "score": 42,
+    "description": "HN Score: 183 | 132 comments",
+    "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+    "score": 183,
     "date": "2026-07-20",
     "category": "AI News"
   },
@@ -110,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",
+    "title": "You only need the frontier model for one single edit",
     "source": "Hacker News",
-    "description": "HN Score: 229 | 237 comments",
-    "url": "https://www.emergingtrajectories.com/lh/frontier-lab-economics/",
-    "score": 229,
+    "description": "HN Score: 46 | 5 comments",
+    "url": "https://stencil.so/blog/prewalk",
+    "score": 46,
     "date": "2026-07-20",
     "category": "AI News"
   },
@@ -127,11 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "You only need the frontier model for one single edit",
+    "title": "Launch HN: Bloomy (YC S26) \u2013 AI-powered mastery learning for K-12",
     "source": "Hacker News",
-    "description": "HN Score: 8 | 0 comments",
-    "url": "https://stencil.so/blog/prewalk",
-    "score": 8,
+    "description": "HN Score: 53 | 73 comments",
+    "url": "https://news.ycombinator.com/item?id=48981136",
+    "score": 53,
     "date": "2026-07-20",
     "category": "AI News"
   },
@@ -146,9 +146,9 @@
   {
     "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
     "source": "Hacker News",
-    "description": "HN Score: 361 | 204 comments",
+    "description": "HN Score: 375 | 207 comments",
     "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
-    "score": 361,
+    "score": 375,
     "date": "2026-07-20",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Safety and alignment in an era of long-horizon models",
+    "title": "Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",
     "source": "Hacker News",
-    "description": "HN Score: 16 | 3 comments",
-    "url": "https://openai.com/index/safety-alignment-long-horizon-models/",
-    "score": 16,
+    "description": "HN Score: 259 | 260 comments",
+    "url": "https://www.emergingtrajectories.com/lh/frontier-lab-economics/",
+    "score": 259,
     "date": "2026-07-20",
     "category": "AI News"
   }
