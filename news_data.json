@@ -9,7 +9,7 @@
   {
     "title": "Can an Apple lawsuit derail OpenAI\u2019s hardware plans?",
     "source": "TechCrunch",
-    "summary": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public.",
+    "summary": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast a shadow over OpenAi's much-discussed plans to get into hardware and go public.",
     "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
     "date": "2026-07-20"
   },
@@ -23,7 +23,7 @@
   {
     "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
     "source": "TechCrunch",
-    "summary": "Current AI, a non-profit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat and more.",
+    "summary": "Current AI, a nonprofit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat, and more.",
     "url": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
     "date": "2026-07-20"
   },
@@ -105,6 +105,13 @@
     "date": "2026-07-20"
   },
   {
+    "title": "The Download: AI hiring biases, and weather data sabotage",
+    "source": "MIT Tech Review",
+    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. AI is more likely than humans to form biases when hiring The next time you apply for a job, AI may screen your r\u00e9sum\u00e9 before any human sees it. But there\u2019s",
+    "url": "https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/",
+    "date": "2026-07-20"
+  },
+  {
     "title": "AI is more likely than humans to form biases when hiring",
     "source": "MIT Tech Review",
     "summary": "The next time you apply for a job, AI may screen your r\u00e9sum\u00e9 before any human sees it. But there\u2019s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up human biases from their training data. New research suggests that LLMs can also develop their own...",
@@ -165,13 +172,6 @@
     "source": "MIT Tech Review",
     "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. What Anthropic\u2019s latest AI discovery does\u2014and doesn\u2019t\u2014show \u2014James O Donnell When Anthropic announced last week that it had found a new window into its models\u2019 ...",
     "url": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
-    "date": "2026-07-20"
-  },
-  {
-    "title": "PsiQuantum has a plan to make a massive quantum computer out of light",
-    "source": "MIT Tech Review",
-    "summary": "The machine that could change the world will be housed in a room that looks like a data center crossed with an ice cream factory. Inside will be some 100 stainless-steel cabinets, each about six feet tall and connected to a supply of liquid helium that keeps them only a few degrees above absolute...",
-    "url": "https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/",
     "date": "2026-07-20"
   },
   {
@@ -242,6 +242,13 @@
     "source": "Wired",
     "summary": "Inkling, a 975-billion-parameter open source model, was trained to understand video and audio. It could help Thinking Machines establish itself among competitors like Anthropic and OpenAI.",
     "url": "https://www.wired.com/story/thinking-machines-lab-releases-its-first-model-inkling/",
+    "date": "2026-07-20"
+  },
+  {
+    "title": "Beyond grep: The case for a context-rich AI coding harness",
+    "source": "Ars Technica",
+    "summary": "Augment Code's Vinay Perneti talks models, harnesses, and context.",
+    "url": "https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/",
     "date": "2026-07-20"
   },
   {
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "OpenAI accused of conspiring with former Apple employees to steal trade secrets.",
     "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
-    "date": "2026-07-20"
-  },
-  {
-    "title": "Now, defenders are embracing the prompt injection, too",
-    "source": "Ars Technica",
-    "summary": "'Context bombing' tricks hacking agents into shutting down before they can do harm.",
-    "url": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
     "date": "2026-07-20"
   }
 ]
