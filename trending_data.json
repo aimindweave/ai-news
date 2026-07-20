@@ -10,9 +10,9 @@
   {
     "title": "China's open-weights AI strategy is winning",
     "source": "Hacker News",
-    "description": "HN Score: 361 | 307 comments",
+    "description": "HN Score: 733 | 612 comments",
     "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
-    "score": 361,
+    "score": 733,
     "date": "2026-07-20",
     "category": "AI News"
   },
@@ -25,45 +25,45 @@
     "category": "Twitter"
   },
   {
-    "title": "Over 30% of new ArXiv submissions now read as AI-written",
+    "title": "Nativ: Run frontier open models locally on your Mac",
     "source": "Hacker News",
-    "description": "HN Score: 85 | 60 comments",
-    "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
-    "score": 85,
+    "description": "HN Score: 89 | 35 comments",
+    "url": "https://blaizzy.github.io/nativ/",
+    "score": 89,
     "date": "2026-07-20",
     "category": "AI News"
   },
   {
-    "title": "RT by @EMostaque: America is building multi-billion dollar AI paywalls. China is releasing powerful models to everyone for free. One strategy sells su",
+    "title": "RT by @EMostaque: OpenAI had to pause internal deployment of the unreleased model that disproved the Erd\u0151s unit distance conjecture after it repeatedl",
     "source": "@EMostaque",
     "description": "",
-    "url": "https://nitter.net/ii_posts/status/2079232562367467980#m",
+    "url": "https://nitter.net/AndrewCurran_/status/2079253388211183970#m",
+    "date": "2026-07-20",
+    "category": "Twitter"
+  },
+  {
+    "title": "How we measured AI writing across arXiv, and where the measurement breaks",
+    "source": "Hacker News",
+    "description": "HN Score: 172 | 127 comments",
+    "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+    "score": 172,
+    "date": "2026-07-20",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: Congrats to Levent for discovering this! OOC I had an internal version of Codex attempt a proof too (without web search), and it dis",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/aaron_lou/status/2079218392452530249#m",
     "date": "2026-07-20",
     "category": "Twitter"
   },
   {
     "title": "Airport Simulator",
     "source": "Hacker News",
-    "description": "HN Score: 456 | 102 comments",
+    "description": "HN Score: 581 | 118 comments",
     "url": "https://airport.apunen.com/",
-    "score": 456,
-    "date": "2026-07-20",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @EMostaque: This is quite a remarkable result: Posed in 1939, the Jacobian conjecture is one of the central open problems in algebraic geometry,",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/jdlichtman/status/2079066717762863249#m",
-    "date": "2026-07-20",
-    "category": "Twitter"
-  },
-  {
-    "title": "Launch HN: Bloomy (YC S26) \u2013 AI-powered mastery learning for K-12",
-    "source": "Hacker News",
-    "description": "HN Score: 18 | 36 comments",
-    "url": "https://news.ycombinator.com/item?id=48981136",
-    "score": 18,
+    "score": 581,
     "date": "2026-07-20",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",
+    "title": "Agent swarms and the new model economics",
     "source": "Hacker News",
-    "description": "HN Score: 162 | 158 comments",
-    "url": "https://www.emergingtrajectories.com/lh/frontier-lab-economics/",
-    "score": 162,
+    "description": "HN Score: 55 | 23 comments",
+    "url": "https://cursor.com/blog/agent-swarm-model-economics",
+    "score": 55,
     "date": "2026-07-20",
     "category": "AI News"
   },
@@ -93,45 +93,62 @@
     "category": "Twitter"
   },
   {
+    "title": "Launch HN: Bloomy (YC S26) \u2013 AI-powered mastery learning for K-12",
+    "source": "Hacker News",
+    "description": "HN Score: 42 | 68 comments",
+    "url": "https://news.ycombinator.com/item?id=48981136",
+    "score": 42,
+    "date": "2026-07-20",
+    "category": "AI News"
+  },
+  {
+    "title": "R to @svpino: You can check out Runpod here: https://fandf.co/4wPNBkZ Thanks to the Runpod team for partnering with me on this post.",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2079276919200333965#m",
+    "date": "2026-07-20",
+    "category": "Twitter"
+  },
+  {
+    "title": "Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",
+    "source": "Hacker News",
+    "description": "HN Score: 229 | 237 comments",
+    "url": "https://www.emergingtrajectories.com/lh/frontier-lab-economics/",
+    "score": 229,
+    "date": "2026-07-20",
+    "category": "AI News"
+  },
+  {
+    "title": "Serveless, but for models, is here! I stopped renting servers 12 years ago. I mostly moved everything to serverless functions. It's taken a long time ",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2079276907183702436#m",
+    "date": "2026-07-20",
+    "category": "Twitter"
+  },
+  {
+    "title": "You only need the frontier model for one single edit",
+    "source": "Hacker News",
+    "description": "HN Score: 8 | 0 comments",
+    "url": "https://stencil.so/blog/prewalk",
+    "score": 8,
+    "date": "2026-07-20",
+    "category": "AI News"
+  },
+  {
+    "title": "\ud83d\udea8Fable 5 + Right Infrastructure - Can Literally Build Anything Try the Fable 5 + Abacus AI Supercomputer to build anything - Your own YouTube - Voice ",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2079284255465906255#m",
+    "date": "2026-07-20",
+    "category": "Twitter"
+  },
+  {
     "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
     "source": "Hacker News",
-    "description": "HN Score: 337 | 181 comments",
+    "description": "HN Score: 361 | 204 comments",
     "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
-    "score": 337,
-    "date": "2026-07-20",
-    "category": "AI News"
-  },
-  {
-    "title": "R to @svpino: A few things that make Matrix a really cool idea: 1. You get an unlimited number of agents 2. These agents can code and run continuously",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2079231186120179889#m",
-    "date": "2026-07-20",
-    "category": "Twitter"
-  },
-  {
-    "title": "Controlling Reasoning Effort in LLMs",
-    "source": "Hacker News",
-    "description": "HN Score: 25 | 0 comments",
-    "url": "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
-    "score": 25,
-    "date": "2026-07-20",
-    "category": "AI News"
-  },
-  {
-    "title": "These guys built a platform to build agentic companies from scratch. You get multiple departments and a CEO. They all organize the tasks around object",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2079231173893796295#m",
-    "date": "2026-07-20",
-    "category": "Twitter"
-  },
-  {
-    "title": "Inertia-1: An Open Exploration to a Unified Motion Foundation Model",
-    "source": "Hacker News",
-    "description": "HN Score: 38 | 1 comments",
-    "url": "https://yang-ai-lab.github.io/Inertia-1/",
-    "score": 38,
+    "score": 361,
     "date": "2026-07-20",
     "category": "AI News"
   },
@@ -144,28 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Soofi \u2013 Sovereign Open Source Foundation Models",
+    "title": "Safety and alignment in an era of long-horizon models",
     "source": "Hacker News",
-    "description": "HN Score: 32 | 11 comments",
-    "url": "https://www.soofi.info/",
-    "score": 32,
-    "date": "2026-07-20",
-    "category": "AI News"
-  },
-  {
-    "title": "Wow - woke up to some really bad news The nightmare scenario is coming true - the US may ban open source models Europe and China will dominate the glo",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2079217040880279691#m",
-    "date": "2026-07-20",
-    "category": "Twitter"
-  },
-  {
-    "title": "Sealed tomb filled with paintings and inscriptions discovered in Egypt",
-    "source": "Hacker News",
-    "description": "HN Score: 114 | 78 comments",
-    "url": "https://www.labrujulaverde.com/en/2026/07/sealed-tomb-of-a-high-official-or-priest-filled-with-paintings-and-inscriptions-discovered-on-luxors-west-bank/",
-    "score": 114,
+    "description": "HN Score: 16 | 3 comments",
+    "url": "https://openai.com/index/safety-alignment-long-horizon-models/",
+    "score": 16,
     "date": "2026-07-20",
     "category": "AI News"
   }
