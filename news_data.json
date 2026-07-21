@@ -1,8 +1,22 @@
 [
   {
+    "title": "Google releases three new Gemini models \u2014 but no 3.5 Pro",
+    "source": "TechCrunch",
+    "summary": "Google released Gemini 3.6 Flash, 3.5 Flash-Lite, and Flash Cyber, but the continued absence of Gemini 3.5 Pro raises fresh questions about its AI strategy.",
+    "url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
+    "date": "2026-07-21"
+  },
+  {
+    "title": "US threatens sanctions against Chinese AI models over IP theft",
+    "source": "TechCrunch",
+    "summary": "Treasury Secretary Scott Bessent said the U.S. could sanction Chinese open AI models over alleged IP theft, expanding the Trump administration's campaign to slow China's AI advances.",
+    "url": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
+    "date": "2026-07-21"
+  },
+  {
     "title": "Music streamer Deezer says more than 50% of daily uploads are AI-generated",
     "source": "TechCrunch",
-    "summary": "Deezer said more than 90,000 AI-generated tracks were uploaded daily on the platform in June",
+    "summary": "Deezer said more than 90,000 AI-generated tracks were uploaded daily on the platform in June.",
     "url": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/",
     "date": "2026-07-21"
   },
@@ -91,20 +105,6 @@
     "date": "2026-07-21"
   },
   {
-    "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
-    "source": "TechCrunch",
-    "summary": "Current AI, a nonprofit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat, and more.",
-    "url": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
-    "date": "2026-07-21"
-  },
-  {
-    "title": "Kimi: Threat or menace?",
-    "source": "TechCrunch",
-    "summary": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about 'full AI communism.'",
-    "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
-    "date": "2026-07-21"
-  },
-  {
     "title": "The Download: Chinese AI divides the White House, and a record copyright payout",
     "source": "MIT Tech Review",
     "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. China\u2019s AI models have Trump\u2019s AI world at war with itself Last weekend, several current and former advisers to President Donald Trump on AI publicly lobbed in...",
@@ -175,6 +175,20 @@
     "date": "2026-07-21"
   },
   {
+    "title": "A Sneaky Hacking Tool Targeting AI Infrastructure Is Lurking in Victims\u2019 Blind Spots",
+    "source": "Wired",
+    "summary": "A new type of malware can worm deep into AI coding systems to steal data and logins\u2014and can flip a \u201cdeath switch\u201d to destroy files and keep out real users.",
+    "url": "https://www.wired.com/story/a-sneaky-hacking-tool-targeting-ai-infrastructure-is-lurking-in-victims-blind-spots/",
+    "date": "2026-07-21"
+  },
+  {
+    "title": "Nvidia Wants to Own Every Chip Inside AI Data Centers",
+    "source": "Wired",
+    "summary": "Nvidia\u2019s Vera Rubin platform combines CPUs and GPUs into a single system, reflecting the company\u2019s growing ambition to power every layer of AI infrastructure.",
+    "url": "https://www.wired.com/story/nvidia-wants-to-own-every-chip-inside-an-ai-data-center/",
+    "date": "2026-07-21"
+  },
+  {
     "title": "Halliday\u2019s New Smart Glasses Skip the Camera",
     "source": "Wired",
     "summary": "Halliday\u2019s G2 glasses can listen to and summarize your workplace meetings\u2014with no video involved.",
@@ -231,17 +245,10 @@
     "date": "2026-07-21"
   },
   {
-    "title": "A Humanoid Company Backed by Eric Trump Is Preparing Its Robots for War",
-    "source": "Wired",
-    "summary": "The CEO of Foundation Future Industries, which counts the president\u2019s son as its chief strategy adviser, tells WIRED it\u2019s exploring some \u201ckinetic things.\u201d",
-    "url": "https://www.wired.com/story/humanoid-robot-soldier-eric-trump-foundation-future-industries/",
-    "date": "2026-07-21"
-  },
-  {
-    "title": "Why Apple Sued OpenAI, New York Takes on Data Centers, and What to Know about Cyclosporiasis",
-    "source": "Wired",
-    "summary": "On today\u2019s Uncanny Valley, we unpack OpenAI\u2019s ongoing drama, both legal and reputational, and whether these developments could further hurt the company\u2014particularly in its fight against Anthropic.",
-    "url": "https://www.wired.com/story/uncanny-valley-podcase-apple-sued-openai-new-york-data-center-moratorium-cyclosporiasis-outbreak/",
+    "title": "Google announces Gemini 3.6 Flash and cybersecurity AI, teases 3.5 Pro and Gemini 4",
+    "source": "Ars Technica",
+    "summary": "There are new 3.6 and 3.5 models today, but Google is already training Gemini 4.",
+    "url": "https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/",
     "date": "2026-07-21"
   },
   {
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "The new Google image search will use your 'unique interests' to create an always-updated gallery.",
     "url": "https://arstechnica.com/google/2026/07/google-revamps-image-search-for-its-25th-anniversary-with-more-images-and-more-ai/",
-    "date": "2026-07-21"
-  },
-  {
-    "title": "New York bans data center construction for a year, rattling AI industry",
-    "source": "Ars Technica",
-    "summary": "New York\u2019s data center moratorium may become the blueprint for anti-AI movement.",
-    "url": "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/",
     "date": "2026-07-21"
   }
 ]

@@ -10,9 +10,9 @@
   {
     "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
     "source": "Hacker News",
-    "description": "HN Score: 306 | 134 comments",
+    "description": "HN Score: 461 | 188 comments",
     "url": "https://qwen.ai/blog?id=qwen-image-3.0",
-    "score": 306,
+    "score": 461,
     "date": "2026-07-21",
     "category": "AI News"
   },
@@ -25,11 +25,28 @@
     "category": "Twitter"
   },
   {
+    "title": "Meta's AI Models Are Powering the First Wave of Genesis Mission Projects",
+    "source": "Hacker News",
+    "description": "HN Score: 9 | 0 comments",
+    "url": "https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/?_fb_noscript=1",
+    "score": 9,
+    "date": "2026-07-21",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: On the 5th of September, I'm throwing the most optimistic gathering London has ever seen - a giant picnic in Hyde Park for everyone ",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/isnit0/status/2079574397199720921#m",
+    "date": "2026-07-21",
+    "category": "Twitter"
+  },
+  {
     "title": "Who's afraid of Chinese models?",
     "source": "Hacker News",
-    "description": "HN Score: 788 | 601 comments",
+    "description": "HN Score: 906 | 729 comments",
     "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
-    "score": 788,
+    "score": 906,
     "date": "2026-07-21",
     "category": "AI News"
   },
@@ -42,45 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Nativ: Run frontier open models locally on your Mac",
+    "title": "Apple Fixes Hide My Email Vulnerability After 404 Media Coverage",
     "source": "Hacker News",
-    "description": "HN Score: 321 | 109 comments",
-    "url": "https://blaizzy.github.io/nativ/",
-    "score": 321,
-    "date": "2026-07-21",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @EMostaque: Congrats to Levent for discovering this! OOC I had an internal version of Codex attempt a proof too (without web search), and it dis",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/aaron_lou/status/2079218392452530249#m",
-    "date": "2026-07-21",
-    "category": "Twitter"
-  },
-  {
-    "title": "Agent swarms and the new model economics",
-    "source": "Hacker News",
-    "description": "HN Score: 237 | 109 comments",
-    "url": "https://cursor.com/blog/agent-swarm-model-economics",
-    "score": 237,
-    "date": "2026-07-21",
-    "category": "AI News"
-  },
-  {
-    "title": "R to @DrJimFan: How it's done:",
-    "source": "@DrJimFan",
-    "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2078150496683213151#m",
-    "date": "2026-07-21",
-    "category": "Twitter"
-  },
-  {
-    "title": "A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste",
-    "source": "Hacker News",
-    "description": "HN Score: 53 | 40 comments",
-    "url": "https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/",
-    "score": 53,
+    "description": "HN Score: 44 | 5 comments",
+    "url": "https://www.404media.co/apple-fixes-hide-my-email-vulnerability-after-404-media-coverage/",
+    "score": 44,
     "date": "2026-07-21",
     "category": "AI News"
   },
@@ -93,45 +76,79 @@
     "category": "Twitter"
   },
   {
-    "title": "You only need the frontier model for one single edit",
+    "title": "Claude Is Not a Compiler",
     "source": "Hacker News",
-    "description": "HN Score: 197 | 68 comments",
-    "url": "https://stencil.so/blog/prewalk",
-    "score": 197,
+    "description": "HN Score: 110 | 111 comments",
+    "url": "https://blog.exe.dev/claude-is-not-a-compiler",
+    "score": 110,
     "date": "2026-07-21",
     "category": "AI News"
   },
   {
-    "title": "Coding is easier than ever, but thinking is still hard. Nothing has changed. The bottleneck is still your brain, not a model.",
+    "title": "R to @DrJimFan: How it's done:",
+    "source": "@DrJimFan",
+    "description": "",
+    "url": "https://nitter.net/DrJimFan/status/2078150496683213151#m",
+    "date": "2026-07-21",
+    "category": "Twitter"
+  },
+  {
+    "title": "Nativ: Run frontier open models locally on your Mac",
+    "source": "Hacker News",
+    "description": "HN Score: 357 | 122 comments",
+    "url": "https://blaizzy.github.io/nativ/",
+    "score": 357,
+    "date": "2026-07-21",
+    "category": "AI News"
+  },
+  {
+    "title": "This is the next version of autocomplete: Drop this into any text box in your product, and it will predict the actions users can take and surface them",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2079548697831174422#m",
+    "url": "https://nitter.net/svpino/status/2079603410819854465#m",
+    "date": "2026-07-21",
+    "category": "Twitter"
+  },
+  {
+    "title": "A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste",
+    "source": "Hacker News",
+    "description": "HN Score: 68 | 48 comments",
+    "url": "https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/",
+    "score": 68,
+    "date": "2026-07-21",
+    "category": "AI News"
+  },
+  {
+    "title": "R to @svpino: If you prefer to watch the video on YouTube, here is the link: https://youtu.be/nlYGQgEPwNQ",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2079581546898657751#m",
+    "date": "2026-07-21",
+    "category": "Twitter"
+  },
+  {
+    "title": "Agent swarms and the new model economics",
+    "source": "Hacker News",
+    "description": "HN Score: 258 | 127 comments",
+    "url": "https://cursor.com/blog/agent-swarm-model-economics",
+    "score": 258,
+    "date": "2026-07-21",
+    "category": "AI News"
+  },
+  {
+    "title": "Gemini 5.6 flash has a new low price :) Literally the BEST CHAT model in the world \ud83d\ude80\ud83d\ude80",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2079598623831286099#m",
     "date": "2026-07-21",
     "category": "Twitter"
   },
   {
     "title": "China\u2019s open-weights AI strategy is winning",
     "source": "Hacker News",
-    "description": "HN Score: 1165 | 874 comments",
+    "description": "HN Score: 1191 | 904 comments",
     "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
-    "score": 1165,
-    "date": "2026-07-21",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: Serveless, but for models, is here! I stopped renting servers 12 years ago. I mostly moved everything to serverless functions. It's tak",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2079276907183702436#m",
-    "date": "2026-07-21",
-    "category": "Twitter"
-  },
-  {
-    "title": "Launch HN: Bloomy (YC S26) \u2013 AI-powered mastery learning for K-12",
-    "source": "Hacker News",
-    "description": "HN Score: 93 | 96 comments",
-    "url": "https://news.ycombinator.com/item?id=48981136",
-    "score": 93,
+    "score": 1191,
     "date": "2026-07-21",
     "category": "AI News"
   },
@@ -144,28 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "How we measured AI writing across arXiv, and where the measurement breaks",
+    "title": "Launch HN: Bloomy (YC S26) \u2013 AI-powered mastery learning for K-12",
     "source": "Hacker News",
-    "description": "HN Score: 230 | 156 comments",
-    "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
-    "score": 230,
-    "date": "2026-07-21",
-    "category": "AI News"
-  },
-  {
-    "title": "Kimi should drop their weights ASAP They say they are open-weights, but at the moment, almost no one can use it at scale, as the model is very slow an",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2079420131990720929#m",
-    "date": "2026-07-21",
-    "category": "Twitter"
-  },
-  {
-    "title": "My two year old taught me constraint solving",
-    "source": "Hacker News",
-    "description": "HN Score: 88 | 30 comments",
-    "url": "https://thecomputersciencebook.com/posts/how-my-2yo-taught-me-constraint-solving/",
-    "score": 88,
+    "description": "HN Score: 95 | 99 comments",
+    "url": "https://news.ycombinator.com/item?id=48981136",
+    "score": 95,
     "date": "2026-07-21",
     "category": "AI News"
   }
