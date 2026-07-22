@@ -1,5 +1,26 @@
 [
   {
+    "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
+    "source": "TechCrunch",
+    "summary": "As Chinese AI models grow in capability and popularity among U.S. companies, the arguing over what should be done about them has reached a fever pitch.",
+    "url": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
+    "date": "2026-07-22"
+  },
+  {
+    "title": "Substack\u2019s new tool tells you who\u2019s been writing their newsletters with AI",
+    "source": "TechCrunch",
+    "summary": "Substack is giving readers a way to estimate how much of a newsletter was written by AI, signaling a broader shift toward transparency around AI-assisted content.",
+    "url": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/",
+    "date": "2026-07-22"
+  },
+  {
+    "title": "OpenAI\u2019s AI spending spree has ballooned to $750B",
+    "source": "TechCrunch",
+    "summary": "OpenAI will spend the equivalent of Sweden's GDP on infrastructure through 2030.",
+    "url": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/",
+    "date": "2026-07-22"
+  },
+  {
     "title": "The browser wars aren\u2019t about search anymore \u2014 here are the best alternatives to Chrome and Safari",
     "source": "TechCrunch",
     "summary": "We\u2019ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
@@ -81,27 +102,6 @@
     "source": "TechCrunch",
     "summary": "Treasury Secretary Scott Bessent said the U.S. could sanction Chinese open AI models over alleged IP theft, expanding the Trump administration's campaign to slow China's AI advances.",
     "url": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
-    "date": "2026-07-22"
-  },
-  {
-    "title": "Music streamer Deezer says more than 50% of daily uploads are AI-generated",
-    "source": "TechCrunch",
-    "summary": "Deezer said more than 90,000 AI-generated tracks were uploaded daily on the platform in June.",
-    "url": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/",
-    "date": "2026-07-22"
-  },
-  {
-    "title": "Gritt exits stealth with $32 million for robots to build solar plants \u2014 then, everything else",
-    "source": "TechCrunch",
-    "summary": "Gritt is coming out of stealth with $34 million and plans to automate the hardest tasks on construction sites.",
-    "url": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
-    "date": "2026-07-22"
-  },
-  {
-    "title": "Anthropic\u2019s landmark $1.5B copyright settlement is approved",
-    "source": "TechCrunch",
-    "summary": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models.",
-    "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
     "date": "2026-07-22"
   },
   {
@@ -245,6 +245,13 @@
     "date": "2026-07-22"
   },
   {
+    "title": "OpenAI says its AI agent broke out of testing sandbox to hack Hugging Face",
+    "source": "Ars Technica",
+    "summary": "'This is day one for cybersecurity in the age of agents,' Hugging Face CEO says.",
+    "url": "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/",
+    "date": "2026-07-22"
+  },
+  {
     "title": "Unlimited AI tokens aren't unlimited after all as US Army burns through supply",
     "source": "Ars Technica",
     "summary": "Troops received an email informing them that they were rapidly depleting their AI tokens.",
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "The Codex Micro is designed to monitor multiple agentic threads at a glance.",
     "url": "https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard/",
-    "date": "2026-07-22"
-  },
-  {
-    "title": "Lawsuit claims Meta's layoff decisions were made by AI, not humans",
-    "source": "Ars Technica",
-    "summary": "Meta denies using AI to terminate workers with disabilities and medical problems.",
-    "url": "https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/",
     "date": "2026-07-22"
   }
 ]
