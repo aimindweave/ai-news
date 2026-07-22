@@ -10,9 +10,9 @@
   {
     "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
     "source": "Hacker News",
-    "description": "HN Score: 258 | 120 comments",
+    "description": "HN Score: 413 | 216 comments",
     "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
-    "score": 258,
+    "score": 413,
     "date": "2026-07-22",
     "category": "AI News"
   },
@@ -27,9 +27,26 @@
   {
     "title": "GigaToken: ~1000x faster Language model tokenization",
     "source": "Hacker News",
-    "description": "HN Score: 149 | 27 comments",
+    "description": "HN Score: 253 | 48 comments",
     "url": "https://github.com/marcelroed/gigatoken/",
-    "score": 149,
+    "score": 253,
+    "date": "2026-07-22",
+    "category": "AI News"
+  },
+  {
+    "title": "\u201cIf AI models were actually that good you could just tell them to solve open problems, make no mistakes and they would\u201d \u2026 Oh",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/EMostaque/status/2080031558493171904#m",
+    "date": "2026-07-22",
+    "category": "Twitter"
+  },
+  {
+    "title": "Are AI Labs Pelicanmaxxing?",
+    "source": "Hacker News",
+    "description": "HN Score: 236 | 102 comments",
+    "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
+    "score": 236,
     "date": "2026-07-22",
     "category": "AI News"
   },
@@ -42,28 +59,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Are AI Labs Pelicanmaxxing?",
+    "title": "Nvidia DGX Spark as a daily driver",
     "source": "Hacker News",
-    "description": "HN Score: 103 | 35 comments",
-    "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
-    "score": 103,
+    "description": "HN Score: 47 | 19 comments",
+    "url": "https://daniel.lawrence.lu/blog/2026-07-15-dgx-spark-as-daily-driver/",
+    "score": 47,
     "date": "2026-07-22",
     "category": "AI News"
   },
   {
-    "title": "Lots interesting in this, but particularly: \u201cLegitimate AI distillation used to create smaller, more efficient models plays a vital role in this open ",
-    "source": "@EMostaque",
+    "title": "R to @DrJimFan: How it's done:",
+    "source": "@DrJimFan",
     "description": "",
-    "url": "https://nitter.net/EMostaque/status/2079967388351533470#m",
+    "url": "https://nitter.net/DrJimFan/status/2078150496683213151#m",
     "date": "2026-07-22",
     "category": "Twitter"
   },
   {
     "title": "Can a MUD evaluate LLMs? A $99 proof of concept",
     "source": "Hacker News",
-    "description": "HN Score: 61 | 30 comments",
+    "description": "HN Score: 80 | 46 comments",
     "url": "https://cruciblebench.ai/",
-    "score": 61,
+    "score": 80,
     "date": "2026-07-22",
     "category": "AI News"
   },
@@ -78,26 +95,9 @@
   {
     "title": "Launch HN: Unlayer (YC W22) \u2013 Add email and document builders to your app",
     "source": "Hacker News",
-    "description": "HN Score: 28 | 20 comments",
+    "description": "HN Score: 34 | 22 comments",
     "url": "https://unlayer.com",
-    "score": 28,
-    "date": "2026-07-22",
-    "category": "AI News"
-  },
-  {
-    "title": "R to @DrJimFan: How it's done:",
-    "source": "@DrJimFan",
-    "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2078150496683213151#m",
-    "date": "2026-07-22",
-    "category": "Twitter"
-  },
-  {
-    "title": "Show HN: DeepSQL \u2013 A self-hostable DBA agent for Postgres and MySQL",
-    "source": "Hacker News",
-    "description": "HN Score: 23 | 16 comments",
-    "url": "https://deepsql.ai/",
-    "score": 23,
+    "score": 34,
     "date": "2026-07-22",
     "category": "AI News"
   },
@@ -110,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Passkeys were invented by engineers with zero understanding of consumer brain",
+    "title": "Show HN: DeepSQL \u2013 A self-hostable DBA agent for Postgres and MySQL",
     "source": "Hacker News",
-    "description": "HN Score: 311 | 403 comments",
-    "url": "https://twitter.com/nikitabier/status/2079787406300266743",
-    "score": 311,
+    "description": "HN Score: 37 | 19 comments",
+    "url": "https://deepsql.ai/",
+    "score": 37,
     "date": "2026-07-22",
     "category": "AI News"
   },
@@ -127,11 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Which streaming service was that on again",
+    "title": "Which streaming service was that on again?",
     "source": "Hacker News",
-    "description": "HN Score: 23 | 37 comments",
+    "description": "HN Score: 25 | 43 comments",
     "url": "https://www.timwehrle.de/blog/which-streaming-service-was-that-on-again/",
-    "score": 23,
+    "score": 25,
     "date": "2026-07-22",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Most Americans say 'not in my backyard' to AI data centers",
+    "title": "Passkeys were invented by engineers with zero understanding of consumer brain",
     "source": "Hacker News",
-    "description": "HN Score: 107 | 232 comments",
-    "url": "https://www.redfin.com/news/ai-data-centers-opposition-education-benefit/",
-    "score": 107,
+    "description": "HN Score: 374 | 498 comments",
+    "url": "https://twitter.com/nikitabier/status/2079787406300266743",
+    "score": 374,
     "date": "2026-07-22",
     "category": "AI News"
   },
@@ -161,11 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Airbus Full Scale Foldable Wing Extensions",
+    "title": "Teardown: The BMW / Harman IDC23H Infotainment Unit (B423)",
     "source": "Hacker News",
-    "description": "HN Score: 54 | 47 comments",
-    "url": "https://www.airbus.com/en/newsroom/press-releases/2026-07-airbus-launches-new-flight-test-programme-for-wing-of-tomorrow",
-    "score": 54,
+    "description": "HN Score: 4 | 0 comments",
+    "url": "https://www.hakstuff.net/blog/teardown-the-bmw-idc23h-infotainment-unit",
+    "score": 4,
     "date": "2026-07-22",
     "category": "AI News"
   }
