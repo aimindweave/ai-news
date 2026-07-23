@@ -1,5 +1,47 @@
 [
   {
+    "title": "Runway launches AI model router as generative media gets crowded",
+    "source": "TechCrunch",
+    "summary": "Runway no longer wants to be just another AI model company. It wants to become the infrastructure layer for generative media. On Thursday, the startup launched Runway Media Router through Runway Dev, its developer platform, released earlier this month, that provides API access to a growing roster...",
+    "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
+    "date": "2026-07-23"
+  },
+  {
+    "title": "OpenAI makes ChatGPT Health available to all U.S. users",
+    "source": "TechCrunch",
+    "summary": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal.",
+    "url": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
+    "date": "2026-07-23"
+  },
+  {
+    "title": "Meta launched a new AI optimism ad set to a song about human extinction",
+    "source": "TechCrunch",
+    "summary": "David Bowie's song 'Five Years,' which Meta used in a supposedly inspiring advertisement, is about humans learning that they have five years left to live before the apocalypse.",
+    "url": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/",
+    "date": "2026-07-23"
+  },
+  {
+    "title": "Nvidia is sending GPUs to the moon",
+    "source": "TechCrunch",
+    "summary": "If there's a place in the universe without GPUs, Nvidia is sending them there.",
+    "url": "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/",
+    "date": "2026-07-23"
+  },
+  {
+    "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
+    "source": "TechCrunch",
+    "summary": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says.",
+    "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
+    "date": "2026-07-23"
+  },
+  {
+    "title": "Google\u2019s Gemini nears billion-user milestone",
+    "source": "TechCrunch",
+    "summary": "Gemini had over 750 million monthly users in February.",
+    "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
+    "date": "2026-07-23"
+  },
+  {
     "title": "Experts say exploiting Anthropic\u2019s Fable isn\u2019t how Kimi K3 got so good",
     "source": "TechCrunch",
     "summary": "'I don't think you get a model this strong and this quickly on the heels of Fable doing strictly distillation,' one expert told TechCrunch.",
@@ -63,45 +105,10 @@
     "date": "2026-07-23"
   },
   {
-    "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
-    "source": "TechCrunch",
-    "summary": "As Chinese AI models grow in capability and popularity among U.S. companies, the arguing over what should be done about them has reached a fever pitch.",
-    "url": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
-    "date": "2026-07-23"
-  },
-  {
-    "title": "Substack\u2019s new tool tells you who\u2019s been writing their newsletters with AI",
-    "source": "TechCrunch",
-    "summary": "Substack is giving readers a way to estimate how much of a newsletter was written by AI, signaling a broader shift toward transparency around AI-assisted content.",
-    "url": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/",
-    "date": "2026-07-23"
-  },
-  {
-    "title": "OpenAI\u2019s AI spending spree has ballooned to $750B",
-    "source": "TechCrunch",
-    "summary": "OpenAI will spend the equivalent of Sweden's GDP on infrastructure through 2030.",
-    "url": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/",
-    "date": "2026-07-23"
-  },
-  {
-    "title": "Menlo Ventures\u2019 Matt Murphy explains what AI startups founders must do differently",
-    "source": "TechCrunch",
-    "summary": "Anthropic leaped to a $47 billion revenue run rate by May, compared to $9 billion in 2025. It\u2019s the kind of growth that Menlo Ventures Matt Murphy says he s never seen in 25 years of investing, not in the internet wave, not in mobile, not in the first cloud boom. Menlo led Anthropic s $500M Serie...",
-    "url": "https://techcrunch.com/podcast/menlo-ventures-matt-murphy-explains-what-ai-startups-founders-must-do-differently/",
-    "date": "2026-07-23"
-  },
-  {
-    "title": "The browser wars aren\u2019t about search anymore \u2014 here are the best alternatives to Chrome and Safari",
-    "source": "TechCrunch",
-    "summary": "We\u2019ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
-    "url": "https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-    "date": "2026-07-23"
-  },
-  {
-    "title": "Passionfroot raises $15M to expand its B2B creator marketplace to the US",
-    "source": "TechCrunch",
-    "summary": "Passionfroot, a German startup building a marketplace connecting B2B creators with brands, has raised $15M in a Series A round led by Insight Partners.",
-    "url": "https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/",
+    "title": "Supercooled kidneys have been transplanted into pigs in a \u201clandmark achievement\u201d",
+    "source": "MIT Tech Review",
+    "summary": "When it comes to organ donation, time is everything. As soon as an organ has been carefully removed from a donor\u2019s body, it starts to deteriorate. Surgeons have a matter of hours to get it into a recipient. Leave it too long and the organ will become unusable. In most cases, organs will be kept",
+    "url": "https://www.technologyreview.com/2026/07/23/1140765/supercooled-kidneys-have-been-transplanted-into-pigs-in-a-landmark-achievement/",
     "date": "2026-07-23"
   },
   {
@@ -165,13 +172,6 @@
     "source": "MIT Tech Review",
     "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. AI is more likely than humans to form biases when hiring The next time you apply for a job, AI may screen your r\u00e9sum\u00e9 before any human sees it. But there\u2019s",
     "url": "https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/",
-    "date": "2026-07-23"
-  },
-  {
-    "title": "AI is more likely than humans to form biases when hiring",
-    "source": "MIT Tech Review",
-    "summary": "The next time you apply for a job, AI may screen your r\u00e9sum\u00e9 before any human sees it. But there\u2019s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up human biases from their training data. New research suggests that LLMs can also develop their own...",
-    "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
     "date": "2026-07-23"
   },
   {
@@ -242,6 +242,20 @@
     "source": "Wired",
     "summary": "Members of the Army received an email informing them that they were rapidly depleting their AI tokens, and needed to limit use.",
     "url": "https://www.wired.com/story/the-army-is-burning-through-its-ai-tokens/",
+    "date": "2026-07-23"
+  },
+  {
+    "title": "Google just had its first negative cash flow quarter due to massive AI spending",
+    "source": "Ars Technica",
+    "summary": "Google continues to report big quarterly revenue, but its AI spending has skyrocketed.",
+    "url": "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/",
+    "date": "2026-07-23"
+  },
+  {
+    "title": "AI arms race in line for a reckoning after OpenAI hacking incident",
+    "source": "Ars Technica",
+    "summary": "Aggressive training techniques sharpens threat of bad behavior by leading models.",
+    "url": "https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident/",
     "date": "2026-07-23"
   },
   {
@@ -333,20 +347,6 @@
     "source": "Ars Technica",
     "summary": "Hyundai aims to deploy 25,000 Atlas robots starting with US factories in 2028.",
     "url": "https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/",
-    "date": "2026-07-23"
-  },
-  {
-    "title": "Linus Torvalds to critics of AI coding in Linux: 'Fork it. Or just walk away.'",
-    "source": "Ars Technica",
-    "summary": "Creator says he will 'very loudly ignore' those arguing for a ban on AI tools.",
-    "url": "https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/",
-    "date": "2026-07-23"
-  },
-  {
-    "title": "Energy IPOs surge as investors hunt for ways to play AI boom",
-    "source": "Ars Technica",
-    "summary": "Companies coming to market are raising money at fastest pace this century.",
-    "url": "https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/",
     "date": "2026-07-23"
   }
 ]

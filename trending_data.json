@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Alphabet's cash burn raises alarm for Big Tech as AI spending climbs",
+    "title": "Writing by hand is good for your brain",
     "source": "Hacker News",
-    "description": "HN Score: 125 | 103 comments",
-    "url": "https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/",
-    "score": 125,
+    "description": "HN Score: 400 | 178 comments",
+    "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
+    "score": 400,
     "date": "2026-07-23",
     "category": "AI News"
   },
@@ -25,11 +25,28 @@
     "category": "Twitter"
   },
   {
-    "title": "OpenAI and Anthropic unite against open-weight AI risks to their bottom line",
+    "title": "Launch HN: Screenpipe (YC S26) \u2013 Power your agents by your 24/7 screen recording",
     "source": "Hacker News",
-    "description": "HN Score: 160 | 131 comments",
-    "url": "https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china",
-    "score": 160,
+    "description": "HN Score: 18 | 9 comments",
+    "url": "https://news.ycombinator.com/item?id=49024620",
+    "score": 18,
+    "date": "2026-07-23",
+    "category": "AI News"
+  },
+  {
+    "title": "~4 years ago @robrombach & @pess_r had just finished the first training runs for stable diffusion (!) Now FLUX 3 is unifying modalities & state of the",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/EMostaque/status/2080326079131128056#m",
+    "date": "2026-07-23",
+    "category": "Twitter"
+  },
+  {
+    "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+    "source": "Hacker News",
+    "description": "HN Score: 312 | 313 comments",
+    "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+    "score": 312,
     "date": "2026-07-23",
     "category": "AI News"
   },
@@ -42,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
+    "title": "Why Software Factories Fail (or: harness engineering is not enough)",
     "source": "Hacker News",
-    "description": "HN Score: 1007 | 574 comments",
-    "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
-    "score": 1007,
+    "description": "HN Score: 18 | 1 comments",
+    "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
+    "score": 18,
     "date": "2026-07-23",
     "category": "AI News"
   },
@@ -59,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
+    "title": "Free way to get your data out of ChatGPT Business accounts",
     "source": "Hacker News",
-    "description": "HN Score: 42 | 14 comments",
-    "url": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
-    "score": 42,
+    "description": "HN Score: 35 | 3 comments",
+    "url": "https://github.com/Conradqh/scrapemychats",
+    "score": 35,
     "date": "2026-07-23",
     "category": "AI News"
   },
@@ -76,11 +93,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Quality non-fiction books are the antithesis of AI slop",
+    "title": "Hybrid-Electric Aicraft Engine Targeting 30% Fuel Efficiency",
     "source": "Hacker News",
-    "description": "HN Score: 437 | 213 comments",
-    "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
-    "score": 437,
+    "description": "HN Score: 48 | 28 comments",
+    "url": "https://www.rtx.com/news/news-center/2026/07/21/rtxs-pratt-whitney-canada-advances-hybrid-electric-technology-development",
+    "score": 48,
+    "date": "2026-07-23",
+    "category": "AI News"
+  },
+  {
+    "title": "The best time I've had at tech conferences has been sitting down with the people who built the tools I use. Dollar for dollar, nothing beats the ROI o",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2080309461860913376#m",
+    "date": "2026-07-23",
+    "category": "Twitter"
+  },
+  {
+    "title": "Show HN: OneCLI \u2013 OSS credential gateway that keeps secrets out of AI agents",
+    "source": "Hacker News",
+    "description": "HN Score: 18 | 11 comments",
+    "url": "https://github.com/onecli/onecli",
+    "score": 18,
     "date": "2026-07-23",
     "category": "AI News"
   },
@@ -93,71 +127,29 @@
     "category": "Twitter"
   },
   {
-    "title": "GigaToken: ~1000x faster Language model tokenization",
+    "title": "Show HN: Palmier Pro \u2013 open-source macOS video editor built for AI",
     "source": "Hacker News",
-    "description": "HN Score: 567 | 114 comments",
-    "url": "https://github.com/marcelroed/gigatoken/",
-    "score": 567,
+    "description": "HN Score: 17 | 5 comments",
+    "url": "https://github.com/palmier-io/palmier-pro",
+    "score": 17,
     "date": "2026-07-23",
     "category": "AI News"
   },
   {
-    "title": "Every developer thinks they\u2019re \u201calmost done\u201d once they\u2019ve completed about 80% of the work. A lesson I keep learning over and over again: the final 20%",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2080265431882125677#m",
-    "date": "2026-07-23",
-    "category": "Twitter"
-  },
-  {
-    "title": "Are AI labs pelicanmaxxing?",
+    "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
     "source": "Hacker News",
-    "description": "HN Score: 613 | 234 comments",
-    "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
-    "score": 613,
+    "description": "HN Score: 364 | 166 comments",
+    "url": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
+    "score": 364,
     "date": "2026-07-23",
     "category": "AI News"
   },
   {
-    "title": "Build Anything At Scale With Prompts Mix and match Fable 5 and Grok 4.5 and build pretty much anything - create a full-stack website - make companion ",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2080187619942752559#m",
-    "date": "2026-07-23",
-    "category": "Twitter"
-  },
-  {
-    "title": "Protecting our FLOSS commons from LLMs",
+    "title": "You can now run same OCI images as containers or Firecracker microVMs",
     "source": "Hacker News",
-    "description": "HN Score: 138 | 72 comments",
-    "url": "https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html",
-    "score": 138,
-    "date": "2026-07-23",
-    "category": "AI News"
-  },
-  {
-    "title": "Testing a beta version of our 'AI brain' on my work The brain creates long-term memories and appears to make Fable-5 200% smarter... A long-running ag",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2080113130957631757#m",
-    "date": "2026-07-23",
-    "category": "Twitter"
-  },
-  {
-    "title": "Test-time training 3D reconstruction",
-    "source": "Hacker News",
-    "description": "HN Score: 16 | 1 comments",
-    "url": "https://github.com/Inception3D/TTT3R",
-    "score": 16,
-    "date": "2026-07-23",
-    "category": "AI News"
-  },
-  {
-    "title": "ANSI escape injection in MCP servers: Hidden from humans, visible to AI",
-    "source": "Hacker News",
-    "description": "HN Score: 39 | 20 comments",
-    "url": "https://brightsec.com/research/detecting-ansi-escape-sequence-injection-in-mcp-servers-with-dast/",
-    "score": 39,
+    "description": "HN Score: 22 | 7 comments",
+    "url": "https://github.com/pullrun/pullrun",
+    "score": 22,
     "date": "2026-07-23",
     "category": "AI News"
   }
