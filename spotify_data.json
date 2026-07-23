@@ -93,6 +93,16 @@
   ],
   "episodes": [
     {
+      "id": "Practica_0",
+      "name": "Surviving the New Economics of a Post-Agentic World",
+      "show": "Practical AI",
+      "description": "\n        The agentic transformation isn’t coming. It has already begun.Companies are deploying thousands — and sometimes tens of thousands — of AI agents. Enterprise software giants are watc",
+      "release_date": "2026-07-23",
+      "duration_min": 35,
+      "image": "",
+      "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
+    },
+    {
       "id": "a]6z Pod_0",
       "name": "Travis Kalanick Is Back | Building the Future of Industrial AI",
       "show": "a]6z Podcast",
@@ -133,7 +143,7 @@
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
-      "id": "Practica_0",
+      "id": "Practica_1",
       "name": "The Future of AI Infrastructure with CoreWeave",
       "show": "Practical AI",
       "description": "\n        As AI applications become more complex, the infrastructure powering them needs to evolve. Corey Sanders, SVP of Product at CoreWeave, joins Chris to discuss why AI requires a fundamentally",
@@ -153,7 +163,7 @@
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
-      "id": "Practica_1",
+      "id": "Practica_2",
       "name": "Building Durable AI Agents",
       "show": "Practical AI",
       "description": "\n        What does it take to move AI agents from demos to reliable production systems? In this episode, Hamza Tahir explores how MLOps principles are shaping the future of generative AI, covering ",
@@ -181,16 +191,6 @@
       "duration_min": 66,
       "image": "",
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
-    },
-    {
-      "id": "Practica_2",
-      "name": "Image Generation and Visual Intelligence with Black Forest Labs",
-      "show": "Practical AI",
-      "description": "\n        How has AI image generation evolved from blurry outputs to powerful visual intelligence models? Dustin Podell, Co-Founder and Researcher at Black Forest Labs, explains the progression from",
-      "release_date": "2026-07-02",
-      "duration_min": 48,
-      "image": "",
-      "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
       "id": "Lex Frid_0",
