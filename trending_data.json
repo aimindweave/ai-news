@@ -10,9 +10,9 @@
   {
     "title": "Writing by hand is good for your brain",
     "source": "Hacker News",
-    "description": "HN Score: 760 | 378 comments",
+    "description": "HN Score: 859 | 432 comments",
     "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
-    "score": 760,
+    "score": 859,
     "date": "2026-07-23",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "Show HN: Echo \u2013 Fable-level results at 1/3 the cost using open-weight models",
     "source": "Hacker News",
-    "description": "HN Score: 101 | 48 comments",
+    "description": "HN Score: 167 | 81 comments",
     "url": "https://news.ycombinator.com/item?id=49026810",
-    "score": 101,
+    "score": 167,
     "date": "2026-07-23",
     "category": "AI News"
   },
@@ -44,9 +44,9 @@
   {
     "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
     "source": "Hacker News",
-    "description": "HN Score: 578 | 547 comments",
+    "description": "HN Score: 644 | 598 comments",
     "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
-    "score": 578,
+    "score": 644,
     "date": "2026-07-23",
     "category": "AI News"
   },
@@ -61,9 +61,9 @@
   {
     "title": "Show HN: Palmier Pro \u2013 Open-source macOS video editor built for AI",
     "source": "Hacker News",
-    "description": "HN Score: 78 | 15 comments",
+    "description": "HN Score: 105 | 17 comments",
     "url": "https://github.com/palmier-io/palmier-pro",
-    "score": 78,
+    "score": 105,
     "date": "2026-07-23",
     "category": "AI News"
   },
@@ -78,9 +78,9 @@
   {
     "title": "DARPA, U.S. Air Force fly AI-controlled F-16",
     "source": "Hacker News",
-    "description": "HN Score: 128 | 125 comments",
+    "description": "HN Score: 149 | 165 comments",
     "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
-    "score": 128,
+    "score": 149,
     "date": "2026-07-23",
     "category": "AI News"
   },
@@ -95,9 +95,43 @@
   {
     "title": "Launch HN: Screenpipe (YC S26) \u2013 Record how you work and turn that into agents",
     "source": "Hacker News",
-    "description": "HN Score: 40 | 42 comments",
+    "description": "HN Score: 50 | 49 comments",
     "url": "https://news.ycombinator.com/item?id=49024620",
-    "score": 40,
+    "score": 50,
+    "date": "2026-07-23",
+    "category": "AI News"
+  },
+  {
+    "title": "R to @svpino: To complete a goal, an agent can now search for an actor on the Apify Store, pay for it, and use it without any human intervention. The ",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2080366145836916998#m",
+    "date": "2026-07-23",
+    "category": "Twitter"
+  },
+  {
+    "title": "The arguments against open source AI are bad",
+    "source": "Hacker News",
+    "description": "HN Score: 167 | 120 comments",
+    "url": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/",
+    "score": 167,
+    "date": "2026-07-23",
+    "category": "AI News"
+  },
+  {
+    "title": "My agent is now paying for its own data. No API key. No account. No credit card. Check the video I recorded: This uses the x402 open protocol built by",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2080366133644066960#m",
+    "date": "2026-07-23",
+    "category": "Twitter"
+  },
+  {
+    "title": "Escape Analysis in Go: Stack vs. Heap Allocations Explained",
+    "source": "Hacker News",
+    "description": "HN Score: 24 | 5 comments",
+    "url": "https://blog.jetbrains.com/go/2026/07/20/escape-analysis/",
+    "score": 24,
     "date": "2026-07-23",
     "category": "AI News"
   },
@@ -110,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "The arguments against open source AI are bad",
+    "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
     "source": "Hacker News",
-    "description": "HN Score: 131 | 93 comments",
-    "url": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/",
-    "score": 131,
+    "description": "HN Score: 561 | 272 comments",
+    "url": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
+    "score": 561,
     "date": "2026-07-23",
     "category": "AI News"
   },
@@ -127,29 +161,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Escape Analysis in Go: Stack vs. Heap Allocations Explained",
-    "source": "Hacker News",
-    "description": "HN Score: 11 | 2 comments",
-    "url": "https://blog.jetbrains.com/go/2026/07/20/escape-analysis/",
-    "score": 11,
-    "date": "2026-07-23",
-    "category": "AI News"
-  },
-  {
     "title": "Show HN: OneCLI \u2013 OSS credential gateway that keeps secrets out of AI agents",
     "source": "Hacker News",
-    "description": "HN Score: 58 | 24 comments",
+    "description": "HN Score: 68 | 26 comments",
     "url": "https://github.com/onecli/onecli",
-    "score": 58,
-    "date": "2026-07-23",
-    "category": "AI News"
-  },
-  {
-    "title": "Show HN: Claude-thermos \u2013 keeps your Claude session warm for you",
-    "source": "Hacker News",
-    "description": "HN Score: 41 | 27 comments",
-    "url": "https://github.com/izeigerman/claude-thermos",
-    "score": 41,
+    "score": 68,
     "date": "2026-07-23",
     "category": "AI News"
   }
