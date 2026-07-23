@@ -1,15 +1,22 @@
 [
   {
+    "title": "AMD takes on Nvidia with its Helios AI rack scale system",
+    "source": "TechCrunch",
+    "summary": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
+    "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+    "date": "2026-07-23"
+  },
+  {
     "title": "Anthropic updates Claude voice mode with more capable models",
     "source": "TechCrunch",
-    "summary": "Claude's new voice model will let you reschedule your meeting or draft an email",
+    "summary": "Claude's new voice model will let you reschedule your meeting or draft an email.",
     "url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
     "date": "2026-07-23"
   },
   {
     "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
     "source": "TechCrunch",
-    "summary": "The Series A was led by Battery Ventures, bringing AegisAI total funding to $49 million.",
+    "summary": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn\u2019t catch.",
     "url": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
     "date": "2026-07-23"
   },
@@ -95,13 +102,6 @@
     "source": "TechCrunch",
     "summary": "OpenAI made a mistake setting up what it called a \u201chighly isolated\u201d testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hugging Face possible.",
     "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
-    "date": "2026-07-23"
-  },
-  {
-    "title": "Travis Kalanick\u2019s robotics company raises $1.7B, led by a16z",
-    "source": "TechCrunch",
-    "summary": "Uber is also investing in Travis Kalanick's company Atoms, which has made gauzy claims about using industrial AI to modernize the world.",
-    "url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
     "date": "2026-07-23"
   },
   {
@@ -245,6 +245,13 @@
     "date": "2026-07-23"
   },
   {
+    "title": "AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems",
+    "source": "Ars Technica",
+    "summary": "Bill would let Homeland Security chief decide when an AI should be shut down.",
+    "url": "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/",
+    "date": "2026-07-23"
+  },
+  {
     "title": "Google just had its first negative cash flow quarter due to massive AI spending",
     "source": "Ars Technica",
     "summary": "Google continues to report big quarterly revenue, but its AI spending has skyrocketed.",
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "Elon Musk's xAI files first lawsuit against Grok user accused of making child sex images.",
     "url": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users/",
-    "date": "2026-07-23"
-  },
-  {
-    "title": "Fear of humanoid robots spurs human workers to strike at Hyundai auto factory",
-    "source": "Ars Technica",
-    "summary": "Hyundai aims to deploy 25,000 Atlas robots starting with US factories in 2028.",
-    "url": "https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/",
     "date": "2026-07-23"
   }
 ]
