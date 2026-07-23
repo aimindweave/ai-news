@@ -1,53 +1,19 @@
 [
   {
-    "title": "\u7c73\u6fa4\u3055\u3093\u3068\u4e09\u5b85\u3055\u3093\u306e\u5bfe\u8ac7\u3001\u5b66\u6821\u796d\u3067 \u3042\u306e\u4f5c\u54c1\u306e\u30c6\u30fc\u30de\u306f\u2026\u3092\u805e\u3051\u305f\u306e\u306f\u3044\u3044\u4f53\u9a13\u3060\u3063\u305f",
-    "source": "@kaborobot",
+    "title": "R to @DrJimFan: How it's done:",
+    "source": "@DrJimFan",
     "description": "",
-    "url": "https://nitter.net/kaborobot/status/2063568544277909948#m",
-    "date": "2026-07-22",
+    "url": "https://nitter.net/DrJimFan/status/2078150496683213151#m",
+    "date": "2026-07-23",
     "category": "Twitter"
   },
   {
-    "title": "GigaToken: ~1000x faster Language model tokenization",
+    "title": "Run large language models at home, BitTorrent\u2011style",
     "source": "Hacker News",
-    "description": "HN Score: 310 | 57 comments",
-    "url": "https://github.com/marcelroed/gigatoken/",
-    "score": 310,
-    "date": "2026-07-22",
-    "category": "AI News"
-  },
-  {
-    "title": "\u30d6\u30c3\u30c1\u30e3\u30fc\u304c\u30db\u30ef\u30a4\u30c8\u30cf\u30a6\u30b9\u306e\u58c1\u3076\u3061\u7834\u3063\u3066\u304d\u305f\u6642\u306e\u30db\u30fc\u30e0\u30e9\u30f3\u30c0\u30fc\u306e\u67d4\u3089\u304b\u306a\u8868\u60c5\u3063\u3066 \u3042\u306e\u653e\u9001\u306e\u6f14\u8aac\u3092\u7d42\u3048\u3066\u3057\u307e\u3063\u3066\u8ab0\u304b\u306b\u611b\u3055\u308c\u308b\u3053\u3068\u306f\u3082\u3046\u306a\u304f\u306a\u308a\u6050\u6016\u306e\u5bfe\u8c61\u306b\u3057\u304b\u306a\u3089\u306a\u3044\u904b\u547d\u3092\u7d42\u308f\u3089\u305b\u3066\u304f\u308c\u308b\u4eba\u304c\u6765\u305f\u304b\u3089\u306a\u306e\u304b",
-    "source": "@kaborobot",
-    "description": "",
-    "url": "https://nitter.net/kaborobot/status/2058205543760838842#m",
-    "date": "2026-07-22",
-    "category": "Twitter"
-  },
-  {
-    "title": "Quality non-fiction books are the antithesis of AI slop",
-    "source": "Hacker News",
-    "description": "HN Score: 46 | 24 comments",
-    "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
-    "score": 46,
-    "date": "2026-07-22",
-    "category": "AI News"
-  },
-  {
-    "title": "\u201cIf AI models were actually that good you could just tell them to solve open problems, make no mistakes and they would\u201d \u2026 Oh",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/EMostaque/status/2080031558493171904#m",
-    "date": "2026-07-22",
-    "category": "Twitter"
-  },
-  {
-    "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
-    "source": "Hacker News",
-    "description": "HN Score: 502 | 304 comments",
-    "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
-    "score": 502,
-    "date": "2026-07-22",
+    "description": "HN Score: 57 | 22 comments",
+    "url": "https://petals.dev/",
+    "score": 57,
+    "date": "2026-07-23",
     "category": "AI News"
   },
   {
@@ -55,110 +21,120 @@
     "source": "@DrJimFan",
     "description": "",
     "url": "https://nitter.net/DrJimFan/status/2078150032575082616#m",
-    "date": "2026-07-22",
+    "date": "2026-07-23",
+    "category": "Twitter"
+  },
+  {
+    "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
+    "source": "Hacker News",
+    "description": "HN Score: 666 | 398 comments",
+    "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+    "score": 666,
+    "date": "2026-07-23",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: Claude Code keeps quitting halfway through a migration I want to finish. It finishes with a few files, but then it eats up its context ",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2079941033455214937#m",
+    "date": "2026-07-23",
+    "category": "Twitter"
+  },
+  {
+    "title": "Quality non-fiction books are the antithesis of AI slop",
+    "source": "Hacker News",
+    "description": "HN Score: 190 | 80 comments",
+    "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
+    "score": 190,
+    "date": "2026-07-23",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: Now that everyone can build anything they want by prompting a model, we are back to square one: Your brain is all that matters. \u2022 Those",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2079911086476923238#m",
+    "date": "2026-07-23",
+    "category": "Twitter"
+  },
+  {
+    "title": "OpenAI's accidental cyberattack against Hugging Face is science fiction",
+    "source": "Hacker News",
+    "description": "HN Score: 44 | 25 comments",
+    "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
+    "score": 44,
+    "date": "2026-07-23",
+    "category": "AI News"
+  },
+  {
+    "title": "Would love to short Google and buy Anthropic instead Google is burning billions to fund Anthropic to win the AGI race!! Make that make sense - Why wou",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2080123523138519304#m",
+    "date": "2026-07-23",
+    "category": "Twitter"
+  },
+  {
+    "title": "GigaToken: ~1000x faster Language model tokenization",
+    "source": "Hacker News",
+    "description": "HN Score: 391 | 77 comments",
+    "url": "https://github.com/marcelroed/gigatoken/",
+    "score": 391,
+    "date": "2026-07-23",
+    "category": "AI News"
+  },
+  {
+    "title": "Testing a beta version of our 'AI brain' on my work The brain creates long-term memories and appears to make Fable-5 200% smarter... A long-running ag",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2080113130957631757#m",
+    "date": "2026-07-23",
     "category": "Twitter"
   },
   {
     "title": "Are AI Labs Pelicanmaxxing?",
     "source": "Hacker News",
-    "description": "HN Score: 331 | 131 comments",
+    "description": "HN Score: 416 | 161 comments",
     "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
-    "score": 331,
-    "date": "2026-07-22",
+    "score": 416,
+    "date": "2026-07-23",
     "category": "AI News"
-  },
-  {
-    "title": "R to @DrJimFan: How it's done:",
-    "source": "@DrJimFan",
-    "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2078150496683213151#m",
-    "date": "2026-07-22",
-    "category": "Twitter"
   },
   {
     "title": "Fairphone 6 wide camera experimental Linux support",
     "source": "Hacker News",
-    "description": "HN Score: 33 | 1 comments",
+    "description": "HN Score: 80 | 8 comments",
     "url": "https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/",
-    "score": 33,
-    "date": "2026-07-22",
+    "score": 80,
+    "date": "2026-07-23",
     "category": "AI News"
-  },
-  {
-    "title": "$100,000/mo in compute credits to startups and institutions that apply and join the Apodex Frontier Program. I'm posting the link below. Beyond the co",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2079997498832355518#m",
-    "date": "2026-07-22",
-    "category": "Twitter"
-  },
-  {
-    "title": "Launch HN: Unlayer (YC W22) \u2013 Add email and document builders to your app",
-    "source": "Hacker News",
-    "description": "HN Score: 43 | 22 comments",
-    "url": "https://unlayer.com",
-    "score": 43,
-    "date": "2026-07-22",
-    "category": "AI News"
-  },
-  {
-    "title": "R to @svpino: Link to the Apodex Frontier Program: https://www.apodex.com/frontier-program",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2079997510815531018#m",
-    "date": "2026-07-22",
-    "category": "Twitter"
   },
   {
     "title": "So Reddit has decided that plain HTML is unsafe",
     "source": "Hacker News",
-    "description": "HN Score: 201 | 195 comments",
+    "description": "HN Score: 313 | 316 comments",
     "url": "https://www.cole-k.com/2026/07/21/reddit/",
-    "score": 201,
-    "date": "2026-07-22",
+    "score": 313,
+    "date": "2026-07-23",
     "category": "AI News"
-  },
-  {
-    "title": "Sigh, US companies and govt complaining that China distilled model outputs is SUPER LAME Labs routinely distill model outputs from each - Meta, Grok, ",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2079992809558524131#m",
-    "date": "2026-07-22",
-    "category": "Twitter"
   },
   {
     "title": "Businesses with ugly AI menu redesigns",
     "source": "Hacker News",
-    "description": "HN Score: 161 | 124 comments",
+    "description": "HN Score: 202 | 157 comments",
     "url": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/",
-    "score": 161,
-    "date": "2026-07-22",
+    "score": 202,
+    "date": "2026-07-23",
     "category": "AI News"
   },
   {
-    "title": "Remarkable how many programmers and software engineers are still in denial They still think 'vibe coding' doesn't work on real software and use the ol",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2079943876606038029#m",
-    "date": "2026-07-22",
-    "category": "Twitter"
-  },
-  {
-    "title": "Nvidia DGX Spark as a daily driver",
+    "title": "Launch HN: Unlayer (YC W22) \u2013 Add email and document builders to your app",
     "source": "Hacker News",
-    "description": "HN Score: 68 | 56 comments",
-    "url": "https://daniel.lawrence.lu/blog/2026-07-15-dgx-spark-as-daily-driver/",
-    "score": 68,
-    "date": "2026-07-22",
-    "category": "AI News"
-  },
-  {
-    "title": "Show HN: ValuePair \u2013 a friendship app that cares about values first",
-    "source": "Hacker News",
-    "description": "HN Score: 3 | 3 comments",
-    "url": "https://valuepair.app",
-    "score": 3,
-    "date": "2026-07-22",
+    "description": "HN Score: 47 | 33 comments",
+    "url": "https://unlayer.com",
+    "score": 47,
+    "date": "2026-07-23",
     "category": "AI News"
   }
 ]
