@@ -10,9 +10,9 @@
   {
     "title": "Writing by hand is good for your brain",
     "source": "Hacker News",
-    "description": "HN Score: 400 | 178 comments",
+    "description": "HN Score: 598 | 298 comments",
     "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
-    "score": 400,
+    "score": 598,
     "date": "2026-07-23",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Launch HN: Screenpipe (YC S26) \u2013 Power your agents by your 24/7 screen recording",
+    "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
     "source": "Hacker News",
-    "description": "HN Score: 18 | 9 comments",
-    "url": "https://news.ycombinator.com/item?id=49024620",
-    "score": 18,
+    "description": "HN Score: 455 | 460 comments",
+    "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+    "score": 455,
     "date": "2026-07-23",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+    "title": "Launch HN: Screenpipe (YC S26) \u2013 Record how you work and turn that into agents",
     "source": "Hacker News",
-    "description": "HN Score: 312 | 313 comments",
-    "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
-    "score": 312,
+    "description": "HN Score: 30 | 31 comments",
+    "url": "https://news.ycombinator.com/item?id=49024620",
+    "score": 30,
     "date": "2026-07-23",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Why Software Factories Fail (or: harness engineering is not enough)",
+    "title": "Show HN: Palmier Pro \u2013 Open-source macOS video editor built for AI",
     "source": "Hacker News",
-    "description": "HN Score: 18 | 1 comments",
-    "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
-    "score": 18,
+    "description": "HN Score: 49 | 12 comments",
+    "url": "https://github.com/palmier-io/palmier-pro",
+    "score": 49,
     "date": "2026-07-23",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Free way to get your data out of ChatGPT Business accounts",
+    "title": "Why Software Factories Fail (or: harness engineering is not enough)",
     "source": "Hacker News",
-    "description": "HN Score: 35 | 3 comments",
-    "url": "https://github.com/Conradqh/scrapemychats",
-    "score": 35,
+    "description": "HN Score: 90 | 65 comments",
+    "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
+    "score": 90,
     "date": "2026-07-23",
     "category": "AI News"
   },
@@ -93,63 +93,79 @@
     "category": "Twitter"
   },
   {
-    "title": "Hybrid-Electric Aicraft Engine Targeting 30% Fuel Efficiency",
+    "title": "The arguments against open source AI are bad",
     "source": "Hacker News",
-    "description": "HN Score: 48 | 28 comments",
-    "url": "https://www.rtx.com/news/news-center/2026/07/21/rtxs-pratt-whitney-canada-advances-hybrid-electric-technology-development",
-    "score": 48,
+    "description": "HN Score: 80 | 55 comments",
+    "url": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/",
+    "score": 80,
     "date": "2026-07-23",
     "category": "AI News"
   },
   {
-    "title": "The best time I've had at tech conferences has been sitting down with the people who built the tools I use. Dollar for dollar, nothing beats the ROI o",
+    "title": "R to @svpino: To complete a goal, an agent can now search for an actor on the Apify Store, pay for it, and use it without any human intervention. The ",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2080309461860913376#m",
+    "url": "https://nitter.net/svpino/status/2080366145836916998#m",
+    "date": "2026-07-23",
+    "category": "Twitter"
+  },
+  {
+    "title": "DARPA, U.S. Air Force fly AI-controlled F-16",
+    "source": "Hacker News",
+    "description": "HN Score: 77 | 67 comments",
+    "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
+    "score": 77,
+    "date": "2026-07-23",
+    "category": "AI News"
+  },
+  {
+    "title": "My agent is now paying for its own data. No API key. No account. No credit card. Check the video I recorded: This uses the x402 open protocol built by",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2080366133644066960#m",
     "date": "2026-07-23",
     "category": "Twitter"
   },
   {
     "title": "Show HN: OneCLI \u2013 OSS credential gateway that keeps secrets out of AI agents",
     "source": "Hacker News",
-    "description": "HN Score: 18 | 11 comments",
+    "description": "HN Score: 43 | 19 comments",
     "url": "https://github.com/onecli/onecli",
-    "score": 18,
+    "score": 43,
     "date": "2026-07-23",
     "category": "AI News"
   },
   {
-    "title": "Teach your agents what to do by 'showing' them. This is how you teach other people: You sit them next to you, open a browser, click, click, and done. ",
-    "source": "@svpino",
+    "title": "LOL - everyone is saying Opus 5 is releasing today and is going to break the internet But I am like, when are they gonna drop Fable 6",
+    "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2080279010412839305#m",
+    "url": "https://nitter.net/bindureddy/status/2080343020667629625#m",
     "date": "2026-07-23",
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Palmier Pro \u2013 open-source macOS video editor built for AI",
+    "title": "Hybrid-Electric Aicraft Engine Targeting 30% Fuel Efficiency",
     "source": "Hacker News",
-    "description": "HN Score: 17 | 5 comments",
-    "url": "https://github.com/palmier-io/palmier-pro",
-    "score": 17,
+    "description": "HN Score: 66 | 46 comments",
+    "url": "https://www.rtx.com/news/news-center/2026/07/21/rtxs-pratt-whitney-canada-advances-hybrid-electric-technology-development",
+    "score": 66,
     "date": "2026-07-23",
     "category": "AI News"
+  },
+  {
+    "title": "Build Anything At Scale With Prompts Mix and match Fable 5 and Grok 4.5 and build pretty much anything - create a full-stack website - make companion ",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2080187619942752559#m",
+    "date": "2026-07-23",
+    "category": "Twitter"
   },
   {
     "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
     "source": "Hacker News",
-    "description": "HN Score: 364 | 166 comments",
+    "description": "HN Score: 436 | 209 comments",
     "url": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
-    "score": 364,
-    "date": "2026-07-23",
-    "category": "AI News"
-  },
-  {
-    "title": "You can now run same OCI images as containers or Firecracker microVMs",
-    "source": "Hacker News",
-    "description": "HN Score: 22 | 7 comments",
-    "url": "https://github.com/pullrun/pullrun",
-    "score": 22,
+    "score": 436,
     "date": "2026-07-23",
     "category": "AI News"
   }
