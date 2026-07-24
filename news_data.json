@@ -1,8 +1,15 @@
 [
   {
+    "title": "Prentis, new AI lab co-founded by Reid Hoffman, Marc Pincus in talks to raise $100M",
+    "source": "TechCrunch",
+    "summary": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.",
+    "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-marc-pincus-in-talks-to-raise-100m/",
+    "date": "2026-07-24"
+  },
+  {
     "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
     "source": "TechCrunch",
-    "summary": "AI coding startup Cognition has acquired Poke, the AI assistant you text like a friend, in a deal valuing the startup in the low nine figures. The acquisition brings Poke\u2019s conversational style and interaction model to Cognition\u2019s coding agent Devin, reflecting a growing belief that how AI assist...",
+    "summary": "The acquisition brings Poke\u2019s conversational style and interaction model to Cognition\u2019s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as the models powering them.",
     "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
     "date": "2026-07-24"
   },
@@ -95,13 +102,6 @@
     "source": "TechCrunch",
     "summary": "David Bowie's song 'Five Years,' which Meta used in a supposedly inspiring advertisement, is about humans learning that they have five years left to live before the apocalypse.",
     "url": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/",
-    "date": "2026-07-24"
-  },
-  {
-    "title": "Nvidia is sending GPUs to the moon",
-    "source": "TechCrunch",
-    "summary": "If there's a place in the universe without GPUs, Nvidia is sending them there.",
-    "url": "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/",
     "date": "2026-07-24"
   },
   {
@@ -245,6 +245,20 @@
     "date": "2026-07-24"
   },
   {
+    "title": "Canadian legislator reads out apparent LLM response in floor speech",
+    "source": "Ars Technica",
+    "summary": "'Here\u2019s a more natural, flowing version of that section...'",
+    "url": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/",
+    "date": "2026-07-24"
+  },
+  {
+    "title": "Anthropic's Opus 5 is about token efficiency, not a capability leap",
+    "source": "Ars Technica",
+    "summary": "Models are improving quickly, but the cheaper options are often good enough.",
+    "url": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/",
+    "date": "2026-07-24"
+  },
+  {
     "title": "Team uses AlphaFold AI to redesign gene-editing proteins to make them safer",
     "source": "Ars Technica",
     "summary": "Google's AlphaFold can help ID what parts of a gene editing protein enable mistakes.",
@@ -333,20 +347,6 @@
     "source": "Ars Technica",
     "summary": "The government is piloting a program that uses AI for insurance-coverage decisions.",
     "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/",
-    "date": "2026-07-24"
-  },
-  {
-    "title": "Google-backed satellites for wildfire detection launch as smoke chokes US, Canada",
-    "source": "Ars Technica",
-    "summary": "The FireSat program can spot wildfires that other satellites miss.",
-    "url": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/",
-    "date": "2026-07-24"
-  },
-  {
-    "title": "San Francisco orders Apple, Google to remove nudify apps from app stores",
-    "source": "Ars Technica",
-    "summary": "Official estimates Google and Apple likely made millions in nudify app fees.",
-    "url": "https://arstechnica.com/tech-policy/2026/07/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says/",
     "date": "2026-07-24"
   }
 ]
