@@ -10,9 +10,9 @@
   {
     "title": "Claude Opus 5",
     "source": "Hacker News",
-    "description": "HN Score: 333 | 172 comments",
-    "url": "https://www.anthropic.com/claude-opus-5-system-card",
-    "score": 333,
+    "description": "HN Score: 769 | 434 comments",
+    "url": "https://www.anthropic.com/news/claude-opus-5",
+    "score": 769,
     "date": "2026-07-24",
     "category": "AI News"
   },
@@ -25,11 +25,28 @@
     "category": "Twitter"
   },
   {
-    "title": "As of JDK 27, Oracle engineers will thus stop maintaining the macOS/x64 port",
+    "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
     "source": "Hacker News",
-    "description": "HN Score: 53 | 39 comments",
-    "url": "https://openjdk.org/jeps/541",
-    "score": 53,
+    "description": "HN Score: 193 | 126 comments",
+    "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
+    "score": 193,
+    "date": "2026-07-24",
+    "category": "AI News"
+  },
+  {
+    "title": "Why does codex melt my laptop Like what is it actually doing on the laptop itself",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/EMostaque/status/2080731029975789615#m",
+    "date": "2026-07-24",
+    "category": "Twitter"
+  },
+  {
+    "title": "Self-host your mail server",
+    "source": "Hacker News",
+    "description": "HN Score: 43 | 33 comments",
+    "url": "https://blog.haschek.at/2026/you-should-selfhost-your-mail.html",
+    "score": 43,
     "date": "2026-07-24",
     "category": "AI News"
   },
@@ -44,26 +61,9 @@
   {
     "title": "Half-Life 2 running natively on HaikuOS",
     "source": "Hacker News",
-    "description": "HN Score: 147 | 16 comments",
+    "description": "HN Score: 199 | 30 comments",
     "url": "https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18",
-    "score": 147,
-    "date": "2026-07-24",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @EMostaque: \ud83d\ude80 SANA-Video 2.0 is here! A full-stack optimized video model designed for efficiency \u2014 while still delivering high quality. We combi",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/xieenze_jr/status/2080515566964760764#m",
-    "date": "2026-07-24",
-    "category": "Twitter"
-  },
-  {
-    "title": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
-    "source": "Hacker News",
-    "description": "HN Score: 278 | 45 comments",
-    "url": "https://bfl.ai/blog/flux-3-mimic",
-    "score": 278,
+    "score": 199,
     "date": "2026-07-24",
     "category": "AI News"
   },
@@ -78,9 +78,9 @@
   {
     "title": "Be skeptical of OpenAI's rogue hacker agent story",
     "source": "Hacker News",
-    "description": "HN Score: 79 | 24 comments",
+    "description": "HN Score: 243 | 102 comments",
     "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-    "score": 79,
+    "score": 243,
     "date": "2026-07-24",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Claude Opus 5",
+    "title": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
     "source": "Hacker News",
-    "description": "HN Score: 54 | 7 comments",
-    "url": "https://www.anthropic.com/news/claude-opus-5",
-    "score": 54,
+    "description": "HN Score: 289 | 47 comments",
+    "url": "https://bfl.ai/blog/flux-3-mimic",
+    "score": 289,
     "date": "2026-07-24",
     "category": "AI News"
   },
@@ -110,11 +110,28 @@
     "category": "Twitter"
   },
   {
+    "title": "Latest Airbus single aisle aircraft innovations",
+    "source": "Hacker News",
+    "description": "HN Score: 40 | 65 comments",
+    "url": "https://www.airbus.com/en/newsroom/stories/2026-07-how-the-a321xlr-is-redefining-single-aisle-comfort-for-passengers",
+    "score": 40,
+    "date": "2026-07-24",
+    "category": "AI News"
+  },
+  {
+    "title": "The first real AI cyberattack just happened - OpenAI's own models chained zero-day exploits to breach Hugging Face autonomously Prediction: within 12 ",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2080734244612304940#m",
+    "date": "2026-07-24",
+    "category": "Twitter"
+  },
+  {
     "title": "Claude Cookbook",
     "source": "Hacker News",
-    "description": "HN Score: 268 | 132 comments",
+    "description": "HN Score: 275 | 142 comments",
     "url": "https://platform.claude.com/cookbook/",
-    "score": 268,
+    "score": 275,
     "date": "2026-07-24",
     "category": "AI News"
   },
@@ -129,35 +146,18 @@
   {
     "title": "Show HN: Echo \u2013 Fable-level results at 1/3 the cost using open-weight models",
     "source": "Hacker News",
-    "description": "HN Score: 439 | 210 comments",
+    "description": "HN Score: 445 | 213 comments",
     "url": "https://news.ycombinator.com/item?id=49026810",
-    "score": 439,
+    "score": 445,
     "date": "2026-07-24",
     "category": "AI News"
-  },
-  {
-    "title": "Sonnet 5 dropped and disappeared in a couple of days Opus 5 will have similar issues if it is more expensive than Opus 4.8 Anthropic has increased eff",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2080640715475079597#m",
-    "date": "2026-07-24",
-    "category": "Twitter"
   },
   {
     "title": "Writing by hand is good for your brain",
     "source": "Hacker News",
-    "description": "HN Score: 1407 | 635 comments",
+    "description": "HN Score: 1415 | 642 comments",
     "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
-    "score": 1407,
-    "date": "2026-07-24",
-    "category": "AI News"
-  },
-  {
-    "title": "Interview with a Maintainer",
-    "source": "Hacker News",
-    "description": "HN Score: 18 | 9 comments",
-    "url": "https://nesbitt.io/2026/07/24/interview-with-a-maintainer.html",
-    "score": 18,
+    "score": 1415,
     "date": "2026-07-24",
     "category": "AI News"
   }
