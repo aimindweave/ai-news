@@ -10,9 +10,9 @@
   {
     "title": "Claude Opus 5",
     "source": "Hacker News",
-    "description": "HN Score: 1586 | 930 comments",
+    "description": "HN Score: 1664 | 1038 comments",
     "url": "https://www.anthropic.com/news/claude-opus-5",
-    "score": 1586,
+    "score": 1664,
     "date": "2026-07-25",
     "category": "AI News"
   },
@@ -27,9 +27,43 @@
   {
     "title": "UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities",
     "source": "Hacker News",
-    "description": "HN Score: 73 | 18 comments",
+    "description": "HN Score: 89 | 26 comments",
     "url": "https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities",
-    "score": 73,
+    "score": 89,
+    "date": "2026-07-25",
+    "category": "AI News"
+  },
+  {
+    "title": "ChatGPT app is now melting my iPhone rendering at like one word a second even when I\u2019m typing to it Have I angered the transformer",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/EMostaque/status/2080742495575580792#m",
+    "date": "2026-07-25",
+    "category": "Twitter"
+  },
+  {
+    "title": "Firefox Containers Preview",
+    "source": "Hacker News",
+    "description": "HN Score: 399 | 113 comments",
+    "url": "https://blog.mozilla.org/en/firefox/firefox-containers-preview/",
+    "score": 399,
+    "date": "2026-07-25",
+    "category": "AI News"
+  },
+  {
+    "title": "Why does codex melt my laptop Like what is it actually doing on the laptop itself",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/EMostaque/status/2080731029975789615#m",
+    "date": "2026-07-25",
+    "category": "Twitter"
+  },
+  {
+    "title": "Show HN: I simulated closing the Strait of Hormuz on real oil trade data",
+    "source": "Hacker News",
+    "description": "HN Score: 211 | 99 comments",
+    "url": "https://globaloilnetwork.staffinganalytics.io/",
+    "score": 211,
     "date": "2026-07-25",
     "category": "AI News"
   },
@@ -42,45 +76,62 @@
     "category": "Twitter"
   },
   {
-    "title": "Firefox Containers Preview",
-    "source": "Hacker News",
-    "description": "HN Score: 359 | 103 comments",
-    "url": "https://blog.mozilla.org/en/firefox/firefox-containers-preview/",
-    "score": 359,
-    "date": "2026-07-25",
-    "category": "AI News"
-  },
-  {
-    "title": "I bought the Nordas 003 based on this post from @jasonfried. I've been using them for over a month. So far, they are the best-feeling running shoes I'",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2080970073850667188#m",
-    "date": "2026-07-25",
-    "category": "Twitter"
-  },
-  {
-    "title": "Show HN: I simulated closing the Strait of Hormuz on real oil trade data",
-    "source": "Hacker News",
-    "description": "HN Score: 192 | 90 comments",
-    "url": "https://globaloilnetwork.staffinganalytics.io/",
-    "score": 192,
-    "date": "2026-07-25",
-    "category": "AI News"
-  },
-  {
-    "title": "It's very hard to escape this body when you live in the US unless you are willing to: 1) Pay more money for your food 2) Lift and move more (a lot mor",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2080958279404904518#m",
-    "date": "2026-07-25",
-    "category": "Twitter"
-  },
-  {
     "title": "PartialString \u2013 A finite-difference time-domain physical modelling synthesiser",
     "source": "Hacker News",
-    "description": "HN Score: 25 | 4 comments",
+    "description": "HN Score: 34 | 5 comments",
     "url": "https://differentinstruments.com/",
-    "score": 25,
+    "score": 34,
+    "date": "2026-07-25",
+    "category": "AI News"
+  },
+  {
+    "title": "An ice cream and a steak may have the same number of calories, but they do very different things to your body. After eating that ice cream, you will b",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2080996386506485954#m",
+    "date": "2026-07-25",
+    "category": "Twitter"
+  },
+  {
+    "title": "Half-Life 2 running natively on HaikuOS",
+    "source": "Hacker News",
+    "description": "HN Score: 322 | 65 comments",
+    "url": "https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18",
+    "score": 322,
+    "date": "2026-07-25",
+    "category": "AI News"
+  },
+  {
+    "title": "Can somebody explain which is the absolute best Anthropic model? If I want to use the most powerful model the company offers, which model + effort sho",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2080994726539620376#m",
+    "date": "2026-07-25",
+    "category": "Twitter"
+  },
+  {
+    "title": "IRGC claims it destroyed Amazon's Bahrain data center",
+    "source": "Hacker News",
+    "description": "HN Score: 322 | 397 comments",
+    "url": "https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/",
+    "score": 322,
+    "date": "2026-07-25",
+    "category": "AI News"
+  },
+  {
+    "title": "Extremely surprised that companies continue to buy Salesforce like apps Vibe code an app and hook up a couple of self improving AI agents to it, inste",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2081007838101688542#m",
+    "date": "2026-07-25",
+    "category": "Twitter"
+  },
+  {
+    "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
+    "source": "Hacker News",
+    "description": "HN Score: 625 | 282 comments",
+    "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
+    "score": 625,
     "date": "2026-07-25",
     "category": "AI News"
   },
@@ -93,45 +144,10 @@
     "category": "Twitter"
   },
   {
-    "title": "Half-Life 2 running natively on HaikuOS",
-    "source": "Hacker News",
-    "description": "HN Score: 308 | 57 comments",
-    "url": "https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18",
-    "score": 308,
-    "date": "2026-07-25",
-    "category": "AI News"
-  },
-  {
-    "title": "We had 2 frontier models drop this week - Flash 3.6 and Opus 5 Coming next - Kimi 3 open-weights - Grok 4.6 and 4.7 - Gemini 3.5 Pro - GPT 6 - Fable 5",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2080805562141622493#m",
-    "date": "2026-07-25",
-    "category": "Twitter"
-  },
-  {
-    "title": "IRGC claims it destroyed Amazon's Bahrain data center",
-    "source": "Hacker News",
-    "description": "HN Score: 302 | 362 comments",
-    "url": "https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/",
-    "score": 302,
-    "date": "2026-07-25",
-    "category": "AI News"
-  },
-  {
-    "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
-    "source": "Hacker News",
-    "description": "HN Score: 618 | 271 comments",
-    "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
-    "score": 618,
-    "date": "2026-07-25",
-    "category": "AI News"
-  },
-  {
-    "title": "The OpenAI Models That Hacked Hugging Face Were 'Active on the Internet' for Da",
+    "title": "Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
     "source": "Hacker News",
     "description": "HN Score: 3 | 0 comments",
-    "url": "https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/",
+    "url": "https://www.wsj.com/business/china-us-ai-model-costs-53a12e96",
     "score": 3,
     "date": "2026-07-25",
     "category": "AI News"
@@ -139,9 +155,9 @@
   {
     "title": "Claude Cookbook",
     "source": "Hacker News",
-    "description": "HN Score: 315 | 159 comments",
+    "description": "HN Score: 318 | 161 comments",
     "url": "https://platform.claude.com/cookbook/",
-    "score": 315,
+    "score": 318,
     "date": "2026-07-25",
     "category": "AI News"
   }
