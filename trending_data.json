@@ -10,9 +10,9 @@
   {
     "title": "Claude Opus 5",
     "source": "Hacker News",
-    "description": "HN Score: 1555 | 898 comments",
+    "description": "HN Score: 1586 | 930 comments",
     "url": "https://www.anthropic.com/news/claude-opus-5",
-    "score": 1555,
+    "score": 1586,
     "date": "2026-07-25",
     "category": "AI News"
   },
@@ -27,43 +27,9 @@
   {
     "title": "UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities",
     "source": "Hacker News",
-    "description": "HN Score: 63 | 16 comments",
+    "description": "HN Score: 73 | 18 comments",
     "url": "https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities",
-    "score": 63,
-    "date": "2026-07-25",
-    "category": "AI News"
-  },
-  {
-    "title": "ChatGPT app is now melting my iPhone rendering at like one word a second even when I\u2019m typing to it Have I angered the transformer",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/EMostaque/status/2080742495575580792#m",
-    "date": "2026-07-25",
-    "category": "Twitter"
-  },
-  {
-    "title": "Show HN: I simulated closing the Strait of Hormuz on real oil trade data",
-    "source": "Hacker News",
-    "description": "HN Score: 180 | 87 comments",
-    "url": "https://globaloilnetwork.staffinganalytics.io/",
-    "score": 180,
-    "date": "2026-07-25",
-    "category": "AI News"
-  },
-  {
-    "title": "Why does codex melt my laptop Like what is it actually doing on the laptop itself",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/EMostaque/status/2080731029975789615#m",
-    "date": "2026-07-25",
-    "category": "Twitter"
-  },
-  {
-    "title": "PartialString \u2013 A finite-difference time-domain physical modelling synthesiser",
-    "source": "Hacker News",
-    "description": "HN Score: 21 | 4 comments",
-    "url": "https://differentinstruments.com/",
-    "score": 21,
+    "score": 73,
     "date": "2026-07-25",
     "category": "AI News"
   },
@@ -78,9 +44,43 @@
   {
     "title": "Firefox Containers Preview",
     "source": "Hacker News",
-    "description": "HN Score: 340 | 97 comments",
+    "description": "HN Score: 359 | 103 comments",
     "url": "https://blog.mozilla.org/en/firefox/firefox-containers-preview/",
-    "score": 340,
+    "score": 359,
+    "date": "2026-07-25",
+    "category": "AI News"
+  },
+  {
+    "title": "I bought the Nordas 003 based on this post from @jasonfried. I've been using them for over a month. So far, they are the best-feeling running shoes I'",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2080970073850667188#m",
+    "date": "2026-07-25",
+    "category": "Twitter"
+  },
+  {
+    "title": "Show HN: I simulated closing the Strait of Hormuz on real oil trade data",
+    "source": "Hacker News",
+    "description": "HN Score: 192 | 90 comments",
+    "url": "https://globaloilnetwork.staffinganalytics.io/",
+    "score": 192,
+    "date": "2026-07-25",
+    "category": "AI News"
+  },
+  {
+    "title": "It's very hard to escape this body when you live in the US unless you are willing to: 1) Pay more money for your food 2) Lift and move more (a lot mor",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2080958279404904518#m",
+    "date": "2026-07-25",
+    "category": "Twitter"
+  },
+  {
+    "title": "PartialString \u2013 A finite-difference time-domain physical modelling synthesiser",
+    "source": "Hacker News",
+    "description": "HN Score: 25 | 4 comments",
+    "url": "https://differentinstruments.com/",
+    "score": 25,
     "date": "2026-07-25",
     "category": "AI News"
   },
@@ -95,9 +95,9 @@
   {
     "title": "Half-Life 2 running natively on HaikuOS",
     "source": "Hacker News",
-    "description": "HN Score: 303 | 56 comments",
+    "description": "HN Score: 308 | 57 comments",
     "url": "https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18",
-    "score": 303,
+    "score": 308,
     "date": "2026-07-25",
     "category": "AI News"
   },
@@ -110,38 +110,38 @@
     "category": "Twitter"
   },
   {
-    "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
-    "source": "Hacker News",
-    "description": "HN Score: 608 | 266 comments",
-    "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
-    "score": 608,
-    "date": "2026-07-25",
-    "category": "AI News"
-  },
-  {
     "title": "IRGC claims it destroyed Amazon's Bahrain data center",
     "source": "Hacker News",
-    "description": "HN Score: 296 | 357 comments",
+    "description": "HN Score: 302 | 362 comments",
     "url": "https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/",
-    "score": 296,
+    "score": 302,
     "date": "2026-07-25",
     "category": "AI News"
   },
   {
-    "title": "Be skeptical of OpenAI's rogue hacker agent story",
+    "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
     "source": "Hacker News",
-    "description": "HN Score: 489 | 281 comments",
-    "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-    "score": 489,
+    "description": "HN Score: 618 | 271 comments",
+    "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
+    "score": 618,
+    "date": "2026-07-25",
+    "category": "AI News"
+  },
+  {
+    "title": "The OpenAI Models That Hacked Hugging Face Were 'Active on the Internet' for Da",
+    "source": "Hacker News",
+    "description": "HN Score: 3 | 0 comments",
+    "url": "https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/",
+    "score": 3,
     "date": "2026-07-25",
     "category": "AI News"
   },
   {
     "title": "Claude Cookbook",
     "source": "Hacker News",
-    "description": "HN Score: 312 | 159 comments",
+    "description": "HN Score: 315 | 159 comments",
     "url": "https://platform.claude.com/cookbook/",
-    "score": 312,
+    "score": 315,
     "date": "2026-07-25",
     "category": "AI News"
   }
