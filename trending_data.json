@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Clinical failure rates over the decades: yikes",
+    "title": "The new rules of context engineering for Claude 5 generation models",
     "source": "Hacker News",
-    "description": "HN Score: 63 | 34 comments",
-    "url": "https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes",
-    "score": 63,
+    "description": "HN Score: 268 | 168 comments",
+    "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+    "score": 268,
     "date": "2026-07-26",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Cloudflare's new AI traffic options for customers",
+    "title": "Rethinking Legal Education in the AI Era",
     "source": "Hacker News",
-    "description": "HN Score: 54 | 31 comments",
-    "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
-    "score": 54,
+    "description": "HN Score: 57 | 16 comments",
+    "url": "https://www.law.uchicago.edu/news/ai-strategy-statement",
+    "score": 57,
     "date": "2026-07-26",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "The new rules of context engineering for Claude 5 generation models",
+    "title": "Clinical failure rates over the decades: yikes",
     "source": "Hacker News",
-    "description": "HN Score: 192 | 131 comments",
-    "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-    "score": 192,
+    "description": "HN Score: 87 | 49 comments",
+    "url": "https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes",
+    "score": 87,
     "date": "2026-07-26",
     "category": "AI News"
   },
@@ -61,9 +61,26 @@
   {
     "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
     "source": "Hacker News",
-    "description": "HN Score: 97 | 20 comments",
+    "description": "HN Score: 146 | 29 comments",
     "url": "https://github.com/slvDev/esp32-ai",
-    "score": 97,
+    "score": 146,
+    "date": "2026-07-26",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: Alright, I give up. I can't tell anymore what's AI and what's real. I hereby declare I'm unable to recognize real from fiction anymore.",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2081041591436034168#m",
+    "date": "2026-07-26",
+    "category": "Twitter"
+  },
+  {
+    "title": "LLM Usage in Debian: Three Proposals",
+    "source": "Hacker News",
+    "description": "HN Score: 129 | 112 comments",
+    "url": "https://www.debian.org/vote/2026/vote_002",
+    "score": 129,
     "date": "2026-07-26",
     "category": "AI News"
   },
@@ -76,28 +93,28 @@
     "category": "Twitter"
   },
   {
-    "title": "LLM Usage in Debian: Three Proposals",
+    "title": "Open-weight AI is having its Kubernetes moment",
     "source": "Hacker News",
-    "description": "HN Score: 98 | 90 comments",
-    "url": "https://www.debian.org/vote/2026/vote_002",
-    "score": 98,
+    "description": "HN Score: 362 | 283 comments",
+    "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
+    "score": 362,
     "date": "2026-07-26",
     "category": "AI News"
   },
   {
-    "title": "Alright, I give up. I can't tell anymore what's AI and what's real. I hereby declare I'm unable to recognize real from fiction anymore. AI won.",
-    "source": "@svpino",
+    "title": "\ud83d\udea8 Opus 5 vs Fable 5 - Fable 5 is much faster - Opust 5 has been aligned to be risk-averse - Opus 5 takes more turns to get the task done. Overall, Fab",
+    "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2081041591436034168#m",
+    "url": "https://nitter.net/bindureddy/status/2081259575412715566#m",
     "date": "2026-07-26",
     "category": "Twitter"
   },
   {
-    "title": "Open-weight AI is having its Kubernetes moment",
+    "title": "Agatha Christie's Disappearance: Amnesia, Suicide, or Despair?",
     "source": "Hacker News",
-    "description": "HN Score: 328 | 264 comments",
-    "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
-    "score": 328,
+    "description": "HN Score: 18 | 6 comments",
+    "url": "https://www.historicmysteries.com/unexplained-mysteries/agatha-christie-disappearance/23136/",
+    "score": 18,
     "date": "2026-07-26",
     "category": "AI News"
   },
@@ -110,46 +127,29 @@
     "category": "Twitter"
   },
   {
-    "title": "Rethinking Legal Education in the AI Era",
+    "title": "Cloudflare's new AI traffic options for customers",
     "source": "Hacker News",
-    "description": "HN Score: 16 | 0 comments",
-    "url": "https://www.law.uchicago.edu/news/ai-strategy-statement",
-    "score": 16,
+    "description": "HN Score: 91 | 67 comments",
+    "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
+    "score": 91,
     "date": "2026-07-26",
     "category": "AI News"
   },
   {
-    "title": "The Best Path Towards Safe AI Is Open Source AI The AI safety crowd has hated on open-source AI, claiming it should be banned. They have cried wolf wa",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2081069034758607006#m",
-    "date": "2026-07-26",
-    "category": "Twitter"
-  },
-  {
     "title": "Show HN: Brolly, a plain-text weather forecast site",
     "source": "Hacker News",
-    "description": "HN Score: 140 | 45 comments",
+    "description": "HN Score: 169 | 50 comments",
     "url": "https://brolly.sh/forecast/RWFP2qW8",
-    "score": 140,
+    "score": 169,
     "date": "2026-07-26",
     "category": "AI News"
   },
   {
     "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
     "source": "Hacker News",
-    "description": "HN Score: 98 | 63 comments",
+    "description": "HN Score: 121 | 88 comments",
     "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
-    "score": 98,
-    "date": "2026-07-26",
-    "category": "AI News"
-  },
-  {
-    "title": "Becoming a Research Engineer at a Big LLM Lab",
-    "source": "Hacker News",
-    "description": "HN Score: 24 | 9 comments",
-    "url": "https://www.maxmynter.com/pages/blog/jobhunt",
-    "score": 24,
+    "score": 121,
     "date": "2026-07-26",
     "category": "AI News"
   }
