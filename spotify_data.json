@@ -93,6 +93,16 @@
   ],
   "episodes": [
     {
+      "id": "a]6z Pod_0",
+      "name": "Ben Horowitz: The Fight Over Open Source AI",
+      "show": "a]6z Podcast",
+      "description": "Ben Horowitz joins Theo Jaffee and Sofia Puccini to discuss one of the biggest debates in AI today: the future of open-source models. They examine the growing push to restrict open models, why Ben ",
+      "release_date": "2026-07-26",
+      "duration_min": 32,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
       "id": "Hard For_0",
       "name": "OpenAI Models Go Rogue + Kimi K3 Freakout + A.I. Superforecasting",
       "show": "Hard Fork",
@@ -103,7 +113,7 @@
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
-      "id": "a]6z Pod_0",
+      "id": "a]6z Pod_1",
       "name": "Sriram Krishnan on Open Source AI's Biggest Week Yet",
       "show": "a]6z Podcast",
       "description": "Sriram Krishnan joins Theo Jaffee and Sofia Puccini just after concluding his tenure as Senior White House Policy Advisor on AI to discuss one of the biggest weeks yet for open-source AI. They unpa",
@@ -123,22 +133,12 @@
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "Building the Physical AI Stack | Travis Kalanick on TBPN",
       "show": "a]6z Podcast",
       "description": "Travis Kalanick joins TBPN to discuss Atoms, his vision for industrial AI, and why he believes the biggest opportunities in AI lie beyond software.\nHe explains how Atoms is bringing autonomy",
       "release_date": "2026-07-23",
       "duration_min": 45,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
-    },
-    {
-      "id": "a]6z Pod_2",
-      "name": "Travis Kalanick Is Back | Building the Future of Industrial AI",
-      "show": "a]6z Podcast",
-      "description": "Travis Kalanick, Ben Horowitz, and Erik Torenberg reunite to reflect on Uber's early days, the investment that almost happened, and why Kalanick believes the next great technology opportunity lies ",
-      "release_date": "2026-07-22",
-      "duration_min": 92,
       "image": "",
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },

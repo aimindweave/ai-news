@@ -10,9 +10,9 @@
   {
     "title": "GrapheneOS protections against data extraction from locked devices",
     "source": "Hacker News",
-    "description": "HN Score: 72 | 32 comments",
+    "description": "HN Score: 184 | 100 comments",
     "url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
-    "score": 72,
+    "score": 184,
     "date": "2026-07-26",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "The new rules of context engineering for Claude 5 generation models",
     "source": "Hacker News",
-    "description": "HN Score: 332 | 218 comments",
+    "description": "HN Score: 382 | 277 comments",
     "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-    "score": 332,
+    "score": 382,
     "date": "2026-07-26",
     "category": "AI News"
   },
@@ -44,9 +44,9 @@
   {
     "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
     "source": "Hacker News",
-    "description": "HN Score: 150 | 103 comments",
+    "description": "HN Score: 193 | 149 comments",
     "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
-    "score": 150,
+    "score": 193,
     "date": "2026-07-26",
     "category": "AI News"
   },
@@ -61,9 +61,26 @@
   {
     "title": "Cloudflare's new AI traffic options for customers",
     "source": "Hacker News",
-    "description": "HN Score: 123 | 96 comments",
+    "description": "HN Score: 145 | 124 comments",
     "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
-    "score": 123,
+    "score": 145,
+    "date": "2026-07-26",
+    "category": "AI News"
+  },
+  {
+    "title": "Anthropic is lobbying for rules that allow the government to block the release of 'dangerous' models, including open-weight models. Obviously, you are",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2081353056931684559#m",
+    "date": "2026-07-26",
+    "category": "Twitter"
+  },
+  {
+    "title": "What is happening to jobs? Separating AI hype from reality",
+    "source": "Hacker News",
+    "description": "HN Score: 140 | 190 comments",
+    "url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
+    "score": 140,
     "date": "2026-07-26",
     "category": "AI News"
   },
@@ -76,28 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Rethinking Legal Education in the AI Era",
-    "source": "Hacker News",
-    "description": "HN Score: 76 | 38 comments",
-    "url": "https://www.law.uchicago.edu/news/ai-strategy-statement",
-    "score": 76,
-    "date": "2026-07-26",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: Can somebody explain which is the absolute best Anthropic model? If I want to use the most powerful model the company offers, which mod",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2080994726539620376#m",
-    "date": "2026-07-26",
-    "category": "Twitter"
-  },
-  {
     "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
     "source": "Hacker News",
-    "description": "HN Score: 189 | 42 comments",
+    "description": "HN Score: 232 | 54 comments",
     "url": "https://github.com/slvDev/esp32-ai",
-    "score": 189,
+    "score": 232,
     "date": "2026-07-26",
     "category": "AI News"
   },
@@ -110,10 +110,10 @@
     "category": "Twitter"
   },
   {
-    "title": "Clinical failure rates over the decades: yikes",
+    "title": "Rethinking Legal Education in the AI Era",
     "source": "Hacker News",
-    "description": "HN Score: 103 | 81 comments",
-    "url": "https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes",
+    "description": "HN Score: 103 | 58 comments",
+    "url": "https://www.law.uchicago.edu/news/ai-strategy-statement",
     "score": 103,
     "date": "2026-07-26",
     "category": "AI News"
@@ -129,27 +129,27 @@
   {
     "title": "LLM Usage in Debian: Three Proposals",
     "source": "Hacker News",
-    "description": "HN Score: 160 | 143 comments",
+    "description": "HN Score: 185 | 161 comments",
     "url": "https://www.debian.org/vote/2026/vote_002",
-    "score": 160,
+    "score": 185,
     "date": "2026-07-26",
     "category": "AI News"
   },
   {
-    "title": "What is happening to jobs? Separating AI hype from reality",
+    "title": "Clinical failure rates over the decades: yikes",
     "source": "Hacker News",
-    "description": "HN Score: 91 | 105 comments",
-    "url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
-    "score": 91,
+    "description": "HN Score: 114 | 95 comments",
+    "url": "https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes",
+    "score": 114,
     "date": "2026-07-26",
     "category": "AI News"
   },
   {
     "title": "Show HN: Brolly, a plain-text weather forecast site",
     "source": "Hacker News",
-    "description": "HN Score: 192 | 68 comments",
+    "description": "HN Score: 206 | 75 comments",
     "url": "https://brolly.sh/forecast/RWFP2qW8",
-    "score": 192,
+    "score": 206,
     "date": "2026-07-26",
     "category": "AI News"
   }
