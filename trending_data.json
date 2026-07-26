@@ -4,16 +4,16 @@
     "source": "@kaborobot",
     "description": "",
     "url": "https://nitter.net/kaborobot/status/2063568544277909948#m",
-    "date": "2026-07-25",
+    "date": "2026-07-26",
     "category": "Twitter"
   },
   {
-    "title": "The new rules of context engineering for Claude 5 generation models",
+    "title": "Clinical failure rates over the decades: yikes",
     "source": "Hacker News",
-    "description": "HN Score: 96 | 46 comments",
-    "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-    "score": 96,
-    "date": "2026-07-25",
+    "description": "HN Score: 63 | 34 comments",
+    "url": "https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes",
+    "score": 63,
+    "date": "2026-07-26",
     "category": "AI News"
   },
   {
@@ -21,16 +21,16 @@
     "source": "@kaborobot",
     "description": "",
     "url": "https://nitter.net/kaborobot/status/2058205543760838842#m",
-    "date": "2026-07-25",
+    "date": "2026-07-26",
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Brolly, a plain-text weather forecast site",
+    "title": "Cloudflare's new AI traffic options for customers",
     "source": "Hacker News",
-    "description": "HN Score: 91 | 31 comments",
-    "url": "https://brolly.sh/forecast/RWFP2qW8",
-    "score": 91,
-    "date": "2026-07-25",
+    "description": "HN Score: 54 | 31 comments",
+    "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
+    "score": 54,
+    "date": "2026-07-26",
     "category": "AI News"
   },
   {
@@ -38,16 +38,16 @@
     "source": "@EMostaque",
     "description": "",
     "url": "https://nitter.net/DennysDiner/status/2081069889931112816#m",
-    "date": "2026-07-25",
+    "date": "2026-07-26",
     "category": "Twitter"
   },
   {
-    "title": "Open-weight AI is having its Kubernetes moment",
+    "title": "The new rules of context engineering for Claude 5 generation models",
     "source": "Hacker News",
-    "description": "HN Score: 279 | 228 comments",
-    "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
-    "score": 279,
-    "date": "2026-07-25",
+    "description": "HN Score: 192 | 131 comments",
+    "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+    "score": 192,
+    "date": "2026-07-26",
     "category": "AI News"
   },
   {
@@ -55,16 +55,33 @@
     "source": "@DrJimFan",
     "description": "",
     "url": "https://nitter.net/DrJimFan/status/2080798306566045756#m",
-    "date": "2026-07-25",
+    "date": "2026-07-26",
     "category": "Twitter"
   },
   {
-    "title": "General Resolution: LLM Usage in Debian",
+    "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
     "source": "Hacker News",
-    "description": "HN Score: 20 | 7 comments",
+    "description": "HN Score: 97 | 20 comments",
+    "url": "https://github.com/slvDev/esp32-ai",
+    "score": 97,
+    "date": "2026-07-26",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: Can somebody explain which is the absolute best Anthropic model? If I want to use the most powerful model the company offers, which mod",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2080994726539620376#m",
+    "date": "2026-07-26",
+    "category": "Twitter"
+  },
+  {
+    "title": "LLM Usage in Debian: Three Proposals",
+    "source": "Hacker News",
+    "description": "HN Score: 98 | 90 comments",
     "url": "https://www.debian.org/vote/2026/vote_002",
-    "score": 20,
-    "date": "2026-07-25",
+    "score": 98,
+    "date": "2026-07-26",
     "category": "AI News"
   },
   {
@@ -72,33 +89,16 @@
     "source": "@svpino",
     "description": "",
     "url": "https://nitter.net/svpino/status/2081041591436034168#m",
-    "date": "2026-07-25",
+    "date": "2026-07-26",
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Yorishiro \u2013 a macOS terminal where AI agents live",
+    "title": "Open-weight AI is having its Kubernetes moment",
     "source": "Hacker News",
-    "description": "HN Score: 23 | 6 comments",
-    "url": "https://github.com/sktkkoo/Yorishiro",
-    "score": 23,
-    "date": "2026-07-25",
-    "category": "AI News"
-  },
-  {
-    "title": "R to @svpino: This is Vivix-A1. The real-time interaction on this is pretty cool. You can interrupt it or change your mind halfway through, and it doe",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2081041680221020512#m",
-    "date": "2026-07-25",
-    "category": "Twitter"
-  },
-  {
-    "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
-    "source": "Hacker News",
-    "description": "HN Score: 11 | 0 comments",
-    "url": "https://github.com/slvDev/esp32-ai",
-    "score": 11,
-    "date": "2026-07-25",
+    "description": "HN Score: 328 | 264 comments",
+    "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
+    "score": 328,
+    "date": "2026-07-26",
     "category": "AI News"
   },
   {
@@ -106,16 +106,16 @@
     "source": "@bindureddy",
     "description": "",
     "url": "https://nitter.net/bindureddy/status/2081129239777288576#m",
-    "date": "2026-07-25",
+    "date": "2026-07-26",
     "category": "Twitter"
   },
   {
-    "title": "UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities",
+    "title": "Rethinking Legal Education in the AI Era",
     "source": "Hacker News",
-    "description": "HN Score: 122 | 39 comments",
-    "url": "https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities",
-    "score": 122,
-    "date": "2026-07-25",
+    "description": "HN Score: 16 | 0 comments",
+    "url": "https://www.law.uchicago.edu/news/ai-strategy-statement",
+    "score": 16,
+    "date": "2026-07-26",
     "category": "AI News"
   },
   {
@@ -123,7 +123,34 @@
     "source": "@bindureddy",
     "description": "",
     "url": "https://nitter.net/bindureddy/status/2081069034758607006#m",
-    "date": "2026-07-25",
+    "date": "2026-07-26",
     "category": "Twitter"
+  },
+  {
+    "title": "Show HN: Brolly, a plain-text weather forecast site",
+    "source": "Hacker News",
+    "description": "HN Score: 140 | 45 comments",
+    "url": "https://brolly.sh/forecast/RWFP2qW8",
+    "score": 140,
+    "date": "2026-07-26",
+    "category": "AI News"
+  },
+  {
+    "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+    "source": "Hacker News",
+    "description": "HN Score: 98 | 63 comments",
+    "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+    "score": 98,
+    "date": "2026-07-26",
+    "category": "AI News"
+  },
+  {
+    "title": "Becoming a Research Engineer at a Big LLM Lab",
+    "source": "Hacker News",
+    "description": "HN Score: 24 | 9 comments",
+    "url": "https://www.maxmynter.com/pages/blog/jobhunt",
+    "score": 24,
+    "date": "2026-07-26",
+    "category": "AI News"
   }
 ]
