@@ -1,5 +1,12 @@
 [
   {
+    "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
+    "source": "TechCrunch",
+    "summary": "The issue appears to have originated from Claude\u2019s \u201cshare chat\u201d feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
+    "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+    "date": "2026-07-27"
+  },
+  {
     "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
     "source": "TechCrunch",
     "summary": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
@@ -98,13 +105,6 @@
     "date": "2026-07-27"
   },
   {
-    "title": "I tried out OpenAI\u2019s new AI keypad \u2014 which will be fun for some coders and slightly mystifying to everyone else",
-    "source": "TechCrunch",
-    "summary": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.",
-    "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
-    "date": "2026-07-27"
-  },
-  {
     "title": "OpenAI called the Hugging Face attack unprecedented. But we\u2019ve been here before.",
     "source": "MIT Tech Review",
     "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Reading OpenAI\u2019s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face, another AI company, ...",
@@ -175,6 +175,13 @@
     "date": "2026-07-27"
   },
   {
+    "title": "Private Claude Chats Exposed in Google and Bing Search Results",
+    "source": "Wired",
+    "summary": "The screwup shows how tricky it can be to stop web crawlers from making ostensibly private conversations with AI chatbots entirely too public.",
+    "url": "https://www.wired.com/story/private-claude-chats-exposed-in-google-and-bing-search-results/",
+    "date": "2026-07-27"
+  },
+  {
     "title": "This Is Donald Trump\u2019s AI Brain Trust",
     "source": "Wired",
     "summary": "\u201cIt\u2019s not an argument with two sides, it\u2019s an argument with 10 sides,\u201d one senior administration official tells WIRED about how US AI policy is being shaped.",
@@ -238,10 +245,10 @@
     "date": "2026-07-27"
   },
   {
-    "title": "OpenAI Models Escaped Containment and Hacked Hugging Face",
-    "source": "Wired",
-    "summary": "The cybersecurity-focused models, including GPT-5.6 Sol, broke out of a testing sandbox, exploited a zero-day, and gained access to the open internet to pull off the attack.",
-    "url": "https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/",
+    "title": "\u201cGoogle and Reddit do not own the Internet,' web scraper says after court win",
+    "source": "Ars Technica",
+    "summary": "Google's and Reddit's use of DMCA to fight web scraper is bizarre, expert says.",
+    "url": "https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss/",
     "date": "2026-07-27"
   },
   {
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "Anthropic blocks authors from opting out of $1.5B settlement at last minute.",
     "url": "https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/",
-    "date": "2026-07-27"
-  },
-  {
-    "title": "Google announces Gemini 3.6 Flash and cybersecurity AI, teases 3.5 Pro and Gemini 4",
-    "source": "Ars Technica",
-    "summary": "There are new 3.6 and 3.5 models today, but Google is already training Gemini 4.",
-    "url": "https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/",
     "date": "2026-07-27"
   }
 ]
