@@ -1,5 +1,12 @@
 [
   {
+    "title": "Satya Nadella says companies that trust one AI for everything may not survive",
+    "source": "TechCrunch",
+    "summary": "Companies without their own models \u2014 or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself \u2014 will be in trouble, Nadella says.",
+    "url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+    "date": "2026-07-27"
+  },
+  {
     "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
     "source": "TechCrunch",
     "summary": "The issue appears to have originated from Claude\u2019s \u201cshare chat\u201d feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
@@ -95,13 +102,6 @@
     "source": "TechCrunch",
     "summary": "At libraries around the country, 'Avoiding AI' workshops have elicited unprecedented demand.",
     "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
-    "date": "2026-07-27"
-  },
-  {
-    "title": "One fallen power line exposed a growing AI data center problem \u2014 here\u2019s how to fix it",
-    "source": "TechCrunch",
-    "summary": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
-    "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
     "date": "2026-07-27"
   },
   {
@@ -245,6 +245,13 @@
     "date": "2026-07-27"
   },
   {
+    "title": "Microsoft unveils AI security tools it says outperform competing platforms",
+    "source": "Ars Technica",
+    "summary": "Microsoft says tools cost less than competing ones and outperform them, too.",
+    "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+    "date": "2026-07-27"
+  },
+  {
     "title": "\u201cGoogle and Reddit do not own the Internet,' web scraper says after court win",
     "source": "Ars Technica",
     "summary": "Google's and Reddit's use of DMCA to fight web scraper is bizarre, expert says.",
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "Troops received an email informing them that they were rapidly depleting their AI tokens.",
     "url": "https://arstechnica.com/ai/2026/07/us-army-faces-ai-use-limits-after-exhausting-years-supply-of-ai-tokens/",
-    "date": "2026-07-27"
-  },
-  {
-    "title": "Anthropic\u2019s $1.5B copyright settlement approved; only 350 authors opted out",
-    "source": "Ars Technica",
-    "summary": "Anthropic blocks authors from opting out of $1.5B settlement at last minute.",
-    "url": "https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/",
     "date": "2026-07-27"
   }
 ]
