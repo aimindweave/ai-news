@@ -1,5 +1,12 @@
 [
   {
+    "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
+    "source": "TechCrunch",
+    "summary": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
+    "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+    "date": "2026-07-27"
+  },
+  {
     "title": "OpenAI\u2019s Hugging Face breach has reignited the debate over alignment and control",
     "source": "TechCrunch",
     "summary": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both.",
@@ -98,10 +105,10 @@
     "date": "2026-07-27"
   },
   {
-    "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
-    "source": "TechCrunch",
-    "summary": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.",
-    "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+    "title": "OpenAI called the Hugging Face attack unprecedented. But we\u2019ve been here before.",
+    "source": "MIT Tech Review",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Reading OpenAI\u2019s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face, another AI company, ...",
+    "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
     "date": "2026-07-27"
   },
   {
@@ -165,13 +172,6 @@
     "source": "MIT Tech Review",
     "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. The power line that could reshape New York\u2019s grid is hitting snags During a heat wave on July 3, New York State\u2019s grid imported enough electricity from Canada ...",
     "url": "https://www.technologyreview.com/2026/07/23/1140753/the-download-energy-transmission-and-us-threats-chinese-ai/",
-    "date": "2026-07-27"
-  },
-  {
-    "title": "How AI helps scientists design the next generation of medicines",
-    "source": "MIT Tech Review",
-    "summary": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And even then, most possible candidates never reach the patient. For biologic medicines, therapies made from engineered ...",
-    "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
     "date": "2026-07-27"
   },
   {
@@ -242,6 +242,13 @@
     "source": "Wired",
     "summary": "The cybersecurity-focused models, including GPT-5.6 Sol, broke out of a testing sandbox, exploited a zero-day, and gained access to the open internet to pull off the attack.",
     "url": "https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/",
+    "date": "2026-07-27"
+  },
+  {
+    "title": "Verizon touts $1B dark fiber deal for Google data centers as first of many",
+    "source": "Ars Technica",
+    "summary": "Telecom expects AI revenue from dark fiber deals and retrofitted data centers.",
+    "url": "https://arstechnica.com/ai/2026/07/verizon-seeks-ai-profits-with-mini-data-centers-1b-dark-fiber-deal-with-google/",
     "date": "2026-07-27"
   },
   {
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "There are new 3.6 and 3.5 models today, but Google is already training Gemini 4.",
     "url": "https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/",
-    "date": "2026-07-27"
-  },
-  {
-    "title": "Firefighting drones in the works as wildfires plague US nearly year-round",
-    "source": "Ars Technica",
-    "summary": "California and XPRIZE competition tests whether drones can stop wildfires early.",
-    "url": "https://arstechnica.com/ai/2026/07/firefighting-drones-in-the-works-as-wildfires-plague-us-nearly-year-round/",
     "date": "2026-07-27"
   }
 ]
