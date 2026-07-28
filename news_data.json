@@ -1,5 +1,19 @@
 [
   {
+    "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
+    "source": "TechCrunch",
+    "summary": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP gateway product and then opted to build one itself.",
+    "url": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
+    "date": "2026-07-28"
+  },
+  {
+    "title": "Sam Altman is ready to decelerate",
+    "source": "TechCrunch",
+    "summary": "His change of position comes after 'the first security incident that I have felt very viscerally.'",
+    "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
+    "date": "2026-07-28"
+  },
+  {
     "title": "Data centers may face temporary power cuts to prevent blackouts on largest US grid",
     "source": "TechCrunch",
     "summary": "The decision arrives as the breakneck pace of data center construction has grid operators scrambling to generate power.",
@@ -88,20 +102,6 @@
     "source": "TechCrunch",
     "summary": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
     "url": "https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/",
-    "date": "2026-07-28"
-  },
-  {
-    "title": "Ilya Sutskever\u2019s Safe Superintelligence partners with Nvidia to scale its AI research",
-    "source": "TechCrunch",
-    "summary": "After two years in stealth, Safe Superintelligence has announced a long-term partnership with Nvidia as it prepares to scale to its next phase.",
-    "url": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
-    "date": "2026-07-28"
-  },
-  {
-    "title": "Enigma raises $71M to make controlling a robot as easy as adjusting the volume",
-    "source": "TechCrunch",
-    "summary": "The massive seed round was led by Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.",
-    "url": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
     "date": "2026-07-28"
   },
   {
@@ -245,6 +245,13 @@
     "date": "2026-07-28"
   },
   {
+    "title": "Despite AI hype, Google's data shows workers aren't automating themselves away",
+    "source": "Ars Technica",
+    "summary": "Analysis of 15 million real AI interactions finds most tasks at most jobs are unaffected.",
+    "url": "https://arstechnica.com/ai/2026/07/despite-ai-hype-googles-data-shows-workers-arent-automating-themselves-away/",
+    "date": "2026-07-28"
+  },
+  {
     "title": "Microsoft unveils AI security tools it says outperform competing platforms",
     "source": "Ars Technica",
     "summary": "Microsoft says tools cost less than competing ones and outperform them, too.",
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "'This is day one for cybersecurity in the age of agents,' Hugging Face CEO says.",
     "url": "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/",
-    "date": "2026-07-28"
-  },
-  {
-    "title": "Unlimited AI tokens aren't unlimited after all as US Army burns through supply",
-    "source": "Ars Technica",
-    "summary": "Troops received an email informing them that they were rapidly depleting their AI tokens.",
-    "url": "https://arstechnica.com/ai/2026/07/us-army-faces-ai-use-limits-after-exhausting-years-supply-of-ai-tokens/",
     "date": "2026-07-28"
   }
 ]
