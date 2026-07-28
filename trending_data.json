@@ -10,9 +10,9 @@
   {
     "title": "OpenAI just open-sourced Codex Security",
     "source": "Hacker News",
-    "description": "HN Score: 12 | 0 comments",
+    "description": "HN Score: 241 | 46 comments",
     "url": "https://github.com/openai/codex-security",
-    "score": 12,
+    "score": 241,
     "date": "2026-07-28",
     "category": "AI News"
   },
@@ -25,45 +25,45 @@
     "category": "Twitter"
   },
   {
+    "title": "Anthropic publishes a practical key-recovery attack on HAWK-256",
+    "source": "Hacker News",
+    "description": "HN Score: 37 | 3 comments",
+    "url": "https://github.com/anthropics/cryptography-research-demo",
+    "score": 37,
+    "date": "2026-07-28",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: Image",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/Sauers_/status/2082171683645817193#m",
+    "date": "2026-07-28",
+    "category": "Twitter"
+  },
+  {
     "title": "Discovering Cryptographic Weaknesses with Claude",
     "source": "Hacker News",
-    "description": "HN Score: 110 | 57 comments",
+    "description": "HN Score: 154 | 81 comments",
     "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
-    "score": 110,
+    "score": 154,
     "date": "2026-07-28",
     "category": "AI News"
   },
   {
-    "title": "RT by @EMostaque: 'FCC plans to announce restrictions Tuesday barring imports of new Chinese humanoid and quadruped robot models, along with new Chine",
+    "title": "Hey @grok @SpaceXAI team can you please make it so we can queue up prompts? With how fast Grok is would make it much easier and be very useful for new",
     "source": "@EMostaque",
     "description": "",
-    "url": "https://nitter.net/Rewkang/status/2082179813750542619#m",
+    "url": "https://nitter.net/EMostaque/status/2082221122557182352#m",
     "date": "2026-07-28",
     "category": "Twitter"
   },
   {
-    "title": "Now Is the Time to Give LLMs Access to the ACM Digital Library",
+    "title": "Una GPS smart watch \u2013 Repairable, USB-C charging, developer-friendly",
     "source": "Hacker News",
-    "description": "HN Score: 85 | 61 comments",
-    "url": "https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/",
-    "score": 85,
-    "date": "2026-07-28",
-    "category": "AI News"
-  },
-  {
-    "title": "Where did all the reasoning tokens hide \ud83d\ude2d",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/EMostaque/status/2082167703163273708#m",
-    "date": "2026-07-28",
-    "category": "Twitter"
-  },
-  {
-    "title": "Harmony Explained: Progress Towards a Scientific Theory of Music (2012)",
-    "source": "Hacker News",
-    "description": "HN Score: 77 | 58 comments",
-    "url": "https://arxiv.org/abs/1202.4212",
-    "score": 77,
+    "description": "HN Score: 121 | 79 comments",
+    "url": "https://unawatch.com/",
+    "score": 121,
     "date": "2026-07-28",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Una GPS smart watch \u2013 Repairable, USB-C charging, developer-friendly",
+    "title": "Harmony Explained: Progress Towards a Scientific Theory of Music (2012)",
     "source": "Hacker News",
-    "description": "HN Score: 89 | 62 comments",
-    "url": "https://unawatch.com/",
-    "score": 89,
+    "description": "HN Score: 85 | 71 comments",
+    "url": "https://arxiv.org/abs/1202.4212",
+    "score": 85,
     "date": "2026-07-28",
     "category": "AI News"
   },
@@ -95,9 +95,9 @@
   {
     "title": "DMARC has been public since 2012 but most company domains still don't enforce it",
     "source": "Hacker News",
-    "description": "HN Score: 160 | 100 comments",
+    "description": "HN Score: 171 | 105 comments",
     "url": "https://ciphercue.com/blog/dmarc-enforcement-gap-rua-fragmentation-2026",
-    "score": 160,
+    "score": 171,
     "date": "2026-07-28",
     "category": "AI News"
   },
@@ -110,11 +110,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
+    "title": "What if useful AI is a fantasy?",
     "source": "Hacker News",
-    "description": "HN Score: 136 | 72 comments",
-    "url": "https://spawn-queue.acm.org/doi/10.1145/3819083",
-    "score": 136,
+    "description": "HN Score: 19 | 16 comments",
+    "url": "https://lzon.ca/posts/other/llm-fantasy/",
+    "score": 19,
+    "date": "2026-07-28",
+    "category": "AI News"
+  },
+  {
+    "title": "OpenAI and Anthropic are proposing they slow down! GLM 5.5 is launching in August. If the US models suspend model development as per plan, China will ",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2082215384548335746#m",
+    "date": "2026-07-28",
+    "category": "Twitter"
+  },
+  {
+    "title": "Now Is the Time to Give LLMs Access to the ACM Digital Library",
+    "source": "Hacker News",
+    "description": "HN Score: 102 | 85 comments",
+    "url": "https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/",
+    "score": 102,
     "date": "2026-07-28",
     "category": "AI News"
   },
@@ -127,37 +144,20 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
+    "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
     "source": "Hacker News",
-    "description": "HN Score: 102 | 44 comments",
-    "url": "https://github.com/schildep/verified-3d-mesh-intersection",
-    "score": 102,
-    "date": "2026-07-28",
-    "category": "AI News"
-  },
-  {
-    "title": "Using One AI For Everything Makes No Sense... Use The Best LLM For Your Needs agentic (medium) - Kimi K3 design - GPT 5.6 sol research - Flash 3.5 age",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2081994142436274368#m",
-    "date": "2026-07-28",
-    "category": "Twitter"
-  },
-  {
-    "title": "Over 150k Flights: Airlines Just Flew the Busiest Day in Recorded History",
-    "source": "Hacker News",
-    "description": "HN Score: 44 | 70 comments",
-    "url": "https://simpleflying.com/over-150000-flights-airlines-busiest-day-recorded-history/",
-    "score": 44,
+    "description": "HN Score: 140 | 73 comments",
+    "url": "https://spawn-queue.acm.org/doi/10.1145/3819083",
+    "score": 140,
     "date": "2026-07-28",
     "category": "AI News"
   },
   {
     "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
     "source": "Hacker News",
-    "description": "HN Score: 302 | 114 comments",
+    "description": "HN Score: 306 | 116 comments",
     "url": "https://fermisense.com/when-machines-take-the-wheel/",
-    "score": 302,
+    "score": 306,
     "date": "2026-07-28",
     "category": "AI News"
   }
