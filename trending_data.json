@@ -10,9 +10,9 @@
   {
     "title": "Our position on open-weights models",
     "source": "Hacker News",
-    "description": "HN Score: 514 | 718 comments",
+    "description": "HN Score: 734 | 1029 comments",
     "url": "https://www.anthropic.com/news/position-open-weights-models",
-    "score": 514,
+    "score": 734,
     "date": "2026-07-28",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "The Burau representation of the braid group is faithful for n = 4",
+    "title": "Using an open model feels surprisingly good",
     "source": "Hacker News",
-    "description": "HN Score: 24 | 7 comments",
-    "url": "https://arxiv.org/abs/2607.05283",
-    "score": 24,
+    "description": "HN Score: 212 | 66 comments",
+    "url": "https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/",
+    "score": 212,
     "date": "2026-07-28",
     "category": "AI News"
   },
@@ -44,9 +44,9 @@
   {
     "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
     "source": "Hacker News",
-    "description": "HN Score: 3 | 0 comments",
+    "description": "HN Score: 118 | 34 comments",
     "url": "https://fermisense.com/when-machines-take-the-wheel/",
-    "score": 3,
+    "score": 118,
     "date": "2026-07-28",
     "category": "AI News"
   },
@@ -61,9 +61,9 @@
   {
     "title": "Show HN: Yap \u2013 OSS on-device voice dictation for macOS with no model to download",
     "source": "Hacker News",
-    "description": "HN Score: 20 | 0 comments",
+    "description": "HN Score: 49 | 13 comments",
     "url": "https://github.com/FrigadeHQ/yap",
-    "score": 20,
+    "score": 49,
     "date": "2026-07-28",
     "category": "AI News"
   },
@@ -76,11 +76,28 @@
     "category": "Twitter"
   },
   {
+    "title": "Kimi K3 Now Available via Telnyx Inference API",
+    "source": "Hacker News",
+    "description": "HN Score: 49 | 15 comments",
+    "url": "https://telnyx.com/release-notes/kimi-k3-telnyx-inference",
+    "score": 49,
+    "date": "2026-07-28",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: Hyperagent is great if you want agents without having to deal with configuration, servers, or any complexity whatsoever. You don't need",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2081772897862119894#m",
+    "date": "2026-07-28",
+    "category": "Twitter"
+  },
+  {
     "title": "Self-contained highly-portable Python distributions",
     "source": "Hacker News",
-    "description": "HN Score: 121 | 24 comments",
+    "description": "HN Score: 133 | 29 comments",
     "url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
-    "score": 121,
+    "score": 133,
     "date": "2026-07-28",
     "category": "AI News"
   },
@@ -95,26 +112,26 @@
   {
     "title": "Securing Services with Rootless Containers",
     "source": "Hacker News",
-    "description": "HN Score: 70 | 24 comments",
+    "description": "HN Score: 86 | 26 comments",
     "url": "https://blog.coderspirit.xyz/blog/2026/07/06/securing-services-with-rootless-containers/",
-    "score": 70,
+    "score": 86,
     "date": "2026-07-28",
     "category": "AI News"
   },
   {
-    "title": "Hyperagent is great if you want agents without having to deal with configuration, servers, or any complexity whatsoever. You don't need a Mac Mini or ",
-    "source": "@svpino",
+    "title": "Gemini Rocks At Research - Flash 3.6 is the world's best model for research! Same quality as Sol 5.6 but 70% cheaper!! Finally found a category where ",
+    "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2081772897862119894#m",
+    "url": "https://nitter.net/bindureddy/status/2081961106797649957#m",
     "date": "2026-07-28",
     "category": "Twitter"
   },
   {
-    "title": "Netflix employee fired for sharing personal details in retreat trust exercise",
+    "title": "The Burau representation of the braid group is faithful for n = 4",
     "source": "Hacker News",
-    "description": "HN Score: 179 | 114 comments",
-    "url": "https://nypost.com/2026/07/26/us-news/netflix-exec-goes-ballistic-after-being-fired-for-stunning-trust-exercise-confession-at-retreat-suit/",
-    "score": 179,
+    "description": "HN Score: 29 | 10 comments",
+    "url": "https://arxiv.org/abs/2607.05283",
+    "score": 29,
     "date": "2026-07-28",
     "category": "AI News"
   },
@@ -127,37 +144,20 @@
     "category": "Twitter"
   },
   {
+    "title": "Netflix employee fired for sharing personal details in retreat trust exercise",
+    "source": "Hacker News",
+    "description": "HN Score: 257 | 215 comments",
+    "url": "https://nypost.com/2026/07/26/us-news/netflix-exec-goes-ballistic-after-being-fired-for-stunning-trust-exercise-confession-at-retreat-suit/",
+    "score": 257,
+    "date": "2026-07-28",
+    "category": "AI News"
+  },
+  {
     "title": "Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles",
     "source": "Hacker News",
-    "description": "HN Score: 137 | 44 comments",
+    "description": "HN Score: 147 | 49 comments",
     "url": "https://eaton-works.com/2026/07/27/my-eicher-hack/",
-    "score": 137,
-    "date": "2026-07-28",
-    "category": "AI News"
-  },
-  {
-    "title": "Kimi K3 is now available on ChatLLM and hosted in the US! We have also kicked off an open-source fine-tune based on this top frontier model This is th",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2081781635176141100#m",
-    "date": "2026-07-28",
-    "category": "Twitter"
-  },
-  {
-    "title": "Show HN: FeyNoBg \u2013 Automatic background removal model and training library",
-    "source": "Hacker News",
-    "description": "HN Score: 95 | 22 comments",
-    "url": "https://usefeyn.com/blog/feynobg/",
-    "score": 95,
-    "date": "2026-07-28",
-    "category": "AI News"
-  },
-  {
-    "title": "Kimi K3 Now Available via Telnyx Inference API",
-    "source": "Hacker News",
-    "description": "HN Score: 26 | 10 comments",
-    "url": "https://telnyx.com/release-notes/kimi-k3-telnyx-inference",
-    "score": 26,
+    "score": 147,
     "date": "2026-07-28",
     "category": "AI News"
   }
