@@ -10,9 +10,9 @@
   {
     "title": "Our position on open-weights models",
     "source": "Hacker News",
-    "description": "HN Score: 734 | 1029 comments",
+    "description": "HN Score: 933 | 1350 comments",
     "url": "https://www.anthropic.com/news/position-open-weights-models",
-    "score": 734,
+    "score": 933,
     "date": "2026-07-28",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Using an open model feels surprisingly good",
+    "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
     "source": "Hacker News",
-    "description": "HN Score: 212 | 66 comments",
-    "url": "https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/",
-    "score": 212,
+    "description": "HN Score: 201 | 54 comments",
+    "url": "https://fermisense.com/when-machines-take-the-wheel/",
+    "score": 201,
     "date": "2026-07-28",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
+    "title": "Using an open model feels surprisingly good",
     "source": "Hacker News",
-    "description": "HN Score: 118 | 34 comments",
-    "url": "https://fermisense.com/when-machines-take-the-wheel/",
-    "score": 118,
+    "description": "HN Score: 285 | 108 comments",
+    "url": "https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/",
+    "score": 285,
     "date": "2026-07-28",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Yap \u2013 OSS on-device voice dictation for macOS with no model to download",
+    "title": "Kimi K3 Now Available via Telnyx Inference API",
     "source": "Hacker News",
-    "description": "HN Score: 49 | 13 comments",
-    "url": "https://github.com/FrigadeHQ/yap",
-    "score": 49,
+    "description": "HN Score: 91 | 42 comments",
+    "url": "https://telnyx.com/release-notes/kimi-k3-telnyx-inference",
+    "score": 91,
     "date": "2026-07-28",
     "category": "AI News"
   },
@@ -76,16 +76,16 @@
     "category": "Twitter"
   },
   {
-    "title": "Kimi K3 Now Available via Telnyx Inference API",
+    "title": "Show HN: Yap \u2013 OSS on-device voice dictation for macOS with no model to download",
     "source": "Hacker News",
-    "description": "HN Score: 49 | 15 comments",
-    "url": "https://telnyx.com/release-notes/kimi-k3-telnyx-inference",
-    "score": 49,
+    "description": "HN Score: 72 | 26 comments",
+    "url": "https://github.com/FrigadeHQ/yap",
+    "score": 72,
     "date": "2026-07-28",
     "category": "AI News"
   },
   {
-    "title": "RT by @svpino: Hyperagent is great if you want agents without having to deal with configuration, servers, or any complexity whatsoever. You don't need",
+    "title": "Hyperagent is great if you want agents without having to deal with configuration, servers, or any complexity whatsoever. You don't need a Mac Mini or ",
     "source": "@svpino",
     "description": "",
     "url": "https://nitter.net/svpino/status/2081772897862119894#m",
@@ -95,26 +95,43 @@
   {
     "title": "Self-contained highly-portable Python distributions",
     "source": "Hacker News",
-    "description": "HN Score: 133 | 29 comments",
+    "description": "HN Score: 147 | 32 comments",
     "url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
-    "score": 133,
+    "score": 147,
     "date": "2026-07-28",
     "category": "AI News"
   },
   {
-    "title": "RT by @svpino: Pretty crazy how quickly our bodies adapt to anything. I've been doing two metabolic conditioning sessions per week for the past two mo",
+    "title": "R to @svpino: I published this to their marketplace, in case you find it useful: https://www.hyperagent.com/santiago",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2081720010930872663#m",
+    "url": "https://nitter.net/svpino/status/2082014621863391536#m",
     "date": "2026-07-28",
     "category": "Twitter"
   },
   {
     "title": "Securing Services with Rootless Containers",
     "source": "Hacker News",
-    "description": "HN Score: 86 | 26 comments",
+    "description": "HN Score: 99 | 29 comments",
     "url": "https://blog.coderspirit.xyz/blog/2026/07/06/securing-services-with-rootless-containers/",
-    "score": 86,
+    "score": 99,
+    "date": "2026-07-28",
+    "category": "AI News"
+  },
+  {
+    "title": "Using One AI For Everything Makes No Sense... Use The Best LLM For Your Needs agentic (medium) - Kimi K3 design - GPT 5.6 sol research - Flash 3.5 age",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2081994142436274368#m",
+    "date": "2026-07-28",
+    "category": "Twitter"
+  },
+  {
+    "title": "Netflix employee fired for sharing personal details in retreat trust exercise",
+    "source": "Hacker News",
+    "description": "HN Score: 343 | 328 comments",
+    "url": "https://nypost.com/2026/07/26/us-news/netflix-exec-goes-ballistic-after-being-fired-for-stunning-trust-exercise-confession-at-retreat-suit/",
+    "score": 343,
     "date": "2026-07-28",
     "category": "AI News"
   },
@@ -127,37 +144,20 @@
     "category": "Twitter"
   },
   {
-    "title": "The Burau representation of the braid group is faithful for n = 4",
-    "source": "Hacker News",
-    "description": "HN Score: 29 | 10 comments",
-    "url": "https://arxiv.org/abs/2607.05283",
-    "score": 29,
-    "date": "2026-07-28",
-    "category": "AI News"
-  },
-  {
-    "title": "Anthropic now says they are fine with open-source AI and don't want to ban it Instead, they want to slow down open-source by requiring 'safety testing",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2081881971178053784#m",
-    "date": "2026-07-28",
-    "category": "Twitter"
-  },
-  {
-    "title": "Netflix employee fired for sharing personal details in retreat trust exercise",
-    "source": "Hacker News",
-    "description": "HN Score: 257 | 215 comments",
-    "url": "https://nypost.com/2026/07/26/us-news/netflix-exec-goes-ballistic-after-being-fired-for-stunning-trust-exercise-confession-at-retreat-suit/",
-    "score": 257,
-    "date": "2026-07-28",
-    "category": "AI News"
-  },
-  {
     "title": "Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles",
     "source": "Hacker News",
-    "description": "HN Score: 147 | 49 comments",
+    "description": "HN Score: 159 | 52 comments",
     "url": "https://eaton-works.com/2026/07/27/my-eicher-hack/",
-    "score": 147,
+    "score": 159,
+    "date": "2026-07-28",
+    "category": "AI News"
+  },
+  {
+    "title": "Tell HN: Our paid Claude AI subscription unavailable >1 week and no support",
+    "source": "Hacker News",
+    "description": "HN Score: 11 | 6 comments",
+    "url": "https://news.ycombinator.com/item?id=49080775",
+    "score": 11,
     "date": "2026-07-28",
     "category": "AI News"
   }
