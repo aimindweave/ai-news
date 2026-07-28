@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Scientific computing in the age of agentic AI",
+    "title": "Discovering Cryptographic Weaknesses with Claude",
     "source": "Hacker News",
-    "description": "HN Score: 10 | 1 comments",
-    "url": "https://openai.com/index/scientific-computing-agentic-ai/",
-    "score": 10,
+    "description": "HN Score: 86 | 33 comments",
+    "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
+    "score": 86,
     "date": "2026-07-28",
     "category": "AI News"
   },
@@ -25,45 +25,45 @@
     "category": "Twitter"
   },
   {
-    "title": "Discovering Cryptographic Weaknesses with Claude",
-    "source": "Hacker News",
-    "description": "HN Score: 15 | 1 comments",
-    "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
-    "score": 15,
-    "date": "2026-07-28",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @EMostaque: While the Fields Medal celebrates the under-40s, the mathematician Joan Birman has, at the age of 99, solved a major open problem in",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/gregeganSF/status/2081617044471214199#m",
-    "date": "2026-07-28",
-    "category": "Twitter"
-  },
-  {
     "title": "Harmony Explained: Progress Towards a Scientific Theory of Music (2012)",
     "source": "Hacker News",
-    "description": "HN Score: 49 | 41 comments",
+    "description": "HN Score: 67 | 49 comments",
     "url": "https://arxiv.org/abs/1202.4212",
-    "score": 49,
+    "score": 67,
     "date": "2026-07-28",
     "category": "AI News"
   },
   {
-    "title": "RT by @EMostaque: hi! for years, folks have been asking us for GPU credits, and we've been unable to do so. today that's changed! if you have a resear",
+    "title": "RT by @EMostaque: 'FCC plans to announce restrictions Tuesday barring imports of new Chinese humanoid and quadruped robot models, along with new Chine",
     "source": "@EMostaque",
     "description": "",
-    "url": "https://nitter.net/evanjconrad/status/2081762009931301099#m",
+    "url": "https://nitter.net/Rewkang/status/2082179813750542619#m",
     "date": "2026-07-28",
     "category": "Twitter"
   },
   {
     "title": "Now Is the Time to Give LLMs Access to the ACM Digital Library",
     "source": "Hacker News",
-    "description": "HN Score: 23 | 9 comments",
+    "description": "HN Score: 68 | 26 comments",
     "url": "https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/",
-    "score": 23,
+    "score": 68,
+    "date": "2026-07-28",
+    "category": "AI News"
+  },
+  {
+    "title": "Where did all the reasoning tokens hide \ud83d\ude2d",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/EMostaque/status/2082167703163273708#m",
+    "date": "2026-07-28",
+    "category": "Twitter"
+  },
+  {
+    "title": "DMARC has been public since 2012 but most company domains still don't enforce it",
+    "source": "Hacker News",
+    "description": "HN Score: 149 | 94 comments",
+    "url": "https://ciphercue.com/blog/dmarc-enforcement-gap-rua-fragmentation-2026",
+    "score": 149,
     "date": "2026-07-28",
     "category": "AI News"
   },
@@ -76,45 +76,62 @@
     "category": "Twitter"
   },
   {
-    "title": "DMARC Has Been Public Since 2012. 68.4% of Domains Still Don't Enforce It",
+    "title": "Una GPS smart watch \u2013 Repairable, USB-C charging, developer-friendly",
     "source": "Hacker News",
-    "description": "HN Score: 115 | 82 comments",
-    "url": "https://ciphercue.com/blog/dmarc-enforcement-gap-rua-fragmentation-2026",
-    "score": 115,
+    "description": "HN Score: 59 | 49 comments",
+    "url": "https://unawatch.com/",
+    "score": 59,
     "date": "2026-07-28",
     "category": "AI News"
   },
   {
-    "title": "A professional voice agent in a hundred lines of Python code. Listen to this agent speak: This is one of the best, human-like voices and intonation yo",
+    "title": "The new WorldDiT robotics model is really cool: It's very small (< 1B parameters), yet it can perform prediction and control in a single model. \u2022 It c",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2082105094309613768#m",
+    "url": "https://nitter.net/svpino/status/2082181578890088607#m",
+    "date": "2026-07-28",
+    "category": "Twitter"
+  },
+  {
+    "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
+    "source": "Hacker News",
+    "description": "HN Score: 133 | 68 comments",
+    "url": "https://spawn-queue.acm.org/doi/10.1145/3819083",
+    "score": 133,
+    "date": "2026-07-28",
+    "category": "AI News"
+  },
+  {
+    "title": "Here is a new open-weight audio model you can integrate with your app. I'm a huge sucker for open models that you can host to keep your data secure an",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2082162168909509015#m",
     "date": "2026-07-28",
     "category": "Twitter"
   },
   {
     "title": "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
     "source": "Hacker News",
-    "description": "HN Score: 89 | 38 comments",
+    "description": "HN Score: 99 | 42 comments",
     "url": "https://github.com/schildep/verified-3d-mesh-intersection",
-    "score": 89,
+    "score": 99,
     "date": "2026-07-28",
     "category": "AI News"
   },
   {
-    "title": "R to @svpino: Rime's voices are really cool, and it's because they've trained them on recordings of real people talking on real calls. Whenever you he",
-    "source": "@svpino",
+    "title": "Sigh, the fear-mongering from OpenAI and Anthropic won't stop. It's almost a marketing gimmick now Meanwhile.... Kimi K3 - a frontier model that is co",
+    "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2082105106712182907#m",
+    "url": "https://nitter.net/bindureddy/status/2082171332352233822#m",
     "date": "2026-07-28",
     "category": "Twitter"
   },
   {
-    "title": "Coding Tools MCP (v0.2.2):Give any AI chat or agent a pair of hands on your code",
+    "title": "Over 150k Flights: Airlines Just Flew the Busiest Day in Recorded History",
     "source": "Hacker News",
-    "description": "HN Score: 5 | 0 comments",
-    "url": "https://github.com/xyTom/coding-tools-mcp",
-    "score": 5,
+    "description": "HN Score: 37 | 61 comments",
+    "url": "https://simpleflying.com/over-150000-flights-airlines-busiest-day-recorded-history/",
+    "score": 37,
     "date": "2026-07-28",
     "category": "AI News"
   },
@@ -127,37 +144,20 @@
     "category": "Twitter"
   },
   {
-    "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
+    "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
     "source": "Hacker News",
-    "description": "HN Score: 110 | 62 comments",
-    "url": "https://spawn-queue.acm.org/doi/10.1145/3819083",
-    "score": 110,
-    "date": "2026-07-28",
-    "category": "AI News"
-  },
-  {
-    "title": "Gemini Rocks At Research - Flash 3.6 is the world's best model for research! Same quality as Sol 5.6 but 70% cheaper!! Finally found a category where ",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2081961106797649957#m",
-    "date": "2026-07-28",
-    "category": "Twitter"
-  },
-  {
-    "title": "Una Watch: Garmin watch competitor but repairable, open ecosystem and USB-C",
-    "source": "Hacker News",
-    "description": "HN Score: 20 | 10 comments",
-    "url": "https://unawatch.com/",
-    "score": 20,
+    "description": "HN Score: 298 | 111 comments",
+    "url": "https://fermisense.com/when-machines-take-the-wheel/",
+    "score": 298,
     "date": "2026-07-28",
     "category": "AI News"
   },
   {
     "title": "Dolmenwood: Fantasy RPG built around the acclaimed Old-School Essentials rules",
     "source": "Hacker News",
-    "description": "HN Score: 54 | 23 comments",
+    "description": "HN Score: 61 | 30 comments",
     "url": "https://necroticgnome.com/collections/dolmenwood",
-    "score": 54,
+    "score": 61,
     "date": "2026-07-28",
     "category": "AI News"
   }
