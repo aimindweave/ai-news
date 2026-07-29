@@ -10,9 +10,9 @@
   {
     "title": "More Tailscale tricks for your jailbroken Kindle",
     "source": "Hacker News",
-    "description": "HN Score: 72 | 8 comments",
+    "description": "HN Score: 194 | 65 comments",
     "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
-    "score": 72,
+    "score": 194,
     "date": "2026-07-29",
     "category": "AI News"
   },
@@ -27,43 +27,43 @@
   {
     "title": "LearnVector \u2013 Andrew Ng's AI company building one\u2011to\u2011one learning experiences",
     "source": "Hacker News",
-    "description": "HN Score: 144 | 72 comments",
+    "description": "HN Score: 192 | 116 comments",
     "url": "https://learnvector.ai/",
-    "score": 144,
+    "score": 192,
     "date": "2026-07-29",
     "category": "AI News"
   },
   {
-    "title": "RT by @EMostaque: Hot take: Those early AI artworks are going to be some of the rarest, most valuable artifacts of digital art history.",
+    "title": "How do you even legislate against, regulate or 'pace' recursive self improvement?",
     "source": "@EMostaque",
     "description": "",
-    "url": "https://nitter.net/justintrimble/status/2081843040050667667#m",
+    "url": "https://nitter.net/EMostaque/status/2082392762784084292#m",
+    "date": "2026-07-29",
+    "category": "Twitter"
+  },
+  {
+    "title": "Hubble: Open-source notetaking app for you and your agents",
+    "source": "Hacker News",
+    "description": "HN Score: 118 | 51 comments",
+    "url": "https://www.hubble.md/",
+    "score": 118,
+    "date": "2026-07-29",
+    "category": "AI News"
+  },
+  {
+    "title": "Tbh I thought it would take longer for an immigration ban of humanoids to the USA Also the power inverter ban is interesting - how are those a securit",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/EMostaque/status/2082362074282213434#m",
     "date": "2026-07-29",
     "category": "Twitter"
   },
   {
     "title": "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design",
     "source": "Hacker News",
-    "description": "HN Score: 35 | 0 comments",
+    "description": "HN Score: 54 | 5 comments",
     "url": "https://transformer-transformer.github.io/",
-    "score": 35,
-    "date": "2026-07-29",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @EMostaque: Image",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/Sauers_/status/2082171683645817193#m",
-    "date": "2026-07-29",
-    "category": "Twitter"
-  },
-  {
-    "title": "Truth is not a direction: a Tarski attack on LLM probes",
-    "source": "Hacker News",
-    "description": "HN Score: 69 | 26 comments",
-    "url": "https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html",
-    "score": 69,
+    "score": 54,
     "date": "2026-07-29",
     "category": "AI News"
   },
@@ -76,11 +76,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Hubble: Open-source notetaking app for you and your agents",
+    "title": "ChatGPT claims rogue AI attacked more companies",
     "source": "Hacker News",
-    "description": "HN Score: 89 | 25 comments",
-    "url": "https://www.hubble.md/",
-    "score": 89,
+    "description": "HN Score: 19 | 10 comments",
+    "url": "https://www.bbc.co.uk/news/articles/c2el319vzr3o",
+    "score": 19,
+    "date": "2026-07-29",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: The new WorldDiT robotics model is really cool: It's very small (< 1B parameters), yet it can perform prediction and control in a singl",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2082181578890088607#m",
+    "date": "2026-07-29",
+    "category": "Twitter"
+  },
+  {
+    "title": "Una GPS smart watch \u2013 Repairable, USB-C charging, developer-friendly",
+    "source": "Hacker News",
+    "description": "HN Score: 225 | 139 comments",
+    "url": "https://unawatch.com/",
+    "score": 225,
     "date": "2026-07-29",
     "category": "AI News"
   },
@@ -93,28 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Una GPS smart watch \u2013 Repairable, USB-C charging, developer-friendly",
-    "source": "Hacker News",
-    "description": "HN Score: 174 | 112 comments",
-    "url": "https://unawatch.com/",
-    "score": 174,
-    "date": "2026-07-29",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: A professional voice agent in a hundred lines of Python code. Listen to this agent speak: This is one of the best, human-like voices an",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2082105094309613768#m",
-    "date": "2026-07-29",
-    "category": "Twitter"
-  },
-  {
     "title": "Now is the time to give LLMs access to the ACM digital library",
     "source": "Hacker News",
-    "description": "HN Score: 142 | 117 comments",
+    "description": "HN Score: 167 | 139 comments",
     "url": "https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/",
-    "score": 142,
+    "score": 167,
     "date": "2026-07-29",
     "category": "AI News"
   },
@@ -129,9 +129,9 @@
   {
     "title": "Discovering Cryptographic Weaknesses with Claude",
     "source": "Hacker News",
-    "description": "HN Score: 204 | 142 comments",
+    "description": "HN Score: 219 | 160 comments",
     "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
-    "score": 204,
+    "score": 219,
     "date": "2026-07-29",
     "category": "AI News"
   },
@@ -144,20 +144,20 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Lean4 Datalog DSL Based on Google Zanzibar for AI Projects",
+    "title": "Truth is not a direction: a Tarski attack on LLM probes",
     "source": "Hacker News",
-    "description": "HN Score: 11 | 2 comments",
-    "url": "https://github.com/jagg-ix/zil-lean",
-    "score": 11,
+    "description": "HN Score: 102 | 61 comments",
+    "url": "https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html",
+    "score": 102,
     "date": "2026-07-29",
     "category": "AI News"
   },
   {
     "title": "DMARC has been public since 2012 but most company domains still don't enforce it",
     "source": "Hacker News",
-    "description": "HN Score: 184 | 113 comments",
+    "description": "HN Score: 188 | 121 comments",
     "url": "https://ciphercue.com/blog/dmarc-enforcement-gap-rua-fragmentation-2026",
-    "score": 184,
+    "score": 188,
     "date": "2026-07-29",
     "category": "AI News"
   }
