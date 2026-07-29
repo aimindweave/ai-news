@@ -10,9 +10,9 @@
   {
     "title": "Handbook.md shows that long policy documents do not reliably govern agents",
     "source": "Hacker News",
-    "description": "HN Score: 66 | 35 comments",
+    "description": "HN Score: 192 | 129 comments",
     "url": "https://arxiv.org/abs/2607.25398",
-    "score": 66,
+    "score": 192,
     "date": "2026-07-29",
     "category": "AI News"
   },
@@ -25,45 +25,45 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Bullshit Detector \u2013 agent skills that fact-check videos and articles",
+    "title": "Hugging Face: Anatomy of a frontier-lab agent intrusion",
     "source": "Hacker News",
-    "description": "HN Score: 38 | 20 comments",
-    "url": "https://github.com/SerhiiKorniienko/bullshit-detector",
-    "score": 38,
+    "description": "HN Score: 62 | 19 comments",
+    "url": "https://huggingface-anatomy-of-frontier-lab-model-intrusion.static.hf.space/index.html",
+    "score": 62,
     "date": "2026-07-29",
     "category": "AI News"
   },
   {
-    "title": "How do you even legislate against, regulate or 'pace' recursive self improvement?",
+    "title": "RT by @EMostaque: London's AI movie club meets tomorrow This time Ghost in the Shell (1995) Free @ Kensington Central Library RSVP: https://luma.com/q",
     "source": "@EMostaque",
     "description": "",
-    "url": "https://nitter.net/EMostaque/status/2082392762784084292#m",
+    "url": "https://nitter.net/ii_posts/status/2082421852295586282#m",
+    "date": "2026-07-29",
+    "category": "Twitter"
+  },
+  {
+    "title": "Launch HN: Tokenless (YC S26) \u2013 Automatic model switching to save money",
+    "source": "Hacker News",
+    "description": "HN Score: 22 | 19 comments",
+    "url": "https://usetokenless.com/",
+    "score": 22,
+    "date": "2026-07-29",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: Today we're introducing Genii. An open source personal assistant that lives in your messages. You just text it. It remembers what ma",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/ii_posts/status/2082474832877269208#m",
     "date": "2026-07-29",
     "category": "Twitter"
   },
   {
     "title": "Document-borne AI worms can self-propagate through Copilot for Word",
     "source": "Hacker News",
-    "description": "HN Score: 143 | 120 comments",
+    "description": "HN Score: 231 | 181 comments",
     "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
-    "score": 143,
-    "date": "2026-07-29",
-    "category": "AI News"
-  },
-  {
-    "title": "Tbh I thought it would take longer for an immigration ban of humanoids to the USA Also the power inverter ban is interesting - how are those a securit",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/EMostaque/status/2082362074282213434#m",
-    "date": "2026-07-29",
-    "category": "Twitter"
-  },
-  {
-    "title": "More Tailscale tricks for your jailbroken Kindle",
-    "source": "Hacker News",
-    "description": "HN Score: 301 | 96 comments",
-    "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
-    "score": 301,
+    "score": 231,
     "date": "2026-07-29",
     "category": "AI News"
   },
@@ -76,62 +76,62 @@
     "category": "Twitter"
   },
   {
-    "title": "Disrupting supply chain attacks on NPM and GitHub Actions",
-    "source": "Hacker News",
-    "description": "HN Score: 29 | 5 comments",
-    "url": "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/",
-    "score": 29,
-    "date": "2026-07-29",
-    "category": "AI News"
-  },
-  {
-    "title": "My transition away from Anthropic is now complete. I love their models. I love Claude Code. But I'm not willing to keep sending them money while they ",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2082445037389091037#m",
-    "date": "2026-07-29",
-    "category": "Twitter"
-  },
-  {
     "title": "Hunter-gatherers introduced fish to a mountain lake 7000 years ago",
     "source": "Hacker News",
-    "description": "HN Score: 9 | 5 comments",
+    "description": "HN Score: 87 | 60 comments",
     "url": "https://www.newscientist.com/article/2580119-hunter-gatherers-introduced-fish-to-a-mountain-lake-7000-years-ago/",
-    "score": 9,
+    "score": 87,
     "date": "2026-07-29",
     "category": "AI News"
   },
   {
-    "title": "RT by @svpino: The new WorldDiT robotics model is really cool: It's very small (< 1B parameters), yet it can perform prediction and control in a singl",
+    "title": "Kimi K3 is one of the strongest open-weight models for advanced coding workflows: 1. A 2.8T-parameter model 2. 1M-token context window 3. Native multi",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2082181578890088607#m",
+    "url": "https://nitter.net/svpino/status/2082510927187095910#m",
     "date": "2026-07-29",
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Echologue \u2013 the private AI voice journal I built for myself",
+    "title": "Infrastructure Patterns for Agentic Applications",
     "source": "Hacker News",
-    "description": "HN Score: 15 | 9 comments",
-    "url": "https://echologue.com/",
+    "description": "HN Score: 15 | 1 comments",
+    "url": "https://render.com/blog/infrastructure-patterns-for-agentic-applications",
     "score": 15,
     "date": "2026-07-29",
     "category": "AI News"
   },
   {
-    "title": "Half the AI world seems to think we are living in the singularity and LLMs will lead to AGI This crew thinks AI will recursively self improve in the c",
-    "source": "@bindureddy",
+    "title": "My agent can now talk to your agent. I'll have to take some time to think about the implications here. Up to this point, your personal assistant agent",
+    "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/bindureddy/status/2082461847899500631#m",
+    "url": "https://nitter.net/svpino/status/2082481778548506738#m",
     "date": "2026-07-29",
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Vimgolf.ai \u2013 Learn Vim by playing through a map of levels",
+    "title": "GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?",
     "source": "Hacker News",
-    "description": "HN Score: 27 | 18 comments",
-    "url": "https://vimgolf.ai",
-    "score": 27,
+    "description": "HN Score: 35 | 6 comments",
+    "url": "https://juliahub.com/blog/frontier-models-physical-ai-evaluation",
+    "score": 35,
+    "date": "2026-07-29",
+    "category": "AI News"
+  },
+  {
+    "title": "Enterprises will soon have 100x more AI agents than human employees We are having our first super-fancy AI conference in NYC focused on the recursivel",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2082510537188090216#m",
+    "date": "2026-07-29",
+    "category": "Twitter"
+  },
+  {
+    "title": "More Tailscale tricks for your jailbroken Kindle",
+    "source": "Hacker News",
+    "description": "HN Score: 357 | 103 comments",
+    "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
+    "score": 357,
     "date": "2026-07-29",
     "category": "AI News"
   },
@@ -144,20 +144,20 @@
     "category": "Twitter"
   },
   {
-    "title": "LearnVector \u2013 Andrew Ng's AI company building one\u2011to\u2011one learning experiences",
+    "title": "Disrupting supply chain attacks on NPM and GitHub Actions",
     "source": "Hacker News",
-    "description": "HN Score: 238 | 152 comments",
-    "url": "https://learnvector.ai/",
-    "score": 238,
+    "description": "HN Score: 67 | 21 comments",
+    "url": "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/",
+    "score": 67,
     "date": "2026-07-29",
     "category": "AI News"
   },
   {
-    "title": "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design",
+    "title": "Ask HN: My domain registrar (Hover) rug-pulled me for $3000",
     "source": "Hacker News",
-    "description": "HN Score: 69 | 8 comments",
-    "url": "https://transformer-transformer.github.io/",
-    "score": 69,
+    "description": "HN Score: 43 | 33 comments",
+    "url": "https://news.ycombinator.com/item?id=49099021",
+    "score": 43,
     "date": "2026-07-29",
     "category": "AI News"
   }

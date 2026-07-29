@@ -1,5 +1,19 @@
 [
   {
+    "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
+    "source": "TechCrunch",
+    "summary": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an \u201cAI for your home,\u201d combining property records, maintenance schedules, home documents, and an AI assistant into a single app.",
+    "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
+    "date": "2026-07-29"
+  },
+  {
+    "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
+    "source": "TechCrunch",
+    "summary": "The startup analyzes calls, messages, and CRM data to identify effective sales techniques and turn them into playbooks for AI agents.",
+    "url": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
+    "date": "2026-07-29"
+  },
+  {
     "title": "As AI content floods the internet, Pangram raises $9M to detect it",
     "source": "TechCrunch",
     "summary": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview.",
@@ -88,20 +102,6 @@
     "source": "TechCrunch",
     "summary": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
     "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
-    "date": "2026-07-29"
-  },
-  {
-    "title": "OpenAI\u2019s Hugging Face breach has reignited the debate over alignment and control",
-    "source": "TechCrunch",
-    "summary": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both.",
-    "url": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
-    "date": "2026-07-29"
-  },
-  {
-    "title": "Threads users can now chat with Meta AI in their DMs",
-    "source": "TechCrunch",
-    "summary": "Meta on Monday said it is rolling out its Meta AI chatbot within Threads' DMs, giving users a way to chat with the AI assistant.",
-    "url": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
     "date": "2026-07-29"
   },
   {
@@ -245,6 +245,13 @@
     "date": "2026-07-29"
   },
   {
+    "title": "Anthropic is finding bugs faster than Microsoft can fix them",
+    "source": "Ars Technica",
+    "summary": "Microsoft is on a mad dash behind the scenes to patch exploits before hackers find them.",
+    "url": "https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/",
+    "date": "2026-07-29"
+  },
+  {
     "title": "What happens when you put AI to work deciphering lost languages?",
     "source": "Ars Technica",
     "summary": "AI is fantastic at spotting patterns, but human insight is the key.",
@@ -252,7 +259,7 @@
     "date": "2026-07-29"
   },
   {
-    "title": "Google's SynthID watermark is hard to break, but it doesn't solve AI misinformation",
+    "title": "Google's SynthID watermark is hard to break, but it doesn't solve AI disinformation",
     "source": "Ars Technica",
     "summary": "Deciding what's real on the Internet won't be easy in the future.",
     "url": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/",
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "Bill would let Homeland Security chief decide when an AI should be shut down.",
     "url": "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/",
-    "date": "2026-07-29"
-  },
-  {
-    "title": "Google just had its first negative cash flow quarter due to massive AI spending",
-    "source": "Ars Technica",
-    "summary": "Google continues to report big quarterly revenue, but its AI spending has skyrocketed.",
-    "url": "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/",
     "date": "2026-07-29"
   }
 ]
