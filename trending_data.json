@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Handbook.md shows that long policy documents do not reliably govern agents",
+    "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the Incident",
     "source": "Hacker News",
-    "description": "HN Score: 236 | 153 comments",
-    "url": "https://arxiv.org/abs/2607.25398",
-    "score": 236,
+    "description": "HN Score: 195 | 106 comments",
+    "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+    "score": 195,
     "date": "2026-07-29",
     "category": "AI News"
   },
@@ -25,11 +25,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
+    "title": "Handbook.md shows that long policy documents do not reliably govern agents",
     "source": "Hacker News",
-    "description": "HN Score: 129 | 49 comments",
-    "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-    "score": 129,
+    "description": "HN Score: 262 | 167 comments",
+    "url": "https://arxiv.org/abs/2607.25398",
+    "score": 262,
+    "date": "2026-07-29",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: Today we're introducing Genii. An open source personal assistant that lives in your messages. You just text it. It remembers what ma",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/ii_posts/status/2082474832877269208#m",
+    "date": "2026-07-29",
+    "category": "Twitter"
+  },
+  {
+    "title": "Document-borne AI worms can self-propagate through Copilot for Word",
+    "source": "Hacker News",
+    "description": "HN Score: 302 | 224 comments",
+    "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
+    "score": 302,
     "date": "2026-07-29",
     "category": "AI News"
   },
@@ -42,28 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Document-borne AI worms can self-propagate through Copilot for Word",
+    "title": "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",
     "source": "Hacker News",
-    "description": "HN Score: 277 | 205 comments",
-    "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
-    "score": 277,
-    "date": "2026-07-29",
-    "category": "AI News"
-  },
-  {
-    "title": "Who on earth came up with 5 hour limits? The day is 24 hours long. While do our limit times shift by an hour each day. Pls if you are going to have li",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/EMostaque/status/2082516600305917975#m",
-    "date": "2026-07-29",
-    "category": "Twitter"
-  },
-  {
-    "title": "Some thoughts about Anthropic's new cryptanalysis results",
-    "source": "Hacker News",
-    "description": "HN Score: 50 | 22 comments",
-    "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
-    "score": 50,
+    "description": "HN Score: 25 | 19 comments",
+    "url": "https://www.emergingtrajectories.com/lh/commodification-and-circularity/",
+    "score": 25,
     "date": "2026-07-29",
     "category": "AI News"
   },
@@ -78,9 +78,9 @@
   {
     "title": "Launch HN: Tokenless (YC S26) \u2013 Automatic model switching to save money",
     "source": "Hacker News",
-    "description": "HN Score: 38 | 37 comments",
+    "description": "HN Score: 43 | 38 comments",
     "url": "https://usetokenless.com/",
-    "score": 38,
+    "score": 43,
     "date": "2026-07-29",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "PGSimCity \u2013 an explorable 3D model that shows how Postgres works",
+    "title": "Some thoughts about Anthropic's new cryptanalysis results",
     "source": "Hacker News",
-    "description": "HN Score: 12 | 1 comments",
-    "url": "https://github.com/NikolayS/pgsimcity",
-    "score": 12,
+    "description": "HN Score: 72 | 41 comments",
+    "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
+    "score": 72,
     "date": "2026-07-29",
     "category": "AI News"
   },
@@ -112,9 +112,26 @@
   {
     "title": "How much can you delegate to agents?",
     "source": "Hacker News",
-    "description": "HN Score: 3 | 0 comments",
+    "description": "HN Score: 21 | 0 comments",
     "url": "https://newsletter.posthog.com/p/agent-autonomy",
-    "score": 3,
+    "score": 21,
+    "date": "2026-07-29",
+    "category": "AI News"
+  },
+  {
+    "title": "Already been 6 weeks since the launch of Fable and Sol Frontier AI is getting boring and appears to be slowing down! Hopefully DeepSeek and GLM will d",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2082558875438616878#m",
+    "date": "2026-07-29",
+    "category": "Twitter"
+  },
+  {
+    "title": "Claude Is Down",
+    "source": "Hacker News",
+    "description": "HN Score: 174 | 149 comments",
+    "url": "https://status.claude.com/incidents/q2kg8n613kr3",
+    "score": 174,
     "date": "2026-07-29",
     "category": "AI News"
   },
@@ -127,37 +144,20 @@
     "category": "Twitter"
   },
   {
-    "title": "More Tailscale tricks for your jailbroken Kindle",
-    "source": "Hacker News",
-    "description": "HN Score: 368 | 106 comments",
-    "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
-    "score": 368,
-    "date": "2026-07-29",
-    "category": "AI News"
-  },
-  {
-    "title": "I am extremely terrified of the rapid pace of AI development Specifically I am terrified that we will end up with extreme concentration and abuse of p",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2082266002604311003#m",
-    "date": "2026-07-29",
-    "category": "Twitter"
-  },
-  {
     "title": "GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?",
     "source": "Hacker News",
-    "description": "HN Score: 57 | 12 comments",
+    "description": "HN Score: 69 | 15 comments",
     "url": "https://juliahub.com/blog/frontier-models-physical-ai-evaluation",
-    "score": 57,
+    "score": 69,
     "date": "2026-07-29",
     "category": "AI News"
   },
   {
-    "title": "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",
+    "title": "Hunter-gatherers introduced fish to a mountain lake 7000 years ago",
     "source": "Hacker News",
-    "description": "HN Score: 7 | 7 comments",
-    "url": "https://www.emergingtrajectories.com/lh/commodification-and-circularity/",
-    "score": 7,
+    "description": "HN Score: 118 | 91 comments",
+    "url": "https://www.newscientist.com/article/2580119-hunter-gatherers-introduced-fish-to-a-mountain-lake-7000-years-ago/",
+    "score": 118,
     "date": "2026-07-29",
     "category": "AI News"
   }
