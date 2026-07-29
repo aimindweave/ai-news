@@ -1,5 +1,12 @@
 [
   {
+    "title": "As AI content floods the internet, Pangram raises $9M to detect it",
+    "source": "TechCrunch",
+    "summary": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview.",
+    "url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
+    "date": "2026-07-29"
+  },
+  {
     "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
     "source": "TechCrunch",
     "summary": "The deal is Cyera's third acquisition this year.",
@@ -98,10 +105,10 @@
     "date": "2026-07-29"
   },
   {
-    "title": "Google\u2019s AI search is rapidly becoming the default, new data shows",
-    "source": "TechCrunch",
-    "summary": "Google\u2019s AI Overviews now appear in 43% of searches, underscoring how quickly AI-generated answers are becoming the default way people discover information online.",
-    "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
+    "title": "The Download: a chip talent battle, and deflating AI hype",
+    "source": "MIT Tech Review",
+    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Samsung\u2019s chip workers are jumping ship to rival SK Hynix Lee, an engineer at Samsung\u2019s semiconductor division, used to work late. But lately, he\u2019s been clocki...",
+    "url": "https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/",
     "date": "2026-07-29"
   },
   {
@@ -165,13 +172,6 @@
     "source": "MIT Tech Review",
     "summary": "For the enterprise, the promise of agentic AI is much more than just a better chatbot. It is software agents that execute business tasks end-to-end across people, business workflows, data, and systems. The platform best-suited to run agents is built with proper CPU capacity, resilient data access...",
     "url": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
-    "date": "2026-07-29"
-  },
-  {
-    "title": "The quest to keep organs alive outside the body",
-    "source": "MIT Tech Review",
-    "summary": "This week, I covered a fascinating effort to preserve organs outside the body. There\u2019s a huge shortage of donor organs, and one of the main reasons is time\u2014they survive only a matter of hours outside the body, even when they\u2019re kept on ice. Doctors dream of organ banks\u2014stores of human organs that...",
-    "url": "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/",
     "date": "2026-07-29"
   },
   {
@@ -242,6 +242,20 @@
     "source": "Wired",
     "summary": "On this episode of Uncanny Valley, we dive into accusations that China\u2019s Moonshot AI stole from Anthropic, and how the US Army needs to cut back on AI use.",
     "url": "https://www.wired.com/story/uncanny-valley-podcast/",
+    "date": "2026-07-29"
+  },
+  {
+    "title": "What happens when you put AI to work deciphering lost languages?",
+    "source": "Ars Technica",
+    "summary": "AI is fantastic at spotting patterns, but human insight is the key.",
+    "url": "https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages/",
+    "date": "2026-07-29"
+  },
+  {
+    "title": "Google's SynthID watermark is hard to break, but it doesn't solve AI misinformation",
+    "source": "Ars Technica",
+    "summary": "Deciding what's real on the Internet won't be easy in the future.",
+    "url": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/",
     "date": "2026-07-29"
   },
   {
@@ -333,20 +347,6 @@
     "source": "Ars Technica",
     "summary": "Google continues to report big quarterly revenue, but its AI spending has skyrocketed.",
     "url": "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/",
-    "date": "2026-07-29"
-  },
-  {
-    "title": "AI arms race in line for a reckoning after OpenAI hacking incident",
-    "source": "Ars Technica",
-    "summary": "Aggressive training techniques sharpens threat of bad behavior by leading models.",
-    "url": "https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident/",
-    "date": "2026-07-29"
-  },
-  {
-    "title": "Hyundai claims humanoid robot plan is not part of talks with striking workers",
-    "source": "Ars Technica",
-    "summary": "Union previously warned automaker that any robot deployment must be negotiated.",
-    "url": "https://arstechnica.com/ai/2026/07/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers/",
     "date": "2026-07-29"
   }
 ]

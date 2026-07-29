@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "More Tailscale tricks for your jailbroken Kindle",
+    "title": "Handbook.md shows that long policy documents do not reliably govern agents",
     "source": "Hacker News",
-    "description": "HN Score: 194 | 65 comments",
-    "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
-    "score": 194,
+    "description": "HN Score: 66 | 35 comments",
+    "url": "https://arxiv.org/abs/2607.25398",
+    "score": 66,
     "date": "2026-07-29",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "LearnVector \u2013 Andrew Ng's AI company building one\u2011to\u2011one learning experiences",
+    "title": "Show HN: Bullshit Detector \u2013 agent skills that fact-check videos and articles",
     "source": "Hacker News",
-    "description": "HN Score: 192 | 116 comments",
-    "url": "https://learnvector.ai/",
-    "score": 192,
+    "description": "HN Score: 38 | 20 comments",
+    "url": "https://github.com/SerhiiKorniienko/bullshit-detector",
+    "score": 38,
     "date": "2026-07-29",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Hubble: Open-source notetaking app for you and your agents",
+    "title": "Document-borne AI worms can self-propagate through Copilot for Word",
     "source": "Hacker News",
-    "description": "HN Score: 118 | 51 comments",
-    "url": "https://www.hubble.md/",
-    "score": 118,
+    "description": "HN Score: 143 | 120 comments",
+    "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
+    "score": 143,
     "date": "2026-07-29",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design",
+    "title": "More Tailscale tricks for your jailbroken Kindle",
     "source": "Hacker News",
-    "description": "HN Score: 54 | 5 comments",
-    "url": "https://transformer-transformer.github.io/",
-    "score": 54,
+    "description": "HN Score: 301 | 96 comments",
+    "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
+    "score": 301,
     "date": "2026-07-29",
     "category": "AI News"
   },
@@ -76,11 +76,28 @@
     "category": "Twitter"
   },
   {
-    "title": "ChatGPT claims rogue AI attacked more companies",
+    "title": "Disrupting supply chain attacks on NPM and GitHub Actions",
     "source": "Hacker News",
-    "description": "HN Score: 19 | 10 comments",
-    "url": "https://www.bbc.co.uk/news/articles/c2el319vzr3o",
-    "score": 19,
+    "description": "HN Score: 29 | 5 comments",
+    "url": "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/",
+    "score": 29,
+    "date": "2026-07-29",
+    "category": "AI News"
+  },
+  {
+    "title": "My transition away from Anthropic is now complete. I love their models. I love Claude Code. But I'm not willing to keep sending them money while they ",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2082445037389091037#m",
+    "date": "2026-07-29",
+    "category": "Twitter"
+  },
+  {
+    "title": "Hunter-gatherers introduced fish to a mountain lake 7000 years ago",
+    "source": "Hacker News",
+    "description": "HN Score: 9 | 5 comments",
+    "url": "https://www.newscientist.com/article/2580119-hunter-gatherers-introduced-fish-to-a-mountain-lake-7000-years-ago/",
+    "score": 9,
     "date": "2026-07-29",
     "category": "AI News"
   },
@@ -93,28 +110,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Una GPS smart watch \u2013 Repairable, USB-C charging, developer-friendly",
+    "title": "Show HN: Echologue \u2013 the private AI voice journal I built for myself",
     "source": "Hacker News",
-    "description": "HN Score: 225 | 139 comments",
-    "url": "https://unawatch.com/",
-    "score": 225,
+    "description": "HN Score: 15 | 9 comments",
+    "url": "https://echologue.com/",
+    "score": 15,
     "date": "2026-07-29",
     "category": "AI News"
   },
   {
-    "title": "RT by @svpino: Here is a new open-weight audio model you can integrate with your app. I'm a huge sucker for open models that you can host to keep your",
-    "source": "@svpino",
+    "title": "Half the AI world seems to think we are living in the singularity and LLMs will lead to AGI This crew thinks AI will recursively self improve in the c",
+    "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2082162168909509015#m",
+    "url": "https://nitter.net/bindureddy/status/2082461847899500631#m",
     "date": "2026-07-29",
     "category": "Twitter"
   },
   {
-    "title": "Now is the time to give LLMs access to the ACM digital library",
+    "title": "Show HN: Vimgolf.ai \u2013 Learn Vim by playing through a map of levels",
     "source": "Hacker News",
-    "description": "HN Score: 167 | 139 comments",
-    "url": "https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/",
-    "score": 167,
+    "description": "HN Score: 27 | 18 comments",
+    "url": "https://vimgolf.ai",
+    "score": 27,
     "date": "2026-07-29",
     "category": "AI News"
   },
@@ -127,37 +144,20 @@
     "category": "Twitter"
   },
   {
-    "title": "Discovering Cryptographic Weaknesses with Claude",
+    "title": "LearnVector \u2013 Andrew Ng's AI company building one\u2011to\u2011one learning experiences",
     "source": "Hacker News",
-    "description": "HN Score: 219 | 160 comments",
-    "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
-    "score": 219,
+    "description": "HN Score: 238 | 152 comments",
+    "url": "https://learnvector.ai/",
+    "score": 238,
     "date": "2026-07-29",
     "category": "AI News"
   },
   {
-    "title": "OpenAI and Anthropic are proposing they slow down! GLM 5.5 is launching in August. If the US models suspend model development as per plan, China will ",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2082215384548335746#m",
-    "date": "2026-07-29",
-    "category": "Twitter"
-  },
-  {
-    "title": "Truth is not a direction: a Tarski attack on LLM probes",
+    "title": "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design",
     "source": "Hacker News",
-    "description": "HN Score: 102 | 61 comments",
-    "url": "https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html",
-    "score": 102,
-    "date": "2026-07-29",
-    "category": "AI News"
-  },
-  {
-    "title": "DMARC has been public since 2012 but most company domains still don't enforce it",
-    "source": "Hacker News",
-    "description": "HN Score: 188 | 121 comments",
-    "url": "https://ciphercue.com/blog/dmarc-enforcement-gap-rua-fragmentation-2026",
-    "score": 188,
+    "description": "HN Score: 69 | 8 comments",
+    "url": "https://transformer-transformer.github.io/",
+    "score": 69,
     "date": "2026-07-29",
     "category": "AI News"
   }
