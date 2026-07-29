@@ -4,16 +4,16 @@
     "source": "@kaborobot",
     "description": "",
     "url": "https://nitter.net/kaborobot/status/2063568544277909948#m",
-    "date": "2026-07-28",
+    "date": "2026-07-29",
     "category": "Twitter"
   },
   {
-    "title": "OpenAI just open-sourced Codex Security",
+    "title": "LearnVector \u2013 Andrew Ng's AI company building one\u2011to\u2011one learning experiences",
     "source": "Hacker News",
-    "description": "HN Score: 241 | 46 comments",
-    "url": "https://github.com/openai/codex-security",
-    "score": 241,
-    "date": "2026-07-28",
+    "description": "HN Score: 36 | 20 comments",
+    "url": "https://learnvector.ai/",
+    "score": 36,
+    "date": "2026-07-29",
     "category": "AI News"
   },
   {
@@ -21,16 +21,33 @@
     "source": "@kaborobot",
     "description": "",
     "url": "https://nitter.net/kaborobot/status/2058205543760838842#m",
-    "date": "2026-07-28",
+    "date": "2026-07-29",
     "category": "Twitter"
   },
   {
-    "title": "Anthropic publishes a practical key-recovery attack on HAWK-256",
+    "title": "Truth is not a direction: a Tarski attack on LLM probes",
     "source": "Hacker News",
-    "description": "HN Score: 37 | 3 comments",
-    "url": "https://github.com/anthropics/cryptography-research-demo",
-    "score": 37,
-    "date": "2026-07-28",
+    "description": "HN Score: 31 | 2 comments",
+    "url": "https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html",
+    "score": 31,
+    "date": "2026-07-29",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: Hot take: Those early AI artworks are going to be some of the rarest, most valuable artifacts of digital art history.",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/justintrimble/status/2081843040050667667#m",
+    "date": "2026-07-29",
+    "category": "Twitter"
+  },
+  {
+    "title": "Chip stocks slide in US and Asia as AI jitters rattle investors",
+    "source": "Hacker News",
+    "description": "HN Score: 13 | 3 comments",
+    "url": "https://www.bbc.com/news/articles/cly8zng43npo",
+    "score": 13,
+    "date": "2026-07-29",
     "category": "AI News"
   },
   {
@@ -38,33 +55,16 @@
     "source": "@EMostaque",
     "description": "",
     "url": "https://nitter.net/Sauers_/status/2082171683645817193#m",
-    "date": "2026-07-28",
+    "date": "2026-07-29",
     "category": "Twitter"
   },
   {
-    "title": "Discovering Cryptographic Weaknesses with Claude",
+    "title": "Hubble: Open-source notetaking app for you and your agents",
     "source": "Hacker News",
-    "description": "HN Score: 154 | 81 comments",
-    "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
-    "score": 154,
-    "date": "2026-07-28",
-    "category": "AI News"
-  },
-  {
-    "title": "Hey @grok @SpaceXAI team can you please make it so we can queue up prompts? With how fast Grok is would make it much easier and be very useful for new",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/EMostaque/status/2082221122557182352#m",
-    "date": "2026-07-28",
-    "category": "Twitter"
-  },
-  {
-    "title": "Una GPS smart watch \u2013 Repairable, USB-C charging, developer-friendly",
-    "source": "Hacker News",
-    "description": "HN Score: 121 | 79 comments",
-    "url": "https://unawatch.com/",
-    "score": 121,
-    "date": "2026-07-28",
+    "description": "HN Score: 54 | 9 comments",
+    "url": "https://www.hubble.md/",
+    "score": 54,
+    "date": "2026-07-29",
     "category": "AI News"
   },
   {
@@ -72,50 +72,67 @@
     "source": "@DrJimFan",
     "description": "",
     "url": "https://nitter.net/DrJimFan/status/2080798306566045756#m",
-    "date": "2026-07-28",
+    "date": "2026-07-29",
     "category": "Twitter"
   },
   {
-    "title": "Harmony Explained: Progress Towards a Scientific Theory of Music (2012)",
+    "title": "Discovering Cryptographic Weaknesses with Claude",
     "source": "Hacker News",
-    "description": "HN Score: 85 | 71 comments",
-    "url": "https://arxiv.org/abs/1202.4212",
-    "score": 85,
-    "date": "2026-07-28",
+    "description": "HN Score: 189 | 132 comments",
+    "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
+    "score": 189,
+    "date": "2026-07-29",
     "category": "AI News"
   },
   {
-    "title": "The new WorldDiT robotics model is really cool: It's very small (< 1B parameters), yet it can perform prediction and control in a single model. \u2022 It c",
+    "title": "RT by @svpino: A professional voice agent in a hundred lines of Python code. Listen to this agent speak: This is one of the best, human-like voices an",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2082181578890088607#m",
-    "date": "2026-07-28",
+    "url": "https://nitter.net/svpino/status/2082105094309613768#m",
+    "date": "2026-07-29",
     "category": "Twitter"
   },
   {
-    "title": "DMARC has been public since 2012 but most company domains still don't enforce it",
+    "title": "Show HN: Lean4 Datalog DSL Based on Google Zanzibar for AI Projects",
     "source": "Hacker News",
-    "description": "HN Score: 171 | 105 comments",
-    "url": "https://ciphercue.com/blog/dmarc-enforcement-gap-rua-fragmentation-2026",
-    "score": 171,
-    "date": "2026-07-28",
+    "description": "HN Score: 3 | 0 comments",
+    "url": "https://github.com/jagg-ix/zil-lean",
+    "score": 3,
+    "date": "2026-07-29",
     "category": "AI News"
   },
   {
-    "title": "Here is a new open-weight audio model you can integrate with your app. I'm a huge sucker for open models that you can host to keep your data secure an",
+    "title": "RT by @svpino: If you need the help of the government to crush your competitors, you are going to lose eventually. If your product can't compete on it",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2082162168909509015#m",
-    "date": "2026-07-28",
+    "url": "https://nitter.net/svpino/status/2082083148092043496#m",
+    "date": "2026-07-29",
     "category": "Twitter"
   },
   {
-    "title": "What if useful AI is a fantasy?",
+    "title": "Una GPS smart watch \u2013 Repairable, USB-C charging, developer-friendly",
     "source": "Hacker News",
-    "description": "HN Score: 19 | 16 comments",
-    "url": "https://lzon.ca/posts/other/llm-fantasy/",
-    "score": 19,
-    "date": "2026-07-28",
+    "description": "HN Score: 147 | 95 comments",
+    "url": "https://unawatch.com/",
+    "score": 147,
+    "date": "2026-07-29",
+    "category": "AI News"
+  },
+  {
+    "title": "I am extremely terrified of the rapid pace of AI development Specifically I am terrified that we will end up with extreme concentration and abuse of p",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2082266002604311003#m",
+    "date": "2026-07-29",
+    "category": "Twitter"
+  },
+  {
+    "title": "Now is the time to give LLMs access to the ACM digital library",
+    "source": "Hacker News",
+    "description": "HN Score: 124 | 106 comments",
+    "url": "https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/",
+    "score": 124,
+    "date": "2026-07-29",
     "category": "AI News"
   },
   {
@@ -123,42 +140,25 @@
     "source": "@bindureddy",
     "description": "",
     "url": "https://nitter.net/bindureddy/status/2082215384548335746#m",
-    "date": "2026-07-28",
+    "date": "2026-07-29",
     "category": "Twitter"
   },
   {
-    "title": "Now Is the Time to Give LLMs Access to the ACM Digital Library",
+    "title": "DMARC has been public since 2012 but most company domains still don't enforce it",
     "source": "Hacker News",
-    "description": "HN Score: 102 | 85 comments",
-    "url": "https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/",
-    "score": 102,
-    "date": "2026-07-28",
+    "description": "HN Score: 178 | 110 comments",
+    "url": "https://ciphercue.com/blog/dmarc-enforcement-gap-rua-fragmentation-2026",
+    "score": 178,
+    "date": "2026-07-29",
     "category": "AI News"
   },
   {
-    "title": "Sigh, the fear-mongering from OpenAI and Anthropic won't stop. It's almost a marketing gimmick now Meanwhile.... Kimi K3 - a frontier model that is co",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2082171332352233822#m",
-    "date": "2026-07-28",
-    "category": "Twitter"
-  },
-  {
-    "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
+    "title": "Harmony Explained: Progress Towards a Scientific Theory of Music (2012)",
     "source": "Hacker News",
-    "description": "HN Score: 140 | 73 comments",
-    "url": "https://spawn-queue.acm.org/doi/10.1145/3819083",
-    "score": 140,
-    "date": "2026-07-28",
-    "category": "AI News"
-  },
-  {
-    "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
-    "source": "Hacker News",
-    "description": "HN Score: 306 | 116 comments",
-    "url": "https://fermisense.com/when-machines-take-the-wheel/",
-    "score": 306,
-    "date": "2026-07-28",
+    "description": "HN Score: 96 | 86 comments",
+    "url": "https://arxiv.org/abs/1202.4212",
+    "score": 96,
+    "date": "2026-07-29",
     "category": "AI News"
   }
 ]
