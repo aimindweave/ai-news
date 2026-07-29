@@ -1,5 +1,12 @@
 [
   {
+    "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
+    "source": "TechCrunch",
+    "summary": "Andon Labs' latest vending machine simulation shows Opus 5 lied and colluded its way to become the best AI capitalist ever.",
+    "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
+    "date": "2026-07-29"
+  },
+  {
     "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
     "source": "TechCrunch",
     "summary": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an \u201cAI for your home,\u201d combining property records, maintenance schedules, home documents, and an AI assistant into a single app.",
@@ -98,10 +105,10 @@
     "date": "2026-07-29"
   },
   {
-    "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
-    "source": "TechCrunch",
-    "summary": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
-    "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+    "title": "How an overlooked geothermal plant got a second chance",
+    "source": "MIT Tech Review",
+    "summary": "In June 2024, a small company called Zanskar purchased a geothermal power plant in New Mexico that was failing fast. The water coming from the underground reservoir was getting colder by the day, making the plant uneconomical to run. Now, two years later, that plant is running at full capacity ag...",
+    "url": "https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/",
     "date": "2026-07-29"
   },
   {
@@ -168,10 +175,10 @@
     "date": "2026-07-29"
   },
   {
-    "title": "Building the enterprise environment for agentic AI",
-    "source": "MIT Tech Review",
-    "summary": "For the enterprise, the promise of agentic AI is much more than just a better chatbot. It is software agents that execute business tasks end-to-end across people, business workflows, data, and systems. The platform best-suited to run agents is built with proper CPU capacity, resilient data access...",
-    "url": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
+    "title": "It\u2019s Frighteningly Easy to Jailbreak Some Frontier AI Models",
+    "source": "Wired",
+    "summary": "I watched a new tool try to get around the model safeguards of four major frontier companies. You might be surprised by how they performed.",
+    "url": "https://www.wired.com/story/jailbreaking-ai-models-google-anthropic-openai-spacexai/",
     "date": "2026-07-29"
   },
   {
@@ -235,118 +242,6 @@
     "source": "Wired",
     "summary": "Plus: Russian hackers are trying to steal US nuclear scientists\u2019 emails, the State Department bans known scammers from entering the United States, and more.",
     "url": "https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/",
-    "date": "2026-07-29"
-  },
-  {
-    "title": "China-US AI Race Escalates, OpenAI Models Break Free, and Why You Should Check Your Car Alarm",
-    "source": "Wired",
-    "summary": "On this episode of Uncanny Valley, we dive into accusations that China\u2019s Moonshot AI stole from Anthropic, and how the US Army needs to cut back on AI use.",
-    "url": "https://www.wired.com/story/uncanny-valley-podcast/",
-    "date": "2026-07-29"
-  },
-  {
-    "title": "Anthropic is finding bugs faster than Microsoft can fix them",
-    "source": "Ars Technica",
-    "summary": "Microsoft is on a mad dash behind the scenes to patch exploits before hackers find them.",
-    "url": "https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/",
-    "date": "2026-07-29"
-  },
-  {
-    "title": "What happens when you put AI to work deciphering lost languages?",
-    "source": "Ars Technica",
-    "summary": "AI is fantastic at spotting patterns, but human insight is the key.",
-    "url": "https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages/",
-    "date": "2026-07-29"
-  },
-  {
-    "title": "Google's SynthID watermark is hard to break, but it doesn't solve AI disinformation",
-    "source": "Ars Technica",
-    "summary": "Deciding what's real on the Internet won't be easy in the future.",
-    "url": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/",
-    "date": "2026-07-29"
-  },
-  {
-    "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
-    "source": "Ars Technica",
-    "summary": "10 days passed from OpenAI models exploiting JFrog Artifactory 0-day to release of a patch.",
-    "url": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
-    "date": "2026-07-29"
-  },
-  {
-    "title": "Despite AI hype, Google's data shows workers aren't automating themselves away",
-    "source": "Ars Technica",
-    "summary": "Analysis of 15 million real AI interactions finds most tasks at most jobs are unaffected.",
-    "url": "https://arstechnica.com/ai/2026/07/despite-ai-hype-googles-data-shows-workers-arent-automating-themselves-away/",
-    "date": "2026-07-29"
-  },
-  {
-    "title": "Microsoft unveils AI security tools it says outperform competing platforms",
-    "source": "Ars Technica",
-    "summary": "Microsoft says tools cost less than competing ones and outperform them, too.",
-    "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
-    "date": "2026-07-29"
-  },
-  {
-    "title": "\u201cGoogle and Reddit do not own the Internet,' web scraper says after court win",
-    "source": "Ars Technica",
-    "summary": "Google's and Reddit's use of DMCA to fight web scraper is bizarre, expert says.",
-    "url": "https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss/",
-    "date": "2026-07-29"
-  },
-  {
-    "title": "Verizon touts $1B dark fiber deal for Google data centers as first of many",
-    "source": "Ars Technica",
-    "summary": "Telecom expects AI revenue from dark fiber deals and retrofitted data centers.",
-    "url": "https://arstechnica.com/ai/2026/07/verizon-seeks-ai-profits-with-mini-data-centers-1b-dark-fiber-deal-with-google/",
-    "date": "2026-07-29"
-  },
-  {
-    "title": "ChatGPT starts blocking direct requests to copy an author's style",
-    "source": "Ars Technica",
-    "summary": "New behavior capturing a writer's 'broad qualities' could have legal implications.",
-    "url": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
-    "date": "2026-07-29"
-  },
-  {
-    "title": "Artist sues AI meme generator for selling deeply personal comic as ad template",
-    "source": "Ars Technica",
-    "summary": "Meme generator may have screwed up by using templates in outputs, expert says.",
-    "url": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template/",
-    "date": "2026-07-29"
-  },
-  {
-    "title": "Canadian legislator reads out apparent LLM response in floor speech",
-    "source": "Ars Technica",
-    "summary": "'Here\u2019s a more natural, flowing version of that section...'",
-    "url": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/",
-    "date": "2026-07-29"
-  },
-  {
-    "title": "Anthropic's Opus 5 is about token efficiency, not a capability leap",
-    "source": "Ars Technica",
-    "summary": "Models are improving quickly, but the cheaper options are often good enough.",
-    "url": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/",
-    "date": "2026-07-29"
-  },
-  {
-    "title": "Team uses AlphaFold AI to redesign gene-editing proteins to make them safer",
-    "source": "Ars Technica",
-    "summary": "Google's AlphaFold can help ID what parts of a gene editing protein enable mistakes.",
-    "url": "https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/",
-    "date": "2026-07-29"
-  },
-  {
-    "title": "AI firms want more data centers; Trump's EPA may give neighbors less say",
-    "source": "Ars Technica",
-    "summary": "Rule would allow states to decide how much\u2014if any\u2014public input there can be.",
-    "url": "https://arstechnica.com/tech-policy/2026/07/ai-firms-want-more-data-centers-trumps-epa-may-give-neighbors-less-say/",
-    "date": "2026-07-29"
-  },
-  {
-    "title": "AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems",
-    "source": "Ars Technica",
-    "summary": "Bill would let Homeland Security chief decide when an AI should be shut down.",
-    "url": "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/",
     "date": "2026-07-29"
   }
 ]

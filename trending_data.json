@@ -10,9 +10,9 @@
   {
     "title": "Handbook.md shows that long policy documents do not reliably govern agents",
     "source": "Hacker News",
-    "description": "HN Score: 192 | 129 comments",
+    "description": "HN Score: 236 | 153 comments",
     "url": "https://arxiv.org/abs/2607.25398",
-    "score": 192,
+    "score": 236,
     "date": "2026-07-29",
     "category": "AI News"
   },
@@ -25,45 +25,45 @@
     "category": "Twitter"
   },
   {
-    "title": "Hugging Face: Anatomy of a frontier-lab agent intrusion",
+    "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
     "source": "Hacker News",
-    "description": "HN Score: 62 | 19 comments",
-    "url": "https://huggingface-anatomy-of-frontier-lab-model-intrusion.static.hf.space/index.html",
-    "score": 62,
+    "description": "HN Score: 129 | 49 comments",
+    "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+    "score": 129,
     "date": "2026-07-29",
     "category": "AI News"
   },
   {
-    "title": "RT by @EMostaque: London's AI movie club meets tomorrow This time Ghost in the Shell (1995) Free @ Kensington Central Library RSVP: https://luma.com/q",
+    "title": "Can someone distill Kimi K3 into Laguna 2.1 pls.",
     "source": "@EMostaque",
     "description": "",
-    "url": "https://nitter.net/ii_posts/status/2082421852295586282#m",
-    "date": "2026-07-29",
-    "category": "Twitter"
-  },
-  {
-    "title": "Launch HN: Tokenless (YC S26) \u2013 Automatic model switching to save money",
-    "source": "Hacker News",
-    "description": "HN Score: 22 | 19 comments",
-    "url": "https://usetokenless.com/",
-    "score": 22,
-    "date": "2026-07-29",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @EMostaque: Today we're introducing Genii. An open source personal assistant that lives in your messages. You just text it. It remembers what ma",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/ii_posts/status/2082474832877269208#m",
+    "url": "https://nitter.net/EMostaque/status/2082534687503769961#m",
     "date": "2026-07-29",
     "category": "Twitter"
   },
   {
     "title": "Document-borne AI worms can self-propagate through Copilot for Word",
     "source": "Hacker News",
-    "description": "HN Score: 231 | 181 comments",
+    "description": "HN Score: 277 | 205 comments",
     "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
-    "score": 231,
+    "score": 277,
+    "date": "2026-07-29",
+    "category": "AI News"
+  },
+  {
+    "title": "Who on earth came up with 5 hour limits? The day is 24 hours long. While do our limit times shift by an hour each day. Pls if you are going to have li",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/EMostaque/status/2082516600305917975#m",
+    "date": "2026-07-29",
+    "category": "Twitter"
+  },
+  {
+    "title": "Some thoughts about Anthropic's new cryptanalysis results",
+    "source": "Hacker News",
+    "description": "HN Score: 50 | 22 comments",
+    "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
+    "score": 50,
     "date": "2026-07-29",
     "category": "AI News"
   },
@@ -76,45 +76,45 @@
     "category": "Twitter"
   },
   {
-    "title": "Hunter-gatherers introduced fish to a mountain lake 7000 years ago",
+    "title": "Launch HN: Tokenless (YC S26) \u2013 Automatic model switching to save money",
     "source": "Hacker News",
-    "description": "HN Score: 87 | 60 comments",
-    "url": "https://www.newscientist.com/article/2580119-hunter-gatherers-introduced-fish-to-a-mountain-lake-7000-years-ago/",
-    "score": 87,
+    "description": "HN Score: 38 | 37 comments",
+    "url": "https://usetokenless.com/",
+    "score": 38,
     "date": "2026-07-29",
     "category": "AI News"
   },
   {
-    "title": "Kimi K3 is one of the strongest open-weight models for advanced coding workflows: 1. A 2.8T-parameter model 2. 1M-token context window 3. Native multi",
+    "title": "RT by @svpino: We saved $260M in cash for cos. like Meta, Unilever, and J&J by finding baseless charges across 19M+ invoices. Now, we've raised $75M t",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2082510927187095910#m",
+    "url": "https://nitter.net/freehand_ai/status/2082510919960281594#m",
     "date": "2026-07-29",
     "category": "Twitter"
   },
   {
-    "title": "Infrastructure Patterns for Agentic Applications",
+    "title": "PGSimCity \u2013 an explorable 3D model that shows how Postgres works",
     "source": "Hacker News",
-    "description": "HN Score: 15 | 1 comments",
-    "url": "https://render.com/blog/infrastructure-patterns-for-agentic-applications",
-    "score": 15,
+    "description": "HN Score: 12 | 1 comments",
+    "url": "https://github.com/NikolayS/pgsimcity",
+    "score": 12,
     "date": "2026-07-29",
     "category": "AI News"
   },
   {
-    "title": "My agent can now talk to your agent. I'll have to take some time to think about the implications here. Up to this point, your personal assistant agent",
+    "title": "Great article arguing that vector indexing is not enough. Companies need a context layer that unifies data, relationships, memory, and tools. Here is ",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2082481778548506738#m",
+    "url": "https://nitter.net/svpino/status/2082514844935426129#m",
     "date": "2026-07-29",
     "category": "Twitter"
   },
   {
-    "title": "GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?",
+    "title": "How much can you delegate to agents?",
     "source": "Hacker News",
-    "description": "HN Score: 35 | 6 comments",
-    "url": "https://juliahub.com/blog/frontier-models-physical-ai-evaluation",
-    "score": 35,
+    "description": "HN Score: 3 | 0 comments",
+    "url": "https://newsletter.posthog.com/p/agent-autonomy",
+    "score": 3,
     "date": "2026-07-29",
     "category": "AI News"
   },
@@ -129,9 +129,9 @@
   {
     "title": "More Tailscale tricks for your jailbroken Kindle",
     "source": "Hacker News",
-    "description": "HN Score: 357 | 103 comments",
+    "description": "HN Score: 368 | 106 comments",
     "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
-    "score": 357,
+    "score": 368,
     "date": "2026-07-29",
     "category": "AI News"
   },
@@ -144,20 +144,20 @@
     "category": "Twitter"
   },
   {
-    "title": "Disrupting supply chain attacks on NPM and GitHub Actions",
+    "title": "GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?",
     "source": "Hacker News",
-    "description": "HN Score: 67 | 21 comments",
-    "url": "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/",
-    "score": 67,
+    "description": "HN Score: 57 | 12 comments",
+    "url": "https://juliahub.com/blog/frontier-models-physical-ai-evaluation",
+    "score": 57,
     "date": "2026-07-29",
     "category": "AI News"
   },
   {
-    "title": "Ask HN: My domain registrar (Hover) rug-pulled me for $3000",
+    "title": "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",
     "source": "Hacker News",
-    "description": "HN Score: 43 | 33 comments",
-    "url": "https://news.ycombinator.com/item?id=49099021",
-    "score": 43,
+    "description": "HN Score: 7 | 7 comments",
+    "url": "https://www.emergingtrajectories.com/lh/commodification-and-circularity/",
+    "score": 7,
     "date": "2026-07-29",
     "category": "AI News"
   }
