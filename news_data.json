@@ -1,5 +1,19 @@
 [
   {
+    "title": "TechCrunch Disrupt 2026\u2019s biggest stage features leaders from Amazon, Replit, Tether, with much more to come",
+    "source": "TechCrunch",
+    "summary": "The Disrupt Stage is where many of the biggest conversations in technology happen, with a legacy that stretches back for more than a decade.",
+    "url": "https://techcrunch.com/2026/07/30/techcrunch-disrupt-2026s-biggest-stage-features-leaders-from-amazon-replit-tether-with-much-more-to-come/",
+    "date": "2026-07-30"
+  },
+  {
+    "title": "Dili raises $21.7M to bring AI compliance to the infrastructure boom",
+    "source": "TechCrunch",
+    "summary": "The Series A was led by Khosla Ventures, with participation from Allianz, Rebel Fund, Brick and Mortar Ventures\u2019 Darren Bechtel, and Y Combinator\u2019s Garry Tan.",
+    "url": "https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/",
+    "date": "2026-07-30"
+  },
+  {
     "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
     "source": "TechCrunch",
     "summary": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
@@ -91,17 +105,17 @@
     "date": "2026-07-30"
   },
   {
-    "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
-    "source": "TechCrunch",
-    "summary": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP gateway product and then opted to build one itself.",
-    "url": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
+    "title": "The Download: tricking LLMs, and reviving geothermal plants",
+    "source": "MIT Tech Review",
+    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. A fundamental flaw leaves LLMs strikingly vulnerable to attack It is impossible to make large language models fully secure against hacks because of a fundament...",
+    "url": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/",
     "date": "2026-07-30"
   },
   {
-    "title": "Sam Altman is ready to decelerate",
-    "source": "TechCrunch",
-    "summary": "His change of position comes after 'the first security incident that I have felt very viscerally.'",
-    "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
+    "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+    "source": "MIT Tech Review",
+    "summary": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month. The claim has huge implications for the ...",
+    "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
     "date": "2026-07-30"
   },
   {
@@ -161,17 +175,10 @@
     "date": "2026-07-30"
   },
   {
-    "title": "The path to artificial superintelligence",
-    "source": "MIT Tech Review",
-    "summary": "Imagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy. Each is an expert in its domain. But they all have their own distinct knowledge and objectives. Today they can exchange data, but they are ...",
-    "url": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
-    "date": "2026-07-30"
-  },
-  {
-    "title": "Closing the data loop in AI-driven drug discovery",
-    "source": "MIT Tech Review",
-    "summary": "Drug discovery is a high-cost, high-risk endeavor that is under growing pressure from a market increasingly defined by first-mover advantage. Since the 1950s, the cost of developing new pharmaceuticals has roughly doubled every nine years\u2014a phenomenon known as Eroom\u2019s Law. Today, bringing a new d...",
-    "url": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
+    "title": "OpenAI\u2019s Hacking Debacle Comes Down to Human Error",
+    "source": "Wired",
+    "summary": "If the generative AI giant had followed well-known security best practices, it\u2019s likely that its AI agent would never have escaped to the open internet and hacked multiple companies.",
+    "url": "https://www.wired.com/story/openais-hacking-debacle-was-a-human-mistake/",
     "date": "2026-07-30"
   },
   {
@@ -235,13 +242,6 @@
     "source": "Wired",
     "summary": "Anthropic and OpenAI employees are expected to give generously after their companies go public. \u201cIt\u2019s going to be a wild ride,\u201d says one nonprofit leader.",
     "url": "https://www.wired.com/story/nonprofits-are-getting-ready-for-the-funding-anthropalypse/",
-    "date": "2026-07-30"
-  },
-  {
-    "title": "Hugging Face Has a Deepfake Nudes Problem",
-    "source": "Wired",
-    "summary": "Researchers tested top image editing models on Hugging Face and found they could easily create explicit deepfakes\u2014and 1,000 image editing prompts show how people use the software.",
-    "url": "https://www.wired.com/story/hugging-face-has-a-nonconsensual-deepfakes-problem/",
     "date": "2026-07-30"
   },
   {
