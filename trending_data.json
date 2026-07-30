@@ -10,9 +10,9 @@
   {
     "title": "AI's top startups are barely publishing their research",
     "source": "Hacker News",
-    "description": "HN Score: 247 | 136 comments",
+    "description": "HN Score: 348 | 193 comments",
     "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
-    "score": 247,
+    "score": 348,
     "date": "2026-07-30",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "A pharmacy chain in Vermont implemented AI for efficiency",
+    "title": "LLM Honeypot",
     "source": "Hacker News",
-    "description": "HN Score: 23 | 20 comments",
-    "url": "https://vtdigger.org/2026/07/29/a-pharmacy-chain-in-vermont-implemented-ai-for-efficiency-its-led-to-delays-incorrect-information-and-privacy-concerns/",
-    "score": 23,
+    "description": "HN Score: 158 | 48 comments",
+    "url": "https://llm2human.pages.dev/",
+    "score": 158,
     "date": "2026-07-30",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "LLM Honeypot",
+    "title": "1,741 'informed' consents with one click? GDPR complaint filed",
     "source": "Hacker News",
-    "description": "HN Score: 78 | 32 comments",
-    "url": "https://llm2human.pages.dev/",
-    "score": 78,
+    "description": "HN Score: 44 | 7 comments",
+    "url": "https://noyb.eu/en/1741-informed-consents-one-click-gdpr-complaint-against-dictcc-filed",
+    "score": 44,
     "date": "2026-07-30",
     "category": "AI News"
   },
@@ -59,97 +59,97 @@
     "category": "Twitter"
   },
   {
-    "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
-    "source": "Hacker News",
-    "description": "HN Score: 305 | 182 comments",
-    "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-    "score": 305,
-    "date": "2026-07-30",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: My transition away from Anthropic is now complete. I love their models. I love Claude Code. But I'm not willing to keep sending them mo",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2082445037389091037#m",
-    "date": "2026-07-30",
-    "category": "Twitter"
-  },
-  {
     "title": "The Cold Email",
     "source": "Hacker News",
-    "description": "HN Score: 102 | 41 comments",
+    "description": "HN Score: 162 | 64 comments",
     "url": "https://zachholman.com/posts/cold-email",
-    "score": 102,
+    "score": 162,
     "date": "2026-07-30",
     "category": "AI News"
   },
   {
-    "title": "This is pretty surreal \ud83d\udc40",
+    "title": "RT by @svpino: Great article arguing that vector indexing is not enough. Companies need a context layer that unifies data, relationships, memory, and ",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2082599246469963948#m",
+    "url": "https://nitter.net/svpino/status/2082514844935426129#m",
     "date": "2026-07-30",
     "category": "Twitter"
   },
   {
-    "title": "Document-borne AI worms can self-propagate through Copilot for Word",
+    "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
     "source": "Hacker News",
-    "description": "HN Score: 351 | 268 comments",
-    "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
-    "score": 351,
+    "description": "HN Score: 347 | 200 comments",
+    "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+    "score": 347,
     "date": "2026-07-30",
     "category": "AI News"
   },
   {
-    "title": "Ok this is crazy! The US government just banned foreign made humanoid robots!! This means we can\u2019t have all those cool Chinese robots. Soon they will ",
-    "source": "@bindureddy",
+    "title": "RT by @svpino: Kimi K3 is one of the strongest open-weight models for advanced coding workflows: 1. A 2.8T-parameter model 2. 1M-token context window ",
+    "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/bindureddy/status/2082600153559781872#m",
+    "url": "https://nitter.net/svpino/status/2082510927187095910#m",
     "date": "2026-07-30",
     "category": "Twitter"
   },
   {
-    "title": "Handbook.md shows that long policy documents do not reliably govern agents",
+    "title": "Kuna: Decompiler Development in the Age of Coding Agents",
     "source": "Hacker News",
-    "description": "HN Score: 300 | 185 comments",
-    "url": "https://arxiv.org/abs/2607.25398",
-    "score": 300,
+    "description": "HN Score: 21 | 4 comments",
+    "url": "https://noelo.org/blog/kuna-release/",
+    "score": 21,
     "date": "2026-07-30",
     "category": "AI News"
   },
   {
-    "title": "Enterprises will soon have 100x more AI agents than human employees We are having our first super-fancy AI conference in NYC focused on the recursivel",
+    "title": "Lots of hate for Gemini Flash 3.6 \ud83d\ude05 But we have officially shipped it for deep research It\u2019s faster, cheaper and better than Sol, which is the next be",
     "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/bindureddy/status/2082510537188090216#m",
+    "url": "https://nitter.net/bindureddy/status/2082703251812798941#m",
     "date": "2026-07-30",
     "category": "Twitter"
   },
   {
-    "title": "Show HN: A local merge queue for parallel Claude Code agents",
+    "title": "Some thoughts about Anthropic's new cryptanalysis results",
     "source": "Hacker News",
-    "description": "HN Score: 16 | 5 comments",
-    "url": "https://github.com/funador/claude-code-merge-queue",
-    "score": 16,
+    "description": "HN Score: 135 | 69 comments",
+    "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
+    "score": 135,
+    "date": "2026-07-30",
+    "category": "AI News"
+  },
+  {
+    "title": "BE PREPARED! The world is going to get weird very fast! We will see a big rise in authoritarian governments, monopolies and extreme power abuse Bad ac",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2082662789966119112#m",
+    "date": "2026-07-30",
+    "category": "Twitter"
+  },
+  {
+    "title": "Launch HN: Tokenless (YC S26) \u2013 Automatic model switching to save money",
+    "source": "Hacker News",
+    "description": "HN Score: 58 | 50 comments",
+    "url": "https://usetokenless.com/",
+    "score": 58,
     "date": "2026-07-30",
     "category": "AI News"
   },
   {
     "title": "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",
     "source": "Hacker News",
-    "description": "HN Score: 62 | 31 comments",
+    "description": "HN Score: 77 | 40 comments",
     "url": "https://www.emergingtrajectories.com/lh/commodification-and-circularity/",
-    "score": 62,
+    "score": 77,
     "date": "2026-07-30",
     "category": "AI News"
   },
   {
-    "title": "Some thoughts about Anthropic's new cryptanalysis results",
+    "title": "Refactoring cuisine: how an Iraqi stew sailed to Singapore",
     "source": "Hacker News",
-    "description": "HN Score: 114 | 59 comments",
-    "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
-    "score": 114,
+    "description": "HN Score: 47 | 12 comments",
+    "url": "https://iza.ac/posts/2026/07/the-journey-of-bamya/",
+    "score": 47,
     "date": "2026-07-30",
     "category": "AI News"
   }
