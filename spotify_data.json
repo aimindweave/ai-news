@@ -93,7 +93,27 @@
   ],
   "episodes": [
     {
+      "id": "Practica_0",
+      "name": "Reconstructing how OpenAI agents attacked Hugging Face",
+      "show": "Practical AI",
+      "description": "\n        What happens when AI agents driven by a top frontier model escape their secure sandbox? Join Daniel and Chris as they unpack the AI wonk's equivalent of a murder mystery! OpenAI agents wen",
+      "release_date": "2026-07-30",
+      "duration_min": 44,
+      "image": "",
+      "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
+    },
+    {
       "id": "a]6z Pod_0",
+      "name": "AI for America's Small Businesses | Lassie",
+      "show": "a]6z Podcast",
+      "description": "Alex Rampell and Olivia Moore speak with Lassie cofounders Steijn Pelle and Frédéric Renken about bringing AI to one of the most overlooked parts of the economy: small businesses.\nInspired b",
+      "release_date": "2026-07-30",
+      "duration_min": 58,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
+      "id": "a]6z Pod_1",
       "name": "AI Micro Dramas, Generative Media, and the Future of Creativity",
       "show": "a]6z Podcast",
       "description": "Justine Moore, partner at Andreessen Horowitz, joins New Economies to explore the rapid evolution of generative media and why AI-native content is reaching an inflection point. They discuss the ris",
@@ -113,7 +133,7 @@
       "url": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "Fei-Fei Li on Spatial Intelligence and Robotics",
       "show": "a]6z Podcast",
       "description": "Last week, World Labs announced its acquisition of SceniX, bringing together two teams working on one of AI's biggest unsolved problems: how to give machines a true understanding of the physical wo",
@@ -133,16 +153,6 @@
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
     },
     {
-      "id": "a]6z Pod_2",
-      "name": "Steven Sinofsky: AI Doesn't Need New Rules Yet",
-      "show": "a]6z Podcast",
-      "description": "Steven Sinofsky joins Theo Jaffee and Sofia Puccini for a conversation on AI regulation, open-source models, and what history can teach us about technological revolutions. Drawing on decades of exp",
-      "release_date": "2026-07-27",
-      "duration_min": 29,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
-    },
-    {
       "id": "Hard For_0",
       "name": "OpenAI Models Go Rogue + Kimi K3 Freakout + A.I. Superforecasting",
       "show": "Hard Fork",
@@ -153,7 +163,7 @@
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
-      "id": "Practica_0",
+      "id": "Practica_1",
       "name": "Surviving the New Economics of a Post-Agentic World",
       "show": "Practical AI",
       "description": "\n        The agentic transformation isn’t coming. It has already begun.Companies are deploying thousands — and sometimes tens of thousands — of AI agents. Enterprise software giants are watc",
@@ -173,7 +183,7 @@
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
-      "id": "Practica_1",
+      "id": "Practica_2",
       "name": "The Future of AI Infrastructure with CoreWeave",
       "show": "Practical AI",
       "description": "\n        As AI applications become more complex, the infrastructure powering them needs to evolve. Corey Sanders, SVP of Product at CoreWeave, joins Chris to discuss why AI requires a fundamentally",
@@ -191,16 +201,6 @@
       "duration_min": 79,
       "image": "",
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
-    },
-    {
-      "id": "Practica_2",
-      "name": "Building Durable AI Agents",
-      "show": "Practical AI",
-      "description": "\n        What does it take to move AI agents from demos to reliable production systems? In this episode, Hamza Tahir explores how MLOps principles are shaping the future of generative AI, covering ",
-      "release_date": "2026-07-09",
-      "duration_min": 46,
-      "image": "",
-      "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
       "id": "The TWIM_1",

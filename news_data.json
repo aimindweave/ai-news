@@ -175,6 +175,27 @@
     "date": "2026-07-30"
   },
   {
+    "title": "LinkedIn Won\u2019t Be Expanding Its Data Centers in the Next Year",
+    "source": "Wired",
+    "summary": "Despite the ongoing AI boom, LinkedIn is holding the line on compute spending. Instead, it\u2019s challenging engineers to make every GPU count.",
+    "url": "https://www.wired.com/story/how-linkedin-is-keeping-its-compute-capacity-flat/",
+    "date": "2026-07-30"
+  },
+  {
+    "title": "AI Scammers Are Better at Building Trust Than Humans",
+    "source": "Wired",
+    "summary": "Researchers pitted a person against a Claude agent and found that, after a week of texting, the AI chatbot was more effective at creating \u201cexploitable trust\u201d with others.",
+    "url": "https://www.wired.com/story/ai-scammers-are-better-at-building-trust-than-humans/",
+    "date": "2026-07-30"
+  },
+  {
+    "title": "I Got a Free Meal From a Private Chef\u2014Who Filmed It All to Train Robots",
+    "source": "Wired",
+    "summary": "A German startup sent a camera-wearing chef to my apartment. In exchange for a free lunch, I let them record every chop and stir to train future humanoids.",
+    "url": "https://www.wired.com/story/i-let-a-private-chef-film-my-kitchen-for-robot-training-data/",
+    "date": "2026-07-30"
+  },
+  {
     "title": "It\u2019s Frighteningly Easy to Jailbreak Some Frontier AI Models",
     "source": "Wired",
     "summary": "I watched a new tool try to get around the model safeguards of four major frontier companies. You might be surprised by how they performed.",
@@ -221,27 +242,6 @@
     "source": "Wired",
     "summary": "Researchers tested top image editing models on Hugging Face and found they could easily create explicit deepfakes\u2014and 1,000 image editing prompts show how people use the software.",
     "url": "https://www.wired.com/story/hugging-face-has-a-nonconsensual-deepfakes-problem/",
-    "date": "2026-07-30"
-  },
-  {
-    "title": "Private Claude Chats Exposed in Google and Bing Search Results",
-    "source": "Wired",
-    "summary": "The screwup shows how tricky it can be to stop web crawlers from making ostensibly private conversations with AI chatbots entirely too public.",
-    "url": "https://www.wired.com/story/private-claude-chats-exposed-in-google-and-bing-search-results/",
-    "date": "2026-07-30"
-  },
-  {
-    "title": "This Is Donald Trump\u2019s AI Brain Trust",
-    "source": "Wired",
-    "summary": "\u201cIt\u2019s not an argument with two sides, it\u2019s an argument with 10 sides,\u201d one senior administration official tells WIRED about how US AI policy is being shaped.",
-    "url": "https://www.wired.com/story/this-is-donald-trumps-ai-brain-trust/",
-    "date": "2026-07-30"
-  },
-  {
-    "title": "The OpenAI Models That Hacked Hugging Face Were \u2018Active on the Internet\u2019 for Days",
-    "source": "Wired",
-    "summary": "Plus: Russian hackers are trying to steal US nuclear scientists\u2019 emails, the State Department bans known scammers from entering the United States, and more.",
-    "url": "https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/",
     "date": "2026-07-30"
   },
   {

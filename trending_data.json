@@ -10,9 +10,9 @@
   {
     "title": "AI's top startups are barely publishing their research",
     "source": "Hacker News",
-    "description": "HN Score: 348 | 193 comments",
+    "description": "HN Score: 484 | 246 comments",
     "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
-    "score": 348,
+    "score": 484,
     "date": "2026-07-30",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "LLM Honeypot",
     "source": "Hacker News",
-    "description": "HN Score: 158 | 48 comments",
+    "description": "HN Score: 263 | 68 comments",
     "url": "https://llm2human.pages.dev/",
-    "score": 158,
+    "score": 263,
     "date": "2026-07-30",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "1,741 'informed' consents with one click? GDPR complaint filed",
+    "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
     "source": "Hacker News",
-    "description": "HN Score: 44 | 7 comments",
-    "url": "https://noyb.eu/en/1741-informed-consents-one-click-gdpr-complaint-against-dictcc-filed",
-    "score": 44,
+    "description": "HN Score: 390 | 214 comments",
+    "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+    "score": 390,
     "date": "2026-07-30",
     "category": "AI News"
   },
@@ -61,9 +61,9 @@
   {
     "title": "The Cold Email",
     "source": "Hacker News",
-    "description": "HN Score: 162 | 64 comments",
+    "description": "HN Score: 223 | 86 comments",
     "url": "https://zachholman.com/posts/cold-email",
-    "score": 162,
+    "score": 223,
     "date": "2026-07-30",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
+    "title": "Kuna: Decompiler Development in the Age of Coding Agents",
     "source": "Hacker News",
-    "description": "HN Score: 347 | 200 comments",
-    "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-    "score": 347,
+    "description": "HN Score: 43 | 10 comments",
+    "url": "https://noelo.org/blog/kuna-release/",
+    "score": 43,
     "date": "2026-07-30",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Kuna: Decompiler Development in the Age of Coding Agents",
+    "title": "Some thoughts about Anthropic's new cryptanalysis results",
     "source": "Hacker News",
-    "description": "HN Score: 21 | 4 comments",
-    "url": "https://noelo.org/blog/kuna-release/",
-    "score": 21,
+    "description": "HN Score: 159 | 85 comments",
+    "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
+    "score": 159,
     "date": "2026-07-30",
     "category": "AI News"
   },
@@ -110,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Some thoughts about Anthropic's new cryptanalysis results",
+    "title": "Launch HN: Tokenless (YC S26) \u2013 Automatic model switching to save money",
     "source": "Hacker News",
-    "description": "HN Score: 135 | 69 comments",
-    "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
-    "score": 135,
+    "description": "HN Score: 63 | 57 comments",
+    "url": "https://usetokenless.com/",
+    "score": 63,
     "date": "2026-07-30",
     "category": "AI News"
   },
@@ -127,29 +127,29 @@
     "category": "Twitter"
   },
   {
-    "title": "Launch HN: Tokenless (YC S26) \u2013 Automatic model switching to save money",
-    "source": "Hacker News",
-    "description": "HN Score: 58 | 50 comments",
-    "url": "https://usetokenless.com/",
-    "score": 58,
-    "date": "2026-07-30",
-    "category": "AI News"
-  },
-  {
-    "title": "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",
-    "source": "Hacker News",
-    "description": "HN Score: 77 | 40 comments",
-    "url": "https://www.emergingtrajectories.com/lh/commodification-and-circularity/",
-    "score": 77,
-    "date": "2026-07-30",
-    "category": "AI News"
-  },
-  {
     "title": "Refactoring cuisine: how an Iraqi stew sailed to Singapore",
     "source": "Hacker News",
-    "description": "HN Score: 47 | 12 comments",
+    "description": "HN Score: 56 | 22 comments",
     "url": "https://iza.ac/posts/2026/07/the-journey-of-bamya/",
-    "score": 47,
+    "score": 56,
+    "date": "2026-07-30",
+    "category": "AI News"
+  },
+  {
+    "title": "Hunter-gatherers introduced fish to a mountain lake 7000 years ago",
+    "source": "Hacker News",
+    "description": "HN Score: 146 | 111 comments",
+    "url": "https://www.newscientist.com/article/2580119-hunter-gatherers-introduced-fish-to-a-mountain-lake-7000-years-ago/",
+    "score": 146,
+    "date": "2026-07-30",
+    "category": "AI News"
+  },
+  {
+    "title": "Show HN: A local merge queue for parallel Claude Code agents",
+    "source": "Hacker News",
+    "description": "HN Score: 37 | 12 comments",
+    "url": "https://github.com/funador/claude-code-merge-queue",
+    "score": 37,
     "date": "2026-07-30",
     "category": "AI News"
   }
