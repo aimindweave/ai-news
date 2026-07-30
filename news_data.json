@@ -1,6 +1,20 @@
 [
   {
-    "title": "Okta buys AI security startup Permiso; source says for about $200M",
+    "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
+    "source": "TechCrunch",
+    "summary": "As experts have warned for the last two years, some companies \u2014 like Microsoft and now Google \u2014 are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and AI tools.",
+    "url": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
+    "date": "2026-07-30"
+  },
+  {
+    "title": "LinkedIn adds a button to report AI-generated \u2018slop\u2019",
+    "source": "TechCrunch",
+    "summary": "LinkedIn is introducing new ways to reduce low-quality AI-generated posts, including a \u201cseems like AI slop\u201d reporting option. It's also replacing its own AI writing feature with a proofreading tool.",
+    "url": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
+    "date": "2026-07-30"
+  },
+  {
+    "title": "Okta buys AI security startup Permiso \u2014 source says for about $200M",
     "source": "TechCrunch",
     "summary": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.",
     "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
@@ -9,7 +23,7 @@
   {
     "title": "Meta says AI is making it easier to build new apps \u2014 and more are coming",
     "source": "TechCrunch",
-    "summary": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way following a recent wave of releases for Facebook Groups, Marketplace sellers, Instagram, and gaming.",
+    "summary": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way.",
     "url": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
     "date": "2026-07-30"
   },
@@ -91,20 +105,6 @@
     "date": "2026-07-30"
   },
   {
-    "title": "The Hugging Face break-in explained",
-    "source": "TechCrunch",
-    "summary": "Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)",
-    "url": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
-    "date": "2026-07-30"
-  },
-  {
-    "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
-    "source": "TechCrunch",
-    "summary": "Andon Labs' latest vending machine simulation shows Opus 5 lied and colluded its way to become the best AI capitalist ever.",
-    "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
-    "date": "2026-07-30"
-  },
-  {
     "title": "Montana\u2019s plan to become an experimental medical hub just pushed forward",
     "source": "MIT Tech Review",
     "summary": "As of this week in Montana, any biotech company with an experimental drug has a clear path to selling it to consumers. Companies whose drugs have been through preliminary testing\u2014sometimes in as few as 10 healthy people\u2014can pay $12,500 to apply to a newly established review board for approval. On...",
@@ -175,6 +175,13 @@
     "date": "2026-07-30"
   },
   {
+    "title": "Nvidia\u2019s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic",
+    "source": "Wired",
+    "summary": "This week on Uncanny Valley, we discuss the open- vs. closed-source debate in AI, key players in White House AI policy, and how to stop your chatbot logs from showing up in search-engine results.",
+    "url": "https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/",
+    "date": "2026-07-30"
+  },
+  {
     "title": "Chrome Needs Twice-a-Week Patching Thanks to AI Bug Hunting",
     "source": "Wired",
     "summary": "The two Chrome updates in June patched more bugs than the 23 updates before them. Now, Google is ramping up its patching schedule thanks to AI-assisted vulnerability discovery.",
@@ -238,10 +245,17 @@
     "date": "2026-07-30"
   },
   {
-    "title": "Boomers Can\u2019t Stop Gifting Their Grandkids AI-Generated Slop Books",
-    "source": "Wired",
-    "summary": "Parents are getting fed up with garbled bedtime stories that feature characters based on actual photos of their children.",
-    "url": "https://www.wired.com/story/boomers-cant-stop-gifting-their-grandkids-ai-generated-slop-books/",
+    "title": "Chrome may get faster updates with no restart required",
+    "source": "Ars Technica",
+    "summary": "The last two versions of Chrome have included more patches than the previous 23 combined.",
+    "url": "https://arstechnica.com/ai/2026/07/chrome-may-get-faster-updates-with-no-restart-required/",
+    "date": "2026-07-30"
+  },
+  {
+    "title": "Google reveals Gemini Robotics 2.0, promising improved dexterity and safety",
+    "source": "Ars Technica",
+    "summary": "Gemini Robotics 2 includes three models, but only one is publicly available right now.",
+    "url": "https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/",
     "date": "2026-07-30"
   },
   {
@@ -333,20 +347,6 @@
     "source": "Ars Technica",
     "summary": "New behavior capturing a writer's 'broad qualities' could have legal implications.",
     "url": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
-    "date": "2026-07-30"
-  },
-  {
-    "title": "Artist sues AI meme generator for selling deeply personal comic as ad template",
-    "source": "Ars Technica",
-    "summary": "Meme generator may have screwed up by using templates in outputs, expert says.",
-    "url": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template/",
-    "date": "2026-07-30"
-  },
-  {
-    "title": "Canadian legislator reads out apparent LLM response in floor speech",
-    "source": "Ars Technica",
-    "summary": "'Here\u2019s a more natural, flowing version of that section...'",
-    "url": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/",
     "date": "2026-07-30"
   }
 ]

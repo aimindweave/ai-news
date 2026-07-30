@@ -10,9 +10,9 @@
   {
     "title": "Advancing the price-performance frontier with GPT\u20115.6",
     "source": "Hacker News",
-    "description": "HN Score: 58 | 18 comments",
+    "description": "HN Score: 327 | 208 comments",
     "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
-    "score": 58,
+    "score": 327,
     "date": "2026-07-30",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "SDL_GPU minimal, single-header, high-performance 2D graphics painting library",
+    "title": "2x, not 10x: coding with LLMs in 2026",
     "source": "Hacker News",
-    "description": "HN Score: 39 | 14 comments",
-    "url": "https://github.com/n67094/sdl_gp",
-    "score": 39,
+    "description": "HN Score: 51 | 16 comments",
+    "url": "https://obryant.dev/p/2x-not-10x/",
+    "score": 51,
     "date": "2026-07-30",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Claude-account \u2013 switch Claude Code accounts without logging in again",
+    "title": "We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447",
     "source": "Hacker News",
-    "description": "HN Score: 18 | 16 comments",
-    "url": "https://github.com/hamzarehmandeveloper/claude-account",
-    "score": 18,
+    "description": "HN Score: 151 | 91 comments",
+    "url": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses",
+    "score": 151,
     "date": "2026-07-30",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)",
+    "title": "Show HN: Optimize and serve models with Fable quality at half the cost",
     "source": "Hacker News",
-    "description": "HN Score: 49 | 13 comments",
-    "url": "https://github.com/grafana/ai-sdk",
-    "score": 49,
+    "description": "HN Score: 48 | 22 comments",
+    "url": "https://github.com/experientiallabs/world-model-optimizer",
+    "score": 48,
     "date": "2026-07-30",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode",
+    "title": "Show HN: Supapool \u2013 a Supabase per coding agent in ~400 ms",
     "source": "Hacker News",
-    "description": "HN Score: 80 | 66 comments",
-    "url": "https://github.com/YoanWai/agent-manager",
-    "score": 80,
+    "description": "HN Score: 8 | 0 comments",
+    "url": "https://supapool.io/",
+    "score": 8,
     "date": "2026-07-30",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Citadel Buys Situational Awareness's Stock Portfolio After Big Losses in AI",
+    "title": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
     "source": "Hacker News",
-    "description": "HN Score: 28 | 6 comments",
-    "url": "https://www.wsj.com/finance/citadel-buys-situational-awarenesss-stock-portfolio-after-big-losses-in-ai-5117159b",
-    "score": 28,
+    "description": "HN Score: 14 | 1 comments",
+    "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+    "score": 14,
     "date": "2026-07-30",
     "category": "AI News"
   },
@@ -110,11 +110,28 @@
     "category": "Twitter"
   },
   {
-    "title": "AI's top startups are barely publishing their research",
+    "title": "Show HN: Noisegate \u2013 a differential-privacy gateway for untrusted AI agents",
     "source": "Hacker News",
-    "description": "HN Score: 579 | 306 comments",
-    "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
-    "score": 579,
+    "description": "HN Score: 7 | 0 comments",
+    "url": "https://github.com/yashmahajan10/llm-differential-privacy-gateway",
+    "score": 7,
+    "date": "2026-07-30",
+    "category": "AI News"
+  },
+  {
+    "title": "YAY! OpenAI drops prices on Terra and Luna Luna by 80% - a very good replacement for Gemini Flash 3.1 Terra by 20% - Terra is not quite Sonnet-level b",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2082886318607233435#m",
+    "date": "2026-07-30",
+    "category": "Twitter"
+  },
+  {
+    "title": "SDL_GPU minimal, single-header, high-performance 2D graphics painting library",
+    "source": "Hacker News",
+    "description": "HN Score: 47 | 16 comments",
+    "url": "https://github.com/n67094/sdl_gp",
+    "score": 47,
     "date": "2026-07-30",
     "category": "AI News"
   },
@@ -127,28 +144,20 @@
     "category": "Twitter"
   },
   {
-    "title": "LLM Routers Have Become a Service Category of Their Own",
+    "title": "Show HN: Claude-account \u2013 switch Claude Code accounts without logging in again",
     "source": "Hacker News",
-    "description": "HN Score: 4 | 0 comments",
-    "url": "https://techstrong.ai/articles/llm-routers-have-become-a-service-category-of-their-own/",
-    "score": 4,
+    "description": "HN Score: 33 | 22 comments",
+    "url": "https://github.com/hamzarehmandeveloper/claude-account",
+    "score": 33,
     "date": "2026-07-30",
     "category": "AI News"
   },
   {
-    "title": "Lots of hate for Gemini Flash 3.6 \ud83d\ude05 But we have officially shipped it for deep research It\u2019s faster, cheaper and better than Sol, which is the next be",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2082703251812798941#m",
-    "date": "2026-07-30",
-    "category": "Twitter"
-  },
-  {
-    "title": "US gov and OpenAI mislabel map of Africa at global conference",
+    "title": "An LLM-assisted security review of GlobaLeaks: 41 findings for \u2013$3,140",
     "source": "Hacker News",
-    "description": "HN Score: 20 | 4 comments",
-    "url": "https://www.theguardian.com/us-news/2026/jul/30/government-map-mislabels-african-countries",
-    "score": 20,
+    "description": "HN Score: 3 | 2 comments",
+    "url": "https://www.isgroup.biz/en/cyber-security/llm-based-code-security-review-costs-findings-methodology.html",
+    "score": 3,
     "date": "2026-07-30",
     "category": "AI News"
   }
