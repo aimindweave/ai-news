@@ -1,5 +1,40 @@
 [
   {
+    "title": "Okta buys AI security startup Permiso; source says for about $200M",
+    "source": "TechCrunch",
+    "summary": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.",
+    "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
+    "date": "2026-07-30"
+  },
+  {
+    "title": "Meta says AI is making it easier to build new apps \u2014 and more are coming",
+    "source": "TechCrunch",
+    "summary": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way following a recent wave of releases for Facebook Groups, Marketplace sellers, Instagram, and gaming.",
+    "url": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
+    "date": "2026-07-30"
+  },
+  {
+    "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
+    "source": "TechCrunch",
+    "summary": "British AI neocloud Nscale is buying software startup Anyscale, which helps companies scale their AI workloads across data centers and servers.",
+    "url": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
+    "date": "2026-07-30"
+  },
+  {
+    "title": "Forward-deployed engineers are the AI industry\u2019s latest talent obsession",
+    "source": "TechCrunch",
+    "summary": "A new study estimates only 2,000 U.S. engineers have the expertise to deliver meaningful AI ROI, as enterprises race to hire forward-deployed engineers to implement AI at scale.",
+    "url": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/",
+    "date": "2026-07-30"
+  },
+  {
+    "title": "In the Hugging Face breach, OpenAI\u2019s hacker was noisy and fast \u2014 but not unstoppable",
+    "source": "TechCrunch",
+    "summary": "Cybersecurity experts told TechCrunch that one of the biggest lessons to be taken from the OpenAI hack against Hugging Face has nothing to do with AI, but traditional cybersecurity defense.",
+    "url": "https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/",
+    "date": "2026-07-30"
+  },
+  {
     "title": "TechCrunch Disrupt 2026\u2019s biggest stage features leaders from Amazon, Replit, Tether, with much more to come",
     "source": "TechCrunch",
     "summary": "The Disrupt Stage is where many of the biggest conversations in technology happen, with a legacy that stretches back for more than a decade.",
@@ -70,38 +105,10 @@
     "date": "2026-07-30"
   },
   {
-    "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
-    "source": "TechCrunch",
-    "summary": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an \u201cAI for your home,\u201d combining property records, maintenance schedules, home documents, and an AI assistant into a single app.",
-    "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
-    "date": "2026-07-30"
-  },
-  {
-    "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
-    "source": "TechCrunch",
-    "summary": "The startup analyzes calls, messages, and CRM data to identify effective sales techniques and turn them into playbooks for AI agents.",
-    "url": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
-    "date": "2026-07-30"
-  },
-  {
-    "title": "As AI content floods the internet, Pangram raises $9M to detect it",
-    "source": "TechCrunch",
-    "summary": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview.",
-    "url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
-    "date": "2026-07-30"
-  },
-  {
-    "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
-    "source": "TechCrunch",
-    "summary": "The deal is Cyera's third acquisition this year.",
-    "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
-    "date": "2026-07-30"
-  },
-  {
-    "title": "Bot-detection startup Spur nabs $200M from Insight",
-    "source": "TechCrunch",
-    "summary": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
-    "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
+    "title": "Montana\u2019s plan to become an experimental medical hub just pushed forward",
+    "source": "MIT Tech Review",
+    "summary": "As of this week in Montana, any biotech company with an experimental drug has a clear path to selling it to consumers. Companies whose drugs have been through preliminary testing\u2014sometimes in as few as 10 healthy people\u2014can pay $12,500 to apply to a newly established review board for approval. On...",
+    "url": "https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/",
     "date": "2026-07-30"
   },
   {
@@ -168,10 +175,24 @@
     "date": "2026-07-30"
   },
   {
-    "title": "The Download: lasers for nuclear fuel, and organ preservation advances",
-    "source": "MIT Tech Review",
-    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. How lasers could help provide fuel for nuclear reactors Nuclear power provides about 9% of global electricity today, and that fraction could tick up as countri...",
-    "url": "https://www.technologyreview.com/2026/07/27/1140833/the-download-lasers-nuclear-organ-preservation/",
+    "title": "Chrome Needs Twice-a-Week Patching Thanks to AI Bug Hunting",
+    "source": "Wired",
+    "summary": "The two Chrome updates in June patched more bugs than the 23 updates before them. Now, Google is ramping up its patching schedule thanks to AI-assisted vulnerability discovery.",
+    "url": "https://www.wired.com/story/chrome-needs-twice-a-week-patching-thanks-to-ai-bug-hunting-for-now/",
+    "date": "2026-07-30"
+  },
+  {
+    "title": "The New Friend AI Pendant Can Now Talk Back to You",
+    "source": "Wired",
+    "summary": "Avi Schiffmann has a new version of his controversial AI companion. It\u2019s more expensive, and you can\u2019t change its personality.",
+    "url": "https://www.wired.com/story/the-friend-2-necklace-can-talk-back-to-you-now/",
+    "date": "2026-07-30"
+  },
+  {
+    "title": "Gemini Robotics 2 Brings Google's AI Into the Physical World",
+    "source": "Wired",
+    "summary": "The latest version of Google DeepMind's AI model includes a significant jump into \u201cphysical AGI.\u201d But plopping AI into the real world comes with risks.",
+    "url": "https://www.wired.com/story/google-gemini-can-control-humanoid-robots/",
     "date": "2026-07-30"
   },
   {
@@ -224,24 +245,10 @@
     "date": "2026-07-30"
   },
   {
-    "title": "OpenAI\u2019s Rogue AI Agent Hacked More Than Just Hugging Face",
-    "source": "Wired",
-    "summary": "In a new disclosure, OpenAI says its agent used exposed logins to gain access to at least four \u201cpublicly available services\u201d in its unhinged quest to solve a test.",
-    "url": "https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face/",
-    "date": "2026-07-30"
-  },
-  {
-    "title": "Can the New York Times Save Journalism From Our AI Overlords?",
-    "source": "Wired",
-    "summary": "In 2023, the Times sued OpenAI and Microsoft for copyright infringement. They\u2019ve since spent more than $20 million on the case, and publisher A.G. Sulzberger has no plans to stop fighting it.",
-    "url": "https://www.wired.com/story/the-big-interview-podcast-a-g-sulzberger-new-york-times/",
-    "date": "2026-07-30"
-  },
-  {
-    "title": "Silicon Valley\u2019s Next IPO Billionaires Are Coming. Nonprofits Are Ready for Them",
-    "source": "Wired",
-    "summary": "Anthropic and OpenAI employees are expected to give generously after their companies go public. \u201cIt\u2019s going to be a wild ride,\u201d says one nonprofit leader.",
-    "url": "https://www.wired.com/story/nonprofits-are-getting-ready-for-the-funding-anthropalypse/",
+    "title": "New MCP specification addresses the main barrier to enterprise adoption",
+    "source": "Ars Technica",
+    "summary": "Plus, a new policy for the AI protocol ensures features aren't removed suddenly.",
+    "url": "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/",
     "date": "2026-07-30"
   },
   {
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "'Here\u2019s a more natural, flowing version of that section...'",
     "url": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/",
-    "date": "2026-07-30"
-  },
-  {
-    "title": "Anthropic's Opus 5 is about token efficiency, not a capability leap",
-    "source": "Ars Technica",
-    "summary": "Models are improving quickly, but the cheaper options are often good enough.",
-    "url": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/",
     "date": "2026-07-30"
   }
 ]
