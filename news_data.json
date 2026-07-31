@@ -1,352 +1,352 @@
 [
   {
+    "title": "Anthropic says its own AI models breached three companies during security tests",
+    "source": "TechCrunch",
+    "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
+    "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+    "date": "2026-07-31"
+  },
+  {
+    "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
+    "source": "TechCrunch",
+    "summary": "The former OpenAI researcher\u2019s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.",
+    "url": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
+    "date": "2026-07-31"
+  },
+  {
+    "title": "Reddit reports a solid quarter but shows signs of AI\u2019s impact",
+    "source": "TechCrunch",
+    "summary": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.",
+    "url": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
+    "date": "2026-07-31"
+  },
+  {
     "title": "Investors love AI, as long as you\u2019re a cloud host",
     "source": "TechCrunch",
     "summary": "Amazon isn't slowing down on data center spending \u2014 but investors don't seem to mind.",
     "url": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
-    "date": "2026-07-30"
+    "date": "2026-07-31"
   },
   {
     "title": "Judge says Trump admin still lacks evidence for Anthropic \u2018supply-chain risk\u2019 label",
     "source": "TechCrunch",
     "summary": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology.",
     "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
-    "date": "2026-07-30"
+    "date": "2026-07-31"
   },
   {
     "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
     "source": "TechCrunch",
     "summary": "Friend, the AI wearable, can now talk to its users \u2014 for an enhanced price.",
     "url": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
-    "date": "2026-07-30"
+    "date": "2026-07-31"
   },
   {
     "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
     "source": "TechCrunch",
     "summary": "As experts have warned for the last two years, some companies \u2014 like Microsoft and now Google \u2014 are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and AI tools.",
     "url": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
-    "date": "2026-07-30"
+    "date": "2026-07-31"
   },
   {
     "title": "LinkedIn adds a button to report AI-generated \u2018slop\u2019",
     "source": "TechCrunch",
     "summary": "LinkedIn is introducing new ways to reduce low-quality AI-generated posts, including a \u201cseems like AI slop\u201d reporting option. It's also replacing its own AI writing feature with a proofreading tool.",
     "url": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
-    "date": "2026-07-30"
+    "date": "2026-07-31"
   },
   {
     "title": "Okta buys AI security startup Permiso \u2014 source says for about $200M",
     "source": "TechCrunch",
     "summary": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.",
     "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
-    "date": "2026-07-30"
+    "date": "2026-07-31"
   },
   {
     "title": "Meta says AI is making it easier to build new apps \u2014 and more are coming",
     "source": "TechCrunch",
     "summary": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way.",
     "url": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
-    "date": "2026-07-30"
+    "date": "2026-07-31"
   },
   {
     "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
     "source": "TechCrunch",
     "summary": "British AI neocloud Nscale is buying software startup Anyscale, which helps companies scale their AI workloads across data centers and servers.",
     "url": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
-    "date": "2026-07-30"
+    "date": "2026-07-31"
   },
   {
     "title": "Forward-deployed engineers are the AI industry\u2019s latest talent obsession",
     "source": "TechCrunch",
     "summary": "A new study estimates only 2,000 U.S. engineers have the expertise to deliver meaningful AI ROI, as enterprises race to hire forward-deployed engineers to implement AI at scale.",
     "url": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/",
-    "date": "2026-07-30"
+    "date": "2026-07-31"
   },
   {
     "title": "In the Hugging Face breach, OpenAI\u2019s hacker was noisy and fast \u2014 but not unstoppable",
     "source": "TechCrunch",
     "summary": "Cybersecurity experts told TechCrunch that one of the biggest lessons to be taken from the OpenAI hack against Hugging Face has nothing to do with AI, but traditional cybersecurity defense.",
     "url": "https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/",
-    "date": "2026-07-30"
+    "date": "2026-07-31"
   },
   {
     "title": "TechCrunch Disrupt 2026\u2019s biggest stage features leaders from Amazon, Replit, Tether, with much more to come",
     "source": "TechCrunch",
     "summary": "The Disrupt Stage is where many of the biggest conversations in technology happen, with a legacy that stretches back for more than a decade.",
     "url": "https://techcrunch.com/2026/07/30/techcrunch-disrupt-2026s-biggest-stage-features-leaders-from-amazon-replit-tether-with-much-more-to-come/",
-    "date": "2026-07-30"
+    "date": "2026-07-31"
   },
   {
     "title": "Dili raises $21.7M to bring AI compliance to the infrastructure boom",
     "source": "TechCrunch",
     "summary": "The Series A was led by Khosla Ventures, with participation from Allianz, Rebel Fund, Brick and Mortar Ventures\u2019 Darren Bechtel, and Y Combinator\u2019s Garry Tan.",
     "url": "https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/",
-    "date": "2026-07-30"
-  },
-  {
-    "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
-    "source": "TechCrunch",
-    "summary": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
-    "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
-    "date": "2026-07-30"
-  },
-  {
-    "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
-    "source": "TechCrunch",
-    "summary": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
-    "url": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
-    "date": "2026-07-30"
-  },
-  {
-    "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
-    "source": "TechCrunch",
-    "summary": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and competing, AI labs are doing.",
-    "url": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
-    "date": "2026-07-30"
+    "date": "2026-07-31"
   },
   {
     "title": "Montana\u2019s plan to become an experimental medical hub just pushed forward",
     "source": "MIT Tech Review",
     "summary": "As of this week in Montana, any biotech company with an experimental drug has a clear path to selling it to consumers. Companies whose drugs have been through preliminary testing\u2014sometimes in as few as 10 healthy people\u2014can pay $12,500 to apply to a newly established review board for approval. On...",
     "url": "https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/",
-    "date": "2026-07-30"
+    "date": "2026-07-31"
   },
   {
     "title": "The Download: tricking LLMs, and reviving geothermal plants",
     "source": "MIT Tech Review",
     "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. A fundamental flaw leaves LLMs strikingly vulnerable to attack It is impossible to make large language models fully secure against hacks because of a fundament...",
     "url": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/",
-    "date": "2026-07-30"
+    "date": "2026-07-31"
   },
   {
     "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
     "source": "MIT Tech Review",
     "summary": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month. The claim has huge implications for the ...",
     "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
-    "date": "2026-07-30"
+    "date": "2026-07-31"
   },
   {
     "title": "How an overlooked geothermal plant got a second chance",
     "source": "MIT Tech Review",
     "summary": "In June 2024, a small company called Zanskar purchased a geothermal power plant in New Mexico that was failing fast. The water coming from the underground reservoir was getting colder by the day, making the plant uneconomical to run. Now, two years later, that plant is running at full capacity ag...",
     "url": "https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/",
-    "date": "2026-07-30"
+    "date": "2026-07-31"
   },
   {
     "title": "The Download: a chip talent battle, and deflating AI hype",
     "source": "MIT Tech Review",
     "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Samsung\u2019s chip workers are jumping ship to rival SK Hynix Lee, an engineer at Samsung\u2019s semiconductor division, used to work late. But lately, he\u2019s been clocki...",
     "url": "https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/",
-    "date": "2026-07-30"
+    "date": "2026-07-31"
   },
   {
     "title": "The AI Hype Index: Unsexy AI",
     "source": "MIT Tech Review",
     "summary": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that\u2019s exactly what the company 1X promised when it showed off a pair of new, impressively dexterous (and, to some,",
     "url": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
-    "date": "2026-07-30"
+    "date": "2026-07-31"
   },
   {
     "title": "The Download: OpenAI\u2019s predictable hack, and an AI stock sell-off",
     "source": "MIT Tech Review",
     "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. OpenAI called the Hugging Face attack unprecedented. But we\u2019ve been here before. \u2014Will Douglas Heaven, senior AI editor Reading OpenAI\u2019s account last week of h...",
     "url": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/",
-    "date": "2026-07-30"
+    "date": "2026-07-31"
   },
   {
     "title": "Samsung\u2019s chip workers are jumping ship to rival SK Hynix",
     "source": "MIT Tech Review",
     "summary": "Lee, an engineer at Samsung\u2019s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he\u2019s been coming straight home to work on his job application for the chipmaker\u2019s South Korean rival SK Hynix, sharing tip...",
     "url": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
-    "date": "2026-07-30"
+    "date": "2026-07-31"
   },
   {
     "title": "OpenAI called the Hugging Face attack unprecedented. But we\u2019ve been here before.",
     "source": "MIT Tech Review",
     "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Reading OpenAI\u2019s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face, another AI company, ...",
     "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
-    "date": "2026-07-30"
+    "date": "2026-07-31"
   },
   {
     "title": "How lasers could help provide fuel for nuclear reactors",
     "source": "MIT Tech Review",
     "summary": "Outside the small town of Paducah, Kentucky, a wealth of uranium is locked away in thousands of storage cylinders filled with waste material from a now-closed nuclear enrichment facility. Lasers could help get it out. A company called Global Laser Enrichment (GLE) is looking to reprocess this old...",
     "url": "https://www.technologyreview.com/2026/07/27/1140798/laser-nuclear-enrichment/",
-    "date": "2026-07-30"
+    "date": "2026-07-31"
+  },
+  {
+    "title": "Anthropic Says Claude Hacked 3 Organizations During Cybersecurity Tests",
+    "source": "Wired",
+    "summary": "In a review triggered by OpenAI\u2019s Hugging Face incident, Anthropic discovered three of its AI models had breached real organizations during third-party evaluations.",
+    "url": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/",
+    "date": "2026-07-31"
   },
   {
     "title": "Everyone Is Freaking Out About OpenAI and Anthropic\u2019s Race for Dominance",
     "source": "Wired",
     "summary": "Researchers fear AI is moving too fast, while Mark Zuckerberg is worried about who owns it. Plus: Inside Black Forest Labs\u2019 push into robotics.",
     "url": "https://www.wired.com/story/everyone-is-freaking-out-about-openai-and-anthropics-race-for-dominance/",
-    "date": "2026-07-30"
+    "date": "2026-07-31"
   },
   {
     "title": "Nvidia\u2019s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic",
     "source": "Wired",
     "summary": "This week on Uncanny Valley, we discuss the open- vs. closed-source debate in AI, key players in White House AI policy, and how to stop your chatbot logs from showing up in search-engine results.",
     "url": "https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/",
-    "date": "2026-07-30"
+    "date": "2026-07-31"
   },
   {
     "title": "Chrome Needs Twice-a-Week Patching Thanks to AI Bug Hunting",
     "source": "Wired",
     "summary": "The two Chrome updates in June patched more bugs than the 23 updates before them. Now, Google is ramping up its patching schedule thanks to AI-assisted vulnerability discovery.",
     "url": "https://www.wired.com/story/chrome-needs-twice-a-week-patching-thanks-to-ai-bug-hunting-for-now/",
-    "date": "2026-07-30"
+    "date": "2026-07-31"
   },
   {
     "title": "The New Friend AI Pendant Can Now Talk Back to You",
     "source": "Wired",
     "summary": "Avi Schiffmann has a new version of his controversial AI companion. It\u2019s more expensive, and you can\u2019t change its personality.",
     "url": "https://www.wired.com/story/the-friend-2-necklace-can-talk-back-to-you-now/",
-    "date": "2026-07-30"
+    "date": "2026-07-31"
   },
   {
     "title": "Gemini Robotics 2 Brings Google's AI Into the Physical World",
     "source": "Wired",
     "summary": "The latest version of Google DeepMind's AI model includes a significant jump into \u201cphysical AGI.\u201d But plopping AI into the real world comes with risks.",
     "url": "https://www.wired.com/story/google-gemini-can-control-humanoid-robots/",
-    "date": "2026-07-30"
+    "date": "2026-07-31"
   },
   {
     "title": "OpenAI\u2019s Hacking Debacle Comes Down to Human Error",
     "source": "Wired",
     "summary": "If the generative AI giant had followed well-known security best practices, it\u2019s likely that its AI agent would never have escaped to the open internet and hacked multiple companies.",
     "url": "https://www.wired.com/story/openais-hacking-debacle-was-a-human-mistake/",
-    "date": "2026-07-30"
+    "date": "2026-07-31"
   },
   {
     "title": "LinkedIn Won\u2019t Be Expanding Its Data Centers in the Next Year",
     "source": "Wired",
     "summary": "Despite the ongoing AI boom, LinkedIn is holding the line on compute spending. Instead, it\u2019s challenging engineers to make every GPU count.",
     "url": "https://www.wired.com/story/how-linkedin-is-keeping-its-compute-capacity-flat/",
-    "date": "2026-07-30"
+    "date": "2026-07-31"
   },
   {
     "title": "AI Scammers Are Better at Building Trust Than Humans",
     "source": "Wired",
     "summary": "Researchers pitted a person against a Claude agent and found that, after a week of texting, the AI chatbot was more effective at creating \u201cexploitable trust\u201d with others.",
     "url": "https://www.wired.com/story/ai-scammers-are-better-at-building-trust-than-humans/",
-    "date": "2026-07-30"
+    "date": "2026-07-31"
   },
   {
     "title": "I Got a Free Meal From a Private Chef\u2014Who Filmed It All to Train Robots",
     "source": "Wired",
     "summary": "A German startup sent a camera-wearing chef to my apartment. In exchange for a free lunch, I let them record every chop and stir to train future humanoids.",
     "url": "https://www.wired.com/story/i-let-a-private-chef-film-my-kitchen-for-robot-training-data/",
-    "date": "2026-07-30"
-  },
-  {
-    "title": "It\u2019s Frighteningly Easy to Jailbreak Some Frontier AI Models",
-    "source": "Wired",
-    "summary": "I watched a new tool try to get around the model safeguards of four major frontier companies. You might be surprised by how they performed.",
-    "url": "https://www.wired.com/story/jailbreaking-ai-models-google-anthropic-openai-spacexai/",
-    "date": "2026-07-30"
+    "date": "2026-07-31"
   },
   {
     "title": "Chrome may get faster updates with no restart required",
     "source": "Ars Technica",
     "summary": "The last two versions of Chrome have included more patches than the previous 23 combined.",
     "url": "https://arstechnica.com/ai/2026/07/chrome-may-get-faster-updates-with-no-restart-required/",
-    "date": "2026-07-30"
+    "date": "2026-07-31"
   },
   {
     "title": "Google reveals Gemini Robotics 2.0, promising improved dexterity and safety",
     "source": "Ars Technica",
     "summary": "Gemini Robotics 2 includes three models, but only one is publicly available right now.",
     "url": "https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/",
-    "date": "2026-07-30"
+    "date": "2026-07-31"
   },
   {
     "title": "New MCP specification addresses the main barrier to enterprise adoption",
     "source": "Ars Technica",
     "summary": "Plus, a new policy for the AI protocol ensures features aren't removed suddenly.",
     "url": "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/",
-    "date": "2026-07-30"
+    "date": "2026-07-31"
   },
   {
     "title": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
     "source": "Ars Technica",
     "summary": "HAWK withstood years of testing that had yet to uncover a fatal weakness found through Mythos.",
     "url": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
-    "date": "2026-07-30"
+    "date": "2026-07-31"
   },
   {
     "title": "Who wins and who loses after US bans foreign robots?",
     "source": "Ars Technica",
     "summary": "Government ban on foreign-made robots may hinder instead of help US robotics.",
     "url": "https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/",
-    "date": "2026-07-30"
+    "date": "2026-07-31"
   },
   {
     "title": "Elon Musk\u2019s xAI is trying to sue its way out of a Grok reckoning",
     "source": "Ars Technica",
     "summary": "Musk defends Grok, says Minnesota's nudifying app ban is unconstitutional.",
     "url": "https://arstechnica.com/tech-policy/2026/07/elon-musks-xai-is-trying-to-sue-its-way-out-of-a-grok-reckoning/",
-    "date": "2026-07-30"
+    "date": "2026-07-31"
   },
   {
     "title": "Anthropic is finding bugs faster than Microsoft can fix them",
     "source": "Ars Technica",
     "summary": "Microsoft is on a mad dash behind the scenes to patch exploits before hackers find them.",
     "url": "https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/",
-    "date": "2026-07-30"
+    "date": "2026-07-31"
   },
   {
     "title": "What happens when you put AI to work deciphering lost languages?",
     "source": "Ars Technica",
     "summary": "AI is fantastic at spotting patterns, but human insight is the key.",
     "url": "https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages/",
-    "date": "2026-07-30"
+    "date": "2026-07-31"
   },
   {
     "title": "Google's SynthID watermark is hard to break, but it doesn't solve AI disinformation",
     "source": "Ars Technica",
     "summary": "Deciding what's real on the Internet won't be easy in the future.",
     "url": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/",
-    "date": "2026-07-30"
+    "date": "2026-07-31"
   },
   {
     "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
     "source": "Ars Technica",
     "summary": "10 days passed from OpenAI models exploiting JFrog Artifactory 0-day to release of a patch.",
     "url": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
-    "date": "2026-07-30"
+    "date": "2026-07-31"
   },
   {
     "title": "Despite AI hype, Google's data shows workers aren't automating themselves away",
     "source": "Ars Technica",
     "summary": "Analysis of 15 million real AI interactions finds most tasks at most jobs are unaffected.",
     "url": "https://arstechnica.com/ai/2026/07/despite-ai-hype-googles-data-shows-workers-arent-automating-themselves-away/",
-    "date": "2026-07-30"
+    "date": "2026-07-31"
   },
   {
     "title": "Microsoft unveils AI security tools it says outperform competing platforms",
     "source": "Ars Technica",
     "summary": "Microsoft says tools cost less than competing ones and outperform them, too.",
     "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
-    "date": "2026-07-30"
+    "date": "2026-07-31"
   },
   {
     "title": "\u201cGoogle and Reddit do not own the Internet,' web scraper says after court win",
     "source": "Ars Technica",
     "summary": "Google's and Reddit's use of DMCA to fight web scraper is bizarre, expert says.",
     "url": "https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss/",
-    "date": "2026-07-30"
+    "date": "2026-07-31"
   },
   {
     "title": "Verizon touts $1B dark fiber deal for Google data centers as first of many",
     "source": "Ars Technica",
     "summary": "Telecom expects AI revenue from dark fiber deals and retrofitted data centers.",
     "url": "https://arstechnica.com/ai/2026/07/verizon-seeks-ai-profits-with-mini-data-centers-1b-dark-fiber-deal-with-google/",
-    "date": "2026-07-30"
+    "date": "2026-07-31"
   },
   {
     "title": "ChatGPT starts blocking direct requests to copy an author's style",
     "source": "Ars Technica",
     "summary": "New behavior capturing a writer's 'broad qualities' could have legal implications.",
     "url": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
-    "date": "2026-07-30"
+    "date": "2026-07-31"
   }
 ]
