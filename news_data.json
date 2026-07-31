@@ -105,6 +105,13 @@
     "date": "2026-07-31"
   },
   {
+    "title": "The Download: Montana\u2019s new experimental drug rules",
+    "source": "MIT Tech Review",
+    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Montana\u2019s plan to become an experimental medical hub just pushed forward As of this week in Montana, biotech companies whose drugs have been through preliminar...",
+    "url": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/",
+    "date": "2026-07-31"
+  },
+  {
     "title": "Montana\u2019s new \u201cright to try\u201d law can\u2019t come soon enough for some",
     "source": "MIT Tech Review",
     "summary": "Kris DeVault is desperate. His son, Brody, was born in March 2023. It wasn\u2019t long before he started to show signs of developmental delay, says DeVault. As time went on, Brody started missing key milestones in speech, movement, and coordination, he says. When Brody was around two and a half years ...",
@@ -168,16 +175,9 @@
     "date": "2026-07-31"
   },
   {
-    "title": "OpenAI called the Hugging Face attack unprecedented. But we\u2019ve been here before.",
-    "source": "MIT Tech Review",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Reading OpenAI\u2019s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face, another AI company, ...",
-    "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
-    "date": "2026-07-31"
-  },
-  {
-    "title": "Anthropic Says Claude Hacked 3 Organizations During Cybersecurity Tests",
+    "title": "Anthropic Says Claude Hacked Into 3 Organizations During Cybersecurity Tests",
     "source": "Wired",
-    "summary": "In a review triggered by OpenAI\u2019s Hugging Face incident, Anthropic discovered three of its AI models had breached real organizations during third-party evaluations.",
+    "summary": "In a review triggered by OpenAI\u2019s Hugging Face incident, Anthropic discovered three of its AI models had breached real-world organizations during third-party evaluations.",
     "url": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/",
     "date": "2026-07-31"
   },
@@ -242,6 +242,20 @@
     "source": "Wired",
     "summary": "A German startup sent a camera-wearing chef to my apartment. In exchange for a free lunch, I let them record every chop and stir to train future humanoids.",
     "url": "https://www.wired.com/story/i-let-a-private-chef-film-my-kitchen-for-robot-training-data/",
+    "date": "2026-07-31"
+  },
+  {
+    "title": "AI scammers outperform humans when it comes to building trust",
+    "source": "Ars Technica",
+    "summary": "The AI chatbot was more effective at creating \u201cexploitable trust\u201d than the humans.",
+    "url": "https://arstechnica.com/security/2026/07/ai-scammers-outperform-humans-when-it-comes-to-building-trust/",
+    "date": "2026-07-31"
+  },
+  {
+    "title": "How a Yale AI-cheating dispute became a 13-count federal lawsuit",
+    "source": "Ars Technica",
+    "summary": "A disputed exam, an unreliable detector, and one very late Apple Pages file.",
+    "url": "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
     "date": "2026-07-31"
   },
   {
@@ -333,20 +347,6 @@
     "source": "Ars Technica",
     "summary": "Google's and Reddit's use of DMCA to fight web scraper is bizarre, expert says.",
     "url": "https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss/",
-    "date": "2026-07-31"
-  },
-  {
-    "title": "Verizon touts $1B dark fiber deal for Google data centers as first of many",
-    "source": "Ars Technica",
-    "summary": "Telecom expects AI revenue from dark fiber deals and retrofitted data centers.",
-    "url": "https://arstechnica.com/ai/2026/07/verizon-seeks-ai-profits-with-mini-data-centers-1b-dark-fiber-deal-with-google/",
-    "date": "2026-07-31"
-  },
-  {
-    "title": "ChatGPT starts blocking direct requests to copy an author's style",
-    "source": "Ars Technica",
-    "summary": "New behavior capturing a writer's 'broad qualities' could have legal implications.",
-    "url": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
     "date": "2026-07-31"
   }
 ]

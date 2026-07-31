@@ -93,6 +93,16 @@
   ],
   "episodes": [
     {
+      "id": "Hard For_0",
+      "name": "Open Model Wars + Claire Stapleton's Dishy Google Memoir + Substack's Slop Fight",
+      "show": "Hard Fork",
+      "description": "This week, we break down the arguments about open-weight models unfolding in Silicon Valley right now. Nvidia released an open letter signed by over 230 companies opposing “premature restrictions,”",
+      "release_date": "2026-07-31",
+      "duration_min": 66,
+      "image": "",
+      "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
+    },
+    {
       "id": "a]6z Pod_0",
       "name": "Decagon’s Playbook for Building Enterprise AI Applications",
       "show": "a]6z Podcast",
@@ -153,7 +163,7 @@
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
     },
     {
-      "id": "Hard For_0",
+      "id": "Hard For_1",
       "name": "OpenAI Models Go Rogue + Kimi K3 Freakout + A.I. Superforecasting",
       "show": "Hard Fork",
       "description": "This week, OpenAI reported that two of its models escaped their testing sandbox and launched an autonomous cyberattack, turning what sounds like science fiction into reality. We discuss the implica",
@@ -173,7 +183,7 @@
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
-      "id": "Hard For_1",
+      "id": "Hard For_2",
       "name": "The A.I. Trade Secrets War + Economists Say ‘We Must Act Now’ + HatGPT",
       "show": "Hard Fork",
       "description": "This week, feuding between some of the biggest tech companies spilled into public view. We discuss Apple’s accusation that OpenAI tried to steal secrets about Apple’s hardware business, as well as ",
@@ -191,16 +201,6 @@
       "duration_min": 50,
       "image": "",
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
-    },
-    {
-      "id": "Hard For_2",
-      "name": "Do Social Media Bans Work? + A Conversation About A.I. Consciousness + Tool Time",
-      "show": "Hard Fork",
-      "description": "This week, with news that the U.S. Supreme Court declined to take up Texas’ age verification law for app stores, we check in on how social media bans are going around the globe and what may be comi",
-      "release_date": "2026-07-10",
-      "duration_min": 79,
-      "image": "",
-      "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
       "id": "The TWIM_1",
