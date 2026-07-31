@@ -1,5 +1,39 @@
 [
   {
+    "title": "\u7c73\u6fa4\u3055\u3093\u3068\u4e09\u5b85\u3055\u3093\u306e\u5bfe\u8ac7\u3001\u5b66\u6821\u796d\u3067 \u3042\u306e\u4f5c\u54c1\u306e\u30c6\u30fc\u30de\u306f\u2026\u3092\u805e\u3051\u305f\u306e\u306f\u3044\u3044\u4f53\u9a13\u3060\u3063\u305f",
+    "source": "@kaborobot",
+    "description": "",
+    "url": "https://nitter.net/kaborobot/status/2063568544277909948#m",
+    "date": "2026-07-31",
+    "category": "Twitter"
+  },
+  {
+    "title": "Tailscale didn't stop the Hugging Face intrusion",
+    "source": "Hacker News",
+    "description": "HN Score: 180 | 70 comments",
+    "url": "https://tailscale.com/blog/hugging-face-intrusion",
+    "score": 180,
+    "date": "2026-07-31",
+    "category": "AI News"
+  },
+  {
+    "title": "\u30d6\u30c3\u30c1\u30e3\u30fc\u304c\u30db\u30ef\u30a4\u30c8\u30cf\u30a6\u30b9\u306e\u58c1\u3076\u3061\u7834\u3063\u3066\u304d\u305f\u6642\u306e\u30db\u30fc\u30e0\u30e9\u30f3\u30c0\u30fc\u306e\u67d4\u3089\u304b\u306a\u8868\u60c5\u3063\u3066 \u3042\u306e\u653e\u9001\u306e\u6f14\u8aac\u3092\u7d42\u3048\u3066\u3057\u307e\u3063\u3066\u8ab0\u304b\u306b\u611b\u3055\u308c\u308b\u3053\u3068\u306f\u3082\u3046\u306a\u304f\u306a\u308a\u6050\u6016\u306e\u5bfe\u8c61\u306b\u3057\u304b\u306a\u3089\u306a\u3044\u904b\u547d\u3092\u7d42\u308f\u3089\u305b\u3066\u304f\u308c\u308b\u4eba\u304c\u6765\u305f\u304b\u3089\u306a\u306e\u304b",
+    "source": "@kaborobot",
+    "description": "",
+    "url": "https://nitter.net/kaborobot/status/2058205543760838842#m",
+    "date": "2026-07-31",
+    "category": "Twitter"
+  },
+  {
+    "title": "Golang proposal: container/: generic collection types",
+    "source": "Hacker News",
+    "description": "HN Score: 63 | 21 comments",
+    "url": "https://github.com/golang/go/issues/80590",
+    "score": 63,
+    "date": "2026-07-31",
+    "category": "AI News"
+  },
+  {
     "title": "Every pixel will be generated Bravo to @MiniMax_AI some interesting things in here, looking forward to weights being released!",
     "source": "@EMostaque",
     "description": "",
@@ -8,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Tailscale didn't stop the Hugging Face intrusion",
+    "title": "Everyone is building LLM routers, we deprecated ours",
     "source": "Hacker News",
-    "description": "HN Score: 43 | 20 comments",
-    "url": "https://tailscale.com/blog/hugging-face-intrusion",
-    "score": 43,
+    "description": "HN Score: 56 | 24 comments",
+    "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
+    "score": 56,
     "date": "2026-07-31",
     "category": "AI News"
   },
@@ -25,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "AI companies destroy rare and non recoverable physical books",
+    "title": "Using the railway network as a flatbed scanner [video]",
     "source": "Hacker News",
-    "description": "HN Score: 35 | 28 comments",
-    "url": "https://www.heraldscotland.com/opinion/26422014.library-alexandria-burns-ai-companies-destroying-books-bulk/",
-    "score": 35,
+    "description": "HN Score: 29 | 12 comments",
+    "url": "https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner",
+    "score": 29,
     "date": "2026-07-31",
     "category": "AI News"
   },
@@ -42,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Golang proposal: container/: generic collection types",
+    "title": "Twenty-five years ago it was cryptography, today it's model weights",
     "source": "Hacker News",
-    "description": "HN Score: 15 | 1 comments",
-    "url": "https://github.com/golang/go/issues/80590",
-    "score": 15,
+    "description": "HN Score: 5 | 0 comments",
+    "url": "https://weeraman.com/because-we-can/",
+    "score": 5,
     "date": "2026-07-31",
     "category": "AI News"
   },
@@ -59,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Everyone is building LLM routers, we deprecated ours",
+    "title": "Orca-Bench: How Ready Are Language Model Agents for Oncall?",
     "source": "Hacker News",
-    "description": "HN Score: 22 | 10 comments",
-    "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
-    "score": 22,
+    "description": "HN Score: 18 | 5 comments",
+    "url": "https://arxiv.org/abs/2607.28545",
+    "score": 18,
     "date": "2026-07-31",
     "category": "AI News"
   },
@@ -76,11 +110,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Using the railway network as a flatbed scanner [video]",
+    "title": "Predictive Speculative KV Replication for Bursty LLM Inference",
     "source": "Hacker News",
-    "description": "HN Score: 9 | 3 comments",
-    "url": "https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner",
-    "score": 9,
+    "description": "HN Score: 5 | 0 comments",
+    "url": "https://jwlabs.vercel.app/post/biting-the-bullet",
+    "score": 5,
+    "date": "2026-07-31",
+    "category": "AI News"
+  },
+  {
+    "title": "Hopefully your weekend is free - we are launching recursively self-improving agents They are next-level addicting - esp if you want to maximize profit",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2083278202714411408#m",
+    "date": "2026-07-31",
+    "category": "Twitter"
+  },
+  {
+    "title": "Show HN: How to build and self-host a code review agent",
+    "source": "Hacker News",
+    "description": "HN Score: 5 | 0 comments",
+    "url": "https://www.trytilde.ai/blog/how-to-build-code-review-agent",
+    "score": 5,
     "date": "2026-07-31",
     "category": "AI News"
   },
@@ -93,55 +144,20 @@
     "category": "Twitter"
   },
   {
-    "title": "Orca-Bench: How Ready Are Language Model Agents for Oncall?",
-    "source": "Hacker News",
-    "description": "HN Score: 8 | 3 comments",
-    "url": "https://arxiv.org/abs/2607.28545",
-    "score": 8,
-    "date": "2026-07-31",
-    "category": "AI News"
-  },
-  {
-    "title": "Grok 4.6 is launching next week Hopefully it has parallel tool-use and can handle long running tasks better Without that, it\u2019s impossible to scale it ",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2083189791651455221#m",
-    "date": "2026-07-31",
-    "category": "Twitter"
-  },
-  {
     "title": "13 Models and 4 Agents on SWE Tasks: Go, Java, Python, Rust, TS",
     "source": "Hacker News",
-    "description": "HN Score: 30 | 11 comments",
+    "description": "HN Score: 38 | 13 comments",
     "url": "https://swe-rebench.com",
-    "score": 30,
+    "score": 38,
     "date": "2026-07-31",
     "category": "AI News"
   },
   {
     "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
     "source": "Hacker News",
-    "description": "HN Score: 452 | 454 comments",
+    "description": "HN Score: 464 | 472 comments",
     "url": "https://blog.google/security/chrome-stronger-with-every-update/",
-    "score": 452,
-    "date": "2026-07-31",
-    "category": "AI News"
-  },
-  {
-    "title": "Show HN: What should the GUI for AI agents look like?",
-    "source": "Hacker News",
-    "description": "HN Score: 95 | 58 comments",
-    "url": "https://marbleos.com/demo",
-    "score": 95,
-    "date": "2026-07-31",
-    "category": "AI News"
-  },
-  {
-    "title": "The EU is making the Right to Repair the new standard in Europe",
-    "source": "Hacker News",
-    "description": "HN Score: 22 | 1 comments",
-    "url": "https://ec.social-network.europa.eu/@EUCommission/117013565926587088",
-    "score": 22,
+    "score": 464,
     "date": "2026-07-31",
     "category": "AI News"
   }
