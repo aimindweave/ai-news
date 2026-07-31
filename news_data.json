@@ -1,8 +1,50 @@
 [
   {
+    "title": "Sam Altman isn\u2019t the only one who wants to pump the brakes on AI",
+    "source": "TechCrunch",
+    "summary": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it\u2019s time for the AI industry to \u201cpace\u201d itself. The comments came just days after one of OpenAI s own models broke out of its test environment and got tangled up in a breach at Hugging Face \u2014 though as Equity\u2019s hosts ...",
+    "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
+    "date": "2026-07-31"
+  },
+  {
+    "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
+    "source": "TechCrunch",
+    "summary": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop.",
+    "url": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
+    "date": "2026-07-31"
+  },
+  {
+    "title": "Siri AI could come with a paywall for power users",
+    "source": "TechCrunch",
+    "summary": "Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions.",
+    "url": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
+    "date": "2026-07-31"
+  },
+  {
+    "title": "SpaceX won\u2019t remove all of xAI\u2019s unpermitted turbines for another year",
+    "source": "TechCrunch",
+    "summary": "SpaceX is building a new power plant for xAI's Colossus data centers, but it won't remove existing, unpermitted turbines for many more months.",
+    "url": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
+    "date": "2026-07-31"
+  },
+  {
+    "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
+    "source": "TechCrunch",
+    "summary": "The startup is building voice models designed to make AI phone calls pass the Turing test.",
+    "url": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
+    "date": "2026-07-31"
+  },
+  {
+    "title": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
+    "source": "TechCrunch",
+    "summary": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it\u2019s time for the AI industry to \u201cpace\u201d itself. The comments came just days after one of OpenAI s own models broke out of its test environment and got tangled up in a breach at Hugging Face \u2014 though as Equity\u2019s hosts ...",
+    "url": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/",
+    "date": "2026-07-31"
+  },
+  {
     "title": "Anthropic says its own AI models breached three companies during security tests",
     "source": "TechCrunch",
-    "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
+    "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents.",
     "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
     "date": "2026-07-31"
   },
@@ -60,48 +102,6 @@
     "source": "TechCrunch",
     "summary": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.",
     "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
-    "date": "2026-07-31"
-  },
-  {
-    "title": "Meta says AI is making it easier to build new apps \u2014 and more are coming",
-    "source": "TechCrunch",
-    "summary": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way.",
-    "url": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
-    "date": "2026-07-31"
-  },
-  {
-    "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
-    "source": "TechCrunch",
-    "summary": "British AI neocloud Nscale is buying software startup Anyscale, which helps companies scale their AI workloads across data centers and servers.",
-    "url": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
-    "date": "2026-07-31"
-  },
-  {
-    "title": "Forward-deployed engineers are the AI industry\u2019s latest talent obsession",
-    "source": "TechCrunch",
-    "summary": "A new study estimates only 2,000 U.S. engineers have the expertise to deliver meaningful AI ROI, as enterprises race to hire forward-deployed engineers to implement AI at scale.",
-    "url": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/",
-    "date": "2026-07-31"
-  },
-  {
-    "title": "In the Hugging Face breach, OpenAI\u2019s hacker was noisy and fast \u2014 but not unstoppable",
-    "source": "TechCrunch",
-    "summary": "Cybersecurity experts told TechCrunch that one of the biggest lessons to be taken from the OpenAI hack against Hugging Face has nothing to do with AI, but traditional cybersecurity defense.",
-    "url": "https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/",
-    "date": "2026-07-31"
-  },
-  {
-    "title": "TechCrunch Disrupt 2026\u2019s biggest stage features leaders from Amazon, Replit, Tether, with much more to come",
-    "source": "TechCrunch",
-    "summary": "The Disrupt Stage is where many of the biggest conversations in technology happen, with a legacy that stretches back for more than a decade.",
-    "url": "https://techcrunch.com/2026/07/30/techcrunch-disrupt-2026s-biggest-stage-features-leaders-from-amazon-replit-tether-with-much-more-to-come/",
-    "date": "2026-07-31"
-  },
-  {
-    "title": "Dili raises $21.7M to bring AI compliance to the infrastructure boom",
-    "source": "TechCrunch",
-    "summary": "The Series A was led by Khosla Ventures, with participation from Allianz, Rebel Fund, Brick and Mortar Ventures\u2019 Darren Bechtel, and Y Combinator\u2019s Garry Tan.",
-    "url": "https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/",
     "date": "2026-07-31"
   },
   {
@@ -175,6 +175,20 @@
     "date": "2026-07-31"
   },
   {
+    "title": "AI Slop Melodramas Are Taking Over X\u2014and Their Creators Are Cashing In",
+    "source": "Wired",
+    "summary": "Viral tales of good triumphing over evil are racking up millions of views. They\u2019re almost entirely AI-generated clickbait.",
+    "url": "https://www.wired.com/story/ai-slop-melodramas-are-taking-over-x-and-their-creators-are-cashing-in/",
+    "date": "2026-07-31"
+  },
+  {
+    "title": "This AI Assistant Wants to Make Up for Your Boyfriend\u2019s Incompetence",
+    "source": "Wired",
+    "summary": "An ad for Orchid suggests the AI agent can fix relationship problems by simply doing everything for inconsiderate partners.",
+    "url": "https://www.wired.com/story/this-ai-assistants-whole-pitch-is-making-up-for-your-boyfriends-incompetence/",
+    "date": "2026-07-31"
+  },
+  {
     "title": "Anthropic Says Claude Hacked Into 3 Organizations During Cybersecurity Tests",
     "source": "Wired",
     "summary": "In a review triggered by OpenAI\u2019s Hugging Face incident, Anthropic discovered three of its AI models had breached real-world organizations during third-party evaluations.",
@@ -228,20 +242,6 @@
     "source": "Wired",
     "summary": "Despite the ongoing AI boom, LinkedIn is holding the line on compute spending. Instead, it\u2019s challenging engineers to make every GPU count.",
     "url": "https://www.wired.com/story/how-linkedin-is-keeping-its-compute-capacity-flat/",
-    "date": "2026-07-31"
-  },
-  {
-    "title": "AI Scammers Are Better at Building Trust Than Humans",
-    "source": "Wired",
-    "summary": "Researchers pitted a person against a Claude agent and found that, after a week of texting, the AI chatbot was more effective at creating \u201cexploitable trust\u201d with others.",
-    "url": "https://www.wired.com/story/ai-scammers-are-better-at-building-trust-than-humans/",
-    "date": "2026-07-31"
-  },
-  {
-    "title": "I Got a Free Meal From a Private Chef\u2014Who Filmed It All to Train Robots",
-    "source": "Wired",
-    "summary": "A German startup sent a camera-wearing chef to my apartment. In exchange for a free lunch, I let them record every chop and stir to train future humanoids.",
-    "url": "https://www.wired.com/story/i-let-a-private-chef-film-my-kitchen-for-robot-training-data/",
     "date": "2026-07-31"
   },
   {
