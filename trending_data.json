@@ -10,9 +10,9 @@
   {
     "title": "Tailscale didn't stop the Hugging Face intrusion",
     "source": "Hacker News",
-    "description": "HN Score: 180 | 70 comments",
+    "description": "HN Score: 325 | 129 comments",
     "url": "https://tailscale.com/blog/hugging-face-intrusion",
-    "score": 180,
+    "score": 325,
     "date": "2026-07-31",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Golang proposal: container/: generic collection types",
+    "title": "Twenty-five years ago it was cryptography, today it's model weights",
     "source": "Hacker News",
-    "description": "HN Score: 63 | 21 comments",
-    "url": "https://github.com/golang/go/issues/80590",
-    "score": 63,
+    "description": "HN Score: 75 | 18 comments",
+    "url": "https://weeraman.com/because-we-can/",
+    "score": 75,
     "date": "2026-07-31",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Everyone is building LLM routers, we deprecated ours",
+    "title": "Golang proposal: container/: generic collection types",
     "source": "Hacker News",
-    "description": "HN Score: 56 | 24 comments",
-    "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
-    "score": 56,
+    "description": "HN Score: 99 | 53 comments",
+    "url": "https://github.com/golang/go/issues/80590",
+    "score": 99,
     "date": "2026-07-31",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Using the railway network as a flatbed scanner [video]",
+    "title": "Predictive Speculative KV Replication for Bursty LLM Inference",
     "source": "Hacker News",
-    "description": "HN Score: 29 | 12 comments",
-    "url": "https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner",
-    "score": 29,
+    "description": "HN Score: 15 | 1 comments",
+    "url": "https://jwlabs.vercel.app/post/biting-the-bullet",
+    "score": 15,
     "date": "2026-07-31",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Twenty-five years ago it was cryptography, today it's model weights",
+    "title": "Everyone is building LLM routers, we deprecated ours",
     "source": "Hacker News",
-    "description": "HN Score: 5 | 0 comments",
-    "url": "https://weeraman.com/because-we-can/",
-    "score": 5,
+    "description": "HN Score: 76 | 39 comments",
+    "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
+    "score": 76,
     "date": "2026-07-31",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Orca-Bench: How Ready Are Language Model Agents for Oncall?",
+    "title": "Using the railway network as a flatbed scanner [video]",
     "source": "Hacker News",
-    "description": "HN Score: 18 | 5 comments",
-    "url": "https://arxiv.org/abs/2607.28545",
-    "score": 18,
+    "description": "HN Score: 39 | 20 comments",
+    "url": "https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner",
+    "score": 39,
     "date": "2026-07-31",
     "category": "AI News"
   },
@@ -110,27 +110,10 @@
     "category": "Twitter"
   },
   {
-    "title": "Predictive Speculative KV Replication for Bursty LLM Inference",
+    "title": "Britain's New World of Tobacco (2017)",
     "source": "Hacker News",
     "description": "HN Score: 5 | 0 comments",
-    "url": "https://jwlabs.vercel.app/post/biting-the-bullet",
-    "score": 5,
-    "date": "2026-07-31",
-    "category": "AI News"
-  },
-  {
-    "title": "Hopefully your weekend is free - we are launching recursively self-improving agents They are next-level addicting - esp if you want to maximize profit",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2083278202714411408#m",
-    "date": "2026-07-31",
-    "category": "Twitter"
-  },
-  {
-    "title": "Show HN: How to build and self-host a code review agent",
-    "source": "Hacker News",
-    "description": "HN Score: 5 | 0 comments",
-    "url": "https://www.trytilde.ai/blog/how-to-build-code-review-agent",
+    "url": "https://www.historytoday.com/archive/feature/britains-new-world-tobacco",
     "score": 5,
     "date": "2026-07-31",
     "category": "AI News"
@@ -144,20 +127,37 @@
     "category": "Twitter"
   },
   {
-    "title": "13 Models and 4 Agents on SWE Tasks: Go, Java, Python, Rust, TS",
+    "title": "Is AI reasoning right for the wrong reasons?",
     "source": "Hacker News",
-    "description": "HN Score: 38 | 13 comments",
-    "url": "https://swe-rebench.com",
-    "score": 38,
+    "description": "HN Score: 101 | 130 comments",
+    "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
+    "score": 101,
     "date": "2026-07-31",
     "category": "AI News"
   },
   {
-    "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
+    "title": "Grok 4.6 is launching next week Hopefully it has parallel tool-use and can handle long running tasks better Without that, it\u2019s impossible to scale it ",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2083189791651455221#m",
+    "date": "2026-07-31",
+    "category": "Twitter"
+  },
+  {
+    "title": "Orca-Bench: How Ready Are Language Model Agents for Oncall?",
     "source": "Hacker News",
-    "description": "HN Score: 464 | 472 comments",
-    "url": "https://blog.google/security/chrome-stronger-with-every-update/",
-    "score": 464,
+    "description": "HN Score: 23 | 8 comments",
+    "url": "https://arxiv.org/abs/2607.28545",
+    "score": 23,
+    "date": "2026-07-31",
+    "category": "AI News"
+  },
+  {
+    "title": "Show HN: How to build and self-host a code review agent",
+    "source": "Hacker News",
+    "description": "HN Score: 10 | 3 comments",
+    "url": "https://www.trytilde.ai/blog/how-to-build-code-review-agent",
+    "score": 10,
     "date": "2026-07-31",
     "category": "AI News"
   }
