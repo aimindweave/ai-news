@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "I Fired My AI Assitant",
+    "title": "Kaisel \u2013 Routes as Values. Dart 3 Native Router for Flutter",
     "source": "Hacker News",
-    "description": "HN Score: 8 | 4 comments",
-    "url": "https://chreke.com/posts/i-fired-my-ai-assistant",
-    "score": 8,
+    "description": "HN Score: 28 | 1 comments",
+    "url": "https://kaisel.dev/",
+    "score": 28,
     "date": "2026-08-01",
     "category": "AI News"
   },
@@ -27,9 +27,26 @@
   {
     "title": "Explorative modeling: Train on the best of K guesses",
     "source": "Hacker News",
-    "description": "HN Score: 19 | 2 comments",
+    "description": "HN Score: 46 | 18 comments",
     "url": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
-    "score": 19,
+    "score": 46,
+    "date": "2026-08-01",
+    "category": "AI News"
+  },
+  {
+    "title": "Calculators beat us at arithmetic AI models beat us at algebra et al \ud83e\udd37\ud83c\udffe",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/EMostaque/status/2083620008647594493#m",
+    "date": "2026-08-01",
+    "category": "Twitter"
+  },
+  {
+    "title": "Franken.domains: Stitched-Together Domains, Because Every .com Is Taken",
+    "source": "Hacker News",
+    "description": "HN Score: 15 | 14 comments",
+    "url": "https://franken.domains/",
+    "score": 15,
     "date": "2026-08-01",
     "category": "AI News"
   },
@@ -42,28 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Kaisel \u2013 Routes as Values. Dart 3 Native Router for Flutter",
+    "title": "Flint: A Visualization Language for the AI Era",
     "source": "Hacker News",
-    "description": "HN Score: 5 | 0 comments",
-    "url": "https://kaisel.dev/",
-    "score": 5,
-    "date": "2026-08-01",
-    "category": "AI News"
-  },
-  {
-    "title": "R to @EMostaque: Well it still makes the occasional mistake at the edges but I bounce Pro <> Ultra & that solves most of them.. Sure Astra will basica",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/EMostaque/status/2083508109264265643#m",
-    "date": "2026-08-01",
-    "category": "Twitter"
-  },
-  {
-    "title": "Charlie Stross \u2013 On the non-use of AI in my writing process",
-    "source": "Hacker News",
-    "description": "HN Score: 61 | 53 comments",
-    "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
-    "score": 61,
+    "description": "HN Score: 230 | 65 comments",
+    "url": "https://microsoft.github.io/flint-chart/",
+    "score": 230,
     "date": "2026-08-01",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Flint: A Visualization Language for the AI Era",
+    "title": "qm \u2013 Multiplayer agent harness for work",
     "source": "Hacker News",
-    "description": "HN Score: 221 | 64 comments",
-    "url": "https://microsoft.github.io/flint-chart/",
-    "score": 221,
+    "description": "HN Score: 637 | 149 comments",
+    "url": "https://github.com/yc-software/qm",
+    "score": 637,
     "date": "2026-08-01",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "qm \u2013 Multiplayer agent harness for work",
+    "title": "Show HN: Minimal LLM Post-Training Experiments on an 8GB GPU (SFT, DPO, GRPO)",
     "source": "Hacker News",
-    "description": "HN Score: 628 | 146 comments",
-    "url": "https://github.com/yc-software/qm",
-    "score": 628,
+    "description": "HN Score: 12 | 0 comments",
+    "url": "https://github.com/pochenai/nano-llm-posttraining",
+    "score": 12,
     "date": "2026-08-01",
     "category": "AI News"
   },
@@ -110,11 +110,28 @@
     "category": "Twitter"
   },
   {
+    "title": "On the non-use of AI in my writing process",
+    "source": "Hacker News",
+    "description": "HN Score: 113 | 95 comments",
+    "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
+    "score": 113,
+    "date": "2026-08-01",
+    "category": "AI News"
+  },
+  {
+    "title": "OpenAI better drop Astra, their Fable class model quickly.... Fable adoption is growing rapidly, and it will be hard for users to cut over or change i",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2083604322294825292#m",
+    "date": "2026-08-01",
+    "category": "Twitter"
+  },
+  {
     "title": "Golang proposal: container/: generic collection types",
     "source": "Hacker News",
-    "description": "HN Score: 172 | 163 comments",
+    "description": "HN Score: 175 | 171 comments",
     "url": "https://github.com/golang/go/issues/80590",
-    "score": 172,
+    "score": 175,
     "date": "2026-08-01",
     "category": "AI News"
   },
@@ -129,18 +146,10 @@
   {
     "title": "Is AI reasoning right for the wrong reasons?",
     "source": "Hacker News",
-    "description": "HN Score: 187 | 215 comments",
+    "description": "HN Score: 192 | 220 comments",
     "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
-    "score": 187,
+    "score": 192,
     "date": "2026-08-01",
     "category": "AI News"
-  },
-  {
-    "title": "DeepSeek Flash Is An Awesome Model - The New Version Is Even Better Deepseek Flash is our go-to model for all the easy tasks. The new version that the",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2083257271476494572#m",
-    "date": "2026-08-01",
-    "category": "Twitter"
   }
 ]
