@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Kaisel \u2013 Routes as Values. Dart 3 Native Router for Flutter",
+    "title": "From MIT: AI financial advice is surprisingly good",
     "source": "Hacker News",
-    "description": "HN Score: 41 | 5 comments",
-    "url": "https://kaisel.dev/",
-    "score": 41,
+    "description": "HN Score: 17 | 11 comments",
+    "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+    "score": 17,
     "date": "2026-08-01",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "Explorative modeling: Train on the best of K guesses",
     "source": "Hacker News",
-    "description": "HN Score: 59 | 21 comments",
+    "description": "HN Score: 69 | 21 comments",
     "url": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
-    "score": 59,
+    "score": 69,
     "date": "2026-08-01",
     "category": "AI News"
   },
@@ -42,28 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Flint: A Visualization Language for the AI Era",
+    "title": "Kaisel \u2013 Routes as Values. Dart 3 Native Router for Flutter",
     "source": "Hacker News",
-    "description": "HN Score: 236 | 65 comments",
-    "url": "https://microsoft.github.io/flint-chart/",
-    "score": 236,
-    "date": "2026-08-01",
-    "category": "AI News"
-  },
-  {
-    "title": "Calculators beat us at arithmetic AI models beat us at algebra et al \ud83e\udd37\ud83c\udffe",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/EMostaque/status/2083620008647594493#m",
-    "date": "2026-08-01",
-    "category": "Twitter"
-  },
-  {
-    "title": "Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
-    "source": "Hacker News",
-    "description": "HN Score: 5 | 0 comments",
-    "url": "https://trufflesecurity.com/blog/scanning-7-6-petabytes-of-ai-training-data-for-secrets",
-    "score": 5,
+    "description": "HN Score: 48 | 7 comments",
+    "url": "https://kaisel.dev/",
+    "score": 48,
     "date": "2026-08-01",
     "category": "AI News"
   },
@@ -76,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Minimal LLM Post-Training Experiments on an 8GB GPU (SFT, DPO, GRPO)",
+    "title": "The Burau representation of the braid group is faithful for n = 4",
     "source": "Hacker News",
-    "description": "HN Score: 15 | 0 comments",
-    "url": "https://github.com/pochenai/nano-llm-posttraining",
-    "score": 15,
+    "description": "HN Score: 34 | 17 comments",
+    "url": "https://arxiv.org/abs/2607.05283",
+    "score": 34,
     "date": "2026-08-01",
     "category": "AI News"
   },
@@ -93,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "qm \u2013 Multiplayer agent harness for work",
+    "title": "Flint: A Visualization Language for the AI Era",
     "source": "Hacker News",
-    "description": "HN Score: 645 | 151 comments",
-    "url": "https://github.com/yc-software/qm",
-    "score": 645,
+    "description": "HN Score: 243 | 66 comments",
+    "url": "https://microsoft.github.io/flint-chart/",
+    "score": 243,
     "date": "2026-08-01",
     "category": "AI News"
   },
@@ -110,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Golang proposal: container/: generic collection types",
+    "title": "Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
     "source": "Hacker News",
-    "description": "HN Score: 175 | 171 comments",
-    "url": "https://github.com/golang/go/issues/80590",
-    "score": 175,
+    "description": "HN Score: 28 | 8 comments",
+    "url": "https://trufflesecurity.com/blog/scanning-7-6-petabytes-of-ai-training-data-for-secrets",
+    "score": 28,
     "date": "2026-08-01",
     "category": "AI News"
   },
@@ -127,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Is AI reasoning right for the wrong reasons?",
+    "title": "Coldcard's $38M (so far) exploit shakes faith in self-custody",
     "source": "Hacker News",
-    "description": "HN Score: 195 | 225 comments",
-    "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
-    "score": 195,
+    "description": "HN Score: 12 | 4 comments",
+    "url": "https://www.coindesk.com/business/2026/07/31/coldcard-s-usd38-million-so-far-exploit-shakes-faith-in-self-custody-may-push-investors-to-etfs",
+    "score": 12,
     "date": "2026-08-01",
     "category": "AI News"
   },
@@ -142,5 +125,32 @@
     "url": "https://nitter.net/bindureddy/status/2083414040035103179#m",
     "date": "2026-08-01",
     "category": "Twitter"
+  },
+  {
+    "title": "AI's real threat to jobs isn't job loss, it's lower paychecks, new research says",
+    "source": "Hacker News",
+    "description": "HN Score: 8 | 0 comments",
+    "url": "https://www.businessinsider.com/ai-could-lower-workers-pay-job-market-impact-2026-7",
+    "score": 8,
+    "date": "2026-08-01",
+    "category": "AI News"
+  },
+  {
+    "title": "Show HN: Minimal LLM Post-Training Experiments on an 8GB GPU (SFT, DPO, GRPO)",
+    "source": "Hacker News",
+    "description": "HN Score: 18 | 0 comments",
+    "url": "https://github.com/pochenai/nano-llm-posttraining",
+    "score": 18,
+    "date": "2026-08-01",
+    "category": "AI News"
+  },
+  {
+    "title": "qm \u2013 Multiplayer agent harness for work",
+    "source": "Hacker News",
+    "description": "HN Score: 647 | 152 comments",
+    "url": "https://github.com/yc-software/qm",
+    "score": 647,
+    "date": "2026-08-01",
+    "category": "AI News"
   }
 ]
