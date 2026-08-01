@@ -10,9 +10,9 @@
   {
     "title": "Kaisel \u2013 Routes as Values. Dart 3 Native Router for Flutter",
     "source": "Hacker News",
-    "description": "HN Score: 28 | 1 comments",
+    "description": "HN Score: 41 | 5 comments",
     "url": "https://kaisel.dev/",
-    "score": 28,
+    "score": 41,
     "date": "2026-08-01",
     "category": "AI News"
   },
@@ -27,9 +27,26 @@
   {
     "title": "Explorative modeling: Train on the best of K guesses",
     "source": "Hacker News",
-    "description": "HN Score: 46 | 18 comments",
+    "description": "HN Score: 59 | 21 comments",
     "url": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
-    "score": 46,
+    "score": 59,
+    "date": "2026-08-01",
+    "category": "AI News"
+  },
+  {
+    "title": "With caching this is probably 100m tokens? Once models are smart enough you really don\u2019t need many tokens to figure out even advanced stuff A codex su",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/EMostaque/status/2083645869211980273#m",
+    "date": "2026-08-01",
+    "category": "Twitter"
+  },
+  {
+    "title": "Flint: A Visualization Language for the AI Era",
+    "source": "Hacker News",
+    "description": "HN Score: 236 | 65 comments",
+    "url": "https://microsoft.github.io/flint-chart/",
+    "score": 236,
     "date": "2026-08-01",
     "category": "AI News"
   },
@@ -42,28 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Franken.domains: Stitched-Together Domains, Because Every .com Is Taken",
+    "title": "Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
     "source": "Hacker News",
-    "description": "HN Score: 15 | 14 comments",
-    "url": "https://franken.domains/",
-    "score": 15,
-    "date": "2026-08-01",
-    "category": "AI News"
-  },
-  {
-    "title": "No human input, channeling the latent space of the new models. GPT 5.6 Sol is probably the first model I've used that doesn't make mistakes on maths. ",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/EMostaque/status/2083507693189276130#m",
-    "date": "2026-08-01",
-    "category": "Twitter"
-  },
-  {
-    "title": "Flint: A Visualization Language for the AI Era",
-    "source": "Hacker News",
-    "description": "HN Score: 230 | 65 comments",
-    "url": "https://microsoft.github.io/flint-chart/",
-    "score": 230,
+    "description": "HN Score: 5 | 0 comments",
+    "url": "https://trufflesecurity.com/blog/scanning-7-6-petabytes-of-ai-training-data-for-secrets",
+    "score": 5,
     "date": "2026-08-01",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "qm \u2013 Multiplayer agent harness for work",
+    "title": "Show HN: Minimal LLM Post-Training Experiments on an 8GB GPU (SFT, DPO, GRPO)",
     "source": "Hacker News",
-    "description": "HN Score: 637 | 149 comments",
-    "url": "https://github.com/yc-software/qm",
-    "score": 637,
+    "description": "HN Score: 15 | 0 comments",
+    "url": "https://github.com/pochenai/nano-llm-posttraining",
+    "score": 15,
     "date": "2026-08-01",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Minimal LLM Post-Training Experiments on an 8GB GPU (SFT, DPO, GRPO)",
+    "title": "qm \u2013 Multiplayer agent harness for work",
     "source": "Hacker News",
-    "description": "HN Score: 12 | 0 comments",
-    "url": "https://github.com/pochenai/nano-llm-posttraining",
-    "score": 12,
+    "description": "HN Score: 645 | 151 comments",
+    "url": "https://github.com/yc-software/qm",
+    "score": 645,
     "date": "2026-08-01",
     "category": "AI News"
   },
@@ -106,23 +106,6 @@
     "source": "@svpino",
     "description": "",
     "url": "https://nitter.net/svpino/status/2083211778662805974#m",
-    "date": "2026-08-01",
-    "category": "Twitter"
-  },
-  {
-    "title": "On the non-use of AI in my writing process",
-    "source": "Hacker News",
-    "description": "HN Score: 113 | 95 comments",
-    "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
-    "score": 113,
-    "date": "2026-08-01",
-    "category": "AI News"
-  },
-  {
-    "title": "OpenAI better drop Astra, their Fable class model quickly.... Fable adoption is growing rapidly, and it will be hard for users to cut over or change i",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2083604322294825292#m",
     "date": "2026-08-01",
     "category": "Twitter"
   },
@@ -136,20 +119,28 @@
     "category": "AI News"
   },
   {
-    "title": "\ud83d\udea8 Announcing AutoBots - Recursively Self-Improving Agents (RSI) Super excited to launch our multi-LLM-based recursively self-improving agents We use D",
+    "title": "OpenAI better drop Astra, their Fable class model quickly.... Fable adoption is growing rapidly, and it will be hard for users to cut over or change i",
     "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/bindureddy/status/2083414040035103179#m",
+    "url": "https://nitter.net/bindureddy/status/2083604322294825292#m",
     "date": "2026-08-01",
     "category": "Twitter"
   },
   {
     "title": "Is AI reasoning right for the wrong reasons?",
     "source": "Hacker News",
-    "description": "HN Score: 192 | 220 comments",
+    "description": "HN Score: 195 | 225 comments",
     "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
-    "score": 192,
+    "score": 195,
     "date": "2026-08-01",
     "category": "AI News"
+  },
+  {
+    "title": "\ud83d\udea8 Announcing AutoBots - Recursively Self-Improving Agents (RSI) Super excited to launch our multi-LLM-based recursively self-improving agents We use D",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2083414040035103179#m",
+    "date": "2026-08-01",
+    "category": "Twitter"
   }
 ]
