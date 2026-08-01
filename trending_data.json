@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "AI doesn't generate working products, that's still your job",
+    "title": "Google kills Earth AI generator after one day",
     "source": "Hacker News",
-    "description": "HN Score: 47 | 22 comments",
-    "url": "https://weeraman.com/the-prototype-isnt-the-product/",
-    "score": 47,
+    "description": "HN Score: 29 | 20 comments",
+    "url": "https://twitter.com/newsfromgoogle/status/2083249962150760610",
+    "score": 29,
     "date": "2026-08-01",
     "category": "AI News"
   },
@@ -27,43 +27,43 @@
   {
     "title": "Flint: A Visualization Language for the AI Era",
     "source": "Hacker News",
-    "description": "HN Score: 122 | 38 comments",
+    "description": "HN Score: 161 | 56 comments",
     "url": "https://microsoft.github.io/flint-chart/",
-    "score": 122,
+    "score": 161,
     "date": "2026-08-01",
     "category": "AI News"
   },
   {
-    "title": "RT by @EMostaque: quick recap on the state of AI: > Sam raises endless amounts of capital from VCs > effective altruists are in DC > Terra Luna and So",
+    "title": "No human input, channeling the latent space of the new models. GPT 5.6 Sol is probably the first model I've used that doesn't make mistakes on maths. ",
     "source": "@EMostaque",
     "description": "",
-    "url": "https://nitter.net/ASvanevik/status/2083341417641037932#m",
+    "url": "https://nitter.net/EMostaque/status/2083507693189276130#m",
     "date": "2026-08-01",
     "category": "Twitter"
   },
   {
     "title": "qm \u2013 Multiplayer agent harness for work",
     "source": "Hacker News",
-    "description": "HN Score: 573 | 118 comments",
+    "description": "HN Score: 599 | 129 comments",
     "url": "https://github.com/yc-software/qm",
-    "score": 573,
+    "score": 599,
     "date": "2026-08-01",
     "category": "AI News"
   },
   {
-    "title": "RT by @EMostaque: If you're not paying much attention to AI, it's become so good at math that it completely exhausted the hardest human-completed prob",
+    "title": "R to @EMostaque: Well it still makes the occasional mistake at the edges but I bounce Pro <> Ultra & that solves most of them.. Sure Astra will basica",
     "source": "@EMostaque",
     "description": "",
-    "url": "https://nitter.net/SemioticRivalry/status/2083322627179913361#m",
+    "url": "https://nitter.net/EMostaque/status/2083508109264265643#m",
     "date": "2026-08-01",
     "category": "Twitter"
   },
   {
-    "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
+    "title": "AI doesn't generate working products, that's still your job",
     "source": "Hacker News",
-    "description": "HN Score: 519 | 534 comments",
-    "url": "https://blog.google/security/chrome-stronger-with-every-update/",
-    "score": 519,
+    "description": "HN Score: 210 | 197 comments",
+    "url": "https://weeraman.com/the-prototype-isnt-the-product/",
+    "score": 210,
     "date": "2026-08-01",
     "category": "AI News"
   },
@@ -78,9 +78,26 @@
   {
     "title": "Golang proposal: container/: generic collection types",
     "source": "Hacker News",
-    "description": "HN Score: 154 | 126 comments",
+    "description": "HN Score: 167 | 141 comments",
     "url": "https://github.com/golang/go/issues/80590",
-    "score": 154,
+    "score": 167,
+    "date": "2026-08-01",
+    "category": "AI News"
+  },
+  {
+    "title": "I firmly believe that AI will not replace you anytime soon. But a smarter person using AI will.",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2083535720057336041#m",
+    "date": "2026-08-01",
+    "category": "Twitter"
+  },
+  {
+    "title": "Is AI reasoning right for the wrong reasons?",
+    "source": "Hacker News",
+    "description": "HN Score: 175 | 206 comments",
+    "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
+    "score": 175,
     "date": "2026-08-01",
     "category": "AI News"
   },
@@ -95,26 +112,9 @@
   {
     "title": "Tailscale didn't stop the Hugging Face intrusion",
     "source": "Hacker News",
-    "description": "HN Score: 551 | 204 comments",
+    "description": "HN Score: 566 | 211 comments",
     "url": "https://tailscale.com/blog/hugging-face-intrusion",
-    "score": 551,
-    "date": "2026-08-01",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: Here is a new open-source memory framework for AI agents. This solves the amnesia your agents have all the time. 61% fewer tokens when ",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2083209823412510846#m",
-    "date": "2026-08-01",
-    "category": "Twitter"
-  },
-  {
-    "title": "EU will mandate labels on authentic-looking AI content starting August 2",
-    "source": "Hacker News",
-    "description": "HN Score: 10 | 0 comments",
-    "url": "https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content/",
-    "score": 10,
+    "score": 566,
     "date": "2026-08-01",
     "category": "AI News"
   },
@@ -127,11 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Is AI reasoning right for the wrong reasons?",
+    "title": "The first transatlantic telegraph cable was a bold, beautiful failure (2019)",
     "source": "Hacker News",
-    "description": "HN Score: 163 | 193 comments",
-    "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
-    "score": 163,
+    "description": "HN Score: 50 | 17 comments",
+    "url": "https://spectrum.ieee.org/the-first-transatlantic-telegraph-cable-was-a-bold-beautiful-failure",
+    "score": 50,
     "date": "2026-08-01",
     "category": "AI News"
   },
@@ -144,20 +144,20 @@
     "category": "Twitter"
   },
   {
-    "title": "Twenty-five years ago it was cryptography, today it's model weights",
+    "title": "Everyone is building LLM routers, we deprecated ours",
     "source": "Hacker News",
-    "description": "HN Score: 242 | 124 comments",
-    "url": "https://weeraman.com/because-we-can/",
-    "score": 242,
+    "description": "HN Score: 123 | 75 comments",
+    "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
+    "score": 123,
     "date": "2026-08-01",
     "category": "AI News"
   },
   {
-    "title": "The first transatlantic telegraph cable was a bold, beautiful failure (2019)",
+    "title": "Twenty-five years ago it was cryptography, today it's model weights",
     "source": "Hacker News",
-    "description": "HN Score: 43 | 17 comments",
-    "url": "https://spectrum.ieee.org/the-first-transatlantic-telegraph-cable-was-a-bold-beautiful-failure",
-    "score": 43,
+    "description": "HN Score: 250 | 129 comments",
+    "url": "https://weeraman.com/because-we-can/",
+    "score": 250,
     "date": "2026-08-01",
     "category": "AI News"
   }
