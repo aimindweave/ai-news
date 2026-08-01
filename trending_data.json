@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Google kills Earth AI generator after one day",
+    "title": "How to Spot AI Writing",
     "source": "Hacker News",
-    "description": "HN Score: 29 | 20 comments",
-    "url": "https://twitter.com/newsfromgoogle/status/2083249962150760610",
-    "score": 29,
+    "description": "HN Score: 22 | 34 comments",
+    "url": "https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing",
+    "score": 22,
     "date": "2026-08-01",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "Flint: A Visualization Language for the AI Era",
     "source": "Hacker News",
-    "description": "HN Score: 161 | 56 comments",
+    "description": "HN Score: 191 | 59 comments",
     "url": "https://microsoft.github.io/flint-chart/",
-    "score": 161,
+    "score": 191,
     "date": "2026-08-01",
     "category": "AI News"
   },
@@ -44,9 +44,9 @@
   {
     "title": "qm \u2013 Multiplayer agent harness for work",
     "source": "Hacker News",
-    "description": "HN Score: 599 | 129 comments",
+    "description": "HN Score: 610 | 136 comments",
     "url": "https://github.com/yc-software/qm",
-    "score": 599,
+    "score": 610,
     "date": "2026-08-01",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "AI doesn't generate working products, that's still your job",
+    "title": "Golang proposal: container/: generic collection types",
     "source": "Hacker News",
-    "description": "HN Score: 210 | 197 comments",
-    "url": "https://weeraman.com/the-prototype-isnt-the-product/",
-    "score": 210,
+    "description": "HN Score: 170 | 149 comments",
+    "url": "https://github.com/golang/go/issues/80590",
+    "score": 170,
     "date": "2026-08-01",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Golang proposal: container/: generic collection types",
+    "title": "AI doesn't generate working products, that's still your job",
     "source": "Hacker News",
-    "description": "HN Score: 167 | 141 comments",
-    "url": "https://github.com/golang/go/issues/80590",
-    "score": 167,
+    "description": "HN Score: 221 | 218 comments",
+    "url": "https://weeraman.com/the-prototype-isnt-the-product/",
+    "score": 221,
     "date": "2026-08-01",
     "category": "AI News"
   },
@@ -95,9 +95,9 @@
   {
     "title": "Is AI reasoning right for the wrong reasons?",
     "source": "Hacker News",
-    "description": "HN Score: 175 | 206 comments",
+    "description": "HN Score: 179 | 209 comments",
     "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
-    "score": 175,
+    "score": 179,
     "date": "2026-08-01",
     "category": "AI News"
   },
@@ -110,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Tailscale didn't stop the Hugging Face intrusion",
+    "title": "Legendary Mountaineer Nirmal Purja Killed in Broad Peak Avalanche in Pakistan",
     "source": "Hacker News",
-    "description": "HN Score: 566 | 211 comments",
-    "url": "https://tailscale.com/blog/hugging-face-intrusion",
-    "score": 566,
+    "description": "HN Score: 5 | 0 comments",
+    "url": "https://www.theguardian.com/world/2026/aug/01/top-mountaineer-nirmal-purja-confirmed-dead-after-11-hit-by-avalanche-in-pakistan",
+    "score": 5,
     "date": "2026-08-01",
     "category": "AI News"
   },
@@ -127,11 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "The first transatlantic telegraph cable was a bold, beautiful failure (2019)",
+    "title": "Tailscale didn't stop the Hugging Face intrusion",
     "source": "Hacker News",
-    "description": "HN Score: 50 | 17 comments",
-    "url": "https://spectrum.ieee.org/the-first-transatlantic-telegraph-cable-was-a-bold-beautiful-failure",
-    "score": 50,
+    "description": "HN Score: 573 | 211 comments",
+    "url": "https://tailscale.com/blog/hugging-face-intrusion",
+    "score": 573,
     "date": "2026-08-01",
     "category": "AI News"
   },
@@ -144,20 +144,20 @@
     "category": "Twitter"
   },
   {
-    "title": "Everyone is building LLM routers, we deprecated ours",
+    "title": "The first transatlantic telegraph cable was a bold, beautiful failure (2019)",
     "source": "Hacker News",
-    "description": "HN Score: 123 | 75 comments",
-    "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
-    "score": 123,
+    "description": "HN Score: 51 | 17 comments",
+    "url": "https://spectrum.ieee.org/the-first-transatlantic-telegraph-cable-was-a-bold-beautiful-failure",
+    "score": 51,
     "date": "2026-08-01",
     "category": "AI News"
   },
   {
-    "title": "Twenty-five years ago it was cryptography, today it's model weights",
+    "title": "Everyone is building LLM routers, we deprecated ours",
     "source": "Hacker News",
-    "description": "HN Score: 250 | 129 comments",
-    "url": "https://weeraman.com/because-we-can/",
-    "score": 250,
+    "description": "HN Score: 124 | 80 comments",
+    "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
+    "score": 124,
     "date": "2026-08-01",
     "category": "AI News"
   }
