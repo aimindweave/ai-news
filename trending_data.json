@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "qm \u2013 Multiplayer agent harness for work",
+    "title": "Flint: A Visualization Language for the AI Era",
     "source": "Hacker News",
-    "description": "HN Score: 493 | 106 comments",
-    "url": "https://github.com/yc-software/qm",
-    "score": 493,
+    "description": "HN Score: 67 | 19 comments",
+    "url": "https://microsoft.github.io/flint-chart/",
+    "score": 67,
     "date": "2026-08-01",
     "category": "AI News"
   },
@@ -25,11 +25,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Flint: A Visualization Language for the AI Era",
+    "title": "qm \u2013 Multiplayer agent harness for work",
     "source": "Hacker News",
-    "description": "HN Score: 7 | 1 comments",
-    "url": "https://microsoft.github.io/flint-chart/",
-    "score": 7,
+    "description": "HN Score: 527 | 110 comments",
+    "url": "https://github.com/yc-software/qm",
+    "score": 527,
+    "date": "2026-08-01",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: If you're not paying much attention to AI, it's become so good at math that it completely exhausted the hardest human-completed prob",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/SemioticRivalry/status/2083322627179913361#m",
+    "date": "2026-08-01",
+    "category": "Twitter"
+  },
+  {
+    "title": "Tailscale didn't stop the Hugging Face intrusion",
+    "source": "Hacker News",
+    "description": "HN Score: 521 | 196 comments",
+    "url": "https://tailscale.com/blog/hugging-face-intrusion",
+    "score": 521,
     "date": "2026-08-01",
     "category": "AI News"
   },
@@ -42,28 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Tailscale didn't stop the Hugging Face intrusion",
+    "title": "Twenty-five years ago it was cryptography, today it's model weights",
     "source": "Hacker News",
-    "description": "HN Score: 481 | 189 comments",
-    "url": "https://tailscale.com/blog/hugging-face-intrusion",
-    "score": 481,
-    "date": "2026-08-01",
-    "category": "AI News"
-  },
-  {
-    "title": "As shocking as the Kimi K3 release. Massive performance gain was just with post-training Model is 3x smaller than GLM 5.2 (10x smaller than K3) & work",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/EMostaque/status/2083140095754842495#m",
-    "date": "2026-08-01",
-    "category": "Twitter"
-  },
-  {
-    "title": "Golang proposal: container/: generic collection types",
-    "source": "Hacker News",
-    "description": "HN Score: 131 | 81 comments",
-    "url": "https://github.com/golang/go/issues/80590",
-    "score": 131,
+    "description": "HN Score: 223 | 110 comments",
+    "url": "https://weeraman.com/because-we-can/",
+    "score": 223,
     "date": "2026-08-01",
     "category": "AI News"
   },
@@ -78,31 +78,14 @@
   {
     "title": "The First Transatlantic Telegraph Cable Was a Bold, Beautiful Failure",
     "source": "Hacker News",
-    "description": "HN Score: 29 | 5 comments",
+    "description": "HN Score: 38 | 12 comments",
     "url": "https://spectrum.ieee.org/the-first-transatlantic-telegraph-cable-was-a-bold-beautiful-failure",
-    "score": 29,
+    "score": 38,
     "date": "2026-08-01",
     "category": "AI News"
   },
   {
-    "title": "RT by @svpino: To this day, one of the most hardcore things I've done is stock trading with AI/ML. I studied Reinforcement Learning for Trading during",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2083178372717568427#m",
-    "date": "2026-08-01",
-    "category": "Twitter"
-  },
-  {
-    "title": "Twenty-five years ago it was cryptography, today it's model weights",
-    "source": "Hacker News",
-    "description": "HN Score: 190 | 78 comments",
-    "url": "https://weeraman.com/because-we-can/",
-    "score": 190,
-    "date": "2026-08-01",
-    "category": "AI News"
-  },
-  {
-    "title": "The only way to get people to build secure apps is to do it automatically for them. I really like this from Bolt. This is what they do once you click ",
+    "title": "RT by @svpino: The only way to get people to build secure apps is to do it automatically for them. I really like this from Bolt. This is what they do ",
     "source": "@svpino",
     "description": "",
     "url": "https://nitter.net/svpino/status/2083211778662805974#m",
@@ -110,11 +93,45 @@
     "category": "Twitter"
   },
   {
-    "title": "Everyone is building LLM routers, we deprecated ours",
+    "title": "Is AI reasoning right for the wrong reasons?",
     "source": "Hacker News",
-    "description": "HN Score: 102 | 52 comments",
-    "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
-    "score": 102,
+    "description": "HN Score: 144 | 170 comments",
+    "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
+    "score": 144,
+    "date": "2026-08-01",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: Here is a new open-source memory framework for AI agents. This solves the amnesia your agents have all the time. 61% fewer tokens when ",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2083209823412510846#m",
+    "date": "2026-08-01",
+    "category": "Twitter"
+  },
+  {
+    "title": "Using the railway network as a flatbed scanner [video]",
+    "source": "Hacker News",
+    "description": "HN Score: 66 | 29 comments",
+    "url": "https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner",
+    "score": 66,
+    "date": "2026-08-01",
+    "category": "AI News"
+  },
+  {
+    "title": "\ud83d\udea8 Announcing AutoBots - Recursively Self-Improving Agents (RSI) Super excited to launch our multi-LLM-based recursively self-improving agents We use D",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2083414040035103179#m",
+    "date": "2026-08-01",
+    "category": "Twitter"
+  },
+  {
+    "title": "Golang proposal: container/: generic collection types",
+    "source": "Hacker News",
+    "description": "HN Score: 145 | 99 comments",
+    "url": "https://github.com/golang/go/issues/80590",
+    "score": 145,
     "date": "2026-08-01",
     "category": "AI News"
   },
@@ -127,37 +144,20 @@
     "category": "Twitter"
   },
   {
-    "title": "Is AI reasoning right for the wrong reasons?",
+    "title": "Everyone is building LLM routers, we deprecated ours",
     "source": "Hacker News",
-    "description": "HN Score: 130 | 155 comments",
-    "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
-    "score": 130,
+    "description": "HN Score: 110 | 57 comments",
+    "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
+    "score": 110,
     "date": "2026-08-01",
     "category": "AI News"
-  },
-  {
-    "title": "DeepSeek Flash Is An Awesome Model - The New Version Is Even Better Deepseek Flash is our go-to model for all the easy tasks. The new version that the",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2083257271476494572#m",
-    "date": "2026-08-01",
-    "category": "Twitter"
   },
   {
     "title": "Predictive Speculative KV Replication for Bursty LLM Inference",
     "source": "Hacker News",
-    "description": "HN Score: 33 | 3 comments",
+    "description": "HN Score: 34 | 3 comments",
     "url": "https://jwlabs.vercel.app/post/biting-the-bullet",
-    "score": 33,
-    "date": "2026-08-01",
-    "category": "AI News"
-  },
-  {
-    "title": "Using the railway network as a flatbed scanner [video]",
-    "source": "Hacker News",
-    "description": "HN Score: 58 | 25 comments",
-    "url": "https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner",
-    "score": 58,
+    "score": 34,
     "date": "2026-08-01",
     "category": "AI News"
   }
