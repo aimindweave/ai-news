@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "My personal AI benchmark: 'Generate an SVG of a frog with a Habsburg jaw.'",
+    "title": "Autoregressive Language Model on the 6502 Processor",
     "source": "Hacker News",
-    "description": "HN Score: 24 | 13 comments",
-    "url": "https://frogs.vaguespac.es/",
-    "score": 24,
+    "description": "HN Score: 12 | 0 comments",
+    "url": "https://mattbeton.com/blog/bitnet-6502.html",
+    "score": 12,
     "date": "2026-08-02",
     "category": "AI News"
   },
@@ -25,11 +25,45 @@
     "category": "Twitter"
   },
   {
-    "title": "AI Mania: From Tulips to Tokens",
+    "title": "'Crush this lady': how eBay harassment campaign led to $56M payout",
     "source": "Hacker News",
-    "description": "HN Score: 3 | 0 comments",
-    "url": "https://seanhelvey.com/tools-and-their-tools/",
-    "score": 3,
+    "description": "HN Score: 129 | 57 comments",
+    "url": "https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2",
+    "score": 129,
+    "date": "2026-08-02",
+    "category": "AI News"
+  },
+  {
+    "title": "By 2030 (or even 2027!) how can you be sure that any math breakthrough is not originally conceived by an AI?",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/EMostaque/status/2083863518416105650#m",
+    "date": "2026-08-02",
+    "category": "Twitter"
+  },
+  {
+    "title": "My personal AI benchmark: 'Generate an SVG of a frog with a Habsburg jaw.'",
+    "source": "Hacker News",
+    "description": "HN Score: 73 | 41 comments",
+    "url": "https://frogs.vaguespac.es/",
+    "score": 73,
+    "date": "2026-08-02",
+    "category": "AI News"
+  },
+  {
+    "title": "I am not bullish on memory. More soon..",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/EMostaque/status/2083850432347046213#m",
+    "date": "2026-08-02",
+    "category": "Twitter"
+  },
+  {
+    "title": "Show HN: MicroCodex Coding Agent \u2013 OpenAI/codex reimplemented in C++ <1MB binary",
+    "source": "Hacker News",
+    "description": "HN Score: 11 | 3 comments",
+    "url": "https://github.com/paoloanzn/microcodex",
+    "score": 11,
     "date": "2026-08-02",
     "category": "AI News"
   },
@@ -42,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Anthropic's Fever Dream: Claude's package that stole real keys",
+    "title": "OpenAI\u2019s amazing \u2014 but vastly oversold \u2014 new model Astra",
     "source": "Hacker News",
-    "description": "HN Score: 4 | 0 comments",
-    "url": "https://www.aikido.dev/blog/anthropic-rogue-agents-package-stole-keys",
-    "score": 4,
+    "description": "HN Score: 7 | 0 comments",
+    "url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
+    "score": 7,
     "date": "2026-08-02",
     "category": "AI News"
   },
@@ -59,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "EU rules on AI models become enforceable. What's going to change?",
+    "title": "Nanocodex: Building blocks for frontier OpenAI agents in Rust",
     "source": "Hacker News",
-    "description": "HN Score: 30 | 27 comments",
-    "url": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
-    "score": 30,
+    "description": "HN Score: 5 | 0 comments",
+    "url": "https://github.com/gakonst/nanocodex",
+    "score": 5,
     "date": "2026-08-02",
     "category": "AI News"
   },
@@ -76,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "'Crush this lady': how eBay harassment campaign led to $56M payout",
+    "title": "AI Mania: From Tulips to Tokens",
     "source": "Hacker News",
-    "description": "HN Score: 54 | 10 comments",
-    "url": "https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2",
-    "score": 54,
+    "description": "HN Score: 46 | 43 comments",
+    "url": "https://seanhelvey.com/tools-and-their-tools/",
+    "score": 46,
     "date": "2026-08-02",
     "category": "AI News"
   },
@@ -93,10 +127,10 @@
     "category": "Twitter"
   },
   {
-    "title": "KotlinLLM",
+    "title": "RosaicLabs, Atom RTL, and 32-Tile AMX: Trying to Piece Together a x86 Puzzle",
     "source": "Hacker News",
     "description": "HN Score: 4 | 0 comments",
-    "url": "https://github.com/JetBrains-Research/kotlinllm-plugin",
+    "url": "https://chipsandcheese.com/p/rosaiclabs-atom-rtl-and-32-tile-amx",
     "score": 4,
     "date": "2026-08-02",
     "category": "AI News"
@@ -110,11 +144,20 @@
     "category": "Twitter"
   },
   {
-    "title": "Nanocodex: Building blocks for frontier OpenAI agents in Rust",
+    "title": "KotlinLLM",
     "source": "Hacker News",
-    "description": "HN Score: 3 | 0 comments",
-    "url": "https://github.com/gakonst/nanocodex",
-    "score": 3,
+    "description": "HN Score: 7 | 0 comments",
+    "url": "https://github.com/JetBrains-Research/kotlinllm-plugin",
+    "score": 7,
+    "date": "2026-08-02",
+    "category": "AI News"
+  },
+  {
+    "title": "AI-assisted analytics now 10x cheaper",
+    "source": "Hacker News",
+    "description": "HN Score: 4 | 0 comments",
+    "url": "https://motherduck.com/blog/openai-just-made-analytics-10x-cheaper/",
+    "score": 4,
     "date": "2026-08-02",
     "category": "AI News"
   }
