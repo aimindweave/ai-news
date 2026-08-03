@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Bonsai: Janestreet's UI Library",
+    "title": "AirLLM 70B inference with single 4GB GPU",
     "source": "Hacker News",
-    "description": "HN Score: 68 | 18 comments",
-    "url": "https://github.com/janestreet/bonsai",
-    "score": 68,
+    "description": "HN Score: 65 | 30 comments",
+    "url": "https://github.com/lyogavin/airllm",
+    "score": 65,
     "date": "2026-08-03",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "Prevent cognitive debt by manually retyping LLM-generated code",
     "source": "Hacker News",
-    "description": "HN Score: 89 | 63 comments",
+    "description": "HN Score: 212 | 160 comments",
     "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
-    "score": 89,
+    "score": 212,
     "date": "2026-08-03",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Octane \u2013 React's programming model, compiled",
+    "title": "Bonsai: Janestreet's UI Library",
     "source": "Hacker News",
-    "description": "HN Score: 36 | 13 comments",
-    "url": "https://octanejs.dev",
-    "score": 36,
+    "description": "HN Score: 157 | 55 comments",
+    "url": "https://github.com/janestreet/bonsai",
+    "score": 157,
     "date": "2026-08-03",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Nightcrawler \u2013 A local AI pentesting agent running on a smartphone",
+    "title": "Walk on Decomposed Subdomains",
     "source": "Hacker News",
-    "description": "HN Score: 3 | 0 comments",
-    "url": "https://github.com/garagehq/nightcrawler/",
-    "score": 3,
+    "description": "HN Score: 13 | 1 comments",
+    "url": "https://clementjambon.github.io/wods/index.html#blogpost",
+    "score": 13,
     "date": "2026-08-03",
     "category": "AI News"
   },
@@ -76,11 +76,28 @@
     "category": "Twitter"
   },
   {
-    "title": "PISIGuard: Protect your personal and sensitive info when you chat with AI",
+    "title": "Show HN: Nightcrawler \u2013 A local AI pentesting agent running on a smartphone",
     "source": "Hacker News",
-    "description": "HN Score: 9 | 8 comments",
-    "url": "https://github.com/mohamed--abdel-maksoud/pisiguard",
-    "score": 9,
+    "description": "HN Score: 55 | 19 comments",
+    "url": "https://github.com/garagehq/nightcrawler/",
+    "score": 55,
+    "date": "2026-08-03",
+    "category": "AI News"
+  },
+  {
+    "title": "With so many people abandoning their open-source projects, what will happen when AI has to either use outdated code or write everything from scratch?",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2084281074260263113#m",
+    "date": "2026-08-03",
+    "category": "Twitter"
+  },
+  {
+    "title": "Octane \u2013 React's programming model, compiled",
+    "source": "Hacker News",
+    "description": "HN Score: 81 | 27 comments",
+    "url": "https://octanejs.dev",
+    "score": 81,
     "date": "2026-08-03",
     "category": "AI News"
   },
@@ -95,26 +112,9 @@
   {
     "title": "Train Simulator Controller",
     "source": "Hacker News",
-    "description": "HN Score: 16 | 1 comments",
+    "description": "HN Score: 57 | 3 comments",
     "url": "https://z80.me/blog/tsc-2026-july/",
-    "score": 16,
-    "date": "2026-08-03",
-    "category": "AI News"
-  },
-  {
-    "title": "The only way to get people to build secure apps is to do it automatically for them. I really like this from Bolt. This is what they do once you click ",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2083211778662805974#m",
-    "date": "2026-08-03",
-    "category": "Twitter"
-  },
-  {
-    "title": "Autoregressive Language Model on the 6502 Processor",
-    "source": "Hacker News",
-    "description": "HN Score: 114 | 10 comments",
-    "url": "https://mattbeton.com/blog/bitnet-6502.html",
-    "score": 114,
+    "score": 57,
     "date": "2026-08-03",
     "category": "AI News"
   },
@@ -127,11 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "The AI Productivity Gap",
+    "title": "Autoregressive Language Model on the 6502 Processor",
     "source": "Hacker News",
-    "description": "HN Score: 58 | 61 comments",
-    "url": "https://bjorg.bjornroche.com/management/ai-productivity-gap/",
-    "score": 58,
+    "description": "HN Score: 125 | 12 comments",
+    "url": "https://mattbeton.com/blog/bitnet-6502.html",
+    "score": 125,
     "date": "2026-08-03",
     "category": "AI News"
   },
@@ -144,20 +144,20 @@
     "category": "Twitter"
   },
   {
-    "title": "AI migrated legacy COBOL programs to Java, bugs included",
+    "title": "PISIGuard: Protect your personal and sensitive info when you chat with AI",
     "source": "Hacker News",
-    "description": "HN Score: 71 | 57 comments",
-    "url": "https://arxiv.org/abs/2607.28271",
-    "score": 71,
+    "description": "HN Score: 19 | 12 comments",
+    "url": "https://github.com/mohamed--abdel-maksoud/pisiguard",
+    "score": 19,
     "date": "2026-08-03",
     "category": "AI News"
   },
   {
-    "title": "EU enforces labeling AI generated content",
+    "title": "Why does Mail app contact iCloud when sending a non-iCloud email?",
     "source": "Hacker News",
-    "description": "HN Score: 11 | 4 comments",
-    "url": "https://www.euronews.com/my-europe/2026/08/02/ai-generated-label-becomes-mandatory-in-the-eu-for-companies",
-    "score": 11,
+    "description": "HN Score: 6 | 0 comments",
+    "url": "https://lapcatsoftware.com/articles/2026/8/2.html",
+    "score": 6,
     "date": "2026-08-03",
     "category": "AI News"
   }
