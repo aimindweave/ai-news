@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "AI migrated legacy COBOL programs to Java, bugs included",
+    "title": "Bonsai: Janestreet's UI Library",
     "source": "Hacker News",
-    "description": "HN Score: 41 | 29 comments",
-    "url": "https://arxiv.org/abs/2607.28271",
-    "score": 41,
+    "description": "HN Score: 68 | 18 comments",
+    "url": "https://github.com/janestreet/bonsai",
+    "score": 68,
     "date": "2026-08-03",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Autoregressive Language Model on the 6502 Processor",
+    "title": "Prevent cognitive debt by manually retyping LLM-generated code",
     "source": "Hacker News",
-    "description": "HN Score: 99 | 10 comments",
-    "url": "https://mattbeton.com/blog/bitnet-6502.html",
-    "score": 99,
+    "description": "HN Score: 89 | 63 comments",
+    "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
+    "score": 89,
     "date": "2026-08-03",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "My personal AI benchmark: \u201cGenerate an SVG of a frog with a Habsburg jaw\u201d",
+    "title": "Octane \u2013 React's programming model, compiled",
     "source": "Hacker News",
-    "description": "HN Score: 136 | 66 comments",
-    "url": "https://frogs.vaguespac.es/",
-    "score": 136,
+    "description": "HN Score: 36 | 13 comments",
+    "url": "https://octanejs.dev",
+    "score": 36,
     "date": "2026-08-03",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "'Crush this lady': how eBay harassment campaign led to $56M payout",
+    "title": "Show HN: Nightcrawler \u2013 A local AI pentesting agent running on a smartphone",
     "source": "Hacker News",
-    "description": "HN Score: 229 | 112 comments",
-    "url": "https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2",
-    "score": 229,
+    "description": "HN Score: 3 | 0 comments",
+    "url": "https://github.com/garagehq/nightcrawler/",
+    "score": 3,
     "date": "2026-08-03",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Flock \u2013 Chilling Effects: Long Island's Emerging Open-Air Prison",
+    "title": "PISIGuard: Protect your personal and sensitive info when you chat with AI",
     "source": "Hacker News",
-    "description": "HN Score: 54 | 21 comments",
-    "url": "https://www.11971.com/",
-    "score": 54,
+    "description": "HN Score: 9 | 8 comments",
+    "url": "https://github.com/mohamed--abdel-maksoud/pisiguard",
+    "score": 9,
     "date": "2026-08-03",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Mu \u2013 Tools for Agents",
+    "title": "Train Simulator Controller",
     "source": "Hacker News",
-    "description": "HN Score: 49 | 20 comments",
-    "url": "https://github.com/micro/mu",
-    "score": 49,
+    "description": "HN Score: 16 | 1 comments",
+    "url": "https://z80.me/blog/tsc-2026-july/",
+    "score": 16,
     "date": "2026-08-03",
     "category": "AI News"
   },
@@ -110,11 +110,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Firstmate: Talk to one agent. Ship with a crew",
+    "title": "Autoregressive Language Model on the 6502 Processor",
     "source": "Hacker News",
-    "description": "HN Score: 5 | 0 comments",
-    "url": "https://github.com/kunchenguid/firstmate",
-    "score": 5,
+    "description": "HN Score: 114 | 10 comments",
+    "url": "https://mattbeton.com/blog/bitnet-6502.html",
+    "score": 114,
+    "date": "2026-08-03",
+    "category": "AI News"
+  },
+  {
+    "title": "\ud83d\udea8 Route To The Best LLM Based On Your Task - Automatically get all the new LLMs in one API - Route to the best one based on your task - Pick and choos",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2084184386291855561#m",
+    "date": "2026-08-03",
+    "category": "Twitter"
+  },
+  {
+    "title": "The AI Productivity Gap",
+    "source": "Hacker News",
+    "description": "HN Score: 58 | 61 comments",
+    "url": "https://bjorg.bjornroche.com/management/ai-productivity-gap/",
+    "score": 58,
     "date": "2026-08-03",
     "category": "AI News"
   },
@@ -127,20 +144,21 @@
     "category": "Twitter"
   },
   {
-    "title": "Boris Cherny on Trying to Get Claude Code to Rewrite the Claude App",
+    "title": "AI migrated legacy COBOL programs to Java, bugs included",
     "source": "Hacker News",
-    "description": "HN Score: 54 | 13 comments",
-    "url": "https://daringfireball.net/linked/2026/08/02/cherny-claude-swift",
-    "score": 54,
+    "description": "HN Score: 71 | 57 comments",
+    "url": "https://arxiv.org/abs/2607.28271",
+    "score": 71,
     "date": "2026-08-03",
     "category": "AI News"
   },
   {
-    "title": "Elon is right - open source models are still behind closed models They are improving rapidly but the closed models still have a 12 - 16 week lead over",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2084095983378690095#m",
+    "title": "EU enforces labeling AI generated content",
+    "source": "Hacker News",
+    "description": "HN Score: 11 | 4 comments",
+    "url": "https://www.euronews.com/my-europe/2026/08/02/ai-generated-label-becomes-mandatory-in-the-eu-for-companies",
+    "score": 11,
     "date": "2026-08-03",
-    "category": "Twitter"
+    "category": "AI News"
   }
 ]
