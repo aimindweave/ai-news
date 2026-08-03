@@ -10,9 +10,9 @@
   {
     "title": "Launch HN: Hoplite (YC S26) \u2013 Effortlessly deploy cloud coding agents",
     "source": "Hacker News",
-    "description": "HN Score: 26 | 32 comments",
+    "description": "HN Score: 34 | 43 comments",
     "url": "https://hoplite.sh",
-    "score": 26,
+    "score": 34,
     "date": "2026-08-03",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "The Potomac River Midair Collision",
+    "title": "DDoS against Norwegian government IT infrastructure \u2013 status",
     "source": "Hacker News",
-    "description": "HN Score: 16 | 1 comments",
-    "url": "https://admiralcloudberg.medium.com/reaping-the-whirlwind-inside-the-potomac-river-midair-collision-0475416f2b0f",
-    "score": 16,
+    "description": "HN Score: 60 | 30 comments",
+    "url": "https://status.digdir.no/incidents/d7hvqmf2yr3l",
+    "score": 60,
     "date": "2026-08-03",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "AirLLM 70B inference with single 4GB GPU",
+    "title": "AI's debt binge can't last, hidden borrowing reaches $1.65T",
     "source": "Hacker News",
-    "description": "HN Score: 152 | 53 comments",
-    "url": "https://github.com/lyogavin/airllm",
-    "score": 152,
+    "description": "HN Score: 39 | 2 comments",
+    "url": "https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/",
+    "score": 39,
     "date": "2026-08-03",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Bonsai: Janestreet's UI Library",
+    "title": "AirLLM 70B inference with single 4GB GPU",
     "source": "Hacker News",
-    "description": "HN Score: 253 | 95 comments",
-    "url": "https://github.com/janestreet/bonsai",
-    "score": 253,
+    "description": "HN Score: 167 | 62 comments",
+    "url": "https://github.com/lyogavin/airllm",
+    "score": 167,
     "date": "2026-08-03",
     "category": "AI News"
   },
@@ -76,11 +76,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Product analytics (and evals) for agent sessions on your MCP",
+    "title": "Bonsai: Janestreet's UI Library",
     "source": "Hacker News",
-    "description": "HN Score: 25 | 1 comments",
-    "url": "https://armature.tech/",
-    "score": 25,
+    "description": "HN Score: 265 | 100 comments",
+    "url": "https://github.com/janestreet/bonsai",
+    "score": 265,
+    "date": "2026-08-03",
+    "category": "AI News"
+  },
+  {
+    "title": "This happened to me as well. I immediately stopped paying and moved all of my questions to ChatGPT. Pros who do this will start losing clients left an",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2084368304261460021#m",
+    "date": "2026-08-03",
+    "category": "Twitter"
+  },
+  {
+    "title": "SQLite Critical CVEs or LLM Slop?",
+    "source": "Hacker News",
+    "description": "HN Score: 679 | 329 comments",
+    "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+    "score": 679,
     "date": "2026-08-03",
     "category": "AI News"
   },
@@ -93,28 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "SQLite Critical CVEs or LLM Slop?",
-    "source": "Hacker News",
-    "description": "HN Score: 670 | 311 comments",
-    "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
-    "score": 670,
-    "date": "2026-08-03",
-    "category": "AI News"
-  },
-  {
-    "title": "Qwen3.8-Max following right after Kimi K3. Someone at Anthropic is having a really bad start to their week.",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2084318913727173098#m",
-    "date": "2026-08-03",
-    "category": "Twitter"
-  },
-  {
     "title": "Prevent cognitive debt by manually retyping LLM-generated code",
     "source": "Hacker News",
-    "description": "HN Score: 315 | 267 comments",
+    "description": "HN Score: 334 | 282 comments",
     "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
-    "score": 315,
+    "score": 334,
     "date": "2026-08-03",
     "category": "AI News"
   },
@@ -127,11 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Kraid is a now a real compiler",
+    "title": "Show HN: Product analytics (and evals) for agent sessions on your MCP",
     "source": "Hacker News",
-    "description": "HN Score: 24 | 7 comments",
-    "url": "https://www.collabora.com/news-and-blog/news-and-events/kraid-is-a-now-a-real-compiler.html",
-    "score": 24,
+    "description": "HN Score: 27 | 1 comments",
+    "url": "https://armature.tech/",
+    "score": 27,
     "date": "2026-08-03",
     "category": "AI News"
   },
@@ -146,18 +146,18 @@
   {
     "title": "Show HN: Nightcrawler \u2013 A local AI pentesting agent running on a smartphone",
     "source": "Hacker News",
-    "description": "HN Score: 90 | 29 comments",
+    "description": "HN Score: 94 | 29 comments",
     "url": "https://github.com/garagehq/nightcrawler/",
-    "score": 90,
+    "score": 94,
     "date": "2026-08-03",
     "category": "AI News"
   },
   {
-    "title": "Train Simulator Controller",
+    "title": "Kraid is a now a real compiler",
     "source": "Hacker News",
-    "description": "HN Score: 90 | 6 comments",
-    "url": "https://z80.me/blog/tsc-2026-july/",
-    "score": 90,
+    "description": "HN Score: 25 | 8 comments",
+    "url": "https://www.collabora.com/news-and-blog/news-and-events/kraid-is-a-now-a-real-compiler.html",
+    "score": 25,
     "date": "2026-08-03",
     "category": "AI News"
   }
