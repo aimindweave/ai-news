@@ -10,9 +10,9 @@
   {
     "title": "Launch HN: Hoplite (YC S26) \u2013 Effortlessly deploy cloud coding agents",
     "source": "Hacker News",
-    "description": "HN Score: 18 | 15 comments",
+    "description": "HN Score: 26 | 32 comments",
     "url": "https://hoplite.sh",
-    "score": 18,
+    "score": 26,
     "date": "2026-08-03",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Product analytics (and evals) for agent sessions on your MCP",
+    "title": "The Potomac River Midair Collision",
     "source": "Hacker News",
-    "description": "HN Score: 15 | 0 comments",
-    "url": "https://armature.tech/",
-    "score": 15,
+    "description": "HN Score: 16 | 1 comments",
+    "url": "https://admiralcloudberg.medium.com/reaping-the-whirlwind-inside-the-potomac-river-midair-collision-0475416f2b0f",
+    "score": 16,
     "date": "2026-08-03",
     "category": "AI News"
   },
@@ -44,9 +44,9 @@
   {
     "title": "AirLLM 70B inference with single 4GB GPU",
     "source": "Hacker News",
-    "description": "HN Score: 134 | 46 comments",
+    "description": "HN Score: 152 | 53 comments",
     "url": "https://github.com/lyogavin/airllm",
-    "score": 134,
+    "score": 152,
     "date": "2026-08-03",
     "category": "AI News"
   },
@@ -61,9 +61,9 @@
   {
     "title": "Bonsai: Janestreet's UI Library",
     "source": "Hacker News",
-    "description": "HN Score: 229 | 84 comments",
+    "description": "HN Score: 253 | 95 comments",
     "url": "https://github.com/janestreet/bonsai",
-    "score": 229,
+    "score": 253,
     "date": "2026-08-03",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "SQLite Critical CVEs or LLM Slop?",
+    "title": "Show HN: Product analytics (and evals) for agent sessions on your MCP",
     "source": "Hacker News",
-    "description": "HN Score: 638 | 266 comments",
-    "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
-    "score": 638,
+    "description": "HN Score: 25 | 1 comments",
+    "url": "https://armature.tech/",
+    "score": 25,
     "date": "2026-08-03",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Nightcrawler \u2013 A local AI pentesting agent running on a smartphone",
+    "title": "SQLite Critical CVEs or LLM Slop?",
     "source": "Hacker News",
-    "description": "HN Score: 85 | 23 comments",
-    "url": "https://github.com/garagehq/nightcrawler/",
-    "score": 85,
+    "description": "HN Score: 670 | 311 comments",
+    "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+    "score": 670,
     "date": "2026-08-03",
     "category": "AI News"
   },
@@ -110,11 +110,28 @@
     "category": "Twitter"
   },
   {
+    "title": "Prevent cognitive debt by manually retyping LLM-generated code",
+    "source": "Hacker News",
+    "description": "HN Score: 315 | 267 comments",
+    "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
+    "score": 315,
+    "date": "2026-08-03",
+    "category": "AI News"
+  },
+  {
+    "title": "DeepSeek Flash Is Below Grok 4.5 And Muse Spark And Is NOT A Frontier Model Lots of hype on X about how DeepSeek Flash is a Fable Class Model IT IS DE",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2084355533658874302#m",
+    "date": "2026-08-03",
+    "category": "Twitter"
+  },
+  {
     "title": "Kraid is a now a real compiler",
     "source": "Hacker News",
-    "description": "HN Score: 15 | 4 comments",
+    "description": "HN Score: 24 | 7 comments",
     "url": "https://www.collabora.com/news-and-blog/news-and-events/kraid-is-a-now-a-real-compiler.html",
-    "score": 15,
+    "score": 24,
     "date": "2026-08-03",
     "category": "AI News"
   },
@@ -127,37 +144,20 @@
     "category": "Twitter"
   },
   {
-    "title": "Prevent cognitive debt by manually retyping LLM-generated code",
+    "title": "Show HN: Nightcrawler \u2013 A local AI pentesting agent running on a smartphone",
     "source": "Hacker News",
-    "description": "HN Score: 288 | 256 comments",
-    "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
-    "score": 288,
+    "description": "HN Score: 90 | 29 comments",
+    "url": "https://github.com/garagehq/nightcrawler/",
+    "score": 90,
     "date": "2026-08-03",
     "category": "AI News"
   },
   {
-    "title": "Wow!! Qwen3.8-Max Replaces Kimi As The Open Source Leader \ud83d\ude80 A 2.4T model that is almost certainly Sonnet class or better is going to be open sourced t",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2084126550316962231#m",
-    "date": "2026-08-03",
-    "category": "Twitter"
-  },
-  {
-    "title": "Octane \u2013 React\u2019s programming model, compiled",
+    "title": "Train Simulator Controller",
     "source": "Hacker News",
-    "description": "HN Score: 112 | 37 comments",
-    "url": "https://octanejs.dev",
-    "score": 112,
-    "date": "2026-08-03",
-    "category": "AI News"
-  },
-  {
-    "title": "Walk on Decomposed Subdomains",
-    "source": "Hacker News",
-    "description": "HN Score: 32 | 2 comments",
-    "url": "https://clementjambon.github.io/wods/index.html#blogpost",
-    "score": 32,
+    "description": "HN Score: 90 | 6 comments",
+    "url": "https://z80.me/blog/tsc-2026-july/",
+    "score": 90,
     "date": "2026-08-03",
     "category": "AI News"
   }
