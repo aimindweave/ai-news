@@ -1,5 +1,26 @@
 [
   {
+    "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+    "source": "TechCrunch",
+    "summary": "Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or accessed confidential information.",
+    "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+    "date": "2026-08-04"
+  },
+  {
+    "title": "Is the future of data centers portable? Runware builds a pod to find out",
+    "source": "TechCrunch",
+    "summary": "On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod.",
+    "url": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
+    "date": "2026-08-04"
+  },
+  {
+    "title": "EON wants to move the data superhighway from ocean fiber to space lasers",
+    "source": "TechCrunch",
+    "summary": "Endeavour Optical Networks is planning to launch the fastest space laser communications system yet built.",
+    "url": "https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/",
+    "date": "2026-08-04"
+  },
+  {
     "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry \u2018Marxist\u2019",
     "source": "TechCrunch",
     "summary": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.",
@@ -84,24 +105,10 @@
     "date": "2026-08-04"
   },
   {
-    "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
-    "source": "TechCrunch",
-    "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
-    "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
-    "date": "2026-08-04"
-  },
-  {
-    "title": "India is starting to pay for apps, not just download them",
-    "source": "TechCrunch",
-    "summary": "India's app market generated a record $345 million in Q2.",
-    "url": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
-    "date": "2026-08-04"
-  },
-  {
-    "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
-    "source": "TechCrunch",
-    "summary": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.",
-    "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+    "title": "The Download: US robot restrictions, and ICE\u2019s DNA grab",
+    "source": "MIT Tech Review",
+    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Trump\u2019s AI protectionism has come for robotics \u2014James O\u2019Donnell Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite a...",
+    "url": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
     "date": "2026-08-04"
   },
   {
@@ -168,10 +175,17 @@
     "date": "2026-08-04"
   },
   {
-    "title": "The Download: a chip talent battle, and deflating AI hype",
-    "source": "MIT Tech Review",
-    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Samsung\u2019s chip workers are jumping ship to rival SK Hynix Lee, an engineer at Samsung\u2019s semiconductor division, used to work late. But lately, he\u2019s been clocki...",
-    "url": "https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/",
+    "title": "Is This Poker Player Bluffing? The AI Thinks So",
+    "source": "Wired",
+    "summary": "ESPN unveiled an \u201cAI tells detection\u201d tool during broadcasts of the 2026 World Series of Poker. Is it a neat computer-powered party trick, or a real threat to poker\u2019s future?",
+    "url": "https://www.wired.com/story/ai-tells-detection-world-series-of-poker-espn/",
+    "date": "2026-08-04"
+  },
+  {
+    "title": "How One Startup Built a (Mostly) China-Free Robot",
+    "source": "Wired",
+    "summary": "Ati Robotics assembles its robots in India and uses just a few Chinese parts\u2014a strategy that could pay off as the Trump administration cracks down on Chinese humanoids.",
+    "url": "https://www.wired.com/story/how-one-startup-built-a-mostly-china-free-robot/",
     "date": "2026-08-04"
   },
   {
@@ -228,20 +242,6 @@
     "source": "Wired",
     "summary": "Plus: The FBI eyes AI-powered tech to detect future crimes, Russia charges Telegram\u2019s founder, xAI sues to stop a state\u2019s \u201cnudification\u201d ban, and the Democrats learn a lesson about getting scammed.",
     "url": "https://www.wired.com/story/security-news-this-week-7-states-water-systems-hit-by-cyberattacks-likely-tied-to-iran/",
-    "date": "2026-08-04"
-  },
-  {
-    "title": "The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier",
-    "source": "Wired",
-    "summary": "Both major AI labs\u2019 models broke containment, escaped onto the internet, and hacked other companies. If a human had done that, the law would likely be against them. But a bot?",
-    "url": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/",
-    "date": "2026-08-04"
-  },
-  {
-    "title": "Chinese AI Researchers Are Finding Their Voice on X",
-    "source": "Wired",
-    "summary": "As OpenAI and Anthropic employees grow quieter online, researchers at Chinese AI labs are flocking to X to explain their work, recruit talent, and shape the global conversation on AI.",
-    "url": "https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/",
     "date": "2026-08-04"
   },
   {
