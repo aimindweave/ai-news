@@ -10,9 +10,9 @@
   {
     "title": "LLMs reward expertise",
     "source": "Hacker News",
-    "description": "HN Score: 527 | 232 comments",
+    "description": "HN Score: 726 | 308 comments",
     "url": "https://www.seangoedecke.com/llms-reward-expertise/",
-    "score": 527,
+    "score": 726,
     "date": "2026-08-04",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "That time when I failed the Microsoft interview",
+    "title": "There Will Come Soft Rains (1950) [pdf]",
     "source": "Hacker News",
-    "description": "HN Score: 5 | 2 comments",
-    "url": "https://ochagavia.nl/blog/that-time-when-i-failed-the-microsoft-interview/",
-    "score": 5,
+    "description": "HN Score: 108 | 39 comments",
+    "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
+    "score": 108,
     "date": "2026-08-04",
     "category": "AI News"
   },
@@ -44,9 +44,9 @@
   {
     "title": "Prevent cognitive debt by manually retyping LLM-generated code",
     "source": "Hacker News",
-    "description": "HN Score: 402 | 341 comments",
+    "description": "HN Score: 450 | 364 comments",
     "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
-    "score": 402,
+    "score": 450,
     "date": "2026-08-04",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "There Will Come Soft Rains (1950) [pdf]",
+    "title": "Why did we wait so long for the bicycle? (2019)",
     "source": "Hacker News",
-    "description": "HN Score: 46 | 19 comments",
-    "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
-    "score": 46,
+    "description": "HN Score: 26 | 16 comments",
+    "url": "https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle",
+    "score": 26,
     "date": "2026-08-04",
     "category": "AI News"
   },
@@ -76,45 +76,62 @@
     "category": "Twitter"
   },
   {
-    "title": "Launch HN: Hoplite (YC S26) \u2013 Effortlessly deploy cloud coding agents",
-    "source": "Hacker News",
-    "description": "HN Score: 62 | 51 comments",
-    "url": "https://hoplite.sh",
-    "score": 62,
-    "date": "2026-08-04",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: With so many people abandoning their open-source projects, what will happen when AI has to either use outdated code or write everything",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2084281074260263113#m",
-    "date": "2026-08-04",
-    "category": "Twitter"
-  },
-  {
-    "title": "Frame selection is the whole game: notes on making LLMs watch video",
-    "source": "Hacker News",
-    "description": "HN Score: 16 | 4 comments",
-    "url": "https://leoaido.com/how-llms-watch-video/",
-    "score": 16,
-    "date": "2026-08-04",
-    "category": "AI News"
-  },
-  {
-    "title": "This happened to me as well. I immediately stopped paying and moved all of my questions to ChatGPT. Pros who do this will start losing clients left an",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2084368304261460021#m",
-    "date": "2026-08-04",
-    "category": "Twitter"
-  },
-  {
     "title": "Bonsai: Janestreet's UI Library",
     "source": "Hacker News",
-    "description": "HN Score: 312 | 132 comments",
+    "description": "HN Score: 331 | 139 comments",
     "url": "https://github.com/janestreet/bonsai",
-    "score": 312,
+    "score": 331,
+    "date": "2026-08-04",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: Small teams don't need to hire a marketing department anymore. They can do it all with Helena (from @enrich_labs) \u2022 SEO \u2022 Writing conte",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2084316228886450201#m",
+    "date": "2026-08-04",
+    "category": "Twitter"
+  },
+  {
+    "title": "Launch HN: Hoplite (YC S26) \u2013 Effortlessly deploy cloud coding agents",
+    "source": "Hacker News",
+    "description": "HN Score: 66 | 51 comments",
+    "url": "https://hoplite.sh",
+    "score": 66,
+    "date": "2026-08-04",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: It takes 5 minutes to create a world-class web research agent that runs 24/7 and returns structured search results. 1. You can limit th",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2084295821433184524#m",
+    "date": "2026-08-04",
+    "category": "Twitter"
+  },
+  {
+    "title": "AirLLM 70B inference with single 4GB GPU",
+    "source": "Hacker News",
+    "description": "HN Score: 211 | 77 comments",
+    "url": "https://github.com/lyogavin/airllm",
+    "score": 211,
+    "date": "2026-08-04",
+    "category": "AI News"
+  },
+  {
+    "title": "Preliminary read on Qwen 3.8 - good at agentic coding - seems to be only slightly worse than K3 - 2x cheaper than K3 - the top model in that price ran",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2084525790176444525#m",
+    "date": "2026-08-04",
+    "category": "Twitter"
+  },
+  {
+    "title": "What's the largest software project AI can complete on its own?",
+    "source": "Hacker News",
+    "description": "HN Score: 80 | 83 comments",
+    "url": "https://epoch.ai/MirrorCode",
+    "score": 80,
     "date": "2026-08-04",
     "category": "AI News"
   },
@@ -127,37 +144,20 @@
     "category": "Twitter"
   },
   {
-    "title": "AirLLM 70B inference with single 4GB GPU",
+    "title": "SQLite Critical CVEs or LLM Slop?",
     "source": "Hacker News",
-    "description": "HN Score: 195 | 75 comments",
-    "url": "https://github.com/lyogavin/airllm",
-    "score": 195,
+    "description": "HN Score: 706 | 357 comments",
+    "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+    "score": 706,
     "date": "2026-08-04",
     "category": "AI News"
   },
   {
-    "title": "\ud83d\udea8 Route To The Best LLM Based On Your Task - Automatically get all the new LLMs in one API - Route to the best one based on your task - Pick and choos",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2084184386291855561#m",
-    "date": "2026-08-04",
-    "category": "Twitter"
-  },
-  {
-    "title": "What's the largest software project AI can complete on its own?",
+    "title": "The AI Productivity Gap",
     "source": "Hacker News",
-    "description": "HN Score: 70 | 78 comments",
-    "url": "https://epoch.ai/MirrorCode",
-    "score": 70,
-    "date": "2026-08-04",
-    "category": "AI News"
-  },
-  {
-    "title": "Why did we wait so long for the bicycle? (2019)",
-    "source": "Hacker News",
-    "description": "HN Score: 5 | 0 comments",
-    "url": "https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle",
-    "score": 5,
+    "description": "HN Score: 116 | 105 comments",
+    "url": "https://bjorg.bjornroche.com/management/ai-productivity-gap/",
+    "score": 116,
     "date": "2026-08-04",
     "category": "AI News"
   }
