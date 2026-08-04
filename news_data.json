@@ -1,5 +1,33 @@
 [
   {
+    "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
+    "source": "TechCrunch",
+    "summary": "SpaceX has ramped up its purchases of Tesla Megapacks for its xAI data centers.",
+    "url": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
+    "date": "2026-08-04"
+  },
+  {
+    "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+    "source": "TechCrunch",
+    "summary": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and safeguards.",
+    "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+    "date": "2026-08-04"
+  },
+  {
+    "title": "Anthropic signs $10B deal with AI cloud startup Volta",
+    "source": "TechCrunch",
+    "summary": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
+    "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+    "date": "2026-08-04"
+  },
+  {
+    "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
+    "source": "TechCrunch",
+    "summary": "Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories.",
+    "url": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
+    "date": "2026-08-04"
+  },
+  {
     "title": "Nvidia doesn\u2019t mess around: A week after open AI industry group formed, it\u2019s already showing progress",
     "source": "TechCrunch",
     "summary": "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents.",
@@ -23,7 +51,7 @@
   {
     "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
     "source": "TechCrunch",
-    "summary": "An analysis of the last seven years of Tesla earnings calls shows just little attention Musk pays to Tesla's car business.",
+    "summary": "An analysis of the last seven years of Tesla earnings calls shows just how little attention Musk pays to Tesla's car business.",
     "url": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
     "date": "2026-08-04"
   },
@@ -74,34 +102,6 @@
     "source": "TechCrunch",
     "summary": "OpenAI\u2019s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue.",
     "url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
-    "date": "2026-08-04"
-  },
-  {
-    "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
-    "source": "TechCrunch",
-    "summary": "Apple\u2019s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. Yet it arrives at a moment when simply being a capable AI assistant no longer feels revolutionary.",
-    "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
-    "date": "2026-08-04"
-  },
-  {
-    "title": "Congress\u2019 favorite AI tool? ChatGPT",
-    "source": "TechCrunch",
-    "summary": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications.",
-    "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
-    "date": "2026-08-04"
-  },
-  {
-    "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
-    "source": "TechCrunch",
-    "summary": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
-    "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
-    "date": "2026-08-04"
-  },
-  {
-    "title": "Sam Altman and AI\u2019s decel debate",
-    "source": "TechCrunch",
-    "summary": "On the latest episode of Equity, we discuss why Sam Altman is calling on the industry to 'pace the rate of AI development.'",
-    "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
     "date": "2026-08-04"
   },
   {
@@ -245,6 +245,13 @@
     "date": "2026-08-04"
   },
   {
+    "title": "Texas halts data center connections to power grid amid overwhelming demand",
+    "source": "Ars Technica",
+    "summary": "Governor who touted Texas as AI \u201cepicenter\u201d pauses data center grid connections.",
+    "url": "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/",
+    "date": "2026-08-04"
+  },
+  {
     "title": "US company\u2019s AI lets Ukraine\u2019s cheap kamikaze drones track targets on their own",
     "source": "Ars Technica",
     "summary": "$100 million deal gives 50,000 Ukrainian drones US-developed AI capabilities.",
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "HAWK withstood years of testing that had yet to uncover a fatal weakness found through Mythos.",
     "url": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
-    "date": "2026-08-04"
-  },
-  {
-    "title": "Who wins and who loses after US bans foreign robots?",
-    "source": "Ars Technica",
-    "summary": "Government ban on foreign-made robots may hinder instead of help US robotics.",
-    "url": "https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/",
     "date": "2026-08-04"
   }
 ]
