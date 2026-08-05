@@ -1,8 +1,29 @@
 [
   {
+    "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
+    "source": "TechCrunch",
+    "summary": "Shopify says AI isn\u2019t cannibalizing search traffic the way it has for publishers. Instead, AI-driven traffic and orders to Shopify stores tripled year over year in Q2.",
+    "url": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
+    "date": "2026-08-05"
+  },
+  {
+    "title": "Hark previews its browser use agent for completing tasks",
+    "source": "TechCrunch",
+    "summary": "Hark claims that its browser use agent is faster and cheaper than competition.",
+    "url": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
+    "date": "2026-08-05"
+  },
+  {
+    "title": "TechCrunch Disrupt 2026\u2019s Real World AI Stage features robots, automated factories, and extinct animals",
+    "source": "TechCrunch",
+    "summary": "On our new Real World AI stage, we\u2019ll be focusing on the intersection between the digital and physical, and all the ways we\u2019ll continue to see a blending of the two.",
+    "url": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/",
+    "date": "2026-08-05"
+  },
+  {
     "title": "Anthropic is hiring an AI chip design team",
     "source": "TechCrunch",
-    "summary": "Anthropic is building a team for designing its own custom AI chips. The Claude-maker said it would co-design hardware and models to help its technology run faster and more efficiently.",
+    "summary": "Anthropic is building a team for designing its own custom AI chips. The Claude maker said it would co-design hardware and models to help its technology run faster and more efficiently.",
     "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
     "date": "2026-08-05"
   },
@@ -16,7 +37,7 @@
   {
     "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
     "source": "TechCrunch",
-    "summary": "WindBorne Systems has raised $37 million Series B round to scale its weather balloons and AI forecasts.",
+    "summary": "WindBorne Systems has raised a $37 million Series B round to scale its weather balloons and AI forecasts.",
     "url": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
     "date": "2026-08-05"
   },
@@ -84,24 +105,10 @@
     "date": "2026-08-05"
   },
   {
-    "title": "Is the future of data centers portable? Runware builds a pod to find out",
-    "source": "TechCrunch",
-    "summary": "On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod.",
-    "url": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
-    "date": "2026-08-05"
-  },
-  {
-    "title": "EON wants to move the data superhighway from ocean fiber to space lasers",
-    "source": "TechCrunch",
-    "summary": "Endeavor Optical Networks is planning to launch the fastest space laser communications system yet built.",
-    "url": "https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/",
-    "date": "2026-08-05"
-  },
-  {
-    "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry \u2018Marxist\u2019",
-    "source": "TechCrunch",
-    "summary": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.",
-    "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+    "title": "Puzzle Corner",
+    "source": "MIT Tech Review",
+    "summary": "Ready for a fresh set of puzzles? Click here for the September/October 2026 Puzzle Corner, brought to you by Michael S. Branicky, ScD \u201995, of the Puzzle Corner Puzzle Crew (aka PC2), which also includes Edward Faulkner \u201903, MEng \u201904, and Abe Kunin \u201903. This column includes solutions to the May/Ju...",
+    "url": "https://www.technologyreview.com/2026/08/05/1141230/puzzle-corner-84/",
     "date": "2026-08-05"
   },
   {
@@ -168,10 +175,24 @@
     "date": "2026-08-05"
   },
   {
-    "title": "The Download: tricking LLMs, and reviving geothermal plants",
-    "source": "MIT Tech Review",
-    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. A fundamental flaw leaves LLMs strikingly vulnerable to attack It is impossible to make large language models fully secure against hacks because of a fundament...",
-    "url": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/",
+    "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
+    "source": "Wired",
+    "summary": "More than 50 offending image and video ads were published across Facebook, Instagram, Messenger, or Threads, according to Meta\u2019s ad library data. Some ran as recently as this week.",
+    "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
+    "date": "2026-08-05"
+  },
+  {
+    "title": "Google\u2019s Top AI Brains Are Leaving to Launch Discovery Loop",
+    "source": "Wired",
+    "summary": "Jeff Dean and other high-profile Google executives have founded Discovery Loop, a startup that will seek AI-powered breakthroughs in everything from drug discovery to chip design.",
+    "url": "https://www.wired.com/story/jeff-dean-google-discovery-loop-startup/",
+    "date": "2026-08-05"
+  },
+  {
+    "title": "AI Influencers Are Heading Into Uncharted Territory",
+    "source": "Wired",
+    "summary": "Some creators fear the EU AI Act\u2019s regulatory chaos will upend their lucrative businesses. Others are owning it by incorporating AI transparency into their creative process.",
+    "url": "https://www.wired.com/story/algorithm-turning-on-ai-influencers-are-humans-worried/",
     "date": "2026-08-05"
   },
   {
@@ -186,13 +207,6 @@
     "source": "Wired",
     "summary": "Wispr Flow, a popular dictation tool, has released a live notetaker that transcribes and summarizes meetings. It joins a growing wave of AI notetakers for the workplace.",
     "url": "https://www.wired.com/story/ai-notetakers-invited-to-the-meetings/",
-    "date": "2026-08-05"
-  },
-  {
-    "title": "AI Influencers Are Heading Into Uncharted Territory",
-    "source": "Wired",
-    "summary": "Some creators fear the EU AI Act\u2019s regulatory chaos will upend their lucrative businesses. Others are owning it by incorporating AI transparency into their creative process.",
-    "url": "https://www.wired.com/story/algorithm-turning-on-ai-influencers-are-humans-worried/",
     "date": "2026-08-05"
   },
   {
@@ -231,17 +245,10 @@
     "date": "2026-08-05"
   },
   {
-    "title": "How Data Centers Broke American Politics",
-    "source": "Wired",
-    "summary": "What the Unabomber, Steve Bannon\u2019s tech guy, and Bernie Sanders taught me about the great data center backlash of 2026.",
-    "url": "https://www.wired.com/story/how-data-centers-broke-american-politics/",
-    "date": "2026-08-05"
-  },
-  {
-    "title": "Mistral Is in the Right Place at the Right Time",
-    "source": "Wired",
-    "summary": "Open-weight AI models are having a moment in the wake of recent turmoil at US tech giants. For French AI lab Mistral, that\u2019s the the best thing that could have happened.",
-    "url": "https://www.wired.com/story/mistral-is-in-the-right-place-at-the-right-time/",
+    "title": "Google plans to kill Assistant on your phone on September 4",
+    "source": "Ars Technica",
+    "summary": "Assistant will disappear, leaving only Gemini for voice control in the coming weeks.",
+    "url": "https://arstechnica.com/ai/2026/08/google-plans-to-kill-assistant-on-your-phone-on-september-4/",
     "date": "2026-08-05"
   },
   {
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "Gemini Robotics 2 includes three models, but only one is publicly available right now.",
     "url": "https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/",
-    "date": "2026-08-05"
-  },
-  {
-    "title": "New MCP specification addresses the main barrier to enterprise adoption",
-    "source": "Ars Technica",
-    "summary": "Plus, a new policy for the AI protocol ensures features aren't removed suddenly.",
-    "url": "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/",
     "date": "2026-08-05"
   }
 ]
