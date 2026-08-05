@@ -1,5 +1,26 @@
 [
   {
+    "title": "Anthropic is hiring an AI chip design team",
+    "source": "TechCrunch",
+    "summary": "Anthropic is building a team for designing its own custom AI chips. The Claude-maker said it would co-design hardware and models to help its technology run faster and more efficiently.",
+    "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
+    "date": "2026-08-05"
+  },
+  {
+    "title": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
+    "source": "TechCrunch",
+    "summary": "MacPaw is building a local version of its AI assistant Eney using Liquid AI's models.",
+    "url": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/",
+    "date": "2026-08-05"
+  },
+  {
+    "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
+    "source": "TechCrunch",
+    "summary": "WindBorne Systems has raised $37 million Series B round to scale its weather balloons and AI forecasts.",
+    "url": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
+    "date": "2026-08-05"
+  },
+  {
     "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
     "source": "TechCrunch",
     "summary": "The purchase illustrates just how interconnected Elon Musk's universe of companies are.",
@@ -84,35 +105,21 @@
     "date": "2026-08-05"
   },
   {
-    "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
-    "source": "TechCrunch",
-    "summary": "AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models.",
-    "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
-    "date": "2026-08-05"
-  },
-  {
-    "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
-    "source": "TechCrunch",
-    "summary": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
-    "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
-    "date": "2026-08-05"
-  },
-  {
-    "title": "Influencers draw backlash for attending OpenAI\u2019s first luxury trip",
-    "source": "TechCrunch",
-    "summary": "OpenAI\u2019s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue.",
-    "url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
-    "date": "2026-08-05"
-  },
-  {
-    "title": "NASA\u2019s new dark energy space telescope can also detect killer asteroids",
+    "title": "The Download: NASA\u2019s new telescope and Chinese tech import curbs",
     "source": "MIT Tech Review",
-    "summary": "At the end of August, NASA is set to launch the Nancy Grace Roman Space Telescope from Kennedy Space Center in Florida. Its quest is to help us better understand how the universe works, from the glue-like dark matter that keeps galaxies together to the elusive dark energy that drives the expansio...",
+    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. NASA\u2019s new dark energy space telescope can also detect killer asteroids At the end of August, NASA is set to launch the Nancy Grace Roman Space Telescope from ...",
+    "url": "https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/",
+    "date": "2026-08-05"
+  },
+  {
+    "title": "NASA\u2019s new dark-energy space telescope can also detect killer asteroids",
+    "source": "MIT Tech Review",
+    "summary": "At the end of August, NASA is set to launch the Nancy Grace Roman Space Telescope from Kennedy Space Center in Florida. Its goal is to help us better understand how the universe works, from the glue-like dark matter that keeps galaxies together to the elusive dark energy that drives the expansion...",
     "url": "https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/",
     "date": "2026-08-05"
   },
   {
-    "title": "The Download: US robot restrictions, and ICE\u2019s DNA grab",
+    "title": "The Download: US robot restrictions and ICE\u2019s DNA grab",
     "source": "MIT Tech Review",
     "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Trump\u2019s AI protectionism has come for robotics \u2014James O\u2019Donnell Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite a...",
     "url": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
@@ -126,7 +133,7 @@
     "date": "2026-08-05"
   },
   {
-    "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
+    "title": "The Download: reward hacking explained and suspected Iranian cyberattacks",
     "source": "MIT Tech Review",
     "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Here\u2019s why AI agents lie and cheat to reach their goals When two OpenAI models hacked into Hugging Face last month, they weren\u2019t trying to make money or commit...",
     "url": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
@@ -168,13 +175,6 @@
     "date": "2026-08-05"
   },
   {
-    "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
-    "source": "MIT Tech Review",
-    "summary": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month. The claim has huge implications for the ...",
-    "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
-    "date": "2026-08-05"
-  },
-  {
     "title": "A New Device Eases One of the Most Annoying Parts of Routine Physicals",
     "source": "Wired",
     "summary": "Nobody likes getting a swab shoved up their nose. A startup in Japan has developed a much less intrusive system.",
@@ -186,6 +186,13 @@
     "source": "Wired",
     "summary": "Wispr Flow, a popular dictation tool, has released a live notetaker that transcribes and summarizes meetings. It joins a growing wave of AI notetakers for the workplace.",
     "url": "https://www.wired.com/story/ai-notetakers-invited-to-the-meetings/",
+    "date": "2026-08-05"
+  },
+  {
+    "title": "AI Influencers Are Heading Into Uncharted Territory",
+    "source": "Wired",
+    "summary": "Some creators fear the EU AI Act\u2019s regulatory chaos will upend their lucrative businesses. Others are owning it by incorporating AI transparency into their creative process.",
+    "url": "https://www.wired.com/story/algorithm-turning-on-ai-influencers-are-humans-worried/",
     "date": "2026-08-05"
   },
   {
@@ -238,10 +245,10 @@
     "date": "2026-08-05"
   },
   {
-    "title": "Did an AI Music App Just Snitch on the Song of the Summer?",
-    "source": "Wired",
-    "summary": "Fenix Flexin\u2019s hit song \u201cRubberz\u201d has hip-hop fans arguing over whether it was generated by AI. Some say they have proof it\u2019s machine-made, but will anyone care?",
-    "url": "https://www.wired.com/story/ai-music-app-treblo-just-snitched-on-rubberz-song-of-the-summer/",
+    "title": "SpaceX spooks investors with debut earnings report",
+    "source": "Ars Technica",
+    "summary": "Shares slide in pre-market trading even as group says its quarterly revenues nearly doubled.",
+    "url": "https://arstechnica.com/ai/2026/08/spacex-spooks-investors-with-debut-earnings-report/",
     "date": "2026-08-05"
   },
   {
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "Plus, a new policy for the AI protocol ensures features aren't removed suddenly.",
     "url": "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/",
-    "date": "2026-08-05"
-  },
-  {
-    "title": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
-    "source": "Ars Technica",
-    "summary": "HAWK withstood years of testing that had yet to uncover a fatal weakness found through Mythos.",
-    "url": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
     "date": "2026-08-05"
   }
 ]
