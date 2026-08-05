@@ -94,6 +94,16 @@
   "episodes": [
     {
       "id": "a]6z Pod_0",
+      "name": "Three Startups Reinventing Critical Infrastructure",
+      "show": "a]6z Podcast",
+      "description": "This week, a16z American Dynamism Films premiered three short documentaries highlighting companies tackling some of America's biggest industrial challenges: Ulysses, Mariana Materials, and Radiant.",
+      "release_date": "2026-08-05",
+      "duration_min": 75,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
+      "id": "a]6z Pod_1",
       "name": "OpenAI's Joshua Achiam: Did We Already Reach AGI?",
       "show": "a]6z Podcast",
       "description": "Theo Jaffee is joined by Joshua Achiam, Chief Futurist at OpenAI, for a conversation on AI cybersecurity, frontier model capabilities, and why he believes society may have already crossed the thres",
@@ -103,22 +113,12 @@
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "Ruby Thelot on Internet Culture, AI, and the Future of Taste",
       "show": "a]6z Podcast",
       "description": "Sophia Dew and Sofia Puccini are joined by Ruby Thelot, designer, artist, cyberethnographer, professor at NYU, and founder of 13101401, for a wide-ranging conversation about internet culture, AI, d",
       "release_date": "2026-08-02",
       "duration_min": 34,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
-    },
-    {
-      "id": "a]6z Pod_2",
-      "name": "Marc Andreessen and Chris Dixon: What’s at Stake in Crypto Regulation",
-      "show": "a]6z Podcast",
-      "description": "Marc Andreessen, Chris Dixon, and Robert Hackett discuss one of the most consequential policy debates facing the crypto industry: the push for comprehensive U.S. market structure legislation and wh",
-      "release_date": "2026-08-01",
-      "duration_min": 59,
       "image": "",
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
