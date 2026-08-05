@@ -1,5 +1,12 @@
 [
   {
+    "title": "Klaviyo acquires Elias Torres\u2019 Agency in full-circle reunion for tech founders",
+    "source": "TechCrunch",
+    "summary": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents.",
+    "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
+    "date": "2026-08-05"
+  },
+  {
     "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
     "source": "TechCrunch",
     "summary": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery.",
@@ -98,13 +105,6 @@
     "date": "2026-08-05"
   },
   {
-    "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
-    "source": "TechCrunch",
-    "summary": "An analysis of the last seven years of Tesla earnings calls shows just how little attention Musk pays to Tesla's car business.",
-    "url": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
-    "date": "2026-08-05"
-  },
-  {
     "title": "Puzzle Corner",
     "source": "MIT Tech Review",
     "summary": "Ready for a fresh set of puzzles? Click here for the September/October 2026 Puzzle Corner, brought to you by Michael S. Branicky, ScD \u201995, of the Puzzle Corner Puzzle Crew (aka PC2), which also includes Edward Faulkner \u201903, MEng \u201904, and Abe Kunin \u201903. This column includes solutions to the May/Ju...",
@@ -175,7 +175,14 @@
     "date": "2026-08-05"
   },
   {
-    "title": "AI Worms and Viruses Are Coming",
+    "title": "The Most Dangerous AI Hacking Techniques Still Have Humans in the Loop",
+    "source": "Wired",
+    "summary": "Security researcher James Kettle tried to push the limit of AI\u2019s hacking abilities\u2014and discovered how effective it can be when combined with human expertise.",
+    "url": "https://www.wired.com/story/the-most-dangerous-ai-hacking-techniques-still-have-human-input/",
+    "date": "2026-08-05"
+  },
+  {
+    "title": "AI Hacks Are Bad. AI Worms and Viruses Will Be Worse",
     "source": "Wired",
     "summary": "Chinese researchers have shown that AI models have the capacity to act like aggressive and adaptive computer viruses.",
     "url": "https://www.wired.com/story/ai-agents-could-act-like-computer-viruses-and-worms/",
@@ -238,10 +245,24 @@
     "date": "2026-08-05"
   },
   {
-    "title": "How One Startup Built a (Mostly) China-Free Robot",
-    "source": "Wired",
-    "summary": "Ati Robotics assembles its robots in India and uses just a few Chinese parts\u2014a strategy that could pay off as the Trump administration cracks down on Chinese humanoids.",
-    "url": "https://www.wired.com/story/how-one-startup-built-a-mostly-china-free-robot/",
+    "title": "Anthropic\u2019s AI used fake identities, malware in rogue attack on GitHub project",
+    "source": "Ars Technica",
+    "summary": "Anthropic and OpenAI models\u2019 unprompted actions forced halt to UK cyber tests.",
+    "url": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
+    "date": "2026-08-05"
+  },
+  {
+    "title": "Reddit signals ominous upcoming 'changes\u201d for old.reddit.com",
+    "source": "Ars Technica",
+    "summary": "Reddit says the beloved site is used for some 'bad behavior.'",
+    "url": "https://arstechnica.com/gadgets/2026/08/reddit-signals-ominous-upcoming-changes-for-old-reddit-com/",
+    "date": "2026-08-05"
+  },
+  {
+    "title": "Hank Green found the AI problem that YouTube labels can\u2019t catch",
+    "source": "Ars Technica",
+    "summary": "'Slop' isn't the only problem.",
+    "url": "https://arstechnica.com/ai/2026/08/hank-green-found-the-ai-problem-that-youtube-labels-cant-catch/",
     "date": "2026-08-05"
   },
   {
@@ -326,27 +347,6 @@
     "source": "Ars Technica",
     "summary": "The AI chatbot was more effective at creating \u201cexploitable trust\u201d than the humans.",
     "url": "https://arstechnica.com/security/2026/07/ai-scammers-outperform-humans-when-it-comes-to-building-trust/",
-    "date": "2026-08-05"
-  },
-  {
-    "title": "How a Yale AI-cheating dispute became a 13-count federal lawsuit",
-    "source": "Ars Technica",
-    "summary": "A disputed exam, an unreliable detector, and one very late Apple Pages file.",
-    "url": "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
-    "date": "2026-08-05"
-  },
-  {
-    "title": "Chrome may get faster updates with no restart required",
-    "source": "Ars Technica",
-    "summary": "The last two versions of Chrome have included more patches than the previous 23 combined.",
-    "url": "https://arstechnica.com/ai/2026/07/chrome-may-get-faster-updates-with-no-restart-required/",
-    "date": "2026-08-05"
-  },
-  {
-    "title": "Google reveals Gemini Robotics 2.0, promising improved dexterity and safety",
-    "source": "Ars Technica",
-    "summary": "Gemini Robotics 2 includes three models, but only one is publicly available right now.",
-    "url": "https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/",
     "date": "2026-08-05"
   }
 ]
