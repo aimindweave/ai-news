@@ -10,9 +10,9 @@
   {
     "title": "Nashville uses eminent domain to block data center near zoo",
     "source": "Hacker News",
-    "description": "HN Score: 35 | 16 comments",
+    "description": "HN Score: 195 | 213 comments",
     "url": "https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project",
-    "score": 35,
+    "score": 195,
     "date": "2026-08-06",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "LLMs won't break symmetric crypto",
+    "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
     "source": "Hacker News",
-    "description": "HN Score: 42 | 27 comments",
-    "url": "https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto",
-    "score": 42,
+    "description": "HN Score: 595 | 655 comments",
+    "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+    "score": 595,
     "date": "2026-08-06",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+    "title": "Quantego: A Family of Lego Models of IBM Quantum Computers",
     "source": "Hacker News",
-    "description": "HN Score: 510 | 614 comments",
-    "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
-    "score": 510,
+    "description": "HN Score: 14 | 2 comments",
+    "url": "https://quantego.org/",
+    "score": 14,
     "date": "2026-08-06",
     "category": "AI News"
   },
@@ -61,9 +61,9 @@
   {
     "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
     "source": "Hacker News",
-    "description": "HN Score: 236 | 58 comments",
+    "description": "HN Score: 280 | 70 comments",
     "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
-    "score": 236,
+    "score": 280,
     "date": "2026-08-06",
     "category": "AI News"
   },
@@ -78,31 +78,14 @@
   {
     "title": "Prime Agent: A self-improving RLM agent",
     "source": "Hacker News",
-    "description": "HN Score: 117 | 20 comments",
+    "description": "HN Score: 159 | 27 comments",
     "url": "https://www.primeintellect.ai/blog/prime-agent",
-    "score": 117,
+    "score": 159,
     "date": "2026-08-06",
     "category": "AI News"
   },
   {
-    "title": "RT by @svpino: I've been testing Kimi K3, and holy smokes, this is the best open-weight model the world has seen. It's a 2.8T-parameter vision model t",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2084980259599135220#m",
-    "date": "2026-08-06",
-    "category": "Twitter"
-  },
-  {
-    "title": "Born Against, or why hobby programming communities are against LLM usage",
-    "source": "Hacker News",
-    "description": "HN Score: 155 | 153 comments",
-    "url": "https://blog.fogus.me/llm/born-against.html",
-    "score": 155,
-    "date": "2026-08-06",
-    "category": "AI News"
-  },
-  {
-    "title": "These guys are great for building and operating agents: \u2022 You can manage multiple vendors and API keys \u2022 You can track the cost of individual agents a",
+    "title": "RT by @svpino: These guys are great for building and operating agents: \u2022 You can manage multiple vendors and API keys \u2022 You can track the cost of indi",
     "source": "@svpino",
     "description": "",
     "url": "https://nitter.net/svpino/status/2085068338133450979#m",
@@ -110,11 +93,28 @@
     "category": "Twitter"
   },
   {
+    "title": "Born Against, or why hobby programming communities are against LLM usage",
+    "source": "Hacker News",
+    "description": "HN Score: 212 | 200 comments",
+    "url": "https://blog.fogus.me/llm/born-against.html",
+    "score": 212,
+    "date": "2026-08-06",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: 1 in every 3 of the participants joining my online classes is an AI note-taker. I get why they do it, but honestly, it's a bad look. Th",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2085038226503569904#m",
+    "date": "2026-08-06",
+    "category": "Twitter"
+  },
+  {
     "title": "Cloudflare OS: an open platform for agents, apps, and work",
     "source": "Hacker News",
-    "description": "HN Score: 485 | 247 comments",
+    "description": "HN Score: 529 | 257 comments",
     "url": "https://blog.cloudflare.com/cloudflare-os/",
-    "score": 485,
+    "score": 529,
     "date": "2026-08-06",
     "category": "AI News"
   },
@@ -127,11 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Position: LLMs Can't Jump",
+    "title": "Launch HN: HyperProbe (YC S26) \u2013 Agents that do read-only debugging in prod",
     "source": "Hacker News",
-    "description": "HN Score: 248 | 170 comments",
-    "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
-    "score": 248,
+    "description": "HN Score: 51 | 40 comments",
+    "url": "https://www.hyperprobe.co",
+    "score": 51,
     "date": "2026-08-06",
     "category": "AI News"
   },
@@ -144,20 +144,20 @@
     "category": "Twitter"
   },
   {
-    "title": "Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
+    "title": "Show HN: Wallfacer \u2013 A terminal session manager for Claude Code, and more",
     "source": "Hacker News",
-    "description": "HN Score: 82 | 57 comments",
-    "url": "https://arxiv.org/abs/2510.01395",
-    "score": 82,
+    "description": "HN Score: 12 | 5 comments",
+    "url": "https://github.com/pradipta/wallfacer",
+    "score": 12,
     "date": "2026-08-06",
     "category": "AI News"
   },
   {
-    "title": "Launch HN: HyperProbe (YC S26) \u2013 Agents that do read-only debugging in prod",
+    "title": "Decimen Optical Transfer: fountain-coded QR file transfer",
     "source": "Hacker News",
-    "description": "HN Score: 45 | 33 comments",
-    "url": "https://www.hyperprobe.co",
-    "score": 45,
+    "description": "HN Score: 7 | 1 comments",
+    "url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
+    "score": 7,
     "date": "2026-08-06",
     "category": "AI News"
   }
