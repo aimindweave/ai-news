@@ -93,6 +93,16 @@
   ],
   "episodes": [
     {
+      "id": "Hard For_0",
+      "name": "The White House’s Secret A.I. Rules + The State of Model Alignment With METR’s Chris Painter + The Final Hot Mess Express",
+      "show": "Hard Fork",
+      "description": "This week, the White House announced a new framework for regulating A.I. models, but it isn’t letting the public read it. We break down what we know about the rules and what the implications are fo",
+      "release_date": "2026-08-07",
+      "duration_min": 65,
+      "image": "",
+      "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
+    },
+    {
       "id": "a]6z Pod_0",
       "name": "The Reality of AI-Powered Cyberattacks | Truffle Security & Socket",
       "show": "a]6z Podcast",
@@ -133,7 +143,7 @@
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
-      "id": "Hard For_0",
+      "id": "Hard For_1",
       "name": "Open Model Wars + Claire Stapleton's Dishy Google Memoir + Substack's Slop Fight",
       "show": "Hard Fork",
       "description": "This week, we break down the arguments about open-weight models unfolding in Silicon Valley right now. Nvidia released an open letter signed by over 230 companies opposing “premature restrictions,”",
@@ -173,7 +183,7 @@
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
     },
     {
-      "id": "Hard For_1",
+      "id": "Hard For_2",
       "name": "OpenAI Models Go Rogue + Kimi K3 Freakout + A.I. Superforecasting",
       "show": "Hard Fork",
       "description": "This week, OpenAI reported that two of its models escaped their testing sandbox and launched an autonomous cyberattack, turning what sounds like science fiction into reality. We discuss the implica",
@@ -191,16 +201,6 @@
       "duration_min": 35,
       "image": "",
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
-    },
-    {
-      "id": "Hard For_2",
-      "name": "The A.I. Trade Secrets War + Economists Say ‘We Must Act Now’ + HatGPT",
-      "show": "Hard Fork",
-      "description": "This week, feuding between some of the biggest tech companies spilled into public view. We discuss Apple’s accusation that OpenAI tried to steal secrets about Apple’s hardware business, as well as ",
-      "release_date": "2026-07-17",
-      "duration_min": 69,
-      "image": "",
-      "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
       "id": "The TWIM_1",

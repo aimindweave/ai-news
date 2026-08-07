@@ -10,9 +10,9 @@
   {
     "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
     "source": "Hacker News",
-    "description": "HN Score: 697 | 527 comments",
+    "description": "HN Score: 740 | 563 comments",
     "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-    "score": 697,
+    "score": 740,
     "date": "2026-08-07",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Interviewing Engineers in the AI Era: Lessons from a Year of Rebuilding",
+    "title": "GitHub Actions and Pages are experiencing degraded availability",
     "source": "Hacker News",
-    "description": "HN Score: 17 | 4 comments",
-    "url": "https://www.coinbase.com/blog/interviewing-engineers-in-the-ai-era-lessons-from-a-year-of-rebuilding",
-    "score": 17,
+    "description": "HN Score: 432 | 354 comments",
+    "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
+    "score": 432,
     "date": "2026-08-07",
     "category": "AI News"
   },
@@ -44,9 +44,9 @@
   {
     "title": "Improving GPT\u20115.6 Sol in ChatGPT, expanding GPT\u20115.6 Luna access for free users",
     "source": "Hacker News",
-    "description": "HN Score: 248 | 192 comments",
+    "description": "HN Score: 260 | 212 comments",
     "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
-    "score": 248,
+    "score": 260,
     "date": "2026-08-07",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "GitHub Actions and Pages are experiencing degraded availability",
+    "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
     "source": "Hacker News",
-    "description": "HN Score: 410 | 336 comments",
-    "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
-    "score": 410,
+    "description": "HN Score: 319 | 224 comments",
+    "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
+    "score": 319,
     "date": "2026-08-07",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
+    "title": "New Orleans is testing Carbyne\u2019s AI-powered Emergency Call Triage software",
     "source": "Hacker News",
-    "description": "HN Score: 306 | 217 comments",
-    "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
-    "score": 306,
+    "description": "HN Score: 66 | 105 comments",
+    "url": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/",
+    "score": 66,
     "date": "2026-08-07",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "New Orleans is testing Carbyne\u2019s AI-powered Emergency Call Triage software",
+    "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
     "source": "Hacker News",
-    "description": "HN Score: 60 | 88 comments",
-    "url": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/",
-    "score": 60,
+    "description": "HN Score: 127 | 8 comments",
+    "url": "https://www.aleksagordic.com/blog/vllm",
+    "score": 127,
     "date": "2026-08-07",
     "category": "AI News"
   },
@@ -110,11 +110,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
+    "title": "Show HN: The Channels SDK \u2013 Bring Any Agent to Any Channel (Slack, MS Teams)",
     "source": "Hacker News",
-    "description": "HN Score: 111 | 5 comments",
-    "url": "https://www.aleksagordic.com/blog/vllm",
-    "score": 111,
+    "description": "HN Score: 108 | 22 comments",
+    "url": "https://github.com/CopilotKit/channels-sdk",
+    "score": 108,
+    "date": "2026-08-07",
+    "category": "AI News"
+  },
+  {
+    "title": "99% of humans have an extremely limited view of AI They are only exposed to either cheap or free models and don\u2019t understand how capable it is today I",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2085713442166759864#m",
+    "date": "2026-08-07",
+    "category": "Twitter"
+  },
+  {
+    "title": "Generative 'AI': The Guitar Hero of Creativity",
+    "source": "Hacker News",
+    "description": "HN Score: 24 | 25 comments",
+    "url": "https://whatever.scalzi.com/2026/08/06/generative-ai-the-guitar-hero-of-creativity/",
+    "score": 24,
     "date": "2026-08-07",
     "category": "AI News"
   },
@@ -127,37 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: The Channels SDK \u2013 Bring Any Agent to Any Channel (Slack, MS Teams)",
-    "source": "Hacker News",
-    "description": "HN Score: 105 | 22 comments",
-    "url": "https://github.com/CopilotKit/channels-sdk",
-    "score": 105,
-    "date": "2026-08-07",
-    "category": "AI News"
-  },
-  {
-    "title": "STRANGE TIMES Frontier labs - our models are too dangerous, we will pause Open source - our models have caught up to closed source I don\u2019t quite get i",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2085566701933072809#m",
-    "date": "2026-08-07",
-    "category": "Twitter"
-  },
-  {
-    "title": "The Sylvester\u2013Gallai Theorem",
-    "source": "Hacker News",
-    "description": "HN Score: 33 | 39 comments",
-    "url": "https://www.futilitycloset.com/2026/07/26/the-sylvester-gallai-theorem/",
-    "score": 33,
-    "date": "2026-08-07",
-    "category": "AI News"
-  },
-  {
     "title": "Software development with AI is starting to feel like cooking steak",
     "source": "Hacker News",
-    "description": "HN Score: 370 | 398 comments",
+    "description": "HN Score: 376 | 404 comments",
     "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
-    "score": 370,
+    "score": 376,
     "date": "2026-08-07",
     "category": "AI News"
   }
