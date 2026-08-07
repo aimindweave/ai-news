@@ -10,9 +10,9 @@
   {
     "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
     "source": "Hacker News",
-    "description": "HN Score: 740 | 563 comments",
+    "description": "HN Score: 765 | 581 comments",
     "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-    "score": 740,
+    "score": 765,
     "date": "2026-08-07",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "GitHub Actions and Pages are experiencing degraded availability",
+    "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
     "source": "Hacker News",
-    "description": "HN Score: 432 | 354 comments",
-    "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
-    "score": 432,
+    "description": "HN Score: 34 | 6 comments",
+    "url": "https://blog.cloudflare.com/kitesurf/",
+    "score": 34,
     "date": "2026-08-07",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Improving GPT\u20115.6 Sol in ChatGPT, expanding GPT\u20115.6 Luna access for free users",
+    "title": "The web server deployment model breaks at hobby scale",
     "source": "Hacker News",
-    "description": "HN Score: 260 | 212 comments",
-    "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
-    "score": 260,
+    "description": "HN Score: 46 | 35 comments",
+    "url": "https://w.on-t.work/web-deployment-model",
+    "score": 46,
     "date": "2026-08-07",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
+    "title": "US's largest newspaper chain partners with Palantir to analyze audience data",
     "source": "Hacker News",
-    "description": "HN Score: 319 | 224 comments",
-    "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
-    "score": 319,
+    "description": "HN Score: 53 | 14 comments",
+    "url": "https://www.niemanlab.org/2026/08/americas-largest-newspaper-chain-usa-today-co-partners-with-palantir-to-analyze-audience-data/",
+    "score": 53,
     "date": "2026-08-07",
     "category": "AI News"
   },
@@ -76,11 +76,28 @@
     "category": "Twitter"
   },
   {
-    "title": "New Orleans is testing Carbyne\u2019s AI-powered Emergency Call Triage software",
+    "title": "GitHub Actions and Pages are experiencing degraded availability",
     "source": "Hacker News",
-    "description": "HN Score: 66 | 105 comments",
-    "url": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/",
-    "score": 66,
+    "description": "HN Score: 449 | 372 comments",
+    "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
+    "score": 449,
+    "date": "2026-08-07",
+    "category": "AI News"
+  },
+  {
+    "title": "Open Tag is the open-source version of Claude Tag. You can use it to deploy your agents in Slack and Microsoft Teams. Claude Tag will suck in your com",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2085715688698806651#m",
+    "date": "2026-08-07",
+    "category": "Twitter"
+  },
+  {
+    "title": "Improving GPT\u20115.6 Sol in ChatGPT, expanding GPT\u20115.6 Luna access for free users",
+    "source": "Hacker News",
+    "description": "HN Score: 275 | 224 comments",
+    "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
+    "score": 275,
     "date": "2026-08-07",
     "category": "AI News"
   },
@@ -93,28 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
+    "title": "AI psychosis is the new leadership blind spot",
     "source": "Hacker News",
-    "description": "HN Score: 127 | 8 comments",
-    "url": "https://www.aleksagordic.com/blog/vllm",
-    "score": 127,
-    "date": "2026-08-07",
-    "category": "AI News"
-  },
-  {
-    "title": "These guys are great for building and operating agents: \u2022 You can manage multiple vendors and API keys \u2022 You can track the cost of individual agents a",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2085068338133450979#m",
-    "date": "2026-08-07",
-    "category": "Twitter"
-  },
-  {
-    "title": "Show HN: The Channels SDK \u2013 Bring Any Agent to Any Channel (Slack, MS Teams)",
-    "source": "Hacker News",
-    "description": "HN Score: 108 | 22 comments",
-    "url": "https://github.com/CopilotKit/channels-sdk",
-    "score": 108,
+    "description": "HN Score: 112 | 59 comments",
+    "url": "https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots",
+    "score": 112,
     "date": "2026-08-07",
     "category": "AI News"
   },
@@ -127,11 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Generative 'AI': The Guitar Hero of Creativity",
+    "title": "New Orleans is testing Carbyne\u2019s AI-powered Emergency Call Triage software",
     "source": "Hacker News",
-    "description": "HN Score: 24 | 25 comments",
-    "url": "https://whatever.scalzi.com/2026/08/06/generative-ai-the-guitar-hero-of-creativity/",
-    "score": 24,
+    "description": "HN Score: 66 | 112 comments",
+    "url": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/",
+    "score": 66,
     "date": "2026-08-07",
     "category": "AI News"
   },
@@ -144,11 +144,20 @@
     "category": "Twitter"
   },
   {
-    "title": "Software development with AI is starting to feel like cooking steak",
+    "title": "Show HN: The Channels SDK \u2013 Bring Any Agent to Any Channel (Slack, MS Teams)",
     "source": "Hacker News",
-    "description": "HN Score: 376 | 404 comments",
-    "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
-    "score": 376,
+    "description": "HN Score: 110 | 23 comments",
+    "url": "https://github.com/CopilotKit/channels-sdk",
+    "score": 110,
+    "date": "2026-08-07",
+    "category": "AI News"
+  },
+  {
+    "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
+    "source": "Hacker News",
+    "description": "HN Score: 131 | 8 comments",
+    "url": "https://www.aleksagordic.com/blog/vllm",
+    "score": 131,
     "date": "2026-08-07",
     "category": "AI News"
   }
