@@ -10,9 +10,9 @@
   {
     "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
     "source": "Hacker News",
-    "description": "HN Score: 301 | 234 comments",
+    "description": "HN Score: 470 | 362 comments",
     "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-    "score": 301,
+    "score": 470,
     "date": "2026-08-07",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
+    "title": "Improving GPT\u20115.6 Sol in ChatGPT, expanding GPT\u20115.6 Luna access for free users",
     "source": "Hacker News",
-    "description": "HN Score: 40 | 2 comments",
-    "url": "https://www.aleksagordic.com/blog/vllm",
-    "score": 40,
+    "description": "HN Score: 180 | 130 comments",
+    "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
+    "score": 180,
     "date": "2026-08-07",
     "category": "AI News"
   },
@@ -44,9 +44,9 @@
   {
     "title": "GitHub Actions and Pages are experiencing degraded availability",
     "source": "Hacker News",
-    "description": "HN Score: 301 | 256 comments",
+    "description": "HN Score: 353 | 290 comments",
     "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
-    "score": 301,
+    "score": 353,
     "date": "2026-08-07",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Improving GPT\u20115.6 Sol in ChatGPT, expanding GPT\u20115.6 Luna access for free users",
+    "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
     "source": "Hacker News",
-    "description": "HN Score: 133 | 90 comments",
-    "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
-    "score": 133,
+    "description": "HN Score: 77 | 4 comments",
+    "url": "https://www.aleksagordic.com/blog/vllm",
+    "score": 77,
     "date": "2026-08-07",
     "category": "AI News"
   },
@@ -78,9 +78,9 @@
   {
     "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
     "source": "Hacker News",
-    "description": "HN Score: 240 | 187 comments",
+    "description": "HN Score: 267 | 196 comments",
     "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
-    "score": 240,
+    "score": 267,
     "date": "2026-08-07",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: The Channels SDK \u2013 Bring Any Agent to Any Channel (Slack, MS Teams)",
+    "title": "The Sylvester\u2013Gallai Theorem",
     "source": "Hacker News",
-    "description": "HN Score: 82 | 20 comments",
-    "url": "https://github.com/CopilotKit/channels-sdk",
-    "score": 82,
+    "description": "HN Score: 24 | 18 comments",
+    "url": "https://www.futilitycloset.com/2026/07/26/the-sylvester-gallai-theorem/",
+    "score": 24,
     "date": "2026-08-07",
     "category": "AI News"
   },
@@ -110,11 +110,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Qwen3.8 Max now ranked as the best overall model by agentic index",
+    "title": "Learning to fly FPV drones with AI flight coach",
     "source": "Hacker News",
-    "description": "HN Score: 403 | 261 comments",
-    "url": "https://artificialanalysis.ai/?intelligence=agentic-index",
-    "score": 403,
+    "description": "HN Score: 3 | 0 comments",
+    "url": "https://blog.divyendusingh.com/p/learning-to-fly-fpv-drones-with-ai",
+    "score": 3,
+    "date": "2026-08-07",
+    "category": "AI News"
+  },
+  {
+    "title": "STRANGE TIMES Frontier labs - our models are too dangerous, we will pause Open source - our models have caught up to closed source I don\u2019t quite get i",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2085566701933072809#m",
+    "date": "2026-08-07",
+    "category": "Twitter"
+  },
+  {
+    "title": "Show HN: The Channels SDK \u2013 Bring Any Agent to Any Channel (Slack, MS Teams)",
+    "source": "Hacker News",
+    "description": "HN Score: 94 | 20 comments",
+    "url": "https://github.com/CopilotKit/channels-sdk",
+    "score": 94,
     "date": "2026-08-07",
     "category": "AI News"
   },
@@ -127,37 +144,20 @@
     "category": "Twitter"
   },
   {
-    "title": "OpenAI and four rivals just agreed on one standard for AI agents",
+    "title": "Qwen3.8 Max now ranked as the best overall model by agentic index",
     "source": "Hacker News",
-    "description": "HN Score: 13 | 1 comments",
-    "url": "https://thenextweb.com/news/openai-agent-plugins-open-standard-skills-mcp",
-    "score": 13,
+    "description": "HN Score: 464 | 299 comments",
+    "url": "https://artificialanalysis.ai/?intelligence=agentic-index",
+    "score": 464,
     "date": "2026-08-07",
     "category": "AI News"
   },
   {
-    "title": "New Models Coming This Month - GLM 5.5 -should beat Kimi k3 - DeepSeek V4 pro - Gemini 3.5 - Grok 4.6 Stuck in red-tape - timeline unknown - GPT 6 - A",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2085423975933661479#m",
-    "date": "2026-08-07",
-    "category": "Twitter"
-  },
-  {
-    "title": "Born Against, or why hobby programming communities are against LLM usage",
+    "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
     "source": "Hacker News",
-    "description": "HN Score: 407 | 478 comments",
-    "url": "https://blog.fogus.me/llm/born-against.html",
-    "score": 407,
-    "date": "2026-08-07",
-    "category": "AI News"
-  },
-  {
-    "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
-    "source": "Hacker News",
-    "description": "HN Score: 422 | 114 comments",
-    "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
-    "score": 422,
+    "description": "HN Score: 828 | 889 comments",
+    "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+    "score": 828,
     "date": "2026-08-07",
     "category": "AI News"
   }
