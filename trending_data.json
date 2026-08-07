@@ -10,9 +10,9 @@
   {
     "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
     "source": "Hacker News",
-    "description": "HN Score: 470 | 362 comments",
+    "description": "HN Score: 584 | 441 comments",
     "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-    "score": 470,
+    "score": 584,
     "date": "2026-08-07",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Improving GPT\u20115.6 Sol in ChatGPT, expanding GPT\u20115.6 Luna access for free users",
+    "title": "Software development with AI is starting to feel like cooking steak",
     "source": "Hacker News",
-    "description": "HN Score: 180 | 130 comments",
-    "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
-    "score": 180,
+    "description": "HN Score: 351 | 379 comments",
+    "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
+    "score": 351,
     "date": "2026-08-07",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "GitHub Actions and Pages are experiencing degraded availability",
+    "title": "Improving GPT\u20115.6 Sol in ChatGPT, expanding GPT\u20115.6 Luna access for free users",
     "source": "Hacker News",
-    "description": "HN Score: 353 | 290 comments",
-    "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
-    "score": 353,
+    "description": "HN Score: 218 | 157 comments",
+    "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
+    "score": 218,
     "date": "2026-08-07",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
+    "title": "GitHub Actions and Pages are experiencing degraded availability",
     "source": "Hacker News",
-    "description": "HN Score: 77 | 4 comments",
-    "url": "https://www.aleksagordic.com/blog/vllm",
-    "score": 77,
+    "description": "HN Score: 380 | 307 comments",
+    "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
+    "score": 380,
     "date": "2026-08-07",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
+    "title": "New Orleans is testing Carbyne\u2019s AI-powered Emergency Call Triage software",
     "source": "Hacker News",
-    "description": "HN Score: 267 | 196 comments",
-    "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
-    "score": 267,
+    "description": "HN Score: 53 | 67 comments",
+    "url": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/",
+    "score": 53,
     "date": "2026-08-07",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "The Sylvester\u2013Gallai Theorem",
+    "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
     "source": "Hacker News",
-    "description": "HN Score: 24 | 18 comments",
-    "url": "https://www.futilitycloset.com/2026/07/26/the-sylvester-gallai-theorem/",
-    "score": 24,
+    "description": "HN Score: 290 | 206 comments",
+    "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
+    "score": 290,
     "date": "2026-08-07",
     "category": "AI News"
   },
@@ -110,11 +110,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Learning to fly FPV drones with AI flight coach",
+    "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
     "source": "Hacker News",
-    "description": "HN Score: 3 | 0 comments",
-    "url": "https://blog.divyendusingh.com/p/learning-to-fly-fpv-drones-with-ai",
-    "score": 3,
+    "description": "HN Score: 92 | 5 comments",
+    "url": "https://www.aleksagordic.com/blog/vllm",
+    "score": 92,
+    "date": "2026-08-07",
+    "category": "AI News"
+  },
+  {
+    "title": "Deepseek flash in an unbelievably good model We are seeing 100x cheaper agentic loops with no loss in quality for easy tasks Intelligence that is too ",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2085615956852936881#m",
+    "date": "2026-08-07",
+    "category": "Twitter"
+  },
+  {
+    "title": "Show HN: The Channels SDK \u2013 Bring Any Agent to Any Channel (Slack, MS Teams)",
+    "source": "Hacker News",
+    "description": "HN Score: 100 | 22 comments",
+    "url": "https://github.com/CopilotKit/channels-sdk",
+    "score": 100,
     "date": "2026-08-07",
     "category": "AI News"
   },
@@ -127,37 +144,20 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: The Channels SDK \u2013 Bring Any Agent to Any Channel (Slack, MS Teams)",
+    "title": "Learning to fly FPV drones with AI flight coach",
     "source": "Hacker News",
-    "description": "HN Score: 94 | 20 comments",
-    "url": "https://github.com/CopilotKit/channels-sdk",
-    "score": 94,
+    "description": "HN Score: 11 | 7 comments",
+    "url": "https://blog.divyendusingh.com/p/learning-to-fly-fpv-drones-with-ai",
+    "score": 11,
     "date": "2026-08-07",
     "category": "AI News"
   },
   {
-    "title": "Google, please go all-in on open-source AI :) OpenAI was founded to prevent Google from becoming a monopoly in AI Please turn the tables around - Go a",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2085512266389258442#m",
-    "date": "2026-08-07",
-    "category": "Twitter"
-  },
-  {
-    "title": "Qwen3.8 Max now ranked as the best overall model by agentic index",
+    "title": "The Sylvester\u2013Gallai Theorem",
     "source": "Hacker News",
-    "description": "HN Score: 464 | 299 comments",
-    "url": "https://artificialanalysis.ai/?intelligence=agentic-index",
-    "score": 464,
-    "date": "2026-08-07",
-    "category": "AI News"
-  },
-  {
-    "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
-    "source": "Hacker News",
-    "description": "HN Score: 828 | 889 comments",
-    "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
-    "score": 828,
+    "description": "HN Score: 31 | 36 comments",
+    "url": "https://www.futilitycloset.com/2026/07/26/the-sylvester-gallai-theorem/",
+    "score": 31,
     "date": "2026-08-07",
     "category": "AI News"
   }
