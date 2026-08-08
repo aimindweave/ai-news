@@ -10,9 +10,9 @@
   {
     "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
     "source": "Hacker News",
-    "description": "HN Score: 92 | 38 comments",
+    "description": "HN Score: 136 | 49 comments",
     "url": "https://genesisopenmodels.anl.gov/",
-    "score": 92,
+    "score": 136,
     "date": "2026-08-08",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "What happens if an entire class of workers loses faith in their careers",
     "source": "Hacker News",
-    "description": "HN Score: 430 | 536 comments",
+    "description": "HN Score: 481 | 571 comments",
     "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
-    "score": 430,
+    "score": 481,
     "date": "2026-08-08",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Oracle bans AI-generated code from OpenJDK",
+    "title": "Managing AI Coding Costs at Scale",
     "source": "Hacker News",
-    "description": "HN Score: 392 | 257 comments",
-    "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-    "score": 392,
+    "description": "HN Score: 180 | 179 comments",
+    "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+    "score": 180,
     "date": "2026-08-08",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Managing AI Coding Costs at Scale",
+    "title": "Oracle bans AI-generated code from OpenJDK",
     "source": "Hacker News",
-    "description": "HN Score: 168 | 173 comments",
-    "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-    "score": 168,
+    "description": "HN Score: 409 | 278 comments",
+    "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+    "score": 409,
     "date": "2026-08-08",
     "category": "AI News"
   },
@@ -76,11 +76,28 @@
     "category": "Twitter"
   },
   {
+    "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
+    "source": "Hacker News",
+    "description": "HN Score: 172 | 44 comments",
+    "url": "https://blog.cloudflare.com/kitesurf/",
+    "score": 172,
+    "date": "2026-08-08",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: An agent loop is a cycle your code runs inside one agent turn. Every pass follows the same 4 steps: 1. Assemble the context 2. Send the",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2085745286035673405#m",
+    "date": "2026-08-08",
+    "category": "Twitter"
+  },
+  {
     "title": "Captain Bible Reverse Engineering",
     "source": "Hacker News",
-    "description": "HN Score: 13 | 3 comments",
+    "description": "HN Score: 21 | 2 comments",
     "url": "https://github.com/peterkelly/captain-bible-re",
-    "score": 13,
+    "score": 21,
     "date": "2026-08-08",
     "category": "AI News"
   },
@@ -93,28 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
-    "source": "Hacker News",
-    "description": "HN Score: 167 | 43 comments",
-    "url": "https://blog.cloudflare.com/kitesurf/",
-    "score": 167,
-    "date": "2026-08-08",
-    "category": "AI News"
-  },
-  {
-    "title": "An agent loop is a cycle your code runs inside one agent turn. Every pass follows the same 4 steps: 1. Assemble the context 2. Send the context to the",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2085745286035673405#m",
-    "date": "2026-08-08",
-    "category": "Twitter"
-  },
-  {
     "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
     "source": "Hacker News",
-    "description": "HN Score: 888 | 666 comments",
+    "description": "HN Score: 895 | 669 comments",
     "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-    "score": 888,
+    "score": 895,
     "date": "2026-08-08",
     "category": "AI News"
   },
@@ -127,38 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Should AI labs be treated like the owners of dangerous animals?",
-    "source": "Hacker News",
-    "description": "HN Score: 34 | 46 comments",
-    "url": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals",
-    "score": 34,
-    "date": "2026-08-08",
-    "category": "AI News"
-  },
-  {
     "title": "WOW! GOOGLE IS BACK WITH A BANG \ud83d\udd25 Sergey Brin will be leading Google\u2019s AI efforts directly This is a very big deal! The dude knows how to make things ",
     "source": "@bindureddy",
     "description": "",
     "url": "https://nitter.net/bindureddy/status/2085851365553967452#m",
     "date": "2026-08-08",
     "category": "Twitter"
-  },
-  {
-    "title": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
-    "source": "Hacker News",
-    "description": "HN Score: 31 | 32 comments",
-    "url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
-    "score": 31,
-    "date": "2026-08-08",
-    "category": "AI News"
-  },
-  {
-    "title": "Britain's New World of Tobacco (2017)",
-    "source": "Hacker News",
-    "description": "HN Score: 17 | 0 comments",
-    "url": "https://www.historytoday.com/archive/feature/britains-new-world-tobacco",
-    "score": 17,
-    "date": "2026-08-08",
-    "category": "AI News"
   }
 ]
