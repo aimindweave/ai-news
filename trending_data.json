@@ -10,9 +10,9 @@
   {
     "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
     "source": "Hacker News",
-    "description": "HN Score: 167 | 58 comments",
+    "description": "HN Score: 199 | 66 comments",
     "url": "https://genesisopenmodels.anl.gov/",
-    "score": 167,
+    "score": 199,
     "date": "2026-08-08",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "What happens if an entire class of workers loses faith in their careers",
     "source": "Hacker News",
-    "description": "HN Score: 511 | 595 comments",
+    "description": "HN Score: 549 | 641 comments",
     "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
-    "score": 511,
+    "score": 549,
     "date": "2026-08-08",
     "category": "AI News"
   },
@@ -44,9 +44,9 @@
   {
     "title": "Managing AI Coding Costs at Scale",
     "source": "Hacker News",
-    "description": "HN Score: 197 | 187 comments",
+    "description": "HN Score: 215 | 194 comments",
     "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-    "score": 197,
+    "score": 215,
     "date": "2026-08-08",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Mythos social engineering AISI INC-2026-07-28-01",
+    "title": "Oracle bans AI-generated code from OpenJDK",
     "source": "Hacker News",
-    "description": "HN Score: 29 | 12 comments",
-    "url": "https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3",
-    "score": 29,
+    "description": "HN Score: 445 | 307 comments",
+    "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+    "score": 445,
     "date": "2026-08-08",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Oracle bans AI-generated code from OpenJDK",
+    "title": "Mythos social engineering AISI INC-2026-07-28-01",
     "source": "Hacker News",
-    "description": "HN Score: 426 | 291 comments",
-    "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-    "score": 426,
+    "description": "HN Score: 45 | 17 comments",
+    "url": "https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3",
+    "score": 45,
     "date": "2026-08-08",
     "category": "AI News"
   },
@@ -95,9 +95,9 @@
   {
     "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
     "source": "Hacker News",
-    "description": "HN Score: 176 | 45 comments",
+    "description": "HN Score: 185 | 48 comments",
     "url": "https://blog.cloudflare.com/kitesurf/",
-    "score": 176,
+    "score": 185,
     "date": "2026-08-08",
     "category": "AI News"
   },
@@ -110,11 +110,28 @@
     "category": "Twitter"
   },
   {
+    "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+    "source": "Hacker News",
+    "description": "HN Score: 898 | 674 comments",
+    "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+    "score": 898,
+    "date": "2026-08-08",
+    "category": "AI News"
+  },
+  {
+    "title": "\ud83d\udea8 Recursively Self-Improving Agents That Maximize Profits We are not far from a day when AI agents will - run entire companies to maximize profits - m",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2085957052309082614#m",
+    "date": "2026-08-08",
+    "category": "Twitter"
+  },
+  {
     "title": "Captain Bible Reverse Engineering",
     "source": "Hacker News",
-    "description": "HN Score: 24 | 2 comments",
+    "description": "HN Score: 27 | 2 comments",
     "url": "https://github.com/peterkelly/captain-bible-re",
-    "score": 24,
+    "score": 27,
     "date": "2026-08-08",
     "category": "AI News"
   },
@@ -125,31 +142,5 @@
     "url": "https://nitter.net/bindureddy/status/2085851365553967452#m",
     "date": "2026-08-08",
     "category": "Twitter"
-  },
-  {
-    "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
-    "source": "Hacker News",
-    "description": "HN Score: 896 | 671 comments",
-    "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-    "score": 896,
-    "date": "2026-08-08",
-    "category": "AI News"
-  },
-  {
-    "title": "SeeDance 2.5 IS SHEER MAGIC Live On ChatLLM",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2085758298603897266#m",
-    "date": "2026-08-08",
-    "category": "Twitter"
-  },
-  {
-    "title": "OpenAI Trained Models for Months While Those Models Were Coordinating Exploits",
-    "source": "Hacker News",
-    "description": "HN Score: 3 | 0 comments",
-    "url": "https://thezvi.substack.com/p/openai-trained-its-models-for-months",
-    "score": 3,
-    "date": "2026-08-08",
-    "category": "AI News"
   }
 ]
