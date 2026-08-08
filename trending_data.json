@@ -10,9 +10,9 @@
   {
     "title": "A domain can now say it is for sale, in DNS",
     "source": "Hacker News",
-    "description": "HN Score: 36 | 18 comments",
+    "description": "HN Score: 135 | 59 comments",
     "url": "https://specification.website/spec/foundations/for-sale-dns/",
-    "score": 36,
+    "score": 135,
     "date": "2026-08-08",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
     "source": "Hacker News",
-    "description": "HN Score: 158 | 46 comments",
+    "description": "HN Score: 241 | 70 comments",
     "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-    "score": 158,
+    "score": 241,
     "date": "2026-08-08",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
+    "title": "Gentoo bugzilla closed due AI bot scraper overload",
     "source": "Hacker News",
-    "description": "HN Score: 286 | 107 comments",
-    "url": "https://genesisopenmodels.anl.gov/",
-    "score": 286,
+    "description": "HN Score: 80 | 32 comments",
+    "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
+    "score": 80,
     "date": "2026-08-08",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "What happens if an entire class of workers loses faith in their careers",
+    "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
     "source": "Hacker News",
-    "description": "HN Score: 814 | 903 comments",
-    "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
-    "score": 814,
+    "description": "HN Score: 309 | 122 comments",
+    "url": "https://genesisopenmodels.anl.gov/",
+    "score": 309,
     "date": "2026-08-08",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Gentoo bugzilla closed due AI bot scraper overload",
+    "title": "What happens if an entire class of workers loses faith in their careers",
     "source": "Hacker News",
-    "description": "HN Score: 13 | 0 comments",
-    "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
-    "score": 13,
+    "description": "HN Score: 861 | 983 comments",
+    "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+    "score": 861,
     "date": "2026-08-08",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+    "title": "Sensitive Info Goes into 'No Reply' Emails Constantly. This Guy Sees It All",
     "source": "Hacker News",
-    "description": "HN Score: 106 | 127 comments",
-    "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
-    "score": 106,
+    "description": "HN Score: 28 | 6 comments",
+    "url": "https://www.wired.com/story/sensitive-info-goes-into-no-reply-emails-constantly-this-guy-sees-it-all/",
+    "score": 28,
     "date": "2026-08-08",
     "category": "AI News"
   },
@@ -110,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Managing AI Coding Costs at Scale",
+    "title": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
     "source": "Hacker News",
-    "description": "HN Score: 270 | 228 comments",
-    "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-    "score": 270,
+    "description": "HN Score: 79 | 60 comments",
+    "url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
+    "score": 79,
     "date": "2026-08-08",
     "category": "AI News"
   },
@@ -127,29 +127,29 @@
     "category": "Twitter"
   },
   {
-    "title": "Oracle bans AI-generated code from OpenJDK",
+    "title": "Managing AI Coding Costs at Scale",
     "source": "Hacker News",
-    "description": "HN Score: 498 | 359 comments",
-    "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-    "score": 498,
+    "description": "HN Score: 283 | 236 comments",
+    "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+    "score": 283,
+    "date": "2026-08-08",
+    "category": "AI News"
+  },
+  {
+    "title": "Timeline of the OpenAI accidental attack against Hugging Face",
+    "source": "Hacker News",
+    "description": "HN Score: 137 | 156 comments",
+    "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
+    "score": 137,
     "date": "2026-08-08",
     "category": "AI News"
   },
   {
     "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
     "source": "Hacker News",
-    "description": "HN Score: 202 | 57 comments",
+    "description": "HN Score: 209 | 57 comments",
     "url": "https://blog.cloudflare.com/kitesurf/",
-    "score": 202,
-    "date": "2026-08-08",
-    "category": "AI News"
-  },
-  {
-    "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
-    "source": "Hacker News",
-    "description": "HN Score: 912 | 687 comments",
-    "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-    "score": 912,
+    "score": 209,
     "date": "2026-08-08",
     "category": "AI News"
   }
