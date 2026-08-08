@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
+    "title": "The CPU is back: Rethinking the CPU-GPU split for LLM inference",
     "source": "Hacker News",
-    "description": "HN Score: 237 | 84 comments",
-    "url": "https://genesisopenmodels.anl.gov/",
-    "score": 237,
+    "description": "HN Score: 19 | 1 comments",
+    "url": "https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference",
+    "score": 19,
     "date": "2026-08-08",
     "category": "AI News"
   },
@@ -25,11 +25,28 @@
     "category": "Twitter"
   },
   {
-    "title": "What happens if an entire class of workers loses faith in their careers",
+    "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
     "source": "Hacker News",
-    "description": "HN Score: 687 | 764 comments",
-    "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
-    "score": 687,
+    "description": "HN Score: 54 | 13 comments",
+    "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+    "score": 54,
+    "date": "2026-08-08",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: Mathematics has higher objective standards of rigour and correctness than probably any other field, yet the London Mathematical Soci",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/ObhishekSaha/status/2085706169193021637#m",
+    "date": "2026-08-08",
+    "category": "Twitter"
+  },
+  {
+    "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
+    "source": "Hacker News",
+    "description": "HN Score: 266 | 99 comments",
+    "url": "https://genesisopenmodels.anl.gov/",
+    "score": 266,
     "date": "2026-08-08",
     "category": "AI News"
   },
@@ -42,28 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Managing AI Coding Costs at Scale",
+    "title": "What happens if an entire class of workers loses faith in their careers",
     "source": "Hacker News",
-    "description": "HN Score: 241 | 204 comments",
-    "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-    "score": 241,
-    "date": "2026-08-08",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @EMostaque: Common Wealth: A unified theory of society in the age of AI Four works on personhood, economics, law, and the state. One continuous ",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/ii_posts/status/2085742947413168610#m",
-    "date": "2026-08-08",
-    "category": "Twitter"
-  },
-  {
-    "title": "Oracle bans AI-generated code from OpenJDK",
-    "source": "Hacker News",
-    "description": "HN Score: 474 | 339 comments",
-    "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-    "score": 474,
+    "description": "HN Score: 759 | 851 comments",
+    "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+    "score": 759,
     "date": "2026-08-08",
     "category": "AI News"
   },
@@ -76,45 +76,45 @@
     "category": "Twitter"
   },
   {
-    "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
+    "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
     "source": "Hacker News",
-    "description": "HN Score: 193 | 52 comments",
-    "url": "https://blog.cloudflare.com/kitesurf/",
-    "score": 193,
+    "description": "HN Score: 52 | 74 comments",
+    "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
+    "score": 52,
     "date": "2026-08-08",
     "category": "AI News"
   },
   {
-    "title": "RT by @svpino: An agent loop is a cycle your code runs inside one agent turn. Every pass follows the same 4 steps: 1. Assemble the context 2. Send the",
+    "title": "Do people still run Scrum? Do companies still hire and pay Scrum Masters?",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2085745286035673405#m",
+    "url": "https://nitter.net/svpino/status/2086073185196253343#m",
     "date": "2026-08-08",
     "category": "Twitter"
   },
   {
-    "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+    "title": "Managing AI Coding Costs at Scale",
     "source": "Hacker News",
-    "description": "HN Score: 903 | 682 comments",
-    "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-    "score": 903,
+    "description": "HN Score: 259 | 221 comments",
+    "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+    "score": 259,
     "date": "2026-08-08",
     "category": "AI News"
   },
   {
-    "title": "RT by @svpino: Open Tag is the open-source version of Claude Tag. You can use it to deploy your agents in Slack and Microsoft Teams. Claude Tag will s",
+    "title": "I'm officially done reading AI-generated code. It's been two weeks since I looked at any of it. I think the IDE is officially on its way to the gravey",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2085715688698806651#m",
+    "url": "https://nitter.net/svpino/status/2086071178045821113#m",
     "date": "2026-08-08",
     "category": "Twitter"
   },
   {
-    "title": "Mythos social engineering AISI INC-2026-07-28-01",
+    "title": "Oracle bans AI-generated code from OpenJDK",
     "source": "Hacker News",
-    "description": "HN Score: 65 | 18 comments",
-    "url": "https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3",
-    "score": 65,
+    "description": "HN Score: 489 | 350 comments",
+    "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+    "score": 489,
     "date": "2026-08-08",
     "category": "AI News"
   },
@@ -127,11 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Captain Bible Reverse Engineering",
+    "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
     "source": "Hacker News",
-    "description": "HN Score: 29 | 2 comments",
-    "url": "https://github.com/peterkelly/captain-bible-re",
-    "score": 29,
+    "description": "HN Score: 199 | 55 comments",
+    "url": "https://blog.cloudflare.com/kitesurf/",
+    "score": 199,
     "date": "2026-08-08",
     "category": "AI News"
   },
@@ -142,5 +142,14 @@
     "url": "https://nitter.net/bindureddy/status/2085851365553967452#m",
     "date": "2026-08-08",
     "category": "Twitter"
+  },
+  {
+    "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+    "source": "Hacker News",
+    "description": "HN Score: 908 | 686 comments",
+    "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+    "score": 908,
+    "date": "2026-08-08",
+    "category": "AI News"
   }
 ]
