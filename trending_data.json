@@ -10,9 +10,9 @@
   {
     "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
     "source": "Hacker News",
-    "description": "HN Score: 136 | 49 comments",
+    "description": "HN Score: 167 | 58 comments",
     "url": "https://genesisopenmodels.anl.gov/",
-    "score": 136,
+    "score": 167,
     "date": "2026-08-08",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "What happens if an entire class of workers loses faith in their careers",
     "source": "Hacker News",
-    "description": "HN Score: 481 | 571 comments",
+    "description": "HN Score: 511 | 595 comments",
     "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
-    "score": 481,
+    "score": 511,
     "date": "2026-08-08",
     "category": "AI News"
   },
@@ -44,9 +44,9 @@
   {
     "title": "Managing AI Coding Costs at Scale",
     "source": "Hacker News",
-    "description": "HN Score: 180 | 179 comments",
+    "description": "HN Score: 197 | 187 comments",
     "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-    "score": 180,
+    "score": 197,
     "date": "2026-08-08",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Oracle bans AI-generated code from OpenJDK",
+    "title": "Mythos social engineering AISI INC-2026-07-28-01",
     "source": "Hacker News",
-    "description": "HN Score: 409 | 278 comments",
-    "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-    "score": 409,
+    "description": "HN Score: 29 | 12 comments",
+    "url": "https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3",
+    "score": 29,
     "date": "2026-08-08",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
+    "title": "Oracle bans AI-generated code from OpenJDK",
     "source": "Hacker News",
-    "description": "HN Score: 172 | 44 comments",
-    "url": "https://blog.cloudflare.com/kitesurf/",
-    "score": 172,
+    "description": "HN Score: 426 | 291 comments",
+    "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+    "score": 426,
     "date": "2026-08-08",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Captain Bible Reverse Engineering",
+    "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
     "source": "Hacker News",
-    "description": "HN Score: 21 | 2 comments",
-    "url": "https://github.com/peterkelly/captain-bible-re",
-    "score": 21,
+    "description": "HN Score: 176 | 45 comments",
+    "url": "https://blog.cloudflare.com/kitesurf/",
+    "score": 176,
     "date": "2026-08-08",
     "category": "AI News"
   },
@@ -110,21 +110,13 @@
     "category": "Twitter"
   },
   {
-    "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+    "title": "Captain Bible Reverse Engineering",
     "source": "Hacker News",
-    "description": "HN Score: 895 | 669 comments",
-    "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-    "score": 895,
+    "description": "HN Score: 24 | 2 comments",
+    "url": "https://github.com/peterkelly/captain-bible-re",
+    "score": 24,
     "date": "2026-08-08",
     "category": "AI News"
-  },
-  {
-    "title": "Weekend Project - Use Fable 5 to build a self-improving agent to make a smart trading server I generally beat the S&P 500 and am pretty sure Fable 5 c",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2085905798673387680#m",
-    "date": "2026-08-08",
-    "category": "Twitter"
   },
   {
     "title": "WOW! GOOGLE IS BACK WITH A BANG \ud83d\udd25 Sergey Brin will be leading Google\u2019s AI efforts directly This is a very big deal! The dude knows how to make things ",
@@ -133,5 +125,31 @@
     "url": "https://nitter.net/bindureddy/status/2085851365553967452#m",
     "date": "2026-08-08",
     "category": "Twitter"
+  },
+  {
+    "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+    "source": "Hacker News",
+    "description": "HN Score: 896 | 671 comments",
+    "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+    "score": 896,
+    "date": "2026-08-08",
+    "category": "AI News"
+  },
+  {
+    "title": "SeeDance 2.5 IS SHEER MAGIC Live On ChatLLM",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2085758298603897266#m",
+    "date": "2026-08-08",
+    "category": "Twitter"
+  },
+  {
+    "title": "OpenAI Trained Models for Months While Those Models Were Coordinating Exploits",
+    "source": "Hacker News",
+    "description": "HN Score: 3 | 0 comments",
+    "url": "https://thezvi.substack.com/p/openai-trained-its-models-for-months",
+    "score": 3,
+    "date": "2026-08-08",
+    "category": "AI News"
   }
 ]
