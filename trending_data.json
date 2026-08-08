@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "The CPU is back: Rethinking the CPU-GPU split for LLM inference",
+    "title": "A domain can now say it is for sale, in DNS",
     "source": "Hacker News",
-    "description": "HN Score: 19 | 1 comments",
-    "url": "https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference",
-    "score": 19,
+    "description": "HN Score: 36 | 18 comments",
+    "url": "https://specification.website/spec/foundations/for-sale-dns/",
+    "score": 36,
     "date": "2026-08-08",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
     "source": "Hacker News",
-    "description": "HN Score: 54 | 13 comments",
+    "description": "HN Score: 158 | 46 comments",
     "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-    "score": 54,
+    "score": 158,
     "date": "2026-08-08",
     "category": "AI News"
   },
@@ -44,9 +44,9 @@
   {
     "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
     "source": "Hacker News",
-    "description": "HN Score: 266 | 99 comments",
+    "description": "HN Score: 286 | 107 comments",
     "url": "https://genesisopenmodels.anl.gov/",
-    "score": 266,
+    "score": 286,
     "date": "2026-08-08",
     "category": "AI News"
   },
@@ -61,9 +61,9 @@
   {
     "title": "What happens if an entire class of workers loses faith in their careers",
     "source": "Hacker News",
-    "description": "HN Score: 759 | 851 comments",
+    "description": "HN Score: 814 | 903 comments",
     "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
-    "score": 759,
+    "score": 814,
     "date": "2026-08-08",
     "category": "AI News"
   },
@@ -76,45 +76,28 @@
     "category": "Twitter"
   },
   {
+    "title": "Gentoo bugzilla closed due AI bot scraper overload",
+    "source": "Hacker News",
+    "description": "HN Score: 13 | 0 comments",
+    "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
+    "score": 13,
+    "date": "2026-08-08",
+    "category": "AI News"
+  },
+  {
+    "title": "This was me 6 months ago.",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2086087292540616772#m",
+    "date": "2026-08-08",
+    "category": "Twitter"
+  },
+  {
     "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
     "source": "Hacker News",
-    "description": "HN Score: 52 | 74 comments",
+    "description": "HN Score: 106 | 127 comments",
     "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
-    "score": 52,
-    "date": "2026-08-08",
-    "category": "AI News"
-  },
-  {
-    "title": "Do people still run Scrum? Do companies still hire and pay Scrum Masters?",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2086073185196253343#m",
-    "date": "2026-08-08",
-    "category": "Twitter"
-  },
-  {
-    "title": "Managing AI Coding Costs at Scale",
-    "source": "Hacker News",
-    "description": "HN Score: 259 | 221 comments",
-    "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-    "score": 259,
-    "date": "2026-08-08",
-    "category": "AI News"
-  },
-  {
-    "title": "I'm officially done reading AI-generated code. It's been two weeks since I looked at any of it. I think the IDE is officially on its way to the gravey",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2086071178045821113#m",
-    "date": "2026-08-08",
-    "category": "Twitter"
-  },
-  {
-    "title": "Oracle bans AI-generated code from OpenJDK",
-    "source": "Hacker News",
-    "description": "HN Score: 489 | 350 comments",
-    "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-    "score": 489,
+    "score": 106,
     "date": "2026-08-08",
     "category": "AI News"
   },
@@ -127,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
+    "title": "Managing AI Coding Costs at Scale",
     "source": "Hacker News",
-    "description": "HN Score: 199 | 55 comments",
-    "url": "https://blog.cloudflare.com/kitesurf/",
-    "score": 199,
+    "description": "HN Score: 270 | 228 comments",
+    "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+    "score": 270,
     "date": "2026-08-08",
     "category": "AI News"
   },
@@ -144,11 +127,29 @@
     "category": "Twitter"
   },
   {
+    "title": "Oracle bans AI-generated code from OpenJDK",
+    "source": "Hacker News",
+    "description": "HN Score: 498 | 359 comments",
+    "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+    "score": 498,
+    "date": "2026-08-08",
+    "category": "AI News"
+  },
+  {
+    "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
+    "source": "Hacker News",
+    "description": "HN Score: 202 | 57 comments",
+    "url": "https://blog.cloudflare.com/kitesurf/",
+    "score": 202,
+    "date": "2026-08-08",
+    "category": "AI News"
+  },
+  {
     "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
     "source": "Hacker News",
-    "description": "HN Score: 908 | 686 comments",
+    "description": "HN Score: 912 | 687 comments",
     "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-    "score": 908,
+    "score": 912,
     "date": "2026-08-08",
     "category": "AI News"
   }
