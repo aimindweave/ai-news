@@ -10,9 +10,9 @@
   {
     "title": "How I use LLMs to learn complex topics",
     "source": "Hacker News",
-    "description": "HN Score: 114 | 60 comments",
+    "description": "HN Score: 247 | 137 comments",
     "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
-    "score": 114,
+    "score": 247,
     "date": "2026-08-09",
     "category": "AI News"
   },
@@ -25,11 +25,28 @@
     "category": "Twitter"
   },
   {
-    "title": "OpenChamber: An Agentic Development Environment",
+    "title": "The Hacker's Renaissance",
     "source": "Hacker News",
-    "description": "HN Score: 61 | 39 comments",
-    "url": "https://openchamber.dev/",
-    "score": 61,
+    "description": "HN Score: 43 | 23 comments",
+    "url": "https://phrack.org/issues/72/19#article",
+    "score": 43,
+    "date": "2026-08-09",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: Einstein described Emmy Noether as a creative mathematical genius. Here is how her two theorems map Maxwell, Yang\u2013Mills & Einstein g",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/EMostaque/status/2086197613586428130#m",
+    "date": "2026-08-09",
+    "category": "Twitter"
+  },
+  {
+    "title": "The main way I've seen people turn ideologically crazy (2025)",
+    "source": "Hacker News",
+    "description": "HN Score: 44 | 26 comments",
+    "url": "https://blog.andymasley.com/p/the-main-way-ive-seen-people-turn",
+    "score": 44,
     "date": "2026-08-09",
     "category": "AI News"
   },
@@ -42,28 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Ransomware gangs skip the CEO, head straight for the 40-something IT manager",
+    "title": "The tragedy of the commons, AI edition",
     "source": "Hacker News",
-    "description": "HN Score: 30 | 10 comments",
-    "url": "https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499",
-    "score": 30,
-    "date": "2026-08-09",
-    "category": "AI News"
-  },
-  {
-    "title": "Why has nobody distilled Kimi K3 to get to the top of slides arena?",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/EMostaque/status/2086509049286140413#m",
-    "date": "2026-08-09",
-    "category": "Twitter"
-  },
-  {
-    "title": "Human vs. AI \u2013 Diff-based line-level provenance for text under agentic editing",
-    "source": "Hacker News",
-    "description": "HN Score: 36 | 8 comments",
-    "url": "https://github.com/eighttrigrams/us-vs-them",
-    "score": 36,
+    "description": "HN Score: 48 | 17 comments",
+    "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
+    "score": 48,
     "date": "2026-08-09",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: A replayable A2A jury for tracing how agents influence decisions",
+    "title": "Tuxedo No. 2 \u2013 Cocktail recipes",
     "source": "Hacker News",
-    "description": "HN Score: 10 | 0 comments",
-    "url": "https://github.com/nMaroulis/protolink/tree/main/examples/ai_courtroom",
-    "score": 10,
+    "description": "HN Score: 13 | 2 comments",
+    "url": "https://tuxedono2.com",
+    "score": 13,
     "date": "2026-08-09",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "UnYOLO: Agent credential broker and policy engine for your GitHub account",
+    "title": "OpenChamber: An Agentic Development Environment",
     "source": "Hacker News",
-    "description": "HN Score: 10 | 0 comments",
-    "url": "https://unyolo.io/",
-    "score": 10,
+    "description": "HN Score: 87 | 46 comments",
+    "url": "https://openchamber.dev/",
+    "score": 87,
     "date": "2026-08-09",
     "category": "AI News"
   },
@@ -110,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Cross-compilation with Wails (2025)",
+    "title": "Ransomware gangs skip the CEO, head straight for the 40-something IT manager",
     "source": "Hacker News",
-    "description": "HN Score: 5 | 2 comments",
-    "url": "https://chriswheeler.dev/posts/cross-compilation-with-wails/",
-    "score": 5,
+    "description": "HN Score: 61 | 27 comments",
+    "url": "https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499",
+    "score": 61,
     "date": "2026-08-09",
     "category": "AI News"
   },
@@ -127,11 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Airy \u2013 Free, fast, and simple voice content creation",
+    "title": "Human vs. AI \u2013 Diff-based line-level provenance for text under agentic editing",
     "source": "Hacker News",
-    "description": "HN Score: 30 | 15 comments",
-    "url": "https://airy.so",
-    "score": 30,
+    "description": "HN Score: 39 | 8 comments",
+    "url": "https://github.com/eighttrigrams/us-vs-them",
+    "score": 39,
     "date": "2026-08-09",
     "category": "AI News"
   },
@@ -144,20 +144,20 @@
     "category": "Twitter"
   },
   {
-    "title": "ChatGPT starts blocking direct requests to copy an author's style",
+    "title": "Show HN: A replayable A2A jury for tracing how agents influence decisions",
     "source": "Hacker News",
-    "description": "HN Score: 68 | 51 comments",
-    "url": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
-    "score": 68,
+    "description": "HN Score: 12 | 0 comments",
+    "url": "https://github.com/nMaroulis/protolink/tree/main/examples/ai_courtroom",
+    "score": 12,
     "date": "2026-08-09",
     "category": "AI News"
   },
   {
-    "title": "The original URL for this prediction will no longer be available in 11 years (2011)",
+    "title": "UnYOLO: Agent credential broker and policy engine for your GitHub account",
     "source": "Hacker News",
-    "description": "HN Score: 193 | 94 comments",
-    "url": "http://longbets.org/601/",
-    "score": 193,
+    "description": "HN Score: 12 | 1 comments",
+    "url": "https://unyolo.io/",
+    "score": 12,
     "date": "2026-08-09",
     "category": "AI News"
   }
