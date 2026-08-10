@@ -10,9 +10,9 @@
   {
     "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
     "source": "Hacker News",
-    "description": "HN Score: 915 | 514 comments",
+    "description": "HN Score: 965 | 544 comments",
     "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
-    "score": 915,
+    "score": 965,
     "date": "2026-08-10",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
     "source": "Hacker News",
-    "description": "HN Score: 216 | 267 comments",
+    "description": "HN Score: 284 | 333 comments",
     "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
-    "score": 216,
+    "score": 284,
     "date": "2026-08-10",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Launch HN: Stoa Markets (YC S26) \u2013 A Marketplace for GPUs and AI Servers",
+    "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
     "source": "Hacker News",
-    "description": "HN Score: 55 | 25 comments",
-    "url": "https://www.stoaexchange.com",
-    "score": 55,
+    "description": "HN Score: 81 | 49 comments",
+    "url": "https://cactuscompute.com/needle",
+    "score": 81,
     "date": "2026-08-10",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Docker Sandboxes \u2013 Disposable, isolated sandboxes for AI agents",
+    "title": "Confessions of a Long-Distance Sailor",
     "source": "Hacker News",
-    "description": "HN Score: 583 | 335 comments",
-    "url": "https://www.docker.com/products/docker-sandboxes/",
-    "score": 583,
+    "description": "HN Score: 15 | 3 comments",
+    "url": "https://arachnoid.com/lutusp/sailbook.html",
+    "score": 15,
     "date": "2026-08-10",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Ante, a coding agent in a single binary that runs offline",
+    "title": "Launch HN: Stoa Markets (YC S26) \u2013 A Marketplace for GPUs and AI Servers",
     "source": "Hacker News",
-    "description": "HN Score: 107 | 67 comments",
-    "url": "https://github.com/AntigmaLabs/ante",
-    "score": 107,
+    "description": "HN Score: 59 | 37 comments",
+    "url": "https://www.stoaexchange.com",
+    "score": 59,
     "date": "2026-08-10",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+    "title": "Humanising LLM Outputs Is Dumb",
     "source": "Hacker News",
-    "description": "HN Score: 6 | 0 comments",
-    "url": "https://cactuscompute.com/needle",
-    "score": 6,
+    "description": "HN Score: 114 | 65 comments",
+    "url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
+    "score": 114,
     "date": "2026-08-10",
     "category": "AI News"
   },
@@ -110,28 +110,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Humanising LLM Outputs Is Dumb",
+    "title": "Letter to Governor Abbott on responsible AI infrastructure in Texas",
     "source": "Hacker News",
-    "description": "HN Score: 78 | 44 comments",
-    "url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
-    "score": 78,
+    "description": "HN Score: 76 | 137 comments",
+    "url": "https://openai.com/index/responsible-ai-infrastructure-texas/",
+    "score": 76,
     "date": "2026-08-10",
     "category": "AI News"
   },
   {
-    "title": "A FASTER AND CHEAPER DEEPSEEK FLASH? It it possible to create a faster and cheaper DeepSeek Flash v4? YES! When model weights are open, you can always",
+    "title": "Sonnet 5 is now cheaper than Sonnet 4.6 TBH, it's a very good frontier model but it's still a MASSIVE token guzzler Even with this price cut, it will ",
     "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/bindureddy/status/2086913087526097086#m",
+    "url": "https://nitter.net/bindureddy/status/2086931694863753263#m",
     "date": "2026-08-10",
     "category": "Twitter"
   },
   {
-    "title": "Letter to Governor Abbott on responsible AI infrastructure in Texas",
+    "title": "Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines",
     "source": "Hacker News",
-    "description": "HN Score: 67 | 114 comments",
-    "url": "https://openai.com/index/responsible-ai-infrastructure-texas/",
-    "score": 67,
+    "description": "HN Score: 86 | 12 comments",
+    "url": "https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs",
+    "score": 86,
     "date": "2026-08-10",
     "category": "AI News"
   },
@@ -144,20 +144,20 @@
     "category": "Twitter"
   },
   {
-    "title": "Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines",
+    "title": "Tail-call optimization in C is relatively recent (2025)",
     "source": "Hacker News",
-    "description": "HN Score: 61 | 10 comments",
-    "url": "https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs",
-    "score": 61,
+    "description": "HN Score: 110 | 105 comments",
+    "url": "https://lwn.net/Articles/1034703/",
+    "score": 110,
     "date": "2026-08-10",
     "category": "AI News"
   },
   {
-    "title": "Tail-call optimization in C is relatively recent (2025)",
+    "title": "Docker Sandboxes \u2013 Disposable, isolated sandboxes for AI agents",
     "source": "Hacker News",
-    "description": "HN Score: 102 | 96 comments",
-    "url": "https://lwn.net/Articles/1034703/",
-    "score": 102,
+    "description": "HN Score: 613 | 342 comments",
+    "url": "https://www.docker.com/products/docker-sandboxes/",
+    "score": 613,
     "date": "2026-08-10",
     "category": "AI News"
   }
