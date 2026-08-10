@@ -10,9 +10,9 @@
   {
     "title": "Meta Muse Glimmer \u2013 open weights 30B local coding model",
     "source": "Hacker News",
-    "description": "HN Score: 85 | 19 comments",
+    "description": "HN Score: 315 | 127 comments",
     "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
-    "score": 85,
+    "score": 315,
     "date": "2026-08-10",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Docker Sandboxes \u2013 Disposable, isolated sandboxes for AI agents",
+    "title": "Because It's Not Fun Enough: why languages fail",
     "source": "Hacker News",
-    "description": "HN Score: 255 | 153 comments",
-    "url": "https://www.docker.com/products/docker-sandboxes/",
-    "score": 255,
+    "description": "HN Score: 57 | 38 comments",
+    "url": "https://bytecode.news/posts/2026/08/because-it-s-not-fun-enough",
+    "score": 57,
     "date": "2026-08-10",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Tail-Call Interpreters in Rust \u2013 Jimmy Ostler",
+    "title": "Docker Sandboxes \u2013 Disposable, isolated sandboxes for AI agents",
     "source": "Hacker News",
-    "description": "HN Score: 25 | 8 comments",
-    "url": "https://lordgoati.us/blog/tail-call/",
-    "score": 25,
+    "description": "HN Score: 339 | 196 comments",
+    "url": "https://www.docker.com/products/docker-sandboxes/",
+    "score": 339,
     "date": "2026-08-10",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "One Email, Three Identities: SPF, DKIM and DMARC Explained",
+    "title": "Tail-call optimization in C is relatively recent",
     "source": "Hacker News",
-    "description": "HN Score: 5 | 1 comments",
-    "url": "https://senderledger.com/articles/one-email-three-identities-spf-dkim-dmarc",
-    "score": 5,
+    "description": "HN Score: 36 | 13 comments",
+    "url": "https://lwn.net/Articles/1034703/",
+    "score": 36,
     "date": "2026-08-10",
     "category": "AI News"
   },
@@ -76,11 +76,28 @@
     "category": "Twitter"
   },
   {
+    "title": "Tail-Call Interpreters in Rust \u2013 Jimmy Ostler",
+    "source": "Hacker News",
+    "description": "HN Score: 47 | 16 comments",
+    "url": "https://lordgoati.us/blog/tail-call/",
+    "score": 47,
+    "date": "2026-08-10",
+    "category": "AI News"
+  },
+  {
+    "title": "People hate that many of us aren't reading AI code anymore. To them, if we aren't looking at the code, we must be deploying garbage. Or whatever we ar",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2086793436146057347#m",
+    "date": "2026-08-10",
+    "category": "Twitter"
+  },
+  {
     "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
     "source": "Hacker News",
-    "description": "HN Score: 104 | 35 comments",
+    "description": "HN Score: 126 | 52 comments",
     "url": "https://www.whodunnitai.com/",
-    "score": 104,
+    "score": 126,
     "date": "2026-08-10",
     "category": "AI News"
   },
@@ -93,45 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "How I use LLMs to learn complex topics",
+    "title": "Over 181,000 AI meeting recordings left wide open in note taking app",
     "source": "Hacker News",
-    "description": "HN Score: 665 | 411 comments",
-    "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
-    "score": 665,
-    "date": "2026-08-10",
-    "category": "AI News"
-  },
-  {
-    "title": "This was me 6 months ago.",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2086087292540616772#m",
-    "date": "2026-08-10",
-    "category": "Twitter"
-  },
-  {
-    "title": "Meta's new open-weight model targets local agentic AI",
-    "source": "Hacker News",
-    "description": "HN Score: 4 | 0 comments",
-    "url": "https://twitter.com/finkd/status/2086754845218726027",
-    "score": 4,
-    "date": "2026-08-10",
-    "category": "AI News"
-  },
-  {
-    "title": "\ud83d\udea8 DeepSeek Flash v4 - Now Available UNLIMITED On ChatLLM Get DeepSeek Flash v4 and 10 other models including GLM 5.2 on a UNLIMITED BASIS Mix and matc",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2086707802412810653#m",
-    "date": "2026-08-10",
-    "category": "Twitter"
-  },
-  {
-    "title": "Auto mode is now the default in Claude Code",
-    "source": "Hacker News",
-    "description": "HN Score: 227 | 232 comments",
-    "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
-    "score": 227,
+    "description": "HN Score: 22 | 9 comments",
+    "url": "https://bobdahacker.com/blog/tldv-hack",
+    "score": 22,
     "date": "2026-08-10",
     "category": "AI News"
   },
@@ -144,20 +127,37 @@
     "category": "Twitter"
   },
   {
-    "title": "Tuxedo No. 2 \u2013 Cocktail recipes",
+    "title": "How I use LLMs to learn complex topics",
     "source": "Hacker News",
-    "description": "HN Score: 100 | 31 comments",
-    "url": "https://tuxedono2.com",
-    "score": 100,
+    "description": "HN Score: 710 | 454 comments",
+    "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
+    "score": 710,
     "date": "2026-08-10",
     "category": "AI News"
   },
   {
-    "title": "OpenChamber: An Agentic Development Environment",
+    "title": "Lots of rumors about OpenAI's new model Astra and Fable 5.1 - great at long running agentic loops - Astra is better than Fable 5 - Anthropic to releas",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2086602681733554627#m",
+    "date": "2026-08-10",
+    "category": "Twitter"
+  },
+  {
+    "title": "Tuxedo No. 2 \u2013 Cocktail recipes",
     "source": "Hacker News",
-    "description": "HN Score: 154 | 76 comments",
-    "url": "https://openchamber.dev/",
-    "score": 154,
+    "description": "HN Score: 114 | 35 comments",
+    "url": "https://tuxedono2.com",
+    "score": 114,
+    "date": "2026-08-10",
+    "category": "AI News"
+  },
+  {
+    "title": "Meta's new open-weight model targets local agentic AI",
+    "source": "Hacker News",
+    "description": "HN Score: 18 | 2 comments",
+    "url": "https://twitter.com/finkd/status/2086754845218726027",
+    "score": 18,
     "date": "2026-08-10",
     "category": "AI News"
   }
