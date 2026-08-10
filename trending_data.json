@@ -10,9 +10,9 @@
   {
     "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
     "source": "Hacker News",
-    "description": "HN Score: 819 | 462 comments",
+    "description": "HN Score: 915 | 514 comments",
     "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
-    "score": 819,
+    "score": 915,
     "date": "2026-08-10",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Learning more about Claude's mathematical capabilities",
+    "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
     "source": "Hacker News",
-    "description": "HN Score: 77 | 42 comments",
-    "url": "https://www.anthropic.com/research/riemann-zeta",
-    "score": 77,
+    "description": "HN Score: 216 | 267 comments",
+    "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+    "score": 216,
     "date": "2026-08-10",
     "category": "AI News"
   },
@@ -44,9 +44,9 @@
   {
     "title": "Launch HN: Stoa Markets (YC S26) \u2013 A Marketplace for GPUs and AI Servers",
     "source": "Hacker News",
-    "description": "HN Score: 38 | 19 comments",
+    "description": "HN Score: 55 | 25 comments",
     "url": "https://www.stoaexchange.com",
-    "score": 38,
+    "score": 55,
     "date": "2026-08-10",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Ante, a coding agent in a single binary that runs offline",
+    "title": "Docker Sandboxes \u2013 Disposable, isolated sandboxes for AI agents",
     "source": "Hacker News",
-    "description": "HN Score: 79 | 52 comments",
-    "url": "https://github.com/AntigmaLabs/ante",
-    "score": 79,
+    "description": "HN Score: 583 | 335 comments",
+    "url": "https://www.docker.com/products/docker-sandboxes/",
+    "score": 583,
     "date": "2026-08-10",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+    "title": "Show HN: Ante, a coding agent in a single binary that runs offline",
     "source": "Hacker News",
-    "description": "HN Score: 110 | 125 comments",
-    "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
-    "score": 110,
+    "description": "HN Score: 107 | 67 comments",
+    "url": "https://github.com/AntigmaLabs/ante",
+    "score": 107,
     "date": "2026-08-10",
     "category": "AI News"
   },
@@ -93,28 +93,45 @@
     "category": "Twitter"
   },
   {
-    "title": "Docker Sandboxes \u2013 Disposable, isolated sandboxes for AI agents",
+    "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
     "source": "Hacker News",
-    "description": "HN Score: 544 | 321 comments",
-    "url": "https://www.docker.com/products/docker-sandboxes/",
-    "score": 544,
+    "description": "HN Score: 6 | 0 comments",
+    "url": "https://cactuscompute.com/needle",
+    "score": 6,
     "date": "2026-08-10",
     "category": "AI News"
   },
   {
-    "title": "This will let you embed Hermes into any application. Imagine you are building a super-cool-impressive-app. Using this integration, you could have Herm",
+    "title": "R to @svpino: HuggingFace link: https://huggingface.co/webAI-Official/TwIL-LM",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2086881958790070415#m",
+    "url": "https://nitter.net/svpino/status/2086889802092220574#m",
+    "date": "2026-08-10",
+    "category": "Twitter"
+  },
+  {
+    "title": "Humanising LLM Outputs Is Dumb",
+    "source": "Hacker News",
+    "description": "HN Score: 78 | 44 comments",
+    "url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
+    "score": 78,
+    "date": "2026-08-10",
+    "category": "AI News"
+  },
+  {
+    "title": "A FASTER AND CHEAPER DEEPSEEK FLASH? It it possible to create a faster and cheaper DeepSeek Flash v4? YES! When model weights are open, you can always",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2086913087526097086#m",
     "date": "2026-08-10",
     "category": "Twitter"
   },
   {
     "title": "Letter to Governor Abbott on responsible AI infrastructure in Texas",
     "source": "Hacker News",
-    "description": "HN Score: 55 | 77 comments",
+    "description": "HN Score: 67 | 114 comments",
     "url": "https://openai.com/index/responsible-ai-infrastructure-texas/",
-    "score": 55,
+    "score": 67,
     "date": "2026-08-10",
     "category": "AI News"
   },
@@ -127,37 +144,20 @@
     "category": "Twitter"
   },
   {
-    "title": "Humanising LLM Outputs Is Dumb",
+    "title": "Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines",
     "source": "Hacker News",
-    "description": "HN Score: 46 | 18 comments",
-    "url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
-    "score": 46,
-    "date": "2026-08-10",
-    "category": "AI News"
-  },
-  {
-    "title": "Meta is sooo back and is now on the top of the US open-source leaderboard \ud83d\ude80 Muse-Spark 1.2 is a very good small model that is BETTER than DeepSeek Fla",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2086863262201819318#m",
-    "date": "2026-08-10",
-    "category": "Twitter"
-  },
-  {
-    "title": "Kinney Drugs pulls back AI phone assistant after hundreds of customer complaints",
-    "source": "Hacker News",
-    "description": "HN Score: 106 | 115 comments",
-    "url": "https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/",
-    "score": 106,
+    "description": "HN Score: 61 | 10 comments",
+    "url": "https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs",
+    "score": 61,
     "date": "2026-08-10",
     "category": "AI News"
   },
   {
     "title": "Tail-call optimization in C is relatively recent (2025)",
     "source": "Hacker News",
-    "description": "HN Score: 96 | 77 comments",
+    "description": "HN Score: 102 | 96 comments",
     "url": "https://lwn.net/Articles/1034703/",
-    "score": 96,
+    "score": 102,
     "date": "2026-08-10",
     "category": "AI News"
   }
