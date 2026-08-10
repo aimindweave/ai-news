@@ -10,9 +10,9 @@
   {
     "title": "Meta Muse Glimmer \u2013 open weights 30B local coding model",
     "source": "Hacker News",
-    "description": "HN Score: 315 | 127 comments",
+    "description": "HN Score: 502 | 265 comments",
     "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
-    "score": 315,
+    "score": 502,
     "date": "2026-08-10",
     "category": "AI News"
   },
@@ -25,16 +25,33 @@
     "category": "Twitter"
   },
   {
-    "title": "Because It's Not Fun Enough: why languages fail",
+    "title": "OpenAI's letter to Governor Abbott on responsible AI infrastructure in Texas",
     "source": "Hacker News",
-    "description": "HN Score: 57 | 38 comments",
-    "url": "https://bytecode.news/posts/2026/08/because-it-s-not-fun-enough",
-    "score": 57,
+    "description": "HN Score: 13 | 2 comments",
+    "url": "https://openai.com/index/responsible-ai-infrastructure-texas/",
+    "score": 13,
     "date": "2026-08-10",
     "category": "AI News"
   },
   {
-    "title": "RT by @EMostaque: Einstein described Emmy Noether as a creative mathematical genius. Here is how her two theorems map Maxwell, Yang\u2013Mills & Einstein g",
+    "title": "Why has nobody distilled Kimi K3 to get to the top of slides arena?",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/EMostaque/status/2086509049286140413#m",
+    "date": "2026-08-10",
+    "category": "Twitter"
+  },
+  {
+    "title": "Docker Sandboxes \u2013 Disposable, isolated sandboxes for AI agents",
+    "source": "Hacker News",
+    "description": "HN Score: 402 | 257 comments",
+    "url": "https://www.docker.com/products/docker-sandboxes/",
+    "score": 402,
+    "date": "2026-08-10",
+    "category": "AI News"
+  },
+  {
+    "title": "Einstein described Emmy Noether as a creative mathematical genius. Here is how her two theorems map Maxwell, Yang\u2013Mills & Einstein gravity. Physics \ud83e\udef6 ",
     "source": "@EMostaque",
     "description": "",
     "url": "https://nitter.net/EMostaque/status/2086197613586428130#m",
@@ -42,28 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Docker Sandboxes \u2013 Disposable, isolated sandboxes for AI agents",
-    "source": "Hacker News",
-    "description": "HN Score: 339 | 196 comments",
-    "url": "https://www.docker.com/products/docker-sandboxes/",
-    "score": 339,
-    "date": "2026-08-10",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @EMostaque: Meet different math functions and what each one does.",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/Math_files/status/2086234250169233564#m",
-    "date": "2026-08-10",
-    "category": "Twitter"
-  },
-  {
     "title": "Tail-call optimization in C is relatively recent",
     "source": "Hacker News",
-    "description": "HN Score: 36 | 13 comments",
+    "description": "HN Score: 66 | 33 comments",
     "url": "https://lwn.net/Articles/1034703/",
-    "score": 36,
+    "score": 66,
     "date": "2026-08-10",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Tail-Call Interpreters in Rust \u2013 Jimmy Ostler",
+    "title": "Over 181,000 AI meeting recordings left wide open in note taking app",
     "source": "Hacker News",
-    "description": "HN Score: 47 | 16 comments",
-    "url": "https://lordgoati.us/blog/tail-call/",
-    "score": 47,
+    "description": "HN Score: 203 | 68 comments",
+    "url": "https://bobdahacker.com/blog/tldv-hack",
+    "score": 203,
     "date": "2026-08-10",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+    "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
     "source": "Hacker News",
-    "description": "HN Score: 126 | 52 comments",
-    "url": "https://www.whodunnitai.com/",
-    "score": 126,
+    "description": "HN Score: 30 | 17 comments",
+    "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+    "score": 30,
     "date": "2026-08-10",
     "category": "AI News"
   },
@@ -110,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Over 181,000 AI meeting recordings left wide open in note taking app",
+    "title": "Defending my own brain against enshittification",
     "source": "Hacker News",
-    "description": "HN Score: 22 | 9 comments",
-    "url": "https://bobdahacker.com/blog/tldv-hack",
-    "score": 22,
+    "description": "HN Score: 58 | 37 comments",
+    "url": "https://mrmarket.lol/how-i-feel-calmin-control-of-my-life-in-the-time-of-enshittification/",
+    "score": 58,
     "date": "2026-08-10",
     "category": "AI News"
   },
@@ -127,11 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "How I use LLMs to learn complex topics",
+    "title": "Tail-Call Interpreters in Rust \u2013 Jimmy Ostler",
     "source": "Hacker News",
-    "description": "HN Score: 710 | 454 comments",
-    "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
-    "score": 710,
+    "description": "HN Score: 64 | 25 comments",
+    "url": "https://lordgoati.us/blog/tail-call/",
+    "score": 64,
     "date": "2026-08-10",
     "category": "AI News"
   },
@@ -144,20 +144,20 @@
     "category": "Twitter"
   },
   {
-    "title": "Tuxedo No. 2 \u2013 Cocktail recipes",
+    "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
     "source": "Hacker News",
-    "description": "HN Score: 114 | 35 comments",
-    "url": "https://tuxedono2.com",
-    "score": 114,
+    "description": "HN Score: 159 | 65 comments",
+    "url": "https://www.whodunnitai.com/",
+    "score": 159,
     "date": "2026-08-10",
     "category": "AI News"
   },
   {
-    "title": "Meta's new open-weight model targets local agentic AI",
+    "title": "How I use LLMs to learn complex topics",
     "source": "Hacker News",
-    "description": "HN Score: 18 | 2 comments",
-    "url": "https://twitter.com/finkd/status/2086754845218726027",
-    "score": 18,
+    "description": "HN Score: 751 | 481 comments",
+    "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
+    "score": 751,
     "date": "2026-08-10",
     "category": "AI News"
   }
