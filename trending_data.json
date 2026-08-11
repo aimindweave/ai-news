@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Apple Silicon and macOS VMs: 11\u201316\u00d7 Faster LLM Inference with Llama.cpp",
+    "title": "The brain may be about to have its Ozempic moment",
     "source": "Hacker News",
-    "description": "HN Score: 224 | 35 comments",
-    "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-    "score": 224,
+    "description": "HN Score: 48 | 31 comments",
+    "url": "https://economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment",
+    "score": 48,
     "date": "2026-08-11",
     "category": "AI News"
   },
@@ -27,26 +27,9 @@
   {
     "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
     "source": "Hacker News",
-    "description": "HN Score: 299 | 108 comments",
+    "description": "HN Score: 370 | 149 comments",
     "url": "https://stolen-thoughts.com/",
-    "score": 299,
-    "date": "2026-08-11",
-    "category": "AI News"
-  },
-  {
-    "title": "RT @eigenlabs: We started the http://MLX.fast challenge with @poolsideai with one key question. How much faster can the community m\u2026",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/EMostaque/status/2087251782078484612#m",
-    "date": "2026-08-11",
-    "category": "Twitter"
-  },
-  {
-    "title": "Why Go Is an Ideal Language for AI-Assisted Software Engineering",
-    "source": "Hacker News",
-    "description": "HN Score: 123 | 132 comments",
-    "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
-    "score": 123,
+    "score": 370,
     "date": "2026-08-11",
     "category": "AI News"
   },
@@ -59,11 +42,28 @@
     "category": "Twitter"
   },
   {
+    "title": "OpenAI\u2019s head of ethics leaves less than a year after joining",
+    "source": "Hacker News",
+    "description": "HN Score: 136 | 229 comments",
+    "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
+    "score": 136,
+    "date": "2026-08-11",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: My dog Rosie was given months to live. Chemo and immunotherapy failed I used chatgpt + computational genomics to design a personalis",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/paul_conyngham/status/2087223666778272070#m",
+    "date": "2026-08-11",
+    "category": "Twitter"
+  },
+  {
     "title": "As AI eats the web, the internet\u2019s collective memory is disappearing",
     "source": "Hacker News",
-    "description": "HN Score: 785 | 800 comments",
+    "description": "HN Score: 825 | 836 comments",
     "url": "https://thewalrus.ca/google-search-is-dying/",
-    "score": 785,
+    "score": 825,
     "date": "2026-08-11",
     "category": "AI News"
   },
@@ -76,11 +76,28 @@
     "category": "Twitter"
   },
   {
-    "title": "OpenAI\u2019s head of ethics leaves less than a year after joining",
+    "title": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
     "source": "Hacker News",
-    "description": "HN Score: 65 | 87 comments",
-    "url": "https://gizmodo.com/openais-only-ethicist-reportedly-left-last-month-she-wasnt-replaced-2000796883",
-    "score": 65,
+    "description": "HN Score: 263 | 40 comments",
+    "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+    "score": 263,
+    "date": "2026-08-11",
+    "category": "AI News"
+  },
+  {
+    "title": "This looks pretty interesting: An end-to-end system to build, evaluate, deploy, monitor, and continuously improve your own specialized AI models. I kn",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2087268064916390320#m",
+    "date": "2026-08-11",
+    "category": "Twitter"
+  },
+  {
+    "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+    "source": "Hacker News",
+    "description": "HN Score: 498 | 169 comments",
+    "url": "https://cactuscompute.com/needle",
+    "score": 498,
     "date": "2026-08-11",
     "category": "AI News"
   },
@@ -93,28 +110,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+    "title": "Go is an ideal language for AI-assisted software engineering",
     "source": "Hacker News",
-    "description": "HN Score: 488 | 162 comments",
-    "url": "https://cactuscompute.com/needle",
-    "score": 488,
+    "description": "HN Score: 183 | 229 comments",
+    "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+    "score": 183,
     "date": "2026-08-11",
     "category": "AI News"
   },
   {
-    "title": "Me trying to stop Codex from changing my entire codebase when I only asked to fix the background color.",
-    "source": "@svpino",
+    "title": "People who are pushing to 'Pause AI' are utterly clueless In essence, they are advocating for a permanent underclass 'Pausing AI' simply translates to",
+    "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2087178668367876316#m",
+    "url": "https://nitter.net/bindureddy/status/2087267781465321944#m",
     "date": "2026-08-11",
     "category": "Twitter"
   },
   {
-    "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+    "title": "LFM2.5 2.6B model competitive with 4x larger models",
     "source": "Hacker News",
-    "description": "HN Score: 619 | 576 comments",
-    "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
-    "score": 619,
+    "description": "HN Score: 150 | 39 comments",
+    "url": "https://huggingface.co/LiquidAI/LFM2.5-2.6B",
+    "score": 150,
     "date": "2026-08-11",
     "category": "AI News"
   },
@@ -127,37 +144,20 @@
     "category": "Twitter"
   },
   {
-    "title": "LFM2.5 2.6B model competitive with 4x larger models",
-    "source": "Hacker News",
-    "description": "HN Score: 148 | 39 comments",
-    "url": "https://huggingface.co/LiquidAI/LFM2.5-2.6B",
-    "score": 148,
-    "date": "2026-08-11",
-    "category": "AI News"
-  },
-  {
-    "title": "\ud83d\udea8 RELEASING SMAUG-AGENTIC - THE TOP OPEN SOURCE MODEL IN THE WORLD FOR AGENTIC CODING We are SUPER EXCITED to get back into open-sourcing our LLMs Our",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2087034287396938177#m",
-    "date": "2026-08-11",
-    "category": "Twitter"
-  },
-  {
     "title": "How Claude marks AI-generated content",
     "source": "Hacker News",
-    "description": "HN Score: 386 | 361 comments",
+    "description": "HN Score: 403 | 379 comments",
     "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
-    "score": 386,
+    "score": 403,
     "date": "2026-08-11",
     "category": "AI News"
   },
   {
     "title": "The \u201cmechanical miracle\u201d that ruined Mark Twain\u2019s life",
     "source": "Hacker News",
-    "description": "HN Score: 213 | 109 comments",
+    "description": "HN Score: 216 | 110 comments",
     "url": "https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined",
-    "score": 213,
+    "score": 216,
     "date": "2026-08-11",
     "category": "AI News"
   }
