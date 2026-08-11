@@ -10,9 +10,9 @@
   {
     "title": "As AI eats the web, the internet\u2019s collective memory is disappearing",
     "source": "Hacker News",
-    "description": "HN Score: 250 | 240 comments",
+    "description": "HN Score: 328 | 349 comments",
     "url": "https://thewalrus.ca/google-search-is-dying/",
-    "score": 250,
+    "score": 328,
     "date": "2026-08-11",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "LFM2.5 2.6B model competitive with 4x larger models",
     "source": "Hacker News",
-    "description": "HN Score: 65 | 17 comments",
+    "description": "HN Score: 86 | 18 comments",
     "url": "https://huggingface.co/LiquidAI/LFM2.5-2.6B",
-    "score": 65,
+    "score": 86,
     "date": "2026-08-11",
     "category": "AI News"
   },
@@ -44,26 +44,9 @@
   {
     "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
     "source": "Hacker News",
-    "description": "HN Score: 319 | 114 comments",
+    "description": "HN Score: 353 | 134 comments",
     "url": "https://cactuscompute.com/needle",
-    "score": 319,
-    "date": "2026-08-11",
-    "category": "AI News"
-  },
-  {
-    "title": "Remember when we thought prompt engineer was going to be a job \ud83e\udd37\u200d\u2640\ufe0f",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/EMostaque/status/2086874738203242911#m",
-    "date": "2026-08-11",
-    "category": "Twitter"
-  },
-  {
-    "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
-    "source": "Hacker News",
-    "description": "HN Score: 500 | 457 comments",
-    "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
-    "score": 500,
+    "score": 353,
     "date": "2026-08-11",
     "category": "AI News"
   },
@@ -76,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "The \u201cmechanical miracle\u201d that ruined Mark Twain\u2019s life",
+    "title": "The Water Footprint of AI",
     "source": "Hacker News",
-    "description": "HN Score: 131 | 69 comments",
-    "url": "https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined",
-    "score": 131,
+    "description": "HN Score: 26 | 22 comments",
+    "url": "https://doi.org/10.1016/j.watres.2026.125866",
+    "score": 26,
     "date": "2026-08-11",
     "category": "AI News"
   },
@@ -93,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "How Claude marks AI-generated content",
+    "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
     "source": "Hacker News",
-    "description": "HN Score: 167 | 119 comments",
-    "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
-    "score": 167,
+    "description": "HN Score: 515 | 476 comments",
+    "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+    "score": 515,
     "date": "2026-08-11",
     "category": "AI News"
   },
@@ -110,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Confessions of a Long-Distance Sailor",
+    "title": "The \u201cmechanical miracle\u201d that ruined Mark Twain\u2019s life",
     "source": "Hacker News",
-    "description": "HN Score: 112 | 30 comments",
-    "url": "https://arachnoid.com/lutusp/sailbook.html",
-    "score": 112,
+    "description": "HN Score: 144 | 73 comments",
+    "url": "https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined",
+    "score": 144,
     "date": "2026-08-11",
     "category": "AI News"
   },
@@ -127,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
+    "title": "How Claude marks AI-generated content",
     "source": "Hacker News",
-    "description": "HN Score: 1107 | 606 comments",
-    "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
-    "score": 1107,
+    "description": "HN Score: 191 | 152 comments",
+    "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
+    "score": 191,
     "date": "2026-08-11",
     "category": "AI News"
   },
@@ -144,20 +127,29 @@
     "category": "Twitter"
   },
   {
-    "title": "What's the best programming language for coding agents?",
+    "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
     "source": "Hacker News",
-    "description": "HN Score: 168 | 115 comments",
-    "url": "http://danluu.com/pl-tokens/",
-    "score": 168,
+    "description": "HN Score: 1121 | 609 comments",
+    "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+    "score": 1121,
     "date": "2026-08-11",
     "category": "AI News"
   },
   {
-    "title": "Tail-call optimization in C is relatively recent (2025)",
+    "title": "What's the best programming language for coding agents?",
     "source": "Hacker News",
-    "description": "HN Score: 147 | 132 comments",
-    "url": "https://lwn.net/Articles/1034703/",
-    "score": 147,
+    "description": "HN Score: 188 | 124 comments",
+    "url": "http://danluu.com/pl-tokens/",
+    "score": 188,
+    "date": "2026-08-11",
+    "category": "AI News"
+  },
+  {
+    "title": "Confessions of a Long-Distance Sailor",
+    "source": "Hacker News",
+    "description": "HN Score: 120 | 34 comments",
+    "url": "https://arachnoid.com/lutusp/sailbook.html",
+    "score": 120,
     "date": "2026-08-11",
     "category": "AI News"
   }
