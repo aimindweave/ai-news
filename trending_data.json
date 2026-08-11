@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "The \u201cmechanical miracle\u201d that ruined Mark Twain\u2019s life",
+    "title": "LFM2.5 2.6B model competitive with 4x larger models",
     "source": "Hacker News",
-    "description": "HN Score: 90 | 38 comments",
-    "url": "https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined",
-    "score": 90,
+    "description": "HN Score: 42 | 12 comments",
+    "url": "https://huggingface.co/LiquidAI/LFM2.5-2.6B",
+    "score": 42,
     "date": "2026-08-11",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+    "title": "As AI eats the web, the internet\u2019s collective memory is disappearing",
     "source": "Hacker News",
-    "description": "HN Score: 246 | 97 comments",
-    "url": "https://cactuscompute.com/needle",
-    "score": 246,
+    "description": "HN Score: 153 | 133 comments",
+    "url": "https://thewalrus.ca/google-search-is-dying/",
+    "score": 153,
     "date": "2026-08-11",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+    "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
     "source": "Hacker News",
-    "description": "HN Score: 436 | 419 comments",
-    "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
-    "score": 436,
+    "description": "HN Score: 293 | 106 comments",
+    "url": "https://cactuscompute.com/needle",
+    "score": 293,
     "date": "2026-08-11",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "LFM2.5 2.6B model competitive with 4x larger models",
+    "title": "The \u201cmechanical miracle\u201d that ruined Mark Twain\u2019s life",
     "source": "Hacker News",
-    "description": "HN Score: 8 | 1 comments",
-    "url": "https://huggingface.co/LiquidAI/LFM2.5-2.6B",
-    "score": 8,
+    "description": "HN Score: 117 | 55 comments",
+    "url": "https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined",
+    "score": 117,
     "date": "2026-08-11",
     "category": "AI News"
   },
@@ -76,33 +76,16 @@
     "category": "Twitter"
   },
   {
-    "title": "World Train Map \u2013 1247 train routes around the world",
+    "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
     "source": "Hacker News",
-    "description": "HN Score: 85 | 27 comments",
-    "url": "https://worldtrainmap.com/",
-    "score": 85,
+    "description": "HN Score: 475 | 436 comments",
+    "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+    "score": 475,
     "date": "2026-08-11",
     "category": "AI News"
   },
   {
-    "title": "RT by @svpino: People hate that many of us aren't reading AI code anymore. To them, if we aren't looking at the code, we must be deploying garbage. Or",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2086793436146057347#m",
-    "date": "2026-08-11",
-    "category": "Twitter"
-  },
-  {
-    "title": "Confessions of a Long-Distance Sailor",
-    "source": "Hacker News",
-    "description": "HN Score: 82 | 20 comments",
-    "url": "https://arachnoid.com/lutusp/sailbook.html",
-    "score": 82,
-    "date": "2026-08-11",
-    "category": "AI News"
-  },
-  {
-    "title": "Tiny, specialized, and open models are the future! The TwiL-LM family of models is now available on HuggingFace for Transformers and llama.cpp, under ",
+    "title": "RT by @svpino: Tiny, specialized, and open models are the future! The TwiL-LM family of models is now available on HuggingFace for Transformers and ll",
     "source": "@svpino",
     "description": "",
     "url": "https://nitter.net/svpino/status/2086889543253602482#m",
@@ -110,11 +93,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
+    "title": "How Claude marks AI-generated content",
     "source": "Hacker News",
-    "description": "HN Score: 1076 | 592 comments",
-    "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
-    "score": 1076,
+    "description": "HN Score: 114 | 89 comments",
+    "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
+    "score": 114,
+    "date": "2026-08-11",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: This will let you embed Hermes into any application. Imagine you are building a super-cool-impressive-app. Using this integration, you ",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2086881958790070415#m",
+    "date": "2026-08-11",
+    "category": "Twitter"
+  },
+  {
+    "title": "What's the best programming language for coding agents?",
+    "source": "Hacker News",
+    "description": "HN Score: 149 | 100 comments",
+    "url": "http://danluu.com/pl-tokens/",
+    "score": 149,
     "date": "2026-08-11",
     "category": "AI News"
   },
@@ -127,11 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Humanising LLM Outputs Is Dumb",
+    "title": "Confessions of a Long-Distance Sailor",
     "source": "Hacker News",
-    "description": "HN Score: 185 | 114 comments",
-    "url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
-    "score": 185,
+    "description": "HN Score: 97 | 28 comments",
+    "url": "https://arachnoid.com/lutusp/sailbook.html",
+    "score": 97,
     "date": "2026-08-11",
     "category": "AI News"
   },
@@ -144,20 +144,20 @@
     "category": "Twitter"
   },
   {
-    "title": "What's the best programming language for coding agents?",
+    "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
     "source": "Hacker News",
-    "description": "HN Score: 107 | 73 comments",
-    "url": "http://danluu.com/pl-tokens/",
-    "score": 107,
+    "description": "HN Score: 1098 | 600 comments",
+    "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+    "score": 1098,
     "date": "2026-08-11",
     "category": "AI News"
   },
   {
-    "title": "Launch HN: Stoa Markets (YC S26) \u2013 A Marketplace for GPUs and AI Servers",
+    "title": "Tail-call optimization in C is relatively recent (2025)",
     "source": "Hacker News",
-    "description": "HN Score: 71 | 45 comments",
-    "url": "https://www.stoaexchange.com",
-    "score": 71,
+    "description": "HN Score: 141 | 128 comments",
+    "url": "https://lwn.net/Articles/1034703/",
+    "score": 141,
     "date": "2026-08-11",
     "category": "AI News"
   }
