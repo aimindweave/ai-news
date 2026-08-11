@@ -10,9 +10,9 @@
   {
     "title": "Apple Silicon and macOS VMs: 11\u201316\u00d7 Faster LLM Inference with Llama.cpp",
     "source": "Hacker News",
-    "description": "HN Score: 120 | 23 comments",
+    "description": "HN Score: 224 | 35 comments",
     "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-    "score": 120,
+    "score": 224,
     "date": "2026-08-11",
     "category": "AI News"
   },
@@ -27,9 +27,26 @@
   {
     "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
     "source": "Hacker News",
-    "description": "HN Score: 181 | 66 comments",
+    "description": "HN Score: 299 | 108 comments",
     "url": "https://stolen-thoughts.com/",
-    "score": 181,
+    "score": 299,
+    "date": "2026-08-11",
+    "category": "AI News"
+  },
+  {
+    "title": "RT @eigenlabs: We started the http://MLX.fast challenge with @poolsideai with one key question. How much faster can the community m\u2026",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/EMostaque/status/2087251782078484612#m",
+    "date": "2026-08-11",
+    "category": "Twitter"
+  },
+  {
+    "title": "Why Go Is an Ideal Language for AI-Assisted Software Engineering",
+    "source": "Hacker News",
+    "description": "HN Score: 123 | 132 comments",
+    "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+    "score": 123,
     "date": "2026-08-11",
     "category": "AI News"
   },
@@ -44,26 +61,9 @@
   {
     "title": "As AI eats the web, the internet\u2019s collective memory is disappearing",
     "source": "Hacker News",
-    "description": "HN Score: 686 | 734 comments",
+    "description": "HN Score: 785 | 800 comments",
     "url": "https://thewalrus.ca/google-search-is-dying/",
-    "score": 686,
-    "date": "2026-08-11",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @EMostaque: Frontier labs argue distillation threatens R&D and US national security. Open-weights proponents counter that diffusion is essential",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/ccatalini/status/2087177319253459019#m",
-    "date": "2026-08-11",
-    "category": "Twitter"
-  },
-  {
-    "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
-    "source": "Hacker News",
-    "description": "HN Score: 471 | 161 comments",
-    "url": "https://cactuscompute.com/needle",
-    "score": 471,
+    "score": 785,
     "date": "2026-08-11",
     "category": "AI News"
   },
@@ -76,11 +76,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Why Did OpenAI's Head of Ethics Chlo\u00e9 Bakalar Leave?",
+    "title": "OpenAI\u2019s head of ethics leaves less than a year after joining",
     "source": "Hacker News",
-    "description": "HN Score: 71 | 62 comments",
-    "url": "https://aimagazine.com/news/why-did-openai-head-of-ethics-chloe-bakalar-leave",
-    "score": 71,
+    "description": "HN Score: 65 | 87 comments",
+    "url": "https://gizmodo.com/openais-only-ethicist-reportedly-left-last-month-she-wasnt-replaced-2000796883",
+    "score": 65,
+    "date": "2026-08-11",
+    "category": "AI News"
+  },
+  {
+    "title": "Most AI-generated code is slop that goes nowhere. Anyone can write code, but building software that works is still hard and requires much more than th",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2087222228358500730#m",
+    "date": "2026-08-11",
+    "category": "Twitter"
+  },
+  {
+    "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+    "source": "Hacker News",
+    "description": "HN Score: 488 | 162 comments",
+    "url": "https://cactuscompute.com/needle",
+    "score": 488,
     "date": "2026-08-11",
     "category": "AI News"
   },
@@ -95,26 +112,9 @@
   {
     "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
     "source": "Hacker News",
-    "description": "HN Score: 595 | 561 comments",
+    "description": "HN Score: 619 | 576 comments",
     "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
-    "score": 595,
-    "date": "2026-08-11",
-    "category": "AI News"
-  },
-  {
-    "title": "Claude Code to write your code and Codex to verify it. I met with a team that's been doing this for a few weeks now. I think it's an interesting appro",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2087155823948763466#m",
-    "date": "2026-08-11",
-    "category": "Twitter"
-  },
-  {
-    "title": "LFM2.5 2.6B model competitive with 4x larger models",
-    "source": "Hacker News",
-    "description": "HN Score: 133 | 35 comments",
-    "url": "https://huggingface.co/LiquidAI/LFM2.5-2.6B",
-    "score": 133,
+    "score": 619,
     "date": "2026-08-11",
     "category": "AI News"
   },
@@ -127,11 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "How Claude marks AI-generated content",
+    "title": "LFM2.5 2.6B model competitive with 4x larger models",
     "source": "Hacker News",
-    "description": "HN Score: 350 | 317 comments",
-    "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
-    "score": 350,
+    "description": "HN Score: 148 | 39 comments",
+    "url": "https://huggingface.co/LiquidAI/LFM2.5-2.6B",
+    "score": 148,
     "date": "2026-08-11",
     "category": "AI News"
   },
@@ -144,20 +144,20 @@
     "category": "Twitter"
   },
   {
-    "title": "The \u201cmechanical miracle\u201d that ruined Mark Twain\u2019s life",
+    "title": "How Claude marks AI-generated content",
     "source": "Hacker News",
-    "description": "HN Score: 194 | 104 comments",
-    "url": "https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined",
-    "score": 194,
+    "description": "HN Score: 386 | 361 comments",
+    "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
+    "score": 386,
     "date": "2026-08-11",
     "category": "AI News"
   },
   {
-    "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
+    "title": "The \u201cmechanical miracle\u201d that ruined Mark Twain\u2019s life",
     "source": "Hacker News",
-    "description": "HN Score: 1161 | 629 comments",
-    "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
-    "score": 1161,
+    "description": "HN Score: 213 | 109 comments",
+    "url": "https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined",
+    "score": 213,
     "date": "2026-08-11",
     "category": "AI News"
   }
