@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+    "title": "Apple Silicon and macOS VMs: 11\u201316\u00d7 Faster LLM Inference with Llama.cpp",
     "source": "Hacker News",
-    "description": "HN Score: 23 | 2 comments",
-    "url": "https://stolen-thoughts.com/",
-    "score": 23,
+    "description": "HN Score: 120 | 23 comments",
+    "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+    "score": 120,
     "date": "2026-08-11",
     "category": "AI News"
   },
@@ -25,11 +25,28 @@
     "category": "Twitter"
   },
   {
+    "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+    "source": "Hacker News",
+    "description": "HN Score: 181 | 66 comments",
+    "url": "https://stolen-thoughts.com/",
+    "score": 181,
+    "date": "2026-08-11",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: Why AI Can Never Be One of Us",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/ii_posts/status/2087217806962032649#m",
+    "date": "2026-08-11",
+    "category": "Twitter"
+  },
+  {
     "title": "As AI eats the web, the internet\u2019s collective memory is disappearing",
     "source": "Hacker News",
-    "description": "HN Score: 588 | 668 comments",
+    "description": "HN Score: 686 | 734 comments",
     "url": "https://thewalrus.ca/google-search-is-dying/",
-    "score": 588,
+    "score": 686,
     "date": "2026-08-11",
     "category": "AI News"
   },
@@ -42,28 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Why Did OpenAI's Head of Ethics Chlo\u00e9 Bakalar Leave?",
-    "source": "Hacker News",
-    "description": "HN Score: 22 | 16 comments",
-    "url": "https://aimagazine.com/news/why-did-openai-head-of-ethics-chloe-bakalar-leave",
-    "score": 22,
-    "date": "2026-08-11",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @EMostaque: Preprint",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/ii_posts/status/2087167662618976648#m",
-    "date": "2026-08-11",
-    "category": "Twitter"
-  },
-  {
     "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
     "source": "Hacker News",
-    "description": "HN Score: 442 | 157 comments",
+    "description": "HN Score: 471 | 161 comments",
     "url": "https://cactuscompute.com/needle",
-    "score": 442,
+    "score": 471,
     "date": "2026-08-11",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+    "title": "Why Did OpenAI's Head of Ethics Chlo\u00e9 Bakalar Leave?",
     "source": "Hacker News",
-    "description": "HN Score: 568 | 546 comments",
-    "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
-    "score": 568,
+    "description": "HN Score: 71 | 62 comments",
+    "url": "https://aimagazine.com/news/why-did-openai-head-of-ethics-chloe-bakalar-leave",
+    "score": 71,
     "date": "2026-08-11",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "LFM2.5 2.6B model competitive with 4x larger models",
+    "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
     "source": "Hacker News",
-    "description": "HN Score: 119 | 34 comments",
-    "url": "https://huggingface.co/LiquidAI/LFM2.5-2.6B",
-    "score": 119,
+    "description": "HN Score: 595 | 561 comments",
+    "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+    "score": 595,
     "date": "2026-08-11",
     "category": "AI News"
   },
@@ -110,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "The \u201cmechanical miracle\u201d that ruined Mark Twain\u2019s life",
+    "title": "LFM2.5 2.6B model competitive with 4x larger models",
     "source": "Hacker News",
-    "description": "HN Score: 178 | 91 comments",
-    "url": "https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined",
-    "score": 178,
+    "description": "HN Score: 133 | 35 comments",
+    "url": "https://huggingface.co/LiquidAI/LFM2.5-2.6B",
+    "score": 133,
     "date": "2026-08-11",
     "category": "AI News"
   },
@@ -129,9 +129,9 @@
   {
     "title": "How Claude marks AI-generated content",
     "source": "Hacker News",
-    "description": "HN Score: 304 | 266 comments",
+    "description": "HN Score: 350 | 317 comments",
     "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
-    "score": 304,
+    "score": 350,
     "date": "2026-08-11",
     "category": "AI News"
   },
@@ -144,20 +144,20 @@
     "category": "Twitter"
   },
   {
-    "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
+    "title": "The \u201cmechanical miracle\u201d that ruined Mark Twain\u2019s life",
     "source": "Hacker News",
-    "description": "HN Score: 1153 | 621 comments",
-    "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
-    "score": 1153,
+    "description": "HN Score: 194 | 104 comments",
+    "url": "https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined",
+    "score": 194,
     "date": "2026-08-11",
     "category": "AI News"
   },
   {
-    "title": "Confessions of a Long-Distance Sailor",
+    "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
     "source": "Hacker News",
-    "description": "HN Score: 149 | 50 comments",
-    "url": "https://arachnoid.com/lutusp/sailbook.html",
-    "score": 149,
+    "description": "HN Score: 1161 | 629 comments",
+    "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+    "score": 1161,
     "date": "2026-08-11",
     "category": "AI News"
   }
