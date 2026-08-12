@@ -10,9 +10,9 @@
   {
     "title": "WorldClaw Agentic 3D open-world generation at scale",
     "source": "Hacker News",
-    "description": "HN Score: 203 | 58 comments",
+    "description": "HN Score: 221 | 67 comments",
     "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
-    "score": 203,
+    "score": 221,
     "date": "2026-08-12",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
     "source": "Hacker News",
-    "description": "HN Score: 598 | 271 comments",
+    "description": "HN Score: 620 | 277 comments",
     "url": "https://stolen-thoughts.com/",
-    "score": 598,
+    "score": 620,
     "date": "2026-08-12",
     "category": "AI News"
   },
@@ -44,9 +44,9 @@
   {
     "title": "OpenAI\u2019s head of ethics leaves less than a year after joining",
     "source": "Hacker News",
-    "description": "HN Score: 398 | 399 comments",
+    "description": "HN Score: 430 | 415 comments",
     "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
-    "score": 398,
+    "score": 430,
     "date": "2026-08-12",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "AI agent hacks gym to get its user a spot in pilates class",
+    "title": "Show HN: Line9 \u2013 A Mermaid rendering engine with its own layout",
     "source": "Hacker News",
-    "description": "HN Score: 3 | 0 comments",
-    "url": "https://www.bbc.com/news/articles/cn0nww2qlp7o",
-    "score": 3,
+    "description": "HN Score: 69 | 19 comments",
+    "url": "https://line9.ai/diagram",
+    "score": 69,
     "date": "2026-08-12",
     "category": "AI News"
   },
@@ -76,11 +76,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Line9 \u2013 A Mermaid rendering engine with its own layout",
+    "title": "Go is an ideal language for AI-assisted software engineering",
     "source": "Hacker News",
-    "description": "HN Score: 64 | 14 comments",
-    "url": "https://line9.ai/diagram",
-    "score": 64,
+    "description": "HN Score: 374 | 425 comments",
+    "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+    "score": 374,
+    "date": "2026-08-12",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: This looks pretty interesting: An end-to-end system to build, evaluate, deploy, monitor, and continuously improve your own specialized ",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2087268064916390320#m",
+    "date": "2026-08-12",
+    "category": "Twitter"
+  },
+  {
+    "title": "As AI eats the web, the internet\u2019s collective memory is disappearing",
+    "source": "Hacker News",
+    "description": "HN Score: 899 | 908 comments",
+    "url": "https://thewalrus.ca/google-search-is-dying/",
+    "score": 899,
     "date": "2026-08-12",
     "category": "AI News"
   },
@@ -93,28 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Go is an ideal language for AI-assisted software engineering",
+    "title": "Crew, a multiplayer workspace for humans and AI agents to work together",
     "source": "Hacker News",
-    "description": "HN Score: 348 | 404 comments",
-    "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
-    "score": 348,
-    "date": "2026-08-12",
-    "category": "AI News"
-  },
-  {
-    "title": "This looks pretty interesting: An end-to-end system to build, evaluate, deploy, monitor, and continuously improve your own specialized AI models. I kn",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2087268064916390320#m",
-    "date": "2026-08-12",
-    "category": "Twitter"
-  },
-  {
-    "title": "ICE to spend up to $20M on gloves that can deliver painful electric shocks",
-    "source": "Hacker News",
-    "description": "HN Score: 5 | 0 comments",
-    "url": "https://www.theguardian.com/us-news/2026/aug/11/ice-electric-shock-gloves",
-    "score": 5,
+    "description": "HN Score: 6 | 0 comments",
+    "url": "https://github.com/JamelHammoud/crew",
+    "score": 6,
     "date": "2026-08-12",
     "category": "AI News"
   },
@@ -127,11 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Emergent Introspective Awareness in Large Language Models",
+    "title": "How Claude marks AI-generated content",
     "source": "Hacker News",
-    "description": "HN Score: 56 | 28 comments",
-    "url": "https://arxiv.org/abs/2601.01828",
-    "score": 56,
+    "description": "HN Score: 433 | 396 comments",
+    "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
+    "score": 433,
     "date": "2026-08-12",
     "category": "AI News"
   },
@@ -144,20 +144,20 @@
     "category": "Twitter"
   },
   {
-    "title": "As AI eats the web, the internet\u2019s collective memory is disappearing",
+    "title": "Emergent Introspective Awareness in Large Language Models",
     "source": "Hacker News",
-    "description": "HN Score: 895 | 902 comments",
-    "url": "https://thewalrus.ca/google-search-is-dying/",
-    "score": 895,
+    "description": "HN Score: 59 | 30 comments",
+    "url": "https://arxiv.org/abs/2601.01828",
+    "score": 59,
     "date": "2026-08-12",
     "category": "AI News"
   },
   {
-    "title": "Chrome adopts what may be the best protection yet against account takeovers",
+    "title": "LFM2.5 2.6B model competitive with 4x larger models",
     "source": "Hacker News",
-    "description": "HN Score: 3 | 0 comments",
-    "url": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/",
-    "score": 3,
+    "description": "HN Score: 165 | 39 comments",
+    "url": "https://huggingface.co/LiquidAI/LFM2.5-2.6B",
+    "score": 165,
     "date": "2026-08-12",
     "category": "AI News"
   }
