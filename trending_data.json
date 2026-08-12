@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
+    "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
     "source": "Hacker News",
-    "description": "HN Score: 26 | 7 comments",
-    "url": "https://knownagents.com/insights",
-    "score": 26,
+    "description": "HN Score: 322 | 46 comments",
+    "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+    "score": 322,
     "date": "2026-08-12",
     "category": "AI News"
   },
@@ -25,45 +25,45 @@
     "category": "Twitter"
   },
   {
-    "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+    "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
     "source": "Hacker News",
-    "description": "HN Score: 30 | 0 comments",
-    "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-    "score": 30,
+    "description": "HN Score: 107 | 53 comments",
+    "url": "https://knownagents.com/insights",
+    "score": 107,
     "date": "2026-08-12",
     "category": "AI News"
   },
   {
-    "title": "RT by @EMostaque: Why AI Can Never Be One of Us",
+    "title": "RT by @EMostaque: The question is not whether machines can govern better than us. It is whether, when they do, the rules you live under are still your",
     "source": "@EMostaque",
     "description": "",
-    "url": "https://nitter.net/ii_posts/status/2087217806962032649#m",
-    "date": "2026-08-12",
-    "category": "Twitter"
-  },
-  {
-    "title": "What sort of maths are LLMs good at?",
-    "source": "Hacker News",
-    "description": "HN Score: 167 | 74 comments",
-    "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
-    "score": 167,
-    "date": "2026-08-12",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @EMostaque: My dog Rosie was given months to live. Chemo and immunotherapy failed I used chatgpt + computational genomics to design a personalis",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/paul_conyngham/status/2087223666778272070#m",
+    "url": "https://nitter.net/ii_posts/status/2087567133735575840#m",
     "date": "2026-08-12",
     "category": "Twitter"
   },
   {
     "title": "AI is removing the middle class of software engineering",
     "source": "Hacker News",
-    "description": "HN Score: 122 | 105 comments",
+    "description": "HN Score: 348 | 288 comments",
     "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-    "score": 122,
+    "score": 348,
+    "date": "2026-08-12",
+    "category": "AI News"
+  },
+  {
+    "title": "You also get a free @x premium plus membership with SuperGrok Heavy but you need to cancel your existing membership to get it once signed up, not very",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/EMostaque/status/2087567142761775473#m",
+    "date": "2026-08-12",
+    "category": "Twitter"
+  },
+  {
+    "title": "What sort of maths are LLMs good at?",
+    "source": "Hacker News",
+    "description": "HN Score: 190 | 87 comments",
+    "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
+    "score": 190,
     "date": "2026-08-12",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "My Agent Setup",
+    "title": "Hax \u2013 a minimalist, terminal-native coding agent written in C",
     "source": "Hacker News",
-    "description": "HN Score: 21 | 14 comments",
-    "url": "https://chad.cm/posts/2026-8-11-my-agent-setup",
-    "score": 21,
+    "description": "HN Score: 28 | 6 comments",
+    "url": "https://usehax.dev/",
+    "score": 28,
     "date": "2026-08-12",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons",
+    "title": "SpaceXAI's Grok 4.6 Scores 61 on the Artificial Analysis Intelligence Index",
     "source": "Hacker News",
-    "description": "HN Score: 100 | 7 comments",
-    "url": "https://petapixel.com/2026/08/04/amazing-high-res-photo-shows-a-butte-rising-from-mars/",
-    "score": 100,
+    "description": "HN Score: 4 | 0 comments",
+    "url": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
+    "score": 4,
     "date": "2026-08-12",
     "category": "AI News"
   },
@@ -110,11 +110,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Delphi 13 Community Edition Is Now Available",
+    "title": "My Agent Setup",
     "source": "Hacker News",
-    "description": "HN Score: 84 | 65 comments",
-    "url": "https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/",
-    "score": 84,
+    "description": "HN Score: 65 | 34 comments",
+    "url": "https://chad.cm/posts/2026-8-11-my-agent-setup",
+    "score": 65,
+    "date": "2026-08-12",
+    "category": "AI News"
+  },
+  {
+    "title": "Grok 4.6 just dropped and will be on LiveBench shortly - same price as Grok 4.5 which is great Not sure how much it really improves on 4.5. We will se",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2087570401878847628#m",
+    "date": "2026-08-12",
+    "category": "Twitter"
+  },
+  {
+    "title": "High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons",
+    "source": "Hacker News",
+    "description": "HN Score: 122 | 9 comments",
+    "url": "https://petapixel.com/2026/08/04/amazing-high-res-photo-shows-a-butte-rising-from-mars/",
+    "score": 122,
     "date": "2026-08-12",
     "category": "AI News"
   },
@@ -127,37 +144,20 @@
     "category": "Twitter"
   },
   {
-    "title": "Facebook is paying controversial creators to produce rage-bait content",
+    "title": "Delphi 13 Community Edition Is Now Available",
     "source": "Hacker News",
-    "description": "HN Score: 393 | 243 comments",
-    "url": "https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696",
-    "score": 393,
+    "description": "HN Score: 108 | 80 comments",
+    "url": "https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/",
+    "score": 108,
     "date": "2026-08-12",
     "category": "AI News"
   },
   {
-    "title": "People who are pushing to 'Pause AI' are utterly clueless In essence, they are advocating for a permanent underclass 'Pausing AI' simply translates to",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2087267781465321944#m",
-    "date": "2026-08-12",
-    "category": "Twitter"
-  },
-  {
-    "title": "German advocacy group lodges criminal complaint over Meta AI glasses",
+    "title": "AI coding startup Lovable raised $400M at $13.3B valuation up from $6.6B in 2025",
     "source": "Hacker News",
-    "description": "HN Score: 26 | 4 comments",
-    "url": "https://www.reuters.com/legal/government/german-advocacy-group-lodges-criminal-complaint-over-meta-ai-glasses-2026-08-12/",
-    "score": 26,
-    "date": "2026-08-12",
-    "category": "AI News"
-  },
-  {
-    "title": "Launch HN: Discovered Materials (YC P26) \u2013 AI agents to discover new materials",
-    "source": "Hacker News",
-    "description": "HN Score: 43 | 13 comments",
-    "url": "https://discoveredmaterials.com/research/",
-    "score": 43,
+    "description": "HN Score: 5 | 1 comments",
+    "url": "https://lovable.dev/blog/series-c",
+    "score": 5,
     "date": "2026-08-12",
     "category": "AI News"
   }
