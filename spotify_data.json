@@ -103,6 +103,16 @@
       "url": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"
     },
     {
+      "id": "The TWIM_0",
+      "name": "Why Image Generation Needs More Than Bigger Models with Fatih Porikli - #773",
+      "show": "The TWIML AI Podcast",
+      "description": "Text-to-image models have become remarkably good at producing realistic images. But realism isn’t the same as correctness. Ask for several distinct people, a specific composition, or a high-resolution",
+      "release_date": "2026-08-12",
+      "duration_min": 56,
+      "image": "",
+      "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
+    },
+    {
       "id": "a]6z Pod_0",
       "name": "Garry Tan on Taste, Agents and Founder Ambition",
       "show": "a]6z Podcast",
@@ -183,7 +193,7 @@
       "url": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"
     },
     {
-      "id": "The TWIM_0",
+      "id": "The TWIM_1",
       "name": "Why Models Are AI’s Next Training Dataset with Damian Borth - #772",
       "show": "The TWIML AI Podcast",
       "description": "For more than a decade, AI has advanced by training ever-larger models on ever-larger datasets. But as high-quality training data becomes harder to find and pretraining grows increasingly expensive, r",
@@ -213,7 +223,7 @@
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
-      "id": "The TWIM_1",
+      "id": "The TWIM_2",
       "name": "How AI Learns to Smell with Alex Wiltschko - #771",
       "show": "The TWIML AI Podcast",
       "description": "In this episode, Alex Wiltschko, founder and CEO of Osmo, joins the show to discuss his goal of giving computers a sense of smell and what it takes to build olfactory intelligence.\n\nWe explore the sci",
@@ -241,16 +251,6 @@
       "duration_min": 39,
       "image": "",
       "url": "https://open.spotify.com/show/0e1X4kJVfwQRPF8lZzqqfX"
-    },
-    {
-      "id": "The TWIM_2",
-      "name": "Why AI Agents Break the GenAI Security Model with Devvret Rishi - #770",
-      "show": "The TWIML AI Podcast",
-      "description": "In this episode, Sam talks with Dev Rishi, GM of AI at Rubrik, about what happens when agents move beyond answering questions and start taking action across tools, systems, and business processes.\n\nWe",
-      "release_date": "2026-06-16",
-      "duration_min": 56,
-      "image": "",
-      "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
     },
     {
       "id": "The AI P_1",

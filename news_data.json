@@ -1,5 +1,19 @@
 [
   {
+    "title": "Some Claude users are mad that Anthropic\u2019s new watermarks will catch them cheating at their jobs, classes",
+    "source": "TechCrunch",
+    "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
+    "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+    "date": "2026-08-12"
+  },
+  {
+    "title": "Amazon will train on Twitch streamers\u2019 content by default, unless they opt out",
+    "source": "TechCrunch",
+    "summary": "'If this was opt-in, nobody would opt in,' Twitch CPO Mike Minton said on a livestream responding to user feedback. 'That's honestly the answer.'",
+    "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+    "date": "2026-08-12"
+  },
+  {
     "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
     "source": "TechCrunch",
     "summary": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
@@ -91,20 +105,6 @@
     "date": "2026-08-12"
   },
   {
-    "title": "Brad Lightcap, OpenAI\u2019s longtime COO, is leaving to \u2018start something new\u2019",
-    "source": "TechCrunch",
-    "summary": "One of OpenAI's longest-serving executives is headed out the door, although the longtime COO told staff that he was 'excited to help you all advance the mission from a different vantage point.'",
-    "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
-    "date": "2026-08-12"
-  },
-  {
-    "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
-    "source": "TechCrunch",
-    "summary": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate.",
-    "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
-    "date": "2026-08-12"
-  },
-  {
     "title": "Scientists just created female clones of male mice",
     "source": "MIT Tech Review",
     "summary": "Scientists have deliberately turned male mouse embryos into females for the first time. A team based in Japan used a CRISPR-based approach to remove the Y chromosome from male cells and create female clones of male mice. \u201cNo one has done this before,\u201d says Monika Ward, a reproductive biologist at...",
@@ -175,6 +175,13 @@
     "date": "2026-08-12"
   },
   {
+    "title": "The White House Is Going to Expand Its AI Policy",
+    "source": "Wired",
+    "summary": "Open models may soon be added to an updated AI framework, sources tell WIRED, as the White House continues to grapple with how to regulate a technology it has tried not to regulate.",
+    "url": "https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/",
+    "date": "2026-08-12"
+  },
+  {
     "title": "Rogue AI Agents Aren\u2019t Evil. They\u2019re Just Eager to Please",
     "source": "Wired",
     "summary": "AI agents that break free and hack into other systems are only trying to make us happy.",
@@ -238,10 +245,24 @@
     "date": "2026-08-12"
   },
   {
-    "title": "The AI Slop Backlash Is Actually Having an Impact",
-    "source": "Wired",
-    "summary": "Platforms are finally recognizing that people don\u2019t want to consume AI slop. A growing number of sites and apps now have tools and policies to flag, label, and ban AI-generated content.",
-    "url": "https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/",
+    "title": "The web\u2019s newest weapon against AI scrapers is a font",
+    "source": "Ars Technica",
+    "summary": "\u201cShieldFont\u201d aims to poison AI training data without making pages unreadable for people.",
+    "url": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/",
+    "date": "2026-08-12"
+  },
+  {
+    "title": "Terabytes of credentials leaked in massive supply-chain attack",
+    "source": "Ars Technica",
+    "summary": "The data was scraped and exfiltrated from 2,500 users of a compromised AI package.",
+    "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
+    "date": "2026-08-12"
+  },
+  {
+    "title": "Twitch content has trained Amazon AI for years, but users can opt out now",
+    "source": "Ars Technica",
+    "summary": "Streaming platform says user-generated content 'may be used for future Gen AI model improvements.'",
+    "url": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
     "date": "2026-08-12"
   },
   {
@@ -326,27 +347,6 @@
     "source": "Ars Technica",
     "summary": "The AI system makes genetically distant versions of a bacteria-killing virus.",
     "url": "https://arstechnica.com/science/2026/08/large-genome-models-used-to-design-new-viruses/",
-    "date": "2026-08-12"
-  },
-  {
-    "title": "Cloudflare open-sources vibe-coding platform for people who aren't coders",
-    "source": "Ars Technica",
-    "summary": "Cloudflare built an AI agent workspace for its employees. Now it\u2019s open source.",
-    "url": "https://arstechnica.com/ai/2026/08/cloudflare-open-sources-vibe-coding-platform-for-people-who-arent-coders/",
-    "date": "2026-08-12"
-  },
-  {
-    "title": "AI isn\u2019t enough to protect social media communities from AI",
-    "source": "Ars Technica",
-    "summary": "Why humans need to moderate humans.",
-    "url": "https://arstechnica.com/gadgets/2026/08/ai-isnt-enough-to-protect-social-media-communities-from-ai/",
-    "date": "2026-08-12"
-  },
-  {
-    "title": "Anthropic\u2019s AI used fake identities, malware in rogue attack on GitHub project",
-    "source": "Ars Technica",
-    "summary": "Anthropic and OpenAI models\u2019 unprompted actions forced halt to UK cyber tests.",
-    "url": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
     "date": "2026-08-12"
   }
 ]
