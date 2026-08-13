@@ -1,35 +1,69 @@
 [
   {
-    "title": "RT by @EMostaque: When Everything Works, Who Writes the Rules?",
-    "source": "@EMostaque",
+    "title": "\u7c73\u6fa4\u3055\u3093\u3068\u4e09\u5b85\u3055\u3093\u306e\u5bfe\u8ac7\u3001\u5b66\u6821\u796d\u3067 \u3042\u306e\u4f5c\u54c1\u306e\u30c6\u30fc\u30de\u306f\u2026\u3092\u805e\u3051\u305f\u306e\u306f\u3044\u3044\u4f53\u9a13\u3060\u3063\u305f",
+    "source": "@kaborobot",
     "description": "",
-    "url": "https://nitter.net/ii_posts/status/2087945828618907965#m",
+    "url": "https://nitter.net/kaborobot/status/2063568544277909948#m",
     "date": "2026-08-13",
     "category": "Twitter"
   },
   {
     "title": "Accelerating GPT-5.6 Sol Ultrafast",
     "source": "Hacker News",
-    "description": "HN Score: 244 | 84 comments",
+    "description": "HN Score: 345 | 135 comments",
     "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-    "score": 244,
+    "score": 345,
     "date": "2026-08-13",
     "category": "AI News"
   },
   {
-    "title": "RT by @EMostaque: Last week, @PaxMachinaMag was launched: a new publication about how institutions should change, adapt, and evolve, in light of power",
-    "source": "@EMostaque",
+    "title": "\u30d6\u30c3\u30c1\u30e3\u30fc\u304c\u30db\u30ef\u30a4\u30c8\u30cf\u30a6\u30b9\u306e\u58c1\u3076\u3061\u7834\u3063\u3066\u304d\u305f\u6642\u306e\u30db\u30fc\u30e0\u30e9\u30f3\u30c0\u30fc\u306e\u67d4\u3089\u304b\u306a\u8868\u60c5\u3063\u3066 \u3042\u306e\u653e\u9001\u306e\u6f14\u8aac\u3092\u7d42\u3048\u3066\u3057\u307e\u3063\u3066\u8ab0\u304b\u306b\u611b\u3055\u308c\u308b\u3053\u3068\u306f\u3082\u3046\u306a\u304f\u306a\u308a\u6050\u6016\u306e\u5bfe\u8c61\u306b\u3057\u304b\u306a\u3089\u306a\u3044\u904b\u547d\u3092\u7d42\u308f\u3089\u305b\u3066\u304f\u308c\u308b\u4eba\u304c\u6765\u305f\u304b\u3089\u306a\u306e\u304b",
+    "source": "@kaborobot",
     "description": "",
-    "url": "https://nitter.net/sebkrier/status/2087641719151923423#m",
+    "url": "https://nitter.net/kaborobot/status/2058205543760838842#m",
     "date": "2026-08-13",
     "category": "Twitter"
   },
   {
     "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
     "source": "Hacker News",
-    "description": "HN Score: 19 | 7 comments",
+    "description": "HN Score: 43 | 21 comments",
     "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
-    "score": 19,
+    "score": 43,
+    "date": "2026-08-13",
+    "category": "AI News"
+  },
+  {
+    "title": "In which I ask: Should idiots have superintelligence? \ud83e\udd14",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/EMostaque/status/2088026815197552949#m",
+    "date": "2026-08-13",
+    "category": "Twitter"
+  },
+  {
+    "title": "Nine PBS sues Iron Mountain over blocked access to archival data",
+    "source": "Hacker News",
+    "description": "HN Score: 188 | 90 comments",
+    "url": "https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/",
+    "score": 188,
+    "date": "2026-08-13",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: Moonshots episode #279 is out. https://www.youtube.com/watch?v=uoGnH0REG7A",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/alexwg/status/2088019896567243212#m",
+    "date": "2026-08-13",
+    "category": "Twitter"
+  },
+  {
+    "title": "Launch HN: Bullet (YC S26) \u2013 A Faster Coding Agent",
+    "source": "Hacker News",
+    "description": "HN Score: 72 | 45 comments",
+    "url": "https://www.codewithbullet.com",
+    "score": 72,
     "date": "2026-08-13",
     "category": "AI News"
   },
@@ -44,9 +78,9 @@
   {
     "title": "AI At Home Part 1: A Box Of Scraps",
     "source": "Hacker News",
-    "description": "HN Score: 61 | 29 comments",
+    "description": "HN Score: 73 | 39 comments",
     "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
-    "score": 61,
+    "score": 73,
     "date": "2026-08-13",
     "category": "AI News"
   },
@@ -61,9 +95,9 @@
   {
     "title": "Choosing an AI model: one prompt, 11 models, different results",
     "source": "Hacker News",
-    "description": "HN Score: 148 | 64 comments",
+    "description": "HN Score: 162 | 70 comments",
     "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
-    "score": 148,
+    "score": 162,
     "date": "2026-08-13",
     "category": "AI News"
   },
@@ -76,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Codex in ChatGPT desktop app for Linux is now in preview",
+    "title": "I built a 500k-domain search engine for makers in a weekend for $10",
     "source": "Hacker News",
-    "description": "HN Score: 426 | 289 comments",
-    "url": "https://community.openai.com/t/codex-in-chatgpt-desktop-app-for-linux-is-now-in-preview/1390027",
-    "score": 426,
+    "description": "HN Score: 136 | 72 comments",
+    "url": "https://alexmorleyfinch.github.io/marlin/history/v1/article/the_birth.html",
+    "score": 136,
     "date": "2026-08-13",
     "category": "AI News"
   },
@@ -93,11 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "I built a 500k-domain search engine for makers in a weekend for $10",
+    "title": "Terabytes of credentials leaked in supply-chain attack",
     "source": "Hacker News",
-    "description": "HN Score: 118 | 64 comments",
-    "url": "https://alexmorleyfinch.github.io/marlin/history/v1/article/the_birth.html",
-    "score": 118,
+    "description": "HN Score: 23 | 0 comments",
+    "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
+    "score": 23,
     "date": "2026-08-13",
     "category": "AI News"
   },
@@ -110,38 +144,20 @@
     "category": "Twitter"
   },
   {
-    "title": "Launch HN: Bullet (YC S26) \u2013 A Faster Coding Agent",
-    "source": "Hacker News",
-    "description": "HN Score: 35 | 36 comments",
-    "url": "https://www.codewithbullet.com",
-    "score": 35,
-    "date": "2026-08-13",
-    "category": "AI News"
-  },
-  {
     "title": "Show HN: MCP Memory \u2013 Fast Agent Memory Using Google's OKF and SQLite FTS5",
     "source": "Hacker News",
-    "description": "HN Score: 49 | 31 comments",
+    "description": "HN Score: 53 | 32 comments",
     "url": "https://github.com/fellowgeek/mcp-memory",
-    "score": 49,
+    "score": 53,
     "date": "2026-08-13",
     "category": "AI News"
   },
   {
-    "title": "Airbnb Eval-driven development: Lessons from evaluating GenAI at scale",
+    "title": "Show HN: OJCP \u2013 an open protocol for agent-consumable job data",
     "source": "Hacker News",
-    "description": "HN Score: 4 | 0 comments",
-    "url": "https://medium.com/airbnb-engineering/eval-driven-development-lessons-from-evaluating-genai-at-scale-e817e5ae5788",
-    "score": 4,
-    "date": "2026-08-13",
-    "category": "AI News"
-  },
-  {
-    "title": "Graduate student proves a quantum uncertainty principle for fractals",
-    "source": "Hacker News",
-    "description": "HN Score: 51 | 9 comments",
-    "url": "https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/",
-    "score": 51,
+    "description": "HN Score: 27 | 7 comments",
+    "url": "https://ojcp.dev/",
+    "score": 27,
     "date": "2026-08-13",
     "category": "AI News"
   }
