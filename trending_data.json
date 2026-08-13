@@ -10,9 +10,9 @@
   {
     "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
     "source": "Hacker News",
-    "description": "HN Score: 815 | 149 comments",
+    "description": "HN Score: 919 | 177 comments",
     "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-    "score": 815,
+    "score": 919,
     "date": "2026-08-13",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "Happy 45th Birthday to the IBM PC and Model F/XT",
     "source": "Hacker News",
-    "description": "HN Score: 33 | 9 comments",
+    "description": "HN Score: 57 | 18 comments",
     "url": "https://sharktastica.co.uk/articles/pc-fxt-45",
-    "score": 33,
+    "score": 57,
     "date": "2026-08-13",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Ballet \u2013 Workflow automation that writes integrations against any API",
+    "title": "Launch HN: Discovered Materials (YC P26) \u2013 AI agents to discover new materials",
     "source": "Hacker News",
-    "description": "HN Score: 17 | 2 comments",
-    "url": "https://www.ballet.dev/",
-    "score": 17,
+    "description": "HN Score: 130 | 28 comments",
+    "url": "https://discoveredmaterials.com/research/",
+    "score": 130,
     "date": "2026-08-13",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Launch HN: Discovered Materials (YC P26) \u2013 AI agents to discover new materials",
+    "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
     "source": "Hacker News",
-    "description": "HN Score: 116 | 22 comments",
-    "url": "https://discoveredmaterials.com/research/",
-    "score": 116,
+    "description": "HN Score: 259 | 191 comments",
+    "url": "https://knownagents.com/insights",
+    "score": 259,
     "date": "2026-08-13",
     "category": "AI News"
   },
@@ -76,11 +76,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
+    "title": "Show HN: Ballet \u2013 Workflow automation that writes integrations against any API",
     "source": "Hacker News",
-    "description": "HN Score: 236 | 175 comments",
-    "url": "https://knownagents.com/insights",
-    "score": 236,
+    "description": "HN Score: 28 | 6 comments",
+    "url": "https://www.ballet.dev/",
+    "score": 28,
+    "date": "2026-08-13",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: Why do so many AI-powered phone agents sound smart until you interrupt them? Even when these agents give you reasonable answers, you st",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2087588684170408397#m",
+    "date": "2026-08-13",
+    "category": "Twitter"
+  },
+  {
+    "title": "Lovable raises $400M Series C",
+    "source": "Hacker News",
+    "description": "HN Score: 119 | 117 comments",
+    "url": "https://lovable.dev/blog/series-c",
+    "score": 119,
     "date": "2026-08-13",
     "category": "AI News"
   },
@@ -93,71 +110,54 @@
     "category": "Twitter"
   },
   {
-    "title": "Waits: Arthur Samuel's Checkers",
-    "source": "Hacker News",
-    "description": "HN Score: 5 | 0 comments",
-    "url": "https://timereshared.com/waits-samuel-checkers/",
-    "score": 5,
-    "date": "2026-08-13",
-    "category": "AI News"
-  },
-  {
-    "title": "Why do so many AI-powered phone agents sound smart until you interrupt them? Even when these agents give you reasonable answers, you still leave these",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2087588684170408397#m",
-    "date": "2026-08-13",
-    "category": "Twitter"
-  },
-  {
-    "title": "Lovable raises $400M Series C",
-    "source": "Hacker News",
-    "description": "HN Score: 98 | 95 comments",
-    "url": "https://lovable.dev/blog/series-c",
-    "score": 98,
-    "date": "2026-08-13",
-    "category": "AI News"
-  },
-  {
-    "title": "Wow! DeepSeek v4 Pro is out and looks great on paper! While they do a fair bit of benchmark maxing, their models can also be used safely in production",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2087629560632467882#m",
-    "date": "2026-08-13",
-    "category": "Twitter"
-  },
-  {
     "title": "AI is removing the middle class of software engineering?",
     "source": "Hacker News",
-    "description": "HN Score: 737 | 670 comments",
+    "description": "HN Score: 814 | 741 comments",
     "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-    "score": 737,
+    "score": 814,
     "date": "2026-08-13",
     "category": "AI News"
   },
   {
-    "title": "Grok 4.6 just dropped and will be on LiveBench shortly - same price as Grok 4.5 which is great Not sure how much it really improves on 4.5. We will se",
+    "title": "AutoBots - Multi-LLM Self Improving Loop Are The Future - use the best LLM optimized for cost and performance - set a goal and a metric, AI does the r",
     "source": "@bindureddy",
     "description": "",
-    "url": "https://nitter.net/bindureddy/status/2087570401878847628#m",
+    "url": "https://nitter.net/bindureddy/status/2087773087534129615#m",
     "date": "2026-08-13",
     "category": "Twitter"
   },
   {
-    "title": "What sort of maths are LLMs good at?",
+    "title": "High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons",
     "source": "Hacker News",
-    "description": "HN Score: 238 | 134 comments",
-    "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
-    "score": 238,
+    "description": "HN Score: 159 | 17 comments",
+    "url": "https://petapixel.com/2026/08/04/amazing-high-res-photo-shows-a-butte-rising-from-mars/",
+    "score": 159,
     "date": "2026-08-13",
     "category": "AI News"
   },
   {
-    "title": "Anthropic in Talks to Buy World Model AI Startup Decart for $6B",
+    "title": "Grok 4.6 Day One Vibes - solid Sonnet-class model - Grok is now definitely ahead of Gemini - fantastic pricing We are already moving some Sonnet workl",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2087728386613670129#m",
+    "date": "2026-08-13",
+    "category": "Twitter"
+  },
+  {
+    "title": "Delphi 13 Community Edition Is Now Available",
     "source": "Hacker News",
-    "description": "HN Score: 6 | 0 comments",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-13/anthropic-said-in-talks-to-buy-ai-startup-decart-for-6-billion",
-    "score": 6,
+    "description": "HN Score: 169 | 125 comments",
+    "url": "https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/",
+    "score": 169,
+    "date": "2026-08-13",
+    "category": "AI News"
+  },
+  {
+    "title": "Waits: Arthur Samuel's Checkers",
+    "source": "Hacker News",
+    "description": "HN Score: 7 | 1 comments",
+    "url": "https://timereshared.com/waits-samuel-checkers/",
+    "score": 7,
     "date": "2026-08-13",
     "category": "AI News"
   }
