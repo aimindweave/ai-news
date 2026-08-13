@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "We eliminated 1,400 CVEs in NanoClaw's container images",
+    "title": "Accelerating GPT-5.6 Sol Ultrafast",
     "source": "Hacker News",
-    "description": "HN Score: 39 | 21 comments",
-    "url": "https://www.echo.ai/blog/echo-xnanoclaw-under-the-hood",
-    "score": 39,
+    "description": "HN Score: 93 | 16 comments",
+    "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+    "score": 93,
     "date": "2026-08-13",
     "category": "AI News"
   },
@@ -25,11 +25,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Codex in ChatGPT desktop app for Linux is now in preview",
+    "title": "AI At Home Part 1: A Box Of Scraps",
     "source": "Hacker News",
-    "description": "HN Score: 376 | 263 comments",
-    "url": "https://community.openai.com/t/codex-in-chatgpt-desktop-app-for-linux-is-now-in-preview/1390027",
-    "score": 376,
+    "description": "HN Score: 34 | 12 comments",
+    "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
+    "score": 34,
+    "date": "2026-08-13",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: When Everything Works, Who Writes the Rules?",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/ii_posts/status/2087945828618907965#m",
+    "date": "2026-08-13",
+    "category": "Twitter"
+  },
+  {
+    "title": "Choosing an AI model: one prompt, 11 models, different results",
+    "source": "Hacker News",
+    "description": "HN Score: 132 | 58 comments",
+    "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
+    "score": 132,
     "date": "2026-08-13",
     "category": "AI News"
   },
@@ -42,28 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: MCP Memory \u2013 Fast Agent Memory Using Google's OKF and SQLite FTS5",
+    "title": "Codex in ChatGPT desktop app for Linux is now in preview",
     "source": "Hacker News",
-    "description": "HN Score: 40 | 19 comments",
-    "url": "https://github.com/fellowgeek/mcp-memory",
-    "score": 40,
-    "date": "2026-08-13",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @EMostaque: Yukon: Open Innovation for Frontier Research Open Innovation has been the driving value at Eigen Labs. But I\u2019ve often struggled with",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/sreeramkannan/status/2087592836531388443#m",
-    "date": "2026-08-13",
-    "category": "Twitter"
-  },
-  {
-    "title": "I built a 500k-domain search engine for makers in a weekend for $10",
-    "source": "Hacker News",
-    "description": "HN Score: 69 | 36 comments",
-    "url": "https://alexmorleyfinch.github.io/marlin/history/v1/article/the_birth.html",
-    "score": 69,
+    "description": "HN Score: 408 | 284 comments",
+    "url": "https://community.openai.com/t/codex-in-chatgpt-desktop-app-for-linux-is-now-in-preview/1390027",
+    "score": 408,
     "date": "2026-08-13",
     "category": "AI News"
   },
@@ -76,45 +76,62 @@
     "category": "Twitter"
   },
   {
-    "title": "Graduate student proves a quantum uncertainty principle for fractals",
+    "title": "I built a 500k-domain search engine for makers in a weekend for $10",
     "source": "Hacker News",
-    "description": "HN Score: 24 | 5 comments",
-    "url": "https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/",
-    "score": 24,
+    "description": "HN Score: 95 | 55 comments",
+    "url": "https://alexmorleyfinch.github.io/marlin/history/v1/article/the_birth.html",
+    "score": 95,
     "date": "2026-08-13",
     "category": "AI News"
   },
   {
-    "title": "We are all learning here, so I\u2019m in no position to tell you how you should write and review your code. What I can tell you is what's working for the p",
+    "title": "Gemini 3.7 Flash is 50% off! This is a really good model you can integrate with any production application: \u2022 Supports reasoning \u2022 Tool calling \u2022 Mult",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2087882613088538898#m",
+    "url": "https://nitter.net/svpino/status/2087977399904501766#m",
     "date": "2026-08-13",
     "category": "Twitter"
   },
   {
-    "title": "The mathematical physics of rainbows and glories (2001) [pdf]",
+    "title": "Graduate student proves a quantum uncertainty principle for fractals",
     "source": "Hacker News",
-    "description": "HN Score: 19 | 0 comments",
-    "url": "https://tlakoba.w3.uvm.edu/AppliedUGMath/auxpaper_rainbow_glory_review.pdf",
-    "score": 19,
+    "description": "HN Score: 48 | 6 comments",
+    "url": "https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/",
+    "score": 48,
     "date": "2026-08-13",
     "category": "AI News"
   },
   {
-    "title": "RT by @svpino: Why do so many AI-powered phone agents sound smart until you interrupt them? Even when these agents give you reasonable answers, you st",
+    "title": "I've been using this vacuum for a while, and it's pretty awesome to talk to it, point at a mess, and ask it to clean it. I'm spoiled now. I want to ta",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2087588684170408397#m",
+    "url": "https://nitter.net/svpino/status/2087967255795843191#m",
+    "date": "2026-08-13",
+    "category": "Twitter"
+  },
+  {
+    "title": "Show HN: MCP Memory \u2013 Fast Agent Memory Using Google's OKF and SQLite FTS5",
+    "source": "Hacker News",
+    "description": "HN Score: 47 | 29 comments",
+    "url": "https://github.com/fellowgeek/mcp-memory",
+    "score": 47,
+    "date": "2026-08-13",
+    "category": "AI News"
+  },
+  {
+    "title": "Gemini 3.7 Flash Just Dropped The headline - 50% cheaper than Flash 3.6 TBH, they should just make it free and unlimited \ud83d\ude02\ud83d\ude02",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2087952911548694976#m",
     "date": "2026-08-13",
     "category": "Twitter"
   },
   {
     "title": "Launch HN: Bullet (YC S26) \u2013 A Faster Coding Agent",
     "source": "Hacker News",
-    "description": "HN Score: 15 | 8 comments",
+    "description": "HN Score: 25 | 29 comments",
     "url": "https://www.codewithbullet.com",
-    "score": 15,
+    "score": 25,
     "date": "2026-08-13",
     "category": "AI News"
   },
@@ -127,37 +144,20 @@
     "category": "Twitter"
   },
   {
-    "title": "Translating the Renaissance: 17,000+ historical source texts",
+    "title": "Show HN: OJCP \u2013 an open protocol for agent-consumable job data",
     "source": "Hacker News",
-    "description": "HN Score: 7 | 0 comments",
-    "url": "https://sourcelibrary.org",
-    "score": 7,
+    "description": "HN Score: 17 | 3 comments",
+    "url": "https://ojcp.dev/",
+    "score": 17,
     "date": "2026-08-13",
     "category": "AI News"
   },
   {
-    "title": "AutoBots - Multi-LLM Self Improving Loop Are The Future - use the best LLM optimized for cost and performance - set a goal and a metric, AI does the r",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2087773087534129615#m",
-    "date": "2026-08-13",
-    "category": "Twitter"
-  },
-  {
-    "title": "Choosing an AI model: one prompt, 11 models, different results",
+    "title": "The mathematical physics of rainbows and glories (2001) [pdf]",
     "source": "Hacker News",
-    "description": "HN Score: 104 | 54 comments",
-    "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
-    "score": 104,
-    "date": "2026-08-13",
-    "category": "AI News"
-  },
-  {
-    "title": "Text AI watermarks will always be trivial to remove",
-    "source": "Hacker News",
-    "description": "HN Score: 41 | 29 comments",
-    "url": "https://www.seangoedecke.com/text-ai-watermarks/",
-    "score": 41,
+    "description": "HN Score: 27 | 2 comments",
+    "url": "https://tlakoba.w3.uvm.edu/AppliedUGMath/auxpaper_rainbow_glory_review.pdf",
+    "score": 27,
     "date": "2026-08-13",
     "category": "AI News"
   }

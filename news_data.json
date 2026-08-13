@@ -1,5 +1,19 @@
 [
   {
+    "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+    "source": "TechCrunch",
+    "summary": "Anthropic researchers found AI agents can clash, collude and coordinate in unexpected ways, raising new questions about whether today\u2019s safety tests capture the risks of multi-agent systems.",
+    "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+    "date": "2026-08-13"
+  },
+  {
+    "title": "OpenAI hires new CRO as executive shake-up continues",
+    "source": "TechCrunch",
+    "summary": "Dali Rajic will take over as OpenAI's top salesperson.",
+    "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
+    "date": "2026-08-13"
+  },
+  {
     "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
     "source": "TechCrunch",
     "summary": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character.",
@@ -91,17 +105,10 @@
     "date": "2026-08-13"
   },
   {
-    "title": "Everything announced at Made by Google \u201926: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
-    "source": "TechCrunch",
-    "summary": "From the Pixel 11 series and a brand new competitor to Apple\u2019s AirTag, here are all the announcements from the Made by Google 2026 event.",
-    "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
-    "date": "2026-08-13"
-  },
-  {
-    "title": "AI code-testing startup Blacksmith\u2019s valuation jumps almost 10x in less than a year",
-    "source": "TechCrunch",
-    "summary": "Blacksmith says revenue has grown more than tenfold over the past year.",
-    "url": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
+    "title": "Building a practical path to post-quantum cryptography",
+    "source": "MIT Tech Review",
+    "summary": "Quantum computing has alternated between breakthrough darling and overhyped promise in technology circles. Its powerful new capabilities come with a threat to break current cryptography, but for business leaders navigating the noise, the signal should be clear: post-quantum cryptography (PQC) is ...",
+    "url": "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/",
     "date": "2026-08-13"
   },
   {
@@ -165,13 +172,6 @@
     "source": "MIT Tech Review",
     "summary": "I first heard the term \u201ccensorship-industrial complex\u201d on April 15, 2025. That\u2019s when I got the tip that a small office in the U.S. State Department, which focused on monitoring and countering foreign disinformation from the likes of Russia, Iran, and China, was facing imminent shutdown\u2014the next ...",
     "url": "https://www.technologyreview.com/2026/08/11/1141635/how-the-censorship-industrial-complex-is-changing-the-internet-and-us-policy/",
-    "date": "2026-08-13"
-  },
-  {
-    "title": "The Download: the next big thing in LLMs and how AI academic research is shifting",
-    "source": "MIT Tech Review",
-    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. These startups are chasing the next big thing in LLMs Nine years after Google researchers introduced the transformer, this family of neural networks has become...",
-    "url": "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/",
     "date": "2026-08-13"
   },
   {
@@ -242,6 +242,20 @@
     "source": "Wired",
     "summary": "Mini human brains are being grown in labs all over the world. Soon, they could outthink neural networks.",
     "url": "https://www.wired.com/story/organoids-lab-grown-brains-neural-networks/",
+    "date": "2026-08-13"
+  },
+  {
+    "title": "The new Instagram logo is the perfect embodiment of AI slop",
+    "source": "Ars Technica",
+    "summary": "Opinion: Some remarks about the new wordmark accidentally being perfectly awful.",
+    "url": "https://arstechnica.com/ai/2026/08/the-new-instagram-logo-is-the-perfect-embodiment-of-ai-slop/",
+    "date": "2026-08-13"
+  },
+  {
+    "title": "Google announces Gemini 3.7 Flash just three weeks after previous release",
+    "source": "Ars Technica",
+    "summary": "Gemini 3.6 Flash debuted just 3 weeks ago, but Google says 3.7 has 'substantial improvements.'",
+    "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
     "date": "2026-08-13"
   },
   {
@@ -333,20 +347,6 @@
     "source": "Ars Technica",
     "summary": "Clinicians and researchers say AI companies need to open up their safety data.",
     "url": "https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed/",
-    "date": "2026-08-13"
-  },
-  {
-    "title": "ByteDance trains massive AI model in bid to rival Anthropic",
-    "source": "Ars Technica",
-    "summary": "TikTok owner training a model with 10 trillion parameters.",
-    "url": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
-    "date": "2026-08-13"
-  },
-  {
-    "title": "Suno hopes to go legit with watermarks for AI-generated music",
-    "source": "Ars Technica",
-    "summary": "Suno plans watermarks and download limits to stop 'large-scale abuse.'",
-    "url": "https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/",
     "date": "2026-08-13"
   }
 ]
