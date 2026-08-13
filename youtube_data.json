@@ -1,13 +1,35 @@
 [
   {
+    "id": "wjZofJX0v4M",
+    "title": "Transformers, the tech behind LLMs | Deep Learning Chapter 5",
+    "channel": "3Blue1Brown",
+    "description": "Breaking down how Large Language Models work, visualizing how data flows through. Instead of sponsored ad reads, these ...",
+    "publishedAt": "2024-04-01T19:13:57Z",
+    "thumbnail": "https://i.ytimg.com/vi/wjZofJX0v4M/hqdefault.jpg",
+    "views": 10884169,
+    "likes": 232892,
+    "url": "https://youtube.com/watch?v=wjZofJX0v4M"
+  },
+  {
+    "id": "LPZh9BOjkQs",
+    "title": "Large Language Models explained briefly",
+    "channel": "3Blue1Brown",
+    "description": "A light intro to LLMs, chatbots, pretraining, and transformers. Dig deeper here: ...",
+    "publishedAt": "2024-11-20T15:07:15Z",
+    "thumbnail": "https://i.ytimg.com/vi/LPZh9BOjkQs/hqdefault.jpg",
+    "views": 7099724,
+    "likes": 193816,
+    "url": "https://youtube.com/watch?v=LPZh9BOjkQs"
+  },
+  {
     "id": "sVcwVQRHIc8",
     "title": "Learn RAG From Scratch – Python AI Tutorial from a LangChain Engineer",
     "channel": "freeCodeCamp.org",
     "description": "Learn how to implement RAG (Retrieval Augmented Generation) from scratch, straight from a LangChain software engineer.",
     "publishedAt": "2024-04-17T13:54:43Z",
     "thumbnail": "https://i.ytimg.com/vi/sVcwVQRHIc8/hqdefault.jpg",
-    "views": 1520242,
-    "likes": 27159,
+    "views": 1520548,
+    "likes": 27162,
     "url": "https://youtube.com/watch?v=sVcwVQRHIc8"
   },
   {
@@ -17,8 +39,8 @@
     "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
     "publishedAt": "2026-03-09T11:00:51Z",
     "thumbnail": "https://i.ytimg.com/vi/UabBYexBD4k/hqdefault.jpg",
-    "views": 933494,
-    "likes": 23664,
+    "views": 933718,
+    "likes": 23666,
     "url": "https://youtube.com/watch?v=UabBYexBD4k"
   },
   {
@@ -28,7 +50,7 @@
     "description": "Learn what Retrieval Augmented Generation (RAG) is and how it combines retrieval and generation to create accurate, ...",
     "publishedAt": "2025-01-23T14:30:05Z",
     "thumbnail": "https://i.ytimg.com/vi/CbAQUqnrDcA/hqdefault.jpg",
-    "views": 749211,
+    "views": 749320,
     "likes": 12225,
     "url": "https://youtube.com/watch?v=CbAQUqnrDcA"
   },
@@ -39,8 +61,8 @@
     "description": "Try RAG Hands-On Labs for Free - https://kode.wiki/4oANO8s Learn how RAG (Retrieval Augmented Generation) solves the ...",
     "publishedAt": "2025-08-13T15:52:09Z",
     "thumbnail": "https://i.ytimg.com/vi/_HQ2H_0Ayy0/hqdefault.jpg",
-    "views": 667271,
-    "likes": 11205,
+    "views": 667474,
+    "likes": 11208,
     "url": "https://youtube.com/watch?v=_HQ2H_0Ayy0"
   },
   {
@@ -55,15 +77,59 @@
     "url": "https://youtube.com/watch?v=2TJxpyO3ei4"
   },
   {
-    "id": "o126p1QN_RI",
-    "title": "Complete RAG Crash Course With Langchain In 2 Hours",
-    "channel": "Krish Naik",
-    "description": "github: https://github.com/krishnaik06/RAG-Tutorials Retrieval-Augmented Generation (RAG) is the process of optimizing the ...",
-    "publishedAt": "2025-10-06T03:12:46Z",
-    "thumbnail": "https://i.ytimg.com/vi/o126p1QN_RI/hqdefault.jpg",
-    "views": 476854,
-    "likes": 11505,
-    "url": "https://youtube.com/watch?v=o126p1QN_RI"
+    "id": "TwDJhUJL-5o",
+    "title": "The Truth About Building AI Startups Today",
+    "channel": "Y Combinator",
+    "description": "In the first episode of the Lightcone Podcast, YC Group Partners dig into everything they have learned working with the top ...",
+    "publishedAt": "2024-02-08T21:04:30Z",
+    "thumbnail": "https://i.ytimg.com/vi/TwDJhUJL-5o/hqdefault.jpg",
+    "views": 550101,
+    "likes": 11730,
+    "url": "https://youtube.com/watch?v=TwDJhUJL-5o"
+  },
+  {
+    "id": "HQ3eVt2jgAY",
+    "title": "$215M AI CEO: How I’d Build a Profitable AI Startup in 30 Days (2026 Playbook)",
+    "channel": "Silicon Valley Girl",
+    "description": "Grab the FREE AI guide for creators — tools, prompts, and real examples to grow faster and create better content: ...",
+    "publishedAt": "2025-12-29T13:00:28Z",
+    "thumbnail": "https://i.ytimg.com/vi/HQ3eVt2jgAY/hqdefault.jpg",
+    "views": 549160,
+    "likes": 11781,
+    "url": "https://youtube.com/watch?v=HQ3eVt2jgAY"
+  },
+  {
+    "id": "osKyvYJ3PRM",
+    "title": "Everything You Need To Know About Large Language Models (LLMs)",
+    "channel": "Matthew Berman",
+    "description": "A brief introduction to everything you need to know about Large Language Models (LLMs) to go from knowing nothing to having a ...",
+    "publishedAt": "2024-03-07T18:13:15Z",
+    "thumbnail": "https://i.ytimg.com/vi/osKyvYJ3PRM/hqdefault.jpg",
+    "views": 507797,
+    "likes": 12873,
+    "url": "https://youtube.com/watch?v=osKyvYJ3PRM"
+  },
+  {
+    "id": "nKSk_TiR8YA",
+    "title": "Most devs don&#39;t understand how LLM tokens work",
+    "channel": "Matt Pocock",
+    "description": "Most devs are using LLMs daily but don't have a clue about some of the fundamentals. Understanding tokens is crucial because ...",
+    "publishedAt": "2025-09-19T11:31:59Z",
+    "thumbnail": "https://i.ytimg.com/vi/nKSk_TiR8YA/hqdefault.jpg",
+    "views": 335002,
+    "likes": 11437,
+    "url": "https://youtube.com/watch?v=nKSk_TiR8YA"
+  },
+  {
+    "id": "TANaRNMbYgk",
+    "title": "How To Get AI Startup Ideas",
+    "channel": "Y Combinator",
+    "description": "Apply to AI Startup School in SF: https://events.ycombinator.com/ai-sus There's never been a better time to launch an AI startup, ...",
+    "publishedAt": "2025-02-07T15:00:41Z",
+    "thumbnail": "https://i.ytimg.com/vi/TANaRNMbYgk/hqdefault.jpg",
+    "views": 283924,
+    "likes": 5770,
+    "url": "https://youtube.com/watch?v=TANaRNMbYgk"
   },
   {
     "id": "rz40ukZ3krQ",
@@ -72,9 +138,64 @@
     "description": "GET MY FREE SOFTWARE DEVELOPMENT GUIDE   https://training.techwithtim.net/free-guide In this video, I'm going to show ...",
     "publishedAt": "2024-04-22T12:22:19Z",
     "thumbnail": "https://i.ytimg.com/vi/rz40ukZ3krQ/hqdefault.jpg",
-    "views": 217555,
+    "views": 217564,
     "likes": 4548,
     "url": "https://youtube.com/watch?v=rz40ukZ3krQ"
+  },
+  {
+    "id": "fB2JQXEH_94",
+    "title": "RAG vs Agentic AI: How LLMs Connect Data for Smarter AI",
+    "channel": "IBM Technology",
+    "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
+    "publishedAt": "2025-12-08T12:01:30Z",
+    "thumbnail": "https://i.ytimg.com/vi/fB2JQXEH_94/hqdefault.jpg",
+    "views": 169029,
+    "likes": 3569,
+    "url": "https://youtube.com/watch?v=fB2JQXEH_94"
+  },
+  {
+    "id": "efa728D0yWM",
+    "title": "I Built An $85M AI Startup in 5 Months (here&#39;s my playbook)",
+    "channel": "Chris Donnelly",
+    "description": "Want to learn how Google describes your company ...",
+    "publishedAt": "2026-06-10T11:51:35Z",
+    "thumbnail": "https://i.ytimg.com/vi/efa728D0yWM/hqdefault.jpg",
+    "views": 166028,
+    "likes": 5739,
+    "url": "https://youtube.com/watch?v=efa728D0yWM"
+  },
+  {
+    "id": "ytmK_ErTWss",
+    "title": "LLMs EXPLAINED in 60 seconds #ai",
+    "channel": "Shaw Talebi",
+    "description": "",
+    "publishedAt": "2024-01-29T14:53:40Z",
+    "thumbnail": "https://i.ytimg.com/vi/ytmK_ErTWss/hqdefault.jpg",
+    "views": 125136,
+    "likes": 1977,
+    "url": "https://youtube.com/watch?v=ytmK_ErTWss"
+  },
+  {
+    "id": "dhbcVxYhWaQ",
+    "title": "The $1,000/hour Solo AI business (Full Course)",
+    "channel": "Greg Isenberg",
+    "description": "In this episode I sit down with Corey Ganim to unpack what he calls the simplest way to earn money with AI in 2026: a $999 AI ...",
+    "publishedAt": "2026-07-15T18:20:16Z",
+    "thumbnail": "https://i.ytimg.com/vi/dhbcVxYhWaQ/hqdefault.jpg",
+    "views": 110721,
+    "likes": 3528,
+    "url": "https://youtube.com/watch?v=dhbcVxYhWaQ"
+  },
+  {
+    "id": "ChR5AN2CxlE",
+    "title": "AI Startups NOBODY asked for are EVERYWHERE!",
+    "channel": "Joshua Fluke",
+    "description": "Every week there's a “revolutionary” new AI startup solving problems nobody ever had — and somehow, they all got VC funding.",
+    "publishedAt": "2025-10-29T17:45:19Z",
+    "thumbnail": "https://i.ytimg.com/vi/ChR5AN2CxlE/hqdefault.jpg",
+    "views": 99437,
+    "likes": 4321,
+    "url": "https://youtube.com/watch?v=ChR5AN2CxlE"
   },
   {
     "id": "dDkynerzV-Q",
@@ -83,20 +204,119 @@
     "description": "In almost all of the Gen AI engineer job posts, RAG is a common skill that employers ask for. RAG is an essential component in ...",
     "publishedAt": "2026-05-04T13:30:06Z",
     "thumbnail": "https://i.ytimg.com/vi/dDkynerzV-Q/hqdefault.jpg",
-    "views": 78428,
-    "likes": 1568,
+    "views": 78465,
+    "likes": 1569,
     "url": "https://youtube.com/watch?v=dDkynerzV-Q"
   },
   {
-    "id": "e_vyfzNtyIM",
-    "title": "RAG in Telugu | What is Retrieval-Augmented Generation | Vamsi Bhavani",
-    "channel": "Vamsi Bhavani",
-    "description": "rag What is Retrieval-Augmented Generation (RAG) Introduction To Undertsanding RAG Retrieval-augmented generation (RAG), ...",
-    "publishedAt": "2025-10-13T12:58:12Z",
-    "thumbnail": "https://i.ytimg.com/vi/e_vyfzNtyIM/hqdefault.jpg",
-    "views": 61738,
-    "likes": 1370,
-    "url": "https://youtube.com/watch?v=e_vyfzNtyIM"
+    "id": "LpKGm1jJXv4",
+    "title": "Setting up Retrieval Augmented Generation (RAG) in 3 Steps",
+    "channel": "IBM Technology",
+    "description": "Want to play with the technology yourself? Explore our interactive demo → https://ibm.biz/BdKCeD Learn more about the ...",
+    "publishedAt": "2024-09-12T11:00:32Z",
+    "thumbnail": "https://i.ytimg.com/vi/LpKGm1jJXv4/hqdefault.jpg",
+    "views": 75448,
+    "likes": 997,
+    "url": "https://youtube.com/watch?v=LpKGm1jJXv4"
+  },
+  {
+    "id": "9UpLmjlDgPg",
+    "title": "Every Large Language Model Explained in 17 Minutes!",
+    "channel": "Codist ",
+    "description": "Learn AI Engineering Interactively With Scrimba With 20% Discount : https://scrimba.com/learn/aiengineer?via=codist There are ...",
+    "publishedAt": "2026-05-06T11:00:30Z",
+    "thumbnail": "https://i.ytimg.com/vi/9UpLmjlDgPg/hqdefault.jpg",
+    "views": 54515,
+    "likes": 2022,
+    "url": "https://youtube.com/watch?v=9UpLmjlDgPg"
+  },
+  {
+    "id": "sg_fuEzFw0g",
+    "title": "Large Language Models (LLMs) Explained",
+    "channel": "Common Craft Explainer Videos",
+    "description": "Learn the big ideas behind Large Language Models and how they are used bu artificial intelligence. Need ready-made explainer ...",
+    "publishedAt": "2024-08-25T17:10:59Z",
+    "thumbnail": "https://i.ytimg.com/vi/sg_fuEzFw0g/hqdefault.jpg",
+    "views": 35314,
+    "likes": 274,
+    "url": "https://youtube.com/watch?v=sg_fuEzFw0g"
+  },
+  {
+    "id": "dVQgcuh4uPU",
+    "title": "How ChatGPT Works | LLMs Explained in 8 Minutes",
+    "channel": "Maven Analytics",
+    "description": "How does ChatGPT work? In this video, Alice Zhao breaks down what's really powering ChatGPT, Claude, and all the AI tools ...",
+    "publishedAt": "2025-07-31T14:00:53Z",
+    "thumbnail": "https://i.ytimg.com/vi/dVQgcuh4uPU/hqdefault.jpg",
+    "views": 21607,
+    "likes": 517,
+    "url": "https://youtube.com/watch?v=dVQgcuh4uPU"
+  },
+  {
+    "id": "el7GQt2_1kE",
+    "title": "Every AI Startup is Secretly Dying",
+    "channel": "Pooja Dutt",
+    "description": "There's a new movement happening in the tech industry - big tech is aqui-hiring founders and key team members of opposing ...",
+    "publishedAt": "2026-08-07T14:23:13Z",
+    "thumbnail": "https://i.ytimg.com/vi/el7GQt2_1kE/hqdefault.jpg",
+    "views": 17840,
+    "likes": 675,
+    "url": "https://youtube.com/watch?v=el7GQt2_1kE"
+  },
+  {
+    "id": "99s6N4Vov1c",
+    "title": "AI Startups With No Revenue Are Using This Tactic To Supersize Their Valuations",
+    "channel": "Forbes",
+    "description": "Funding rounds where VCs can invest at wildly different prices are helping AI founders raise unprecedented amounts of money at ...",
+    "publishedAt": "2026-07-01T13:00:06Z",
+    "thumbnail": "https://i.ytimg.com/vi/99s6N4Vov1c/hqdefault.jpg",
+    "views": 16498,
+    "likes": 368,
+    "url": "https://youtube.com/watch?v=99s6N4Vov1c"
+  },
+  {
+    "id": "Qq7rKvigEuk",
+    "title": "Raising funds for your AI startup? | #TheAIGuy",
+    "channel": "Nivedan Rathi",
+    "description": "Listen up. Everyone chases VCs. But you're missing a massive funding pool. Government grants and strategic schemes.",
+    "publishedAt": "2025-08-23T12:12:46Z",
+    "thumbnail": "https://i.ytimg.com/vi/Qq7rKvigEuk/hqdefault.jpg",
+    "views": 14647,
+    "likes": 420,
+    "url": "https://youtube.com/watch?v=Qq7rKvigEuk"
+  },
+  {
+    "id": "Dndj6pTNkdg",
+    "title": "1 Smart Business Story: These AI startups are set to explode in 2026  | Inc.",
+    "channel": "Inc.",
+    "description": "The next big thing in artificial intelligence probably won't look like OpenAI or Anthropic. \"Companies aren't really attempting to ...",
+    "publishedAt": "2026-02-23T22:00:00Z",
+    "thumbnail": "https://i.ytimg.com/vi/Dndj6pTNkdg/hqdefault.jpg",
+    "views": 7148,
+    "likes": 17,
+    "url": "https://youtube.com/watch?v=Dndj6pTNkdg"
+  },
+  {
+    "id": "3ZxbaeqZIHQ",
+    "title": "The world&#39;s smallest transformer model",
+    "channel": "Luis Serrano Academy",
+    "description": "This is the second of a trilogy of videos titled \"The world's smallest transformer model\". In this video, we build a tiny transformer ...",
+    "publishedAt": "2026-07-20T14:45:37Z",
+    "thumbnail": "https://i.ytimg.com/vi/3ZxbaeqZIHQ/hqdefault.jpg",
+    "views": 7050,
+    "likes": 398,
+    "url": "https://youtube.com/watch?v=3ZxbaeqZIHQ"
+  },
+  {
+    "id": "UgvrrHc5BRY",
+    "title": "Large Language Models Explained Simply (In 13 Minutes)",
+    "channel": "The Gradient Descent",
+    "description": "Get Free E-Book “Machine Learning Simplified”: https://thegradientdescent.net/upgrade ...",
+    "publishedAt": "2026-02-25T02:00:34Z",
+    "thumbnail": "https://i.ytimg.com/vi/UgvrrHc5BRY/hqdefault.jpg",
+    "views": 6601,
+    "likes": 310,
+    "url": "https://youtube.com/watch?v=UgvrrHc5BRY"
   },
   {
     "id": "RosLeHGBLoY",
@@ -105,8 +325,96 @@
     "description": "RAG explained simply in detail for beginners | What is rag in ai | How rag works in llm In this rag tutorial, you will learn ...",
     "publishedAt": "2026-05-05T13:30:53Z",
     "thumbnail": "https://i.ytimg.com/vi/RosLeHGBLoY/hqdefault.jpg",
-    "views": 6447,
+    "views": 6453,
     "likes": 181,
     "url": "https://youtube.com/watch?v=RosLeHGBLoY"
+  },
+  {
+    "id": "J4hSc9He614",
+    "title": "The world&#39;s smallest attention mechanism",
+    "channel": "Luis Serrano Academy",
+    "description": "This is the third and last video of a trilogy of videos titled \"The world's smallest transformer model\". In this video, we add an ...",
+    "publishedAt": "2026-08-04T14:11:45Z",
+    "thumbnail": "https://i.ytimg.com/vi/J4hSc9He614/hqdefault.jpg",
+    "views": 5400,
+    "likes": 294,
+    "url": "https://youtube.com/watch?v=J4hSc9He614"
+  },
+  {
+    "id": "3THzlSIzfug",
+    "title": "How neural networks bend space",
+    "channel": "Luis Serrano Academy",
+    "description": "This is the first of a trilogy of videos titled \"The world's smallest transformer model\". In this video, we study how LLMs bend space ...",
+    "publishedAt": "2026-07-06T13:29:50Z",
+    "thumbnail": "https://i.ytimg.com/vi/3THzlSIzfug/hqdefault.jpg",
+    "views": 5225,
+    "likes": 349,
+    "url": "https://youtube.com/watch?v=3THzlSIzfug"
+  },
+  {
+    "id": "i7VNOdvdrCA",
+    "title": "The attention mechanism in higher dimensions",
+    "channel": "Luis Serrano Academy",
+    "description": "This is the Addendum to the and last video of a trilogy of videos titled \"The world's smallest transformer model\". In this video, we ...",
+    "publishedAt": "2026-08-10T03:23:40Z",
+    "thumbnail": "https://i.ytimg.com/vi/i7VNOdvdrCA/hqdefault.jpg",
+    "views": 1862,
+    "likes": 108,
+    "url": "https://youtube.com/watch?v=i7VNOdvdrCA"
+  },
+  {
+    "id": "2sQLfnV3SUo",
+    "title": "AI Agents Masterclass on May 7!",
+    "channel": "Luis Serrano Academy",
+    "description": "Link to register: http://tinyurl.com/agentsmasterclass.",
+    "publishedAt": "2026-05-02T16:51:58Z",
+    "thumbnail": "https://i.ytimg.com/vi/2sQLfnV3SUo/hqdefault.jpg",
+    "views": 1816,
+    "likes": 34,
+    "url": "https://youtube.com/watch?v=2sQLfnV3SUo"
+  },
+  {
+    "id": "cus9S6jb4_o",
+    "title": "RAG is not an Agent????",
+    "channel": "Luis Serrano Academy",
+    "description": "Come to our Masterclass! http://tinyurl.com/agentsmasterclass.",
+    "publishedAt": "2026-05-04T13:14:02Z",
+    "thumbnail": "https://i.ytimg.com/vi/cus9S6jb4_o/hqdefault.jpg",
+    "views": 1229,
+    "likes": 38,
+    "url": "https://youtube.com/watch?v=cus9S6jb4_o"
+  },
+  {
+    "id": "OtBjvEDz_fk",
+    "title": "AMA with Luis Serrano",
+    "channel": "Luis Serrano Academy",
+    "description": "Luis Serrano is an AI scientist and educator. Previously, he was a Machine Learning Engineer at Google and Lead Artificial ...",
+    "publishedAt": "2026-07-24T03:22:34Z",
+    "thumbnail": "https://i.ytimg.com/vi/OtBjvEDz_fk/hqdefault.jpg",
+    "views": 1168,
+    "likes": 45,
+    "url": "https://youtube.com/watch?v=OtBjvEDz_fk"
+  },
+  {
+    "id": "-zcc5QlXXPY",
+    "title": "Alessandro Romano, Josh Starmer, Luis Serrano @MyDataGuest1 @statquest @alessandro-romano90",
+    "channel": "Luis Serrano Academy",
+    "description": "Come join us in this Live Q/A where our guest is Alessandro Romano, the creator of the My Data Guest podcast! Feel free to post ...",
+    "publishedAt": "2026-07-17T04:33:49Z",
+    "thumbnail": "https://i.ytimg.com/vi/-zcc5QlXXPY/hqdefault.jpg",
+    "views": 911,
+    "likes": 28,
+    "url": "https://youtube.com/watch?v=-zcc5QlXXPY"
+  },
+  {
+    "id": "4JNSP_Dfh4M",
+    "title": "What Is An LLM in AI? (Explained Clearly) - Large Language Model",
+    "channel": "Jay Mayor",
+    "description": "You'll learn what a Large Language Model (LLM) is, how it powers tools like ChatGPT, and why it acts like the world's smartest ...",
+    "publishedAt": "2026-03-24T03:20:01Z",
+    "thumbnail": "https://i.ytimg.com/vi/4JNSP_Dfh4M/hqdefault.jpg",
+    "views": 792,
+    "likes": 12,
+    "url": "https://youtube.com/watch?v=4JNSP_Dfh4M"
   }
 ]
