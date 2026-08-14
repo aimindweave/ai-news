@@ -93,7 +93,27 @@
   ],
   "episodes": [
     {
+      "id": "Hard For_0",
+      "name": "Zuckerberg’s Anti-Doom Fantasy + Finally an A.I. Detector That Works + A.I. Math",
+      "show": "Hard Fork",
+      "description": "This week we’re talking about Mark Zuckerberg’s latest essay, “The Future Is for Everyone,” which outlines his positive new vision about the potential of A.I. But do we think it’s credible? Then, P",
+      "release_date": "2026-08-14",
+      "duration_min": 63,
+      "image": "",
+      "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
+    },
+    {
       "id": "a]6z Pod_0",
+      "name": "Ben Horowitz and Travis Kalanick on Building Again",
+      "show": "a]6z Podcast",
+      "description": "Ben Horowitz, Travis Kalanick, and Erik Torenberg take the stage at Atoms' launch event for a candid fireside conversation about entrepreneurship, company building, and why Kalanick believes the ne",
+      "release_date": "2026-08-14",
+      "duration_min": 33,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
+      "id": "a]6z Pod_1",
       "name": "The Two Ways to Sell AI: Lighthouse or Landgrab?",
       "show": "a]6z Podcast",
       "description": "Elena Burger is joined by a16z's Andy McCall and Joe Schmidt to break down two very different ways AI startups can go to market: the lighthouse and the landgrab. Should founders win a handful of ma",
@@ -101,16 +121,6 @@
       "duration_min": 44,
       "image": "",
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
-    },
-    {
-      "id": "Lex Frid_0",
-      "name": "#500 – Khabib Nurmagomedov: Dagestan, MMA, UFC, Islam, Conor, Fedor & Football",
-      "show": "Lex Fridman Podcast",
-      "description": "Khabib Nurmagomedov is one of the greatest fighters of all time, who retired from the UFC undefeated with a perfect 29-0 record. We did this conversation entirely in Russian. It&#8217;s translated ",
-      "release_date": "2026-08-12",
-      "duration_min": 0,
-      "image": "",
-      "url": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"
     },
     {
       "id": "The TWIM_0",
@@ -123,7 +133,7 @@
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "Garry Tan on Taste, Agents and Founder Ambition",
       "show": "a]6z Podcast",
       "description": "Anish Acharya is joined by Garry Tan, President and CEO of Y Combinator, for a conversation about how AI is rewriting the startup playbook, why founders should be more ambitious than ever, and what",
@@ -133,17 +143,7 @@
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
-      "id": "a]6z Pod_2",
-      "name": "The CISO Playbook for AI Agents | Datadog",
-      "show": "a]6z Podcast",
-      "description": "a16z's Joel De La Garza is joined by Emilio Escobar, Chief Information Security Officer at Datadog, to discuss what it takes to secure a company where nearly every employee is using AI and more tha",
-      "release_date": "2026-08-11",
-      "duration_min": 22,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
-    },
-    {
-      "id": "Hard For_0",
+      "id": "Hard For_1",
       "name": "The White House’s Secret A.I. Rules + The State of Model Alignment With METR’s Chris Painter + The Final Hot Mess Express",
       "show": "Hard Fork",
       "description": "This week, the White House announced a new framework for regulating A.I. models, but it isn’t letting the public read it. We break down what we know about the rules and what the implications are fo",
@@ -163,7 +163,7 @@
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
-      "id": "Hard For_1",
+      "id": "Hard For_2",
       "name": "Open Model Wars + Claire Stapleton's Dishy Google Memoir + Substack's Slop Fight",
       "show": "Hard Fork",
       "description": "This week, we break down the arguments about open-weight models unfolding in Silicon Valley right now. Nvidia released an open letter signed by over 230 companies opposing “premature restrictions,”",
@@ -183,16 +183,6 @@
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
-      "id": "Lex Frid_1",
-      "name": "#499 – Gary Gallagher: American Civil War, Slavery, Lincoln, Grant & Lee",
-      "show": "Lex Fridman Podcast",
-      "description": "Gary Gallagher is a historian of the American Civil War.<br />\nThank you for listening ❤ Check out our sponsors: <a href=\"https://lexfridman.com/sponsors/ep499-sc\">https://lexfridman.com/sponsors/e",
-      "release_date": "2026-07-28",
-      "duration_min": 233,
-      "image": "",
-      "url": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"
-    },
-    {
       "id": "The TWIM_1",
       "name": "Why Models Are AI’s Next Training Dataset with Damian Borth - #772",
       "show": "The TWIML AI Podcast",
@@ -201,16 +191,6 @@
       "duration_min": 47,
       "image": "",
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
-    },
-    {
-      "id": "Hard For_2",
-      "name": "OpenAI Models Go Rogue + Kimi K3 Freakout + A.I. Superforecasting",
-      "show": "Hard Fork",
-      "description": "This week, OpenAI reported that two of its models escaped their testing sandbox and launched an autonomous cyberattack, turning what sounds like science fiction into reality. We discuss the implica",
-      "release_date": "2026-07-24",
-      "duration_min": 68,
-      "image": "",
-      "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
       "id": "Practica_2",
@@ -231,16 +211,6 @@
       "duration_min": 59,
       "image": "",
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
-    },
-    {
-      "id": "Lex Frid_2",
-      "name": "#498 – Anthony Kaldellis: Roman Empire, Byzantine Empire, Rise & Fall of Empires",
-      "show": "Lex Fridman Podcast",
-      "description": "Anthony Kaldellis is a historian of the Roman Empire and author of &#8220;The New Roman Empire&#8221;, a comprehensive history of the Byzantine Empire (Eastern Roman Empire).<br />\nThank you for li",
-      "release_date": "2026-06-30",
-      "duration_min": 0,
-      "image": "",
-      "url": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"
     },
     {
       "id": "The AI P_0",
