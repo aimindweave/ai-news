@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Google is making private AI practical with homomorphic encryption",
+    "title": "Maximizing the value of your Claude Code sessions",
     "source": "Hacker News",
-    "description": "HN Score: 31 | 16 comments",
-    "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-    "score": 31,
+    "description": "HN Score: 60 | 30 comments",
+    "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+    "score": 60,
     "date": "2026-08-14",
     "category": "AI News"
   },
@@ -25,11 +25,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Graft \u2013 Claude Code hooks that cut grep tokens by 42%",
+    "title": "AI by Hand",
     "source": "Hacker News",
-    "description": "HN Score: 21 | 16 comments",
-    "url": "https://github.com/NanoNets/Graft",
-    "score": 21,
+    "description": "HN Score: 71 | 7 comments",
+    "url": "https://www.byhand.ai/",
+    "score": 71,
+    "date": "2026-08-14",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: We\u2019re excited to announce DiG-bench, a new benchmark for discovery! Over the last few weeks we\u2019ve been testing frontier AI models on",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/jcrwhittington/status/2087535497480388729#m",
+    "date": "2026-08-14",
+    "category": "Twitter"
+  },
+  {
+    "title": "Google is making private AI practical with homomorphic encryption",
+    "source": "Hacker News",
+    "description": "HN Score: 96 | 67 comments",
+    "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+    "score": 96,
     "date": "2026-08-14",
     "category": "AI News"
   },
@@ -42,28 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "HashAgent \u2013 Share an AI agent as a URL, runs locally via WebGPU",
+    "title": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
     "source": "Hacker News",
-    "description": "HN Score: 29 | 3 comments",
-    "url": "https://hashagent.pages.dev/",
-    "score": 29,
-    "date": "2026-08-14",
-    "category": "AI News"
-  },
-  {
-    "title": "Suggestion for @X team If I have @grok Super Heavy let me use it to edit the code for my timeline directly up to certain parameters I should be able t",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/EMostaque/status/2088200799809610192#m",
-    "date": "2026-08-14",
-    "category": "Twitter"
-  },
-  {
-    "title": "AI Model Atlas \u2013 visualizing populations of ML models as interconnected 3D graph",
-    "source": "Hacker News",
-    "description": "HN Score: 19 | 3 comments",
-    "url": "https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0",
-    "score": 19,
+    "description": "HN Score: 11 | 0 comments",
+    "url": "https://arxiv.org/abs/2608.12700",
+    "score": 11,
     "date": "2026-08-14",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "AI by Hand",
+    "title": "AI Model Atlas \u2013 visualizing populations of ML models as interconnected 3D graph",
     "source": "Hacker News",
-    "description": "HN Score: 4 | 0 comments",
-    "url": "https://www.byhand.ai/",
-    "score": 4,
+    "description": "HN Score: 35 | 5 comments",
+    "url": "https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0",
+    "score": 35,
     "date": "2026-08-14",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Ruby 4.0 Universal RCE Deserialization Gadget Chain",
+    "title": "HashAgent \u2013 Share an AI agent as a URL, runs locally via WebGPU",
     "source": "Hacker News",
-    "description": "HN Score: 69 | 19 comments",
-    "url": "https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain",
-    "score": 69,
+    "description": "HN Score: 38 | 4 comments",
+    "url": "https://hashagent.pages.dev/",
+    "score": 38,
     "date": "2026-08-14",
     "category": "AI News"
   },
@@ -112,9 +112,9 @@
   {
     "title": "Show HN: Is AI Dumber Today? An index of AI model experience from user's opinion",
     "source": "Hacker News",
-    "description": "HN Score: 4 | 0 comments",
+    "description": "HN Score: 10 | 2 comments",
     "url": "https://isaidumber.today/",
-    "score": 4,
+    "score": 10,
     "date": "2026-08-14",
     "category": "AI News"
   },
@@ -127,11 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Lumabri \u2013 Run Moe Models on a P2P Swarm with Colibri",
+    "title": "Ruby 4.0 Universal RCE Deserialization Gadget Chain",
     "source": "Hacker News",
-    "description": "HN Score: 44 | 18 comments",
-    "url": "https://github.com/JustVugg/lumabri",
-    "score": 44,
+    "description": "HN Score: 70 | 21 comments",
+    "url": "https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain",
+    "score": 70,
     "date": "2026-08-14",
     "category": "AI News"
   },
@@ -144,11 +144,20 @@
     "category": "Twitter"
   },
   {
-    "title": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
+    "title": "Show HN: Graft \u2013 Claude Code hooks that cut grep tokens by 42%",
     "source": "Hacker News",
-    "description": "HN Score: 145 | 133 comments",
-    "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
-    "score": 145,
+    "description": "HN Score: 35 | 36 comments",
+    "url": "https://github.com/NanoNets/Graft",
+    "score": 35,
+    "date": "2026-08-14",
+    "category": "AI News"
+  },
+  {
+    "title": "Show HN: Lumabri \u2013 Run Moe Models on a P2P Swarm with Colibri",
+    "source": "Hacker News",
+    "description": "HN Score: 44 | 18 comments",
+    "url": "https://github.com/JustVugg/lumabri",
+    "score": 44,
     "date": "2026-08-14",
     "category": "AI News"
   }
