@@ -10,9 +10,9 @@
   {
     "title": "Accelerating GPT-5.6 Sol Ultrafast",
     "source": "Hacker News",
-    "description": "HN Score: 512 | 215 comments",
+    "description": "HN Score: 550 | 231 comments",
     "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-    "score": 512,
+    "score": 550,
     "date": "2026-08-14",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "Nine PBS sues Iron Mountain over blocked access to archival data",
     "source": "Hacker News",
-    "description": "HN Score: 280 | 164 comments",
+    "description": "HN Score: 298 | 166 comments",
     "url": "https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/",
-    "score": 280,
+    "score": 298,
     "date": "2026-08-14",
     "category": "AI News"
   },
@@ -44,9 +44,9 @@
   {
     "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
     "source": "Hacker News",
-    "description": "HN Score: 90 | 50 comments",
+    "description": "HN Score: 97 | 55 comments",
     "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
-    "score": 90,
+    "score": 97,
     "date": "2026-08-14",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "AI At Home Part 1: A Box Of Scraps",
+    "title": "Choosing an AI model: one prompt, 11 models, different results",
     "source": "Hacker News",
-    "description": "HN Score: 111 | 51 comments",
-    "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
-    "score": 111,
+    "description": "HN Score: 198 | 83 comments",
+    "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
+    "score": 198,
     "date": "2026-08-14",
     "category": "AI News"
   },
@@ -78,9 +78,26 @@
   {
     "title": "Launch HN: Bullet (YC S26) \u2013 A Faster Coding Agent",
     "source": "Hacker News",
-    "description": "HN Score: 93 | 67 comments",
+    "description": "HN Score: 97 | 73 comments",
     "url": "https://www.codewithbullet.com",
-    "score": 93,
+    "score": 97,
+    "date": "2026-08-14",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: Gemini 3.7 Flash is 50% off! This is a really good model you can integrate with any production application: \u2022 Supports reasoning \u2022 Tool",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2087977399904501766#m",
+    "date": "2026-08-14",
+    "category": "Twitter"
+  },
+  {
+    "title": "Text AI watermarks will always be trivial to remove",
+    "source": "Hacker News",
+    "description": "HN Score: 117 | 132 comments",
+    "url": "https://www.seangoedecke.com/text-ai-watermarks/",
+    "score": 117,
     "date": "2026-08-14",
     "category": "AI News"
   },
@@ -93,28 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Choosing an AI model: one prompt, 11 models, different results",
+    "title": "AI At Home Part 1: A Box Of Scraps",
     "source": "Hacker News",
-    "description": "HN Score: 191 | 77 comments",
-    "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
-    "score": 191,
-    "date": "2026-08-14",
-    "category": "AI News"
-  },
-  {
-    "title": "I've been using this vacuum for a while, and it's pretty awesome to talk to it, point at a mess, and ask it to clean it. I'm spoiled. I want to talk t",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2087989512966389779#m",
-    "date": "2026-08-14",
-    "category": "Twitter"
-  },
-  {
-    "title": "Text AI watermarks will always be trivial to remove",
-    "source": "Hacker News",
-    "description": "HN Score: 110 | 116 comments",
-    "url": "https://www.seangoedecke.com/text-ai-watermarks/",
-    "score": 110,
+    "description": "HN Score: 115 | 53 comments",
+    "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
+    "score": 115,
     "date": "2026-08-14",
     "category": "AI News"
   },
@@ -129,9 +129,9 @@
   {
     "title": "Heart aerospace completes first flight of largest electric aircraft",
     "source": "Hacker News",
-    "description": "HN Score: 122 | 126 comments",
+    "description": "HN Score: 128 | 129 comments",
     "url": "https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft",
-    "score": 122,
+    "score": 128,
     "date": "2026-08-14",
     "category": "AI News"
   },
@@ -146,9 +146,9 @@
   {
     "title": "S.F.'s top-paid employee made $900K. Here's what every city worker gets paid",
     "source": "Hacker News",
-    "description": "HN Score: 28 | 1 comments",
+    "description": "HN Score: 37 | 6 comments",
     "url": "https://www.sfchronicle.com/projects/2026/san-francisco-employee-pay/?taid=6a7db1d2d297630001917f1d&utm_campaign=trueanthem%2B3988&utm_medium=social&utm_source=twitter",
-    "score": 28,
+    "score": 37,
     "date": "2026-08-14",
     "category": "AI News"
   }
