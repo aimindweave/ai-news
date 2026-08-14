@@ -1,5 +1,19 @@
 [
   {
+    "title": "Kog is going deeper to squeeze more inference out of GPUs",
+    "source": "TechCrunch",
+    "summary": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
+    "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+    "date": "2026-08-14"
+  },
+  {
+    "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
+    "source": "TechCrunch",
+    "summary": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
+    "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
+    "date": "2026-08-14"
+  },
+  {
     "title": "Writer introduces new AI model and upgraded harness to contain token costs",
     "source": "TechCrunch",
     "summary": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
@@ -88,20 +102,6 @@
     "source": "TechCrunch",
     "summary": "At Ai4, three of the world's most respected AI experts \u2014 Geoffrey Hinton, Fei-Fei Li, and Andrew Ng \u2014 debated regulation, open source access, and how America can compete as China advances in Asia.",
     "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
-    "date": "2026-08-14"
-  },
-  {
-    "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
-    "source": "TechCrunch",
-    "summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
-    "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
-    "date": "2026-08-14"
-  },
-  {
-    "title": "Mesh, Automattic\u2019s CRM for everyone, comes to Android",
-    "source": "TechCrunch",
-    "summary": "Mesh, an AI-powered contacts app and relationship manager from Automattic, is now an Android app.",
-    "url": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
     "date": "2026-08-14"
   },
   {
@@ -245,6 +245,13 @@
     "date": "2026-08-14"
   },
   {
+    "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+    "source": "Ars Technica",
+    "summary": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.",
+    "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+    "date": "2026-08-14"
+  },
+  {
     "title": "The new Instagram logo is the perfect embodiment of AI slop",
     "source": "Ars Technica",
     "summary": "Opinion: Some remarks about the new wordmark accidentally being perfectly awful.",
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "Gurman report claims OpenAI confirmed the speaker is not an Apple ripoff.",
     "url": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/",
-    "date": "2026-08-14"
-  },
-  {
-    "title": "AI chatbots have failed people in crisis. Can that be fixed?",
-    "source": "Ars Technica",
-    "summary": "Clinicians and researchers say AI companies need to open up their safety data.",
-    "url": "https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed/",
     "date": "2026-08-14"
   }
 ]
