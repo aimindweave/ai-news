@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Maximizing the value of your Claude Code sessions",
+    "title": "Google is making private AI practical with homomorphic encryption",
     "source": "Hacker News",
-    "description": "HN Score: 60 | 30 comments",
-    "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
-    "score": 60,
+    "description": "HN Score: 159 | 109 comments",
+    "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+    "score": 159,
     "date": "2026-08-14",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "AI by Hand",
+    "title": "Anthropic Risk August 2026 [pdf]",
     "source": "Hacker News",
-    "description": "HN Score: 71 | 7 comments",
-    "url": "https://www.byhand.ai/",
-    "score": 71,
+    "description": "HN Score: 17 | 0 comments",
+    "url": "https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted%20Risk%20Report%20August%202026%20.pdf",
+    "score": 17,
     "date": "2026-08-14",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Google is making private AI practical with homomorphic encryption",
+    "title": "AI by Hand",
     "source": "Hacker News",
-    "description": "HN Score: 96 | 67 comments",
-    "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-    "score": 96,
+    "description": "HN Score: 97 | 10 comments",
+    "url": "https://www.byhand.ai/",
+    "score": 97,
     "date": "2026-08-14",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
+    "title": "Maximizing the value of your Claude Code sessions",
     "source": "Hacker News",
-    "description": "HN Score: 11 | 0 comments",
-    "url": "https://arxiv.org/abs/2608.12700",
-    "score": 11,
+    "description": "HN Score: 84 | 60 comments",
+    "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+    "score": 84,
     "date": "2026-08-14",
     "category": "AI News"
   },
@@ -76,45 +76,45 @@
     "category": "Twitter"
   },
   {
+    "title": "Show HN: Mole \u2013 Deep research agent for your terminal",
+    "source": "Hacker News",
+    "description": "HN Score: 17 | 4 comments",
+    "url": "https://github.com/lajosdeme/mole",
+    "score": 17,
+    "date": "2026-08-14",
+    "category": "AI News"
+  },
+  {
+    "title": "Qwen 3.8 27B is one of the best open-weight models out there.",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2088357884346400953#m",
+    "date": "2026-08-14",
+    "category": "Twitter"
+  },
+  {
+    "title": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
+    "source": "Hacker News",
+    "description": "HN Score: 17 | 0 comments",
+    "url": "https://arxiv.org/abs/2608.12700",
+    "score": 17,
+    "date": "2026-08-14",
+    "category": "AI News"
+  },
+  {
+    "title": "You can use this to mock anything you need: 1. The LLM 2. MCP tools 3. Agents 4. Databases 5. (whatever) It's a library you install (you can also run ",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2088350925962289174#m",
+    "date": "2026-08-14",
+    "category": "Twitter"
+  },
+  {
     "title": "AI Model Atlas \u2013 visualizing populations of ML models as interconnected 3D graph",
     "source": "Hacker News",
-    "description": "HN Score: 35 | 5 comments",
+    "description": "HN Score: 45 | 8 comments",
     "url": "https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0",
-    "score": 35,
-    "date": "2026-08-14",
-    "category": "AI News"
-  },
-  {
-    "title": "If you are trying to figure out your career in this new AI-dominated world, this book is really good. Also great for those of you who want to transiti",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2088282001480818847#m",
-    "date": "2026-08-14",
-    "category": "Twitter"
-  },
-  {
-    "title": "HashAgent \u2013 Share an AI agent as a URL, runs locally via WebGPU",
-    "source": "Hacker News",
-    "description": "HN Score: 38 | 4 comments",
-    "url": "https://hashagent.pages.dev/",
-    "score": 38,
-    "date": "2026-08-14",
-    "category": "AI News"
-  },
-  {
-    "title": "In my experience, the cost of building software hasn't decreased at all. People are still working 40 hours every week. They are still putting in maxim",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2088242987692429657#m",
-    "date": "2026-08-14",
-    "category": "Twitter"
-  },
-  {
-    "title": "Show HN: Is AI Dumber Today? An index of AI model experience from user's opinion",
-    "source": "Hacker News",
-    "description": "HN Score: 10 | 2 comments",
-    "url": "https://isaidumber.today/",
-    "score": 10,
+    "score": 45,
     "date": "2026-08-14",
     "category": "AI News"
   },
@@ -127,11 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Ruby 4.0 Universal RCE Deserialization Gadget Chain",
+    "title": "Show HN: AletheionAGI \u2013 Grounding enforcement for AI agents",
     "source": "Hacker News",
-    "description": "HN Score: 70 | 21 comments",
-    "url": "https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain",
-    "score": 70,
+    "description": "HN Score: 3 | 0 comments",
+    "url": "https://www.aletheionagi.com",
+    "score": 3,
     "date": "2026-08-14",
     "category": "AI News"
   },
@@ -144,20 +144,20 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Graft \u2013 Claude Code hooks that cut grep tokens by 42%",
+    "title": "What You Gain by Building Your Own Game Engine",
     "source": "Hacker News",
-    "description": "HN Score: 35 | 36 comments",
-    "url": "https://github.com/NanoNets/Graft",
-    "score": 35,
+    "description": "HN Score: 3 | 0 comments",
+    "url": "https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html",
+    "score": 3,
     "date": "2026-08-14",
     "category": "AI News"
   },
   {
-    "title": "Show HN: Lumabri \u2013 Run Moe Models on a P2P Swarm with Colibri",
+    "title": "HashAgent \u2013 Share an AI agent as a URL, runs locally via WebGPU",
     "source": "Hacker News",
-    "description": "HN Score: 44 | 18 comments",
-    "url": "https://github.com/JustVugg/lumabri",
-    "score": 44,
+    "description": "HN Score: 41 | 5 comments",
+    "url": "https://hashagent.pages.dev/",
+    "score": 41,
     "date": "2026-08-14",
     "category": "AI News"
   }
