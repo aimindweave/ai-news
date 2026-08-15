@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Google is making private AI practical with homomorphic encryption",
+    "title": "Show HN: ThoughtDAG \u2013 An editable context graph for LLM conversations",
     "source": "Hacker News",
-    "description": "HN Score: 377 | 219 comments",
-    "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-    "score": 377,
+    "description": "HN Score: 35 | 12 comments",
+    "url": "https://chenxiachan.github.io/thoughtdag/",
+    "score": 35,
     "date": "2026-08-15",
     "category": "AI News"
   },
@@ -25,11 +25,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: ThoughtDAG \u2013 An editable context graph for LLM conversations",
+    "title": "Google is making private AI practical with homomorphic encryption",
     "source": "Hacker News",
-    "description": "HN Score: 16 | 1 comments",
-    "url": "https://chenxiachan.github.io/thoughtdag/",
-    "score": 16,
+    "description": "HN Score: 394 | 242 comments",
+    "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+    "score": 394,
+    "date": "2026-08-15",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: Starting a company should be as easy as running a Whatsapp group chat! Introducing... Bolter\u26a1\ufe0f a new AI messenger that lets you crea",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/HermanNarula/status/2088240816783503502#m",
+    "date": "2026-08-15",
+    "category": "Twitter"
+  },
+  {
+    "title": "AI by Hand",
+    "source": "Hacker News",
+    "description": "HN Score: 308 | 23 comments",
+    "url": "https://www.byhand.ai/",
+    "score": 308,
     "date": "2026-08-15",
     "category": "AI News"
   },
@@ -42,28 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "AI by Hand",
-    "source": "Hacker News",
-    "description": "HN Score: 291 | 22 comments",
-    "url": "https://www.byhand.ai/",
-    "score": 291,
-    "date": "2026-08-15",
-    "category": "AI News"
-  },
-  {
-    "title": "Something has happened with post-training as shown by DeepSeek flash & GLM-5.3 updates. Same base, big improvement in perf to frontier levels. Can't e",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/EMostaque/status/2088216001158537352#m",
-    "date": "2026-08-15",
-    "category": "Twitter"
-  },
-  {
     "title": "Maximizing the value of your Claude Code sessions",
     "source": "Hacker News",
-    "description": "HN Score: 205 | 119 comments",
+    "description": "HN Score: 230 | 127 comments",
     "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
-    "score": 205,
+    "score": 230,
     "date": "2026-08-15",
     "category": "AI News"
   },
@@ -78,9 +78,9 @@
   {
     "title": "Show HN: Deltix \u2013 AI Driven Testing",
     "source": "Hacker News",
-    "description": "HN Score: 27 | 9 comments",
+    "description": "HN Score: 32 | 9 comments",
     "url": "https://app.deltix.ai",
-    "score": 27,
+    "score": 32,
     "date": "2026-08-15",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Mole \u2013 Deep research agent for your terminal",
+    "title": "Debian has begun voting on the future of AI/LLM contributions",
     "source": "Hacker News",
-    "description": "HN Score: 69 | 10 comments",
-    "url": "https://github.com/lajosdeme/mole",
-    "score": 69,
+    "description": "HN Score: 8 | 0 comments",
+    "url": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
+    "score": 8,
     "date": "2026-08-15",
     "category": "AI News"
   },
@@ -112,9 +112,9 @@
   {
     "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
     "source": "Hacker News",
-    "description": "HN Score: 6 | 1 comments",
+    "description": "HN Score: 22 | 16 comments",
     "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
-    "score": 6,
+    "score": 22,
     "date": "2026-08-15",
     "category": "AI News"
   },
@@ -127,11 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "AI Model Atlas \u2013 visualizing populations of ML models as interconnected 3D graph",
+    "title": "Show HN: Mole \u2013 Deep research agent for your terminal",
     "source": "Hacker News",
-    "description": "HN Score: 61 | 8 comments",
-    "url": "https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0",
-    "score": 61,
+    "description": "HN Score: 72 | 11 comments",
+    "url": "https://github.com/lajosdeme/mole",
+    "score": 72,
     "date": "2026-08-15",
     "category": "AI News"
   },
@@ -144,11 +144,11 @@
     "category": "Twitter"
   },
   {
-    "title": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
+    "title": "AI Model Atlas \u2013 visualizing populations of ML models as interconnected 3D graph",
     "source": "Hacker News",
-    "description": "HN Score: 41 | 0 comments",
-    "url": "https://arxiv.org/abs/2608.12700",
-    "score": 41,
+    "description": "HN Score: 62 | 8 comments",
+    "url": "https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0",
+    "score": 62,
     "date": "2026-08-15",
     "category": "AI News"
   }
