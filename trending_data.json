@@ -10,9 +10,9 @@
   {
     "title": "Google is making private AI practical with homomorphic encryption",
     "source": "Hacker News",
-    "description": "HN Score: 352 | 209 comments",
+    "description": "HN Score: 377 | 219 comments",
     "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-    "score": 352,
+    "score": 377,
     "date": "2026-08-15",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "AI by Hand",
+    "title": "Show HN: ThoughtDAG \u2013 An editable context graph for LLM conversations",
     "source": "Hacker News",
-    "description": "HN Score: 272 | 20 comments",
-    "url": "https://www.byhand.ai/",
-    "score": 272,
+    "description": "HN Score: 16 | 1 comments",
+    "url": "https://chenxiachan.github.io/thoughtdag/",
+    "score": 16,
     "date": "2026-08-15",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Maximizing the value of your Claude Code sessions",
+    "title": "AI by Hand",
     "source": "Hacker News",
-    "description": "HN Score: 182 | 113 comments",
-    "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
-    "score": 182,
+    "description": "HN Score: 291 | 22 comments",
+    "url": "https://www.byhand.ai/",
+    "score": 291,
     "date": "2026-08-15",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Deltix \u2013 AI Driven Testing",
+    "title": "Maximizing the value of your Claude Code sessions",
     "source": "Hacker News",
-    "description": "HN Score: 23 | 7 comments",
-    "url": "https://app.deltix.ai",
-    "score": 23,
+    "description": "HN Score: 205 | 119 comments",
+    "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+    "score": 205,
     "date": "2026-08-15",
     "category": "AI News"
   },
@@ -76,11 +76,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: ThoughtDAG \u2013 An editable context graph for LLM conversations",
+    "title": "Show HN: Deltix \u2013 AI Driven Testing",
     "source": "Hacker News",
-    "description": "HN Score: 5 | 0 comments",
-    "url": "https://chenxiachan.github.io/thoughtdag/",
-    "score": 5,
+    "description": "HN Score: 27 | 9 comments",
+    "url": "https://app.deltix.ai",
+    "score": 27,
+    "date": "2026-08-15",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: Qwen 3.8 27B is one of the best open-weight models out there.",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2088357884346400953#m",
+    "date": "2026-08-15",
+    "category": "Twitter"
+  },
+  {
+    "title": "Show HN: Mole \u2013 Deep research agent for your terminal",
+    "source": "Hacker News",
+    "description": "HN Score: 69 | 10 comments",
+    "url": "https://github.com/lajosdeme/mole",
+    "score": 69,
     "date": "2026-08-15",
     "category": "AI News"
   },
@@ -93,28 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Mole \u2013 Deep research agent for your terminal",
+    "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
     "source": "Hacker News",
-    "description": "HN Score: 65 | 10 comments",
-    "url": "https://github.com/lajosdeme/mole",
-    "score": 65,
-    "date": "2026-08-15",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: In my experience, the cost of building software hasn't decreased at all. People are still working 40 hours every week. They are still p",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2088242987692429657#m",
-    "date": "2026-08-15",
-    "category": "Twitter"
-  },
-  {
-    "title": "AI Model Atlas \u2013 visualizing populations of ML models as interconnected 3D graph",
-    "source": "Hacker News",
-    "description": "HN Score: 59 | 8 comments",
-    "url": "https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0",
-    "score": 59,
+    "description": "HN Score: 6 | 1 comments",
+    "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
+    "score": 6,
     "date": "2026-08-15",
     "category": "AI News"
   },
@@ -127,11 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
+    "title": "AI Model Atlas \u2013 visualizing populations of ML models as interconnected 3D graph",
     "source": "Hacker News",
-    "description": "HN Score: 40 | 0 comments",
-    "url": "https://arxiv.org/abs/2608.12700",
-    "score": 40,
+    "description": "HN Score: 61 | 8 comments",
+    "url": "https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0",
+    "score": 61,
     "date": "2026-08-15",
     "category": "AI News"
   },
@@ -142,5 +142,14 @@
     "url": "https://nitter.net/bindureddy/status/2088452509845303345#m",
     "date": "2026-08-15",
     "category": "Twitter"
+  },
+  {
+    "title": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
+    "source": "Hacker News",
+    "description": "HN Score: 41 | 0 comments",
+    "url": "https://arxiv.org/abs/2608.12700",
+    "score": 41,
+    "date": "2026-08-15",
+    "category": "AI News"
   }
 ]
