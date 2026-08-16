@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "What happens when an LLM never sees material beyond fifth grade?",
+    "title": "Patterns and problems in emerging multi-agent systems",
     "source": "Hacker News",
-    "description": "HN Score: 60 | 37 comments",
-    "url": "https://littlelearner-ll.github.io/",
-    "score": 60,
+    "description": "HN Score: 93 | 40 comments",
+    "url": "https://www.anthropic.com/research/multiagent-systems",
+    "score": 93,
     "date": "2026-08-16",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Patterns and problems in emerging multi-agent systems",
+    "title": "What happens when an LLM never sees material beyond fifth grade?",
     "source": "Hacker News",
-    "description": "HN Score: 72 | 28 comments",
-    "url": "https://www.anthropic.com/research/multiagent-systems",
-    "score": 72,
+    "description": "HN Score: 119 | 79 comments",
+    "url": "https://littlelearner-ll.github.io/",
+    "score": 119,
     "date": "2026-08-16",
     "category": "AI News"
   },
@@ -44,9 +44,9 @@
   {
     "title": "AI in drug discovery \u2013 what it is, where we stand and the path forward",
     "source": "Hacker News",
-    "description": "HN Score: 136 | 71 comments",
+    "description": "HN Score: 143 | 76 comments",
     "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-    "score": 136,
+    "score": 143,
     "date": "2026-08-16",
     "category": "AI News"
   },
@@ -61,9 +61,9 @@
   {
     "title": "AI has access to a vastly larger working memory than the human brain",
     "source": "Hacker News",
-    "description": "HN Score: 485 | 413 comments",
+    "description": "HN Score: 504 | 424 comments",
     "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-    "score": 485,
+    "score": 504,
     "date": "2026-08-16",
     "category": "AI News"
   },
@@ -78,9 +78,9 @@
   {
     "title": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
     "source": "Hacker News",
-    "description": "HN Score: 32 | 4 comments",
+    "description": "HN Score: 35 | 4 comments",
     "url": "https://arxiv.org/abs/2608.13122",
-    "score": 32,
+    "score": 35,
     "date": "2026-08-16",
     "category": "AI News"
   },
@@ -89,23 +89,6 @@
     "source": "@svpino",
     "description": "",
     "url": "https://nitter.net/svpino/status/2088609150104412628#m",
-    "date": "2026-08-16",
-    "category": "Twitter"
-  },
-  {
-    "title": "Program with Paint Brushes, Not Pencils",
-    "source": "Hacker News",
-    "description": "HN Score: 9 | 2 comments",
-    "url": "https://blog.pickcode.io/program-with-paint-brushes-not-pencils/",
-    "score": 9,
-    "date": "2026-08-16",
-    "category": "AI News"
-  },
-  {
-    "title": "People will simply start using models that don\u2019t watermark their answers.",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2088708027822002232#m",
     "date": "2026-08-16",
     "category": "Twitter"
   },
@@ -119,6 +102,23 @@
     "category": "AI News"
   },
   {
+    "title": "People will simply start using models that don\u2019t watermark their answers.",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2088708027822002232#m",
+    "date": "2026-08-16",
+    "category": "Twitter"
+  },
+  {
+    "title": "Program with Paint Brushes, Not Pencils",
+    "source": "Hacker News",
+    "description": "HN Score: 11 | 2 comments",
+    "url": "https://blog.pickcode.io/program-with-paint-brushes-not-pencils/",
+    "score": 11,
+    "date": "2026-08-16",
+    "category": "AI News"
+  },
+  {
     "title": "\ud83d\udea8 Announcing Voice Agents - AI Handles Enterprise Class Support With Just One Text Prompt - toll-free phone number - connect to all your systems - cus",
     "source": "@bindureddy",
     "description": "",
@@ -127,11 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Laptop is the last place your secrets are still in plaintext",
+    "title": "Show HN: ThoughtDAG \u2013 An editable context graph for LLM conversations",
     "source": "Hacker News",
-    "description": "HN Score: 42 | 47 comments",
-    "url": "https://github.com/jitpass/jit",
-    "score": 42,
+    "description": "HN Score: 122 | 58 comments",
+    "url": "https://chenxiachan.github.io/thoughtdag/",
+    "score": 122,
     "date": "2026-08-16",
     "category": "AI News"
   },
@@ -144,20 +144,20 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: I built a native app for coding agents with Rust and GPUI",
+    "title": "Working with AI feels more like leadership than coding",
     "source": "Hacker News",
-    "description": "HN Score: 28 | 10 comments",
-    "url": "https://waku.sh",
-    "score": 28,
+    "description": "HN Score: 301 | 190 comments",
+    "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
+    "score": 301,
     "date": "2026-08-16",
     "category": "AI News"
   },
   {
-    "title": "Show HN: ThoughtDAG \u2013 An editable context graph for LLM conversations",
+    "title": "Jaithon 3, a fast programming language with the perfect syntax",
     "source": "Hacker News",
-    "description": "HN Score: 121 | 56 comments",
-    "url": "https://chenxiachan.github.io/thoughtdag/",
-    "score": 121,
+    "description": "HN Score: 38 | 37 comments",
+    "url": "https://github.com/abhiramasonny/jaithon",
+    "score": 38,
     "date": "2026-08-16",
     "category": "AI News"
   }
