@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "I checked 30 frontier model cards. Here are the benchmarks labs report",
+    "title": "Patterns and problems in emerging multi-agent systems",
     "source": "Hacker News",
-    "description": "HN Score: 5 | 7 comments",
-    "url": "https://koutian.is-a.dev/benchmark-radar/?view=leaderboard",
-    "score": 5,
+    "description": "HN Score: 44 | 13 comments",
+    "url": "https://www.anthropic.com/research/multiagent-systems",
+    "score": 44,
     "date": "2026-08-16",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "AI in drug discovery \u2013 what it is, where we stand and the path forward",
     "source": "Hacker News",
-    "description": "HN Score: 116 | 59 comments",
+    "description": "HN Score: 128 | 64 comments",
     "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-    "score": 116,
+    "score": 128,
     "date": "2026-08-16",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Patterns and problems in emerging multi-agent systems",
+    "title": "AI has access to a vastly larger working memory than the human brain",
     "source": "Hacker News",
-    "description": "HN Score: 15 | 3 comments",
-    "url": "https://www.anthropic.com/research/multiagent-systems",
-    "score": 15,
+    "description": "HN Score: 469 | 405 comments",
+    "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+    "score": 469,
     "date": "2026-08-16",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "AI has access to a vastly larger working memory than the human brain",
+    "title": "Program with Paint Brushes, Not Pencils",
     "source": "Hacker News",
-    "description": "HN Score: 449 | 389 comments",
-    "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-    "score": 449,
+    "description": "HN Score: 8 | 1 comments",
+    "url": "https://blog.pickcode.io/program-with-paint-brushes-not-pencils/",
+    "score": 8,
     "date": "2026-08-16",
     "category": "AI News"
   },
@@ -72,6 +72,23 @@
     "source": "@DrJimFan",
     "description": "",
     "url": "https://nitter.net/DrJimFan/status/2080798306566045756#m",
+    "date": "2026-08-16",
+    "category": "Twitter"
+  },
+  {
+    "title": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
+    "source": "Hacker News",
+    "description": "HN Score: 21 | 2 comments",
+    "url": "https://arxiv.org/abs/2608.13122",
+    "score": 21,
+    "date": "2026-08-16",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: This is a weird time to be a software developer. On one hand, we have these amazing magic boxes that spit out code when we ask nicely. ",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2088609150104412628#m",
     "date": "2026-08-16",
     "category": "Twitter"
   },
@@ -85,23 +102,6 @@
     "category": "AI News"
   },
   {
-    "title": "RT by @svpino: This is a weird time to be a software developer. On one hand, we have these amazing magic boxes that spit out code when we ask nicely. ",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2088609150104412628#m",
-    "date": "2026-08-16",
-    "category": "Twitter"
-  },
-  {
-    "title": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
-    "source": "Hacker News",
-    "description": "HN Score: 17 | 2 comments",
-    "url": "https://arxiv.org/abs/2608.13122",
-    "score": 17,
-    "date": "2026-08-16",
-    "category": "AI News"
-  },
-  {
     "title": "People will simply start using models that don\u2019t watermark their answers.",
     "source": "@svpino",
     "description": "",
@@ -110,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Program with Paint Brushes, Not Pencils",
+    "title": "Show HN: I built a native app for coding agents with Rust and GPUI",
     "source": "Hacker News",
-    "description": "HN Score: 3 | 0 comments",
-    "url": "https://blog.pickcode.io/program-with-paint-brushes-not-pencils/",
-    "score": 3,
+    "description": "HN Score: 24 | 10 comments",
+    "url": "https://waku.sh",
+    "score": 24,
     "date": "2026-08-16",
     "category": "AI News"
   },
@@ -127,11 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Working with AI feels more like leadership than coding",
+    "title": "Has the hallucination problem in AI been solved?",
     "source": "Hacker News",
-    "description": "HN Score: 287 | 187 comments",
-    "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
-    "score": 287,
+    "description": "HN Score: 9 | 27 comments",
+    "url": "https://news.ycombinator.com/item?id=49316330",
+    "score": 9,
     "date": "2026-08-16",
     "category": "AI News"
   },
@@ -144,20 +144,20 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: I built a native app for coding agents with Rust and GPUI",
+    "title": "Show HN: ThoughtDAG \u2013 An editable context graph for LLM conversations",
     "source": "Hacker News",
-    "description": "HN Score: 19 | 7 comments",
-    "url": "https://waku.sh",
-    "score": 19,
+    "description": "HN Score: 115 | 55 comments",
+    "url": "https://chenxiachan.github.io/thoughtdag/",
+    "score": 115,
     "date": "2026-08-16",
     "category": "AI News"
   },
   {
     "title": "A controversial Alzheimer's surgery is said to reverse symptoms",
     "source": "Hacker News",
-    "description": "HN Score: 162 | 75 comments",
+    "description": "HN Score: 165 | 78 comments",
     "url": "https://www.nature.com/articles/d41586-026-02448-x",
-    "score": 162,
+    "score": 165,
     "date": "2026-08-16",
     "category": "AI News"
   }
