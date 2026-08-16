@@ -10,9 +10,9 @@
   {
     "title": "AI in drug discovery \u2013 what it is, where we stand and the path forward",
     "source": "Hacker News",
-    "description": "HN Score: 86 | 43 comments",
+    "description": "HN Score: 105 | 52 comments",
     "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-    "score": 86,
+    "score": 105,
     "date": "2026-08-16",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "AI has access to a vastly larger working memory than the human brain",
     "source": "Hacker News",
-    "description": "HN Score: 410 | 370 comments",
+    "description": "HN Score: 427 | 375 comments",
     "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-    "score": 410,
+    "score": 427,
     "date": "2026-08-16",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Working with AI feels more like leadership than coding",
+    "title": "Show HN: I built a native app for coding agents with Rust and GPUI",
     "source": "Hacker News",
-    "description": "HN Score: 266 | 172 comments",
-    "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
-    "score": 266,
+    "description": "HN Score: 9 | 2 comments",
+    "url": "https://waku.sh",
+    "score": 9,
     "date": "2026-08-16",
     "category": "AI News"
   },
@@ -55,23 +55,6 @@
     "source": "@EMostaque",
     "description": "",
     "url": "https://nitter.net/jcrwhittington/status/2087535497480388729#m",
-    "date": "2026-08-16",
-    "category": "Twitter"
-  },
-  {
-    "title": "Jaithon 3, a fast programming language with the perfect syntax",
-    "source": "Hacker News",
-    "description": "HN Score: 21 | 14 comments",
-    "url": "https://github.com/abhiramasonny/jaithon",
-    "score": 21,
-    "date": "2026-08-16",
-    "category": "AI News"
-  },
-  {
-    "title": "Stay hungry, stay foolish. Absolute legend",
-    "source": "@DrJimFan",
-    "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2080798306566045756#m",
     "date": "2026-08-16",
     "category": "Twitter"
   },
@@ -85,6 +68,23 @@
     "category": "AI News"
   },
   {
+    "title": "Stay hungry, stay foolish. Absolute legend",
+    "source": "@DrJimFan",
+    "description": "",
+    "url": "https://nitter.net/DrJimFan/status/2080798306566045756#m",
+    "date": "2026-08-16",
+    "category": "Twitter"
+  },
+  {
+    "title": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
+    "source": "Hacker News",
+    "description": "HN Score: 8 | 1 comments",
+    "url": "https://arxiv.org/abs/2608.13122",
+    "score": 8,
+    "date": "2026-08-16",
+    "category": "AI News"
+  },
+  {
     "title": "RT by @svpino: This is a weird time to be a software developer. On one hand, we have these amazing magic boxes that spit out code when we ask nicely. ",
     "source": "@svpino",
     "description": "",
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Modeling and Verification of Keeta's Consensus [pdf]",
+    "title": "Working with AI feels more like leadership than coding",
     "source": "Hacker News",
-    "description": "HN Score: 11 | 1 comments",
-    "url": "https://xescu.re/keeta-consensus.pdf",
-    "score": 11,
+    "description": "HN Score: 275 | 176 comments",
+    "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
+    "score": 275,
     "date": "2026-08-16",
     "category": "AI News"
   },
@@ -110,11 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "I Remain a Skeptic",
+    "title": "Modeling and Verification of Keeta's Consensus [pdf]",
     "source": "Hacker News",
-    "description": "HN Score: 65 | 40 comments",
-    "url": "https://blog.jsbarretto.com/post/i-remain-a-skeptic",
-    "score": 65,
+    "description": "HN Score: 13 | 2 comments",
+    "url": "https://xescu.re/keeta-consensus.pdf",
+    "score": 13,
     "date": "2026-08-16",
     "category": "AI News"
   },
@@ -129,9 +129,9 @@
   {
     "title": "A controversial Alzheimer's surgery is said to reverse symptoms",
     "source": "Hacker News",
-    "description": "HN Score: 156 | 75 comments",
+    "description": "HN Score: 160 | 75 comments",
     "url": "https://www.nature.com/articles/d41586-026-02448-x",
-    "score": 156,
+    "score": 160,
     "date": "2026-08-16",
     "category": "AI News"
   },
@@ -144,20 +144,20 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: ThoughtDAG \u2013 An editable context graph for LLM conversations",
+    "title": "I Remain a Skeptic",
     "source": "Hacker News",
-    "description": "HN Score: 112 | 52 comments",
-    "url": "https://chenxiachan.github.io/thoughtdag/",
-    "score": 112,
+    "description": "HN Score: 85 | 64 comments",
+    "url": "https://blog.jsbarretto.com/post/i-remain-a-skeptic",
+    "score": 85,
     "date": "2026-08-16",
     "category": "AI News"
   },
   {
-    "title": "Yadda 3.0.0: BDD in the Age of AI Agents",
+    "title": "Show HN: ThoughtDAG \u2013 An editable context graph for LLM conversations",
     "source": "Hacker News",
-    "description": "HN Score: 56 | 27 comments",
-    "url": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
-    "score": 56,
+    "description": "HN Score: 113 | 52 comments",
+    "url": "https://chenxiachan.github.io/thoughtdag/",
+    "score": 113,
     "date": "2026-08-16",
     "category": "AI News"
   }
