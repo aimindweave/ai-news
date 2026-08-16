@@ -10,9 +10,9 @@
   {
     "title": "Claude: System Prompts",
     "source": "Hacker News",
-    "description": "HN Score: 100 | 43 comments",
+    "description": "HN Score: 239 | 122 comments",
     "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-    "score": 100,
+    "score": 239,
     "date": "2026-08-16",
     "category": "AI News"
   },
@@ -25,11 +25,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Research papers using 'kidney disappointment' instead of 'kidney failure'",
+    "title": "The AI Credit Resale Economy",
     "source": "Hacker News",
-    "description": "HN Score: 77 | 34 comments",
-    "url": "https://scholar.google.com/scholar?q=%22kidney+disappointment%22",
-    "score": 77,
+    "description": "HN Score: 78 | 24 comments",
+    "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+    "score": 78,
     "date": "2026-08-16",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Patterns and problems in emerging multi-agent systems",
+    "title": "Show HN: A public AI whose memory is shared across all users",
     "source": "Hacker News",
-    "description": "HN Score: 147 | 102 comments",
-    "url": "https://www.anthropic.com/research/multiagent-systems",
-    "score": 147,
+    "description": "HN Score: 25 | 15 comments",
+    "url": "https://wildstatic.com/",
+    "score": 25,
     "date": "2026-08-16",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "AI in drug discovery \u2013 what it is, where we stand and the path forward",
+    "title": "Research papers using 'kidney disappointment' instead of 'kidney failure'",
     "source": "Hacker News",
-    "description": "HN Score: 159 | 84 comments",
-    "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-    "score": 159,
+    "description": "HN Score: 197 | 79 comments",
+    "url": "https://scholar.google.com/scholar?q=%22kidney+disappointment%22",
+    "score": 197,
     "date": "2026-08-16",
     "category": "AI News"
   },
@@ -76,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Grafana agent observability for Hermes Agent",
+    "title": "Patterns and problems in emerging multi-agent systems",
     "source": "Hacker News",
-    "description": "HN Score: 15 | 0 comments",
-    "url": "https://github.com/alexander-akhmetov/grafana-agento11y-hermes",
-    "score": 15,
+    "description": "HN Score: 164 | 114 comments",
+    "url": "https://www.anthropic.com/research/multiagent-systems",
+    "score": 164,
     "date": "2026-08-16",
     "category": "AI News"
   },
@@ -93,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "What happens when an LLM never sees material beyond fifth grade?",
+    "title": "AI in drug discovery \u2013 what it is, where we stand and the path forward",
     "source": "Hacker News",
-    "description": "HN Score: 197 | 168 comments",
-    "url": "https://littlelearner-ll.github.io/",
-    "score": 197,
+    "description": "HN Score: 170 | 84 comments",
+    "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+    "score": 170,
     "date": "2026-08-16",
     "category": "AI News"
   },
@@ -112,9 +112,9 @@
   {
     "title": "AI Coding Without the Vibes",
     "source": "Hacker News",
-    "description": "HN Score: 7 | 2 comments",
+    "description": "HN Score: 20 | 5 comments",
     "url": "https://peterbloem.nl/blog/craft-coding",
-    "score": 7,
+    "score": 20,
     "date": "2026-08-16",
     "category": "AI News"
   },
@@ -127,11 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "AI has access to a vastly larger working memory than the human brain",
+    "title": "AI isn\u2019t outthinking mathematicians, it\u2019s out-remembering them",
     "source": "Hacker News",
-    "description": "HN Score: 533 | 463 comments",
+    "description": "HN Score: 547 | 464 comments",
     "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-    "score": 533,
+    "score": 547,
     "date": "2026-08-16",
     "category": "AI News"
   },
@@ -144,20 +144,20 @@
     "category": "Twitter"
   },
   {
-    "title": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
+    "title": "What happens when an LLM never sees material beyond fifth grade?",
     "source": "Hacker News",
-    "description": "HN Score: 43 | 5 comments",
-    "url": "https://arxiv.org/abs/2608.13122",
-    "score": 43,
+    "description": "HN Score: 219 | 187 comments",
+    "url": "https://littlelearner-ll.github.io/",
+    "score": 219,
     "date": "2026-08-16",
     "category": "AI News"
   },
   {
-    "title": "Testing Moonshot AI's Kimi K3 Inside Claude Code",
+    "title": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
     "source": "Hacker News",
-    "description": "HN Score: 4 | 2 comments",
-    "url": "https://philippdubach.com/posts/kimi-k3-inside-claude-code/",
-    "score": 4,
+    "description": "HN Score: 45 | 5 comments",
+    "url": "https://arxiv.org/abs/2608.13122",
+    "score": 45,
     "date": "2026-08-16",
     "category": "AI News"
   }
