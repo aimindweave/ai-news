@@ -8,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Rhombus 1.1 is now available",
+    "title": "Gmail might partially be to blame for receiving emails from other Sean Conners",
     "source": "Hacker News",
-    "description": "HN Score: 23 | 9 comments",
-    "url": "https://blog.racket-lang.org/2026/08/rhombus-v1.1.html",
-    "score": 23,
+    "description": "HN Score: 18 | 14 comments",
+    "url": "https://boston.conman.org/2026/08/11.1",
+    "score": 18,
     "date": "2026-08-17",
     "category": "AI News"
   },
@@ -27,9 +27,43 @@
   {
     "title": "Claude: System Prompts",
     "source": "Hacker News",
-    "description": "HN Score: 562 | 234 comments",
+    "description": "HN Score: 585 | 240 comments",
     "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-    "score": 562,
+    "score": 585,
+    "date": "2026-08-17",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: Starting a company should be as easy as running a Whatsapp group chat! Introducing... Bolter\u26a1\ufe0f a new AI messenger that lets you crea",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/HermanNarula/status/2088240816783503502#m",
+    "date": "2026-08-17",
+    "category": "Twitter"
+  },
+  {
+    "title": "Rhombus 1.1 is now available",
+    "source": "Hacker News",
+    "description": "HN Score: 38 | 13 comments",
+    "url": "https://blog.racket-lang.org/2026/08/rhombus-v1.1.html",
+    "score": 38,
+    "date": "2026-08-17",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: We\u2019re excited to announce DiG-bench, a new benchmark for discovery! Over the last few weeks we\u2019ve been testing frontier AI models on",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/jcrwhittington/status/2087535497480388729#m",
+    "date": "2026-08-17",
+    "category": "Twitter"
+  },
+  {
+    "title": "The AI Credit Resale Economy",
+    "source": "Hacker News",
+    "description": "HN Score: 251 | 99 comments",
+    "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+    "score": 251,
     "date": "2026-08-17",
     "category": "AI News"
   },
@@ -42,11 +76,11 @@
     "category": "Twitter"
   },
   {
-    "title": "The AI Credit Resale Economy",
+    "title": "MathCode, Mathematical Coding Agent",
     "source": "Hacker News",
-    "description": "HN Score: 237 | 93 comments",
-    "url": "https://vectoral.com/blog/who-are-the-token-brokers",
-    "score": 237,
+    "description": "HN Score: 75 | 25 comments",
+    "url": "https://math-ai-org.github.io/mathcode/",
+    "score": 75,
     "date": "2026-08-17",
     "category": "AI News"
   },
@@ -59,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "MathCode, Mathematical Coding Agent",
+    "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
     "source": "Hacker News",
-    "description": "HN Score: 68 | 23 comments",
-    "url": "https://math-ai-org.github.io/mathcode/",
-    "score": 68,
+    "description": "HN Score: 158 | 62 comments",
+    "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
+    "score": 158,
     "date": "2026-08-17",
     "category": "AI News"
   },
@@ -76,56 +110,54 @@
     "category": "Twitter"
   },
   {
-    "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
+    "title": "Red queen hypothesis \u2013 a new way forward for self-improving AI",
     "source": "Hacker News",
-    "description": "HN Score: 123 | 47 comments",
-    "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
-    "score": 123,
+    "description": "HN Score: 29 | 2 comments",
+    "url": "https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai",
+    "score": 29,
     "date": "2026-08-17",
     "category": "AI News"
+  },
+  {
+    "title": "Open source AI will do better if it\u2019s less hyped - GLM and DeepSeek need vision capabilities - most of them spin a lot and take forever - they are oft",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2089194292090917355#m",
+    "date": "2026-08-17",
+    "category": "Twitter"
   },
   {
     "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
     "source": "Hacker News",
-    "description": "HN Score: 221 | 150 comments",
+    "description": "HN Score: 241 | 175 comments",
     "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
-    "score": 221,
+    "score": 241,
     "date": "2026-08-17",
     "category": "AI News"
+  },
+  {
+    "title": "\ud83d\udea8 Announcing Voice Agents - AI Handles Enterprise Class Support With Just One Text Prompt - toll-free phone number - connect to all your systems - cus",
+    "source": "@bindureddy",
+    "description": "",
+    "url": "https://nitter.net/bindureddy/status/2088829927751643402#m",
+    "date": "2026-08-17",
+    "category": "Twitter"
   },
   {
     "title": "Models Are Getting Dumber on Purpose",
     "source": "Hacker News",
-    "description": "HN Score: 281 | 158 comments",
+    "description": "HN Score: 296 | 164 comments",
     "url": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
-    "score": 281,
-    "date": "2026-08-17",
-    "category": "AI News"
-  },
-  {
-    "title": "Red queen hypothesis \u2013 a new way forward for self-improving AI",
-    "source": "Hacker News",
-    "description": "HN Score: 18 | 2 comments",
-    "url": "https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai",
-    "score": 18,
+    "score": 296,
     "date": "2026-08-17",
     "category": "AI News"
   },
   {
     "title": "Research papers using 'kidney disappointment' instead of 'kidney failure'",
     "source": "Hacker News",
-    "description": "HN Score: 368 | 132 comments",
+    "description": "HN Score: 373 | 132 comments",
     "url": "https://scholar.google.com/scholar?q=%22kidney+disappointment%22",
-    "score": 368,
-    "date": "2026-08-17",
-    "category": "AI News"
-  },
-  {
-    "title": "Archie G. Norcross' Maine Forest Fire Maps (1918\u201322)",
-    "source": "Hacker News",
-    "description": "HN Score: 25 | 3 comments",
-    "url": "https://publicdomainreview.org/collection/maine-forest-fire-maps/",
-    "score": 25,
+    "score": 373,
     "date": "2026-08-17",
     "category": "AI News"
   }
