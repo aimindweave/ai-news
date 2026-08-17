@@ -10,9 +10,9 @@
   {
     "title": "Rhombus 1.1 is now available",
     "source": "Hacker News",
-    "description": "HN Score: 8 | 3 comments",
+    "description": "HN Score: 23 | 9 comments",
     "url": "https://blog.racket-lang.org/2026/08/rhombus-v1.1.html",
-    "score": 8,
+    "score": 23,
     "date": "2026-08-17",
     "category": "AI News"
   },
@@ -27,9 +27,9 @@
   {
     "title": "Claude: System Prompts",
     "source": "Hacker News",
-    "description": "HN Score: 541 | 227 comments",
+    "description": "HN Score: 562 | 234 comments",
     "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-    "score": 541,
+    "score": 562,
     "date": "2026-08-17",
     "category": "AI News"
   },
@@ -42,11 +42,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Models Are Getting Dumber on Purpose",
+    "title": "The AI Credit Resale Economy",
     "source": "Hacker News",
-    "description": "HN Score: 267 | 148 comments",
-    "url": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
-    "score": 267,
+    "description": "HN Score: 237 | 93 comments",
+    "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+    "score": 237,
     "date": "2026-08-17",
     "category": "AI News"
   },
@@ -59,11 +59,11 @@
     "category": "Twitter"
   },
   {
-    "title": "The AI Credit Resale Economy",
+    "title": "MathCode, Mathematical Coding Agent",
     "source": "Hacker News",
-    "description": "HN Score: 225 | 88 comments",
-    "url": "https://vectoral.com/blog/who-are-the-token-brokers",
-    "score": 225,
+    "description": "HN Score: 68 | 23 comments",
+    "url": "https://math-ai-org.github.io/mathcode/",
+    "score": 68,
     "date": "2026-08-17",
     "category": "AI News"
   },
@@ -76,63 +76,47 @@
     "category": "Twitter"
   },
   {
-    "title": "MathCode, Mathematical Coding Agent",
-    "source": "Hacker News",
-    "description": "HN Score: 60 | 18 comments",
-    "url": "https://math-ai-org.github.io/mathcode/",
-    "score": 60,
-    "date": "2026-08-17",
-    "category": "AI News"
-  },
-  {
-    "title": "\ud83d\udea8 Announcing Voice Agents - AI Handles Enterprise Class Support With Just One Text Prompt - toll-free phone number - connect to all your systems - cus",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2088829927751643402#m",
-    "date": "2026-08-17",
-    "category": "Twitter"
-  },
-  {
     "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
     "source": "Hacker News",
-    "description": "HN Score: 99 | 28 comments",
+    "description": "HN Score: 123 | 47 comments",
     "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
-    "score": 99,
+    "score": 123,
     "date": "2026-08-17",
     "category": "AI News"
-  },
-  {
-    "title": "Anthropic wants to concentrate power, while OpenAI is choosing to democratize AI They have explicitly chosen not to release Mode 2 - the next version ",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2088794014690775156#m",
-    "date": "2026-08-17",
-    "category": "Twitter"
   },
   {
     "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
     "source": "Hacker News",
-    "description": "HN Score: 194 | 142 comments",
+    "description": "HN Score: 221 | 150 comments",
     "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
-    "score": 194,
+    "score": 221,
+    "date": "2026-08-17",
+    "category": "AI News"
+  },
+  {
+    "title": "Models Are Getting Dumber on Purpose",
+    "source": "Hacker News",
+    "description": "HN Score: 281 | 158 comments",
+    "url": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
+    "score": 281,
     "date": "2026-08-17",
     "category": "AI News"
   },
   {
     "title": "Red queen hypothesis \u2013 a new way forward for self-improving AI",
     "source": "Hacker News",
-    "description": "HN Score: 9 | 0 comments",
+    "description": "HN Score: 18 | 2 comments",
     "url": "https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai",
-    "score": 9,
+    "score": 18,
     "date": "2026-08-17",
     "category": "AI News"
   },
   {
-    "title": "The Case Against Formal Verification, 50 Years Later",
+    "title": "Research papers using 'kidney disappointment' instead of 'kidney failure'",
     "source": "Hacker News",
-    "description": "HN Score: 81 | 77 comments",
-    "url": "https://ivan-gavran.github.io/0-social-processes-paper",
-    "score": 81,
+    "description": "HN Score: 368 | 132 comments",
+    "url": "https://scholar.google.com/scholar?q=%22kidney+disappointment%22",
+    "score": 368,
     "date": "2026-08-17",
     "category": "AI News"
   },
