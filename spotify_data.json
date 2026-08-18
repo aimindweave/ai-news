@@ -94,6 +94,16 @@
   "episodes": [
     {
       "id": "a]6z Pod_0",
+      "name": "How Do You Defend Against AI That Can Hack?",
+      "show": "a]6z Podcast",
+      "description": "a16z's Joel De La Garza is joined by Nick Warner of Neo and Max Pollard of Cotool to discuss what happens when cybersecurity tools built to defend against humans and malware suddenly have to conten",
+      "release_date": "2026-08-18",
+      "duration_min": 22,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
+      "id": "a]6z Pod_1",
       "name": "Stripe’s AI Strategy: Build More, Not Less",
       "show": "a]6z Podcast",
       "description": "a16z General Partner David George is joined by Will Gaybrick, President of Product & Business at Stripe, to discuss how AI is changing the way Stripe builds products, organizes teams, and thinks ab",
@@ -113,22 +123,12 @@
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "Ben Horowitz and Travis Kalanick on Building Again",
       "show": "a]6z Podcast",
       "description": "Ben Horowitz, Travis Kalanick, and Erik Torenberg take the stage at Atoms' launch event for a candid fireside conversation about entrepreneurship, company building, and why Kalanick believes the ne",
       "release_date": "2026-08-14",
       "duration_min": 33,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
-    },
-    {
-      "id": "a]6z Pod_2",
-      "name": "The Two Ways to Sell AI: Lighthouse or Landgrab?",
-      "show": "a]6z Podcast",
-      "description": "Elena Burger is joined by a16z's Andy McCall and Joe Schmidt to break down two very different ways AI startups can go to market: the lighthouse and the landgrab. Should founders win a handful of ma",
-      "release_date": "2026-08-13",
-      "duration_min": 44,
       "image": "",
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
