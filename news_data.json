@@ -1,5 +1,19 @@
 [
   {
+    "title": "OpenAI institutes new safeguards after Hugging Face breach",
+    "source": "TechCrunch",
+    "summary": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
+    "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+    "date": "2026-08-18"
+  },
+  {
+    "title": "Etched\u2019s valuation doubles to $21B in a month",
+    "source": "TechCrunch",
+    "summary": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
+    "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+    "date": "2026-08-18"
+  },
+  {
     "title": "Why Apple\u2019s camera-equipped AirPods may not be the \u2018pervert pods\u2019 consumers fear",
     "source": "TechCrunch",
     "summary": "Apple\u2019s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos.",
@@ -91,20 +105,6 @@
     "date": "2026-08-18"
   },
   {
-    "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
-    "source": "TechCrunch",
-    "summary": "The woman claimed that AI tools are 'taking everyday life and turning it into child sexual abuse.'",
-    "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
-    "date": "2026-08-18"
-  },
-  {
-    "title": "Anthropic shares more details about how Claude\u2019s new watermarks will work",
-    "source": "TechCrunch",
-    "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
-    "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
-    "date": "2026-08-18"
-  },
-  {
     "title": "The Download: how people really use AI, and Flock\u2019s design choices",
     "source": "MIT Tech Review",
     "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. We still don\u2019t know how people are really using AI AI companies like Anthropic and OpenAI regularly publish reports on how people are using their products. But...",
@@ -175,6 +175,13 @@
     "date": "2026-08-18"
   },
   {
+    "title": "OpenAI Overhauls Safety Protocols After Its AI Agents Went Rogue",
+    "source": "Wired",
+    "summary": "The ChatGPT maker says its upcoming Astra model may have reached \u201ccritical\u201d cyber capabilities, prompting it to halt a significant number of training runs while it tightens internal safeguards.",
+    "url": "https://www.wired.com/story/openai-overhauls-safety-protocols-after-its-ai-agents-went-rogue/",
+    "date": "2026-08-18"
+  },
+  {
     "title": "The Powerful Chinese AI Model Experts Warned About Is Here",
     "source": "Wired",
     "summary": "Z.ai\u2019s latest AI model release could help companies secure their systems\u2014or find its way into the hands of hackers.",
@@ -235,13 +242,6 @@
     "source": "Wired",
     "summary": "Over a billion people worldwide have livers with excess fat, which can lead to a host of medical problems. Researchers think AI tools can spot the condition\u2014and help stop it\u2014early enough to save lives.",
     "url": "https://www.wired.com/story/fatty-liver-disease-ai-detection-cancer/",
-    "date": "2026-08-18"
-  },
-  {
-    "title": "The White House Is Going to Expand Its AI Policy",
-    "source": "Wired",
-    "summary": "Open models may soon be added to an updated AI framework, sources tell WIRED, as the White House continues to grapple with how to regulate a technology it has tried not to regulate.",
-    "url": "https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/",
     "date": "2026-08-18"
   },
   {
