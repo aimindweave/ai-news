@@ -1,87 +1,53 @@
 [
   {
-    "title": "RT by @EMostaque: How to think about the robotics market",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/intern/status/2089418795353796754#m",
-    "date": "2026-08-17",
-    "category": "Twitter"
-  },
-  {
-    "title": "AI-Generated GitHub Copilot \u201cAutofix\u201d Allowed Compromise of Snowflake's Jira",
-    "source": "Hacker News",
-    "description": "HN Score: 289 | 120 comments",
-    "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-    "score": 289,
-    "date": "2026-08-17",
-    "category": "AI News"
-  },
-  {
-    "title": "Hit the @grok @bot limit after solid use testing things Using it as a coordinator (gave it my gpt/claude/cursor clis) it feels oddly frustrating versu",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/EMostaque/status/2089431551444471855#m",
-    "date": "2026-08-17",
-    "category": "Twitter"
-  },
-  {
-    "title": "AI;DR (AI; Didn't Read)",
-    "source": "Hacker News",
-    "description": "HN Score: 429 | 259 comments",
-    "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
-    "score": 429,
-    "date": "2026-08-17",
-    "category": "AI News"
-  },
-  {
     "title": "Stay hungry, stay foolish. Absolute legend",
     "source": "@DrJimFan",
     "description": "",
     "url": "https://nitter.net/DrJimFan/status/2080798306566045756#m",
-    "date": "2026-08-17",
+    "date": "2026-08-18",
+    "category": "Twitter"
+  },
+  {
+    "title": "GPT-5.6 Sol Pricing Cut by 50%",
+    "source": "Hacker News",
+    "description": "HN Score: 174 | 102 comments",
+    "url": "https://openrouter.ai/openai/gpt-5.6-sol",
+    "score": 174,
+    "date": "2026-08-18",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: First, they stole our data. Then, they sold it back to us. Now, they watermark it. Soon, they claim they own it all.",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2089329396176097442#m",
+    "date": "2026-08-18",
     "category": "Twitter"
   },
   {
     "title": "Fairphone 6 and PostmarketOS working main camera",
     "source": "Hacker News",
-    "description": "HN Score: 12 | 0 comments",
+    "description": "HN Score: 93 | 24 comments",
     "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
-    "score": 12,
-    "date": "2026-08-17",
+    "score": 93,
+    "date": "2026-08-18",
     "category": "AI News"
   },
   {
-    "title": "Next time you pay me to paint your house, I\u2019ll watermark your walls with my name. I did more work than you painting them, so it\u2019s only fair.",
+    "title": "Don't talk directly to a model. The simplest trick you can use to improve the architecture of whatever you are building is to introduce a layer betwee",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2089419758034727038#m",
-    "date": "2026-08-17",
+    "url": "https://nitter.net/svpino/status/2089478844885684348#m",
+    "date": "2026-08-18",
     "category": "Twitter"
   },
   {
-    "title": "How to disable or avoid intrusive AI",
+    "title": "AI-Generated GitHub Copilot \u201cAutofix\u201d Allowed Compromise of Snowflake's Jira",
     "source": "Hacker News",
-    "description": "HN Score: 220 | 119 comments",
-    "url": "https://www.librarian.net/notoai/",
-    "score": 220,
-    "date": "2026-08-17",
-    "category": "AI News"
-  },
-  {
-    "title": "God knows I'd pay good money to see a new season of Silicon Valley. The new plot writes itself.",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2089403490401427868#m",
-    "date": "2026-08-17",
-    "category": "Twitter"
-  },
-  {
-    "title": "GPT 5.6 Sol is the best 'vision' model OpenAI ever released",
-    "source": "Hacker News",
-    "description": "HN Score: 282 | 146 comments",
-    "url": "https://blog.roboflow.com/openai-gpt-5-6/",
-    "score": 282,
-    "date": "2026-08-17",
+    "description": "HN Score: 322 | 126 comments",
+    "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+    "score": 322,
+    "date": "2026-08-18",
     "category": "AI News"
   },
   {
@@ -89,16 +55,16 @@
     "source": "@bindureddy",
     "description": "",
     "url": "https://nitter.net/bindureddy/status/2089415041074565271#m",
-    "date": "2026-08-17",
+    "date": "2026-08-18",
     "category": "Twitter"
   },
   {
-    "title": "Roboflow Playground: Try and Compare 30 Computer Vision Models",
+    "title": "AI;DR (AI; Didn't Read)",
     "source": "Hacker News",
-    "description": "HN Score: 30 | 3 comments",
-    "url": "https://blog.roboflow.com/roboflow-playground/",
-    "score": 30,
-    "date": "2026-08-17",
+    "description": "HN Score: 638 | 398 comments",
+    "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+    "score": 638,
+    "date": "2026-08-18",
     "category": "AI News"
   },
   {
@@ -106,43 +72,61 @@
     "source": "@bindureddy",
     "description": "",
     "url": "https://nitter.net/bindureddy/status/2089194292090917355#m",
-    "date": "2026-08-17",
+    "date": "2026-08-18",
     "category": "Twitter"
   },
   {
-    "title": "Launch HN: Speko (YC S26) \u2013 OpenRouter for Voice AI",
+    "title": "Repair Cafe \u2013 Fix Your Broken Items",
     "source": "Hacker News",
-    "description": "HN Score: 81 | 50 comments",
-    "url": "https://speko.ai/",
-    "score": 81,
-    "date": "2026-08-17",
+    "description": "HN Score: 29 | 8 comments",
+    "url": "https://www.repaircafe.org/",
+    "score": 29,
+    "date": "2026-08-18",
     "category": "AI News"
   },
   {
-    "title": "A simple fix for LLM tail latency",
+    "title": "GPT 5.6 Sol is the best 'vision' model OpenAI ever released",
     "source": "Hacker News",
-    "description": "HN Score: 22 | 7 comments",
-    "url": "https://engineering.myhoai.com/posts/a-simple-fix-for-llm-tail-latency/",
-    "score": 22,
-    "date": "2026-08-17",
+    "description": "HN Score: 307 | 154 comments",
+    "url": "https://blog.roboflow.com/openai-gpt-5-6/",
+    "score": 307,
+    "date": "2026-08-18",
     "category": "AI News"
   },
   {
     "title": "An update on leaving Gmail for Fastmail",
     "source": "Hacker News",
-    "description": "HN Score: 72 | 60 comments",
+    "description": "HN Score: 131 | 98 comments",
     "url": "https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/",
-    "score": 72,
-    "date": "2026-08-17",
+    "score": 131,
+    "date": "2026-08-18",
     "category": "AI News"
   },
   {
-    "title": "Show HN: Sokoban AI Solver",
+    "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
     "source": "Hacker News",
-    "description": "HN Score: 65 | 38 comments",
-    "url": "https://mkornreich.me/projects/sokoban/",
-    "score": 65,
-    "date": "2026-08-17",
+    "description": "HN Score: 140 | 50 comments",
+    "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
+    "score": 140,
+    "date": "2026-08-18",
+    "category": "AI News"
+  },
+  {
+    "title": "How to disable or avoid intrusive AI",
+    "source": "Hacker News",
+    "description": "HN Score: 262 | 161 comments",
+    "url": "https://www.librarian.net/notoai/",
+    "score": 262,
+    "date": "2026-08-18",
+    "category": "AI News"
+  },
+  {
+    "title": "Launch HN: Speko (YC S26) \u2013 OpenRouter for Voice AI",
+    "source": "Hacker News",
+    "description": "HN Score: 92 | 53 comments",
+    "url": "https://speko.ai/",
+    "score": 92,
+    "date": "2026-08-18",
     "category": "AI News"
   }
 ]
