@@ -1,5 +1,12 @@
 [
   {
+    "title": "Meet the startup helping Wall Street put a price on AI compute",
+    "source": "TechCrunch",
+    "summary": "The AI buildout shows no signs of slowing. And with hundreds of billions of dollars a year going into data centers and GPUs, compute has become the single biggest cost for anyone building AI products. But for all that spending, there still isn\u2019t a straightforward way to put a price on compute \u2014 o...",
+    "url": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
+    "date": "2026-08-19"
+  },
+  {
     "title": "TerraPower\u2019s nuclear reactor has a secret weapon for powering AI data centers",
     "source": "TechCrunch",
     "summary": "TerraPower's nuclear power plant possesses a strategic advantage over competitors, especially when chasing after data center deals.",
@@ -98,13 +105,6 @@
     "date": "2026-08-19"
   },
   {
-    "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
-    "source": "TechCrunch",
-    "summary": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
-    "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
-    "date": "2026-08-19"
-  },
-  {
     "title": "The Download: AI\u2019s self-improvement problem, and what\u2019s driving the heat",
     "source": "MIT Tech Review",
     "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. AI\u2019s recursive self-improvement might not come so quickly after all The AI industry\u2019s boldest promise right now is that AI will soon improve itself, with almos...",
@@ -175,6 +175,13 @@
     "date": "2026-08-19"
   },
   {
+    "title": "Coders Say They Already Found Workarounds to Claude\u2019s Invisible Watermarks",
+    "source": "Wired",
+    "summary": "Anthropic announced last week it would include invisible watermarks in AI-generated content to comply with new EU rules. Within hours, overrides were being touted online.",
+    "url": "https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks/",
+    "date": "2026-08-19"
+  },
+  {
     "title": "Flock Has a Powerful New AI Tool for Police. We Got Its Code",
     "source": "Wired",
     "summary": "Flock\u2019s surveillance cameras have already sparked outrage. WIRED reconstructed its next-generation AI system, already in use by some police, to confirm it goes much further than tracking license plates.",
@@ -235,13 +242,6 @@
     "source": "Wired",
     "summary": "OpenAI\u2019s rogue agent hack was a watershed moment for AI safety and cybersecurity. It also sparked internal questions about the culture that led to it.",
     "url": "https://www.wired.com/story/openai-safety-security-ai-agents-culture/",
-    "date": "2026-08-19"
-  },
-  {
-    "title": "Mark Zuckerberg\u2019s AI Manifesto Is 6,500 Words\u2014and Barely Says Anything",
-    "source": "Wired",
-    "summary": "AI is shifting the culture, from tech CEO manifestos to 1 am job interviews. We unpack some of the latest, along with the top findings from Black Hat and Defcon, this week on Uncanny Valley.",
-    "url": "https://www.wired.com/story/mark-zuckerbergs-ai-manifesto-is-6500-words-and-barely-says-anything/",
     "date": "2026-08-19"
   },
   {
