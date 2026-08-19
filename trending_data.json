@@ -10,9 +10,9 @@
   {
     "title": "AI usage patterns in software teams",
     "source": "Hacker News",
-    "description": "HN Score: 109 | 60 comments",
+    "description": "HN Score: 132 | 69 comments",
     "url": "https://linear.app/data",
-    "score": 109,
+    "score": 132,
     "date": "2026-08-19",
     "category": "AI News"
   },
@@ -25,11 +25,45 @@
     "category": "Twitter"
   },
   {
+    "title": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
+    "source": "Hacker News",
+    "description": "HN Score: 192 | 152 comments",
+    "url": "https://twitter.com/kuberwastaken/status/2089377982536388964",
+    "score": 192,
+    "date": "2026-08-19",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: DFlash 2 is here! Qwen3.8-27B at 70 tok/s on an M5 Max MacBook Pro. \u26a1 Up to 4.6\u00d7 the speed of autoregressive decoding, with the same",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/zhijianliu_/status/2089836737132650504#m",
+    "date": "2026-08-19",
+    "category": "Twitter"
+  },
+  {
     "title": "Show HN: Interactive, animated architecture of any HuggingFace models",
     "source": "Hacker News",
-    "description": "HN Score: 69 | 7 comments",
+    "description": "HN Score: 75 | 7 comments",
     "url": "https://modelmap.cc",
-    "score": 69,
+    "score": 75,
+    "date": "2026-08-19",
+    "category": "AI News"
+  },
+  {
+    "title": "Who are the smartest investors thinking about the Intelligence Age transition?",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/EMostaque/status/2089822790601850947#m",
+    "date": "2026-08-19",
+    "category": "Twitter"
+  },
+  {
+    "title": "Claude Code May\u2013August 2026 weekly limits promotion",
+    "source": "Hacker News",
+    "description": "HN Score: 273 | 247 comments",
+    "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
+    "score": 273,
     "date": "2026-08-19",
     "category": "AI News"
   },
@@ -42,11 +76,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
+    "title": "Using the railway network as a flatbed scanner",
     "source": "Hacker News",
-    "description": "HN Score: 171 | 143 comments",
-    "url": "https://twitter.com/kuberwastaken/status/2089377982536388964",
-    "score": 171,
+    "description": "HN Score: 428 | 69 comments",
+    "url": "https://philo.gay/linecam/",
+    "score": 428,
+    "date": "2026-08-19",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: We had a Roborock at home before getting a Matic. We moved it to our second floor while Matic handles the main floor. Matic is way bett",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2089787190922629209#m",
+    "date": "2026-08-19",
+    "category": "Twitter"
+  },
+  {
+    "title": "Norway should buy OpenAI",
+    "source": "Hacker News",
+    "description": "HN Score: 237 | 250 comments",
+    "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
+    "score": 237,
     "date": "2026-08-19",
     "category": "AI News"
   },
@@ -57,65 +108,5 @@
     "url": "https://nitter.net/svpino/status/2089772314330321325#m",
     "date": "2026-08-19",
     "category": "Twitter"
-  },
-  {
-    "title": "Claude Code May\u2013August 2026 weekly limits promotion",
-    "source": "Hacker News",
-    "description": "HN Score: 269 | 244 comments",
-    "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
-    "score": 269,
-    "date": "2026-08-19",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: I know this gets a bunch of people mad, but I've been asking ChatGPT legal questions for 2 years now. It reviews my contracts and NDAs.",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2089742860338037047#m",
-    "date": "2026-08-19",
-    "category": "Twitter"
-  },
-  {
-    "title": "Norway should buy OpenAI",
-    "source": "Hacker News",
-    "description": "HN Score: 231 | 246 comments",
-    "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
-    "score": 231,
-    "date": "2026-08-19",
-    "category": "AI News"
-  },
-  {
-    "title": "Flash 3.7 beats GPT-Terra and is Google's Best Model - It's very fast - excellent chat model - follows instructions better than Terra - beats Claude h",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2089873700090941751#m",
-    "date": "2026-08-19",
-    "category": "Twitter"
-  },
-  {
-    "title": "Using the railway network as a flatbed scanner",
-    "source": "Hacker News",
-    "description": "HN Score: 424 | 69 comments",
-    "url": "https://philo.gay/linecam/",
-    "score": 424,
-    "date": "2026-08-19",
-    "category": "AI News"
-  },
-  {
-    "title": "Yikes, OpenAI is PAUSING frontier model training \ud83d\ude05 This means that the open-source AI models will inevitably catch up to them in 12 weeks open-source ",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2089800962374512946#m",
-    "date": "2026-08-19",
-    "category": "Twitter"
-  },
-  {
-    "title": "Field measurements of neighborhood-scale air temperature impacts of data centers",
-    "source": "Hacker News",
-    "description": "HN Score: 296 | 448 comments",
-    "url": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
-    "score": 296,
-    "date": "2026-08-19",
-    "category": "AI News"
   }
 ]
