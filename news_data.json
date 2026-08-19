@@ -1,5 +1,26 @@
 [
   {
+    "title": "AI was supposed to win people over by now \u2014 it hasn\u2019t",
+    "source": "TechCrunch",
+    "summary": "As AI becomes harder to avoid, consumers are growing more wary of the technology \u2014 and Silicon Valley is discovering that widespread adoption doesn\u2019t necessarily lead to acceptance.",
+    "url": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+    "date": "2026-08-19"
+  },
+  {
+    "title": "Google packs Search and Gemini with new AI study tools",
+    "source": "TechCrunch",
+    "summary": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenAI.",
+    "url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+    "date": "2026-08-19"
+  },
+  {
+    "title": "Researchers say OpenAI revoked their access to limited cyber program",
+    "source": "TechCrunch",
+    "summary": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the aim of getting flaws patched faster.",
+    "url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+    "date": "2026-08-19"
+  },
+  {
     "title": "Meet the startup helping Wall Street put a price on AI compute",
     "source": "TechCrunch",
     "summary": "The AI buildout shows no signs of slowing. And with hundreds of billions of dollars a year going into data centers and GPUs, compute has become the single biggest cost for anyone building AI products. But for all that spending, there still isn\u2019t a straightforward way to put a price on compute \u2014 o...",
@@ -84,27 +105,6 @@
     "date": "2026-08-19"
   },
   {
-    "title": "Perplexity\u2019s free AI offer left it with millions more users in India",
-    "source": "TechCrunch",
-    "summary": "Perplexity's India revenue rose about 60% after the Airtel offer ended for new users, even as downloads declined.",
-    "url": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
-    "date": "2026-08-19"
-  },
-  {
-    "title": "Anthropic\u2019s annualized revenue surges to $65B",
-    "source": "TechCrunch",
-    "summary": "The model maker added $18 billion in annualized revenue in two months.",
-    "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
-    "date": "2026-08-19"
-  },
-  {
-    "title": "AI automation startup Relay shuts down, staff joins Google\u2019s Chrome team",
-    "source": "TechCrunch",
-    "summary": "'We have some really ambitious plans to help you work with AI in Chrome to get things done, and I\u2019ll have more to share soon,' Jacob Bank, Relay founder and CEO, said.",
-    "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
-    "date": "2026-08-19"
-  },
-  {
     "title": "The Download: AI\u2019s self-improvement problem, and what\u2019s driving the heat",
     "source": "MIT Tech Review",
     "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. AI\u2019s recursive self-improvement might not come so quickly after all The AI industry\u2019s boldest promise right now is that AI will soon improve itself, with almos...",
@@ -175,6 +175,13 @@
     "date": "2026-08-19"
   },
   {
+    "title": "I Saw the Future of AI in a Robot That Can Learn on the Spot",
+    "source": "Wired",
+    "summary": "During a recent visit to Generalist AI, I watched a robotic arm improvise and use a banana as a tool.",
+    "url": "https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/",
+    "date": "2026-08-19"
+  },
+  {
     "title": "Coders Say They Already Found Workarounds to Claude\u2019s Invisible Watermarks",
     "source": "Wired",
     "summary": "Anthropic announced last week it would include invisible watermarks in AI-generated content to comply with new EU rules. Within hours, overrides were being touted online.",
@@ -238,10 +245,10 @@
     "date": "2026-08-19"
   },
   {
-    "title": "The Safety Reckoning Inside OpenAI",
-    "source": "Wired",
-    "summary": "OpenAI\u2019s rogue agent hack was a watershed moment for AI safety and cybersecurity. It also sparked internal questions about the culture that led to it.",
-    "url": "https://www.wired.com/story/openai-safety-security-ai-agents-culture/",
+    "title": "Flight attendants freaked out that Google is buying tons of Spirit employee data",
+    "source": "Ars Technica",
+    "summary": "Bankrupt Spirit accused of selling out workers in massive data sale to Google.",
+    "url": "https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/",
     "date": "2026-08-19"
   },
   {
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "AI firms quietly bulk buying rare books face resistance from booksellers.",
     "url": "https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart/",
-    "date": "2026-08-19"
-  },
-  {
-    "title": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
-    "source": "Ars Technica",
-    "summary": "But will Gemini's surge survive slowing model releases?",
-    "url": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
     "date": "2026-08-19"
   }
 ]
