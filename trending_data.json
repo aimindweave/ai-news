@@ -1,39 +1,5 @@
 [
   {
-    "title": "\u7c73\u6fa4\u3055\u3093\u3068\u4e09\u5b85\u3055\u3093\u306e\u5bfe\u8ac7\u3001\u5b66\u6821\u796d\u3067 \u3042\u306e\u4f5c\u54c1\u306e\u30c6\u30fc\u30de\u306f\u2026\u3092\u805e\u3051\u305f\u306e\u306f\u3044\u3044\u4f53\u9a13\u3060\u3063\u305f",
-    "source": "@kaborobot",
-    "description": "",
-    "url": "https://nitter.net/kaborobot/status/2063568544277909948#m",
-    "date": "2026-08-19",
-    "category": "Twitter"
-  },
-  {
-    "title": "AI usage patterns in software teams",
-    "source": "Hacker News",
-    "description": "HN Score: 54 | 24 comments",
-    "url": "https://linear.app/data",
-    "score": 54,
-    "date": "2026-08-19",
-    "category": "AI News"
-  },
-  {
-    "title": "\u30d6\u30c3\u30c1\u30e3\u30fc\u304c\u30db\u30ef\u30a4\u30c8\u30cf\u30a6\u30b9\u306e\u58c1\u3076\u3061\u7834\u3063\u3066\u304d\u305f\u6642\u306e\u30db\u30fc\u30e0\u30e9\u30f3\u30c0\u30fc\u306e\u67d4\u3089\u304b\u306a\u8868\u60c5\u3063\u3066 \u3042\u306e\u653e\u9001\u306e\u6f14\u8aac\u3092\u7d42\u3048\u3066\u3057\u307e\u3063\u3066\u8ab0\u304b\u306b\u611b\u3055\u308c\u308b\u3053\u3068\u306f\u3082\u3046\u306a\u304f\u306a\u308a\u6050\u6016\u306e\u5bfe\u8c61\u306b\u3057\u304b\u306a\u3089\u306a\u3044\u904b\u547d\u3092\u7d42\u308f\u3089\u305b\u3066\u304f\u308c\u308b\u4eba\u304c\u6765\u305f\u304b\u3089\u306a\u306e\u304b",
-    "source": "@kaborobot",
-    "description": "",
-    "url": "https://nitter.net/kaborobot/status/2058205543760838842#m",
-    "date": "2026-08-19",
-    "category": "Twitter"
-  },
-  {
-    "title": "Using the railway network as a flatbed scanner",
-    "source": "Hacker News",
-    "description": "HN Score: 411 | 66 comments",
-    "url": "https://philo.gay/linecam/",
-    "score": 411,
-    "date": "2026-08-19",
-    "category": "AI News"
-  },
-  {
     "title": "RT by @EMostaque: DFlash 2 is here! Qwen3.8-27B at 70 tok/s on an M5 Max MacBook Pro. \u26a1 Up to 4.6\u00d7 the speed of autoregressive decoding, with the same",
     "source": "@EMostaque",
     "description": "",
@@ -42,11 +8,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Show HN: Interactive, animated architecture of any HuggingFace models",
+    "title": "AI usage patterns in software teams",
     "source": "Hacker News",
-    "description": "HN Score: 37 | 5 comments",
-    "url": "https://modelmap.cc",
-    "score": 37,
+    "description": "HN Score: 82 | 41 comments",
+    "url": "https://linear.app/data",
+    "score": 82,
     "date": "2026-08-19",
     "category": "AI News"
   },
@@ -59,45 +25,62 @@
     "category": "Twitter"
   },
   {
-    "title": "How to build an eval set you can maintain",
+    "title": "Show HN: Interactive, animated architecture of any HuggingFace models",
     "source": "Hacker News",
-    "description": "HN Score: 3 | 0 comments",
-    "url": "https://langfuse.com/academy/evaluate/choosing-what-to-evaluate",
-    "score": 3,
+    "description": "HN Score: 57 | 7 comments",
+    "url": "https://modelmap.cc",
+    "score": 57,
     "date": "2026-08-19",
     "category": "AI News"
   },
   {
-    "title": "RT by @svpino: This will let you embed Hermes and OpenClaw into any application: \u2022 Stream answers and reasoning live \u2022 Render UI inside your app \u2022 Act",
+    "title": "Stay hungry, stay foolish. Absolute legend",
+    "source": "@DrJimFan",
+    "description": "",
+    "url": "https://nitter.net/DrJimFan/status/2080798306566045756#m",
+    "date": "2026-08-19",
+    "category": "Twitter"
+  },
+  {
+    "title": "Claude Code Teaching macOS to Natively Print to the HP Laser 1008a",
+    "source": "Hacker News",
+    "description": "HN Score: 126 | 76 comments",
+    "url": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
+    "score": 126,
+    "date": "2026-08-19",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: I know this gets a bunch of people mad, but I've been asking ChatGPT legal questions for 2 years now. It reviews my contracts and NDAs.",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2089717423197024604#m",
+    "url": "https://nitter.net/svpino/status/2089742860338037047#m",
     "date": "2026-08-19",
     "category": "Twitter"
   },
   {
     "title": "Norway should buy OpenAI",
     "source": "Hacker News",
-    "description": "HN Score: 222 | 235 comments",
+    "description": "HN Score: 226 | 239 comments",
     "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
-    "score": 222,
+    "score": 226,
     "date": "2026-08-19",
     "category": "AI News"
   },
   {
-    "title": "This is the type of corpo bullshit that would make me quit on the spot.",
+    "title": "RT by @svpino: Instead of reading your AI-generated code by hand, spend time on a plan to verify that your system is working as intended. One of the m",
     "source": "@svpino",
     "description": "",
-    "url": "https://nitter.net/svpino/status/2089805251322712550#m",
+    "url": "https://nitter.net/svpino/status/2089737204839162318#m",
     "date": "2026-08-19",
     "category": "Twitter"
   },
   {
     "title": "Claude Code May\u2013August 2026 weekly limits promotion",
     "source": "Hacker News",
-    "description": "HN Score: 263 | 238 comments",
+    "description": "HN Score: 265 | 242 comments",
     "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
-    "score": 263,
+    "score": 265,
     "date": "2026-08-19",
     "category": "AI News"
   },
@@ -110,11 +93,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Claude Code Teaching macOS to Natively Print to the HP Laser 1008a",
+    "title": "Using the railway network as a flatbed scanner",
     "source": "Hacker News",
-    "description": "HN Score: 117 | 75 comments",
-    "url": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
-    "score": 117,
+    "description": "HN Score: 420 | 69 comments",
+    "url": "https://philo.gay/linecam/",
+    "score": 420,
     "date": "2026-08-19",
     "category": "AI News"
   },
@@ -129,9 +112,9 @@
   {
     "title": "Field measurements of neighborhood-scale air temperature impacts of data centers",
     "source": "Hacker News",
-    "description": "HN Score: 287 | 425 comments",
+    "description": "HN Score: 292 | 435 comments",
     "url": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
-    "score": 287,
+    "score": 292,
     "date": "2026-08-19",
     "category": "AI News"
   }
