@@ -1,91 +1,114 @@
 [
   {
+    "title": "RT @RaoulGMI: Smarter than us. Stronger than us. Cheaper to run. That's the species we're building. I sat down with @Rewkang of Robo Strat\u2026",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/EMostaque/status/2090424439552737570#m",
+    "date": "2026-08-20",
+    "category": "Twitter"
+  },
+  {
     "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
     "source": "Hacker News",
-    "description": "HN Score: 298 | 71 comments",
+    "description": "HN Score: 377 | 89 comments",
     "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
-    "score": 298,
+    "score": 377,
+    "date": "2026-08-20",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: The submissions for the $2M Build with Gemini XPRIZE just closed. Over 90 days 26k competitors built a real AI-native business solvi",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/PeterDiamandis/status/2090167675997786439#m",
+    "date": "2026-08-20",
+    "category": "Twitter"
+  },
+  {
+    "title": "Hacking with Claude on a $27 Smart Watch",
+    "source": "Hacker News",
+    "description": "HN Score: 59 | 35 comments",
+    "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
+    "score": 59,
+    "date": "2026-08-20",
+    "category": "AI News"
+  },
+  {
+    "title": "Kimi K3 is worth every one of its 2.8T parameters. It's the best open-weight model I've tried. It's frontier-level quality, and it can give any model ",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2090461979655938461#m",
+    "date": "2026-08-20",
+    "category": "Twitter"
+  },
+  {
+    "title": "Every Model Cheats",
+    "source": "Hacker News",
+    "description": "HN Score: 53 | 32 comments",
+    "url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks/",
+    "score": 53,
+    "date": "2026-08-20",
+    "category": "AI News"
+  },
+  {
+    "title": "and most projects will continue to run late, over budget, and will still miss user needs",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2090437931605320017#m",
+    "date": "2026-08-20",
+    "category": "Twitter"
+  },
+  {
+    "title": "Show HN: Check if any of the $656M in unclaimed royalties at The MLC is yours",
+    "source": "Hacker News",
+    "description": "HN Score: 48 | 26 comments",
+    "url": "https://pub.doub.ly/",
+    "score": 48,
     "date": "2026-08-20",
     "category": "AI News"
   },
   {
     "title": "Clean up Claude 5's token vomit with a separate LLM",
     "source": "Hacker News",
-    "description": "HN Score: 47 | 31 comments",
+    "description": "HN Score: 110 | 108 comments",
     "url": "https://github.com/zachahn/vomit",
-    "score": 47,
+    "score": 110,
     "date": "2026-08-20",
     "category": "AI News"
   },
   {
-    "title": "Hacking with Claude on a $27 Smart Watch",
+    "title": "AI at Home Part 2: Multi-GPU Drifting",
     "source": "Hacker News",
-    "description": "HN Score: 43 | 25 comments",
-    "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
-    "score": 43,
-    "date": "2026-08-20",
-    "category": "AI News"
-  },
-  {
-    "title": "Every Model Cheats",
-    "source": "Hacker News",
-    "description": "HN Score: 33 | 15 comments",
-    "url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks/",
-    "score": 33,
+    "description": "HN Score: 6 | 0 comments",
+    "url": "https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html",
+    "score": 6,
     "date": "2026-08-20",
     "category": "AI News"
   },
   {
     "title": "Anti-AI fonts are useless and harmful",
     "source": "Hacker News",
-    "description": "HN Score: 19 | 6 comments",
+    "description": "HN Score: 61 | 49 comments",
     "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
-    "score": 19,
-    "date": "2026-08-20",
-    "category": "AI News"
-  },
-  {
-    "title": "Show HN: Check if any of the $656M in unclaimed royalties at The MLC is yours",
-    "source": "Hacker News",
-    "description": "HN Score: 26 | 13 comments",
-    "url": "https://pub.doub.ly/",
-    "score": 26,
-    "date": "2026-08-20",
-    "category": "AI News"
-  },
-  {
-    "title": "An American Mosaic (interactive map of ancestry census data)",
-    "source": "Hacker News",
-    "description": "HN Score: 23 | 8 comments",
-    "url": "https://www.nytimes.com/interactive/2026/07/01/us/america-ancestry-census-data-map.html",
-    "score": 23,
+    "score": 61,
     "date": "2026-08-20",
     "category": "AI News"
   },
   {
     "title": "Could AIs Become Conscious?",
     "source": "Hacker News",
-    "description": "HN Score: 7 | 8 comments",
+    "description": "HN Score: 14 | 29 comments",
     "url": "https://economist.com/leaders/2026/08/20/could-ais-become-conscious",
-    "score": 7,
+    "score": 14,
     "date": "2026-08-20",
     "category": "AI News"
   },
   {
-    "title": "Don't paste the AI, please",
+    "title": "An American Mosaic (interactive map of ancestry census data)",
     "source": "Hacker News",
-    "description": "HN Score: 929 | 493 comments",
-    "url": "https://dontpastetheai.com/",
-    "score": 929,
-    "date": "2026-08-20",
-    "category": "AI News"
-  },
-  {
-    "title": "Code Factories Without Quality: The AI Development Blind Spot",
-    "source": "Hacker News",
-    "description": "HN Score: 5 | 0 comments",
-    "url": "https://www.qawolf.com/blog/code-factories-without-quality",
-    "score": 5,
+    "description": "HN Score: 25 | 8 comments",
+    "url": "https://www.nytimes.com/interactive/2026/07/01/us/america-ancestry-census-data-map.html",
+    "score": 25,
     "date": "2026-08-20",
     "category": "AI News"
   }
