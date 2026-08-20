@@ -1,115 +1,91 @@
 [
   {
-    "title": "Stay hungry, stay foolish. Absolute legend",
-    "source": "@DrJimFan",
-    "description": "",
-    "url": "https://nitter.net/DrJimFan/status/2080798306566045756#m",
-    "date": "2026-08-20",
-    "category": "Twitter"
-  },
-  {
     "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
     "source": "Hacker News",
-    "description": "HN Score: 167 | 43 comments",
+    "description": "HN Score: 298 | 71 comments",
     "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
-    "score": 167,
+    "score": 298,
     "date": "2026-08-20",
     "category": "AI News"
   },
   {
-    "title": "Models dropping in the next few weeks Fable 5.1 Astra / GPT 6 Grok 4.7 Kimi 3.5 Astra is a step change and will likely put OpenAI ahead of Anthropic",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2090392911942971503#m",
+    "title": "Clean up Claude 5's token vomit with a separate LLM",
+    "source": "Hacker News",
+    "description": "HN Score: 47 | 31 comments",
+    "url": "https://github.com/zachahn/vomit",
+    "score": 47,
     "date": "2026-08-20",
-    "category": "Twitter"
+    "category": "AI News"
   },
   {
     "title": "Hacking with Claude on a $27 Smart Watch",
     "source": "Hacker News",
-    "description": "HN Score: 13 | 4 comments",
+    "description": "HN Score: 43 | 25 comments",
     "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
-    "score": 13,
+    "score": 43,
     "date": "2026-08-20",
     "category": "AI News"
   },
   {
-    "title": "The AI Model Hype Cycle Is Now 72 Hours Day 1: 'This destroys GPT-5 and Fable combined!!' Day 2: goes viral, everyone benchmarks it Day 3: 'actually i",
-    "source": "@bindureddy",
-    "description": "",
-    "url": "https://nitter.net/bindureddy/status/2090232320444055586#m",
-    "date": "2026-08-20",
-    "category": "Twitter"
-  },
-  {
     "title": "Every Model Cheats",
     "source": "Hacker News",
-    "description": "HN Score: 6 | 0 comments",
+    "description": "HN Score: 33 | 15 comments",
     "url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks/",
-    "score": 6,
+    "score": 33,
+    "date": "2026-08-20",
+    "category": "AI News"
+  },
+  {
+    "title": "Anti-AI fonts are useless and harmful",
+    "source": "Hacker News",
+    "description": "HN Score: 19 | 6 comments",
+    "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
+    "score": 19,
+    "date": "2026-08-20",
+    "category": "AI News"
+  },
+  {
+    "title": "Show HN: Check if any of the $656M in unclaimed royalties at The MLC is yours",
+    "source": "Hacker News",
+    "description": "HN Score: 26 | 13 comments",
+    "url": "https://pub.doub.ly/",
+    "score": 26,
     "date": "2026-08-20",
     "category": "AI News"
   },
   {
     "title": "An American Mosaic (interactive map of ancestry census data)",
     "source": "Hacker News",
-    "description": "HN Score: 9 | 0 comments",
+    "description": "HN Score: 23 | 8 comments",
     "url": "https://www.nytimes.com/interactive/2026/07/01/us/america-ancestry-census-data-map.html",
-    "score": 9,
+    "score": 23,
+    "date": "2026-08-20",
+    "category": "AI News"
+  },
+  {
+    "title": "Could AIs Become Conscious?",
+    "source": "Hacker News",
+    "description": "HN Score: 7 | 8 comments",
+    "url": "https://economist.com/leaders/2026/08/20/could-ais-become-conscious",
+    "score": 7,
     "date": "2026-08-20",
     "category": "AI News"
   },
   {
     "title": "Don't paste the AI, please",
     "source": "Hacker News",
-    "description": "HN Score: 880 | 449 comments",
+    "description": "HN Score: 929 | 493 comments",
     "url": "https://dontpastetheai.com/",
-    "score": 880,
+    "score": 929,
     "date": "2026-08-20",
     "category": "AI News"
   },
   {
-    "title": "A joke domain purchase turned in geopolitical warfare",
+    "title": "Code Factories Without Quality: The AI Development Blind Spot",
     "source": "Hacker News",
-    "description": "HN Score: 980 | 158 comments",
-    "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
-    "score": 980,
-    "date": "2026-08-20",
-    "category": "AI News"
-  },
-  {
-    "title": "Do Chatbot LLMs Talk Too Much?",
-    "source": "Hacker News",
-    "description": "HN Score: 3 | 0 comments",
-    "url": "https://arxiv.org/abs/2601.00624",
-    "score": 3,
-    "date": "2026-08-20",
-    "category": "AI News"
-  },
-  {
-    "title": "Show HN: Sentrint, a security scanner for projects build with LLMs",
-    "source": "Hacker News",
-    "description": "HN Score: 4 | 2 comments",
-    "url": "https://sentrint.com/",
-    "score": 4,
-    "date": "2026-08-20",
-    "category": "AI News"
-  },
-  {
-    "title": "LinkedIn cracks down on automated content with AI detection button",
-    "source": "Hacker News",
-    "description": "HN Score: 4 | 0 comments",
-    "url": "https://www.campaignindia.in/article/linkedin-cracks-down-on-automated-content-with-new-seems-like-ai-slop-detection-button/43e4tn3qyq543rpam874wksjn3",
-    "score": 4,
-    "date": "2026-08-20",
-    "category": "AI News"
-  },
-  {
-    "title": "Australia passes law to levy tech giants that fail to pay for local news",
-    "source": "Hacker News",
-    "description": "HN Score: 47 | 38 comments",
-    "url": "https://www.reuters.com/legal/litigation/australia-passes-law-levy-tech-giants-that-fail-pay-local-news-2026-08-20/",
-    "score": 47,
+    "description": "HN Score: 5 | 0 comments",
+    "url": "https://www.qawolf.com/blog/code-factories-without-quality",
+    "score": 5,
     "date": "2026-08-20",
     "category": "AI News"
   }
