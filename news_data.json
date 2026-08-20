@@ -245,6 +245,13 @@
     "date": "2026-08-20"
   },
   {
+    "title": "Grok exfiltrates user data when malicious instructions are encrypted",
+    "source": "Ars Technica",
+    "summary": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.",
+    "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
+    "date": "2026-08-20"
+  },
+  {
     "title": "Flight attendants freaked out that Google is buying tons of Spirit employee data",
     "source": "Ars Technica",
     "summary": "Bankrupt Spirit accused of selling out workers in massive data sale to Google.",
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "Streaming platform says user-generated content 'may be used for future Gen AI model improvements.'",
     "url": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
-    "date": "2026-08-20"
-  },
-  {
-    "title": "Booksellers suspect AI firms are buying and then destroying rare books",
-    "source": "Ars Technica",
-    "summary": "AI firms quietly bulk buying rare books face resistance from booksellers.",
-    "url": "https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart/",
     "date": "2026-08-20"
   }
 ]
