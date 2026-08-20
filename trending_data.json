@@ -1,107 +1,91 @@
 [
   {
-    "title": "RT by @EMostaque: The submissions for the $2M Build with Gemini XPRIZE just closed. Over 90 days 26k competitors built a real AI-native business solvi",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/PeterDiamandis/status/2090167675997786439#m",
-    "date": "2026-08-20",
-    "category": "Twitter"
-  },
-  {
     "title": "Don't Paste the AI, please",
     "source": "Hacker News",
-    "description": "HN Score: 283 | 154 comments",
+    "description": "HN Score: 628 | 304 comments",
     "url": "https://dontpastetheai.com/",
-    "score": 283,
+    "score": 628,
     "date": "2026-08-20",
     "category": "AI News"
   },
   {
-    "title": "RT by @EMostaque: New work I'm very excited about: Physics of Agents!\ud83e\udd16 As AI agents become more prevalent, they'll interact and influence one another.",
-    "source": "@EMostaque",
-    "description": "",
-    "url": "https://nitter.net/james_y_zou/status/2090094352307736801#m",
+    "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
+    "source": "Hacker News",
+    "description": "HN Score: 42 | 7 comments",
+    "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
+    "score": 42,
     "date": "2026-08-20",
-    "category": "Twitter"
+    "category": "AI News"
   },
   {
     "title": "A joke domain purchase turned in geopolitical warfare",
     "source": "Hacker News",
-    "description": "HN Score: 909 | 144 comments",
+    "description": "HN Score: 948 | 153 comments",
     "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
-    "score": 909,
+    "score": 948,
     "date": "2026-08-20",
     "category": "AI News"
   },
   {
     "title": "fx :Tiny, open, native coding agent.",
     "source": "Hacker News",
-    "description": "HN Score: 271 | 114 comments",
+    "description": "HN Score: 294 | 126 comments",
     "url": "https://fx.sh",
-    "score": 271,
+    "score": 294,
     "date": "2026-08-20",
     "category": "AI News"
   },
   {
-    "title": "Feature Request: Support AGENTS.md",
+    "title": "Australia passes law to levy tech giants that fail to pay for local news",
     "source": "Hacker News",
-    "description": "HN Score: 268 | 166 comments",
-    "url": "https://github.com/anthropics/claude-code/issues/6235",
-    "score": 268,
+    "description": "HN Score: 18 | 4 comments",
+    "url": "https://www.reuters.com/legal/litigation/australia-passes-law-levy-tech-giants-that-fail-pay-local-news-2026-08-20/",
+    "score": 18,
     "date": "2026-08-20",
     "category": "AI News"
   },
   {
     "title": "Mathematics in the age of AI",
     "source": "Hacker News",
-    "description": "HN Score: 174 | 200 comments",
+    "description": "HN Score: 188 | 223 comments",
     "url": "https://arxiv.org/abs/2608.16753",
-    "score": 174,
+    "score": 188,
+    "date": "2026-08-20",
+    "category": "AI News"
+  },
+  {
+    "title": "Feature Request: Support AGENTS.md",
+    "source": "Hacker News",
+    "description": "HN Score: 309 | 190 comments",
+    "url": "https://github.com/anthropics/claude-code/issues/6235",
+    "score": 309,
     "date": "2026-08-20",
     "category": "AI News"
   },
   {
     "title": "Launch HN: OneCLI (YC S26) \u2013 OSS sandboxed agent harness for teams",
     "source": "Hacker News",
-    "description": "HN Score: 78 | 22 comments",
+    "description": "HN Score: 82 | 24 comments",
     "url": "https://github.com/onecli/onecli",
-    "score": 78,
+    "score": 82,
     "date": "2026-08-20",
     "category": "AI News"
   },
   {
     "title": "Air Theremin \u2013 A browser theremin you play by waving at your webcam",
     "source": "Hacker News",
-    "description": "HN Score: 275 | 96 comments",
+    "description": "HN Score: 287 | 96 comments",
     "url": "https://theremin.bizibah.com/",
-    "score": 275,
-    "date": "2026-08-20",
-    "category": "AI News"
-  },
-  {
-    "title": "Extensible Software in the age of LLMs",
-    "source": "Hacker News",
-    "description": "HN Score: 153 | 64 comments",
-    "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
-    "score": 153,
+    "score": 287,
     "date": "2026-08-20",
     "category": "AI News"
   },
   {
     "title": "Pacing model development in an era of cyber-critical capabilities",
     "source": "Hacker News",
-    "description": "HN Score: 151 | 235 comments",
+    "description": "HN Score: 157 | 255 comments",
     "url": "https://openai.com/index/pacing-model-development-cyber-capabilities/",
-    "score": 151,
-    "date": "2026-08-20",
-    "category": "AI News"
-  },
-  {
-    "title": "Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?",
-    "source": "Hacker News",
-    "description": "HN Score: 58 | 32 comments",
-    "url": "https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621",
-    "score": 58,
+    "score": 157,
     "date": "2026-08-20",
     "category": "AI News"
   }
