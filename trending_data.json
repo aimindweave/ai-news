@@ -10,9 +10,9 @@
   {
     "title": "Google replaced Git tags for certain source code with obtaining via Google Drive",
     "source": "Hacker News",
-    "description": "HN Score: 289 | 121 comments",
+    "description": "HN Score: 326 | 135 comments",
     "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
-    "score": 289,
+    "score": 326,
     "date": "2026-08-20",
     "category": "AI News"
   },
@@ -27,9 +27,43 @@
   {
     "title": "A joke domain purchase turned in geopolitical warfare",
     "source": "Hacker News",
-    "description": "HN Score: 750 | 114 comments",
+    "description": "HN Score: 781 | 121 comments",
     "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
-    "score": 750,
+    "score": 781,
+    "date": "2026-08-20",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: The submissions for the $2M Build with Gemini XPRIZE just closed. Over 90 days 26k competitors built a real AI-native business solvi",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/PeterDiamandis/status/2090167675997786439#m",
+    "date": "2026-08-20",
+    "category": "Twitter"
+  },
+  {
+    "title": "fx :Tiny, open, native coding agent.",
+    "source": "Hacker News",
+    "description": "HN Score: 189 | 91 comments",
+    "url": "https://fx.sh",
+    "score": 189,
+    "date": "2026-08-20",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @EMostaque: New work I'm very excited about: Physics of Agents!\ud83e\udd16 As AI agents become more prevalent, they'll interact and influence one another.",
+    "source": "@EMostaque",
+    "description": "",
+    "url": "https://nitter.net/james_y_zou/status/2090094352307736801#m",
+    "date": "2026-08-20",
+    "category": "Twitter"
+  },
+  {
+    "title": "Feature Request: Support AGENTS.md",
+    "source": "Hacker News",
+    "description": "HN Score: 145 | 80 comments",
+    "url": "https://github.com/anthropics/claude-code/issues/6235",
+    "score": 145,
     "date": "2026-08-20",
     "category": "AI News"
   },
@@ -42,11 +76,28 @@
     "category": "Twitter"
   },
   {
-    "title": "Universality of Gradient Descent Neural Network Training",
+    "title": "Mathematics in the age of AI",
     "source": "Hacker News",
-    "description": "HN Score: 7 | 0 comments",
-    "url": "https://arxiv.org/abs/2007.13664",
-    "score": 7,
+    "description": "HN Score: 125 | 139 comments",
+    "url": "https://arxiv.org/abs/2608.16753",
+    "score": 125,
+    "date": "2026-08-20",
+    "category": "AI News"
+  },
+  {
+    "title": "RT by @svpino: Michael and I agree on something very important: The model isn't the hard part; everything around the model is. To build useful agents,",
+    "source": "@svpino",
+    "description": "",
+    "url": "https://nitter.net/svpino/status/2090075797164003382#m",
+    "date": "2026-08-20",
+    "category": "Twitter"
+  },
+  {
+    "title": "Extensible Software in the age of LLMs",
+    "source": "Hacker News",
+    "description": "HN Score: 114 | 50 comments",
+    "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
+    "score": 114,
     "date": "2026-08-20",
     "category": "AI News"
   },
@@ -59,28 +110,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Mathematics in the age of AI",
+    "title": "Air Theremin \u2013 A browser theremin you play by waving at your webcam",
     "source": "Hacker News",
-    "description": "HN Score: 119 | 120 comments",
-    "url": "https://arxiv.org/abs/2608.16753",
-    "score": 119,
-    "date": "2026-08-20",
-    "category": "AI News"
-  },
-  {
-    "title": "RT by @svpino: It's been a couple of weeks since I migrated from Claude Code to Codex, and I don't miss a single thing. No, I don't care about Fable. ",
-    "source": "@svpino",
-    "description": "",
-    "url": "https://nitter.net/svpino/status/2090049138612474235#m",
-    "date": "2026-08-20",
-    "category": "Twitter"
-  },
-  {
-    "title": "fx :Tiny, open, native coding agent.",
-    "source": "Hacker News",
-    "description": "HN Score: 175 | 87 comments",
-    "url": "https://fx.sh",
-    "score": 175,
+    "description": "HN Score: 253 | 86 comments",
+    "url": "https://theremin.bizibah.com/",
+    "score": 253,
     "date": "2026-08-20",
     "category": "AI News"
   },
@@ -93,11 +127,11 @@
     "category": "Twitter"
   },
   {
-    "title": "Extensible Software in the age of LLMs",
+    "title": "Pacing model development in an era of cyber-critical capabilities",
     "source": "Hacker News",
-    "description": "HN Score: 106 | 49 comments",
-    "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
-    "score": 106,
+    "description": "HN Score: 134 | 180 comments",
+    "url": "https://openai.com/index/pacing-model-development-cyber-capabilities/",
+    "score": 134,
     "date": "2026-08-20",
     "category": "AI News"
   },
@@ -110,38 +144,20 @@
     "category": "Twitter"
   },
   {
-    "title": "Feature Request: Support AGENTS.md",
+    "title": "Universality of Gradient Descent Neural Network Training",
     "source": "Hacker News",
-    "description": "HN Score: 131 | 76 comments",
-    "url": "https://github.com/anthropics/claude-code/issues/6235",
-    "score": 131,
-    "date": "2026-08-20",
-    "category": "AI News"
-  },
-  {
-    "title": "Air Theremin \u2013 A browser theremin you play by waving at your webcam",
-    "source": "Hacker News",
-    "description": "HN Score: 249 | 86 comments",
-    "url": "https://theremin.bizibah.com/",
-    "score": 249,
-    "date": "2026-08-20",
-    "category": "AI News"
-  },
-  {
-    "title": "Pacing model development in an era of cyber-critical capabilities",
-    "source": "Hacker News",
-    "description": "HN Score: 129 | 167 comments",
-    "url": "https://openai.com/index/pacing-model-development-cyber-capabilities/",
-    "score": 129,
+    "description": "HN Score: 9 | 2 comments",
+    "url": "https://arxiv.org/abs/2007.13664",
+    "score": 9,
     "date": "2026-08-20",
     "category": "AI News"
   },
   {
     "title": "Collaborative Human Agent Protocol (CHAP)",
     "source": "Hacker News",
-    "description": "HN Score: 19 | 3 comments",
+    "description": "HN Score: 21 | 4 comments",
     "url": "https://github.com/BrightbeamAI/chap",
-    "score": 19,
+    "score": 21,
     "date": "2026-08-20",
     "category": "AI News"
   }
