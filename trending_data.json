@@ -1,74 +1,92 @@
 [
   {
+    "title": "Copyright does not protect AI-generated content in EU",
+    "source": "Hacker News",
+    "description": "HN Score: 74 | 67 comments",
+    "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
+    "score": 74,
+    "date": "2026-08-21",
+    "category": "AI News"
+  },
+  {
+    "title": "Stealth Model",
+    "source": "Hacker News",
+    "description": "HN Score: 24 | 9 comments",
+    "url": "https://openrouter.ai/stealth/ox-alpha",
+    "score": 24,
+    "date": "2026-08-21",
+    "category": "AI News"
+  },
+  {
+    "title": "It is a sign of the times that Amazon gets to call this fair use",
+    "source": "Hacker News",
+    "description": "HN Score: 10 | 2 comments",
+    "url": "http://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html",
+    "score": 10,
+    "date": "2026-08-21",
+    "category": "AI News"
+  },
+  {
     "title": "Show HN: Huzzah \u2013 a novel approach to coding with AI",
     "source": "Hacker News",
-    "description": "HN Score: 166 | 91 comments",
+    "description": "HN Score: 220 | 121 comments",
     "url": "https://www.danielvaughn.dev/posts/huzzah/",
-    "score": 166,
-    "date": "2026-08-20",
+    "score": 220,
+    "date": "2026-08-21",
     "category": "AI News"
   },
   {
     "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
     "source": "Hacker News",
-    "description": "HN Score: 456 | 102 comments",
+    "description": "HN Score: 502 | 106 comments",
     "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
-    "score": 456,
-    "date": "2026-08-20",
+    "score": 502,
+    "date": "2026-08-21",
     "category": "AI News"
   },
   {
     "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
     "source": "Hacker News",
-    "description": "HN Score: 155 | 157 comments",
+    "description": "HN Score: 192 | 202 comments",
     "url": "https://github.com/zachahn/vomit",
-    "score": 155,
-    "date": "2026-08-20",
-    "category": "AI News"
-  },
-  {
-    "title": "Hacking with Claude on a $27 smart watch",
-    "source": "Hacker News",
-    "description": "HN Score: 73 | 43 comments",
-    "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
-    "score": 73,
-    "date": "2026-08-20",
+    "score": 192,
+    "date": "2026-08-21",
     "category": "AI News"
   },
   {
     "title": "Anti-AI fonts are useless and harmful",
     "source": "Hacker News",
-    "description": "HN Score: 85 | 64 comments",
+    "description": "HN Score: 114 | 79 comments",
     "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
-    "score": 85,
-    "date": "2026-08-20",
+    "score": 114,
+    "date": "2026-08-21",
     "category": "AI News"
   },
   {
     "title": "Every Model Cheats",
     "source": "Hacker News",
-    "description": "HN Score: 67 | 52 comments",
+    "description": "HN Score: 81 | 62 comments",
     "url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks/",
-    "score": 67,
-    "date": "2026-08-20",
+    "score": 81,
+    "date": "2026-08-21",
     "category": "AI News"
   },
   {
-    "title": "Gauguin, Descartes, Bayes: A Diurnal Golem's Brain",
+    "title": "Hacking with Claude on a $27 smart watch",
     "source": "Hacker News",
-    "description": "HN Score: 19 | 4 comments",
-    "url": "https://dl.acm.org/doi/10.1145/3759429.3762631",
-    "score": 19,
-    "date": "2026-08-20",
+    "description": "HN Score: 85 | 46 comments",
+    "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
+    "score": 85,
+    "date": "2026-08-21",
     "category": "AI News"
   },
   {
     "title": "Early-life stress leaves a 'scar' inside brain cells",
     "source": "Hacker News",
-    "description": "HN Score: 4 | 0 comments",
+    "description": "HN Score: 14 | 0 comments",
     "url": "https://medicine.washu.edu/news/how-early-life-stress-leaves-a-scar-inside-brain-cells/",
-    "score": 4,
-    "date": "2026-08-20",
+    "score": 14,
+    "date": "2026-08-21",
     "category": "AI News"
   }
 ]
