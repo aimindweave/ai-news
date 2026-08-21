@@ -93,7 +93,27 @@
   ],
   "episodes": [
     {
+      "id": "Hard For_0",
+      "name": "OpenAI’s Two-Week Pause + Jill Lepore on the Threat of the “Artificial State” + Train of Thought",
+      "show": "Hard Fork",
+      "description": "This week, we learned that OpenAI had stopped training new artificial intelligence models while the company reviewed its security measures. Will this encourage other labs to hit the brakes too?",
+      "release_date": "2026-08-21",
+      "duration_min": 63,
+      "image": "",
+      "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
+    },
+    {
       "id": "a]6z Pod_0",
+      "name": "How Microsoft Is Securing the Agentic Enterprise | Aaron Zollman",
+      "show": "a]6z Podcast",
+      "description": "a16z's Joel De La Garza is joined by Aaron Zollman, Deputy CISO at Microsoft Gaming, to discuss how security teams can embrace AI agents without losing control.\nAaron shares Microsoft's expe",
+      "release_date": "2026-08-21",
+      "duration_min": 25,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
+      "id": "a]6z Pod_1",
       "name": "How Global Networks Are Reshaping Startup Success",
       "show": "a]6z Podcast",
       "description": "Elena Burger is joined by a16z’s Angela Strange and Gabriel Vasquez to discuss the rise of the \"borderless founder\": entrepreneurs who bring the networks and insights of their home markets together",
@@ -103,7 +123,7 @@
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "How Whatnot Built a Global Marketplace",
       "show": "a]6z Podcast",
       "description": "a16z General Partner David George is joined by Grant LaFontaine, co-founder of Whatnot, to unpack how a marketplace that started with collectibles evolved into one of the world's leading live shopp",
@@ -113,17 +133,7 @@
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
-      "id": "a]6z Pod_2",
-      "name": "How Do You Defend Against AI That Can Hack?",
-      "show": "a]6z Podcast",
-      "description": "a16z's Joel De La Garza is joined by Nick Warner of Neo and Max Pollard of Cotool to discuss what happens when cybersecurity tools built to defend against humans and malware suddenly have to conten",
-      "release_date": "2026-08-18",
-      "duration_min": 22,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
-    },
-    {
-      "id": "Hard For_0",
+      "id": "Hard For_1",
       "name": "Zuckerberg’s Anti-Doom Fantasy + Finally an A.I. Detector That Works + A.I. Math",
       "show": "Hard Fork",
       "description": "This week we’re talking about Mark Zuckerberg’s latest essay, “The Future Is for Everyone,” which outlines his positive new vision about the potential of A.I. But do we think it’s credible? Then, P",
@@ -153,7 +163,7 @@
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
     },
     {
-      "id": "Hard For_1",
+      "id": "Hard For_2",
       "name": "The White House’s Secret A.I. Rules + The State of Model Alignment With METR’s Chris Painter + The Final Hot Mess Express",
       "show": "Hard Fork",
       "description": "This week, the White House announced a new framework for regulating A.I. models, but it isn’t letting the public read it. We break down what we know about the rules and what the implications are fo",
@@ -171,16 +181,6 @@
       "duration_min": 49,
       "image": "",
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
-    },
-    {
-      "id": "Hard For_2",
-      "name": "Open Model Wars + Claire Stapleton's Dishy Google Memoir + Substack's Slop Fight",
-      "show": "Hard Fork",
-      "description": "This week, we break down the arguments about open-weight models unfolding in Silicon Valley right now. Nvidia released an open letter signed by over 230 companies opposing “premature restrictions,”",
-      "release_date": "2026-07-31",
-      "duration_min": 66,
-      "image": "",
-      "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
       "id": "Practica_1",
