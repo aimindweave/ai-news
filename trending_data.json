@@ -1,64 +1,91 @@
 [
   {
-    "title": "AI companies destroy physical books \u2013 let's scan rare books before it's too late",
+    "title": "AI boosted homework scores, then exam scores dropped: study",
     "source": "Hacker News",
-    "description": "HN Score: 613 | 374 comments",
-    "url": "https://annas-archive.pk/blog/physical-destruction.html",
-    "score": 613,
+    "description": "HN Score: 60 | 141 comments",
+    "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
+    "score": 60,
     "date": "2026-08-21",
     "category": "AI News"
   },
   {
-    "title": "AI Boosted Homework Scores by 18% \u2013 Then Exam Scores Dropped 20%, Study Shows",
+    "title": "LiteLLM (YC W23) Is Hiring \u2013 Rust / Performance Engineers",
     "source": "Hacker News",
-    "description": "HN Score: 61 | 37 comments",
-    "url": "https://canews24.online/?p=71",
-    "score": 61,
+    "description": "HN Score: 1 | 0 comments",
+    "url": "https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6",
+    "score": 1,
     "date": "2026-08-21",
     "category": "AI News"
   },
   {
-    "title": "How We Made a Text-to-Speech Model Respond in Sub-50 ms",
+    "title": "How we made a text-to-speech model respond in sub-50 ms",
     "source": "Hacker News",
-    "description": "HN Score: 12 | 1 comments",
+    "description": "HN Score: 30 | 7 comments",
     "url": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
-    "score": 12,
+    "score": 30,
     "date": "2026-08-21",
     "category": "AI News"
   },
   {
-    "title": "Flat Chair by Sara Paculdo",
+    "title": "Does whispering to agents in docs help?",
     "source": "Hacker News",
-    "description": "HN Score: 99 | 30 comments",
-    "url": "https://www.toxel.com/tech/2026/08/07/flat-chair-by-sara-paculdo/",
-    "score": 99,
+    "description": "HN Score: 19 | 4 comments",
+    "url": "https://passo.uno/if-you-are-an-agent-read-this/",
+    "score": 19,
     "date": "2026-08-21",
     "category": "AI News"
   },
   {
-    "title": "Claudette: Make Claude Stop Talking Like a BuzzFeed Article",
+    "title": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
     "source": "Hacker News",
-    "description": "HN Score: 65 | 66 comments",
-    "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
-    "score": 65,
+    "description": "HN Score: 26 | 17 comments",
+    "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/",
+    "score": 26,
     "date": "2026-08-21",
     "category": "AI News"
   },
   {
-    "title": "I'm Becoming AI-Blind",
+    "title": "Show HN: Proliferate- open-source, self-hostable Codex for any coding agent",
     "source": "Hacker News",
-    "description": "HN Score: 102 | 100 comments",
+    "description": "HN Score: 19 | 9 comments",
+    "url": "https://github.com/proliferate-ai/proliferate",
+    "score": 19,
+    "date": "2026-08-21",
+    "category": "AI News"
+  },
+  {
+    "title": "LLMs are proof that Unix won",
+    "source": "Hacker News",
+    "description": "HN Score: 15 | 5 comments",
+    "url": "https://bastian.rieck.me/blog/2026/unix/",
+    "score": 15,
+    "date": "2026-08-21",
+    "category": "AI News"
+  },
+  {
+    "title": "Show HN: Shoehorn \u2013 Quantize any model down to run on your machine",
+    "source": "Hacker News",
+    "description": "HN Score: 49 | 9 comments",
+    "url": "https://notactuallytreyanastasio.github.io/shoehorn/",
+    "score": 49,
+    "date": "2026-08-21",
+    "category": "AI News"
+  },
+  {
+    "title": "I'm becoming AI-blind",
+    "source": "Hacker News",
+    "description": "HN Score: 120 | 121 comments",
     "url": "https://cymerys.com/w/im-becoming-ai-blind",
-    "score": 102,
+    "score": 120,
     "date": "2026-08-21",
     "category": "AI News"
   },
   {
-    "title": "Show HN: AgentSight \u2013 eBPF observability for AI agents, no code changes",
+    "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
     "source": "Hacker News",
-    "description": "HN Score: 14 | 0 comments",
-    "url": "https://github.com/alibaba/anolisa/blob/main/docs/user-guide/en/agent-observability/agentsight.md",
-    "score": 14,
+    "description": "HN Score: 80 | 76 comments",
+    "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
+    "score": 80,
     "date": "2026-08-21",
     "category": "AI News"
   }
