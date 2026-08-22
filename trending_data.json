@@ -1,92 +1,92 @@
 [
   {
+    "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
+    "source": "Hacker News",
+    "description": "HN Score: 31 | 11 comments",
+    "url": "https://ozbrain.com",
+    "score": 31,
+    "date": "2026-08-22",
+    "category": "AI News"
+  },
+  {
     "title": "AI boosted homework scores, then exam scores dropped: study",
     "source": "Hacker News",
-    "description": "HN Score: 189 | 244 comments",
+    "description": "HN Score: 232 | 289 comments",
     "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
-    "score": 189,
-    "date": "2026-08-21",
+    "score": 232,
+    "date": "2026-08-22",
     "category": "AI News"
   },
   {
     "title": "How we made a text-to-speech model respond in sub-50 ms",
     "source": "Hacker News",
-    "description": "HN Score: 80 | 13 comments",
+    "description": "HN Score: 103 | 28 comments",
     "url": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
-    "score": 80,
-    "date": "2026-08-21",
-    "category": "AI News"
-  },
-  {
-    "title": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
-    "source": "Hacker News",
-    "description": "HN Score: 38 | 36 comments",
-    "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
-    "score": 38,
-    "date": "2026-08-21",
+    "score": 103,
+    "date": "2026-08-22",
     "category": "AI News"
   },
   {
     "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
     "source": "Hacker News",
-    "description": "HN Score: 151 | 110 comments",
+    "description": "HN Score: 202 | 138 comments",
     "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
-    "score": 151,
-    "date": "2026-08-21",
+    "score": 202,
+    "date": "2026-08-22",
     "category": "AI News"
   },
   {
-    "title": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
+    "title": "Autolith: A programming agent with a live runtime",
     "source": "Hacker News",
-    "description": "HN Score: 67 | 46 comments",
-    "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/",
-    "score": 67,
-    "date": "2026-08-21",
+    "description": "HN Score: 23 | 1 comments",
+    "url": "https://www.lambda-symbolics.com/autolith",
+    "score": 23,
+    "date": "2026-08-22",
     "category": "AI News"
   },
   {
     "title": "I'm becoming AI-blind",
     "source": "Hacker News",
-    "description": "HN Score: 205 | 217 comments",
+    "description": "HN Score: 264 | 277 comments",
     "url": "https://cymerys.com/w/im-becoming-ai-blind",
-    "score": 205,
-    "date": "2026-08-21",
+    "score": 264,
+    "date": "2026-08-22",
     "category": "AI News"
   },
   {
-    "title": "Quick impressions: A week of using Codex more than Claude",
+    "title": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
     "source": "Hacker News",
-    "description": "HN Score: 60 | 68 comments",
-    "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
-    "score": 60,
-    "date": "2026-08-21",
-    "category": "AI News"
-  },
-  {
-    "title": "AI companies destroy physical books \u2013 let's scan rare books before it's too late",
-    "source": "Hacker News",
-    "description": "HN Score: 480 | 824 comments",
-    "url": "https://annas-archive.gl/blog/physical-destruction.html",
-    "score": 480,
-    "date": "2026-08-21",
+    "description": "HN Score: 83 | 50 comments",
+    "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/",
+    "score": 83,
+    "date": "2026-08-22",
     "category": "AI News"
   },
   {
     "title": "Show HN: Shoehorn \u2013 Quantize any model down to run on your machine",
     "source": "Hacker News",
-    "description": "HN Score: 68 | 17 comments",
+    "description": "HN Score: 79 | 17 comments",
     "url": "https://notactuallytreyanastasio.github.io/shoehorn/",
-    "score": 68,
-    "date": "2026-08-21",
+    "score": 79,
+    "date": "2026-08-22",
     "category": "AI News"
   },
   {
-    "title": "Show HN: Proliferate- open-source, self-hostable Codex for any coding agent",
+    "title": "AI companies destroy physical books \u2013 let's scan rare books before it's too late",
     "source": "Hacker News",
-    "description": "HN Score: 34 | 14 comments",
-    "url": "https://github.com/proliferate-ai/proliferate",
-    "score": 34,
-    "date": "2026-08-21",
+    "description": "HN Score: 533 | 837 comments",
+    "url": "https://annas-archive.gl/blog/physical-destruction.html",
+    "score": 533,
+    "date": "2026-08-22",
+    "category": "AI News"
+  },
+  {
+    "title": "Quick impressions: A week of using Codex more than Claude",
+    "source": "Hacker News",
+    "description": "HN Score: 78 | 84 comments",
+    "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
+    "score": 78,
+    "date": "2026-08-22",
     "category": "AI News"
   }
 ]
