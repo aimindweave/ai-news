@@ -1,91 +1,73 @@
 [
   {
+    "title": "Why your local LLM feels dumber than it is",
+    "source": "Hacker News",
+    "description": "HN Score: 16 | 1 comments",
+    "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+    "score": 16,
+    "date": "2026-08-22",
+    "category": "AI News"
+  },
+  {
+    "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
+    "source": "Hacker News",
+    "description": "HN Score: 52 | 4 comments",
+    "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
+    "score": 52,
+    "date": "2026-08-22",
+    "category": "AI News"
+  },
+  {
     "title": "Munder Difflin \u2013 Agent harness to run an office of your clones",
     "source": "Hacker News",
-    "description": "HN Score: 205 | 83 comments",
+    "description": "HN Score: 226 | 103 comments",
     "url": "https://munderdiffl.in/",
-    "score": 205,
-    "date": "2026-08-22",
-    "category": "AI News"
-  },
-  {
-    "title": "Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
-    "source": "Hacker News",
-    "description": "HN Score: 13 | 6 comments",
-    "url": "https://www.theguardian.com/sport/2026/aug/22/chinese-robot-runs-100m-sprint-quicker-usain-bolt-world-record",
-    "score": 13,
-    "date": "2026-08-22",
-    "category": "AI News"
-  },
-  {
-    "title": "Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week",
-    "source": "Hacker News",
-    "description": "HN Score: 178 | 142 comments",
-    "url": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy",
-    "score": 178,
-    "date": "2026-08-22",
-    "category": "AI News"
-  },
-  {
-    "title": "How Thailand Resisted Colonization",
-    "source": "Hacker News",
-    "description": "HN Score: 107 | 41 comments",
-    "url": "https://worksinprogress.co/issue/how-thailand-resisted-colonization/",
-    "score": 107,
-    "date": "2026-08-22",
-    "category": "AI News"
-  },
-  {
-    "title": "AI boosted homework scores, then exam scores dropped: study",
-    "source": "Hacker News",
-    "description": "HN Score: 364 | 364 comments",
-    "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
-    "score": 364,
-    "date": "2026-08-22",
-    "category": "AI News"
-  },
-  {
-    "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
-    "source": "Hacker News",
-    "description": "HN Score: 336 | 221 comments",
-    "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
-    "score": 336,
-    "date": "2026-08-22",
-    "category": "AI News"
-  },
-  {
-    "title": "I'm becoming AI-blind",
-    "source": "Hacker News",
-    "description": "HN Score: 464 | 472 comments",
-    "url": "https://cymerys.com/w/im-becoming-ai-blind",
-    "score": 464,
-    "date": "2026-08-22",
-    "category": "AI News"
-  },
-  {
-    "title": "Early-life stress leaves a 'scar' inside brain cells in mice",
-    "source": "Hacker News",
-    "description": "HN Score: 133 | 66 comments",
-    "url": "https://medicine.washu.edu/news/how-early-life-stress-leaves-a-scar-inside-brain-cells/",
-    "score": 133,
+    "score": 226,
     "date": "2026-08-22",
     "category": "AI News"
   },
   {
     "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
     "source": "Hacker News",
-    "description": "HN Score: 54 | 54 comments",
+    "description": "HN Score: 94 | 94 comments",
     "url": "https://twitter.com/argofowl/status/2091150597374537729",
-    "score": 54,
+    "score": 94,
     "date": "2026-08-22",
     "category": "AI News"
   },
   {
-    "title": "Embedded AI",
+    "title": "Show HN: Public Muscriptor Instance (latest, most powerful Audio-to-MIDI model)",
     "source": "Hacker News",
-    "description": "HN Score: 30 | 9 comments",
-    "url": "https://nostarch.com/embedded-ai",
-    "score": 30,
+    "description": "HN Score: 16 | 3 comments",
+    "url": "https://www.pianoify.net/",
+    "score": 16,
+    "date": "2026-08-22",
+    "category": "AI News"
+  },
+  {
+    "title": "Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
+    "source": "Hacker News",
+    "description": "HN Score: 48 | 60 comments",
+    "url": "https://www.theguardian.com/sport/2026/aug/22/chinese-robot-runs-100m-sprint-quicker-usain-bolt-world-record",
+    "score": 48,
+    "date": "2026-08-22",
+    "category": "AI News"
+  },
+  {
+    "title": "Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week",
+    "source": "Hacker News",
+    "description": "HN Score: 193 | 154 comments",
+    "url": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy",
+    "score": 193,
+    "date": "2026-08-22",
+    "category": "AI News"
+  },
+  {
+    "title": "How Thailand Resisted Colonization",
+    "source": "Hacker News",
+    "description": "HN Score: 111 | 43 comments",
+    "url": "https://worksinprogress.co/issue/how-thailand-resisted-colonization/",
+    "score": 111,
     "date": "2026-08-22",
     "category": "AI News"
   }
