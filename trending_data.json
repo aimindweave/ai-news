@@ -2,90 +2,90 @@
   {
     "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
     "source": "Hacker News",
-    "description": "HN Score: 48 | 20 comments",
+    "description": "HN Score: 52 | 21 comments",
     "url": "https://ozbrain.com",
-    "score": 48,
+    "score": 52,
     "date": "2026-08-22",
     "category": "AI News"
   },
   {
     "title": "AI boosted homework scores, then exam scores dropped: study",
     "source": "Hacker News",
-    "description": "HN Score: 247 | 295 comments",
+    "description": "HN Score: 261 | 301 comments",
     "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
-    "score": 247,
-    "date": "2026-08-22",
-    "category": "AI News"
-  },
-  {
-    "title": "Autolith: A programming agent with a live runtime",
-    "source": "Hacker News",
-    "description": "HN Score: 30 | 8 comments",
-    "url": "https://www.lambda-symbolics.com/autolith",
-    "score": 30,
-    "date": "2026-08-22",
-    "category": "AI News"
-  },
-  {
-    "title": "Early-life stress leaves a 'scar' inside brain cells in mice",
-    "source": "Hacker News",
-    "description": "HN Score: 54 | 18 comments",
-    "url": "https://medicine.washu.edu/news/how-early-life-stress-leaves-a-scar-inside-brain-cells/",
-    "score": 54,
-    "date": "2026-08-22",
-    "category": "AI News"
-  },
-  {
-    "title": "How we made a text-to-speech model respond in sub-50 ms",
-    "source": "Hacker News",
-    "description": "HN Score: 111 | 29 comments",
-    "url": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
-    "score": 111,
+    "score": 261,
     "date": "2026-08-22",
     "category": "AI News"
   },
   {
     "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
     "source": "Hacker News",
-    "description": "HN Score: 211 | 150 comments",
+    "description": "HN Score: 225 | 159 comments",
     "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
-    "score": 211,
+    "score": 225,
+    "date": "2026-08-22",
+    "category": "AI News"
+  },
+  {
+    "title": "How we made a text-to-speech model respond in sub-50 ms",
+    "source": "Hacker News",
+    "description": "HN Score: 121 | 30 comments",
+    "url": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
+    "score": 121,
+    "date": "2026-08-22",
+    "category": "AI News"
+  },
+  {
+    "title": "Early-life stress leaves a 'scar' inside brain cells in mice",
+    "source": "Hacker News",
+    "description": "HN Score: 63 | 20 comments",
+    "url": "https://medicine.washu.edu/news/how-early-life-stress-leaves-a-scar-inside-brain-cells/",
+    "score": 63,
     "date": "2026-08-22",
     "category": "AI News"
   },
   {
     "title": "I'm becoming AI-blind",
     "source": "Hacker News",
-    "description": "HN Score: 284 | 301 comments",
+    "description": "HN Score: 308 | 318 comments",
     "url": "https://cymerys.com/w/im-becoming-ai-blind",
-    "score": 284,
+    "score": 308,
+    "date": "2026-08-22",
+    "category": "AI News"
+  },
+  {
+    "title": "Autolith: A programming agent with a live runtime",
+    "source": "Hacker News",
+    "description": "HN Score: 50 | 12 comments",
+    "url": "https://www.lambda-symbolics.com/autolith",
+    "score": 50,
     "date": "2026-08-22",
     "category": "AI News"
   },
   {
     "title": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
     "source": "Hacker News",
-    "description": "HN Score: 88 | 51 comments",
+    "description": "HN Score: 92 | 50 comments",
     "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/",
-    "score": 88,
+    "score": 92,
+    "date": "2026-08-22",
+    "category": "AI News"
+  },
+  {
+    "title": "Run 290B+ frontier MoE models locally on your gaming PC",
+    "source": "Hacker News",
+    "description": "HN Score: 15 | 0 comments",
+    "url": "https://github.com/FlashML-org/FreeToken",
+    "score": 15,
     "date": "2026-08-22",
     "category": "AI News"
   },
   {
     "title": "AI companies destroy physical books \u2013 let's scan rare books before it's too late",
     "source": "Hacker News",
-    "description": "HN Score: 537 | 844 comments",
+    "description": "HN Score: 543 | 850 comments",
     "url": "https://annas-archive.gl/blog/physical-destruction.html",
-    "score": 537,
-    "date": "2026-08-22",
-    "category": "AI News"
-  },
-  {
-    "title": "Show HN: Shoehorn \u2013 Quantize any model down to run on your machine",
-    "source": "Hacker News",
-    "description": "HN Score: 80 | 17 comments",
-    "url": "https://notactuallytreyanastasio.github.io/shoehorn/",
-    "score": 80,
+    "score": 543,
     "date": "2026-08-22",
     "category": "AI News"
   }
