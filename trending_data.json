@@ -1,92 +1,92 @@
 [
   {
+    "title": "NanoGPT Speedrun Frontier",
+    "source": "Hacker News",
+    "description": "HN Score: 44 | 12 comments",
+    "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+    "score": 44,
+    "date": "2026-08-23",
+    "category": "AI News"
+  },
+  {
     "title": "Why your local LLM feels dumber than it is",
     "source": "Hacker News",
-    "description": "HN Score: 100 | 27 comments",
+    "description": "HN Score: 177 | 61 comments",
     "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-    "score": 100,
-    "date": "2026-08-22",
+    "score": 177,
+    "date": "2026-08-23",
     "category": "AI News"
   },
   {
     "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
     "source": "Hacker News",
-    "description": "HN Score: 82 | 13 comments",
+    "description": "HN Score: 109 | 41 comments",
     "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
-    "score": 82,
-    "date": "2026-08-22",
-    "category": "AI News"
-  },
-  {
-    "title": "Guess which of these LLM outputs is watermarked",
-    "source": "Hacker News",
-    "description": "HN Score: 52 | 51 comments",
-    "url": "https://sgoedecke.github.io/watermark-quiz/",
-    "score": 52,
-    "date": "2026-08-22",
+    "score": 109,
+    "date": "2026-08-23",
     "category": "AI News"
   },
   {
     "title": "Munder Difflin \u2013 Agent harness to run an office of your clones",
     "source": "Hacker News",
-    "description": "HN Score: 235 | 110 comments",
+    "description": "HN Score: 250 | 114 comments",
     "url": "https://munderdiffl.in/",
-    "score": 235,
-    "date": "2026-08-22",
+    "score": 250,
+    "date": "2026-08-23",
+    "category": "AI News"
+  },
+  {
+    "title": "A week of using Codex more than Claude",
+    "source": "Hacker News",
+    "description": "HN Score: 131 | 133 comments",
+    "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
+    "score": 131,
+    "date": "2026-08-23",
+    "category": "AI News"
+  },
+  {
+    "title": "Autolith: A programming agent with a live runtime",
+    "source": "Hacker News",
+    "description": "HN Score: 111 | 43 comments",
+    "url": "https://www.lambda-symbolics.com/autolith",
+    "score": 111,
+    "date": "2026-08-23",
+    "category": "AI News"
+  },
+  {
+    "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
+    "source": "Hacker News",
+    "description": "HN Score: 79 | 46 comments",
+    "url": "https://ozbrain.com",
+    "score": 79,
+    "date": "2026-08-23",
+    "category": "AI News"
+  },
+  {
+    "title": "AI has failed to win people's trust. Its makers? less trusted",
+    "source": "Hacker News",
+    "description": "HN Score: 16 | 1 comments",
+    "url": "https://www.euronews.com/next/2026/08/20/ai-has-failed-to-win-peoples-trust-its-makers-even-less-trusted",
+    "score": 16,
+    "date": "2026-08-23",
     "category": "AI News"
   },
   {
     "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
     "source": "Hacker News",
-    "description": "HN Score: 139 | 134 comments",
+    "description": "HN Score: 163 | 154 comments",
     "url": "https://twitter.com/argofowl/status/2091150597374537729",
-    "score": 139,
-    "date": "2026-08-22",
+    "score": 163,
+    "date": "2026-08-23",
     "category": "AI News"
   },
   {
-    "title": "Show HN: Public Muscriptor Instance (latest, most powerful Audio-to-MIDI model)",
+    "title": "Guess which of these LLM outputs is watermarked",
     "source": "Hacker News",
-    "description": "HN Score: 18 | 6 comments",
-    "url": "https://www.pianoify.net/",
-    "score": 18,
-    "date": "2026-08-22",
-    "category": "AI News"
-  },
-  {
-    "title": "How Thailand Resisted Colonization",
-    "source": "Hacker News",
-    "description": "HN Score: 116 | 43 comments",
-    "url": "https://worksinprogress.co/issue/how-thailand-resisted-colonization/",
-    "score": 116,
-    "date": "2026-08-22",
-    "category": "AI News"
-  },
-  {
-    "title": "AI boosted homework scores, then exam scores dropped: study",
-    "source": "Hacker News",
-    "description": "HN Score: 369 | 370 comments",
-    "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
-    "score": 369,
-    "date": "2026-08-22",
-    "category": "AI News"
-  },
-  {
-    "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
-    "source": "Hacker News",
-    "description": "HN Score: 344 | 231 comments",
-    "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
-    "score": 344,
-    "date": "2026-08-22",
-    "category": "AI News"
-  },
-  {
-    "title": "Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week",
-    "source": "Hacker News",
-    "description": "HN Score: 198 | 158 comments",
-    "url": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy",
-    "score": 198,
-    "date": "2026-08-22",
+    "description": "HN Score: 63 | 73 comments",
+    "url": "https://sgoedecke.github.io/watermark-quiz/",
+    "score": 63,
+    "date": "2026-08-23",
     "category": "AI News"
   }
 ]
