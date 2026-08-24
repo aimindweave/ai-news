@@ -2,18 +2,45 @@
   {
     "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
     "source": "Hacker News",
-    "description": "HN Score: 279 | 127 comments",
+    "description": "HN Score: 390 | 154 comments",
     "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
-    "score": 279,
+    "score": 390,
     "date": "2026-08-24",
     "category": "AI News"
   },
   {
     "title": "IPFS Maintainers Winding Down",
     "source": "Hacker News",
-    "description": "HN Score: 183 | 78 comments",
+    "description": "HN Score: 258 | 125 comments",
     "url": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
-    "score": 183,
+    "score": 258,
+    "date": "2026-08-24",
+    "category": "AI News"
+  },
+  {
+    "title": "A Claude Code skill that recovers export-blocked Kindle highlights",
+    "source": "Hacker News",
+    "description": "HN Score: 22 | 4 comments",
+    "url": "https://github.com/l3a0/claude-plugins",
+    "score": 22,
+    "date": "2026-08-24",
+    "category": "AI News"
+  },
+  {
+    "title": "LLMs could control their host machines by exploiting inference engines",
+    "source": "Hacker News",
+    "description": "HN Score: 33 | 11 comments",
+    "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
+    "score": 33,
+    "date": "2026-08-24",
+    "category": "AI News"
+  },
+  {
+    "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
+    "source": "Hacker News",
+    "description": "HN Score: 230 | 201 comments",
+    "url": "https://developers.openai.com/api/docs/pricing",
+    "score": 230,
     "date": "2026-08-24",
     "category": "AI News"
   },
@@ -21,71 +48,44 @@
     "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
     "source": "Hacker News",
     "description": "HN Score: 1 | 0 comments",
-    "url": "https://www.ycombinator.com/companies/autostep/jobs",
+    "url": "https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4",
     "score": 1,
     "date": "2026-08-24",
     "category": "AI News"
   },
   {
-    "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
+    "title": "Show HN: Kern \u2013 container and resource runtime in a 1.5 MB binary, no daemon",
     "source": "Hacker News",
-    "description": "HN Score: 175 | 170 comments",
-    "url": "https://developers.openai.com/api/docs/pricing",
-    "score": 175,
-    "date": "2026-08-24",
-    "category": "AI News"
-  },
-  {
-    "title": "Coding expertise is going to collapse from AI reliance",
-    "source": "Hacker News",
-    "description": "HN Score: 250 | 284 comments",
-    "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
-    "score": 250,
+    "description": "HN Score: 27 | 1 comments",
+    "url": "https://github.com/getkern/kern",
+    "score": 27,
     "date": "2026-08-24",
     "category": "AI News"
   },
   {
     "title": "I were 17, I'd learn how to build LLMs from scratch",
     "source": "Hacker News",
-    "description": "HN Score: 428 | 535 comments",
+    "description": "HN Score: 464 | 563 comments",
     "url": "https://twitter.com/paulg/status/2091544343589060625",
-    "score": 428,
+    "score": 464,
+    "date": "2026-08-24",
+    "category": "AI News"
+  },
+  {
+    "title": "Coding expertise is going to collapse from AI reliance",
+    "source": "Hacker News",
+    "description": "HN Score: 323 | 346 comments",
+    "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+    "score": 323,
     "date": "2026-08-24",
     "category": "AI News"
   },
   {
     "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
     "source": "Hacker News",
-    "description": "HN Score: 157 | 75 comments",
+    "description": "HN Score: 165 | 81 comments",
     "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
-    "score": 157,
-    "date": "2026-08-24",
-    "category": "AI News"
-  },
-  {
-    "title": "Anna's Archive Owes $340 Million, Lost Several Domains, but It's Still Online",
-    "source": "Hacker News",
-    "description": "HN Score: 196 | 117 comments",
-    "url": "https://torrentfreak.com/annas-archive-owes-340-million-lost-several-domains-but-its-still-online/",
-    "score": 196,
-    "date": "2026-08-24",
-    "category": "AI News"
-  },
-  {
-    "title": "Public services are increasingly strained by LLM-written appeals for benefits",
-    "source": "Hacker News",
-    "description": "HN Score: 53 | 62 comments",
-    "url": "https://arxiv.org/abs/2608.16603",
-    "score": 53,
-    "date": "2026-08-24",
-    "category": "AI News"
-  },
-  {
-    "title": "NetBSD GSoC 2026 Improving RAIDframe",
-    "source": "Hacker News",
-    "description": "HN Score: 17 | 5 comments",
-    "url": "https://blog.netbsd.org/tnf/entry/gsoc2026_raidframe",
-    "score": 17,
+    "score": 165,
     "date": "2026-08-24",
     "category": "AI News"
   }
