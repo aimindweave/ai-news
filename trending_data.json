@@ -2,90 +2,90 @@
   {
     "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
     "source": "Hacker News",
-    "description": "HN Score: 109 | 47 comments",
+    "description": "HN Score: 279 | 127 comments",
     "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
-    "score": 109,
+    "score": 279,
     "date": "2026-08-24",
     "category": "AI News"
   },
   {
     "title": "IPFS Maintainers Winding Down",
     "source": "Hacker News",
-    "description": "HN Score: 67 | 15 comments",
+    "description": "HN Score: 183 | 78 comments",
     "url": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
-    "score": 67,
+    "score": 183,
+    "date": "2026-08-24",
+    "category": "AI News"
+  },
+  {
+    "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
+    "source": "Hacker News",
+    "description": "HN Score: 1 | 0 comments",
+    "url": "https://www.ycombinator.com/companies/autostep/jobs",
+    "score": 1,
     "date": "2026-08-24",
     "category": "AI News"
   },
   {
     "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
     "source": "Hacker News",
-    "description": "HN Score: 101 | 84 comments",
+    "description": "HN Score: 175 | 170 comments",
     "url": "https://developers.openai.com/api/docs/pricing",
-    "score": 101,
+    "score": 175,
     "date": "2026-08-24",
     "category": "AI News"
   },
   {
     "title": "Coding expertise is going to collapse from AI reliance",
     "source": "Hacker News",
-    "description": "HN Score: 92 | 98 comments",
+    "description": "HN Score: 250 | 284 comments",
     "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
-    "score": 92,
+    "score": 250,
     "date": "2026-08-24",
     "category": "AI News"
   },
   {
     "title": "I were 17, I'd learn how to build LLMs from scratch",
     "source": "Hacker News",
-    "description": "HN Score: 379 | 500 comments",
+    "description": "HN Score: 428 | 535 comments",
     "url": "https://twitter.com/paulg/status/2091544343589060625",
-    "score": 379,
-    "date": "2026-08-24",
-    "category": "AI News"
-  },
-  {
-    "title": "Public services are increasingly strained by LLM-written appeals for benefits",
-    "source": "Hacker News",
-    "description": "HN Score: 4 | 0 comments",
-    "url": "https://arxiv.org/abs/2608.16603",
-    "score": 4,
+    "score": 428,
     "date": "2026-08-24",
     "category": "AI News"
   },
   {
     "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
     "source": "Hacker News",
-    "description": "HN Score: 140 | 65 comments",
+    "description": "HN Score: 157 | 75 comments",
     "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
-    "score": 140,
-    "date": "2026-08-24",
-    "category": "AI News"
-  },
-  {
-    "title": "NetBSD GSoC 2026 Improving RAIDframe",
-    "source": "Hacker News",
-    "description": "HN Score: 7 | 0 comments",
-    "url": "https://blog.netbsd.org/tnf/entry/gsoc2026_raidframe",
-    "score": 7,
+    "score": 157,
     "date": "2026-08-24",
     "category": "AI News"
   },
   {
     "title": "Anna's Archive Owes $340 Million, Lost Several Domains, but It's Still Online",
     "source": "Hacker News",
-    "description": "HN Score: 109 | 71 comments",
+    "description": "HN Score: 196 | 117 comments",
     "url": "https://torrentfreak.com/annas-archive-owes-340-million-lost-several-domains-but-its-still-online/",
-    "score": 109,
+    "score": 196,
     "date": "2026-08-24",
     "category": "AI News"
   },
   {
-    "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+    "title": "Public services are increasingly strained by LLM-written appeals for benefits",
     "source": "Hacker News",
-    "description": "HN Score: 715 | 639 comments",
-    "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
-    "score": 715,
+    "description": "HN Score: 53 | 62 comments",
+    "url": "https://arxiv.org/abs/2608.16603",
+    "score": 53,
+    "date": "2026-08-24",
+    "category": "AI News"
+  },
+  {
+    "title": "NetBSD GSoC 2026 Improving RAIDframe",
+    "source": "Hacker News",
+    "description": "HN Score: 17 | 5 comments",
+    "url": "https://blog.netbsd.org/tnf/entry/gsoc2026_raidframe",
+    "score": 17,
     "date": "2026-08-24",
     "category": "AI News"
   }

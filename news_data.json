@@ -1,5 +1,12 @@
 [
   {
+    "title": "Instinct\u2019s powerful AI assistant is raising privacy and security concerns",
+    "source": "TechCrunch",
+    "summary": "Early testers are raving about what Instinct can do, but some say the AI assistant\u2019s sweeping access, broad terms and ability to act on users\u2019 behalf come with uncomfortable trade-offs",
+    "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
+    "date": "2026-08-24"
+  },
+  {
     "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
     "source": "TechCrunch",
     "summary": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six.",
@@ -77,6 +84,13 @@
     "date": "2026-08-24"
   },
   {
+    "title": "Michael Polansky is training an AI model on skin that\u2019s still alive",
+    "source": "TechCrunch",
+    "summary": "Michael Polansky \u2014 better known publicly as Lady Gaga's partner and a former top deputy to Sean Parker \u2014 has quietly spent years building an AI-driven startup that keeps living human skin tissue alive for weeks outside the body to discover new skincare compounds, and is only now going public abou...",
+    "url": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
+    "date": "2026-08-24"
+  },
+  {
     "title": "Anthropic\u2019s Opus 4.6 is a smut-machine",
     "source": "TechCrunch",
     "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
@@ -88,20 +102,6 @@
     "source": "TechCrunch",
     "summary": "Nvidia continues to pour money into data center development \u2014 just as AI data centers bring lots of money into Nvidia.",
     "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
-    "date": "2026-08-24"
-  },
-  {
-    "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-    "source": "TechCrunch",
-    "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
-    "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
-    "date": "2026-08-24"
-  },
-  {
-    "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-    "source": "TechCrunch",
-    "summary": "There's about to be a big fight to secure access to space.",
-    "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
     "date": "2026-08-24"
   },
   {
@@ -245,6 +245,13 @@
     "date": "2026-08-24"
   },
   {
+    "title": "Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China",
+    "source": "Ars Technica",
+    "summary": "Nvidia worker indicted after Jensen Huang scolded Supermicro for AI server smuggling.",
+    "url": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/",
+    "date": "2026-08-24"
+  },
+  {
     "title": "As demand for Meta AI glasses explodes, it\u2019s harder to avoid creepy recordings",
     "source": "Ars Technica",
     "summary": "Ars looks at Zuckoff, the latest free app detecting Meta AI glasses amid privacy backlash.",
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "\u201cShieldFont\u201d aims to poison AI training data without making pages unreadable for people.",
     "url": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/",
-    "date": "2026-08-24"
-  },
-  {
-    "title": "Terabytes of credentials leaked in massive supply-chain attack",
-    "source": "Ars Technica",
-    "summary": "The data was scraped and exfiltrated from 2,500 users of a compromised AI package.",
-    "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
     "date": "2026-08-24"
   }
 ]
