@@ -1,5 +1,12 @@
 [
   {
+    "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
+    "source": "TechCrunch",
+    "summary": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.",
+    "url": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
+    "date": "2026-08-24"
+  },
+  {
     "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
     "source": "TechCrunch",
     "summary": "At TechCrunch Disrupt 2026, Replit CEO Amjad Masad will share his perspective on the future of programming and Replit's role in developing it.",
@@ -9,7 +16,7 @@
   {
     "title": "Instinct\u2019s powerful AI assistant is raising privacy and security concerns",
     "source": "TechCrunch",
-    "summary": "Early testers are raving about what Instinct can do, but some say the AI assistant\u2019s sweeping access, broad terms and ability to act on users\u2019 behalf come with uncomfortable trade-offs",
+    "summary": "Early testers are raving about what Instinct can do, but some say the AI assistant\u2019s sweeping access, broad terms and ability to act on users\u2019 behalf come with uncomfortable trade-offs.",
     "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
     "date": "2026-08-24"
   },
@@ -95,13 +102,6 @@
     "source": "TechCrunch",
     "summary": "Michael Polansky \u2014 better known publicly as Lady Gaga's partner and a former top deputy to Sean Parker \u2014 has quietly spent years building an AI-driven startup that keeps living human skin tissue alive for weeks outside the body to discover new skincare compounds, and is only now going public abou...",
     "url": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
-    "date": "2026-08-24"
-  },
-  {
-    "title": "Anthropic\u2019s Opus 4.6 is a smut-machine",
-    "source": "TechCrunch",
-    "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
-    "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
     "date": "2026-08-24"
   },
   {
@@ -245,6 +245,13 @@
     "date": "2026-08-24"
   },
   {
+    "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
+    "source": "Ars Technica",
+    "summary": "Young employment in AI-impacted fields down 19% compared to more AI-resistant occupations.",
+    "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
+    "date": "2026-08-24"
+  },
+  {
     "title": "Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China",
     "source": "Ars Technica",
     "summary": "Nvidia worker indicted after Jensen Huang scolded Supermicro for AI server smuggling.",
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "The mark flags anything Claude processed, even human writing it only edited.",
     "url": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
-    "date": "2026-08-24"
-  },
-  {
-    "title": "The web\u2019s newest weapon against AI scrapers is a font",
-    "source": "Ars Technica",
-    "summary": "\u201cShieldFont\u201d aims to poison AI training data without making pages unreadable for people.",
-    "url": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/",
     "date": "2026-08-24"
   }
 ]
