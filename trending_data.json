@@ -1,91 +1,91 @@
 [
   {
+    "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+    "source": "Hacker News",
+    "description": "HN Score: 109 | 47 comments",
+    "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
+    "score": 109,
+    "date": "2026-08-24",
+    "category": "AI News"
+  },
+  {
+    "title": "IPFS Maintainers Winding Down",
+    "source": "Hacker News",
+    "description": "HN Score: 67 | 15 comments",
+    "url": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
+    "score": 67,
+    "date": "2026-08-24",
+    "category": "AI News"
+  },
+  {
+    "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
+    "source": "Hacker News",
+    "description": "HN Score: 101 | 84 comments",
+    "url": "https://developers.openai.com/api/docs/pricing",
+    "score": 101,
+    "date": "2026-08-24",
+    "category": "AI News"
+  },
+  {
+    "title": "Coding expertise is going to collapse from AI reliance",
+    "source": "Hacker News",
+    "description": "HN Score: 92 | 98 comments",
+    "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+    "score": 92,
+    "date": "2026-08-24",
+    "category": "AI News"
+  },
+  {
     "title": "I were 17, I'd learn how to build LLMs from scratch",
     "source": "Hacker News",
-    "description": "HN Score: 322 | 428 comments",
+    "description": "HN Score: 379 | 500 comments",
     "url": "https://twitter.com/paulg/status/2091544343589060625",
-    "score": 322,
+    "score": 379,
+    "date": "2026-08-24",
+    "category": "AI News"
+  },
+  {
+    "title": "Public services are increasingly strained by LLM-written appeals for benefits",
+    "source": "Hacker News",
+    "description": "HN Score: 4 | 0 comments",
+    "url": "https://arxiv.org/abs/2608.16603",
+    "score": 4,
     "date": "2026-08-24",
     "category": "AI News"
   },
   {
     "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
     "source": "Hacker News",
-    "description": "HN Score: 107 | 41 comments",
+    "description": "HN Score: 140 | 65 comments",
     "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
-    "score": 107,
+    "score": 140,
+    "date": "2026-08-24",
+    "category": "AI News"
+  },
+  {
+    "title": "NetBSD GSoC 2026 Improving RAIDframe",
+    "source": "Hacker News",
+    "description": "HN Score: 7 | 0 comments",
+    "url": "https://blog.netbsd.org/tnf/entry/gsoc2026_raidframe",
+    "score": 7,
+    "date": "2026-08-24",
+    "category": "AI News"
+  },
+  {
+    "title": "Anna's Archive Owes $340 Million, Lost Several Domains, but It's Still Online",
+    "source": "Hacker News",
+    "description": "HN Score: 109 | 71 comments",
+    "url": "https://torrentfreak.com/annas-archive-owes-340-million-lost-several-domains-but-its-still-online/",
+    "score": 109,
     "date": "2026-08-24",
     "category": "AI News"
   },
   {
     "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
     "source": "Hacker News",
-    "description": "HN Score: 668 | 582 comments",
+    "description": "HN Score: 715 | 639 comments",
     "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
-    "score": 668,
-    "date": "2026-08-24",
-    "category": "AI News"
-  },
-  {
-    "title": "Agent Is Not the Model",
-    "source": "Hacker News",
-    "description": "HN Score: 37 | 15 comments",
-    "url": "https://code.joejag.com/2026/your-agent-is-not-the-model.html",
-    "score": 37,
-    "date": "2026-08-24",
-    "category": "AI News"
-  },
-  {
-    "title": "I built a low-latency AI companion that plays Skyrim with me",
-    "source": "Hacker News",
-    "description": "HN Score: 264 | 50 comments",
-    "url": "https://pantel.is/projects/ai-gaming-companion/",
-    "score": 264,
-    "date": "2026-08-24",
-    "category": "AI News"
-  },
-  {
-    "title": "OCR It \u2013 pull text out of un-copyable documents for your LLM",
-    "source": "Hacker News",
-    "description": "HN Score: 88 | 20 comments",
-    "url": "https://github.com/thiagotigaz/ocr-it",
-    "score": 88,
-    "date": "2026-08-24",
-    "category": "AI News"
-  },
-  {
-    "title": "Woman stranded in Spain after UK's eVisa system mistakes her for twin sister",
-    "source": "Hacker News",
-    "description": "HN Score: 124 | 88 comments",
-    "url": "https://www.theguardian.com/uk-news/2026/aug/24/woman-stranded-spain-uk-evisa-system-mistakes-twin-sister",
-    "score": 124,
-    "date": "2026-08-24",
-    "category": "AI News"
-  },
-  {
-    "title": "Google Workspace thinks my domain is an email provider (2025)",
-    "source": "Hacker News",
-    "description": "HN Score: 355 | 125 comments",
-    "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
-    "score": 355,
-    "date": "2026-08-24",
-    "category": "AI News"
-  },
-  {
-    "title": "My agent.md to improve LLM-assisted code quality",
-    "source": "Hacker News",
-    "description": "HN Score: 355 | 152 comments",
-    "url": "https://fabiensanglard.net/agent.md/index.html",
-    "score": 355,
-    "date": "2026-08-24",
-    "category": "AI News"
-  },
-  {
-    "title": "New EU-wide product repair rules come into force",
-    "source": "Hacker News",
-    "description": "HN Score: 199 | 110 comments",
-    "url": "https://www.rte.ie/news/business/2026/0824/1588931-repair-rules/",
-    "score": 199,
+    "score": 715,
     "date": "2026-08-24",
     "category": "AI News"
   }
