@@ -93,7 +93,27 @@
   ],
   "episodes": [
     {
+      "id": "Practica_0",
+      "name": "AI Proficiency: From Users to Builders",
+      "show": "Practical AI",
+      "description": "\n        As AI continues to reshape how organizations work, companies are increasingly asking what AI proficiency should look like across their workforce, and how they can help employees adapt with",
+      "release_date": "2026-08-25",
+      "duration_min": 56,
+      "image": "",
+      "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
+    },
+    {
       "id": "a]6z Pod_0",
+      "name": "The New Economics of AI | Martin Casado & Steven Sinofsky",
+      "show": "a]6z Podcast",
+      "description": "a16z General Partners Martin Casado and Erik Torenberg are joined by Board Partner Steven Sinofsky to explore what recent breakthroughs in AI and mathematics tell us about where the technology is h",
+      "release_date": "2026-08-25",
+      "duration_min": 63,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
+      "id": "a]6z Pod_1",
       "name": "Why Medical AI Needs a Referee | Protege's Engy Ziedan",
       "show": "a]6z Podcast",
       "description": "Daisy Wolf and Eva Steinman are joined by Engy Ziedan, co-founder and Chief Scientific Officer of Protege, to discuss why medical AI has a measurement problem, and why scoring well on a benchmark d",
@@ -103,7 +123,7 @@
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "Martin Casado on Where the Value Is Going in AI",
       "show": "a]6z Podcast",
       "description": "Martin Casado joins MTS hosts Theo Jaffee and Sophia Dew to unpack where value is actually accruing in AI, why this technology cycle looks fundamentally different from previous waves, and whether t",
@@ -121,16 +141,6 @@
       "duration_min": 63,
       "image": "",
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
-    },
-    {
-      "id": "a]6z Pod_2",
-      "name": "Microsoft's Deputy CISO on Securing AI Agents",
-      "show": "a]6z Podcast",
-      "description": "a16z's Joel De La Garza is joined by Aaron Zollman, Deputy CISO at Microsoft Gaming, to discuss how security teams can embrace AI agents without losing control.\nAaron shares Microsoft's expe",
-      "release_date": "2026-08-21",
-      "duration_min": 25,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
       "id": "Hard For_1",
@@ -173,7 +183,7 @@
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
-      "id": "Practica_0",
+      "id": "Practica_1",
       "name": "Models, Harnesses, and Multi-Agent Systems",
       "show": "Practical AI",
       "description": "\n        AI has moved far beyond chatbots, but what exactly are AI models, agents, agent harnesses, and multi-agent systems, and why do they matter?In this episode, Daniel and Chris break do",
@@ -183,7 +193,7 @@
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
-      "id": "Practica_1",
+      "id": "Practica_2",
       "name": "Reconstructing how OpenAI agents attacked Hugging Face",
       "show": "Practical AI",
       "description": "\n        What happens when AI agents driven by a top frontier model escape their secure sandbox? Join Daniel and Chris as they unpack the AI wonk's equivalent of a murder mystery! OpenAI agents wen",
@@ -211,16 +221,6 @@
       "duration_min": 47,
       "image": "",
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
-    },
-    {
-      "id": "Practica_2",
-      "name": "Surviving the New Economics of a Post-Agentic World",
-      "show": "Practical AI",
-      "description": "\n        The agentic transformation isn’t coming. It has already begun.Companies are deploying thousands — and sometimes tens of thousands — of AI agents. Enterprise software giants are watc",
-      "release_date": "2026-07-23",
-      "duration_min": 35,
-      "image": "",
-      "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
       "id": "The TWIM_2",
