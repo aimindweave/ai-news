@@ -103,6 +103,16 @@
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
+      "id": "The TWIM_0",
+      "name": "Why the Next AI Breakthrough May Come from Physics with Max Welling - #774",
+      "show": "The TWIML AI Podcast",
+      "description": "The conventional wisdom in AI is that the next breakthrough will come from more compute, more data, and larger models. But what if the next leap comes from somewhere else?\n\nIn this episode, Max Wellin",
+      "release_date": "2026-08-25",
+      "duration_min": 55,
+      "image": "",
+      "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
+    },
+    {
       "id": "a]6z Pod_0",
       "name": "The New Economics of AI | Martin Casado & Steven Sinofsky",
       "show": "a]6z Podcast",
@@ -163,7 +173,7 @@
       "url": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"
     },
     {
-      "id": "The TWIM_0",
+      "id": "The TWIM_1",
       "name": "Why Image Generation Needs More Than Bigger Models with Fatih Porikli - #773",
       "show": "The TWIML AI Podcast",
       "description": "Text-to-image models have become remarkably good at producing realistic images. But realism isn’t the same as correctness. Ask for several distinct people, a specific composition, or a high-resolution",
@@ -213,22 +223,12 @@
       "url": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"
     },
     {
-      "id": "The TWIM_1",
+      "id": "The TWIM_2",
       "name": "Why Models Are AI’s Next Training Dataset with Damian Borth - #772",
       "show": "The TWIML AI Podcast",
       "description": "For more than a decade, AI has advanced by training ever-larger models on ever-larger datasets. But as high-quality training data becomes harder to find and pretraining grows increasingly expensive, r",
       "release_date": "2026-07-27",
       "duration_min": 47,
-      "image": "",
-      "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
-    },
-    {
-      "id": "The TWIM_2",
-      "name": "How AI Learns to Smell with Alex Wiltschko - #771",
-      "show": "The TWIML AI Podcast",
-      "description": "In this episode, Alex Wiltschko, founder and CEO of Osmo, joins the show to discuss his goal of giving computers a sense of smell and what it takes to build olfactory intelligence.\n\nWe explore the sci",
-      "release_date": "2026-07-08",
-      "duration_min": 59,
       "image": "",
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
     },
