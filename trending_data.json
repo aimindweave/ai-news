@@ -2,45 +2,54 @@
   {
     "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
     "source": "Hacker News",
-    "description": "HN Score: 267 | 63 comments",
+    "description": "HN Score: 319 | 77 comments",
     "url": "https://developer.apple.com/news/?id=1ptvdtcm",
-    "score": 267,
+    "score": 319,
     "date": "2026-08-25",
     "category": "AI News"
   },
   {
     "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
     "source": "Hacker News",
-    "description": "HN Score: 583 | 232 comments",
+    "description": "HN Score: 616 | 242 comments",
     "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
-    "score": 583,
+    "score": 616,
     "date": "2026-08-25",
     "category": "AI News"
   },
   {
-    "title": "IPFS Maintainers Winding Down",
+    "title": "Headlong: A Microharness for Persistent Agents",
     "source": "Hacker News",
-    "description": "HN Score: 335 | 165 comments",
-    "url": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
-    "score": 335,
+    "description": "HN Score: 12 | 3 comments",
+    "url": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
+    "score": 12,
     "date": "2026-08-25",
     "category": "AI News"
   },
   {
-    "title": "LLMs could control their host machines by exploiting inference engines",
+    "title": "Training AI to Paint with Code",
     "source": "Hacker News",
-    "description": "HN Score: 103 | 52 comments",
-    "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-    "score": 103,
+    "description": "HN Score: 46 | 5 comments",
+    "url": "https://surya.website/rling-qwen-to-paint-with-code",
+    "score": 46,
     "date": "2026-08-25",
     "category": "AI News"
   },
   {
     "title": "Thomson Reuters Launches Its Own Frontier Model",
     "source": "Hacker News",
-    "description": "HN Score: 14 | 0 comments",
+    "description": "HN Score: 48 | 14 comments",
     "url": "https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model",
-    "score": 14,
+    "score": 48,
+    "date": "2026-08-25",
+    "category": "AI News"
+  },
+  {
+    "title": "LLMs could control their host machines by exploiting inference engines",
+    "source": "Hacker News",
+    "description": "HN Score: 112 | 58 comments",
+    "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
+    "score": 112,
     "date": "2026-08-25",
     "category": "AI News"
   },
@@ -54,38 +63,29 @@
     "category": "AI News"
   },
   {
+    "title": "IPFS Maintainers Winding Down",
+    "source": "Hacker News",
+    "description": "HN Score: 339 | 170 comments",
+    "url": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
+    "score": 339,
+    "date": "2026-08-25",
+    "category": "AI News"
+  },
+  {
     "title": "I were 17, I'd learn how to build LLMs from scratch",
     "source": "Hacker News",
-    "description": "HN Score: 518 | 611 comments",
+    "description": "HN Score: 529 | 617 comments",
     "url": "https://twitter.com/paulg/status/2091544343589060625",
-    "score": 518,
+    "score": 529,
     "date": "2026-08-25",
     "category": "AI News"
   },
   {
-    "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
+    "title": "Characterizing Agentic Flooding of Government Services",
     "source": "Hacker News",
-    "description": "HN Score: 306 | 272 comments",
-    "url": "https://developers.openai.com/api/docs/pricing",
-    "score": 306,
-    "date": "2026-08-25",
-    "category": "AI News"
-  },
-  {
-    "title": "Coding expertise is going to collapse from AI reliance",
-    "source": "Hacker News",
-    "description": "HN Score: 485 | 475 comments",
-    "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
-    "score": 485,
-    "date": "2026-08-25",
-    "category": "AI News"
-  },
-  {
-    "title": "What languages are agent skills written in?",
-    "source": "Hacker News",
-    "description": "HN Score: 11 | 2 comments",
-    "url": "https://plicara.ai/research/agent-skill-languages/",
-    "score": 11,
+    "description": "HN Score: 63 | 76 comments",
+    "url": "https://arxiv.org/abs/2608.16603",
+    "score": 63,
     "date": "2026-08-25",
     "category": "AI News"
   }
