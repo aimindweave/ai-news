@@ -2,37 +2,46 @@
   {
     "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
     "source": "Hacker News",
-    "description": "HN Score: 24 | 8 comments",
+    "description": "HN Score: 216 | 47 comments",
     "url": "https://developer.apple.com/news/?id=1ptvdtcm",
-    "score": 24,
-    "date": "2026-08-24",
+    "score": 216,
+    "date": "2026-08-25",
     "category": "AI News"
   },
   {
     "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
     "source": "Hacker News",
-    "description": "HN Score: 477 | 188 comments",
+    "description": "HN Score: 561 | 227 comments",
     "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
-    "score": 477,
-    "date": "2026-08-24",
+    "score": 561,
+    "date": "2026-08-25",
     "category": "AI News"
   },
   {
     "title": "IPFS Maintainers Winding Down",
     "source": "Hacker News",
-    "description": "HN Score: 295 | 148 comments",
+    "description": "HN Score: 325 | 163 comments",
     "url": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
-    "score": 295,
-    "date": "2026-08-24",
+    "score": 325,
+    "date": "2026-08-25",
+    "category": "AI News"
+  },
+  {
+    "title": "What languages are agent skills written in?",
+    "source": "Hacker News",
+    "description": "HN Score: 3 | 0 comments",
+    "url": "https://plicara.ai/research/agent-skill-languages/",
+    "score": 3,
+    "date": "2026-08-25",
     "category": "AI News"
   },
   {
     "title": "LLMs could control their host machines by exploiting inference engines",
     "source": "Hacker News",
-    "description": "HN Score: 68 | 34 comments",
+    "description": "HN Score: 93 | 50 comments",
     "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-    "score": 68,
-    "date": "2026-08-24",
+    "score": 93,
+    "date": "2026-08-25",
     "category": "AI News"
   },
   {
@@ -41,52 +50,43 @@
     "description": "HN Score: 1 | 0 comments",
     "url": "https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4",
     "score": 1,
-    "date": "2026-08-24",
+    "date": "2026-08-25",
     "category": "AI News"
   },
   {
     "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
     "source": "Hacker News",
-    "description": "HN Score: 264 | 238 comments",
+    "description": "HN Score: 295 | 264 comments",
     "url": "https://developers.openai.com/api/docs/pricing",
-    "score": 264,
-    "date": "2026-08-24",
+    "score": 295,
+    "date": "2026-08-25",
+    "category": "AI News"
+  },
+  {
+    "title": "I were 17, I'd learn how to build LLMs from scratch",
+    "source": "Hacker News",
+    "description": "HN Score: 507 | 604 comments",
+    "url": "https://twitter.com/paulg/status/2091544343589060625",
+    "score": 507,
+    "date": "2026-08-25",
     "category": "AI News"
   },
   {
     "title": "Coding expertise is going to collapse from AI reliance",
     "source": "Hacker News",
-    "description": "HN Score: 387 | 398 comments",
+    "description": "HN Score: 457 | 458 comments",
     "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
-    "score": 387,
-    "date": "2026-08-24",
-    "category": "AI News"
-  },
-  {
-    "title": "Show HN: Kern \u2013 container and resource runtime in a 1.5 MB binary, no daemon",
-    "source": "Hacker News",
-    "description": "HN Score: 42 | 6 comments",
-    "url": "https://github.com/getkern/kern",
-    "score": 42,
-    "date": "2026-08-24",
+    "score": 457,
+    "date": "2026-08-25",
     "category": "AI News"
   },
   {
     "title": "Agent Lightning v1.0",
     "source": "Hacker News",
-    "description": "HN Score: 19 | 1 comments",
+    "description": "HN Score: 44 | 2 comments",
     "url": "https://github.com/microsoft/agent-lightning/releases/tag/v1.0.1",
-    "score": 19,
-    "date": "2026-08-24",
-    "category": "AI News"
-  },
-  {
-    "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
-    "source": "Hacker News",
-    "description": "HN Score: 177 | 90 comments",
-    "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
-    "score": 177,
-    "date": "2026-08-24",
+    "score": 44,
+    "date": "2026-08-25",
     "category": "AI News"
   }
 ]
