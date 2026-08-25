@@ -1,8 +1,15 @@
 [
   {
+    "title": "Gamma acquires Accel-backed design startup Lica",
+    "source": "TechCrunch",
+    "summary": "Lica co-founders are going to work on Gamma's new research team.",
+    "url": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
+    "date": "2026-08-25"
+  },
+  {
     "title": "OpenAI\u2019s Jalape\u00f1o chip is built for fast inference at scale, benchmarks show",
     "source": "TechCrunch",
-    "summary": "Tested on Semianalysis\u2019s InferenceX benchmark, Jalape\u00f1o registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art.",
+    "summary": "Tested on SemiAnalysis\u2019 InferenceX benchmark, Jalape\u00f1o registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art.",
     "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
     "date": "2026-08-25"
   },
@@ -95,13 +102,6 @@
     "source": "TechCrunch",
     "summary": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
     "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
-    "date": "2026-08-25"
-  },
-  {
-    "title": "Harvard\u2019s $699 startup bootcamp offers AI avatars of its instructors",
-    "source": "TechCrunch",
-    "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
-    "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
     "date": "2026-08-25"
   },
   {
@@ -245,6 +245,13 @@
     "date": "2026-08-25"
   },
   {
+    "title": "AI won\u2019t replace radiologists, but it will dramatically change their jobs",
+    "source": "Ars Technica",
+    "summary": "A pioneering AI scientist once predicted computers would replace human radiologists. They haven't.",
+    "url": "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/",
+    "date": "2026-08-25"
+  },
+  {
     "title": "Apple's new desktop computers are designed specifically for local AI development",
     "source": "Ars Technica",
     "summary": "Folks have been daisy-chaining Macs for AI\u2014this refresh keeps that in mind.",
@@ -259,7 +266,7 @@
     "date": "2026-08-25"
   },
   {
-    "title": "Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China",
+    "title": "Nvidia senior manager tied to ex-Supermicro staff's AI smuggling scheme",
     "source": "Ars Technica",
     "summary": "Nvidia worker indicted after Jensen Huang scolded Supermicro for AI server smuggling.",
     "url": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/",
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "Gemini 3.6 Flash debuted just 3 weeks ago, but Google says 3.7 has 'substantial improvements.'",
     "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
-    "date": "2026-08-25"
-  },
-  {
-    "title": "Anthropic could be worth $2 trillion when it goes public",
-    "source": "Ars Technica",
-    "summary": "Rapid revenue growth fuels hope Claude maker's IPO is the biggest listing in history",
-    "url": "https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/",
     "date": "2026-08-25"
   }
 ]
