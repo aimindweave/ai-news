@@ -1,10 +1,19 @@
 [
   {
+    "title": "OpenAI Jalape\u00f1o: Better than Nvidia Blackwell",
+    "source": "Hacker News",
+    "description": "HN Score: 244 | 163 comments",
+    "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+    "score": 244,
+    "date": "2026-08-25",
+    "category": "AI News"
+  },
+  {
     "title": "Show HN: I made a Raspberry with Qwen my local car AI",
     "source": "Hacker News",
-    "description": "HN Score: 38 | 11 comments",
+    "description": "HN Score: 73 | 16 comments",
     "url": "https://github.com/ThinkOffApp/CarWatch",
-    "score": 38,
+    "score": 73,
     "date": "2026-08-25",
     "category": "AI News"
   },
@@ -18,65 +27,29 @@
     "category": "AI News"
   },
   {
-    "title": "OpenAI Jalape\u00f1o: Better than Nvidia Blackwell",
+    "title": "Training AI to Paint with Code",
     "source": "Hacker News",
-    "description": "HN Score: 163 | 108 comments",
-    "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
-    "score": 163,
-    "date": "2026-08-25",
-    "category": "AI News"
-  },
-  {
-    "title": "Pgbot: A 5.9 MB read-only Postgres tool for humans and agents",
-    "source": "Hacker News",
-    "description": "HN Score: 44 | 9 comments",
-    "url": "https://pgbot.dev/",
-    "score": 44,
-    "date": "2026-08-25",
-    "category": "AI News"
-  },
-  {
-    "title": "Run Minecraft in a Windows sandbox for computer use agents",
-    "source": "Hacker News",
-    "description": "HN Score: 19 | 6 comments",
-    "url": "https://cua.ai/docs/how-to-guides/sandbox/minecraft",
-    "score": 19,
+    "description": "HN Score: 191 | 23 comments",
+    "url": "https://surya.website/rling-qwen-to-paint-with-code",
+    "score": 191,
     "date": "2026-08-25",
     "category": "AI News"
   },
   {
     "title": "OpenAI's Head of Data Centers Has Left the Company",
     "source": "Hacker News",
-    "description": "HN Score: 12 | 0 comments",
+    "description": "HN Score: 27 | 9 comments",
     "url": "https://www.wsj.com/tech/ai/openais-head-of-data-centers-has-left-company-6d24fd83",
-    "score": 12,
-    "date": "2026-08-25",
-    "category": "AI News"
-  },
-  {
-    "title": "Training AI to Paint with Code",
-    "source": "Hacker News",
-    "description": "HN Score: 190 | 23 comments",
-    "url": "https://surya.website/rling-qwen-to-paint-with-code",
-    "score": 190,
+    "score": 27,
     "date": "2026-08-25",
     "category": "AI News"
   },
   {
     "title": "How much of HN is AI?",
     "source": "Hacker News",
-    "description": "HN Score: 224 | 239 comments",
+    "description": "HN Score: 239 | 272 comments",
     "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
-    "score": 224,
-    "date": "2026-08-25",
-    "category": "AI News"
-  },
-  {
-    "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
-    "source": "Hacker News",
-    "description": "HN Score: 833 | 420 comments",
-    "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
-    "score": 833,
+    "score": 239,
     "date": "2026-08-25",
     "category": "AI News"
   }
