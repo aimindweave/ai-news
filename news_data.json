@@ -1,5 +1,19 @@
 [
   {
+    "title": "OpenAI\u2019s Jalape\u00f1o chip is built for fast inference at scale, benchmarks show",
+    "source": "TechCrunch",
+    "summary": "Tested on Semianalysis\u2019s InferenceX benchmark, Jalape\u00f1o registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art.",
+    "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+    "date": "2026-08-25"
+  },
+  {
+    "title": "Accel-backed Keenable is indexing the web for AI agents",
+    "source": "TechCrunch",
+    "summary": "Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents.",
+    "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
+    "date": "2026-08-25"
+  },
+  {
     "title": "\u2018The world seems to be ready\u2019: An interview with OpenAI head of product Thibault Sottiaux",
     "source": "TechCrunch",
     "summary": "TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product.",
@@ -88,20 +102,6 @@
     "source": "TechCrunch",
     "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
     "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
-    "date": "2026-08-25"
-  },
-  {
-    "title": "Inherent, founded by DeepMind alumni, says its AI \u2018teammate\u2019 just outperformed Anthropic and OpenAI at replicating research",
-    "source": "TechCrunch",
-    "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
-    "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-    "date": "2026-08-25"
-  },
-  {
-    "title": "OpenAI says California should strengthen its AI safety bill",
-    "source": "TechCrunch",
-    "summary": "OpenAI's global affairs team post also referenced \u201crecent incidents\u201d that \u201cunderscore both the need for these protections and the importance of updating them\u201d as new risks emerge.",
-    "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
     "date": "2026-08-25"
   },
   {
@@ -245,6 +245,13 @@
     "date": "2026-08-25"
   },
   {
+    "title": "Apple's new desktop computers are designed specifically for local AI development",
+    "source": "Ars Technica",
+    "summary": "Folks have been daisy-chaining Macs for AI\u2014this refresh keeps that in mind.",
+    "url": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/",
+    "date": "2026-08-25"
+  },
+  {
     "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
     "source": "Ars Technica",
     "summary": "Young employment in AI-impacted fields down 19% compared to more AI-resistant occupations.",
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "Rapid revenue growth fuels hope Claude maker's IPO is the biggest listing in history",
     "url": "https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/",
-    "date": "2026-08-25"
-  },
-  {
-    "title": "Claude's new Scarlet Letter watermark is invisible\u2014for now",
-    "source": "Ars Technica",
-    "summary": "The mark flags anything Claude processed, even human writing it only edited.",
-    "url": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
     "date": "2026-08-25"
   }
 ]
