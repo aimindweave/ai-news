@@ -2,54 +2,36 @@
   {
     "title": "OpenAI Jalape\u00f1o: Better than Nvidia Blackwell",
     "source": "Hacker News",
-    "description": "HN Score: 468 | 302 comments",
+    "description": "HN Score: 493 | 317 comments",
     "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
-    "score": 468,
+    "score": 493,
+    "date": "2026-08-26",
+    "category": "AI News"
+  },
+  {
+    "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
+    "source": "Hacker News",
+    "description": "HN Score: 16 | 2 comments",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
+    "score": 16,
     "date": "2026-08-26",
     "category": "AI News"
   },
   {
     "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
     "source": "Hacker News",
-    "description": "HN Score: 78 | 44 comments",
+    "description": "HN Score: 83 | 50 comments",
     "url": "https://github.com/runetes/maiao",
-    "score": 78,
+    "score": 83,
     "date": "2026-08-26",
     "category": "AI News"
   },
   {
     "title": "Agentic Context Management: Memory and Cost as Architecture Problems",
     "source": "Hacker News",
-    "description": "HN Score: 50 | 16 comments",
+    "description": "HN Score: 57 | 20 comments",
     "url": "https://arxiv.org/abs/2607.21503",
-    "score": 50,
-    "date": "2026-08-26",
-    "category": "AI News"
-  },
-  {
-    "title": "Disrupting a new covert influence campaign from Russia",
-    "source": "Hacker News",
-    "description": "HN Score: 29 | 8 comments",
-    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/",
-    "score": 29,
-    "date": "2026-08-26",
-    "category": "AI News"
-  },
-  {
-    "title": "Show HN: I made a Raspberry with Qwen my local car AI",
-    "source": "Hacker News",
-    "description": "HN Score: 135 | 38 comments",
-    "url": "https://github.com/ThinkOffApp/CarWatch",
-    "score": 135,
-    "date": "2026-08-26",
-    "category": "AI News"
-  },
-  {
-    "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
-    "source": "Hacker News",
-    "description": "HN Score: 92 | 20 comments",
-    "url": "https://github.com/swimmingbrain/texbrain",
-    "score": 92,
+    "score": 57,
     "date": "2026-08-26",
     "category": "AI News"
   },
@@ -63,20 +45,29 @@
     "category": "AI News"
   },
   {
-    "title": "I miss the old Claude Code",
+    "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
     "source": "Hacker News",
-    "description": "HN Score: 22 | 3 comments",
-    "url": "https://alexkras.com/focus-is-the-main-feature-why-i-miss-the-old-claude-code/",
-    "score": 22,
+    "description": "HN Score: 101 | 21 comments",
+    "url": "https://github.com/swimmingbrain/texbrain",
+    "score": 101,
     "date": "2026-08-26",
     "category": "AI News"
   },
   {
     "title": "Training AI to Paint with Code",
     "source": "Hacker News",
-    "description": "HN Score: 207 | 24 comments",
+    "description": "HN Score: 209 | 25 comments",
     "url": "https://surya.website/rling-qwen-to-paint-with-code",
-    "score": 207,
+    "score": 209,
+    "date": "2026-08-26",
+    "category": "AI News"
+  },
+  {
+    "title": "How to Build a McKinsey-Style PowerPoint with AI: 8 Rules for Consulting Slides",
+    "source": "Hacker News",
+    "description": "HN Score: 5 | 0 comments",
+    "url": "https://medium.com/@2315610426/how-to-build-a-mckinsey-style-powerpoint-with-ai-8-simple-rules-for-consulting-grade-slides-a58c009dcb72",
+    "score": 5,
     "date": "2026-08-26",
     "category": "AI News"
   }
