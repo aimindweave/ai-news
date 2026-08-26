@@ -2,19 +2,37 @@
   {
     "title": "OpenAI Jalape\u00f1o: Better than Nvidia Blackwell",
     "source": "Hacker News",
-    "description": "HN Score: 244 | 163 comments",
+    "description": "HN Score: 327 | 222 comments",
     "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
-    "score": 244,
-    "date": "2026-08-25",
+    "score": 327,
+    "date": "2026-08-26",
+    "category": "AI News"
+  },
+  {
+    "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
+    "source": "Hacker News",
+    "description": "HN Score: 26 | 6 comments",
+    "url": "https://github.com/runetes/maiao",
+    "score": 26,
+    "date": "2026-08-26",
+    "category": "AI News"
+  },
+  {
+    "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
+    "source": "Hacker News",
+    "description": "HN Score: 47 | 9 comments",
+    "url": "https://github.com/swimmingbrain/texbrain",
+    "score": 47,
+    "date": "2026-08-26",
     "category": "AI News"
   },
   {
     "title": "Show HN: I made a Raspberry with Qwen my local car AI",
     "source": "Hacker News",
-    "description": "HN Score: 73 | 16 comments",
+    "description": "HN Score: 100 | 21 comments",
     "url": "https://github.com/ThinkOffApp/CarWatch",
-    "score": 73,
-    "date": "2026-08-25",
+    "score": 100,
+    "date": "2026-08-26",
     "category": "AI News"
   },
   {
@@ -23,34 +41,16 @@
     "description": "HN Score: 1 | 0 comments",
     "url": "https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer",
     "score": 1,
-    "date": "2026-08-25",
+    "date": "2026-08-26",
     "category": "AI News"
   },
   {
     "title": "Training AI to Paint with Code",
     "source": "Hacker News",
-    "description": "HN Score: 191 | 23 comments",
+    "description": "HN Score: 195 | 22 comments",
     "url": "https://surya.website/rling-qwen-to-paint-with-code",
-    "score": 191,
-    "date": "2026-08-25",
-    "category": "AI News"
-  },
-  {
-    "title": "OpenAI's Head of Data Centers Has Left the Company",
-    "source": "Hacker News",
-    "description": "HN Score: 27 | 9 comments",
-    "url": "https://www.wsj.com/tech/ai/openais-head-of-data-centers-has-left-company-6d24fd83",
-    "score": 27,
-    "date": "2026-08-25",
-    "category": "AI News"
-  },
-  {
-    "title": "How much of HN is AI?",
-    "source": "Hacker News",
-    "description": "HN Score: 239 | 272 comments",
-    "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
-    "score": 239,
-    "date": "2026-08-25",
+    "score": 195,
+    "date": "2026-08-26",
     "category": "AI News"
   }
 ]
