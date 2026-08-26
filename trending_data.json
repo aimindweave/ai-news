@@ -2,54 +2,45 @@
   {
     "title": "OpenAI Jalape\u00f1o: Better than Nvidia Blackwell",
     "source": "Hacker News",
-    "description": "HN Score: 386 | 257 comments",
+    "description": "HN Score: 428 | 281 comments",
     "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
-    "score": 386,
+    "score": 428,
     "date": "2026-08-26",
     "category": "AI News"
   },
   {
     "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
     "source": "Hacker News",
-    "description": "HN Score: 48 | 19 comments",
+    "description": "HN Score: 63 | 33 comments",
     "url": "https://github.com/runetes/maiao",
-    "score": 48,
+    "score": 63,
     "date": "2026-08-26",
     "category": "AI News"
   },
   {
     "title": "Agentic Context Management: Memory and Cost as Architecture Problems",
     "source": "Hacker News",
-    "description": "HN Score: 9 | 3 comments",
+    "description": "HN Score: 24 | 12 comments",
     "url": "https://arxiv.org/abs/2607.21503",
-    "score": 9,
+    "score": 24,
     "date": "2026-08-26",
     "category": "AI News"
   },
   {
     "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
     "source": "Hacker News",
-    "description": "HN Score: 70 | 11 comments",
+    "description": "HN Score: 76 | 16 comments",
     "url": "https://github.com/swimmingbrain/texbrain",
-    "score": 70,
-    "date": "2026-08-26",
-    "category": "AI News"
-  },
-  {
-    "title": "Ask HN: What is one simple thing LLMs are insanely bad at?",
-    "source": "Hacker News",
-    "description": "HN Score: 22 | 38 comments",
-    "url": "https://news.ycombinator.com/item?id=49443820",
-    "score": 22,
+    "score": 76,
     "date": "2026-08-26",
     "category": "AI News"
   },
   {
     "title": "Show HN: I made a Raspberry with Qwen my local car AI",
     "source": "Hacker News",
-    "description": "HN Score: 117 | 30 comments",
+    "description": "HN Score: 127 | 35 comments",
     "url": "https://github.com/ThinkOffApp/CarWatch",
-    "score": 117,
+    "score": 127,
     "date": "2026-08-26",
     "category": "AI News"
   },
@@ -63,20 +54,20 @@
     "category": "AI News"
   },
   {
-    "title": "The brain may be about to have its Ozempic moment",
+    "title": "Training AI to Paint with Code",
     "source": "Hacker News",
-    "description": "HN Score: 64 | 47 comments",
-    "url": "https://www.economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment",
-    "score": 64,
+    "description": "HN Score: 201 | 23 comments",
+    "url": "https://surya.website/rling-qwen-to-paint-with-code",
+    "score": 201,
     "date": "2026-08-26",
     "category": "AI News"
   },
   {
-    "title": "Training AI to Paint with Code",
+    "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
     "source": "Hacker News",
-    "description": "HN Score: 199 | 22 comments",
-    "url": "https://surya.website/rling-qwen-to-paint-with-code",
-    "score": 199,
+    "description": "HN Score: 844 | 426 comments",
+    "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
+    "score": 844,
     "date": "2026-08-26",
     "category": "AI News"
   }
