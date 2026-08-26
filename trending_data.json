@@ -2,45 +2,54 @@
   {
     "title": "OpenAI Jalape\u00f1o: Better than Nvidia Blackwell",
     "source": "Hacker News",
-    "description": "HN Score: 428 | 281 comments",
+    "description": "HN Score: 468 | 302 comments",
     "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
-    "score": 428,
+    "score": 468,
     "date": "2026-08-26",
     "category": "AI News"
   },
   {
     "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
     "source": "Hacker News",
-    "description": "HN Score: 63 | 33 comments",
+    "description": "HN Score: 78 | 44 comments",
     "url": "https://github.com/runetes/maiao",
-    "score": 63,
+    "score": 78,
     "date": "2026-08-26",
     "category": "AI News"
   },
   {
     "title": "Agentic Context Management: Memory and Cost as Architecture Problems",
     "source": "Hacker News",
-    "description": "HN Score: 24 | 12 comments",
+    "description": "HN Score: 50 | 16 comments",
     "url": "https://arxiv.org/abs/2607.21503",
-    "score": 24,
+    "score": 50,
     "date": "2026-08-26",
     "category": "AI News"
   },
   {
-    "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
+    "title": "Disrupting a new covert influence campaign from Russia",
     "source": "Hacker News",
-    "description": "HN Score: 76 | 16 comments",
-    "url": "https://github.com/swimmingbrain/texbrain",
-    "score": 76,
+    "description": "HN Score: 29 | 8 comments",
+    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/",
+    "score": 29,
     "date": "2026-08-26",
     "category": "AI News"
   },
   {
     "title": "Show HN: I made a Raspberry with Qwen my local car AI",
     "source": "Hacker News",
-    "description": "HN Score: 127 | 35 comments",
+    "description": "HN Score: 135 | 38 comments",
     "url": "https://github.com/ThinkOffApp/CarWatch",
-    "score": 127,
+    "score": 135,
+    "date": "2026-08-26",
+    "category": "AI News"
+  },
+  {
+    "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
+    "source": "Hacker News",
+    "description": "HN Score: 92 | 20 comments",
+    "url": "https://github.com/swimmingbrain/texbrain",
+    "score": 92,
     "date": "2026-08-26",
     "category": "AI News"
   },
@@ -54,20 +63,20 @@
     "category": "AI News"
   },
   {
-    "title": "Training AI to Paint with Code",
+    "title": "I miss the old Claude Code",
     "source": "Hacker News",
-    "description": "HN Score: 201 | 23 comments",
-    "url": "https://surya.website/rling-qwen-to-paint-with-code",
-    "score": 201,
+    "description": "HN Score: 22 | 3 comments",
+    "url": "https://alexkras.com/focus-is-the-main-feature-why-i-miss-the-old-claude-code/",
+    "score": 22,
     "date": "2026-08-26",
     "category": "AI News"
   },
   {
-    "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+    "title": "Training AI to Paint with Code",
     "source": "Hacker News",
-    "description": "HN Score: 844 | 426 comments",
-    "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
-    "score": 844,
+    "description": "HN Score: 207 | 24 comments",
+    "url": "https://surya.website/rling-qwen-to-paint-with-code",
+    "score": 207,
     "date": "2026-08-26",
     "category": "AI News"
   }
