@@ -2,63 +2,63 @@
   {
     "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
     "source": "Hacker News",
-    "description": "HN Score: 210 | 89 comments",
+    "description": "HN Score: 316 | 117 comments",
     "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
-    "score": 210,
+    "score": 316,
+    "date": "2026-08-26",
+    "category": "AI News"
+  },
+  {
+    "title": "AI Is a Harsh Mistress",
+    "source": "Hacker News",
+    "description": "HN Score: 5 | 0 comments",
+    "url": "https://cacm.acm.org/opinion/ai-is-a-harsh-mistress-on-anima-machina-herd-acceptance-and-the-politics-of-conscious-machines/",
+    "score": 5,
     "date": "2026-08-26",
     "category": "AI News"
   },
   {
     "title": "OpenAI Jalape\u00f1o: Better than Nvidia Blackwell",
     "source": "Hacker News",
-    "description": "HN Score: 526 | 334 comments",
+    "description": "HN Score: 551 | 347 comments",
     "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
-    "score": 526,
-    "date": "2026-08-26",
-    "category": "AI News"
-  },
-  {
-    "title": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
-    "source": "Hacker News",
-    "description": "HN Score: 19 | 0 comments",
-    "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
-    "score": 19,
+    "score": 551,
     "date": "2026-08-26",
     "category": "AI News"
   },
   {
     "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
     "source": "Hacker News",
-    "description": "HN Score: 96 | 58 comments",
+    "description": "HN Score: 104 | 63 comments",
     "url": "https://github.com/runetes/maiao",
-    "score": 96,
-    "date": "2026-08-26",
-    "category": "AI News"
-  },
-  {
-    "title": "Agentic Context Management: Memory and Cost as Architecture Problems",
-    "source": "Hacker News",
-    "description": "HN Score: 68 | 24 comments",
-    "url": "https://arxiv.org/abs/2607.21503",
-    "score": 68,
+    "score": 104,
     "date": "2026-08-26",
     "category": "AI News"
   },
   {
     "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
     "source": "Hacker News",
-    "description": "HN Score: 105 | 24 comments",
+    "description": "HN Score: 108 | 26 comments",
     "url": "https://github.com/swimmingbrain/texbrain",
-    "score": 105,
+    "score": 108,
     "date": "2026-08-26",
     "category": "AI News"
   },
   {
-    "title": "Training AI to Paint with Code",
+    "title": "Agentic Context Management: Memory and Cost as Architecture Problems",
     "source": "Hacker News",
-    "description": "HN Score: 211 | 26 comments",
-    "url": "https://surya.website/rling-qwen-to-paint-with-code",
-    "score": 211,
+    "description": "HN Score: 73 | 26 comments",
+    "url": "https://arxiv.org/abs/2607.21503",
+    "score": 73,
+    "date": "2026-08-26",
+    "category": "AI News"
+  },
+  {
+    "title": "Meta agrees multi-billion settlement to claims that its platforms harm children",
+    "source": "Hacker News",
+    "description": "HN Score: 6 | 1 comments",
+    "url": "https://www.bbc.co.uk/news/live/cy5v0vrlp4xt",
+    "score": 6,
     "date": "2026-08-26",
     "category": "AI News"
   }
