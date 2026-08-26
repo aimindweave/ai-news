@@ -1,82 +1,91 @@
 [
   {
-    "title": "It's so hard to finish an idea that is not yours (and suggested by AI)",
+    "title": "Tailcat",
     "source": "Hacker News",
-    "description": "HN Score: 32 | 12 comments",
+    "description": "HN Score: 222 | 37 comments",
+    "url": "https://github.com/tailscale/tailcat",
+    "score": 222,
+    "date": "2026-08-26",
+    "category": "AI News"
+  },
+  {
+    "title": "Study Reveals UnitedHealth's Profit Margins Four Times What It Claimed [pdf]",
+    "source": "Hacker News",
+    "description": "HN Score: 135 | 51 comments",
+    "url": "https://insurancewatchdogcoalition.com/wp-content/uploads/2026/08/UHG-Profits-Study_August-2026.pdf",
+    "score": 135,
+    "date": "2026-08-26",
+    "category": "AI News"
+  },
+  {
+    "title": "It\u2019s so hard to finish an idea that is not yours and is just suggested by AI",
+    "source": "Hacker News",
+    "description": "HN Score: 102 | 62 comments",
     "url": "https://www.ssp.sh/brain/using-obsidian-with-ai/",
-    "score": 32,
+    "score": 102,
     "date": "2026-08-26",
     "category": "AI News"
   },
   {
-    "title": "WebMCP: Teaching Your Website to Talk to AI Agents",
+    "title": "PageRank explained",
     "source": "Hacker News",
-    "description": "HN Score: 44 | 36 comments",
-    "url": "https://sreenathmenon.com/blog/2026-08-04-webmcp-teaching-websites-to-talk-to-ai-agents/",
-    "score": 44,
-    "date": "2026-08-26",
-    "category": "AI News"
-  },
-  {
-    "title": "The turbulent AI era is here",
-    "source": "Hacker News",
-    "description": "HN Score: 14 | 1 comments",
-    "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
-    "score": 14,
-    "date": "2026-08-26",
-    "category": "AI News"
-  },
-  {
-    "title": "Show HN: How much of Hacker News is AI?",
-    "source": "Hacker News",
-    "description": "HN Score: 43 | 32 comments",
-    "url": "https://hnstats.com",
-    "score": 43,
-    "date": "2026-08-26",
-    "category": "AI News"
-  },
-  {
-    "title": "AurionMail: E2EE suite (CryptPad/Stalwart) with single-password UX",
-    "source": "Hacker News",
-    "description": "HN Score: 25 | 2 comments",
-    "url": "https://github.com/AurionMail/docs",
-    "score": 25,
+    "description": "HN Score: 88 | 66 comments",
+    "url": "https://praveshkoirala.com/2026/08/26/you-could-have-invented-pagerank/",
+    "score": 88,
     "date": "2026-08-26",
     "category": "AI News"
   },
   {
     "title": "VMs won't contain cyber-capable agents",
     "source": "Hacker News",
-    "description": "HN Score: 12 | 0 comments",
+    "description": "HN Score: 108 | 78 comments",
     "url": "https://blog.trailofbits.com/2026/08/26/vms-wont-contain-cyber-capable-agents/",
-    "score": 12,
+    "score": 108,
     "date": "2026-08-26",
     "category": "AI News"
   },
   {
     "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
     "source": "Hacker News",
-    "description": "HN Score: 377 | 132 comments",
+    "description": "HN Score: 394 | 136 comments",
     "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
-    "score": 377,
+    "score": 394,
     "date": "2026-08-26",
     "category": "AI News"
   },
   {
-    "title": "US sanctions Italian hosting provider for encrypted email to Antifa and PKK",
+    "title": "The turbulent AI era is here",
     "source": "Hacker News",
-    "description": "HN Score: 18 | 0 comments",
-    "url": "https://home.treasury.gov/news/press-releases/sb0616",
+    "description": "HN Score: 106 | 85 comments",
+    "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
+    "score": 106,
+    "date": "2026-08-26",
+    "category": "AI News"
+  },
+  {
+    "title": "The turbulent AI era is here. The choices we make now are critical",
+    "source": "Hacker News",
+    "description": "HN Score: 9 | 7 comments",
+    "url": "https://www.gatesnotes.com/home/home-page-topic/reader/a-turbulent-ai-era-and-critical-choices-to-make",
+    "score": 9,
+    "date": "2026-08-26",
+    "category": "AI News"
+  },
+  {
+    "title": "Show HN: Timber (iOS) and Timber Tabs (Mac) \u2013 best offline read-aloud LLMs",
+    "source": "Hacker News",
+    "description": "HN Score: 5 | 0 comments",
+    "url": "https://timberreader.com/",
+    "score": 5,
+    "date": "2026-08-26",
+    "category": "AI News"
+  },
+  {
+    "title": "'Famous Deep Learning Papers', David Bau",
+    "source": "Hacker News",
+    "description": "HN Score: 18 | 4 comments",
+    "url": "https://papers.baulab.info/",
     "score": 18,
-    "date": "2026-08-26",
-    "category": "AI News"
-  },
-  {
-    "title": "One endpoint between your AI and all your connections, memory, skills",
-    "source": "Hacker News",
-    "description": "HN Score: 8 | 1 comments",
-    "url": "https://github.com/lanes-sh/link",
-    "score": 8,
     "date": "2026-08-26",
     "category": "AI News"
   }
