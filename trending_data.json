@@ -1,64 +1,82 @@
 [
   {
+    "title": "It's so hard to finish an idea that is not yours (and suggested by AI)",
+    "source": "Hacker News",
+    "description": "HN Score: 32 | 12 comments",
+    "url": "https://www.ssp.sh/brain/using-obsidian-with-ai/",
+    "score": 32,
+    "date": "2026-08-26",
+    "category": "AI News"
+  },
+  {
+    "title": "WebMCP: Teaching Your Website to Talk to AI Agents",
+    "source": "Hacker News",
+    "description": "HN Score: 44 | 36 comments",
+    "url": "https://sreenathmenon.com/blog/2026-08-04-webmcp-teaching-websites-to-talk-to-ai-agents/",
+    "score": 44,
+    "date": "2026-08-26",
+    "category": "AI News"
+  },
+  {
+    "title": "The turbulent AI era is here",
+    "source": "Hacker News",
+    "description": "HN Score: 14 | 1 comments",
+    "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
+    "score": 14,
+    "date": "2026-08-26",
+    "category": "AI News"
+  },
+  {
+    "title": "Show HN: How much of Hacker News is AI?",
+    "source": "Hacker News",
+    "description": "HN Score: 43 | 32 comments",
+    "url": "https://hnstats.com",
+    "score": 43,
+    "date": "2026-08-26",
+    "category": "AI News"
+  },
+  {
+    "title": "AurionMail: E2EE suite (CryptPad/Stalwart) with single-password UX",
+    "source": "Hacker News",
+    "description": "HN Score: 25 | 2 comments",
+    "url": "https://github.com/AurionMail/docs",
+    "score": 25,
+    "date": "2026-08-26",
+    "category": "AI News"
+  },
+  {
+    "title": "VMs won't contain cyber-capable agents",
+    "source": "Hacker News",
+    "description": "HN Score: 12 | 0 comments",
+    "url": "https://blog.trailofbits.com/2026/08/26/vms-wont-contain-cyber-capable-agents/",
+    "score": 12,
+    "date": "2026-08-26",
+    "category": "AI News"
+  },
+  {
     "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
     "source": "Hacker News",
-    "description": "HN Score: 316 | 117 comments",
+    "description": "HN Score: 377 | 132 comments",
     "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
-    "score": 316,
+    "score": 377,
     "date": "2026-08-26",
     "category": "AI News"
   },
   {
-    "title": "AI Is a Harsh Mistress",
+    "title": "US sanctions Italian hosting provider for encrypted email to Antifa and PKK",
     "source": "Hacker News",
-    "description": "HN Score: 5 | 0 comments",
-    "url": "https://cacm.acm.org/opinion/ai-is-a-harsh-mistress-on-anima-machina-herd-acceptance-and-the-politics-of-conscious-machines/",
-    "score": 5,
+    "description": "HN Score: 18 | 0 comments",
+    "url": "https://home.treasury.gov/news/press-releases/sb0616",
+    "score": 18,
     "date": "2026-08-26",
     "category": "AI News"
   },
   {
-    "title": "OpenAI Jalape\u00f1o: Better than Nvidia Blackwell",
+    "title": "One endpoint between your AI and all your connections, memory, skills",
     "source": "Hacker News",
-    "description": "HN Score: 551 | 347 comments",
-    "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
-    "score": 551,
-    "date": "2026-08-26",
-    "category": "AI News"
-  },
-  {
-    "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
-    "source": "Hacker News",
-    "description": "HN Score: 104 | 63 comments",
-    "url": "https://github.com/runetes/maiao",
-    "score": 104,
-    "date": "2026-08-26",
-    "category": "AI News"
-  },
-  {
-    "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
-    "source": "Hacker News",
-    "description": "HN Score: 108 | 26 comments",
-    "url": "https://github.com/swimmingbrain/texbrain",
-    "score": 108,
-    "date": "2026-08-26",
-    "category": "AI News"
-  },
-  {
-    "title": "Agentic Context Management: Memory and Cost as Architecture Problems",
-    "source": "Hacker News",
-    "description": "HN Score: 73 | 26 comments",
-    "url": "https://arxiv.org/abs/2607.21503",
-    "score": 73,
-    "date": "2026-08-26",
-    "category": "AI News"
-  },
-  {
-    "title": "Meta agrees multi-billion settlement to claims that its platforms harm children",
-    "source": "Hacker News",
-    "description": "HN Score: 6 | 1 comments",
-    "url": "https://www.bbc.co.uk/news/live/cy5v0vrlp4xt",
-    "score": 6,
+    "description": "HN Score: 8 | 1 comments",
+    "url": "https://github.com/lanes-sh/link",
+    "score": 8,
     "date": "2026-08-26",
     "category": "AI News"
   }
