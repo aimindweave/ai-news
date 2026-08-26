@@ -1,91 +1,91 @@
 [
   {
-    "title": "Tailcat",
+    "title": "Tailcat \u2013 Like netcat, but over Tailscale\u2019s data plane",
     "source": "Hacker News",
-    "description": "HN Score: 222 | 37 comments",
+    "description": "HN Score: 424 | 79 comments",
     "url": "https://github.com/tailscale/tailcat",
-    "score": 222,
+    "score": 424,
     "date": "2026-08-26",
     "category": "AI News"
   },
   {
-    "title": "Study Reveals UnitedHealth's Profit Margins Four Times What It Claimed [pdf]",
+    "title": "Serve Markdown to AI Agents with Accept Headers",
     "source": "Hacker News",
-    "description": "HN Score: 135 | 51 comments",
-    "url": "https://insurancewatchdogcoalition.com/wp-content/uploads/2026/08/UHG-Profits-Study_August-2026.pdf",
-    "score": 135,
-    "date": "2026-08-26",
-    "category": "AI News"
-  },
-  {
-    "title": "It\u2019s so hard to finish an idea that is not yours and is just suggested by AI",
-    "source": "Hacker News",
-    "description": "HN Score: 102 | 62 comments",
-    "url": "https://www.ssp.sh/brain/using-obsidian-with-ai/",
-    "score": 102,
-    "date": "2026-08-26",
-    "category": "AI News"
-  },
-  {
-    "title": "PageRank explained",
-    "source": "Hacker News",
-    "description": "HN Score: 88 | 66 comments",
-    "url": "https://praveshkoirala.com/2026/08/26/you-could-have-invented-pagerank/",
-    "score": 88,
-    "date": "2026-08-26",
-    "category": "AI News"
-  },
-  {
-    "title": "VMs won't contain cyber-capable agents",
-    "source": "Hacker News",
-    "description": "HN Score: 108 | 78 comments",
-    "url": "https://blog.trailofbits.com/2026/08/26/vms-wont-contain-cyber-capable-agents/",
-    "score": 108,
-    "date": "2026-08-26",
-    "category": "AI News"
-  },
-  {
-    "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
-    "source": "Hacker News",
-    "description": "HN Score: 394 | 136 comments",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
-    "score": 394,
+    "description": "HN Score: 66 | 27 comments",
+    "url": "https://acceptmarkdown.com/",
+    "score": 66,
     "date": "2026-08-26",
     "category": "AI News"
   },
   {
     "title": "The turbulent AI era is here",
     "source": "Hacker News",
-    "description": "HN Score: 106 | 85 comments",
+    "description": "HN Score: 133 | 111 comments",
     "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
-    "score": 106,
+    "score": 133,
+    "date": "2026-08-26",
+    "category": "AI News"
+  },
+  {
+    "title": "It\u2019s so hard to finish an idea that is not yours and is just suggested by AI",
+    "source": "Hacker News",
+    "description": "HN Score: 156 | 85 comments",
+    "url": "https://www.ssp.sh/brain/using-obsidian-with-ai/",
+    "score": 156,
+    "date": "2026-08-26",
+    "category": "AI News"
+  },
+  {
+    "title": "VMs won't contain cyber-capable agents",
+    "source": "Hacker News",
+    "description": "HN Score: 131 | 110 comments",
+    "url": "https://blog.trailofbits.com/2026/08/26/vms-wont-contain-cyber-capable-agents/",
+    "score": 131,
+    "date": "2026-08-26",
+    "category": "AI News"
+  },
+  {
+    "title": "PageRank explained",
+    "source": "Hacker News",
+    "description": "HN Score: 113 | 80 comments",
+    "url": "https://praveshkoirala.com/2026/08/26/you-could-have-invented-pagerank/",
+    "score": 113,
+    "date": "2026-08-26",
+    "category": "AI News"
+  },
+  {
+    "title": "Show HN: We built the smallest dual-band aircraft tracker",
+    "source": "Hacker News",
+    "description": "HN Score: 17 | 2 comments",
+    "url": "https://pantsforbirds.com/the-worlds-smallest-dual-band-ads-b-receiver-module/",
+    "score": 17,
+    "date": "2026-08-26",
+    "category": "AI News"
+  },
+  {
+    "title": "A Thread-Register Decoupled GPU Execution Model for Efficient Tensor Computation",
+    "source": "Hacker News",
+    "description": "HN Score: 14 | 0 comments",
+    "url": "https://arxiv.org/abs/2608.19628",
+    "score": 14,
+    "date": "2026-08-26",
+    "category": "AI News"
+  },
+  {
+    "title": "WebMCP Challenge \u2013 OpenAI",
+    "source": "Hacker News",
+    "description": "HN Score: 13 | 4 comments",
+    "url": "https://openai.com/webmcp-challenge/",
+    "score": 13,
     "date": "2026-08-26",
     "category": "AI News"
   },
   {
     "title": "The turbulent AI era is here. The choices we make now are critical",
     "source": "Hacker News",
-    "description": "HN Score: 9 | 7 comments",
-    "url": "https://www.gatesnotes.com/home/home-page-topic/reader/a-turbulent-ai-era-and-critical-choices-to-make",
-    "score": 9,
-    "date": "2026-08-26",
-    "category": "AI News"
-  },
-  {
-    "title": "Show HN: Timber (iOS) and Timber Tabs (Mac) \u2013 best offline read-aloud LLMs",
-    "source": "Hacker News",
-    "description": "HN Score: 5 | 0 comments",
-    "url": "https://timberreader.com/",
-    "score": 5,
-    "date": "2026-08-26",
-    "category": "AI News"
-  },
-  {
-    "title": "'Famous Deep Learning Papers', David Bau",
-    "source": "Hacker News",
-    "description": "HN Score: 18 | 4 comments",
-    "url": "https://papers.baulab.info/",
-    "score": 18,
+    "description": "HN Score: 11 | 1 comments",
+    "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med",
+    "score": 11,
     "date": "2026-08-26",
     "category": "AI News"
   }
