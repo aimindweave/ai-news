@@ -1,73 +1,64 @@
 [
   {
-    "title": "OpenAI Jalape\u00f1o: Better than Nvidia Blackwell",
+    "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
     "source": "Hacker News",
-    "description": "HN Score: 493 | 317 comments",
-    "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
-    "score": 493,
+    "description": "HN Score: 210 | 89 comments",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
+    "score": 210,
     "date": "2026-08-26",
     "category": "AI News"
   },
   {
-    "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
+    "title": "OpenAI Jalape\u00f1o: Better than Nvidia Blackwell",
     "source": "Hacker News",
-    "description": "HN Score: 16 | 2 comments",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
-    "score": 16,
+    "description": "HN Score: 526 | 334 comments",
+    "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+    "score": 526,
+    "date": "2026-08-26",
+    "category": "AI News"
+  },
+  {
+    "title": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
+    "source": "Hacker News",
+    "description": "HN Score: 19 | 0 comments",
+    "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
+    "score": 19,
     "date": "2026-08-26",
     "category": "AI News"
   },
   {
     "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
     "source": "Hacker News",
-    "description": "HN Score: 83 | 50 comments",
+    "description": "HN Score: 96 | 58 comments",
     "url": "https://github.com/runetes/maiao",
-    "score": 83,
+    "score": 96,
     "date": "2026-08-26",
     "category": "AI News"
   },
   {
     "title": "Agentic Context Management: Memory and Cost as Architecture Problems",
     "source": "Hacker News",
-    "description": "HN Score: 57 | 20 comments",
+    "description": "HN Score: 68 | 24 comments",
     "url": "https://arxiv.org/abs/2607.21503",
-    "score": 57,
-    "date": "2026-08-26",
-    "category": "AI News"
-  },
-  {
-    "title": "Clara (YC P26) is hiring a growth engineer to bring AI doctors to market",
-    "source": "Hacker News",
-    "description": "HN Score: 1 | 0 comments",
-    "url": "https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer",
-    "score": 1,
+    "score": 68,
     "date": "2026-08-26",
     "category": "AI News"
   },
   {
     "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
     "source": "Hacker News",
-    "description": "HN Score: 101 | 21 comments",
+    "description": "HN Score: 105 | 24 comments",
     "url": "https://github.com/swimmingbrain/texbrain",
-    "score": 101,
+    "score": 105,
     "date": "2026-08-26",
     "category": "AI News"
   },
   {
     "title": "Training AI to Paint with Code",
     "source": "Hacker News",
-    "description": "HN Score: 209 | 25 comments",
+    "description": "HN Score: 211 | 26 comments",
     "url": "https://surya.website/rling-qwen-to-paint-with-code",
-    "score": 209,
-    "date": "2026-08-26",
-    "category": "AI News"
-  },
-  {
-    "title": "How to Build a McKinsey-Style PowerPoint with AI: 8 Rules for Consulting Slides",
-    "source": "Hacker News",
-    "description": "HN Score: 5 | 0 comments",
-    "url": "https://medium.com/@2315610426/how-to-build-a-mckinsey-style-powerpoint-with-ai-8-simple-rules-for-consulting-grade-slides-a58c009dcb72",
-    "score": 5,
+    "score": 211,
     "date": "2026-08-26",
     "category": "AI News"
   }
