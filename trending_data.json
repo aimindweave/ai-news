@@ -2,91 +2,82 @@
   {
     "title": "Tailcat \u2013 Like netcat, but over Tailscale\u2019s data plane",
     "source": "Hacker News",
-    "description": "HN Score: 424 | 79 comments",
+    "description": "HN Score: 565 | 100 comments",
     "url": "https://github.com/tailscale/tailcat",
-    "score": 424,
-    "date": "2026-08-26",
+    "score": 565,
+    "date": "2026-08-27",
     "category": "AI News"
   },
   {
-    "title": "Serve Markdown to AI Agents with Accept Headers",
+    "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
     "source": "Hacker News",
-    "description": "HN Score: 66 | 27 comments",
-    "url": "https://acceptmarkdown.com/",
-    "score": 66,
-    "date": "2026-08-26",
+    "description": "HN Score: 534 | 346 comments",
+    "url": "https://github.com/SenteLabsAI/OpenExecutive",
+    "score": 534,
+    "date": "2026-08-27",
+    "category": "AI News"
+  },
+  {
+    "title": "Laion Big Video Dataset",
+    "source": "Hacker News",
+    "description": "HN Score: 57 | 16 comments",
+    "url": "https://projects.laion.ai/bvd/",
+    "score": 57,
+    "date": "2026-08-27",
     "category": "AI News"
   },
   {
     "title": "The turbulent AI era is here",
     "source": "Hacker News",
-    "description": "HN Score: 133 | 111 comments",
+    "description": "HN Score: 238 | 215 comments",
     "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
-    "score": 133,
-    "date": "2026-08-26",
+    "score": 238,
+    "date": "2026-08-27",
+    "category": "AI News"
+  },
+  {
+    "title": "Serve Markdown to AI Agents with Accept Headers",
+    "source": "Hacker News",
+    "description": "HN Score: 128 | 73 comments",
+    "url": "https://acceptmarkdown.com/",
+    "score": 128,
+    "date": "2026-08-27",
+    "category": "AI News"
+  },
+  {
+    "title": "Getting video models to learn better, faster",
+    "source": "Hacker News",
+    "description": "HN Score: 25 | 9 comments",
+    "url": "https://www.linum.ai/field-notes/data-filtering-gen-video",
+    "score": 25,
+    "date": "2026-08-27",
     "category": "AI News"
   },
   {
     "title": "It\u2019s so hard to finish an idea that is not yours and is just suggested by AI",
     "source": "Hacker News",
-    "description": "HN Score: 156 | 85 comments",
+    "description": "HN Score: 214 | 115 comments",
     "url": "https://www.ssp.sh/brain/using-obsidian-with-ai/",
-    "score": 156,
-    "date": "2026-08-26",
+    "score": 214,
+    "date": "2026-08-27",
     "category": "AI News"
   },
   {
     "title": "VMs won't contain cyber-capable agents",
     "source": "Hacker News",
-    "description": "HN Score: 131 | 110 comments",
+    "description": "HN Score: 163 | 121 comments",
     "url": "https://blog.trailofbits.com/2026/08/26/vms-wont-contain-cyber-capable-agents/",
-    "score": 131,
-    "date": "2026-08-26",
+    "score": 163,
+    "date": "2026-08-27",
     "category": "AI News"
   },
   {
     "title": "PageRank explained",
     "source": "Hacker News",
-    "description": "HN Score: 113 | 80 comments",
+    "description": "HN Score: 131 | 86 comments",
     "url": "https://praveshkoirala.com/2026/08/26/you-could-have-invented-pagerank/",
-    "score": 113,
-    "date": "2026-08-26",
-    "category": "AI News"
-  },
-  {
-    "title": "Show HN: We built the smallest dual-band aircraft tracker",
-    "source": "Hacker News",
-    "description": "HN Score: 17 | 2 comments",
-    "url": "https://pantsforbirds.com/the-worlds-smallest-dual-band-ads-b-receiver-module/",
-    "score": 17,
-    "date": "2026-08-26",
-    "category": "AI News"
-  },
-  {
-    "title": "A Thread-Register Decoupled GPU Execution Model for Efficient Tensor Computation",
-    "source": "Hacker News",
-    "description": "HN Score: 14 | 0 comments",
-    "url": "https://arxiv.org/abs/2608.19628",
-    "score": 14,
-    "date": "2026-08-26",
-    "category": "AI News"
-  },
-  {
-    "title": "WebMCP Challenge \u2013 OpenAI",
-    "source": "Hacker News",
-    "description": "HN Score: 13 | 4 comments",
-    "url": "https://openai.com/webmcp-challenge/",
-    "score": 13,
-    "date": "2026-08-26",
-    "category": "AI News"
-  },
-  {
-    "title": "The turbulent AI era is here. The choices we make now are critical",
-    "source": "Hacker News",
-    "description": "HN Score: 11 | 1 comments",
-    "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med",
-    "score": 11,
-    "date": "2026-08-26",
+    "score": 131,
+    "date": "2026-08-27",
     "category": "AI News"
   }
 ]
