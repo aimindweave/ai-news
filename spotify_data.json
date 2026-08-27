@@ -93,6 +93,16 @@
   ],
   "episodes": [
     {
+      "id": "a]6z Pod_0",
+      "name": "Inside Cursor: The Anatomy of a Generational Startup",
+      "show": "a]6z Podcast",
+      "description": "a16z General Partners Martin Casado, Sarah Wang, and Matt Bornstein unpack the story of Cursor: how a small, product-obsessed team entered one of the most competitive markets in technology, took on",
+      "release_date": "2026-08-27",
+      "duration_min": 39,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
       "id": "Lex Frid_0",
       "name": "#501 – DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux",
       "show": "Lex Fridman Podcast",
@@ -113,7 +123,7 @@
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
     },
     {
-      "id": "a]6z Pod_0",
+      "id": "a]6z Pod_1",
       "name": "The State of AI: Macro, Apps, and Consumer",
       "show": "a]6z Podcast",
       "description": "Anish Acharya joins Jen Kha to break down the next frontier of AI, from the evolving model landscape and open-source AI to why the application layer, and consumer AI in particular, may be entering ",
@@ -133,22 +143,12 @@
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "The New Economics of AI | Martin Casado & Steven Sinofsky",
       "show": "a]6z Podcast",
       "description": "a16z General Partners Martin Casado and Erik Torenberg are joined by Board Partner Steven Sinofsky to explore what recent breakthroughs in AI and mathematics tell us about where the technology is h",
       "release_date": "2026-08-25",
       "duration_min": 63,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
-    },
-    {
-      "id": "a]6z Pod_2",
-      "name": "Why Medical AI Needs a Referee | Protege's Engy Ziedan",
-      "show": "a]6z Podcast",
-      "description": "Daisy Wolf and Eva Steinman are joined by Engy Ziedan, co-founder and Chief Scientific Officer of Protege, to discuss why medical AI has a measurement problem, and why scoring well on a benchmark d",
-      "release_date": "2026-08-24",
-      "duration_min": 35,
       "image": "",
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },

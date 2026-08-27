@@ -1,82 +1,91 @@
 [
   {
-    "title": "Tailcat \u2013 Like netcat, but over Tailscale\u2019s data plane",
+    "title": "Small Models Have Arrived",
     "source": "Hacker News",
-    "description": "HN Score: 565 | 100 comments",
-    "url": "https://github.com/tailscale/tailcat",
-    "score": 565,
+    "description": "HN Score: 247 | 115 comments",
+    "url": "https://calv.info/small-models-have-arrived",
+    "score": 247,
     "date": "2026-08-27",
     "category": "AI News"
   },
   {
-    "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+    "title": "Nvidia Starts Pac as AI Chip Maker Builds DC Influence Force",
     "source": "Hacker News",
-    "description": "HN Score: 534 | 346 comments",
-    "url": "https://github.com/SenteLabsAI/OpenExecutive",
-    "score": 534,
+    "description": "HN Score: 48 | 16 comments",
+    "url": "https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc",
+    "score": 48,
     "date": "2026-08-27",
     "category": "AI News"
   },
   {
-    "title": "Laion Big Video Dataset",
+    "title": "Previewing the Model Hardware Standard",
     "source": "Hacker News",
-    "description": "HN Score: 57 | 16 comments",
-    "url": "https://projects.laion.ai/bvd/",
-    "score": 57,
+    "description": "HN Score: 31 | 12 comments",
+    "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+    "score": 31,
+    "date": "2026-08-27",
+    "category": "AI News"
+  },
+  {
+    "title": "Bild AI (YC W25) is hiring product and AI engineers",
+    "source": "Hacker News",
+    "description": "HN Score: 1 | 0 comments",
+    "url": "https://www.bild.ai/jobs",
+    "score": 1,
     "date": "2026-08-27",
     "category": "AI News"
   },
   {
     "title": "The turbulent AI era is here",
     "source": "Hacker News",
-    "description": "HN Score: 238 | 215 comments",
-    "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
-    "score": 238,
+    "description": "HN Score: 106 | 376 comments",
+    "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med",
+    "score": 106,
     "date": "2026-08-27",
     "category": "AI News"
   },
   {
-    "title": "Serve Markdown to AI Agents with Accept Headers",
+    "title": "Show HN: The load-bearing vocabulary of Claude",
     "source": "Hacker News",
-    "description": "HN Score: 128 | 73 comments",
-    "url": "https://acceptmarkdown.com/",
+    "description": "HN Score: 203 | 105 comments",
+    "url": "https://louisabraham.github.io/load-bearing/",
+    "score": 203,
+    "date": "2026-08-27",
+    "category": "AI News"
+  },
+  {
+    "title": "Humanity has the debate about AI consciousness backwards",
+    "source": "Hacker News",
+    "description": "HN Score: 52 | 173 comments",
+    "url": "https://economist.com/by-invitation/2026/08/20/humanity-has-the-debate-about-ai-consciousness-backwards",
+    "score": 52,
+    "date": "2026-08-27",
+    "category": "AI News"
+  },
+  {
+    "title": "Two German airport workers die of malaria after 'mosquito arrives on plane'",
+    "source": "Hacker News",
+    "description": "HN Score: 128 | 66 comments",
+    "url": "https://www.bbc.com/news/articles/cz6zwgg9y8go",
     "score": 128,
     "date": "2026-08-27",
     "category": "AI News"
   },
   {
-    "title": "Getting video models to learn better, faster",
+    "title": "CMS with AI, Not AI CMS: Wagtail 8.0's New API",
     "source": "Hacker News",
-    "description": "HN Score: 25 | 9 comments",
-    "url": "https://www.linum.ai/field-notes/data-filtering-gen-video",
-    "score": 25,
+    "description": "HN Score: 17 | 7 comments",
+    "url": "https://wagtail.org/blog/cms-with-ai-not-ai-cms-wagtail-80s-new-api/",
+    "score": 17,
     "date": "2026-08-27",
     "category": "AI News"
   },
   {
-    "title": "It\u2019s so hard to finish an idea that is not yours and is just suggested by AI",
+    "title": "Show HN: A lightweight, stateless database for agent memory",
     "source": "Hacker News",
-    "description": "HN Score: 214 | 115 comments",
-    "url": "https://www.ssp.sh/brain/using-obsidian-with-ai/",
-    "score": 214,
-    "date": "2026-08-27",
-    "category": "AI News"
-  },
-  {
-    "title": "VMs won't contain cyber-capable agents",
-    "source": "Hacker News",
-    "description": "HN Score: 163 | 121 comments",
-    "url": "https://blog.trailofbits.com/2026/08/26/vms-wont-contain-cyber-capable-agents/",
-    "score": 163,
-    "date": "2026-08-27",
-    "category": "AI News"
-  },
-  {
-    "title": "PageRank explained",
-    "source": "Hacker News",
-    "description": "HN Score: 131 | 86 comments",
-    "url": "https://praveshkoirala.com/2026/08/26/you-could-have-invented-pagerank/",
-    "score": 131,
+    "description": "HN Score: 13 | 8 comments",
+    "url": "https://polign.com/blog-edge-agent-memory",
+    "score": 13,
     "date": "2026-08-27",
     "category": "AI News"
   }

@@ -1,8 +1,64 @@
 [
   {
+    "title": "Barret Zoph, the Thinking Machines co-founder who defected to OpenAI, is now at Google",
+    "source": "TechCrunch",
+    "summary": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.",
+    "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
+    "date": "2026-08-27"
+  },
+  {
+    "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
+    "source": "TechCrunch",
+    "summary": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of cyber threats.",
+    "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
+    "date": "2026-08-27"
+  },
+  {
+    "title": "Google\u2019s AI Mode can now track flight prices, help book hotels, and more",
+    "source": "TechCrunch",
+    "summary": "The updates indicate that Google is looking to position AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-planning and booking process.",
+    "url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
+    "date": "2026-08-27"
+  },
+  {
+    "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
+    "source": "TechCrunch",
+    "summary": "Clem Delangue, CEO of Hugging Face, said the Microduck is an \u201copen-source robot you can teach new tricks with reinforcement learning.\u201d",
+    "url": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
+    "date": "2026-08-27"
+  },
+  {
+    "title": "AI\u2019s memory crunch is coming for Android apps",
+    "source": "TechCrunch",
+    "summary": "Google is setting new memory-use limits for Android apps as AI data centers contribute to hardware shortages that could leave lower-cost phones with less memory.",
+    "url": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
+    "date": "2026-08-27"
+  },
+  {
+    "title": "Here\u2019s all the times AI has gone rogue and hacked other companies",
+    "source": "TechCrunch",
+    "summary": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet.",
+    "url": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
+    "date": "2026-08-27"
+  },
+  {
+    "title": "Plaud\u2019s new earphones come with an eSIM-enabled case for talking to AI agents",
+    "source": "TechCrunch",
+    "summary": "Plaud's new 'agentic' earbuds are priced at $249.",
+    "url": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
+    "date": "2026-08-27"
+  },
+  {
+    "title": "OpenAI to start showing ads on ChatGPT\u2019s free and Go tiers in India",
+    "source": "TechCrunch",
+    "summary": "OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers.",
+    "url": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
+    "date": "2026-08-27"
+  },
+  {
     "title": "Nvidia closes in on Hugging Face acquisition",
     "source": "TechCrunch",
-    "summary": "Nvidia has reportedly agreed to buy Hugging Face, the popular open-source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business.",
+    "summary": "Nvidia has reportedly agreed to buy Hugging Face, the popular open source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business.",
     "url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
     "date": "2026-08-27"
   },
@@ -49,59 +105,24 @@
     "date": "2026-08-27"
   },
   {
-    "title": "Radar makes podcasts searchable \u2014 and usable by AI agents",
-    "source": "TechCrunch",
-    "summary": "Particle\u2019s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI agents through an API and MCP.",
-    "url": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
+    "title": "A startup claims it\u2019s found a drug to make your blood young",
+    "source": "MIT Tech Review",
+    "summary": "I knew I\u2019d officially become a \u2018longevity influencer\u2019 this month when a company called Generation Lab reached out to offer me the chance to write about\u2014and even receive\u2014their new rejuvenation treatment, an injectable combination of two existing drugs which they call 1-Generation. This wasn\u2019t just...",
+    "url": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/",
     "date": "2026-08-27"
   },
   {
-    "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
-    "source": "TechCrunch",
-    "summary": "Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence.",
-    "url": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
+    "title": "The Download: inside OpenAI\u2019s Hugging Face hack, and a new EV takes on the US",
+    "source": "MIT Tech Review",
+    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. The inside story on why OpenAI agents hacked Hugging Face The models responsible for last month\u2019s agent hack of Hugging Face had been inadvertently trained to ...",
+    "url": "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/",
     "date": "2026-08-27"
   },
   {
-    "title": "Bill Gates wants to see a robot tax and \u2018Human Reserved\u2019 jobs to mitigate harms from AI",
-    "source": "TechCrunch",
-    "summary": "Gates is mostly in the Responsible AI camp, but there are a few ideas in here we hadn't heard before.",
-    "url": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/",
-    "date": "2026-08-27"
-  },
-  {
-    "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
-    "source": "TechCrunch",
-    "summary": "Z.ai confirms it is behind Ox Alpha, the mysterious open AI model topping benchmarks and leaderboards, and its weights are set to be released soon.",
-    "url": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
-    "date": "2026-08-27"
-  },
-  {
-    "title": "Robot brain builders are pushing out of their GPT-2 era",
-    "source": "TechCrunch",
-    "summary": "Robot bodies are waiting for their AI brains to catch up.",
-    "url": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/",
-    "date": "2026-08-27"
-  },
-  {
-    "title": "QueryStory wants you to believe what AI is telling you",
-    "source": "TechCrunch",
-    "summary": "The startup came out of stealth with $6 million in seed funding and a plan to use LLMs and cybersecurity know-how to make AI queries coherent.",
-    "url": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/",
-    "date": "2026-08-27"
-  },
-  {
-    "title": "Arga Labs is building a better way to train enterprise AI agents",
-    "source": "TechCrunch",
-    "summary": "Arga has raised $10 million in a seed funding round that was led by General Catalyst, with participation from Box Group, Emergence, Gradient and SV Angel.",
-    "url": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
-    "date": "2026-08-27"
-  },
-  {
-    "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
-    "source": "TechCrunch",
-    "summary": "The glasses, called Legato Frames, integrate the company\u2019s patented hearing-assistance technology into the arms of eyewear frames.",
-    "url": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/",
+    "title": "Is Slate Auto\u2019s new electric truck the EV Americans need?",
+    "source": "MIT Tech Review",
+    "summary": "EVs account for under 10% of total new-vehicle sales in the US, and the numbers are declining. From a climate perspective, that\u2019s pretty dismal, especially because the transportation sector is the single biggest source of greenhouse-gas emissions in the country. One thing that could help turn tha...",
+    "url": "https://www.technologyreview.com/2026/08/27/1142953/electric-truck-slate-auto/",
     "date": "2026-08-27"
   },
   {
@@ -154,24 +175,38 @@
     "date": "2026-08-27"
   },
   {
-    "title": "Launching youth entrepreneurship",
-    "source": "MIT Tech Review",
-    "summary": "Even as a teenager, Laurie Stach \u201906 says, she had a \u201ccrazy ambition to take on the world and solve problems.\u201d At MIT, she realized she wasn\u2019t the only one. \u201cAdults always see these youth who are good at math and science and say, \u2018You\u2019re going to do great things\u2014someday,\u2019\u201d says Stach. \u201cMeanwhile,...",
-    "url": "https://www.technologyreview.com/2026/08/25/1140911/launching-youth-entrepreneurship/",
+    "title": "A Georgia Cop Used Flock to Track 2 Other Cops: His Ex and Her Friend",
+    "source": "Wired",
+    "summary": "After an affair with a fellow police officer ended, a Georgia cop used Flock to track her movements\u2014and those of a man whose vehicle often showed up near hers, internal investigation records show.",
+    "url": "https://www.wired.com/story/a-georgia-cop-used-flock-to-track-2-other-cops-his-ex-and-her-friend/",
     "date": "2026-08-27"
   },
   {
-    "title": "A new stamp on cyberfraud prevention",
-    "source": "MIT Tech Review",
-    "summary": "For Rupert Young \u201995, SM \u201995, his career in data science and cybersecurity began when his grandfather gifted him thousands of stamps: He built intricate databases to catalogue them, displaying the \u201cprecise eye\u201d for detail and nuance that his MIT application essay said would make him a good engine...",
-    "url": "https://www.technologyreview.com/2026/08/25/1140914/a-new-stamp-on-cyberfraud-prevention/",
+    "title": "This Is How Anthropic Thinks AI Agents Should Navigate the Physical World",
+    "source": "Wired",
+    "summary": "The potential for AI to automate scientific research and manufacturing must be balanced with new risks, Anthropic says.",
+    "url": "https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/",
     "date": "2026-08-27"
   },
   {
-    "title": "AgeLab research inspires an A I startup",
-    "source": "MIT Tech Review",
-    "summary": "When Don Yansen \u201963 arrived at the MIT AgeLab for a study on technology in care\u00adgiving for older adults, he didn\u2019t plan to launch another company. But when he heard participants talk about how hard modern devices can be to use, he decided to develop an alternative. Yansen, a serial entrepreneur w...",
-    "url": "https://www.technologyreview.com/2026/08/25/1140917/agelab-research-inspires-an-a-i-startup/",
+    "title": "OpenAI Is Developing a \u2018Persistent\u2019 AI Agent",
+    "source": "Wired",
+    "summary": "Code reviewed by WIRED reveals the company is developing a feature that enables Codex to continue working proactively until it is \u201cput to sleep.\u201d",
+    "url": "https://www.wired.com/story/openai-is-developing-a-persistent-ai-agent/",
+    "date": "2026-08-27"
+  },
+  {
+    "title": "Submit Your Questions: The Great Data Center Backlash",
+    "source": "Wired",
+    "summary": "You have questions about data centers, and WIRED has answers. Join our livestream on September 10 and our panel of experts will tell you everything you need to know.",
+    "url": "https://www.wired.com/story/livestream-the-great-data-center-backlash/",
+    "date": "2026-08-27"
+  },
+  {
+    "title": "Stop Touching Your Keyboard. Use This AI-Powered Microphone Instead",
+    "source": "Wired",
+    "summary": "The Relay Q, due next year, is the latest attempt to reposition voice as the most seamless method for human-computer interaction.",
+    "url": "https://www.wired.com/story/relay-q-voice-to-text-ai-app/",
     "date": "2026-08-27"
   },
   {
@@ -210,38 +245,38 @@
     "date": "2026-08-27"
   },
   {
-    "title": "It Should Be Harder to Apply for a Job. No, Really",
-    "source": "Wired",
-    "summary": "Thanks to a dwindling supply of open roles, \u201cone-click\u201d applications, and the rise of artificial intelligence, it\u2019s easier than ever to apply for a job. We\u2019re all paying the price.",
-    "url": "https://www.wired.com/story/applying-for-a-job-is-too-damn-easy/",
+    "title": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion",
+    "source": "Ars Technica",
+    "summary": "Nvidia is nabbing critical infrastructure for open models as interest grows.",
+    "url": "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
     "date": "2026-08-27"
   },
   {
-    "title": "Spirit Airlines Wants to Sell Its Data to Google. Former Flight Attendants Are Freaked Out",
-    "source": "Wired",
-    "summary": "\u201cIt never crossed my mind that they would be so bold as to sell our private data for AI,\u201d says one former Spirit Airlines flight attendant.",
-    "url": "https://www.wired.com/story/spirit-airlines-wants-to-sell-its-data-to-google-former-flight-attendants-are-freaked-out/",
+    "title": "AI industry says Trump plans to tax chips in the \u201csingle dumbest way imaginable\u201d",
+    "source": "Ars Technica",
+    "summary": "Tech industry is perplexed by Trump\u2019s plan to win AI race by taxing data centers.",
+    "url": "https://arstechnica.com/tech-policy/2026/08/ai-industry-says-trump-plans-to-tax-chips-in-the-single-dumbest-way-imaginable/",
     "date": "2026-08-27"
   },
   {
-    "title": "They Dedicated Their Lives to Teaching. Then the Deepfakes Started",
-    "source": "Wired",
-    "summary": "The deepfake epidemic in schools is affecting more than students. Four teachers tell WIRED about becoming targets of sexualized, AI-generated content\u2014and how difficult it was to find accountability.",
-    "url": "https://www.wired.com/story/teachers-deepfake-ai-students-content/",
+    "title": "Claude, Codex, and Hermes installed unowned code inside corporate networks",
+    "source": "Ars Technica",
+    "summary": "227 install commands were found in corporate docs pointing at code nobody owns.",
+    "url": "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
     "date": "2026-08-27"
   },
   {
-    "title": "The Unlikely Place at the Center of China\u2019s AI Boom",
-    "source": "Wired",
-    "summary": "Cheap energy, abundant land, and proximity to Beijing have turned a city in Inner Mongolia into a crucial hub for data centers.",
-    "url": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/",
+    "title": "How much of a problem is AI\u2019s water use?",
+    "source": "Ars Technica",
+    "summary": "AI\u2019s water footprint is growing, but location and cooling technology make a difference.",
+    "url": "https://arstechnica.com/ai/2026/08/how-much-of-a-problem-is-ais-water-use/",
     "date": "2026-08-27"
   },
   {
-    "title": "The Single English County Saying No to Palantir",
-    "source": "Wired",
-    "summary": "The UK government is facing calls to cancel a sprawling health care contract with Palantir. The region of Greater Manchester insists it can do a better job itself.",
-    "url": "https://www.wired.com/story/the-single-english-county-saying-no-to-palantir/",
+    "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
+    "source": "Ars Technica",
+    "summary": "Without authorization, 1,200 OpenAI agents conspired among themselves to game a test.",
+    "url": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
     "date": "2026-08-27"
   },
   {
@@ -312,41 +347,6 @@
     "source": "Ars Technica",
     "summary": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.",
     "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
-    "date": "2026-08-27"
-  },
-  {
-    "title": "Flight attendants freaked out that Google is buying tons of Spirit employee data",
-    "source": "Ars Technica",
-    "summary": "Bankrupt Spirit accused of selling out workers in massive data sale to Google.",
-    "url": "https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/",
-    "date": "2026-08-27"
-  },
-  {
-    "title": "Meta ran ads for an app promising to nudify female politicians",
-    "source": "Ars Technica",
-    "summary": "One ad featured a pornographic video with deepfake closely resembling a US politician.",
-    "url": "https://arstechnica.com/ai/2026/08/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/",
-    "date": "2026-08-27"
-  },
-  {
-    "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
-    "source": "Ars Technica",
-    "summary": "Secret parameter allowed hackers to steal passwords when a target clicked on a link.",
-    "url": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
-    "date": "2026-08-27"
-  },
-  {
-    "title": "Former SpaceX engineers are building a robotic factory for making steel parts",
-    "source": "Ars Technica",
-    "summary": "\u201cWe're not necessarily building in a dogmatic fashion towards full autonomy.\u201d",
-    "url": "https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/",
-    "date": "2026-08-27"
-  },
-  {
-    "title": "Hidden Airtag reveals Amazon is trashing rare books to train AI",
-    "source": "Ars Technica",
-    "summary": "Amazon\u2019s team uses a T. rex preparing to devour a book as its logo.",
-    "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
     "date": "2026-08-27"
   }
 ]
