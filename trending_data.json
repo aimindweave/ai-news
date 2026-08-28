@@ -2,91 +2,91 @@
   {
     "title": "Small Models Have Arrived",
     "source": "Hacker News",
-    "description": "HN Score: 247 | 115 comments",
+    "description": "HN Score: 573 | 260 comments",
     "url": "https://calv.info/small-models-have-arrived",
-    "score": 247,
-    "date": "2026-08-27",
+    "score": 573,
+    "date": "2026-08-28",
     "category": "AI News"
   },
   {
-    "title": "Nvidia Starts Pac as AI Chip Maker Builds DC Influence Force",
+    "title": "Please stop flooding our projects with AI slop to furnish your CV",
     "source": "Hacker News",
-    "description": "HN Score: 48 | 16 comments",
-    "url": "https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc",
-    "score": 48,
-    "date": "2026-08-27",
+    "description": "HN Score: 96 | 32 comments",
+    "url": "https://neilalexander.dev/2026/06/30/flooding-contributions",
+    "score": 96,
+    "date": "2026-08-28",
     "category": "AI News"
   },
   {
-    "title": "Previewing the Model Hardware Standard",
+    "title": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
     "source": "Hacker News",
-    "description": "HN Score: 31 | 12 comments",
-    "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
-    "score": 31,
-    "date": "2026-08-27",
+    "description": "HN Score: 62 | 16 comments",
+    "url": "https://www.terminal-bench-science.ai/announcement",
+    "score": 62,
+    "date": "2026-08-28",
     "category": "AI News"
   },
   {
-    "title": "Bild AI (YC W25) is hiring product and AI engineers",
+    "title": "Judge Rules Trump Administration\u2019s Blacklisting of Anthropic Was Illegal",
     "source": "Hacker News",
-    "description": "HN Score: 1 | 0 comments",
-    "url": "https://www.bild.ai/jobs",
-    "score": 1,
-    "date": "2026-08-27",
+    "description": "HN Score: 210 | 90 comments",
+    "url": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
+    "score": 210,
+    "date": "2026-08-28",
+    "category": "AI News"
+  },
+  {
+    "title": "Show HN: We built open OpenRouter that turns usage into a better model",
+    "source": "Hacker News",
+    "description": "HN Score: 153 | 26 comments",
+    "url": "https://github.com/experientiallabs/experiential",
+    "score": 153,
+    "date": "2026-08-28",
+    "category": "AI News"
+  },
+  {
+    "title": "AI Engineer Notebooks \u2013 free, framework-free RAG/agents/evals on Colab",
+    "source": "Hacker News",
+    "description": "HN Score: 79 | 9 comments",
+    "url": "https://github.com/calmrocks/ai-engineer-notebooks",
+    "score": 79,
+    "date": "2026-08-28",
     "category": "AI News"
   },
   {
     "title": "The turbulent AI era is here",
     "source": "Hacker News",
-    "description": "HN Score: 106 | 376 comments",
+    "description": "HN Score: 257 | 512 comments",
     "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med",
-    "score": 106,
-    "date": "2026-08-27",
+    "score": 257,
+    "date": "2026-08-28",
+    "category": "AI News"
+  },
+  {
+    "title": "Stripe said to abandon $50B pursuit of PayPal",
+    "source": "Hacker News",
+    "description": "HN Score: 86 | 34 comments",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-28/advent-stripe-consortium-is-said-to-drop-pursuit-of-paypal",
+    "score": 86,
+    "date": "2026-08-28",
     "category": "AI News"
   },
   {
     "title": "Show HN: The load-bearing vocabulary of Claude",
     "source": "Hacker News",
-    "description": "HN Score: 203 | 105 comments",
+    "description": "HN Score: 432 | 200 comments",
     "url": "https://louisabraham.github.io/load-bearing/",
-    "score": 203,
-    "date": "2026-08-27",
+    "score": 432,
+    "date": "2026-08-28",
     "category": "AI News"
   },
   {
-    "title": "Humanity has the debate about AI consciousness backwards",
+    "title": "Previewing the Model Hardware Standard",
     "source": "Hacker News",
-    "description": "HN Score: 52 | 173 comments",
-    "url": "https://economist.com/by-invitation/2026/08/20/humanity-has-the-debate-about-ai-consciousness-backwards",
-    "score": 52,
-    "date": "2026-08-27",
-    "category": "AI News"
-  },
-  {
-    "title": "Two German airport workers die of malaria after 'mosquito arrives on plane'",
-    "source": "Hacker News",
-    "description": "HN Score: 128 | 66 comments",
-    "url": "https://www.bbc.com/news/articles/cz6zwgg9y8go",
-    "score": 128,
-    "date": "2026-08-27",
-    "category": "AI News"
-  },
-  {
-    "title": "CMS with AI, Not AI CMS: Wagtail 8.0's New API",
-    "source": "Hacker News",
-    "description": "HN Score: 17 | 7 comments",
-    "url": "https://wagtail.org/blog/cms-with-ai-not-ai-cms-wagtail-80s-new-api/",
-    "score": 17,
-    "date": "2026-08-27",
-    "category": "AI News"
-  },
-  {
-    "title": "Show HN: A lightweight, stateless database for agent memory",
-    "source": "Hacker News",
-    "description": "HN Score: 13 | 8 comments",
-    "url": "https://polign.com/blog-edge-agent-memory",
-    "score": 13,
-    "date": "2026-08-27",
+    "description": "HN Score: 104 | 35 comments",
+    "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+    "score": 104,
+    "date": "2026-08-28",
     "category": "AI News"
   }
 ]
