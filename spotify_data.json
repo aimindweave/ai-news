@@ -93,7 +93,37 @@
   ],
   "episodes": [
     {
+      "id": "Hard For_0",
+      "name": "Meta Shifts the Blame + Do Data Center Bans Work? + The Final HatGPT",
+      "show": "Hard Fork",
+      "description": "This week, Meta agreed to pay up to $17.1 billion and make major changes to Facebook and Instagram over claims it endangered children with addictive social media platforms. We discuss why it capitu",
+      "release_date": "2026-08-28",
+      "duration_min": 62,
+      "image": "",
+      "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
+    },
+    {
+      "id": "Practica_0",
+      "name": "Building the Foundation for the Agentic AI Era",
+      "show": "Practical AI",
+      "description": "\n        How do we build an AI ecosystem where agents, tools, and systems can work together at scale? Angie Jones, VP of the Agentic AI Foundation, joins Chris to discuss the open standards and pro",
+      "release_date": "2026-08-28",
+      "duration_min": 45,
+      "image": "",
+      "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
+    },
+    {
       "id": "a]6z Pod_0",
+      "name": "The Infrastructure Behind the Machine Age",
+      "show": "a]6z Podcast",
+      "description": "Ben Horowitz, Martin Casado, Raghu Raghuram, and Erik Torenberg discuss the launch of a16z's new Machine Age Fund and the infrastructure buildout behind AI, from chips, memory, and networking to po",
+      "release_date": "2026-08-28",
+      "duration_min": 55,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
+      "id": "a]6z Pod_1",
       "name": "Inside Cursor: The Anatomy of a Generational Startup",
       "show": "a]6z Podcast",
       "description": "a16z General Partners Martin Casado, Sarah Wang, and Matt Bornstein unpack the story of Cursor: how a small, product-obsessed team entered one of the most competitive markets in technology, took on",
@@ -123,7 +153,7 @@
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "The State of AI: Macro, Apps, and Consumer",
       "show": "a]6z Podcast",
       "description": "Anish Acharya joins Jen Kha to break down the next frontier of AI, from the evolving model landscape and open-source AI to why the application layer, and consumer AI in particular, may be entering ",
@@ -133,7 +163,7 @@
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
-      "id": "Practica_0",
+      "id": "Practica_1",
       "name": "AI Proficiency: From Users to Builders",
       "show": "Practical AI",
       "description": "\n        As AI continues to reshape how organizations work, companies are increasingly asking what AI proficiency should look like across their workforce, and how they can help employees adapt with",
@@ -143,17 +173,7 @@
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
-      "id": "a]6z Pod_2",
-      "name": "The New Economics of AI | Martin Casado & Steven Sinofsky",
-      "show": "a]6z Podcast",
-      "description": "a16z General Partners Martin Casado and Erik Torenberg are joined by Board Partner Steven Sinofsky to explore what recent breakthroughs in AI and mathematics tell us about where the technology is h",
-      "release_date": "2026-08-25",
-      "duration_min": 63,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
-    },
-    {
-      "id": "Hard For_0",
+      "id": "Hard For_1",
       "name": "OpenAI’s Two-Week Pause + Jill Lepore on the Threat of the “Artificial State” + Train of Thought",
       "show": "Hard Fork",
       "description": "This week, we learned that OpenAI had stopped training new artificial intelligence models while the company reviewed its security measures. Will this encourage other labs to hit the brakes too?",
@@ -163,7 +183,7 @@
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
-      "id": "Hard For_1",
+      "id": "Hard For_2",
       "name": "Zuckerberg’s Anti-Doom Fantasy + Finally an A.I. Detector That Works + A.I. Math",
       "show": "Hard Fork",
       "description": "This week we’re talking about Mark Zuckerberg’s latest essay, “The Future Is for Everyone,” which outlines his positive new vision about the potential of A.I. But do we think it’s credible? Then, P",
@@ -193,32 +213,12 @@
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
     },
     {
-      "id": "Hard For_2",
-      "name": "The White House’s Secret A.I. Rules + The State of Model Alignment With METR’s Chris Painter + The Final Hot Mess Express",
-      "show": "Hard Fork",
-      "description": "This week, the White House announced a new framework for regulating A.I. models, but it isn’t letting the public read it. We break down what we know about the rules and what the implications are fo",
-      "release_date": "2026-08-07",
-      "duration_min": 65,
-      "image": "",
-      "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
-    },
-    {
-      "id": "Practica_1",
+      "id": "Practica_2",
       "name": "Models, Harnesses, and Multi-Agent Systems",
       "show": "Practical AI",
       "description": "\n        AI has moved far beyond chatbots, but what exactly are AI models, agents, agent harnesses, and multi-agent systems, and why do they matter?In this episode, Daniel and Chris break do",
       "release_date": "2026-08-06",
       "duration_min": 49,
-      "image": "",
-      "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
-    },
-    {
-      "id": "Practica_2",
-      "name": "Reconstructing how OpenAI agents attacked Hugging Face",
-      "show": "Practical AI",
-      "description": "\n        What happens when AI agents driven by a top frontier model escape their secure sandbox? Join Daniel and Chris as they unpack the AI wonk's equivalent of a murder mystery! OpenAI agents wen",
-      "release_date": "2026-07-30",
-      "duration_min": 44,
       "image": "",
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },

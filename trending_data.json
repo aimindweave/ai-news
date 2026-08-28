@@ -1,91 +1,64 @@
 [
   {
-    "title": "Small Models Have Arrived",
+    "title": "U.S. sanctions against the A/I Collective",
     "source": "Hacker News",
-    "description": "HN Score: 573 | 260 comments",
-    "url": "https://calv.info/small-models-have-arrived",
-    "score": 573,
+    "description": "HN Score: 350 | 320 comments",
+    "url": "https://www.inventati.org/",
+    "score": 350,
     "date": "2026-08-28",
     "category": "AI News"
   },
   {
-    "title": "Please stop flooding our projects with AI slop to furnish your CV",
+    "title": "The Analytical AI Handbook",
     "source": "Hacker News",
-    "description": "HN Score: 96 | 32 comments",
-    "url": "https://neilalexander.dev/2026/06/30/flooding-contributions",
-    "score": 96,
+    "description": "HN Score: 17 | 0 comments",
+    "url": "https://handbook.sutro.sh",
+    "score": 17,
     "date": "2026-08-28",
     "category": "AI News"
   },
   {
-    "title": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
+    "title": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
     "source": "Hacker News",
-    "description": "HN Score: 62 | 16 comments",
-    "url": "https://www.terminal-bench-science.ai/announcement",
-    "score": 62,
+    "description": "HN Score: 38 | 2 comments",
+    "url": "https://arxiv.org/abs/2608.23691",
+    "score": 38,
     "date": "2026-08-28",
     "category": "AI News"
   },
   {
-    "title": "Judge Rules Trump Administration\u2019s Blacklisting of Anthropic Was Illegal",
+    "title": "Judge rules Trump administration\u2019s blacklisting of Anthropic was illegal",
     "source": "Hacker News",
-    "description": "HN Score: 210 | 90 comments",
+    "description": "HN Score: 387 | 303 comments",
     "url": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
-    "score": 210,
+    "score": 387,
     "date": "2026-08-28",
     "category": "AI News"
   },
   {
-    "title": "Show HN: We built open OpenRouter that turns usage into a better model",
+    "title": "Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
     "source": "Hacker News",
-    "description": "HN Score: 153 | 26 comments",
-    "url": "https://github.com/experientiallabs/experiential",
-    "score": 153,
+    "description": "HN Score: 5 | 0 comments",
+    "url": "https://github.com/sseshachala/conductai",
+    "score": 5,
     "date": "2026-08-28",
     "category": "AI News"
   },
   {
-    "title": "AI Engineer Notebooks \u2013 free, framework-free RAG/agents/evals on Colab",
+    "title": "Luanti removed from Google Play due to baseless AI copyright notice",
     "source": "Hacker News",
-    "description": "HN Score: 79 | 9 comments",
-    "url": "https://github.com/calmrocks/ai-engineer-notebooks",
-    "score": 79,
+    "description": "HN Score: 340 | 112 comments",
+    "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
+    "score": 340,
     "date": "2026-08-28",
     "category": "AI News"
   },
   {
-    "title": "The turbulent AI era is here",
+    "title": "I used AWS cognito for a startup. I wouldn't do it again",
     "source": "Hacker News",
-    "description": "HN Score: 257 | 512 comments",
-    "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med",
-    "score": 257,
-    "date": "2026-08-28",
-    "category": "AI News"
-  },
-  {
-    "title": "Stripe said to abandon $50B pursuit of PayPal",
-    "source": "Hacker News",
-    "description": "HN Score: 86 | 34 comments",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-28/advent-stripe-consortium-is-said-to-drop-pursuit-of-paypal",
-    "score": 86,
-    "date": "2026-08-28",
-    "category": "AI News"
-  },
-  {
-    "title": "Show HN: The load-bearing vocabulary of Claude",
-    "source": "Hacker News",
-    "description": "HN Score: 432 | 200 comments",
-    "url": "https://louisabraham.github.io/load-bearing/",
-    "score": 432,
-    "date": "2026-08-28",
-    "category": "AI News"
-  },
-  {
-    "title": "Previewing the Model Hardware Standard",
-    "source": "Hacker News",
-    "description": "HN Score: 104 | 35 comments",
-    "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
-    "score": 104,
+    "description": "HN Score: 155 | 115 comments",
+    "url": "https://joshkaramuth.com/blog/aws-cognito-authentication-startup-nightmare/",
+    "score": 155,
     "date": "2026-08-28",
     "category": "AI News"
   }
