@@ -1,65 +1,92 @@
 [
   {
+    "title": "I accidentally turned LLM memory into program analysis",
+    "source": "Hacker News",
+    "description": "HN Score: 49 | 8 comments",
+    "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
+    "score": 49,
+    "date": "2026-08-29",
+    "category": "AI News"
+  },
+  {
+    "title": "StemDeck, a free, open-source and local AI stem separator",
+    "source": "Hacker News",
+    "description": "HN Score: 37 | 8 comments",
+    "url": "https://github.com/stemdeckapp/stemdeck",
+    "score": 37,
+    "date": "2026-08-29",
+    "category": "AI News"
+  },
+  {
     "title": "U.S. sanctions against the A/I Collective",
     "source": "Hacker News",
-    "description": "HN Score: 350 | 320 comments",
+    "description": "HN Score: 508 | 488 comments",
     "url": "https://www.inventati.org/",
-    "score": 350,
-    "date": "2026-08-28",
-    "category": "AI News"
-  },
-  {
-    "title": "The Analytical AI Handbook",
-    "source": "Hacker News",
-    "description": "HN Score: 17 | 0 comments",
-    "url": "https://handbook.sutro.sh",
-    "score": 17,
-    "date": "2026-08-28",
-    "category": "AI News"
-  },
-  {
-    "title": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
-    "source": "Hacker News",
-    "description": "HN Score: 38 | 2 comments",
-    "url": "https://arxiv.org/abs/2608.23691",
-    "score": 38,
-    "date": "2026-08-28",
+    "score": 508,
+    "date": "2026-08-29",
     "category": "AI News"
   },
   {
     "title": "Judge rules Trump administration\u2019s blacklisting of Anthropic was illegal",
     "source": "Hacker News",
-    "description": "HN Score: 387 | 303 comments",
+    "description": "HN Score: 553 | 407 comments",
     "url": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
-    "score": 387,
-    "date": "2026-08-28",
+    "score": 553,
+    "date": "2026-08-29",
     "category": "AI News"
   },
   {
-    "title": "Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
+    "title": "Identifying fake cosmetics using AI",
     "source": "Hacker News",
-    "description": "HN Score: 5 | 0 comments",
-    "url": "https://github.com/sseshachala/conductai",
-    "score": 5,
-    "date": "2026-08-28",
+    "description": "HN Score: 39 | 13 comments",
+    "url": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html",
+    "score": 39,
+    "date": "2026-08-29",
     "category": "AI News"
   },
   {
-    "title": "Luanti removed from Google Play due to baseless AI copyright notice",
+    "title": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
     "source": "Hacker News",
-    "description": "HN Score: 340 | 112 comments",
-    "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
-    "score": 340,
-    "date": "2026-08-28",
+    "description": "HN Score: 87 | 22 comments",
+    "url": "https://arxiv.org/abs/2608.23691",
+    "score": 87,
+    "date": "2026-08-29",
     "category": "AI News"
   },
   {
-    "title": "I used AWS cognito for a startup. I wouldn't do it again",
+    "title": "I'm the Guy Who Destroys Antique Books After We Scan Them into Our Company's AI",
     "source": "Hacker News",
-    "description": "HN Score: 155 | 115 comments",
-    "url": "https://joshkaramuth.com/blog/aws-cognito-authentication-startup-nightmare/",
-    "score": 155,
-    "date": "2026-08-28",
+    "description": "HN Score: 7 | 1 comments",
+    "url": "https://www.mcsweeneys.net/articles/im-the-guy-who-destroys-antique-books-after-we-scan-them-into-our-companys-insatiable-ai-platform",
+    "score": 7,
+    "date": "2026-08-29",
+    "category": "AI News"
+  },
+  {
+    "title": "Stopping the smart TV from being used against you",
+    "source": "Hacker News",
+    "description": "HN Score: 157 | 134 comments",
+    "url": "https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/",
+    "score": 157,
+    "date": "2026-08-29",
+    "category": "AI News"
+  },
+  {
+    "title": "OpenAI and Anthropic are ruining San Francisco",
+    "source": "Hacker News",
+    "description": "HN Score: 7 | 0 comments",
+    "url": "https://www.sfgate.com/local/article/open-ai-anthropic-ruining-sf-22404657.php",
+    "score": 7,
+    "date": "2026-08-29",
+    "category": "AI News"
+  },
+  {
+    "title": "ASCII City: Traffic and Detail Update [video]",
+    "source": "Hacker News",
+    "description": "HN Score: 7 | 0 comments",
+    "url": "https://www.youtube.com/watch?v=DSRooHo_HSI",
+    "score": 7,
+    "date": "2026-08-29",
     "category": "AI News"
   }
 ]
