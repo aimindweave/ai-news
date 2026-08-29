@@ -1,55 +1,73 @@
 [
   {
-    "title": "Debian votes to allow 'responsible use of generative AI'",
+    "title": "vLLM v0.28.0",
     "source": "Hacker News",
-    "description": "HN Score: 271 | 211 comments",
-    "url": "https://lwn.net/Articles/1091231/",
-    "score": 271,
+    "description": "HN Score: 25 | 2 comments",
+    "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
+    "score": 25,
     "date": "2026-08-29",
     "category": "AI News"
   },
   {
-    "title": "U.S. sanctions against the A/I Collective",
+    "title": "Warp builds self-improving agents on Claude",
     "source": "Hacker News",
-    "description": "HN Score: 671 | 690 comments",
-    "url": "https://www.inventati.org/",
-    "score": 671,
+    "description": "HN Score: 39 | 33 comments",
+    "url": "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude",
+    "score": 39,
+    "date": "2026-08-29",
+    "category": "AI News"
+  },
+  {
+    "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+    "source": "Hacker News",
+    "description": "HN Score: 127 | 21 comments",
+    "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+    "score": 127,
+    "date": "2026-08-29",
+    "category": "AI News"
+  },
+  {
+    "title": "Domain-Driven Agents",
+    "source": "Hacker News",
+    "description": "HN Score: 4 | 0 comments",
+    "url": "https://coldtake.dev/blog/domain-driven-agents",
+    "score": 4,
     "date": "2026-08-29",
     "category": "AI News"
   },
   {
     "title": "StemDeck, a free, open-source and local AI stem separator",
     "source": "Hacker News",
-    "description": "HN Score: 170 | 45 comments",
+    "description": "HN Score: 188 | 57 comments",
     "url": "https://github.com/stemdeckapp/stemdeck",
-    "score": 170,
+    "score": 188,
+    "date": "2026-08-29",
+    "category": "AI News"
+  },
+  {
+    "title": "LLMs are making me lose my savviness",
+    "source": "Hacker News",
+    "description": "HN Score: 6 | 1 comments",
+    "url": "https://pgaleone.eu/ai/2026/08/29/losing-savviness/",
+    "score": 6,
     "date": "2026-08-29",
     "category": "AI News"
   },
   {
     "title": "I accidentally turned LLM memory into program analysis",
     "source": "Hacker News",
-    "description": "HN Score: 227 | 65 comments",
+    "description": "HN Score: 263 | 71 comments",
     "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
-    "score": 227,
+    "score": 263,
     "date": "2026-08-29",
     "category": "AI News"
   },
   {
-    "title": "Judge rules Trump administration\u2019s blacklisting of Anthropic was illegal",
+    "title": "Debian votes to allow 'responsible use of generative AI'",
     "source": "Hacker News",
-    "description": "HN Score: 593 | 420 comments",
-    "url": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
-    "score": 593,
-    "date": "2026-08-29",
-    "category": "AI News"
-  },
-  {
-    "title": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
-    "source": "Hacker News",
-    "description": "HN Score: 114 | 38 comments",
-    "url": "https://arxiv.org/abs/2608.23691",
-    "score": 114,
+    "description": "HN Score: 454 | 401 comments",
+    "url": "https://lwn.net/Articles/1091231/",
+    "score": 454,
     "date": "2026-08-29",
     "category": "AI News"
   }
