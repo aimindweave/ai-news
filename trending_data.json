@@ -1,91 +1,55 @@
 [
   {
+    "title": "U.S. sanctions against the A/I Collective",
+    "source": "Hacker News",
+    "description": "HN Score: 611 | 596 comments",
+    "url": "https://www.inventati.org/",
+    "score": 611,
+    "date": "2026-08-29",
+    "category": "AI News"
+  },
+  {
     "title": "I accidentally turned LLM memory into program analysis",
     "source": "Hacker News",
-    "description": "HN Score: 49 | 8 comments",
+    "description": "HN Score: 163 | 35 comments",
     "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
-    "score": 49,
+    "score": 163,
     "date": "2026-08-29",
     "category": "AI News"
   },
   {
     "title": "StemDeck, a free, open-source and local AI stem separator",
     "source": "Hacker News",
-    "description": "HN Score: 37 | 8 comments",
+    "description": "HN Score: 106 | 23 comments",
     "url": "https://github.com/stemdeckapp/stemdeck",
-    "score": 37,
-    "date": "2026-08-29",
-    "category": "AI News"
-  },
-  {
-    "title": "U.S. sanctions against the A/I Collective",
-    "source": "Hacker News",
-    "description": "HN Score: 508 | 488 comments",
-    "url": "https://www.inventati.org/",
-    "score": 508,
-    "date": "2026-08-29",
-    "category": "AI News"
-  },
-  {
-    "title": "Judge rules Trump administration\u2019s blacklisting of Anthropic was illegal",
-    "source": "Hacker News",
-    "description": "HN Score: 553 | 407 comments",
-    "url": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
-    "score": 553,
-    "date": "2026-08-29",
-    "category": "AI News"
-  },
-  {
-    "title": "Identifying fake cosmetics using AI",
-    "source": "Hacker News",
-    "description": "HN Score: 39 | 13 comments",
-    "url": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html",
-    "score": 39,
+    "score": 106,
     "date": "2026-08-29",
     "category": "AI News"
   },
   {
     "title": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
     "source": "Hacker News",
-    "description": "HN Score: 87 | 22 comments",
+    "description": "HN Score: 108 | 30 comments",
     "url": "https://arxiv.org/abs/2608.23691",
-    "score": 87,
+    "score": 108,
     "date": "2026-08-29",
     "category": "AI News"
   },
   {
-    "title": "I'm the Guy Who Destroys Antique Books After We Scan Them into Our Company's AI",
+    "title": "Judge rules Trump administration\u2019s blacklisting of Anthropic was illegal",
     "source": "Hacker News",
-    "description": "HN Score: 7 | 1 comments",
-    "url": "https://www.mcsweeneys.net/articles/im-the-guy-who-destroys-antique-books-after-we-scan-them-into-our-companys-insatiable-ai-platform",
-    "score": 7,
+    "description": "HN Score: 575 | 415 comments",
+    "url": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
+    "score": 575,
     "date": "2026-08-29",
     "category": "AI News"
   },
   {
-    "title": "Stopping the smart TV from being used against you",
+    "title": "Identifying fake cosmetics using AI",
     "source": "Hacker News",
-    "description": "HN Score: 157 | 134 comments",
-    "url": "https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/",
-    "score": 157,
-    "date": "2026-08-29",
-    "category": "AI News"
-  },
-  {
-    "title": "OpenAI and Anthropic are ruining San Francisco",
-    "source": "Hacker News",
-    "description": "HN Score: 7 | 0 comments",
-    "url": "https://www.sfgate.com/local/article/open-ai-anthropic-ruining-sf-22404657.php",
-    "score": 7,
-    "date": "2026-08-29",
-    "category": "AI News"
-  },
-  {
-    "title": "ASCII City: Traffic and Detail Update [video]",
-    "source": "Hacker News",
-    "description": "HN Score: 7 | 0 comments",
-    "url": "https://www.youtube.com/watch?v=DSRooHo_HSI",
-    "score": 7,
+    "description": "HN Score: 55 | 21 comments",
+    "url": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html",
+    "score": 55,
     "date": "2026-08-29",
     "category": "AI News"
   }
