@@ -1,65 +1,74 @@
 [
   {
-    "title": "vLLM v0.28.0",
+    "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
     "source": "Hacker News",
-    "description": "HN Score: 87 | 30 comments",
-    "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
-    "score": 87,
-    "date": "2026-08-29",
+    "description": "HN Score: 208 | 101 comments",
+    "url": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
+    "score": 208,
+    "date": "2026-08-30",
+    "category": "AI News"
+  },
+  {
+    "title": "Open Oscar Server: open-source server compatible with AIM and ICQ clients",
+    "source": "Hacker News",
+    "description": "HN Score: 15 | 7 comments",
+    "url": "https://github.com/mk6i/open-oscar-server",
+    "score": 15,
+    "date": "2026-08-30",
     "category": "AI News"
   },
   {
     "title": "Domain-Driven Agents",
     "source": "Hacker News",
-    "description": "HN Score: 35 | 6 comments",
+    "description": "HN Score: 70 | 13 comments",
     "url": "https://coldtake.dev/blog/domain-driven-agents",
-    "score": 35,
-    "date": "2026-08-29",
+    "score": 70,
+    "date": "2026-08-30",
     "category": "AI News"
   },
   {
     "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
     "source": "Hacker News",
-    "description": "HN Score: 221 | 47 comments",
+    "description": "HN Score: 312 | 73 comments",
     "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
-    "score": 221,
-    "date": "2026-08-29",
+    "score": 312,
+    "date": "2026-08-30",
     "category": "AI News"
   },
   {
-    "title": "The Finn \u2013 an agent that lives in my router and complains about it",
+    "title": "The Rise and Fall of Agent Civilizations",
     "source": "Hacker News",
-    "description": "HN Score: 10 | 1 comments",
-    "url": "https://github.com/YuriKovalov22/the-finn",
-    "score": 10,
-    "date": "2026-08-29",
+    "description": "HN Score: 14 | 0 comments",
+    "url": "https://www.dwarkesh.com/p/openai-huggingface",
+    "score": 14,
+    "date": "2026-08-30",
     "category": "AI News"
   },
   {
     "title": "StemDeck, a free, open-source and local AI stem separator",
     "source": "Hacker News",
-    "description": "HN Score: 197 | 58 comments",
+    "description": "HN Score: 213 | 59 comments",
     "url": "https://github.com/stemdeckapp/stemdeck",
-    "score": 197,
-    "date": "2026-08-29",
+    "score": 213,
+    "date": "2026-08-30",
     "category": "AI News"
   },
   {
     "title": "I accidentally turned LLM memory into program analysis",
     "source": "Hacker News",
-    "description": "HN Score: 271 | 71 comments",
+    "description": "HN Score: 283 | 76 comments",
     "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
-    "score": 271,
-    "date": "2026-08-29",
+    "score": 283,
+    "date": "2026-08-30",
     "category": "AI News"
   },
   {
-    "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
+    "title": "You have to beat the models at something",
     "source": "Hacker News",
-    "description": "HN Score: 7 | 1 comments",
-    "url": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
-    "score": 7,
-    "date": "2026-08-29",
+    "description": "HN Score: 10 | 0 comments",
+    "url": "https://www.seangoedecke.com/you-have-to-beat-the-models-at-something/",
+    "score": 10,
+    "date": "2026-08-30",
     "category": "AI News"
   }
 ]
