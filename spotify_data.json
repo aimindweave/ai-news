@@ -94,6 +94,16 @@
   "episodes": [
     {
       "id": "a]6z Pod_0",
+      "name": "Why a16z Launched the Machine Age Fund | Jen Kha",
+      "show": "a]6z Podcast",
+      "description": "a16z Managing Partner and Head of Global Partnerships Jen Kha joins MTS hosts Theo Jaffee and Sophia Dew to discuss a16z's Machine Age Fund and the investment thesis behind rebuilding the physical ",
+      "release_date": "2026-08-30",
+      "duration_min": 24,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
+      "id": "a]6z Pod_1",
       "name": "Why 1,200 AI Agents Started Working Together | Ryan Greenblatt",
       "show": "a]6z Podcast",
       "description": "Ryan Greenblatt, Chief Scientist at Redwood Research, joins MTS host Theo Jaffee to unpack a new independent investigation into the OpenAI Hugging Face hacking incident and what it reveals about ho",
@@ -123,22 +133,12 @@
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "The Infrastructure Behind the Machine Age",
       "show": "a]6z Podcast",
       "description": "Ben Horowitz, Martin Casado, Raghu Raghuram, and Erik Torenberg discuss the launch of a16z's new Machine Age Fund and the infrastructure buildout behind AI, from chips, memory, and networking to po",
       "release_date": "2026-08-28",
       "duration_min": 55,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
-    },
-    {
-      "id": "a]6z Pod_2",
-      "name": "Inside Cursor: The Anatomy of a Generational Startup",
-      "show": "a]6z Podcast",
-      "description": "a16z General Partners Martin Casado, Sarah Wang, and Matt Bornstein unpack the story of Cursor: how a small, product-obsessed team entered one of the most competitive markets in technology, took on",
-      "release_date": "2026-08-27",
-      "duration_min": 39,
       "image": "",
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },

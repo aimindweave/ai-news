@@ -1,73 +1,91 @@
 [
   {
+    "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
+    "source": "Hacker News",
+    "description": "HN Score: 72 | 15 comments",
+    "url": "https://arxiv.org/abs/1804.07389",
+    "score": 72,
+    "date": "2026-08-30",
+    "category": "AI News"
+  },
+  {
+    "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
+    "source": "Hacker News",
+    "description": "HN Score: 16 | 2 comments",
+    "url": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766",
+    "score": 16,
+    "date": "2026-08-30",
+    "category": "AI News"
+  },
+  {
     "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
     "source": "Hacker News",
-    "description": "HN Score: 208 | 101 comments",
+    "description": "HN Score: 317 | 182 comments",
     "url": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
-    "score": 208,
+    "score": 317,
+    "date": "2026-08-30",
+    "category": "AI News"
+  },
+  {
+    "title": "Nvidia's AI advantage is moving beyond the GPU",
+    "source": "Hacker News",
+    "description": "HN Score: 9 | 5 comments",
+    "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+    "score": 9,
     "date": "2026-08-30",
     "category": "AI News"
   },
   {
     "title": "Open Oscar Server: open-source server compatible with AIM and ICQ clients",
     "source": "Hacker News",
-    "description": "HN Score: 15 | 7 comments",
+    "description": "HN Score: 44 | 16 comments",
     "url": "https://github.com/mk6i/open-oscar-server",
-    "score": 15,
-    "date": "2026-08-30",
-    "category": "AI News"
-  },
-  {
-    "title": "Domain-Driven Agents",
-    "source": "Hacker News",
-    "description": "HN Score: 70 | 13 comments",
-    "url": "https://coldtake.dev/blog/domain-driven-agents",
-    "score": 70,
+    "score": 44,
     "date": "2026-08-30",
     "category": "AI News"
   },
   {
     "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
     "source": "Hacker News",
-    "description": "HN Score: 312 | 73 comments",
+    "description": "HN Score: 403 | 100 comments",
     "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
-    "score": 312,
+    "score": 403,
     "date": "2026-08-30",
     "category": "AI News"
   },
   {
-    "title": "The Rise and Fall of Agent Civilizations",
+    "title": "My fat loss experiments with ChatGPT and water fasting",
     "source": "Hacker News",
-    "description": "HN Score: 14 | 0 comments",
-    "url": "https://www.dwarkesh.com/p/openai-huggingface",
-    "score": 14,
-    "date": "2026-08-30",
-    "category": "AI News"
-  },
-  {
-    "title": "StemDeck, a free, open-source and local AI stem separator",
-    "source": "Hacker News",
-    "description": "HN Score: 213 | 59 comments",
-    "url": "https://github.com/stemdeckapp/stemdeck",
-    "score": 213,
+    "description": "HN Score: 11 | 7 comments",
+    "url": "https://community.webminal.org/t/my-fat-loss-experiments-with-chatgpt-and-water-fasting/8846",
+    "score": 11,
     "date": "2026-08-30",
     "category": "AI News"
   },
   {
     "title": "I accidentally turned LLM memory into program analysis",
     "source": "Hacker News",
-    "description": "HN Score: 283 | 76 comments",
+    "description": "HN Score: 293 | 79 comments",
     "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
-    "score": 283,
+    "score": 293,
     "date": "2026-08-30",
     "category": "AI News"
   },
   {
-    "title": "You have to beat the models at something",
+    "title": "StemDeck, a free, open-source and local AI stem separator",
     "source": "Hacker News",
-    "description": "HN Score: 10 | 0 comments",
-    "url": "https://www.seangoedecke.com/you-have-to-beat-the-models-at-something/",
-    "score": 10,
+    "description": "HN Score: 227 | 61 comments",
+    "url": "https://github.com/stemdeckapp/stemdeck",
+    "score": 227,
+    "date": "2026-08-30",
+    "category": "AI News"
+  },
+  {
+    "title": "The Rise and Fall of Agent Civilizations",
+    "source": "Hacker News",
+    "description": "HN Score: 128 | 72 comments",
+    "url": "https://www.dwarkesh.com/p/openai-huggingface",
+    "score": 128,
     "date": "2026-08-30",
     "category": "AI News"
   }
