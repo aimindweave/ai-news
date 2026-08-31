@@ -1,5 +1,26 @@
 [
   {
+    "title": "The Pentagon now has its own version of ChatGPT and Grok",
+    "source": "TechCrunch",
+    "summary": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
+    "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+    "date": "2026-08-31"
+  },
+  {
+    "title": "Instagram puts new limits on undisclosed AI profiles",
+    "source": "TechCrunch",
+    "summary": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
+    "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+    "date": "2026-08-31"
+  },
+  {
+    "title": "Harvard Law dropout raises $6M for Blue Voice to build a \u2018Harvey for police officers\u2019",
+    "source": "TechCrunch",
+    "summary": "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet.",
+    "url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
+    "date": "2026-08-31"
+  },
+  {
     "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
     "source": "TechCrunch",
     "summary": "The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round.",
@@ -42,10 +63,17 @@
     "date": "2026-08-31"
   },
   {
-    "title": "Sony Music, Warner sue Anthropic, alleging a \u201cbrazen campaign\u201d of intellectual property theft",
+    "title": "Sony Music, Warner sue Anthropic, alleging a \u2018brazen campaign\u2019 of intellectual property theft",
     "source": "TechCrunch",
     "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
     "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+    "date": "2026-08-31"
+  },
+  {
+    "title": "At TechBBQ, Europe\u2019s AI conversations kept coming back to: Who\u2019s actually in control?",
+    "source": "TechCrunch",
+    "summary": "Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over AI.",
+    "url": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
     "date": "2026-08-31"
   },
   {
@@ -77,31 +105,10 @@
     "date": "2026-08-31"
   },
   {
-    "title": "Open-weight AI companies are the Valley\u2019s hottest acquisition targets",
-    "source": "TechCrunch",
-    "summary": "There's a lot of capital pouring into the business of giving models away.",
-    "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
-    "date": "2026-08-31"
-  },
-  {
-    "title": "Anthropic gets its first court win over the Pentagon\u2019s supply-chain risk label",
-    "source": "TechCrunch",
-    "summary": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.",
-    "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
-    "date": "2026-08-31"
-  },
-  {
-    "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
-    "source": "TechCrunch",
-    "summary": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role.",
-    "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
-    "date": "2026-08-31"
-  },
-  {
-    "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
-    "source": "TechCrunch",
-    "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
-    "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
+    "title": "Hugging Face hack could indicate cultural issues at OpenAI",
+    "source": "MIT Tech Review",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you\u2019ve probably heard about last month\u2019s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Huggin...",
+    "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
     "date": "2026-08-31"
   },
   {
@@ -165,13 +172,6 @@
     "source": "MIT Tech Review",
     "summary": "Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puzzles, developers can test how far models have advanced with a gaming gauntlet. The term \u201cmachine learning\u201d was popularized in a 1959 article by the...",
     "url": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
-    "date": "2026-08-31"
-  },
-  {
-    "title": "Bill Gates says we\u2019ve passed AI\u2019s danger thresholds. Now what?",
-    "source": "MIT Tech Review",
-    "summary": "It\u2019s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The temperature is in the mid-80s, and the sky is incapable of being any more blue. The view from the Gates Ventures conference room overlooks the Carillon Point Marina, where a flotil...",
-    "url": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
     "date": "2026-08-31"
   },
   {
@@ -242,6 +242,111 @@
     "source": "Wired",
     "summary": "After an affair with a fellow police officer ended, a Georgia cop used Flock to track her movements\u2014and those of a man whose vehicle often showed up near hers, internal investigation records show.",
     "url": "https://www.wired.com/story/a-georgia-cop-used-flock-to-track-2-other-cops-his-ex-and-her-friend/",
+    "date": "2026-08-31"
+  },
+  {
+    "title": "\u201cZlibrary my beloved\u201d: Anthropic staff chats extolling piracy cited in Sony suit",
+    "source": "Ars Technica",
+    "summary": "Lawsuit: Anthropic\u2019s torrenting totally screwed songwriters as AI songs top charts.",
+    "url": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/",
+    "date": "2026-08-31"
+  },
+  {
+    "title": "ChatGPT and Reddit now face EU's toughest online safety rules",
+    "source": "Ars Technica",
+    "summary": "Explosive growth comes with a new regulatory burden in the European Union.",
+    "url": "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/",
+    "date": "2026-08-31"
+  },
+  {
+    "title": "Pocket's AI made my game ideas real. Now Meta controls the results.",
+    "source": "Ars Technica",
+    "summary": "Interactive mobile 'gizmos' are easy to make, hard to share outside Meta's platform.",
+    "url": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
+    "date": "2026-08-31"
+  },
+  {
+    "title": "Inside Meta\u2019s push to put robots to work in data centers",
+    "source": "Ars Technica",
+    "summary": "The company is testing robots on tasks that can performed by technicians.",
+    "url": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
+    "date": "2026-08-31"
+  },
+  {
+    "title": "Trump blacklisting of 'woke' Anthropic deemed illegal by federal judge",
+    "source": "Ars Technica",
+    "summary": "Anthropic refused to support lethal autonomous warfare and mass surveillance.",
+    "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/",
+    "date": "2026-08-31"
+  },
+  {
+    "title": "Meta makes AI glasses slightly less creepy with limit on nonconsensual recording",
+    "source": "Ars Technica",
+    "summary": "Meta fixes AI glasses to stop recording any time users cover up the safety light.",
+    "url": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/",
+    "date": "2026-08-31"
+  },
+  {
+    "title": "Anthropic's new hardware standard lets AI agents control the physical world",
+    "source": "Ars Technica",
+    "summary": "Standardized driver interface aims to let devices talk to AI and each other.",
+    "url": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
+    "date": "2026-08-31"
+  },
+  {
+    "title": "Elon Musk\u2019s xAI used child porn to train Grok models, lawsuit says",
+    "source": "Ars Technica",
+    "summary": "xAI accused of training Grok on real and AI-generated child pornography.",
+    "url": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says/",
+    "date": "2026-08-31"
+  },
+  {
+    "title": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion",
+    "source": "Ars Technica",
+    "summary": "Nvidia is nabbing critical infrastructure for open models as interest grows.",
+    "url": "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
+    "date": "2026-08-31"
+  },
+  {
+    "title": "AI industry says Trump plans to tax chips in the \u201csingle dumbest way imaginable\u201d",
+    "source": "Ars Technica",
+    "summary": "Tech industry is perplexed by Trump\u2019s plan to win AI race by taxing data centers.",
+    "url": "https://arstechnica.com/tech-policy/2026/08/ai-industry-says-trump-plans-to-tax-chips-in-the-single-dumbest-way-imaginable/",
+    "date": "2026-08-31"
+  },
+  {
+    "title": "Claude, Codex, and Hermes installed unowned code inside corporate networks",
+    "source": "Ars Technica",
+    "summary": "227 install commands were found in corporate docs pointing at code nobody owns.",
+    "url": "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
+    "date": "2026-08-31"
+  },
+  {
+    "title": "How much of a problem is AI\u2019s water use?",
+    "source": "Ars Technica",
+    "summary": "AI\u2019s water footprint is growing, but location and cooling technology make a difference.",
+    "url": "https://arstechnica.com/ai/2026/08/how-much-of-a-problem-is-ais-water-use/",
+    "date": "2026-08-31"
+  },
+  {
+    "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
+    "source": "Ars Technica",
+    "summary": "Without authorization, 1,200 OpenAI agents conspired among themselves to game a test.",
+    "url": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
+    "date": "2026-08-31"
+  },
+  {
+    "title": "AI agents meant to replace Meta workers made \u201clarge-scale, disruptive actions\u201d",
+    "source": "Ars Technica",
+    "summary": "Report shows Meta's challenges replacing people with AI agents.",
+    "url": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
+    "date": "2026-08-31"
+  },
+  {
+    "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
+    "source": "Ars Technica",
+    "summary": "The AI that powers Gboard's Rambler is coming to more Google products, including Chrome.",
+    "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
     "date": "2026-08-31"
   }
 ]
