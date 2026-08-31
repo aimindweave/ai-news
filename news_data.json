@@ -1,6 +1,27 @@
 [
   {
-    "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+    "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
+    "source": "TechCrunch",
+    "summary": "The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round.",
+    "url": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
+    "date": "2026-08-31"
+  },
+  {
+    "title": "Nvidia\u2019s $3.5B MediaTek bet reveals its plan for tackling Big Tech\u2019s AI chip buildout",
+    "source": "TechCrunch",
+    "summary": "Nvidia invests $3.5 billion into Taiwanese chipmaker MediaTek. The deal shows how Nvidia plans to stay essential to AI infrastructure as Big Tech begins to build its own AI chips.",
+    "url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
+    "date": "2026-08-31"
+  },
+  {
+    "title": "Meeting note-taker Circleback adds a free tier to attract more customers",
+    "source": "TechCrunch",
+    "summary": "Circleback is also introducing new pricing plans starting from $14 per month.",
+    "url": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/",
+    "date": "2026-08-31"
+  },
+  {
+    "title": "The US is building barriers around drones and robots, but China has scale to get around them",
     "source": "TechCrunch",
     "summary": "The U.S. is shutting out more foreign-made drones and robots. China\u2019s scale means the global competition may simply move elsewhere.",
     "url": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
@@ -28,7 +49,7 @@
     "date": "2026-08-31"
   },
   {
-    "title": "\u201cWe\u2019re not doing 30 bets a year\u201d: Vijay Pande on betting small after running $4 billion at a16z",
+    "title": "\u2018We\u2019re not doing 30 bets a year\u2019: Vijay Pande on betting small after running $4B at a16z",
     "source": "TechCrunch",
     "summary": "Vijay Pande \u2014 who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC \u2014 talks about why biology is finally shifting from a 'discovery' science to an 'engineering' one, why clinical trials are still brutally expensive, and why he thinks open, shared ...",
     "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
@@ -81,27 +102,6 @@
     "source": "TechCrunch",
     "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
     "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
-    "date": "2026-08-31"
-  },
-  {
-    "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
-    "source": "TechCrunch",
-    "summary": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.",
-    "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
-    "date": "2026-08-31"
-  },
-  {
-    "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
-    "source": "TechCrunch",
-    "summary": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of cyber threats.",
-    "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
-    "date": "2026-08-31"
-  },
-  {
-    "title": "Google\u2019s AI Mode can now track flight prices, help book hotels, and more",
-    "source": "TechCrunch",
-    "summary": "The updates indicate that Google is looking to position AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-planning and booking process.",
-    "url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
     "date": "2026-08-31"
   },
   {
@@ -175,6 +175,13 @@
     "date": "2026-08-31"
   },
   {
+    "title": "You Know Who Really Hates AI? Insurance Claims Adjusters",
+    "source": "Wired",
+    "summary": "Of the Glassdoor reviews from claims adjusters that mentioned AI, a staggering 98 percent were negative. \u201cAI is just a tool,\u201d one person tells WIRED. \u201cIt should never be given the keys.\u201d",
+    "url": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/",
+    "date": "2026-08-31"
+  },
+  {
     "title": "Why the Hottest New Wearables Want to Be Ignored",
     "source": "Wired",
     "summary": "Burnt out on wrist buzzes and notification overload? A new crop of minimalist wearables promises to collect your health data without demanding your attention.",
@@ -235,118 +242,6 @@
     "source": "Wired",
     "summary": "After an affair with a fellow police officer ended, a Georgia cop used Flock to track her movements\u2014and those of a man whose vehicle often showed up near hers, internal investigation records show.",
     "url": "https://www.wired.com/story/a-georgia-cop-used-flock-to-track-2-other-cops-his-ex-and-her-friend/",
-    "date": "2026-08-31"
-  },
-  {
-    "title": "This Is How Anthropic Thinks AI Agents Should Navigate the Physical World",
-    "source": "Wired",
-    "summary": "The potential for AI to automate scientific research and manufacturing must be balanced with new risks, Anthropic says.",
-    "url": "https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/",
-    "date": "2026-08-31"
-  },
-  {
-    "title": "Inside Meta\u2019s push to put robots to work in data centers",
-    "source": "Ars Technica",
-    "summary": "The company is testing robots on tasks that can performed by technicians.",
-    "url": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
-    "date": "2026-08-31"
-  },
-  {
-    "title": "Trump blacklisting of 'woke' Anthropic deemed illegal by federal judge",
-    "source": "Ars Technica",
-    "summary": "Anthropic refused to support lethal autonomous warfare and mass surveillance.",
-    "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/",
-    "date": "2026-08-31"
-  },
-  {
-    "title": "Meta makes AI glasses slightly less creepy with limit on nonconsensual recording",
-    "source": "Ars Technica",
-    "summary": "Meta fixes AI glasses to stop recording any time users cover up the safety light.",
-    "url": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/",
-    "date": "2026-08-31"
-  },
-  {
-    "title": "Anthropic's new hardware standard lets AI agents control the physical world",
-    "source": "Ars Technica",
-    "summary": "Standardized driver interface aims to let devices talk to AI and each other.",
-    "url": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
-    "date": "2026-08-31"
-  },
-  {
-    "title": "Elon Musk\u2019s xAI used child porn to train Grok models, lawsuit says",
-    "source": "Ars Technica",
-    "summary": "xAI accused of training Grok on real and AI-generated child pornography.",
-    "url": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says/",
-    "date": "2026-08-31"
-  },
-  {
-    "title": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion",
-    "source": "Ars Technica",
-    "summary": "Nvidia is nabbing critical infrastructure for open models as interest grows.",
-    "url": "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
-    "date": "2026-08-31"
-  },
-  {
-    "title": "AI industry says Trump plans to tax chips in the \u201csingle dumbest way imaginable\u201d",
-    "source": "Ars Technica",
-    "summary": "Tech industry is perplexed by Trump\u2019s plan to win AI race by taxing data centers.",
-    "url": "https://arstechnica.com/tech-policy/2026/08/ai-industry-says-trump-plans-to-tax-chips-in-the-single-dumbest-way-imaginable/",
-    "date": "2026-08-31"
-  },
-  {
-    "title": "Claude, Codex, and Hermes installed unowned code inside corporate networks",
-    "source": "Ars Technica",
-    "summary": "227 install commands were found in corporate docs pointing at code nobody owns.",
-    "url": "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
-    "date": "2026-08-31"
-  },
-  {
-    "title": "How much of a problem is AI\u2019s water use?",
-    "source": "Ars Technica",
-    "summary": "AI\u2019s water footprint is growing, but location and cooling technology make a difference.",
-    "url": "https://arstechnica.com/ai/2026/08/how-much-of-a-problem-is-ais-water-use/",
-    "date": "2026-08-31"
-  },
-  {
-    "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
-    "source": "Ars Technica",
-    "summary": "Without authorization, 1,200 OpenAI agents conspired among themselves to game a test.",
-    "url": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
-    "date": "2026-08-31"
-  },
-  {
-    "title": "AI agents meant to replace Meta workers made \u201clarge-scale, disruptive actions\u201d",
-    "source": "Ars Technica",
-    "summary": "Report shows Meta's challenges replacing people with AI agents.",
-    "url": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
-    "date": "2026-08-31"
-  },
-  {
-    "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
-    "source": "Ars Technica",
-    "summary": "The AI that powers Gboard's Rambler is coming to more Google products, including Chrome.",
-    "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
-    "date": "2026-08-31"
-  },
-  {
-    "title": "IBM's new Granite 4.2 models ride the wave of interest in local LLMs",
-    "source": "Ars Technica",
-    "summary": "The focus is on agentic capability and predictable enterprise deployment.",
-    "url": "https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/",
-    "date": "2026-08-31"
-  },
-  {
-    "title": "World humanoid robot games show runners breaking records, bursting into flames",
-    "source": "Ars Technica",
-    "summary": "Record-breaking robot races are less substantial than household chore challenges.",
-    "url": "https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/",
-    "date": "2026-08-31"
-  },
-  {
-    "title": "AI won\u2019t replace radiologists, but it will dramatically change their jobs",
-    "source": "Ars Technica",
-    "summary": "A pioneering AI scientist once predicted computers would replace human radiologists. They haven't.",
-    "url": "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/",
     "date": "2026-08-31"
   }
 ]
