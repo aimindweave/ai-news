@@ -1,5 +1,26 @@
 [
   {
+    "title": "Amazon Alexa can now alert you when something new might tempt you to shop",
+    "source": "TechCrunch",
+    "summary": "Amazon is adding a new Alexa-powered feature called \u201cUpdate Me When\u201d that can send personalized alerts about product launches, tours, books, shows, and other events that could trigger a purchase.",
+    "url": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/",
+    "date": "2026-09-01"
+  },
+  {
+    "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
+    "source": "TechCrunch",
+    "summary": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behaviour.",
+    "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
+    "date": "2026-09-01"
+  },
+  {
+    "title": "Fambot introduces an \u2018AI chief of staff\u2019 for families",
+    "source": "TechCrunch",
+    "summary": "Fambot is building an AI \u201cchief of staff\u201d to help families manage the emails, calendars, school updates, sports schedules, and other logistics of raising kids.",
+    "url": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/",
+    "date": "2026-09-01"
+  },
+  {
     "title": "Apple shares \u2018shocking evidence\u2019 against former employee accused of stealing company data for OpenAI",
     "source": "TechCrunch",
     "summary": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
@@ -84,24 +105,17 @@
     "date": "2026-09-01"
   },
   {
-    "title": "\u2018We\u2019re not doing 30 bets a year\u2019: Vijay Pande on betting small after running $4B at a16z",
-    "source": "TechCrunch",
-    "summary": "Vijay Pande \u2014 who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC \u2014 talks about why biology is finally shifting from a 'discovery' science to an 'engineering' one, why clinical trials are still brutally expensive, and why he thinks open, shared ...",
-    "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+    "title": "Making the AI-powered case for legacy modernization",
+    "source": "MIT Tech Review",
+    "summary": "For years, legacy technology has been a problem companies knew they needed to solve, but one they often struggled to tackle. The cost, complexity, and risk of replacing business-critical systems could make modernization feel like a disruption to manage instead of an opportunity to pursue. But wit...",
+    "url": "https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/",
     "date": "2026-09-01"
   },
   {
-    "title": "Nvidia\u2019s AI advantage is moving beyond the GPU",
-    "source": "TechCrunch",
-    "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
-    "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
-    "date": "2026-09-01"
-  },
-  {
-    "title": "Neocloud Lambda secures $1B in debt to buy more chips",
-    "source": "TechCrunch",
-    "summary": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
-    "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+    "title": "The Download: engineered microbes for crops, and OpenAI\u2019s culture problem",
+    "source": "MIT Tech Review",
+    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. How engineered microbes could help feed the world\u2019s crops Fertilizer is crucial for the global food supply, but making it uses a lot of energy and produces a l...",
+    "url": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/",
     "date": "2026-09-01"
   },
   {
@@ -161,17 +175,10 @@
     "date": "2026-09-01"
   },
   {
-    "title": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
-    "source": "MIT Tech Review",
-    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Introducing: the Kids issue If the desire to limit kids use of technology was once a subcurrent, it has become a raging flood. Countries around the world are b...",
-    "url": "https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/",
-    "date": "2026-09-01"
-  },
-  {
-    "title": "Raised on AI",
-    "source": "MIT Tech Review",
-    "summary": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms. In short, I began creating her digital footprint long before she could stand on her own two feet. Fast...",
-    "url": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
+    "title": "Sonos Ace Ultra, Beam Ultra, Sonos Fabric, and a New App: Everything Sonos Just Announced",
+    "source": "Wired",
+    "summary": "Sonos is cramming AI into its software because it\u2019s \u201cvery hot these days.\u201d The new features, which include agentic automation, are opt-in.",
+    "url": "https://www.wired.com/story/sonos-has-new-devices-a-new-os-and-yes-a-new-app/",
     "date": "2026-09-01"
   },
   {
@@ -235,13 +242,6 @@
     "source": "Wired",
     "summary": "This week on \u201cUncanny Valley,\u201d senior writer Will Knight talks his recent visit to China and the future of AI collaboration.",
     "url": "https://www.wired.com/story/ai-agents-hacking-systems-could-push-the-us-and-china-to-cooperate/",
-    "date": "2026-09-01"
-  },
-  {
-    "title": "A Georgia Cop Used Flock to Track 2 Other Cops: His Ex and Her Friend",
-    "source": "Wired",
-    "summary": "After an affair with a fellow police officer ended, a Georgia cop used Flock to track her movements\u2014and those of a man whose vehicle often showed up near hers, internal investigation records show.",
-    "url": "https://www.wired.com/story/a-georgia-cop-used-flock-to-track-2-other-cops-his-ex-and-her-friend/",
     "date": "2026-09-01"
   },
   {
