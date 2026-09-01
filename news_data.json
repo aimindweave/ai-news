@@ -1,5 +1,33 @@
 [
   {
+    "title": "Anthropic\u2019s new Fable release is cheaper, less restrictive",
+    "source": "TechCrunch",
+    "summary": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
+    "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+    "date": "2026-09-01"
+  },
+  {
+    "title": "Google\u2019s answer to Canva is an AI tool where you prompt instead of design",
+    "source": "TechCrunch",
+    "summary": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.",
+    "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+    "date": "2026-09-01"
+  },
+  {
+    "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
+    "source": "TechCrunch",
+    "summary": "OpenAI said that the integration provides read-only access to health records for clinicians.",
+    "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+    "date": "2026-09-01"
+  },
+  {
+    "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
+    "source": "TechCrunch",
+    "summary": "The startup wants to do for IT infrastructure what Cursor did for software engineering.",
+    "url": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
+    "date": "2026-09-01"
+  },
+  {
     "title": "Amazon Alexa can now alert you when something new might tempt you to shop",
     "source": "TechCrunch",
     "summary": "Amazon is adding a new Alexa-powered feature called \u201cUpdate Me When\u201d that can send personalized alerts about product launches, tours, books, shows, and other events that could trigger a purchase.",
@@ -9,7 +37,7 @@
   {
     "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
     "source": "TechCrunch",
-    "summary": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behaviour.",
+    "summary": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behavior.",
     "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
     "date": "2026-09-01"
   },
@@ -77,31 +105,10 @@
     "date": "2026-09-01"
   },
   {
-    "title": "Musk\u2019s faster path to more gas turbines comes with pollution problem",
-    "source": "TechCrunch",
-    "summary": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else \u2014 but it's a bet on a fuel source that's already triggering lawsuits and health studies everywhere his (and others') turbines have gone in.",
-    "url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
-    "date": "2026-09-01"
-  },
-  {
-    "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
-    "source": "TechCrunch",
-    "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
-    "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
-    "date": "2026-09-01"
-  },
-  {
-    "title": "Sony Music, Warner sue Anthropic, alleging a \u2018brazen campaign\u2019 of intellectual property theft",
-    "source": "TechCrunch",
-    "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
-    "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
-    "date": "2026-09-01"
-  },
-  {
-    "title": "At TechBBQ, Europe\u2019s AI conversations kept coming back to: Who\u2019s actually in control?",
-    "source": "TechCrunch",
-    "summary": "Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over AI.",
-    "url": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
+    "title": "How AI plotted an interstellar journey to Alpha Centauri",
+    "source": "MIT Tech Review",
+    "summary": "A nonprofit organization called the Fermi Explorer Mission announced today that it intends to launch a spacecraft to our nearest star system by the end of 2029. It\u2019s a hugely ambitious mission\u2014if all goes well, the spacecraft could take up to 80,000 years to arrive at Alpha Centauri, which is 4.4...",
+    "url": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
     "date": "2026-09-01"
   },
   {
@@ -168,10 +175,10 @@
     "date": "2026-09-01"
   },
   {
-    "title": "The inside story on why OpenAI agents hacked Hugging Face",
-    "source": "MIT Tech Review",
-    "summary": "The models responsible for last month\u2019s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they w...",
-    "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+    "title": "OpenAI Is About to Release Its First AI Model With \u2018Critical\u2019 Cyber Abilities",
+    "source": "Wired",
+    "summary": "The company will give select partners early access to its Astra AI model\u2014so they have time to shore up their defenses.",
+    "url": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/",
     "date": "2026-09-01"
   },
   {
@@ -235,13 +242,6 @@
     "source": "Wired",
     "summary": "A federal judge has called the Department of Defense\u2019s designation of Anthropic as a national security supply-chain risk \u201cillegal and baseless.\u201d",
     "url": "https://www.wired.com/story/a-judge-has-blocked-the-pentagons-attempt-to-blacklist-anthropic/",
-    "date": "2026-09-01"
-  },
-  {
-    "title": "AI Agents Are Hacking Systems. Could That Push the US and China to Cooperate?",
-    "source": "Wired",
-    "summary": "This week on \u201cUncanny Valley,\u201d senior writer Will Knight talks his recent visit to China and the future of AI collaboration.",
-    "url": "https://www.wired.com/story/ai-agents-hacking-systems-could-push-the-us-and-china-to-cooperate/",
     "date": "2026-09-01"
   },
   {

@@ -1,58 +1,36 @@
 [
   {
-    "id": "MiUHjLxm3V0",
-    "title": "The World&#39;s Most Important Machine",
-    "channel": "Veritasium",
-    "description": "The insane machines that make the most advanced computer chips. Sponsored by Brilliant - To learn for free for a full 30 days, ...",
-    "publishedAt": "2025-12-31T15:37:33Z",
-    "thumbnail": "https://i.ytimg.com/vi/MiUHjLxm3V0/hqdefault.jpg",
-    "views": 36971343,
-    "likes": 710509,
-    "url": "https://youtube.com/watch?v=MiUHjLxm3V0"
-  },
-  {
     "id": "wjZofJX0v4M",
     "title": "Transformers, the tech behind LLMs | Deep Learning Chapter 5",
     "channel": "3Blue1Brown",
     "description": "Breaking down how Large Language Models work, visualizing how data flows through. Instead of sponsored ad reads, these ...",
     "publishedAt": "2024-04-01T19:13:57Z",
     "thumbnail": "https://i.ytimg.com/vi/wjZofJX0v4M/hqdefault.jpg",
-    "views": 11012696,
-    "likes": 234155,
+    "views": 11015209,
+    "likes": 234171,
     "url": "https://youtube.com/watch?v=wjZofJX0v4M"
   },
   {
-    "id": "tz23G_UXCGA",
-    "title": "Something is jamming GPS over Europe. Here&#39;s what we found",
-    "channel": "Veritasium",
-    "description": "Something is disrupting GPS signals across Europe. Sponsored by Ground News. Go to https://ground.news/Ve for 40% off the ...",
-    "publishedAt": "2026-06-05T07:09:17Z",
-    "thumbnail": "https://i.ytimg.com/vi/tz23G_UXCGA/hqdefault.jpg",
-    "views": 10426053,
-    "likes": 281108,
-    "url": "https://youtube.com/watch?v=tz23G_UXCGA"
+    "id": "7xTGNNLPyMI",
+    "title": "Deep Dive into LLMs like ChatGPT",
+    "channel": "Andrej Karpathy",
+    "description": "This is a general audience deep dive into the Large Language Model (LLM) AI technology that powers ChatGPT and related ...",
+    "publishedAt": "2025-02-05T18:23:47Z",
+    "thumbnail": "https://i.ytimg.com/vi/7xTGNNLPyMI/hqdefault.jpg",
+    "views": 9091163,
+    "likes": 133956,
+    "url": "https://youtube.com/watch?v=7xTGNNLPyMI"
   },
   {
-    "id": "dFVrncgIvos",
-    "title": "The Blender Question Everyone Gets Wrong",
+    "id": "wt4p2oalmRY",
+    "title": "Is spider web really stronger than steel?",
     "channel": "Veritasium",
-    "description": "Are you smart enough to solve this Google interview question? Use code veritasium at https://incogni.com/veritasium to get an ...",
-    "publishedAt": "2025-02-18T16:03:35Z",
-    "thumbnail": "https://i.ytimg.com/vi/dFVrncgIvos/hqdefault.jpg",
-    "views": 10269692,
-    "likes": 234906,
-    "url": "https://youtube.com/watch?v=dFVrncgIvos"
-  },
-  {
-    "id": "6HVYHNTDOFs",
-    "title": "Why Cold Drinks Were Deadly Before 1914",
-    "channel": "Veritasium",
-    "description": "The rise and fall of a forgotten frozen empire. Sponsored by Brilliant. To learn for free on Brilliant for a full 30 days, go to ...",
-    "publishedAt": "2026-02-03T15:42:10Z",
-    "thumbnail": "https://i.ytimg.com/vi/6HVYHNTDOFs/hqdefault.jpg",
-    "views": 9508842,
-    "likes": 257244,
-    "url": "https://youtube.com/watch?v=6HVYHNTDOFs"
+    "description": "Can you really swing from spider silk? Sponsored by Henson Shaving - Head to https://hensonshaving.com/veritasium and use ...",
+    "publishedAt": "2026-08-02T13:21:11Z",
+    "thumbnail": "https://i.ytimg.com/vi/wt4p2oalmRY/hqdefault.jpg",
+    "views": 8055862,
+    "likes": 135929,
+    "url": "https://youtube.com/watch?v=wt4p2oalmRY"
   },
   {
     "id": "LPZh9BOjkQs",
@@ -61,20 +39,9 @@
     "description": "A light intro to LLMs, chatbots, pretraining, and transformers. Dig deeper here: ...",
     "publishedAt": "2024-11-20T15:07:15Z",
     "thumbnail": "https://i.ytimg.com/vi/LPZh9BOjkQs/hqdefault.jpg",
-    "views": 7310811,
-    "likes": 195735,
+    "views": 7315021,
+    "likes": 195752,
     "url": "https://youtube.com/watch?v=LPZh9BOjkQs"
-  },
-  {
-    "id": "n7cG9twTrms",
-    "title": "The new ChatGPT-5 is CRAZY",
-    "channel": "Mrwhosetheboss",
-    "description": "Hands on with ChatGPT 5! I spend a LOT of time trying to make my videos as concise, polished and useful as possible for you - if ...",
-    "publishedAt": "2025-08-07T18:01:00Z",
-    "thumbnail": "https://i.ytimg.com/vi/n7cG9twTrms/hqdefault.jpg",
-    "views": 6780006,
-    "likes": 178393,
-    "url": "https://youtube.com/watch?v=n7cG9twTrms"
   },
   {
     "id": "tL9Lw250spc",
@@ -83,8 +50,8 @@
     "description": "The hidden math that governs life. Sponsored by Brilliant - Try Brilliant for free, plus get 20% off an annual Premium subscription ...",
     "publishedAt": "2026-07-25T17:29:09Z",
     "thumbnail": "https://i.ytimg.com/vi/tL9Lw250spc/hqdefault.jpg",
-    "views": 5756179,
-    "likes": 146950,
+    "views": 5768555,
+    "likes": 147040,
     "url": "https://youtube.com/watch?v=tL9Lw250spc"
   },
   {
@@ -94,20 +61,9 @@
     "description": "My AI Toolkit: https://academy.jeffsu.org/ai-toolkit?utm_source=youtube&utm_medium=video&utm_campaign=177 Understanding ...",
     "publishedAt": "2025-04-08T13:00:28Z",
     "thumbnail": "https://i.ytimg.com/vi/FwOTs4UxQS4/hqdefault.jpg",
-    "views": 4832049,
-    "likes": 112751,
+    "views": 4834829,
+    "likes": 112763,
     "url": "https://youtube.com/watch?v=FwOTs4UxQS4"
-  },
-  {
-    "id": "hmtuvNfytjM",
-    "title": "Sam Altman Shows Me GPT 5... And What&#39;s Next",
-    "channel": "Cleo Abram",
-    "description": "We're about to time travel into the future Sam Altman is building… Subscribe for more optimistic science and tech stories.",
-    "publishedAt": "2025-08-08T00:09:36Z",
-    "thumbnail": "https://i.ytimg.com/vi/hmtuvNfytjM/hqdefault.jpg",
-    "views": 4760785,
-    "likes": 101117,
-    "url": "https://youtube.com/watch?v=hmtuvNfytjM"
   },
   {
     "id": "EH5jx5qPabU",
@@ -116,20 +72,20 @@
     "description": "Free AI Agents Resources:* https://clickhubspot.com/39c59b More from Futurepedia: Join the fastest-growing AI education ...",
     "publishedAt": "2025-05-21T11:29:00Z",
     "thumbnail": "https://i.ytimg.com/vi/EH5jx5qPabU/hqdefault.jpg",
-    "views": 4098591,
-    "likes": 102586,
+    "views": 4100401,
+    "likes": 102604,
     "url": "https://youtube.com/watch?v=EH5jx5qPabU"
   },
   {
-    "id": "qYNweeDHiyU",
-    "title": "AI, Machine Learning, Deep Learning and Generative AI Explained",
-    "channel": "IBM Technology",
-    "description": "Want to learn more about Agentic AI + Data? Register here → https://ibm.biz/BdeGLe Want to play with the technology yourself?",
-    "publishedAt": "2024-08-05T11:00:52Z",
-    "thumbnail": "https://i.ytimg.com/vi/qYNweeDHiyU/hqdefault.jpg",
-    "views": 3470818,
-    "likes": 76603,
-    "url": "https://youtube.com/watch?v=qYNweeDHiyU"
+    "id": "RQWpF2Gb-gU",
+    "title": "But what is quantum computing?  (Grover&#39;s Algorithm)",
+    "channel": "3Blue1Brown",
+    "description": "Qubits, state vectors, and Grover's algorithm for search. Instead of sponsored ad reads, these lessons are funded directly by ...",
+    "publishedAt": "2025-04-30T12:32:19Z",
+    "thumbnail": "https://i.ytimg.com/vi/RQWpF2Gb-gU/hqdefault.jpg",
+    "views": 3926864,
+    "likes": 93635,
+    "url": "https://youtube.com/watch?v=RQWpF2Gb-gU"
   },
   {
     "id": "pgixxiEAi7Q",
@@ -138,20 +94,20 @@
     "description": "for ps6 .... astro butt GO BIGMODE store https://https://bigmode.com/shop.",
     "publishedAt": "2024-09-12T19:30:07Z",
     "thumbnail": "https://i.ytimg.com/vi/pgixxiEAi7Q/hqdefault.jpg",
-    "views": 3155658,
-    "likes": 124273,
+    "views": 3155717,
+    "likes": 124274,
     "url": "https://youtube.com/watch?v=pgixxiEAi7Q"
   },
   {
-    "id": "9vM4p9NN0Ts",
-    "title": "Stanford CS229 I Machine Learning I Building Large Language Models (LLMs)",
-    "channel": "Stanford Online",
-    "description": "For more information about Stanford's Artificial Intelligence programs visit: https://stanford.io/ai This lecture provides a concise ...",
-    "publishedAt": "2024-08-27T22:02:57Z",
-    "thumbnail": "https://i.ytimg.com/vi/9vM4p9NN0Ts/hqdefault.jpg",
-    "views": 2729837,
-    "likes": 74234,
-    "url": "https://youtube.com/watch?v=9vM4p9NN0Ts"
+    "id": "3HQkVfZ4DNY",
+    "title": "The World&#39;s Heaviest Weight",
+    "channel": "Veritasium",
+    "description": "How do you measure big forces accurately? By calibrating your force transducer on the world's biggest weight - 1000000 pounds ...",
+    "publishedAt": "2026-07-30T13:00:16Z",
+    "thumbnail": "https://i.ytimg.com/vi/3HQkVfZ4DNY/hqdefault.jpg",
+    "views": 2660031,
+    "likes": 61579,
+    "url": "https://youtube.com/watch?v=3HQkVfZ4DNY"
   },
   {
     "id": "b3KpFdb1pW8",
@@ -160,9 +116,20 @@
     "description": "There's a flaw in some virtual wallets. We exploited this flaw to steal $10000 from @mkbhd. Watch the full video to find out how we ...",
     "publishedAt": "2026-08-26T15:00:02Z",
     "thumbnail": "https://i.ytimg.com/vi/b3KpFdb1pW8/hqdefault.jpg",
-    "views": 2581862,
-    "likes": 57167,
+    "views": 2655451,
+    "likes": 58317,
     "url": "https://youtube.com/watch?v=b3KpFdb1pW8"
+  },
+  {
+    "id": "_1G8nrmBKeY",
+    "title": "How do submarines know where they are?",
+    "channel": "Veritasium",
+    "description": "How does a submarine find its way 600m deep in the ocean? Surfacing is obviously the easiest way but not when you want to stay ...",
+    "publishedAt": "2026-08-06T13:00:34Z",
+    "thumbnail": "https://i.ytimg.com/vi/_1G8nrmBKeY/hqdefault.jpg",
+    "views": 2273180,
+    "likes": 73192,
+    "url": "https://youtube.com/watch?v=_1G8nrmBKeY"
   },
   {
     "id": "0vZ_UVLhSQQ",
@@ -171,31 +138,20 @@
     "description": "Learn how to get the most out of chatting with Claude. This tutorial covers the basics of Claude's conversational interface, ...",
     "publishedAt": "2025-12-02T15:55:00Z",
     "thumbnail": "https://i.ytimg.com/vi/0vZ_UVLhSQQ/hqdefault.jpg",
-    "views": 2255870,
-    "likes": 7980,
+    "views": 2258356,
+    "likes": 7981,
     "url": "https://youtube.com/watch?v=0vZ_UVLhSQQ"
   },
   {
-    "id": "E0Hmnixke2g",
-    "title": "All Machine Learning algorithms explained in 17 min",
-    "channel": "Infinite Codes",
-    "description": "All Machine Learning algorithms intuitively explained in 17 min ######################################### I just started ...",
-    "publishedAt": "2024-09-17T08:57:32Z",
-    "thumbnail": "https://i.ytimg.com/vi/E0Hmnixke2g/hqdefault.jpg",
-    "views": 2177497,
-    "likes": 76840,
-    "url": "https://youtube.com/watch?v=E0Hmnixke2g"
-  },
-  {
-    "id": "u0SsejDCVkU",
-    "title": "How 3 Phase Transformers Work – why we need them",
-    "channel": "The Engineering Mindset",
-    "description": "How do 3 phase transformers work, why are three phase transformers used, how do they produce 480V, 277V, 240V, 208V and ...",
-    "publishedAt": "2024-06-11T18:20:33Z",
-    "thumbnail": "https://i.ytimg.com/vi/u0SsejDCVkU/hqdefault.jpg",
-    "views": 2171061,
-    "likes": 40517,
-    "url": "https://youtube.com/watch?v=u0SsejDCVkU"
+    "id": "wZeOwqmSw84",
+    "title": "Learn 97% of Claude in Under 16 Minutes",
+    "channel": "Dan Martell",
+    "description": "Get Your FREE AI Company Operating System here: https://go.danmartell.com/4urNJqa Are you building an AI software ...",
+    "publishedAt": "2026-05-21T13:01:30Z",
+    "thumbnail": "https://i.ytimg.com/vi/wZeOwqmSw84/hqdefault.jpg",
+    "views": 2176563,
+    "likes": 63894,
+    "url": "https://youtube.com/watch?v=wZeOwqmSw84"
   },
   {
     "id": "J1WoNuemKOg",
@@ -204,9 +160,20 @@
     "description": "What does an eclipse look like from the edge of space? We travelled to Spain for the 2026 total solar eclipse to find out.",
     "publishedAt": "2026-08-17T14:30:16Z",
     "thumbnail": "https://i.ytimg.com/vi/J1WoNuemKOg/hqdefault.jpg",
-    "views": 2029511,
-    "likes": 61751,
+    "views": 2038227,
+    "likes": 61839,
     "url": "https://youtube.com/watch?v=J1WoNuemKOg"
+  },
+  {
+    "id": "ldxFjLJ3rVY",
+    "title": "How (and why) to take a logarithm of an image",
+    "channel": "3Blue1Brown",
+    "description": "Escher's Print Gallery, and the tour of complex analysis it invites. Explore our virtual career fair: https://3b1b.co/talent Join channel ...",
+    "publishedAt": "2026-03-22T12:59:00Z",
+    "thumbnail": "https://i.ytimg.com/vi/ldxFjLJ3rVY/hqdefault.jpg",
+    "views": 2031468,
+    "likes": 80369,
+    "url": "https://youtube.com/watch?v=ldxFjLJ3rVY"
   },
   {
     "id": "p09yRj47kNM",
@@ -215,9 +182,20 @@
     "description": "Try out a free trial with StraighterLine to save thousands on tuition: https://www.straighterline.com/bk Want to get ahead in your ...",
     "publishedAt": "2024-12-09T13:30:33Z",
     "thumbnail": "https://i.ytimg.com/vi/p09yRj47kNM/hqdefault.jpg",
-    "views": 2021446,
-    "likes": 55572,
+    "views": 2022661,
+    "likes": 55576,
     "url": "https://youtube.com/watch?v=p09yRj47kNM"
+  },
+  {
+    "id": "j0wJBEZdwLs",
+    "title": "But what is a Laplace Transform?",
+    "channel": "3Blue1Brown",
+    "description": "Visualizing the most important tool for differential equations. Previous chapter: https://youtu.be/-j8PzkZ70Lg Instead of sponsored ...",
+    "publishedAt": "2025-10-12T11:19:53Z",
+    "thumbnail": "https://i.ytimg.com/vi/j0wJBEZdwLs/hqdefault.jpg",
+    "views": 1871404,
+    "likes": 55172,
+    "url": "https://youtube.com/watch?v=j0wJBEZdwLs"
   },
   {
     "id": "sVcwVQRHIc8",
@@ -226,20 +204,9 @@
     "description": "Learn how to implement RAG (Retrieval Augmented Generation) from scratch, straight from a LangChain software engineer.",
     "publishedAt": "2024-04-17T13:54:43Z",
     "thumbnail": "https://i.ytimg.com/vi/sVcwVQRHIc8/hqdefault.jpg",
-    "views": 1586647,
-    "likes": 27669,
+    "views": 1587636,
+    "likes": 27672,
     "url": "https://youtube.com/watch?v=sVcwVQRHIc8"
-  },
-  {
-    "id": "l6DKRf-fAAM",
-    "title": "Reinventing Entropy | Compression is Intelligence Part 1",
-    "channel": "3Blue1Brown",
-    "description": "How to study the compressibility of language. Check out our virtual career fair: https://3b1b.co/talent See new projects before they ...",
-    "publishedAt": "2026-06-07T11:49:51Z",
-    "thumbnail": "https://i.ytimg.com/vi/l6DKRf-fAAM/hqdefault.jpg",
-    "views": 1465829,
-    "likes": 53124,
-    "url": "https://youtube.com/watch?v=l6DKRf-fAAM"
   },
   {
     "id": "5U-V0y-fkSw",
@@ -248,8 +215,8 @@
     "description": "In math you can't truly pick things at random because formulas always give the same result. So if we can't pick randomly, how do ...",
     "publishedAt": "2026-08-24T13:08:34Z",
     "thumbnail": "https://i.ytimg.com/vi/5U-V0y-fkSw/hqdefault.jpg",
-    "views": 1336970,
-    "likes": 43268,
+    "views": 1340949,
+    "likes": 43382,
     "url": "https://youtube.com/watch?v=5U-V0y-fkSw"
   },
   {
@@ -259,9 +226,20 @@
     "description": "Grab my free Cowork Toolkit: https://coworkacademy.ai/toolkit?utm_source=youtube&utm_medium=video&utm_campaign=v202 ...",
     "publishedAt": "2026-04-07T13:02:24Z",
     "thumbnail": "https://i.ytimg.com/vi/z9rdrNrkvDY/hqdefault.jpg",
-    "views": 1332078,
-    "likes": 24796,
+    "views": 1333393,
+    "likes": 24804,
     "url": "https://youtube.com/watch?v=z9rdrNrkvDY"
+  },
+  {
+    "id": "bnjKwiUg-kw",
+    "title": "The dynamics of e^(πi)",
+    "channel": "3Blue1Brown",
+    "description": "A fuller version of this explanation, also including the reason we care about complex exponents in the first place: ...",
+    "publishedAt": "2025-10-12T12:40:46Z",
+    "thumbnail": "https://i.ytimg.com/vi/bnjKwiUg-kw/hqdefault.jpg",
+    "views": 1332582,
+    "likes": 47356,
+    "url": "https://youtube.com/watch?v=bnjKwiUg-kw"
   },
   {
     "id": "iKx3gAODybU",
@@ -270,8 +248,8 @@
     "description": "Lars Brownworth is a historian, teacher, podcaster, and author specializing in Viking history, medieval Europe, and the Byzantine ...",
     "publishedAt": "2026-04-09T17:35:20Z",
     "thumbnail": "https://i.ytimg.com/vi/iKx3gAODybU/hqdefault.jpg",
-    "views": 1281645,
-    "likes": 18067,
+    "views": 1282226,
+    "likes": 18069,
     "url": "https://youtube.com/watch?v=iKx3gAODybU"
   },
   {
@@ -281,31 +259,9 @@
     "description": "Follow these exact steps.",
     "publishedAt": "2026-08-25T19:30:38Z",
     "thumbnail": "https://i.ytimg.com/vi/oQwzYdMEPvI/hqdefault.jpg",
-    "views": 1264963,
-    "likes": 62321,
+    "views": 1273294,
+    "likes": 62498,
     "url": "https://youtube.com/watch?v=oQwzYdMEPvI"
-  },
-  {
-    "id": "rRrBbyv3ChM",
-    "title": "FULL Claude Tutorial for Beginners in 2026! (Become a PRO!)",
-    "channel": "AI Foundations",
-    "description": "Work with me: https://aifoundations.io/join AI Operating System Template: https://go.aifoundations.io/free-aios ...",
-    "publishedAt": "2026-03-09T15:01:27Z",
-    "thumbnail": "https://i.ytimg.com/vi/rRrBbyv3ChM/hqdefault.jpg",
-    "views": 1229562,
-    "likes": 31445,
-    "url": "https://youtube.com/watch?v=rRrBbyv3ChM"
-  },
-  {
-    "id": "aAPpQC-3EyE",
-    "title": "Anthropic CEO warns that without guardrails, AI could be on dangerous path",
-    "channel": "60 Minutes",
-    "description": "Anthropic CEO Dario Amodei warns of the potential dangers of fast moving and unregulated artificial intelligence, while also ...",
-    "publishedAt": "2025-11-17T04:02:54Z",
-    "thumbnail": "https://i.ytimg.com/vi/aAPpQC-3EyE/hqdefault.jpg",
-    "views": 1152897,
-    "likes": 13898,
-    "url": "https://youtube.com/watch?v=aAPpQC-3EyE"
   },
   {
     "id": "xazU4G0Q3Ig",
@@ -314,42 +270,9 @@
     "description": "wishlist animal well! on steam https://store.steampowered.com/app/813230/ANIMAL_WELL/ switch ...",
     "publishedAt": "2024-05-07T19:30:08Z",
     "thumbnail": "https://i.ytimg.com/vi/xazU4G0Q3Ig/hqdefault.jpg",
-    "views": 1117668,
-    "likes": 68228,
+    "views": 1117678,
+    "likes": 68226,
     "url": "https://youtube.com/watch?v=xazU4G0Q3Ig"
-  },
-  {
-    "id": "UtSSMs6ObqY",
-    "title": "Learn Ollama in 15 Minutes - Run LLM Models Locally for FREE",
-    "channel": "Tech With Tim",
-    "description": "Get 25% off SEO Writing using my code TWT25 → https://seowriting.ai/?utm_source=youtube&utm_medium=tech_with_tim In this ...",
-    "publishedAt": "2025-01-13T15:38:28Z",
-    "thumbnail": "https://i.ytimg.com/vi/UtSSMs6ObqY/hqdefault.jpg",
-    "views": 1107730,
-    "likes": 24238,
-    "url": "https://youtube.com/watch?v=UtSSMs6ObqY"
-  },
-  {
-    "id": "7IgVGSaQPaw",
-    "title": "The Complete Machine Learning Roadmap",
-    "channel": "Programming with Mosh",
-    "description": "Go from zero to a machine learning engineer in 12 months. This step-by-step roadmap covers the essential skills you must learn ...",
-    "publishedAt": "2024-07-18T13:00:06Z",
-    "thumbnail": "https://i.ytimg.com/vi/7IgVGSaQPaw/hqdefault.jpg",
-    "views": 1099869,
-    "likes": 29385,
-    "url": "https://youtube.com/watch?v=7IgVGSaQPaw"
-  },
-  {
-    "id": "KoNPJDGmdp8",
-    "title": "Install DeepSeek in VS Code in 30 Seconds #ai #coding",
-    "channel": "Benji Pham",
-    "description": "",
-    "publishedAt": "2025-01-29T04:43:35Z",
-    "thumbnail": "https://i.ytimg.com/vi/KoNPJDGmdp8/hqdefault.jpg",
-    "views": 1038403,
-    "likes": 17036,
-    "url": "https://youtube.com/watch?v=KoNPJDGmdp8"
   },
   {
     "id": "NYFGCESmikA",
@@ -358,20 +281,20 @@
     "description": "DHH is the creator of Ruby on Rails, Omarchy Linux, CTO of 37signals, and a racecar driver. Thank you for listening ❤ Check out ...",
     "publishedAt": "2026-08-26T21:44:41Z",
     "thumbnail": "https://i.ytimg.com/vi/NYFGCESmikA/hqdefault.jpg",
-    "views": 1026235,
-    "likes": 11653,
+    "views": 1049013,
+    "likes": 11807,
     "url": "https://youtube.com/watch?v=NYFGCESmikA"
   },
   {
-    "id": "eiMSapoeyaU",
-    "title": "How To Run Private &amp; Uncensored LLMs Offline | Dolphin Llama 3",
-    "channel": "Global Science Network",
-    "description": "I did test the downloaded LLM and it worked perfectly on a computer that was not connected to the internet. Please be responsible ...",
-    "publishedAt": "2025-02-20T11:59:29Z",
-    "thumbnail": "https://i.ytimg.com/vi/eiMSapoeyaU/hqdefault.jpg",
-    "views": 1014897,
-    "likes": 60052,
-    "url": "https://youtube.com/watch?v=eiMSapoeyaU"
+    "id": "KoNPJDGmdp8",
+    "title": "Install DeepSeek in VS Code in 30 Seconds #ai #coding",
+    "channel": "Benji Pham",
+    "description": "",
+    "publishedAt": "2025-01-29T04:43:35Z",
+    "thumbnail": "https://i.ytimg.com/vi/KoNPJDGmdp8/hqdefault.jpg",
+    "views": 1038581,
+    "likes": 17036,
+    "url": "https://youtube.com/watch?v=KoNPJDGmdp8"
   },
   {
     "id": "UabBYexBD4k",
@@ -380,8 +303,8 @@
     "description": "Ready to become a certified watsonx AI Assistant Engineer? Register now and use code IBMTechYT20 for 20% off of your exam ...",
     "publishedAt": "2026-03-09T11:00:51Z",
     "thumbnail": "https://i.ytimg.com/vi/UabBYexBD4k/hqdefault.jpg",
-    "views": 965536,
-    "likes": 24122,
+    "views": 966103,
+    "likes": 24129,
     "url": "https://youtube.com/watch?v=UabBYexBD4k"
   },
   {
@@ -391,20 +314,9 @@
     "description": "Learn how to use Claude AI step-by-step to actually get real work done. In this complete tutorial, you'll start with the basics like ...",
     "publishedAt": "2026-04-30T07:00:55Z",
     "thumbnail": "https://i.ytimg.com/vi/r2vYObllqJU/hqdefault.jpg",
-    "views": 955015,
-    "likes": 13542,
+    "views": 957551,
+    "likes": 13550,
     "url": "https://youtube.com/watch?v=r2vYObllqJU"
-  },
-  {
-    "id": "1L420xXpDTg",
-    "title": "Complete Machine Learning Course for Beginners | Part 1- Foundation | Sheryians AI School",
-    "channel": "Sheryians AI School",
-    "description": "Instructor - Akarsh Vyas Welcome to the first step of your Machine Learning journey! In this video, we'll walk through the complete ...",
-    "publishedAt": "2025-06-02T14:29:56Z",
-    "thumbnail": "https://i.ytimg.com/vi/1L420xXpDTg/hqdefault.jpg",
-    "views": 924015,
-    "likes": 17317,
-    "url": "https://youtube.com/watch?v=1L420xXpDTg"
   },
   {
     "id": "t_LBECIQQqs",
@@ -413,31 +325,9 @@
     "description": "Claude Design is a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like ...",
     "publishedAt": "2026-04-17T14:59:25Z",
     "thumbnail": "https://i.ytimg.com/vi/t_LBECIQQqs/hqdefault.jpg",
-    "views": 880546,
+    "views": 880632,
     "likes": 25782,
     "url": "https://youtube.com/watch?v=t_LBECIQQqs"
-  },
-  {
-    "id": "WSPChlfxJyA",
-    "title": "Full Claude Tutorial: Beginner to Advanced in 19 Minutes",
-    "channel": "Futurepedia",
-    "description": "Get the free Complete Guide to Claude:* https://clickhubspot.com/dfn More from Futurepedia: Join the Skill Leap AI education ...",
-    "publishedAt": "2026-04-08T13:53:01Z",
-    "thumbnail": "https://i.ytimg.com/vi/WSPChlfxJyA/hqdefault.jpg",
-    "views": 870960,
-    "likes": 14058,
-    "url": "https://youtube.com/watch?v=WSPChlfxJyA"
-  },
-  {
-    "id": "URKml8lgw8Y",
-    "title": "OpenAI is so back... GPT 5.6 Sol first look",
-    "channel": "Fireship",
-    "description": "Try Blacksmith for free to run your GitHub Actions 2x faster - https://www.blacksmith.sh/ OpenAI just released GPT-5.6, which ...",
-    "publishedAt": "2026-07-10T17:25:44Z",
-    "thumbnail": "https://i.ytimg.com/vi/URKml8lgw8Y/hqdefault.jpg",
-    "views": 828552,
-    "likes": 23983,
-    "url": "https://youtube.com/watch?v=URKml8lgw8Y"
   },
   {
     "id": "jXp5D5ZnxGM",
@@ -446,9 +336,20 @@
     "description": "This video takes you through all of the places to find GitHub Copilot in your editor and how to interact with it, along with best kept ...",
     "publishedAt": "2024-02-15T14:22:36Z",
     "thumbnail": "https://i.ytimg.com/vi/jXp5D5ZnxGM/hqdefault.jpg",
-    "views": 800373,
-    "likes": 9507,
+    "views": 800503,
+    "likes": 9508,
     "url": "https://youtube.com/watch?v=jXp5D5ZnxGM"
+  },
+  {
+    "id": "nHAFnH3xRl4",
+    "title": "Could identical twins commit the perfect crime?",
+    "channel": "Veritasium",
+    "description": "The DNA in twins is (almost) exactly the same. So how could a team of forensic scientists tell which twin committed the crime?",
+    "publishedAt": "2026-08-18T11:33:08Z",
+    "thumbnail": "https://i.ytimg.com/vi/nHAFnH3xRl4/hqdefault.jpg",
+    "views": 799096,
+    "likes": 26292,
+    "url": "https://youtube.com/watch?v=nHAFnH3xRl4"
   },
   {
     "id": "pwWBcsxEoLk",
@@ -457,8 +358,8 @@
     "description": "Level up your prompting skills with Coursera, and get 40% off for 3 months of Coursera Plus: https://ntck.co/coursera You're ...",
     "publishedAt": "2025-11-26T18:13:53Z",
     "thumbnail": "https://i.ytimg.com/vi/pwWBcsxEoLk/hqdefault.jpg",
-    "views": 787770,
-    "likes": 32196,
+    "views": 788187,
+    "likes": 32201,
     "url": "https://youtube.com/watch?v=pwWBcsxEoLk"
   },
   {
@@ -468,31 +369,20 @@
     "description": "Learn what Retrieval Augmented Generation (RAG) is and how it combines retrieval and generation to create accurate, ...",
     "publishedAt": "2025-01-23T14:30:05Z",
     "thumbnail": "https://i.ytimg.com/vi/CbAQUqnrDcA/hqdefault.jpg",
-    "views": 771611,
+    "views": 772079,
     "likes": 12444,
     "url": "https://youtube.com/watch?v=CbAQUqnrDcA"
   },
   {
-    "id": "1bUy-1hGZpI",
-    "title": "What is LangChain?",
-    "channel": "IBM Technology",
-    "description": "Learn about IBM watsonx→ https://ibm.biz/BdvkK8 LangChain became immensely popular when it was launched in 2022, but ...",
-    "publishedAt": "2024-03-15T11:00:03Z",
-    "thumbnail": "https://i.ytimg.com/vi/1bUy-1hGZpI/hqdefault.jpg",
-    "views": 759265,
-    "likes": 17564,
-    "url": "https://youtube.com/watch?v=1bUy-1hGZpI"
-  },
-  {
-    "id": "7qO8-kx3gW8",
-    "title": "从 LLM 到 Agent Skill，一期视频带你打通底层逻辑！",
-    "channel": "马克的技术工作坊",
-    "description": "AI 核心概念大串联：LLM, Token, Context, Context Window, Prompt, User Prompt, System Prompt, Tool, MCP, Agent, Agent Skill， ...",
-    "publishedAt": "2026-03-14T14:16:29Z",
-    "thumbnail": "https://i.ytimg.com/vi/7qO8-kx3gW8/hqdefault.jpg",
-    "views": 758753,
-    "likes": 21058,
-    "url": "https://youtube.com/watch?v=7qO8-kx3gW8"
+    "id": "t3jZ2xGOvYg",
+    "title": "The ladybug clock puzzle",
+    "channel": "3Blue1Brown",
+    "description": "This is the first in a set of monthly puzzles, curated by Peter Winkler. This one was originally suggested by Richard Stanley.",
+    "publishedAt": "2026-01-16T14:16:12Z",
+    "thumbnail": "https://i.ytimg.com/vi/t3jZ2xGOvYg/hqdefault.jpg",
+    "views": 753776,
+    "likes": 16952,
+    "url": "https://youtube.com/watch?v=t3jZ2xGOvYg"
   },
   {
     "id": "37Gy9jtLFRU",
@@ -501,8 +391,8 @@
     "description": "Check out this roadmap to become a Prompt Engineering Expert!",
     "publishedAt": "2024-12-28T06:30:01Z",
     "thumbnail": "https://i.ytimg.com/vi/37Gy9jtLFRU/hqdefault.jpg",
-    "views": 737612,
-    "likes": 6379,
+    "views": 737982,
+    "likes": 6380,
     "url": "https://youtube.com/watch?v=37Gy9jtLFRU"
   },
   {
@@ -512,8 +402,8 @@
     "description": "Try RAG Hands-On Labs for Free - https://kode.wiki/4oANO8s Learn how RAG (Retrieval Augmented Generation) solves the ...",
     "publishedAt": "2025-08-13T15:52:09Z",
     "thumbnail": "https://i.ytimg.com/vi/_HQ2H_0Ayy0/hqdefault.jpg",
-    "views": 706643,
-    "likes": 11629,
+    "views": 707510,
+    "likes": 11638,
     "url": "https://youtube.com/watch?v=_HQ2H_0Ayy0"
   },
   {
@@ -523,8 +413,8 @@
     "description": "",
     "publishedAt": "2024-11-26T20:51:16Z",
     "thumbnail": "https://i.ytimg.com/vi/-PlkQno5q50/hqdefault.jpg",
-    "views": 702881,
-    "likes": 12180,
+    "views": 702929,
+    "likes": 12181,
     "url": "https://youtube.com/watch?v=-PlkQno5q50"
   },
   {
@@ -534,8 +424,8 @@
     "description": "如果你喜歡這個影片，請點贊並分享以支持我們的頻道！ ▻ 別忘了訂閱這個頻道，獲取最新影片更新！ 本期看點我們一直以為 ...",
     "publishedAt": "2025-10-20T06:49:22Z",
     "thumbnail": "https://i.ytimg.com/vi/llvwK5B-sqo/hqdefault.jpg",
-    "views": 678292,
-    "likes": 18211,
+    "views": 678813,
+    "likes": 18216,
     "url": "https://youtube.com/watch?v=llvwK5B-sqo"
   },
   {
@@ -545,20 +435,9 @@
     "description": "一句話就能修圖？ Google Gemini AI 圖像整合功能，讓你把兩張圖片「無縫合併」，快速生成全新創意。 操作超簡單：上傳圖片→ ...",
     "publishedAt": "2025-08-28T10:06:13Z",
     "thumbnail": "https://i.ytimg.com/vi/97bs1iMfQRE/hqdefault.jpg",
-    "views": 676490,
+    "views": 676631,
     "likes": 6345,
     "url": "https://youtube.com/watch?v=97bs1iMfQRE"
-  },
-  {
-    "id": "GlYgs6v2YfU",
-    "title": "But what is cross-entropy? | Compression is Intelligence Part 2",
-    "channel": "3Blue1Brown",
-    "description": "Where the loss function for training LLMs comes from. Job opportunities aligned to this audience: https://3b1b.co/talent Early views ...",
-    "publishedAt": "2026-07-16T11:56:04Z",
-    "thumbnail": "https://i.ytimg.com/vi/GlYgs6v2YfU/hqdefault.jpg",
-    "views": 667593,
-    "likes": 20350,
-    "url": "https://youtube.com/watch?v=GlYgs6v2YfU"
   },
   {
     "id": "2TJxpyO3ei4",
@@ -567,20 +446,9 @@
     "description": "Learn how to build a RAG (Retrieval Augmented Generation) app in Python that can let you query/chat with your PDFs using ...",
     "publishedAt": "2024-04-17T15:00:02Z",
     "thumbnail": "https://i.ytimg.com/vi/2TJxpyO3ei4/hqdefault.jpg",
-    "views": 636521,
+    "views": 636558,
     "likes": 16352,
     "url": "https://youtube.com/watch?v=2TJxpyO3ei4"
-  },
-  {
-    "id": "wGffBCfrAsE",
-    "title": "100 random chords, how many intersections?",
-    "channel": "3Blue1Brown",
-    "description": "Part of a series of monthly puzzles done in collaboration with MoMath.",
-    "publishedAt": "2026-06-16T18:04:05Z",
-    "thumbnail": "https://i.ytimg.com/vi/wGffBCfrAsE/hqdefault.jpg",
-    "views": 586662,
-    "likes": 14438,
-    "url": "https://youtube.com/watch?v=wGffBCfrAsE"
   },
   {
     "id": "hLJTcVHW8_I",
@@ -589,20 +457,9 @@
     "description": "AI Agents Explained: A Comprehensive Guide for Beginners by Alfie Marsh Co-Founder & CEO of https://www.getstation.ai/ (0:00) ...",
     "publishedAt": "2024-04-29T23:55:25Z",
     "thumbnail": "https://i.ytimg.com/vi/hLJTcVHW8_I/hqdefault.jpg",
-    "views": 577543,
+    "views": 577891,
     "likes": 9176,
     "url": "https://youtube.com/watch?v=hLJTcVHW8_I"
-  },
-  {
-    "id": "HQ3eVt2jgAY",
-    "title": "$215M AI CEO: How I’d Build a Profitable AI Startup in 30 Days (2026 Playbook)",
-    "channel": "Silicon Valley Girl",
-    "description": "Grab the FREE AI guide for creators — tools, prompts, and real examples to grow faster and create better content: ...",
-    "publishedAt": "2025-12-29T13:00:28Z",
-    "thumbnail": "https://i.ytimg.com/vi/HQ3eVt2jgAY/hqdefault.jpg",
-    "views": 569888,
-    "likes": 12033,
-    "url": "https://youtube.com/watch?v=HQ3eVt2jgAY"
   },
   {
     "id": "3u1k7Jyn434",
@@ -611,20 +468,9 @@
     "description": "En este Tutorial rápido en español, te voy a enseñar a utilizar ChatGPT y te explicaré como funciona para que le saques jugo a ...",
     "publishedAt": "2024-06-03T18:00:05Z",
     "thumbnail": "https://i.ytimg.com/vi/3u1k7Jyn434/hqdefault.jpg",
-    "views": 557547,
-    "likes": 11232,
+    "views": 557960,
+    "likes": 11237,
     "url": "https://youtube.com/watch?v=3u1k7Jyn434"
-  },
-  {
-    "id": "ZHXt0-_gSj4",
-    "title": "Tie random ends: How many loops?",
-    "channel": "3Blue1Brown",
-    "description": "Recent puzzle solutions on Patreon: https://members.3blue1brown.com/posts/158885046?pr=true.",
-    "publishedAt": "2026-05-21T21:49:47Z",
-    "thumbnail": "https://i.ytimg.com/vi/ZHXt0-_gSj4/hqdefault.jpg",
-    "views": 526744,
-    "likes": 18133,
-    "url": "https://youtube.com/watch?v=ZHXt0-_gSj4"
   },
   {
     "id": "NDfoO-_83lg",
@@ -633,30 +479,184 @@
     "description": "加入此频道：/ @黄思平   商务邮箱：1579553056qq@gmail.com 个人微信：uphuangsiping（备注：来自Youtube） 在用的 ...",
     "publishedAt": "2024-09-12T12:00:21Z",
     "thumbnail": "https://i.ytimg.com/vi/NDfoO-_83lg/hqdefault.jpg",
-    "views": 517660,
+    "views": 517745,
     "likes": 11871,
     "url": "https://youtube.com/watch?v=NDfoO-_83lg"
   },
   {
-    "id": "osKyvYJ3PRM",
-    "title": "Everything You Need To Know About Large Language Models (LLMs)",
-    "channel": "Matthew Berman",
-    "description": "A brief introduction to everything you need to know about Large Language Models (LLMs) to go from knowing nothing to having a ...",
-    "publishedAt": "2024-03-07T18:13:15Z",
-    "thumbnail": "https://i.ytimg.com/vi/osKyvYJ3PRM/hqdefault.jpg",
-    "views": 510918,
-    "likes": 12912,
-    "url": "https://youtube.com/watch?v=osKyvYJ3PRM"
+    "id": "nSCDidg7m5I",
+    "title": "【AI新手必看2024】ChatGPT從入門到精通,23個使用技巧完整教程,讓賺錢&amp;工作效率翻100倍！ChatGPT Tutorial for Beginners, 23 tips tricks！",
+    "channel": "小桥AI世界",
+    "description": "【AI新手必看2024】ChatGPT從入門到精通,23個使用技巧完整教程,讓賺錢&工作效率翻100倍！ChatGPT Tutorial for Beginners, ...",
+    "publishedAt": "2024-01-22T10:00:35Z",
+    "thumbnail": "https://i.ytimg.com/vi/nSCDidg7m5I/hqdefault.jpg",
+    "views": 492540,
+    "likes": 8101,
+    "url": "https://youtube.com/watch?v=nSCDidg7m5I"
   },
   {
-    "id": "Tj_Y8VGSNpg",
-    "title": "The COMPLETE story of TRANSFORMERS in 15 Minutes",
-    "channel": "Lowe Quality Movies",
-    "description": "With the release of Transformers One, this is the complete breakdown, recap and summary of the Transformers film series in ...",
-    "publishedAt": "2024-09-11T12:00:37Z",
-    "thumbnail": "https://i.ytimg.com/vi/Tj_Y8VGSNpg/hqdefault.jpg",
-    "views": 510428,
-    "likes": 2889,
-    "url": "https://youtube.com/watch?v=Tj_Y8VGSNpg"
+    "id": "0Q1AQAxpdGg",
+    "title": "How to Create Custom GPT | OpenAI Tutorial",
+    "channel": "Kevin Stratvert",
+    "description": "In this step-by-step tutorial, learn how to create your very own Custom GPT. Whether you're a beginner or an experienced user, ...",
+    "publishedAt": "2024-04-29T07:00:00Z",
+    "thumbnail": "https://i.ytimg.com/vi/0Q1AQAxpdGg/hqdefault.jpg",
+    "views": 491404,
+    "likes": 9214,
+    "url": "https://youtube.com/watch?v=0Q1AQAxpdGg"
+  },
+  {
+    "id": "k4VmdZsmkEw",
+    "title": "ChatGPT Tutorial for Beginner! (Including Free &amp; Paid Users Both)",
+    "channel": "AI Tool Journey",
+    "description": "ChatGPT: https://chatgpt.com/ Curious about what ChatGPT can do in 2025? You're in the right place! Whether you're brand new ...",
+    "publishedAt": "2025-04-06T13:00:06Z",
+    "thumbnail": "https://i.ytimg.com/vi/k4VmdZsmkEw/hqdefault.jpg",
+    "views": 455278,
+    "likes": 8534,
+    "url": "https://youtube.com/watch?v=k4VmdZsmkEw"
+  },
+  {
+    "id": "rYyJm1tD3d0",
+    "title": "The jumping pegs puzzle",
+    "channel": "3Blue1Brown",
+    "description": "Part of a series of monthly puzzles with MoMath.",
+    "publishedAt": "2026-08-18T14:54:17Z",
+    "thumbnail": "https://i.ytimg.com/vi/rYyJm1tD3d0/hqdefault.jpg",
+    "views": 452196,
+    "likes": 10784,
+    "url": "https://youtube.com/watch?v=rYyJm1tD3d0"
+  },
+  {
+    "id": "GchXMRwuWxE",
+    "title": "The AI Agent Tutorial That Should&#39;ve Been Your First (no code)",
+    "channel": "Jeff Su",
+    "description": "Build Your Command Center in Notion - https://www.pressplay.cc/link/s/F8236D6B Create your first AI agent in three simple steps ...",
+    "publishedAt": "2025-08-12T13:00:35Z",
+    "thumbnail": "https://i.ytimg.com/vi/GchXMRwuWxE/hqdefault.jpg",
+    "views": 427106,
+    "likes": 10378,
+    "url": "https://youtube.com/watch?v=GchXMRwuWxE"
+  },
+  {
+    "id": "Bm84BAtOfQw",
+    "title": "You’re Not Behind (Yet): How to Build Your First AI Agent (Full Guide)",
+    "channel": "Dan Martell",
+    "description": "Get Your FREE AI Company Operating System here: https://go.danmartell.com/3SXCfgk Are you building an AI software ...",
+    "publishedAt": "2026-07-15T13:00:36Z",
+    "thumbnail": "https://i.ytimg.com/vi/Bm84BAtOfQw/hqdefault.jpg",
+    "views": 417690,
+    "likes": 13063,
+    "url": "https://youtube.com/watch?v=Bm84BAtOfQw"
+  },
+  {
+    "id": "hYZKrPOyEYk",
+    "title": "LLMs — How ChatGPT works &amp; What is RAG? | Retrieval-Augmented Generation Explained 🔥",
+    "channel": "CodeWithHarry",
+    "description": "Checkout my Job Ready Courses: Data Analytics Course: ...",
+    "publishedAt": "2025-09-02T17:04:49Z",
+    "thumbnail": "https://i.ytimg.com/vi/hYZKrPOyEYk/hqdefault.jpg",
+    "views": 401996,
+    "likes": 11736,
+    "url": "https://youtube.com/watch?v=hYZKrPOyEYk"
+  },
+  {
+    "id": "dCKbRCUyop8",
+    "title": "Editing Faces using Artificial Intelligence",
+    "channel": "Arxiv Insights",
+    "description": "Link to Notebooks: https://drive.google.com/open?id=1LBWcmnUPoHDeaYlRiHokGyjywIdyhAQb Link to the StyleGAN paper: ...",
+    "publishedAt": "2019-09-13T15:31:21Z",
+    "thumbnail": "https://i.ytimg.com/vi/dCKbRCUyop8/hqdefault.jpg",
+    "views": 376073,
+    "likes": 9298,
+    "url": "https://youtube.com/watch?v=dCKbRCUyop8"
+  },
+  {
+    "id": "soBQTtAQJJE",
+    "title": "Learn Prompt Engineering in 13 Minutes  AI Tools Like ChatGPT &amp; Gemini   Complete Guide for Beginner",
+    "channel": "Lavin",
+    "description": "Are you using AI tools like ChatGPT and Gemini but not getting good results? Learn the secret of Prompt Engineering - the skill ...",
+    "publishedAt": "2025-11-10T07:30:34Z",
+    "thumbnail": "https://i.ytimg.com/vi/soBQTtAQJJE/hqdefault.jpg",
+    "views": 373666,
+    "likes": 10211,
+    "url": "https://youtube.com/watch?v=soBQTtAQJJE"
+  },
+  {
+    "id": "nKSk_TiR8YA",
+    "title": "Most devs don&#39;t understand how LLM tokens work",
+    "channel": "Matt Pocock",
+    "description": "Most devs are using LLMs daily but don't have a clue about some of the fundamentals. Understanding tokens is crucial because ...",
+    "publishedAt": "2025-09-19T11:31:59Z",
+    "thumbnail": "https://i.ytimg.com/vi/nKSk_TiR8YA/hqdefault.jpg",
+    "views": 350621,
+    "likes": 11730,
+    "url": "https://youtube.com/watch?v=nKSk_TiR8YA"
+  },
+  {
+    "id": "3Dfp8PdPw5o",
+    "title": "長輩都要會的AI應用，用ChatGPT+ Gemini 讓生活更方便｜完整保姆級教學",
+    "channel": "大有牧森 Austin Chou",
+    "description": "粉絲敲碗的長輩專屬AI應用來啦！搞不好有些功能連你都沒用過  這支影片用6+1招，解決長輩生活不便利！誰說AI只能提升工作效率 ...",
+    "publishedAt": "2026-06-28T13:00:09Z",
+    "thumbnail": "https://i.ytimg.com/vi/3Dfp8PdPw5o/hqdefault.jpg",
+    "views": 325322,
+    "likes": 7171,
+    "url": "https://youtube.com/watch?v=3Dfp8PdPw5o"
+  },
+  {
+    "id": "0H2miBK_gAk",
+    "title": "How to create a great dev environment with Docker",
+    "channel": "Patrick Loeber",
+    "description": "How to create a great local Python development environment with Docker. Learn about Docker Volumes, Docker Compose, how ...",
+    "publishedAt": "2023-01-04T15:44:04Z",
+    "thumbnail": "https://i.ytimg.com/vi/0H2miBK_gAk/hqdefault.jpg",
+    "views": 315013,
+    "likes": 8020,
+    "url": "https://youtube.com/watch?v=0H2miBK_gAk"
+  },
+  {
+    "id": "mHya9J9pkq4",
+    "title": "The tragic tale of Guillaume Le Gentil",
+    "channel": "3Blue1Brown",
+    "description": "From this video: https://youtu.be/hFMaT9oRbs4 Artwork by Kurt Bruns.",
+    "publishedAt": "2025-03-27T16:01:04Z",
+    "thumbnail": "https://i.ytimg.com/vi/mHya9J9pkq4/hqdefault.jpg",
+    "views": 295362,
+    "likes": 12329,
+    "url": "https://youtube.com/watch?v=mHya9J9pkq4"
+  },
+  {
+    "id": "AYQtRqW1xX4",
+    "title": "How to Build &amp; Sell AI Agents in 2026: Ultimate Beginner’s Guide",
+    "channel": "Liam Ottley",
+    "description": "Want an AI Makeover for YOUR Business? https://bit.ly/aimakeover Follow me on Instagram to see behind the scenes: ...",
+    "publishedAt": "2026-03-22T07:54:17Z",
+    "thumbnail": "https://i.ytimg.com/vi/AYQtRqW1xX4/hqdefault.jpg",
+    "views": 288800,
+    "likes": 6792,
+    "url": "https://youtube.com/watch?v=AYQtRqW1xX4"
+  },
+  {
+    "id": "_R_d3ibfttY",
+    "title": "Generative AI vs AI Agents vs Agentic AI Explained | Complete Beginner&#39;s Guide (2026)",
+    "channel": "ezCommit",
+    "description": "Generative AI vs AI Agents vs Agentic AI Explained | Complete Beginner's Guide (2026) Instagram: ...",
+    "publishedAt": "2026-07-25T13:00:37Z",
+    "thumbnail": "https://i.ytimg.com/vi/_R_d3ibfttY/hqdefault.jpg",
+    "views": 278330,
+    "likes": 8556,
+    "url": "https://youtube.com/watch?v=_R_d3ibfttY"
+  },
+  {
+    "id": "bcM9dP_uXJU",
+    "title": "How to Build an AI Agent with Claude Code (Claude AI Agent Tutorial)",
+    "channel": "AI Master",
+    "description": "sponsored Get your 30-day free trial here! https://gohighlevel.com/aimaster Get the full agent-building playbook on AI Master ...",
+    "publishedAt": "2026-06-30T14:26:45Z",
+    "thumbnail": "https://i.ytimg.com/vi/bcM9dP_uXJU/hqdefault.jpg",
+    "views": 277655,
+    "likes": 3067,
+    "url": "https://youtube.com/watch?v=bcM9dP_uXJU"
   }
 ]

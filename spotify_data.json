@@ -93,6 +93,16 @@
   ],
   "episodes": [
     {
+      "id": "The TWIM_0",
+      "name": "World Models and the Future of Spatial AI with Justin Johnson - #775",
+      "show": "The TWIML AI Podcast",
+      "description": "In this episode, Justin Johnson, co-founder of World Labs, joins us to discuss world models and the emerging field of spatial AI. We explore why many researchers see capabilities beyond language as an",
+      "release_date": "2026-09-01",
+      "duration_min": 66,
+      "image": "",
+      "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
+    },
+    {
       "id": "a]6z Pod_0",
       "name": "Daniel Litt: The Mathematician's Guide to AI",
       "show": "a]6z Podcast",
@@ -153,7 +163,7 @@
       "url": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"
     },
     {
-      "id": "The TWIM_0",
+      "id": "The TWIM_1",
       "name": "Why the Next AI Breakthrough May Come from Physics with Max Welling - #774",
       "show": "The TWIML AI Podcast",
       "description": "The conventional wisdom in AI is that the next breakthrough will come from more compute, more data, and larger models. But what if the next leap comes from somewhere else?\n\nIn this episode, Max Wellin",
@@ -203,7 +213,7 @@
       "url": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"
     },
     {
-      "id": "The TWIM_1",
+      "id": "The TWIM_2",
       "name": "Why Image Generation Needs More Than Bigger Models with Fatih Porikli - #773",
       "show": "The TWIML AI Podcast",
       "description": "Text-to-image models have become remarkably good at producing realistic images. But realism isn’t the same as correctness. Ask for several distinct people, a specific composition, or a high-resolution",
@@ -231,16 +241,6 @@
       "duration_min": 233,
       "image": "",
       "url": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"
-    },
-    {
-      "id": "The TWIM_2",
-      "name": "Why Models Are AI’s Next Training Dataset with Damian Borth - #772",
-      "show": "The TWIML AI Podcast",
-      "description": "For more than a decade, AI has advanced by training ever-larger models on ever-larger datasets. But as high-quality training data becomes harder to find and pretraining grows increasingly expensive, r",
-      "release_date": "2026-07-27",
-      "duration_min": 47,
-      "image": "",
-      "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
     },
     {
       "id": "The AI P_0",
