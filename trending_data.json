@@ -1,91 +1,91 @@
 [
   {
-    "title": "Paint.net 5.2 alpha now runs on Linux",
+    "title": "Fable 5.1 World Modeling",
     "source": "Hacker News",
-    "description": "HN Score: 95 | 72 comments",
-    "url": "https://forums.paint.net/topic/134562-paintnet-52-alpha-build-9739/",
-    "score": 95,
-    "date": "2026-09-02",
-    "category": "AI News"
-  },
-  {
-    "title": "Mistral now trains on user input by default, except on enterprise tier",
-    "source": "Hacker News",
-    "description": "HN Score: 294 | 126 comments",
-    "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
-    "score": 294,
+    "description": "HN Score: 84 | 25 comments",
+    "url": "https://github.com/PhiloLabs/fable51-worlds",
+    "score": 84,
     "date": "2026-09-02",
     "category": "AI News"
   },
   {
     "title": "Three sites made 215,128 \u201cbest software\u201d pages for AI. Perplexity cites them",
     "source": "Hacker News",
-    "description": "HN Score: 230 | 108 comments",
+    "description": "HN Score: 260 | 121 comments",
     "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
-    "score": 230,
+    "score": 260,
+    "date": "2026-09-02",
+    "category": "AI News"
+  },
+  {
+    "title": "Altair Basic Interpreter Source Code (1975) [pdf]",
+    "source": "Hacker News",
+    "description": "HN Score: 29 | 10 comments",
+    "url": "https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf",
+    "score": 29,
+    "date": "2026-09-02",
+    "category": "AI News"
+  },
+  {
+    "title": "Can I opt out of my input or output data being used for training?",
+    "source": "Hacker News",
+    "description": "HN Score: 346 | 149 comments",
+    "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+    "score": 346,
+    "date": "2026-09-02",
+    "category": "AI News"
+  },
+  {
+    "title": "Qantas Airbus A380 engine failure in 2010 (2023)",
+    "source": "Hacker News",
+    "description": "HN Score: 57 | 32 comments",
+    "url": "https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7",
+    "score": 57,
     "date": "2026-09-02",
     "category": "AI News"
   },
   {
     "title": "Aging Brains Blend Memories Together Instead of Just Forgetting Them",
     "source": "Hacker News",
-    "description": "HN Score: 130 | 56 comments",
+    "description": "HN Score: 171 | 79 comments",
     "url": "https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/",
-    "score": 130,
+    "score": 171,
     "date": "2026-09-02",
     "category": "AI News"
   },
   {
-    "title": "Firefox's AI Switch Is Off. Telemetry Isn't",
+    "title": "Mamdani Bans AI in NYC Schools",
     "source": "Hacker News",
-    "description": "HN Score: 22 | 8 comments",
-    "url": "https://marius.blog/firefox-155-ai-kill-switch-retest/",
-    "score": 22,
+    "description": "HN Score: 84 | 34 comments",
+    "url": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
+    "score": 84,
     "date": "2026-09-02",
     "category": "AI News"
   },
   {
     "title": "WebLLM: high-performance in-browser LLM inference engine",
     "source": "Hacker News",
-    "description": "HN Score: 59 | 13 comments",
+    "description": "HN Score: 77 | 17 comments",
     "url": "https://github.com/mlc-ai/web-llm",
-    "score": 59,
+    "score": 77,
     "date": "2026-09-02",
     "category": "AI News"
   },
   {
-    "title": "Discontinuation of third level domain registrations for the .name TLD [pdf]",
+    "title": "A docs page is a search query to find AI agents and route them to your company",
     "source": "Hacker News",
-    "description": "HN Score: 34 | 21 comments",
-    "url": "https://itp.cdn.icann.org/en/files/consensus-policies/rsep-2026013-name-request-15-04-2026-en.pdf",
-    "score": 34,
+    "description": "HN Score: 5 | 1 comments",
+    "url": "https://blog.val.town/aeo",
+    "score": 5,
     "date": "2026-09-02",
     "category": "AI News"
   },
   {
-    "title": "Check if a file was made with Claude",
+    "title": "Paint.net 5.2 alpha now runs on Linux",
     "source": "Hacker News",
-    "description": "HN Score: 122 | 85 comments",
-    "url": "https://claude.com/check-content",
-    "score": 122,
-    "date": "2026-09-02",
-    "category": "AI News"
-  },
-  {
-    "title": "Show HN: FrontierHarness Eval \u2013 9 harness, same model, cost per pass varies 17x",
-    "source": "Hacker News",
-    "description": "HN Score: 48 | 24 comments",
-    "url": "https://frontierharness.org",
-    "score": 48,
-    "date": "2026-09-02",
-    "category": "AI News"
-  },
-  {
-    "title": "The race to engineer new knobs for the human brain",
-    "source": "Hacker News",
-    "description": "HN Score: 24 | 3 comments",
-    "url": "https://www.neuroai.science/p/the-race-to-engineer-new-knobs-for",
-    "score": 24,
+    "description": "HN Score: 165 | 132 comments",
+    "url": "https://forums.paint.net/topic/134562-paintnet-52-alpha-build-9739/",
+    "score": 165,
     "date": "2026-09-02",
     "category": "AI News"
   }
