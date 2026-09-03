@@ -1,5 +1,40 @@
 [
   {
+    "title": "Abliteration.ai is making a business out of removing AI guardrails",
+    "source": "TechCrunch",
+    "summary": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
+    "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+    "date": "2026-09-03"
+  },
+  {
+    "title": "Meta is paying to peek at how you use their latest AI model",
+    "source": "TechCrunch",
+    "summary": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who 'contribute' to the development of future models by sharing their prompts and model outputs.",
+    "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+    "date": "2026-09-03"
+  },
+  {
+    "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+    "source": "TechCrunch",
+    "summary": "OpenAI claims that Astra represents 'a new frontier on computer and browser use,' and that it handles tasks with unmatched 'speed, accuracy, and safety.'",
+    "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+    "date": "2026-09-03"
+  },
+  {
+    "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
+    "source": "TechCrunch",
+    "summary": "The family-focused AI assistant wants access to the details of your everyday life, but says it won\u2019t use that data to train AI models or share it with others.",
+    "url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
+    "date": "2026-09-03"
+  },
+  {
+    "title": "Google\u2019s latest AI weather model gives you no excuse to forget your umbrella",
+    "source": "TechCrunch",
+    "summary": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, and Gemini.",
+    "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
+    "date": "2026-09-03"
+  },
+  {
     "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
     "source": "TechCrunch",
     "summary": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.",
@@ -67,41 +102,6 @@
     "source": "TechCrunch",
     "summary": "Jio is betting it can turn an aging computer into an AI-ready PC for as little as about $11 for two months.",
     "url": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
-    "date": "2026-09-03"
-  },
-  {
-    "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
-    "source": "TechCrunch",
-    "summary": "Security companies are scrambling to build products that can monitor not just agents but also the tools and add-ons they use.",
-    "url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
-    "date": "2026-09-03"
-  },
-  {
-    "title": "PSA: Amazon\u2019s shopping AI can now tell you if that message is a scam",
-    "source": "TechCrunch",
-    "summary": "Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer.",
-    "url": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
-    "date": "2026-09-03"
-  },
-  {
-    "title": "Adobe acquires Indian market intelligence startup Rilo",
-    "source": "TechCrunch",
-    "summary": "This is Adobe's second acquisition out of India after Rephrase.ai in 2023",
-    "url": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
-    "date": "2026-09-03"
-  },
-  {
-    "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
-    "source": "TechCrunch",
-    "summary": "Edelson PC is filing 30 new lawsuits against OpenAI over the Tumbler Ridge shooting, escalating claims to aiding and abetting and naming Chris Lehane, though evidence remains unconfirmed.",
-    "url": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
-    "date": "2026-09-03"
-  },
-  {
-    "title": "AfterQuery reportedly becomes Y Combinator\u2019s fastest-ever unicorn, now valued at $3.2B",
-    "source": "TechCrunch",
-    "summary": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
-    "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
     "date": "2026-09-03"
   },
   {
@@ -175,6 +175,20 @@
     "date": "2026-09-03"
   },
   {
+    "title": "GPT-6 Astra Is Here\u2014and OpenAI Thinks It May Kick Off the AGI Era",
+    "source": "Wired",
+    "summary": "OpenAI leaders think the company\u2019s next generation model, which excels at computer use and coding, may mark a major milestone in AI development.",
+    "url": "https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/",
+    "date": "2026-09-03"
+  },
+  {
+    "title": "OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk",
+    "source": "Wired",
+    "summary": "OpenAI recently estimated its Cursor partnership would make more than $1 billion in revenue a year, WIRED has learned. It still walked away after Elon Musk\u2019s SpaceX acquired the AI coding startup.",
+    "url": "https://www.wired.com/story/openai-elon-musk-cursor-billion-revenue/",
+    "date": "2026-09-03"
+  },
+  {
     "title": "Nvidia RTX Spark \u2018Superchip\u2019: The First AI PCs Are Here",
     "source": "Wired",
     "summary": "At IFA 2026, Nvidia and its partners showed off the first RTX Spark-powered laptops and mini PCs, designed to run AI models right on your computer.",
@@ -231,17 +245,10 @@
     "date": "2026-09-03"
   },
   {
-    "title": "OpenAI Is About to Release Its First AI Model With \u2018Critical\u2019 Cyber Abilities",
-    "source": "Wired",
-    "summary": "The company will give select partners early access to its Astra AI model\u2014so they have time to shore up their defenses.",
-    "url": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/",
-    "date": "2026-09-03"
-  },
-  {
-    "title": "Sonos Ace Ultra, Beam Ultra, Sonos Fabric, and a New App: Everything Sonos Just Announced",
-    "source": "Wired",
-    "summary": "Sonos is cramming AI into its software because it\u2019s \u201cvery hot these days.\u201d The new features, which include agentic automation, are opt-in.",
-    "url": "https://www.wired.com/story/sonos-has-new-devices-a-new-os-and-yes-a-new-app/",
+    "title": "Four major AI models suffer rare overlapping downtime",
+    "source": "Ars Technica",
+    "summary": "Service interruptions hit ChatGPT, Claude, Grok, and Gemini practically simultaneously.",
+    "url": "https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/",
     "date": "2026-09-03"
   },
   {
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "227 install commands were found in corporate docs pointing at code nobody owns.",
     "url": "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
-    "date": "2026-09-03"
-  },
-  {
-    "title": "How much of a problem is AI\u2019s water use?",
-    "source": "Ars Technica",
-    "summary": "AI\u2019s water footprint is growing, but location and cooling technology make a difference.",
-    "url": "https://arstechnica.com/ai/2026/08/how-much-of-a-problem-is-ais-water-use/",
     "date": "2026-09-03"
   }
 ]
