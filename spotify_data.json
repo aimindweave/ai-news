@@ -93,7 +93,27 @@
   ],
   "episodes": [
     {
+      "id": "Practica_0",
+      "name": "Less about Models; More about Architecture",
+      "show": "Practical AI",
+      "description": "\n        As AI moves from experimentation to enterprise deployment, are organizations thinking too much about models and not enough about architecture? In this episode, Daniel and Chris talk with C",
+      "release_date": "2026-09-03",
+      "duration_min": 45,
+      "image": "",
+      "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
+    },
+    {
       "id": "a]6z Pod_0",
+      "name": "The $100B Niches Hiding Inside Payments",
+      "show": "a]6z Podcast",
+      "description": "Erik Torenberg is joined by a16z General Partner Alex Rampell and Affirm Co-Founder and CEO Max Levchin for a conversation on 25 years of fintech, from the early days of digital payments to the ori",
+      "release_date": "2026-09-03",
+      "duration_min": 60,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
+      "id": "a]6z Pod_1",
       "name": "Inside Moderna’s Personalized Cancer Vaccine",
       "show": "a]6z Podcast",
       "description": "a16z General Partner Jorge Conde sits down with Moderna CEO Stéphane Bancel to discuss a major milestone for mRNA technology: positive Phase 3 results from Moderna and Merck’s individualized treatm",
@@ -113,22 +133,12 @@
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "Daniel Litt: The Mathematician's Guide to AI",
       "show": "a]6z Podcast",
       "description": "a16z’s Lisha Li sits down with Daniel Litt, Assistant Professor of Mathematics at the University of Toronto, to unpack AI's rapid progress in mathematics, what today's frontier models can actually ",
       "release_date": "2026-09-01",
       "duration_min": 63,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
-    },
-    {
-      "id": "a]6z Pod_2",
-      "name": "Gavin Baker: Why AI Demand Is Outrunning Compute Supply",
-      "show": "a]6z Podcast",
-      "description": "a16z’s David George sits down with Gavin Baker to unpack the state of the AI boom, why demand for intelligence may still be dramatically underestimated, and why the outcome doesn't necessarily have",
-      "release_date": "2026-08-31",
-      "duration_min": 75,
       "image": "",
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
@@ -143,7 +153,7 @@
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
-      "id": "Practica_0",
+      "id": "Practica_1",
       "name": "Building the Foundation for the Agentic AI Era",
       "show": "Practical AI",
       "description": "\n        How do we build an AI ecosystem where agents, tools, and systems can work together at scale? Angie Jones, VP of the Agentic AI Foundation, joins Chris to discuss the open standards and pro",
@@ -173,7 +183,7 @@
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
     },
     {
-      "id": "Practica_1",
+      "id": "Practica_2",
       "name": "AI Proficiency: From Users to Builders",
       "show": "Practical AI",
       "description": "\n        As AI continues to reshape how organizations work, companies are increasingly asking what AI proficiency should look like across their workforce, and how they can help employees adapt with",
@@ -221,16 +231,6 @@
       "duration_min": 56,
       "image": "",
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
-    },
-    {
-      "id": "Practica_2",
-      "name": "Models, Harnesses, and Multi-Agent Systems",
-      "show": "Practical AI",
-      "description": "\n        AI has moved far beyond chatbots, but what exactly are AI models, agents, agent harnesses, and multi-agent systems, and why do they matter?In this episode, Daniel and Chris break do",
-      "release_date": "2026-08-06",
-      "duration_min": 49,
-      "image": "",
-      "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
       "id": "Lex Frid_2",

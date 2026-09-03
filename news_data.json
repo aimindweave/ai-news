@@ -1,5 +1,12 @@
 [
   {
+    "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+    "source": "TechCrunch",
+    "summary": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.",
+    "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+    "date": "2026-09-03"
+  },
+  {
     "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
     "source": "TechCrunch",
     "summary": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
@@ -98,10 +105,24 @@
     "date": "2026-09-03"
   },
   {
-    "title": "OpenAI\u2019s Astra model is on the way \u2014 and very good at breaking into computer systems",
-    "source": "TechCrunch",
-    "summary": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
-    "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+    "title": "The Download: rethinking child safety and fossil-fueled farming",
+    "source": "MIT Tech Review",
+    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Child-monitoring apps might need a reboot Digital harms have become the defining fear of American parents. In response, they\u2019re increasingly turning to content...",
+    "url": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/",
+    "date": "2026-09-03"
+  },
+  {
+    "title": "Agriculture relies on fossil fuels. It\u2019s costing us.",
+    "source": "MIT Tech Review",
+    "summary": "If you\u2019ve had to fill up your vehicle\u2019s gas tank or buy a plane ticket lately, you\u2019ve probably felt the effects of rising fossil-fuel prices. But farmers buying fertilizer for their crops are especially aware of just how far the ripple effects of the conflict in Iran have spread. Fertilizer price...",
+    "url": "https://www.technologyreview.com/2026/09/03/1143320/fertilizer-prices-fossil-fuels/",
+    "date": "2026-09-03"
+  },
+  {
+    "title": "Scaling agentic AI pilots across the enterprise",
+    "source": "MIT Tech Review",
+    "summary": "As agentic AI moves from experimentation toward enterprise deployment, the challenge is figuring out how agents can work together, connect to the systems and data they need, and operate safely across the workflows that run a business. Although agentic AI has been adopted by some 80% of Fortune 50...",
+    "url": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/",
     "date": "2026-09-03"
   },
   {
@@ -154,24 +175,24 @@
     "date": "2026-09-03"
   },
   {
-    "title": "The Download: a secretive antiaging drug and joining virtual power plants",
-    "source": "MIT Tech Review",
-    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. A startup claims it\u2019s found a drug to make your blood young \u2014Antonio Regalado I knew I\u2019d officially become a \u201clongevity influencer\u201d when a company called Gener...",
-    "url": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
+    "title": "Nvidia RTX Spark \u2018Superchip\u2019: The First AI PCs Are Here",
+    "source": "Wired",
+    "summary": "At IFA 2026, Nvidia and its partners showed off the first RTX Spark-powered laptops and mini PCs, designed to run AI models right on your computer.",
+    "url": "https://www.wired.com/story/nvidia-rtx-spark-laptops-first-look/",
     "date": "2026-09-03"
   },
   {
-    "title": "How to sign up for a virtual power plant\u2014and decide whether you should",
-    "source": "MIT Tech Review",
-    "summary": "MIT Technology Review\u2019s How To series helps you get things done. Your thermostat may not look like a power plant. Neither does your electric vehicle, home battery, or HVAC system. But utility and energy companies increasingly want to treat them like one. A virtual power plant, or VPP, is a collec...",
-    "url": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/",
+    "title": "Nvidia\u2019s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI",
+    "source": "Wired",
+    "summary": "The long-rumored deal will give the chip giant access to\u2014and help it promote\u2014a huge repository of open-source AI models and data sets.",
+    "url": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai/",
     "date": "2026-09-03"
   },
   {
-    "title": "A startup claims it\u2019s found a drug to make your blood young",
-    "source": "MIT Tech Review",
-    "summary": "I knew I\u2019d officially become a \u201clongevity influencer\u201d this month when a company called Generation Lab reached out to offer me the chance to write about\u2014and even receive\u2014their new rejuvenation treatment, an injectable combination of two existing drugs which they call 1 Generation. This wasn\u2019t just...",
-    "url": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/",
+    "title": "This Is Flock\u2019s AI Search Tool for Cops",
+    "source": "Wired",
+    "summary": "WIRED rebuilt Flock\u2019s latest search tool from code the company sends to a police officer\u2019s browser. Its AI can keep watch across multiple cameras for anyone fitting a written description.",
+    "url": "https://www.wired.com/story/flock-ai-search-user-interface/",
     "date": "2026-09-03"
   },
   {
@@ -224,24 +245,10 @@
     "date": "2026-09-03"
   },
   {
-    "title": "You Know Who Really Hates AI? Insurance Claims Adjusters",
-    "source": "Wired",
-    "summary": "Of the Glassdoor reviews from claims adjusters that mentioned AI, a staggering 98 percent were negative. \u201cAI is just a tool,\u201d one person tells WIRED. \u201cIt should never be given the keys.\u201d",
-    "url": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/",
-    "date": "2026-09-03"
-  },
-  {
-    "title": "Why the Hottest New Wearables Want to Be Ignored",
-    "source": "Wired",
-    "summary": "Burnt out on wrist buzzes and notification overload? A new crop of minimalist wearables promises to collect your health data without demanding your attention.",
-    "url": "https://www.wired.com/story/why-the-hottest-new-wearables-want-to-be-ignored/",
-    "date": "2026-09-03"
-  },
-  {
-    "title": "The Cybersecurity Apocalypse Is Coming in \u2018Months,\u2019 AI Giants Warn",
-    "source": "Wired",
-    "summary": "Plus: Hackers target over 100 US water systems, ICE puts in an order for robot dogs, and you\u2019ll never guess what \u201cMrChildPorn\u201d was arrested for.",
-    "url": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
+    "title": "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion",
+    "source": "Ars Technica",
+    "summary": "Nvidia says Hugging Face will stay open even as the chipmaker takes control of a key AI hub.",
+    "url": "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/",
     "date": "2026-09-03"
   },
   {
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "AI\u2019s water footprint is growing, but location and cooling technology make a difference.",
     "url": "https://arstechnica.com/ai/2026/08/how-much-of-a-problem-is-ais-water-use/",
-    "date": "2026-09-03"
-  },
-  {
-    "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
-    "source": "Ars Technica",
-    "summary": "Without authorization, 1,200 OpenAI agents conspired among themselves to game a test.",
-    "url": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
     "date": "2026-09-03"
   }
 ]
