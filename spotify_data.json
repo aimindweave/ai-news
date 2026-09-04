@@ -93,6 +93,26 @@
   ],
   "episodes": [
     {
+      "id": "Hard For_0",
+      "name": "The A.I. Mob That Attacked Hugging Face + METR’s Ajeya Cotra",
+      "show": "Hard Fork",
+      "description": "This week, we’re diving into two new reports about the OpenAI-Hugging Face hack. We discuss what’s new and how they fundamentally change our understanding of what happened. Then we’re joined by Aje",
+      "release_date": "2026-09-04",
+      "duration_min": 78,
+      "image": "",
+      "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
+    },
+    {
+      "id": "a]6z Pod_0",
+      "name": "Fei Fei Li: The Race to Build World Models For AI",
+      "show": "a]6z Podcast",
+      "description": "World Labs co-founders Fei-Fei Li, Justin Johnson, and Ben Mildenhall join a16z General Partner Martin Casado to discuss Atlas, their latest world model, and what it reveals about the pursuit of sp",
+      "release_date": "2026-09-04",
+      "duration_min": 44,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
       "id": "Practica_0",
       "name": "Less about Models; More about Architecture",
       "show": "Practical AI",
@@ -103,7 +123,7 @@
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
-      "id": "a]6z Pod_0",
+      "id": "a]6z Pod_1",
       "name": "The $100B Niches Hiding Inside Payments",
       "show": "a]6z Podcast",
       "description": "Erik Torenberg is joined by a16z General Partner Alex Rampell and Affirm Co-Founder and CEO Max Levchin for a conversation on 25 years of fintech, from the early days of digital payments to the ori",
@@ -113,7 +133,7 @@
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "Inside Moderna’s Personalized Cancer Vaccine",
       "show": "a]6z Podcast",
       "description": "a16z General Partner Jorge Conde sits down with Moderna CEO Stéphane Bancel to discuss a major milestone for mRNA technology: positive Phase 3 results from Moderna and Merck’s individualized treatm",
@@ -133,17 +153,7 @@
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
     },
     {
-      "id": "a]6z Pod_2",
-      "name": "Daniel Litt: The Mathematician's Guide to AI",
-      "show": "a]6z Podcast",
-      "description": "a16z’s Lisha Li sits down with Daniel Litt, Assistant Professor of Mathematics at the University of Toronto, to unpack AI's rapid progress in mathematics, what today's frontier models can actually ",
-      "release_date": "2026-09-01",
-      "duration_min": 63,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
-    },
-    {
-      "id": "Hard For_0",
+      "id": "Hard For_1",
       "name": "Meta Shifts the Blame + Do Data Center Bans Work? + The Final HatGPT",
       "show": "Hard Fork",
       "description": "This week, Meta agreed to pay up to $17.1 billion and make major changes to Facebook and Instagram over claims it endangered children with addictive social media platforms. We discuss why it capitu",
@@ -193,21 +203,11 @@
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
-      "id": "Hard For_1",
+      "id": "Hard For_2",
       "name": "OpenAI’s Two-Week Pause + Jill Lepore on the Threat of the “Artificial State” + Train of Thought",
       "show": "Hard Fork",
       "description": "This week, we learned that OpenAI had stopped training new artificial intelligence models while the company reviewed its security measures. Will this encourage other labs to hit the brakes too?",
       "release_date": "2026-08-21",
-      "duration_min": 63,
-      "image": "",
-      "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
-    },
-    {
-      "id": "Hard For_2",
-      "name": "Zuckerberg’s Anti-Doom Fantasy + Finally an A.I. Detector That Works + A.I. Math",
-      "show": "Hard Fork",
-      "description": "This week we’re talking about Mark Zuckerberg’s latest essay, “The Future Is for Everyone,” which outlines his positive new vision about the potential of A.I. But do we think it’s credible? Then, P",
-      "release_date": "2026-08-14",
       "duration_min": 63,
       "image": "",
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
