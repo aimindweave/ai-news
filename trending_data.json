@@ -2,90 +2,90 @@
   {
     "title": "Discovery of a new OpenAI agent message board",
     "source": "Hacker News",
-    "description": "HN Score: 1099 | 868 comments",
+    "description": "HN Score: 1366 | 1107 comments",
     "url": "https://collusion.wiki/",
-    "score": 1099,
+    "score": 1366,
+    "date": "2026-09-04",
+    "category": "AI News"
+  },
+  {
+    "title": "Can AI design circuit boards yet?",
+    "source": "Hacker News",
+    "description": "HN Score: 88 | 65 comments",
+    "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+    "score": 88,
+    "date": "2026-09-04",
+    "category": "AI News"
+  },
+  {
+    "title": "Government Rails Site Hit Hours After CVE Patch",
+    "source": "Hacker News",
+    "description": "HN Score: 55 | 13 comments",
+    "url": "https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/",
+    "score": 55,
+    "date": "2026-09-04",
+    "category": "AI News"
+  },
+  {
+    "title": "GPT-6 Astra on OpenRouter",
+    "source": "Hacker News",
+    "description": "HN Score: 10 | 5 comments",
+    "url": "https://openrouter.ai/openai/gpt-6-astra",
+    "score": 10,
     "date": "2026-09-04",
     "category": "AI News"
   },
   {
     "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
     "source": "Hacker News",
-    "description": "HN Score: 36 | 14 comments",
+    "description": "HN Score: 52 | 28 comments",
     "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
-    "score": 36,
-    "date": "2026-09-04",
-    "category": "AI News"
-  },
-  {
-    "title": "GPT-6 Astra",
-    "source": "Hacker News",
-    "description": "HN Score: 2099 | 1910 comments",
-    "url": "https://openai.com/index/gpt-6-astra/",
-    "score": 2099,
-    "date": "2026-09-04",
-    "category": "AI News"
-  },
-  {
-    "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages",
-    "source": "Hacker News",
-    "description": "HN Score: 105 | 70 comments",
-    "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
-    "score": 105,
+    "score": 52,
     "date": "2026-09-04",
     "category": "AI News"
   },
   {
     "title": "Show HN: TERMy \u2013 A fast terminal assistant that does not use LLMs",
     "source": "Hacker News",
-    "description": "HN Score: 25 | 8 comments",
+    "description": "HN Score: 78 | 25 comments",
     "url": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
-    "score": 25,
+    "score": 78,
     "date": "2026-09-04",
     "category": "AI News"
   },
   {
-    "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+    "title": "'Next-token predictor' is the wrong mental model for LLMs",
     "source": "Hacker News",
-    "description": "HN Score: 666 | 220 comments",
-    "url": "https://inference-docs.cerebras.ai/models/overview",
-    "score": 666,
-    "date": "2026-09-04",
-    "category": "AI News"
-  },
-  {
-    "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
-    "source": "Hacker News",
-    "description": "HN Score: 322 | 60 comments",
-    "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
-    "score": 322,
+    "description": "HN Score: 43 | 94 comments",
+    "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
+    "score": 43,
     "date": "2026-09-04",
     "category": "AI News"
   },
   {
     "title": "Corporate America is getting hooked on open-source AI",
     "source": "Hacker News",
-    "description": "HN Score: 174 | 153 comments",
+    "description": "HN Score: 241 | 226 comments",
     "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
-    "score": 174,
+    "score": 241,
     "date": "2026-09-04",
     "category": "AI News"
   },
   {
-    "title": "The largest electric aircraft just flew [video]",
+    "title": "GPT-6 Astra",
     "source": "Hacker News",
-    "description": "HN Score: 444 | 330 comments",
-    "url": "https://www.youtube.com/watch?v=nM86DBOqgPM",
-    "score": 444,
+    "description": "HN Score: 2141 | 1949 comments",
+    "url": "https://openai.com/index/gpt-6-astra/",
+    "score": 2141,
     "date": "2026-09-04",
     "category": "AI News"
   },
   {
-    "title": "How Fairphone built the Fairphone Gen 6+",
+    "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
     "source": "Hacker News",
-    "description": "HN Score: 163 | 134 comments",
-    "url": "https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/",
-    "score": 163,
+    "description": "HN Score: 355 | 71 comments",
+    "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
+    "score": 355,
     "date": "2026-09-04",
     "category": "AI News"
   }
