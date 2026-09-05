@@ -1,91 +1,91 @@
 [
   {
+    "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
+    "source": "Hacker News",
+    "description": "HN Score: 59 | 0 comments",
+    "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
+    "score": 59,
+    "date": "2026-09-05",
+    "category": "AI News"
+  },
+  {
     "title": "Discovery of a new OpenAI agent message board",
     "source": "Hacker News",
-    "description": "HN Score: 1900 | 1447 comments",
+    "description": "HN Score: 2003 | 1483 comments",
     "url": "https://collusion.wiki/",
-    "score": 1900,
+    "score": 2003,
     "date": "2026-09-05",
     "category": "AI News"
   },
   {
     "title": "Can AI design circuit boards yet?",
     "source": "Hacker News",
-    "description": "HN Score: 310 | 185 comments",
+    "description": "HN Score: 339 | 201 comments",
     "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
-    "score": 310,
+    "score": 339,
     "date": "2026-09-05",
     "category": "AI News"
   },
   {
     "title": "AI handles incidents, engineers lose touch with their systems",
     "source": "Hacker News",
-    "description": "HN Score: 281 | 252 comments",
+    "description": "HN Score: 329 | 286 comments",
     "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
-    "score": 281,
+    "score": 329,
     "date": "2026-09-05",
     "category": "AI News"
   },
   {
     "title": "GPT-6 Astra on OpenRouter",
     "source": "Hacker News",
-    "description": "HN Score: 273 | 188 comments",
+    "description": "HN Score: 290 | 214 comments",
     "url": "https://openrouter.ai/openai/gpt-6-astra",
-    "score": 273,
+    "score": 290,
     "date": "2026-09-05",
     "category": "AI News"
   },
   {
     "title": "Portal by Spotify cut my Claude Code token usage by 90%",
     "source": "Hacker News",
-    "description": "HN Score: 205 | 112 comments",
+    "description": "HN Score: 234 | 143 comments",
     "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
-    "score": 205,
-    "date": "2026-09-05",
-    "category": "AI News"
-  },
-  {
-    "title": "Claude's new system prompt doesn't want to reproduce song lyrics",
-    "source": "Hacker News",
-    "description": "HN Score: 54 | 47 comments",
-    "url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
-    "score": 54,
+    "score": 234,
     "date": "2026-09-05",
     "category": "AI News"
   },
   {
     "title": "GPT-6 Astra",
     "source": "Hacker News",
-    "description": "HN Score: 2207 | 2019 comments",
+    "description": "HN Score: 2215 | 2030 comments",
     "url": "https://openai.com/index/gpt-6-astra/",
-    "score": 2207,
+    "score": 2215,
     "date": "2026-09-05",
     "category": "AI News"
   },
   {
     "title": "Show HN: TERMy \u2013 A fast terminal assistant that does not use LLMs",
     "source": "Hacker News",
-    "description": "HN Score: 167 | 42 comments",
+    "description": "HN Score: 180 | 43 comments",
     "url": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
-    "score": 167,
-    "date": "2026-09-05",
-    "category": "AI News"
-  },
-  {
-    "title": "AMD unveils Threadripper Halo Station, an AI workstation packing 96 cores",
-    "source": "Hacker News",
-    "description": "HN Score: 16 | 4 comments",
-    "url": "https://www.tomshardware.com/pc-components/cpus/amd-unveils-threadripper-halo-station-an-ai-workstation-packing-96-cores-and-dual-liquid-cooled-mi350p-accelerators-the-most-powerful-workstation-in-the-world-can-run-trillion-parameter-models-says-amd",
-    "score": 16,
+    "score": 180,
     "date": "2026-09-05",
     "category": "AI News"
   },
   {
     "title": "Government Rails Site Hit Hours After CVE Patch",
     "source": "Hacker News",
-    "description": "HN Score: 106 | 35 comments",
+    "description": "HN Score: 110 | 35 comments",
     "url": "https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/",
-    "score": 106,
+    "score": 110,
+    "date": "2026-09-05",
+    "category": "AI News"
+  },
+  {
+    "title": "\u201cNext-token predictor\u201d is the wrong mental model for LLMs",
+    "source": "Hacker News",
+    "description": "HN Score: 136 | 282 comments",
+    "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
+    "score": 136,
     "date": "2026-09-05",
     "category": "AI News"
   }
