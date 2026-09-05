@@ -93,6 +93,16 @@
   ],
   "episodes": [
     {
+      "id": "a]6z Pod_0",
+      "name": "Aaron Levie on Why Open AI Wins",
+      "show": "a]6z Podcast",
+      "description": "Box co-founder and CEO Aaron Levie joins MTS hosts Theo Jaffee and Sofia Puccini to make the case for open-weight AI, unpack the economics of open versus closed models, and explain why he believes ",
+      "release_date": "2026-09-05",
+      "duration_min": 31,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
       "id": "Hard For_0",
       "name": "The A.I. Mob That Attacked Hugging Face + METR’s Ajeya Cotra",
       "show": "Hard Fork",
@@ -103,7 +113,7 @@
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
-      "id": "a]6z Pod_0",
+      "id": "a]6z Pod_1",
       "name": "Fei Fei Li: The Race to Build World Models For AI",
       "show": "a]6z Podcast",
       "description": "World Labs co-founders Fei-Fei Li, Justin Johnson, and Ben Mildenhall join a16z General Partner Martin Casado to discuss Atlas, their latest world model, and what it reveals about the pursuit of sp",
@@ -123,22 +133,12 @@
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "The $100B Niches Hiding Inside Payments",
       "show": "a]6z Podcast",
       "description": "Erik Torenberg is joined by a16z General Partner Alex Rampell and Affirm Co-Founder and CEO Max Levchin for a conversation on 25 years of fintech, from the early days of digital payments to the ori",
       "release_date": "2026-09-03",
       "duration_min": 60,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
-    },
-    {
-      "id": "a]6z Pod_2",
-      "name": "Inside Moderna’s Personalized Cancer Vaccine",
-      "show": "a]6z Podcast",
-      "description": "a16z General Partner Jorge Conde sits down with Moderna CEO Stéphane Bancel to discuss a major milestone for mRNA technology: positive Phase 3 results from Moderna and Merck’s individualized treatm",
-      "release_date": "2026-09-02",
-      "duration_min": 40,
       "image": "",
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
