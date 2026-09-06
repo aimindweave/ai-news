@@ -94,6 +94,16 @@
   "episodes": [
     {
       "id": "a]6z Pod_0",
+      "name": "Your AI Doctor Is Coming | Julie Yoo",
+      "show": "a]6z Podcast",
+      "description": "a16z General Partner Julie Yoo joins MTS host Sophia Dew to explain why she believes healthcare could benefit more from AI than almost any other industry, and why decades of slow technology adoptio",
+      "release_date": "2026-09-06",
+      "duration_min": 27,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
+      "id": "a]6z Pod_1",
       "name": "Aaron Levie on Why Open AI Wins",
       "show": "a]6z Podcast",
       "description": "Box co-founder and CEO Aaron Levie joins MTS hosts Theo Jaffee and Sofia Puccini to make the case for open-weight AI, unpack the economics of open versus closed models, and explain why he believes ",
@@ -113,7 +123,7 @@
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "Fei Fei Li: The Race to Build World Models For AI",
       "show": "a]6z Podcast",
       "description": "World Labs co-founders Fei-Fei Li, Justin Johnson, and Ben Mildenhall join a16z General Partner Martin Casado to discuss Atlas, their latest world model, and what it reveals about the pursuit of sp",
@@ -131,16 +141,6 @@
       "duration_min": 45,
       "image": "",
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
-    },
-    {
-      "id": "a]6z Pod_2",
-      "name": "The $100B Niches Hiding Inside Payments",
-      "show": "a]6z Podcast",
-      "description": "Erik Torenberg is joined by a16z General Partner Alex Rampell and Affirm Co-Founder and CEO Max Levchin for a conversation on 25 years of fintech, from the early days of digital payments to the ori",
-      "release_date": "2026-09-03",
-      "duration_min": 60,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
       "id": "The TWIM_0",
