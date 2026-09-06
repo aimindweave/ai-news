@@ -2,81 +2,81 @@
   {
     "title": "The pencil case model of creativity",
     "source": "Hacker News",
-    "description": "HN Score: 12 | 0 comments",
+    "description": "HN Score: 33 | 11 comments",
     "url": "https://dub.uu.nl/en/column/pencil-case-model-creativity",
-    "score": 12,
+    "score": 33,
+    "date": "2026-09-06",
+    "category": "AI News"
+  },
+  {
+    "title": "I Feel about AI",
+    "source": "Hacker News",
+    "description": "HN Score: 122 | 129 comments",
+    "url": "https://beza1e1.tuxen.de/ai_feelings.html",
+    "score": 122,
+    "date": "2026-09-06",
+    "category": "AI News"
+  },
+  {
+    "title": "Research acceleration: The view inside OpenAI",
+    "source": "Hacker News",
+    "description": "HN Score: 8 | 0 comments",
+    "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+    "score": 8,
     "date": "2026-09-06",
     "category": "AI News"
   },
   {
     "title": "AI, Tools and Transformation",
     "source": "Hacker News",
-    "description": "HN Score: 90 | 38 comments",
+    "description": "HN Score: 127 | 56 comments",
     "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
-    "score": 90,
+    "score": 127,
     "date": "2026-09-06",
     "category": "AI News"
   },
   {
     "title": "Discovery of a new OpenAI agent message board",
     "source": "Hacker News",
-    "description": "HN Score: 2216 | 1560 comments",
+    "description": "HN Score: 2241 | 1567 comments",
     "url": "https://collusion.wiki/",
-    "score": 2216,
+    "score": 2241,
     "date": "2026-09-06",
     "category": "AI News"
   },
   {
-    "title": "Don't Use a gmail.com Address",
+    "title": "Fileregister: Tagging and reference layer for your files, in plain text",
     "source": "Hacker News",
-    "description": "HN Score: 30 | 11 comments",
-    "url": "https://crookedtimber.org/2026/09/03/dont-use-a-gmail-com-address/",
-    "score": 30,
+    "description": "HN Score: 17 | 2 comments",
+    "url": "https://github.com/rhsev/fileregister",
+    "score": 17,
     "date": "2026-09-06",
     "category": "AI News"
   },
   {
     "title": "Chrome again exempts Google from user site data settings",
     "source": "Hacker News",
-    "description": "HN Score: 470 | 78 comments",
+    "description": "HN Score: 524 | 96 comments",
     "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
-    "score": 470,
+    "score": 524,
     "date": "2026-09-06",
     "category": "AI News"
   },
   {
     "title": "LLMs as a Cognitive Virus",
     "source": "Hacker News",
-    "description": "HN Score: 308 | 217 comments",
+    "description": "HN Score: 349 | 237 comments",
     "url": "https://arxiv.org/abs/2609.03344",
-    "score": 308,
+    "score": 349,
     "date": "2026-09-06",
     "category": "AI News"
   },
   {
     "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
     "source": "Hacker News",
-    "description": "HN Score: 185 | 41 comments",
+    "description": "HN Score: 197 | 51 comments",
     "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
-    "score": 185,
-    "date": "2026-09-06",
-    "category": "AI News"
-  },
-  {
-    "title": "GPT-6 Astra on robot arms",
-    "source": "Hacker News",
-    "description": "HN Score: 211 | 170 comments",
-    "url": "https://openai.robocurve.org/gpt-6-astra/",
-    "score": 211,
-    "date": "2026-09-06",
-    "category": "AI News"
-  },
-  {
-    "title": "GPT-6 Astra",
-    "source": "Hacker News",
-    "description": "HN Score: 2238 | 2047 comments",
-    "url": "https://openai.com/index/gpt-6-astra/",
-    "score": 2238,
+    "score": 197,
     "date": "2026-09-06",
     "category": "AI News"
   }
