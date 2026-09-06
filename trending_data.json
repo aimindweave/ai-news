@@ -1,82 +1,55 @@
 [
   {
-    "title": "The pencil case model of creativity",
-    "source": "Hacker News",
-    "description": "HN Score: 33 | 11 comments",
-    "url": "https://dub.uu.nl/en/column/pencil-case-model-creativity",
-    "score": 33,
-    "date": "2026-09-06",
-    "category": "AI News"
-  },
-  {
-    "title": "I Feel about AI",
-    "source": "Hacker News",
-    "description": "HN Score: 122 | 129 comments",
-    "url": "https://beza1e1.tuxen.de/ai_feelings.html",
-    "score": 122,
-    "date": "2026-09-06",
-    "category": "AI News"
-  },
-  {
     "title": "Research acceleration: The view inside OpenAI",
     "source": "Hacker News",
-    "description": "HN Score: 8 | 0 comments",
+    "description": "HN Score: 71 | 47 comments",
     "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-    "score": 8,
+    "score": 71,
+    "date": "2026-09-06",
+    "category": "AI News"
+  },
+  {
+    "title": "The pencil case model of creativity",
+    "source": "Hacker News",
+    "description": "HN Score: 52 | 17 comments",
+    "url": "https://dub.uu.nl/en/column/pencil-case-model-creativity",
+    "score": 52,
     "date": "2026-09-06",
     "category": "AI News"
   },
   {
     "title": "AI, Tools and Transformation",
     "source": "Hacker News",
-    "description": "HN Score: 127 | 56 comments",
+    "description": "HN Score: 136 | 60 comments",
     "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
-    "score": 127,
-    "date": "2026-09-06",
-    "category": "AI News"
-  },
-  {
-    "title": "Discovery of a new OpenAI agent message board",
-    "source": "Hacker News",
-    "description": "HN Score: 2241 | 1567 comments",
-    "url": "https://collusion.wiki/",
-    "score": 2241,
-    "date": "2026-09-06",
-    "category": "AI News"
-  },
-  {
-    "title": "Fileregister: Tagging and reference layer for your files, in plain text",
-    "source": "Hacker News",
-    "description": "HN Score: 17 | 2 comments",
-    "url": "https://github.com/rhsev/fileregister",
-    "score": 17,
-    "date": "2026-09-06",
-    "category": "AI News"
-  },
-  {
-    "title": "Chrome again exempts Google from user site data settings",
-    "source": "Hacker News",
-    "description": "HN Score: 524 | 96 comments",
-    "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
-    "score": 524,
+    "score": 136,
     "date": "2026-09-06",
     "category": "AI News"
   },
   {
     "title": "LLMs as a Cognitive Virus",
     "source": "Hacker News",
-    "description": "HN Score: 349 | 237 comments",
+    "description": "HN Score: 361 | 240 comments",
     "url": "https://arxiv.org/abs/2609.03344",
-    "score": 349,
+    "score": 361,
+    "date": "2026-09-06",
+    "category": "AI News"
+  },
+  {
+    "title": "Chrome again exempts Google from user site data settings",
+    "source": "Hacker News",
+    "description": "HN Score: 543 | 104 comments",
+    "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
+    "score": 543,
     "date": "2026-09-06",
     "category": "AI News"
   },
   {
     "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
     "source": "Hacker News",
-    "description": "HN Score: 197 | 51 comments",
+    "description": "HN Score: 206 | 51 comments",
     "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
-    "score": 197,
+    "score": 206,
     "date": "2026-09-06",
     "category": "AI News"
   }
