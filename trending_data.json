@@ -1,55 +1,82 @@
 [
   {
-    "title": "De-Brainrot Vacations",
+    "title": "The Dataflow Model Revisited",
     "source": "Hacker News",
-    "description": "HN Score: 252 | 102 comments",
-    "url": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/",
-    "score": 252,
-    "date": "2026-09-07",
-    "category": "AI News"
-  },
-  {
-    "title": "Smartphone makers don't bother to comply with EU repairability requirements",
-    "source": "Hacker News",
-    "description": "HN Score: 163 | 82 comments",
-    "url": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
-    "score": 163,
+    "description": "HN Score: 53 | 10 comments",
+    "url": "https://www.vldb.org/pvldb/volumes/19/paper/The%20Dataflow%20Model%20Revisited",
+    "score": 53,
     "date": "2026-09-07",
     "category": "AI News"
   },
   {
     "title": "Speculative Decoding in vLLM on AMD GPUs",
     "source": "Hacker News",
-    "description": "HN Score: 77 | 27 comments",
+    "description": "HN Score: 117 | 40 comments",
     "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-    "score": 77,
+    "score": 117,
     "date": "2026-09-07",
     "category": "AI News"
   },
   {
-    "title": "Show HN: Engrim \u2013 A universal, local-first SQLite memory engine for AI CLIs",
+    "title": "De-Brainrot Vacations",
     "source": "Hacker News",
-    "description": "HN Score: 68 | 34 comments",
-    "url": "https://github.com/timgordontg/engrim",
-    "score": 68,
+    "description": "HN Score: 437 | 176 comments",
+    "url": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/",
+    "score": 437,
+    "date": "2026-09-07",
+    "category": "AI News"
+  },
+  {
+    "title": "Smartphone makers don't bother to comply with EU repairability requirements",
+    "source": "Hacker News",
+    "description": "HN Score: 244 | 136 comments",
+    "url": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
+    "score": 244,
+    "date": "2026-09-07",
+    "category": "AI News"
+  },
+  {
+    "title": "Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
+    "source": "Hacker News",
+    "description": "HN Score: 108 | 118 comments",
+    "url": "https://news.ycombinator.com/item?id=49600233",
+    "score": 108,
+    "date": "2026-09-07",
+    "category": "AI News"
+  },
+  {
+    "title": "AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200",
+    "source": "Hacker News",
+    "description": "HN Score: 89 | 98 comments",
+    "url": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
+    "score": 89,
+    "date": "2026-09-07",
+    "category": "AI News"
+  },
+  {
+    "title": "Show HN: Send flowers from your AI agent and make your mum happy",
+    "source": "Hacker News",
+    "description": "HN Score: 10 | 2 comments",
+    "url": "https://news.ycombinator.com/item?id=49599559",
+    "score": 10,
     "date": "2026-09-07",
     "category": "AI News"
   },
   {
     "title": "Research acceleration: The view inside OpenAI",
     "source": "Hacker News",
-    "description": "HN Score: 194 | 160 comments",
+    "description": "HN Score: 202 | 173 comments",
     "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-    "score": 194,
+    "score": 202,
     "date": "2026-09-07",
     "category": "AI News"
   },
   {
     "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
     "source": "Hacker News",
-    "description": "HN Score: 680 | 416 comments",
+    "description": "HN Score: 700 | 428 comments",
     "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
-    "score": 680,
+    "score": 700,
     "date": "2026-09-07",
     "category": "AI News"
   }
