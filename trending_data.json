@@ -1,82 +1,73 @@
 [
   {
+    "title": "Trusting-Trust Attack against an Entire Linux Distribution",
+    "source": "Hacker News",
+    "description": "HN Score: 97 | 20 comments",
+    "url": "https://arxiv.org/abs/2607.24888",
+    "score": 97,
+    "date": "2026-09-07",
+    "category": "AI News"
+  },
+  {
     "title": "The Dataflow Model Revisited",
     "source": "Hacker News",
-    "description": "HN Score: 53 | 10 comments",
+    "description": "HN Score: 75 | 14 comments",
     "url": "https://www.vldb.org/pvldb/volumes/19/paper/The%20Dataflow%20Model%20Revisited",
-    "score": 53,
+    "score": 75,
     "date": "2026-09-07",
     "category": "AI News"
   },
   {
     "title": "Speculative Decoding in vLLM on AMD GPUs",
     "source": "Hacker News",
-    "description": "HN Score: 117 | 40 comments",
+    "description": "HN Score: 125 | 46 comments",
     "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-    "score": 117,
+    "score": 125,
     "date": "2026-09-07",
     "category": "AI News"
   },
   {
-    "title": "De-Brainrot Vacations",
+    "title": "Initial effects of AI technology on employment look positive",
     "source": "Hacker News",
-    "description": "HN Score: 437 | 176 comments",
-    "url": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/",
-    "score": 437,
+    "description": "HN Score: 61 | 95 comments",
+    "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+    "score": 61,
     "date": "2026-09-07",
     "category": "AI News"
   },
   {
     "title": "Smartphone makers don't bother to comply with EU repairability requirements",
     "source": "Hacker News",
-    "description": "HN Score: 244 | 136 comments",
+    "description": "HN Score: 266 | 144 comments",
     "url": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
-    "score": 244,
+    "score": 266,
     "date": "2026-09-07",
     "category": "AI News"
   },
   {
-    "title": "Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
+    "title": "De-Brainrot Vacations",
     "source": "Hacker News",
-    "description": "HN Score: 108 | 118 comments",
-    "url": "https://news.ycombinator.com/item?id=49600233",
-    "score": 108,
+    "description": "HN Score: 454 | 186 comments",
+    "url": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/",
+    "score": 454,
     "date": "2026-09-07",
     "category": "AI News"
   },
   {
-    "title": "AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200",
+    "title": "The smallest edge AI device for local LLMs",
     "source": "Hacker News",
-    "description": "HN Score: 89 | 98 comments",
-    "url": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
-    "score": 89,
+    "description": "HN Score: 17 | 13 comments",
+    "url": "https://tiiny.ai/",
+    "score": 17,
     "date": "2026-09-07",
     "category": "AI News"
   },
   {
-    "title": "Show HN: Send flowers from your AI agent and make your mum happy",
+    "title": "El Yayster \u2013 a resident LLM that inhabits Emacs",
     "source": "Hacker News",
-    "description": "HN Score: 10 | 2 comments",
-    "url": "https://news.ycombinator.com/item?id=49599559",
-    "score": 10,
-    "date": "2026-09-07",
-    "category": "AI News"
-  },
-  {
-    "title": "Research acceleration: The view inside OpenAI",
-    "source": "Hacker News",
-    "description": "HN Score: 202 | 173 comments",
-    "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-    "score": 202,
-    "date": "2026-09-07",
-    "category": "AI News"
-  },
-  {
-    "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
-    "source": "Hacker News",
-    "description": "HN Score: 700 | 428 comments",
-    "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
-    "score": 700,
+    "description": "HN Score: 4 | 4 comments",
+    "url": "https://github.com/yayster/yayster.el",
+    "score": 4,
     "date": "2026-09-07",
     "category": "AI News"
   }
