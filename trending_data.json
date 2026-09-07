@@ -1,46 +1,64 @@
 [
   {
-    "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
+    "title": "Show HN: Engrim \u2013 A universal, local-first SQLite memory engine for AI CLIs",
     "source": "Hacker News",
-    "description": "HN Score: 583 | 388 comments",
-    "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
-    "score": 583,
+    "description": "HN Score: 32 | 9 comments",
+    "url": "https://github.com/timgordontg/engrim",
+    "score": 32,
     "date": "2026-09-07",
     "category": "AI News"
   },
   {
-    "title": "YouTube had a bug \u2013 I used ChatGPT to investigate",
+    "title": "NIXI has killed the 'Dot In' domain name (2025)",
     "source": "Hacker News",
-    "description": "HN Score: 6 | 7 comments",
-    "url": "https://blog.thezilber.com/3-youtube-had-a-bug-chatgpt-helped-me-to-investigate",
-    "score": 6,
+    "description": "HN Score: 9 | 4 comments",
+    "url": "https://www.naavi.org/wp/nixi-has-killed-the-dot-in-domain-name/",
+    "score": 9,
     "date": "2026-09-07",
     "category": "AI News"
   },
   {
     "title": "Research acceleration: The view inside OpenAI",
     "source": "Hacker News",
-    "description": "HN Score: 129 | 84 comments",
+    "description": "HN Score: 172 | 115 comments",
     "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-    "score": 129,
+    "score": 172,
     "date": "2026-09-07",
     "category": "AI News"
   },
   {
-    "title": "AI, Tools and Transformation",
+    "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
     "source": "Hacker News",
-    "description": "HN Score: 149 | 65 comments",
-    "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
-    "score": 149,
+    "description": "HN Score: 643 | 407 comments",
+    "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+    "score": 643,
     "date": "2026-09-07",
     "category": "AI News"
   },
   {
-    "title": "The pencil case model of creativity",
+    "title": "Coop \u2013 Isolated VM Environments for Running Claude Code and Codex",
     "source": "Hacker News",
-    "description": "HN Score: 61 | 20 comments",
-    "url": "https://dub.uu.nl/en/column/pencil-case-model-creativity",
-    "score": 61,
+    "description": "HN Score: 23 | 5 comments",
+    "url": "https://github.com/trailofbits/coop",
+    "score": 23,
+    "date": "2026-09-07",
+    "category": "AI News"
+  },
+  {
+    "title": "ripwire: ripgrep of AI context (CLI+MCP) giving coding agents a map of any repo",
+    "source": "Hacker News",
+    "description": "HN Score: 11 | 7 comments",
+    "url": "https://github.com/redhat-et/ripwire",
+    "score": 11,
+    "date": "2026-09-07",
+    "category": "AI News"
+  },
+  {
+    "title": "US Republicans revolt against Flock AI surveillance as backlash intensifies",
+    "source": "Hacker News",
+    "description": "HN Score: 25 | 4 comments",
+    "url": "https://www.ft.com/content/b207536e-6def-4080-878f-d0eba61d11e0",
+    "score": 25,
     "date": "2026-09-07",
     "category": "AI News"
   }
