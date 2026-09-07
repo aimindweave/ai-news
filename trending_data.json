@@ -1,64 +1,55 @@
 [
   {
-    "title": "Show HN: Engrim \u2013 A universal, local-first SQLite memory engine for AI CLIs",
+    "title": "De-Brainrot Vacations",
     "source": "Hacker News",
-    "description": "HN Score: 32 | 9 comments",
-    "url": "https://github.com/timgordontg/engrim",
-    "score": 32,
+    "description": "HN Score: 252 | 102 comments",
+    "url": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/",
+    "score": 252,
     "date": "2026-09-07",
     "category": "AI News"
   },
   {
-    "title": "NIXI has killed the 'Dot In' domain name (2025)",
+    "title": "Smartphone makers don't bother to comply with EU repairability requirements",
     "source": "Hacker News",
-    "description": "HN Score: 9 | 4 comments",
-    "url": "https://www.naavi.org/wp/nixi-has-killed-the-dot-in-domain-name/",
-    "score": 9,
+    "description": "HN Score: 163 | 82 comments",
+    "url": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
+    "score": 163,
+    "date": "2026-09-07",
+    "category": "AI News"
+  },
+  {
+    "title": "Speculative Decoding in vLLM on AMD GPUs",
+    "source": "Hacker News",
+    "description": "HN Score: 77 | 27 comments",
+    "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+    "score": 77,
+    "date": "2026-09-07",
+    "category": "AI News"
+  },
+  {
+    "title": "Show HN: Engrim \u2013 A universal, local-first SQLite memory engine for AI CLIs",
+    "source": "Hacker News",
+    "description": "HN Score: 68 | 34 comments",
+    "url": "https://github.com/timgordontg/engrim",
+    "score": 68,
     "date": "2026-09-07",
     "category": "AI News"
   },
   {
     "title": "Research acceleration: The view inside OpenAI",
     "source": "Hacker News",
-    "description": "HN Score: 172 | 115 comments",
+    "description": "HN Score: 194 | 160 comments",
     "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-    "score": 172,
+    "score": 194,
     "date": "2026-09-07",
     "category": "AI News"
   },
   {
     "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
     "source": "Hacker News",
-    "description": "HN Score: 643 | 407 comments",
+    "description": "HN Score: 680 | 416 comments",
     "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
-    "score": 643,
-    "date": "2026-09-07",
-    "category": "AI News"
-  },
-  {
-    "title": "Coop \u2013 Isolated VM Environments for Running Claude Code and Codex",
-    "source": "Hacker News",
-    "description": "HN Score: 23 | 5 comments",
-    "url": "https://github.com/trailofbits/coop",
-    "score": 23,
-    "date": "2026-09-07",
-    "category": "AI News"
-  },
-  {
-    "title": "ripwire: ripgrep of AI context (CLI+MCP) giving coding agents a map of any repo",
-    "source": "Hacker News",
-    "description": "HN Score: 11 | 7 comments",
-    "url": "https://github.com/redhat-et/ripwire",
-    "score": 11,
-    "date": "2026-09-07",
-    "category": "AI News"
-  },
-  {
-    "title": "US Republicans revolt against Flock AI surveillance as backlash intensifies",
-    "source": "Hacker News",
-    "description": "HN Score: 25 | 4 comments",
-    "url": "https://www.ft.com/content/b207536e-6def-4080-878f-d0eba61d11e0",
-    "score": 25,
+    "score": 680,
     "date": "2026-09-07",
     "category": "AI News"
   }
