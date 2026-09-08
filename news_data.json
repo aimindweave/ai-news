@@ -1,5 +1,19 @@
 [
   {
+    "title": "Hackers are stealing Claude tokens from subscribers",
+    "source": "TechCrunch",
+    "summary": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
+    "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+    "date": "2026-09-08"
+  },
+  {
+    "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+    "source": "TechCrunch",
+    "summary": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
+    "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+    "date": "2026-09-08"
+  },
+  {
     "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
     "source": "TechCrunch",
     "summary": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more \u2014 making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their data.",
@@ -91,20 +105,6 @@
     "date": "2026-09-08"
   },
   {
-    "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-    "source": "TechCrunch",
-    "summary": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
-    "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
-    "date": "2026-09-08"
-  },
-  {
-    "title": "What will Apple\u2019s John Ternus era look like?",
-    "source": "TechCrunch",
-    "summary": "It s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a \u201chuge launch next week\u201d \u2014 timing that puts Apple s next iPhone event on his desk before he s even settled in. Cook isn t going far...",
-    "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
-    "date": "2026-09-08"
-  },
-  {
     "title": "The Download: our 35 Innovators Under 35 this year",
     "source": "MIT Tech Review",
     "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Introducing our 35 Innovators Under 35 list for 2026 What will the next generation of science and technology look like? Our latest Innovators Under 35 list off...",
@@ -175,7 +175,7 @@
     "date": "2026-09-08"
   },
   {
-    "title": "Muse, Meta's New Personal AI Agent, Needs You to Trust It",
+    "title": "Muse, Meta\u2019s New Personal AI Agent, Needs You to Trust It",
     "source": "Wired",
     "summary": "Designed to compete with OpenClaw and Instinct, the company says Muse can do everything from sell your car to book you a plane ticket.",
     "url": "https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it/",
@@ -242,6 +242,13 @@
     "source": "Wired",
     "summary": "This week on Uncanny Valley, we dig into the latest prediction market buzz, Flock\u2019s AI-powered police search tool, and how tech bros don\u2019t know how to talk about \u201crouge\u201d AI agents",
     "url": "https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/",
+    "date": "2026-09-08"
+  },
+  {
+    "title": "Why this month's Microsoft patch release is a doozy",
+    "source": "Ars Technica",
+    "summary": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks.",
+    "url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
     "date": "2026-09-08"
   },
   {
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "The company is testing robots on tasks that can performed by technicians.",
     "url": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
-    "date": "2026-09-08"
-  },
-  {
-    "title": "Trump blacklisting of 'woke' Anthropic deemed illegal by federal judge",
-    "source": "Ars Technica",
-    "summary": "Anthropic refused to support lethal autonomous warfare and mass surveillance.",
-    "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/",
     "date": "2026-09-08"
   }
 ]
