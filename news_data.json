@@ -1,5 +1,19 @@
 [
   {
+    "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+    "source": "TechCrunch",
+    "summary": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more \u2014 making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their data.",
+    "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+    "date": "2026-09-08"
+  },
+  {
+    "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+    "source": "TechCrunch",
+    "summary": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
+    "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+    "date": "2026-09-08"
+  },
+  {
     "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
     "source": "TechCrunch",
     "summary": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
@@ -7,9 +21,16 @@
     "date": "2026-09-08"
   },
   {
+    "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
+    "source": "TechCrunch",
+    "summary": "Google is speeding up Chrome\u2019s release schedule to ship security patches and new features faster.",
+    "url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
+    "date": "2026-09-08"
+  },
+  {
     "title": "Mistral raises \u20ac3B as sovereign AI becomes big business",
     "source": "TechCrunch",
-    "summary": "The French AI lab has raised \u20ac3 billion at a \u20ac21 billion valuation in a Series D round led by Samsung, Scaleup Europe and PSG Equity.",
+    "summary": "The French AI lab has raised \u20ac3 billion at a \u20ac21 billion valuation in a Series D round led by Samsung, Scaleup Europe, and PSG Equity.",
     "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
     "date": "2026-09-08"
   },
@@ -84,27 +105,6 @@
     "date": "2026-09-08"
   },
   {
-    "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab\u2019s knowledge",
-    "source": "TechCrunch",
-    "summary": "It's the latest failure of OpenAI's internal monitoring and security systems.",
-    "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
-    "date": "2026-09-08"
-  },
-  {
-    "title": "Apple\u2019s Ternus era begins as Nvidia bets on the whole AI stack",
-    "source": "TechCrunch",
-    "summary": "It s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a \u201chuge launch next week\u201d \u2014 timing that puts Apple s next iPhone event on his desk before he s even settled in. Cook isn t going far...",
-    "url": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
-    "date": "2026-09-08"
-  },
-  {
-    "title": "Google\u2019s Gemini Spark can now manage your Google Photos library",
-    "source": "TechCrunch",
-    "summary": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.",
-    "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
-    "date": "2026-09-08"
-  },
-  {
     "title": "The Download: our 35 Innovators Under 35 this year",
     "source": "MIT Tech Review",
     "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Introducing our 35 Innovators Under 35 list for 2026 What will the next generation of science and technology look like? Our latest Innovators Under 35 list off...",
@@ -175,6 +175,20 @@
     "date": "2026-09-08"
   },
   {
+    "title": "Muse, Meta's New Personal AI Agent, Needs You to Trust It",
+    "source": "Wired",
+    "summary": "Designed to compete with OpenClaw and Instinct, the company says Muse can do everything from sell your car to book you a plane ticket.",
+    "url": "https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it/",
+    "date": "2026-09-08"
+  },
+  {
+    "title": "OpenAI Just Claimed a Huge Math Discovery. Some Academics Are Crying Foul",
+    "source": "Wired",
+    "summary": "A landmark announcement by the frontier AI lab has been overshadowed by accusations of impropriety.",
+    "url": "https://www.wired.com/story/openai-navier-stokes-math-discovery-academics/",
+    "date": "2026-09-08"
+  },
+  {
     "title": "Whispering Complaints Into Your Phone May Be the Future of Customer Feedback",
     "source": "Wired",
     "summary": "Forget email surveys or long calls spent on hold. Voicebox lets people send customer feedback by recording a voice note on their phone.",
@@ -231,17 +245,17 @@
     "date": "2026-09-08"
   },
   {
-    "title": "GPT-6 Astra Is Here\u2014and OpenAI Thinks It May Kick Off the AGI Era",
-    "source": "Wired",
-    "summary": "OpenAI leaders think the company\u2019s next generation model, which excels at computer use and coding, may mark a major milestone in AI development.",
-    "url": "https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/",
+    "title": "\u201cThis is the AI men actually use\u201d: Meta ads pushed apps nudifying real teens",
+    "source": "Ars Technica",
+    "summary": "Meta dragged its feet removing ads that nudify young girls' Instagram pics.",
+    "url": "https://arstechnica.com/tech-policy/2026/09/real-photos-of-young-girls-were-in-nudify-app-ads-on-facebook-instagram/",
     "date": "2026-09-08"
   },
   {
-    "title": "OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk",
-    "source": "Wired",
-    "summary": "OpenAI recently estimated its Cursor partnership would make more than $1 billion in revenue a year, WIRED has learned. It still walked away after Elon Musk\u2019s SpaceX acquired the AI coding startup.",
-    "url": "https://www.wired.com/story/openai-elon-musk-cursor-billion-revenue/",
+    "title": "Update to Google\u2019s AI weather model improves forecast accuracy",
+    "source": "Ars Technica",
+    "summary": "Like traditional weather models, it benefits from an expanded set of inputs.",
+    "url": "https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/",
     "date": "2026-09-08"
   },
   {
@@ -333,20 +347,6 @@
     "source": "Ars Technica",
     "summary": "Anthropic refused to support lethal autonomous warfare and mass surveillance.",
     "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/",
-    "date": "2026-09-08"
-  },
-  {
-    "title": "Meta makes AI glasses slightly less creepy with limit on nonconsensual recording",
-    "source": "Ars Technica",
-    "summary": "Meta fixes AI glasses to stop recording any time users cover up the safety light.",
-    "url": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/",
-    "date": "2026-09-08"
-  },
-  {
-    "title": "Anthropic's new hardware standard lets AI agents control the physical world",
-    "source": "Ars Technica",
-    "summary": "Standardized driver interface aims to let devices talk to AI and each other.",
-    "url": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
     "date": "2026-09-08"
   }
 ]
