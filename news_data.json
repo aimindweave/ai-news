@@ -105,6 +105,20 @@
     "date": "2026-09-09"
   },
   {
+    "title": "Batteries just broke another record in the US",
+    "source": "MIT Tech Review",
+    "summary": "Battery installations hit a new record in the US in the second quarter of 2026. In total, 20.2 gigawatt-hours of new capacity came online, according to a new report. That\u2019s enough to supply the daily electricity needs of about 700,000 homes. The surge is putting the country on a trajectory to see...",
+    "url": "https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/",
+    "date": "2026-09-09"
+  },
+  {
+    "title": "Understanding the thermal ceiling in portable power",
+    "source": "MIT Tech Review",
+    "summary": "Plug a phone into a modern charger and the first 10 minutes are impressive. The next 20 are not. This is not a defect. It\u2019s the connected device protecting itself. As temperature rises during charging, a smartphone s battery management system reduces the current it will accept, because heat accel...",
+    "url": "https://www.technologyreview.com/2026/09/09/1143279/understanding-the-thermal-ceiling-in-portable-power/",
+    "date": "2026-09-09"
+  },
+  {
     "title": "What OpenAI\u2019s latest controversy tells us about the future of math",
     "source": "MIT Tech Review",
     "summary": "OpenAI\u2019s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution would be a huge feather...",
@@ -158,20 +172,6 @@
     "source": "MIT Tech Review",
     "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced ...",
     "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
-    "date": "2026-09-09"
-  },
-  {
-    "title": "The Download: selling battlefield drone data and AI reshaping language",
-    "source": "MIT Tech Review",
-    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Data from drones in Ukraine is fueling a new Wild West marketplace \u2014Cory Alpert, a researcher at the University of Melbourne studying AI s impact on democracy,...",
-    "url": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
-    "date": "2026-09-09"
-  },
-  {
-    "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
-    "source": "MIT Tech Review",
-    "summary": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there\u2019s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fig...",
-    "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
     "date": "2026-09-09"
   },
   {
@@ -242,6 +242,13 @@
     "source": "Wired",
     "summary": "This week on Uncanny Valley, we dig into the latest prediction market buzz, Flock\u2019s AI-powered police search tool, and how tech bros don\u2019t know how to talk about \u201crouge\u201d AI agents",
     "url": "https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/",
+    "date": "2026-09-09"
+  },
+  {
+    "title": "Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus.",
+    "source": "Ars Technica",
+    "summary": "Man with bipolar disorder sued OpenAI after surviving ChatGPT-linked suicide attempt.",
+    "url": "https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/",
     "date": "2026-09-09"
   },
   {
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "Interactive mobile 'gizmos' are easy to make, hard to share outside Meta's platform.",
     "url": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
-    "date": "2026-09-09"
-  },
-  {
-    "title": "Inside Meta\u2019s push to put robots to work in data centers",
-    "source": "Ars Technica",
-    "summary": "The company is testing robots on tasks that can performed by technicians.",
-    "url": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
     "date": "2026-09-09"
   }
 ]
