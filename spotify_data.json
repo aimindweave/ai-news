@@ -93,6 +93,16 @@
   ],
   "episodes": [
     {
+      "id": "The TWIM_0",
+      "name": "Do AI Tokenomics Matter More Than Model Benchmarks? with Chris Potts - #776",
+      "show": "The TWIML AI Podcast",
+      "description": "As reasoning models consume more tokens and AI systems become more expensive to run, understanding what those tokens actually buy is becoming increasingly important. In this episode, Stanford professo",
+      "release_date": "2026-09-09",
+      "duration_min": 59,
+      "image": "",
+      "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
+    },
+    {
       "id": "a]6z Pod_0",
       "name": "Who Grades the AI Models? | Ben Horowitz & Rayan Krishnan",
       "show": "a]6z Podcast",
@@ -143,7 +153,7 @@
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
-      "id": "The TWIM_0",
+      "id": "The TWIM_1",
       "name": "World Models and the Future of Spatial AI with Justin Johnson - #775",
       "show": "The TWIML AI Podcast",
       "description": "In this episode, Justin Johnson, co-founder of World Labs, joins us to discuss world models and the emerging field of spatial AI. We explore why many researchers see capabilities beyond language as an",
@@ -183,7 +193,7 @@
       "url": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"
     },
     {
-      "id": "The TWIM_1",
+      "id": "The TWIM_2",
       "name": "Why the Next AI Breakthrough May Come from Physics with Max Welling - #774",
       "show": "The TWIML AI Podcast",
       "description": "The conventional wisdom in AI is that the next breakthrough will come from more compute, more data, and larger models. But what if the next leap comes from somewhere else?\n\nIn this episode, Max Wellin",
@@ -221,16 +231,6 @@
       "duration_min": 0,
       "image": "",
       "url": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"
-    },
-    {
-      "id": "The TWIM_2",
-      "name": "Why Image Generation Needs More Than Bigger Models with Fatih Porikli - #773",
-      "show": "The TWIML AI Podcast",
-      "description": "Text-to-image models have become remarkably good at producing realistic images. But realism isn’t the same as correctness. Ask for several distinct people, a specific composition, or a high-resolution",
-      "release_date": "2026-08-12",
-      "duration_min": 56,
-      "image": "",
-      "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
     },
     {
       "id": "Lex Frid_2",

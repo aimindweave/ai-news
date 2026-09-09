@@ -1,91 +1,91 @@
 [
   {
-    "title": "Tailwind Labs is joining Shopify",
+    "title": "AirPods 5",
     "source": "Hacker News",
-    "description": "HN Score: 438 | 168 comments",
+    "description": "HN Score: 237 | 195 comments",
+    "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+    "score": 237,
+    "date": "2026-09-09",
+    "category": "AI News"
+  },
+  {
+    "title": "Shopify acquires Tailwind",
+    "source": "Hacker News",
+    "description": "HN Score: 728 | 304 comments",
     "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
-    "score": 438,
+    "score": 728,
+    "date": "2026-09-09",
+    "category": "AI News"
+  },
+  {
+    "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
+    "source": "Hacker News",
+    "description": "HN Score: 105 | 45 comments",
+    "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
+    "score": 105,
+    "date": "2026-09-09",
+    "category": "AI News"
+  },
+  {
+    "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
+    "source": "Hacker News",
+    "description": "HN Score: 255 | 96 comments",
+    "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+    "score": 255,
+    "date": "2026-09-09",
+    "category": "AI News"
+  },
+  {
+    "title": "Understanding the recent DDoS attack against Read the Docs",
+    "source": "Hacker News",
+    "description": "HN Score: 112 | 39 comments",
+    "url": "https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/",
+    "score": 112,
     "date": "2026-09-09",
     "category": "AI News"
   },
   {
     "title": "Desert Ant Labs: local, fast models that run on device",
     "source": "Hacker News",
-    "description": "HN Score: 249 | 65 comments",
+    "description": "HN Score: 341 | 85 comments",
     "url": "https://desertant.com/blog/introducing-desert-ant-labs/",
-    "score": 249,
+    "score": 341,
     "date": "2026-09-09",
     "category": "AI News"
   },
   {
-    "title": "Claude, change the 'Add to Cart' button to blue",
+    "title": "Microsoft says email spammers are adopting ASCII smuggling",
     "source": "Hacker News",
-    "description": "HN Score: 578 | 224 comments",
+    "description": "HN Score: 11 | 1 comments",
+    "url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
+    "score": 11,
+    "date": "2026-09-09",
+    "category": "AI News"
+  },
+  {
+    "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
+    "source": "Hacker News",
+    "description": "HN Score: 30 | 5 comments",
+    "url": "https://arxiv.org/abs/2609.09153",
+    "score": 30,
+    "date": "2026-09-09",
+    "category": "AI News"
+  },
+  {
+    "title": "Claude, change the \u201cAdd to Cart\u201d button to blue",
+    "source": "Hacker News",
+    "description": "HN Score: 859 | 355 comments",
     "url": "https://opusfived.dev/",
-    "score": 578,
+    "score": 859,
     "date": "2026-09-09",
     "category": "AI News"
   },
   {
-    "title": "GPT-6 Astra, Looped Transformers, and Hidden Reasoning",
+    "title": "Show HN: Self-hosted company OS, Claude Code and Codex agents in departments",
     "source": "Hacker News",
-    "description": "HN Score: 34 | 1 comments",
-    "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
-    "score": 34,
-    "date": "2026-09-09",
-    "category": "AI News"
-  },
-  {
-    "title": "Anthropic Is Building a Predictive Surveillance System to Monitor Activists",
-    "source": "Hacker News",
-    "description": "HN Score: 32 | 6 comments",
-    "url": "https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/",
-    "score": 32,
-    "date": "2026-09-09",
-    "category": "AI News"
-  },
-  {
-    "title": "Better AI code comment detector",
-    "source": "Hacker News",
-    "description": "HN Score: 9 | 4 comments",
-    "url": "https://entropicthoughts.com/better-ai-comment-classifier",
-    "score": 9,
-    "date": "2026-09-09",
-    "category": "AI News"
-  },
-  {
-    "title": "Rails 8 Guide: Features, Requirements and Upgrade Path (2026)",
-    "source": "Hacker News",
-    "description": "HN Score: 9 | 2 comments",
-    "url": "https://blog.appsignal.com/2024/10/07/whats-new-in-ruby-on-rails-8.html",
-    "score": 9,
-    "date": "2026-09-09",
-    "category": "AI News"
-  },
-  {
-    "title": "Muse \u2013 Meta\u2019s personal AI agent",
-    "source": "Hacker News",
-    "description": "HN Score: 598 | 651 comments",
-    "url": "https://ai.meta.com/muse/",
-    "score": 598,
-    "date": "2026-09-09",
-    "category": "AI News"
-  },
-  {
-    "title": "Show HN: Geiger \u2013 See every AI agent on your machine and what it can touch",
-    "source": "Hacker News",
-    "description": "HN Score: 25 | 14 comments",
-    "url": "https://github.com/Atomburstofficial/geiger",
-    "score": 25,
-    "date": "2026-09-09",
-    "category": "AI News"
-  },
-  {
-    "title": "Microsoft/TracerAI withdraws copyright takedown against Luanti",
-    "source": "Hacker News",
-    "description": "HN Score: 9 | 1 comments",
-    "url": "https://blog.luanti.org/2026/09/08/dmca-rescinded/",
-    "score": 9,
+    "description": "HN Score: 20 | 5 comments",
+    "url": "https://github.com/OtoDock/oto-dock",
+    "score": 20,
     "date": "2026-09-09",
     "category": "AI News"
   }
