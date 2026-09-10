@@ -1,5 +1,26 @@
 [
   {
+    "title": "Meta\u2019s AI agent Muse is now the No. 2 app in the US",
+    "source": "TechCrunch",
+    "summary": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.",
+    "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
+    "date": "2026-09-10"
+  },
+  {
+    "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+    "source": "TechCrunch",
+    "summary": "Come inside the mind of a bot trying to convince the internet it's human.",
+    "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
+    "date": "2026-09-10"
+  },
+  {
+    "title": "India\u2019s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
+    "source": "TechCrunch",
+    "summary": "Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper.",
+    "url": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
+    "date": "2026-09-10"
+  },
+  {
     "title": "AI agents are flooding public services with new requests",
     "source": "TechCrunch",
     "summary": "\u201cThe vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,\u201d the researcher told TechCrunch.",
@@ -84,27 +105,6 @@
     "date": "2026-09-10"
   },
   {
-    "title": "ControlAI\u2019s Connor Leahy on why superintelligence is \u2018not a weapon, it\u2019s an adversary\u2019",
-    "source": "TechCrunch",
-    "summary": "AI companies have been talking about superintelligent AI like it s inevitable, but recent safety incidents like OpenAI s Hugging Face breach are demonstrating the potential dangers of deploying AI systems that are more capable than humans. So what happens when we can t reliably control what these...",
-    "url": "https://techcrunch.com/podcast/controlais-connor-leahy-on-why-superintelligence-is-not-a-weapon-its-an-adversary/",
-    "date": "2026-09-10"
-  },
-  {
-    "title": "Viral AI assistant Instinct now has its own email address",
-    "source": "TechCrunch",
-    "summary": "Instinct\u2019s new email feature lets the AI agent create and manage accounts, contact businesses, handle support requests, and do more on users' behalf.",
-    "url": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
-    "date": "2026-09-10"
-  },
-  {
-    "title": "\u2018Gambling with our lives\u2019: Anthropic researcher quits, warns against self-improving AI",
-    "source": "TechCrunch",
-    "summary": "Anthropic researcher Jacob Coxon resigned over AI extinction fears, calling for pacing agreements between labs.",
-    "url": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
-    "date": "2026-09-10"
-  },
-  {
     "title": "The Download: a \u201cGod-driven\u201d cryptocurrency and a solar engineering roadmap",
     "source": "MIT Tech Review",
     "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. God told them to sell crypto. Their investors lost everything. When Eli Regalado first heard God speak to him, he wondered whether he was hallucinating. Accord...",
@@ -175,6 +175,13 @@
     "date": "2026-09-10"
   },
   {
+    "title": "Is AI Actually Going to Kill Us All?",
+    "source": "Wired",
+    "summary": "This week on \u201cUncanny Valley,\u201d we dig into a former Anthropic researcher\u2019s AI doomsday warning, the latest upgrades from Apple\u2019s event, and the census report that claimed Trump won the 2020 election.",
+    "url": "https://www.wired.com/story/uncanny-valley-podcast-is-ai-actually-going-to-kill-us-all/",
+    "date": "2026-09-10"
+  },
+  {
     "title": "Everything New You Can Do With Siri AI",
     "source": "Wired",
     "summary": "When iOS 27 arrives, it will bring with it a fully revamped assistant for your iPhone.",
@@ -238,10 +245,10 @@
     "date": "2026-09-10"
   },
   {
-    "title": "My Brief Summer Fling With Siri AI",
-    "source": "Wired",
-    "summary": "I was initially enamored with the beta version of Apple\u2019s revamped smartphone assistant. As the full release approaches, I\u2019ve forgotten Siri AI even exists.",
-    "url": "https://www.wired.com/story/my-brief-summer-fling-with-siri-ai/",
+    "title": "Panic builds over bankrupt Spirit\u2019s looming data sale to Google",
+    "source": "Ars Technica",
+    "summary": "'Bankruptcy cannot become the new land grab for AI.\u201d",
+    "url": "https://arstechnica.com/tech-policy/2026/09/panic-builds-over-bankrupt-spirits-looming-data-sale-to-google/",
     "date": "2026-09-10"
   },
   {
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "Google's Pro model updates are seemingly paused, but there's yet another Gemini Flash today.",
     "url": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
-    "date": "2026-09-10"
-  },
-  {
-    "title": "Trump may be forced to reveal secret rules feds use for AI safety testing",
-    "source": "Ars Technica",
-    "summary": "Trump\u2019s secret reviews of frontier AI models may hide corruption, lawsuit says.",
-    "url": "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/",
     "date": "2026-09-10"
   }
 ]
