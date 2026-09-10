@@ -2,91 +2,91 @@
   {
     "title": "Shopify acquires Tailwind",
     "source": "Hacker News",
-    "description": "HN Score: 851 | 341 comments",
+    "description": "HN Score: 942 | 374 comments",
     "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
-    "score": 851,
-    "date": "2026-09-09",
+    "score": 942,
+    "date": "2026-09-10",
+    "category": "AI News"
+  },
+  {
+    "title": "Training a 3.8B LLM to 0.384 CORE for $998 \u2013 Hugo Vergnes",
+    "source": "Hacker News",
+    "description": "HN Score: 18 | 2 comments",
+    "url": "https://hugovergnes.github.io/little-lm-3-8b/",
+    "score": 18,
+    "date": "2026-09-10",
     "category": "AI News"
   },
   {
     "title": "AirPods 5",
     "source": "Hacker News",
-    "description": "HN Score: 350 | 289 comments",
+    "description": "HN Score: 411 | 326 comments",
     "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
-    "score": 350,
-    "date": "2026-09-09",
+    "score": 411,
+    "date": "2026-09-10",
     "category": "AI News"
   },
   {
     "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
     "source": "Hacker News",
-    "description": "HN Score: 328 | 117 comments",
+    "description": "HN Score: 372 | 129 comments",
     "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
-    "score": 328,
-    "date": "2026-09-09",
-    "category": "AI News"
-  },
-  {
-    "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
-    "source": "Hacker News",
-    "description": "HN Score: 159 | 65 comments",
-    "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
-    "score": 159,
-    "date": "2026-09-09",
+    "score": 372,
+    "date": "2026-09-10",
     "category": "AI News"
   },
   {
     "title": "Desert Ant Labs: local, fast models that run on device",
     "source": "Hacker News",
-    "description": "HN Score: 375 | 89 comments",
+    "description": "HN Score: 416 | 93 comments",
     "url": "https://desertant.com/blog/introducing-desert-ant-labs/",
-    "score": 375,
-    "date": "2026-09-09",
+    "score": 416,
+    "date": "2026-09-10",
+    "category": "AI News"
+  },
+  {
+    "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
+    "source": "Hacker News",
+    "description": "HN Score: 192 | 77 comments",
+    "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
+    "score": 192,
+    "date": "2026-09-10",
+    "category": "AI News"
+  },
+  {
+    "title": "A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming",
+    "source": "Hacker News",
+    "description": "HN Score: 15 | 9 comments",
+    "url": "https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/",
+    "score": 15,
+    "date": "2026-09-10",
     "category": "AI News"
   },
   {
     "title": "Understanding the recent DDoS attack against Read the Docs",
     "source": "Hacker News",
-    "description": "HN Score: 143 | 48 comments",
+    "description": "HN Score: 169 | 58 comments",
     "url": "https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/",
-    "score": 143,
-    "date": "2026-09-09",
-    "category": "AI News"
-  },
-  {
-    "title": "Microsoft says email spammers are adopting ASCII smuggling",
-    "source": "Hacker News",
-    "description": "HN Score: 35 | 19 comments",
-    "url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
-    "score": 35,
-    "date": "2026-09-09",
-    "category": "AI News"
-  },
-  {
-    "title": "Muse \u2013 Meta\u2019s personal AI agent",
-    "source": "Hacker News",
-    "description": "HN Score: 635 | 697 comments",
-    "url": "https://ai.meta.com/muse/",
-    "score": 635,
-    "date": "2026-09-09",
+    "score": 169,
+    "date": "2026-09-10",
     "category": "AI News"
   },
   {
     "title": "Claude, change the \u201cAdd to Cart\u201d button to blue",
     "source": "Hacker News",
-    "description": "HN Score: 967 | 388 comments",
+    "description": "HN Score: 1060 | 411 comments",
     "url": "https://opusfived.dev/",
-    "score": 967,
-    "date": "2026-09-09",
+    "score": 1060,
+    "date": "2026-09-10",
     "category": "AI News"
   },
   {
-    "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
+    "title": "Microsoft says email spammers are adopting ASCII smuggling",
     "source": "Hacker News",
-    "description": "HN Score: 40 | 12 comments",
-    "url": "https://arxiv.org/abs/2609.09153",
-    "score": 40,
-    "date": "2026-09-09",
+    "description": "HN Score: 51 | 29 comments",
+    "url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
+    "score": 51,
+    "date": "2026-09-10",
     "category": "AI News"
   }
 ]
