@@ -93,6 +93,26 @@
   ],
   "episodes": [
     {
+      "id": "Practica_0",
+      "name": "Computer-Use Agents and the Future of the Agentic Internet",
+      "show": "Practical AI",
+      "description": "\n        Longtime followers of Practical AI know that multi-repeat guest and friend Demetrios Brinkmann combines brilliant insight and playful banter into one fun-filled show, and this conversion w",
+      "release_date": "2026-09-10",
+      "duration_min": 56,
+      "image": "",
+      "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
+    },
+    {
+      "id": "a]6z Pod_0",
+      "name": "How AI Is Rewriting the Power Law of Venture Capital",
+      "show": "a]6z Podcast",
+      "description": "a16z’s Jen Kha and David George sit down with Accolade Partners’ Aram Verdiyan to discuss how AI is changing the power law of technology investing, why the largest companies can compound advantages",
+      "release_date": "2026-09-10",
+      "duration_min": 49,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
       "id": "The TWIM_0",
       "name": "Do AI Tokenomics Matter More Than Model Benchmarks? with Chris Potts - #776",
       "show": "The TWIML AI Podcast",
@@ -103,7 +123,7 @@
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
     },
     {
-      "id": "a]6z Pod_0",
+      "id": "a]6z Pod_1",
       "name": "Who Grades the AI Models? | Ben Horowitz & Rayan Krishnan",
       "show": "a]6z Podcast",
       "description": "a16z’s Erik Torenberg, Ben Horowitz, and Jennifer Li sit down with Vals founder and CEO Rayan Krishnan to discuss one of AI’s increasingly difficult problems: how do you actually measure whether a ",
@@ -113,22 +133,12 @@
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "OpenAI Researchers on the Future of Mathematical Reasoning",
       "show": "a]6z Podcast",
       "description": "a16z Infra Partner Lisha Li sits down with OpenAI mathematicians Mehtaab Sawhney and Mark Sellke to discuss how quickly AI’s mathematical capabilities are advancing, what recent results reveal abou",
       "release_date": "2026-09-08",
       "duration_min": 65,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
-    },
-    {
-      "id": "a]6z Pod_2",
-      "name": "Can Open Source Keep AI Power From Concentrating?",
-      "show": "a]6z Podcast",
-      "description": "MTS host Sophia Dew visits the Open Source AI Summit in San Francisco to ask researchers and founders across the AI stack a central question: can open source prevent AI power from concentrating in ",
-      "release_date": "2026-09-07",
-      "duration_min": 8,
       "image": "",
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
@@ -143,7 +153,7 @@
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
-      "id": "Practica_0",
+      "id": "Practica_1",
       "name": "Less about Models; More about Architecture",
       "show": "Practical AI",
       "description": "\n        As AI moves from experimentation to enterprise deployment, are organizations thinking too much about models and not enough about architecture? In this episode, Daniel and Chris talk with C",
@@ -173,7 +183,7 @@
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
-      "id": "Practica_1",
+      "id": "Practica_2",
       "name": "Building the Foundation for the Agentic AI Era",
       "show": "Practical AI",
       "description": "\n        How do we build an AI ecosystem where agents, tools, and systems can work together at scale? Angie Jones, VP of the Agentic AI Foundation, joins Chris to discuss the open standards and pro",
@@ -201,16 +211,6 @@
       "duration_min": 58,
       "image": "",
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
-    },
-    {
-      "id": "Practica_2",
-      "name": "AI Proficiency: From Users to Builders",
-      "show": "Practical AI",
-      "description": "\n        As AI continues to reshape how organizations work, companies are increasingly asking what AI proficiency should look like across their workforce, and how they can help employees adapt with",
-      "release_date": "2026-08-25",
-      "duration_min": 56,
-      "image": "",
-      "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
       "id": "Hard For_2",
