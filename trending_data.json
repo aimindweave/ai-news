@@ -1,73 +1,91 @@
 [
   {
-    "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
-    "source": "Hacker News",
-    "description": "HN Score: 229 | 109 comments",
-    "url": "https://cognition.com/blog/swe-2",
-    "score": 229,
-    "date": "2026-09-10",
-    "category": "AI News"
-  },
-  {
     "title": "More questions about whether researchers can trust OpenAI with unpublished math",
     "source": "Hacker News",
-    "description": "HN Score: 376 | 471 comments",
+    "description": "HN Score: 591 | 591 comments",
     "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
-    "score": 376,
+    "score": 591,
     "date": "2026-09-10",
     "category": "AI News"
   },
   {
-    "title": ">10x More Efficient Pretraining",
+    "title": "OpenAI Agents API",
     "source": "Hacker News",
-    "description": "HN Score: 102 | 53 comments",
-    "url": "https://magic.dev/blog/pretraining#",
-    "score": 102,
+    "description": "HN Score: 88 | 62 comments",
+    "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+    "score": 88,
     "date": "2026-09-10",
     "category": "AI News"
   },
   {
-    "title": "Show HN: MultiMatte, a Promptable Image Background Removal Model",
+    "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
     "source": "Hacker News",
-    "description": "HN Score: 25 | 4 comments",
-    "url": "https://usefeyn.com/blog/multimatte/",
-    "score": 25,
+    "description": "HN Score: 339 | 140 comments",
+    "url": "https://cognition.com/blog/swe-2",
+    "score": 339,
+    "date": "2026-09-10",
+    "category": "AI News"
+  },
+  {
+    "title": "OpenAI\u2019s Navier-Stokes release included a Lean 4 formal proof",
+    "source": "Hacker News",
+    "description": "HN Score: 121 | 119 comments",
+    "url": "https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/",
+    "score": 121,
     "date": "2026-09-10",
     "category": "AI News"
   },
   {
     "title": "Detecting and countering misuse of AI: September 2026",
     "source": "Hacker News",
-    "description": "HN Score: 16 | 4 comments",
+    "description": "HN Score: 69 | 132 comments",
     "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
-    "score": 16,
+    "score": 69,
     "date": "2026-09-10",
     "category": "AI News"
   },
   {
-    "title": "On Next-Gen Transformer: Loops Are Not What You Need",
+    "title": "Compute-efficient pretraining and scaling to trillion-parameter models",
     "source": "Hacker News",
-    "description": "HN Score: 3 | 0 comments",
-    "url": "https://zartbot.github.io/blog/model_arch/inception/",
-    "score": 3,
+    "description": "HN Score: 108 | 61 comments",
+    "url": "https://magic.dev/blog/pretraining#",
+    "score": 108,
+    "date": "2026-09-10",
+    "category": "AI News"
+  },
+  {
+    "title": "Show HN: MultiMatte, a Promptable Image Background Removal Model",
+    "source": "Hacker News",
+    "description": "HN Score: 35 | 7 comments",
+    "url": "https://usefeyn.com/blog/multimatte/",
+    "score": 35,
     "date": "2026-09-10",
     "category": "AI News"
   },
   {
     "title": "AI Is Breaking This Thing We Call Trust",
     "source": "Hacker News",
-    "description": "HN Score: 30 | 1 comments",
+    "description": "HN Score: 51 | 9 comments",
     "url": "https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/",
-    "score": 30,
+    "score": 51,
     "date": "2026-09-10",
     "category": "AI News"
   },
   {
-    "title": "AI 2027 (2025)",
+    "title": "1M+ German households have hung solar panels off their balcony railings",
     "source": "Hacker News",
-    "description": "HN Score: 48 | 50 comments",
-    "url": "https://ai-2027.com",
-    "score": 48,
+    "description": "HN Score: 22 | 2 comments",
+    "url": "https://spacedaily.com/b-more-than-a-million-german-households-have-hung-solar-panels-off-their-balcony-railings-and-plugged-them-into-a-wall-socket-and-the-law-caps-each-at-800-watts-a-fridge-and-a-laptop/",
+    "score": 22,
+    "date": "2026-09-10",
+    "category": "AI News"
+  },
+  {
+    "title": "AI researchers leave Anthropic and Google: 'There are no adults in the room'",
+    "source": "Hacker News",
+    "description": "HN Score: 5 | 0 comments",
+    "url": "https://www.nbcnews.com/tech/security/two-ai-researchers-leave-anthropic-google-safety-concerns-rcna597086",
+    "score": 5,
     "date": "2026-09-10",
     "category": "AI News"
   }
