@@ -1,91 +1,91 @@
 [
   {
-    "title": "More questions about whether researchers can trust OpenAI with unpublished math",
-    "source": "Hacker News",
-    "description": "HN Score: 738 | 678 comments",
-    "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
-    "score": 738,
-    "date": "2026-09-11",
-    "category": "AI News"
-  },
-  {
     "title": "OpenAI Agents API",
     "source": "Hacker News",
-    "description": "HN Score: 175 | 104 comments",
+    "description": "HN Score: 272 | 150 comments",
     "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
-    "score": 175,
+    "score": 272,
     "date": "2026-09-11",
     "category": "AI News"
   },
   {
-    "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
+    "title": "GPT\u2011Live\u20111 in the API",
     "source": "Hacker News",
-    "description": "HN Score: 59 | 37 comments",
-    "url": "https://system76.com/workstations/thelio-mira-ai",
-    "score": 59,
+    "description": "HN Score: 30 | 24 comments",
+    "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api/",
+    "score": 30,
+    "date": "2026-09-11",
+    "category": "AI News"
+  },
+  {
+    "title": "Resist 'AI'",
+    "source": "Hacker News",
+    "description": "HN Score: 13 | 3 comments",
+    "url": "https://ronjeffries.com/articles/-v026/x/t/",
+    "score": 13,
+    "date": "2026-09-11",
+    "category": "AI News"
+  },
+  {
+    "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+    "source": "Hacker News",
+    "description": "HN Score: 822 | 752 comments",
+    "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
+    "score": 822,
     "date": "2026-09-11",
     "category": "AI News"
   },
   {
     "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
     "source": "Hacker News",
-    "description": "HN Score: 366 | 157 comments",
+    "description": "HN Score: 419 | 175 comments",
     "url": "https://cognition.com/blog/swe-2",
-    "score": 366,
-    "date": "2026-09-11",
-    "category": "AI News"
-  },
-  {
-    "title": "LLM Visualizer \u2013 Build a Transformer from Scratch",
-    "source": "Hacker News",
-    "description": "HN Score: 9 | 4 comments",
-    "url": "https://jayvisaria.github.io/LLM-Visualizer/#/dashboard",
-    "score": 9,
+    "score": 419,
     "date": "2026-09-11",
     "category": "AI News"
   },
   {
     "title": "Detecting and countering misuse of AI: September 2026",
     "source": "Hacker News",
-    "description": "HN Score: 100 | 167 comments",
+    "description": "HN Score: 138 | 201 comments",
     "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
-    "score": 100,
+    "score": 138,
     "date": "2026-09-11",
     "category": "AI News"
   },
   {
-    "title": "Show HN: Algo-Trading-Skills - 501 agent skills for trading infrastructure",
+    "title": "Astra for Coding: Why Are We Doing This Again?",
     "source": "Hacker News",
-    "description": "HN Score: 6 | 2 comments",
-    "url": "https://github.com/HimanshuJ16/Algo-Trading-Skills",
-    "score": 6,
+    "description": "HN Score: 348 | 251 comments",
+    "url": "https://lucumr.pocoo.org/2026/9/7/astra-why/",
+    "score": 348,
     "date": "2026-09-11",
     "category": "AI News"
   },
   {
-    "title": "OpenAI\u2019s Navier-Stokes release included a Lean 4 formal proof",
+    "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
     "source": "Hacker News",
-    "description": "HN Score: 148 | 151 comments",
-    "url": "https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/",
-    "score": 148,
+    "description": "HN Score: 109 | 101 comments",
+    "url": "https://system76.com/workstations/thelio-mira-ai",
+    "score": 109,
     "date": "2026-09-11",
     "category": "AI News"
   },
   {
-    "title": "YouTube had a bug \u2013 I used ChatGPT to investigate",
+    "title": "The Gemini app is now available for Windows",
     "source": "Hacker News",
-    "description": "HN Score: 18 | 15 comments",
-    "url": "https://blog.thezilber.com/3-youtube-had-a-bug-chatgpt-helped-me-to-investigate",
-    "score": 18,
+    "description": "HN Score: 50 | 41 comments",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/",
+    "score": 50,
     "date": "2026-09-11",
     "category": "AI News"
   },
   {
-    "title": "Compute-efficient pretraining and scaling to trillion-parameter models",
+    "title": "AI Is Breaking This Thing We Call Trust",
     "source": "Hacker News",
-    "description": "HN Score: 111 | 61 comments",
-    "url": "https://magic.dev/blog/pretraining#",
-    "score": 111,
+    "description": "HN Score: 89 | 30 comments",
+    "url": "https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/",
+    "score": 89,
     "date": "2026-09-11",
     "category": "AI News"
   }
