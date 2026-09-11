@@ -2,91 +2,91 @@
   {
     "title": "More questions about whether researchers can trust OpenAI with unpublished math",
     "source": "Hacker News",
-    "description": "HN Score: 591 | 591 comments",
+    "description": "HN Score: 738 | 678 comments",
     "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
-    "score": 591,
-    "date": "2026-09-10",
+    "score": 738,
+    "date": "2026-09-11",
     "category": "AI News"
   },
   {
     "title": "OpenAI Agents API",
     "source": "Hacker News",
-    "description": "HN Score: 88 | 62 comments",
+    "description": "HN Score: 175 | 104 comments",
     "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
-    "score": 88,
-    "date": "2026-09-10",
+    "score": 175,
+    "date": "2026-09-11",
+    "category": "AI News"
+  },
+  {
+    "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
+    "source": "Hacker News",
+    "description": "HN Score: 59 | 37 comments",
+    "url": "https://system76.com/workstations/thelio-mira-ai",
+    "score": 59,
+    "date": "2026-09-11",
     "category": "AI News"
   },
   {
     "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
     "source": "Hacker News",
-    "description": "HN Score: 339 | 140 comments",
+    "description": "HN Score: 366 | 157 comments",
     "url": "https://cognition.com/blog/swe-2",
-    "score": 339,
-    "date": "2026-09-10",
+    "score": 366,
+    "date": "2026-09-11",
     "category": "AI News"
   },
   {
-    "title": "OpenAI\u2019s Navier-Stokes release included a Lean 4 formal proof",
+    "title": "LLM Visualizer \u2013 Build a Transformer from Scratch",
     "source": "Hacker News",
-    "description": "HN Score: 121 | 119 comments",
-    "url": "https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/",
-    "score": 121,
-    "date": "2026-09-10",
+    "description": "HN Score: 9 | 4 comments",
+    "url": "https://jayvisaria.github.io/LLM-Visualizer/#/dashboard",
+    "score": 9,
+    "date": "2026-09-11",
     "category": "AI News"
   },
   {
     "title": "Detecting and countering misuse of AI: September 2026",
     "source": "Hacker News",
-    "description": "HN Score: 69 | 132 comments",
+    "description": "HN Score: 100 | 167 comments",
     "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
-    "score": 69,
-    "date": "2026-09-10",
+    "score": 100,
+    "date": "2026-09-11",
+    "category": "AI News"
+  },
+  {
+    "title": "Show HN: Algo-Trading-Skills - 501 agent skills for trading infrastructure",
+    "source": "Hacker News",
+    "description": "HN Score: 6 | 2 comments",
+    "url": "https://github.com/HimanshuJ16/Algo-Trading-Skills",
+    "score": 6,
+    "date": "2026-09-11",
+    "category": "AI News"
+  },
+  {
+    "title": "OpenAI\u2019s Navier-Stokes release included a Lean 4 formal proof",
+    "source": "Hacker News",
+    "description": "HN Score: 148 | 151 comments",
+    "url": "https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/",
+    "score": 148,
+    "date": "2026-09-11",
+    "category": "AI News"
+  },
+  {
+    "title": "YouTube had a bug \u2013 I used ChatGPT to investigate",
+    "source": "Hacker News",
+    "description": "HN Score: 18 | 15 comments",
+    "url": "https://blog.thezilber.com/3-youtube-had-a-bug-chatgpt-helped-me-to-investigate",
+    "score": 18,
+    "date": "2026-09-11",
     "category": "AI News"
   },
   {
     "title": "Compute-efficient pretraining and scaling to trillion-parameter models",
     "source": "Hacker News",
-    "description": "HN Score: 108 | 61 comments",
+    "description": "HN Score: 111 | 61 comments",
     "url": "https://magic.dev/blog/pretraining#",
-    "score": 108,
-    "date": "2026-09-10",
-    "category": "AI News"
-  },
-  {
-    "title": "Show HN: MultiMatte, a Promptable Image Background Removal Model",
-    "source": "Hacker News",
-    "description": "HN Score: 35 | 7 comments",
-    "url": "https://usefeyn.com/blog/multimatte/",
-    "score": 35,
-    "date": "2026-09-10",
-    "category": "AI News"
-  },
-  {
-    "title": "AI Is Breaking This Thing We Call Trust",
-    "source": "Hacker News",
-    "description": "HN Score: 51 | 9 comments",
-    "url": "https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/",
-    "score": 51,
-    "date": "2026-09-10",
-    "category": "AI News"
-  },
-  {
-    "title": "1M+ German households have hung solar panels off their balcony railings",
-    "source": "Hacker News",
-    "description": "HN Score: 22 | 2 comments",
-    "url": "https://spacedaily.com/b-more-than-a-million-german-households-have-hung-solar-panels-off-their-balcony-railings-and-plugged-them-into-a-wall-socket-and-the-law-caps-each-at-800-watts-a-fridge-and-a-laptop/",
-    "score": 22,
-    "date": "2026-09-10",
-    "category": "AI News"
-  },
-  {
-    "title": "AI researchers leave Anthropic and Google: 'There are no adults in the room'",
-    "source": "Hacker News",
-    "description": "HN Score: 5 | 0 comments",
-    "url": "https://www.nbcnews.com/tech/security/two-ai-researchers-leave-anthropic-google-safety-concerns-rcna597086",
-    "score": 5,
-    "date": "2026-09-10",
+    "score": 111,
+    "date": "2026-09-11",
     "category": "AI News"
   }
 ]
