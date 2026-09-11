@@ -1,91 +1,91 @@
 [
   {
+    "title": "Hacker News with reduced priority for AI driven content",
+    "source": "Hacker News",
+    "description": "HN Score: 15 | 6 comments",
+    "url": "https://sprinklz.io/public/pdwt4dve5uai",
+    "score": 15,
+    "date": "2026-09-11",
+    "category": "AI News"
+  },
+  {
+    "title": "Copying login keychains between Macs fails on Secure Enclave Macs with Tahoe",
+    "source": "Hacker News",
+    "description": "HN Score: 14 | 4 comments",
+    "url": "https://derflounder.wordpress.com/2026/09/08/manually-copying-login-keychain-files-from-one-mac-to-another-no-longer-works-on-secure-enclave-equipped-macs-running-macos-tahoe/",
+    "score": 14,
+    "date": "2026-09-11",
+    "category": "AI News"
+  },
+  {
+    "title": "Claude is only available to people over 18 years",
+    "source": "Hacker News",
+    "description": "HN Score: 303 | 380 comments",
+    "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+    "score": 303,
+    "date": "2026-09-11",
+    "category": "AI News"
+  },
+  {
+    "title": "Show HN: Hacker News, without AI",
+    "source": "Hacker News",
+    "description": "HN Score: 66 | 39 comments",
+    "url": "https://hcker.news/?ai=exclude",
+    "score": 66,
+    "date": "2026-09-11",
+    "category": "AI News"
+  },
+  {
+    "title": "Show HN: Clawfight.ai MCP-driven agentic game play",
+    "source": "Hacker News",
+    "description": "HN Score: 6 | 3 comments",
+    "url": "https://clawfight.ai/agents.md",
+    "score": 6,
+    "date": "2026-09-11",
+    "category": "AI News"
+  },
+  {
     "title": "OpenAI Agents API",
     "source": "Hacker News",
-    "description": "HN Score: 272 | 150 comments",
+    "description": "HN Score: 317 | 167 comments",
     "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
-    "score": 272,
+    "score": 317,
     "date": "2026-09-11",
     "category": "AI News"
   },
   {
-    "title": "GPT\u2011Live\u20111 in the API",
+    "title": "The Waymo effect: how AI is quietly making research less collaborative",
     "source": "Hacker News",
-    "description": "HN Score: 30 | 24 comments",
-    "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api/",
-    "score": 30,
-    "date": "2026-09-11",
-    "category": "AI News"
-  },
-  {
-    "title": "Resist 'AI'",
-    "source": "Hacker News",
-    "description": "HN Score: 13 | 3 comments",
-    "url": "https://ronjeffries.com/articles/-v026/x/t/",
-    "score": 13,
+    "description": "HN Score: 304 | 245 comments",
+    "url": "https://www.researchagenda.news/articles/the-waymo-effect.html",
+    "score": 304,
     "date": "2026-09-11",
     "category": "AI News"
   },
   {
     "title": "More questions about whether researchers can trust OpenAI with unpublished math",
     "source": "Hacker News",
-    "description": "HN Score: 822 | 752 comments",
+    "description": "HN Score: 850 | 788 comments",
     "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
-    "score": 822,
+    "score": 850,
     "date": "2026-09-11",
     "category": "AI News"
   },
   {
     "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
     "source": "Hacker News",
-    "description": "HN Score: 419 | 175 comments",
+    "description": "HN Score: 433 | 186 comments",
     "url": "https://cognition.com/blog/swe-2",
-    "score": 419,
+    "score": 433,
     "date": "2026-09-11",
     "category": "AI News"
   },
   {
     "title": "Detecting and countering misuse of AI: September 2026",
     "source": "Hacker News",
-    "description": "HN Score: 138 | 201 comments",
+    "description": "HN Score: 159 | 223 comments",
     "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
-    "score": 138,
-    "date": "2026-09-11",
-    "category": "AI News"
-  },
-  {
-    "title": "Astra for Coding: Why Are We Doing This Again?",
-    "source": "Hacker News",
-    "description": "HN Score: 348 | 251 comments",
-    "url": "https://lucumr.pocoo.org/2026/9/7/astra-why/",
-    "score": 348,
-    "date": "2026-09-11",
-    "category": "AI News"
-  },
-  {
-    "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
-    "source": "Hacker News",
-    "description": "HN Score: 109 | 101 comments",
-    "url": "https://system76.com/workstations/thelio-mira-ai",
-    "score": 109,
-    "date": "2026-09-11",
-    "category": "AI News"
-  },
-  {
-    "title": "The Gemini app is now available for Windows",
-    "source": "Hacker News",
-    "description": "HN Score: 50 | 41 comments",
-    "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/",
-    "score": 50,
-    "date": "2026-09-11",
-    "category": "AI News"
-  },
-  {
-    "title": "AI Is Breaking This Thing We Call Trust",
-    "source": "Hacker News",
-    "description": "HN Score: 89 | 30 comments",
-    "url": "https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/",
-    "score": 89,
+    "score": 159,
     "date": "2026-09-11",
     "category": "AI News"
   }
