@@ -1,29 +1,38 @@
 [
   {
-    "title": "A misalignment of AI in mathematics",
+    "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
     "source": "Hacker News",
-    "description": "HN Score: 276 | 363 comments",
-    "url": "https://mathandai.org/",
-    "score": 276,
-    "date": "2026-09-11",
+    "description": "HN Score: 65 | 13 comments",
+    "url": "https://www.rubyhack.ai/",
+    "score": 65,
+    "date": "2026-09-12",
     "category": "AI News"
   },
   {
-    "title": "Claude is only available to people over 18 years",
+    "title": "A misalignment of AI in mathematics",
     "source": "Hacker News",
-    "description": "HN Score: 486 | 534 comments",
-    "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
-    "score": 486,
-    "date": "2026-09-11",
+    "description": "HN Score: 560 | 622 comments",
+    "url": "https://mathandai.org/",
+    "score": 560,
+    "date": "2026-09-12",
+    "category": "AI News"
+  },
+  {
+    "title": "A Design Space Exploration of Async/Await",
+    "source": "Hacker News",
+    "description": "HN Score: 101 | 21 comments",
+    "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
+    "score": 101,
+    "date": "2026-09-12",
     "category": "AI News"
   },
   {
     "title": "Litelm: LiteLLM Without the Bloat",
     "source": "Hacker News",
-    "description": "HN Score: 48 | 17 comments",
+    "description": "HN Score: 83 | 34 comments",
     "url": "https://github.com/kennethwolters/litelm",
-    "score": 48,
-    "date": "2026-09-11",
+    "score": 83,
+    "date": "2026-09-12",
     "category": "AI News"
   },
   {
@@ -32,61 +41,52 @@
     "description": "HN Score: 1 | 0 comments",
     "url": "https://www.getzep.com/careers/",
     "score": 1,
-    "date": "2026-09-11",
+    "date": "2026-09-12",
     "category": "AI News"
   },
   {
     "title": "CIA Releases President's Daily Briefs in Commemoration of 9/11",
     "source": "Hacker News",
-    "description": "HN Score: 39 | 14 comments",
+    "description": "HN Score: 96 | 53 comments",
     "url": "https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11/",
-    "score": 39,
-    "date": "2026-09-11",
+    "score": 96,
+    "date": "2026-09-12",
     "category": "AI News"
   },
   {
-    "title": "Copying login keychains between Macs fails on Secure Enclave Macs with Tahoe",
+    "title": "Claude is only available to people over 18 years",
     "source": "Hacker News",
-    "description": "HN Score: 59 | 47 comments",
-    "url": "https://derflounder.wordpress.com/2026/09/08/manually-copying-login-keychain-files-from-one-mac-to-another-no-longer-works-on-secure-enclave-equipped-macs-running-macos-tahoe/",
-    "score": 59,
-    "date": "2026-09-11",
+    "description": "HN Score: 557 | 584 comments",
+    "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+    "score": 557,
+    "date": "2026-09-12",
+    "category": "AI News"
+  },
+  {
+    "title": "Houthis used Anthropic to develop guided weapons",
+    "source": "Hacker News",
+    "description": "HN Score: 11 | 1 comments",
+    "url": "https://www.washingtonpost.com/technology/2026/09/11/rebels-used-anthropics-ai-bot-develop-guided-weapons-report-says/",
+    "score": 11,
+    "date": "2026-09-12",
+    "category": "AI News"
+  },
+  {
+    "title": "AI researchers debate how close we are to recursive self-improvement",
+    "source": "Hacker News",
+    "description": "HN Score: 3 | 0 comments",
+    "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+    "score": 3,
+    "date": "2026-09-12",
     "category": "AI News"
   },
   {
     "title": "Show HN: Hacker News, without AI",
     "source": "Hacker News",
-    "description": "HN Score: 141 | 71 comments",
+    "description": "HN Score: 167 | 83 comments",
     "url": "https://hcker.news/?ai=exclude",
-    "score": 141,
-    "date": "2026-09-11",
-    "category": "AI News"
-  },
-  {
-    "title": "Hacker News with reduced priority for AI driven content",
-    "source": "Hacker News",
-    "description": "HN Score: 86 | 50 comments",
-    "url": "https://sprinklz.io/public/pdwt4dve5uai",
-    "score": 86,
-    "date": "2026-09-11",
-    "category": "AI News"
-  },
-  {
-    "title": "Show HN: Hacker News, Without AI",
-    "source": "Hacker News",
-    "description": "HN Score: 150 | 65 comments",
-    "url": "https://www.unslop.news/",
-    "score": 150,
-    "date": "2026-09-11",
-    "category": "AI News"
-  },
-  {
-    "title": "The Netherlands, Spain push for EU-wide minimum age on social media",
-    "source": "Hacker News",
-    "description": "HN Score: 10 | 0 comments",
-    "url": "https://www.euronews.com/my-europe/2026/09/11/the-netherlands-spain-push-for-eu-wide-minimum-age-on-social-media",
-    "score": 10,
-    "date": "2026-09-11",
+    "score": 167,
+    "date": "2026-09-12",
     "category": "AI News"
   }
 ]
