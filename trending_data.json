@@ -2,90 +2,90 @@
   {
     "title": "Why are AI agents lying, cheating and coordinating?",
     "source": "Hacker News",
-    "description": "HN Score: 267 | 336 comments",
+    "description": "HN Score: 441 | 511 comments",
     "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-    "score": 267,
+    "score": 441,
+    "date": "2026-09-13",
+    "category": "AI News"
+  },
+  {
+    "title": "TailTalk: A modern async user space AppleTalk stack with Rust and Tokio",
+    "source": "Hacker News",
+    "description": "HN Score: 39 | 11 comments",
+    "url": "https://github.com/FeralFirmware/TailTalk/",
+    "score": 39,
+    "date": "2026-09-13",
+    "category": "AI News"
+  },
+  {
+    "title": "Houthis Used Claude Code to Develop Missile Guidance Software: Anthropic",
+    "source": "Hacker News",
+    "description": "HN Score: 49 | 40 comments",
+    "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
+    "score": 49,
     "date": "2026-09-13",
     "category": "AI News"
   },
   {
     "title": "Nvidia is the central bank of AI",
     "source": "Hacker News",
-    "description": "HN Score: 498 | 352 comments",
+    "description": "HN Score: 532 | 382 comments",
     "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-    "score": 498,
+    "score": 532,
     "date": "2026-09-13",
     "category": "AI News"
   },
   {
     "title": "Everyone should slow down AI development except for me",
     "source": "Hacker News",
-    "description": "HN Score: 525 | 318 comments",
+    "description": "HN Score: 668 | 391 comments",
     "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
-    "score": 525,
-    "date": "2026-09-13",
-    "category": "AI News"
-  },
-  {
-    "title": "AgentsDock: An IDE designed for agentic AI research",
-    "source": "Hacker News",
-    "description": "HN Score: 65 | 29 comments",
-    "url": "https://agentsdock.net/",
-    "score": 65,
-    "date": "2026-09-13",
-    "category": "AI News"
-  },
-  {
-    "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
-    "source": "Hacker News",
-    "description": "HN Score: 543 | 423 comments",
-    "url": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
-    "score": 543,
+    "score": 668,
     "date": "2026-09-13",
     "category": "AI News"
   },
   {
     "title": "Getting 50 GB/S Back from the Apple Neural Engine",
     "source": "Hacker News",
-    "description": "HN Score: 156 | 27 comments",
+    "description": "HN Score: 196 | 30 comments",
     "url": "https://eiln.github.io/posts/ane-dma.html",
-    "score": 156,
+    "score": 196,
     "date": "2026-09-13",
     "category": "AI News"
   },
   {
-    "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+    "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
     "source": "Hacker News",
-    "description": "HN Score: 247 | 137 comments",
-    "url": "https://withspecific.com/benchmarks/real-swe",
-    "score": 247,
+    "description": "HN Score: 594 | 451 comments",
+    "url": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
+    "score": 594,
     "date": "2026-09-13",
     "category": "AI News"
   },
   {
-    "title": "I fixed a tractor using John Deere's self-repair service. Farmers aren't sold",
+    "title": "Security through obscurity is dead, and AI delivered the fatal blow",
     "source": "Hacker News",
-    "description": "HN Score: 130 | 142 comments",
-    "url": "https://www.wired.com/story/i-fixed-a-tractor-john-deere-self-repair-service/",
-    "score": 130,
+    "description": "HN Score: 10 | 5 comments",
+    "url": "https://www.theregister.com/security/2026/09/13/security-through-obscurity-is-dead-and-ai-delivered-the-fatal-blow/",
+    "score": 10,
     "date": "2026-09-13",
     "category": "AI News"
   },
   {
     "title": "A Design Space Exploration of Async/Await",
     "source": "Hacker News",
-    "description": "HN Score: 443 | 128 comments",
+    "description": "HN Score: 449 | 129 comments",
     "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
-    "score": 443,
+    "score": 449,
     "date": "2026-09-13",
     "category": "AI News"
   },
   {
-    "title": "A Mathematical Framework for Transformer Circuits (2021)",
+    "title": "AgentsDock: An IDE designed for agentic AI research",
     "source": "Hacker News",
-    "description": "HN Score: 99 | 17 comments",
-    "url": "https://transformer-circuits.pub/2021/framework/index.html",
-    "score": 99,
+    "description": "HN Score: 74 | 31 comments",
+    "url": "https://agentsdock.net/",
+    "score": 74,
     "date": "2026-09-13",
     "category": "AI News"
   }
