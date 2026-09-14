@@ -94,6 +94,16 @@
   "episodes": [
     {
       "id": "a]6z Pod_0",
+      "name": "Greg Brockman on Why OpenAI Says We’re Entering the AGI Era",
+      "show": "a]6z Podcast",
+      "description": "Ben Horowitz and Erik Torenberg sit down with OpenAI co-founder and President Greg Brockman to discuss why he believes AI has entered a new phase, what OpenAI’s latest models reveal about the path ",
+      "release_date": "2026-09-14",
+      "duration_min": 51,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
+      "id": "a]6z Pod_1",
       "name": "World Models, Robotics, and the Future of 3D AI",
       "show": "a]6z Podcast",
       "description": "World Labs co-founder Justin Johnson joins MTS hosts Theo Jaffee and Sofia Puccini to discuss Atlas, World Labs’ latest world model, and the broader case for AI systems that understand and interact",
@@ -103,7 +113,7 @@
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "Why Companies Are Becoming a Series of Loops | Anish Acharya on Lenny’s Podcast",
       "show": "a]6z Podcast",
       "description": "a16z General Partner Anish Acharya joins Lenny Rachitsky on <i>Lenny’s Podcast</i> to discuss why fears of an AI-driven “permanent underclass” may be misplaced, how AI is changing the way companies",
@@ -121,16 +131,6 @@
       "duration_min": 79,
       "image": "",
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
-    },
-    {
-      "id": "a]6z Pod_2",
-      "name": "What It Takes to Build a Startup | Andrew Chen & Matt Perault",
-      "show": "a]6z Podcast",
-      "description": "a16z’s Matt Perault sits down with General Partner and Speedrun lead Andrew Chen on the <i>a16z AI Policy Brief</i> to explore what “Little Tech” actually looks like at the earliest stages, and why",
-      "release_date": "2026-09-11",
-      "duration_min": 38,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
       "id": "Practica_0",

@@ -1,18 +1,63 @@
 [
   {
-    "title": "Open-Source AI and Open Models Reading List",
+    "title": "Watch AI materials-science and bioscience abilities closely",
     "source": "Hacker News",
-    "description": "HN Score: 50 | 4 comments",
-    "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
-    "score": 50,
+    "description": "HN Score: 14 | 6 comments",
+    "url": "https://www.lesswrong.com/posts/SCtkSz4nQ9icLZ4uq/watch-ai-materials-science-and-bioscience-abilities-closely",
+    "score": 14,
     "date": "2026-09-14",
     "category": "AI News"
   },
   {
-    "title": "AI Robots \u2013 When will they be in our homes",
+    "title": "Show HN: Kinesis \u2013 Control your Mac with the Meta Neural Band",
     "source": "Hacker News",
-    "description": "HN Score: 12 | 8 comments",
-    "url": "https://spectrum.ieee.org/ai-robots",
+    "description": "HN Score: 7 | 0 comments",
+    "url": "https://github.com/callbacked/kinesis",
+    "score": 7,
+    "date": "2026-09-14",
+    "category": "AI News"
+  },
+  {
+    "title": "OpenArch \u2013 PyTorch implementations of modern LLM architectures",
+    "source": "Hacker News",
+    "description": "HN Score: 56 | 10 comments",
+    "url": "https://github.com/anuj0456/OpenArch",
+    "score": 56,
+    "date": "2026-09-14",
+    "category": "AI News"
+  },
+  {
+    "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
+    "source": "Hacker News",
+    "description": "HN Score: 14 | 2 comments",
+    "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
+    "score": 14,
+    "date": "2026-09-14",
+    "category": "AI News"
+  },
+  {
+    "title": "The case against JPEG XL",
+    "source": "Hacker News",
+    "description": "HN Score: 196 | 257 comments",
+    "url": "https://giannirosato.com/blog/post/case-against-jxl/",
+    "score": 196,
+    "date": "2026-09-14",
+    "category": "AI News"
+  },
+  {
+    "title": "Open-source AI and open models reading list",
+    "source": "Hacker News",
+    "description": "HN Score: 126 | 24 comments",
+    "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+    "score": 126,
+    "date": "2026-09-14",
+    "category": "AI News"
+  },
+  {
+    "title": "Big AI sets out its terms for regulatory capture",
+    "source": "Hacker News",
+    "description": "HN Score: 12 | 0 comments",
+    "url": "https://www.theregister.com/ai-and-ml/2026/09/14/big-ai-sets-out-its-terms-for-regulatory-capture-and-calls-it-pace-the-frontier/5296067",
     "score": 12,
     "date": "2026-09-14",
     "category": "AI News"
@@ -20,72 +65,27 @@
   {
     "title": "Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace",
     "source": "Hacker News",
-    "description": "HN Score: 67 | 16 comments",
+    "description": "HN Score: 101 | 21 comments",
     "url": "https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace",
-    "score": 67,
+    "score": 101,
     "date": "2026-09-14",
     "category": "AI News"
   },
   {
-    "title": "'Chilling' warning or overreaction? AI bioweapons report divides experts",
+    "title": "AI Risk: The Approval Nobody Signed Off",
     "source": "Hacker News",
-    "description": "HN Score: 18 | 1 comments",
-    "url": "https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts",
-    "score": 18,
+    "description": "HN Score: 6 | 0 comments",
+    "url": "https://sdarchitect.blog/2026/09/06/ai-risk-a-users-guide-part-i-the-approval-nobody-signed/",
+    "score": 6,
     "date": "2026-09-14",
     "category": "AI News"
   },
   {
-    "title": "Sean Carroll explains the biggest ideas in the universe \u2013 Full Interview [video] (2025)",
+    "title": "XCancel service is suspended (again)",
     "source": "Hacker News",
-    "description": "HN Score: 81 | 24 comments",
-    "url": "https://www.youtube.com/watch?v=_TBNJyztai0",
-    "score": 81,
-    "date": "2026-09-14",
-    "category": "AI News"
-  },
-  {
-    "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
-    "source": "Hacker News",
-    "description": "HN Score: 372 | 208 comments",
-    "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-    "score": 372,
-    "date": "2026-09-14",
-    "category": "AI News"
-  },
-  {
-    "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
-    "source": "Hacker News",
-    "description": "HN Score: 284 | 209 comments",
-    "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
-    "score": 284,
-    "date": "2026-09-14",
-    "category": "AI News"
-  },
-  {
-    "title": "I build a mechanical watch face: a real gear train for a watch with no gears",
-    "source": "Hacker News",
-    "description": "HN Score: 19 | 9 comments",
-    "url": "https://myday24.com/blog/how-a-mechanical-watch-face-is-built/",
-    "score": 19,
-    "date": "2026-09-14",
-    "category": "AI News"
-  },
-  {
-    "title": "TailTalk: A modern async user space AppleTalk stack with Rust and Tokio",
-    "source": "Hacker News",
-    "description": "HN Score: 72 | 13 comments",
-    "url": "https://github.com/FeralFirmware/TailTalk/",
-    "score": 72,
-    "date": "2026-09-14",
-    "category": "AI News"
-  },
-  {
-    "title": "Why are AI agents lying, cheating and coordinating?",
-    "source": "Hacker News",
-    "description": "HN Score: 605 | 661 comments",
-    "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-    "score": 605,
+    "description": "HN Score: 6 | 0 comments",
+    "url": "https://xcancel.com/x",
+    "score": 6,
     "date": "2026-09-14",
     "category": "AI News"
   }
