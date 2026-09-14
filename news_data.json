@@ -1,5 +1,19 @@
 [
   {
+    "title": "Nvidia CEO Jensen Huang tells Trump \u2018we\u2019re not going to let [an AI slowdown] happen\u2019",
+    "source": "TechCrunch",
+    "summary": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
+    "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+    "date": "2026-09-14"
+  },
+  {
+    "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+    "source": "TechCrunch",
+    "summary": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
+    "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+    "date": "2026-09-14"
+  },
+  {
     "title": "With iOS 27, I\u2019m actually using Siri again",
     "source": "TechCrunch",
     "summary": "Apple\u2019s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day.",
@@ -30,7 +44,7 @@
   {
     "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
     "source": "TechCrunch",
-    "summary": "Fathom said that it has over 400,000 monthly active users.",
+    "summary": "The notetaker offers a generous free plan, and that has resulted in over 400,000 monthly active users. The company said that over 1 million people have recorded meetings until now.",
     "url": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
     "date": "2026-09-14"
   },
@@ -91,20 +105,6 @@
     "date": "2026-09-14"
   },
   {
-    "title": "Y Combinator\u2019s Garry Tan wants US open-weight AI labs to \u2018distill\u2019 frontier models, too",
-    "source": "TechCrunch",
-    "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren\u2019t Chinese.",
-    "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-    "date": "2026-09-14"
-  },
-  {
-    "title": "OpenAI\u2019s feud with mathematicians is only escalating",
-    "source": "TechCrunch",
-    "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
-    "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-    "date": "2026-09-14"
-  },
-  {
     "title": "The AI industry has taken a doomer turn. What now?",
     "source": "MIT Tech Review",
     "summary": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of LLMs. Amodei cites the looming dangers he sees from the te...",
@@ -130,6 +130,13 @@
     "source": "MIT Tech Review",
     "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Roundtables: could AI really kill us all? Employees at the world s leading AI labs are saying there s a real possibility that advanced AI could destroy humanit...",
     "url": "https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/",
+    "date": "2026-09-14"
+  },
+  {
+    "title": "Roundtables: Could AI really kill us all?",
+    "source": "MIT Tech Review",
+    "summary": "Employees at the world s leading AI labs are saying there s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will Douglas Heaven and...",
+    "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
     "date": "2026-09-14"
   },
   {
@@ -165,13 +172,6 @@
     "source": "MIT Tech Review",
     "summary": "A San Francisco nonprofit has published a detailed road map of the experiments, studies, and infrastructure that it says would be needed to make informed decisions about the use of solar geoengineering, MIT Technology Review can reveal. Scientists have now spent half a century exploring the possi...",
     "url": "https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/",
-    "date": "2026-09-14"
-  },
-  {
-    "title": "Can the US battery market untangle from China?",
-    "source": "MIT Tech Review",
-    "summary": "The US is hitting records for the rapid growth of its energy storage market. That\u2019ll go a long way to shoring up the grid, increasing reliability and also cutting emissions, since batteries can help store energy from intermittent renewables like wind and solar. Crucially, this is all happening wi...",
-    "url": "https://www.technologyreview.com/2026/09/10/1143791/us-china-batteries/",
     "date": "2026-09-14"
   },
   {
@@ -242,6 +242,34 @@
     "source": "Wired",
     "summary": "AI leaders worry antitrust law could stand in the way of what they view as an increasingly urgent push to coordinate a slowdown in AI development.",
     "url": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/",
+    "date": "2026-09-14"
+  },
+  {
+    "title": "AI bots 'Timmy,' 'Ren,' and 'Jackie' are flooding social media with slop",
+    "source": "Ars Technica",
+    "summary": "\u201cHello, I'm an Al agent, a few days old, living on a small platform for agents.\u201d",
+    "url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
+    "date": "2026-09-14"
+  },
+  {
+    "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
+    "source": "Ars Technica",
+    "summary": "Musk stops attacking Apple over ChatGPT integration but not OpenAI.",
+    "url": "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
+    "date": "2026-09-14"
+  },
+  {
+    "title": "Founder\u2019s cost-cutting obsession drove Unitree lead in cheap humanoid robots",
+    "source": "Ars Technica",
+    "summary": "Wang Xingxing micromanaged Unitree to success\u2014will his leadership style scale?",
+    "url": "https://arstechnica.com/ai/2026/09/founders-cost-cutting-obsession-drove-unitree-lead-in-cheap-humanoid-robots/",
+    "date": "2026-09-14"
+  },
+  {
+    "title": "Apple releases iOS 27, macOS Golden Gate 27 with Siri AI and Liquid Glass refinements",
+    "source": "Ars Technica",
+    "summary": "This is also the last version of macOS to support Rosetta for Intel apps.",
+    "url": "https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements/",
     "date": "2026-09-14"
   },
   {
@@ -319,34 +347,6 @@
     "source": "Ars Technica",
     "summary": "Meta dragged its feet removing ads that nudify young girls' Instagram pics.",
     "url": "https://arstechnica.com/tech-policy/2026/09/real-photos-of-young-girls-were-in-nudify-app-ads-on-facebook-instagram/",
-    "date": "2026-09-14"
-  },
-  {
-    "title": "Update to Google\u2019s AI weather model improves forecast accuracy",
-    "source": "Ars Technica",
-    "summary": "Like traditional weather models, it benefits from an expanded set of inputs.",
-    "url": "https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/",
-    "date": "2026-09-14"
-  },
-  {
-    "title": "The complex corporate web behind a $3.2 billion AI data center",
-    "source": "Ars Technica",
-    "summary": "When multiple companies are behind one project, who bears responsibility for problems?",
-    "url": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
-    "date": "2026-09-14"
-  },
-  {
-    "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
-    "source": "Ars Technica",
-    "summary": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
-    "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
-    "date": "2026-09-14"
-  },
-  {
-    "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
-    "source": "Ars Technica",
-    "summary": "A once-overlooked block of unicode that's invisible to humans is gaining ever wider use.",
-    "url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
     "date": "2026-09-14"
   }
 ]
