@@ -1,18 +1,81 @@
 [
   {
+    "title": "Introducing System One Models and Jev",
+    "source": "Hacker News",
+    "description": "HN Score: 305 | 119 comments",
+    "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+    "score": 305,
+    "date": "2026-09-15",
+    "category": "AI News"
+  },
+  {
     "title": "Cartesian \u2013 AI 3D Modeling for Design",
     "source": "Hacker News",
-    "description": "HN Score: 32 | 21 comments",
+    "description": "HN Score: 71 | 62 comments",
     "url": "https://www.formas.ai/cartesian",
-    "score": 32,
+    "score": 71,
+    "date": "2026-09-15",
+    "category": "AI News"
+  },
+  {
+    "title": "Suspected sabotage causes major Netherlands rail disruption",
+    "source": "Hacker News",
+    "description": "HN Score: 373 | 362 comments",
+    "url": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
+    "score": 373,
+    "date": "2026-09-15",
+    "category": "AI News"
+  },
+  {
+    "title": "Let's make quality the norm again",
+    "source": "Hacker News",
+    "description": "HN Score: 241 | 255 comments",
+    "url": "https://www.forbrukerradet.no/short-life/",
+    "score": 241,
+    "date": "2026-09-15",
+    "category": "AI News"
+  },
+  {
+    "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
+    "source": "Hacker News",
+    "description": "HN Score: 337 | 118 comments",
+    "url": "https://www.effort.news/irregular",
+    "score": 337,
+    "date": "2026-09-15",
+    "category": "AI News"
+  },
+  {
+    "title": "Leaving Proton Mail",
+    "source": "Hacker News",
+    "description": "HN Score: 11 | 5 comments",
+    "url": "https://runarcn.no/leaving-proton-mail/",
+    "score": 11,
+    "date": "2026-09-15",
+    "category": "AI News"
+  },
+  {
+    "title": "How much of F-Droid is LLM generated?",
+    "source": "Hacker News",
+    "description": "HN Score: 116 | 154 comments",
+    "url": "https://tintotint.eu/whacky-corner/f-droid_slop/",
+    "score": 116,
     "date": "2026-09-15",
     "category": "AI News"
   },
   {
     "title": "Show HN: Panel \u2013 A research workspace where the agent can build its own panes",
     "source": "Hacker News",
-    "description": "HN Score: 28 | 4 comments",
+    "description": "HN Score: 45 | 11 comments",
     "url": "https://github.com/greentfrapp/panel",
+    "score": 45,
+    "date": "2026-09-15",
+    "category": "AI News"
+  },
+  {
+    "title": "What we have learned at OpenShell applying formal methods to control AI agents",
+    "source": "Hacker News",
+    "description": "HN Score: 28 | 10 comments",
+    "url": "https://nvidia.github.io/OpenShell-Research/dev-notes/posts/2026-09-10-learning-formal-methods-agent-policy-prover/",
     "score": 28,
     "date": "2026-09-15",
     "category": "AI News"
@@ -20,72 +83,9 @@
   {
     "title": "Show HN: Ordewell \u2013 turn one goal into an ordered plan of coding-agent tasks",
     "source": "Hacker News",
-    "description": "HN Score: 29 | 24 comments",
+    "description": "HN Score: 43 | 29 comments",
     "url": "https://github.com/ordewell/ordewell",
-    "score": 29,
-    "date": "2026-09-15",
-    "category": "AI News"
-  },
-  {
-    "title": "What we have learned at OpenShell applying formal methods to control AI agents",
-    "source": "Hacker News",
-    "description": "HN Score: 10 | 4 comments",
-    "url": "https://nvidia.github.io/OpenShell-Research/dev-notes/posts/2026-09-10-learning-formal-methods-agent-policy-prover/",
-    "score": 10,
-    "date": "2026-09-15",
-    "category": "AI News"
-  },
-  {
-    "title": "Suspected sabotage causes major Netherlands rail disruption",
-    "source": "Hacker News",
-    "description": "HN Score: 345 | 338 comments",
-    "url": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
-    "score": 345,
-    "date": "2026-09-15",
-    "category": "AI News"
-  },
-  {
-    "title": "Global bond yields hit 2008 highs, raising stakes for big borrowers",
-    "source": "Hacker News",
-    "description": "HN Score: 121 | 119 comments",
-    "url": "https://www.reuters.com/world/asia-pacific/bond-selloff-drives-us-benchmark-beyond-5-stocks-rattled-2026-09-15/",
-    "score": 121,
-    "date": "2026-09-15",
-    "category": "AI News"
-  },
-  {
-    "title": "OpenAI buys smartphone camera maker Glass Imaging for $300M",
-    "source": "Hacker News",
-    "description": "HN Score: 109 | 74 comments",
-    "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
-    "score": 109,
-    "date": "2026-09-15",
-    "category": "AI News"
-  },
-  {
-    "title": "GRP-Obliteration: Unaligning LLMs with a Single Unlabeled Prompt",
-    "source": "Hacker News",
-    "description": "HN Score: 6 | 1 comments",
-    "url": "https://arxiv.org/abs/2602.06258",
-    "score": 6,
-    "date": "2026-09-15",
-    "category": "AI News"
-  },
-  {
-    "title": "Show HN: Redis City \u2013 Explore how Redis works in an interactive 3D model",
-    "source": "Hacker News",
-    "description": "HN Score: 153 | 23 comments",
-    "url": "https://poltora.dev/redis",
-    "score": 153,
-    "date": "2026-09-15",
-    "category": "AI News"
-  },
-  {
-    "title": "Show HN: Loss. a tiny satire about AI progress",
-    "source": "Hacker News",
-    "description": "HN Score: 11 | 2 comments",
-    "url": "https://workatloss.com/",
-    "score": 11,
+    "score": 43,
     "date": "2026-09-15",
     "category": "AI News"
   }
