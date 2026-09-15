@@ -1,8 +1,57 @@
 [
   {
+    "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+    "source": "TechCrunch",
+    "summary": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
+    "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+    "date": "2026-09-15"
+  },
+  {
+    "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
+    "source": "TechCrunch",
+    "summary": "Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C.",
+    "url": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
+    "date": "2026-09-15"
+  },
+  {
+    "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
+    "source": "TechCrunch",
+    "summary": "Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI.",
+    "url": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
+    "date": "2026-09-15"
+  },
+  {
+    "title": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
+    "source": "TechCrunch",
+    "summary": "Learn how to scale your startup breakthrough from prototype to production at TechCrunch Disrupt 2026 with scaling leaders, Adrian Macneil (Foxglove), John Mackey (MBRYONICS), and Boris Sofman (Bedrock Robotics). Register before September 25 to save up to $200 on your pass.",
+    "url": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/",
+    "date": "2026-09-15"
+  },
+  {
+    "title": "4 days left to exhibit at TechCrunch Disrupt 2026",
+    "source": "TechCrunch",
+    "summary": "Last day to exhibit at Disrupt is Sept 18. 4 days left. Get your startup in front of 10,000+ founders, investors, operators and tech leaders October 13\u201315.",
+    "url": "https://techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+    "date": "2026-09-15"
+  },
+  {
+    "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
+    "source": "TechCrunch",
+    "summary": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic.",
+    "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
+    "date": "2026-09-15"
+  },
+  {
+    "title": "Salesforce and Nvidia\u2019s new reasoning model is everything the AI labs should fear",
+    "source": "TechCrunch",
+    "summary": "Salesforce Koa is built on Nvidia's open-weight Nemotron model and is trained to do sales, marketing, and customer-support tasks.",
+    "url": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
+    "date": "2026-09-15"
+  },
+  {
     "title": "Jensen Huang took a call from Trump, and showed off something else, too",
     "source": "TechCrunch",
-    "summary": "When Jensen Huang took a live call from Trump, some of us were more focused the phone he used to take it.",
+    "summary": "When Jensen Huang took a live call from Trump, some of us were more focused on the phone he used to take it.",
     "url": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
     "date": "2026-09-15"
   },
@@ -56,56 +105,21 @@
     "date": "2026-09-15"
   },
   {
-    "title": "Hear how AI can engineer nature\u2019s comeback at TechCrunch Disrupt 2026",
-    "source": "TechCrunch",
-    "summary": "Not long ago, bringing an extinct species back to life belonged to science fiction. Today, it's the mission of a billion-dollar startup. Join the conversation with one of tech's most unconventional founders. Secure your Disrupt pass today.",
-    "url": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/",
+    "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
+    "source": "MIT Tech Review",
+    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. The AI industry has taken a doomer turn. What now? AI chiefs Dario Amodei, Sam Altman, Elon Musk, and Demis Hassabis are suddenly all in agreement: the latest ...",
+    "url": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/",
     "date": "2026-09-15"
   },
   {
-    "title": "5 days left to exhibit at TechCrunch Disrupt 2026",
-    "source": "TechCrunch",
-    "summary": "The last day to apply for an exhibit table at TechCrunch Disrupt 2026 on Sept 18. Just 5 days left. Secure your spot on the Expo Hall floor and put your business in front of 10,000+ founders, investors, and tech leaders.",
-    "url": "https://techcrunch.com/2026/09/14/techcrunch-disrupt-2026-exhibit-table-deadline-5-days/",
+    "title": "AI models need more data about biology, and OpenAI is paying to create it",
+    "source": "MIT Tech Review",
+    "summary": "Last year Ruxandra Teslo, a policy analyst who focuses on clinical trials, posted an idea for supercharging medical AI systems: Use data from failed biotech companies. By bidding at their bankruptcy proceedings, she proposed, it might be possible to obtain detailed regulatory filings, manufacturi...",
+    "url": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
     "date": "2026-09-15"
   },
   {
-    "title": "A Vinyl Bar in Shibuya is a startup from a former Spotify leader for making music apps",
-    "source": "TechCrunch",
-    "summary": "Former Spotify exec's company releases experimental 'singles' that involves users in music making.",
-    "url": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps/",
-    "date": "2026-09-15"
-  },
-  {
-    "title": "What\u2019s behind the AI industry\u2019s latest warnings of doom?",
-    "source": "TechCrunch",
-    "summary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
-    "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
-    "date": "2026-09-15"
-  },
-  {
-    "title": "Obama urges Democrats to have a \u2018clear plan\u2019 for AI safeguards",
-    "source": "TechCrunch",
-    "summary": "Obama recently said that Democrats need to make artificial intelligence one of their \u201ccentral agendas\u201d and \u201chave a very clear plan\u201d to address concerns around the technology\u2019s economic impact and safety.",
-    "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
-    "date": "2026-09-15"
-  },
-  {
-    "title": "OpenAI\u2019s Sam Altman says it would be \u2018ill-advised\u2019 to go public in 2026",
-    "source": "TechCrunch",
-    "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
-    "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-    "date": "2026-09-15"
-  },
-  {
-    "title": "Anthropic CEO outlines plan to slow AI development",
-    "source": "TechCrunch",
-    "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to 'pace the frontier.' What would that actually look like?",
-    "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-    "date": "2026-09-15"
-  },
-  {
-    "title": "What must happen for AI\u2019s trillion-dollar gamble to pay off",
+    "title": "What\u2019s at stake in AI\u2019s trillion-dollar gamble",
     "source": "MIT Tech Review",
     "summary": "When Jessica Wachter, a finance professor at the University of Pennsylvania\u2019s Wharton School, wanted to assess AI\u2019s impact on the economy over the next few years, she faced a long list of business and technical uncertainties. So she started with what she calls a \u201cremarkable fact\u201d that is not in q...",
     "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
@@ -158,20 +172,6 @@
     "source": "MIT Tech Review",
     "summary": "Every year, MIT Technology Review puts together a list of some of the brightest and best young minds working across science and technology. Our 35 Innovators Under 35 are the ones to watch\u2014people whose research and technical work stands to shape the future of their fields. This year, the list inc...",
     "url": "https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/",
-    "date": "2026-09-15"
-  },
-  {
-    "title": "The Download: a \u201cGod-driven\u201d cryptocurrency and a solar engineering roadmap",
-    "source": "MIT Tech Review",
-    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. God told them to sell crypto. Their investors lost everything. When Eli Regalado first heard God speak to him, he wondered whether he was hallucinating. Accord...",
-    "url": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/",
-    "date": "2026-09-15"
-  },
-  {
-    "title": "Powering AI is an architecture problem",
-    "source": "MIT Tech Review",
-    "summary": "On July 22, 2026, a transmission line fault in Ashburn, Virginia\u2014the heart of the world s largest data center cluster\u2014knocked more than 3 gigawatts of load off the grid in seconds. And it wasn t the first time. Two years earlier, a single failed surge arrester dropped roughly 60 Virginia faciliti...",
-    "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
     "date": "2026-09-15"
   },
   {
@@ -242,6 +242,13 @@
     "source": "Wired",
     "summary": "AI leaders worry antitrust law could stand in the way of what they view as an increasingly urgent push to coordinate a slowdown in AI development.",
     "url": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/",
+    "date": "2026-09-15"
+  },
+  {
+    "title": "Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost",
+    "source": "Ars Technica",
+    "summary": "Ars previewed Mozilla\u2019s report on how cheap open models caught up on capability.",
+    "url": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/",
     "date": "2026-09-15"
   },
   {
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks.",
     "url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
-    "date": "2026-09-15"
-  },
-  {
-    "title": "\u201cThis is the AI men actually use\u201d: Meta ads pushed apps nudifying real teens",
-    "source": "Ars Technica",
-    "summary": "Meta dragged its feet removing ads that nudify young girls' Instagram pics.",
-    "url": "https://arstechnica.com/tech-policy/2026/09/real-photos-of-young-girls-were-in-nudify-app-ads-on-facebook-instagram/",
     "date": "2026-09-15"
   }
 ]

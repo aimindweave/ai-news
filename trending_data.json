@@ -1,82 +1,91 @@
 [
   {
+    "title": "Cartesian \u2013 AI 3D Modeling for Design",
+    "source": "Hacker News",
+    "description": "HN Score: 32 | 21 comments",
+    "url": "https://www.formas.ai/cartesian",
+    "score": 32,
+    "date": "2026-09-15",
+    "category": "AI News"
+  },
+  {
+    "title": "Show HN: Panel \u2013 A research workspace where the agent can build its own panes",
+    "source": "Hacker News",
+    "description": "HN Score: 28 | 4 comments",
+    "url": "https://github.com/greentfrapp/panel",
+    "score": 28,
+    "date": "2026-09-15",
+    "category": "AI News"
+  },
+  {
+    "title": "Show HN: Ordewell \u2013 turn one goal into an ordered plan of coding-agent tasks",
+    "source": "Hacker News",
+    "description": "HN Score: 29 | 24 comments",
+    "url": "https://github.com/ordewell/ordewell",
+    "score": 29,
+    "date": "2026-09-15",
+    "category": "AI News"
+  },
+  {
+    "title": "What we have learned at OpenShell applying formal methods to control AI agents",
+    "source": "Hacker News",
+    "description": "HN Score: 10 | 4 comments",
+    "url": "https://nvidia.github.io/OpenShell-Research/dev-notes/posts/2026-09-10-learning-formal-methods-agent-policy-prover/",
+    "score": 10,
+    "date": "2026-09-15",
+    "category": "AI News"
+  },
+  {
     "title": "Suspected sabotage causes major Netherlands rail disruption",
     "source": "Hacker News",
-    "description": "HN Score: 108 | 73 comments",
+    "description": "HN Score: 345 | 338 comments",
     "url": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
-    "score": 108,
+    "score": 345,
     "date": "2026-09-15",
     "category": "AI News"
   },
   {
-    "title": "How much of F-Droid is LLM generated?",
+    "title": "Global bond yields hit 2008 highs, raising stakes for big borrowers",
     "source": "Hacker News",
-    "description": "HN Score: 49 | 33 comments",
-    "url": "https://tintotint.eu/whacky-corner/f-droid_slop/",
-    "score": 49,
+    "description": "HN Score: 121 | 119 comments",
+    "url": "https://www.reuters.com/world/asia-pacific/bond-selloff-drives-us-benchmark-beyond-5-stocks-rattled-2026-09-15/",
+    "score": 121,
     "date": "2026-09-15",
     "category": "AI News"
   },
   {
-    "title": "Pion, an agent designed to run any company autonomously",
+    "title": "OpenAI buys smartphone camera maker Glass Imaging for $300M",
     "source": "Hacker News",
-    "description": "HN Score: 419 | 519 comments",
-    "url": "https://andonlabs.com/blog/why-we-built-pion",
-    "score": 419,
+    "description": "HN Score: 109 | 74 comments",
+    "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+    "score": 109,
+    "date": "2026-09-15",
+    "category": "AI News"
+  },
+  {
+    "title": "GRP-Obliteration: Unaligning LLMs with a Single Unlabeled Prompt",
+    "source": "Hacker News",
+    "description": "HN Score: 6 | 1 comments",
+    "url": "https://arxiv.org/abs/2602.06258",
+    "score": 6,
     "date": "2026-09-15",
     "category": "AI News"
   },
   {
     "title": "Show HN: Redis City \u2013 Explore how Redis works in an interactive 3D model",
     "source": "Hacker News",
-    "description": "HN Score: 109 | 19 comments",
+    "description": "HN Score: 153 | 23 comments",
     "url": "https://poltora.dev/redis",
-    "score": 109,
+    "score": 153,
     "date": "2026-09-15",
     "category": "AI News"
   },
   {
-    "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
+    "title": "Show HN: Loss. a tiny satire about AI progress",
     "source": "Hacker News",
-    "description": "HN Score: 127 | 28 comments",
-    "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
-    "score": 127,
-    "date": "2026-09-15",
-    "category": "AI News"
-  },
-  {
-    "title": "OpenAI bots knew about the RubyGems caching vulnerability",
-    "source": "Hacker News",
-    "description": "HN Score: 471 | 380 comments",
-    "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
-    "score": 471,
-    "date": "2026-09-15",
-    "category": "AI News"
-  },
-  {
-    "title": "Let's make quality the norm again",
-    "source": "Hacker News",
-    "description": "HN Score: 75 | 80 comments",
-    "url": "https://www.forbrukerradet.no/short-life/",
-    "score": 75,
-    "date": "2026-09-15",
-    "category": "AI News"
-  },
-  {
-    "title": "Why don't machine learning research agents overfit?",
-    "source": "Hacker News",
-    "description": "HN Score: 130 | 75 comments",
-    "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
-    "score": 130,
-    "date": "2026-09-15",
-    "category": "AI News"
-  },
-  {
-    "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
-    "source": "Hacker News",
-    "description": "HN Score: 177 | 109 comments",
-    "url": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
-    "score": 177,
+    "description": "HN Score: 11 | 2 comments",
+    "url": "https://workatloss.com/",
+    "score": 11,
     "date": "2026-09-15",
     "category": "AI News"
   }
