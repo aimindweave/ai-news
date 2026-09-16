@@ -1,91 +1,91 @@
 [
   {
+    "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+    "source": "Hacker News",
+    "description": "HN Score: 298 | 54 comments",
+    "url": "https://rohanbansal.com/qorl",
+    "score": 298,
+    "date": "2026-09-16",
+    "category": "AI News"
+  },
+  {
+    "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+    "source": "Hacker News",
+    "description": "HN Score: 79 | 5 comments",
+    "url": "https://arxiv.org/abs/2609.16338",
+    "score": 79,
+    "date": "2026-09-16",
+    "category": "AI News"
+  },
+  {
+    "title": "Xiaomi Mimo 2.6 live post-training dashboard",
+    "source": "Hacker News",
+    "description": "HN Score: 161 | 44 comments",
+    "url": "https://mimo.xiaomi.com/rl/",
+    "score": 161,
+    "date": "2026-09-16",
+    "category": "AI News"
+  },
+  {
+    "title": "Accurate Models of AMD Matrix Cores",
+    "source": "Hacker News",
+    "description": "HN Score: 47 | 5 comments",
+    "url": "https://arxiv.org/abs/2609.14845",
+    "score": 47,
+    "date": "2026-09-16",
+    "category": "AI News"
+  },
+  {
+    "title": "How good are frontier models at physics?",
+    "source": "Hacker News",
+    "description": "HN Score: 51 | 18 comments",
+    "url": "https://arxiv.org/abs/2609.13009",
+    "score": 51,
+    "date": "2026-09-16",
+    "category": "AI News"
+  },
+  {
     "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
     "source": "Hacker News",
-    "description": "HN Score: 402 | 141 comments",
+    "description": "HN Score: 507 | 182 comments",
     "url": "https://mistral.ai/news/mistral-x-mozilla/",
-    "score": 402,
+    "score": 507,
     "date": "2026-09-16",
     "category": "AI News"
   },
   {
-    "title": "Introducing System One Models and Jev",
+    "title": "Training Text-to-Image Models 3.6\u00d7 Faster",
     "source": "Hacker News",
-    "description": "HN Score: 1729 | 463 comments",
-    "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
-    "score": 1729,
+    "description": "HN Score: 20 | 1 comments",
+    "url": "https://www.linum.ai/field-notes/jit-ddt",
+    "score": 20,
     "date": "2026-09-16",
     "category": "AI News"
   },
   {
-    "title": "Claude Cowork and chat are now one Claude",
+    "title": "Reverse-engineered Jev-like model",
     "source": "Hacker News",
-    "description": "HN Score: 73 | 97 comments",
-    "url": "https://claude.com/blog/cowork-is-now-claude",
-    "score": 73,
+    "description": "HN Score: 30 | 5 comments",
+    "url": "https://github.com/vinnylarouge/jevlike",
+    "score": 30,
     "date": "2026-09-16",
     "category": "AI News"
   },
   {
     "title": "The Siberian Ice Maiden and the Scythian World",
     "source": "Hacker News",
-    "description": "HN Score: 8 | 0 comments",
+    "description": "HN Score: 44 | 4 comments",
     "url": "https://patrickwyman.substack.com/p/the-siberian-ice-maiden-and-the-scythian",
-    "score": 8,
+    "score": 44,
     "date": "2026-09-16",
     "category": "AI News"
   },
   {
-    "title": "Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models",
+    "title": "A warning about 'model welfare'",
     "source": "Hacker News",
-    "description": "HN Score: 40 | 27 comments",
-    "url": "https://stale.jock.pl/",
-    "score": 40,
-    "date": "2026-09-16",
-    "category": "AI News"
-  },
-  {
-    "title": "Why I'm still bearish on LLMs after Navier-Stokes",
-    "source": "Hacker News",
-    "description": "HN Score: 405 | 523 comments",
-    "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
-    "score": 405,
-    "date": "2026-09-16",
-    "category": "AI News"
-  },
-  {
-    "title": "Intelligence per Watt: Measuring Intelligence Efficiency of Local AI",
-    "source": "Hacker News",
-    "description": "HN Score: 137 | 46 comments",
-    "url": "https://arxiv.org/abs/2511.07885",
-    "score": 137,
-    "date": "2026-09-16",
-    "category": "AI News"
-  },
-  {
-    "title": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
-    "source": "Hacker News",
-    "description": "HN Score: 121 | 46 comments",
-    "url": "https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model",
-    "score": 121,
-    "date": "2026-09-16",
-    "category": "AI News"
-  },
-  {
-    "title": "OpenAI expands ChatGPT ads with Sponsored Agents",
-    "source": "Hacker News",
-    "description": "HN Score: 137 | 144 comments",
-    "url": "https://openai.com/index/reimagining-advertising-with-ai/",
-    "score": 137,
-    "date": "2026-09-16",
-    "category": "AI News"
-  },
-  {
-    "title": "Backflip: Apple now wants to train AI models with user data after all",
-    "source": "Hacker News",
-    "description": "HN Score: 12 | 1 comments",
-    "url": "https://www.heise.de/en/news/Backflip-Apple-now-wants-to-train-AI-models-with-user-data-after-all-11451252.html",
-    "score": 12,
+    "description": "HN Score: 183 | 484 comments",
+    "url": "https://mustafa-suleyman.ai/a-warning-about-model-welfare",
+    "score": 183,
     "date": "2026-09-16",
     "category": "AI News"
   }
