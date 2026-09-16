@@ -94,6 +94,16 @@
   "episodes": [
     {
       "id": "a]6z Pod_0",
+      "name": "The AI-Native CRM",
+      "show": "a]6z Podcast",
+      "description": "a16z’s Alex Rampell and Joe Schmidt sit down with Lightfield co-founder and CEO Keith Peiris to discuss what it takes to rethink the CRM for an AI-native world, and the unusual pivot that got him t",
+      "release_date": "2026-09-16",
+      "duration_min": 52,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
+      "id": "a]6z Pod_1",
       "name": "The Age of Body Futurism | Ruby Justice Thelot",
       "show": "a]6z Podcast",
       "description": "Elena Burger sits down with academic and cyber ethnographer Ruby Justice Thelot to explore the increasingly blurry line between internet culture and the real world, and how to tell the difference b",
@@ -103,22 +113,12 @@
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "Greg Brockman on Why OpenAI Says We’re Entering the AGI Era",
       "show": "a]6z Podcast",
       "description": "Ben Horowitz and Erik Torenberg sit down with OpenAI co-founder and President Greg Brockman to discuss why he believes AI has entered a new phase, what OpenAI’s latest models reveal about the path ",
       "release_date": "2026-09-14",
       "duration_min": 51,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
-    },
-    {
-      "id": "a]6z Pod_2",
-      "name": "World Models, Robotics, and the Future of 3D AI",
-      "show": "a]6z Podcast",
-      "description": "World Labs co-founder Justin Johnson joins MTS hosts Theo Jaffee and Sofia Puccini to discuss Atlas, World Labs’ latest world model, and the broader case for AI systems that understand and interact",
-      "release_date": "2026-09-13",
-      "duration_min": 23,
       "image": "",
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
