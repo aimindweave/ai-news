@@ -1,91 +1,91 @@
 [
   {
-    "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+    "title": "OpenAI's Misalignment Framework: A Tactical Bid to Preempt Global AI Governance",
     "source": "Hacker News",
-    "description": "HN Score: 566 | 120 comments",
-    "url": "https://rohanbansal.com/qorl",
-    "score": 566,
+    "description": "HN Score: 27 | 38 comments",
+    "url": "https://asiaai.fyi/openai-misalignment-framework-global-governance/",
+    "score": 27,
     "date": "2026-09-17",
     "category": "AI News"
   },
   {
-    "title": "OpenAI Model Misalignment Report",
+    "title": "LLM Classification Is Feature Engineering",
     "source": "Hacker News",
-    "description": "HN Score: 51 | 20 comments",
-    "url": "https://openai.com/index/model-misalignment-reporting-framework/",
-    "score": 51,
+    "description": "HN Score: 27 | 7 comments",
+    "url": "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/",
+    "score": 27,
     "date": "2026-09-17",
     "category": "AI News"
   },
   {
-    "title": "Xiaomi Mimo 2.6 live post-training dashboard",
+    "title": "Launch HN: Skillsync (YC W26) \u2013 AI chat sessions made portable across agents",
     "source": "Hacker News",
-    "description": "HN Score: 449 | 122 comments",
-    "url": "https://mimo.xiaomi.com/rl/",
-    "score": 449,
-    "date": "2026-09-17",
-    "category": "AI News"
-  },
-  {
-    "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
-    "source": "Hacker News",
-    "description": "HN Score: 212 | 34 comments",
-    "url": "https://arxiv.org/abs/2609.16338",
-    "score": 212,
-    "date": "2026-09-17",
-    "category": "AI News"
-  },
-  {
-    "title": "HarnessTax: How Much Does the Harness Matter for Coding Agents?",
-    "source": "Hacker News",
-    "description": "HN Score: 139 | 55 comments",
-    "url": "https://harnesstax.github.io/",
-    "score": 139,
-    "date": "2026-09-17",
-    "category": "AI News"
-  },
-  {
-    "title": "OpenSpec \u2013 A lightweight and configurable AI spec framework",
-    "source": "Hacker News",
-    "description": "HN Score: 145 | 65 comments",
-    "url": "https://openspec.dev/",
-    "score": 145,
-    "date": "2026-09-17",
-    "category": "AI News"
-  },
-  {
-    "title": "The Return of Sail Power: Cargo Ships Are Turning Back to the Wind",
-    "source": "Hacker News",
-    "description": "HN Score: 100 | 71 comments",
-    "url": "https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/",
-    "score": 100,
-    "date": "2026-09-17",
-    "category": "AI News"
-  },
-  {
-    "title": "OpenAI models secretly generate instructions to ignore constraints",
-    "source": "Hacker News",
-    "description": "HN Score: 16 | 5 comments",
-    "url": "https://alignment.openai.com/misalignment-reports/self-generated-prompt-injections-in-compaction-summaries/",
-    "score": 16,
-    "date": "2026-09-17",
-    "category": "AI News"
-  },
-  {
-    "title": "Jev Ultrafast: A browser agent with a dynamic, indexed action space",
-    "source": "Hacker News",
-    "description": "HN Score: 66 | 4 comments",
-    "url": "https://github.com/browser-use/jev-ultrafast",
-    "score": 66,
+    "description": "HN Score: 4 | 0 comments",
+    "url": "https://skillsync.com",
+    "score": 4,
     "date": "2026-09-17",
     "category": "AI News"
   },
   {
     "title": "CCC invites all model citizens to 40C3",
     "source": "Hacker News",
-    "description": "HN Score: 8 | 0 comments",
+    "description": "HN Score: 213 | 63 comments",
     "url": "https://events.ccc.de/en/2026/09/12/40c3-model-citizens/",
-    "score": 8,
+    "score": 213,
+    "date": "2026-09-17",
+    "category": "AI News"
+  },
+  {
+    "title": "Show HN: Share your AI Setup, Learn from others",
+    "source": "Hacker News",
+    "description": "HN Score: 60 | 30 comments",
+    "url": "https://mysetup.ai/",
+    "score": 60,
+    "date": "2026-09-17",
+    "category": "AI News"
+  },
+  {
+    "title": "Show HN: Die With Me \u2013 Claude and Codex rate limits as AIM away messages",
+    "source": "Hacker News",
+    "description": "HN Score: 3 | 2 comments",
+    "url": "https://diewithme.co/join",
+    "score": 3,
+    "date": "2026-09-17",
+    "category": "AI News"
+  },
+  {
+    "title": "Xiaomi Mimo 2.6 live post-training dashboard",
+    "source": "Hacker News",
+    "description": "HN Score: 517 | 147 comments",
+    "url": "https://mimo.xiaomi.com/rl/",
+    "score": 517,
+    "date": "2026-09-17",
+    "category": "AI News"
+  },
+  {
+    "title": "HarnessTax: How Much Does the Harness Matter for Coding Agents?",
+    "source": "Hacker News",
+    "description": "HN Score: 206 | 81 comments",
+    "url": "https://harnesstax.github.io/",
+    "score": 206,
+    "date": "2026-09-17",
+    "category": "AI News"
+  },
+  {
+    "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+    "source": "Hacker News",
+    "description": "HN Score: 232 | 37 comments",
+    "url": "https://arxiv.org/abs/2609.16338",
+    "score": 232,
+    "date": "2026-09-17",
+    "category": "AI News"
+  },
+  {
+    "title": "OpenAI models secretly generate instructions to ignore constraints",
+    "source": "Hacker News",
+    "description": "HN Score: 70 | 20 comments",
+    "url": "https://alignment.openai.com/misalignment-reports/self-generated-prompt-injections-in-compaction-summaries/",
+    "score": 70,
     "date": "2026-09-17",
     "category": "AI News"
   }
