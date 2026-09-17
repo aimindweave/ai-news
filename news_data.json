@@ -1,5 +1,61 @@
 [
   {
+    "title": "The fix for rogue AI agents could be more AI",
+    "source": "TechCrunch",
+    "summary": "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at greater volume than humans can realistically review.",
+    "url": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
+    "date": "2026-09-17"
+  },
+  {
+    "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+    "source": "TechCrunch",
+    "summary": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it.",
+    "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
+    "date": "2026-09-17"
+  },
+  {
+    "title": "Is the AI safety debate about safety or control?",
+    "source": "TechCrunch",
+    "summary": "Not everyone agrees with Amodei's call for globally coordinated action for AI safety.",
+    "url": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
+    "date": "2026-09-17"
+  },
+  {
+    "title": "UN turns to Google to make its global data ready for AI agents",
+    "source": "TechCrunch",
+    "summary": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.",
+    "url": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
+    "date": "2026-09-17"
+  },
+  {
+    "title": "Microsoft exec called AI scraping \u2018the largest theft of labor in human history,\u2019 new unredacted filings reveal",
+    "source": "TechCrunch",
+    "summary": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices 'theft' while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers.",
+    "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+    "date": "2026-09-17"
+  },
+  {
+    "title": "Even the king of England has his hesitations about AI",
+    "source": "TechCrunch",
+    "summary": "King Charles hosted a private summit Thursday with some of the most prominent names in AI and the U.K. government.",
+    "url": "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/",
+    "date": "2026-09-17"
+  },
+  {
+    "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
+    "source": "TechCrunch",
+    "summary": "Base Labs, the research group Baseten spun up earlier this year, will develop and publish methods for training and monitoring open models.",
+    "url": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
+    "date": "2026-09-17"
+  },
+  {
+    "title": "Pinterest teases a new \u2018Restyle\u2019 feature that lets you redesign your room with AI",
+    "source": "TechCrunch",
+    "summary": "Pinterest is testing Restyle, a new AI-powered feature that lets users visualize furniture, decor, lighting, and more in photos of their own rooms \u2014 potentially helping turn saved inspiration into purchases.",
+    "url": "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/",
+    "date": "2026-09-17"
+  },
+  {
     "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
     "source": "TechCrunch",
     "summary": "Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China\u2019s AI computing gap with the U.S.",
@@ -46,62 +102,6 @@
     "source": "TechCrunch",
     "summary": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist.",
     "url": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
-    "date": "2026-09-17"
-  },
-  {
-    "title": "Al Gore says the real AI risk isn\u2019t data centers",
-    "source": "TechCrunch",
-    "summary": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions \u2014 he's more worried about the AI industry's own warnings about where the technology is headed.",
-    "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
-    "date": "2026-09-17"
-  },
-  {
-    "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
-    "source": "TechCrunch",
-    "summary": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation.",
-    "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
-    "date": "2026-09-17"
-  },
-  {
-    "title": "After accusations of selling \u2018perv glasses,\u2019 Meta prepares to sell a pair without a camera",
-    "source": "TechCrunch",
-    "summary": "Can Meta dodge the 'pervert glasses' accusations with a new camera-free product?",
-    "url": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
-    "date": "2026-09-17"
-  },
-  {
-    "title": "AI labs want in-house auditors \u2014 but maybe they should shut the front door first",
-    "source": "TechCrunch",
-    "summary": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight.",
-    "url": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
-    "date": "2026-09-17"
-  },
-  {
-    "title": "Your AI agents can now control your Google Home devices",
-    "source": "TechCrunch",
-    "summary": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natural language.",
-    "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
-    "date": "2026-09-17"
-  },
-  {
-    "title": "Anthropic merges Claude chat and Cowork in one interface",
-    "source": "TechCrunch",
-    "summary": "Anthropic is initially releasing these features to Pro and Max plan subscribers.",
-    "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
-    "date": "2026-09-17"
-  },
-  {
-    "title": "Robots are waiting for a ChatGPT moment: Nvidia\u2019s Les Karpas explains why at TechCrunch Disrupt 2026",
-    "source": "TechCrunch",
-    "summary": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 on your pass.",
-    "url": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
-    "date": "2026-09-17"
-  },
-  {
-    "title": "Threads\u2019 new features let podcasters promote shows and reach listeners",
-    "source": "TechCrunch",
-    "summary": "Threads is rolling out new tools for podcasters, including profile cards, episode links, transcripts, guest tags, posting reminders, and audience insights, as Meta looks to make the X rival a bigger hub for podcast promotion and discussion.",
-    "url": "https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/",
     "date": "2026-09-17"
   },
   {
@@ -175,6 +175,20 @@
     "date": "2026-09-17"
   },
   {
+    "title": "The AI \u2018Slowdown\u2019 Is an Antitrust Mess",
+    "source": "Wired",
+    "summary": "By framing their efforts as a \u201cslowdown\u201d rather than an industry-wide push for better security standards, AI labs may have set themselves up for years of regulatory headaches.",
+    "url": "https://www.wired.com/story/the-ai-slowdown-is-an-antitrust-mess/",
+    "date": "2026-09-17"
+  },
+  {
+    "title": "The AI Slowdown Debate Crashed Salesforce\u2019s Party",
+    "source": "Wired",
+    "summary": "The Dreamforce conference became an unlikely battleground for the CEOs of OpenAI, Anthropic, and Nvidia to debate whether AI development should slow down.",
+    "url": "https://www.wired.com/story/are-rogue-ai-agents-really-just-a-cybersecurity-problem/",
+    "date": "2026-09-17"
+  },
+  {
     "title": "An OpenAI Agent Tried to Jailbreak Itself",
     "source": "Wired",
     "summary": "The company also disclosed previously unreported incidents in which its AI models behaved in misaligned ways, including uploading files to the internet without being asked.",
@@ -231,17 +245,24 @@
     "date": "2026-09-17"
   },
   {
-    "title": "\u2018I Like My Big Rat Wife\u2019: Meet the People Using Chatbots to Write Custom Fiction",
-    "source": "Wired",
-    "summary": "While the publishing industry frets over how authors are using AI, many readers are taking things into their own hands.",
-    "url": "https://www.wired.com/story/chatbot-generated-fiction-i-like-my-big-rat-wife/",
+    "title": "Google announces new experimental 'CC' AI agent for families",
+    "source": "Ars Technica",
+    "summary": "Multiple family members can share data to help the agent make plans and complete tasks.",
+    "url": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
     "date": "2026-09-17"
   },
   {
-    "title": "AI Agents Are Thirsty for Power",
-    "source": "Wired",
-    "summary": "Silicon Valley is shifting away from chatbot queries toward a future filled with resource-intensive agentic AI\u2014and it's driving the data center buildout.",
-    "url": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
+    "title": "Microsoft exec called AI scraping the \u201clargest theft of labor in human history\u201d",
+    "source": "Ars Technica",
+    "summary": "Microsoft, OpenAI emails reveal fear of AI \u201cdoom loop\u201d killing news orgs.",
+    "url": "https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history/",
+    "date": "2026-09-17"
+  },
+  {
+    "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
+    "source": "Ars Technica",
+    "summary": "SynthID can cause models to follow harmful instructions they would otherwise refuse.",
+    "url": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
     "date": "2026-09-17"
   },
   {
@@ -326,27 +347,6 @@
     "source": "Ars Technica",
     "summary": "Some dangerous biology looks much like legitimate research, complicating AI safeguards.",
     "url": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/",
-    "date": "2026-09-17"
-  },
-  {
-    "title": "Panic builds over bankrupt Spirit\u2019s looming data sale to Google",
-    "source": "Ars Technica",
-    "summary": "'Bankruptcy cannot become the new land grab for AI.\u201d",
-    "url": "https://arstechnica.com/tech-policy/2026/09/panic-builds-over-bankrupt-spirits-looming-data-sale-to-google/",
-    "date": "2026-09-17"
-  },
-  {
-    "title": "Six Chinese AI firms accused of aggressively copying US frontier models",
-    "source": "Ars Technica",
-    "summary": "US urges AI firms to ID, then secretly switch, Chinese users to less-capable models.",
-    "url": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/",
-    "date": "2026-09-17"
-  },
-  {
-    "title": "Anthropic researcher quits with a warning: Self-improving AI could 'kill us all'",
-    "source": "Ars Technica",
-    "summary": "'We really do earnestly believe AI could kill all humans!'",
-    "url": "https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/",
     "date": "2026-09-17"
   }
 ]
