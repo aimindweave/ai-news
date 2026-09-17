@@ -103,17 +103,37 @@
       "url": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"
     },
     {
+      "id": "Practica_0",
+      "name": "How to get discovered in AI search",
+      "show": "Practical AI",
+      "description": "\n        AI search is changing how people discover information and how brands need to think about visibility. Daniel and Chris talk with Liam Dunne and Ben Moore, co-founders of Discovered Labs, ab",
+      "release_date": "2026-09-17",
+      "duration_min": 55,
+      "image": "",
+      "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
+    },
+    {
       "id": "The TWIM_0",
       "name": "From Voice Agents to AI Avatars with Alexander Smola - #777",
       "show": "The TWIML AI Podcast",
       "description": "Voice AI has gotten remarkably good, but natural conversation remains a high bar. Small delays, awkward interruptions, or the wrong tone can quickly break the illusion—and adding vision and visual pre",
       "release_date": "2026-09-17",
-      "duration_min": 65,
+      "duration_min": 64,
       "image": "",
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
     },
     {
       "id": "a]6z Pod_0",
+      "name": "The Next Frontier of AI Video Is Control",
+      "show": "a]6z Podcast",
+      "description": "a16z General Partner Jennifer Li sits down with fal co-founder Gorkem Yurtseven and Head of Engineering Batuhan Taskaya to discuss what changes when generative video becomes fast enough to run in r",
+      "release_date": "2026-09-17",
+      "duration_min": 39,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
+      "id": "a]6z Pod_1",
       "name": "The AI-Native CRM",
       "show": "a]6z Podcast",
       "description": "a16z’s Alex Rampell and Joe Schmidt sit down with Lightfield co-founder and CEO Keith Peiris to discuss what it takes to rethink the CRM for an AI-native world, and the unusual pivot that got him t",
@@ -123,22 +143,12 @@
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "The Age of Body Futurism | Ruby Justice Thelot",
       "show": "a]6z Podcast",
       "description": "Elena Burger sits down with academic and cyber ethnographer Ruby Justice Thelot to explore the increasingly blurry line between internet culture and the real world, and how to tell the difference b",
       "release_date": "2026-09-15",
       "duration_min": 42,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
-    },
-    {
-      "id": "a]6z Pod_2",
-      "name": "Greg Brockman on Why OpenAI Says We’re Entering the AGI Era",
-      "show": "a]6z Podcast",
-      "description": "Ben Horowitz and Erik Torenberg sit down with OpenAI co-founder and President Greg Brockman to discuss why he believes AI has entered a new phase, what OpenAI’s latest models reveal about the path ",
-      "release_date": "2026-09-14",
-      "duration_min": 51,
       "image": "",
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
@@ -153,7 +163,7 @@
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
-      "id": "Practica_0",
+      "id": "Practica_1",
       "name": "Computer-Use Agents and the Future of the Agentic Internet",
       "show": "Practical AI",
       "description": "\n        Longtime followers of Practical AI know that multi-repeat guest and friend Demetrios Brinkmann combines brilliant insight and playful banter into one fun-filled show, and this conversion w",
@@ -183,7 +193,7 @@
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
-      "id": "Practica_1",
+      "id": "Practica_2",
       "name": "Less about Models; More about Architecture",
       "show": "Practical AI",
       "description": "\n        As AI moves from experimentation to enterprise deployment, are organizations thinking too much about models and not enough about architecture? In this episode, Daniel and Chris talk with C",
@@ -211,16 +221,6 @@
       "duration_min": 62,
       "image": "",
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
-    },
-    {
-      "id": "Practica_2",
-      "name": "Building the Foundation for the Agentic AI Era",
-      "show": "Practical AI",
-      "description": "\n        How do we build an AI ecosystem where agents, tools, and systems can work together at scale? Angie Jones, VP of the Agentic AI Foundation, joins Chris to discuss the open standards and pro",
-      "release_date": "2026-08-28",
-      "duration_min": 45,
-      "image": "",
-      "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
       "id": "Lex Frid_1",
