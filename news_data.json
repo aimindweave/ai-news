@@ -1,5 +1,26 @@
 [
   {
+    "title": "World model companies are keeping a lot of secrets",
+    "source": "TechCrunch",
+    "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone \u2014 from the founders to their own data suppliers \u2014 to tell you what they're actually building.",
+    "url": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
+    "date": "2026-09-18"
+  },
+  {
+    "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+    "source": "TechCrunch",
+    "summary": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
+    "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+    "date": "2026-09-18"
+  },
+  {
+    "title": "Disney\u2019s first CTO led an AI startup it once accused of copying its characters",
+    "source": "TechCrunch",
+    "summary": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer.",
+    "url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
+    "date": "2026-09-18"
+  },
+  {
     "title": "Google\u2019s new \u2018CC\u2019 is an AI agent that helps families run their households",
     "source": "TechCrunch",
     "summary": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more.",
@@ -84,27 +105,6 @@
     "date": "2026-09-18"
   },
   {
-    "title": "The FAA\u2019s plan to fix air traffic? $875M worth of AI",
-    "source": "TechCrunch",
-    "summary": "A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies.",
-    "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
-    "date": "2026-09-18"
-  },
-  {
-    "title": "The fix for rogue AI agents could be more AI",
-    "source": "TechCrunch",
-    "summary": "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at greater volume than humans can realistically review.",
-    "url": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
-    "date": "2026-09-18"
-  },
-  {
-    "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
-    "source": "TechCrunch",
-    "summary": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it.",
-    "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
-    "date": "2026-09-18"
-  },
-  {
     "title": "The Download: AI\u2019s extinction risk and bioweapons threat",
     "source": "MIT Tech Review",
     "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Could AI really kill us all? Your questions, answered On Wednesday, MIT Technology Review hosted a live Roundtables event that asked the question many seem to ...",
@@ -175,6 +175,13 @@
     "date": "2026-09-18"
   },
   {
+    "title": "Here\u2019s How an AI Slowdown Could Actually Be Enforced",
+    "source": "Wired",
+    "summary": "Even if big AI companies agree to a pause, ensuring that nobody tries to sneak ahead could prove tricky.",
+    "url": "https://www.wired.com/story/heres-how-an-ai-slowdown-could-actually-work/",
+    "date": "2026-09-18"
+  },
+  {
     "title": "AI PACs Have Dumped Nearly $1 Million Into an Obscure Senate Race",
     "source": "Wired",
     "summary": "The reliably Republican South Dakota senate seat has an incumbent on the ballot. But PACs associated with AI labs and investors have already spent more money on the race than actual residents have.",
@@ -238,16 +245,23 @@
     "date": "2026-09-18"
   },
   {
-    "title": "An OpenAI Agent Tried to Jailbreak Itself",
-    "source": "Wired",
-    "summary": "The company also disclosed previously unreported incidents in which its AI models behaved in misaligned ways, including uploading files to the internet without being asked.",
-    "url": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/",
+    "title": "Report: US almost boarded Chinese ship over hallucinated AI arms report",
+    "source": "Ars Technica",
+    "summary": "But the military's overall use of AI seems to be accelerating.",
+    "url": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
+    "date": "2026-09-18"
+  },
+  {
+    "title": "FAA tees up $875M AI tool to help manage air traffic congestion",
+    "source": "Ars Technica",
+    "summary": "FAA plans for AI tool to help manage DC air traffic before a nationwide rollout.",
+    "url": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/",
     "date": "2026-09-18"
   },
   {
     "title": "US government website used Chinese model the FBI called 'malicious'",
     "source": "Ars Technica",
-    "summary": "The Federal Register website briefly used an open-source Chinese AI search tool.",
+    "summary": "The Federal Register website briefly used an open source Chinese AI search tool.",
     "url": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/",
     "date": "2026-09-18"
   },
@@ -333,20 +347,6 @@
     "source": "Ars Technica",
     "summary": "Wang Xingxing micromanaged Unitree to success\u2014will his leadership style scale?",
     "url": "https://arstechnica.com/ai/2026/09/founders-cost-cutting-obsession-drove-unitree-lead-in-cheap-humanoid-robots/",
-    "date": "2026-09-18"
-  },
-  {
-    "title": "Apple releases iOS 27, macOS Golden Gate 27 with Siri AI and Liquid Glass refinements",
-    "source": "Ars Technica",
-    "summary": "This is also the last version of macOS to support Rosetta for Intel apps.",
-    "url": "https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements/",
-    "date": "2026-09-18"
-  },
-  {
-    "title": "AI leaders want to hit the brakes after years of reckless speed",
-    "source": "Ars Technica",
-    "summary": "Safety is the watchword, but there could be ulterior benefits for the industry.",
-    "url": "https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed/",
     "date": "2026-09-18"
   }
 ]
