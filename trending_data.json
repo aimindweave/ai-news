@@ -1,91 +1,91 @@
 [
   {
-    "title": "Hacking OpenAI",
+    "title": "ZCode, the GLM coding agent, silently uploads your Git history",
     "source": "Hacker News",
-    "description": "HN Score: 271 | 93 comments",
-    "url": "https://www.hacktron.ai/blog/hacking-openai",
-    "score": 271,
+    "description": "HN Score: 111 | 24 comments",
+    "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+    "score": 111,
+    "date": "2026-09-18",
+    "category": "AI News"
+  },
+  {
+    "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
+    "source": "Hacker News",
+    "description": "HN Score: 345 | 275 comments",
+    "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+    "score": 345,
     "date": "2026-09-18",
     "category": "AI News"
   },
   {
     "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
     "source": "Hacker News",
-    "description": "HN Score: 382 | 115 comments",
+    "description": "HN Score: 484 | 149 comments",
     "url": "https://prismml.com/news/bonsai-2-27b",
-    "score": 382,
+    "score": 484,
+    "date": "2026-09-18",
+    "category": "AI News"
+  },
+  {
+    "title": "Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him",
+    "source": "Hacker News",
+    "description": "HN Score: 58 | 35 comments",
+    "url": "https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html",
+    "score": 58,
     "date": "2026-09-18",
     "category": "AI News"
   },
   {
     "title": "Bend \u2013 A language that blocks AI mistakes via proof, on CPU and GPU",
     "source": "Hacker News",
-    "description": "HN Score: 416 | 199 comments",
+    "description": "HN Score: 511 | 243 comments",
     "url": "https://bend-lang.com/",
-    "score": 416,
+    "score": 511,
     "date": "2026-09-18",
     "category": "AI News"
   },
   {
     "title": "How to Write with an LLM",
     "source": "Hacker News",
-    "description": "HN Score: 113 | 74 comments",
+    "description": "HN Score: 210 | 139 comments",
     "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-    "score": 113,
+    "score": 210,
+    "date": "2026-09-18",
+    "category": "AI News"
+  },
+  {
+    "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
+    "source": "Hacker News",
+    "description": "HN Score: 377 | 163 comments",
+    "url": "https://www.hacktron.ai/blog/hacking-openai",
+    "score": 377,
     "date": "2026-09-18",
     "category": "AI News"
   },
   {
     "title": "Diplodocus, Long Thought Exclusively American, Turns Up in Spain",
     "source": "Hacker News",
-    "description": "HN Score: 57 | 34 comments",
+    "description": "HN Score: 77 | 47 comments",
     "url": "https://www.sci.news/paleontology/spanish-diplodocus-15064.html",
-    "score": 57,
+    "score": 77,
     "date": "2026-09-18",
     "category": "AI News"
   },
   {
     "title": "How Uber Protects Against Retry Storms",
     "source": "Hacker News",
-    "description": "HN Score: 85 | 33 comments",
+    "description": "HN Score: 103 | 46 comments",
     "url": "https://www.uber.com/us/en/blog/protecting-against-retry-storms/",
-    "score": 85,
+    "score": 103,
     "date": "2026-09-18",
     "category": "AI News"
   },
   {
     "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
     "source": "Hacker News",
-    "description": "HN Score: 136 | 38 comments",
+    "description": "HN Score: 151 | 40 comments",
     "url": "https://arxiv.org/abs/2609.18842",
-    "score": 136,
-    "date": "2026-09-18",
-    "category": "AI News"
-  },
-  {
-    "title": "TSMC revealing details about next gen A14 node",
-    "source": "Hacker News",
-    "description": "HN Score: 105 | 45 comments",
-    "url": "https://iedm26.mapyourshow.com/8_0/sessions/session-details.cfm?scheduleid=331",
-    "score": 105,
-    "date": "2026-09-18",
-    "category": "AI News"
-  },
-  {
-    "title": "Show HN: Share your AI Setup, Learn from others",
-    "source": "Hacker News",
-    "description": "HN Score: 208 | 119 comments",
-    "url": "https://mysetup.ai/",
-    "score": 208,
-    "date": "2026-09-18",
-    "category": "AI News"
-  },
-  {
-    "title": "Launch HN: Skillsync (YC W26) \u2013 AI chat sessions made portable across agents",
-    "source": "Hacker News",
-    "description": "HN Score: 55 | 53 comments",
-    "url": "https://news.ycombinator.com/item?id=49743049",
-    "score": 55,
+    "score": 151,
     "date": "2026-09-18",
     "category": "AI News"
   }

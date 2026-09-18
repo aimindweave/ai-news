@@ -93,6 +93,16 @@
   ],
   "episodes": [
     {
+      "id": "Hard For_0",
+      "name": "A.I. Safety Goes Mainstream + a ‘Hard Fork’ Exit AMA",
+      "show": "Hard Fork",
+      "description": "This week, we break down why everyone is suddenly talking about A.I. safety, why frontier A.I. companies are asking for regulation and why the Trump administration is rejecting them. And then, to c",
+      "release_date": "2026-09-18",
+      "duration_min": 84,
+      "image": "",
+      "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
+    },
+    {
       "id": "Lex Frid_0",
       "name": "#502 – Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud & Jung",
       "show": "Lex Fridman Podcast",
@@ -153,7 +163,7 @@
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
-      "id": "Hard For_0",
+      "id": "Hard For_1",
       "name": "The Ezra Klein Show: The A.I. Revolt Is Here",
       "show": "Hard Fork",
       "description": "The “Hard Fork” team is away this week. But while we’re away, we’re bringing you a recent episode of “The Ezra Klein Show.”In this episode, Ezra talks with the journalist Jasmine Sun about h",
@@ -183,7 +193,7 @@
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
     },
     {
-      "id": "Hard For_1",
+      "id": "Hard For_2",
       "name": "The A.I. Mob That Attacked Hugging Face + METR’s Ajeya Cotra",
       "show": "Hard Fork",
       "description": "This week, we’re diving into two new reports about the OpenAI-Hugging Face hack. We discuss what’s new and how they fundamentally change our understanding of what happened. Then we’re joined by Aje",
@@ -211,16 +221,6 @@
       "duration_min": 66,
       "image": "",
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
-    },
-    {
-      "id": "Hard For_2",
-      "name": "Meta Shifts the Blame + Do Data Center Bans Work? + The Final HatGPT",
-      "show": "Hard Fork",
-      "description": "This week, Meta agreed to pay up to $17.1 billion and make major changes to Facebook and Instagram over claims it endangered children with addictive social media platforms. We discuss why it capitu",
-      "release_date": "2026-08-28",
-      "duration_min": 62,
-      "image": "",
-      "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
       "id": "Lex Frid_1",
