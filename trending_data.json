@@ -1,91 +1,91 @@
 [
   {
+    "title": "Avoiding the babbling-idiot failure in a time-triggered communication system",
+    "source": "Hacker News",
+    "description": "HN Score: 10 | 1 comments",
+    "url": "https://ieeexplore.ieee.org/document/689473",
+    "score": 10,
+    "date": "2026-09-21",
+    "category": "AI News"
+  },
+  {
+    "title": "Python Workers are now generally available",
+    "source": "Hacker News",
+    "description": "HN Score: 110 | 12 comments",
+    "url": "https://blog.cloudflare.com/python-workers-ga/",
+    "score": 110,
+    "date": "2026-09-21",
+    "category": "AI News"
+  },
+  {
+    "title": "US halts flights at busy East Coast airports, says fiber line cut",
+    "source": "Hacker News",
+    "description": "HN Score: 21 | 10 comments",
+    "url": "https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/",
+    "score": 21,
+    "date": "2026-09-21",
+    "category": "AI News"
+  },
+  {
     "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
     "source": "Hacker News",
-    "description": "HN Score: 176 | 76 comments",
+    "description": "HN Score: 330 | 153 comments",
     "url": "https://github.com/jaredpalmer/kev/tree/main",
-    "score": 176,
+    "score": 330,
+    "date": "2026-09-21",
+    "category": "AI News"
+  },
+  {
+    "title": "Amazon blocks Meta\u2019s new Muse AI agent from shopping on amazon.com",
+    "source": "Hacker News",
+    "description": "HN Score: 100 | 86 comments",
+    "url": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/",
+    "score": 100,
     "date": "2026-09-21",
     "category": "AI News"
   },
   {
     "title": "AX \u2013 Google\u2019s Open Agentic Orchestrator",
     "source": "Hacker News",
-    "description": "HN Score: 537 | 240 comments",
+    "description": "HN Score: 619 | 283 comments",
     "url": "https://agentexecutor.io",
-    "score": 537,
+    "score": 619,
     "date": "2026-09-21",
     "category": "AI News"
   },
   {
-    "title": "Show HN: Mini-AGI \u2013 Dynamic continual learning model trained on 8GB VRAM",
+    "title": "Whirlpool Washer Transmission Repair (2007)",
     "source": "Hacker News",
-    "description": "HN Score: 157 | 29 comments",
-    "url": "https://github.com/volotat/mini-AGI/",
-    "score": 157,
+    "description": "HN Score: 25 | 25 comments",
+    "url": "https://k0lee.com/2007/01/whirlpool-washer-transmission-repair/",
+    "score": 25,
+    "date": "2026-09-21",
+    "category": "AI News"
+  },
+  {
+    "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
+    "source": "Hacker News",
+    "description": "HN Score: 146 | 70 comments",
+    "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/",
+    "score": 146,
     "date": "2026-09-21",
     "category": "AI News"
   },
   {
     "title": "Heretic removes restrictions from language models",
     "source": "Hacker News",
-    "description": "HN Score: 70 | 27 comments",
+    "description": "HN Score: 185 | 74 comments",
     "url": "https://heretic-project.org/",
-    "score": 70,
+    "score": 185,
     "date": "2026-09-21",
     "category": "AI News"
   },
   {
-    "title": "Amiga Unix, Again",
+    "title": "Show HN: Lossless-memory \u2013 a personal AI memory that never summarizes",
     "source": "Hacker News",
-    "description": "HN Score: 117 | 38 comments",
-    "url": "https://amigaux.org/",
-    "score": 117,
-    "date": "2026-09-21",
-    "category": "AI News"
-  },
-  {
-    "title": "Spain orders blocks on Archive.today and its mirrors",
-    "source": "Hacker News",
-    "description": "HN Score: 467 | 353 comments",
-    "url": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
-    "score": 467,
-    "date": "2026-09-21",
-    "category": "AI News"
-  },
-  {
-    "title": "The LLMentalist Effect (2023)",
-    "source": "Hacker News",
-    "description": "HN Score: 200 | 276 comments",
-    "url": "https://softwarecrisis.dev/letters/llmentalist/",
-    "score": 200,
-    "date": "2026-09-21",
-    "category": "AI News"
-  },
-  {
-    "title": "Show HN: A competition for small neural networks that play strategy games",
-    "source": "Hacker News",
-    "description": "HN Score: 89 | 27 comments",
-    "url": "https://tinybrains.dev",
-    "score": 89,
-    "date": "2026-09-21",
-    "category": "AI News"
-  },
-  {
-    "title": "Don't Use AI to Write",
-    "source": "Hacker News",
-    "description": "HN Score: 3 | 0 comments",
-    "url": "https://paulbakker.io/writing/no-ai-for-writing/",
-    "score": 3,
-    "date": "2026-09-21",
-    "category": "AI News"
-  },
-  {
-    "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
-    "source": "Hacker News",
-    "description": "HN Score: 122 | 58 comments",
-    "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
-    "score": 122,
+    "description": "HN Score: 49 | 15 comments",
+    "url": "https://github.com/aru-labs/lossless-memory",
+    "score": 49,
     "date": "2026-09-21",
     "category": "AI News"
   }
