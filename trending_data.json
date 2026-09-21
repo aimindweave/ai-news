@@ -1,83 +1,92 @@
 [
   {
+    "title": "AX \u2013 Google\u2019s Open Agentic Orchestrator",
+    "source": "Hacker News",
+    "description": "HN Score: 312 | 121 comments",
+    "url": "https://agentexecutor.io",
+    "score": 312,
+    "date": "2026-09-21",
+    "category": "AI News"
+  },
+  {
     "title": "ChatGPT now knows what you do on other websites via ad collector",
     "source": "Hacker News",
-    "description": "HN Score: 478 | 265 comments",
+    "description": "HN Score: 681 | 358 comments",
     "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
-    "score": 478,
-    "date": "2026-09-20",
+    "score": 681,
+    "date": "2026-09-21",
     "category": "AI News"
   },
   {
     "title": "Pirate Face Rescues LLM Models from Deletion",
     "source": "Hacker News",
-    "description": "HN Score: 372 | 120 comments",
+    "description": "HN Score: 484 | 141 comments",
     "url": "https://pirateface.co/",
-    "score": 372,
-    "date": "2026-09-20",
+    "score": 484,
+    "date": "2026-09-21",
+    "category": "AI News"
+  },
+  {
+    "title": "Amiga Unix, Again",
+    "source": "Hacker News",
+    "description": "HN Score: 31 | 13 comments",
+    "url": "https://amigaux.org/",
+    "score": 31,
+    "date": "2026-09-21",
+    "category": "AI News"
+  },
+  {
+    "title": "Spain Orders Blocks on Archive.today and Its Mirrors",
+    "source": "Hacker News",
+    "description": "HN Score: 300 | 239 comments",
+    "url": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
+    "score": 300,
+    "date": "2026-09-21",
+    "category": "AI News"
+  },
+  {
+    "title": "The LLMentalist Effect (2023)",
+    "source": "Hacker News",
+    "description": "HN Score: 165 | 252 comments",
+    "url": "https://softwarecrisis.dev/letters/llmentalist/",
+    "score": 165,
+    "date": "2026-09-21",
     "category": "AI News"
   },
   {
     "title": "Show HN: A competition for small neural networks that play strategy games",
     "source": "Hacker News",
-    "description": "HN Score: 10 | 3 comments",
+    "description": "HN Score: 47 | 15 comments",
     "url": "https://tinybrains.dev",
-    "score": 10,
-    "date": "2026-09-20",
+    "score": 47,
+    "date": "2026-09-21",
     "category": "AI News"
   },
   {
-    "title": "OpenAI's Sam Altman to Brief UN Security Council Next Week",
+    "title": "DAPO: An Open-source RL System from ByteDance Seed and Tsinghua AIR",
     "source": "Hacker News",
-    "description": "HN Score: 30 | 35 comments",
-    "url": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18/",
-    "score": 30,
-    "date": "2026-09-20",
+    "description": "HN Score: 13 | 2 comments",
+    "url": "https://github.com/BytedTsinghua-SIA/DAPO",
+    "score": 13,
+    "date": "2026-09-21",
     "category": "AI News"
   },
   {
-    "title": "I stopped drinking the AI Kool-Aid",
+    "title": "The president wanted to unleash AI. Then came Anthropic",
     "source": "Hacker News",
-    "description": "HN Score: 22 | 12 comments",
-    "url": "https://joshtronic.com/2026/09/20/i-stopped-drinking-the-ai-kool-aid/",
-    "score": 22,
-    "date": "2026-09-20",
+    "description": "HN Score: 3 | 0 comments",
+    "url": "https://www.politico.com/news/magazine/2026/09/20/anthropic-white-house-ai-01085212",
+    "score": 3,
+    "date": "2026-09-21",
     "category": "AI News"
   },
   {
-    "title": "AI-generated posters don\u2019t have to be horrible",
+    "title": "Show HN: jevals \u2013 replacing LLM judges with typed Jev decisions",
     "source": "Hacker News",
-    "description": "HN Score: 1763 | 906 comments",
-    "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-    "score": 1763,
-    "date": "2026-09-20",
-    "category": "AI News"
-  },
-  {
-    "title": "How to Write with an LLM",
-    "source": "Hacker News",
-    "description": "HN Score: 711 | 401 comments",
-    "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-    "score": 711,
-    "date": "2026-09-20",
-    "category": "AI News"
-  },
-  {
-    "title": "I built non-autoregressive decision models with RL a year ago",
-    "source": "Hacker News",
-    "description": "HN Score: 1289 | 309 comments",
-    "url": "https://laya.convaiinnovations.com/",
-    "score": 1289,
-    "date": "2026-09-20",
-    "category": "AI News"
-  },
-  {
-    "title": "A Model for Winning Survivor",
-    "source": "Hacker News",
-    "description": "HN Score: 45 | 24 comments",
-    "url": "https://victoriaritvo.com/blog/predicting-survivor/",
-    "score": 45,
-    "date": "2026-09-20",
+    "description": "HN Score: 13 | 0 comments",
+    "url": "https://github.com/openlayer-ai/jevals",
+    "score": 13,
+    "date": "2026-09-21",
     "category": "AI News"
   }
 ]
