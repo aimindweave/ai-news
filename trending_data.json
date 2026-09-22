@@ -1,91 +1,91 @@
 [
   {
+    "title": "OpenAI GPT\u20136 Astra breaks Enigma message that has resisted solution since 2005",
+    "source": "Hacker News",
+    "description": "HN Score: 273 | 255 comments",
+    "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+    "score": 273,
+    "date": "2026-09-22",
+    "category": "AI News"
+  },
+  {
+    "title": "Claude Opus 5.5",
+    "source": "Hacker News",
+    "description": "HN Score: 74 | 43 comments",
+    "url": "https://www.anthropic.com/claude-opus-5-5",
+    "score": 74,
+    "date": "2026-09-22",
+    "category": "AI News"
+  },
+  {
+    "title": "OpenAI is well positioned to fast-follow Jev",
+    "source": "Hacker News",
+    "description": "HN Score: 110 | 86 comments",
+    "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
+    "score": 110,
+    "date": "2026-09-22",
+    "category": "AI News"
+  },
+  {
+    "title": "Writing Rust code that's fast by asking agents to make the code faster",
+    "source": "Hacker News",
+    "description": "HN Score: 22 | 6 comments",
+    "url": "https://minimaxir.com/2026/09/agentic-iteration/",
+    "score": 22,
+    "date": "2026-09-22",
+    "category": "AI News"
+  },
+  {
+    "title": "Solitaire Alone Together",
+    "source": "Hacker News",
+    "description": "HN Score: 45 | 5 comments",
+    "url": "https://solitairealonetogether.com/",
+    "score": 45,
+    "date": "2026-09-22",
+    "category": "AI News"
+  },
+  {
+    "title": "Show HN: AI\u00b7rete\u00b7RAG \u2013 a Rete rule engine decides, RAG explains why",
+    "source": "Hacker News",
+    "description": "HN Score: 4 | 0 comments",
+    "url": "https://ai-rete-rag.com/",
+    "score": 4,
+    "date": "2026-09-22",
+    "category": "AI News"
+  },
+  {
     "title": "Can gzip be a language model?",
     "source": "Hacker News",
-    "description": "HN Score: 169 | 71 comments",
+    "description": "HN Score: 317 | 119 comments",
     "url": "https://nathan.rs/posts/gzip-lm/",
-    "score": 169,
+    "score": 317,
+    "date": "2026-09-22",
+    "category": "AI News"
+  },
+  {
+    "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+    "source": "Hacker News",
+    "description": "HN Score: 59 | 25 comments",
+    "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+    "score": 59,
+    "date": "2026-09-22",
+    "category": "AI News"
+  },
+  {
+    "title": "Vacate a Drone Restriction That Criminalized Recording Immigration Agents",
+    "source": "Hacker News",
+    "description": "HN Score: 34 | 7 comments",
+    "url": "https://www.eff.org/deeplinks/2026/09/dc-circuit-must-vacate-drone-flight-restriction-criminalized-recording-immigration",
+    "score": 34,
     "date": "2026-09-22",
     "category": "AI News"
   },
   {
     "title": "Transformers Explained Visually",
     "source": "Hacker News",
-    "description": "HN Score: 442 | 67 comments",
+    "description": "HN Score: 560 | 84 comments",
     "url": "https://poloclub.github.io/transformer-explainer/",
-    "score": 442,
-    "date": "2026-09-22",
-    "category": "AI News"
-  },
-  {
-    "title": "I said no and Apple said yes",
-    "source": "Hacker News",
-    "description": "HN Score: 250 | 172 comments",
-    "url": "https://dbushell.com/2026/09/22/apple-intelligence/",
-    "score": 250,
-    "date": "2026-09-22",
-    "category": "AI News"
-  },
-  {
-    "title": "JetBrains Air: A System of Products for Agentic Software Development",
-    "source": "Hacker News",
-    "description": "HN Score: 8 | 2 comments",
-    "url": "https://blog.jetbrains.com/blog/2026/09/22/introducing-jetbrains-air/",
-    "score": 8,
-    "date": "2026-09-22",
-    "category": "AI News"
-  },
-  {
-    "title": "Verda (Finland) raises $189M in Series B",
-    "source": "Hacker News",
-    "description": "HN Score: 7 | 4 comments",
-    "url": "https://verda.com/blog/what-189m-in-funding-unlocks-for-verda-customers",
-    "score": 7,
-    "date": "2026-09-22",
-    "category": "AI News"
-  },
-  {
-    "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
-    "source": "Hacker News",
-    "description": "HN Score: 250 | 282 comments",
-    "url": "https://linear.app/now/ci-bottleneck-reworked",
-    "score": 250,
-    "date": "2026-09-22",
-    "category": "AI News"
-  },
-  {
-    "title": "Claude Status \u2013 Elevated errors for multiple models",
-    "source": "Hacker News",
-    "description": "HN Score: 119 | 86 comments",
-    "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
-    "score": 119,
-    "date": "2026-09-22",
-    "category": "AI News"
-  },
-  {
-    "title": "Python Workers are now generally available",
-    "source": "Hacker News",
-    "description": "HN Score: 234 | 38 comments",
-    "url": "https://blog.cloudflare.com/python-workers-ga/",
-    "score": 234,
-    "date": "2026-09-22",
-    "category": "AI News"
-  },
-  {
-    "title": "Study: Young users (9 to 18Y) ditch Google for AI, with unknown consequences",
-    "source": "Hacker News",
-    "description": "HN Score: 50 | 80 comments",
-    "url": "https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/",
-    "score": 50,
-    "date": "2026-09-22",
-    "category": "AI News"
-  },
-  {
-    "title": "Frontier AI on Your Own Hardware",
-    "source": "Hacker News",
-    "description": "HN Score: 166 | 83 comments",
-    "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
-    "score": 166,
+    "score": 560,
     "date": "2026-09-22",
     "category": "AI News"
   }
