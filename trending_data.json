@@ -1,91 +1,91 @@
 [
   {
-    "title": "Transformers Explained Visually",
+    "title": "Can gzip be a language model?",
     "source": "Hacker News",
-    "description": "HN Score: 251 | 41 comments",
-    "url": "https://poloclub.github.io/transformer-explainer/",
-    "score": 251,
+    "description": "HN Score: 169 | 71 comments",
+    "url": "https://nathan.rs/posts/gzip-lm/",
+    "score": 169,
     "date": "2026-09-22",
     "category": "AI News"
   },
   {
-    "title": "Claude Status \u2013 Elevated errors for multiple models",
+    "title": "Transformers Explained Visually",
     "source": "Hacker News",
-    "description": "HN Score: 77 | 60 comments",
-    "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
-    "score": 77,
+    "description": "HN Score: 442 | 67 comments",
+    "url": "https://poloclub.github.io/transformer-explainer/",
+    "score": 442,
+    "date": "2026-09-22",
+    "category": "AI News"
+  },
+  {
+    "title": "I said no and Apple said yes",
+    "source": "Hacker News",
+    "description": "HN Score: 250 | 172 comments",
+    "url": "https://dbushell.com/2026/09/22/apple-intelligence/",
+    "score": 250,
+    "date": "2026-09-22",
+    "category": "AI News"
+  },
+  {
+    "title": "JetBrains Air: A System of Products for Agentic Software Development",
+    "source": "Hacker News",
+    "description": "HN Score: 8 | 2 comments",
+    "url": "https://blog.jetbrains.com/blog/2026/09/22/introducing-jetbrains-air/",
+    "score": 8,
+    "date": "2026-09-22",
+    "category": "AI News"
+  },
+  {
+    "title": "Verda (Finland) raises $189M in Series B",
+    "source": "Hacker News",
+    "description": "HN Score: 7 | 4 comments",
+    "url": "https://verda.com/blog/what-189m-in-funding-unlocks-for-verda-customers",
+    "score": 7,
     "date": "2026-09-22",
     "category": "AI News"
   },
   {
     "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
     "source": "Hacker News",
-    "description": "HN Score: 170 | 178 comments",
+    "description": "HN Score: 250 | 282 comments",
     "url": "https://linear.app/now/ci-bottleneck-reworked",
-    "score": 170,
+    "score": 250,
     "date": "2026-09-22",
     "category": "AI News"
   },
   {
-    "title": "Paper Models of Polyhedra",
+    "title": "Claude Status \u2013 Elevated errors for multiple models",
     "source": "Hacker News",
-    "description": "HN Score: 10 | 0 comments",
-    "url": "https://www.polyhedra.net/en/",
-    "score": 10,
-    "date": "2026-09-22",
-    "category": "AI News"
-  },
-  {
-    "title": "Frontier AI on Your Own Hardware",
-    "source": "Hacker News",
-    "description": "HN Score: 120 | 61 comments",
-    "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
-    "score": 120,
-    "date": "2026-09-22",
-    "category": "AI News"
-  },
-  {
-    "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
-    "source": "Hacker News",
-    "description": "HN Score: 417 | 191 comments",
-    "url": "https://github.com/jaredpalmer/kev/tree/main",
-    "score": 417,
+    "description": "HN Score: 119 | 86 comments",
+    "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
+    "score": 119,
     "date": "2026-09-22",
     "category": "AI News"
   },
   {
     "title": "Python Workers are now generally available",
     "source": "Hacker News",
-    "description": "HN Score: 197 | 32 comments",
+    "description": "HN Score: 234 | 38 comments",
     "url": "https://blog.cloudflare.com/python-workers-ga/",
-    "score": 197,
+    "score": 234,
     "date": "2026-09-22",
     "category": "AI News"
   },
   {
-    "title": "Why does mathmain need an encrypted loader?",
+    "title": "Study: Young users (9 to 18Y) ditch Google for AI, with unknown consequences",
     "source": "Hacker News",
-    "description": "HN Score: 117 | 35 comments",
-    "url": "https://safedep.io/mathmain-encrypted-loader/",
-    "score": 117,
+    "description": "HN Score: 50 | 80 comments",
+    "url": "https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/",
+    "score": 50,
     "date": "2026-09-22",
     "category": "AI News"
   },
   {
-    "title": "US halts flights at busy East Coast airports, says fiber line cut",
+    "title": "Frontier AI on Your Own Hardware",
     "source": "Hacker News",
-    "description": "HN Score: 216 | 121 comments",
-    "url": "https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/",
-    "score": 216,
-    "date": "2026-09-22",
-    "category": "AI News"
-  },
-  {
-    "title": "The agents, they just want to talk",
-    "source": "Hacker News",
-    "description": "HN Score: 20 | 4 comments",
-    "url": "https://snats.xyz/pages/articles/political_ecology/the_agents_they_just_want_to_talk.html",
-    "score": 20,
+    "description": "HN Score: 166 | 83 comments",
+    "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
+    "score": 166,
     "date": "2026-09-22",
     "category": "AI News"
   }
