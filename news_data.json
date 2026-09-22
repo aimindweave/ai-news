@@ -1,5 +1,26 @@
 [
   {
+    "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+    "source": "TechCrunch",
+    "summary": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
+    "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+    "date": "2026-09-22"
+  },
+  {
+    "title": "Meta admits Muse\u2019s likeness to OpenClaw isn\u2019t a coincidence",
+    "source": "TechCrunch",
+    "summary": "Meta says Muse was built from scratch, but acknowledges the AI assistant was 'heavily inspired' by OpenClaw \u2014 down to some of its workspace filenames and content.",
+    "url": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+    "date": "2026-09-22"
+  },
+  {
+    "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+    "source": "TechCrunch",
+    "summary": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra.",
+    "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+    "date": "2026-09-22"
+  },
+  {
     "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
     "source": "TechCrunch",
     "summary": "Anthropic called it 'the strongest-performing model we've tested to date.'",
@@ -7,17 +28,17 @@
     "date": "2026-09-22"
   },
   {
-    "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
-    "source": "TechCrunch",
-    "summary": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, NVIDIA, AWS, Waabi, and more. Register now to save up to $200 before Sept 25.",
-    "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
-    "date": "2026-09-22"
-  },
-  {
     "title": "AstroForge is putting AI in command of its next spacecraft",
     "source": "TechCrunch",
     "summary": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe.",
     "url": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
+    "date": "2026-09-22"
+  },
+  {
+    "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+    "source": "TechCrunch",
+    "summary": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, Nvidia, AWS, Waabi, and more. Register before September 25 to save up to $200.",
+    "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
     "date": "2026-09-22"
   },
   {
@@ -81,27 +102,6 @@
     "source": "TechCrunch",
     "summary": "Meta\u2019s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.",
     "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
-    "date": "2026-09-22"
-  },
-  {
-    "title": "Meta\u2019s AI agent has been blocked from using Amazon.com",
-    "source": "TechCrunch",
-    "summary": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why would they?",
-    "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
-    "date": "2026-09-22"
-  },
-  {
-    "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
-    "source": "TechCrunch",
-    "summary": "Tabby is designed to be a real-time bookkeeping interface, handling clients\u2019 paperwork as it gives them up-to-the-minute data on their business\u2019s profit and loss.",
-    "url": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
-    "date": "2026-09-22"
-  },
-  {
-    "title": "Where will the next breakout startup come from? Benchmark\u2019s full partnership weighs in at TechCrunch Disrupt 2026",
-    "source": "TechCrunch",
-    "summary": "Where will the next breakout startup come from? Benchmark\u2019s full partnership weighs in on the main stage at TechCrunch Disrupt 2026. Save up to $200 before September 25 at 11:59 p.m. PT. Register now.",
-    "url": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
     "date": "2026-09-22"
   },
   {
@@ -175,6 +175,13 @@
     "date": "2026-09-22"
   },
   {
+    "title": "How to Claim Your Cut of Apple\u2019s $250 Million Siri Settlement",
+    "source": "Wired",
+    "summary": "Apple may pay out up to $95 for each eligible iPhone purchased by someone who felt misled about Siri\u2019s release. You have until December 21 to submit a claim.",
+    "url": "https://www.wired.com/story/how-to-claim-your-cut-of-apple-250-million-siri-settlement/",
+    "date": "2026-09-22"
+  },
+  {
     "title": "Rabbit Is Back, This Time With an AI Agent App",
     "source": "Wired",
     "summary": "Two years after trying to sidestep mobile apps with dedicated AI hardware, Rabbit is launching OS3, a cross-platform agent that lives on the screens you already use.",
@@ -238,10 +245,24 @@
     "date": "2026-09-22"
   },
   {
-    "title": "Got an Android Phone? Google Thinks You\u2019ll Probably Want a Googlebook Laptop",
-    "source": "Wired",
-    "summary": "Apple lovers have long enjoyed seamless connectivity between their iPhones and Macs. Now, Google\u2019s bringing that experience to Android.",
-    "url": "https://www.wired.com/story/google-launches-googlebook-laptops/",
+    "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
+    "source": "Ars Technica",
+    "summary": "EvilTokens provided an end-to-end platform that makes mass compromises faster and easier.",
+    "url": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+    "date": "2026-09-22"
+  },
+  {
+    "title": "Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting",
+    "source": "Ars Technica",
+    "summary": "British Columbia sues OpenAI, demands Tumbler Ridge shooter\u2019s ChatGPT logs.",
+    "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/",
+    "date": "2026-09-22"
+  },
+  {
+    "title": "Toyota orders workers to train humanoid robots but says humans won't be replaced",
+    "source": "Ars Technica",
+    "summary": "Toyota's push comes as automakers race to develop and deploy humanoid robots.",
+    "url": "https://arstechnica.com/ai/2026/09/toyota-claims-plan-for-400000-factory-robots-wont-replace-human-workers/",
     "date": "2026-09-22"
   },
   {
@@ -326,27 +347,6 @@
     "source": "Ars Technica",
     "summary": "SynthID can cause models to follow harmful instructions they would otherwise refuse.",
     "url": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
-    "date": "2026-09-22"
-  },
-  {
-    "title": "Covert uploads and megalomania: OpenAI details new 'misaligned' agent incidents",
-    "source": "Ars Technica",
-    "summary": "Model maker commits to new framework for reporting misaligned models.",
-    "url": "https://arstechnica.com/ai/2026/09/covert-uploads-and-megalomania-openai-details-new-misaligned-agent-incidents/",
-    "date": "2026-09-22"
-  },
-  {
-    "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
-    "source": "Ars Technica",
-    "summary": "Planned 2029 debut could make this Apple\u2019s first enterprise server in decades.",
-    "url": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
-    "date": "2026-09-22"
-  },
-  {
-    "title": "Agility\u2019s new humanoid robot will stop, squat to avoid harming human coworkers",
-    "source": "Ars Technica",
-    "summary": "Robots can start working outside physical cages and without safety barriers.",
-    "url": "https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers/",
     "date": "2026-09-22"
   }
 ]
