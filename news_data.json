@@ -1,5 +1,19 @@
 [
   {
+    "title": "Anthropic says its biology lab has already found something big",
+    "source": "TechCrunch",
+    "summary": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop.",
+    "url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+    "date": "2026-09-23"
+  },
+  {
+    "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+    "source": "TechCrunch",
+    "summary": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s.",
+    "url": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
+    "date": "2026-09-23"
+  },
+  {
     "title": "ChatGPT mobile app gets voice-based agentic features",
     "source": "TechCrunch",
     "summary": "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks.",
@@ -91,20 +105,6 @@
     "date": "2026-09-23"
   },
   {
-    "title": "Meta admits Muse\u2019s likeness to OpenClaw isn\u2019t a coincidence",
-    "source": "TechCrunch",
-    "summary": "Meta says Muse was built from scratch, but acknowledges the AI assistant was 'heavily inspired' by OpenClaw \u2014 down to some of its workspace filenames and content.",
-    "url": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
-    "date": "2026-09-23"
-  },
-  {
-    "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
-    "source": "TechCrunch",
-    "summary": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra.",
-    "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
-    "date": "2026-09-23"
-  },
-  {
     "title": "A congressional representative just proposed killing America\u2019s border tower program",
     "source": "MIT Tech Review",
     "summary": "Delia Ramirez, a Democratic US representative from Illinois, has announced a plan to introduce new legislation to terminate the surveillance tower program along the US southern border. The announcement comes just days after publication of an MIT Technology Review investigation, \u201cDying on Camera,\u201d...",
@@ -116,6 +116,13 @@
     "source": "MIT Tech Review",
     "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Smart glasses are already causing havoc in India When Shubnam saw an Instagram video of a Delhi protest they had attended, they realized a content creator wear...",
     "url": "https://www.technologyreview.com/2026/09/23/1144966/the-download-india-smart-glasses-ai-trillion-dollar-gamble/",
+    "date": "2026-09-23"
+  },
+  {
+    "title": "The AI Hype Index: AI loves cheating",
+    "source": "MIT Tech Review",
+    "summary": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI\u2019s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians\u2019 answer sheets). Anthropic\u2019s models have also hacked into o...",
+    "url": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
     "date": "2026-09-23"
   },
   {
@@ -168,10 +175,17 @@
     "date": "2026-09-23"
   },
   {
-    "title": "The US spent billions on border surveillance. Why can\u2019t it catch people before they die?",
-    "source": "MIT Tech Review",
-    "summary": "When Jos\u00e9 Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and human responses. As he walked through the desert in southern New Mexico that morning, he was within range of three su...",
-    "url": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
+    "title": "A US-China AI Hotline Won't Be Ready For a While",
+    "source": "Wired",
+    "summary": "As the US and China race to become the dominant power in the AI industry, the countries also appear to be figuring out ways to communicate on national security issues.",
+    "url": "https://www.wired.com/story/a-us-china-ai-hotline-wont-be-ready-for-a-while/",
+    "date": "2026-09-23"
+  },
+  {
+    "title": "AI Agents Teamed Up to Cheat at Blackjack. Their Collusion Is Getting Harder to Spot",
+    "source": "Wired",
+    "summary": "A clandestine card-counting operation suggests we may need new ways to spot agent-to-agent deception.",
+    "url": "https://www.wired.com/story/ai-agent-collusion-card-counting-secrets/",
     "date": "2026-09-23"
   },
   {
@@ -231,17 +245,24 @@
     "date": "2026-09-23"
   },
   {
-    "title": "Patti Harrison Had Dreams of a Tech Utopia. Silicon Valley Smashed Them",
-    "source": "Wired",
-    "summary": "The comedian sat down with WIRED to talk about social media, AI, and getting laughs for impersonating Boston Dynamics\u2019 robot dogs.",
-    "url": "https://www.wired.com/story/big-interview-patti-harrison/",
+    "title": "Trump\u2019s China rivalry and \u201cAI race\u201d delusion may endanger US, experts say",
+    "source": "Ars Technica",
+    "summary": "Trump focus on winning \u201cAI race\u201d may deter China from sharing safety intel.",
+    "url": "https://arstechnica.com/tech-policy/2026/09/china-silent-as-us-touts-plan-for-ai-safety-alerts-that-omits-tech-experts/",
     "date": "2026-09-23"
   },
   {
-    "title": "A New Tool Found Malware That\u2019s Guided by an AI Hive Mind\u2014No Humans in Sight",
-    "source": "Wired",
-    "summary": "Cisco Talos researchers created a new framework for identifying malware and hacking tools that rely on AI chatbots\u2014and quickly discovered something unusual.",
-    "url": "https://www.wired.com/story/a-tool-for-tracking-ai-integrated-malware-uncovered-an-autonomous-command-system/",
+    "title": "XPRIZE Wildfire winners spotted fires within 10 min\u2014but couldn\u2019t stop them",
+    "source": "Ars Technica",
+    "summary": "$11M competition showed wildfire detection is still easier than stopping fires.",
+    "url": "https://arstechnica.com/gadgets/2026/09/xprize-wildfire-winners-spotted-fires-within-10-min-but-couldnt-stop-them/",
+    "date": "2026-09-23"
+  },
+  {
+    "title": "YouTube promises custom feeds and a lot more AI later this year",
+    "source": "Ars Technica",
+    "summary": "YouTube's next year could change the content you see with a big focus on AI and livestreams.",
+    "url": "https://arstechnica.com/gadgets/2026/09/youtube-promises-custom-feeds-and-a-lot-more-ai-later-this-year/",
     "date": "2026-09-23"
   },
   {
@@ -326,27 +347,6 @@
     "source": "Ars Technica",
     "summary": "The Federal Register website briefly used an open source Chinese AI search tool.",
     "url": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/",
-    "date": "2026-09-23"
-  },
-  {
-    "title": "Researchers used Claude to hack OpenAI",
-    "source": "Ars Technica",
-    "summary": "Researchers used Claude to reach an OpenAI employee account and sensitive GitHub data.",
-    "url": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
-    "date": "2026-09-23"
-  },
-  {
-    "title": "Small AI models let drones autonomously identify and attack battlefield targets",
-    "source": "Ars Technica",
-    "summary": "Scaleout deploys decentralized AI-driven learning to military bases and drones.",
-    "url": "https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/",
-    "date": "2026-09-23"
-  },
-  {
-    "title": "Google announces new experimental 'CC' AI agent for families",
-    "source": "Ars Technica",
-    "summary": "Multiple family members can share data to help the agent make plans and complete tasks.",
-    "url": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
     "date": "2026-09-23"
   }
 ]
