@@ -93,6 +93,16 @@
   ],
   "episodes": [
     {
+      "id": "Practica_0",
+      "name": "From AGENTS.md to Enterprise Deployment",
+      "show": "Practical AI",
+      "description": "\n        AI agents are moving beyond laptops and prototypes and into enterprise environments where security, compliance, scalability, and reliability matter. Nick Kuhn from VMware Tanzu Platform jo",
+      "release_date": "2026-09-24",
+      "duration_min": 48,
+      "image": "",
+      "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
+    },
+    {
       "id": "a]6z Pod_0",
       "name": "Amjad Masad on Rethinking College for the AI Era",
       "show": "a]6z Podcast",
@@ -143,7 +153,7 @@
       "url": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"
     },
     {
-      "id": "Practica_0",
+      "id": "Practica_1",
       "name": "How to get discovered in AI search",
       "show": "Practical AI",
       "description": "\n        AI search is changing how people discover information and how brands need to think about visibility. Daniel and Chris talk with Liam Dunne and Ben Moore, co-founders of Discovered Labs, ab",
@@ -173,7 +183,7 @@
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
-      "id": "Practica_1",
+      "id": "Practica_2",
       "name": "Computer-Use Agents and the Future of the Agentic Internet",
       "show": "Practical AI",
       "description": "\n        Longtime followers of Practical AI know that multi-repeat guest and friend Demetrios Brinkmann combines brilliant insight and playful banter into one fun-filled show, and this conversion w",
@@ -201,16 +211,6 @@
       "duration_min": 78,
       "image": "",
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
-    },
-    {
-      "id": "Practica_2",
-      "name": "Less about Models; More about Architecture",
-      "show": "Practical AI",
-      "description": "\n        As AI moves from experimentation to enterprise deployment, are organizations thinking too much about models and not enough about architecture? In this episode, Daniel and Chris talk with C",
-      "release_date": "2026-09-03",
-      "duration_min": 45,
-      "image": "",
-      "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
       "id": "The TWIM_2",
