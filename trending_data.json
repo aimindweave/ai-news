@@ -1,91 +1,91 @@
 [
   {
-    "title": "I Have a Confession: I Built This Site with AI \u2013 Please Forgive Me",
+    "title": "Rails World 2026 Opening Keynote [video]",
     "source": "Hacker News",
-    "description": "HN Score: 25 | 24 comments",
-    "url": "https://dynamicallytyped.org/blog/i-have-a-confession-i-built-this-site-with-ai",
+    "description": "HN Score: 161 | 159 comments",
+    "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
+    "score": 161,
+    "date": "2026-09-24",
+    "category": "AI News"
+  },
+  {
+    "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
+    "source": "Hacker News",
+    "description": "HN Score: 32 | 6 comments",
+    "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
+    "score": 32,
+    "date": "2026-09-24",
+    "category": "AI News"
+  },
+  {
+    "title": "Opus 5.5 is good at explainer videos",
+    "source": "Hacker News",
+    "description": "HN Score: 19 | 10 comments",
+    "url": "https://launchvideo.io",
+    "score": 19,
+    "date": "2026-09-24",
+    "category": "AI News"
+  },
+  {
+    "title": "Vibe Coding Production Kit \u2013 a production workflow for AI coding agents",
+    "source": "Hacker News",
+    "description": "HN Score: 5 | 0 comments",
+    "url": "https://github.com/Moeeryani/Vibe-Coding-Production-Kit",
+    "score": 5,
+    "date": "2026-09-24",
+    "category": "AI News"
+  },
+  {
+    "title": "Show HN: AgentRun: DSL to turn agents into workflows",
+    "source": "Hacker News",
+    "description": "HN Score: 33 | 3 comments",
+    "url": "https://github.com/Parcha-ai/agentrun",
+    "score": 33,
+    "date": "2026-09-24",
+    "category": "AI News"
+  },
+  {
+    "title": "A Million Agents Is a Distributed System Problem",
+    "source": "Hacker News",
+    "description": "HN Score: 25 | 5 comments",
+    "url": "https://www.instacloud.com/blogs/a-million-agents-is-a-distributed-systems-problem",
     "score": 25,
     "date": "2026-09-24",
     "category": "AI News"
   },
   {
-    "title": "VSCode's SSH Agent Is Bananas (2025)",
+    "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
     "source": "Hacker News",
-    "description": "HN Score: 291 | 186 comments",
-    "url": "https://fly.io/blog/vscode-ssh-wtf/",
-    "score": 291,
+    "description": "HN Score: 219 | 198 comments",
+    "url": "https://transluce.org/agent-activity",
+    "score": 219,
     "date": "2026-09-24",
     "category": "AI News"
   },
   {
-    "title": "Coulomb's law remains tricky to test at home",
+    "title": "Security auditing in the age of (good enough) AI",
     "source": "Hacker News",
-    "description": "HN Score: 14 | 9 comments",
-    "url": "https://chillphysicsenjoyer.substack.com/p/coulombs-law-remains-tricky-to-test",
-    "score": 14,
+    "description": "HN Score: 41 | 1 comments",
+    "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/",
+    "score": 41,
     "date": "2026-09-24",
     "category": "AI News"
   },
   {
-    "title": "Contrastive Language Models",
+    "title": "Show HN: Air-gapped file encryption as self-decrypting HTML page",
     "source": "Hacker News",
-    "description": "HN Score: 137 | 40 comments",
-    "url": "https://contrastive-lm.notion.site/",
-    "score": 137,
+    "description": "HN Score: 31 | 13 comments",
+    "url": "https://cms-sfx-demo.apeleg.com/",
+    "score": 31,
     "date": "2026-09-24",
     "category": "AI News"
   },
   {
-    "title": "Humans Are Reading Your ChatGPT Chats, Lawsuit Claims",
+    "title": "AI Workers' Inquiry 2026",
     "source": "Hacker News",
-    "description": "HN Score: 20 | 7 comments",
-    "url": "https://openclassactions.com/lawsuits/privacy/openai-chatgpt-human-review-project-lily-class-action-lawsuit.php",
-    "score": 20,
-    "date": "2026-09-24",
-    "category": "AI News"
-  },
-  {
-    "title": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
-    "source": "Hacker News",
-    "description": "HN Score: 96 | 32 comments",
-    "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
-    "score": 96,
-    "date": "2026-09-24",
-    "category": "AI News"
-  },
-  {
-    "title": "Best LLM for every budget, updated daily",
-    "source": "Hacker News",
-    "description": "HN Score: 128 | 83 comments",
-    "url": "https://bestmodelforyourbudget.terrydjony.com/",
-    "score": 128,
-    "date": "2026-09-24",
-    "category": "AI News"
-  },
-  {
-    "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-    "source": "Hacker News",
-    "description": "HN Score: 743 | 746 comments",
-    "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-    "score": 743,
-    "date": "2026-09-24",
-    "category": "AI News"
-  },
-  {
-    "title": "Making Tailscale Faster",
-    "source": "Hacker News",
-    "description": "HN Score: 221 | 89 comments",
-    "url": "https://tailscale.com/blog/making-tailscale-faster",
-    "score": 221,
-    "date": "2026-09-24",
-    "category": "AI News"
-  },
-  {
-    "title": "Oracle invokes force majeure on New Mexico AI data center",
-    "source": "Hacker News",
-    "description": "HN Score: 6 | 1 comments",
-    "url": "https://qz.com/oracle-force-majeure-new-mexico-ai-data-center-092426",
-    "score": 6,
+    "description": "HN Score: 8 | 0 comments",
+    "url": "https://techworkersinquiry.org/ai/",
+    "score": 8,
     "date": "2026-09-24",
     "category": "AI News"
   }
