@@ -105,6 +105,27 @@
     "date": "2026-09-25"
   },
   {
+    "title": "The Download: the Pentagon\u2019s AI-powered lie detector and young organ limits",
+    "source": "MIT Tech Review",
+    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. The Pentagon wants $30 million to build an AI-powered lie detector The US government wants to spend $30.3 million over the next five years on an improved lie d...",
+    "url": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/",
+    "date": "2026-09-25"
+  },
+  {
+    "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+    "source": "MIT Tech Review",
+    "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Polygraph Next, will focus on scoring algorithms that use artificial intelligence and machine learnin...",
+    "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+    "date": "2026-09-25"
+  },
+  {
+    "title": "Young organs may not be a fountain of youth for recipients",
+    "source": "MIT Tech Review",
+    "summary": "Around this time last year I was attending an aging conference in Manchester, listening to a talk about fly aging, when my phone started pinging. News outlets were reporting that a hot mic had caught Russia\u2019s and China\u2019s leaders discussing the possibility of living forever. \u201cWith the developments...",
+    "url": "https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/",
+    "date": "2026-09-25"
+  },
+  {
     "title": "The Download: a bid to scrap the virtual wall and AI hits Climate Week",
     "source": "MIT Tech Review",
     "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. A congressional representative just proposed killing America\u2019s border tower program Delia Ramirez, a Democratic US representative from Illinois, has announced ...",
@@ -151,27 +172,6 @@
     "source": "MIT Tech Review",
     "summary": "The US has spent billions building a \u201cvirtual wall\u201d of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand peo...",
     "url": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
-    "date": "2026-09-25"
-  },
-  {
-    "title": "The Download: why AI\u2019s latest breakthroughs and fears may be more hype than reality",
-    "source": "MIT Tech Review",
-    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Don\u2019t be fooled by this summer of AI hype \u2014Timnit Gebru, executive director of the Distributed AI Research Institute (DAIR), and Emily M. Bender, professor of ...",
-    "url": "https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/",
-    "date": "2026-09-25"
-  },
-  {
-    "title": "Don\u2019t be fooled by this summer of AI hype",
-    "source": "MIT Tech Review",
-    "summary": "It\u2019s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI\u2013Hugging Face hacking incident, after which Anthropic (proudly) and Meta (reluctantly) discl...",
-    "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
-    "date": "2026-09-25"
-  },
-  {
-    "title": "The Download: investigating deaths at the US border\u2019s \u201cvirtual wall\u201d",
-    "source": "MIT Tech Review",
-    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. The US spent billions on border surveillance. Why can\u2019t it catch people before they die? When Jos\u00e9 Morales Bernal crossed the border into the US in April 2024,...",
-    "url": "https://www.technologyreview.com/2026/09/21/1144834/the-download-investigating-deaths-at-the-us-borders-virtual-wall/",
     "date": "2026-09-25"
   },
   {
@@ -242,6 +242,13 @@
     "source": "Wired",
     "summary": "Apple may pay out up to $95 for each eligible iPhone purchased by someone who felt misled about Siri\u2019s release. You have until December 21 to submit a claim.",
     "url": "https://www.wired.com/story/how-to-claim-your-cut-of-apple-250-million-siri-settlement/",
+    "date": "2026-09-25"
+  },
+  {
+    "title": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
+    "source": "Ars Technica",
+    "summary": "Vendors rolling out AI have an 'incentive to deny as many claims as possible.'",
+    "url": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/",
     "date": "2026-09-25"
   },
   {
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "A simple ClickFix attack is only one way to completely hijack the new agent.",
     "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
-    "date": "2026-09-25"
-  },
-  {
-    "title": "Google confirms Gemini models hacked three companies in May 2026",
-    "source": "Ars Technica",
-    "summary": "A third-party cybersecurity firm accidentally gave experimental Gemini models access to the Internet.",
-    "url": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
     "date": "2026-09-25"
   }
 ]

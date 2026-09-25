@@ -93,6 +93,16 @@
   ],
   "episodes": [
     {
+      "id": "Hard For_0",
+      "name": "The Ezra Klein Show: Jensen Huang Thinks A.I. Alarmism Has Gone Too Far",
+      "show": "Hard Fork",
+      "description": "In this episode, Ezra travels to Nvidia’s headquarters in Santa Clara, Calif., for a wide-ranging conversation with the chief executive Jensen Huang about the future of A.I. and why he thinks predi",
+      "release_date": "2026-09-25",
+      "duration_min": 108,
+      "image": "",
+      "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
+    },
+    {
       "id": "Practica_0",
       "name": "From AGENTS.md to Enterprise Deployment",
       "show": "Practical AI",
@@ -133,7 +143,7 @@
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
-      "id": "Hard For_0",
+      "id": "Hard For_1",
       "name": "A.I. Safety Goes Mainstream + a ‘Hard Fork’ Exit AMA",
       "show": "Hard Fork",
       "description": "This week, we break down why everyone is suddenly talking about A.I. safety, why frontier A.I. companies are asking for regulation and why the Trump administration is rejecting them. And then, to c",
@@ -141,16 +151,6 @@
       "duration_min": 84,
       "image": "",
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
-    },
-    {
-      "id": "Lex Frid_0",
-      "name": "#502 – Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud & Jung",
-      "show": "Lex Fridman Podcast",
-      "description": "Andrew Scull is a historian of psychiatry.<br />\nThank you for listening ❤ Check out our sponsors: <a href=\"https://lexfridman.com/sponsors/ep502-sc\">https://lexfridman.com/sponsors/ep502-sc</a><br",
-      "release_date": "2026-09-17",
-      "duration_min": 0,
-      "image": "",
-      "url": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"
     },
     {
       "id": "Practica_1",
@@ -173,7 +173,7 @@
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
     },
     {
-      "id": "Hard For_1",
+      "id": "Hard For_2",
       "name": "The Ezra Klein Show: The A.I. Revolt Is Here",
       "show": "Hard Fork",
       "description": "The “Hard Fork” team is away this week. But while we’re away, we’re bringing you a recent episode of “The Ezra Klein Show.”In this episode, Ezra talks with the journalist Jasmine Sun about h",
@@ -203,16 +203,6 @@
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
     },
     {
-      "id": "Hard For_2",
-      "name": "The A.I. Mob That Attacked Hugging Face + METR’s Ajeya Cotra",
-      "show": "Hard Fork",
-      "description": "This week, we’re diving into two new reports about the OpenAI-Hugging Face hack. We discuss what’s new and how they fundamentally change our understanding of what happened. Then we’re joined by Aje",
-      "release_date": "2026-09-04",
-      "duration_min": 78,
-      "image": "",
-      "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
-    },
-    {
       "id": "The TWIM_2",
       "name": "World Models and the Future of Spatial AI with Justin Johnson - #775",
       "show": "The TWIML AI Podcast",
@@ -221,26 +211,6 @@
       "duration_min": 66,
       "image": "",
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
-    },
-    {
-      "id": "Lex Frid_1",
-      "name": "#501 – DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux",
-      "show": "Lex Fridman Podcast",
-      "description": "DHH is the creator of Ruby on Rails, Omarchy Linux, CTO of 37signals, and a racecar driver.<br />\nThank you for listening ❤ Check out our sponsors: <a href=\"https://lexfridman.com/sponsors/ep501-sc",
-      "release_date": "2026-08-26",
-      "duration_min": 321,
-      "image": "",
-      "url": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"
-    },
-    {
-      "id": "Lex Frid_2",
-      "name": "#500 – Khabib Nurmagomedov: Dagestan, MMA, UFC, Islam, Conor, Fedor & Football",
-      "show": "Lex Fridman Podcast",
-      "description": "Khabib Nurmagomedov is one of the greatest fighters of all time, who retired from the UFC undefeated with a perfect 29-0 record. We did this conversation entirely in Russian. It&#8217;s translated ",
-      "release_date": "2026-08-12",
-      "duration_min": 0,
-      "image": "",
-      "url": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"
     },
     {
       "id": "The AI P_0",
