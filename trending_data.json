@@ -1,91 +1,82 @@
 [
   {
-    "title": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
+    "title": "Ollaya \u2013 Ollama for open-source, Jev-style decision models",
     "source": "Hacker News",
-    "description": "HN Score: 130 | 69 comments",
-    "url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
-    "score": 130,
+    "description": "HN Score: 272 | 82 comments",
+    "url": "https://ollaya.dev/",
+    "score": 272,
+    "date": "2026-09-25",
+    "category": "AI News"
+  },
+  {
+    "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+    "source": "Hacker News",
+    "description": "HN Score: 71 | 41 comments",
+    "url": "https://swarmtraces.org/",
+    "score": 71,
     "date": "2026-09-25",
     "category": "AI News"
   },
   {
     "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
     "source": "Hacker News",
-    "description": "HN Score: 213 | 304 comments",
+    "description": "HN Score: 345 | 631 comments",
     "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
-    "score": 213,
+    "score": 345,
     "date": "2026-09-25",
     "category": "AI News"
   },
   {
-    "title": "What About Rails?",
+    "title": "An airport cooled by natural ventilation",
     "source": "Hacker News",
-    "description": "HN Score: 230 | 147 comments",
-    "url": "https://jardo.dev/what-about-rails",
-    "score": 230,
+    "description": "HN Score: 12 | 10 comments",
+    "url": "https://www.theguardian.com/environment/2026/sep/25/didnt-need-air-conditioning-airport-cooled-natural-ventilation-reunion",
+    "score": 12,
     "date": "2026-09-25",
     "category": "AI News"
   },
   {
-    "title": "Rails World 2026 Opening Keynote [video]",
+    "title": "Meta's Muse appears to use an OpenAI model labeled muse-special",
     "source": "Hacker News",
-    "description": "HN Score: 406 | 446 comments",
-    "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
-    "score": 406,
+    "description": "HN Score: 92 | 41 comments",
+    "url": "https://mouse.dev/blog/muse-special/",
+    "score": 92,
     "date": "2026-09-25",
     "category": "AI News"
   },
   {
-    "title": "Microsoft Abandons Personal AI Chatbot Race with Copilot Reboot",
+    "title": "I wrote a ray tracer in Brainfuck",
     "source": "Hacker News",
-    "description": "HN Score: 57 | 45 comments",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
-    "score": 57,
+    "description": "HN Score: 14 | 3 comments",
+    "url": "https://epestr.com/blog/writing-a-ray-tracer-in-brainfuck/",
+    "score": 14,
     "date": "2026-09-25",
     "category": "AI News"
   },
   {
-    "title": "Opus 5.5 is good at explainer videos",
+    "title": "Show HN: Jevgpt \u2013 reinventing the wheel with another wheel",
     "source": "Hacker News",
-    "description": "HN Score: 375 | 206 comments",
-    "url": "https://launchvideo.io",
-    "score": 375,
+    "description": "HN Score: 8 | 0 comments",
+    "url": "https://news.ycombinator.com/item?id=49823332",
+    "score": 8,
     "date": "2026-09-25",
     "category": "AI News"
   },
   {
     "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
     "source": "Hacker News",
-    "description": "HN Score: 161 | 39 comments",
+    "description": "HN Score: 164 | 41 comments",
     "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
-    "score": 161,
+    "score": 164,
     "date": "2026-09-25",
     "category": "AI News"
   },
   {
-    "title": "Jevmem \u2013 automatic project memory for Claude Code, built on Jev",
+    "title": "Show HN: Doom or Bloom, map your AI worldview",
     "source": "Hacker News",
-    "description": "HN Score: 49 | 36 comments",
-    "url": "https://github.com/Avinash-jetwani/jevmem",
-    "score": 49,
-    "date": "2026-09-25",
-    "category": "AI News"
-  },
-  {
-    "title": "Show HN: Agentic CUDA Kernel Optimizer",
-    "source": "Hacker News",
-    "description": "HN Score: 29 | 10 comments",
-    "url": "https://github.com/bertaye/agentic-cuda-optimizer",
-    "score": 29,
-    "date": "2026-09-25",
-    "category": "AI News"
-  },
-  {
-    "title": "The cheap new AI model taking aim at OpenAI and Anthropic",
-    "source": "Hacker News",
-    "description": "HN Score: 5 | 2 comments",
-    "url": "https://www.ft.com/content/456884ea-2558-4648-8036-a77b73733430",
-    "score": 5,
+    "description": "HN Score: 48 | 40 comments",
+    "url": "https://www.doom-or-bloom.com",
+    "score": 48,
     "date": "2026-09-25",
     "category": "AI News"
   }
