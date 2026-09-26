@@ -93,6 +93,16 @@
   ],
   "episodes": [
     {
+      "id": "a]6z Pod_0",
+      "name": "Aaron Levie, Steven Sinofsky & Martin Casado: How Do You Secure a World of AI Agents?",
+      "show": "a]6z Podcast",
+      "description": "Erik Torenberg sits down with Box CEO Aaron Levie, and a16z’s Martin Casado, and Steven Sinofsky to debate how the AI industry should think about safety, security, and regulation as increasingly ca",
+      "release_date": "2026-09-26",
+      "duration_min": 56,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
       "id": "Hard For_0",
       "name": "The Ezra Klein Show: Jensen Huang Thinks A.I. Alarmism Has Gone Too Far",
       "show": "Hard Fork",
@@ -103,7 +113,7 @@
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
-      "id": "a]6z Pod_0",
+      "id": "a]6z Pod_1",
       "name": "The Reputation Graph of Silicon Valley | Introducing Cosign",
       "show": "a]6z Podcast",
       "description": "a16z’s Erik Torenberg sits down with Josh Elman, Olivia Moore, and David Booth to introduce Cosign, a new product built around professional reputation and the people, companies, and products you’re",
@@ -123,22 +133,12 @@
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "The Case Against an AI Pause | Eddy Lazzarin",
       "show": "a]6z Podcast",
       "description": "a16z crypto General Partner Eddy Lazzarin joins Theo Jaffee on MTS to debate the increasingly prominent calls to slow AI development and whether the current safety conversation is conflating very d",
       "release_date": "2026-09-24",
       "duration_min": 27,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
-    },
-    {
-      "id": "a]6z Pod_2",
-      "name": "Amjad Masad on Rethinking College for the AI Era",
-      "show": "a]6z Podcast",
-      "description": "Erik Torenberg sits down with Replit founder and CEO Amjad Masad and Horowitz and Andreessen Academy co-founder and CEO Gagan Biyani to ask what education should look like for a generation growing ",
-      "release_date": "2026-09-23",
-      "duration_min": 47,
       "image": "",
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
