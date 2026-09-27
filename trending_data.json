@@ -1,91 +1,91 @@
 [
   {
-    "title": "OpenAI Feared 'Optics' of what might appear on Hacker News",
+    "title": "The Normalization of Inexplicable Failures",
     "source": "Hacker News",
-    "description": "HN Score: 394 | 321 comments",
-    "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
-    "score": 394,
+    "description": "HN Score: 154 | 47 comments",
+    "url": "https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html",
+    "score": 154,
     "date": "2026-09-27",
     "category": "AI News"
   },
   {
-    "title": "'As a Language Model': Chat Template Switches LLM Self-Referential Voice",
+    "title": "Show HN: TinyAIArena watch AI agents battle it out",
     "source": "Hacker News",
-    "description": "HN Score: 67 | 65 comments",
-    "url": "https://arxiv.org/abs/2609.25021",
-    "score": 67,
+    "description": "HN Score: 42 | 23 comments",
+    "url": "https://tinyaiarena.com/",
+    "score": 42,
+    "date": "2026-09-27",
+    "category": "AI News"
+  },
+  {
+    "title": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
+    "source": "Hacker News",
+    "description": "HN Score: 48 | 6 comments",
+    "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
+    "score": 48,
+    "date": "2026-09-27",
+    "category": "AI News"
+  },
+  {
+    "title": "There are no 'rogue' AI agents",
+    "source": "Hacker News",
+    "description": "HN Score: 126 | 83 comments",
+    "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+    "score": 126,
+    "date": "2026-09-27",
+    "category": "AI News"
+  },
+  {
+    "title": "Calling the AI bluff: Adding 'Do not guess' cut made-up fields from 71% to 20%",
+    "source": "Hacker News",
+    "description": "HN Score: 14 | 0 comments",
+    "url": "https://earnanhonestdollar.com/bench",
+    "score": 14,
+    "date": "2026-09-27",
+    "category": "AI News"
+  },
+  {
+    "title": "Show HN: Trail \u2013 new kind of logic game",
+    "source": "Hacker News",
+    "description": "HN Score: 6 | 1 comments",
+    "url": "https://trail.franzai.com/",
+    "score": 6,
+    "date": "2026-09-27",
+    "category": "AI News"
+  },
+  {
+    "title": "Unsealed Briefs in Authors\u2019 Case v. Microsoft/OpenAI",
+    "source": "Hacker News",
+    "description": "HN Score: 568 | 534 comments",
+    "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
+    "score": 568,
     "date": "2026-09-27",
     "category": "AI News"
   },
   {
     "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
     "source": "Hacker News",
-    "description": "HN Score: 186 | 26 comments",
+    "description": "HN Score: 204 | 27 comments",
     "url": "https://www.movingimagearchive.com/",
-    "score": 186,
-    "date": "2026-09-27",
-    "category": "AI News"
-  },
-  {
-    "title": "Evolving programming languages in the AI era",
-    "source": "Hacker News",
-    "description": "HN Score: 119 | 75 comments",
-    "url": "https://dashbit.co/blog/evolving-ai-era",
-    "score": 119,
+    "score": 204,
     "date": "2026-09-27",
     "category": "AI News"
   },
   {
     "title": "An agent used DNS to reach an external chatbot",
     "source": "Hacker News",
-    "description": "HN Score: 119 | 119 comments",
+    "description": "HN Score: 151 | 151 comments",
     "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/",
-    "score": 119,
+    "score": 151,
     "date": "2026-09-27",
     "category": "AI News"
   },
   {
-    "title": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",
+    "title": "'As a Language Model': Chat Template Switches LLM Self-Referential Voice",
     "source": "Hacker News",
-    "description": "HN Score: 289 | 202 comments",
-    "url": "https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/",
-    "score": 289,
-    "date": "2026-09-27",
-    "category": "AI News"
-  },
-  {
-    "title": "How I changed teaching after AI managed to do all my homework assignments",
-    "source": "Hacker News",
-    "description": "HN Score: 240 | 213 comments",
-    "url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
-    "score": 240,
-    "date": "2026-09-27",
-    "category": "AI News"
-  },
-  {
-    "title": "Teaching a World Model to Play Pokemon",
-    "source": "Hacker News",
-    "description": "HN Score: 19 | 17 comments",
-    "url": "https://nostalgia.dev/posts/teaching-a-world-model-to-play-pokemon/",
-    "score": 19,
-    "date": "2026-09-27",
-    "category": "AI News"
-  },
-  {
-    "title": "Drawgent: Coding agent on a live Excalidraw canvas",
-    "source": "Hacker News",
-    "description": "HN Score: 164 | 43 comments",
-    "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
-    "score": 164,
-    "date": "2026-09-27",
-    "category": "AI News"
-  },
-  {
-    "title": "How to keep enjoying programming in a world of LLMs",
-    "source": "Hacker News",
-    "description": "HN Score: 268 | 295 comments",
-    "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
-    "score": 268,
+    "description": "HN Score: 93 | 97 comments",
+    "url": "https://arxiv.org/abs/2609.25021",
+    "score": 93,
     "date": "2026-09-27",
     "category": "AI News"
   }
