@@ -94,6 +94,16 @@
   "episodes": [
     {
       "id": "a]6z Pod_0",
+      "name": "Building a Team at AI Speed | Harvey’s Maggie Landers",
+      "show": "a]6z Podcast",
+      "description": "a16z’s Katie Kirsch sits down with Harvey VP of Talent Maggie Landers to discuss what happens inside a company growing at AI speed, and how you preserve culture while adding more than 1,000 employe",
+      "release_date": "2026-09-27",
+      "duration_min": 48,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
+      "id": "a]6z Pod_1",
       "name": "Aaron Levie, Steven Sinofsky & Martin Casado: How Do You Secure a World of AI Agents?",
       "show": "a]6z Podcast",
       "description": "Erik Torenberg sits down with Box CEO Aaron Levie, and a16z’s Martin Casado, and Steven Sinofsky to debate how the AI industry should think about safety, security, and regulation as increasingly ca",
@@ -113,7 +123,7 @@
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "The Reputation Graph of Silicon Valley | Introducing Cosign",
       "show": "a]6z Podcast",
       "description": "a16z’s Erik Torenberg sits down with Josh Elman, Olivia Moore, and David Booth to introduce Cosign, a new product built around professional reputation and the people, companies, and products you’re",
@@ -131,16 +141,6 @@
       "duration_min": 48,
       "image": "",
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
-    },
-    {
-      "id": "a]6z Pod_2",
-      "name": "The Case Against an AI Pause | Eddy Lazzarin",
-      "show": "a]6z Podcast",
-      "description": "a16z crypto General Partner Eddy Lazzarin joins Theo Jaffee on MTS to debate the increasingly prominent calls to slow AI development and whether the current safety conversation is conflating very d",
-      "release_date": "2026-09-24",
-      "duration_min": 27,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
       "id": "Hard For_1",

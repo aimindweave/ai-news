@@ -1,91 +1,91 @@
 [
   {
+    "title": "OpenAI Feared 'Optics' of what might appear on Hacker News",
+    "source": "Hacker News",
+    "description": "HN Score: 394 | 321 comments",
+    "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
+    "score": 394,
+    "date": "2026-09-27",
+    "category": "AI News"
+  },
+  {
+    "title": "'As a Language Model': Chat Template Switches LLM Self-Referential Voice",
+    "source": "Hacker News",
+    "description": "HN Score: 67 | 65 comments",
+    "url": "https://arxiv.org/abs/2609.25021",
+    "score": 67,
+    "date": "2026-09-27",
+    "category": "AI News"
+  },
+  {
     "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
     "source": "Hacker News",
-    "description": "HN Score: 157 | 26 comments",
+    "description": "HN Score: 186 | 26 comments",
     "url": "https://www.movingimagearchive.com/",
-    "score": 157,
+    "score": 186,
     "date": "2026-09-27",
     "category": "AI News"
   },
   {
     "title": "Evolving programming languages in the AI era",
     "source": "Hacker News",
-    "description": "HN Score: 86 | 51 comments",
+    "description": "HN Score: 119 | 75 comments",
     "url": "https://dashbit.co/blog/evolving-ai-era",
-    "score": 86,
-    "date": "2026-09-27",
-    "category": "AI News"
-  },
-  {
-    "title": "Drawgent: Coding agent on a live Excalidraw canvas",
-    "source": "Hacker News",
-    "description": "HN Score: 142 | 39 comments",
-    "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
-    "score": 142,
+    "score": 119,
     "date": "2026-09-27",
     "category": "AI News"
   },
   {
     "title": "An agent used DNS to reach an external chatbot",
     "source": "Hacker News",
-    "description": "HN Score: 82 | 90 comments",
+    "description": "HN Score: 119 | 119 comments",
     "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/",
-    "score": 82,
+    "score": 119,
     "date": "2026-09-27",
     "category": "AI News"
   },
   {
-    "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
+    "title": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",
     "source": "Hacker News",
-    "description": "HN Score: 83 | 29 comments",
-    "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
-    "score": 83,
+    "description": "HN Score: 289 | 202 comments",
+    "url": "https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/",
+    "score": 289,
     "date": "2026-09-27",
     "category": "AI News"
   },
   {
     "title": "How I changed teaching after AI managed to do all my homework assignments",
     "source": "Hacker News",
-    "description": "HN Score: 189 | 171 comments",
+    "description": "HN Score: 240 | 213 comments",
     "url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
-    "score": 189,
+    "score": 240,
+    "date": "2026-09-27",
+    "category": "AI News"
+  },
+  {
+    "title": "Teaching a World Model to Play Pokemon",
+    "source": "Hacker News",
+    "description": "HN Score: 19 | 17 comments",
+    "url": "https://nostalgia.dev/posts/teaching-a-world-model-to-play-pokemon/",
+    "score": 19,
+    "date": "2026-09-27",
+    "category": "AI News"
+  },
+  {
+    "title": "Drawgent: Coding agent on a live Excalidraw canvas",
+    "source": "Hacker News",
+    "description": "HN Score: 164 | 43 comments",
+    "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+    "score": 164,
     "date": "2026-09-27",
     "category": "AI News"
   },
   {
     "title": "How to keep enjoying programming in a world of LLMs",
     "source": "Hacker News",
-    "description": "HN Score: 215 | 263 comments",
+    "description": "HN Score: 268 | 295 comments",
     "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
-    "score": 215,
-    "date": "2026-09-27",
-    "category": "AI News"
-  },
-  {
-    "title": "Generate fonts where every LLM token is the same width",
-    "source": "Hacker News",
-    "description": "HN Score: 56 | 12 comments",
-    "url": "https://ampdot.mesh.host/token-space-fonts.html",
-    "score": 56,
-    "date": "2026-09-27",
-    "category": "AI News"
-  },
-  {
-    "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-    "source": "Hacker News",
-    "description": "HN Score: 712 | 452 comments",
-    "url": "https://swarmtraces.org/",
-    "score": 712,
-    "date": "2026-09-27",
-    "category": "AI News"
-  },
-  {
-    "title": "A single function Jev-like wrapper for LLMs, including vision models",
-    "source": "Hacker News",
-    "description": "HN Score: 139 | 42 comments",
-    "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
-    "score": 139,
+    "score": 268,
     "date": "2026-09-27",
     "category": "AI News"
   }
