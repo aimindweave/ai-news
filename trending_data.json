@@ -1,91 +1,91 @@
 [
   {
-    "title": "Evolving programming languages in the AI era",
-    "source": "Hacker News",
-    "description": "HN Score: 14 | 5 comments",
-    "url": "https://dashbit.co/blog/evolving-ai-era",
-    "score": 14,
-    "date": "2026-09-27",
-    "category": "AI News"
-  },
-  {
-    "title": "An agent used DNS to reach an external chatbot",
-    "source": "Hacker News",
-    "description": "HN Score: 23 | 17 comments",
-    "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/",
-    "score": 23,
-    "date": "2026-09-27",
-    "category": "AI News"
-  },
-  {
     "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
     "source": "Hacker News",
-    "description": "HN Score: 101 | 23 comments",
+    "description": "HN Score: 157 | 26 comments",
     "url": "https://www.movingimagearchive.com/",
-    "score": 101,
+    "score": 157,
+    "date": "2026-09-27",
+    "category": "AI News"
+  },
+  {
+    "title": "Evolving programming languages in the AI era",
+    "source": "Hacker News",
+    "description": "HN Score: 86 | 51 comments",
+    "url": "https://dashbit.co/blog/evolving-ai-era",
+    "score": 86,
     "date": "2026-09-27",
     "category": "AI News"
   },
   {
     "title": "Drawgent: Coding agent on a live Excalidraw canvas",
     "source": "Hacker News",
-    "description": "HN Score: 102 | 32 comments",
+    "description": "HN Score: 142 | 39 comments",
     "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
-    "score": 102,
+    "score": 142,
     "date": "2026-09-27",
     "category": "AI News"
   },
   {
-    "title": "Generate fonts where every LLM token is the same width",
+    "title": "An agent used DNS to reach an external chatbot",
     "source": "Hacker News",
-    "description": "HN Score: 21 | 5 comments",
-    "url": "https://ampdot.mesh.host/token-space-fonts.html",
-    "score": 21,
-    "date": "2026-09-27",
-    "category": "AI News"
-  },
-  {
-    "title": "How I changed teaching after AI managed to do all my homework assignments",
-    "source": "Hacker News",
-    "description": "HN Score: 120 | 122 comments",
-    "url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
-    "score": 120,
-    "date": "2026-09-27",
-    "category": "AI News"
-  },
-  {
-    "title": "How to keep enjoying programming in a world of LLMs",
-    "source": "Hacker News",
-    "description": "HN Score: 145 | 204 comments",
-    "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
-    "score": 145,
+    "description": "HN Score: 82 | 90 comments",
+    "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/",
+    "score": 82,
     "date": "2026-09-27",
     "category": "AI News"
   },
   {
     "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
     "source": "Hacker News",
-    "description": "HN Score: 8 | 2 comments",
+    "description": "HN Score: 83 | 29 comments",
     "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
-    "score": 8,
+    "score": 83,
     "date": "2026-09-27",
     "category": "AI News"
   },
   {
-    "title": "Analyzing Frontier Model Progress with My Favourite Game: Prince of Persia",
+    "title": "How I changed teaching after AI managed to do all my homework assignments",
     "source": "Hacker News",
-    "description": "HN Score: 54 | 36 comments",
-    "url": "https://blog.priyan.in/2026/09/analyzing-frontier-model-progress-with.html",
-    "score": 54,
+    "description": "HN Score: 189 | 171 comments",
+    "url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
+    "score": 189,
     "date": "2026-09-27",
     "category": "AI News"
   },
   {
-    "title": "OpenAI bots meddled with multiple US Government agency sites",
+    "title": "How to keep enjoying programming in a world of LLMs",
     "source": "Hacker News",
-    "description": "HN Score: 99 | 159 comments",
-    "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
-    "score": 99,
+    "description": "HN Score: 215 | 263 comments",
+    "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+    "score": 215,
+    "date": "2026-09-27",
+    "category": "AI News"
+  },
+  {
+    "title": "Generate fonts where every LLM token is the same width",
+    "source": "Hacker News",
+    "description": "HN Score: 56 | 12 comments",
+    "url": "https://ampdot.mesh.host/token-space-fonts.html",
+    "score": 56,
+    "date": "2026-09-27",
+    "category": "AI News"
+  },
+  {
+    "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+    "source": "Hacker News",
+    "description": "HN Score: 712 | 452 comments",
+    "url": "https://swarmtraces.org/",
+    "score": 712,
+    "date": "2026-09-27",
+    "category": "AI News"
+  },
+  {
+    "title": "A single function Jev-like wrapper for LLMs, including vision models",
+    "source": "Hacker News",
+    "description": "HN Score: 139 | 42 comments",
+    "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
+    "score": 139,
     "date": "2026-09-27",
     "category": "AI News"
   }
