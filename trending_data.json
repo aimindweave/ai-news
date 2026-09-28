@@ -1,64 +1,82 @@
 [
   {
-    "title": "Thinking Fast and Slow in AI: The Role of Metacognition",
+    "title": "Parley: Federated, decentralised chat that speaks plain IRC",
     "source": "Hacker News",
-    "description": "HN Score: 17 | 2 comments",
-    "url": "https://arxiv.org/abs/2110.01834",
-    "score": 17,
+    "description": "HN Score: 123 | 51 comments",
+    "url": "https://git.mills.io/prologic/parley",
+    "score": 123,
+    "date": "2026-09-28",
+    "category": "AI News"
+  },
+  {
+    "title": "AI companies in race to demonstrate their model most threatening to humanity",
+    "source": "Hacker News",
+    "description": "HN Score: 258 | 179 comments",
+    "url": "https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/",
+    "score": 258,
     "date": "2026-09-28",
     "category": "AI News"
   },
   {
     "title": "Nissan's third generation e-POWER powertrain",
     "source": "Hacker News",
-    "description": "HN Score: 22 | 19 comments",
+    "description": "HN Score: 100 | 157 comments",
     "url": "https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/",
-    "score": 22,
+    "score": 100,
     "date": "2026-09-28",
     "category": "AI News"
   },
   {
-    "title": "TabPFN and TabICL vs. tuned XGBoost: the model that doesn't train won 14/14",
+    "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
     "source": "Hacker News",
-    "description": "HN Score: 6 | 3 comments",
-    "url": "https://efraingaray.com/en/blog/tabpfn-vs-xgboost/",
-    "score": 6,
+    "description": "HN Score: 131 | 45 comments",
+    "url": "https://arxiv.org/abs/2110.01834",
+    "score": 131,
     "date": "2026-09-28",
     "category": "AI News"
   },
   {
-    "title": "Show HN: TinyAIArena watch AI agents battle it out",
+    "title": "Prompting Claude Opus 5.5",
     "source": "Hacker News",
-    "description": "HN Score: 105 | 41 comments",
-    "url": "https://tinyaiarena.com/",
-    "score": 105,
+    "description": "HN Score: 155 | 160 comments",
+    "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
+    "score": 155,
     "date": "2026-09-28",
     "category": "AI News"
   },
   {
-    "title": "The Normalization of Inexplicable Failures",
+    "title": "Rails World 2026 Closing Keynote \u2013 Aaron Patterson [video]",
     "source": "Hacker News",
-    "description": "HN Score: 257 | 103 comments",
-    "url": "https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html",
-    "score": 257,
+    "description": "HN Score: 7 | 0 comments",
+    "url": "https://www.youtube.com/watch?v=t0knYnEYBRo",
+    "score": 7,
     "date": "2026-09-28",
     "category": "AI News"
   },
   {
-    "title": "Cambrian Explosion of AI",
+    "title": "Una watch review: A modular, repairable GPS watch is a good first step",
     "source": "Hacker News",
-    "description": "HN Score: 3 | 3 comments",
-    "url": "https://debarshibasak.github.io/readables/blogs/cambrian-explosion",
-    "score": 3,
+    "description": "HN Score: 4 | 0 comments",
+    "url": "https://www.engadget.com/2267443/una-watch-review/",
+    "score": 4,
     "date": "2026-09-28",
     "category": "AI News"
   },
   {
-    "title": "OpenAI pauses training of latest models after agents probed US Government sites",
+    "title": "Big AI's content problem: Take the work, keep the money",
     "source": "Hacker News",
-    "description": "HN Score: 16 | 1 comments",
-    "url": "https://apnews.com/article/ai-openai-anthropic-agents-rogue-hack-2f8a2b9024d4f06793bcca12f8089d20",
-    "score": 16,
+    "description": "HN Score: 15 | 0 comments",
+    "url": "https://www.theregister.com/columnists/2026/09/27/big-ais-content-problem-take-the-work-keep-the-money/5299007",
+    "score": 15,
+    "date": "2026-09-28",
+    "category": "AI News"
+  },
+  {
+    "title": "Calling the AI bluff: Adding 'Do not guess' cut made-up claims from 71% to 20%",
+    "source": "Hacker News",
+    "description": "HN Score: 63 | 14 comments",
+    "url": "https://earnanhonestdollar.com/bench",
+    "score": 63,
     "date": "2026-09-28",
     "category": "AI News"
   }
