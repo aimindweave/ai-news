@@ -1,82 +1,91 @@
 [
   {
-    "title": "Parley: Federated, decentralised chat that speaks plain IRC",
+    "title": "MicroLLM Lab \u2013 Try 7 tiny LLM's in the browser",
     "source": "Hacker News",
-    "description": "HN Score: 123 | 51 comments",
-    "url": "https://git.mills.io/prologic/parley",
-    "score": 123,
+    "description": "HN Score: 45 | 11 comments",
+    "url": "https://stateofutopia.com/experiments/microllmlab/",
+    "score": 45,
     "date": "2026-09-28",
     "category": "AI News"
   },
   {
-    "title": "AI companies in race to demonstrate their model most threatening to humanity",
+    "title": "Parley: Federated, decentralised chat that speaks plain IRC",
     "source": "Hacker News",
-    "description": "HN Score: 258 | 179 comments",
-    "url": "https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/",
-    "score": 258,
+    "description": "HN Score: 262 | 132 comments",
+    "url": "https://git.mills.io/prologic/parley",
+    "score": 262,
+    "date": "2026-09-28",
+    "category": "AI News"
+  },
+  {
+    "title": "Cf: The Agentic CLI for the Cloudflare API",
+    "source": "Hacker News",
+    "description": "HN Score: 62 | 29 comments",
+    "url": "https://blog.cloudflare.com/cloudflare-cf-cli-launch/",
+    "score": 62,
+    "date": "2026-09-28",
+    "category": "AI News"
+  },
+  {
+    "title": "Nvidia wants to put a watchdog chip next to every AI agent",
+    "source": "Hacker News",
+    "description": "HN Score: 46 | 85 comments",
+    "url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
+    "score": 46,
+    "date": "2026-09-28",
+    "category": "AI News"
+  },
+  {
+    "title": "I made a visual workspace for AI Automations",
+    "source": "Hacker News",
+    "description": "HN Score: 17 | 13 comments",
+    "url": "https://www.biom.dev/",
+    "score": 17,
+    "date": "2026-09-28",
+    "category": "AI News"
+  },
+  {
+    "title": "What would a serious AI product look like?",
+    "source": "Hacker News",
+    "description": "HN Score: 101 | 37 comments",
+    "url": "https://blog.glyph.im/2026/09/serious-ai-product.html",
+    "score": 101,
+    "date": "2026-09-28",
+    "category": "AI News"
+  },
+  {
+    "title": "The problem is not AI code, but not knowing about system architecture or intent",
+    "source": "Hacker News",
+    "description": "HN Score: 322 | 210 comments",
+    "url": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/",
+    "score": 322,
     "date": "2026-09-28",
     "category": "AI News"
   },
   {
     "title": "Nissan's third generation e-POWER powertrain",
     "source": "Hacker News",
-    "description": "HN Score: 100 | 157 comments",
+    "description": "HN Score: 148 | 353 comments",
     "url": "https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/",
-    "score": 100,
+    "score": 148,
     "date": "2026-09-28",
     "category": "AI News"
   },
   {
-    "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
-    "source": "Hacker News",
-    "description": "HN Score: 131 | 45 comments",
-    "url": "https://arxiv.org/abs/2110.01834",
-    "score": 131,
-    "date": "2026-09-28",
-    "category": "AI News"
-  },
-  {
-    "title": "Prompting Claude Opus 5.5",
-    "source": "Hacker News",
-    "description": "HN Score: 155 | 160 comments",
-    "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
-    "score": 155,
-    "date": "2026-09-28",
-    "category": "AI News"
-  },
-  {
-    "title": "Rails World 2026 Closing Keynote \u2013 Aaron Patterson [video]",
+    "title": "It's Time to Investigate the AI Labs",
     "source": "Hacker News",
     "description": "HN Score: 7 | 0 comments",
-    "url": "https://www.youtube.com/watch?v=t0knYnEYBRo",
+    "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
     "score": 7,
     "date": "2026-09-28",
     "category": "AI News"
   },
   {
-    "title": "Una watch review: A modular, repairable GPS watch is a good first step",
+    "title": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
     "source": "Hacker News",
-    "description": "HN Score: 4 | 0 comments",
-    "url": "https://www.engadget.com/2267443/una-watch-review/",
-    "score": 4,
-    "date": "2026-09-28",
-    "category": "AI News"
-  },
-  {
-    "title": "Big AI's content problem: Take the work, keep the money",
-    "source": "Hacker News",
-    "description": "HN Score: 15 | 0 comments",
-    "url": "https://www.theregister.com/columnists/2026/09/27/big-ais-content-problem-take-the-work-keep-the-money/5299007",
-    "score": 15,
-    "date": "2026-09-28",
-    "category": "AI News"
-  },
-  {
-    "title": "Calling the AI bluff: Adding 'Do not guess' cut made-up claims from 71% to 20%",
-    "source": "Hacker News",
-    "description": "HN Score: 63 | 14 comments",
-    "url": "https://earnanhonestdollar.com/bench",
-    "score": 63,
+    "description": "HN Score: 85 | 87 comments",
+    "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
+    "score": 85,
     "date": "2026-09-28",
     "category": "AI News"
   }
