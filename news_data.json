@@ -1,5 +1,19 @@
 [
   {
+    "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+    "source": "TechCrunch",
+    "summary": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
+    "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+    "date": "2026-09-30"
+  },
+  {
+    "title": "OpenAI\u2019s Jev clone could help the frontier lab stop its swarming agents",
+    "source": "TechCrunch",
+    "summary": "OpenAI's 'Decisions API' is a Jev clone that confirms the importance of fast, cheap intelligence.",
+    "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+    "date": "2026-09-30"
+  },
+  {
     "title": "AI voice startup ElevenLabs doubles valuation to $22B",
     "source": "TechCrunch",
     "summary": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
@@ -91,20 +105,6 @@
     "date": "2026-09-30"
   },
   {
-    "title": "OpenAI\u2019s latest features take direct aim at the app store model",
-    "source": "TechCrunch",
-    "summary": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
-    "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
-    "date": "2026-09-30"
-  },
-  {
-    "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
-    "source": "TechCrunch",
-    "summary": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
-    "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
-    "date": "2026-09-30"
-  },
-  {
     "title": "The Download: OpenAI\u2019s chief research officer explains its hacking response",
     "source": "MIT Tech Review",
     "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. \u201cWe\u2019re not going to shoot ourselves in the foot\u201d over hack fallout, says OpenAI\u2019s chief research officer Two months after OpenAI\u2019s agents hacked into the compu...",
@@ -175,6 +175,27 @@
     "date": "2026-09-30"
   },
   {
+    "title": "Trump\u2019s AI Safety \u2018Accord\u2019 Is a Fancy Pinky-Swear",
+    "source": "Wired",
+    "summary": "Six major AI companies signed a voluntary agreement with the White House this week vowing to implement safeguards. It\u2019s unclear how much that matters.",
+    "url": "https://www.wired.com/story/trumps-ai-safety-accord-is-a-fancy-pinky-swear/",
+    "date": "2026-09-30"
+  },
+  {
+    "title": "The Battle to Be Your Personal AI Agent Is Here",
+    "source": "Wired",
+    "summary": "OpenAI's Dots and Meta's Muse are vying to be your AI agent of choice. I've tried both\u2014and I suspect you will too.",
+    "url": "https://www.wired.com/story/ai-agents-dots-devday-muse-battling-it-out/",
+    "date": "2026-09-30"
+  },
+  {
+    "title": "There Are Plenty of Reasons to Be Concerned About Bioweapons Development\u2014Even Without AI",
+    "source": "Wired",
+    "summary": "In her new book on biological warfare, Annie Jacobsen didn\u2019t even discuss AI because scientists can already warp Mother Nature to create extinction-level events.",
+    "url": "https://www.wired.com/story/you-dont-need-ai-to-be-concerned-about-bioweapons-development-but-it-helps/",
+    "date": "2026-09-30"
+  },
+  {
     "title": "OpenAI Gets Sued Over the Hugging Face Hack",
     "source": "Wired",
     "summary": "A nonprofit in California is doing what Hugging Face has not\u2014attempting to hold OpenAI legally accountable for the actions of its agents.",
@@ -224,24 +245,17 @@
     "date": "2026-09-30"
   },
   {
-    "title": "Solving Math\u2019s Greatest Problems Was an Art Form. Then Came AI",
-    "source": "Wired",
-    "summary": "Mathematics has been one of humanity\u2019s most creative endeavors, akin to painting and poetry. Now, mathematicians are trying to save it from the brute force of AI.",
-    "url": "https://www.wired.com/story/solving-maths-greatest-problems-was-an-art-form-until-ai/",
+    "title": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
+    "source": "Ars Technica",
+    "summary": "So much for Gemini 3.5 Pro.",
+    "url": "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/",
     "date": "2026-09-30"
   },
   {
-    "title": "The Next Evolution of AI Is Learning From Your Dodgy Gaming Skills",
-    "source": "Wired",
-    "summary": "A British startup is shaping video game inputs into training data for AI models that can navigate the physical world.",
-    "url": "https://www.wired.com/story/the-next-evolution-of-ai-is-learning-from-your-dodgy-gaming-skills/",
-    "date": "2026-09-30"
-  },
-  {
-    "title": "Nvidia\u2019s Answer to Rogue Agents Is an Open-Source AI Security System",
-    "source": "Wired",
-    "summary": "In the wake of a series of high-profile AI safety incidents, Nvidia is introducing a new software tool that helps keep agents from escaping containment.",
-    "url": "https://www.wired.com/story/nvidias-answer-to-rogue-agents-is-an-open-source-ai-security-system/",
+    "title": "RFK Jr. thinks AI will free us from the 'tyranny' of medical facts, expertise",
+    "source": "Ars Technica",
+    "summary": "AI is far from a perfect resource. But it seems to hallucinate less than Kennedy.",
+    "url": "https://arstechnica.com/health/2026/09/rfk-jr-says-ai-backs-his-anti-vaccine-views-we-checked-it-doesnt/",
     "date": "2026-09-30"
   },
   {
@@ -333,20 +347,6 @@
     "source": "Ars Technica",
     "summary": "State says LLMs threaten civilization as 'the greatest public nuisance ever created.'",
     "url": "https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development/",
-    "date": "2026-09-30"
-  },
-  {
-    "title": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
-    "source": "Ars Technica",
-    "summary": "US Government websites among 'dozens of third parties' OpenAI has recently notified.",
-    "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents/",
-    "date": "2026-09-30"
-  },
-  {
-    "title": "Microsoft goes quiet after church groups ask for 1% of data center costs",
-    "source": "Ars Technica",
-    "summary": "\u201cMicrosoft claims to want to be a good neighbor, but the jury is still out.'",
-    "url": "https://arstechnica.com/tech-policy/2026/09/microsoft-goes-quiet-after-church-groups-ask-for-1-of-data-center-costs/",
     "date": "2026-09-30"
   }
 ]
