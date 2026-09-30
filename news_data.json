@@ -1,8 +1,78 @@
 [
   {
+    "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+    "source": "TechCrunch",
+    "summary": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
+    "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+    "date": "2026-09-30"
+  },
+  {
+    "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+    "source": "TechCrunch",
+    "summary": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content.",
+    "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
+    "date": "2026-09-30"
+  },
+  {
+    "title": "The ugly economics of consumer AI",
+    "source": "TechCrunch",
+    "summary": "There\u2019s a reason frontier labs have gotten gun-shy about consumer AI \u2014 and it\u2019s not because the tech isn\u2019t good enough.",
+    "url": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
+    "date": "2026-09-30"
+  },
+  {
+    "title": "Meta disputes claim that Muse read a user\u2019s private messages without permission",
+    "source": "TechCrunch",
+    "summary": "Meta says its Muse AI agent cannot access a user\u2019s Messages without explicit permission, disputing a journalist\u2019s account that the agent read his private messages while the required Mac setting was turned off.",
+    "url": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
+    "date": "2026-09-30"
+  },
+  {
+    "title": "DoorDash launches an AI agent you can text to order food",
+    "source": "TechCrunch",
+    "summary": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub.",
+    "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
+    "date": "2026-09-30"
+  },
+  {
+    "title": "Destro AI\u2019s secret sauce is getting robots and humans on the same page",
+    "source": "TechCrunch",
+    "summary": "'One of the biggest reasons we are winning against robotics companies is because we are not a robotics company.'",
+    "url": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
+    "date": "2026-09-30"
+  },
+  {
+    "title": "Instinct\u2019s new product recommendations are giving some users the ick",
+    "source": "TechCrunch",
+    "summary": "Instinct is rolling out human-curated product and travel recommendations, but some users aren\u2019t happy about getting suggestions they never asked for.",
+    "url": "https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/",
+    "date": "2026-09-30"
+  },
+  {
+    "title": "Cerebras Systems\u2019 Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
+    "source": "TechCrunch",
+    "summary": "At TechCrunch Disrupt 2026, Cerebras Systems CEO and co-founder Andrew Feldman will explore the growing demand for compute, energy, and infrastructure, how Cerebras is approaching those constraints differently, and what comes next if today\u2019s AI hardware reaches its limits.",
+    "url": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/",
+    "date": "2026-09-30"
+  },
+  {
+    "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
+    "source": "TechCrunch",
+    "summary": "Instead of building its durable execution engine on top of an external database, the company developed its own storage, replication, and redundancy layers. This architecture allows Restate to be exceptionally fast and lightweight.",
+    "url": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
+    "date": "2026-09-30"
+  },
+  {
+    "title": "3 days left to exhibit: Turn visibility into your next opportunity at TechCrunch Disrupt 2026",
+    "source": "TechCrunch",
+    "summary": "Three days left to exhibit at TechCrunch Disrupt 2026. Book by October 2 at 11:59 p.m. PT to showcase your startup to 10,000+ founders, investors, operators, and tech leaders.",
+    "url": "https://techcrunch.com/2026/09/30/3-days-left-to-exhibit-at-techcrunch-disrupt-2026-2/",
+    "date": "2026-09-30"
+  },
+  {
     "title": "Airbnb adds AI search, more social features",
     "source": "TechCrunch",
-    "summary": "Airbnb is also launching new services such as meal delivery and laundry in select locations",
+    "summary": "Airbnb is also launching new services such as meal delivery and laundry in select locations.",
     "url": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
     "date": "2026-09-30"
   },
@@ -32,76 +102,6 @@
     "source": "TechCrunch",
     "summary": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
     "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
-    "date": "2026-09-30"
-  },
-  {
-    "title": "Here\u2019s why OpenAI is absent from Nvidia\u2019s industry-wide effort to end rogue AI agents",
-    "source": "TechCrunch",
-    "summary": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
-    "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
-    "date": "2026-09-30"
-  },
-  {
-    "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT\u2019s own office suite",
-    "source": "TechCrunch",
-    "summary": "OpenAI's newly announced suite of office features puts it into more direct competition with more traditional software companies.",
-    "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
-    "date": "2026-09-30"
-  },
-  {
-    "title": "AI-powered app maker Wabi pivots to a messaging experience",
-    "source": "TechCrunch",
-    "summary": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps, and ongoing tasks.",
-    "url": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
-    "date": "2026-09-30"
-  },
-  {
-    "title": "OpenAI launches Dots, its bubbly agentic avatar",
-    "source": "TechCrunch",
-    "summary": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight.",
-    "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
-    "date": "2026-09-30"
-  },
-  {
-    "title": "OpenAI gives Codex reusable cloud environments that work across devices",
-    "source": "TechCrunch",
-    "summary": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools, and a security-focused product for scanning repositories and preparing fixes.",
-    "url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
-    "date": "2026-09-30"
-  },
-  {
-    "title": "OpenAI expands ChatGPT\u2019s plug-ins with app-like interfaces and automations",
-    "source": "TechCrunch",
-    "summary": "OpenAI is expanding ChatGPT plug-ins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
-    "url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
-    "date": "2026-09-30"
-  },
-  {
-    "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
-    "source": "TechCrunch",
-    "summary": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multistep business workflows.",
-    "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
-    "date": "2026-09-30"
-  },
-  {
-    "title": "Can a chatbot fix the government maze? The White House is about to find out",
-    "source": "TechCrunch",
-    "summary": "America.gov is intended to simplify the process of navigating government bureaucracy, but large language models are imperfect and remain prone to hallucinations, which could cause new issues.",
-    "url": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/",
-    "date": "2026-09-30"
-  },
-  {
-    "title": "Instinct founder said more than 50% of transactions on the platform are travel-related",
-    "source": "TechCrunch",
-    "summary": "Instinct founder said the platform is growing 10% day by day, with transaction volume increasing at a similar rate.",
-    "url": "https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/",
-    "date": "2026-09-30"
-  },
-  {
-    "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
-    "source": "TechCrunch",
-    "summary": "Mayer argues that if a photo is worth a thousand words, your camera roll is worth millions. By analyzing all the photos stored on your phone, Dazzle claims to understand your hobbies, interests, food, and style preferences, how you like to spend their time, and with whom.",
-    "url": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/",
     "date": "2026-09-30"
   },
   {
@@ -245,6 +245,41 @@
     "date": "2026-09-30"
   },
   {
+    "title": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
+    "source": "Ars Technica",
+    "summary": "Trump gets dozens of AI firms to agree to voluntary safety tests.",
+    "url": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves/",
+    "date": "2026-09-30"
+  },
+  {
+    "title": "'An AI did it' is no defense, says nonprofit suing OpenAI over Hugging Face hack",
+    "source": "Ars Technica",
+    "summary": "OpenAI makes others suffer 'the harms of its unsafe decision-making,' nonprofit says.",
+    "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack/",
+    "date": "2026-09-30"
+  },
+  {
+    "title": "Google's early attempt to pay websites for AI answers is struggling",
+    "source": "Ars Technica",
+    "summary": "Many sites see just one-tenth of one percent of their advertising revenue from AI payments.",
+    "url": "https://arstechnica.com/google/2026/09/google-is-paying-100-websites-for-contributions-to-ai-overviews-but-the-amounts-are-tiny/",
+    "date": "2026-09-30"
+  },
+  {
+    "title": "Google figures out how to watermark AI-designed proteins",
+    "source": "Ars Technica",
+    "summary": "Intended to help with biosecurity, it works with a popular AI protein design tool.",
+    "url": "https://arstechnica.com/science/2026/09/google-figures-out-how-to-watermark-ai-designed-proteins/",
+    "date": "2026-09-30"
+  },
+  {
+    "title": "OpenAI delays IPO over AI safety concerns",
+    "source": "Ars Technica",
+    "summary": "OpenAI is seeking another $30 billion privately as its IPO plans slip.",
+    "url": "https://arstechnica.com/ai/2026/09/openai-delays-ipo-over-ai-safety-concerns/",
+    "date": "2026-09-30"
+  },
+  {
     "title": "Protests against OpenAI get increasingly creative",
     "source": "Ars Technica",
     "summary": "New sculpture depicts AI leaders escaping a sinking ship.",
@@ -312,41 +347,6 @@
     "source": "Ars Technica",
     "summary": "\u201cMicrosoft claims to want to be a good neighbor, but the jury is still out.'",
     "url": "https://arstechnica.com/tech-policy/2026/09/microsoft-goes-quiet-after-church-groups-ask-for-1-of-data-center-costs/",
-    "date": "2026-09-30"
-  },
-  {
-    "title": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
-    "source": "Ars Technica",
-    "summary": "'Overly constrained AI models' could cause military operations to fail, judges say.",
-    "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
-    "date": "2026-09-30"
-  },
-  {
-    "title": "Tesla workers balk at training Optimus humanoid robots as replacements",
-    "source": "Ars Technica",
-    "summary": "Despite challenges, Tesla aims for 1,000 Optimus robots per week by end of 2026.",
-    "url": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/",
-    "date": "2026-09-30"
-  },
-  {
-    "title": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise.",
-    "source": "Ars Technica",
-    "summary": "'There is no evidence of any significant, widespread displacement or reduction in hiring.\u201d",
-    "url": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/",
-    "date": "2026-09-30"
-  },
-  {
-    "title": "Microsoft stops insisting you need a 'Copilot+ PC'",
-    "source": "Ars Technica",
-    "summary": "Microsoft's new Surface laptops forgo Copilot+ PC branding.",
-    "url": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
-    "date": "2026-09-30"
-  },
-  {
-    "title": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
-    "source": "Ars Technica",
-    "summary": "Vendors rolling out AI have an 'incentive to deny as many claims as possible.'",
-    "url": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/",
     "date": "2026-09-30"
   }
 ]
