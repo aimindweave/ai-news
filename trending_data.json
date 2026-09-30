@@ -1,92 +1,92 @@
 [
   {
-    "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+    "title": "PSSA: A non-transformer language model written from scratch in Rust",
     "source": "Hacker News",
-    "description": "HN Score: 673 | 604 comments",
-    "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
-    "score": 673,
-    "date": "2026-09-29",
-    "category": "AI News"
-  },
-  {
-    "title": "Show HN: TurboGPT: train 22KiB transformer in 13s",
-    "source": "Hacker News",
-    "description": "HN Score: 29 | 4 comments",
-    "url": "https://github.com/lostmsu/TurboGPT",
-    "score": 29,
-    "date": "2026-09-29",
-    "category": "AI News"
-  },
-  {
-    "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
-    "source": "Hacker News",
-    "description": "HN Score: 398 | 126 comments",
-    "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-    "score": 398,
-    "date": "2026-09-29",
+    "description": "HN Score: 34 | 7 comments",
+    "url": "https://github.com/Sparticle62ops/pssa",
+    "score": 34,
+    "date": "2026-09-30",
     "category": "AI News"
   },
   {
     "title": "Dots: Always-on agents",
     "source": "Hacker News",
-    "description": "HN Score: 408 | 316 comments",
+    "description": "HN Score: 513 | 386 comments",
     "url": "https://openai.com/index/introducing-dots/",
-    "score": 408,
-    "date": "2026-09-29",
+    "score": 513,
+    "date": "2026-09-30",
+    "category": "AI News"
+  },
+  {
+    "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+    "source": "Hacker News",
+    "description": "HN Score: 844 | 766 comments",
+    "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
+    "score": 844,
+    "date": "2026-09-30",
+    "category": "AI News"
+  },
+  {
+    "title": "Language models for text classification: From bag-of-words to Jev",
+    "source": "Hacker News",
+    "description": "HN Score: 64 | 2 comments",
+    "url": "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
+    "score": 64,
+    "date": "2026-09-30",
+    "category": "AI News"
+  },
+  {
+    "title": "Responsible Release of AI-Generated Mathematics",
+    "source": "Hacker News",
+    "description": "HN Score: 5 | 0 comments",
+    "url": "https://agmai.org/general-sep29/",
+    "score": 5,
+    "date": "2026-09-30",
+    "category": "AI News"
+  },
+  {
+    "title": "Show HN: A working 3D model of an Enigma machine",
+    "source": "Hacker News",
+    "description": "HN Score: 49 | 18 comments",
+    "url": "https://enigma.design",
+    "score": 49,
+    "date": "2026-09-30",
+    "category": "AI News"
+  },
+  {
+    "title": "Ballmer Peak",
+    "source": "Hacker News",
+    "description": "HN Score: 19 | 0 comments",
+    "url": "https://en.wikipedia.org/wiki/Ballmer_Peak",
+    "score": 19,
+    "date": "2026-09-30",
+    "category": "AI News"
+  },
+  {
+    "title": "AI tools generated nearly $1B in extra costs, Blue Cross insurers say",
+    "source": "Hacker News",
+    "description": "HN Score: 8 | 2 comments",
+    "url": "https://www.reuters.com/legal/litigation/ai-tools-generated-nearly-1-billion-extra-costs-blue-cross-insurers-say-2026-09-24/",
+    "score": 8,
+    "date": "2026-09-30",
     "category": "AI News"
   },
   {
     "title": "Sustainable energy without the hot air (2008)",
     "source": "Hacker News",
-    "description": "HN Score: 127 | 68 comments",
+    "description": "HN Score: 140 | 80 comments",
     "url": "https://www.withouthotair.com/",
-    "score": 127,
-    "date": "2026-09-29",
+    "score": 140,
+    "date": "2026-09-30",
     "category": "AI News"
   },
   {
-    "title": "Jeeves. Reasoning improves Jev-like decision models",
+    "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
     "source": "Hacker News",
-    "description": "HN Score: 214 | 85 comments",
-    "url": "https://github.com/PostHog/jeeves",
-    "score": 214,
-    "date": "2026-09-29",
-    "category": "AI News"
-  },
-  {
-    "title": "ChatGPT Pro 500",
-    "source": "Hacker News",
-    "description": "HN Score: 164 | 171 comments",
-    "url": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
-    "score": 164,
-    "date": "2026-09-29",
-    "category": "AI News"
-  },
-  {
-    "title": "McDonald's push to have AI price your Big Mac",
-    "source": "Hacker News",
-    "description": "HN Score: 22 | 4 comments",
-    "url": "https://www.cnbc.com/2026/09/29/inside-mcdonalds-push-ai-price-big-mac.html",
-    "score": 22,
-    "date": "2026-09-29",
-    "category": "AI News"
-  },
-  {
-    "title": "TIRx Harness: An Open Compiler Harness for Agentic GPU Programming",
-    "source": "Hacker News",
-    "description": "HN Score: 5 | 0 comments",
-    "url": "https://blog.mlc.ai/2026/09/29/tirx-harness-an-open-compiler-harness-for-agentic-gpu-programming",
-    "score": 5,
-    "date": "2026-09-29",
-    "category": "AI News"
-  },
-  {
-    "title": "DraftKings is using AI to behaviorally target chronic gamblers",
-    "source": "Hacker News",
-    "description": "HN Score: 506 | 353 comments",
-    "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
-    "score": 506,
-    "date": "2026-09-29",
+    "description": "HN Score: 412 | 130 comments",
+    "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+    "score": 412,
+    "date": "2026-09-30",
     "category": "AI News"
   }
 ]
