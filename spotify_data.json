@@ -93,6 +93,26 @@
   ],
   "episodes": [
     {
+      "id": "Hard For_0",
+      "name": "What’s Next for ‘Hard Fork’?",
+      "show": "Hard Fork",
+      "description": "For the next few months on “Hard Fork,” join the guest host Max Read and an array of Times reporters and experts as we zoom out, catch up and try to understand both what’s happening inside the tech",
+      "release_date": "2026-10-01",
+      "duration_min": 2,
+      "image": "",
+      "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
+    },
+    {
+      "id": "Practica_0",
+      "name": "Open models and the future of Physical AI with NVIDIA",
+      "show": "Practical AI",
+      "description": "\n        As AI moves beyond the cloud and into robots, vehicles, and other physical systems, new approaches to models, simulation, and inference are emerging. Daniel and Chris are joined by Ming-Yu",
+      "release_date": "2026-10-01",
+      "duration_min": 47,
+      "image": "",
+      "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
+    },
+    {
       "id": "a]6z Pod_0",
       "name": "The $1 Trillion AI Buildout | State of Markets",
       "show": "a]6z Podcast",
@@ -133,7 +153,7 @@
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
-      "id": "Hard For_0",
+      "id": "Hard For_1",
       "name": "The Ezra Klein Show: Jensen Huang Thinks A.I. Alarmism Has Gone Too Far",
       "show": "Hard Fork",
       "description": "In this episode, Ezra travels to Nvidia’s headquarters in Santa Clara, Calif., for a wide-ranging conversation with the chief executive Jensen Huang about the future of A.I. and why he thinks predi",
@@ -143,7 +163,7 @@
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
-      "id": "Practica_0",
+      "id": "Practica_1",
       "name": "From AGENTS.md to Enterprise Deployment",
       "show": "Practical AI",
       "description": "\n        AI agents are moving beyond laptops and prototypes and into enterprise environments where security, compliance, scalability, and reliability matter. Nick Kuhn from VMware Tanzu Platform jo",
@@ -153,7 +173,7 @@
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
-      "id": "Hard For_1",
+      "id": "Hard For_2",
       "name": "A.I. Safety Goes Mainstream + a ‘Hard Fork’ Exit AMA",
       "show": "Hard Fork",
       "description": "This week, we break down why everyone is suddenly talking about A.I. safety, why frontier A.I. companies are asking for regulation and why the Trump administration is rejecting them. And then, to c",
@@ -173,7 +193,7 @@
       "url": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"
     },
     {
-      "id": "Practica_1",
+      "id": "Practica_2",
       "name": "How to get discovered in AI search",
       "show": "Practical AI",
       "description": "\n        AI search is changing how people discover information and how brands need to think about visibility. Daniel and Chris talk with Liam Dunne and Ben Moore, co-founders of Discovered Labs, ab",
@@ -191,26 +211,6 @@
       "duration_min": 64,
       "image": "",
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
-    },
-    {
-      "id": "Hard For_2",
-      "name": "The Ezra Klein Show: The A.I. Revolt Is Here",
-      "show": "Hard Fork",
-      "description": "The “Hard Fork” team is away this week. But while we’re away, we’re bringing you a recent episode of “The Ezra Klein Show.”In this episode, Ezra talks with the journalist Jasmine Sun about h",
-      "release_date": "2026-09-11",
-      "duration_min": 79,
-      "image": "",
-      "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
-    },
-    {
-      "id": "Practica_2",
-      "name": "Computer-Use Agents and the Future of the Agentic Internet",
-      "show": "Practical AI",
-      "description": "\n        Longtime followers of Practical AI know that multi-repeat guest and friend Demetrios Brinkmann combines brilliant insight and playful banter into one fun-filled show, and this conversion w",
-      "release_date": "2026-09-10",
-      "duration_min": 56,
-      "image": "",
-      "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
       "id": "The TWIM_2",

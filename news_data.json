@@ -1,5 +1,12 @@
 [
   {
+    "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+    "source": "TechCrunch",
+    "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
+    "url": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+    "date": "2026-10-01"
+  },
+  {
     "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
     "source": "TechCrunch",
     "summary": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
@@ -98,10 +105,24 @@
     "date": "2026-10-01"
   },
   {
-    "title": "America.gov gets really weird when you ask it about Minecraft, but it\u2019s not a glitch",
-    "source": "TechCrunch",
-    "summary": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
-    "url": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
+    "title": "The Download: AI \u201cmind-reading\u201d and creative uses for small batteries",
+    "source": "MIT Tech Review",
+    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. An AI \u201cmind-reading\u201d tool can reconstruct what you\u2019re looking at based on a brain scan A new AI tool can guess what you\u2019re looking at just by analyzing your br...",
+    "url": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/",
+    "date": "2026-10-01"
+  },
+  {
+    "title": "An AI \u201cmind-reading\u201d tool can reconstruct what you\u2019re looking at based on a brain scan",
+    "source": "MIT Tech Review",
+    "summary": "A new AI tool can guess what you\u2019re looking at just by analyzing your brain scans\u2014and recreate that image with remarkable precision. It can go the other way too, and predict a person\u2019s brain activity based on what they\u2019re looking at. In the image above, for example, the left-hand image of each pa...",
+    "url": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
+    "date": "2026-10-01"
+  },
+  {
+    "title": "How smaller, distributed batteries could help the grid",
+    "source": "MIT Tech Review",
+    "summary": "If you want to install a big battery in New York City, you have to cut through a notoriously tough tangle of regulations. That\u2019s made it difficult to get large energy storage projects on the grid. Faced with those obstacles, some startups are getting creative, finding ways to use relatively small...",
+    "url": "https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/",
     "date": "2026-10-01"
   },
   {
@@ -151,27 +172,6 @@
     "source": "MIT Tech Review",
     "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture about hard biology ...",
     "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
-    "date": "2026-10-01"
-  },
-  {
-    "title": "The Download: rogue agent liability and the AI Hype Index",
-    "source": "MIT Tech Review",
-    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Who s liable when AI agents go rogue? Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a ...",
-    "url": "https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/",
-    "date": "2026-10-01"
-  },
-  {
-    "title": "Who\u2019s liable when AI agents go rogue?",
-    "source": "MIT Tech Review",
-    "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what\u2019s coming next. You can read more from the series here. Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that...",
-    "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
-    "date": "2026-10-01"
-  },
-  {
-    "title": "The Download: the Pentagon\u2019s AI-powered lie detector and young organ limits",
-    "source": "MIT Tech Review",
-    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. The Pentagon wants $30 million to build an AI-powered lie detector The US government wants to spend $30.3 million over the next five years on an improved lie d...",
-    "url": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/",
     "date": "2026-10-01"
   },
   {
