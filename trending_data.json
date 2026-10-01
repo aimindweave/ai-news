@@ -1,82 +1,91 @@
 [
   {
+    "title": "Clef: Open-source decision models, and new RL fine-tuning platform",
+    "source": "Hacker News",
+    "description": "HN Score: 268 | 101 comments",
+    "url": "https://blog.cloudflare.com/clef-decision-models/",
+    "score": 268,
+    "date": "2026-10-01",
+    "category": "AI News"
+  },
+  {
+    "title": "Show HN: Open-source model routing for coding agents at Astra-level performance",
+    "source": "Hacker News",
+    "description": "HN Score: 33 | 3 comments",
+    "url": "https://news.ycombinator.com/item?id=49911500",
+    "score": 33,
+    "date": "2026-10-01",
+    "category": "AI News"
+  },
+  {
+    "title": "Context Language Models",
+    "source": "Hacker News",
+    "description": "HN Score: 52 | 11 comments",
+    "url": "https://arxiv.org/abs/2609.37725",
+    "score": 52,
+    "date": "2026-10-01",
+    "category": "AI News"
+  },
+  {
+    "title": "Polyedergarten: Garden of Paper Polyhedron Models",
+    "source": "Hacker News",
+    "description": "HN Score: 36 | 5 comments",
+    "url": "https://www.polyedergarten.de/e_index.htm",
+    "score": 36,
+    "date": "2026-10-01",
+    "category": "AI News"
+  },
+  {
     "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
     "source": "Hacker News",
-    "description": "HN Score: 62 | 22 comments",
+    "description": "HN Score: 145 | 78 comments",
     "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
-    "score": 62,
+    "score": 145,
+    "date": "2026-10-01",
+    "category": "AI News"
+  },
+  {
+    "title": "Identity Management for Agentic AI [pdf] (2025)",
+    "source": "Hacker News",
+    "description": "HN Score: 54 | 12 comments",
+    "url": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
+    "score": 54,
+    "date": "2026-10-01",
+    "category": "AI News"
+  },
+  {
+    "title": "How to set up SPF, DKIM, and DMARC for your sending domain",
+    "source": "Hacker News",
+    "description": "HN Score: 30 | 4 comments",
+    "url": "https://mailfully.com/blog/spf-dkim-dmarc-setup",
+    "score": 30,
     "date": "2026-10-01",
     "category": "AI News"
   },
   {
     "title": "OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network",
     "source": "Hacker News",
-    "description": "HN Score: 139 | 79 comments",
+    "description": "HN Score: 228 | 104 comments",
     "url": "https://github.com/maanHimself/OpenDLSS-NR",
-    "score": 139,
+    "score": 228,
+    "date": "2026-10-01",
+    "category": "AI News"
+  },
+  {
+    "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+    "source": "Hacker News",
+    "description": "HN Score: 179 | 121 comments",
+    "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
+    "score": 179,
     "date": "2026-10-01",
     "category": "AI News"
   },
   {
     "title": "Surprisingly complex waves reveal the brain's inner workings",
     "source": "Hacker News",
-    "description": "HN Score: 208 | 80 comments",
+    "description": "HN Score: 243 | 93 comments",
     "url": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
-    "score": 208,
-    "date": "2026-10-01",
-    "category": "AI News"
-  },
-  {
-    "title": "Launch HN: Magnitude (YC S25) \u2013 Self-optimizing inference engine for agents",
-    "source": "Hacker News",
-    "description": "HN Score: 174 | 86 comments",
-    "url": "https://github.com/magnitudedev/magnitude",
-    "score": 174,
-    "date": "2026-10-01",
-    "category": "AI News"
-  },
-  {
-    "title": "Halfspace experimental IDE for solid modeling with distance fields",
-    "source": "Hacker News",
-    "description": "HN Score: 151 | 9 comments",
-    "url": "https://www.mattkeeter.com/projects/halfspace/",
-    "score": 151,
-    "date": "2026-10-01",
-    "category": "AI News"
-  },
-  {
-    "title": "Doing a Machine Learning PhD While Working in Japan",
-    "source": "Hacker News",
-    "description": "HN Score: 110 | 37 comments",
-    "url": "https://www.tokyodev.com/articles/doing-a-machine-learning-phd-while-working-in-japan",
-    "score": 110,
-    "date": "2026-10-01",
-    "category": "AI News"
-  },
-  {
-    "title": "Responsible Release of AI-Generated Mathematics",
-    "source": "Hacker News",
-    "description": "HN Score: 100 | 134 comments",
-    "url": "https://agmai.org/general-sep29/",
-    "score": 100,
-    "date": "2026-10-01",
-    "category": "AI News"
-  },
-  {
-    "title": "You said no MCP",
-    "source": "Hacker News",
-    "description": "HN Score: 646 | 356 comments",
-    "url": "https://earendil.com/posts/you-said-no-mcp/",
-    "score": 646,
-    "date": "2026-10-01",
-    "category": "AI News"
-  },
-  {
-    "title": "Show HN: A working 3D model of an Enigma machine",
-    "source": "Hacker News",
-    "description": "HN Score: 100 | 40 comments",
-    "url": "https://enigma.design",
-    "score": 100,
+    "score": 243,
     "date": "2026-10-01",
     "category": "AI News"
   }

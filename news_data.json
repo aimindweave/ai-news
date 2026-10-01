@@ -1,5 +1,61 @@
 [
   {
+    "title": "Google thinks SpaceX\u2019s Starship has to launch 1,600 times before space data centers get off the ground",
+    "source": "TechCrunch",
+    "summary": "Google launched its first advanced chip into orbit to pave the way for space data centers.",
+    "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
+    "date": "2026-10-01"
+  },
+  {
+    "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+    "source": "TechCrunch",
+    "summary": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
+    "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+    "date": "2026-10-01"
+  },
+  {
+    "title": "Opus 5.5 loves to tell you \u2018this matters\u2019 (and other AI writing tells)",
+    "source": "TechCrunch",
+    "summary": "Opus 5.5\u2019s biggest tell is the word \u201cdependable,\u201d which pops up 23 times more often than in human samples.",
+    "url": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
+    "date": "2026-10-01"
+  },
+  {
+    "title": "Amazon releases its own Jev clone as decision models flood the web",
+    "source": "TechCrunch",
+    "summary": "Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B.",
+    "url": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
+    "date": "2026-10-01"
+  },
+  {
+    "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
+    "source": "TechCrunch",
+    "summary": "Shopify\u2019s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the changes happen in real time.",
+    "url": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
+    "date": "2026-10-01"
+  },
+  {
+    "title": "Brian Chesky interview: AI agents need their own operating system",
+    "source": "TechCrunch",
+    "summary": "Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system.",
+    "url": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
+    "date": "2026-10-01"
+  },
+  {
+    "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
+    "source": "TechCrunch",
+    "summary": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
+    "url": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
+    "date": "2026-10-01"
+  },
+  {
+    "title": "Hearing tech startup Legato launches its AI hearing glasses",
+    "source": "TechCrunch",
+    "summary": "The glasses stem from the startup\u2019s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditional hearing aids.",
+    "url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
+    "date": "2026-10-01"
+  },
+  {
     "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
     "source": "TechCrunch",
     "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
@@ -49,62 +105,6 @@
     "date": "2026-10-01"
   },
   {
-    "title": "Meta disputes claim that Muse read a user\u2019s private messages without permission",
-    "source": "TechCrunch",
-    "summary": "Meta says its Muse AI agent cannot access a user\u2019s Messages without explicit permission, disputing a journalist\u2019s account that the agent read his private messages while the required Mac setting was turned off.",
-    "url": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
-    "date": "2026-10-01"
-  },
-  {
-    "title": "DoorDash launches an AI agent you can text to order food",
-    "source": "TechCrunch",
-    "summary": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub.",
-    "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
-    "date": "2026-10-01"
-  },
-  {
-    "title": "Destro AI\u2019s secret sauce is getting robots and humans on the same page",
-    "source": "TechCrunch",
-    "summary": "'One of the biggest reasons we are winning against robotics companies is because we are not a robotics company.'",
-    "url": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
-    "date": "2026-10-01"
-  },
-  {
-    "title": "Instinct\u2019s new product recommendations are giving some users the ick",
-    "source": "TechCrunch",
-    "summary": "Instinct is rolling out human-curated product and travel recommendations, but some users aren\u2019t happy about getting suggestions they never asked for.",
-    "url": "https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/",
-    "date": "2026-10-01"
-  },
-  {
-    "title": "Cerebras Systems\u2019 Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
-    "source": "TechCrunch",
-    "summary": "At TechCrunch Disrupt 2026, Cerebras Systems CEO and co-founder Andrew Feldman will explore the growing demand for compute, energy, and infrastructure, how Cerebras is approaching those constraints differently, and what comes next if today\u2019s AI hardware reaches its limits.",
-    "url": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/",
-    "date": "2026-10-01"
-  },
-  {
-    "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
-    "source": "TechCrunch",
-    "summary": "Instead of building its durable execution engine on top of an external database, the company developed its own storage, replication, and redundancy layers. This architecture allows Restate to be exceptionally fast and lightweight.",
-    "url": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
-    "date": "2026-10-01"
-  },
-  {
-    "title": "3 days left to exhibit: Turn visibility into your next opportunity at TechCrunch Disrupt 2026",
-    "source": "TechCrunch",
-    "summary": "Three days left to exhibit at TechCrunch Disrupt 2026. Book by October 2 at 11:59 p.m. PT to showcase your startup to 10,000+ founders, investors, operators, and tech leaders.",
-    "url": "https://techcrunch.com/2026/09/30/3-days-left-to-exhibit-at-techcrunch-disrupt-2026-2/",
-    "date": "2026-10-01"
-  },
-  {
-    "title": "Airbnb adds AI search, more social features",
-    "source": "TechCrunch",
-    "summary": "Airbnb is also launching new services such as meal delivery and laundry in select locations.",
-    "url": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
-    "date": "2026-10-01"
-  },
-  {
     "title": "The Download: AI \u201cmind-reading\u201d and creative uses for small batteries",
     "source": "MIT Tech Review",
     "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. An AI \u201cmind-reading\u201d tool can reconstruct what you\u2019re looking at based on a brain scan A new AI tool can guess what you\u2019re looking at just by analyzing your br...",
@@ -112,9 +112,9 @@
     "date": "2026-10-01"
   },
   {
-    "title": "An AI \u201cmind-reading\u201d tool can reconstruct what you\u2019re looking at based on a brain scan",
+    "title": "An AI \u201cmind-reading\u201d tool can reconstruct what you\u2019re looking at from a brain scan",
     "source": "MIT Tech Review",
-    "summary": "A new AI tool can guess what you\u2019re looking at just by analyzing your brain scans\u2014and recreate that image with remarkable precision. It can go the other way too, and predict a person\u2019s brain activity based on what they\u2019re looking at. In the image above, for example, the left-hand image of each pa...",
+    "summary": "A new AI tool can guess what you\u2019re looking at just by analyzing your brain scans\u2014and re-create that image with remarkable precision. It can go the other way, too, and predict a person\u2019s brain activity based on what they\u2019re looking at. In the image above, for example, the left-hand image of each ...",
     "url": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
     "date": "2026-10-01"
   },
@@ -245,6 +245,13 @@
     "date": "2026-10-01"
   },
   {
+    "title": "With most information hidden, the game Stratego had stumped AI\u2014until now",
+    "source": "Ars Technica",
+    "summary": "Adding in a second neural network that guesses the identity of hidden pieces was key.",
+    "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+    "date": "2026-10-01"
+  },
+  {
     "title": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
     "source": "Ars Technica",
     "summary": "So much for Gemini 3.5 Pro.",
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "China is reportedly mulling letting ByteDance, Alibaba buy banned Nvidia chips.",
     "url": "https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/",
-    "date": "2026-10-01"
-  },
-  {
-    "title": "Florida invokes extinction fears in legal bid to halt OpenAI development",
-    "source": "Ars Technica",
-    "summary": "State says LLMs threaten civilization as 'the greatest public nuisance ever created.'",
-    "url": "https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development/",
     "date": "2026-10-01"
   }
 ]
