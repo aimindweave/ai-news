@@ -94,6 +94,26 @@
   "episodes": [
     {
       "id": "Hard For_0",
+      "name": "A.I. Agents: Cute, Cuddly and Maybe Catastrophically Dangerous?",
+      "show": "Hard Fork",
+      "description": "This week, after months in which rogue agents have caused havoc across the internet, tech’s most powerful leaders joined President Trump at the White House to rebrand A.I. At the same time, two of ",
+      "release_date": "2026-10-02",
+      "duration_min": 53,
+      "image": "",
+      "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
+    },
+    {
+      "id": "a]6z Pod_0",
+      "name": "Why AI Agents Can Beat the Incumbents",
+      "show": "a]6z Podcast",
+      "description": "a16z’s Seema Amble and Elena Burger sit down with Lio co-founder and CEO Vladimir Keil to ask where AI-native startups have an advantage when incumbent software companies already own the customer, ",
+      "release_date": "2026-10-02",
+      "duration_min": 59,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
+      "id": "Hard For_1",
       "name": "What’s Next for ‘Hard Fork’?",
       "show": "Hard Fork",
       "description": "For the next few months on “Hard Fork,” join the guest host Max Read and an array of Times reporters and experts as we zoom out, catch up and try to understand both what’s happening inside the tech",
@@ -113,7 +133,7 @@
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
-      "id": "a]6z Pod_0",
+      "id": "a]6z Pod_1",
       "name": "Rebuilding the Internet for Privacy | Barrett Lyon on DoxxNet",
       "show": "a]6z Podcast",
       "description": "a16z’s Joel de la Garza sits down with DoxxNet founder Barrett Lyon to discuss what it would take to rebuild the internet around privacy, direct communication, and less dependence on centralized in",
@@ -123,7 +143,7 @@
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "The $1 Trillion AI Buildout | State of Markets",
       "show": "a]6z Podcast",
       "description": "a16z’s David George, Sarah Wang, Alex Immerman, and Santiago Rodriguez unpack 25 key charts from the latest State of Markets presentation, from the scale of the AI infrastructure buildout to what a",
@@ -143,17 +163,7 @@
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
     },
     {
-      "id": "a]6z Pod_2",
-      "name": "The Personal Agent Race Is Here | Anish Acharya & David Pawlan",
-      "show": "a]6z Podcast",
-      "description": "a16z General Partner Anish Acharya sits down with Assistant Benchmark creator David Pawlan to unpack the sudden explosion of personal AI agents and what it will take for one to become part of every",
-      "release_date": "2026-09-29",
-      "duration_min": 51,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
-    },
-    {
-      "id": "Hard For_1",
+      "id": "Hard For_2",
       "name": "The Ezra Klein Show: Jensen Huang Thinks A.I. Alarmism Has Gone Too Far",
       "show": "Hard Fork",
       "description": "In this episode, Ezra travels to Nvidia’s headquarters in Santa Clara, Calif., for a wide-ranging conversation with the chief executive Jensen Huang about the future of A.I. and why he thinks predi",
@@ -171,16 +181,6 @@
       "duration_min": 48,
       "image": "",
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
-    },
-    {
-      "id": "Hard For_2",
-      "name": "A.I. Safety Goes Mainstream + a ‘Hard Fork’ Exit AMA",
-      "show": "Hard Fork",
-      "description": "This week, we break down why everyone is suddenly talking about A.I. safety, why frontier A.I. companies are asking for regulation and why the Trump administration is rejecting them. And then, to c",
-      "release_date": "2026-09-18",
-      "duration_min": 84,
-      "image": "",
-      "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
       "id": "Lex Frid_0",
