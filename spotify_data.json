@@ -94,6 +94,16 @@
   "episodes": [
     {
       "id": "a]6z Pod_0",
+      "name": "David George & Jack Altman on AI, Autonomy, and the Next $25 Trillion",
+      "show": "a]6z Podcast",
+      "description": "a16z General Partner David George joins Jack Altman on <i>Uncapped</i> to make the case that many of the biggest debates in AI are framed the wrong way. Frontier models or open source? Labs or appl",
+      "release_date": "2026-10-04",
+      "duration_min": 55,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
+      "id": "a]6z Pod_1",
       "name": "Beyond the God Model | Alex Atallah & Amjad Masad",
       "show": "a]6z Podcast",
       "description": "A16z’s Erik Torenberg sits down with OpenRouter’s Alex Atallah and Replit founder and CEO Amjad Masad to discuss why the future of AI may look less like one all-purpose model and more like an ecosy",
@@ -113,7 +123,7 @@
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "Why AI Agents Can Beat the Incumbents",
       "show": "a]6z Podcast",
       "description": "a16z’s Seema Amble and Elena Burger sit down with Lio co-founder and CEO Vladimir Keil to ask where AI-native startups have an advantage when incumbent software companies already own the customer, ",
@@ -141,16 +151,6 @@
       "duration_min": 47,
       "image": "",
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
-    },
-    {
-      "id": "a]6z Pod_2",
-      "name": "Rebuilding the Internet for Privacy | Barrett Lyon on DoxxNet",
-      "show": "a]6z Podcast",
-      "description": "a16z’s Joel de la Garza sits down with DoxxNet founder Barrett Lyon to discuss what it would take to rebuild the internet around privacy, direct communication, and less dependence on centralized in",
-      "release_date": "2026-10-01",
-      "duration_min": 45,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
       "id": "The TWIM_0",
