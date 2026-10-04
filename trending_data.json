@@ -1,91 +1,64 @@
 [
   {
+    "title": "Homa: The end of TCP for AI clusters [video]",
+    "source": "Hacker News",
+    "description": "HN Score: 39 | 7 comments",
+    "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+    "score": 39,
+    "date": "2026-10-04",
+    "category": "AI News"
+  },
+  {
+    "title": "How to scale intent, quality, and artistry with AI [video]",
+    "source": "Hacker News",
+    "description": "HN Score: 37 | 11 comments",
+    "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
+    "score": 37,
+    "date": "2026-10-04",
+    "category": "AI News"
+  },
+  {
     "title": "Show HN: AI search for every photo and every frame of video on macOS",
     "source": "Hacker News",
-    "description": "HN Score: 97 | 52 comments",
+    "description": "HN Score: 132 | 62 comments",
     "url": "https://github.com/allenv0/SCM",
-    "score": 97,
+    "score": 132,
+    "date": "2026-10-04",
+    "category": "AI News"
+  },
+  {
+    "title": "Declaring a bird extinct: The median wait is 36 years after the last sighting",
+    "source": "Hacker News",
+    "description": "HN Score: 14 | 7 comments",
+    "url": "https://birdshistory.com/how-long-to-declare-a-bird-extinct/",
+    "score": 14,
     "date": "2026-10-04",
     "category": "AI News"
   },
   {
     "title": "Agents don't need memory, they need documentation",
     "source": "Hacker News",
-    "description": "HN Score: 313 | 191 comments",
+    "description": "HN Score: 335 | 203 comments",
     "url": "https://liao.gg/blog/agents-dont-need-memory",
-    "score": 313,
+    "score": 335,
     "date": "2026-10-04",
     "category": "AI News"
   },
   {
-    "title": "LeCun has 'zero concerns' about AI wiping out humanity, recent 'rogue' incidents",
+    "title": "AI doesn't need 'superintelligence' or evil intent to start a nuclear war",
     "source": "Hacker News",
-    "description": "HN Score: 332 | 596 comments",
-    "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
-    "score": 332,
+    "description": "HN Score: 6 | 0 comments",
+    "url": "https://thebulletin.org/2026/10/ai-doesnt-need-superintelligence-or-evil-intent-to-start-a-nuclear-war/",
+    "score": 6,
     "date": "2026-10-04",
     "category": "AI News"
   },
   {
     "title": "What's the future for pure math research in the age of AI?",
     "source": "Hacker News",
-    "description": "HN Score: 46 | 32 comments",
+    "description": "HN Score: 55 | 42 comments",
     "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/",
-    "score": 46,
-    "date": "2026-10-04",
-    "category": "AI News"
-  },
-  {
-    "title": "I quit OpenAI because its culture is broken",
-    "source": "Hacker News",
-    "description": "HN Score: 427 | 705 comments",
-    "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
-    "score": 427,
-    "date": "2026-10-04",
-    "category": "AI News"
-  },
-  {
-    "title": "Religious scholars met with Anthropic",
-    "source": "Hacker News",
-    "description": "HN Score: 148 | 368 comments",
-    "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-    "score": 148,
-    "date": "2026-10-04",
-    "category": "AI News"
-  },
-  {
-    "title": "RetailReady (YC W24) Is Hiring",
-    "source": "Hacker News",
-    "description": "HN Score: 1 | 0 comments",
-    "url": "https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations",
-    "score": 1,
-    "date": "2026-10-04",
-    "category": "AI News"
-  },
-  {
-    "title": "Kolibri: A Sovereign Open-Weight Model",
-    "source": "Hacker News",
-    "description": "HN Score: 647 | 322 comments",
-    "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
-    "score": 647,
-    "date": "2026-10-04",
-    "category": "AI News"
-  },
-  {
-    "title": "Show HN: Pi pod \u2013 Run your pi coding agent in sandboxes on your own server",
-    "source": "Hacker News",
-    "description": "HN Score: 111 | 44 comments",
-    "url": "https://pipod.dev/",
-    "score": 111,
-    "date": "2026-10-04",
-    "category": "AI News"
-  },
-  {
-    "title": "Show HN: Dataviz, ranked daily from GitHub, NPM, PyPI and CRAN",
-    "source": "Hacker News",
-    "description": "HN Score: 11 | 1 comments",
-    "url": "https://awesomedataviz.com/",
-    "score": 11,
+    "score": 55,
     "date": "2026-10-04",
     "category": "AI News"
   }
