@@ -1,46 +1,64 @@
 [
   {
-    "title": "Kolibri: A Sovereign Open-Weight Model",
-    "source": "Hacker News",
-    "description": "HN Score: 488 | 296 comments",
-    "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
-    "score": 488,
-    "date": "2026-10-04",
-    "category": "AI News"
-  },
-  {
-    "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
-    "source": "Hacker News",
-    "description": "HN Score: 70 | 25 comments",
-    "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-    "score": 70,
-    "date": "2026-10-04",
-    "category": "AI News"
-  },
-  {
     "title": "Agents don't need memory, they need documentation",
     "source": "Hacker News",
-    "description": "HN Score: 32 | 21 comments",
+    "description": "HN Score: 144 | 87 comments",
     "url": "https://liao.gg/blog/agents-dont-need-memory",
-    "score": 32,
+    "score": 144,
     "date": "2026-10-04",
     "category": "AI News"
   },
   {
-    "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+    "title": "Religious scholars met with Anthropic",
     "source": "Hacker News",
-    "description": "HN Score: 150 | 109 comments",
-    "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
-    "score": 150,
+    "description": "HN Score: 63 | 105 comments",
+    "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+    "score": 63,
+    "date": "2026-10-04",
+    "category": "AI News"
+  },
+  {
+    "title": "Kolibri: A Sovereign Open-Weight Model",
+    "source": "Hacker News",
+    "description": "HN Score: 604 | 314 comments",
+    "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+    "score": 604,
+    "date": "2026-10-04",
+    "category": "AI News"
+  },
+  {
+    "title": "LeCun has 'zero concerns' about AI wiping out humanity, recent 'rogue' incidents",
+    "source": "Hacker News",
+    "description": "HN Score: 99 | 126 comments",
+    "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
+    "score": 99,
+    "date": "2026-10-04",
+    "category": "AI News"
+  },
+  {
+    "title": "Three AI agents, two countries, and one uneven world wide web",
+    "source": "Hacker News",
+    "description": "HN Score: 29 | 1 comments",
+    "url": "https://royapakzad.substack.com/p/multilingual-ai-agents",
+    "score": 29,
+    "date": "2026-10-04",
+    "category": "AI News"
+  },
+  {
+    "title": "I quit OpenAI because its culture is broken",
+    "source": "Hacker News",
+    "description": "HN Score: 197 | 465 comments",
+    "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
+    "score": 197,
     "date": "2026-10-04",
     "category": "AI News"
   },
   {
     "title": "Show HN: Pi pod \u2013 Run your pi coding agent in sandboxes on your own server",
     "source": "Hacker News",
-    "description": "HN Score: 72 | 28 comments",
+    "description": "HN Score: 94 | 38 comments",
     "url": "https://pipod.dev/",
-    "score": 72,
+    "score": 94,
     "date": "2026-10-04",
     "category": "AI News"
   },
@@ -50,42 +68,6 @@
     "description": "HN Score: 1 | 0 comments",
     "url": "https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations",
     "score": 1,
-    "date": "2026-10-04",
-    "category": "AI News"
-  },
-  {
-    "title": "LeCun has 'zero concerns' about AI wiping out humanity, recent 'rogue' incidents",
-    "source": "Hacker News",
-    "description": "HN Score: 70 | 75 comments",
-    "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
-    "score": 70,
-    "date": "2026-10-04",
-    "category": "AI News"
-  },
-  {
-    "title": "Show HN: Graphene \u2013 Data analysis toolkit for your coding agent",
-    "source": "Hacker News",
-    "description": "HN Score: 25 | 7 comments",
-    "url": "https://github.com/graphene-data/graphene",
-    "score": 25,
-    "date": "2026-10-04",
-    "category": "AI News"
-  },
-  {
-    "title": "Show HN: Local pretrained classifiers, GPU not needed",
-    "source": "Hacker News",
-    "description": "HN Score: 8 | 4 comments",
-    "url": "https://github.com/nicobrenner/jeffy",
-    "score": 8,
-    "date": "2026-10-04",
-    "category": "AI News"
-  },
-  {
-    "title": "Two American Airlines Flights End Up with the Same Flight Numbers",
-    "source": "Hacker News",
-    "description": "HN Score: 54 | 28 comments",
-    "url": "https://aviationa2z.com/index.php/2026/08/19/two-american-airlines-flights-end-up-with-same-flight-numbers-again/",
-    "score": 54,
     "date": "2026-10-04",
     "category": "AI News"
   }
