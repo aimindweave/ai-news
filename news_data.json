@@ -1,5 +1,75 @@
 [
   {
+    "title": "OpenAI will start watermarking ChatGPT\u2019s text in the EU",
+    "source": "TechCrunch",
+    "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
+    "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+    "date": "2026-10-05"
+  },
+  {
+    "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+    "source": "TechCrunch",
+    "summary": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build \u201cAI factories,\u201d a product that would let institutions build their own customized, local AI system by training Reflection\u2019s AI models on their own proprietary data.",
+    "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+    "date": "2026-10-05"
+  },
+  {
+    "title": "Instinct brings its AI agent to group chats, even for friends without an account",
+    "source": "TechCrunch",
+    "summary": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permission required before personal agents share information or take action.",
+    "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
+    "date": "2026-10-05"
+  },
+  {
+    "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
+    "source": "TechCrunch",
+    "summary": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
+    "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
+    "date": "2026-10-05"
+  },
+  {
+    "title": "Hot Girl Hotline is like \u2018Dear Abby\u2019 for the AI era",
+    "source": "TechCrunch",
+    "summary": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency.",
+    "url": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
+    "date": "2026-10-05"
+  },
+  {
+    "title": "HackerRank\u2019s AI interviewer offers a glimpse into what job interviews could become",
+    "source": "TechCrunch",
+    "summary": "HackerRank\u2019s AI interviewer has already conducted more than 500,000 interviews, with Snowflake, Snorkel, and Capgemini among its early testers.",
+    "url": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
+    "date": "2026-10-05"
+  },
+  {
+    "title": "OpenAI launches visual ads that appear alongside image generation results",
+    "source": "TechCrunch",
+    "summary": "The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of advertisers.",
+    "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
+    "date": "2026-10-05"
+  },
+  {
+    "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
+    "source": "TechCrunch",
+    "summary": "Learn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Register now to save up to $100 and get a second pass at 50% off.",
+    "url": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
+    "date": "2026-10-05"
+  },
+  {
+    "title": "Researchers are tracking a Chinese AI \u2018agent fleet\u2019",
+    "source": "TechCrunch",
+    "summary": "Independent researchers discovered an agent swarm that seems to be running on Tencent's infrastructure and targeting Alibaba's map service, Amap.",
+    "url": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
+    "date": "2026-10-05"
+  },
+  {
+    "title": "Meet the Startup Battlefield 200 judges who\u2019ll decide the winner at TechCrunch Disrupt 2026",
+    "source": "TechCrunch",
+    "summary": "Meet the final five Startup Battlefield judges who'll decide who wins the pitch competition at TechCrunch Disrupt 2026. Get your pass now to save up to $100, and get a second at 50% off.",
+    "url": "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/",
+    "date": "2026-10-05"
+  },
+  {
     "title": "The final Disrupt Stage lineup: Three days of conversations you won\u2019t hear anywhere outside of TechCrunch Disrupt 2026",
     "source": "TechCrunch",
     "summary": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.",
@@ -35,73 +105,10 @@
     "date": "2026-10-05"
   },
   {
-    "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
-    "source": "TechCrunch",
-    "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
-    "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
-    "date": "2026-10-05"
-  },
-  {
-    "title": "OpenAI safety employee resigns, claiming the company\u2019s \u2018culture is broken\u2019",
-    "source": "TechCrunch",
-    "summary": "By his own admission, David Robinson is \u201csomething of a clich\u00e9\u201d: an employee at a leading AI company who issues a dire warning while resigning from their job.",
-    "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-    "date": "2026-10-05"
-  },
-  {
-    "title": "All the AI agents that can live in your text messages",
-    "source": "TechCrunch",
-    "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-    "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
-    "date": "2026-10-05"
-  },
-  {
-    "title": "Meta wants your next gadget to be Muse-infused",
-    "source": "TechCrunch",
-    "summary": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
-    "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
-    "date": "2026-10-05"
-  },
-  {
-    "title": "Sean Parker is rebuilding Stability AI around music",
-    "source": "TechCrunch",
-    "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
-    "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
-    "date": "2026-10-05"
-  },
-  {
-    "title": "Affected by layoffs? Don\u2019t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
-    "source": "TechCrunch",
-    "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
-    "url": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
-    "date": "2026-10-05"
-  },
-  {
-    "title": "Apple says it\u2019s tightening macOS \u2018Full Disk Access\u2019 controls due to new risks from AI agents",
-    "source": "TechCrunch",
-    "summary": "Apple says it will add new controls around macOS\u2019s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users\u2019 files, messages, mail, and browsing history riskier.",
-    "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
-    "date": "2026-10-05"
-  },
-  {
-    "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
-    "source": "TechCrunch",
-    "summary": "This week, the White House got nearly every major tech CEO in one room \u2014 Zuckerberg, Bezos, Musk, and Anthropic\u2019s Dario Amodei among them \u2014 to sign an AI safety pledge that President Donald Trump called \u201cmorally binding.\u201d Trump also signed an executive order officially rebranding AI as \u201csuper int...",
-    "url": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
-    "date": "2026-10-05"
-  },
-  {
-    "title": "It\u2019s not AI anymore, it\u2019s \u2018super intelligence\u2019 (according to the White House)",
-    "source": "TechCrunch",
-    "summary": "This week, the White House got nearly every major tech CEO in one room \u2014 Zuckerberg, Bezos, Musk, and Anthropic\u2019s Dario Amodei among them \u2014 to sign an AI safety pledge that President Donald Trump called \u201cmorally binding.\u201d Trump also signed an executive order officially rebranding AI as \u201csuper int...",
-    "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
-    "date": "2026-10-05"
-  },
-  {
-    "title": "TechCrunch Disrupt 2026: Blackstone\u2019s Jas Khaira on building the next generation of AI giants",
-    "source": "TechCrunch",
-    "summary": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
-    "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
+    "title": "Connecting AI agents to enterprise knowledge",
+    "source": "MIT Tech Review",
+    "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in the context of individual organizations. AI agents need this understanding to...",
+    "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
     "date": "2026-10-05"
   },
   {
@@ -165,13 +172,6 @@
     "source": "MIT Tech Review",
     "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. An AI \u201cmind-reading\u201d tool can reconstruct what you\u2019re looking at based on a brain scan A new AI tool can guess what you\u2019re looking at just by analyzing your br...",
     "url": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/",
-    "date": "2026-10-05"
-  },
-  {
-    "title": "An AI \u201cmind-reading\u201d tool can reconstruct what you\u2019re looking at from a brain scan",
-    "source": "MIT Tech Review",
-    "summary": "A new AI tool can guess what you\u2019re looking at just by analyzing your brain scans\u2014and re-create that image with remarkable precision. It can go the other way, too, and predict a person\u2019s brain activity based on what they\u2019re looking at. In the image above, for example, the left-hand image of each ...",
-    "url": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
     "date": "2026-10-05"
   },
   {
@@ -242,6 +242,13 @@
     "source": "Wired",
     "summary": "Six major AI companies signed a voluntary agreement with the White House this week vowing to implement safeguards. It\u2019s unclear how much that matters.",
     "url": "https://www.wired.com/story/trumps-ai-safety-accord-is-a-fancy-pinky-swear/",
+    "date": "2026-10-05"
+  },
+  {
+    "title": "Command-line tool quickly removes Apple Intelligence from macOS 27",
+    "source": "Ars Technica",
+    "summary": "The tool can free up over 12GB of storage.",
+    "url": "https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/",
     "date": "2026-10-05"
   },
   {
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "OpenAI is seeking another $30 billion privately as its IPO plans slip.",
     "url": "https://arstechnica.com/ai/2026/09/openai-delays-ipo-over-ai-safety-concerns/",
-    "date": "2026-10-05"
-  },
-  {
-    "title": "Protests against OpenAI get increasingly creative",
-    "source": "Ars Technica",
-    "summary": "New sculpture depicts AI leaders escaping a sinking ship.",
-    "url": "https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/",
     "date": "2026-10-05"
   }
 ]
