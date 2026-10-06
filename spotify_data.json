@@ -94,6 +94,16 @@
   "episodes": [
     {
       "id": "a]6z Pod_0",
+      "name": "Building Defense for the Agentic Era: Kevin Mandia",
+      "show": "a]6z Podcast",
+      "description": "a16z General Partner David George sits down with Armadin founder and CEO Kevin Mandia to discuss what happens to cybersecurity when attackers can operate at machine speed.After 30 years in s",
+      "release_date": "2026-10-06",
+      "duration_min": 49,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
+      "id": "a]6z Pod_1",
       "name": "The Top 100 Consumer AI Apps: Who’s Actually Paying?",
       "show": "a]6z Podcast",
       "description": "a16z Editorial Partner Elena Burger sits down with investing partners Olivia Moore and Josh Elman to unpack the seventh edition of a16z’s Top 100 Consumer AI Apps, including a new dimension this ti",
@@ -103,22 +113,12 @@
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "David George & Jack Altman on AI, Autonomy, and the Next $25 Trillion",
       "show": "a]6z Podcast",
       "description": "a16z General Partner David George joins Jack Altman on <i>Uncapped</i> to make the case that many of the biggest debates in AI are framed the wrong way. Frontier models or open source? Labs or appl",
       "release_date": "2026-10-04",
       "duration_min": 55,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
-    },
-    {
-      "id": "a]6z Pod_2",
-      "name": "Beyond the God Model | Alex Atallah & Amjad Masad",
-      "show": "a]6z Podcast",
-      "description": "A16z’s Erik Torenberg sits down with OpenRouter’s Alex Atallah and Replit founder and CEO Amjad Masad to discuss why the future of AI may look less like one all-purpose model and more like an ecosy",
-      "release_date": "2026-10-03",
-      "duration_min": 48,
       "image": "",
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
