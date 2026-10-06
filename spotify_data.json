@@ -93,6 +93,16 @@
   ],
   "episodes": [
     {
+      "id": "The TWIM_0",
+      "name": "Why Jev Is Changing How We Build With AI with Diogo Almeida - #779",
+      "show": "The TWIML AI Podcast",
+      "description": "In this episode, Diogo Almeida, co-founder and CEO of TypeSafe, joins us to discuss Jev, TypeSafe’s recently released model for bringing fast, reliable intelligence directly into software. We explore ",
+      "release_date": "2026-10-06",
+      "duration_min": 90,
+      "image": "",
+      "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
+    },
+    {
       "id": "a]6z Pod_0",
       "name": "Building Defense for the Agentic Era: Kevin Mandia",
       "show": "a]6z Podcast",
@@ -153,7 +163,7 @@
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
-      "id": "The TWIM_0",
+      "id": "The TWIM_1",
       "name": "From Math Olympiads to Navier-Stokes: How Fast Is AI Progressing? with Greg Burnham - #778",
       "show": "The TWIML AI Podcast",
       "description": "AI systems have gone from struggling with grade-school math to helping solve research problems that have resisted mathematicians for decades, including Navier-Stokes.\n\nIn this episode, Greg Burnham, w",
@@ -203,22 +213,12 @@
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
-      "id": "The TWIM_1",
+      "id": "The TWIM_2",
       "name": "From Voice Agents to AI Avatars with Alexander Smola - #777",
       "show": "The TWIML AI Podcast",
       "description": "Voice AI has gotten remarkably good, but natural conversation remains a high bar. Small delays, awkward interruptions, or the wrong tone can quickly break the illusion—and adding vision and visual pre",
       "release_date": "2026-09-17",
       "duration_min": 64,
-      "image": "",
-      "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
-    },
-    {
-      "id": "The TWIM_2",
-      "name": "Do AI Tokenomics Matter More Than Model Benchmarks? with Chris Potts - #776",
-      "show": "The TWIML AI Podcast",
-      "description": "As reasoning models consume more tokens and AI systems become more expensive to run, understanding what those tokens actually buy is becoming increasingly important. In this episode, Stanford professo",
-      "release_date": "2026-09-09",
-      "duration_min": 59,
       "image": "",
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
     },

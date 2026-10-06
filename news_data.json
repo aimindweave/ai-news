@@ -1,5 +1,33 @@
 [
   {
+    "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+    "source": "TechCrunch",
+    "summary": "The startup crossed over $1 million in anualized revenue within two months of its post-pivot launch.",
+    "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+    "date": "2026-10-06"
+  },
+  {
+    "title": "How AI decision models could change content moderation",
+    "source": "TechCrunch",
+    "summary": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
+    "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+    "date": "2026-10-06"
+  },
+  {
+    "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+    "source": "TechCrunch",
+    "summary": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
+    "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+    "date": "2026-10-06"
+  },
+  {
+    "title": "The next hurdle for AI agents: getting websites to let them in",
+    "source": "TechCrunch",
+    "summary": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help.",
+    "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+    "date": "2026-10-06"
+  },
+  {
     "title": "Hark releases an AI personal assistant with a focus on privacy",
     "source": "TechCrunch",
     "summary": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.",
@@ -74,34 +102,6 @@
     "source": "TechCrunch",
     "summary": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
     "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
-    "date": "2026-10-06"
-  },
-  {
-    "title": "Hot Girl Hotline is like \u2018Dear Abby\u2019 for the AI era",
-    "source": "TechCrunch",
-    "summary": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency.",
-    "url": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
-    "date": "2026-10-06"
-  },
-  {
-    "title": "HackerRank\u2019s AI interviewer offers a glimpse into what job interviews could become",
-    "source": "TechCrunch",
-    "summary": "HackerRank\u2019s AI interviewer has already conducted more than 500,000 interviews, with Snowflake, Snorkel, and Capgemini among its early testers.",
-    "url": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
-    "date": "2026-10-06"
-  },
-  {
-    "title": "OpenAI launches visual ads that appear alongside image generation results",
-    "source": "TechCrunch",
-    "summary": "The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of advertisers.",
-    "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
-    "date": "2026-10-06"
-  },
-  {
-    "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
-    "source": "TechCrunch",
-    "summary": "Learn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Register now to save up to $100 and get a second pass at 50% off.",
-    "url": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
     "date": "2026-10-06"
   },
   {
@@ -245,6 +245,13 @@
     "date": "2026-10-06"
   },
   {
+    "title": "OpenAI will watermark ChatGPT outputs by default\u2014but only in the EU",
+    "source": "Ars Technica",
+    "summary": "Like other solutions, it is not especially reliable, and it's easy to circumvent.",
+    "url": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/",
+    "date": "2026-10-06"
+  },
+  {
     "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
     "source": "Ars Technica",
     "summary": "The reports of OpenAI agents harming third-party sites keep coming.",
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "OpenAI makes others suffer 'the harms of its unsafe decision-making,' nonprofit says.",
     "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack/",
-    "date": "2026-10-06"
-  },
-  {
-    "title": "Google's early attempt to pay websites for AI answers is struggling",
-    "source": "Ars Technica",
-    "summary": "Many sites see just one-tenth of one percent of their advertising revenue from AI payments.",
-    "url": "https://arstechnica.com/google/2026/09/google-is-paying-100-websites-for-contributions-to-ai-overviews-but-the-amounts-are-tiny/",
     "date": "2026-10-06"
   }
 ]
