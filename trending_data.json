@@ -2,91 +2,91 @@
   {
     "title": "Beam: Reflection's 501B open-weight model",
     "source": "Hacker News",
-    "description": "HN Score: 216 | 59 comments",
+    "description": "HN Score: 385 | 119 comments",
     "url": "https://reflection.ai/blog/introducing-beam",
-    "score": 216,
-    "date": "2026-10-05",
-    "category": "AI News"
-  },
-  {
-    "title": "Dust: Pretraining Transformers Without Backpropagation",
-    "source": "Hacker News",
-    "description": "HN Score: 39 | 2 comments",
-    "url": "https://qlabs.sh/research/dust",
-    "score": 39,
-    "date": "2026-10-05",
+    "score": 385,
+    "date": "2026-10-06",
     "category": "AI News"
   },
   {
     "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
     "source": "Hacker News",
-    "description": "HN Score: 120 | 101 comments",
+    "description": "HN Score: 280 | 189 comments",
     "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-    "score": 120,
-    "date": "2026-10-05",
+    "score": 280,
+    "date": "2026-10-06",
+    "category": "AI News"
+  },
+  {
+    "title": "Dust: Pretraining Transformers Without Backpropagation",
+    "source": "Hacker News",
+    "description": "HN Score: 146 | 33 comments",
+    "url": "https://qlabs.sh/research/dust",
+    "score": 146,
+    "date": "2026-10-06",
+    "category": "AI News"
+  },
+  {
+    "title": "An algorithmic failure beneath the secret ballot",
+    "source": "Hacker News",
+    "description": "HN Score: 60 | 20 comments",
+    "url": "https://blog.citp.princeton.edu/2026/08/03/an-algorithmic-failure-beneath-the-secret-ballot/",
+    "score": 60,
+    "date": "2026-10-06",
     "category": "AI News"
   },
   {
     "title": "Anthropic reported diary entry to police, woman faces felony charge",
     "source": "Hacker News",
-    "description": "HN Score: 422 | 348 comments",
+    "description": "HN Score: 651 | 511 comments",
     "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-    "score": 422,
-    "date": "2026-10-05",
+    "score": 651,
+    "date": "2026-10-06",
+    "category": "AI News"
+  },
+  {
+    "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+    "source": "Hacker News",
+    "description": "HN Score: 367 | 266 comments",
+    "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
+    "score": 367,
+    "date": "2026-10-06",
     "category": "AI News"
   },
   {
     "title": "Linux containers in 500 lines of code (2016)",
     "source": "Hacker News",
-    "description": "HN Score: 81 | 17 comments",
+    "description": "HN Score: 112 | 22 comments",
     "url": "https://blog.lizzie.io/linux-containers-in-500-loc.html",
-    "score": 81,
-    "date": "2026-10-05",
+    "score": 112,
+    "date": "2026-10-06",
+    "category": "AI News"
+  },
+  {
+    "title": "AI tutoring with Khanmigo in a two-year school experiment",
+    "source": "Hacker News",
+    "description": "HN Score: 59 | 50 comments",
+    "url": "https://edworkingpapers.com/ai26-1551",
+    "score": 59,
+    "date": "2026-10-06",
+    "category": "AI News"
+  },
+  {
+    "title": "The AI boom is making the cheapest smartphones disappear",
+    "source": "Hacker News",
+    "description": "HN Score: 9 | 2 comments",
+    "url": "https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide/",
+    "score": 9,
+    "date": "2026-10-06",
     "category": "AI News"
   },
   {
     "title": "Martian chaos terrain",
     "source": "Hacker News",
-    "description": "HN Score: 93 | 25 comments",
+    "description": "HN Score: 101 | 26 comments",
     "url": "https://en.wikipedia.org/wiki/Martian_chaos_terrain",
-    "score": 93,
-    "date": "2026-10-05",
-    "category": "AI News"
-  },
-  {
-    "title": "Plain text is still one of the best technologies we have",
-    "source": "Hacker News",
-    "description": "HN Score: 165 | 80 comments",
-    "url": "https://deadparrotbbs.com/why-plain-text-is-still-one-of-the-best-technologies-we-have/",
-    "score": 165,
-    "date": "2026-10-05",
-    "category": "AI News"
-  },
-  {
-    "title": "ExplainDB: A Database System Built for Understandability",
-    "source": "Hacker News",
-    "description": "HN Score: 69 | 9 comments",
-    "url": "https://github.com/explaindb/explaindb",
-    "score": 69,
-    "date": "2026-10-05",
-    "category": "AI News"
-  },
-  {
-    "title": "OpenAI 'rogue' agent activities found on Wikimedia projects",
-    "source": "Hacker News",
-    "description": "HN Score: 245 | 177 comments",
-    "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/",
-    "score": 245,
-    "date": "2026-10-05",
-    "category": "AI News"
-  },
-  {
-    "title": "Show HN: Pumpkins.sh \u2013 claim, carve, and display a pumpkin to the world",
-    "source": "Hacker News",
-    "description": "HN Score: 14 | 3 comments",
-    "url": "https://pumpkins.sh/",
-    "score": 14,
-    "date": "2026-10-05",
+    "score": 101,
+    "date": "2026-10-06",
     "category": "AI News"
   }
 ]
