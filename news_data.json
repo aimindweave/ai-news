@@ -1,5 +1,61 @@
 [
   {
+    "title": "Pretend you\u2019re sitting at Elizabeth Holmes\u2019 desk on this weirdly detailed website",
+    "source": "TechCrunch",
+    "summary": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk.",
+    "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+    "source": "TechCrunch",
+    "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company\u2019s AI safety culture.",
+    "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+    "source": "TechCrunch",
+    "summary": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star.",
+    "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+    "source": "TechCrunch",
+    "summary": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
+    "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "OpenAI\u2019s revenue is reportedly $20 billion less than previously projected",
+    "source": "TechCrunch",
+    "summary": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
+    "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "Google brings agentic AI to Gemini, starting with businesses",
+    "source": "TechCrunch",
+    "summary": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identity, complete with an email address.",
+    "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "Anthropic changes usage policy to ban model abuse and election interference",
+    "source": "TechCrunch",
+    "summary": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, deceptive campaigns, weapons software, and surveillance.",
+    "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "OpenAI\u2019s math solutions aren\u2019t meeting the field\u2019s standards yet",
+    "source": "TechCrunch",
+    "summary": "OpenAI's flood of proofs deviated from the guidelines set by a group of mathematical researchers consulted by the frontier lab.",
+    "url": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
+    "date": "2026-10-08"
+  },
+  {
     "title": "Natura\u2019s $99 smart ring puts AI agents on your finger",
     "source": "TechCrunch",
     "summary": "Natura\u2019s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices \u2014 while doubling as a health tracker.",
@@ -46,62 +102,6 @@
     "source": "TechCrunch",
     "summary": "Boyu Capital and IDG Capital led the funding round, and existing shareholders Tencent, HSG (formerly known as Sequoia China), ZhenFund, and others also participated.",
     "url": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
-    "date": "2026-10-08"
-  },
-  {
-    "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
-    "source": "TechCrunch",
-    "summary": "The developer of Hermes Agent raised a $90 million Series B.",
-    "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
-    "date": "2026-10-08"
-  },
-  {
-    "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
-    "source": "TechCrunch",
-    "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
-    "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
-    "date": "2026-10-08"
-  },
-  {
-    "title": "Meta\u2019s Muse launches on iPad just a month after its mobile debut",
-    "source": "TechCrunch",
-    "summary": "Meta\u2019s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant\u2019s reach and integrations.",
-    "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
-    "date": "2026-10-08"
-  },
-  {
-    "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
-    "source": "TechCrunch",
-    "summary": "ChatGPT\u2019s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships with the AI itself.",
-    "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
-    "date": "2026-10-08"
-  },
-  {
-    "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
-    "source": "TechCrunch",
-    "summary": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.",
-    "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
-    "date": "2026-10-08"
-  },
-  {
-    "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
-    "source": "TechCrunch",
-    "summary": "Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online.",
-    "url": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
-    "date": "2026-10-08"
-  },
-  {
-    "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
-    "source": "TechCrunch",
-    "summary": "The financing includes an $8M seed round co-led by Sequoia Capital and First Round Capital, and a $30 million Series A led by Hummingbird Ventures.",
-    "url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
-    "date": "2026-10-08"
-  },
-  {
-    "title": "Tony Fadell on why the first wave of AI gadgets failed \u2014 and what comes next",
-    "source": "TechCrunch",
-    "summary": "The \u201cfather of the iPod\u201d says the first generation of AI gadgets failed to solve real problems \u2014 and the next wave will need to earn consumers\u2019 trust.",
-    "url": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/",
     "date": "2026-10-08"
   },
   {
@@ -175,6 +175,20 @@
     "date": "2026-10-08"
   },
   {
+    "title": "Inside Elon Musk\u2019s Midterm Spending Spree",
+    "source": "Wired",
+    "summary": "This week on \u201cUncanny Valley,\u201d we discuss where Elon Musk\u2019s PAC is spending millions, the latest ideology Trump claims is dangerous, and the backlash against the designer behind Muse\u2019s logo.",
+    "url": "https://www.wired.com/story/uncanny-valley-podcast-inside-elon-musks-midterm-spending-spree/",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "She Designed Meta\u2019s New AI Logo. Then Came the Hate",
+    "source": "Wired",
+    "summary": "Jessica Hische knew working for Meta might upset some people. But she didn\u2019t anticipate just how angry they would get.",
+    "url": "https://www.wired.com/story/she-designed-metas-new-ai-logo-then-came-the-hate/",
+    "date": "2026-10-08"
+  },
+  {
     "title": "Tristan Harris\u2019 Tech Nonprofit Is Laying Off Most Staff and Going \u2018Founder-Led\u2019",
     "source": "Wired",
     "summary": "The Center for Humane Technology helped spark a movement against excessive screen time, but internal tensions over its direction and strategy have simmered for years, sources tell WIRED.",
@@ -228,20 +242,6 @@
     "source": "Wired",
     "summary": "\u201cThere\u2019s a perception of mobster behavior\u201d from leading AI companies, one mathematician tells WIRED as OpenAI prepares to release more than 100 new solutions to unsolved problems.",
     "url": "https://www.wired.com/story/openai-is-pissing-off-a-bunch-of-mathematicians-again/",
-    "date": "2026-10-08"
-  },
-  {
-    "title": "Mistral Says Its New AI Model \u2018Le Chonk\u2019 Is the Best Open-Weight Offering Outside of China",
-    "source": "Wired",
-    "summary": "With the release of its new trillion-parameter model, Mistral is hoping to demonstrate it\u2019s \u201cstill in the race\u201d to build frontier-level artificial intelligence.",
-    "url": "https://www.wired.com/story/mistral-new-model-le-chonk-open-source-china-us-frontier/",
-    "date": "2026-10-08"
-  },
-  {
-    "title": "Kevin Roose Didn\u2019t Use AI to Write His Book About AI",
-    "source": "Wired",
-    "summary": "The author of The AGI Chronicles says his book \u201cwas written by a very tired, overworked, under-slept human being.\u201d",
-    "url": "https://www.wired.com/story/the-big-interview-podcast-kevin-roose/",
     "date": "2026-10-08"
   },
   {
