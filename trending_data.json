@@ -1,82 +1,91 @@
 [
   {
-    "title": "Let your AI agents paint big arrows, boxes and text on your screen",
+    "title": "I Pointed AI at 400 Years of Archives. It Found a Forgotten Meteorites and More",
     "source": "Hacker News",
-    "description": "HN Score: 118 | 41 comments",
+    "description": "HN Score: 32 | 11 comments",
+    "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
+    "score": 32,
+    "date": "2026-10-09",
+    "category": "AI News"
+  },
+  {
+    "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
+    "source": "Hacker News",
+    "description": "HN Score: 320 | 139 comments",
     "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-    "score": 118,
+    "score": 320,
+    "date": "2026-10-09",
+    "category": "AI News"
+  },
+  {
+    "title": "Typesafe AI raises $870M at $7.5B",
+    "source": "Hacker News",
+    "description": "HN Score: 76 | 49 comments",
+    "url": "https://typesafe.ai/blog/series-ai",
+    "score": 76,
+    "date": "2026-10-09",
+    "category": "AI News"
+  },
+  {
+    "title": "Training Text-to-Image Models Without a VAE",
+    "source": "Hacker News",
+    "description": "HN Score: 24 | 8 comments",
+    "url": "https://www.linum.ai/field-notes/pyramid-jit",
+    "score": 24,
+    "date": "2026-10-09",
+    "category": "AI News"
+  },
+  {
+    "title": "Microsoft-Decision-1, our model for fast decision-making",
+    "source": "Hacker News",
+    "description": "HN Score: 14 | 2 comments",
+    "url": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry/",
+    "score": 14,
     "date": "2026-10-09",
     "category": "AI News"
   },
   {
     "title": "OpenAI fires three safety researchers for 'mishandling research information'",
     "source": "Hacker News",
-    "description": "HN Score: 68 | 31 comments",
+    "description": "HN Score: 250 | 159 comments",
     "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-    "score": 68,
+    "score": 250,
     "date": "2026-10-09",
     "category": "AI News"
   },
   {
     "title": "OpenAI, the Partition Principle, and Mathematics",
     "source": "Hacker News",
-    "description": "HN Score: 142 | 222 comments",
+    "description": "HN Score: 187 | 284 comments",
     "url": "https://karagila.org/2026/openai-pp/",
-    "score": 142,
+    "score": 187,
     "date": "2026-10-09",
     "category": "AI News"
   },
   {
-    "title": "AI-ready biological data: $1.8B global commitment",
+    "title": "Iranian campaign planted fake articles in real U.S. publications using ChatGPT",
     "source": "Hacker News",
-    "description": "HN Score: 133 | 19 comments",
-    "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
-    "score": 133,
-    "date": "2026-10-09",
-    "category": "AI News"
-  },
-  {
-    "title": "OpenAI withdraws three mathematical results",
-    "source": "Hacker News",
-    "description": "HN Score: 336 | 584 comments",
-    "url": "https://twitter.com/danintheory/status/2108065033070789090",
-    "score": 336,
+    "description": "HN Score: 166 | 146 comments",
+    "url": "https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/",
+    "score": 166,
     "date": "2026-10-09",
     "category": "AI News"
   },
   {
     "title": "I think I found a planet nobody knew existed. I used Claude Code to find it",
     "source": "Hacker News",
-    "description": "HN Score: 216 | 101 comments",
+    "description": "HN Score: 253 | 124 comments",
     "url": "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
-    "score": 216,
+    "score": 253,
     "date": "2026-10-09",
     "category": "AI News"
   },
   {
-    "title": "Show HN: Jevman \u2013 AI decision models play Pac-Man",
+    "title": "AI-ready biological data: $1.8B global commitment",
     "source": "Hacker News",
-    "description": "HN Score: 65 | 16 comments",
-    "url": "https://opper.ai/jevman-benchmark/",
-    "score": 65,
-    "date": "2026-10-09",
-    "category": "AI News"
-  },
-  {
-    "title": "Sharing AI progress in mathematics",
-    "source": "Hacker News",
-    "description": "HN Score: 1329 | 1512 comments",
-    "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
-    "score": 1329,
-    "date": "2026-10-09",
-    "category": "AI News"
-  },
-  {
-    "title": "Sub-1-Bit LLM Compression via Latent Factorization",
-    "source": "Hacker News",
-    "description": "HN Score: 86 | 24 comments",
-    "url": "https://github.com/SamsungLabs/LittleBit",
-    "score": 86,
+    "description": "HN Score: 142 | 20 comments",
+    "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
+    "score": 142,
     "date": "2026-10-09",
     "category": "AI News"
   }
