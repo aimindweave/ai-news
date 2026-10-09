@@ -1,91 +1,82 @@
 [
   {
-    "title": "AI-ready biological data: $1.8B global commitment",
+    "title": "Let your AI agents paint big arrows, boxes and text on your screen",
     "source": "Hacker News",
-    "description": "HN Score: 102 | 14 comments",
-    "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
-    "score": 102,
+    "description": "HN Score: 118 | 41 comments",
+    "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+    "score": 118,
     "date": "2026-10-09",
     "category": "AI News"
   },
   {
-    "title": "Show HN: Jevman \u2013 AI decision models play Pac-Man",
+    "title": "OpenAI fires three safety researchers for 'mishandling research information'",
     "source": "Hacker News",
-    "description": "HN Score: 51 | 10 comments",
-    "url": "https://opper.ai/jevman-benchmark/",
-    "score": 51,
+    "description": "HN Score: 68 | 31 comments",
+    "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+    "score": 68,
+    "date": "2026-10-09",
+    "category": "AI News"
+  },
+  {
+    "title": "OpenAI, the Partition Principle, and Mathematics",
+    "source": "Hacker News",
+    "description": "HN Score: 142 | 222 comments",
+    "url": "https://karagila.org/2026/openai-pp/",
+    "score": 142,
+    "date": "2026-10-09",
+    "category": "AI News"
+  },
+  {
+    "title": "AI-ready biological data: $1.8B global commitment",
+    "source": "Hacker News",
+    "description": "HN Score: 133 | 19 comments",
+    "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
+    "score": 133,
     "date": "2026-10-09",
     "category": "AI News"
   },
   {
     "title": "OpenAI withdraws three mathematical results",
     "source": "Hacker News",
-    "description": "HN Score: 273 | 556 comments",
+    "description": "HN Score: 336 | 584 comments",
     "url": "https://twitter.com/danintheory/status/2108065033070789090",
-    "score": 273,
+    "score": 336,
     "date": "2026-10-09",
     "category": "AI News"
   },
   {
     "title": "I think I found a planet nobody knew existed. I used Claude Code to find it",
     "source": "Hacker News",
-    "description": "HN Score: 129 | 56 comments",
+    "description": "HN Score: 216 | 101 comments",
     "url": "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
-    "score": 129,
+    "score": 216,
     "date": "2026-10-09",
     "category": "AI News"
   },
   {
-    "title": "Show HN: TerrainSR \u2013 fast, realistic heightmap upscaling model",
+    "title": "Show HN: Jevman \u2013 AI decision models play Pac-Man",
     "source": "Hacker News",
-    "description": "HN Score: 33 | 7 comments",
-    "url": "https://huggingface.co/joe-gibbs/terrainsr",
-    "score": 33,
-    "date": "2026-10-09",
-    "category": "AI News"
-  },
-  {
-    "title": "Show HN: Pocketty \u2013 iPhone SSH terminal that pings you when an agent is blocked",
-    "source": "Hacker News",
-    "description": "HN Score: 27 | 13 comments",
-    "url": "https://pocketty.app/",
-    "score": 27,
-    "date": "2026-10-09",
-    "category": "AI News"
-  },
-  {
-    "title": "OpenAI annualised revenues $20B less than previously signalled",
-    "source": "Hacker News",
-    "description": "HN Score: 373 | 247 comments",
-    "url": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
-    "score": 373,
+    "description": "HN Score: 65 | 16 comments",
+    "url": "https://opper.ai/jevman-benchmark/",
+    "score": 65,
     "date": "2026-10-09",
     "category": "AI News"
   },
   {
     "title": "Sharing AI progress in mathematics",
     "source": "Hacker News",
-    "description": "HN Score: 1324 | 1507 comments",
+    "description": "HN Score: 1329 | 1512 comments",
     "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
-    "score": 1324,
+    "score": 1329,
     "date": "2026-10-09",
     "category": "AI News"
   },
   {
     "title": "Sub-1-Bit LLM Compression via Latent Factorization",
     "source": "Hacker News",
-    "description": "HN Score: 80 | 23 comments",
+    "description": "HN Score: 86 | 24 comments",
     "url": "https://github.com/SamsungLabs/LittleBit",
-    "score": 80,
-    "date": "2026-10-09",
-    "category": "AI News"
-  },
-  {
-    "title": "Show HN: Edi Life OS \u2013 self-hosted life dashboard with an MCP server for AI",
-    "source": "Hacker News",
-    "description": "HN Score: 31 | 9 comments",
-    "url": "https://github.com/edrisranjbar/lifeos",
-    "score": 31,
+    "score": 86,
     "date": "2026-10-09",
     "category": "AI News"
   }

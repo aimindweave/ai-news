@@ -93,6 +93,26 @@
   ],
   "episodes": [
     {
+      "id": "Hard For_0",
+      "name": "Anthropic’s Quest to Give A.I. Morals",
+      "show": "Hard Fork",
+      "description": "This week, Max Read talks to the Times religion correspondent Elizabeth Dias, the tech reporter Erin Griffith and the opinion writer David Wallace-Wells about Anthropic’s private meetings with reli",
+      "release_date": "2026-10-09",
+      "duration_min": 44,
+      "image": "",
+      "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
+    },
+    {
+      "id": "a]6z Pod_0",
+      "name": "Chips, Memory, and Power | Pat Gelsinger",
+      "show": "a]6z Podcast",
+      "description": "a16z's Raghu Raghuram and Guido Appenzeller sit down with Playground Global General Partner and former Intel CEO Pat Gelsinger to discuss the next wave of semiconductor innovation and the physical ",
+      "release_date": "2026-10-09",
+      "duration_min": 54,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
       "id": "Practica_0",
       "name": "Narrative intelligence and the human advantage",
       "show": "Practical AI",
@@ -103,7 +123,7 @@
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
-      "id": "a]6z Pod_0",
+      "id": "a]6z Pod_1",
       "name": "Building the Cloud for an Agentic World | AWS CEO Matt Garman",
       "show": "a]6z Podcast",
       "description": "a16z’s Raghu Raghuram sits down with AWS CEO Matt Garman to discuss how AI is reshaping the cloud, from the needs of AI-native startups to infrastructure increasingly designed for agents.Mat",
@@ -113,7 +133,7 @@
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "How Valon Rebuilt a $13 Trillion Industry From Scratch",
       "show": "a]6z Podcast",
       "description": "a16z General Partner Angela Strange sits down with Valon’s Andrew Wang and Linda Du to unpack what it takes to rebuild the infrastructure underneath a $13 trillion mortgage market that still relies",
@@ -133,17 +153,7 @@
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
     },
     {
-      "id": "a]6z Pod_2",
-      "name": "Building Defense for the Agentic Era: Kevin Mandia",
-      "show": "a]6z Podcast",
-      "description": "a16z General Partner David George sits down with Armadin founder and CEO Kevin Mandia to discuss what happens to cybersecurity when attackers can operate at machine speed.After 30 years in s",
-      "release_date": "2026-10-06",
-      "duration_min": 49,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
-    },
-    {
-      "id": "Hard For_0",
+      "id": "Hard For_1",
       "name": "A.I. Agents: Cute, Cuddly and Maybe Catastrophically Dangerous?",
       "show": "Hard Fork",
       "description": "This week, after months in which rogue agents have caused havoc across the internet, tech’s most powerful leaders joined President Trump at the White House to rebrand A.I. At the same time, two of ",
@@ -153,7 +163,7 @@
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
-      "id": "Hard For_1",
+      "id": "Hard For_2",
       "name": "What’s Next for ‘Hard Fork’?",
       "show": "Hard Fork",
       "description": "For the next few months on “Hard Fork,” join the guest host Max Read and an array of Times reporters and experts as we zoom out, catch up and try to understand both what’s happening inside the tech",
@@ -181,16 +191,6 @@
       "duration_min": 67,
       "image": "",
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
-    },
-    {
-      "id": "Hard For_2",
-      "name": "The Ezra Klein Show: Jensen Huang Thinks A.I. Alarmism Has Gone Too Far",
-      "show": "Hard Fork",
-      "description": "In this episode, Ezra travels to Nvidia’s headquarters in Santa Clara, Calif., for a wide-ranging conversation with the chief executive Jensen Huang about the future of A.I. and why he thinks predi",
-      "release_date": "2026-09-25",
-      "duration_min": 108,
-      "image": "",
-      "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
       "id": "Practica_2",
