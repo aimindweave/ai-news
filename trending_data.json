@@ -1,92 +1,92 @@
 [
   {
-    "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
-    "source": "Hacker News",
-    "description": "HN Score: 94 | 46 comments",
-    "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
-    "score": 94,
-    "date": "2026-10-09",
-    "category": "AI News"
-  },
-  {
     "title": "Typesafe AI raises $870M at $7.5B",
     "source": "Hacker News",
-    "description": "HN Score: 234 | 199 comments",
+    "description": "HN Score: 323 | 235 comments",
     "url": "https://typesafe.ai/blog/series-ai",
-    "score": 234,
-    "date": "2026-10-09",
+    "score": 323,
+    "date": "2026-10-10",
     "category": "AI News"
   },
   {
-    "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
+    "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
     "source": "Hacker News",
-    "description": "HN Score: 363 | 161 comments",
-    "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-    "score": 363,
-    "date": "2026-10-09",
+    "description": "HN Score: 130 | 69 comments",
+    "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
+    "score": 130,
+    "date": "2026-10-10",
     "category": "AI News"
   },
   {
-    "title": "Microsoft-Decision-1, our model for fast decision-making",
+    "title": "Anthropic AI model submits false tip on unsolved Philly murder",
     "source": "Hacker News",
-    "description": "HN Score: 124 | 47 comments",
-    "url": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry/",
-    "score": 124,
-    "date": "2026-10-09",
-    "category": "AI News"
-  },
-  {
-    "title": "OpenAI mistranslated mathematics into code for its Navier-Stokes proof",
-    "source": "Hacker News",
-    "description": "HN Score: 26 | 2 comments",
-    "url": "https://www.newscientist.com/article/2592824-openai-mistranslated-mathematics-into-code-for-its-navier-stokes-proof/",
-    "score": 26,
-    "date": "2026-10-09",
-    "category": "AI News"
-  },
-  {
-    "title": "Training Text-to-Image Models Without a VAE",
-    "source": "Hacker News",
-    "description": "HN Score: 45 | 14 comments",
-    "url": "https://www.linum.ai/field-notes/pyramid-jit",
-    "score": 45,
-    "date": "2026-10-09",
+    "description": "HN Score: 120 | 96 comments",
+    "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
+    "score": 120,
+    "date": "2026-10-10",
     "category": "AI News"
   },
   {
     "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
     "source": "Hacker News",
-    "description": "HN Score: 19 | 1 comments",
+    "description": "HN Score: 69 | 13 comments",
     "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
-    "score": 19,
-    "date": "2026-10-09",
+    "score": 69,
+    "date": "2026-10-10",
+    "category": "AI News"
+  },
+  {
+    "title": "Rewriting Prime Agent in Rust",
+    "source": "Hacker News",
+    "description": "HN Score: 39 | 13 comments",
+    "url": "https://www.primeintellect.ai/blog/prime-agent-rust",
+    "score": 39,
+    "date": "2026-10-10",
+    "category": "AI News"
+  },
+  {
+    "title": "Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website",
+    "source": "Hacker News",
+    "description": "HN Score: 16 | 6 comments",
+    "url": "https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html",
+    "score": 16,
+    "date": "2026-10-10",
+    "category": "AI News"
+  },
+  {
+    "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
+    "source": "Hacker News",
+    "description": "HN Score: 391 | 171 comments",
+    "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+    "score": 391,
+    "date": "2026-10-10",
+    "category": "AI News"
+  },
+  {
+    "title": "Microsoft-Decision-1, our model for fast decision-making",
+    "source": "Hacker News",
+    "description": "HN Score: 173 | 56 comments",
+    "url": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry/",
+    "score": 173,
+    "date": "2026-10-10",
     "category": "AI News"
   },
   {
     "title": "OpenAI fires three safety researchers for 'mishandling research information'",
     "source": "Hacker News",
-    "description": "HN Score: 306 | 200 comments",
+    "description": "HN Score: 326 | 208 comments",
     "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-    "score": 306,
-    "date": "2026-10-09",
+    "score": 326,
+    "date": "2026-10-10",
     "category": "AI News"
   },
   {
-    "title": "Why are coding agents so dumb?",
+    "title": "Training Text-to-Image Models Without a VAE",
     "source": "Hacker News",
-    "description": "HN Score: 70 | 56 comments",
-    "url": "https://mtlynch.io/why-are-coding-agents-so-dumb/",
-    "score": 70,
-    "date": "2026-10-09",
-    "category": "AI News"
-  },
-  {
-    "title": "Tanker attacks in Strait of Hormuz surge to wartime high, Iran tries choking oil",
-    "source": "Hacker News",
-    "description": "HN Score: 18 | 4 comments",
-    "url": "https://www.cnbc.com/2026/10/09/iran-war-strait-hormuz-tanker-attack-oil.html",
-    "score": 18,
-    "date": "2026-10-09",
+    "description": "HN Score: 49 | 19 comments",
+    "url": "https://www.linum.ai/field-notes/pyramid-jit",
+    "score": 49,
+    "date": "2026-10-10",
     "category": "AI News"
   }
 ]
