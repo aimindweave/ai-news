@@ -1,91 +1,91 @@
 [
   {
+    "title": "I paid people to try and follow my README",
+    "source": "Hacker News",
+    "description": "HN Score: 35 | 16 comments",
+    "url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
+    "score": 35,
+    "date": "2026-10-11",
+    "category": "AI News"
+  },
+  {
+    "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+    "source": "Hacker News",
+    "description": "HN Score: 1 | 0 comments",
+    "url": "https://jobs.ashbyhq.com/weave-os",
+    "score": 1,
+    "date": "2026-10-11",
+    "category": "AI News"
+  },
+  {
+    "title": "AI is creating a 'human premium' for art created by people",
+    "source": "Hacker News",
+    "description": "HN Score: 28 | 22 comments",
+    "url": "https://www.bbc.com/news/articles/c5vgjm3gk7rzo",
+    "score": 28,
+    "date": "2026-10-11",
+    "category": "AI News"
+  },
+  {
     "title": "Build your own decision model",
     "source": "Hacker News",
-    "description": "HN Score: 184 | 36 comments",
+    "description": "HN Score: 349 | 79 comments",
     "url": "https://nishtahir.com/build-your-own-decision-model/",
-    "score": 184,
+    "score": 349,
     "date": "2026-10-11",
     "category": "AI News"
   },
   {
     "title": "Retrofitting language models to operate over bytes",
     "source": "Hacker News",
-    "description": "HN Score: 34 | 3 comments",
+    "description": "HN Score: 72 | 12 comments",
     "url": "https://www.nature.com/articles/s41586-026-11111-4",
-    "score": 34,
-    "date": "2026-10-11",
-    "category": "AI News"
-  },
-  {
-    "title": "AI agents in a stand-up call",
-    "source": "Hacker News",
-    "description": "HN Score: 3 | 0 comments",
-    "url": "https://atoll92.github.io/agent-standup/",
-    "score": 3,
-    "date": "2026-10-11",
-    "category": "AI News"
-  },
-  {
-    "title": "Talorys \u2013 A self-hosted personal AI agent on Cloudflare's free tier",
-    "source": "Hacker News",
-    "description": "HN Score: 270 | 124 comments",
-    "url": "https://github.com/rociiu/talorys",
-    "score": 270,
-    "date": "2026-10-11",
-    "category": "AI News"
-  },
-  {
-    "title": "Satya Nadella says we should assume all AI models are 'compromised'",
-    "source": "Hacker News",
-    "description": "HN Score: 31 | 39 comments",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-    "score": 31,
-    "date": "2026-10-11",
-    "category": "AI News"
-  },
-  {
-    "title": "Mxc: Microsoft Execution Containers version 1.0.0",
-    "source": "Hacker News",
-    "description": "HN Score: 175 | 40 comments",
-    "url": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
-    "score": 175,
-    "date": "2026-10-11",
-    "category": "AI News"
-  },
-  {
-    "title": "Veda: The First Agentic Hobby Operating System",
-    "source": "Hacker News",
-    "description": "HN Score: 39 | 9 comments",
-    "url": "https://github.com/vahmoh25/Veda",
-    "score": 39,
-    "date": "2026-10-11",
-    "category": "AI News"
-  },
-  {
-    "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-    "source": "Hacker News",
-    "description": "HN Score: 66 | 50 comments",
-    "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
-    "score": 66,
+    "score": 72,
     "date": "2026-10-11",
     "category": "AI News"
   },
   {
     "title": "Five months treating bugs like patients and coding agents like a medical team",
     "source": "Hacker News",
-    "description": "HN Score: 99 | 43 comments",
+    "description": "HN Score: 153 | 63 comments",
     "url": "https://www.cockroachlabs.com/blog/experiment-running-hospital-code/",
-    "score": 99,
+    "score": 153,
     "date": "2026-10-11",
     "category": "AI News"
   },
   {
-    "title": "Grieving the loss of details",
+    "title": "Talorys \u2013 A self-hosted personal AI agent on Cloudflare's free tier",
     "source": "Hacker News",
-    "description": "HN Score: 387 | 304 comments",
-    "url": "https://purplesyringa.moe/blog/grieving-the-loss-of-details/",
-    "score": 387,
+    "description": "HN Score: 301 | 137 comments",
+    "url": "https://github.com/rociiu/talorys",
+    "score": 301,
+    "date": "2026-10-11",
+    "category": "AI News"
+  },
+  {
+    "title": "Mxc: Microsoft Execution Containers version 1.0.0",
+    "source": "Hacker News",
+    "description": "HN Score: 197 | 58 comments",
+    "url": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
+    "score": 197,
+    "date": "2026-10-11",
+    "category": "AI News"
+  },
+  {
+    "title": "OpenSCAD the Programmers Solid 3D CAD Modeller",
+    "source": "Hacker News",
+    "description": "HN Score: 157 | 120 comments",
+    "url": "https://openscad.org/",
+    "score": 157,
+    "date": "2026-10-11",
+    "category": "AI News"
+  },
+  {
+    "title": "Food processing influences metabolism and brain activity",
+    "source": "Hacker News",
+    "description": "HN Score: 166 | 133 comments",
+    "url": "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html",
+    "score": 166,
     "date": "2026-10-11",
     "category": "AI News"
   }
