@@ -1,15 +1,50 @@
 [
   {
+    "title": "Meta releases its first frontier model, Muse Wonder",
+    "source": "TechCrunch",
+    "summary": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
+    "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+    "date": "2026-10-12"
+  },
+  {
+    "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+    "source": "TechCrunch",
+    "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
+    "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+    "date": "2026-10-12"
+  },
+  {
+    "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+    "source": "TechCrunch",
+    "summary": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
+    "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+    "date": "2026-10-12"
+  },
+  {
+    "title": "Microsoft president says UK is best placed to drive AI regulation",
+    "source": "TechCrunch",
+    "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+    "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+    "date": "2026-10-12"
+  },
+  {
+    "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+    "source": "TechCrunch",
+    "summary": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
+    "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+    "date": "2026-10-12"
+  },
+  {
     "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
     "source": "TechCrunch",
-    "summary": "Tomorrow at 8 a.m. PT, it all begins. 10,000+ founders, investors, and tech operators will gather at San Francisco\u2019s Moscone West for TechCrunch Disrupt 2026 for three days of ideas, connections, and startups shaping what comes next. This is your last 24 hours to secure ticket savings of up to $1...",
+    "summary": "Tomorrow at 8 a.m. PT, it all begins z\u2014 10,000+ founders, investors, and tech operators will gather at San Francisco\u2019s Moscone West for TechCrunch Disrupt 2026 for three days of ideas, connections, and startups shaping what comes next. This is your last 24 hours to secure ticket savings of up to ...",
     "url": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
     "date": "2026-10-12"
   },
   {
     "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
     "source": "TechCrunch",
-    "summary": "Ambi is releasing apps for iPhone, Mac, and Apple Watch that enables ambient capture",
+    "summary": "One of the core promises of AI is that the more it knows about a person, the better it will be able to assist them with tasks and make appropriate suggestions, which, if you'll believe the tech companies, requires apps and devices to listen, watch, or record users' activity all the time and gathe...",
     "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
     "date": "2026-10-12"
   },
@@ -37,7 +72,7 @@
   {
     "title": "These execs think voice AI hasn\u2019t reached its ChatGPT moment yet",
     "source": "TechCrunch",
-    "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+    "summary": "Voice AI often misses important points for its context layer, and causes the whole pipeline to break.",
     "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
     "date": "2026-10-12"
   },
@@ -67,41 +102,6 @@
     "source": "TechCrunch",
     "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
     "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
-    "date": "2026-10-12"
-  },
-  {
-    "title": "Anthropic can\u2019t reliably control its AI agents. It\u2019s cutting off its internal evals from the live internet instead",
-    "source": "TechCrunch",
-    "summary": "Anthropic said it 'turned off live internet access' for 'all our internal evaluations' until further notice.",
-    "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-    "date": "2026-10-12"
-  },
-  {
-    "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-    "source": "TechCrunch",
-    "summary": "What has users and large corporations so excited about Jev is TypeSafe\u2019s claim that it works significantly faster and uses far fewer tokens than LLMs.",
-    "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
-    "date": "2026-10-12"
-  },
-  {
-    "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-    "source": "TechCrunch",
-    "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
-    "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
-    "date": "2026-10-12"
-  },
-  {
-    "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
-    "source": "TechCrunch",
-    "summary": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from N...",
-    "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
-    "date": "2026-10-12"
-  },
-  {
-    "title": "Amazon drops data center NDAs, and AI agents want your credit card",
-    "source": "TechCrunch",
-    "summary": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from N...",
-    "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
     "date": "2026-10-12"
   },
   {
@@ -175,6 +175,20 @@
     "date": "2026-10-12"
   },
   {
+    "title": "Elon Musk Bragged About His Grok Lego Star Wars Haul. Then X Users Punked Him",
+    "source": "Wired",
+    "summary": "Musk, we find your lack of security disturbing.",
+    "url": "https://www.wired.com/story/elon-musk-bragged-about-his-grok-lego-star-wars-haul-then-x-users-punked-him/",
+    "date": "2026-10-12"
+  },
+  {
+    "title": "Muse Wonder Puts Meta Back at the AI Frontier",
+    "source": "Wired",
+    "summary": "Meta\u2019s biggest model rivals the world\u2019s best\u2014and includes new features to keep agents from going off the rails.",
+    "url": "https://www.wired.com/story/muse-wonder-puts-meta-back-at-the-ai-frontier/",
+    "date": "2026-10-12"
+  },
+  {
     "title": "I Made Terrible Games With Google\u2019s AI Playground",
     "source": "Wired",
     "summary": "A long day\u2019s haul in the video game slop mines.",
@@ -231,17 +245,24 @@
     "date": "2026-10-12"
   },
   {
-    "title": "The New ChatGPT Is More Show Than Tell",
-    "source": "Wired",
-    "summary": "OpenAI is updating ChatGPT for all users with an \u201cIntelligent UI\u201d that\u2019s more visual\u2014generating interactive elements as part of the chatbot\u2019s outputs.",
-    "url": "https://www.wired.com/story/openai-chatgpt-intelligent-ui-is-more-show-than-tell/",
+    "title": "Epic Games reportedly pivoting to 'AI first' game development model",
+    "source": "Ars Technica",
+    "summary": "'No more hand-written code' or AI-free art for delayed Marvel/Star Wars shooter.",
+    "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
     "date": "2026-10-12"
   },
   {
-    "title": "The Pentagon Hopes to Speed Up \u2018Kill Chain\u2019 AI Buys With 5-Minute Videos",
-    "source": "Wired",
-    "summary": "The US government\u2019s Tradewinds initiative has made it easier to throw millions of dollars at \u201cnontraditional\u201d defense contractors, including OpenAI, Anthropic, and Google.",
-    "url": "https://www.wired.com/story/the-pentagon-hopes-to-speed-up-kill-chain-ai-buys-with-5-minute-videos/",
+    "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
+    "source": "Ars Technica",
+    "summary": "\u201cI may have information regarding this case,' Claude AI told Philly police.",
+    "url": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
+    "date": "2026-10-12"
+  },
+  {
+    "title": "Russia was not ready for the data center war it started with Ukraine",
+    "source": "Ars Technica",
+    "summary": "Russian bloggers warn Russia\u2019s hyper-centralized digital economy is vulnerable.",
+    "url": "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/",
     "date": "2026-10-12"
   },
   {
@@ -326,27 +347,6 @@
     "source": "Ars Technica",
     "summary": "The reports of OpenAI agents harming third-party sites keep coming.",
     "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
-    "date": "2026-10-12"
-  },
-  {
-    "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
-    "source": "Ars Technica",
-    "summary": "Trust gaps in the new protocol spread malicious prompts from one agent to another.",
-    "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
-    "date": "2026-10-12"
-  },
-  {
-    "title": "Command-line tool quickly removes Apple Intelligence from macOS 27",
-    "source": "Ars Technica",
-    "summary": "The tool can free up over 12GB of storage.",
-    "url": "https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/",
-    "date": "2026-10-12"
-  },
-  {
-    "title": "AI glasses face their first major government crackdown",
-    "source": "Ars Technica",
-    "summary": "Norway wants time to write permanent rules for glasses that can record bystanders.",
-    "url": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/",
     "date": "2026-10-12"
   }
 ]

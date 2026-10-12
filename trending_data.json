@@ -1,73 +1,91 @@
 [
   {
-    "title": "Why aren't AI companies being charged for hacking?",
+    "title": "AI Is a Tool. Using It Well Takes Skill.",
     "source": "Hacker News",
-    "description": "HN Score: 53 | 13 comments",
-    "url": "https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/",
-    "score": 53,
+    "description": "HN Score: 108 | 90 comments",
+    "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+    "score": 108,
     "date": "2026-10-12",
     "category": "AI News"
   },
   {
-    "title": "QGIS bans AI assisted contributions",
+    "title": "Launch HN: Agent37 (YC F26) \u2013 Low-cost agent sandboxes for running agents",
     "source": "Hacker News",
-    "description": "HN Score: 257 | 261 comments",
+    "description": "HN Score: 76 | 55 comments",
+    "url": "https://news.ycombinator.com/item?id=50059096",
+    "score": 76,
+    "date": "2026-10-12",
+    "category": "AI News"
+  },
+  {
+    "title": "AI coding agents generate more code, but not more software",
+    "source": "Hacker News",
+    "description": "HN Score: 282 | 234 comments",
+    "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+    "score": 282,
+    "date": "2026-10-12",
+    "category": "AI News"
+  },
+  {
+    "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
+    "source": "Hacker News",
+    "description": "HN Score: 109 | 32 comments",
+    "url": "https://taylor.town/kk-ai-2026",
+    "score": 109,
+    "date": "2026-10-12",
+    "category": "AI News"
+  },
+  {
+    "title": "'AI' Is Not a Tool by Rich Hickey",
+    "source": "Hacker News",
+    "description": "HN Score: 142 | 67 comments",
+    "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
+    "score": 142,
+    "date": "2026-10-12",
+    "category": "AI News"
+  },
+  {
+    "title": "Show HN: Atticus \u2013 Hold-to-talk voice assistant for macOS that runs on Claude -p",
+    "source": "Hacker News",
+    "description": "HN Score: 48 | 5 comments",
+    "url": "https://github.com/SaarthurR/atticus-mac",
+    "score": 48,
+    "date": "2026-10-12",
+    "category": "AI News"
+  },
+  {
+    "title": "QGIS enacts moratorium on AI contributions",
+    "source": "Hacker News",
+    "description": "HN Score: 359 | 391 comments",
     "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
-    "score": 257,
+    "score": 359,
     "date": "2026-10-12",
     "category": "AI News"
   },
   {
-    "title": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+    "title": "The CEO's of Broadcom and Intel Say the Quiet Part Out Loud about AI and ROI",
     "source": "Hacker News",
-    "description": "HN Score: 221 | 164 comments",
-    "url": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
-    "score": 221,
+    "description": "HN Score: 6 | 0 comments",
+    "url": "https://wolfstreet.com/2026/10/12/ceos-of-broadcom-intel-say-the-quiet-part-out-loud-about-ai-and-roi/",
+    "score": 6,
     "date": "2026-10-12",
     "category": "AI News"
   },
   {
-    "title": "The gap in shared understanding of LLM capability is widening",
+    "title": "Reverse engineer anything with agents, from app behavior down to native binaries",
     "source": "Hacker News",
-    "description": "HN Score: 572 | 812 comments",
-    "url": "https://twitter.com/karpathy/status/2109361546505966046",
-    "score": 572,
+    "description": "HN Score: 76 | 25 comments",
+    "url": "https://github.com/morluto/rea",
+    "score": 76,
     "date": "2026-10-12",
     "category": "AI News"
   },
   {
-    "title": "AI less regulated than milk, Microsoft president says in warning over safety",
+    "title": "Epic Games tells employees to use AI to get Disney game done",
     "source": "Hacker News",
-    "description": "HN Score: 11 | 6 comments",
-    "url": "https://www.theguardian.com/technology/2026/oct/12/ai-less-regulated-than-milk-microsoft-president-calls-for-tougher-rules",
-    "score": 11,
-    "date": "2026-10-12",
-    "category": "AI News"
-  },
-  {
-    "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
-    "source": "Hacker News",
-    "description": "HN Score: 1 | 0 comments",
-    "url": "https://jobs.ashbyhq.com/weave-os",
-    "score": 1,
-    "date": "2026-10-12",
-    "category": "AI News"
-  },
-  {
-    "title": "Using AI for just 10 minutes erodes your ability to persist at hard things",
-    "source": "Hacker News",
-    "description": "HN Score: 132 | 124 comments",
-    "url": "https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things",
-    "score": 132,
-    "date": "2026-10-12",
-    "category": "AI News"
-  },
-  {
-    "title": "French supermarket chains say cyberattack forced refrigerator shutdown",
-    "source": "Hacker News",
-    "description": "HN Score: 12 | 3 comments",
-    "url": "https://www.france24.com/en/live-news/20261012-french-supermarket-chains-say-cyberattack-forced-refrigerator-shutdown",
-    "score": 12,
+    "description": "HN Score: 69 | 45 comments",
+    "url": "https://www.avclub.com/epic-games-disney-ai-delay",
+    "score": 69,
     "date": "2026-10-12",
     "category": "AI News"
   }
