@@ -1,10 +1,46 @@
 [
   {
+    "title": "Why aren't AI companies being charged for hacking?",
+    "source": "Hacker News",
+    "description": "HN Score: 53 | 13 comments",
+    "url": "https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/",
+    "score": 53,
+    "date": "2026-10-12",
+    "category": "AI News"
+  },
+  {
+    "title": "QGIS bans AI assisted contributions",
+    "source": "Hacker News",
+    "description": "HN Score: 257 | 261 comments",
+    "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+    "score": 257,
+    "date": "2026-10-12",
+    "category": "AI News"
+  },
+  {
+    "title": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+    "source": "Hacker News",
+    "description": "HN Score: 221 | 164 comments",
+    "url": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
+    "score": 221,
+    "date": "2026-10-12",
+    "category": "AI News"
+  },
+  {
     "title": "The gap in shared understanding of LLM capability is widening",
     "source": "Hacker News",
-    "description": "HN Score: 356 | 520 comments",
+    "description": "HN Score: 572 | 812 comments",
     "url": "https://twitter.com/karpathy/status/2109361546505966046",
-    "score": 356,
+    "score": 572,
+    "date": "2026-10-12",
+    "category": "AI News"
+  },
+  {
+    "title": "AI less regulated than milk, Microsoft president says in warning over safety",
+    "source": "Hacker News",
+    "description": "HN Score: 11 | 6 comments",
+    "url": "https://www.theguardian.com/technology/2026/oct/12/ai-less-regulated-than-milk-microsoft-president-calls-for-tougher-rules",
+    "score": 11,
     "date": "2026-10-12",
     "category": "AI News"
   },
@@ -18,38 +54,20 @@
     "category": "AI News"
   },
   {
-    "title": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
+    "title": "Using AI for just 10 minutes erodes your ability to persist at hard things",
     "source": "Hacker News",
-    "description": "HN Score: 14 | 2 comments",
-    "url": "https://github.com/plimsollmark/plimsoll",
-    "score": 14,
+    "description": "HN Score: 132 | 124 comments",
+    "url": "https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things",
+    "score": 132,
     "date": "2026-10-12",
     "category": "AI News"
   },
   {
-    "title": "I paid people to try and follow my README",
+    "title": "French supermarket chains say cyberattack forced refrigerator shutdown",
     "source": "Hacker News",
-    "description": "HN Score: 381 | 190 comments",
-    "url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
-    "score": 381,
-    "date": "2026-10-12",
-    "category": "AI News"
-  },
-  {
-    "title": "Show HN: BraiNOTES, handwritten notes on your lecture PDFs in a browser tab",
-    "source": "Hacker News",
-    "description": "HN Score: 22 | 1 comments",
-    "url": "https://github.com/swimmingbrain/brainotes",
-    "score": 22,
-    "date": "2026-10-12",
-    "category": "AI News"
-  },
-  {
-    "title": "500B tokens later: Letting AI agents decompile a first-person shooter",
-    "source": "Hacker News",
-    "description": "HN Score: 187 | 137 comments",
-    "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
-    "score": 187,
+    "description": "HN Score: 12 | 3 comments",
+    "url": "https://www.france24.com/en/live-news/20261012-french-supermarket-chains-say-cyberattack-forced-refrigerator-shutdown",
+    "score": 12,
     "date": "2026-10-12",
     "category": "AI News"
   }

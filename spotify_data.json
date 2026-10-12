@@ -94,6 +94,16 @@
   "episodes": [
     {
       "id": "a]6z Pod_0",
+      "name": "The Race to Recursive Self-Improving AI",
+      "show": "a]6z Podcast",
+      "description": "a16z General Partner Martin Casado sits down with MakerMaker.AI co-founders Dhaval Adjodah and Owen He to unpack recursive self-improvement, or RSI, and separate the increasingly popular term from ",
+      "release_date": "2026-10-12",
+      "duration_min": 33,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
+      "id": "a]6z Pod_1",
       "name": "Nick Bostrom: How Should We Navigate Superintelligence?",
       "show": "a]6z Podcast",
       "description": "Nick Bostrom joins Theo Jaffee and Sofia Puccini on MTS to revisit the ideas about superintelligence and existential risk that he helped bring into the mainstream, now that increasingly capable AI ",
@@ -103,7 +113,7 @@
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "What Makes a Great Entrepreneur? | Ben Horowitz on Vintage x Vintage",
       "show": "a]6z Podcast",
       "description": "<strong>a16z co-founder and General Partner Ben Horowitz joins James Norman on the inaugural episode of </strong><i><strong>Vintage x Vintage</strong></i><strong> for a conversation spanning entrep",
@@ -121,16 +131,6 @@
       "duration_min": 44,
       "image": "",
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
-    },
-    {
-      "id": "a]6z Pod_2",
-      "name": "Chips, Memory, and Power | Pat Gelsinger",
-      "show": "a]6z Podcast",
-      "description": "a16z's Raghu Raghuram and Guido Appenzeller sit down with Playground Global General Partner and former Intel CEO Pat Gelsinger to discuss the next wave of semiconductor innovation and the physical ",
-      "release_date": "2026-10-09",
-      "duration_min": 54,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
       "id": "Practica_0",
