@@ -2,19 +2,10 @@
   {
     "title": "The gap in shared understanding of LLM capability is widening",
     "source": "Hacker News",
-    "description": "HN Score: 158 | 222 comments",
+    "description": "HN Score: 356 | 520 comments",
     "url": "https://twitter.com/karpathy/status/2109361546505966046",
-    "score": 158,
-    "date": "2026-10-11",
-    "category": "AI News"
-  },
-  {
-    "title": "500B tokens later: Letting AI agents decompile a first-person shooter",
-    "source": "Hacker News",
-    "description": "HN Score: 134 | 101 comments",
-    "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
-    "score": 134,
-    "date": "2026-10-11",
+    "score": 356,
+    "date": "2026-10-12",
     "category": "AI News"
   },
   {
@@ -23,52 +14,43 @@
     "description": "HN Score: 1 | 0 comments",
     "url": "https://jobs.ashbyhq.com/weave-os",
     "score": 1,
-    "date": "2026-10-11",
+    "date": "2026-10-12",
+    "category": "AI News"
+  },
+  {
+    "title": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
+    "source": "Hacker News",
+    "description": "HN Score: 14 | 2 comments",
+    "url": "https://github.com/plimsollmark/plimsoll",
+    "score": 14,
+    "date": "2026-10-12",
     "category": "AI News"
   },
   {
     "title": "I paid people to try and follow my README",
     "source": "Hacker News",
-    "description": "HN Score: 360 | 186 comments",
+    "description": "HN Score: 381 | 190 comments",
     "url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
-    "score": 360,
-    "date": "2026-10-11",
+    "score": 381,
+    "date": "2026-10-12",
     "category": "AI News"
   },
   {
-    "title": "Plumbers, chains, and famous painters: The history of the pipe operator in R",
+    "title": "Show HN: BraiNOTES, handwritten notes on your lecture PDFs in a browser tab",
     "source": "Hacker News",
-    "description": "HN Score: 54 | 3 comments",
-    "url": "http://adolfoalvarez.cl/blog/2021-09-16-plumbers-chains-and-famous-painters-the-history-of-the-pipe-operator-in-r/",
-    "score": 54,
-    "date": "2026-10-11",
+    "description": "HN Score: 22 | 1 comments",
+    "url": "https://github.com/swimmingbrain/brainotes",
+    "score": 22,
+    "date": "2026-10-12",
     "category": "AI News"
   },
   {
-    "title": "Calculate your p[DOOM], An interactive article to think critically about AI risk",
+    "title": "500B tokens later: Letting AI agents decompile a first-person shooter",
     "source": "Hacker News",
-    "description": "HN Score: 4 | 8 comments",
-    "url": "https://jesserichardson78.medium.com/calculate-your-probability-of-doom-6bd18de3e0e4",
-    "score": 4,
-    "date": "2026-10-11",
-    "category": "AI News"
-  },
-  {
-    "title": "Using AI for just 10 minutes erodes your ability to persist at hard things",
-    "source": "Hacker News",
-    "description": "HN Score: 67 | 73 comments",
-    "url": "https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things",
-    "score": 67,
-    "date": "2026-10-11",
-    "category": "AI News"
-  },
-  {
-    "title": "There's No 'Going Back': On the receding horizons of the AI transition",
-    "source": "Hacker News",
-    "description": "HN Score: 9 | 0 comments",
-    "url": "https://thelastwave.substack.com/p/theres-no-going-back",
-    "score": 9,
-    "date": "2026-10-11",
+    "description": "HN Score: 187 | 137 comments",
+    "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
+    "score": 187,
+    "date": "2026-10-12",
     "category": "AI News"
   }
 ]
