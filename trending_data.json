@@ -1,92 +1,92 @@
 [
   {
-    "title": "AI Is a Tool. Using It Well Takes Skill.",
+    "title": "AI Models Can Provably Hide Arbitrary Capabilities",
     "source": "Hacker News",
-    "description": "HN Score: 108 | 90 comments",
+    "description": "HN Score: 114 | 56 comments",
+    "url": "https://arxiv.org/abs/2610.13928",
+    "score": 114,
+    "date": "2026-10-13",
+    "category": "AI News"
+  },
+  {
+    "title": "Intel D270 GPU AI Accelerator\u2013Up to 480 GB LPDDR5X",
+    "source": "Hacker News",
+    "description": "HN Score: 154 | 68 comments",
+    "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+    "score": 154,
+    "date": "2026-10-13",
+    "category": "AI News"
+  },
+  {
+    "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+    "source": "Hacker News",
+    "description": "HN Score: 92 | 31 comments",
+    "url": "https://github.com/prabanta-dev/janas",
+    "score": 92,
+    "date": "2026-10-13",
+    "category": "AI News"
+  },
+  {
+    "title": "AI is a tool and using it well takes skill",
+    "source": "Hacker News",
+    "description": "HN Score: 329 | 274 comments",
     "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
-    "score": 108,
-    "date": "2026-10-12",
+    "score": 329,
+    "date": "2026-10-13",
     "category": "AI News"
   },
   {
     "title": "Launch HN: Agent37 (YC F26) \u2013 Low-cost agent sandboxes for running agents",
     "source": "Hacker News",
-    "description": "HN Score: 76 | 55 comments",
+    "description": "HN Score: 126 | 84 comments",
     "url": "https://news.ycombinator.com/item?id=50059096",
-    "score": 76,
-    "date": "2026-10-12",
+    "score": 126,
+    "date": "2026-10-13",
     "category": "AI News"
   },
   {
-    "title": "AI coding agents generate more code, but not more software",
+    "title": "Threat of AI share crash puts world financial stability at risk, says IMF",
     "source": "Hacker News",
-    "description": "HN Score: 282 | 234 comments",
-    "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
-    "score": 282,
-    "date": "2026-10-12",
+    "description": "HN Score: 8 | 3 comments",
+    "url": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
+    "score": 8,
+    "date": "2026-10-13",
     "category": "AI News"
   },
   {
     "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
     "source": "Hacker News",
-    "description": "HN Score: 109 | 32 comments",
+    "description": "HN Score: 172 | 63 comments",
     "url": "https://taylor.town/kk-ai-2026",
-    "score": 109,
-    "date": "2026-10-12",
+    "score": 172,
+    "date": "2026-10-13",
     "category": "AI News"
   },
   {
-    "title": "'AI' Is Not a Tool by Rich Hickey",
+    "title": "A look at OpenAI\u2019s math that\u2019s claimed computes faster Fourier transforms",
     "source": "Hacker News",
-    "description": "HN Score: 142 | 67 comments",
-    "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
-    "score": 142,
-    "date": "2026-10-12",
+    "description": "HN Score: 85 | 60 comments",
+    "url": "https://www.argmin.net/p/faster-fourier-transforms",
+    "score": 85,
+    "date": "2026-10-13",
     "category": "AI News"
   },
   {
     "title": "Show HN: Atticus \u2013 Hold-to-talk voice assistant for macOS that runs on Claude -p",
     "source": "Hacker News",
-    "description": "HN Score: 48 | 5 comments",
+    "description": "HN Score: 93 | 17 comments",
     "url": "https://github.com/SaarthurR/atticus-mac",
-    "score": 48,
-    "date": "2026-10-12",
+    "score": 93,
+    "date": "2026-10-13",
     "category": "AI News"
   },
   {
-    "title": "QGIS enacts moratorium on AI contributions",
+    "title": "'AI' Is Not a Tool by Rich Hickey",
     "source": "Hacker News",
-    "description": "HN Score: 359 | 391 comments",
-    "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
-    "score": 359,
-    "date": "2026-10-12",
-    "category": "AI News"
-  },
-  {
-    "title": "The CEO's of Broadcom and Intel Say the Quiet Part Out Loud about AI and ROI",
-    "source": "Hacker News",
-    "description": "HN Score: 6 | 0 comments",
-    "url": "https://wolfstreet.com/2026/10/12/ceos-of-broadcom-intel-say-the-quiet-part-out-loud-about-ai-and-roi/",
-    "score": 6,
-    "date": "2026-10-12",
-    "category": "AI News"
-  },
-  {
-    "title": "Reverse engineer anything with agents, from app behavior down to native binaries",
-    "source": "Hacker News",
-    "description": "HN Score: 76 | 25 comments",
-    "url": "https://github.com/morluto/rea",
-    "score": 76,
-    "date": "2026-10-12",
-    "category": "AI News"
-  },
-  {
-    "title": "Epic Games tells employees to use AI to get Disney game done",
-    "source": "Hacker News",
-    "description": "HN Score: 69 | 45 comments",
-    "url": "https://www.avclub.com/epic-games-disney-ai-delay",
-    "score": 69,
-    "date": "2026-10-12",
+    "description": "HN Score: 254 | 125 comments",
+    "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
+    "score": 254,
+    "date": "2026-10-13",
     "category": "AI News"
   }
 ]
