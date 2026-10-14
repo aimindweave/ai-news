@@ -1,11 +1,29 @@
 [
   {
+    "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+    "source": "Hacker News",
+    "description": "HN Score: 30 | 18 comments",
+    "url": "https://pulseos.finance",
+    "score": 30,
+    "date": "2026-10-14",
+    "category": "AI News"
+  },
+  {
     "title": "Redesigning source control at Anthropic",
     "source": "Hacker News",
-    "description": "HN Score: 346 | 329 comments",
+    "description": "HN Score: 515 | 513 comments",
     "url": "https://www.anthropic.com/engineering/redesigning-source-control",
-    "score": 346,
-    "date": "2026-10-13",
+    "score": 515,
+    "date": "2026-10-14",
+    "category": "AI News"
+  },
+  {
+    "title": "I posted to HN, and then my website was flooded with AI bot traffic",
+    "source": "Hacker News",
+    "description": "HN Score: 238 | 146 comments",
+    "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
+    "score": 238,
+    "date": "2026-10-14",
     "category": "AI News"
   },
   {
@@ -14,79 +32,61 @@
     "description": "HN Score: 1 | 0 comments",
     "url": "https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0",
     "score": 1,
-    "date": "2026-10-13",
+    "date": "2026-10-14",
     "category": "AI News"
   },
   {
-    "title": "I posted to HN, and then my website was flooded with AI bot traffic",
+    "title": "OpenAI engineer arrested in bugging of executive conference room",
     "source": "Hacker News",
-    "description": "HN Score: 187 | 113 comments",
-    "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
-    "score": 187,
-    "date": "2026-10-13",
+    "description": "HN Score: 384 | 347 comments",
+    "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
+    "score": 384,
+    "date": "2026-10-14",
     "category": "AI News"
   },
   {
     "title": "We turned EmbeddingGemma 2 into a speech-to-text model",
     "source": "Hacker News",
-    "description": "HN Score: 359 | 81 comments",
+    "description": "HN Score: 392 | 85 comments",
     "url": "https://eg2.haku.sh/",
-    "score": 359,
-    "date": "2026-10-13",
-    "category": "AI News"
-  },
-  {
-    "title": "Show HN: Parsimony \u2013 an open-source benchmark for how much code AI models add",
-    "source": "Hacker News",
-    "description": "HN Score: 9 | 0 comments",
-    "url": "https://parsimony.lasu.dev/",
-    "score": 9,
-    "date": "2026-10-13",
+    "score": 392,
+    "date": "2026-10-14",
     "category": "AI News"
   },
   {
     "title": "Apple's new 'Switch to Safari' campaign details why you should ditch Chrome",
     "source": "Hacker News",
-    "description": "HN Score: 116 | 182 comments",
+    "description": "HN Score: 181 | 300 comments",
     "url": "https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/",
-    "score": 116,
-    "date": "2026-10-13",
+    "score": 181,
+    "date": "2026-10-14",
     "category": "AI News"
   },
   {
-    "title": "OpenAI finds recording device in one of their offices",
+    "title": "Physical Intelligence API Beta: Frontier Models for Every Robot",
     "source": "Hacker News",
-    "description": "HN Score: 67 | 39 comments",
-    "url": "https://twitter.com/OpenAINewsroom/status/2110095403198849132",
-    "score": 67,
-    "date": "2026-10-13",
+    "description": "HN Score: 22 | 0 comments",
+    "url": "https://www.pi.website/blog/api-beta",
+    "score": 22,
+    "date": "2026-10-14",
     "category": "AI News"
   },
   {
-    "title": "Launch HN: Consus (YC F24) \u2013 LLM gateway for companies handling sensitive data",
+    "title": "Rebuilding the Original Odhner Model 127 Pinwheel Calculator",
     "source": "Hacker News",
-    "description": "HN Score: 29 | 15 comments",
-    "url": "https://news.ycombinator.com/item?id=50073471",
-    "score": 29,
-    "date": "2026-10-13",
+    "description": "HN Score: 6 | 0 comments",
+    "url": "https://www.johnwolff.au/calculators/Tech/OdhnerPinwheel/Odhner127Rebuild.htm",
+    "score": 6,
+    "date": "2026-10-14",
     "category": "AI News"
   },
   {
-    "title": "How to engineer an AI harness for game development",
+    "title": "Show HN: Parsimony \u2013 an open-source benchmark for how much code AI models add",
     "source": "Hacker News",
-    "description": "HN Score: 91 | 36 comments",
-    "url": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code",
-    "score": 91,
-    "date": "2026-10-13",
-    "category": "AI News"
-  },
-  {
-    "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
-    "source": "Hacker News",
-    "description": "HN Score: 241 | 248 comments",
-    "url": "https://blog.character.ai/an-update-on-character-ai/",
-    "score": 241,
-    "date": "2026-10-13",
+    "description": "HN Score: 41 | 3 comments",
+    "url": "https://parsimony.lasu.dev/",
+    "score": 41,
+    "date": "2026-10-14",
     "category": "AI News"
   }
 ]
