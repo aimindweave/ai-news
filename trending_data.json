@@ -1,46 +1,37 @@
 [
   {
+    "title": "TV4 postpones show after AI agent erases edited material",
+    "source": "Hacker News",
+    "description": "HN Score: 40 | 20 comments",
+    "url": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
+    "score": 40,
+    "date": "2026-10-14",
+    "category": "AI News"
+  },
+  {
+    "title": "AI Laser Locking for Quantum Computers: How QuEra Automates It",
+    "source": "Hacker News",
+    "description": "HN Score: 16 | 3 comments",
+    "url": "https://www.quera.com/blog-posts/holding-the-light-teaching-an-ai-to-lock-and-tune-our-quantum-computers-lasers",
+    "score": 16,
+    "date": "2026-10-14",
+    "category": "AI News"
+  },
+  {
     "title": "Redesigning source control at Anthropic",
     "source": "Hacker News",
-    "description": "HN Score: 717 | 698 comments",
+    "description": "HN Score: 820 | 876 comments",
     "url": "https://www.anthropic.com/engineering/redesigning-source-control",
-    "score": 717,
+    "score": 820,
     "date": "2026-10-14",
     "category": "AI News"
   },
   {
-    "title": "I built a tool to track what AI leaders say and how their views change on video",
+    "title": "AI is a tool and using it well takes skill",
     "source": "Hacker News",
-    "description": "HN Score: 80 | 49 comments",
-    "url": "https://blumify.io/people",
-    "score": 80,
-    "date": "2026-10-14",
-    "category": "AI News"
-  },
-  {
-    "title": "Apple's new 'Switch to Safari' campaign details why you should ditch Chrome",
-    "source": "Hacker News",
-    "description": "HN Score: 252 | 420 comments",
-    "url": "https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/",
-    "score": 252,
-    "date": "2026-10-14",
-    "category": "AI News"
-  },
-  {
-    "title": "OpenAI engineer arrested in bugging of executive conference room",
-    "source": "Hacker News",
-    "description": "HN Score: 537 | 449 comments",
-    "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
-    "score": 537,
-    "date": "2026-10-14",
-    "category": "AI News"
-  },
-  {
-    "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
-    "source": "Hacker News",
-    "description": "HN Score: 101 | 55 comments",
-    "url": "https://pulseos.finance",
-    "score": 101,
+    "description": "HN Score: 728 | 563 comments",
+    "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+    "score": 728,
     "date": "2026-10-14",
     "category": "AI News"
   },
@@ -54,38 +45,29 @@
     "category": "AI News"
   },
   {
-    "title": "AI is a tool and using it well takes skill",
+    "title": "OpenAI engineer arrested in bugging of executive conference room",
     "source": "Hacker News",
-    "description": "HN Score: 662 | 529 comments",
-    "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
-    "score": 662,
+    "description": "HN Score: 608 | 506 comments",
+    "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
+    "score": 608,
     "date": "2026-10-14",
     "category": "AI News"
   },
   {
     "title": "How to engineer an AI harness for game development",
     "source": "Hacker News",
-    "description": "HN Score: 146 | 67 comments",
+    "description": "HN Score: 158 | 80 comments",
     "url": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code",
-    "score": 146,
+    "score": 158,
     "date": "2026-10-14",
     "category": "AI News"
   },
   {
     "title": "Show HN: Parsimony \u2013 an open-source benchmark for how much code AI models add",
     "source": "Hacker News",
-    "description": "HN Score: 65 | 12 comments",
+    "description": "HN Score: 71 | 15 comments",
     "url": "https://parsimony.lasu.dev/",
-    "score": 65,
-    "date": "2026-10-14",
-    "category": "AI News"
-  },
-  {
-    "title": "Physical Intelligence API Beta: Frontier Models for Every Robot",
-    "source": "Hacker News",
-    "description": "HN Score: 48 | 4 comments",
-    "url": "https://www.pi.website/blog/api-beta",
-    "score": 48,
+    "score": 71,
     "date": "2026-10-14",
     "category": "AI News"
   }
