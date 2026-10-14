@@ -1,73 +1,91 @@
 [
   {
+    "title": "AI agents aren't 'going rogue.' Frontier labs are skipping security basics",
+    "source": "Hacker News",
+    "description": "HN Score: 138 | 48 comments",
+    "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+    "score": 138,
+    "date": "2026-10-14",
+    "category": "AI News"
+  },
+  {
+    "title": "Neckbeard \u2013 a DevOps/platform/SRE plugin for your agent",
+    "source": "Hacker News",
+    "description": "HN Score: 5 | 0 comments",
+    "url": "https://github.com/bealesh/neckbeard",
+    "score": 5,
+    "date": "2026-10-14",
+    "category": "AI News"
+  },
+  {
+    "title": "Show HN: Graphicle, a Rust port of Graphify with memory for coding agents",
+    "source": "Hacker News",
+    "description": "HN Score: 28 | 6 comments",
+    "url": "https://github.com/graphicle-ai/graphicle",
+    "score": 28,
+    "date": "2026-10-14",
+    "category": "AI News"
+  },
+  {
+    "title": "Linus Torvalds's first LLM-assisted patch series",
+    "source": "Hacker News",
+    "description": "HN Score: 69 | 28 comments",
+    "url": "https://lwn.net/Articles/1100449/",
+    "score": 69,
+    "date": "2026-10-14",
+    "category": "AI News"
+  },
+  {
+    "title": "US report details extent of 'devastating' dating-app scams",
+    "source": "Hacker News",
+    "description": "HN Score: 26 | 12 comments",
+    "url": "https://www.theguardian.com/us-news/2026/oct/14/dating-app-scams-us-congress",
+    "score": 26,
+    "date": "2026-10-14",
+    "category": "AI News"
+  },
+  {
+    "title": "Has AI Tells",
+    "source": "Hacker News",
+    "description": "HN Score: 38 | 33 comments",
+    "url": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1",
+    "score": 38,
+    "date": "2026-10-14",
+    "category": "AI News"
+  },
+  {
     "title": "TV4 postpones show after AI agent erases edited material",
     "source": "Hacker News",
-    "description": "HN Score: 40 | 20 comments",
+    "description": "HN Score: 113 | 67 comments",
     "url": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
-    "score": 40,
+    "score": 113,
     "date": "2026-10-14",
     "category": "AI News"
   },
   {
-    "title": "AI Laser Locking for Quantum Computers: How QuEra Automates It",
+    "title": "Show HN: I wrote an email app that accepts only one sender per inbox",
     "source": "Hacker News",
-    "description": "HN Score: 16 | 3 comments",
-    "url": "https://www.quera.com/blog-posts/holding-the-light-teaching-an-ai-to-lock-and-tune-our-quantum-computers-lasers",
-    "score": 16,
+    "description": "HN Score: 9 | 4 comments",
+    "url": "https://clova.email/",
+    "score": 9,
     "date": "2026-10-14",
     "category": "AI News"
   },
   {
-    "title": "Redesigning source control at Anthropic",
+    "title": "OpenAI claims employee sent secret device information to Apple",
     "source": "Hacker News",
-    "description": "HN Score: 820 | 876 comments",
-    "url": "https://www.anthropic.com/engineering/redesigning-source-control",
-    "score": 820,
+    "description": "HN Score: 12 | 2 comments",
+    "url": "https://www.ft.com/content/18b65495-9e2a-45d6-be85-7641442ab61a",
+    "score": 12,
     "date": "2026-10-14",
     "category": "AI News"
   },
   {
-    "title": "AI is a tool and using it well takes skill",
+    "title": "ASML's strong orders ease fears AI spending boom is running out of steam",
     "source": "Hacker News",
-    "description": "HN Score: 728 | 563 comments",
-    "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
-    "score": 728,
-    "date": "2026-10-14",
-    "category": "AI News"
-  },
-  {
-    "title": "PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery",
-    "source": "Hacker News",
-    "description": "HN Score: 1 | 0 comments",
-    "url": "https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0",
-    "score": 1,
-    "date": "2026-10-14",
-    "category": "AI News"
-  },
-  {
-    "title": "OpenAI engineer arrested in bugging of executive conference room",
-    "source": "Hacker News",
-    "description": "HN Score: 608 | 506 comments",
-    "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
-    "score": 608,
-    "date": "2026-10-14",
-    "category": "AI News"
-  },
-  {
-    "title": "How to engineer an AI harness for game development",
-    "source": "Hacker News",
-    "description": "HN Score: 158 | 80 comments",
-    "url": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code",
-    "score": 158,
-    "date": "2026-10-14",
-    "category": "AI News"
-  },
-  {
-    "title": "Show HN: Parsimony \u2013 an open-source benchmark for how much code AI models add",
-    "source": "Hacker News",
-    "description": "HN Score: 71 | 15 comments",
-    "url": "https://parsimony.lasu.dev/",
-    "score": 71,
+    "description": "HN Score: 149 | 138 comments",
+    "url": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/",
+    "score": 149,
     "date": "2026-10-14",
     "category": "AI News"
   }
