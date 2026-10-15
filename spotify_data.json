@@ -93,7 +93,27 @@
   ],
   "episodes": [
     {
+      "id": "The TWIM_0",
+      "name": "Your Ranking Model Is Optimizing the Wrong Thing with Zoe Weil - #780",
+      "show": "The TWIML AI Podcast",
+      "description": "In this episode, Zoe Weil, co-founder and CEO of Sequen, joins us to discuss how ranking systems can use live behavioral signals to optimize for purchases rather than clicks or search relevance alone.",
+      "release_date": "2026-10-15",
+      "duration_min": 52,
+      "image": "",
+      "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
+    },
+    {
       "id": "a]6z Pod_0",
+      "name": "When AI Agents Start Spending Your Money | Alex Rampell & Terry Angelos",
+      "show": "a]6z Podcast",
+      "description": "a16z General Partner Alex Rampell sits down with VGS Executive Board Member, Terry Angelos, to unpack what happens to payments when AI agents go from recommending what to buy to actually making the",
+      "release_date": "2026-10-15",
+      "duration_min": 51,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
+      "id": "a]6z Pod_1",
       "name": "Can Open Models Keep Up With the AI Frontier? | Nathan Lambert",
       "show": "a]6z Podcast",
       "description": "a16z Partner Lisha Li sits down with AI researcher and Trillium founder Nathan Lambert to ask how durable the gap really is between frontier AI labs and open models.Nathan argues that OpenAI",
@@ -103,22 +123,12 @@
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "Can AI Break Cryptography? What the Experts Actually Think",
       "show": "a]6z Podcast",
       "description": "Could AI break the cryptography protecting everything from crypto wallets and banking to private messages? Recent advances in AI-driven mathematical research have sparked new warnings about the sec",
       "release_date": "2026-10-13",
       "duration_min": 42,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
-    },
-    {
-      "id": "a]6z Pod_2",
-      "name": "The Race to Recursive Self-Improving AI",
-      "show": "a]6z Podcast",
-      "description": "a16z General Partner Martin Casado sits down with MakerMaker.AI co-founders Dhaval Adjodah and Owen He to unpack recursive self-improvement, or RSI, and separate the increasingly popular term from ",
-      "release_date": "2026-10-12",
-      "duration_min": 33,
       "image": "",
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
@@ -143,7 +153,7 @@
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
-      "id": "The TWIM_0",
+      "id": "The TWIM_1",
       "name": "Why Jev Is Changing How We Build With AI with Diogo Almeida - #779",
       "show": "The TWIML AI Podcast",
       "description": "In this episode, Diogo Almeida, co-founder and CEO of TypeSafe, joins us to discuss Jev, TypeSafe’s recently released model for bringing fast, reliable intelligence directly into software. We explore ",
@@ -183,7 +193,7 @@
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
-      "id": "The TWIM_1",
+      "id": "The TWIM_2",
       "name": "From Math Olympiads to Navier-Stokes: How Fast Is AI Progressing? with Greg Burnham - #778",
       "show": "The TWIML AI Podcast",
       "description": "AI systems have gone from struggling with grade-school math to helping solve research problems that have resisted mathematicians for decades, including Navier-Stokes.\n\nIn this episode, Greg Burnham, w",
@@ -211,16 +221,6 @@
       "duration_min": 0,
       "image": "",
       "url": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"
-    },
-    {
-      "id": "The TWIM_2",
-      "name": "From Voice Agents to AI Avatars with Alexander Smola - #777",
-      "show": "The TWIML AI Podcast",
-      "description": "Voice AI has gotten remarkably good, but natural conversation remains a high bar. Small delays, awkward interruptions, or the wrong tone can quickly break the illusion—and adding vision and visual pre",
-      "release_date": "2026-09-17",
-      "duration_min": 64,
-      "image": "",
-      "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
     },
     {
       "id": "Lex Frid_1",

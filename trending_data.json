@@ -2,90 +2,81 @@
   {
     "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
     "source": "Hacker News",
-    "description": "HN Score: 110 | 30 comments",
+    "description": "HN Score: 221 | 51 comments",
     "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
-    "score": 110,
+    "score": 221,
+    "date": "2026-10-15",
+    "category": "AI News"
+  },
+  {
+    "title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
+    "source": "Hacker News",
+    "description": "HN Score: 10 | 12 comments",
+    "url": "https://github.com/awslabs/aidlc-workflows",
+    "score": 10,
     "date": "2026-10-15",
     "category": "AI News"
   },
   {
     "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
     "source": "Hacker News",
-    "description": "HN Score: 854 | 474 comments",
+    "description": "HN Score: 909 | 542 comments",
     "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
-    "score": 854,
+    "score": 909,
     "date": "2026-10-15",
     "category": "AI News"
   },
   {
-    "title": "Banks are now trying to offload the AI data center debt they just underwrote",
+    "title": "Ask HN: CAD for wood working with LLM support?",
     "source": "Hacker News",
-    "description": "HN Score: 330 | 234 comments",
-    "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
-    "score": 330,
-    "date": "2026-10-15",
-    "category": "AI News"
-  },
-  {
-    "title": "Anthropic's Scion is heavily inspired by Mononoke",
-    "source": "Hacker News",
-    "description": "HN Score: 297 | 119 comments",
-    "url": "https://sunshowers.io/posts/anthropic-mononoke/",
-    "score": 297,
+    "description": "HN Score: 82 | 74 comments",
+    "url": "https://news.ycombinator.com/item?id=50067325",
+    "score": 82,
     "date": "2026-10-15",
     "category": "AI News"
   },
   {
     "title": "Has AI tells",
     "source": "Hacker News",
-    "description": "HN Score: 94 | 80 comments",
+    "description": "HN Score: 122 | 105 comments",
     "url": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1",
-    "score": 94,
+    "score": 122,
+    "date": "2026-10-15",
+    "category": "AI News"
+  },
+  {
+    "title": "Anthropic's Scion is heavily inspired by Mononoke",
+    "source": "Hacker News",
+    "description": "HN Score: 376 | 138 comments",
+    "url": "https://sunshowers.io/posts/anthropic-mononoke/",
+    "score": 376,
     "date": "2026-10-15",
     "category": "AI News"
   },
   {
     "title": "Show HN: I wrote an email app that accepts only one sender per inbox",
     "source": "Hacker News",
-    "description": "HN Score: 93 | 70 comments",
+    "description": "HN Score: 102 | 83 comments",
     "url": "https://clova.email/",
-    "score": 93,
+    "score": 102,
     "date": "2026-10-15",
     "category": "AI News"
   },
   {
-    "title": "TV4 postpones show after AI agent erases edited material",
+    "title": "AI was great until it was not",
     "source": "Hacker News",
-    "description": "HN Score: 143 | 84 comments",
-    "url": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
-    "score": 143,
+    "description": "HN Score: 80 | 57 comments",
+    "url": "https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not",
+    "score": 80,
     "date": "2026-10-15",
     "category": "AI News"
   },
   {
-    "title": "How I manage persistent Claude Code loops: Spool",
+    "title": "Claude Code Desktop Vulnerability: Preview Pane Data Exfiltration",
     "source": "Hacker News",
-    "description": "HN Score: 13 | 4 comments",
-    "url": "https://github.com/enes-alatas/spool",
-    "score": 13,
-    "date": "2026-10-15",
-    "category": "AI News"
-  },
-  {
-    "title": "A new model for open source: closed to pull requests, open to remix",
-    "source": "Hacker News",
-    "description": "HN Score: 12 | 10 comments",
-    "url": "https://ghuntley.com/remix/",
-    "score": 12,
-    "date": "2026-10-15",
-    "category": "AI News"
-  },
-  {
-    "title": "Show HN: Graphicle, a Rust port of Graphify with memory for coding agents",
-    "source": "Hacker News",
-    "description": "HN Score: 43 | 12 comments",
-    "url": "https://github.com/graphicle-ai/graphicle",
-    "score": 43,
+    "description": "HN Score: 6 | 0 comments",
+    "url": "https://noma.security/noma-labs/sneakpeek-how-the-preview-pane-in-claude-code-desktop-can-exfiltrate-your-data",
+    "score": 6,
     "date": "2026-10-15",
     "category": "AI News"
   }
