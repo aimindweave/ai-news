@@ -1,5 +1,54 @@
 [
   {
+    "title": "India becomes the latest country to report rogue AI agent activity",
+    "source": "TechCrunch",
+    "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+    "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+    "date": "2026-10-16"
+  },
+  {
+    "title": "An Nvidia insider-turned-VC on why robotics hasn\u2019t hit its ChatGPT moment, yet",
+    "source": "TechCrunch",
+    "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA\u2019s robotics platforms, says robotics is currently in its \u201cLego era,\u201d with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who b...",
+    "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+    "date": "2026-10-16"
+  },
+  {
+    "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+    "source": "TechCrunch",
+    "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA\u2019s robotics platforms, says robotics is currently in its \u201cLego era,\u201d with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who b...",
+    "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+    "date": "2026-10-16"
+  },
+  {
+    "title": "Elorian\u2019s first AI model wants to reason with images, not just about them",
+    "source": "TechCrunch",
+    "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
+    "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+    "date": "2026-10-16"
+  },
+  {
+    "title": "Jev is Vercel\u2019s fastest-adopted AI model ever",
+    "source": "TechCrunch",
+    "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
+    "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+    "date": "2026-10-16"
+  },
+  {
+    "title": "Mark Wahlberg on using AI in film \u2018the right way\u2019 and being open to an AI clone carrying on his legacy",
+    "source": "TechCrunch",
+    "summary": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used 'to enhance what you're doing.'",
+    "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+    "date": "2026-10-16"
+  },
+  {
+    "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
+    "source": "TechCrunch",
+    "summary": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as 'superfakes,' as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods.",
+    "url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
+    "date": "2026-10-16"
+  },
+  {
     "title": "Replit\u2019s CEO says the future of work is the \u2018self-driving company\u2019",
     "source": "TechCrunch",
     "summary": "Replit CEO Amjad Masad envisions a future of \u201cself-driving companies,\u201d where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
@@ -56,55 +105,6 @@
     "date": "2026-10-16"
   },
   {
-    "title": "Google\u2019s Universal Cart shopping tool launches in the US",
-    "source": "TechCrunch",
-    "summary": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
-    "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
-    "date": "2026-10-16"
-  },
-  {
-    "title": "TechCrunch Disrupt 2026: Last day",
-    "source": "TechCrunch",
-    "summary": "Last day to be part of TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights. Save 75% on your pass now.",
-    "url": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
-    "date": "2026-10-16"
-  },
-  {
-    "title": "Amazon\u2019s Bee launches two new personal AI devices, starting at $75",
-    "source": "TechCrunch",
-    "summary": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and integrate with Alexa and Amazon shopping, with prices startin...",
-    "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
-    "date": "2026-10-16"
-  },
-  {
-    "title": "Figma announces new features to define how agents work on its platform",
-    "source": "TechCrunch",
-    "summary": "Figma is also releasing its code layers feature in open beta.",
-    "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
-    "date": "2026-10-16"
-  },
-  {
-    "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
-    "source": "TechCrunch",
-    "summary": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.",
-    "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
-    "date": "2026-10-16"
-  },
-  {
-    "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
-    "source": "TechCrunch",
-    "summary": "Gudea, a company that tracks how stories and rumors spread online that describes itself as the \u201cstorm tracker for the internet,\u201d is using AI to help organizations spot trouble brewing online before it turns into a crisis.",
-    "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
-    "date": "2026-10-16"
-  },
-  {
-    "title": "Flock CEO says its microphones detect \u2018just gunshots\u2019 \u2014 its website says different",
-    "source": "TechCrunch",
-    "summary": "Langley\u2019s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.",
-    "url": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
-    "date": "2026-10-16"
-  },
-  {
     "title": "The Download: failed social media bans, and extending pets\u2019 lives",
     "source": "MIT Tech Review",
     "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Kids are outsmarting social media bans. That\u2019s not a problem we need to solve. \u2014Michal Luria, Aliya Bhatia, and Danah Boyd Social media bans are stacking up. I...",
@@ -114,7 +114,7 @@
   {
     "title": "This implant can restore sight for patients with macular degeneration",
     "source": "MIT Tech Review",
-    "summary": "Age-related macular degeneration (AMD) affects more than 5 million people around the world. And until now, no treatment could restore their vision. The Prima system, which was approved in Europe in July and is awaiting FDA clearance in the US, changes that. It combines a retinal implant with came...",
+    "summary": "Age-related macular degeneration (AMD) affects more than 5 million people around the world. And until now, no treatment could restore their vision. The PRIMA system, which was approved in Europe in July and is awaiting FDA clearance in the US, changes that. It combines a retinal implant with came...",
     "url": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
     "date": "2026-10-16"
   },
@@ -172,6 +172,13 @@
     "source": "MIT Tech Review",
     "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. The US military\u2019s race to make fake blood In February 2007, a US military helicopter carrying blood to a field hospital was shot down in Iraq, killing all seve...",
     "url": "https://www.technologyreview.com/2026/10/14/1146452/the-download-military-fake-blood-future-batteries/",
+    "date": "2026-10-16"
+  },
+  {
+    "title": "Maybe Chatbots Shouldn\u2019t Get to Say \u2018I\u2019 or \u2018Me\u2019",
+    "source": "Wired",
+    "summary": "MIT professor Sherry Turkle warns that people have become dangerously enmeshed with chatbots.",
+    "url": "https://www.wired.com/story/maybe-chatbots-shouldnt-get-to-say-i-or-me/",
     "date": "2026-10-16"
   },
   {
@@ -238,10 +245,17 @@
     "date": "2026-10-16"
   },
   {
-    "title": "Wikipedians Believed AI Would Come and Go. They Were Wrong",
-    "source": "Wired",
-    "summary": "In a world of AI Overviews, Wikipedia usage declines. But the real loss may be far more existential than website traffic.",
-    "url": "https://www.wired.com/story/book-excerpt-the-last-best-place-on-the-internet-wikipedia-artificial-intelligence/",
+    "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
+    "source": "Ars Technica",
+    "summary": "Meta \u201cstreamlined\u201d its commercial TOS. Legal experts warn it\u2019s an AI power grab.",
+    "url": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/",
+    "date": "2026-10-16"
+  },
+  {
+    "title": "Super Scam Me documentary shows what it takes to catch a romance scammer",
+    "source": "Ars Technica",
+    "summary": "Watch an exclusive clip from Super Scam Me where a victim tracks down her scammer.",
+    "url": "https://arstechnica.com/tech-policy/2026/10/romance-scam-doc-super-scam-me-takes-viewers-deep-into-love-bombing-terrain/",
     "date": "2026-10-16"
   },
   {
@@ -333,20 +347,6 @@
     "source": "Ars Technica",
     "summary": "\u201cI may have information regarding this case,' Claude AI told Philly police.",
     "url": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
-    "date": "2026-10-16"
-  },
-  {
-    "title": "Russia was not ready for the data center war it started with Ukraine",
-    "source": "Ars Technica",
-    "summary": "Russian bloggers warn Russia\u2019s hyper-centralized digital economy is vulnerable.",
-    "url": "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/",
-    "date": "2026-10-16"
-  },
-  {
-    "title": "Amazon has over 1 million robot workers. What\u2019s next for human employees?",
-    "source": "Ars Technica",
-    "summary": "The second-largest corporate employer has bet big on robot workers to scale.",
-    "url": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
     "date": "2026-10-16"
   }
 ]
