@@ -1,82 +1,73 @@
 [
   {
-    "title": "AI Can Write the Code. Who Verifies It?",
-    "source": "Hacker News",
-    "description": "HN Score: 24 | 39 comments",
-    "url": "https://mihaisplace.com/blog/ai-can-write-the-code-who-verifies-it",
-    "score": 24,
-    "date": "2026-10-17",
-    "category": "AI News"
-  },
-  {
     "title": "Pele \u2013 Mermaid diagrams as themeable SVG",
     "source": "Hacker News",
-    "description": "HN Score: 72 | 11 comments",
+    "description": "HN Score: 191 | 19 comments",
     "url": "https://pele.run/",
-    "score": 72,
-    "date": "2026-10-17",
-    "category": "AI News"
-  },
-  {
-    "title": "Microsoft and CMU Team Up to Train Early Career Software Engineers",
-    "source": "Hacker News",
-    "description": "HN Score: 10 | 4 comments",
-    "url": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise",
-    "score": 10,
+    "score": 191,
     "date": "2026-10-17",
     "category": "AI News"
   },
   {
     "title": "You could have invented transformers from memory",
     "source": "Hacker News",
-    "description": "HN Score: 448 | 106 comments",
+    "description": "HN Score: 486 | 114 comments",
     "url": "https://alexwang.ai/posts/associative-memory/",
-    "score": 448,
+    "score": 486,
+    "date": "2026-10-17",
+    "category": "AI News"
+  },
+  {
+    "title": "Microsoft and CMU team up to train early career software engineers",
+    "source": "Hacker News",
+    "description": "HN Score: 52 | 60 comments",
+    "url": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise",
+    "score": 52,
     "date": "2026-10-17",
     "category": "AI News"
   },
   {
     "title": "Show HN: Llmspeed \u2013 feel how fast a local LLM runs before you buy the hardware",
     "source": "Hacker News",
-    "description": "HN Score: 217 | 72 comments",
+    "description": "HN Score: 236 | 76 comments",
     "url": "https://llmspeed.dev/",
-    "score": 217,
-    "date": "2026-10-17",
-    "category": "AI News"
-  },
-  {
-    "title": "Tell HN: Remember to migrate away from .name domain",
-    "source": "Hacker News",
-    "description": "HN Score: 117 | 79 comments",
-    "url": "https://news.ycombinator.com/item?id=50089577",
-    "score": 117,
+    "score": 236,
     "date": "2026-10-17",
     "category": "AI News"
   },
   {
     "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
     "source": "Hacker News",
-    "description": "HN Score: 361 | 85 comments",
+    "description": "HN Score: 365 | 84 comments",
     "url": "https://github.com/cobanov/PS5LM",
-    "score": 361,
+    "score": 365,
     "date": "2026-10-17",
     "category": "AI News"
   },
   {
-    "title": "Israel makes propaganda video featuring AI generated IAMDDB without her consent",
+    "title": "Tell HN: Remember to migrate away from .name domain",
     "source": "Hacker News",
-    "description": "HN Score: 14 | 1 comments",
-    "url": "https://twitter.com/beeechimblind/status/2111227318534279501",
-    "score": 14,
+    "description": "HN Score: 129 | 85 comments",
+    "url": "https://news.ycombinator.com/item?id=50089577",
+    "score": 129,
     "date": "2026-10-17",
     "category": "AI News"
   },
   {
     "title": "Claude reveals ECDSA curve origins",
     "source": "Hacker News",
-    "description": "HN Score: 1008 | 372 comments",
+    "description": "HN Score: 1020 | 372 comments",
     "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
-    "score": 1008,
+    "score": 1020,
+    "date": "2026-10-17",
+    "category": "AI News"
+  },
+  {
+    "title": "The math that OpenAI keeps for itself",
+    "source": "Hacker News",
+    "description": "HN Score: 10 | 4 comments",
+    "url": "https://newsletter.danielpaleka.com/p/the-math-that-openai-keeps-for-itself",
+    "score": 10,
     "date": "2026-10-17",
     "category": "AI News"
   }
