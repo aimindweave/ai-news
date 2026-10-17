@@ -1,91 +1,82 @@
 [
   {
-    "title": "Show HN: Llmspeed \u2013 feel how fast a local LLM runs before you buy the hardware",
+    "title": "AI Can Write the Code. Who Verifies It?",
     "source": "Hacker News",
-    "description": "HN Score: 192 | 62 comments",
-    "url": "https://llmspeed.dev/",
-    "score": 192,
+    "description": "HN Score: 24 | 39 comments",
+    "url": "https://mihaisplace.com/blog/ai-can-write-the-code-who-verifies-it",
+    "score": 24,
     "date": "2026-10-17",
     "category": "AI News"
   },
   {
-    "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+    "title": "Pele \u2013 Mermaid diagrams as themeable SVG",
     "source": "Hacker News",
-    "description": "HN Score: 342 | 83 comments",
-    "url": "https://github.com/cobanov/PS5LM",
-    "score": 342,
+    "description": "HN Score: 72 | 11 comments",
+    "url": "https://pele.run/",
+    "score": 72,
+    "date": "2026-10-17",
+    "category": "AI News"
+  },
+  {
+    "title": "Microsoft and CMU Team Up to Train Early Career Software Engineers",
+    "source": "Hacker News",
+    "description": "HN Score: 10 | 4 comments",
+    "url": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise",
+    "score": 10,
     "date": "2026-10-17",
     "category": "AI News"
   },
   {
     "title": "You could have invented transformers from memory",
     "source": "Hacker News",
-    "description": "HN Score: 409 | 98 comments",
+    "description": "HN Score: 448 | 106 comments",
     "url": "https://alexwang.ai/posts/associative-memory/",
-    "score": 409,
+    "score": 448,
+    "date": "2026-10-17",
+    "category": "AI News"
+  },
+  {
+    "title": "Show HN: Llmspeed \u2013 feel how fast a local LLM runs before you buy the hardware",
+    "source": "Hacker News",
+    "description": "HN Score: 217 | 72 comments",
+    "url": "https://llmspeed.dev/",
+    "score": 217,
     "date": "2026-10-17",
     "category": "AI News"
   },
   {
     "title": "Tell HN: Remember to migrate away from .name domain",
     "source": "Hacker News",
-    "description": "HN Score: 87 | 56 comments",
+    "description": "HN Score: 117 | 79 comments",
     "url": "https://news.ycombinator.com/item?id=50089577",
-    "score": 87,
+    "score": 117,
+    "date": "2026-10-17",
+    "category": "AI News"
+  },
+  {
+    "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+    "source": "Hacker News",
+    "description": "HN Score: 361 | 85 comments",
+    "url": "https://github.com/cobanov/PS5LM",
+    "score": 361,
+    "date": "2026-10-17",
+    "category": "AI News"
+  },
+  {
+    "title": "Israel makes propaganda video featuring AI generated IAMDDB without her consent",
+    "source": "Hacker News",
+    "description": "HN Score: 14 | 1 comments",
+    "url": "https://twitter.com/beeechimblind/status/2111227318534279501",
+    "score": 14,
     "date": "2026-10-17",
     "category": "AI News"
   },
   {
     "title": "Claude reveals ECDSA curve origins",
     "source": "Hacker News",
-    "description": "HN Score: 976 | 355 comments",
+    "description": "HN Score: 1008 | 372 comments",
     "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
-    "score": 976,
-    "date": "2026-10-17",
-    "category": "AI News"
-  },
-  {
-    "title": "Designing more efficient quantum circuits with Claude",
-    "source": "Hacker News",
-    "description": "HN Score: 164 | 34 comments",
-    "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
-    "score": 164,
-    "date": "2026-10-17",
-    "category": "AI News"
-  },
-  {
-    "title": "Amazon uses union-busting AI surveillance to monitor union risk in UK warehouses",
-    "source": "Hacker News",
-    "description": "HN Score: 11 | 0 comments",
-    "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/",
-    "score": 11,
-    "date": "2026-10-17",
-    "category": "AI News"
-  },
-  {
-    "title": "Nine-Inch Snails",
-    "source": "Hacker News",
-    "description": "HN Score: 105 | 56 comments",
-    "url": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
-    "score": 105,
-    "date": "2026-10-17",
-    "category": "AI News"
-  },
-  {
-    "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-    "source": "Hacker News",
-    "description": "HN Score: 566 | 508 comments",
-    "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
-    "score": 566,
-    "date": "2026-10-17",
-    "category": "AI News"
-  },
-  {
-    "title": "How the Claude Code team does code review",
-    "source": "Hacker News",
-    "description": "HN Score: 436 | 410 comments",
-    "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
-    "score": 436,
+    "score": 1008,
     "date": "2026-10-17",
     "category": "AI News"
   }
