@@ -94,6 +94,16 @@
   "episodes": [
     {
       "id": "a]6z Pod_0",
+      "name": "Why Real-World AI Is Harder Than the Benchmark | EliseAI’s Mario Martone",
+      "show": "a]6z Podcast",
+      "description": "What changes when an AI mistake doesn’t just hurt a benchmark score, but affects someone’s housing or healthcare? EliseAI Head of Applied Research Mario Martone argues that deploying AI in essentia",
+      "release_date": "2026-10-18",
+      "duration_min": 24,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
+      "id": "a]6z Pod_1",
       "name": "Why AI Could Finally Fix Healthcare Access | Zocdoc CEO Oliver Kharraz",
       "show": "a]6z Podcast",
       "description": "Why is booking a doctor's appointment still so difficult, and can AI finally change that? Zocdoc CEO Oliver Kharraz argues that the real problem isn't finding doctors, but connecting patients to ac",
@@ -113,7 +123,7 @@
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "AI Can Write the Code. Can It Run the System? | Grepr CEO Jad Naous",
       "show": "a]6z Podcast",
       "description": "a16z General Partner Martin Casado sits down with Grepr CEO Jad Naous to ask what comes after AI learns to write code: can it also debug and operate the systems that code creates?Jad shares ",
@@ -141,16 +151,6 @@
       "duration_min": 52,
       "image": "",
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
-    },
-    {
-      "id": "a]6z Pod_2",
-      "name": "When AI Agents Start Spending Your Money | Alex Rampell & Terry Angelos",
-      "show": "a]6z Podcast",
-      "description": "a16z General Partner Alex Rampell sits down with VGS Executive Board Member, Terry Angelos, to unpack what happens to payments when AI agents go from recommending what to buy to actually making the",
-      "release_date": "2026-10-15",
-      "duration_min": 51,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
       "id": "Hard For_1",
