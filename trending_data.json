@@ -2,73 +2,64 @@
   {
     "title": "Pele \u2013 Mermaid diagrams as themeable SVG",
     "source": "Hacker News",
-    "description": "HN Score: 191 | 19 comments",
+    "description": "HN Score: 307 | 27 comments",
     "url": "https://pele.run/",
-    "score": 191,
-    "date": "2026-10-17",
+    "score": 307,
+    "date": "2026-10-18",
     "category": "AI News"
   },
   {
     "title": "You could have invented transformers from memory",
     "source": "Hacker News",
-    "description": "HN Score: 486 | 114 comments",
+    "description": "HN Score: 517 | 120 comments",
     "url": "https://alexwang.ai/posts/associative-memory/",
-    "score": 486,
-    "date": "2026-10-17",
-    "category": "AI News"
-  },
-  {
-    "title": "Microsoft and CMU team up to train early career software engineers",
-    "source": "Hacker News",
-    "description": "HN Score: 52 | 60 comments",
-    "url": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise",
-    "score": 52,
-    "date": "2026-10-17",
+    "score": 517,
+    "date": "2026-10-18",
     "category": "AI News"
   },
   {
     "title": "Show HN: Llmspeed \u2013 feel how fast a local LLM runs before you buy the hardware",
     "source": "Hacker News",
-    "description": "HN Score: 236 | 76 comments",
+    "description": "HN Score: 263 | 77 comments",
     "url": "https://llmspeed.dev/",
-    "score": 236,
-    "date": "2026-10-17",
-    "category": "AI News"
-  },
-  {
-    "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-    "source": "Hacker News",
-    "description": "HN Score: 365 | 84 comments",
-    "url": "https://github.com/cobanov/PS5LM",
-    "score": 365,
-    "date": "2026-10-17",
-    "category": "AI News"
-  },
-  {
-    "title": "Tell HN: Remember to migrate away from .name domain",
-    "source": "Hacker News",
-    "description": "HN Score: 129 | 85 comments",
-    "url": "https://news.ycombinator.com/item?id=50089577",
-    "score": 129,
-    "date": "2026-10-17",
-    "category": "AI News"
-  },
-  {
-    "title": "Claude reveals ECDSA curve origins",
-    "source": "Hacker News",
-    "description": "HN Score: 1020 | 372 comments",
-    "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
-    "score": 1020,
-    "date": "2026-10-17",
+    "score": 263,
+    "date": "2026-10-18",
     "category": "AI News"
   },
   {
     "title": "The math that OpenAI keeps for itself",
     "source": "Hacker News",
-    "description": "HN Score: 10 | 4 comments",
+    "description": "HN Score: 24 | 8 comments",
     "url": "https://newsletter.danielpaleka.com/p/the-math-that-openai-keeps-for-itself",
-    "score": 10,
-    "date": "2026-10-17",
+    "score": 24,
+    "date": "2026-10-18",
+    "category": "AI News"
+  },
+  {
+    "title": "Tell HN: Remember to migrate away from .name domain",
+    "source": "Hacker News",
+    "description": "HN Score: 140 | 88 comments",
+    "url": "https://news.ycombinator.com/item?id=50089577",
+    "score": 140,
+    "date": "2026-10-18",
+    "category": "AI News"
+  },
+  {
+    "title": "Microsoft and CMU team up to train early career software engineers",
+    "source": "Hacker News",
+    "description": "HN Score: 62 | 73 comments",
+    "url": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise",
+    "score": 62,
+    "date": "2026-10-18",
+    "category": "AI News"
+  },
+  {
+    "title": "Claude reveals ECDSA curve origins",
+    "source": "Hacker News",
+    "description": "HN Score: 1027 | 379 comments",
+    "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+    "score": 1027,
+    "date": "2026-10-18",
     "category": "AI News"
   }
 ]
