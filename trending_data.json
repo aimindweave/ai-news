@@ -1,64 +1,91 @@
 [
   {
+    "title": "How Far Will AI Assistants Go for a Refund They Can't Get?",
+    "source": "Hacker News",
+    "description": "HN Score: 43 | 25 comments",
+    "url": "https://www.vals.ai/blogs/impossible-refund",
+    "score": 43,
+    "date": "2026-10-18",
+    "category": "AI News"
+  },
+  {
     "title": "Show HN: Sphinx \u2013 A hook that quizzes you on your AI's code before shipping",
     "source": "Hacker News",
-    "description": "HN Score: 178 | 54 comments",
+    "description": "HN Score: 210 | 71 comments",
     "url": "https://sphinx-six-theta.vercel.app/",
-    "score": 178,
+    "score": 210,
+    "date": "2026-10-18",
+    "category": "AI News"
+  },
+  {
+    "title": "Websites are closing their doors to AI agents",
+    "source": "Hacker News",
+    "description": "HN Score: 97 | 78 comments",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+    "score": 97,
+    "date": "2026-10-18",
+    "category": "AI News"
+  },
+  {
+    "title": "The Brain Sandwich",
+    "source": "Hacker News",
+    "description": "HN Score: 38 | 11 comments",
+    "url": "https://terriblesoftware.org/2026/10/02/the-brain-sandwich/",
+    "score": 38,
     "date": "2026-10-18",
     "category": "AI News"
   },
   {
     "title": "Pele \u2013 Mermaid diagrams as themeable SVG",
     "source": "Hacker News",
-    "description": "HN Score: 489 | 45 comments",
+    "description": "HN Score: 535 | 50 comments",
     "url": "https://pele.run/",
-    "score": 489,
+    "score": 535,
     "date": "2026-10-18",
     "category": "AI News"
   },
   {
     "title": "A History of Curves and Surfaces in Computer Aided Geometric Design [pdf]",
     "source": "Hacker News",
-    "description": "HN Score: 8 | 1 comments",
+    "description": "HN Score: 27 | 3 comments",
     "url": "https://math.pku.edu.cn/teachers/jiangm/courses/CG/Lectures/spline-history.pdf",
-    "score": 8,
+    "score": 27,
     "date": "2026-10-18",
     "category": "AI News"
   },
   {
-    "title": "You could have invented transformers from memory",
+    "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
     "source": "Hacker News",
-    "description": "HN Score: 590 | 132 comments",
-    "url": "https://alexwang.ai/posts/associative-memory/",
-    "score": 590,
+    "description": "HN Score: 109 | 120 comments",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+    "score": 109,
     "date": "2026-10-18",
     "category": "AI News"
   },
   {
     "title": "Lorenz and Little: How Much Does Your Tail Cost?",
     "source": "Hacker News",
-    "description": "HN Score: 9 | 0 comments",
+    "description": "HN Score: 26 | 2 comments",
     "url": "https://brooker.co.za/blog/2026/07/29/lorenz-and-little.html",
-    "score": 9,
+    "score": 26,
     "date": "2026-10-18",
     "category": "AI News"
   },
   {
-    "title": "Claude reveals ECDSA curve origins",
+    "title": "You could have invented transformers from memory",
     "source": "Hacker News",
-    "description": "HN Score: 1042 | 384 comments",
-    "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
-    "score": 1042,
+    "description": "HN Score: 611 | 136 comments",
+    "url": "https://alexwang.ai/posts/associative-memory/",
+    "score": 611,
     "date": "2026-10-18",
     "category": "AI News"
   },
   {
-    "title": "Tell HN: Remember to migrate away from .name domain",
+    "title": "Hyper Optimizing Kimi K3 in vLLM",
     "source": "Hacker News",
-    "description": "HN Score: 155 | 98 comments",
-    "url": "https://news.ycombinator.com/item?id=50089577",
-    "score": 155,
+    "description": "HN Score: 6 | 0 comments",
+    "url": "https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel",
+    "score": 6,
     "date": "2026-10-18",
     "category": "AI News"
   }
