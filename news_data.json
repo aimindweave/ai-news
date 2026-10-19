@@ -1,13 +1,69 @@
 [
   {
+    "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+    "source": "TechCrunch",
+    "summary": "Amazon wants to break Nvidia\u2019s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
+    "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+    "date": "2026-10-19"
+  },
+  {
+    "title": "Hackers hit AI coding tool OpenCode, running up charges on users\u2019 AI accounts",
+    "source": "TechCrunch",
+    "summary": "OpenCode is an open-source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users\u2019 API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
+    "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+    "date": "2026-10-19"
+  },
+  {
+    "title": "Tolan snags $30M for its AI companion that helps users navigate life",
+    "source": "TechCrunch",
+    "summary": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
+    "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+    "date": "2026-10-19"
+  },
+  {
+    "title": "Replika\u2019s founder built the AI assistant she pitched at Disrupt 12 years ago",
+    "source": "TechCrunch",
+    "summary": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
+    "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
+    "date": "2026-10-19"
+  },
+  {
+    "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+    "source": "TechCrunch",
+    "summary": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
+    "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+    "date": "2026-10-19"
+  },
+  {
+    "title": "People are using AI to make their smart TVs dumb again",
+    "source": "TechCrunch",
+    "summary": "Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
+    "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+    "date": "2026-10-19"
+  },
+  {
+    "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+    "source": "TechCrunch",
+    "summary": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
+    "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+    "date": "2026-10-19"
+  },
+  {
+    "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+    "source": "TechCrunch",
+    "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
+    "url": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+    "date": "2026-10-19"
+  },
+  {
     "title": "Anthropic says it\u2019s committing 5% of its shares to a \u2018public benefit fund\u2019",
     "source": "TechCrunch",
-    "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
+    "summary": "The company offered some broad-strokes ideas for how this money might actually be used, such as \u201clarge donations to traditional nonprofits or direct distributions to specific populations.\u201d",
     "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
     "date": "2026-10-19"
   },
   {
-    "title": "Disney agrees to hire the majority of Character.AI\u2019s workforce",
+    "title": "Disney agrees to hire the majority of Character AI\u2019s workforce",
     "source": "TechCrunch",
     "summary": "The filing also says that the \u201cvast majority\u201d of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
     "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
@@ -30,7 +86,7 @@
   {
     "title": "Replit makes OpenAI its default over Anthropic, CEO says",
     "source": "TechCrunch",
-    "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+    "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer partnering with Anthropic.",
     "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
     "date": "2026-10-19"
   },
@@ -49,59 +105,17 @@
     "date": "2026-10-19"
   },
   {
-    "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
-    "source": "TechCrunch",
-    "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA\u2019s robotics platforms, says robotics is currently in its \u201cLego era,\u201d with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who b...",
-    "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+    "title": "Making the internet better for AI agents might make it worse for everyone else",
+    "source": "MIT Tech Review",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Until recently, you could divide internet users into just two categories: bots and people. Websites have long allowed bots to perform automated tasks, like cap...",
+    "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
     "date": "2026-10-19"
   },
   {
-    "title": "Elorian\u2019s first AI model wants to reason with images, not just about them",
-    "source": "TechCrunch",
-    "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
-    "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-    "date": "2026-10-19"
-  },
-  {
-    "title": "Jev is Vercel\u2019s fastest-adopted AI model ever",
-    "source": "TechCrunch",
-    "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
-    "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
-    "date": "2026-10-19"
-  },
-  {
-    "title": "Mark Wahlberg on using AI in film \u2018the right way\u2019 and being open to an AI clone carrying on his legacy",
-    "source": "TechCrunch",
-    "summary": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used 'to enhance what you're doing.'",
-    "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
-    "date": "2026-10-19"
-  },
-  {
-    "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
-    "source": "TechCrunch",
-    "summary": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as 'superfakes,' as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods.",
-    "url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
-    "date": "2026-10-19"
-  },
-  {
-    "title": "Replit\u2019s CEO says the future of work is the \u2018self-driving company\u2019",
-    "source": "TechCrunch",
-    "summary": "Replit CEO Amjad Masad envisions a future of \u201cself-driving companies,\u201d where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
-    "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
-    "date": "2026-10-19"
-  },
-  {
-    "title": "When it came to Cal AI\u2019s viral success, a small army of influencers paid off",
-    "source": "TechCrunch",
-    "summary": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
-    "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
-    "date": "2026-10-19"
-  },
-  {
-    "title": "Meta launches an open-weight AI model that runs on Macs",
-    "source": "TechCrunch",
-    "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
-    "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+    "title": "\u201cWe were looking at it wrong\u201d: The explosive claim that\u2019s upended the AI world",
+    "source": "MIT Tech Review",
+    "summary": "\u201cI think I have good news about the nature of neural networks.\u201d With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI world on its head, sparking wild speculation as well as cautious (and not-so-cau...",
+    "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
     "date": "2026-10-19"
   },
   {
@@ -161,17 +175,17 @@
     "date": "2026-10-19"
   },
   {
-    "title": "Can\u2019t bear to say goodbye to your pet? Biotech\u2019s got you covered.",
-    "source": "MIT Tech Review",
-    "summary": "I don\u2019t remember much about Peppy, my first and only pet cat. I can conjure the sensation of stroking her while she purred, recall how she used to get stuck in trees (just like in cartoons!), and chuckle about the time she pooed in my baby sister\u2019s cot. That\u2019s about it. What I do vividly",
-    "url": "https://www.technologyreview.com/2026/10/16/1146766/pet-biotech-longevity-cloning-cryonics/",
+    "title": "OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody",
+    "source": "Wired",
+    "summary": "A judge ordered Abdulrahman Alfozan to remain in custody, likening the Saudi government\u2019s offer to secure the former OpenAI engineer\u2019s release to a \u201cblank check.\u201d",
+    "url": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/",
     "date": "2026-10-19"
   },
   {
-    "title": "Kids are outsmarting social media bans. That\u2019s not a problem we need to solve.",
-    "source": "MIT Tech Review",
-    "summary": "Social media bans are stacking up. In July, France joined Australia in restricting minors from accessing social media\u2014barring children under 15 from major platforms, before the ban was blocked by the country\u2019s top court on human rights grounds. The UK aims to forbid kids under 16 from accessing F...",
-    "url": "https://www.technologyreview.com/2026/10/16/1146834/kids-are-outsmarting-social-media-bans-thats-not-a-problem-we-need-to-solve/",
+    "title": "WhatsApp Help Pages Leaked Hidden Instructions for a Meta Chatbot",
+    "source": "Wired",
+    "summary": "Around 80 pages on WhatsApp\u2019s website exposed instructions that were designed for its chatbot, including \u201cWHAT NOT TO SAY.\u201d Meta says a bug caused the issue.",
+    "url": "https://www.wired.com/story/whatsapp-help-pages-leaked-hidden-instructions-for-a-meta-chatbot/",
     "date": "2026-10-19"
   },
   {
@@ -231,17 +245,17 @@
     "date": "2026-10-19"
   },
   {
-    "title": "AI Hacks Leave a Mess That AI Companies Aren\u2019t Paying For",
-    "source": "Wired",
-    "summary": "Powerful AI models continue to cause chaos, but their targets aren\u2019t widely seeking justice. Instead, they\u2019re being encouraged to adopt those same tools.",
-    "url": "https://www.wired.com/story/ai-hacks-leave-a-mess-that-ai-companies-arent-cleaning-up/",
+    "title": "Accused OpenAI spy had folder called \u201cSaudi Gov Docs,\u201d FBI says",
+    "source": "Ars Technica",
+    "summary": "US fears Saudi government will help ex-OpenAI engineer flee spying charges.",
+    "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
     "date": "2026-10-19"
   },
   {
-    "title": "AI Came for Math. Now It\u2019s Chasing the Rest of Science",
-    "source": "Wired",
-    "summary": "AI may soon be the default way to solve theoretical problems in economics, high-energy physics, and other fields, MIT researchers tell WIRED.",
-    "url": "https://www.wired.com/story/ai-is-coming-for-science-next-watch-out/",
+    "title": "AI game clones are making indie developers afraid to show their work",
+    "source": "Ars Technica",
+    "summary": "Delayed Steam Next Fest demo is a sign of a growing problem for indie devs.",
+    "url": "https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/",
     "date": "2026-10-19"
   },
   {
@@ -333,20 +347,6 @@
     "source": "Ars Technica",
     "summary": "Attack method exposes flaws in OpenAI, Google safeguards against AI nudes.",
     "url": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/",
-    "date": "2026-10-19"
-  },
-  {
-    "title": "Disney offers $20M for Character.AI\u2019s scandal-plagued chatbot tech",
-    "source": "Ars Technica",
-    "summary": "Disney may acquire tech from one of the first chatbot makers linked to child suicide.",
-    "url": "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/",
-    "date": "2026-10-19"
-  },
-  {
-    "title": "Google wants to host your personal vibe-coded apps in the Play Store",
-    "source": "Ars Technica",
-    "summary": "Google plans to help turn those personal AI-generated apps into wide releases.",
-    "url": "https://arstechnica.com/google/2026/10/google-wants-to-host-your-personal-vibe-coded-apps-in-the-play-store/",
     "date": "2026-10-19"
   }
 ]

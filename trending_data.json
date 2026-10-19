@@ -1,91 +1,91 @@
 [
   {
-    "title": "Timestral: Mistral release time-series foundation models",
+    "title": "RuneScape Bench: MMOs for Agents [video]",
     "source": "Hacker News",
-    "description": "HN Score: 280 | 45 comments",
+    "description": "HN Score: 93 | 34 comments",
+    "url": "https://www.youtube.com/watch?v=cNm4zyUtWj0",
+    "score": 93,
+    "date": "2026-10-19",
+    "category": "AI News"
+  },
+  {
+    "title": "The fire retardant in the seafood chain",
+    "source": "Hacker News",
+    "description": "HN Score: 59 | 19 comments",
+    "url": "https://insideclimatenews.org/news/14102026/ethoxyquin-fire-retardant-in-seafood-chain/",
+    "score": 59,
+    "date": "2026-10-19",
+    "category": "AI News"
+  },
+  {
+    "title": "Timestral: Mistral's time-series foundation models",
+    "source": "Hacker News",
+    "description": "HN Score: 483 | 91 comments",
     "url": "https://mistral.ai/news/timestral/",
-    "score": 280,
+    "score": 483,
+    "date": "2026-10-19",
+    "category": "AI News"
+  },
+  {
+    "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
+    "source": "Hacker News",
+    "description": "HN Score: 109 | 178 comments",
+    "url": "https://news.ycombinator.com/item?id=50151036",
+    "score": 109,
+    "date": "2026-10-19",
+    "category": "AI News"
+  },
+  {
+    "title": "The obscure trust looming over Anthropic's IPO",
+    "source": "Hacker News",
+    "description": "HN Score: 109 | 63 comments",
+    "url": "https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&reflink=desktopwebshare_permalink",
+    "score": 109,
+    "date": "2026-10-19",
+    "category": "AI News"
+  },
+  {
+    "title": "Launch HN: Laminar (YC S24) \u2013 RL-trained model that finds errors in agent traces",
+    "source": "Hacker News",
+    "description": "HN Score: 36 | 15 comments",
+    "url": "https://news.ycombinator.com/item?id=50154029",
+    "score": 36,
     "date": "2026-10-19",
     "category": "AI News"
   },
   {
     "title": "Let's Encrypt is adding two additional remote perspectives for domain validation",
     "source": "Hacker News",
-    "description": "HN Score: 124 | 36 comments",
+    "description": "HN Score: 222 | 70 comments",
     "url": "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166",
-    "score": 124,
+    "score": 222,
     "date": "2026-10-19",
     "category": "AI News"
   },
   {
-    "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
+    "title": "Towards Company World Models",
     "source": "Hacker News",
-    "description": "HN Score: 90 | 62 comments",
-    "url": "https://100toolkit.com/blog/deslop-model/",
-    "score": 90,
+    "description": "HN Score: 17 | 1 comments",
+    "url": "https://www.beaconholdings.com/research/towards-company-world-models",
+    "score": 17,
     "date": "2026-10-19",
     "category": "AI News"
   },
   {
-    "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+    "title": "Detecting model weight tampering in GPU memory (Rome attacks)",
     "source": "Hacker News",
-    "description": "HN Score: 474 | 225 comments",
-    "url": "https://arxiv.org/abs/2610.18861",
-    "score": 474,
+    "description": "HN Score: 5 | 0 comments",
+    "url": "https://stealthium.io/blog/hands-off-detecting-model-weight-tampering",
+    "score": 5,
     "date": "2026-10-19",
     "category": "AI News"
   },
   {
-    "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+    "title": "Chicago O'Hare digs up 50-ton boulder under airfield, asks public for name ideas",
     "source": "Hacker News",
-    "description": "HN Score: 256 | 176 comments",
-    "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
-    "score": 256,
-    "date": "2026-10-19",
-    "category": "AI News"
-  },
-  {
-    "title": "How to Train Your Robot",
-    "source": "Hacker News",
-    "description": "HN Score: 106 | 34 comments",
-    "url": "https://www.construction-physics.com/p/how-to-train-your-robot",
-    "score": 106,
-    "date": "2026-10-19",
-    "category": "AI News"
-  },
-  {
-    "title": "Harness2 by Google Research \u2013 Recursive Agent Harnessing",
-    "source": "Hacker News",
-    "description": "HN Score: 47 | 10 comments",
-    "url": "https://github.com/google-research/harness2",
-    "score": 47,
-    "date": "2026-10-19",
-    "category": "AI News"
-  },
-  {
-    "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
-    "source": "Hacker News",
-    "description": "HN Score: 107 | 75 comments",
-    "url": "https://crystl.dev/guides/tmux-for-ai-agents/",
-    "score": 107,
-    "date": "2026-10-19",
-    "category": "AI News"
-  },
-  {
-    "title": "I built a programming language that LLMs can't use",
-    "source": "Hacker News",
-    "description": "HN Score: 251 | 185 comments",
-    "url": "https://blog.picheta.me/post/killswitch-lang/",
-    "score": 251,
-    "date": "2026-10-19",
-    "category": "AI News"
-  },
-  {
-    "title": "Ousted Savannah police officer gave ICE agent husband access to Flock system",
-    "source": "Hacker News",
-    "description": "HN Score: 560 | 292 comments",
-    "url": "https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816",
-    "score": 560,
+    "description": "HN Score: 53 | 49 comments",
+    "url": "https://simpleflying.com/chicago-ohare-digs-up-50-ton-boulder-public-names/",
+    "score": 53,
     "date": "2026-10-19",
     "category": "AI News"
   }
