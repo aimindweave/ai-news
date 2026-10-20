@@ -1,91 +1,91 @@
 [
   {
+    "title": "DeepInfer: High-performance inference framework for DeepSeek models",
+    "source": "Hacker News",
+    "description": "HN Score: 1895 | 726 comments",
+    "url": "https://github.com/deepseek-ai/DeepInfer",
+    "score": 1895,
+    "date": "2026-10-20",
+    "category": "AI News"
+  },
+  {
+    "title": "Publish fake stats, get cited in LLMs",
+    "source": "Hacker News",
+    "description": "HN Score: 237 | 127 comments",
+    "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
+    "score": 237,
+    "date": "2026-10-20",
+    "category": "AI News"
+  },
+  {
+    "title": "Facebook Pages require paid subscription to post more than two links per month",
+    "source": "Hacker News",
+    "description": "HN Score: 327 | 270 comments",
+    "url": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
+    "score": 327,
+    "date": "2026-10-20",
+    "category": "AI News"
+  },
+  {
+    "title": "NixOS is making me less afraid",
+    "source": "Hacker News",
+    "description": "HN Score: 121 | 82 comments",
+    "url": "https://entropicthoughts.com/nixos-is-making-me-less-afraid",
+    "score": 121,
+    "date": "2026-10-20",
+    "category": "AI News"
+  },
+  {
+    "title": "Launch HN: Respan (YC W24) \u2013 Open-source Rust AI gateway built around plugins",
+    "source": "Hacker News",
+    "description": "HN Score: 26 | 14 comments",
+    "url": "https://news.ycombinator.com/item?id=50167583",
+    "score": 26,
+    "date": "2026-10-20",
+    "category": "AI News"
+  },
+  {
+    "title": "Show HN: Jev Cards, Can you beat a vision model at a picture quiz?",
+    "source": "Hacker News",
+    "description": "HN Score: 46 | 22 comments",
+    "url": "https://jevcards.com",
+    "score": 46,
+    "date": "2026-10-20",
+    "category": "AI News"
+  },
+  {
+    "title": "Steam Users Beg for 'No AI' Filter as Vibecoders Flood Next Fest",
+    "source": "Hacker News",
+    "description": "HN Score: 108 | 82 comments",
+    "url": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
+    "score": 108,
+    "date": "2026-10-20",
+    "category": "AI News"
+  },
+  {
+    "title": "Show HN: Penmentor \u2013 Claude marks up your handwritten math like a teacher",
+    "source": "Hacker News",
+    "description": "HN Score: 33 | 2 comments",
+    "url": "https://github.com/AbdullahAlhariri/penmentor",
+    "score": 33,
+    "date": "2026-10-20",
+    "category": "AI News"
+  },
+  {
+    "title": "One Manhattan power room took down FAA air traffic control in 1991",
+    "source": "Hacker News",
+    "description": "HN Score: 39 | 7 comments",
+    "url": "https://matthorn.io/posts/2026-10-18-33-thomas-street/",
+    "score": 39,
+    "date": "2026-10-20",
+    "category": "AI News"
+  },
+  {
     "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
     "source": "Hacker News",
-    "description": "HN Score: 579 | 162 comments",
+    "description": "HN Score: 694 | 197 comments",
     "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
-    "score": 579,
-    "date": "2026-10-20",
-    "category": "AI News"
-  },
-  {
-    "title": "Ukraine claims first drone evacuation of wounded soldier",
-    "source": "Hacker News",
-    "description": "HN Score: 355 | 255 comments",
-    "url": "https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310",
-    "score": 355,
-    "date": "2026-10-20",
-    "category": "AI News"
-  },
-  {
-    "title": "How abliterated models can get you pwned",
-    "source": "Hacker News",
-    "description": "HN Score: 183 | 99 comments",
-    "url": "https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned",
-    "score": 183,
-    "date": "2026-10-20",
-    "category": "AI News"
-  },
-  {
-    "title": "Maxwell: A new kind of model that sits between code and hardware",
-    "source": "Hacker News",
-    "description": "HN Score: 105 | 45 comments",
-    "url": "https://heymaxwell.ai/",
-    "score": 105,
-    "date": "2026-10-20",
-    "category": "AI News"
-  },
-  {
-    "title": "RuneScape Bench: MMOs for Agents [video]",
-    "source": "Hacker News",
-    "description": "HN Score: 217 | 72 comments",
-    "url": "https://www.youtube.com/watch?v=cNm4zyUtWj0",
-    "score": 217,
-    "date": "2026-10-20",
-    "category": "AI News"
-  },
-  {
-    "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
-    "source": "Hacker News",
-    "description": "HN Score: 521 | 637 comments",
-    "url": "https://news.ycombinator.com/item?id=50151036",
-    "score": 521,
-    "date": "2026-10-20",
-    "category": "AI News"
-  },
-  {
-    "title": "Go will reject certificate chains containing eight distrusted SPKIs",
-    "source": "Hacker News",
-    "description": "HN Score: 119 | 64 comments",
-    "url": "https://github.com/golang/go/issues/82345",
-    "score": 119,
-    "date": "2026-10-20",
-    "category": "AI News"
-  },
-  {
-    "title": "Agentic Monitoring",
-    "source": "Hacker News",
-    "description": "HN Score: 107 | 19 comments",
-    "url": "https://benjamincongdon.me/blog/2026/10/19/Agentic-Monitoring/",
-    "score": 107,
-    "date": "2026-10-20",
-    "category": "AI News"
-  },
-  {
-    "title": "The fire retardant in the seafood chain",
-    "source": "Hacker News",
-    "description": "HN Score: 148 | 49 comments",
-    "url": "https://insideclimatenews.org/news/14102026/ethoxyquin-fire-retardant-in-seafood-chain/",
-    "score": 148,
-    "date": "2026-10-20",
-    "category": "AI News"
-  },
-  {
-    "title": "Launch HN: Laminar (YC S24) \u2013 RL-trained model that finds errors in agent traces",
-    "source": "Hacker News",
-    "description": "HN Score: 58 | 24 comments",
-    "url": "https://news.ycombinator.com/item?id=50154029",
-    "score": 58,
+    "score": 694,
     "date": "2026-10-20",
     "category": "AI News"
   }

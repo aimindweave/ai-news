@@ -1,5 +1,33 @@
 [
   {
+    "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
+    "source": "TechCrunch",
+    "summary": "The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported.",
+    "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
+    "date": "2026-10-20"
+  },
+  {
+    "title": "Meta\u2019s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
+    "source": "TechCrunch",
+    "summary": "Meta's AI companion Muse has surpassed 10 million U.S. downloads in its first 40 days, joining an exclusive group of apps that includes Threads. New data also shows Muse is retaining users at higher rates than its AI rivals.",
+    "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
+    "date": "2026-10-20"
+  },
+  {
+    "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
+    "source": "TechCrunch",
+    "summary": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.",
+    "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
+    "date": "2026-10-20"
+  },
+  {
+    "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
+    "source": "TechCrunch",
+    "summary": "Figma said it plans to support as many standards as possible without exposing all of its data.",
+    "url": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
+    "date": "2026-10-20"
+  },
+  {
     "title": "US orders federal agencies to remove China\u2019s DeepSeek AI from their systems",
     "source": "TechCrunch",
     "summary": "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
@@ -77,31 +105,10 @@
     "date": "2026-10-20"
   },
   {
-    "title": "Replika\u2019s founder built the AI assistant she pitched at Disrupt 12 years ago",
-    "source": "TechCrunch",
-    "summary": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
-    "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
-    "date": "2026-10-20"
-  },
-  {
-    "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
-    "source": "TechCrunch",
-    "summary": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
-    "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
-    "date": "2026-10-20"
-  },
-  {
-    "title": "People are using AI to make their smart TVs dumb again",
-    "source": "TechCrunch",
-    "summary": "Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
-    "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
-    "date": "2026-10-20"
-  },
-  {
-    "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
-    "source": "TechCrunch",
-    "summary": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
-    "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+    "title": "The new economics of enterprise AI",
+    "source": "MIT Tech Review",
+    "summary": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency \u2014 consumption is low and the value is obvious. But once electricity becomes infrastructure, every process depends on it, and the question changes from can we use it? to ho...",
+    "url": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
     "date": "2026-10-20"
   },
   {
@@ -168,10 +175,17 @@
     "date": "2026-10-20"
   },
   {
-    "title": "AI researchers stranded Claude on a virtual desert island. It started to \u201cplay.\u201d",
-    "source": "MIT Tech Review",
-    "summary": "What do AI agents do if you don\u2019t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents\u2014copies of Claude Opus 4.7 nicknamed Eko\u2014w...",
-    "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+    "title": "French Government Calls Emergency Meetings With Platforms Over Protests",
+    "source": "Wired",
+    "summary": "TikTok and other sites were told to curb protest footage and AI-altered images, while online retailers like Vinted and eBay reportedly signed an agreement stop looted goods from flooding resale sites.",
+    "url": "https://www.wired.com/story/french-government-calls-emergency-meetings-with-platforms-over-protests/",
+    "date": "2026-10-20"
+  },
+  {
+    "title": "An AI Agent Joined a Listserv of Top Internet Researchers. The Reply-All Chaos Is Still Unfolding",
+    "source": "Wired",
+    "summary": "Hysteria over the agent's appearance in a 7,500-person group reveals that internet experts have outdated notions of privacy.",
+    "url": "https://www.wired.com/story/an-ai-agent-joined-a-listserv-of-top-internet-researchers-the-reply-all-chaos-is-still-unfolding/",
     "date": "2026-10-20"
   },
   {
@@ -231,23 +245,16 @@
     "date": "2026-10-20"
   },
   {
-    "title": "AI-Generated Hot Girls Are Ripping Off Comedians to Boost Their Horny Content",
-    "source": "Wired",
-    "summary": "A network of AI-generated models is using comics\u2019 material to funnel views to their OnlyFans and Fanvue accounts\u2014and there\u2019s not much comedians can do about it.",
-    "url": "https://www.wired.com/story/ai-generated-hot-girls-are-ripping-off-comedians-to-boost-their-horny-content/",
-    "date": "2026-10-20"
-  },
-  {
-    "title": "We Got Hot and Heavy With Meta\u2019s Muse\u2014and Baffled by Apple\u2019s HomeView",
-    "source": "Wired",
-    "summary": "This week on \u201cUncanny Valley,\u201d we dive into an unexpected Muse feature, shadowy spending from the largest pro-AI super PAC, and men\u2019s tendency to lie about how much they know about AI.",
-    "url": "https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/",
+    "title": "Meta tries to scapegoat staff who downloaded torrents to spare execs",
+    "source": "Ars Technica",
+    "summary": "Meta argues nobody \u201cdecided\u201d to pirate books to train AI.",
+    "url": "https://arstechnica.com/tech-policy/2026/10/meta-ordered-to-name-execs-who-approved-torrenting-for-ai-training/",
     "date": "2026-10-20"
   },
   {
     "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
     "source": "Ars Technica",
-    "summary": "A single query is all that's required to find thousands of conversations listed by title.",
+    "summary": "Meta is suspending the sharing feature while it investigates its privacy.",
     "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
     "date": "2026-10-20"
   },
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "OpenAI engineer faces 5 years and $250K fine as FBI lobs foreign spy charges.",
     "url": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/",
-    "date": "2026-10-20"
-  },
-  {
-    "title": "Anthropic warns small AI models could self-replicate through IoT devices",
-    "source": "Ars Technica",
-    "summary": "'Small weight-based replicators' could usher in a new generation of computer worms.",
-    "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
     "date": "2026-10-20"
   }
 ]
