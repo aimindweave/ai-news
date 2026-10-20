@@ -1,5 +1,33 @@
 [
   {
+    "title": "US orders federal agencies to remove China\u2019s DeepSeek AI from their systems",
+    "source": "TechCrunch",
+    "summary": "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
+    "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
+    "date": "2026-10-20"
+  },
+  {
+    "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+    "source": "TechCrunch",
+    "summary": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.",
+    "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+    "date": "2026-10-20"
+  },
+  {
+    "title": "Otter.ai raises $320 million from General Catalyst\u2019s growth fund for its meeting tool",
+    "source": "TechCrunch",
+    "summary": "Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst s Customer Value Fund (CVF), which provides capital to startups without diluting equity and gets returns on the results of marketing spend. Otter.ai said that it will use these funds for e...",
+    "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+    "date": "2026-10-20"
+  },
+  {
+    "title": "Yelp can now call on your behalf to check wait times at a restaurant",
+    "source": "TechCrunch",
+    "summary": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.",
+    "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
+    "date": "2026-10-20"
+  },
+  {
     "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
     "source": "TechCrunch",
     "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
@@ -77,31 +105,38 @@
     "date": "2026-10-20"
   },
   {
-    "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-    "source": "TechCrunch",
-    "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
-    "url": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+    "title": "The Download: the claim shaking up AI and the internet\u2019s agent problem",
+    "source": "MIT Tech Review",
+    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. \u201cWe were looking at it wrong\u201d: The explosive claim that\u2019s upended the AI world \u201cI think I have good news about the nature of neural networks.\u201d With those simpl...",
+    "url": "https://www.technologyreview.com/2026/10/20/1147355/the-download-claim-shaking-up-ai-internet-agent-problem/",
     "date": "2026-10-20"
   },
   {
-    "title": "Anthropic says it\u2019s committing 5% of its shares to a \u2018public benefit fund\u2019",
-    "source": "TechCrunch",
-    "summary": "The company offered some broad-strokes ideas for how this money might actually be used, such as \u201clarge donations to traditional nonprofits or direct distributions to specific populations.\u201d",
-    "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+    "title": "AI adoption by industry shows what other sectors can learn",
+    "source": "MIT Tech Review",
+    "summary": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption\u2013tech is just the first industry in line. As generative AI and automation tools mature, the shifts cu...",
+    "url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
     "date": "2026-10-20"
   },
   {
-    "title": "Disney agrees to hire the majority of Character AI\u2019s workforce",
-    "source": "TechCrunch",
-    "summary": "The filing also says that the \u201cvast majority\u201d of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
-    "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+    "title": "How to study a swiftly melting climate disaster",
+    "source": "MIT Tech Review",
+    "summary": "Andrew Haverdink, a tall grad student in a rain bib and rubber boots, wrenched a double-handed drill from the frozen soil that underlies much of Alaska\u2019s Denali National Park and then unclipped the hollow barrel from the end of the bit. He knelt in front of a blue tarp, lined the barrel up with a",
+    "url": "https://www.technologyreview.com/2026/10/20/1147135/how-to-study-a-swiftly-melting-climate-disaster/",
     "date": "2026-10-20"
   },
   {
-    "title": "Meta removes language that raised scraping and AI training concerns",
-    "source": "TechCrunch",
-    "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
-    "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+    "title": "A visit to Samsung\u2019s massive new semiconductor hub",
+    "source": "MIT Tech Review",
+    "summary": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor manufacturing complex in Pyeongtaek, South Korea. Three fabs already operate...",
+    "url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
+    "date": "2026-10-20"
+  },
+  {
+    "title": "These startups hope \u201cblended\u201d food will cut our appetite for red meat",
+    "source": "MIT Tech Review",
+    "summary": "In the fall of 2025, Jeff Dodge set up a six-foot folding table in the cafeteria of Cane Bay High School in Summerville, South Carolina, to conduct a taste test. When the first rush of about 150 hungry students hit, he was waiting with slow cookers filled with steaming marinara sauce and meatball...",
+    "url": "https://www.technologyreview.com/2026/10/20/1145927/blended-meat-food-startups-building-bridge-to-ditch-red-meat/",
     "date": "2026-10-20"
   },
   {
@@ -137,41 +172,6 @@
     "source": "MIT Tech Review",
     "summary": "What do AI agents do if you don\u2019t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents\u2014copies of Claude Opus 4.7 nicknamed Eko\u2014w...",
     "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
-    "date": "2026-10-20"
-  },
-  {
-    "title": "How far can we push computing?",
-    "source": "MIT Tech Review",
-    "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what\u2019s coming next. You can read more from the series here. On the evening of December 29, 1959, at an American Physical Society meeting at Caltech, the physicist Ric...",
-    "url": "https://www.technologyreview.com/2026/10/19/1145904/tr-explains-how-far-can-we-push-computing/",
-    "date": "2026-10-20"
-  },
-  {
-    "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-    "source": "MIT Tech Review",
-    "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn\u2019t yet an example of AI-generated life, but tha...",
-    "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-    "date": "2026-10-20"
-  },
-  {
-    "title": "The Download: failed social media bans, and extending pets\u2019 lives",
-    "source": "MIT Tech Review",
-    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Kids are outsmarting social media bans. That\u2019s not a problem we need to solve. \u2014Michal Luria, Aliya Bhatia, and Danah Boyd Social media bans are stacking up. I...",
-    "url": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
-    "date": "2026-10-20"
-  },
-  {
-    "title": "This implant can restore sight for patients with macular degeneration",
-    "source": "MIT Tech Review",
-    "summary": "More than 5 million people around the world have an advanced form of age-related macular degeneration (AMD) called geographic atrophy, in which cells in the retinas die off. And until now, no treatment could restore their vision. The PRIMA system, which was approved in Europe in July and is await...",
-    "url": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
-    "date": "2026-10-20"
-  },
-  {
-    "title": "Love is infrastructure",
-    "source": "MIT Tech Review",
-    "summary": "I. Meet cute Barnabas and Mainspring grew up near at hand, about an hour apart with good traffic, but for a long time they weren\u2019t close. They traded glimpses and occasional hellos and then went about their business. Both of them carried on livelier conversations with farther-flung neighbors, who...",
-    "url": "https://www.technologyreview.com/2026/10/16/1145845/love-is-infrastructure-fiction-charlie-jane-anders/",
     "date": "2026-10-20"
   },
   {
@@ -242,6 +242,13 @@
     "source": "Wired",
     "summary": "This week on \u201cUncanny Valley,\u201d we dive into an unexpected Muse feature, shadowy spending from the largest pro-AI super PAC, and men\u2019s tendency to lie about how much they know about AI.",
     "url": "https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/",
+    "date": "2026-10-20"
+  },
+  {
+    "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
+    "source": "Ars Technica",
+    "summary": "A single query is all that's required to find thousands of conversations listed by title.",
+    "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
     "date": "2026-10-20"
   },
   {
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "'Small weight-based replicators' could usher in a new generation of computer worms.",
     "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
-    "date": "2026-10-20"
-  },
-  {
-    "title": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
-    "source": "Ars Technica",
-    "summary": "Attack method exposes flaws in OpenAI, Google safeguards against AI nudes.",
-    "url": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/",
     "date": "2026-10-20"
   }
 ]

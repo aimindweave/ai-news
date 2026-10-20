@@ -94,6 +94,16 @@
   "episodes": [
     {
       "id": "a]6z Pod_0",
+      "name": "What Happens When Everyone Has a Health Expert in Their Pocket? | OpenAI’s Karan Singhal",
+      "show": "a]6z Podcast",
+      "description": "More than 300 million people use ChatGPT for health and wellness questions each week. OpenAI’s Karan Singhal thinks that’s only the beginning: the longer-term goal is AI that can help people naviga",
+      "release_date": "2026-10-20",
+      "duration_min": 55,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
+      "id": "a]6z Pod_1",
       "name": "What Happens When Al Agents Can Spend Your Money?",
       "show": "a]6z Podcast",
       "description": "Why hasn't AI transformed everyday work as quickly as coding? Town CEO Jean-Denis Greze argues the bottleneck isn't intelligence, but making AI useful to people who don't have the time or technical",
@@ -103,22 +113,12 @@
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "Why Real-World AI Is Harder Than the Benchmark | EliseAI’s Mario Martone",
       "show": "a]6z Podcast",
       "description": "What changes when an AI mistake doesn’t just hurt a benchmark score, but affects someone’s housing or healthcare? EliseAI Head of Applied Research Mario Martone argues that deploying AI in essentia",
       "release_date": "2026-10-18",
       "duration_min": 24,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
-    },
-    {
-      "id": "a]6z Pod_2",
-      "name": "Why AI Could Finally Fix Healthcare Access | Zocdoc CEO Oliver Kharraz",
-      "show": "a]6z Podcast",
-      "description": "Why is booking a doctor's appointment still so difficult, and can AI finally change that? Zocdoc CEO Oliver Kharraz argues that the real problem isn't finding doctors, but connecting patients to ac",
-      "release_date": "2026-10-17",
-      "duration_min": 34,
       "image": "",
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
