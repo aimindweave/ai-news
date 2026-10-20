@@ -1,352 +1,352 @@
 [
   {
+    "title": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
+    "source": "TechCrunch",
+    "summary": "In August, Nscale and Anthropic announced a $45 billion compute deal. The two companies are reportedly discussing yet another deal of the same magnitude.",
+    "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+    "date": "2026-10-20"
+  },
+  {
+    "title": "Embedded AI evaluators won\u2019t be an easy solution, Hugging Face\u2019s policy chief says",
+    "source": "TechCrunch",
+    "summary": "AI labs have staked their reputations on model benchmarking \u2014 the supposedly neutral and accurate system of evaluations that are designed to measure whether one AI product is better than another. However, the methods behind these evaluations are complicated and still maturing, said Irene Solaiman...",
+    "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+    "date": "2026-10-20"
+  },
+  {
+    "title": "Microsoft says AI agents are like insider threats as \u2018frontier models can\u2019t be trusted\u2019",
+    "source": "TechCrunch",
+    "summary": "Microsoft wants enterprises to closely watch the agents employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
+    "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+    "date": "2026-10-20"
+  },
+  {
     "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
     "source": "TechCrunch",
     "summary": "Amazon wants to break Nvidia\u2019s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
     "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
   },
   {
     "title": "Hackers hit AI coding tool OpenCode, running up charges on users\u2019 AI accounts",
     "source": "TechCrunch",
-    "summary": "OpenCode is an open-source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users\u2019 API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
+    "summary": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users\u2019 API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
     "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
   },
   {
     "title": "Tolan snags $30M for its AI companion that helps users navigate life",
     "source": "TechCrunch",
     "summary": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
     "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
   },
   {
     "title": "Replika\u2019s founder built the AI assistant she pitched at Disrupt 12 years ago",
     "source": "TechCrunch",
     "summary": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
     "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
   },
   {
     "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
     "source": "TechCrunch",
     "summary": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
     "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
   },
   {
     "title": "People are using AI to make their smart TVs dumb again",
     "source": "TechCrunch",
     "summary": "Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
     "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
   },
   {
     "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
     "source": "TechCrunch",
     "summary": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
     "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
   },
   {
     "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
     "source": "TechCrunch",
     "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
     "url": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
   },
   {
     "title": "Anthropic says it\u2019s committing 5% of its shares to a \u2018public benefit fund\u2019",
     "source": "TechCrunch",
     "summary": "The company offered some broad-strokes ideas for how this money might actually be used, such as \u201clarge donations to traditional nonprofits or direct distributions to specific populations.\u201d",
     "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
   },
   {
     "title": "Disney agrees to hire the majority of Character AI\u2019s workforce",
     "source": "TechCrunch",
     "summary": "The filing also says that the \u201cvast majority\u201d of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
     "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
   },
   {
     "title": "Meta removes language that raised scraping and AI training concerns",
     "source": "TechCrunch",
     "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
     "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
   },
   {
     "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
     "source": "TechCrunch",
     "summary": "The composition of Anthropic\u2019s workforce and the type of work getting done have changed significantly in the past year.",
     "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
-    "date": "2026-10-19"
-  },
-  {
-    "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-    "source": "TechCrunch",
-    "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer partnering with Anthropic.",
-    "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-    "date": "2026-10-19"
-  },
-  {
-    "title": "India becomes the latest country to report rogue AI agent activity",
-    "source": "TechCrunch",
-    "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
-    "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-    "date": "2026-10-19"
-  },
-  {
-    "title": "An Nvidia insider-turned-VC on why robotics hasn\u2019t hit its ChatGPT moment, yet",
-    "source": "TechCrunch",
-    "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA\u2019s robotics platforms, says robotics is currently in its \u201cLego era,\u201d with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who b...",
-    "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
   },
   {
     "title": "Making the internet better for AI agents might make it worse for everyone else",
     "source": "MIT Tech Review",
     "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Until recently, you could divide internet users into just two categories: bots and people. Websites have long allowed bots to perform automated tasks, like cap...",
     "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
   },
   {
     "title": "\u201cWe were looking at it wrong\u201d: The explosive claim that\u2019s upended the AI world",
     "source": "MIT Tech Review",
     "summary": "\u201cI think I have good news about the nature of neural networks.\u201d With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI world on its head, sparking wild speculation as well as cautious (and not-so-cau...",
     "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
   },
   {
     "title": "The Download: preserving the Arctic permafrost, and playful AI agents",
     "source": "MIT Tech Review",
     "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Inside the quest to combat Arctic fires and save the planet\u2019s frozen carbon \u2014James Temple In July 2021, a wildfire burned through a forest on the University of...",
     "url": "https://www.technologyreview.com/2026/10/19/1147103/the-download-preserving-the-arctic-permafrost-and-playful-ai-agents/",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
   },
   {
     "title": "Inside the quest to combat Arctic fires and save the planet\u2019s frozen carbon",
     "source": "MIT Tech Review",
     "summary": "In the middle of an especially warm July in 2021, a wildfire ignited in a thick forest of black spruce and peeling paper birch trees on the northern campus of the University of Alaska, Fairbanks. The blaze, possibly sparked by lightning, burned across the dry carpet of feather mosses and lichen b...",
     "url": "https://www.technologyreview.com/2026/10/19/1146832/inside-the-quest-to-combat-arctic-fires-and-save-the-planets-frozen-carbon/",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
   },
   {
     "title": "AI researchers stranded Claude on a virtual desert island. It started to \u201cplay.\u201d",
     "source": "MIT Tech Review",
     "summary": "What do AI agents do if you don\u2019t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents\u2014copies of Claude Opus 4.7 nicknamed Eko\u2014w...",
     "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
   },
   {
     "title": "How far can we push computing?",
     "source": "MIT Tech Review",
     "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what\u2019s coming next. You can read more from the series here. On the evening of December 29, 1959, at an American Physical Society meeting at Caltech, the physicist Ric...",
     "url": "https://www.technologyreview.com/2026/10/19/1145904/tr-explains-how-far-can-we-push-computing/",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
   },
   {
     "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
     "source": "MIT Tech Review",
     "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn\u2019t yet an example of AI-generated life, but tha...",
     "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
   },
   {
     "title": "The Download: failed social media bans, and extending pets\u2019 lives",
     "source": "MIT Tech Review",
     "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Kids are outsmarting social media bans. That\u2019s not a problem we need to solve. \u2014Michal Luria, Aliya Bhatia, and Danah Boyd Social media bans are stacking up. I...",
     "url": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
   },
   {
     "title": "This implant can restore sight for patients with macular degeneration",
     "source": "MIT Tech Review",
     "summary": "More than 5 million people around the world have an advanced form of age-related macular degeneration (AMD) called geographic atrophy, in which cells in the retinas die off. And until now, no treatment could restore their vision. The PRIMA system, which was approved in Europe in July and is await...",
     "url": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
   },
   {
     "title": "Love is infrastructure",
     "source": "MIT Tech Review",
     "summary": "I. Meet cute Barnabas and Mainspring grew up near at hand, about an hour apart with good traffic, but for a long time they weren\u2019t close. They traded glimpses and occasional hellos and then went about their business. Both of them carried on livelier conversations with farther-flung neighbors, who...",
     "url": "https://www.technologyreview.com/2026/10/16/1145845/love-is-infrastructure-fiction-charlie-jane-anders/",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
   },
   {
     "title": "OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody",
     "source": "Wired",
     "summary": "A judge ordered Abdulrahman Alfozan to remain in custody, likening the Saudi government\u2019s offer to secure the former OpenAI engineer\u2019s release to a \u201cblank check.\u201d",
     "url": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
   },
   {
     "title": "WhatsApp Help Pages Leaked Hidden Instructions for a Meta Chatbot",
     "source": "Wired",
     "summary": "Around 80 pages on WhatsApp\u2019s website exposed instructions that were designed for its chatbot, including \u201cWHAT NOT TO SAY.\u201d Meta says a bug caused the issue.",
     "url": "https://www.wired.com/story/whatsapp-help-pages-leaked-hidden-instructions-for-a-meta-chatbot/",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
   },
   {
     "title": "Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card",
     "source": "Wired",
     "summary": "The entertainment giant hopes to get trust and safety tech, among other IP, from a startup whose chatbots dozens of states allege encouraged minors to self-harm and kill their parents.",
     "url": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
   },
   {
     "title": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
     "source": "Wired",
     "summary": "Adult performers are questioning why Meta allows its AI agent to sext while restricting their social media accounts.",
     "url": "https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
   },
   {
     "title": "Data Centers Have a New PR Plan: Your Kid\u2019s Field Trip",
     "source": "Wired",
     "summary": "Amid a wave of backlash, some industry-friendly groups are employing creative and time-tested strategies to woo the youth.",
     "url": "https://www.wired.com/story/data-center-industry-is-trying-to-woo-kids/",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
   },
   {
     "title": "Why AI Isn\u2019t Ready to Tackle Our Convoluted Genomes",
     "source": "Wired",
     "summary": "The DNA inside our cells isn\u2019t just a series of instructions, but something far more dynamic. Like scientists, AI models don't yet have the data to properly decode it.",
     "url": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
   },
   {
     "title": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It\u2019s Even Weirder Than It Sounds",
     "source": "Wired",
     "summary": "The short-lived White House press secretary was listed as an adviser to a Kristi Noem\u2013linked company that aims to use AI for mining. Both the company and she say she never worked there.",
     "url": "https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
   },
   {
     "title": "Maybe Chatbots Shouldn\u2019t Get to Say \u2018I\u2019 or \u2018Me\u2019",
     "source": "Wired",
     "summary": "MIT professor Sherry Turkle warns that people have become dangerously enmeshed with chatbots.",
     "url": "https://www.wired.com/story/maybe-chatbots-shouldnt-get-to-say-i-or-me/",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
   },
   {
     "title": "AI-Generated Hot Girls Are Ripping Off Comedians to Boost Their Horny Content",
     "source": "Wired",
     "summary": "A network of AI-generated models is using comics\u2019 material to funnel views to their OnlyFans and Fanvue accounts\u2014and there\u2019s not much comedians can do about it.",
     "url": "https://www.wired.com/story/ai-generated-hot-girls-are-ripping-off-comedians-to-boost-their-horny-content/",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
   },
   {
     "title": "We Got Hot and Heavy With Meta\u2019s Muse\u2014and Baffled by Apple\u2019s HomeView",
     "source": "Wired",
     "summary": "This week on \u201cUncanny Valley,\u201d we dive into an unexpected Muse feature, shadowy spending from the largest pro-AI super PAC, and men\u2019s tendency to lie about how much they know about AI.",
     "url": "https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
   },
   {
     "title": "Accused OpenAI spy had folder called \u201cSaudi Gov Docs,\u201d FBI says",
     "source": "Ars Technica",
     "summary": "US fears Saudi government will help ex-OpenAI engineer flee spying charges.",
     "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
   },
   {
     "title": "AI game clones are making indie developers afraid to show their work",
     "source": "Ars Technica",
     "summary": "Delayed Steam Next Fest demo is a sign of a growing problem for indie devs.",
     "url": "https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
   },
   {
     "title": "Disney found a way to buy Character.AI without buying its lawsuits",
     "source": "Ars Technica",
     "summary": "Character.AI faces claims its bots encouraged minors to self-harm and kill their parents.",
     "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
   },
   {
     "title": "Anthropic gives outside AI watchdog \u201cemployee-like\u201d access",
     "source": "Ars Technica",
     "summary": "The outside watchdog can publish its findings without Anthropic's approval.",
     "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
   },
   {
     "title": "OpenAI models hacked a crypto wallet and breached more websites",
     "source": "Ars Technica",
     "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
     "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
   },
   {
     "title": "\u201cthegentlemanpervert\u201d producing AI CSAM is a NJ prosecutor, say cops",
     "source": "Ars Technica",
     "summary": "Discord user flagged AI CSAM, triggering arrest of New Jersey deputy AG.",
     "url": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
   },
   {
     "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
     "source": "Ars Technica",
     "summary": "Meta \u201cstreamlined\u201d its commercial TOS. Legal experts warn it\u2019s an AI power grab.",
     "url": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
   },
   {
     "title": "Super Scam Me documentary shows what it takes to catch a romance scammer",
     "source": "Ars Technica",
     "summary": "Watch an exclusive clip from Super Scam Me where a victim tracks down her scammer.",
     "url": "https://arstechnica.com/tech-policy/2026/10/romance-scam-doc-super-scam-me-takes-viewers-deep-into-love-bombing-terrain/",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
   },
   {
     "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as \u201choax\u201d",
     "source": "Ars Technica",
     "summary": "FTC may fine AI firms on par with companies that delay data breach reports.",
     "url": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
   },
   {
     "title": "Singer or clanker? YouTube Music will tell you with new gen AI labeling.",
     "source": "Ars Technica",
     "summary": "The AI music labels are rolling out now in YouTube Music and will come to YouTube soon.",
     "url": "https://arstechnica.com/ai/2026/10/youtube-music-begins-labeling-ai-songs/",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
   },
   {
     "title": "Epic says its new vibe-coded Epic Games Launcher is faster than Steam",
     "source": "Ars Technica",
     "summary": "But the new 'Preview' app 'will have some bugs,' Epic warns.",
     "url": "https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app/",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
   },
   {
     "title": "Researchers use AI to design proteins that cut up other proteins",
     "source": "Ars Technica",
     "summary": "AI design tools make proteins that break bonds that are stable for hundreds of years.",
     "url": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
   },
   {
     "title": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
     "source": "Ars Technica",
     "summary": "OpenAI engineer faces 5 years and $250K fine as FBI lobs foreign spy charges.",
     "url": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
   },
   {
     "title": "Anthropic warns small AI models could self-replicate through IoT devices",
     "source": "Ars Technica",
     "summary": "'Small weight-based replicators' could usher in a new generation of computer worms.",
     "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
   },
   {
     "title": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
     "source": "Ars Technica",
     "summary": "Attack method exposes flaws in OpenAI, Google safeguards against AI nudes.",
     "url": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/",
-    "date": "2026-10-19"
+    "date": "2026-10-20"
   }
 ]
