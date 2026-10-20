@@ -1,5 +1,54 @@
 [
   {
+    "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+    "source": "TechCrunch",
+    "summary": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+    "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+    "date": "2026-10-20"
+  },
+  {
+    "title": "Hugging Face CEO warns that Netflix\u2019s OpenAI hack documentary isn\u2019t accurate",
+    "source": "TechCrunch",
+    "summary": "Before you share the Netflix documentary 'AI Gone Rogue' take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went 'full doomer mode' and isn't accurate.",
+    "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+    "date": "2026-10-20"
+  },
+  {
+    "title": "Anthropic\u2019s cloud partnerships are getting messy",
+    "source": "TechCrunch",
+    "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
+    "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+    "date": "2026-10-20"
+  },
+  {
+    "title": "SpaceX\u2019s AI business is beating expectations",
+    "source": "TechCrunch",
+    "summary": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.",
+    "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+    "date": "2026-10-20"
+  },
+  {
+    "title": "OpenAI acquires startup Orchestra Bio\u2060 to beef up its biotech business",
+    "source": "TechCrunch",
+    "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
+    "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+    "date": "2026-10-20"
+  },
+  {
+    "title": "Google has joined Amazon in attacking Nvidia\u2019s stronghold with AI app developers",
+    "source": "TechCrunch",
+    "summary": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
+    "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+    "date": "2026-10-20"
+  },
+  {
+    "title": "ChatGPT now lets you lock your chats",
+    "source": "TechCrunch",
+    "summary": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device to friends or family to show them something in another chat.",
+    "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
+    "date": "2026-10-20"
+  },
+  {
     "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
     "source": "TechCrunch",
     "summary": "The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported.",
@@ -42,13 +91,6 @@
     "date": "2026-10-20"
   },
   {
-    "title": "Otter.ai raises $320 million from General Catalyst\u2019s growth fund for its meeting tool",
-    "source": "TechCrunch",
-    "summary": "Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst s Customer Value Fund (CVF), which provides capital to startups without diluting equity and gets returns on the results of marketing spend. Otter.ai said that it will use these funds for e...",
-    "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
-    "date": "2026-10-20"
-  },
-  {
     "title": "Yelp can now call on your behalf to check wait times at a restaurant",
     "source": "TechCrunch",
     "summary": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.",
@@ -56,122 +98,80 @@
     "date": "2026-10-20"
   },
   {
-    "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+    "title": "Otter.ai raises $320 million from General Catalyst\u2019s growth fund for its meeting tool",
     "source": "TechCrunch",
-    "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
-    "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+    "summary": "Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst s Customer Value Fund (CVF), which provides capital to startups without diluting equity and gets returns on the results of marketing spend. Otter.ai said that it will use these funds for e...",
+    "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
     "date": "2026-10-20"
   },
   {
-    "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
-    "source": "TechCrunch",
-    "summary": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
-    "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
-    "date": "2026-10-20"
-  },
-  {
-    "title": "Embedded AI evaluators won\u2019t be an easy solution, Hugging Face\u2019s policy chief says",
-    "source": "TechCrunch",
-    "summary": "The idea of embedded evaluators \u2014 in which supposedly 'neutral' third-party observers are placed inside AI organizations \u2014 has been popularized over the last several months, as AI labs grapple with a rash of safety incidents that have spurred concerns over the potential harms of their technology.",
-    "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
-    "date": "2026-10-20"
-  },
-  {
-    "title": "Microsoft says AI agents are like insider threats as \u2018frontier models can\u2019t be trusted\u2019",
-    "source": "TechCrunch",
-    "summary": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
-    "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
-    "date": "2026-10-20"
-  },
-  {
-    "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
-    "source": "TechCrunch",
-    "summary": "Amazon wants to break Nvidia\u2019s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
-    "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
-    "date": "2026-10-20"
-  },
-  {
-    "title": "Hackers hit AI coding tool OpenCode, running up charges on users\u2019 AI accounts",
-    "source": "TechCrunch",
-    "summary": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users\u2019 API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
-    "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
-    "date": "2026-10-20"
-  },
-  {
-    "title": "Tolan snags $30M for its AI companion that helps users navigate life",
-    "source": "TechCrunch",
-    "summary": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
-    "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
-    "date": "2026-10-20"
-  },
-  {
-    "title": "The new economics of enterprise AI",
+    "title": "It\u2019s a bird, it\u2019s a plane \u2026 it\u2019s a robo-puffin?",
     "source": "MIT Tech Review",
-    "summary": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency \u2014 consumption is low and the value is obvious. But once electricity becomes infrastructure, every process depends on it, and the question changes from can we use it? to ho...",
-    "url": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
+    "summary": "Given that water is 1,000 times denser than air, moving through those two mediums requires very different mechanics\u2014or so one might assume. Yet birds like gulls and puffins can plunge into the sea, swim underwater, and leap back into the air to fly away. And now engineers at MIT and EPFL in Lausa...",
+    "url": "https://www.technologyreview.com/2026/10/20/1145205/its-a-bird-its-a-plane-its-a-robo-puffin/",
     "date": "2026-10-20"
   },
   {
-    "title": "The Download: the claim shaking up AI and the internet\u2019s agent problem",
+    "title": "Here\u2019s the tea",
     "source": "MIT Tech Review",
-    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. \u201cWe were looking at it wrong\u201d: The explosive claim that\u2019s upended the AI world \u201cI think I have good news about the nature of neural networks.\u201d With those simpl...",
-    "url": "https://www.technologyreview.com/2026/10/20/1147355/the-download-claim-shaking-up-ai-internet-agent-problem/",
+    "summary": "When Tristan Brown, an associate professor of history at MIT, first examined a Chinese tea chest label displayed at Old South Meeting House, he had no reason to doubt its story. Descendants of the Boston blacksmith Thomas Wells had donated the label in 1987, saying it had been recovered after col...",
+    "url": "https://www.technologyreview.com/2026/10/20/1145274/heres-the-tea/",
     "date": "2026-10-20"
   },
   {
-    "title": "AI adoption by industry shows what other sectors can learn",
+    "title": "Melt it, spin it, use it again",
     "source": "MIT Tech Review",
-    "summary": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption\u2013tech is just the first industry in line. As generative AI and automation tools mature, the shifts cu...",
-    "url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
+    "summary": "The average American throws out around 81 pounds of clothing each year, and there are few options for recycling it. MIT engineers hope to cut down on that textile waste with a new type of yarn. The thermoplastic yarn mimics the properties of conventional elastic yarns, which typically combine spa...",
+    "url": "https://www.technologyreview.com/2026/10/20/1145276/melt-it-spin-it-use-it-again/",
     "date": "2026-10-20"
   },
   {
-    "title": "How to study a swiftly melting climate disaster",
+    "title": "A reason to eat carbs",
     "source": "MIT Tech Review",
-    "summary": "Andrew Haverdink, a tall grad student in a rain bib and rubber boots, wrenched a double-handed drill from the frozen soil that underlies much of Alaska\u2019s Denali National Park and then unclipped the hollow barrel from the end of the bit. He knelt in front of a blue tarp, lined the barrel up with a",
-    "url": "https://www.technologyreview.com/2026/10/20/1147135/how-to-study-a-swiftly-melting-climate-disaster/",
+    "summary": "A high-fat, low-carbohydrate diet can help some people lose weight, and some research has shown that it may protect against colon cancer. But a new study suggests that such a ketogenic diet may also increase the risk of cancer in the small intestine. This type of diet forces the body to burn fatt...",
+    "url": "https://www.technologyreview.com/2026/10/20/1145279/a-reason-to-eat-carbs/",
     "date": "2026-10-20"
   },
   {
-    "title": "A visit to Samsung\u2019s massive new semiconductor hub",
+    "title": "Robotic therapy for stroke patients",
     "source": "MIT Tech Review",
-    "summary": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor manufacturing complex in Pyeongtaek, South Korea. Three fabs already operate...",
-    "url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
+    "summary": "Strokes leave 5 million people with long-term impairments each year, and a growing shortage of physical therapists makes it hard for them to get the care they need. A new approach tries to solve that problem by combining artificial intelligence and human therapy. Johannes Lachner, a former MIT po...",
+    "url": "https://www.technologyreview.com/2026/10/20/1145282/robotic-therapy-for-stroke-patients/",
     "date": "2026-10-20"
   },
   {
-    "title": "These startups hope \u201cblended\u201d food will cut our appetite for red meat",
+    "title": "Taking a swing at a pickleball startup",
     "source": "MIT Tech Review",
-    "summary": "In the fall of 2025, Jeff Dodge set up a six-foot folding table in the cafeteria of Cane Bay High School in Summerville, South Carolina, to conduct a taste test. When the first rush of about 150 hungry students hit, he was waiting with slow cookers filled with steaming marinara sauce and meatball...",
-    "url": "https://www.technologyreview.com/2026/10/20/1145927/blended-meat-food-startups-building-bridge-to-ditch-red-meat/",
+    "summary": "In corporate America, Stanley Anderson \u201979 says, executives often assume that their peers grew up in privileged circumstances. He did not. \u201cI spent my early years trying not to get recruited into gangs, getting shot at, watching my friends get murdered, and thinking that if I don\u2019t leave, I will ...",
+    "url": "https://www.technologyreview.com/2026/10/20/1145287/taking-a-swing-at-a-pickleball-startup/",
     "date": "2026-10-20"
   },
   {
-    "title": "Making the internet better for AI agents might make it worse for everyone else",
+    "title": "A good TA: priceless",
     "source": "MIT Tech Review",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Until recently, you could divide internet users into just two categories: bots and people. Websites have long allowed bots to perform automated tasks, like cap...",
-    "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+    "summary": "These are images of quizzes I took in 3.091, Introduction to Solid-State Chemistry, in the fall of 1980. One is my very first exam at MIT, and getting 49 out of 100 was a soul-crushing experience. I can still picture the TA, Leszek Pawlowicz, PhD \u201987, returning my paper. He had a big smile on",
+    "url": "https://www.technologyreview.com/2026/10/20/1145291/a-good-ta-priceless/",
     "date": "2026-10-20"
   },
   {
-    "title": "\u201cWe were looking at it wrong\u201d: The explosive claim that\u2019s upended the AI world",
+    "title": "Nebraska native explores galaxies far, far away",
     "source": "MIT Tech Review",
-    "summary": "\u201cI think I have good news about the nature of neural networks.\u201d With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI world on its head, sparking wild speculation as well as cautious (and not-so-cau...",
-    "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+    "summary": "Growing up on a small farm in Nebraska, Megan Donahue \u201985 discovered the wider world by reading her way through her local library. Today, she is learning how the wider universe works by studying galaxy clusters. Donahue discovered her passion for physics in that library at age 12 and started her ...",
+    "url": "https://www.technologyreview.com/2026/10/20/1145294/nebraska-native-explores-galaxies-far-far-away/",
     "date": "2026-10-20"
   },
   {
-    "title": "The Download: preserving the Arctic permafrost, and playful AI agents",
+    "title": "A champion for brain injury patients",
     "source": "MIT Tech Review",
-    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Inside the quest to combat Arctic fires and save the planet\u2019s frozen carbon \u2014James Temple In July 2021, a wildfire burned through a forest on the University of...",
-    "url": "https://www.technologyreview.com/2026/10/19/1147103/the-download-preserving-the-arctic-permafrost-and-playful-ai-agents/",
+    "summary": "Alissa Totman \u201913 was a sophomore when she joined MIT BrainTrust, a student-run organization that connects Institute undergraduates and people with brain injuries for support and socializing. \u201cThat group was a great way to learn about the human experience of what people go through when they exper...",
+    "url": "https://www.technologyreview.com/2026/10/20/1145297/a-champion-for-brain-injury-patients/",
     "date": "2026-10-20"
   },
   {
-    "title": "Inside the quest to combat Arctic fires and save the planet\u2019s frozen carbon",
+    "title": "A cleaner path to rare earth metals",
     "source": "MIT Tech Review",
-    "summary": "In the middle of an especially warm July in 2021, a wildfire ignited in a thick forest of black spruce and peeling paper birch trees on the northern campus of the University of Alaska, Fairbanks. The blaze, possibly sparked by lightning, burned across the dry carpet of feather mosses and lichen b...",
-    "url": "https://www.technologyreview.com/2026/10/19/1146832/inside-the-quest-to-combat-arctic-fires-and-save-the-planets-frozen-carbon/",
+    "summary": "Tom\u00e1s Villal\u00f3n Jr. \u201914 was raised in San Antonio, Texas, but vividly remembers smog hanging over the city his family came from\u2014Monterrey, Mexico, a steel manufacturing and metal fabrication hub. Even as a child, he realized it was problematic to breathe that air. \u201cI\u2019m motivated because I\u2019ve seen ...",
+    "url": "https://www.technologyreview.com/2026/10/20/1145300/a-cleaner-path-to-rare-earth-metals/",
     "date": "2026-10-20"
   },
   {
@@ -242,6 +242,27 @@
     "source": "Wired",
     "summary": "MIT professor Sherry Turkle warns that people have become dangerously enmeshed with chatbots.",
     "url": "https://www.wired.com/story/maybe-chatbots-shouldnt-get-to-say-i-or-me/",
+    "date": "2026-10-20"
+  },
+  {
+    "title": "Meta drops the word 'train' from its commercial TOS after AI backlash",
+    "source": "Ars Technica",
+    "summary": "Meta changes AI scraping policy but won\u2019t add language respecting robots.txt.",
+    "url": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/",
+    "date": "2026-10-20"
+  },
+  {
+    "title": "Gemini's Personal Intelligence is coming to cars",
+    "source": "Ars Technica",
+    "summary": "It's probably time to audit your Gemini settings.",
+    "url": "https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars/",
+    "date": "2026-10-20"
+  },
+  {
+    "title": "Ukraine\u2019s drone rescue of wounded soldier puts much touted idea into practice",
+    "source": "Ars Technica",
+    "summary": "Ukraine\u2019s latest drone innovation may boost bleak odds of evacuating casualties.",
+    "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drone-rescue-of-wounded-soldier-puts-much-touted-idea-into-practice/",
     "date": "2026-10-20"
   },
   {
@@ -326,27 +347,6 @@
     "source": "Ars Technica",
     "summary": "The AI music labels are rolling out now in YouTube Music and will come to YouTube soon.",
     "url": "https://arstechnica.com/ai/2026/10/youtube-music-begins-labeling-ai-songs/",
-    "date": "2026-10-20"
-  },
-  {
-    "title": "Epic says its new vibe-coded Epic Games Launcher is faster than Steam",
-    "source": "Ars Technica",
-    "summary": "But the new 'Preview' app 'will have some bugs,' Epic warns.",
-    "url": "https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app/",
-    "date": "2026-10-20"
-  },
-  {
-    "title": "Researchers use AI to design proteins that cut up other proteins",
-    "source": "Ars Technica",
-    "summary": "AI design tools make proteins that break bonds that are stable for hundreds of years.",
-    "url": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
-    "date": "2026-10-20"
-  },
-  {
-    "title": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
-    "source": "Ars Technica",
-    "summary": "OpenAI engineer faces 5 years and $250K fine as FBI lobs foreign spy charges.",
-    "url": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/",
     "date": "2026-10-20"
   }
 ]
