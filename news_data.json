@@ -1,5 +1,12 @@
 [
   {
+    "title": "AI promises productivity, but for managers, it\u2019s mostly a headache for now",
+    "source": "TechCrunch",
+    "summary": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
+    "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
+    "date": "2026-10-21"
+  },
+  {
     "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
     "source": "TechCrunch",
     "summary": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
@@ -98,10 +105,10 @@
     "date": "2026-10-21"
   },
   {
-    "title": "Yelp can now call on your behalf to check wait times at a restaurant",
-    "source": "TechCrunch",
-    "summary": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.",
-    "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
+    "title": "The Download: introducing the Impossible issue",
+    "source": "MIT Tech Review",
+    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Introducing: the Impossible issue We wanted our last print edition of 2026 to include a slate of stories that check in on impossible ideas. Why? Because it\u2019s f...",
+    "url": "https://www.technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue/",
     "date": "2026-10-21"
   },
   {
@@ -168,10 +175,38 @@
     "date": "2026-10-21"
   },
   {
-    "title": "Melt it, spin it, use it again",
-    "source": "MIT Tech Review",
-    "summary": "The average American throws out around 81 pounds of clothing each year, and there are few options for recycling it. MIT engineers hope to cut down on that textile waste with a new type of yarn. The thermoplastic yarn mimics the properties of conventional elastic yarns, which typically combine spa...",
-    "url": "https://www.technologyreview.com/2026/10/20/1145276/melt-it-spin-it-use-it-again/",
+    "title": "This Startup Is All In on Recursive Self-Improvement. Its Latest Model Is Scary Good",
+    "source": "Wired",
+    "summary": "Recursive makes the case that the benefits of using AI to build AI outweigh the risks.",
+    "url": "https://www.wired.com/story/recursive-self-improvement-flint-latest-model-scary-good/",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "Jensen Huang\u2019s Vision for Europe Runs on Plug-In Data Centers",
+    "source": "Wired",
+    "summary": "At Nvidia\u2019s GTC in Berlin, Huang unveiled the company\u2019s new plug-in data center\u2014the DSX Pod\u2014as the key to unlocking Europe\u2019s AI infrastructure lag. Oh, and autonomous humanoid robotics.",
+    "url": "https://www.wired.com/story/jensen-huangs-vision-for-europe-runs-on-plug-in-data-centers/",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "\u2018This Is Not a Drill\u2019: Critical PHP Vulnerabilities Are Setting the Internet on Fire",
+    "source": "Wired",
+    "summary": "The PHP Foundation has revealed two serious vulnerabilities that could impact millions of websites. Security experts warn that failure to quickly patch the flaws could have dire consequences.",
+    "url": "https://www.wired.com/story/this-is-not-a-drill-2-php-vulnerabilities-are-setting-the-internet-on-fire/",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "AI Guardrails Aren\u2019t Stopping Criminal Hackers",
+    "source": "Wired",
+    "summary": "Hackers around the world are all-in on using agentic AI to wage attacks\u2014and manipulating tools like Anthropic\u2019s Claude to help them carry out their crimes.",
+    "url": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "A Design Flaw in Share Links Exposes Users\u2019 Personal Conversations With Meta\u2019s Muse",
+    "source": "Wired",
+    "summary": "The company is suspending the feature after security researchers discovered how easy it was to access sensitive information shared with the AI assistant.",
+    "url": "https://www.wired.com/story/a-design-flaw-in-share-links-exposes-users-personal-conversations-with-meta-muse/",
     "date": "2026-10-21"
   },
   {
@@ -182,7 +217,7 @@
     "date": "2026-10-21"
   },
   {
-    "title": "Europe Wants Data Centers. Its Climate Goals Are Getting in The Way",
+    "title": "Europe Wants Data Centers. Its Climate Goals Are Getting in the Way",
     "source": "Wired",
     "summary": "A plan to funnel the heat given off by data centers into nearby homes has run aground in Germany. Across Europe, policymakers are weighing AI ambitions against climate objectives.",
     "url": "https://www.wired.com/story/europe-data-centers-climate-change/",
@@ -210,38 +245,10 @@
     "date": "2026-10-21"
   },
   {
-    "title": "WhatsApp Help Pages Leaked Hidden Instructions for a Meta Chatbot",
-    "source": "Wired",
-    "summary": "Around 80 pages on WhatsApp\u2019s website exposed instructions that were designed for its chatbot, including \u201cWHAT NOT TO SAY.\u201d Meta says a bug caused the issue.",
-    "url": "https://www.wired.com/story/whatsapp-help-pages-leaked-hidden-instructions-for-a-meta-chatbot/",
-    "date": "2026-10-21"
-  },
-  {
-    "title": "Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card",
-    "source": "Wired",
-    "summary": "The entertainment giant hopes to get trust and safety tech, among other IP, from a startup whose chatbots dozens of states allege encouraged minors to self-harm and kill their parents.",
-    "url": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
-    "date": "2026-10-21"
-  },
-  {
-    "title": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
-    "source": "Wired",
-    "summary": "Adult performers are questioning why Meta allows its AI agent to sext while restricting their social media accounts.",
-    "url": "https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/",
-    "date": "2026-10-21"
-  },
-  {
-    "title": "Data Centers Have a New PR Plan: Your Kid\u2019s Field Trip",
-    "source": "Wired",
-    "summary": "Amid a wave of backlash, some industry-friendly groups are employing creative and time-tested strategies to woo the youth.",
-    "url": "https://www.wired.com/story/data-center-industry-is-trying-to-woo-kids/",
-    "date": "2026-10-21"
-  },
-  {
-    "title": "Why AI Isn\u2019t Ready to Tackle Our Convoluted Genomes",
-    "source": "Wired",
-    "summary": "The DNA inside our cells isn\u2019t just a series of instructions, but something far more dynamic. Like scientists, AI models don't yet have the data to properly decode it.",
-    "url": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/",
+    "title": "The $15 billion ad-powered AI startup your doctor may already be using",
+    "source": "Ars Technica",
+    "summary": "OpenEvidence is booming despite questions about accuracy and ads.",
+    "url": "https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using/",
     "date": "2026-10-21"
   },
   {
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "FTC may fine AI firms on par with companies that delay data breach reports.",
     "url": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
-    "date": "2026-10-21"
-  },
-  {
-    "title": "Singer or clanker? YouTube Music will tell you with new gen AI labeling.",
-    "source": "Ars Technica",
-    "summary": "The AI music labels are rolling out now in YouTube Music and will come to YouTube soon.",
-    "url": "https://arstechnica.com/ai/2026/10/youtube-music-begins-labeling-ai-songs/",
     "date": "2026-10-21"
   }
 ]
