@@ -94,6 +94,16 @@
   "episodes": [
     {
       "id": "a]6z Pod_0",
+      "name": "The Missing Infrastructure for AI Agents: Documents | Reducto’s Adit Abraham",
+      "show": "a]6z Podcast",
+      "description": "AI agents can reason over enormous amounts of information, but much of the world’s actual work is still trapped in PDFs, spreadsheets, scans, and other formats that models struggle to reliably unde",
+      "release_date": "2026-10-21",
+      "duration_min": 38,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
+      "id": "a]6z Pod_1",
       "name": "What Happens When Everyone Has a Health Expert in Their Pocket? | OpenAI’s Karan Singhal",
       "show": "a]6z Podcast",
       "description": "More than 300 million people use ChatGPT for health and wellness questions each week. OpenAI’s Karan Singhal thinks that’s only the beginning: the longer-term goal is AI that can help people naviga",
@@ -103,22 +113,12 @@
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "What Happens When Al Agents Can Spend Your Money?",
       "show": "a]6z Podcast",
       "description": "Why hasn't AI transformed everyday work as quickly as coding? Town CEO Jean-Denis Greze argues the bottleneck isn't intelligence, but making AI useful to people who don't have the time or technical",
       "release_date": "2026-10-19",
       "duration_min": 62,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
-    },
-    {
-      "id": "a]6z Pod_2",
-      "name": "Why Real-World AI Is Harder Than the Benchmark | EliseAI’s Mario Martone",
-      "show": "a]6z Podcast",
-      "description": "What changes when an AI mistake doesn’t just hurt a benchmark score, but affects someone’s housing or healthcare? EliseAI Head of Applied Research Mario Martone argues that deploying AI in essentia",
-      "release_date": "2026-10-18",
-      "duration_min": 24,
       "image": "",
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },

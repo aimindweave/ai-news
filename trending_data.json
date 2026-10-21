@@ -1,82 +1,82 @@
 [
   {
-    "title": "Good type against all odds",
+    "title": "Does Ruby on Rails still make sense?",
     "source": "Hacker News",
-    "description": "HN Score: 41 | 8 comments",
-    "url": "https://unsung.aresluna.org/good-type-against-all-odds/",
-    "score": 41,
+    "description": "HN Score: 16 | 3 comments",
+    "url": "https://tech.dirkjonker.nl/does-ruby-on-rails-make-sense/",
+    "score": 16,
     "date": "2026-10-21",
     "category": "AI News"
   },
   {
-    "title": "To Make, or to Buy: The Economics of Decision Models",
+    "title": "Good type against all odds",
     "source": "Hacker News",
-    "description": "HN Score: 19 | 1 comments",
-    "url": "https://pncnmnp.github.io/blogs/economics-decision-models.html",
-    "score": 19,
+    "description": "HN Score: 139 | 12 comments",
+    "url": "https://unsung.aresluna.org/good-type-against-all-odds/",
+    "score": 139,
+    "date": "2026-10-21",
+    "category": "AI News"
+  },
+  {
+    "title": "Using Claude to reduce the attack surface of code",
+    "source": "Hacker News",
+    "description": "HN Score: 61 | 26 comments",
+    "url": "https://www.anthropic.com/research/attack-surface-reduction",
+    "score": 61,
     "date": "2026-10-21",
     "category": "AI News"
   },
   {
     "title": "DeepInfer: High-performance inference framework for DeepSeek models",
     "source": "Hacker News",
-    "description": "HN Score: 2177 | 844 comments",
+    "description": "HN Score: 2262 | 862 comments",
     "url": "https://github.com/deepseek-ai/DeepInfer",
-    "score": 2177,
+    "score": 2262,
     "date": "2026-10-21",
     "category": "AI News"
   },
   {
-    "title": "Benchmarking Bot Detection Systems Against Modern AI Agents in 2026",
+    "title": "Show HN: Linkit \u2013 AI bookmark manager, 100% free and open source",
     "source": "Hacker News",
-    "description": "HN Score: 35 | 2 comments",
-    "url": "https://research.poh.org/bot-benchmarking-2026/",
-    "score": 35,
+    "description": "HN Score: 5 | 0 comments",
+    "url": "https://github.com/blue-idea/linkit",
+    "score": 5,
+    "date": "2026-10-21",
+    "category": "AI News"
+  },
+  {
+    "title": "To Make, or to Buy: The Economics of Decision Models",
+    "source": "Hacker News",
+    "description": "HN Score: 54 | 2 comments",
+    "url": "https://pncnmnp.github.io/blogs/economics-decision-models.html",
+    "score": 54,
     "date": "2026-10-21",
     "category": "AI News"
   },
   {
     "title": "Launch HN: Respan (YC W24) \u2013 Open-source Rust AI gateway built around plugins",
     "source": "Hacker News",
-    "description": "HN Score: 46 | 19 comments",
+    "description": "HN Score: 49 | 20 comments",
     "url": "https://news.ycombinator.com/item?id=50167583",
-    "score": 46,
+    "score": 49,
     "date": "2026-10-21",
     "category": "AI News"
   },
   {
-    "title": "Facebook Pages require paid subscription to post more than two links per month",
+    "title": "Benchmarking Bot Detection Systems Against Modern AI Agents in 2026",
     "source": "Hacker News",
-    "description": "HN Score: 427 | 383 comments",
-    "url": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
-    "score": 427,
+    "description": "HN Score: 46 | 7 comments",
+    "url": "https://research.poh.org/bot-benchmarking-2026/",
+    "score": 46,
     "date": "2026-10-21",
     "category": "AI News"
   },
   {
     "title": "Publish fake stats, get cited in LLMs",
     "source": "Hacker News",
-    "description": "HN Score: 327 | 192 comments",
+    "description": "HN Score: 344 | 198 comments",
     "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
-    "score": 327,
-    "date": "2026-10-21",
-    "category": "AI News"
-  },
-  {
-    "title": "NixOS is making me less afraid",
-    "source": "Hacker News",
-    "description": "HN Score: 173 | 115 comments",
-    "url": "https://entropicthoughts.com/nixos-is-making-me-less-afraid",
-    "score": 173,
-    "date": "2026-10-21",
-    "category": "AI News"
-  },
-  {
-    "title": "Claude designed protein binders against scorpion neurotoxins",
-    "source": "Hacker News",
-    "description": "HN Score: 98 | 64 comments",
-    "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
-    "score": 98,
+    "score": 344,
     "date": "2026-10-21",
     "category": "AI News"
   }

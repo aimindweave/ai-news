@@ -2,14 +2,14 @@
   {
     "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
     "source": "TechCrunch",
-    "summary": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+    "summary": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
     "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
     "date": "2026-10-21"
   },
   {
     "title": "Hugging Face CEO warns that Netflix\u2019s OpenAI hack documentary isn\u2019t accurate",
     "source": "TechCrunch",
-    "summary": "Before you share the Netflix documentary 'AI Gone Rogue' take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went 'full doomer mode' and isn't accurate.",
+    "summary": "Before you share the Netflix documentary 'AI Gone Rogue,' take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went 'full doomer mode' and isn't accurate.",
     "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
     "date": "2026-10-21"
   },
@@ -23,7 +23,7 @@
   {
     "title": "SpaceX\u2019s AI business is beating expectations",
     "source": "TechCrunch",
-    "summary": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.",
+    "summary": "SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine.",
     "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
     "date": "2026-10-21"
   },
@@ -105,6 +105,55 @@
     "date": "2026-10-21"
   },
   {
+    "title": "We can do impossible things",
+    "source": "MIT Tech Review",
+    "summary": "I\u2019d wager everyone has a rehearsed response to what\u2019s absolutely one of the world\u2019s worst interview questions: \u201cWhat\u2019s your biggest weakness?\u201d Whenever I\u2019ve gotten it, I take a slow\u2014even pensive\u2014breath and rattle off my line: \u201cI say no to myself too much.\u201d I won\u2019t lie. It\u2019s a bit shameless\u2014a defi...",
+    "url": "https://www.technologyreview.com/2026/10/21/1146053/editor-letter-we-can-do-impossible-things/",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "Nuclear-powered spaceships",
+    "source": "MIT Tech Review",
+    "summary": "Just before the Artemis II crew began its historic slingshot around the moon this past April, NASA announced plans to build Space Reactor-1 Freedom. SR-1, the first-ever nuclear-reactor-\u00adpowered interplanetary spacecraft, is meant to fly an uncrewed mission to Mars by the end of 2028, arriving in...",
+    "url": "https://www.technologyreview.com/2026/10/21/1146061/nuclear-powered-spaceships-impossible-issue/",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "Exercise in a pill",
+    "source": "MIT Tech Review",
+    "summary": "We all know exercise is good for us. It builds muscle, strengthens bones, lowers blood pressure, and boosts mood. By deciphering how movement benefits the body, researchers hope to develop medicines that can offer some of the same perks\u2014without the workout. The idea isn\u2019t to replace exercise but ...",
+    "url": "https://www.technologyreview.com/2026/10/21/1146121/exercise-in-a-pill-impossible-issue/",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "Interspecies communication",
+    "source": "MIT Tech Review",
+    "summary": "Humans are far from the only species with a gift for gab, and our furry, feathered, and finned friends could have a lot to tell us. Decoding how animals communicate with one another could offer a window into the inner lives of other species and help humans realize that \u201canimals are sentient creat...",
+    "url": "https://www.technologyreview.com/2026/10/21/1146124/interspecies-communication-impossible-issue/",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "Cleaning up PFAS",
+    "source": "MIT Tech Review",
+    "summary": "Scrubbing Earth of per- and polyfluoroalkyl substances\u2014a.k.a. PFAS or forever chemicals\u2014could eliminate a list of woes for people and planet. Used for decades in everything from nonstick pans to firefighting foams, PFAS have been linked to increased risks of fertility challenges, developmental de...",
+    "url": "https://www.technologyreview.com/2026/10/21/1146128/cleaning-up-pfas-impossible-issue/",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "Solid-state batteries",
+    "source": "MIT Tech Review",
+    "summary": "The rise of the lithium-ion battery, which powers everything from the smallest personal electronics to gargantuan energy storage systems, has been nothing short of revolutionary. But as anyone who\u2019s boarded a plane in the last decade could tell you, storing and pumping out energy by moving charge...",
+    "url": "https://www.technologyreview.com/2026/10/21/1146137/solid-state-batteries-impossible-issue/",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "Eliminating traffic deaths",
+    "source": "MIT Tech Review",
+    "summary": "Every year, traffic crashes kill more than one million people, and they\u2019re the leading cause of death for children and young adults. In the US, 100 people a day lose their lives this way, in many cases not on highways but on rural and local streets. \u201cTraffic deaths are a leading cause of preventa...",
+    "url": "https://www.technologyreview.com/2026/10/21/1146141/eliminating-traffic-deaths-impossible-issue/",
+    "date": "2026-10-21"
+  },
+  {
     "title": "It\u2019s a bird, it\u2019s a plane \u2026 it\u2019s a robo-puffin?",
     "source": "MIT Tech Review",
     "summary": "Given that water is 1,000 times denser than air, moving through those two mediums requires very different mechanics\u2014or so one might assume. Yet birds like gulls and puffins can plunge into the sea, swim underwater, and leap back into the air to fly away. And now engineers at MIT and EPFL in Lausa...",
@@ -126,52 +175,17 @@
     "date": "2026-10-21"
   },
   {
-    "title": "A reason to eat carbs",
-    "source": "MIT Tech Review",
-    "summary": "A high-fat, low-carbohydrate diet can help some people lose weight, and some research has shown that it may protect against colon cancer. But a new study suggests that such a ketogenic diet may also increase the risk of cancer in the small intestine. This type of diet forces the body to burn fatt...",
-    "url": "https://www.technologyreview.com/2026/10/20/1145279/a-reason-to-eat-carbs/",
+    "title": "OpenAI Invests in Startup That Uses Brain Implants to Detect Cancer",
+    "source": "Wired",
+    "summary": "It\u2019s the latest in a growing wave of bets that AI companies are making on brain data.",
+    "url": "https://www.wired.com/story/openai-startup-brain-implants-detect-cancer/",
     "date": "2026-10-21"
   },
   {
-    "title": "Robotic therapy for stroke patients",
-    "source": "MIT Tech Review",
-    "summary": "Strokes leave 5 million people with long-term impairments each year, and a growing shortage of physical therapists makes it hard for them to get the care they need. A new approach tries to solve that problem by combining artificial intelligence and human therapy. Johannes Lachner, a former MIT po...",
-    "url": "https://www.technologyreview.com/2026/10/20/1145282/robotic-therapy-for-stroke-patients/",
-    "date": "2026-10-21"
-  },
-  {
-    "title": "Taking a swing at a pickleball startup",
-    "source": "MIT Tech Review",
-    "summary": "In corporate America, Stanley Anderson \u201979 says, executives often assume that their peers grew up in privileged circumstances. He did not. \u201cI spent my early years trying not to get recruited into gangs, getting shot at, watching my friends get murdered, and thinking that if I don\u2019t leave, I will ...",
-    "url": "https://www.technologyreview.com/2026/10/20/1145287/taking-a-swing-at-a-pickleball-startup/",
-    "date": "2026-10-21"
-  },
-  {
-    "title": "A good TA: priceless",
-    "source": "MIT Tech Review",
-    "summary": "These are images of quizzes I took in 3.091, Introduction to Solid-State Chemistry, in the fall of 1980. One is my very first exam at MIT, and getting 49 out of 100 was a soul-crushing experience. I can still picture the TA, Leszek Pawlowicz, PhD \u201987, returning my paper. He had a big smile on",
-    "url": "https://www.technologyreview.com/2026/10/20/1145291/a-good-ta-priceless/",
-    "date": "2026-10-21"
-  },
-  {
-    "title": "Nebraska native explores galaxies far, far away",
-    "source": "MIT Tech Review",
-    "summary": "Growing up on a small farm in Nebraska, Megan Donahue \u201985 discovered the wider world by reading her way through her local library. Today, she is learning how the wider universe works by studying galaxy clusters. Donahue discovered her passion for physics in that library at age 12 and started her ...",
-    "url": "https://www.technologyreview.com/2026/10/20/1145294/nebraska-native-explores-galaxies-far-far-away/",
-    "date": "2026-10-21"
-  },
-  {
-    "title": "A champion for brain injury patients",
-    "source": "MIT Tech Review",
-    "summary": "Alissa Totman \u201913 was a sophomore when she joined MIT BrainTrust, a student-run organization that connects Institute undergraduates and people with brain injuries for support and socializing. \u201cThat group was a great way to learn about the human experience of what people go through when they exper...",
-    "url": "https://www.technologyreview.com/2026/10/20/1145297/a-champion-for-brain-injury-patients/",
-    "date": "2026-10-21"
-  },
-  {
-    "title": "A cleaner path to rare earth metals",
-    "source": "MIT Tech Review",
-    "summary": "Tom\u00e1s Villal\u00f3n Jr. \u201914 was raised in San Antonio, Texas, but vividly remembers smog hanging over the city his family came from\u2014Monterrey, Mexico, a steel manufacturing and metal fabrication hub. Even as a child, he realized it was problematic to breathe that air. \u201cI\u2019m motivated because I\u2019ve seen ...",
-    "url": "https://www.technologyreview.com/2026/10/20/1145300/a-cleaner-path-to-rare-earth-metals/",
+    "title": "Europe Wants Data Centers. Its Climate Goals Are Getting in The Way",
+    "source": "Wired",
+    "summary": "A plan to funnel the heat given off by data centers into nearby homes has run aground in Germany. Across Europe, policymakers are weighing AI ambitions against climate objectives.",
+    "url": "https://www.wired.com/story/europe-data-centers-climate-change/",
     "date": "2026-10-21"
   },
   {
@@ -228,20 +242,6 @@
     "source": "Wired",
     "summary": "The DNA inside our cells isn\u2019t just a series of instructions, but something far more dynamic. Like scientists, AI models don't yet have the data to properly decode it.",
     "url": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/",
-    "date": "2026-10-21"
-  },
-  {
-    "title": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It\u2019s Even Weirder Than It Sounds",
-    "source": "Wired",
-    "summary": "The short-lived White House press secretary was listed as an adviser to a Kristi Noem\u2013linked company that aims to use AI for mining. Both the company and she say she never worked there.",
-    "url": "https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/",
-    "date": "2026-10-21"
-  },
-  {
-    "title": "Maybe Chatbots Shouldn\u2019t Get to Say \u2018I\u2019 or \u2018Me\u2019",
-    "source": "Wired",
-    "summary": "MIT professor Sherry Turkle warns that people have become dangerously enmeshed with chatbots.",
-    "url": "https://www.wired.com/story/maybe-chatbots-shouldnt-get-to-say-i-or-me/",
     "date": "2026-10-21"
   },
   {
