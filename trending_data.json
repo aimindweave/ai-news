@@ -2,90 +2,90 @@
   {
     "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
     "source": "Hacker News",
-    "description": "HN Score: 139 | 54 comments",
+    "description": "HN Score: 347 | 117 comments",
     "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
-    "score": 139,
+    "score": 347,
+    "date": "2026-10-21",
+    "category": "AI News"
+  },
+  {
+    "title": "Claude Duet",
+    "source": "Hacker News",
+    "description": "HN Score: 183 | 162 comments",
+    "url": "https://claude.com/product/claude-duet",
+    "score": 183,
     "date": "2026-10-21",
     "category": "AI News"
   },
   {
     "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
     "source": "Hacker News",
-    "description": "HN Score: 134 | 73 comments",
+    "description": "HN Score: 199 | 130 comments",
     "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
-    "score": 134,
-    "date": "2026-10-21",
-    "category": "AI News"
-  },
-  {
-    "title": "PHP2Shell: AI uncovers critical RCE in PHP",
-    "source": "Hacker News",
-    "description": "HN Score: 366 | 126 comments",
-    "url": "https://www.wiz.io/blog/php2shell-php-rce",
-    "score": 366,
-    "date": "2026-10-21",
-    "category": "AI News"
-  },
-  {
-    "title": "Rust off Rails: The opinionated web stack for the AI era",
-    "source": "Hacker News",
-    "description": "HN Score: 9 | 1 comments",
-    "url": "https://rustoffrails.org/",
-    "score": 9,
-    "date": "2026-10-21",
-    "category": "AI News"
-  },
-  {
-    "title": "Cloudflare deploys protections against php2shell vulnerability",
-    "source": "Hacker News",
-    "description": "HN Score: 56 | 5 comments",
-    "url": "https://blog.cloudflare.com/php-vulnerabilities-waf-protection/",
-    "score": 56,
-    "date": "2026-10-21",
-    "category": "AI News"
-  },
-  {
-    "title": "Launch HN: Alter (YC S25) \u2013 Access control for multi-user agents",
-    "source": "Hacker News",
-    "description": "HN Score: 15 | 10 comments",
-    "url": "https://alterauth.com/",
-    "score": 15,
-    "date": "2026-10-21",
-    "category": "AI News"
-  },
-  {
-    "title": "Using thousands of AI agents to uncover new leads in biological data",
-    "source": "Hacker News",
-    "description": "HN Score: 53 | 14 comments",
-    "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
-    "score": 53,
+    "score": 199,
     "date": "2026-10-21",
     "category": "AI News"
   },
   {
     "title": "OpenAI models are coming to Google Cloud",
     "source": "Hacker News",
-    "description": "HN Score: 34 | 1 comments",
+    "description": "HN Score: 182 | 83 comments",
     "url": "https://openai.com/index/openai-models-google-cloud/",
-    "score": 34,
+    "score": 182,
+    "date": "2026-10-21",
+    "category": "AI News"
+  },
+  {
+    "title": "Using thousands of AI agents to uncover new leads in biological data",
+    "source": "Hacker News",
+    "description": "HN Score: 113 | 59 comments",
+    "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
+    "score": 113,
+    "date": "2026-10-21",
+    "category": "AI News"
+  },
+  {
+    "title": "The bridge to agent-scale Git infrastructure",
+    "source": "Hacker News",
+    "description": "HN Score: 40 | 9 comments",
+    "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
+    "score": 40,
+    "date": "2026-10-21",
+    "category": "AI News"
+  },
+  {
+    "title": "Claude Duet",
+    "source": "Hacker News",
+    "description": "HN Score: 21 | 6 comments",
+    "url": "https://claude.com/resources/articles/claude-duet",
+    "score": 21,
+    "date": "2026-10-21",
+    "category": "AI News"
+  },
+  {
+    "title": "Launch HN: Alter (YC S25) \u2013 Access control for multi-user agents",
+    "source": "Hacker News",
+    "description": "HN Score: 29 | 19 comments",
+    "url": "https://alterauth.com/",
+    "score": 29,
     "date": "2026-10-21",
     "category": "AI News"
   },
   {
     "title": "C++ futures part 1: The mental model",
     "source": "Hacker News",
-    "description": "HN Score: 32 | 9 comments",
+    "description": "HN Score: 59 | 11 comments",
     "url": "https://devblogs.microsoft.com/oldnewthing/20261012-00/?p=112767/",
-    "score": 32,
+    "score": 59,
     "date": "2026-10-21",
     "category": "AI News"
   },
   {
-    "title": "AI agent fixed the bug, but what else did it change?",
+    "title": "Google staff resign in backlash over its AI contracts with military",
     "source": "Hacker News",
-    "description": "HN Score: 11 | 1 comments",
-    "url": "https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change/",
-    "score": 11,
+    "description": "HN Score: 46 | 2 comments",
+    "url": "https://www.bbc.com/news/articles/cmreyvepnv0po",
+    "score": 46,
     "date": "2026-10-21",
     "category": "AI News"
   }

@@ -93,6 +93,16 @@
   ],
   "episodes": [
     {
+      "id": "The TWIM_0",
+      "name": "Airbnb Is Building a ‘Company Brain’ for AI Agents with Ahmad Al-Dahle - #781",
+      "show": "The TWIML AI Podcast",
+      "description": "AI agents need the institutional knowledge experienced employees rely on: why a system works a certain way, which policies apply, and what never made it into the documentation. Capturing that knowledg",
+      "release_date": "2026-10-21",
+      "duration_min": 51,
+      "image": "",
+      "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
+    },
+    {
       "id": "a]6z Pod_0",
       "name": "The Missing Infrastructure for AI Agents: Documents | Reducto’s Adit Abraham",
       "show": "a]6z Podcast",
@@ -143,7 +153,7 @@
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
-      "id": "The TWIM_0",
+      "id": "The TWIM_1",
       "name": "Your Ranking Model Is Optimizing the Wrong Thing with Zoe Weil - #780",
       "show": "The TWIML AI Podcast",
       "description": "In this episode, Zoe Weil, co-founder and CEO of Sequen, joins us to discuss how ranking systems can use live behavioral signals to optimize for purchases rather than clicks or search relevance alone.",
@@ -173,7 +183,7 @@
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
-      "id": "The TWIM_1",
+      "id": "The TWIM_2",
       "name": "Why Jev Is Changing How We Build With AI with Diogo Almeida - #779",
       "show": "The TWIML AI Podcast",
       "description": "In this episode, Diogo Almeida, co-founder and CEO of TypeSafe, joins us to discuss Jev, TypeSafe’s recently released model for bringing fast, reliable intelligence directly into software. We explore ",
@@ -201,16 +211,6 @@
       "duration_min": 47,
       "image": "",
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
-    },
-    {
-      "id": "The TWIM_2",
-      "name": "From Math Olympiads to Navier-Stokes: How Fast Is AI Progressing? with Greg Burnham - #778",
-      "show": "The TWIML AI Podcast",
-      "description": "AI systems have gone from struggling with grade-school math to helping solve research problems that have resisted mathematicians for decades, including Navier-Stokes.\n\nIn this episode, Greg Burnham, w",
-      "release_date": "2026-09-29",
-      "duration_min": 67,
-      "image": "",
-      "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
     },
     {
       "id": "Lex Frid_0",
