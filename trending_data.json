@@ -1,92 +1,83 @@
 [
   {
+    "title": "Good type against all odds",
+    "source": "Hacker News",
+    "description": "HN Score: 41 | 8 comments",
+    "url": "https://unsung.aresluna.org/good-type-against-all-odds/",
+    "score": 41,
+    "date": "2026-10-21",
+    "category": "AI News"
+  },
+  {
+    "title": "To Make, or to Buy: The Economics of Decision Models",
+    "source": "Hacker News",
+    "description": "HN Score: 19 | 1 comments",
+    "url": "https://pncnmnp.github.io/blogs/economics-decision-models.html",
+    "score": 19,
+    "date": "2026-10-21",
+    "category": "AI News"
+  },
+  {
     "title": "DeepInfer: High-performance inference framework for DeepSeek models",
     "source": "Hacker News",
-    "description": "HN Score: 2074 | 812 comments",
+    "description": "HN Score: 2177 | 844 comments",
     "url": "https://github.com/deepseek-ai/DeepInfer",
-    "score": 2074,
-    "date": "2026-10-20",
-    "category": "AI News"
-  },
-  {
-    "title": "Claude designed protein binders against scorpion neurotoxins",
-    "source": "Hacker News",
-    "description": "HN Score: 80 | 44 comments",
-    "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
-    "score": 80,
-    "date": "2026-10-20",
-    "category": "AI News"
-  },
-  {
-    "title": "Facebook Pages require paid subscription to post more than two links per month",
-    "source": "Hacker News",
-    "description": "HN Score: 397 | 357 comments",
-    "url": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
-    "score": 397,
-    "date": "2026-10-20",
-    "category": "AI News"
-  },
-  {
-    "title": "Launch HN: Respan (YC W24) \u2013 Open-source Rust AI gateway built around plugins",
-    "source": "Hacker News",
-    "description": "HN Score: 36 | 16 comments",
-    "url": "https://news.ycombinator.com/item?id=50167583",
-    "score": 36,
-    "date": "2026-10-20",
-    "category": "AI News"
-  },
-  {
-    "title": "Publish fake stats, get cited in LLMs",
-    "source": "Hacker News",
-    "description": "HN Score: 308 | 176 comments",
-    "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
-    "score": 308,
-    "date": "2026-10-20",
-    "category": "AI News"
-  },
-  {
-    "title": "NixOS is making me less afraid",
-    "source": "Hacker News",
-    "description": "HN Score: 160 | 104 comments",
-    "url": "https://entropicthoughts.com/nixos-is-making-me-less-afraid",
-    "score": 160,
-    "date": "2026-10-20",
-    "category": "AI News"
-  },
-  {
-    "title": "Anthropic logged net loss of over $80B in first half of 2026",
-    "source": "Hacker News",
-    "description": "HN Score: 71 | 37 comments",
-    "url": "https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20/",
-    "score": 71,
-    "date": "2026-10-20",
-    "category": "AI News"
-  },
-  {
-    "title": "Show HN: Penmentor \u2013 Claude marks up your handwritten math like a teacher",
-    "source": "Hacker News",
-    "description": "HN Score: 50 | 4 comments",
-    "url": "https://github.com/AbdullahAlhariri/penmentor",
-    "score": 50,
-    "date": "2026-10-20",
-    "category": "AI News"
-  },
-  {
-    "title": "Anthropic recorded a staggering $80B net loss in the first half of 2026",
-    "source": "Hacker News",
-    "description": "HN Score: 13 | 8 comments",
-    "url": "https://twitter.com/Polymarket/status/2112634886070919426",
-    "score": 13,
-    "date": "2026-10-20",
+    "score": 2177,
+    "date": "2026-10-21",
     "category": "AI News"
   },
   {
     "title": "Benchmarking Bot Detection Systems Against Modern AI Agents in 2026",
     "source": "Hacker News",
-    "description": "HN Score: 10 | 0 comments",
+    "description": "HN Score: 35 | 2 comments",
     "url": "https://research.poh.org/bot-benchmarking-2026/",
-    "score": 10,
-    "date": "2026-10-20",
+    "score": 35,
+    "date": "2026-10-21",
+    "category": "AI News"
+  },
+  {
+    "title": "Launch HN: Respan (YC W24) \u2013 Open-source Rust AI gateway built around plugins",
+    "source": "Hacker News",
+    "description": "HN Score: 46 | 19 comments",
+    "url": "https://news.ycombinator.com/item?id=50167583",
+    "score": 46,
+    "date": "2026-10-21",
+    "category": "AI News"
+  },
+  {
+    "title": "Facebook Pages require paid subscription to post more than two links per month",
+    "source": "Hacker News",
+    "description": "HN Score: 427 | 383 comments",
+    "url": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
+    "score": 427,
+    "date": "2026-10-21",
+    "category": "AI News"
+  },
+  {
+    "title": "Publish fake stats, get cited in LLMs",
+    "source": "Hacker News",
+    "description": "HN Score: 327 | 192 comments",
+    "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
+    "score": 327,
+    "date": "2026-10-21",
+    "category": "AI News"
+  },
+  {
+    "title": "NixOS is making me less afraid",
+    "source": "Hacker News",
+    "description": "HN Score: 173 | 115 comments",
+    "url": "https://entropicthoughts.com/nixos-is-making-me-less-afraid",
+    "score": 173,
+    "date": "2026-10-21",
+    "category": "AI News"
+  },
+  {
+    "title": "Claude designed protein binders against scorpion neurotoxins",
+    "source": "Hacker News",
+    "description": "HN Score: 98 | 64 comments",
+    "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+    "score": 98,
+    "date": "2026-10-21",
     "category": "AI News"
   }
 ]
