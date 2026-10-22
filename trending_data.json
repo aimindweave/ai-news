@@ -1,91 +1,91 @@
 [
   {
-    "title": "OpenAI CLI",
+    "title": "Jailbreaking the Switch 2",
     "source": "Hacker News",
-    "description": "HN Score: 42 | 20 comments",
-    "url": "https://github.com/openai/openai-cli",
-    "score": 42,
+    "description": "HN Score: 269 | 87 comments",
+    "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+    "score": 269,
     "date": "2026-10-22",
     "category": "AI News"
   },
   {
     "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
     "source": "Hacker News",
-    "description": "HN Score: 87 | 36 comments",
+    "description": "HN Score: 341 | 103 comments",
     "url": "https://simedw.com/2026/10/21/world-model-terminal/",
-    "score": 87,
+    "score": 341,
+    "date": "2026-10-22",
+    "category": "AI News"
+  },
+  {
+    "title": "Several Linux kernel vulnerabilities accidentally posted to public mailing list",
+    "source": "Hacker News",
+    "description": "HN Score: 117 | 26 comments",
+    "url": "https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities",
+    "score": 117,
+    "date": "2026-10-22",
+    "category": "AI News"
+  },
+  {
+    "title": "The painter behind Manhattan\u2019s Gilded Age interiors",
+    "source": "Hacker News",
+    "description": "HN Score: 10 | 0 comments",
+    "url": "https://engelsbergideas.com/notebook/the-unknown-painter-behind-manhattans-gilded-age-interiors/",
+    "score": 10,
+    "date": "2026-10-22",
+    "category": "AI News"
+  },
+  {
+    "title": "Claude Duet",
+    "source": "Hacker News",
+    "description": "HN Score: 457 | 424 comments",
+    "url": "https://claude.com/product/claude-duet",
+    "score": 457,
     "date": "2026-10-22",
     "category": "AI News"
   },
   {
     "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
     "source": "Hacker News",
-    "description": "HN Score: 486 | 166 comments",
+    "description": "HN Score: 553 | 180 comments",
     "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
-    "score": 486,
+    "score": 553,
     "date": "2026-10-22",
     "category": "AI News"
   },
   {
     "title": "Using LLM for confidence scoring is a bad idea",
     "source": "Hacker News",
-    "description": "HN Score: 56 | 37 comments",
+    "description": "HN Score: 130 | 78 comments",
     "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
-    "score": 56,
+    "score": 130,
     "date": "2026-10-22",
     "category": "AI News"
   },
   {
-    "title": "Show HN: Omnara \u2013 Open-source alternative to Claude Managed Agents",
+    "title": "OpenAI CLI",
     "source": "Hacker News",
-    "description": "HN Score: 66 | 22 comments",
-    "url": "https://github.com/omnara-ai/omnara",
-    "score": 66,
+    "description": "HN Score: 171 | 85 comments",
+    "url": "https://github.com/openai/openai-cli",
+    "score": 171,
     "date": "2026-10-22",
     "category": "AI News"
   },
   {
     "title": "OpenAI models are coming to Google Cloud",
     "source": "Hacker News",
-    "description": "HN Score: 282 | 116 comments",
+    "description": "HN Score: 309 | 132 comments",
     "url": "https://openai.com/index/openai-models-google-cloud/",
-    "score": 282,
+    "score": 309,
     "date": "2026-10-22",
     "category": "AI News"
   },
   {
-    "title": "Chain of Thought for Humans",
+    "title": "Show HN: Omnara \u2013 Open-source alternative to Claude Managed Agents",
     "source": "Hacker News",
-    "description": "HN Score: 84 | 38 comments",
-    "url": "https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/",
-    "score": 84,
-    "date": "2026-10-22",
-    "category": "AI News"
-  },
-  {
-    "title": "Clockwork Mechanics, Maintenance, and Metaphors in the Late Middle Ages",
-    "source": "Hacker News",
-    "description": "HN Score: 10 | 2 comments",
-    "url": "https://www.jhiblog.org/2026/10/19/clockwork-metaphors/",
-    "score": 10,
-    "date": "2026-10-22",
-    "category": "AI News"
-  },
-  {
-    "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
-    "source": "Hacker News",
-    "description": "HN Score: 251 | 169 comments",
-    "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
-    "score": 251,
-    "date": "2026-10-22",
-    "category": "AI News"
-  },
-  {
-    "title": "Launch HN: Alter (YC S25) \u2013 Access control for multi-user agents",
-    "source": "Hacker News",
-    "description": "HN Score: 60 | 25 comments",
-    "url": "https://alterauth.com/",
-    "score": 60,
+    "description": "HN Score: 93 | 27 comments",
+    "url": "https://github.com/omnara-ai/omnara",
+    "score": 93,
     "date": "2026-10-22",
     "category": "AI News"
   }
