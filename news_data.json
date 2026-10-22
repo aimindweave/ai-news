@@ -1,5 +1,33 @@
 [
   {
+    "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+    "source": "TechCrunch",
+    "summary": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
+    "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+    "date": "2026-10-22"
+  },
+  {
+    "title": "Uber puts all 30,000 employees on ChatGPT Work",
+    "source": "TechCrunch",
+    "summary": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
+    "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+    "date": "2026-10-22"
+  },
+  {
+    "title": "Spotify\u2019s current AI bet is about being the music service that agents choose",
+    "source": "TechCrunch",
+    "summary": "Spotify co-CEO Gustav S\u00f6derstr\u00f6m explains why the rise of AI agents could be good news for the music service.",
+    "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
+    "date": "2026-10-22"
+  },
+  {
+    "title": "Claude Duet app is Anthropic\u2019s bet on agents",
+    "source": "TechCrunch",
+    "summary": "Claude Duet is available through waitlist for Pro and Max plan users.",
+    "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+    "date": "2026-10-22"
+  },
+  {
     "title": "Nirva raises $33M for a pendant that only listens to you",
     "source": "TechCrunch",
     "summary": "Nirva will ship its $249 ambient AI pendant by the end of the year.",
@@ -9,7 +37,7 @@
   {
     "title": "DeepSeek reportedly raises $15B days after US restrictions",
     "source": "TechCrunch",
-    "summary": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the US ordered federal agencies to remove its technology over national security concerns.",
+    "summary": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns.",
     "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
     "date": "2026-10-22"
   },
@@ -18,6 +46,13 @@
     "source": "TechCrunch",
     "summary": "Blackstone\u2019s AI head on why the PE giant isn't panicked by market jitters.",
     "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+    "date": "2026-10-22"
+  },
+  {
+    "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
+    "source": "TechCrunch",
+    "summary": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.",
+    "url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
     "date": "2026-10-22"
   },
   {
@@ -67,41 +102,6 @@
     "source": "TechCrunch",
     "summary": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
     "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
-    "date": "2026-10-22"
-  },
-  {
-    "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-    "source": "TechCrunch",
-    "summary": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
-    "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-    "date": "2026-10-22"
-  },
-  {
-    "title": "Hugging Face CEO warns that Netflix\u2019s OpenAI hack documentary isn\u2019t accurate",
-    "source": "TechCrunch",
-    "summary": "Before you share the Netflix documentary 'AI Gone Rogue,' take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went 'full doomer mode' and isn't accurate.",
-    "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
-    "date": "2026-10-22"
-  },
-  {
-    "title": "Anthropic\u2019s cloud partnerships are getting messy",
-    "source": "TechCrunch",
-    "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
-    "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
-    "date": "2026-10-22"
-  },
-  {
-    "title": "SpaceX\u2019s AI business is beating expectations",
-    "source": "TechCrunch",
-    "summary": "SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine.",
-    "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
-    "date": "2026-10-22"
-  },
-  {
-    "title": "OpenAI acquires startup Orchestra Bio\u2060 to beef up its biotech business",
-    "source": "TechCrunch",
-    "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
-    "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
     "date": "2026-10-22"
   },
   {
@@ -245,6 +245,13 @@
     "date": "2026-10-22"
   },
   {
+    "title": "Hackers got a four-day head start on epic PHP2Shell vulnerability",
+    "source": "Ars Technica",
+    "summary": "Hackers were already probing the bug before defenders were told it existed.",
+    "url": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/",
+    "date": "2026-10-22"
+  },
+  {
     "title": "The new human-crafted Apple Music brand matters in an AI world",
     "source": "Ars Technica",
     "summary": "Opinion: In a world of AI slop, showing the human hands making things helps.",
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
     "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
-    "date": "2026-10-22"
-  },
-  {
-    "title": "\u201cthegentlemanpervert\u201d producing AI CSAM is a NJ prosecutor, say cops",
-    "source": "Ars Technica",
-    "summary": "Discord user flagged AI CSAM, triggering arrest of New Jersey deputy AG.",
-    "url": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
     "date": "2026-10-22"
   }
 ]
