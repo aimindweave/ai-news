@@ -1,91 +1,91 @@
 [
   {
-    "title": "Jailbreaking the Switch 2",
+    "title": "OpenShell \u2013 A safe, private runtime for fleets of autonomous AI agents",
     "source": "Hacker News",
-    "description": "HN Score: 547 | 201 comments",
-    "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
-    "score": 547,
+    "description": "HN Score: 252 | 131 comments",
+    "url": "https://github.com/NVIDIA/OpenShell",
+    "score": 252,
     "date": "2026-10-22",
     "category": "AI News"
   },
   {
-    "title": "Show HN: agent-usage-guard \u2013 a Claude Code mod to protect your usage window",
+    "title": "Every AI model has the same 'controversial' take on humans",
     "source": "Hacker News",
-    "description": "HN Score: 7 | 3 comments",
-    "url": "https://github.com/rbartoli/agent-usage-guard",
-    "score": 7,
+    "description": "HN Score: 175 | 186 comments",
+    "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+    "score": 175,
+    "date": "2026-10-22",
+    "category": "AI News"
+  },
+  {
+    "title": "Railpass",
+    "source": "Hacker News",
+    "description": "HN Score: 19 | 2 comments",
+    "url": "https://train.samismith.com/",
+    "score": 19,
+    "date": "2026-10-22",
+    "category": "AI News"
+  },
+  {
+    "title": "AI and the Enclosure of the Scientific Commons",
+    "source": "Hacker News",
+    "description": "HN Score: 93 | 53 comments",
+    "url": "https://arxiv.org/abs/2610.27251",
+    "score": 93,
+    "date": "2026-10-22",
+    "category": "AI News"
+  },
+  {
+    "title": "Jailbreaking the Switch 2",
+    "source": "Hacker News",
+    "description": "HN Score: 675 | 237 comments",
+    "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+    "score": 675,
+    "date": "2026-10-22",
+    "category": "AI News"
+  },
+  {
+    "title": "Show HN: CATT 0.2.1: Test agents/services against a Muse/Instinct-alike, in CI",
+    "source": "Hacker News",
+    "description": "HN Score: 4 | 0 comments",
+    "url": "https://github.com/Coverage-Cat/consumer-agent-testing-tool",
+    "score": 4,
+    "date": "2026-10-22",
+    "category": "AI News"
+  },
+  {
+    "title": "Show HN: UI micro interactions prompts for AI",
+    "source": "Hacker News",
+    "description": "HN Score: 67 | 37 comments",
+    "url": "https://www.typeui.sh/micro-interactions",
+    "score": 67,
+    "date": "2026-10-22",
+    "category": "AI News"
+  },
+  {
+    "title": "Mini brain organoids \u2018reading\u2019 Braille key step towards biohybrid computing",
+    "source": "Hacker News",
+    "description": "HN Score: 35 | 37 comments",
+    "url": "https://www.frontiersin.org/news/2026/10/16/mini-brain-organoids-reading-braille-biohybrid-computing-frontiers-artificial-intelligence",
+    "score": 35,
     "date": "2026-10-22",
     "category": "AI News"
   },
   {
     "title": "AI analysis of CT scans finds 42.9% of patients have coronary inflammation",
     "source": "Hacker News",
-    "description": "HN Score: 11 | 4 comments",
+    "description": "HN Score: 72 | 37 comments",
     "url": "https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients",
-    "score": 11,
+    "score": 72,
     "date": "2026-10-22",
     "category": "AI News"
   },
   {
-    "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+    "title": "Show HN: Turn regular JavaScript into a neural net",
     "source": "Hacker News",
-    "description": "HN Score: 442 | 141 comments",
-    "url": "https://simedw.com/2026/10/21/world-model-terminal/",
-    "score": 442,
-    "date": "2026-10-22",
-    "category": "AI News"
-  },
-  {
-    "title": "Claude Duet",
-    "source": "Hacker News",
-    "description": "HN Score: 525 | 488 comments",
-    "url": "https://claude.com/product/claude-duet",
-    "score": 525,
-    "date": "2026-10-22",
-    "category": "AI News"
-  },
-  {
-    "title": "Mini brain organoids 'reading' Braille key step towards biohybrid computing",
-    "source": "Hacker News",
-    "description": "HN Score: 4 | 1 comments",
-    "url": "https://www.frontiersin.org/news/2026/10/16/mini-brain-organoids-reading-braille-biohybrid-computing-frontiers-artificial-intelligence",
-    "score": 4,
-    "date": "2026-10-22",
-    "category": "AI News"
-  },
-  {
-    "title": "Several Linux kernel vulnerabilities accidentally posted to public mailing list",
-    "source": "Hacker News",
-    "description": "HN Score: 224 | 74 comments",
-    "url": "https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities",
-    "score": 224,
-    "date": "2026-10-22",
-    "category": "AI News"
-  },
-  {
-    "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
-    "source": "Hacker News",
-    "description": "HN Score: 582 | 190 comments",
-    "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
-    "score": 582,
-    "date": "2026-10-22",
-    "category": "AI News"
-  },
-  {
-    "title": "Using LLM for confidence scoring is a bad idea",
-    "source": "Hacker News",
-    "description": "HN Score: 191 | 98 comments",
-    "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
-    "score": 191,
-    "date": "2026-10-22",
-    "category": "AI News"
-  },
-  {
-    "title": "The painter behind Manhattan\u2019s Gilded Age interiors",
-    "source": "Hacker News",
-    "description": "HN Score: 46 | 5 comments",
-    "url": "https://engelsbergideas.com/notebook/the-unknown-painter-behind-manhattans-gilded-age-interiors/",
-    "score": 46,
+    "description": "HN Score: 29 | 10 comments",
+    "url": "https://chenglou.me/handwired/",
+    "score": 29,
     "date": "2026-10-22",
     "category": "AI News"
   }

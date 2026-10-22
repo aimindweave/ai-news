@@ -1,5 +1,40 @@
 [
   {
+    "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+    "source": "TechCrunch",
+    "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
+    "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+    "date": "2026-10-22"
+  },
+  {
+    "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+    "source": "TechCrunch",
+    "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
+    "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+    "date": "2026-10-22"
+  },
+  {
+    "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+    "source": "TechCrunch",
+    "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+    "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+    "date": "2026-10-22"
+  },
+  {
+    "title": "Canva releases its first image generation model",
+    "source": "TechCrunch",
+    "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+    "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+    "date": "2026-10-22"
+  },
+  {
+    "title": "Microsoft\u2019s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases \u2018medical superintelligence\u2019",
+    "source": "TechCrunch",
+    "summary": "Microsoft\u2019s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft\u2019s system itself.",
+    "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+    "date": "2026-10-22"
+  },
+  {
     "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
     "source": "TechCrunch",
     "summary": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
@@ -70,38 +105,17 @@
     "date": "2026-10-22"
   },
   {
-    "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
-    "source": "TechCrunch",
-    "summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
-    "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+    "title": "Designing an AI serving harness built to last",
+    "source": "MIT Tech Review",
+    "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That\u2019s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windo...",
+    "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
     "date": "2026-10-22"
   },
   {
-    "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
-    "source": "TechCrunch",
-    "summary": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
-    "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
-    "date": "2026-10-22"
-  },
-  {
-    "title": "PHP Armageddon: OpenAI, Google\u2019s Wiz find ancient holes, panicking the internet",
-    "source": "TechCrunch",
-    "summary": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
-    "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
-    "date": "2026-10-22"
-  },
-  {
-    "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
-    "source": "TechCrunch",
-    "summary": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.",
-    "url": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
-    "date": "2026-10-22"
-  },
-  {
-    "title": "AI promises productivity, but for managers, it\u2019s mostly a headache for now",
-    "source": "TechCrunch",
-    "summary": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
-    "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
+    "title": "The Foundations of Scalable AI",
+    "source": "MIT Tech Review",
+    "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and ...",
+    "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
     "date": "2026-10-22"
   },
   {
@@ -161,17 +175,10 @@
     "date": "2026-10-22"
   },
   {
-    "title": "Interspecies communication",
-    "source": "MIT Tech Review",
-    "summary": "Humans are far from the only species with a gift for gab, and our furry, feathered, and finned friends could have a lot to tell us. Decoding how animals communicate with one another could offer a window into the inner lives of other species and help humans realize that \u201canimals are sentient creat...",
-    "url": "https://www.technologyreview.com/2026/10/21/1146124/interspecies-communication-impossible-issue/",
-    "date": "2026-10-22"
-  },
-  {
-    "title": "Cleaning up PFAS",
-    "source": "MIT Tech Review",
-    "summary": "Scrubbing Earth of per- and polyfluoroalkyl substances\u2014a.k.a. PFAS or forever chemicals\u2014could eliminate a list of woes for people and planet. Used for decades in everything from nonstick pans to firefighting foams, PFAS have been linked to increased risks of fertility challenges, developmental de...",
-    "url": "https://www.technologyreview.com/2026/10/21/1146128/cleaning-up-pfas-impossible-issue/",
+    "title": "The Social Society Helping Women Join the AI Boom",
+    "source": "Wired",
+    "summary": "WIRED spoke with the founders of the Aged Intelligence Society, a fast-growing events startup that brings women together to \u201csolve midlife problems using frontier tools.\u201d",
+    "url": "https://www.wired.com/story/aged-intelligence-society-interview/",
     "date": "2026-10-22"
   },
   {
@@ -235,13 +242,6 @@
     "source": "Wired",
     "summary": "The company is suspending the feature after security researchers discovered how easy it was to access sensitive information shared with the AI assistant.",
     "url": "https://www.wired.com/story/a-design-flaw-in-share-links-exposes-users-personal-conversations-with-meta-muse/",
-    "date": "2026-10-22"
-  },
-  {
-    "title": "OpenAI Invests in Startup That Uses Brain Implants to Detect Cancer",
-    "source": "Wired",
-    "summary": "It\u2019s the latest in a growing wave of bets that AI companies are making on brain data.",
-    "url": "https://www.wired.com/story/openai-startup-brain-implants-detect-cancer/",
     "date": "2026-10-22"
   },
   {
