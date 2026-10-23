@@ -93,6 +93,26 @@
   ],
   "episodes": [
     {
+      "id": "Hard For_0",
+      "name": "What’s the Deal With Billy Evans? A Spoiler-Filled Guide to ‘You Can See Everything’",
+      "show": "Hard Fork",
+      "description": "This week, we focus on Billy Evans, the breakout character of the documentary “You Can See Everything,” and his Theranos-esque new blood-testing start-up. Rob Copeland, a New York Times finance rep",
+      "release_date": "2026-10-23",
+      "duration_min": 59,
+      "image": "",
+      "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
+    },
+    {
+      "id": "a]6z Pod_0",
+      "name": "Amazon CEO Andy Jassy on Why Amazon Is Investing $220 Billion in AI",
+      "show": "a]6z Podcast",
+      "description": "Amazon expects to spend roughly $220 billion in CapEx in 2026, yet CEO Andy Jassy says the company is still leaving meaningful AI demand on the table.** He believes the buildout could ultimately he",
+      "release_date": "2026-10-23",
+      "duration_min": 61,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
       "id": "Practica_0",
       "name": "Exploit Development, Agentic Vulnerability Discovery, and Fake PoCs",
       "show": "Practical AI",
@@ -103,7 +123,7 @@
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
-      "id": "a]6z Pod_0",
+      "id": "a]6z Pod_1",
       "name": "The Frontier Ideas a16z Wants to Fund | Marc Andreessen, Ben Horowitz & Chris Dixon",
       "show": "a]6z Podcast",
       "description": "a16z is expanding a16z crypto into a16z Frontier, a broader mandate to back founders building at the edges of what's possible. Chris Dixon joins Marc Andreessen, Ben Horowitz, and Erik Torenberg to",
@@ -123,7 +143,7 @@
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "The Missing Infrastructure for AI Agents: Documents | Reducto’s Adit Abraham",
       "show": "a]6z Podcast",
       "description": "AI agents can reason over enormous amounts of information, but much of the world’s actual work is still trapped in PDFs, spreadsheets, scans, and other formats that models struggle to reliably unde",
@@ -133,17 +153,7 @@
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
-      "id": "a]6z Pod_2",
-      "name": "What Happens When Everyone Has a Health Expert in Their Pocket? | OpenAI’s Karan Singhal",
-      "show": "a]6z Podcast",
-      "description": "More than 300 million people use ChatGPT for health and wellness questions each week. OpenAI’s Karan Singhal thinks that’s only the beginning: the longer-term goal is AI that can help people naviga",
-      "release_date": "2026-10-20",
-      "duration_min": 55,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
-    },
-    {
-      "id": "Hard For_0",
+      "id": "Hard For_1",
       "name": "Why No One Can Look Away From Elizabeth Holmes",
       "show": "Hard Fork",
       "description": "This week, there’s a new blockbuster Elizabeth Holmes documentary out, and we’ve assembled an expert panel to discuss the movie and what Holmes means to the tech world of today. Max Read is joined ",
@@ -173,7 +183,7 @@
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
     },
     {
-      "id": "Hard For_1",
+      "id": "Hard For_2",
       "name": "Anthropic’s Quest to Give A.I. Morals",
       "show": "Hard Fork",
       "description": "This week, Max Read talks to the Times religion correspondent Elizabeth Dias, the tech reporter Erin Griffith and the opinion writer David Wallace-Wells about Anthropic’s private meetings with reli",
@@ -201,16 +211,6 @@
       "duration_min": 90,
       "image": "",
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
-    },
-    {
-      "id": "Hard For_2",
-      "name": "A.I. Agents: Cute, Cuddly and Maybe Catastrophically Dangerous?",
-      "show": "Hard Fork",
-      "description": "This week, after months in which rogue agents have caused havoc across the internet, tech’s most powerful leaders joined President Trump at the White House to rebrand A.I. At the same time, two of ",
-      "release_date": "2026-10-02",
-      "duration_min": 53,
-      "image": "",
-      "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
       "id": "Lex Frid_0",
