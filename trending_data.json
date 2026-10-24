@@ -1,37 +1,73 @@
 [
   {
+    "title": "No Signs of AI Payoff Outside the Tech Sector",
+    "source": "Hacker News",
+    "description": "HN Score: 106 | 77 comments",
+    "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+    "score": 106,
+    "date": "2026-10-24",
+    "category": "AI News"
+  },
+  {
     "title": "Neural chip decodes interactions between brain regions",
     "source": "Hacker News",
-    "description": "HN Score: 28 | 3 comments",
+    "description": "HN Score: 64 | 18 comments",
     "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
-    "score": 28,
+    "score": 64,
+    "date": "2026-10-24",
+    "category": "AI News"
+  },
+  {
+    "title": "Why is AI generated language so hard to understand?",
+    "source": "Hacker News",
+    "description": "HN Score: 81 | 69 comments",
+    "url": "https://arxiv.org/abs/2610.29162",
+    "score": 81,
+    "date": "2026-10-24",
+    "category": "AI News"
+  },
+  {
+    "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+    "source": "Hacker News",
+    "description": "HN Score: 20 | 15 comments",
+    "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
+    "score": 20,
     "date": "2026-10-24",
     "category": "AI News"
   },
   {
     "title": "A practical guide to AI image generation, from diffusion to agents",
     "source": "Hacker News",
-    "description": "HN Score: 203 | 59 comments",
+    "description": "HN Score: 227 | 71 comments",
     "url": "https://danielball.com/notes/ai_image_generation.html",
-    "score": 203,
+    "score": 227,
     "date": "2026-10-24",
     "category": "AI News"
   },
   {
     "title": "Dessa: Conversation Model trained only on speech",
     "source": "Hacker News",
-    "description": "HN Score: 453 | 176 comments",
+    "description": "HN Score: 489 | 184 comments",
     "url": "https://block.xyz/dessa",
-    "score": 453,
+    "score": 489,
     "date": "2026-10-24",
     "category": "AI News"
   },
   {
-    "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+    "title": "Glymphatic clearance to alleviate brain edema and Alzheimer's pathology in mice",
     "source": "Hacker News",
-    "description": "HN Score: 84 | 39 comments",
-    "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
-    "score": 84,
+    "description": "HN Score: 30 | 7 comments",
+    "url": "https://www.science.org/doi/10.1126/sciadv.aeh8870",
+    "score": 30,
+    "date": "2026-10-24",
+    "category": "AI News"
+  },
+  {
+    "title": "Progressive disclosure in agents to make them 2.3x faster",
+    "source": "Hacker News",
+    "description": "HN Score: 6 | 0 comments",
+    "url": "https://www.skyvern.com/blog/deleting-rag-from-our-web-agent-made-it-2-3x-faster/",
+    "score": 6,
     "date": "2026-10-24",
     "category": "AI News"
   },
@@ -45,38 +81,11 @@
     "category": "AI News"
   },
   {
-    "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
+    "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
     "source": "Hacker News",
-    "description": "HN Score: 117 | 40 comments",
-    "url": "https://corgi.computer/",
-    "score": 117,
-    "date": "2026-10-24",
-    "category": "AI News"
-  },
-  {
-    "title": "Air Purifiers as White Noise Machines",
-    "source": "Hacker News",
-    "description": "HN Score: 160 | 147 comments",
-    "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
-    "score": 160,
-    "date": "2026-10-24",
-    "category": "AI News"
-  },
-  {
-    "title": "Rise of collagen-eating microbes may help explain gaps in the fossil record",
-    "source": "Hacker News",
-    "description": "HN Score: 68 | 10 comments",
-    "url": "https://www.cam.ac.uk/research/news/rise-of-collagen-eating-microbes-may-help-explain-gaps-in-the-fossil-record",
-    "score": 68,
-    "date": "2026-10-24",
-    "category": "AI News"
-  },
-  {
-    "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
-    "source": "Hacker News",
-    "description": "HN Score: 632 | 188 comments",
-    "url": "https://simedw.com/2026/10/21/world-model-terminal/",
-    "score": 632,
+    "description": "HN Score: 87 | 46 comments",
+    "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
+    "score": 87,
     "date": "2026-10-24",
     "category": "AI News"
   }
