@@ -1,18 +1,27 @@
 [
   {
-    "title": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
+    "title": "Cerebras Deploys Trillion-Parameter AI Models",
     "source": "Hacker News",
-    "description": "HN Score: 30 | 12 comments",
-    "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-    "score": 30,
+    "description": "HN Score: 109 | 38 comments",
+    "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+    "score": 109,
     "date": "2026-10-25",
     "category": "AI News"
   },
   {
-    "title": "Argus \u2013 a free, open-source agentic security operations platform \u2013 MIT",
+    "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
     "source": "Hacker News",
-    "description": "HN Score: 22 | 7 comments",
-    "url": "https://thomasunise.com/argus",
+    "description": "HN Score: 315 | 311 comments",
+    "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+    "score": 315,
+    "date": "2026-10-25",
+    "category": "AI News"
+  },
+  {
+    "title": "In Rainbows",
+    "source": "Hacker News",
+    "description": "HN Score: 22 | 3 comments",
+    "url": "https://hitogata.neocities.org/Rainbows",
     "score": 22,
     "date": "2026-10-25",
     "category": "AI News"
@@ -20,54 +29,63 @@
   {
     "title": "Neural chip decodes interactions between brain regions",
     "source": "Hacker News",
-    "description": "HN Score: 84 | 29 comments",
+    "description": "HN Score: 102 | 37 comments",
     "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
-    "score": 84,
+    "score": 102,
     "date": "2026-10-25",
     "category": "AI News"
   },
   {
-    "title": "No signs of AI payoff outside the tech sector",
+    "title": "Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness",
     "source": "Hacker News",
-    "description": "HN Score: 443 | 431 comments",
-    "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-    "score": 443,
+    "description": "HN Score: 138 | 48 comments",
+    "url": "https://github.com/slee-persis/GVS5H",
+    "score": 138,
     "date": "2026-10-25",
     "category": "AI News"
   },
   {
-    "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+    "title": "Reactive Optimizers: rewrite the optimizer's source code during training",
     "source": "Hacker News",
-    "description": "HN Score: 31 | 21 comments",
-    "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
-    "score": 31,
-    "date": "2026-10-25",
-    "category": "AI News"
-  },
-  {
-    "title": "A practical guide to AI image generation, from diffusion to agents",
-    "source": "Hacker News",
-    "description": "HN Score: 242 | 81 comments",
-    "url": "https://danielball.com/notes/ai_image_generation.html",
-    "score": 242,
+    "description": "HN Score: 27 | 2 comments",
+    "url": "https://xingjianbai.com/reactive-optimizers/",
+    "score": 27,
     "date": "2026-10-25",
     "category": "AI News"
   },
   {
     "title": "Why is AI generated language so hard to understand?",
     "source": "Hacker News",
-    "description": "HN Score: 146 | 143 comments",
+    "description": "HN Score: 185 | 162 comments",
     "url": "https://arxiv.org/abs/2610.29162",
-    "score": 146,
+    "score": 185,
     "date": "2026-10-25",
     "category": "AI News"
   },
   {
-    "title": "Progressive disclosure in agents to make them 2.3x faster",
+    "title": "A practical guide to AI image generation, from diffusion to agents",
     "source": "Hacker News",
-    "description": "HN Score: 11 | 0 comments",
-    "url": "https://www.skyvern.com/blog/deleting-rag-from-our-web-agent-made-it-2-3x-faster/",
-    "score": 11,
+    "description": "HN Score: 255 | 83 comments",
+    "url": "https://danielball.com/notes/ai_image_generation.html",
+    "score": 255,
+    "date": "2026-10-25",
+    "category": "AI News"
+  },
+  {
+    "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+    "source": "Hacker News",
+    "description": "HN Score: 42 | 34 comments",
+    "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
+    "score": 42,
+    "date": "2026-10-25",
+    "category": "AI News"
+  },
+  {
+    "title": "Making My Blog Readable by AI Agents",
+    "source": "Hacker News",
+    "description": "HN Score: 10 | 1 comments",
+    "url": "https://deallocatedobjects.com/posts/making-my-blog-readable-by-ai-agents",
+    "score": 10,
     "date": "2026-10-25",
     "category": "AI News"
   }
