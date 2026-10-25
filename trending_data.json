@@ -1,91 +1,73 @@
 [
   {
-    "title": "Cerebras Deploys Trillion-Parameter AI Models",
+    "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
     "source": "Hacker News",
-    "description": "HN Score: 303 | 107 comments",
-    "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-    "score": 303,
+    "description": "HN Score: 271 | 128 comments",
+    "url": "https://lynchlab.net/llm-skin-cancer",
+    "score": 271,
     "date": "2026-10-25",
     "category": "AI News"
   },
   {
-    "title": "A Mathematician Reads the AI Future",
+    "title": "JetBrains Thinkrail",
     "source": "Hacker News",
-    "description": "HN Score: 21 | 7 comments",
-    "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/",
-    "score": 21,
+    "description": "HN Score: 85 | 38 comments",
+    "url": "https://github.com/JetBrains/thinkrail",
+    "score": 85,
+    "date": "2026-10-25",
+    "category": "AI News"
+  },
+  {
+    "title": "Gheist campaign plants secret-dumping workflows using stolen GitHub tokens",
+    "source": "Hacker News",
+    "description": "HN Score: 8 | 0 comments",
+    "url": "https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles",
+    "score": 8,
+    "date": "2026-10-25",
+    "category": "AI News"
+  },
+  {
+    "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+    "source": "Hacker News",
+    "description": "HN Score: 133 | 212 comments",
+    "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+    "score": 133,
+    "date": "2026-10-25",
+    "category": "AI News"
+  },
+  {
+    "title": "Cerebras Deploys Trillion-Parameter AI Models",
+    "source": "Hacker News",
+    "description": "HN Score: 337 | 119 comments",
+    "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+    "score": 337,
     "date": "2026-10-25",
     "category": "AI News"
   },
   {
     "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
     "source": "Hacker News",
-    "description": "HN Score: 103 | 34 comments",
+    "description": "HN Score: 123 | 58 comments",
     "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
-    "score": 103,
-    "date": "2026-10-25",
-    "category": "AI News"
-  },
-  {
-    "title": "Flapping Airplanes",
-    "source": "Hacker News",
-    "description": "HN Score: 3 | 3 comments",
-    "url": "https://flappingairplanes.com/",
-    "score": 3,
+    "score": 123,
     "date": "2026-10-25",
     "category": "AI News"
   },
   {
     "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
     "source": "Hacker News",
-    "description": "HN Score: 463 | 486 comments",
+    "description": "HN Score: 487 | 522 comments",
     "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-    "score": 463,
+    "score": 487,
     "date": "2026-10-25",
     "category": "AI News"
   },
   {
     "title": "Neural chip decodes interactions between brain regions",
     "source": "Hacker News",
-    "description": "HN Score: 130 | 47 comments",
+    "description": "HN Score: 134 | 47 comments",
     "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
-    "score": 130,
-    "date": "2026-10-25",
-    "category": "AI News"
-  },
-  {
-    "title": "Rewriting a Commercial Engine in Jai",
-    "source": "Hacker News",
-    "description": "HN Score: 64 | 53 comments",
-    "url": "https://polygonjs.com/blog/why-i-rewrote-polygon-from-scratch",
-    "score": 64,
-    "date": "2026-10-25",
-    "category": "AI News"
-  },
-  {
-    "title": "Why is AI generated language so hard to understand?",
-    "source": "Hacker News",
-    "description": "HN Score: 231 | 186 comments",
-    "url": "https://arxiv.org/abs/2610.29162",
-    "score": 231,
-    "date": "2026-10-25",
-    "category": "AI News"
-  },
-  {
-    "title": "In Rainbows",
-    "source": "Hacker News",
-    "description": "HN Score: 32 | 9 comments",
-    "url": "https://hitogata.neocities.org/Rainbows",
-    "score": 32,
-    "date": "2026-10-25",
-    "category": "AI News"
-  },
-  {
-    "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
-    "source": "Hacker News",
-    "description": "HN Score: 646 | 192 comments",
-    "url": "https://simedw.com/2026/10/21/world-model-terminal/",
-    "score": 646,
+    "score": 134,
     "date": "2026-10-25",
     "category": "AI News"
   }
