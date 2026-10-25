@@ -2,90 +2,90 @@
   {
     "title": "Cerebras Deploys Trillion-Parameter AI Models",
     "source": "Hacker News",
-    "description": "HN Score: 109 | 38 comments",
+    "description": "HN Score: 219 | 69 comments",
     "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-    "score": 109,
+    "score": 219,
+    "date": "2026-10-25",
+    "category": "AI News"
+  },
+  {
+    "title": "Samsung running a TensorFlow lite model on 960x540 image to track you",
+    "source": "Hacker News",
+    "description": "HN Score: 99 | 45 comments",
+    "url": "https://twitter.com/mike64_t/status/2114150399406202896",
+    "score": 99,
+    "date": "2026-10-25",
+    "category": "AI News"
+  },
+  {
+    "title": "Rewriting a Commercial Engine in Jai",
+    "source": "Hacker News",
+    "description": "HN Score: 45 | 32 comments",
+    "url": "https://polygonjs.com/blog/why-i-rewrote-polygon-from-scratch",
+    "score": 45,
+    "date": "2026-10-25",
+    "category": "AI News"
+  },
+  {
+    "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
+    "source": "Hacker News",
+    "description": "HN Score: 34 | 4 comments",
+    "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+    "score": 34,
     "date": "2026-10-25",
     "category": "AI News"
   },
   {
     "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
     "source": "Hacker News",
-    "description": "HN Score: 315 | 311 comments",
+    "description": "HN Score: 400 | 409 comments",
     "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-    "score": 315,
-    "date": "2026-10-25",
-    "category": "AI News"
-  },
-  {
-    "title": "In Rainbows",
-    "source": "Hacker News",
-    "description": "HN Score: 22 | 3 comments",
-    "url": "https://hitogata.neocities.org/Rainbows",
-    "score": 22,
+    "score": 400,
     "date": "2026-10-25",
     "category": "AI News"
   },
   {
     "title": "Neural chip decodes interactions between brain regions",
     "source": "Hacker News",
-    "description": "HN Score: 102 | 37 comments",
+    "description": "HN Score: 112 | 45 comments",
     "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
-    "score": 102,
+    "score": 112,
     "date": "2026-10-25",
     "category": "AI News"
   },
   {
-    "title": "Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness",
+    "title": "In Rainbows",
     "source": "Hacker News",
-    "description": "HN Score: 138 | 48 comments",
-    "url": "https://github.com/slee-persis/GVS5H",
-    "score": 138,
-    "date": "2026-10-25",
-    "category": "AI News"
-  },
-  {
-    "title": "Reactive Optimizers: rewrite the optimizer's source code during training",
-    "source": "Hacker News",
-    "description": "HN Score: 27 | 2 comments",
-    "url": "https://xingjianbai.com/reactive-optimizers/",
-    "score": 27,
-    "date": "2026-10-25",
-    "category": "AI News"
-  },
-  {
-    "title": "Why is AI generated language so hard to understand?",
-    "source": "Hacker News",
-    "description": "HN Score: 185 | 162 comments",
-    "url": "https://arxiv.org/abs/2610.29162",
-    "score": 185,
+    "description": "HN Score: 28 | 8 comments",
+    "url": "https://hitogata.neocities.org/Rainbows",
+    "score": 28,
     "date": "2026-10-25",
     "category": "AI News"
   },
   {
     "title": "A practical guide to AI image generation, from diffusion to agents",
     "source": "Hacker News",
-    "description": "HN Score: 255 | 83 comments",
+    "description": "HN Score: 277 | 90 comments",
     "url": "https://danielball.com/notes/ai_image_generation.html",
-    "score": 255,
+    "score": 277,
+    "date": "2026-10-25",
+    "category": "AI News"
+  },
+  {
+    "title": "Why is AI generated language so hard to understand?",
+    "source": "Hacker News",
+    "description": "HN Score: 210 | 175 comments",
+    "url": "https://arxiv.org/abs/2610.29162",
+    "score": 210,
     "date": "2026-10-25",
     "category": "AI News"
   },
   {
     "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
     "source": "Hacker News",
-    "description": "HN Score: 42 | 34 comments",
+    "description": "HN Score: 48 | 36 comments",
     "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
-    "score": 42,
-    "date": "2026-10-25",
-    "category": "AI News"
-  },
-  {
-    "title": "Making My Blog Readable by AI Agents",
-    "source": "Hacker News",
-    "description": "HN Score: 10 | 1 comments",
-    "url": "https://deallocatedobjects.com/posts/making-my-blog-readable-by-ai-agents",
-    "score": 10,
+    "score": 48,
     "date": "2026-10-25",
     "category": "AI News"
   }
