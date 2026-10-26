@@ -93,6 +93,16 @@
   ],
   "episodes": [
     {
+      "id": "Lex Frid_0",
+      "name": "#503 – AI Crisis in Math: Navier-Stokes, Riemann Hypothesis & Complexity Theory",
+      "show": "Lex Fridman Podcast",
+      "description": "Ankur Moitra, Steven Brunton and Alex Kontorovich are three mathematicians who can speak to this incredible moment in the history of mathematics, when AI solved some of its hardest problems: Navier",
+      "release_date": "2026-10-26",
+      "duration_min": 222,
+      "image": "",
+      "url": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"
+    },
+    {
       "id": "a]6z Pod_0",
       "name": "OpenAI: When AI Agents Use Computers Faster Than You",
       "show": "a]6z Podcast",
@@ -213,7 +223,7 @@
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
     },
     {
-      "id": "Lex Frid_0",
+      "id": "Lex Frid_1",
       "name": "#502 – Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud & Jung",
       "show": "Lex Fridman Podcast",
       "description": "Andrew Scull is a historian of psychiatry.<br />\nThank you for listening ❤ Check out our sponsors: <a href=\"https://lexfridman.com/sponsors/ep502-sc\">https://lexfridman.com/sponsors/ep502-sc</a><br",
@@ -223,22 +233,12 @@
       "url": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"
     },
     {
-      "id": "Lex Frid_1",
+      "id": "Lex Frid_2",
       "name": "#501 – DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux",
       "show": "Lex Fridman Podcast",
       "description": "DHH is the creator of Ruby on Rails, Omarchy Linux, CTO of 37signals, and a racecar driver.<br />\nThank you for listening ❤ Check out our sponsors: <a href=\"https://lexfridman.com/sponsors/ep501-sc",
       "release_date": "2026-08-26",
       "duration_min": 321,
-      "image": "",
-      "url": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"
-    },
-    {
-      "id": "Lex Frid_2",
-      "name": "#500 – Khabib Nurmagomedov: Dagestan, MMA, UFC, Islam, Conor, Fedor & Football",
-      "show": "Lex Fridman Podcast",
-      "description": "Khabib Nurmagomedov is one of the greatest fighters of all time, who retired from the UFC undefeated with a perfect 29-0 record. We did this conversation entirely in Russian. It&#8217;s translated ",
-      "release_date": "2026-08-12",
-      "duration_min": 199,
       "image": "",
       "url": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"
     },

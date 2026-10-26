@@ -9,7 +9,7 @@
   {
     "title": "SpaceX locks in $40B GPU financing deal with Apollo",
     "source": "TechCrunch",
-    "summary": "SpaceX has locked in a binding commitment for roughly $40 billion in financing to pay for AI chips and related data center equipment, the company disclosed in a regulatory filing Monday. In a statement, SpaceX called it the \u201clargest committed GPU financing\u201d ever.",
+    "summary": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
     "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
     "date": "2026-10-26"
   },
@@ -175,6 +175,27 @@
     "date": "2026-10-26"
   },
   {
+    "title": "Why Anthropic\u2019s IPO Prospectus Is Missing So Many Key Figures",
+    "source": "Wired",
+    "summary": "Anthropic\u2019s S-1 filing is hundreds of pages long\u2014and it leaves out quite a few financial details. \u201cAnthropic owes investors more information,\u201d one analyst tells WIRED.",
+    "url": "https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/",
+    "date": "2026-10-26"
+  },
+  {
+    "title": "The Anthropic S-1 Filing Is Also an AI Doomsday Primer",
+    "source": "Wired",
+    "summary": "Anthropic thinks \u201cclosing the loop\u201d is the best path to AI triumph\u2014and a recipe for \u201cexistential\u201d threats to humanity.",
+    "url": "https://www.wired.com/story/the-anthropic-ipo-is-also-a-doomsday-primer/",
+    "date": "2026-10-26"
+  },
+  {
+    "title": "Anthropic\u2019s IPO Prospectus Reveals What\u2019s Under the Hood",
+    "source": "Wired",
+    "summary": "Anthropic on Monday filed documents ahead of a blockbuster IPO that offers insight into the company\u2019s financials, risk factors, and views on the future of AI.",
+    "url": "https://www.wired.com/story/anthropic-ipo-filings-reveal-finances-risks-strategy/",
+    "date": "2026-10-26"
+  },
+  {
     "title": "Meet the AI Agents Trying to Be Real-Life Journalists",
     "source": "Wired",
     "summary": "Jayden, Sam, and Zack are eagerly pitching editors on reported stories and investigative features. The catch? They're all AI agents.",
@@ -186,6 +207,13 @@
     "source": "Wired",
     "summary": "Coyotec is bilingual, swears, and tells listeners how to defend themselves against ICE. Its popularity comes as more broadcasters are experimenting with artificial personalities.",
     "url": "https://www.wired.com/story/this-ai-radio-hosts-speaks-spanish-and-backs-immigrants-its-winning-over-listeners/",
+    "date": "2026-10-26"
+  },
+  {
+    "title": "What the US Movement Against Data Centers Can Learn From Abroad",
+    "source": "Wired",
+    "summary": "Paris Marx, author of Hyperscale, has been tracking global data center development for years. The US has a lot to learn from what\u2019s happened everywhere from Ireland to New Zealand.",
+    "url": "https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/",
     "date": "2026-10-26"
   },
   {
@@ -203,6 +231,13 @@
     "date": "2026-10-26"
   },
   {
+    "title": "Meet Mori, a Cute Robot Mushroom That Doesn\u2019t Really Say (or Do) Anything",
+    "source": "Wired",
+    "summary": "Step one in convincing people to live with robots with cameras on their faces? Disguise them as cute home decor.",
+    "url": "https://www.wired.com/story/meet-mori-a-cute-robot-mushroom-that-doesnt-really-say-or-do-anything/",
+    "date": "2026-10-26"
+  },
+  {
     "title": "Hugging Face\u2019s New AI Biology Model Lets You Chat With DNA",
     "source": "Wired",
     "summary": "The new open-source model speaks the language of DNA and can help researchers understand the effects of any changes on gene activity and health.",
@@ -210,10 +245,10 @@
     "date": "2026-10-26"
   },
   {
-    "title": "Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched",
-    "source": "Wired",
-    "summary": "Amazon Web Services logged attempts to leverage the internet-melting PHP2Shell bugs four days ago. They\u2019re now being \u201cbroadly exploited\u201d across the internet.",
-    "url": "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/",
+    "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
+    "source": "Ars Technica",
+    "summary": "Included is the ability to limit which applications Siri can directly access.",
+    "url": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/",
     "date": "2026-10-26"
   },
   {
@@ -312,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "Meta argues nobody \u201cdecided\u201d to pirate books to train AI.",
     "url": "https://arstechnica.com/tech-policy/2026/10/meta-ordered-to-name-execs-who-approved-torrenting-for-ai-training/",
-    "date": "2026-10-26"
-  },
-  {
-    "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
-    "source": "Ars Technica",
-    "summary": "Meta is suspending the sharing feature while it investigates its privacy.",
-    "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
     "date": "2026-10-26"
   }
 ]
