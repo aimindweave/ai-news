@@ -1,92 +1,92 @@
 [
   {
+    "title": "IBM CEO says open weight models are now irresistibly good and cheap on-prem",
+    "source": "Hacker News",
+    "description": "HN Score: 95 | 50 comments",
+    "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
+    "score": 95,
+    "date": "2026-10-26",
+    "category": "AI News"
+  },
+  {
+    "title": "If AI displaces human workers, they will lose more than just pay",
+    "source": "Hacker News",
+    "description": "HN Score: 18 | 17 comments",
+    "url": "https://www.economist.com/business/2026/10/22/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay",
+    "score": 18,
+    "date": "2026-10-26",
+    "category": "AI News"
+  },
+  {
+    "title": "Show HN: ADRs for AI \u2013 Deliberation records for human\u2013AI work, versioned in Git",
+    "source": "Hacker News",
+    "description": "HN Score: 18 | 13 comments",
+    "url": "https://adrs.systems",
+    "score": 18,
+    "date": "2026-10-26",
+    "category": "AI News"
+  },
+  {
     "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
     "source": "Hacker News",
-    "description": "HN Score: 387 | 184 comments",
+    "description": "HN Score: 492 | 223 comments",
     "url": "https://lynchlab.net/llm-skin-cancer",
-    "score": 387,
-    "date": "2026-10-25",
+    "score": 492,
+    "date": "2026-10-26",
+    "category": "AI News"
+  },
+  {
+    "title": "Microsoft Decision-1: 9B Qwen Model Launch Explained",
+    "source": "Hacker News",
+    "description": "HN Score: 4 | 0 comments",
+    "url": "https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/",
+    "score": 4,
+    "date": "2026-10-26",
     "category": "AI News"
   },
   {
     "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
     "source": "Hacker News",
-    "description": "HN Score: 80 | 102 comments",
+    "description": "HN Score: 213 | 240 comments",
     "url": "https://minimaxir.com/2026/10/cheap-llms/",
-    "score": 80,
-    "date": "2026-10-25",
+    "score": 213,
+    "date": "2026-10-26",
     "category": "AI News"
   },
   {
     "title": "Making the Buddha Head from Merv Whole Again",
     "source": "Hacker News",
-    "description": "HN Score: 8 | 0 comments",
+    "description": "HN Score: 30 | 0 comments",
     "url": "https://www.getty.edu/news/buddha-head-of-merv-turkmenistan-conservation/",
-    "score": 8,
-    "date": "2026-10-25",
-    "category": "AI News"
-  },
-  {
-    "title": "JetBrains Thinkrail",
-    "source": "Hacker News",
-    "description": "HN Score: 159 | 111 comments",
-    "url": "https://github.com/JetBrains/thinkrail",
-    "score": 159,
-    "date": "2026-10-25",
-    "category": "AI News"
-  },
-  {
-    "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
-    "source": "Hacker News",
-    "description": "HN Score: 184 | 267 comments",
-    "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
-    "score": 184,
-    "date": "2026-10-25",
-    "category": "AI News"
-  },
-  {
-    "title": "Cerebras Deploys Trillion-Parameter AI Models",
-    "source": "Hacker News",
-    "description": "HN Score: 348 | 127 comments",
-    "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-    "score": 348,
-    "date": "2026-10-25",
-    "category": "AI News"
-  },
-  {
-    "title": "A mathematician reads the AI future",
-    "source": "Hacker News",
-    "description": "HN Score: 44 | 62 comments",
-    "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/",
-    "score": 44,
-    "date": "2026-10-25",
-    "category": "AI News"
-  },
-  {
-    "title": "What Security Teams Need to Know About Agents Using Abliterated Models",
-    "source": "Hacker News",
-    "description": "HN Score: 3 | 0 comments",
-    "url": "https://eve.security/blog/what-security-teams-need-to-know-about-agents-using-abliterated-models",
-    "score": 3,
-    "date": "2026-10-25",
+    "score": 30,
+    "date": "2026-10-26",
     "category": "AI News"
   },
   {
     "title": "AI didn't cause the tech jobs bust, but it explains why there's no recovery",
     "source": "Hacker News",
-    "description": "HN Score: 13 | 6 comments",
+    "description": "HN Score: 35 | 14 comments",
     "url": "https://vithushansylvester.com/writing/the-real-impact-of-ai-on-tech-jobs",
-    "score": 13,
-    "date": "2026-10-25",
+    "score": 35,
+    "date": "2026-10-26",
     "category": "AI News"
   },
   {
-    "title": "Gheist campaign plants secret-dumping workflows using stolen GitHub tokens",
+    "title": "Show HN: RainbowSay \u2013 Learn, teach, research languages live with shows you love",
     "source": "Hacker News",
-    "description": "HN Score: 46 | 0 comments",
-    "url": "https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles",
-    "score": 46,
-    "date": "2026-10-25",
+    "description": "HN Score: 5 | 0 comments",
+    "url": "https://rainbowsay.ai/",
+    "score": 5,
+    "date": "2026-10-26",
+    "category": "AI News"
+  },
+  {
+    "title": "JetBrains Thinkrail",
+    "source": "Hacker News",
+    "description": "HN Score: 195 | 144 comments",
+    "url": "https://github.com/JetBrains/thinkrail",
+    "score": 195,
+    "date": "2026-10-26",
     "category": "AI News"
   }
 ]
