@@ -1,5 +1,26 @@
 [
   {
+    "title": "Anthropic\u2019s IPO filing reveals its strategy for keeping enterprise customers hooked",
+    "source": "TechCrunch",
+    "summary": "Anthropic\u2019s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that\u2019s making enterprise customers stickier.",
+    "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+    "date": "2026-10-26"
+  },
+  {
+    "title": "SpaceX locks in $40B GPU financing deal with Apollo",
+    "source": "TechCrunch",
+    "summary": "SpaceX has locked in a binding commitment for roughly $40 billion in financing to pay for AI chips and related data center equipment, the company disclosed in a regulatory filing Monday. In a statement, SpaceX called it the \u201clargest committed GPU financing\u201d ever.",
+    "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+    "date": "2026-10-26"
+  },
+  {
+    "title": "Anthropic officially files for its public debut",
+    "source": "TechCrunch",
+    "summary": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
+    "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+    "date": "2026-10-26"
+  },
+  {
     "title": "Grok releases the first seven minutes of its AI-generated \u2018Odyssey\u2019",
     "source": "TechCrunch",
     "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
@@ -21,6 +42,13 @@
     "date": "2026-10-26"
   },
   {
+    "title": "Will AI expose the rickety infrastructure of the internet?",
+    "source": "TechCrunch",
+    "summary": "The moment you realize the internet is 'held together by glue and dreams.'",
+    "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+    "date": "2026-10-26"
+  },
+  {
     "title": "The AI graveyard: a running list of projects and startups that didn\u2019t make it",
     "source": "TechCrunch",
     "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy 'super app' launch, here's a look at the AI projects that shut down or missed expectations.",
@@ -30,7 +58,7 @@
   {
     "title": "Block\u2019s new voice model sounds eerily human",
     "source": "TechCrunch",
-    "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
+    "summary": "Typically, speech models are paired with a large language model for knowledge retrieval. Block said that Dessa's knowledge stems from the conversational data it has.",
     "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
     "date": "2026-10-26"
   },
@@ -49,7 +77,7 @@
     "date": "2026-10-26"
   },
   {
-    "title": "OpenAI says it will no longer train its AI models on the live internet, citing \u201csignificant risks\u201d",
+    "title": "OpenAI says it will no longer train its AI models on the live internet, citing \u2018significant risks\u2019",
     "source": "TechCrunch",
     "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
     "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
@@ -77,31 +105,24 @@
     "date": "2026-10-26"
   },
   {
-    "title": "Left alone with nothing to do, AI agents started playing",
-    "source": "TechCrunch",
-    "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
-    "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+    "title": "Will the real Anthropic please stand up",
+    "source": "MIT Tech Review",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company\u2019...",
+    "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
     "date": "2026-10-26"
   },
   {
-    "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-    "source": "TechCrunch",
-    "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
-    "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+    "title": "The Download: everyday AI harms and the race to nuclear spaceflight",
+    "source": "MIT Tech Review",
+    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Opinion: The focus on AI safety disasters ignores everyday harms \u2014Sam Hiner, cofounder of the Young People\u2019s Alliance, and Emma Leiken, executive director of t...",
+    "url": "https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/",
     "date": "2026-10-26"
   },
   {
-    "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
-    "source": "TechCrunch",
-    "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
-    "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
-    "date": "2026-10-26"
-  },
-  {
-    "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-    "source": "TechCrunch",
-    "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
-    "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+    "title": "The focus on AI safety disasters ignores everyday harms",
+    "source": "MIT Tech Review",
+    "summary": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and they should have existed all along. But companies can clear...",
+    "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
     "date": "2026-10-26"
   },
   {
@@ -154,27 +175,6 @@
     "date": "2026-10-26"
   },
   {
-    "title": "AI\u2019s hidden storage bill: What inference leaves behind",
-    "source": "MIT Tech Review",
-    "summary": "Ask most executives to picture the cost of AI and they\u2019ll likely see GPUs\u2014racks of accelerators with gigawatts of power\u2014and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data that\u2019s generated\u2014fr...",
-    "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
-    "date": "2026-10-26"
-  },
-  {
-    "title": "The Download: introducing the Impossible issue",
-    "source": "MIT Tech Review",
-    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Introducing: the Impossible issue We wanted our last print edition of 2026 to include a slate of stories that check in on impossible ideas. Why? Because it\u2019s f...",
-    "url": "https://www.technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue/",
-    "date": "2026-10-26"
-  },
-  {
-    "title": "We can do impossible things",
-    "source": "MIT Tech Review",
-    "summary": "I\u2019d wager everyone has a rehearsed response to what\u2019s absolutely one of the world\u2019s worst interview questions: \u201cWhat\u2019s your biggest weakness?\u201d Whenever I\u2019ve gotten it, I take a slow\u2014even pensive\u2014breath and rattle off my line: \u201cI say no to myself too much.\u201d I won\u2019t lie. It\u2019s a bit shameless\u2014a defi...",
-    "url": "https://www.technologyreview.com/2026/10/21/1146053/editor-letter-we-can-do-impossible-things/",
-    "date": "2026-10-26"
-  },
-  {
     "title": "Meet the AI Agents Trying to Be Real-Life Journalists",
     "source": "Wired",
     "summary": "Jayden, Sam, and Zack are eagerly pitching editors on reported stories and investigative features. The catch? They're all AI agents.",
@@ -186,13 +186,6 @@
     "source": "Wired",
     "summary": "Coyotec is bilingual, swears, and tells listeners how to defend themselves against ICE. Its popularity comes as more broadcasters are experimenting with artificial personalities.",
     "url": "https://www.wired.com/story/this-ai-radio-hosts-speaks-spanish-and-backs-immigrants-its-winning-over-listeners/",
-    "date": "2026-10-26"
-  },
-  {
-    "title": "What the US Movement Against Data Centers Can Learn From Abroad",
-    "source": "Wired",
-    "summary": "Paris Marx, author of Hyperscale, has been tracking global data center development for years. The US has a lot to learn from what\u2019s happened everywhere from Ireland to New Zealand.",
-    "url": "https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/",
     "date": "2026-10-26"
   },
   {
@@ -210,13 +203,6 @@
     "date": "2026-10-26"
   },
   {
-    "title": "Meet Mori, a Cute Robot Mushroom That Doesn\u2019t Really Say (or Do) Anything",
-    "source": "Wired",
-    "summary": "Step one in convincing people to live with robots with cameras on their faces? Disguise them as cute home decor.",
-    "url": "https://www.wired.com/story/meet-mori-a-cute-robot-mushroom-that-doesnt-really-say-or-do-anything/",
-    "date": "2026-10-26"
-  },
-  {
     "title": "Hugging Face\u2019s New AI Biology Model Lets You Chat With DNA",
     "source": "Wired",
     "summary": "The new open-source model speaks the language of DNA and can help researchers understand the effects of any changes on gene activity and health.",
@@ -231,17 +217,24 @@
     "date": "2026-10-26"
   },
   {
-    "title": "Mark Zuckerberg Agrees to Stay in California Despite Billionaires\u2019 Tax Ballot Measure",
-    "source": "Wired",
-    "summary": "Meta\u2019s board feared that its CEO\u2019s departure could disrupt the company\u2019s AI ambitions. A new stock agreement gives him financial incentives to stay put.",
-    "url": "https://www.wired.com/story/mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure/",
+    "title": "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees",
+    "source": "Ars Technica",
+    "summary": "US robotics company stands by ICE deal as more than 300 employees warn of risk.",
+    "url": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/",
     "date": "2026-10-26"
   },
   {
-    "title": "This Startup Is All In on Recursive Self-Improvement. Its Latest Model Is Scary Good",
-    "source": "Wired",
-    "summary": "Recursive makes the case that the benefits of using AI to build AI outweigh the risks.",
-    "url": "https://www.wired.com/story/recursive-self-improvement-flint-latest-model-scary-good/",
+    "title": "Highway thieves are spoofing GPS to steal millions in data center-bound cargo",
+    "source": "Ars Technica",
+    "summary": "Investigators explain how highway thieves stole $100M in data center equipment.",
+    "url": "https://arstechnica.com/tech-policy/2026/10/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo/",
+    "date": "2026-10-26"
+  },
+  {
+    "title": "Tesla gave up the EV crown. Now it wants to win the autonomy race.",
+    "source": "Ars Technica",
+    "summary": "Tesla hopes autonomy subscriptions can deliver the margins car sales cannot.",
+    "url": "https://arstechnica.com/cars/2026/10/tesla-wants-ai-and-software-to-be-its-next-profit-engine/",
     "date": "2026-10-26"
   },
   {
@@ -326,27 +319,6 @@
     "source": "Ars Technica",
     "summary": "Meta is suspending the sharing feature while it investigates its privacy.",
     "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
-    "date": "2026-10-26"
-  },
-  {
-    "title": "Accused OpenAI spy had folder called \u201cSaudi Gov Docs,\u201d FBI says",
-    "source": "Ars Technica",
-    "summary": "US fears Saudi government will help ex-OpenAI engineer flee spying charges.",
-    "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
-    "date": "2026-10-26"
-  },
-  {
-    "title": "AI game clones are making indie developers afraid to show their work",
-    "source": "Ars Technica",
-    "summary": "Delayed Steam Next Fest demo is a sign of a growing problem for indie devs.",
-    "url": "https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/",
-    "date": "2026-10-26"
-  },
-  {
-    "title": "Disney found a way to buy Character.AI without buying its lawsuits",
-    "source": "Ars Technica",
-    "summary": "Character.AI faces claims its bots encouraged minors to self-harm and kill their parents.",
-    "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
     "date": "2026-10-26"
   }
 ]

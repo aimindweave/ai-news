@@ -1,91 +1,91 @@
 [
   {
+    "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+    "source": "Hacker News",
+    "description": "HN Score: 392 | 55 comments",
+    "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+    "score": 392,
+    "date": "2026-10-26",
+    "category": "AI News"
+  },
+  {
+    "title": "GPT-6.1 Terra",
+    "source": "Hacker News",
+    "description": "HN Score: 252 | 123 comments",
+    "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
+    "score": 252,
+    "date": "2026-10-26",
+    "category": "AI News"
+  },
+  {
+    "title": "Anthropic S-1",
+    "source": "Hacker News",
+    "description": "HN Score: 1247 | 1206 comments",
+    "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+    "score": 1247,
+    "date": "2026-10-26",
+    "category": "AI News"
+  },
+  {
+    "title": "GPT 6.1 Terra",
+    "source": "Hacker News",
+    "description": "HN Score: 22 | 1 comments",
+    "url": "https://developers.openai.com/api/docs/models/gpt-6.1-terra",
+    "score": 22,
+    "date": "2026-10-26",
+    "category": "AI News"
+  },
+  {
+    "title": "Blaise Pascal invented fixed route public transport (2024)",
+    "source": "Hacker News",
+    "description": "HN Score: 229 | 117 comments",
+    "url": "https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html",
+    "score": 229,
+    "date": "2026-10-26",
+    "category": "AI News"
+  },
+  {
     "title": "Birdwatching rewires the brain and slows cognitive decline",
     "source": "Hacker News",
-    "description": "HN Score: 130 | 47 comments",
+    "description": "HN Score: 435 | 177 comments",
     "url": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline",
-    "score": 130,
+    "score": 435,
     "date": "2026-10-26",
     "category": "AI News"
   },
   {
-    "title": "IBM CEO says open weight models are now good and cheap on-prem",
+    "title": "ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems",
     "source": "Hacker News",
-    "description": "HN Score: 313 | 218 comments",
-    "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
-    "score": 313,
+    "description": "HN Score: 134 | 40 comments",
+    "url": "https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/",
+    "score": 134,
     "date": "2026-10-26",
     "category": "AI News"
   },
   {
-    "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+    "title": "Concerning behavior from a popular open-weight AI model",
     "source": "Hacker News",
-    "description": "HN Score: 586 | 250 comments",
-    "url": "https://lynchlab.net/llm-skin-cancer",
-    "score": 586,
+    "description": "HN Score: 155 | 56 comments",
+    "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+    "score": 155,
     "date": "2026-10-26",
     "category": "AI News"
   },
   {
-    "title": "Show HN: ADRs for AI \u2013 Deliberation records for human\u2013AI work, versioned in Git",
+    "title": "Fixing Tool-Call Accuracy in vLLM",
     "source": "Hacker News",
-    "description": "HN Score: 53 | 31 comments",
-    "url": "https://adrs.systems",
-    "score": 53,
+    "description": "HN Score: 131 | 64 comments",
+    "url": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
+    "score": 131,
     "date": "2026-10-26",
     "category": "AI News"
   },
   {
-    "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+    "title": "The Git Forge for Agent-Human Collaboration",
     "source": "Hacker News",
-    "description": "HN Score: 357 | 338 comments",
-    "url": "https://minimaxir.com/2026/10/cheap-llms/",
-    "score": 357,
-    "date": "2026-10-26",
-    "category": "AI News"
-  },
-  {
-    "title": "Making the Buddha Head from Merv Whole Again",
-    "source": "Hacker News",
-    "description": "HN Score: 56 | 1 comments",
-    "url": "https://www.getty.edu/news/buddha-head-of-merv-turkmenistan-conservation/",
-    "score": 56,
-    "date": "2026-10-26",
-    "category": "AI News"
-  },
-  {
-    "title": "AI didn't cause the tech jobs bust, but it explains why there's no recovery",
-    "source": "Hacker News",
-    "description": "HN Score: 60 | 26 comments",
-    "url": "https://vithushansylvester.com/writing/the-real-impact-of-ai-on-tech-jobs",
-    "score": 60,
-    "date": "2026-10-26",
-    "category": "AI News"
-  },
-  {
-    "title": "Show HN: Proc-CLI \u2013 An agent-friendly CLI tool for process and port management",
-    "source": "Hacker News",
-    "description": "HN Score: 16 | 2 comments",
-    "url": "https://proc-cli.com/",
-    "score": 16,
-    "date": "2026-10-26",
-    "category": "AI News"
-  },
-  {
-    "title": "A mathematician reads the AI future",
-    "source": "Hacker News",
-    "description": "HN Score: 64 | 88 comments",
-    "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/",
-    "score": 64,
-    "date": "2026-10-26",
-    "category": "AI News"
-  },
-  {
-    "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
-    "source": "Hacker News",
-    "description": "HN Score: 221 | 320 comments",
-    "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
-    "score": 221,
+    "description": "HN Score: 44 | 25 comments",
+    "url": "https://entire.com/blog/the-git-forge-for-agent-human-collaboration",
+    "score": 44,
     "date": "2026-10-26",
     "category": "AI News"
   }
