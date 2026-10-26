@@ -94,6 +94,16 @@
   "episodes": [
     {
       "id": "a]6z Pod_0",
+      "name": "OpenAI: When AI Agents Use Computers Faster Than You",
+      "show": "a]6z Podcast",
+      "description": "AI agents are approaching a point where they can use computers faster than expert humans, turning the user interface itself into a universal way for AI to interact with software. OpenAI’s Ari Weins",
+      "release_date": "2026-10-26",
+      "duration_min": 45,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
+      "id": "a]6z Pod_1",
       "name": "The New Startup Playbook | Box CEO Aaron Levie",
       "show": "a]6z Podcast",
       "description": "Can a 10-person startup outperform a company with hundreds of employees? Box CEO Aaron Levie argues AI agents are giving small teams a level of leverage that simply wasn't economically possible bef",
@@ -103,7 +113,7 @@
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "What It Takes to Win as a Founder | Ben Horowitz",
       "show": "a]6z Podcast",
       "description": "What does it take to build a company when AI is changing the rules this quickly? Ben Horowitz argues that technology may make companies easier to start, but the hardest parts of entrepreneurship, m",
@@ -121,16 +131,6 @@
       "duration_min": 59,
       "image": "",
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
-    },
-    {
-      "id": "a]6z Pod_2",
-      "name": "Amazon CEO Andy Jassy on the $220 Billion AI Buildout",
-      "show": "a]6z Podcast",
-      "description": "Amazon expects to spend roughly $220 billion in CapEx in 2026, yet CEO Andy Jassy says the company is still leaving meaningful AI demand on the table.** He believes the buildout could ultimately he",
-      "release_date": "2026-10-23",
-      "duration_min": 61,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
       "id": "Practica_0",
