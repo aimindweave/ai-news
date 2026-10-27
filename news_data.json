@@ -1,5 +1,47 @@
 [
   {
+    "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+    "source": "TechCrunch",
+    "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery",
+    "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+    "date": "2026-10-27"
+  },
+  {
+    "title": "Google\u2019s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+    "source": "TechCrunch",
+    "summary": "Google DeepMind released Genie 4, a world model with real-time audio, more realistic simulations, and mid-simulation text prompts, in research preview for trusted testers.",
+    "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+    "date": "2026-10-27"
+  },
+  {
+    "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+    "source": "TechCrunch",
+    "summary": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
+    "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+    "date": "2026-10-27"
+  },
+  {
+    "title": "Japan internet giant GMO says hackers posted stolen customer data",
+    "source": "TechCrunch",
+    "summary": "Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach.",
+    "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
+    "date": "2026-10-27"
+  },
+  {
+    "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+    "source": "TechCrunch",
+    "summary": "The new standard, WebAI, is designed to work with a variety of AI models.",
+    "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+    "date": "2026-10-27"
+  },
+  {
+    "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
+    "source": "TechCrunch",
+    "summary": "General Compute is betting on inference chips from outside the Nvidia ecosystem.",
+    "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
+    "date": "2026-10-27"
+  },
+  {
     "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
     "source": "TechCrunch",
     "summary": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
@@ -63,45 +105,10 @@
     "date": "2026-10-27"
   },
   {
-    "title": "Will AI expose the rickety infrastructure of the internet?",
-    "source": "TechCrunch",
-    "summary": "The moment you realize the internet is 'held together by glue and dreams.'",
-    "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
-    "date": "2026-10-27"
-  },
-  {
-    "title": "The AI graveyard: a running list of projects and startups that didn\u2019t make it",
-    "source": "TechCrunch",
-    "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy 'super app' launch, here's a look at the AI projects that shut down or missed expectations.",
-    "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-    "date": "2026-10-27"
-  },
-  {
-    "title": "Block\u2019s new voice model sounds eerily human",
-    "source": "TechCrunch",
-    "summary": "Typically, speech models are paired with a large language model for knowledge retrieval. Block said that Dessa's knowledge stems from the conversational data it has.",
-    "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
-    "date": "2026-10-27"
-  },
-  {
-    "title": "Forced to pick, Grok\u2019s AI model chooses Republicans. OpenAI\u2019s picks Democrats.",
-    "source": "TechCrunch",
-    "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
-    "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-    "date": "2026-10-27"
-  },
-  {
-    "title": "Here are the top AI agents that can live in your text messages",
-    "source": "TechCrunch",
-    "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-    "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
-    "date": "2026-10-27"
-  },
-  {
-    "title": "OpenAI says it will no longer train its AI models on the live internet, citing \u2018significant risks\u2019",
-    "source": "TechCrunch",
-    "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
-    "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+    "title": "The Download: Anthropic\u2019s IPO, smarter power grids, and exercise pills",
+    "source": "MIT Tech Review",
+    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so ar...",
+    "url": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
     "date": "2026-10-27"
   },
   {
@@ -168,10 +175,10 @@
     "date": "2026-10-27"
   },
   {
-    "title": "The Download: computing\u2019s next leap and permafrost\u2019s climate threat",
-    "source": "MIT Tech Review",
-    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. How far can we push computing? On a December evening in 1959, the physicist Richard Feynman gave a lecture called \u201cThere\u2019s Plenty of Room at the Bottom.\u201d There...",
-    "url": "https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/",
+    "title": "UK Home Office May Face Investigation Over Use of OpenAI Tech",
+    "source": "Wired",
+    "summary": "A government watchdog is considering a probe into the Home Office\u2019s use of ChatGPT technology to process asylum claims amid concerns over the tools\u2019 accuracy and secrecy surrounding their use.",
+    "url": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/",
     "date": "2026-10-27"
   },
   {
@@ -238,10 +245,10 @@
     "date": "2026-10-27"
   },
   {
-    "title": "The Social Society Helping Women Join the AI Boom",
-    "source": "Wired",
-    "summary": "WIRED spoke with the founders of the Aged Intelligence Society, a fast-growing events startup that brings women together to \u201csolve midlife problems using frontier tools.\u201d",
-    "url": "https://www.wired.com/story/aged-intelligence-society-interview/",
+    "title": "DeepMind unveils Genie 4 world model promising more realistic physics and humans",
+    "source": "Ars Technica",
+    "summary": "Genie 4 will roll out to developers and Google AI Ultra subscribers soon.",
+    "url": "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/",
     "date": "2026-10-27"
   },
   {
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "Ukraine\u2019s latest drone innovation may boost bleak odds of evacuating casualties.",
     "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drone-rescue-of-wounded-soldier-puts-much-touted-idea-into-practice/",
-    "date": "2026-10-27"
-  },
-  {
-    "title": "Meta tries to scapegoat staff who downloaded torrents to spare execs",
-    "source": "Ars Technica",
-    "summary": "Meta argues nobody \u201cdecided\u201d to pirate books to train AI.",
-    "url": "https://arstechnica.com/tech-policy/2026/10/meta-ordered-to-name-execs-who-approved-torrenting-for-ai-training/",
     "date": "2026-10-27"
   }
 ]
