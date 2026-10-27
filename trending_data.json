@@ -1,91 +1,91 @@
 [
   {
+    "title": "Roblox downloaded 145GB models from us (including adult content) without asking",
+    "source": "Hacker News",
+    "description": "HN Score: 123 | 82 comments",
+    "url": "https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/",
+    "score": 123,
+    "date": "2026-10-27",
+    "category": "AI News"
+  },
+  {
+    "title": "The Mythical Man-Month in the Age of AI",
+    "source": "Hacker News",
+    "description": "HN Score: 209 | 150 comments",
+    "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+    "score": 209,
+    "date": "2026-10-27",
+    "category": "AI News"
+  },
+  {
+    "title": "Wikipedia's Cleanup of AI-Generated Content",
+    "source": "Hacker News",
+    "description": "HN Score: 18 | 3 comments",
+    "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+    "score": 18,
+    "date": "2026-10-27",
+    "category": "AI News"
+  },
+  {
     "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
     "source": "Hacker News",
-    "description": "HN Score: 616 | 87 comments",
+    "description": "HN Score: 733 | 101 comments",
     "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
-    "score": 616,
+    "score": 733,
     "date": "2026-10-27",
     "category": "AI News"
   },
   {
     "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
     "source": "Hacker News",
-    "description": "HN Score: 98 | 32 comments",
+    "description": "HN Score: 145 | 47 comments",
     "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
-    "score": 98,
+    "score": 145,
     "date": "2026-10-27",
     "category": "AI News"
   },
   {
-    "title": "Anthropic S-1",
+    "title": "Half of R/sales cold email posts in 2026 were written by people selling it",
     "source": "Hacker News",
-    "description": "HN Score: 1529 | 1487 comments",
-    "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
-    "score": 1529,
-    "date": "2026-10-27",
-    "category": "AI News"
-  },
-  {
-    "title": "GPT-6.1 Terra",
-    "source": "Hacker News",
-    "description": "HN Score: 547 | 342 comments",
-    "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
-    "score": 547,
+    "description": "HN Score: 3 | 0 comments",
+    "url": "https://sales.co/research/cold-email-gold-rush",
+    "score": 3,
     "date": "2026-10-27",
     "category": "AI News"
   },
   {
     "title": "Blaise Pascal invented fixed route public transport (2024)",
     "source": "Hacker News",
-    "description": "HN Score: 273 | 143 comments",
+    "description": "HN Score: 295 | 151 comments",
     "url": "https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html",
-    "score": 273,
+    "score": 295,
+    "date": "2026-10-27",
+    "category": "AI News"
+  },
+  {
+    "title": "Anthropic S-1",
+    "source": "Hacker News",
+    "description": "HN Score: 1631 | 1555 comments",
+    "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+    "score": 1631,
+    "date": "2026-10-27",
+    "category": "AI News"
+  },
+  {
+    "title": "GPT-6.1 Terra",
+    "source": "Hacker News",
+    "description": "HN Score: 600 | 377 comments",
+    "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
+    "score": 600,
     "date": "2026-10-27",
     "category": "AI News"
   },
   {
     "title": "Fixing Tool-Call Accuracy in vLLM",
     "source": "Hacker News",
-    "description": "HN Score: 154 | 65 comments",
+    "description": "HN Score: 166 | 68 comments",
     "url": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
-    "score": 154,
-    "date": "2026-10-27",
-    "category": "AI News"
-  },
-  {
-    "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
-    "source": "Hacker News",
-    "description": "HN Score: 132 | 31 comments",
-    "url": "https://github.com/FrigadeHQ/hob",
-    "score": 132,
-    "date": "2026-10-27",
-    "category": "AI News"
-  },
-  {
-    "title": "Micron Taiwan increasing salaries for factory workers by 2.7X",
-    "source": "Hacker News",
-    "description": "HN Score: 6 | 1 comments",
-    "url": "https://ec.ltn.com.tw/article/breakingnews/5619258",
-    "score": 6,
-    "date": "2026-10-27",
-    "category": "AI News"
-  },
-  {
-    "title": "Concerning behavior from a popular open-weight AI model",
-    "source": "Hacker News",
-    "description": "HN Score: 279 | 113 comments",
-    "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
-    "score": 279,
-    "date": "2026-10-27",
-    "category": "AI News"
-  },
-  {
-    "title": "Birdwatching rewires the brain and slows cognitive decline",
-    "source": "Hacker News",
-    "description": "HN Score: 517 | 203 comments",
-    "url": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline",
-    "score": 517,
+    "score": 166,
     "date": "2026-10-27",
     "category": "AI News"
   }
