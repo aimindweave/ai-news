@@ -1,91 +1,91 @@
 [
   {
-    "title": "Police Are Using AI to Pull over Drivers for 'Suspicious' Behavior",
+    "title": "Tailscale SSH: Investigation and remediation update",
     "source": "Hacker News",
-    "description": "HN Score: 90 | 24 comments",
-    "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
-    "score": 90,
+    "description": "HN Score: 111 | 58 comments",
+    "url": "https://tailscale.com/ssh-investigation-update",
+    "score": 111,
+    "date": "2026-10-27",
+    "category": "AI News"
+  },
+  {
+    "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+    "source": "Hacker News",
+    "description": "HN Score: 86 | 58 comments",
+    "url": "https://www.brangus.io/survival-llm",
+    "score": 86,
+    "date": "2026-10-27",
+    "category": "AI News"
+  },
+  {
+    "title": "Early progress on accelerating drug development with Claude",
+    "source": "Hacker News",
+    "description": "HN Score: 43 | 23 comments",
+    "url": "https://www.anthropic.com/research/early-progress-drug-development",
+    "score": 43,
+    "date": "2026-10-27",
+    "category": "AI News"
+  },
+  {
+    "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
+    "source": "Hacker News",
+    "description": "HN Score: 23 | 2 comments",
+    "url": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
+    "score": 23,
     "date": "2026-10-27",
     "category": "AI News"
   },
   {
     "title": "Wikipedia's Cleanup of AI-Generated Content",
     "source": "Hacker News",
-    "description": "HN Score: 305 | 146 comments",
+    "description": "HN Score: 406 | 184 comments",
     "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
-    "score": 305,
+    "score": 406,
     "date": "2026-10-27",
     "category": "AI News"
   },
   {
-    "title": "PHP2Shell, LiteLLM, GitLab: Find What You Need to Patch",
+    "title": "One year of Dioxus fullstack in production: the good, the painful",
     "source": "Hacker News",
-    "description": "HN Score: 15 | 0 comments",
-    "url": "https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/",
-    "score": 15,
+    "description": "HN Score: 10 | 3 comments",
+    "url": "https://oxidt.com/blog/one-year-of-dioxus-fullstack-in-production-the-good-the-painful",
+    "score": 10,
     "date": "2026-10-27",
     "category": "AI News"
   },
   {
-    "title": "Here be monsters: What do you still need to know when agents do the work?",
+    "title": "Hex Raises $100M",
     "source": "Hacker News",
-    "description": "HN Score: 96 | 28 comments",
-    "url": "https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work",
-    "score": 96,
-    "date": "2026-10-27",
-    "category": "AI News"
-  },
-  {
-    "title": "A 28-Year-Old DOGE Operative Gutted USAID. HR Had No Record of Him Working There",
-    "source": "Hacker News",
-    "description": "HN Score: 111 | 35 comments",
-    "url": "https://www.wired.com/story/a-28-year-old-doge-operative-gutted-usaid-hr-had-no-record-of-him-working-there/",
-    "score": 111,
+    "description": "HN Score: 7 | 0 comments",
+    "url": "https://hex.tech/blog/hex-new-era/",
+    "score": 7,
     "date": "2026-10-27",
     "category": "AI News"
   },
   {
     "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
     "source": "Hacker News",
-    "description": "HN Score: 123 | 54 comments",
+    "description": "HN Score: 369 | 202 comments",
     "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
-    "score": 123,
+    "score": 369,
     "date": "2026-10-27",
     "category": "AI News"
   },
   {
-    "title": "Show HN: Specification First Agentic Development Plugin and Prove",
+    "title": "Here be monsters: What do you still need to know when agents do the work?",
     "source": "Hacker News",
-    "description": "HN Score: 13 | 1 comments",
-    "url": "https://spec-first.dev/",
-    "score": 13,
+    "description": "HN Score: 131 | 69 comments",
+    "url": "https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work",
+    "score": 131,
     "date": "2026-10-27",
     "category": "AI News"
   },
   {
-    "title": "The Mythical Man-Month in the Age of AI",
+    "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
     "source": "Hacker News",
-    "description": "HN Score: 362 | 247 comments",
-    "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
-    "score": 362,
-    "date": "2026-10-27",
-    "category": "AI News"
-  },
-  {
-    "title": "We let our cloud agents query prod (with OIDC, not secrets)",
-    "source": "Hacker News",
-    "description": "HN Score: 11 | 3 comments",
-    "url": "https://www.formal.ai/blog/cloud-agents-oidc-infrastructure/",
-    "score": 11,
-    "date": "2026-10-27",
-    "category": "AI News"
-  },
-  {
-    "title": "Is my data used for model training?",
-    "source": "Hacker News",
-    "description": "HN Score: 175 | 75 comments",
-    "url": "https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training",
-    "score": 175,
+    "description": "HN Score: 164 | 79 comments",
+    "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
+    "score": 164,
     "date": "2026-10-27",
     "category": "AI News"
   }
