@@ -2,81 +2,90 @@
   {
     "title": "Dayjob: Tax \u2013 evaluating AI agents on 50 professional tax assignments",
     "source": "Hacker News",
-    "description": "HN Score: 15 | 9 comments",
+    "description": "HN Score: 168 | 97 comments",
     "url": "https://surgehq.ai/blog/dayjob-tax",
-    "score": 15,
+    "score": 168,
+    "date": "2026-10-28",
+    "category": "AI News"
+  },
+  {
+    "title": "Leak Exposes 41,000 Homeland Security Workers\u2013Including Undercover ICE Agents",
+    "source": "Hacker News",
+    "description": "HN Score: 132 | 43 comments",
+    "url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
+    "score": 132,
+    "date": "2026-10-28",
+    "category": "AI News"
+  },
+  {
+    "title": "Google AI gets cagey when asked who won the 2020 elections",
+    "source": "Hacker News",
+    "description": "HN Score: 89 | 46 comments",
+    "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+    "score": 89,
+    "date": "2026-10-28",
+    "category": "AI News"
+  },
+  {
+    "title": "The Agent SDK",
+    "source": "Hacker News",
+    "description": "HN Score: 83 | 100 comments",
+    "url": "https://cursor.com/blog/agent-sdk",
+    "score": 83,
     "date": "2026-10-28",
     "category": "AI News"
   },
   {
     "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
     "source": "Hacker News",
-    "description": "HN Score: 210 | 230 comments",
+    "description": "HN Score: 390 | 437 comments",
     "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
-    "score": 210,
+    "score": 390,
     "date": "2026-10-28",
     "category": "AI News"
   },
   {
-    "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+    "title": "Meta censored the No Kings Instagram account during a nationwide campaign",
     "source": "Hacker News",
-    "description": "HN Score: 467 | 174 comments",
-    "url": "https://www.brangus.io/survival-llm",
-    "score": 467,
+    "description": "HN Score: 141 | 35 comments",
+    "url": "https://paulfwalsh.substack.com/p/meta-censored-the-no-kings-instagram",
+    "score": 141,
     "date": "2026-10-28",
     "category": "AI News"
   },
   {
-    "title": "Tailscale SSH: Investigation and remediation update",
+    "title": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
     "source": "Hacker News",
-    "description": "HN Score: 340 | 176 comments",
-    "url": "https://tailscale.com/ssh-investigation-update",
-    "score": 340,
-    "date": "2026-10-28",
-    "category": "AI News"
-  },
-  {
-    "title": "Early progress on accelerating drug development with Claude",
-    "source": "Hacker News",
-    "description": "HN Score: 290 | 276 comments",
-    "url": "https://www.anthropic.com/research/early-progress-drug-development",
-    "score": 290,
-    "date": "2026-10-28",
-    "category": "AI News"
-  },
-  {
-    "title": "Amazon rainforest cut down to build highway for COP climate summit (2025)",
-    "source": "Hacker News",
-    "description": "HN Score: 40 | 11 comments",
-    "url": "https://www.bbc.com/news/articles/c9vy191rgn1o",
-    "score": 40,
-    "date": "2026-10-28",
-    "category": "AI News"
-  },
-  {
-    "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
-    "source": "Hacker News",
-    "description": "HN Score: 199 | 132 comments",
-    "url": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
-    "score": 199,
+    "description": "HN Score: 25 | 3 comments",
+    "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+    "score": 25,
     "date": "2026-10-28",
     "category": "AI News"
   },
   {
     "title": "Two high-speed trains collide near Toledo, Spain",
     "source": "Hacker News",
-    "description": "HN Score: 141 | 124 comments",
+    "description": "HN Score: 168 | 187 comments",
     "url": "https://www.euronews.com/video/2026/10/28/spain-first-footage-reveals-wreckage-of-deadly-high-speed-train-crash",
-    "score": 141,
+    "score": 168,
     "date": "2026-10-28",
     "category": "AI News"
   },
   {
-    "title": "Microsoft and Epic Games Suddenly Agree That AI Is Theft",
+    "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
     "source": "Hacker News",
-    "description": "HN Score: 46 | 16 comments",
-    "url": "https://kotaku.com/now-that-the-shoe-is-on-the-other-foot-microsoft-and-epic-games-suddenly-agree-that-ai-is-theft-2000749316",
-    "score": 46,
+    "description": "HN Score: 211 | 137 comments",
+    "url": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
+    "score": 211,
+    "date": "2026-10-28",
+    "category": "AI News"
+  },
+  {
+    "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+    "source": "Hacker News",
+    "description": "HN Score: 510 | 193 comments",
+    "url": "https://www.brangus.io/survival-llm",
+    "score": 510,
     "date": "2026-10-28",
     "category": "AI News"
   }
