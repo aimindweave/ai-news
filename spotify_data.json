@@ -93,7 +93,27 @@
   ],
   "episodes": [
     {
+      "id": "The TWIM_0",
+      "name": "The Brutal Reality of Building Agentic Products Today with Daniel Jeffries - #782",
+      "show": "The TWIML AI Podcast",
+      "description": "AI agents are becoming accessible to everyone, raising the bar for developers building the next generation of agent products. When capable, general-purpose agents are available out of the box, differe",
+      "release_date": "2026-10-28",
+      "duration_min": 54,
+      "image": "",
+      "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
+    },
+    {
       "id": "a]6z Pod_0",
+      "name": "Mark Cuban’s Plan to Make Healthcare Affordable",
+      "show": "a]6z Podcast",
+      "description": "Mark Cuban thinks AI could transform healthcare, but it won’t fix opaque prices and broken incentives on its own. His starting point for employers: run every benefits contract through AI and ask wh",
+      "release_date": "2026-10-28",
+      "duration_min": 61,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
+      "id": "a]6z Pod_1",
       "name": "Reinventing School for the AI Era | Joe Liemandt, Gagan Biyani & Erik Torenberg",
       "show": "a]6z Podcast",
       "description": "What should school look like if AI can help students learn dramatically faster? Alpha School founder Joe Liemandt argues the answer isn’t to fill the extra time with more academics, but to redesign",
@@ -113,22 +133,12 @@
       "url": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "OpenAI: When AI Agents Use Computers Faster Than You",
       "show": "a]6z Podcast",
       "description": "AI agents are approaching a point where they can use computers faster than expert humans, turning the user interface itself into a universal way for AI to interact with software. OpenAI’s Ari Weins",
       "release_date": "2026-10-26",
       "duration_min": 45,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
-    },
-    {
-      "id": "a]6z Pod_2",
-      "name": "The New Startup Playbook | Box CEO Aaron Levie",
-      "show": "a]6z Podcast",
-      "description": "Can a 10-person startup outperform a company with hundreds of employees? Box CEO Aaron Levie argues AI agents are giving small teams a level of leverage that simply wasn't economically possible bef",
-      "release_date": "2026-10-25",
-      "duration_min": 34,
       "image": "",
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
@@ -153,7 +163,7 @@
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
-      "id": "The TWIM_0",
+      "id": "The TWIM_1",
       "name": "Airbnb Is Building a ‘Company Brain’ for AI Agents with Ahmad Al-Dahle - #781",
       "show": "The TWIML AI Podcast",
       "description": "AI agents need the institutional knowledge experienced employees rely on: why a system works a certain way, which policies apply, and what never made it into the documentation. Capturing that knowledg",
@@ -183,7 +193,7 @@
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
-      "id": "The TWIM_1",
+      "id": "The TWIM_2",
       "name": "Your Ranking Model Is Optimizing the Wrong Thing with Zoe Weil - #780",
       "show": "The TWIML AI Podcast",
       "description": "In this episode, Zoe Weil, co-founder and CEO of Sequen, joins us to discuss how ranking systems can use live behavioral signals to optimize for purchases rather than clicks or search relevance alone.",
@@ -211,16 +221,6 @@
       "duration_min": 44,
       "image": "",
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
-    },
-    {
-      "id": "The TWIM_2",
-      "name": "Why Jev Is Changing How We Build With AI with Diogo Almeida - #779",
-      "show": "The TWIML AI Podcast",
-      "description": "In this episode, Diogo Almeida, co-founder and CEO of TypeSafe, joins us to discuss Jev, TypeSafe’s recently released model for bringing fast, reliable intelligence directly into software. We explore ",
-      "release_date": "2026-10-06",
-      "duration_min": 90,
-      "image": "",
-      "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
     },
     {
       "id": "Lex Frid_1",

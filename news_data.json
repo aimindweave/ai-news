@@ -1,5 +1,33 @@
 [
   {
+    "title": "AI execs may be too out of touch to build for the general public",
+    "source": "TechCrunch",
+    "summary": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families.",
+    "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "South Korea\u2019s financial industry hit by fresh wave of cyberattacks",
+    "source": "TechCrunch",
+    "summary": "South Korea\u2019s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia.",
+    "url": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+    "source": "TechCrunch",
+    "summary": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it\u2019s a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs.",
+    "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
+    "source": "TechCrunch",
+    "summary": "In just 7 days, TechCrunch Founder Summit takes over Boston\u2019s SoWa Power Station on November 4. Your chance to save up to $100 on tickets is running out, and the opportunity to learn and connect directly with experienced founders, investors, and startup leaders is almost here.",
+    "url": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/",
+    "date": "2026-10-28"
+  },
+  {
     "title": "VCs will make billions on Anthropic\u2019s IPO, but Amazon is set to make much (much) more",
     "source": "TechCrunch",
     "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
@@ -77,31 +105,17 @@
     "date": "2026-10-28"
   },
   {
-    "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
-    "source": "TechCrunch",
-    "summary": "General Compute is betting on inference chips from outside the Nvidia ecosystem.",
-    "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
+    "title": "The Download: dead startups fueling AI and interspecies communication",
+    "source": "MIT Tech Review",
+    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. AI labs are buying data from dead startups to train their models When Keelan Miskell began winding down his crypto startup, he didn\u2019t think its data was worth ...",
+    "url": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
     "date": "2026-10-28"
   },
   {
-    "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
-    "source": "TechCrunch",
-    "summary": "Simplismart says its annualized revenue run rate has grown fourteenfold in six months, with the U.S. accounting for more than half its revenue.",
-    "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
-    "date": "2026-10-28"
-  },
-  {
-    "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
-    "source": "TechCrunch",
-    "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
-    "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
-    "date": "2026-10-28"
-  },
-  {
-    "title": "Cohere says Alibaba\u2019s Qwen model tried to send a file to Beijing",
-    "source": "TechCrunch",
-    "summary": "An AI model said it wouldn\u2019t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it\u2019s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
-    "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+    "title": "Pairing industrial AI autonomy and human control",
+    "source": "MIT Tech Review",
+    "summary": "",
+    "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
     "date": "2026-10-28"
   },
   {
@@ -161,17 +175,17 @@
     "date": "2026-10-28"
   },
   {
-    "title": "Designing an AI serving harness built to last",
-    "source": "MIT Tech Review",
-    "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That\u2019s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windo...",
-    "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+    "title": "Macmillan Staff Say the Publisher Threw a Party for a Workplace AI Assistant That Was Later Killed",
+    "source": "Wired",
+    "summary": "Workers tell WIRED that NOA\u2014or \u201cNo Ordinary Assistant\u201d\u2014was unhelpful. Bestselling authors also say AI is ruining their relationships with Big Five publishers.",
+    "url": "https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/",
     "date": "2026-10-28"
   },
   {
-    "title": "The Foundations of Scalable AI",
-    "source": "MIT Tech Review",
-    "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and ...",
-    "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+    "title": "AI Emergency Alerts Are Coming. Humans Might Not Be Ready",
+    "source": "Wired",
+    "summary": "Human beings struggle with emergency communication. Chatbots can help\u2014if people take them seriously.",
+    "url": "https://www.wired.com/story/ai-emergency-alerts-coming-humans-not-ready/",
     "date": "2026-10-28"
   },
   {
@@ -228,20 +242,6 @@
     "source": "Wired",
     "summary": "Anthropic on Monday filed documents ahead of a blockbuster IPO that offers insight into the company\u2019s financials, risk factors, and views on the future of AI.",
     "url": "https://www.wired.com/story/anthropic-ipo-filings-reveal-finances-risks-strategy/",
-    "date": "2026-10-28"
-  },
-  {
-    "title": "Meet the AI Agents Trying to Be Real-Life Journalists",
-    "source": "Wired",
-    "summary": "Jayden, Sam, and Zack are eagerly pitching editors on reported stories and investigative features. The catch? They're all AI agents.",
-    "url": "https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/",
-    "date": "2026-10-28"
-  },
-  {
-    "title": "This AI Radio Host Speaks Spanish and Backs Immigrants. It\u2019s Winning Over Listeners",
-    "source": "Wired",
-    "summary": "Coyotec is bilingual, swears, and tells listeners how to defend themselves against ICE. Its popularity comes as more broadcasters are experimenting with artificial personalities.",
-    "url": "https://www.wired.com/story/this-ai-radio-hosts-speaks-spanish-and-backs-immigrants-its-winning-over-listeners/",
     "date": "2026-10-28"
   },
   {
