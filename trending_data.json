@@ -1,91 +1,82 @@
 [
   {
-    "title": "Claude Code burns ~15\u201320% of your tokens on a 3-word status line",
+    "title": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
     "source": "Hacker News",
-    "description": "HN Score: 139 | 30 comments",
-    "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
-    "score": 139,
+    "description": "HN Score: 123 | 20 comments",
+    "url": "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/",
+    "score": 123,
     "date": "2026-10-29",
     "category": "AI News"
   },
   {
     "title": "OpenAI's agents talked to each other through the CPU Cache",
     "source": "Hacker News",
-    "description": "HN Score: 23 | 1 comments",
+    "description": "HN Score: 237 | 153 comments",
     "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
-    "score": 23,
+    "score": 237,
+    "date": "2026-10-29",
+    "category": "AI News"
+  },
+  {
+    "title": "Claude Code regularly sends each background agent\u2019s transcript to its model",
+    "source": "Hacker News",
+    "description": "HN Score: 443 | 180 comments",
+    "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+    "score": 443,
+    "date": "2026-10-29",
+    "category": "AI News"
+  },
+  {
+    "title": "I Used AI to Fake a Scientific Paper. Here's What Happened",
+    "source": "Hacker News",
+    "description": "HN Score: 4 | 0 comments",
+    "url": "https://spectrum.ieee.org/ai-generated-scientific-papers",
+    "score": 4,
+    "date": "2026-10-29",
+    "category": "AI News"
+  },
+  {
+    "title": "Chained PHP2Shell Exploit Roots 25 Servers, Including US Government Servers",
+    "source": "Hacker News",
+    "description": "HN Score: 4 | 0 comments",
+    "url": "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers",
+    "score": 4,
     "date": "2026-10-29",
     "category": "AI News"
   },
   {
     "title": "Nixpkgs for the Front End Impaired",
     "source": "Hacker News",
-    "description": "HN Score: 30 | 6 comments",
+    "description": "HN Score: 80 | 14 comments",
     "url": "https://fzakaria.com/2026/10/12/nixpkgs-for-the-frontend-impaired",
-    "score": 30,
+    "score": 80,
     "date": "2026-10-29",
     "category": "AI News"
   },
   {
     "title": "Dayjob: Tax \u2013 evaluating AI agents on 50 professional tax assignments",
     "source": "Hacker News",
-    "description": "HN Score: 219 | 140 comments",
+    "description": "HN Score: 246 | 154 comments",
     "url": "https://surgehq.ai/blog/dayjob-tax",
-    "score": 219,
+    "score": 246,
     "date": "2026-10-29",
     "category": "AI News"
   },
   {
     "title": "The Agent SDK",
     "source": "Hacker News",
-    "description": "HN Score: 110 | 116 comments",
+    "description": "HN Score: 132 | 128 comments",
     "url": "https://cursor.com/blog/agent-sdk",
-    "score": 110,
-    "date": "2026-10-29",
-    "category": "AI News"
-  },
-  {
-    "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
-    "source": "Hacker News",
-    "description": "HN Score: 447 | 496 comments",
-    "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
-    "score": 447,
-    "date": "2026-10-29",
-    "category": "AI News"
-  },
-  {
-    "title": "AI execs may be too out of touch to build for the general public",
-    "source": "Hacker News",
-    "description": "HN Score: 43 | 27 comments",
-    "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
-    "score": 43,
+    "score": 132,
     "date": "2026-10-29",
     "category": "AI News"
   },
   {
     "title": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
     "source": "Hacker News",
-    "description": "HN Score: 42 | 3 comments",
+    "description": "HN Score: 65 | 3 comments",
     "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
-    "score": 42,
-    "date": "2026-10-29",
-    "category": "AI News"
-  },
-  {
-    "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-    "source": "Hacker News",
-    "description": "HN Score: 525 | 194 comments",
-    "url": "https://www.brangus.io/survival-llm",
-    "score": 525,
-    "date": "2026-10-29",
-    "category": "AI News"
-  },
-  {
-    "title": "Decompiling Games with AI: Virtueel Zoetermeer",
-    "source": "Hacker News",
-    "description": "HN Score: 22 | 2 comments",
-    "url": "https://bou.ke/blog/zoetermeer/",
-    "score": 22,
+    "score": 65,
     "date": "2026-10-29",
     "category": "AI News"
   }

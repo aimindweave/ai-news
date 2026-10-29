@@ -93,6 +93,16 @@
   ],
   "episodes": [
     {
+      "id": "Practica_0",
+      "name": "Abundant Intelligence at the Midwest AI Summit",
+      "show": "Practical AI",
+      "description": "\n        In this special episode, we bring you highlights from three talks at the Midwest AI Summit. Heidi Porter explores how to build reliable AI-augmented workflows using the right tools, evalua",
+      "release_date": "2026-10-29",
+      "duration_min": 54,
+      "image": "",
+      "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
+    },
+    {
       "id": "The TWIM_0",
       "name": "The Brutal Reality of Building Agentic Products Today with Daniel Jeffries - #782",
       "show": "The TWIML AI Podcast",
@@ -153,7 +163,7 @@
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
-      "id": "Practica_0",
+      "id": "Practica_1",
       "name": "Exploit Development, Agentic Vulnerability Discovery, and Fake PoCs",
       "show": "Practical AI",
       "description": "\n        AI is changing cybersecurity, accelerating vulnerability research and exploit development while raising new questions about reliability, risk, and  guardrails. Daniel and Chris talk with S",
@@ -183,7 +193,7 @@
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
-      "id": "Practica_1",
+      "id": "Practica_2",
       "name": "Is Education Failing our Students in this AI-Driven World?",
       "show": "Practical AI",
       "description": "\n        Schools and universities are failing to adapt to our modern world, in which AI is becoming increasingly pervasive in all aspects of life and work.  In fact, AI may be changing what should ",
@@ -211,16 +221,6 @@
       "duration_min": 44,
       "image": "",
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
-    },
-    {
-      "id": "Practica_2",
-      "name": "Narrative intelligence and the human advantage",
-      "show": "Practical AI",
-      "description": "\n        As AI reshapes how we work, create, and think about our roles, staying adaptable means understanding not just the technology, but our own stories and identities. Reed Frerichs joins Daniel",
-      "release_date": "2026-10-08",
-      "duration_min": 44,
-      "image": "",
-      "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
       "id": "Lex Frid_1",
