@@ -1,82 +1,91 @@
 [
   {
+    "title": "LLM Voice",
+    "source": "Hacker News",
+    "description": "HN Score: 177 | 98 comments",
+    "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+    "score": 177,
+    "date": "2026-10-29",
+    "category": "AI News"
+  },
+  {
+    "title": "Zombie stats: Where the numbers AI quotes come from",
+    "source": "Hacker News",
+    "description": "HN Score: 100 | 50 comments",
+    "url": "https://trakkr.ai/trakkr-research/zombie-stats",
+    "score": 100,
+    "date": "2026-10-29",
+    "category": "AI News"
+  },
+  {
+    "title": "Chained PHP2Shell exploit roots 25 servers, including US Government servers",
+    "source": "Hacker News",
+    "description": "HN Score: 201 | 95 comments",
+    "url": "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers",
+    "score": 201,
+    "date": "2026-10-29",
+    "category": "AI News"
+  },
+  {
+    "title": "Launch HN: Simantic (YC F26) \u2013 Firmware Simulation for AI Agents",
+    "source": "Hacker News",
+    "description": "HN Score: 23 | 10 comments",
+    "url": "https://news.ycombinator.com/item?id=50291116",
+    "score": 23,
+    "date": "2026-10-29",
+    "category": "AI News"
+  },
+  {
+    "title": "What we know so far about Spain train crash",
+    "source": "Hacker News",
+    "description": "HN Score: 92 | 160 comments",
+    "url": "https://www.bbc.com/news/articles/cm8xz7pkd0jjo",
+    "score": 92,
+    "date": "2026-10-29",
+    "category": "AI News"
+  },
+  {
+    "title": "AI Contributions to GHC",
+    "source": "Hacker News",
+    "description": "HN Score: 10 | 2 comments",
+    "url": "https://serokell.io/blog/ai-contributions-to-ghc",
+    "score": 10,
+    "date": "2026-10-29",
+    "category": "AI News"
+  },
+  {
+    "title": "Show HN: phpClaw \u2013 AI agent runtime for PHP with tools, memory and guards",
+    "source": "Hacker News",
+    "description": "HN Score: 7 | 3 comments",
+    "url": "https://github.com/phpclaw-php/phpclaw-monorepo",
+    "score": 7,
+    "date": "2026-10-29",
+    "category": "AI News"
+  },
+  {
+    "title": "Everything Rhymes with Porcelain",
+    "source": "Hacker News",
+    "description": "HN Score: 15 | 1 comments",
+    "url": "https://worksinprogress.co/issue/everything-rhymes-with-porcelain/",
+    "score": 15,
+    "date": "2026-10-29",
+    "category": "AI News"
+  },
+  {
+    "title": "Archive Of Our Own down for maintenance for 2 to 4 weeks",
+    "source": "Hacker News",
+    "description": "HN Score: 22 | 14 comments",
+    "url": "https://www.otwstatus.org/incidents/g12jnxck9g6h",
+    "score": 22,
+    "date": "2026-10-29",
+    "category": "AI News"
+  },
+  {
     "title": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
     "source": "Hacker News",
-    "description": "HN Score: 123 | 20 comments",
+    "description": "HN Score: 221 | 38 comments",
     "url": "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/",
-    "score": 123,
-    "date": "2026-10-29",
-    "category": "AI News"
-  },
-  {
-    "title": "OpenAI's agents talked to each other through the CPU Cache",
-    "source": "Hacker News",
-    "description": "HN Score: 237 | 153 comments",
-    "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
-    "score": 237,
-    "date": "2026-10-29",
-    "category": "AI News"
-  },
-  {
-    "title": "Claude Code regularly sends each background agent\u2019s transcript to its model",
-    "source": "Hacker News",
-    "description": "HN Score: 443 | 180 comments",
-    "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
-    "score": 443,
-    "date": "2026-10-29",
-    "category": "AI News"
-  },
-  {
-    "title": "I Used AI to Fake a Scientific Paper. Here's What Happened",
-    "source": "Hacker News",
-    "description": "HN Score: 4 | 0 comments",
-    "url": "https://spectrum.ieee.org/ai-generated-scientific-papers",
-    "score": 4,
-    "date": "2026-10-29",
-    "category": "AI News"
-  },
-  {
-    "title": "Chained PHP2Shell Exploit Roots 25 Servers, Including US Government Servers",
-    "source": "Hacker News",
-    "description": "HN Score: 4 | 0 comments",
-    "url": "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers",
-    "score": 4,
-    "date": "2026-10-29",
-    "category": "AI News"
-  },
-  {
-    "title": "Nixpkgs for the Front End Impaired",
-    "source": "Hacker News",
-    "description": "HN Score: 80 | 14 comments",
-    "url": "https://fzakaria.com/2026/10/12/nixpkgs-for-the-frontend-impaired",
-    "score": 80,
-    "date": "2026-10-29",
-    "category": "AI News"
-  },
-  {
-    "title": "Dayjob: Tax \u2013 evaluating AI agents on 50 professional tax assignments",
-    "source": "Hacker News",
-    "description": "HN Score: 246 | 154 comments",
-    "url": "https://surgehq.ai/blog/dayjob-tax",
-    "score": 246,
-    "date": "2026-10-29",
-    "category": "AI News"
-  },
-  {
-    "title": "The Agent SDK",
-    "source": "Hacker News",
-    "description": "HN Score: 132 | 128 comments",
-    "url": "https://cursor.com/blog/agent-sdk",
-    "score": 132,
-    "date": "2026-10-29",
-    "category": "AI News"
-  },
-  {
-    "title": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
-    "source": "Hacker News",
-    "description": "HN Score: 65 | 3 comments",
-    "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
-    "score": 65,
+    "score": 221,
     "date": "2026-10-29",
     "category": "AI News"
   }
