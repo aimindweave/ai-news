@@ -153,6 +153,16 @@
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
+      "id": "Latent S_0",
+      "name": "How Anthropic ships the #1 LLM in the World safely: Separating the Brain from the Hands",
+      "show": "Latent Space",
+      "description": "Katelyn Lesse and Angela Jiang join Latent Space to explain the engineering behind the Claude Platform: launching Opus 5.5, separating the model’s “brain” from the agent’s “hands,” scaling APIs, an",
+      "release_date": "2026-10-27",
+      "duration_min": 106,
+      "image": "",
+      "url": "https://open.spotify.com/show/4vS0Dq8G7Q2lRqAR8BMBWC"
+    },
+    {
       "id": "Lex Frid_0",
       "name": "#503 – AI Crisis in Math: Navier-Stokes, Riemann Hypothesis & Complexity Theory",
       "show": "Lex Fridman Podcast",
@@ -161,6 +171,26 @@
       "duration_min": 222,
       "image": "",
       "url": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"
+    },
+    {
+      "id": "Latent S_1",
+      "name": "Why Agents Love Supabase",
+      "show": "Latent Space",
+      "description": "AI agents are creating more software—and that changes what a backend needs to do. Supabase co-founders Paul Copplestone and Ant Wilson join swyx to discuss running long-lived workloads alongside th",
+      "release_date": "2026-10-26",
+      "duration_min": 76,
+      "image": "",
+      "url": "https://open.spotify.com/show/4vS0Dq8G7Q2lRqAR8BMBWC"
+    },
+    {
+      "id": "Latent S_2",
+      "name": "⚡ An Eval for AI Scientists That Knows the Answer Key - Ian Quigley, Leash Bio",
+      "show": "Latent Space",
+      "description": "Watch the full show on YouTube: https://www.youtube.com/watch?v=vhPCo-8K78U",
+      "release_date": "2026-10-26",
+      "duration_min": 16,
+      "image": "",
+      "url": "https://open.spotify.com/show/4vS0Dq8G7Q2lRqAR8BMBWC"
     },
     {
       "id": "Hard For_1",

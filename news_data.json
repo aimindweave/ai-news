@@ -1,5 +1,40 @@
 [
   {
+    "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+    "source": "TechCrunch",
+    "summary": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
+    "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+    "date": "2026-10-30"
+  },
+  {
+    "title": "Intel\u2019s stock crashes, knocking $12B from government\u2019s stake",
+    "source": "TechCrunch",
+    "summary": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
+    "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+    "date": "2026-10-30"
+  },
+  {
+    "title": "Anthropic expected to receive high \u2018junk\u2019 rating from credit agencies following IPO, FT report says",
+    "source": "TechCrunch",
+    "summary": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.",
+    "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+    "date": "2026-10-30"
+  },
+  {
+    "title": "Last-minute Halloween costumes for tech nerds",
+    "source": "TechCrunch",
+    "summary": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
+    "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+    "date": "2026-10-30"
+  },
+  {
+    "title": "Cracks are emerging in the AI spending boom",
+    "source": "TechCrunch",
+    "summary": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
+    "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+    "date": "2026-10-30"
+  },
+  {
     "title": "Zest\u2019s new AI agent finds restaurants and books reservations over text",
     "source": "TechCrunch",
     "summary": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
@@ -67,41 +102,6 @@
     "source": "TechCrunch",
     "summary": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
     "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
-    "date": "2026-10-30"
-  },
-  {
-    "title": "Rivian expands joint venture with VW to include AI assistant",
-    "source": "TechCrunch",
-    "summary": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
-    "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
-    "date": "2026-10-30"
-  },
-  {
-    "title": "OpenAI-backed Thrive Holdings acquires ADT",
-    "source": "TechCrunch",
-    "summary": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
-    "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
-    "date": "2026-10-30"
-  },
-  {
-    "title": "Meta quietly launches an AI fashion app called Style Sketch",
-    "source": "TechCrunch",
-    "summary": "The app connects to Instagram to build a virtual closet from photos you\u2019ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll.",
-    "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
-    "date": "2026-10-30"
-  },
-  {
-    "title": "Granola crunches up a dictation feature to compete with Wispr",
-    "source": "TechCrunch",
-    "summary": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.",
-    "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
-    "date": "2026-10-30"
-  },
-  {
-    "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
-    "source": "TechCrunch",
-    "summary": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
-    "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
     "date": "2026-10-30"
   },
   {
@@ -175,6 +175,13 @@
     "date": "2026-10-30"
   },
   {
+    "title": "How a Contractor\u2019s Claude Agent Got Into the Pentagon",
+    "source": "Wired",
+    "summary": "This week on Uncanny Valley, we also discuss Anthropic\u2019s IPO filing and the volunteers gearing up to counter ICE at the midterms.",
+    "url": "https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/",
+    "date": "2026-10-30"
+  },
+  {
     "title": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
     "source": "Wired",
     "summary": "Sources tell WIRED that an Accenture employee\u2019s personal Claude agent ran on a DOD network for two months before it was identified and the vulnerability could be patched.",
@@ -238,10 +245,31 @@
     "date": "2026-10-30"
   },
   {
-    "title": "UK Home Office May Face Investigation Over Use of OpenAI Tech",
-    "source": "Wired",
-    "summary": "A government watchdog is considering a probe into the Home Office\u2019s use of ChatGPT technology to process asylum claims amid concerns over the tools\u2019 accuracy and secrecy surrounding their use.",
-    "url": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/",
+    "title": "Supersonic airliner in doubt as company shifts to powering AI data centers",
+    "source": "Ars Technica",
+    "summary": "Boom\u2019s airliner may be delayed, and its data center power business lost a customer.",
+    "url": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/",
+    "date": "2026-10-30"
+  },
+  {
+    "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+    "source": "Ars Technica",
+    "summary": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
+    "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+    "date": "2026-10-30"
+  },
+  {
+    "title": "Dartmouth's provost warned us about AI cheating\u2014but his own AI use cost him his job",
+    "source": "Ars Technica",
+    "summary": "People who love AI don't always love telling others they used it.",
+    "url": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
+    "date": "2026-10-30"
+  },
+  {
+    "title": "Basically no one is using AI agents for their DoorDash orders",
+    "source": "Ars Technica",
+    "summary": "But it's still early days for the relatively new e-commerce use case.",
+    "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
     "date": "2026-10-30"
   },
   {
@@ -319,34 +347,6 @@
     "source": "Ars Technica",
     "summary": "Included is the ability to limit which applications Siri can directly access.",
     "url": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/",
-    "date": "2026-10-30"
-  },
-  {
-    "title": "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees",
-    "source": "Ars Technica",
-    "summary": "US robotics company stands by ICE deal as more than 300 employees warn of risk.",
-    "url": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/",
-    "date": "2026-10-30"
-  },
-  {
-    "title": "Highway thieves are spoofing GPS to steal millions in data center-bound cargo",
-    "source": "Ars Technica",
-    "summary": "Investigators explain how highway thieves stole $100M in data center equipment.",
-    "url": "https://arstechnica.com/tech-policy/2026/10/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo/",
-    "date": "2026-10-30"
-  },
-  {
-    "title": "Tesla gave up the EV crown. Now it wants to win the autonomy race.",
-    "source": "Ars Technica",
-    "summary": "Tesla hopes autonomy subscriptions can deliver the margins car sales cannot.",
-    "url": "https://arstechnica.com/cars/2026/10/tesla-wants-ai-and-software-to-be-its-next-profit-engine/",
-    "date": "2026-10-30"
-  },
-  {
-    "title": "Updated Google privacy policy says your Gmail might be used for advertising",
-    "source": "Ars Technica",
-    "summary": "Turning on Personal Intelligence gives the company more data for ad targeting.",
-    "url": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/",
     "date": "2026-10-30"
   }
 ]
