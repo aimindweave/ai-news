@@ -93,6 +93,26 @@
   ],
   "episodes": [
     {
+      "id": "Hard For_0",
+      "name": "Are We in an A.I. Bubble? We're About to Find Out.",
+      "show": "Hard Fork",
+      "description": "Monday gave us the release of Anthropic’s S-1 filing, providing the clearest view yet into the business side of the A.I. boom and setting the stage for what could be the largest initial public offe",
+      "release_date": "2026-10-30",
+      "duration_min": 54,
+      "image": "",
+      "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
+    },
+    {
+      "id": "a]6z Pod_0",
+      "name": "Why AI Could Turn Small Law Firms Into Billion-Dollar Businesses",
+      "show": "a]6z Podcast",
+      "description": "What happens when AI makes legal work cheap enough to take cases lawyers couldn't afford to touch before? Eve CEO Jay Madheswaran argues that AI won't just cut costs for law firms. It could expand ",
+      "release_date": "2026-10-30",
+      "duration_min": 53,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
       "id": "Practica_0",
       "name": "Abundant Intelligence at the Midwest AI Summit",
       "show": "Practical AI",
@@ -103,7 +123,7 @@
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
-      "id": "a]6z Pod_0",
+      "id": "a]6z Pod_1",
       "name": "The Startups Rebuilding American Industry | The AD50",
       "show": "a]6z Podcast",
       "description": "America’s defense, energy, manufacturing, and robotics booms are increasingly becoming one story: the rebuilding of the country’s industrial base. This year’s AD50 highlights the companies building",
@@ -123,22 +143,12 @@
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "Mark Cuban on Why AI Could Turn Solo Founders Into Trillionaires",
       "show": "a]6z Podcast",
       "description": "Mark Cuban thinks AI could transform healthcare, but it won’t fix opaque prices and broken incentives on its own. His starting point for employers: run every benefits contract through AI and ask wh",
       "release_date": "2026-10-28",
       "duration_min": 61,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
-    },
-    {
-      "id": "a]6z Pod_2",
-      "name": "Reinventing School for the AI Era | Joe Liemandt, Gagan Biyani & Erik Torenberg",
-      "show": "a]6z Podcast",
-      "description": "What should school look like if AI can help students learn dramatically faster? Alpha School founder Joe Liemandt argues the answer isn’t to fill the extra time with more academics, but to redesign",
-      "release_date": "2026-10-27",
-      "duration_min": 56,
       "image": "",
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
@@ -153,7 +163,7 @@
       "url": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"
     },
     {
-      "id": "Hard For_0",
+      "id": "Hard For_1",
       "name": "What’s the Deal With Billy Evans? A Spoiler-Filled Guide to ‘You Can See Everything’",
       "show": "Hard Fork",
       "description": "This week, we focus on Billy Evans, the breakout character of the documentary “You Can See Everything,” and his Theranos-esque new blood-testing start-up. Rob Copeland, a New York Times finance rep",
@@ -183,7 +193,7 @@
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
     },
     {
-      "id": "Hard For_1",
+      "id": "Hard For_2",
       "name": "Why No One Can Look Away From Elizabeth Holmes",
       "show": "Hard Fork",
       "description": "This week, there’s a new blockbuster Elizabeth Holmes documentary out, and we’ve assembled an expert panel to discuss the movie and what Holmes means to the tech world of today. Max Read is joined ",
@@ -211,16 +221,6 @@
       "duration_min": 52,
       "image": "",
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
-    },
-    {
-      "id": "Hard For_2",
-      "name": "Anthropic’s Quest to Give A.I. Morals",
-      "show": "Hard Fork",
-      "description": "This week, Max Read talks to the Times religion correspondent Elizabeth Dias, the tech reporter Erin Griffith and the opinion writer David Wallace-Wells about Anthropic’s private meetings with reli",
-      "release_date": "2026-10-09",
-      "duration_min": 44,
-      "image": "",
-      "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
       "id": "Lex Frid_1",
