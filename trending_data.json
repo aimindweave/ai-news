@@ -1,91 +1,91 @@
 [
   {
-    "title": "Malware uses LLMs to rank victims by how much they're worth",
+    "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
     "source": "Hacker News",
-    "description": "HN Score: 108 | 43 comments",
-    "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
-    "score": 108,
+    "description": "HN Score: 112 | 112 comments",
+    "url": "https://ryanmadden.net/gpt-56-beats-factorio/",
+    "score": 112,
     "date": "2026-10-31",
     "category": "AI News"
   },
   {
-    "title": "We Took over ChatGPT Accounts",
+    "title": "Show HN: A language model that lives in a boot sector",
     "source": "Hacker News",
-    "description": "HN Score: 207 | 104 comments",
+    "description": "HN Score: 24 | 0 comments",
+    "url": "https://github.com/kerlenton/bootgpt",
+    "score": 24,
+    "date": "2026-10-31",
+    "category": "AI News"
+  },
+  {
+    "title": "5 years of OqtaDrive: Microdrive emulation to Sinclair Network over the internet",
+    "source": "Hacker News",
+    "description": "HN Score: 8 | 1 comments",
+    "url": "https://oqtadrive.org/10.other/5-years/",
+    "score": 8,
+    "date": "2026-10-31",
+    "category": "AI News"
+  },
+  {
+    "title": "Do the math: How we took over ChatGPT accounts",
+    "source": "Hacker News",
+    "description": "HN Score: 285 | 139 comments",
     "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
-    "score": 207,
+    "score": 285,
+    "date": "2026-10-31",
+    "category": "AI News"
+  },
+  {
+    "title": "Anthropic blocks users for anything touching training larger models",
+    "source": "Hacker News",
+    "description": "HN Score: 37 | 5 comments",
+    "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+    "score": 37,
     "date": "2026-10-31",
     "category": "AI News"
   },
   {
     "title": "Serbia just elected the world's brainiest parliament",
     "source": "Hacker News",
-    "description": "HN Score: 635 | 368 comments",
+    "description": "HN Score: 750 | 435 comments",
     "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
-    "score": 635,
+    "score": 750,
     "date": "2026-10-31",
     "category": "AI News"
   },
   {
-    "title": "Show HN: Jointter \u2013 A daily word puzzle using dots and lines",
+    "title": "I post trained a model on Demoscenes",
     "source": "Hacker News",
-    "description": "HN Score: 3 | 0 comments",
-    "url": "https://www.jointter.com/",
-    "score": 3,
+    "description": "HN Score: 34 | 19 comments",
+    "url": "https://datavorous.com/writing/demoscener/",
+    "score": 34,
+    "date": "2026-10-31",
+    "category": "AI News"
+  },
+  {
+    "title": "Malware uses LLMs to rank victims by how much they're worth",
+    "source": "Hacker News",
+    "description": "HN Score: 214 | 116 comments",
+    "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
+    "score": 214,
     "date": "2026-10-31",
     "category": "AI News"
   },
   {
     "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
     "source": "Hacker News",
-    "description": "HN Score: 137 | 31 comments",
+    "description": "HN Score: 176 | 38 comments",
     "url": "https://thedataexchange.media/leo-de-moura-lean-aws/",
-    "score": 137,
+    "score": 176,
     "date": "2026-10-31",
     "category": "AI News"
   },
   {
-    "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
+    "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
     "source": "Hacker News",
-    "description": "HN Score: 275 | 311 comments",
-    "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
-    "score": 275,
-    "date": "2026-10-31",
-    "category": "AI News"
-  },
-  {
-    "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
-    "source": "Hacker News",
-    "description": "HN Score: 948 | 542 comments",
-    "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
-    "score": 948,
-    "date": "2026-10-31",
-    "category": "AI News"
-  },
-  {
-    "title": "Anthropic's Claude AI blocks video game cloning and reverse-engineering",
-    "source": "Hacker News",
-    "description": "HN Score: 29 | 13 comments",
-    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked",
-    "score": 29,
-    "date": "2026-10-31",
-    "category": "AI News"
-  },
-  {
-    "title": "Building an AI-native engineering org",
-    "source": "Hacker News",
-    "description": "HN Score: 174 | 192 comments",
-    "url": "https://twitter.com/sgondala2/status/2115832070274723875",
-    "score": 174,
-    "date": "2026-10-31",
-    "category": "AI News"
-  },
-  {
-    "title": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
-    "source": "Hacker News",
-    "description": "HN Score: 241 | 37 comments",
-    "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
-    "score": 241,
+    "description": "HN Score: 67 | 43 comments",
+    "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
+    "score": 67,
     "date": "2026-10-31",
     "category": "AI News"
   }
