@@ -1,91 +1,91 @@
 [
   {
-    "title": "The AI cost of JavaScript frameworks",
-    "source": "Hacker News",
-    "description": "HN Score: 40 | 14 comments",
-    "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
-    "score": 40,
-    "date": "2026-11-01",
-    "category": "AI News"
-  },
-  {
     "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
     "source": "Hacker News",
-    "description": "HN Score: 214 | 104 comments",
+    "description": "HN Score: 356 | 173 comments",
     "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
-    "score": 214,
+    "score": 356,
     "date": "2026-11-01",
     "category": "AI News"
   },
   {
-    "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
+    "title": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
     "source": "Hacker News",
-    "description": "HN Score: 77 | 35 comments",
-    "url": "https://arxiv.org/abs/2409.02292",
-    "score": 77,
+    "description": "HN Score: 67 | 26 comments",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
+    "score": 67,
     "date": "2026-11-01",
     "category": "AI News"
   },
   {
-    "title": "ChatGPT and Codex usage limits merging",
+    "title": "Domain hacks with unusual Unicode characters (2018)",
     "source": "Hacker News",
-    "description": "HN Score: 103 | 46 comments",
-    "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
-    "score": 103,
+    "description": "HN Score: 36 | 31 comments",
+    "url": "https://xn--69f31l4t57c0mag4b613h.xn--7uh4898msjaso/\ud83c\udd86\ud83c\udd83\ud83c\udd75/",
+    "score": 36,
     "date": "2026-11-01",
     "category": "AI News"
   },
   {
     "title": "Understanding Email Encryption",
     "source": "Hacker News",
-    "description": "HN Score: 7 | 1 comments",
+    "description": "HN Score: 73 | 19 comments",
     "url": "https://www.fastmail.com/blog/email-encryption/",
+    "score": 73,
+    "date": "2026-11-01",
+    "category": "AI News"
+  },
+  {
+    "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
+    "source": "Hacker News",
+    "description": "HN Score: 144 | 73 comments",
+    "url": "https://arxiv.org/abs/2409.02292",
+    "score": 144,
+    "date": "2026-11-01",
+    "category": "AI News"
+  },
+  {
+    "title": "The AI cost of JavaScript frameworks",
+    "source": "Hacker News",
+    "description": "HN Score: 194 | 135 comments",
+    "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+    "score": 194,
+    "date": "2026-11-01",
+    "category": "AI News"
+  },
+  {
+    "title": "Anthropic's Mythos-class model allegedly leaked on Hugging Face",
+    "source": "Hacker News",
+    "description": "HN Score: 7 | 1 comments",
+    "url": "https://news.ycombinator.com/item?id=50326727",
     "score": 7,
+    "date": "2026-11-01",
+    "category": "AI News"
+  },
+  {
+    "title": "No AI, 52 min. Build all Linux Files utils in C by Hand [video]",
+    "source": "Hacker News",
+    "description": "HN Score: 109 | 94 comments",
+    "url": "https://www.youtube.com/watch?v=gQRmSlcTq9c",
+    "score": 109,
     "date": "2026-11-01",
     "category": "AI News"
   },
   {
     "title": "Do the math: How we took over ChatGPT accounts",
     "source": "Hacker News",
-    "description": "HN Score: 325 | 163 comments",
+    "description": "HN Score: 356 | 173 comments",
     "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
-    "score": 325,
+    "score": 356,
     "date": "2026-11-01",
     "category": "AI News"
   },
   {
-    "title": "Anthropic blocks users for anything touching training larger models",
+    "title": "noyb win: French electronics retailer Fnac Darty fined \u20ac7M",
     "source": "Hacker News",
-    "description": "HN Score: 334 | 190 comments",
-    "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
-    "score": 334,
-    "date": "2026-11-01",
-    "category": "AI News"
-  },
-  {
-    "title": "AI text watermarking and quality loss",
-    "source": "Hacker News",
-    "description": "HN Score: 52 | 8 comments",
-    "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
-    "score": 52,
-    "date": "2026-11-01",
-    "category": "AI News"
-  },
-  {
-    "title": "Show HN: A language model that lives in a boot sector",
-    "source": "Hacker News",
-    "description": "HN Score: 81 | 5 comments",
-    "url": "https://github.com/kerlenton/bootgpt",
-    "score": 81,
-    "date": "2026-11-01",
-    "category": "AI News"
-  },
-  {
-    "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
-    "source": "Hacker News",
-    "description": "HN Score: 203 | 50 comments",
-    "url": "https://thedataexchange.media/leo-de-moura-lean-aws/",
-    "score": 203,
+    "description": "HN Score: 46 | 6 comments",
+    "url": "https://noyb.eu/en/noyb-win-french-electronics-retailer-fnac-darty-fined-eu7-million",
+    "score": 46,
     "date": "2026-11-01",
     "category": "AI News"
   }
