@@ -1,91 +1,73 @@
 [
   {
+    "title": "The AI cost of JavaScript frameworks",
+    "source": "Hacker News",
+    "description": "HN Score: 266 | 198 comments",
+    "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+    "score": 266,
+    "date": "2026-11-01",
+    "category": "AI News"
+  },
+  {
+    "title": "Frontier Airlines Likely Breached",
+    "source": "Hacker News",
+    "description": "HN Score: 145 | 42 comments",
+    "url": "https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/",
+    "score": 145,
+    "date": "2026-11-01",
+    "category": "AI News"
+  },
+  {
     "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
     "source": "Hacker News",
-    "description": "HN Score: 356 | 173 comments",
+    "description": "HN Score: 408 | 199 comments",
     "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
-    "score": 356,
+    "score": 408,
     "date": "2026-11-01",
     "category": "AI News"
   },
   {
-    "title": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
+    "title": "Understanding Email Encryption (2025)",
     "source": "Hacker News",
-    "description": "HN Score: 67 | 26 comments",
-    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
-    "score": 67,
-    "date": "2026-11-01",
-    "category": "AI News"
-  },
-  {
-    "title": "Domain hacks with unusual Unicode characters (2018)",
-    "source": "Hacker News",
-    "description": "HN Score: 36 | 31 comments",
-    "url": "https://xn--69f31l4t57c0mag4b613h.xn--7uh4898msjaso/\ud83c\udd86\ud83c\udd83\ud83c\udd75/",
-    "score": 36,
-    "date": "2026-11-01",
-    "category": "AI News"
-  },
-  {
-    "title": "Understanding Email Encryption",
-    "source": "Hacker News",
-    "description": "HN Score: 73 | 19 comments",
+    "description": "HN Score: 117 | 23 comments",
     "url": "https://www.fastmail.com/blog/email-encryption/",
-    "score": 73,
+    "score": 117,
+    "date": "2026-11-01",
+    "category": "AI News"
+  },
+  {
+    "title": "US Jobs Pickup May Keep Fed on Track to Hike Rates Again",
+    "source": "Hacker News",
+    "description": "HN Score: 30 | 36 comments",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-31/us-jobs-pickup-may-keep-fed-on-track-to-hike-rates-again",
+    "score": 30,
     "date": "2026-11-01",
     "category": "AI News"
   },
   {
     "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
     "source": "Hacker News",
-    "description": "HN Score: 144 | 73 comments",
+    "description": "HN Score: 175 | 91 comments",
     "url": "https://arxiv.org/abs/2409.02292",
-    "score": 144,
+    "score": 175,
     "date": "2026-11-01",
     "category": "AI News"
   },
   {
-    "title": "The AI cost of JavaScript frameworks",
+    "title": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
     "source": "Hacker News",
-    "description": "HN Score: 194 | 135 comments",
-    "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
-    "score": 194,
+    "description": "HN Score: 134 | 60 comments",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
+    "score": 134,
     "date": "2026-11-01",
     "category": "AI News"
   },
   {
-    "title": "Anthropic's Mythos-class model allegedly leaked on Hugging Face",
+    "title": "It wasn't AI that flipped Proton's charge",
     "source": "Hacker News",
-    "description": "HN Score: 7 | 1 comments",
-    "url": "https://news.ycombinator.com/item?id=50326727",
-    "score": 7,
-    "date": "2026-11-01",
-    "category": "AI News"
-  },
-  {
-    "title": "No AI, 52 min. Build all Linux Files utils in C by Hand [video]",
-    "source": "Hacker News",
-    "description": "HN Score: 109 | 94 comments",
-    "url": "https://www.youtube.com/watch?v=gQRmSlcTq9c",
-    "score": 109,
-    "date": "2026-11-01",
-    "category": "AI News"
-  },
-  {
-    "title": "Do the math: How we took over ChatGPT accounts",
-    "source": "Hacker News",
-    "description": "HN Score: 356 | 173 comments",
-    "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
-    "score": 356,
-    "date": "2026-11-01",
-    "category": "AI News"
-  },
-  {
-    "title": "noyb win: French electronics retailer Fnac Darty fined \u20ac7M",
-    "source": "Hacker News",
-    "description": "HN Score: 46 | 6 comments",
-    "url": "https://noyb.eu/en/noyb-win-french-electronics-retailer-fnac-darty-fined-eu7-million",
-    "score": 46,
+    "description": "HN Score: 122 | 74 comments",
+    "url": "https://blog.raed.dev/posts/proton-loser-thinking/",
+    "score": 122,
     "date": "2026-11-01",
     "category": "AI News"
   }
