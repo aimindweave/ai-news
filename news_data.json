@@ -1,5 +1,47 @@
 [
   {
+    "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+    "source": "TechCrunch",
+    "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet\u2019s copyrighted and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
+    "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "42AI comes out of stealth with $62.5M and a world model that can \u2018predict human behavior\u2019",
+    "source": "TechCrunch",
+    "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
+    "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "Elon Musk throttles Grok Bot limits due to \u2018unsustainably high\u2019 costs",
+    "source": "TechCrunch",
+    "summary": "Musk recently referred to Grok Bot as having 'the fastest growth of a product that I've ever seen in my life.'",
+    "url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+    "source": "TechCrunch",
+    "summary": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
+    "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "2 days till TechCrunch Founder Summit: Boston founders don\u2019t need a Silicon Valley address to build something big",
+    "source": "TechCrunch",
+    "summary": "TechCrunch Founder Summit happens on November 4 in Boston for a founder-focused agenda and impactful connections. Save up to $100 or get discounts with group passes.",
+    "url": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "OpenAI is finally merging ChatGPT\u2019s Chat and Work tabs",
+    "source": "TechCrunch",
+    "summary": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
+    "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+    "date": "2026-11-02"
+  },
+  {
     "title": "OpenAI might rebrand its data centers as \u2018AI compute campuses\u2019",
     "source": "TechCrunch",
     "summary": "Data centers are deeply unpopular. But what if we called them something else?",
@@ -11,6 +53,13 @@
     "source": "TechCrunch",
     "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
     "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "Data centers are now a midterm issue, even in Brooklyn",
+    "source": "TechCrunch",
+    "summary": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member\u2019s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.",
+    "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
     "date": "2026-11-02"
   },
   {
@@ -56,52 +105,31 @@
     "date": "2026-11-02"
   },
   {
-    "title": "Intel\u2019s stock crashes, knocking $12B from government\u2019s stake",
-    "source": "TechCrunch",
-    "summary": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
-    "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+    "title": "Raising the quality of insights in agentic analytics",
+    "source": "MIT Tech Review",
+    "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The qua...",
+    "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
     "date": "2026-11-02"
   },
   {
-    "title": "Anthropic expected to receive high \u2018junk\u2019 rating from credit agencies following IPO, FT report says",
-    "source": "TechCrunch",
-    "summary": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.",
-    "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+    "title": "Stop counting tokens, start counting what ships",
+    "source": "MIT Tech Review",
+    "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls",
+    "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
     "date": "2026-11-02"
   },
   {
-    "title": "Last-minute Halloween costumes for tech nerds",
-    "source": "TechCrunch",
-    "summary": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
-    "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+    "title": "The Download: the agentic web arrives and the drive for safer roads",
+    "source": "MIT Tech Review",
+    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. The agentic web is here In 2001, a decade after inventing the World Wide Web, Tim Berners-Lee articulated a new vision: an internet navigated by autonomous sof...",
+    "url": "https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths/",
     "date": "2026-11-02"
   },
   {
-    "title": "Cracks are emerging in the AI spending boom",
-    "source": "TechCrunch",
-    "summary": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
-    "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
-    "date": "2026-11-02"
-  },
-  {
-    "title": "Zest\u2019s new AI agent finds restaurants and books reservations over text",
-    "source": "TechCrunch",
-    "summary": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
-    "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
-    "date": "2026-11-02"
-  },
-  {
-    "title": "Google\u2019s first data center satellite is online and writing poetry",
-    "source": "TechCrunch",
-    "summary": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
-    "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
-    "date": "2026-11-02"
-  },
-  {
-    "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is \u2018a great opportunity to go deceive people\u2019",
-    "source": "TechCrunch",
-    "summary": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations.",
-    "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+    "title": "The agentic web is here",
+    "source": "MIT Tech Review",
+    "summary": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the \u201cSemantic Web\u201d: an internet designed to be navigated by autonomous so...",
+    "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
     "date": "2026-11-02"
   },
   {
@@ -147,31 +175,17 @@
     "date": "2026-11-02"
   },
   {
-    "title": "The Download: dead startups fueling AI and interspecies communication",
-    "source": "MIT Tech Review",
-    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. AI labs are buying data from dead startups to train their models When Keelan Miskell began winding down his crypto startup, he didn\u2019t think its data was worth ...",
-    "url": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
+    "title": "When You Should\u2014and Shouldn\u2019t\u2014Use AI to Search the Web",
+    "source": "Wired",
+    "summary": "Chatbots are often quite good at retrieving the information you want from the web. But sometimes you\u2019ll get better results by typing your query into a good old search engine.",
+    "url": "https://www.wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web/",
     "date": "2026-11-02"
   },
   {
-    "title": "Pairing industrial AI autonomy and human control",
-    "source": "MIT Tech Review",
-    "summary": "",
-    "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
-    "date": "2026-11-02"
-  },
-  {
-    "title": "The Download: Anthropic\u2019s IPO, smarter power grids, and exercise pills",
-    "source": "MIT Tech Review",
-    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so ar...",
-    "url": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
-    "date": "2026-11-02"
-  },
-  {
-    "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
-    "source": "MIT Tech Review",
-    "summary": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The machine settings matter, but so does knowing how a particular material behaves...",
-    "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+    "title": "Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features",
+    "source": "Wired",
+    "summary": "WIRED uncovered some 400 apps and websites linked to Chinese-language developers that look like regular AI tools but had secret features that let users create violent AI-generated images and video.",
+    "url": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
     "date": "2026-11-02"
   },
   {
@@ -231,17 +245,17 @@
     "date": "2026-11-02"
   },
   {
-    "title": "I Gave My Blood to the AI Death Clock",
-    "source": "Wired",
-    "summary": "Death Clock promises to predict when you\u2019re going to die and help you extend your time on Earth. After a month, I felt like it was sucking the life out of me.",
-    "url": "https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood/",
+    "title": "Coming in 2027: Apple\u2019s $1,000 home robot for FaceTime and switching on lights",
+    "source": "Ars Technica",
+    "summary": "Apple robot backed by CEO John Ternus may have hefty price tag and limited uses.",
+    "url": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/",
     "date": "2026-11-02"
   },
   {
-    "title": "I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They\u2019re Not Better Than Humans\u2014Yet",
-    "source": "Wired",
-    "summary": "To experiment with AI\u2019s predictive skills, I let Codex loose on a fantasy team. It tried to bench Erling Haaland at first, but it soon learned the error of its ways.",
-    "url": "https://www.wired.com/story/i-put-ai-agents-in-charge-of-a-fantasy-team/",
+    "title": "Claude\u2019s new rules against game cloning won\u2019t stop the AI copying boom",
+    "source": "Ars Technica",
+    "summary": "The tsunami of imitators is way bigger than any one model maker can stem.",
+    "url": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
     "date": "2026-11-02"
   },
   {
@@ -333,20 +347,6 @@
     "source": "Ars Technica",
     "summary": "You can apparently now tell AI tools what sort of protein you want them to make.",
     "url": "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/",
-    "date": "2026-11-02"
-  },
-  {
-    "title": "DeepMind unveils Genie 4 world model promising more realistic physics and humans",
-    "source": "Ars Technica",
-    "summary": "Genie 4 will roll out to developers and Google AI Ultra subscribers soon.",
-    "url": "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/",
-    "date": "2026-11-02"
-  },
-  {
-    "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
-    "source": "Ars Technica",
-    "summary": "Included is the ability to limit which applications Siri can directly access.",
-    "url": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/",
     "date": "2026-11-02"
   }
 ]
