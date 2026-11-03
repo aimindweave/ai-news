@@ -1,91 +1,73 @@
 [
   {
-    "title": "Scaling Git at OpenAI",
-    "source": "Hacker News",
-    "description": "HN Score: 55 | 8 comments",
-    "url": "https://openai.com/index/scaling-git-at-openai/",
-    "score": 55,
-    "date": "2026-11-03",
-    "category": "AI News"
-  },
-  {
     "title": "Launch HN: Momentic (YC W24) \u2013 Agents that catch bugs by using your app",
     "source": "Hacker News",
-    "description": "HN Score: 131 | 85 comments",
+    "description": "HN Score: 146 | 97 comments",
     "url": "https://momentic.ai/",
-    "score": 131,
-    "date": "2026-11-03",
-    "category": "AI News"
-  },
-  {
-    "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
-    "source": "Hacker News",
-    "description": "HN Score: 234 | 170 comments",
-    "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
-    "score": 234,
+    "score": 146,
     "date": "2026-11-03",
     "category": "AI News"
   },
   {
     "title": "Egoless Mathematics in the AI Era",
     "source": "Hacker News",
-    "description": "HN Score: 126 | 86 comments",
+    "description": "HN Score: 166 | 124 comments",
     "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
-    "score": 126,
+    "score": 166,
+    "date": "2026-11-03",
+    "category": "AI News"
+  },
+  {
+    "title": "Scaling Git at OpenAI",
+    "source": "Hacker News",
+    "description": "HN Score: 236 | 157 comments",
+    "url": "https://openai.com/index/scaling-git-at-openai/",
+    "score": 236,
+    "date": "2026-11-03",
+    "category": "AI News"
+  },
+  {
+    "title": "Sam Altman's Case Against Your RAM Is Efficient. That's the Problem",
+    "source": "Hacker News",
+    "description": "HN Score: 3 | 1 comments",
+    "url": "https://www.techdirt.com/2026/11/02/sam-altmans-case-against-your-ram-is-efficient-thats-the-problem/",
+    "score": 3,
+    "date": "2026-11-03",
+    "category": "AI News"
+  },
+  {
+    "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
+    "source": "Hacker News",
+    "description": "HN Score: 365 | 273 comments",
+    "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
+    "score": 365,
+    "date": "2026-11-03",
+    "category": "AI News"
+  },
+  {
+    "title": "Mass attempted replication of old findings of LLMs with new models",
+    "source": "Hacker News",
+    "description": "HN Score: 11 | 1 comments",
+    "url": "https://zou-group.github.io/llm-claims-shelf-life/",
+    "score": 11,
     "date": "2026-11-03",
     "category": "AI News"
   },
   {
     "title": "C64 Basic Dungeon Crawler: Stairs, Levels and Levelling Up (Part 11)",
     "source": "Hacker News",
-    "description": "HN Score: 70 | 11 comments",
+    "description": "HN Score: 75 | 12 comments",
     "url": "https://retrogamecoders.com/c64-basic-dungeon-part11/",
-    "score": 70,
-    "date": "2026-11-03",
-    "category": "AI News"
-  },
-  {
-    "title": "Anthropic's growth just flattened",
-    "source": "Hacker News",
-    "description": "HN Score: 179 | 209 comments",
-    "url": "https://www.regenerator1.com/p/anthropics-growth-just-flattened",
-    "score": 179,
-    "date": "2026-11-03",
-    "category": "AI News"
-  },
-  {
-    "title": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
-    "source": "Hacker News",
-    "description": "HN Score: 170 | 143 comments",
-    "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
-    "score": 170,
+    "score": 75,
     "date": "2026-11-03",
     "category": "AI News"
   },
   {
     "title": "LongCat-2.5: Native Multimodality for Agentic Tasks",
     "source": "Hacker News",
-    "description": "HN Score: 79 | 22 comments",
+    "description": "HN Score: 84 | 25 comments",
     "url": "https://longcat.ai/blog/longcat-2.5/",
-    "score": 79,
-    "date": "2026-11-03",
-    "category": "AI News"
-  },
-  {
-    "title": "When Modernization Breaks Working Code: A Study of LLMs on Legacy PHP",
-    "source": "Hacker News",
-    "description": "HN Score: 19 | 12 comments",
-    "url": "https://arxiv.org/abs/2610.40269",
-    "score": 19,
-    "date": "2026-11-03",
-    "category": "AI News"
-  },
-  {
-    "title": "Agentic backdoors via pretraining poisoning",
-    "source": "Hacker News",
-    "description": "HN Score: 93 | 28 comments",
-    "url": "https://arxiv.org/abs/2610.37741",
-    "score": 93,
+    "score": 84,
     "date": "2026-11-03",
     "category": "AI News"
   }
