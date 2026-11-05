@@ -1,91 +1,91 @@
 [
   {
-    "title": "MCP Explained",
+    "title": "Claude Code sends your email address to websites",
     "source": "Hacker News",
-    "description": "HN Score: 106 | 45 comments",
-    "url": "https://mcp-explained.com/",
-    "score": 106,
+    "description": "HN Score: 177 | 45 comments",
+    "url": "https://github.com/anthropics/claude-code/issues/107757",
+    "score": 177,
     "date": "2026-11-05",
     "category": "AI News"
   },
   {
-    "title": "Baidu released ERNIE 5.5 Flash Base",
+    "title": "MS Paint Remote Code Execution Vulnerability",
     "source": "Hacker News",
-    "description": "HN Score: 134 | 73 comments",
-    "url": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
-    "score": 134,
+    "description": "HN Score: 225 | 59 comments",
+    "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+    "score": 225,
+    "date": "2026-11-05",
+    "category": "AI News"
+  },
+  {
+    "title": "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
+    "source": "Hacker News",
+    "description": "HN Score: 62 | 1 comments",
+    "url": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/",
+    "score": 62,
+    "date": "2026-11-05",
+    "category": "AI News"
+  },
+  {
+    "title": "Launch HN: Rivet (YC W23) \u2013 Scale and Orchestrate Agents on S3",
+    "source": "Hacker News",
+    "description": "HN Score: 69 | 36 comments",
+    "url": "https://github.com/rivet-dev/rivet",
+    "score": 69,
+    "date": "2026-11-05",
+    "category": "AI News"
+  },
+  {
+    "title": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
+    "source": "Hacker News",
+    "description": "HN Score: 1 | 0 comments",
+    "url": "https://www.ycombinator.com/companies/bild-ai/jobs",
+    "score": 1,
+    "date": "2026-11-05",
+    "category": "AI News"
+  },
+  {
+    "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
+    "source": "Hacker News",
+    "description": "HN Score: 126 | 14 comments",
+    "url": "https://www.linum.ai/field-notes/pjit-21k",
+    "score": 126,
+    "date": "2026-11-05",
+    "category": "AI News"
+  },
+  {
+    "title": "MCP Explained",
+    "source": "Hacker News",
+    "description": "HN Score: 221 | 109 comments",
+    "url": "https://mcp-explained.com/",
+    "score": 221,
     "date": "2026-11-05",
     "category": "AI News"
   },
   {
     "title": "GPT-6 Astra covertly underperforms on safety research",
     "source": "Hacker News",
-    "description": "HN Score: 126 | 45 comments",
+    "description": "HN Score: 273 | 143 comments",
     "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
-    "score": 126,
+    "score": 273,
     "date": "2026-11-05",
     "category": "AI News"
   },
   {
-    "title": "An intuition for how neural nets can understand text",
+    "title": "Hungary: Communist-era files released, up to 60k former agents revealed",
     "source": "Hacker News",
-    "description": "HN Score: 14 | 4 comments",
-    "url": "https://info.zairai.ai/neurons-understanding-text",
-    "score": 14,
+    "description": "HN Score: 116 | 26 comments",
+    "url": "https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed",
+    "score": 116,
     "date": "2026-11-05",
     "category": "AI News"
   },
   {
-    "title": "Kimi K3.1 Pro model weights are out",
+    "title": "Show HN: Stroq \u2013 a local audit of what your coding agent did and why",
     "source": "Hacker News",
-    "description": "HN Score: 605 | 173 comments",
-    "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
-    "score": 605,
-    "date": "2026-11-05",
-    "category": "AI News"
-  },
-  {
-    "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
-    "source": "Hacker News",
-    "description": "HN Score: 325 | 116 comments",
-    "url": "https://www.ricursive.com/ripple",
-    "score": 325,
-    "date": "2026-11-05",
-    "category": "AI News"
-  },
-  {
-    "title": "Ask HN: What's your current AI agentic setup?",
-    "source": "Hacker News",
-    "description": "HN Score: 467 | 565 comments",
-    "url": "https://news.ycombinator.com/item?id=50366117",
-    "score": 467,
-    "date": "2026-11-05",
-    "category": "AI News"
-  },
-  {
-    "title": "AI is forcing us to pay off 40 years of technical debt",
-    "source": "Hacker News",
-    "description": "HN Score: 1234 | 721 comments",
-    "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-    "score": 1234,
-    "date": "2026-11-05",
-    "category": "AI News"
-  },
-  {
-    "title": "Progress on provable inference for large language models",
-    "source": "Hacker News",
-    "description": "HN Score: 235 | 121 comments",
-    "url": "https://www.anthropic.com/research/provable-inference",
-    "score": 235,
-    "date": "2026-11-05",
-    "category": "AI News"
-  },
-  {
-    "title": "Qualcomm Cloud AI 100 Ultra \u2013 150W AI Accelerator Card with 128GB at 548GB/s",
-    "source": "Hacker News",
-    "description": "HN Score: 167 | 62 comments",
-    "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
-    "score": 167,
+    "description": "HN Score: 61 | 12 comments",
+    "url": "https://github.com/AGGIB/Stroq",
+    "score": 61,
     "date": "2026-11-05",
     "category": "AI News"
   }
