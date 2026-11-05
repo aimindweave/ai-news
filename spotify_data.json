@@ -93,7 +93,27 @@
   ],
   "episodes": [
     {
+      "id": "Practica_0",
+      "name": "Abundant Intelligence at the Midwest AI Summit Part 2",
+      "show": "Practical AI",
+      "description": "\n        How do organizations decide what AI should do, where to set boundaries, and when to keep humans in control? In this episode, Don Barger of the International Mission Board shares how establ",
+      "release_date": "2026-11-05",
+      "duration_min": 47,
+      "image": "",
+      "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
+    },
+    {
       "id": "a]6z Pod_0",
+      "name": "The New CFO: How AI Is Rewriting the Finance Function | Figma CFO Praveer Melwani",
+      "show": "a]6z Podcast",
+      "description": "AI is moving finance from reconciling what happened last month to helping decide what the business should do next. Figma CFO Praveer Melwani argues that the best finance teams are becoming builders",
+      "release_date": "2026-11-05",
+      "duration_min": 50,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
+      "id": "a]6z Pod_1",
       "name": "The New AI Agents That Shop, Plan, and Gossip",
       "show": "a]6z Podcast",
       "description": "Will we have one AI assistant that does everything, or an entire network of agents that know different parts of our lives? David Pawlan, creator of Assistant Benchmark, returns with Anish Acharya a",
@@ -113,22 +133,12 @@
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "Andrew Huberman’s Three Rules for Better Health and Focus",
       "show": "a]6z Podcast",
       "description": "If you could do only three things for your health, what should they be? Andrew Huberman’s answer is surprisingly straightforward: get bright light shortly after waking, resistance train, and make t",
       "release_date": "2026-11-03",
       "duration_min": 49,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
-    },
-    {
-      "id": "a]6z Pod_2",
-      "name": "The Robots Already Working in American Factories | Tutor Intelligence",
-      "show": "a]6z Podcast",
-      "description": "What does it take to build robots that can actually work in factories and warehouses? Tutor Intelligence CEO Josh Gruenstein argues robotics is a systems problem spanning AI, hardware, manufacturin",
-      "release_date": "2026-11-02",
-      "duration_min": 46,
       "image": "",
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
@@ -143,7 +153,7 @@
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
-      "id": "Practica_0",
+      "id": "Practica_1",
       "name": "Abundant Intelligence at the Midwest AI Summit",
       "show": "Practical AI",
       "description": "\n        In this special episode, we bring you highlights from three talks at the Midwest AI Summit. Heidi Porter explores how to build reliable AI-augmented workflows using the right tools, evalua",
@@ -183,7 +193,7 @@
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
-      "id": "Practica_1",
+      "id": "Practica_2",
       "name": "Exploit Development, Agentic Vulnerability Discovery, and Fake PoCs",
       "show": "Practical AI",
       "description": "\n        AI is changing cybersecurity, accelerating vulnerability research and exploit development while raising new questions about reliability, risk, and  guardrails. Daniel and Chris talk with S",
@@ -211,16 +221,6 @@
       "duration_min": 67,
       "image": "",
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
-    },
-    {
-      "id": "Practica_2",
-      "name": "Is Education Failing our Students in this AI-Driven World?",
-      "show": "Practical AI",
-      "description": "\n        Schools and universities are failing to adapt to our modern world, in which AI is becoming increasingly pervasive in all aspects of life and work.  In fact, AI may be changing what should ",
-      "release_date": "2026-10-15",
-      "duration_min": 43,
-      "image": "",
-      "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
       "id": "Lex Frid_1",

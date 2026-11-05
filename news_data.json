@@ -1,5 +1,47 @@
 [
   {
+    "title": "Axiom Math wants to keep AI slop out of mathematics",
+    "source": "TechCrunch",
+    "summary": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup\u2019s AI agents just formally verified the Stacks Project, one of the field\u2019s biggest libraries.",
+    "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+    "source": "TechCrunch",
+    "summary": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.",
+    "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "Aina\u2019s smart ring has a screen, a joystick and a mic so you can talk to AI agents",
+    "source": "TechCrunch",
+    "summary": "Aina's ring can also take calls and help you dictate notes on your Mac.",
+    "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "Box taps Nvidia\u2019s Nemotron for new agent-first content retrieval system",
+    "source": "TechCrunch",
+    "summary": "The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used.",
+    "url": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
+    "source": "TechCrunch",
+    "summary": "Discovered Materials, a months-old YC startup that uses AI to find chip materials, is offering $200,000 for each solution to five open materials science problems.",
+    "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
+    "source": "TechCrunch",
+    "summary": "Agility arrives on the Nasdaq today as the first publicly-traded pure-play humanoid robotics company.",
+    "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
+    "date": "2026-11-05"
+  },
+  {
     "title": "Apple is reportedly cutting budgets for its internal AI usage",
     "source": "TechCrunch",
     "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
@@ -63,45 +105,17 @@
     "date": "2026-11-05"
   },
   {
-    "title": "Building on open source AI? Hugging Face\u2019s policy chief on the costs, risks, and trade-offs",
-    "source": "TechCrunch",
-    "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gain...",
-    "url": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
+    "title": "The Download: Texas\u2019s fragile AI boom and energy policy shifts",
+    "source": "MIT Tech Review",
+    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput. Texas is the fastest-growing data center market in the US and ground zero for ...",
+    "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
     "date": "2026-11-05"
   },
   {
-    "title": "I tried Apple\u2019s Siri Recaps. They\u2019re surprisingly useful \u2014 and a little unsettling",
-    "source": "TechCrunch",
-    "summary": "Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement.",
-    "url": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
-    "date": "2026-11-05"
-  },
-  {
-    "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
-    "source": "TechCrunch",
-    "summary": "Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Google of acting as an unregulated monopoly.",
-    "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
-    "date": "2026-11-05"
-  },
-  {
-    "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
-    "source": "TechCrunch",
-    "summary": "Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today.",
-    "url": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
-    "date": "2026-11-05"
-  },
-  {
-    "title": "Anthropic is working on a system to prove AI models\u2019 identity",
-    "source": "TechCrunch",
-    "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
-    "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
-    "date": "2026-11-05"
-  },
-  {
-    "title": "Data centers are turning to old jet engines as the wait for power grows",
-    "source": "TechCrunch",
-    "summary": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.",
-    "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+    "title": "A new bill could change how the US builds energy infrastructure",
+    "source": "MIT Tech Review",
+    "summary": "A sweeping bit of legislation designed to cut red tape could speed up the buildout of energy infrastructure in the US. With the dust barely settled on this week\u2019s momentous midterms, the Senate is set to vote on the Bipartisan American Affordability and Jobs Act (BAAJA) on November 9. It\u2019s a plan...",
+    "url": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/",
     "date": "2026-11-05"
   },
   {
@@ -161,17 +175,31 @@
     "date": "2026-11-05"
   },
   {
-    "title": "Raising the quality of insights in agentic analytics",
-    "source": "MIT Tech Review",
-    "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The qua...",
-    "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+    "title": "Exclusive: Aina\u2019s Smart Ring Wants to Be a Remote Control for Your AI Agent",
+    "source": "Wired",
+    "summary": "The startup Aina bets you won\u2019t need to rely on your phone to control virtual assistants. It\u2019s making a smart ring that lets you control the actions of your autonomous agents with one tap.",
+    "url": "https://www.wired.com/story/aina-smart-ring/",
     "date": "2026-11-05"
   },
   {
-    "title": "Stop counting tokens, start counting what ships",
-    "source": "MIT Tech Review",
-    "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls",
-    "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+    "title": "Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work",
+    "source": "Wired",
+    "summary": "Potential Sciences, a startup backed by the UK government, is betting that training AI models on computer-generated biochemical data can speed up the plodding process of developing new drugs.",
+    "url": "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "AI\u2019s Next Trick? Speaking Dolphin",
+    "source": "Wired",
+    "summary": "Denise Herzing, the founder and director of the Wild Dolphin Project, is using AI to help understand audio and video footage of the marine mammals.",
+    "url": "https://www.wired.com/story/wired-world-fair-2026-denise-herzing-wild-dolphin/",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "He Trolls AI Labs for a Living. Now They All Want to Work With Him",
+    "source": "Wired",
+    "summary": "OpenAI, Anthropic, and SpaceXSI have all reached out to Husk, an influencer who regularly goes viral by exposing the shortcomings of chatbots.",
+    "url": "https://www.wired.com/story/wired-world-fair-2026-evan-ratliff-and-husk/",
     "date": "2026-11-05"
   },
   {
@@ -217,31 +245,10 @@
     "date": "2026-11-05"
   },
   {
-    "title": "Here\u2019s Why You Shouldn\u2019t Use AI to Vote",
-    "source": "Wired",
-    "summary": "From hallucinations to partisan bias, artificial intelligence chatbots like ChatGPT and Claude are not helpful when it comes to Election Day.",
-    "url": "https://www.wired.com/story/heres-why-you-shouldnt-use-ai-to-vote/",
-    "date": "2026-11-05"
-  },
-  {
-    "title": "\u2018Our Risk, Their Reward\u2019: Zohran Mamdani on AI and Data Centers",
-    "source": "Wired",
-    "summary": "Ahead of the midterms, WIRED talked to New York City\u2019s mayor about data centers, AI in schools, and the future of the Democratic party.",
-    "url": "https://www.wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani/",
-    "date": "2026-11-05"
-  },
-  {
-    "title": "When You Should\u2014and Shouldn\u2019t\u2014Use AI to Search the Web",
-    "source": "Wired",
-    "summary": "Chatbots are often quite good at retrieving the information you want from the web. But sometimes you\u2019ll get better results by typing your query into a good old search engine.",
-    "url": "https://www.wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web/",
-    "date": "2026-11-05"
-  },
-  {
-    "title": "Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features",
-    "source": "Wired",
-    "summary": "WIRED uncovered some 400 apps and websites linked to Chinese-language developers that look like regular AI tools but had secret features that let users create violent AI-generated images and video.",
-    "url": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
+    "title": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
+    "source": "Ars Technica",
+    "summary": "US leader in deploying humanoid robots goes public on the Nasdaq stock exchange.",
+    "url": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/",
     "date": "2026-11-05"
   },
   {
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "Gemini 4 Carbon is essentially a slightly better version of Argon.",
     "url": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
-    "date": "2026-11-05"
-  },
-  {
-    "title": "Google AI gets cagey when asked who won the 2020 elections",
-    "source": "Ars Technica",
-    "summary": "But the AI responses get more forthright when asked outside the US.",
-    "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
     "date": "2026-11-05"
   }
 ]
