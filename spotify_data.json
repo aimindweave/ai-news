@@ -93,6 +93,26 @@
   ],
   "episodes": [
     {
+      "id": "Hard For_0",
+      "name": "Why the Tech Right Lost Big This Week",
+      "show": "Hard Fork",
+      "description": "After watching the historic election results on Tuesday night, we sat down with Erin Griffith and Ezra Klein to make sense of what they mean for the tech industry. We talk about the role of anti-A.",
+      "release_date": "2026-11-06",
+      "duration_min": 68,
+      "image": "",
+      "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
+    },
+    {
+      "id": "a]6z Pod_0",
+      "name": "Inside Salesforce’s $100 Billion M&A Playbook | John Somorjai",
+      "show": "a]6z Podcast",
+      "description": "What makes a startup worth acquiring when software has never been easier to build? Salesforce’s John Somorjai says the answer goes well beyond technology: the best acquisitions can accelerate a pro",
+      "release_date": "2026-11-06",
+      "duration_min": 49,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
       "id": "Practica_0",
       "name": "Abundant Intelligence at the Midwest AI Summit Part 2",
       "show": "Practical AI",
@@ -103,7 +123,7 @@
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
-      "id": "a]6z Pod_0",
+      "id": "a]6z Pod_1",
       "name": "The New CFO: How AI Is Rewriting the Finance Function | Figma CFO Praveer Melwani",
       "show": "a]6z Podcast",
       "description": "AI is moving finance from reconciling what happened last month to helping decide what the business should do next. Figma CFO Praveer Melwani argues that the best finance teams are becoming builders",
@@ -113,7 +133,7 @@
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "The New AI Agents That Shop, Plan, and Gossip",
       "show": "a]6z Podcast",
       "description": "Will we have one AI assistant that does everything, or an entire network of agents that know different parts of our lives? David Pawlan, creator of Assistant Benchmark, returns with Anish Acharya a",
@@ -133,17 +153,7 @@
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
     },
     {
-      "id": "a]6z Pod_2",
-      "name": "Andrew Huberman’s Three Rules for Better Health and Focus",
-      "show": "a]6z Podcast",
-      "description": "If you could do only three things for your health, what should they be? Andrew Huberman’s answer is surprisingly straightforward: get bright light shortly after waking, resistance train, and make t",
-      "release_date": "2026-11-03",
-      "duration_min": 49,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
-    },
-    {
-      "id": "Hard For_0",
+      "id": "Hard For_1",
       "name": "Are We in an A.I. Bubble? We're About to Find Out.",
       "show": "Hard Fork",
       "description": "Monday gave us the release of Anthropic’s S-1 filing, providing the clearest view yet into the business side of the A.I. boom and setting the stage for what could be the largest initial public offe",
@@ -183,7 +193,7 @@
       "url": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"
     },
     {
-      "id": "Hard For_1",
+      "id": "Hard For_2",
       "name": "What’s the Deal With Billy Evans? A Spoiler-Filled Guide to ‘You Can See Everything’",
       "show": "Hard Fork",
       "description": "This week, we focus on Billy Evans, the breakout character of the documentary “You Can See Everything,” and his Theranos-esque new blood-testing start-up. Rob Copeland, a New York Times finance rep",
@@ -211,16 +221,6 @@
       "duration_min": 51,
       "image": "",
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
-    },
-    {
-      "id": "Hard For_2",
-      "name": "Why No One Can Look Away From Elizabeth Holmes",
-      "show": "Hard Fork",
-      "description": "This week, there’s a new blockbuster Elizabeth Holmes documentary out, and we’ve assembled an expert panel to discuss the movie and what Holmes means to the tech world of today. Max Read is joined ",
-      "release_date": "2026-10-16",
-      "duration_min": 67,
-      "image": "",
-      "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
       "id": "Lex Frid_1",
