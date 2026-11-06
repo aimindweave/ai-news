@@ -1,5 +1,47 @@
 [
   {
+    "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+    "source": "TechCrunch",
+    "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+    "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+    "date": "2026-11-06"
+  },
+  {
+    "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+    "source": "TechCrunch",
+    "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+    "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+    "date": "2026-11-06"
+  },
+  {
+    "title": "How a Blue Wave midterm might reshape the AI industry",
+    "source": "TechCrunch",
+    "summary": "Democrats\u2019 historic victories in this week\u2019s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday \u2014 in all but one, the majority voted to impose more restrictions on data center development. And even when data centers...",
+    "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+    "date": "2026-11-06"
+  },
+  {
+    "title": "After the midterms, is the AI industry in for a rough two years?",
+    "source": "TechCrunch",
+    "summary": "Democrats\u2019 historic victories in this week\u2019s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday \u2014 in all but one, the majority voted to impose more restrictions on data center development. And even when data centers...",
+    "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+    "date": "2026-11-06"
+  },
+  {
+    "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+    "source": "TechCrunch",
+    "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
+    "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+    "date": "2026-11-06"
+  },
+  {
+    "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+    "source": "TechCrunch",
+    "summary": "Amazon said that the feature will roll out to millions of users in coming weeks.",
+    "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+    "date": "2026-11-06"
+  },
+  {
     "title": "Underdog shows off a 32MB speech model in new demo",
     "source": "TechCrunch",
     "summary": "Despite its small size, Underdog's new model can generate both speech and music.",
@@ -60,48 +102,6 @@
     "source": "TechCrunch",
     "summary": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
     "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
-    "date": "2026-11-06"
-  },
-  {
-    "title": "Axiom Math wants to keep AI slop out of mathematics",
-    "source": "TechCrunch",
-    "summary": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup\u2019s AI agents just formally verified the Stacks Project, one of the field\u2019s biggest libraries.",
-    "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
-    "date": "2026-11-06"
-  },
-  {
-    "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
-    "source": "TechCrunch",
-    "summary": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.",
-    "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
-    "date": "2026-11-06"
-  },
-  {
-    "title": "Aina\u2019s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
-    "source": "TechCrunch",
-    "summary": "Aina's ring can also take calls and help you dictate notes on your Mac.",
-    "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
-    "date": "2026-11-06"
-  },
-  {
-    "title": "Box taps Nvidia\u2019s Nemotron for new agent-first content retrieval system",
-    "source": "TechCrunch",
-    "summary": "The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used.",
-    "url": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
-    "date": "2026-11-06"
-  },
-  {
-    "title": "A YC startup is putting $1M behind 5 unsolved materials science problems for AI",
-    "source": "TechCrunch",
-    "summary": "While frontier AI models have solved a remarkable series of outstanding mathematics problems and made progress in the life sciences, they have yet to truly plumb the complex physics in advanced materials.",
-    "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
-    "date": "2026-11-06"
-  },
-  {
-    "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
-    "source": "TechCrunch",
-    "summary": "Agility arrives on the Nasdaq today as the first publicly traded pure-play humanoid robotics company.",
-    "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
     "date": "2026-11-06"
   },
   {
@@ -175,6 +175,20 @@
     "date": "2026-11-06"
   },
   {
+    "title": "Free Chinese AI Models Are Getting Scary Good at Hacking",
+    "source": "Wired",
+    "summary": "An experiment in which AI models were asked to break into simulated networks showed the hacking skills of DeepSeek and GLM to be not far behind OpenAI\u2019s most advanced cyber model, which isn\u2019t public.",
+    "url": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
+    "date": "2026-11-06"
+  },
+  {
+    "title": "AI Companies Really, Really Want to Buy Your Work Files and Emails",
+    "source": "Wired",
+    "summary": "Data brokers are collecting all sorts of internal corporate files to help train AI models. Not everyone is thrilled.",
+    "url": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/",
+    "date": "2026-11-06"
+  },
+  {
     "title": "Ads in Chatbots Have Arrived. Here\u2019s What\u2019s Working\u2014and What\u2019s Not",
     "source": "Wired",
     "summary": "As Anthropic maintains its vow to keep ads out of Claude, the rest of the AI chatbot industry is racing to win over advertisers without antagonizing users.",
@@ -231,17 +245,17 @@
     "date": "2026-11-06"
   },
   {
-    "title": "Google Is Forcing AI Overviews in Classrooms. Schools Are Searching for a Way Out",
-    "source": "Wired",
-    "summary": "Google is tying up AI Overviews with traditional search, angering parents and educators who worry that easy, machine-generated answers are leaving kids less capable.",
-    "url": "https://www.wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out/",
+    "title": "\u201cDoes Meta think we can\u2019t read?\u201d Meta abandons sketchy commercial terms update.",
+    "source": "Ars Technica",
+    "summary": "Meta won't force Facebook page owners to allow AI training on linked content.",
+    "url": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/",
     "date": "2026-11-06"
   },
   {
-    "title": "Hugging Face\u2019s CEO Says His P(Doom) Is \u2018Close to Zero\u2019",
-    "source": "Wired",
-    "summary": "\u201cMost of the risk is actually created by a couple of players building behind closed doors,\u201d Cl\u00e9ment Delangue said of the need for open source AI.",
-    "url": "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/",
+    "title": "Could potential AI clones of GTA VI force a quicker official port?",
+    "source": "Ars Technica",
+    "summary": "A former Rockstar tech director thinks the developer is facing new time pressures.",
+    "url": "https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/",
     "date": "2026-11-06"
   },
   {
@@ -333,20 +347,6 @@
     "source": "Ars Technica",
     "summary": "Low costs and offline security mean magnetic tape still has a job.",
     "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
-    "date": "2026-11-06"
-  },
-  {
-    "title": "Thousands of \u201cghost students\u201d use AI to steal millions in student loans, DOJ says",
-    "source": "Ars Technica",
-    "summary": "Applying for FAFSA may get messy as DOJ \u201cghost student\u201d crackdown ramps up.",
-    "url": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/",
-    "date": "2026-11-06"
-  },
-  {
-    "title": "Trump declares robot imports a national security threat",
-    "source": "Ars Technica",
-    "summary": "President orders trade talks on foreign-made factory robots, threatens tariffs.",
-    "url": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/",
     "date": "2026-11-06"
   }
 ]
