@@ -2,37 +2,82 @@
   {
     "title": "Claude Code sends your email address to websites",
     "source": "Hacker News",
-    "description": "HN Score: 177 | 45 comments",
+    "description": "HN Score: 812 | 273 comments",
     "url": "https://github.com/anthropics/claude-code/issues/107757",
-    "score": 177,
-    "date": "2026-11-05",
+    "score": 812,
+    "date": "2026-11-06",
     "category": "AI News"
   },
   {
     "title": "MS Paint Remote Code Execution Vulnerability",
     "source": "Hacker News",
-    "description": "HN Score: 225 | 59 comments",
+    "description": "HN Score: 424 | 158 comments",
     "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
-    "score": 225,
-    "date": "2026-11-05",
+    "score": 424,
+    "date": "2026-11-06",
     "category": "AI News"
   },
   {
-    "title": "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
+    "title": "How accurately did science fiction stories predict AI?",
     "source": "Hacker News",
-    "description": "HN Score: 62 | 1 comments",
-    "url": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/",
-    "score": 62,
-    "date": "2026-11-05",
+    "description": "HN Score: 9 | 5 comments",
+    "url": "https://jamesyu.org/science-fiction-predictions-of-ai/",
+    "score": 9,
+    "date": "2026-11-06",
+    "category": "AI News"
+  },
+  {
+    "title": "Closed AI models dominate the price-performance frontier",
+    "source": "Hacker News",
+    "description": "HN Score: 46 | 34 comments",
+    "url": "https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/",
+    "score": 46,
+    "date": "2026-11-06",
     "category": "AI News"
   },
   {
     "title": "Launch HN: Rivet (YC W23) \u2013 Scale and Orchestrate Agents on S3",
     "source": "Hacker News",
-    "description": "HN Score: 69 | 36 comments",
+    "description": "HN Score: 86 | 46 comments",
     "url": "https://github.com/rivet-dev/rivet",
-    "score": 69,
-    "date": "2026-11-05",
+    "score": 86,
+    "date": "2026-11-06",
+    "category": "AI News"
+  },
+  {
+    "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+    "source": "Hacker News",
+    "description": "HN Score: 226 | 104 comments",
+    "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+    "score": 226,
+    "date": "2026-11-06",
+    "category": "AI News"
+  },
+  {
+    "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
+    "source": "Hacker News",
+    "description": "HN Score: 192 | 17 comments",
+    "url": "https://www.linum.ai/field-notes/pjit-21k",
+    "score": 192,
+    "date": "2026-11-06",
+    "category": "AI News"
+  },
+  {
+    "title": "MCP Explained",
+    "source": "Hacker News",
+    "description": "HN Score: 279 | 118 comments",
+    "url": "https://mcp-explained.com/",
+    "score": 279,
+    "date": "2026-11-06",
+    "category": "AI News"
+  },
+  {
+    "title": "Baidu released ERNIE 5.5 Flash Base",
+    "source": "Hacker News",
+    "description": "HN Score: 171 | 96 comments",
+    "url": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
+    "score": 171,
+    "date": "2026-11-06",
     "category": "AI News"
   },
   {
@@ -41,52 +86,7 @@
     "description": "HN Score: 1 | 0 comments",
     "url": "https://www.ycombinator.com/companies/bild-ai/jobs",
     "score": 1,
-    "date": "2026-11-05",
-    "category": "AI News"
-  },
-  {
-    "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
-    "source": "Hacker News",
-    "description": "HN Score: 126 | 14 comments",
-    "url": "https://www.linum.ai/field-notes/pjit-21k",
-    "score": 126,
-    "date": "2026-11-05",
-    "category": "AI News"
-  },
-  {
-    "title": "MCP Explained",
-    "source": "Hacker News",
-    "description": "HN Score: 221 | 109 comments",
-    "url": "https://mcp-explained.com/",
-    "score": 221,
-    "date": "2026-11-05",
-    "category": "AI News"
-  },
-  {
-    "title": "GPT-6 Astra covertly underperforms on safety research",
-    "source": "Hacker News",
-    "description": "HN Score: 273 | 143 comments",
-    "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
-    "score": 273,
-    "date": "2026-11-05",
-    "category": "AI News"
-  },
-  {
-    "title": "Hungary: Communist-era files released, up to 60k former agents revealed",
-    "source": "Hacker News",
-    "description": "HN Score: 116 | 26 comments",
-    "url": "https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed",
-    "score": 116,
-    "date": "2026-11-05",
-    "category": "AI News"
-  },
-  {
-    "title": "Show HN: Stroq \u2013 a local audit of what your coding agent did and why",
-    "source": "Hacker News",
-    "description": "HN Score: 61 | 12 comments",
-    "url": "https://github.com/AGGIB/Stroq",
-    "score": 61,
-    "date": "2026-11-05",
+    "date": "2026-11-06",
     "category": "AI News"
   }
 ]
