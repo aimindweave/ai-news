@@ -2,81 +2,36 @@
   {
     "title": "The Components of Agent Memory",
     "source": "Hacker News",
-    "description": "HN Score: 15 | 5 comments",
+    "description": "HN Score: 100 | 57 comments",
     "url": "https://www.anthropic.com/research/components-of-agent-memory",
-    "score": 15,
+    "score": 100,
     "date": "2026-11-07",
     "category": "AI News"
   },
   {
     "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
     "source": "Hacker News",
-    "description": "HN Score: 329 | 267 comments",
+    "description": "HN Score: 372 | 308 comments",
     "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
-    "score": 329,
-    "date": "2026-11-07",
-    "category": "AI News"
-  },
-  {
-    "title": "AI is dramatically accelerating AI research",
-    "source": "Hacker News",
-    "description": "HN Score: 286 | 223 comments",
-    "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
-    "score": 286,
+    "score": 372,
     "date": "2026-11-07",
     "category": "AI News"
   },
   {
     "title": "Restaurant Delivery Payment-Skimming Campaign",
     "source": "Hacker News",
-    "description": "HN Score: 118 | 60 comments",
+    "description": "HN Score: 155 | 81 comments",
     "url": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
-    "score": 118,
-    "date": "2026-11-07",
-    "category": "AI News"
-  },
-  {
-    "title": "Panthera: Ampere's CPU Performance Model",
-    "source": "Hacker News",
-    "description": "HN Score: 30 | 9 comments",
-    "url": "https://github.com/AmpereComputing/panthera",
-    "score": 30,
-    "date": "2026-11-07",
-    "category": "AI News"
-  },
-  {
-    "title": "Show HN: Tmux-restore saves tmux windows and agent sessions across reboots",
-    "source": "Hacker News",
-    "description": "HN Score: 30 | 13 comments",
-    "url": "https://github.com/andrewboldi/tmux-restore",
-    "score": 30,
+    "score": 155,
     "date": "2026-11-07",
     "category": "AI News"
   },
   {
     "title": "Claude Code sends your email address to websites",
     "source": "Hacker News",
-    "description": "HN Score: 1569 | 502 comments",
+    "description": "HN Score: 1582 | 506 comments",
     "url": "https://github.com/anthropics/claude-code/issues/107757",
-    "score": 1569,
-    "date": "2026-11-07",
-    "category": "AI News"
-  },
-  {
-    "title": "Anthropic IPO buyers see valuation as low as $1.1T",
-    "source": "Hacker News",
-    "description": "HN Score: 274 | 544 comments",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
-    "score": 274,
-    "date": "2026-11-07",
-    "category": "AI News"
-  },
-  {
-    "title": "Memorilla: Latent Semantic Memory for LLMs",
-    "source": "Hacker News",
-    "description": "HN Score: 104 | 12 comments",
-    "url": "https://arxiv.org/abs/2610.21375",
-    "score": 104,
+    "score": 1582,
     "date": "2026-11-07",
     "category": "AI News"
   },
@@ -86,6 +41,42 @@
     "description": "HN Score: 1 | 0 comments",
     "url": "https://up.codes/careers?utm_source=HN",
     "score": 1,
+    "date": "2026-11-07",
+    "category": "AI News"
+  },
+  {
+    "title": "AI is dramatically accelerating AI research",
+    "source": "Hacker News",
+    "description": "HN Score: 341 | 320 comments",
+    "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+    "score": 341,
+    "date": "2026-11-07",
+    "category": "AI News"
+  },
+  {
+    "title": "Show HN: Tmux-restore saves tmux windows and agent sessions across reboots",
+    "source": "Hacker News",
+    "description": "HN Score: 48 | 32 comments",
+    "url": "https://github.com/andrewboldi/tmux-restore",
+    "score": 48,
+    "date": "2026-11-07",
+    "category": "AI News"
+  },
+  {
+    "title": "Memorilla: Latent Semantic Memory for LLMs",
+    "source": "Hacker News",
+    "description": "HN Score: 112 | 13 comments",
+    "url": "https://arxiv.org/abs/2610.21375",
+    "score": 112,
+    "date": "2026-11-07",
+    "category": "AI News"
+  },
+  {
+    "title": "Anthropic IPO buyers see valuation as low as $1.1T",
+    "source": "Hacker News",
+    "description": "HN Score: 295 | 591 comments",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+    "score": 295,
     "date": "2026-11-07",
     "category": "AI News"
   }
