@@ -2,37 +2,64 @@
   {
     "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
     "source": "Hacker News",
-    "description": "HN Score: 203 | 168 comments",
+    "description": "HN Score: 275 | 219 comments",
     "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
-    "score": 203,
-    "date": "2026-11-06",
+    "score": 275,
+    "date": "2026-11-07",
     "category": "AI News"
   },
   {
     "title": "AI is dramatically accelerating AI research",
     "source": "Hacker News",
-    "description": "HN Score: 24 | 10 comments",
+    "description": "HN Score: 198 | 152 comments",
     "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
-    "score": 24,
-    "date": "2026-11-06",
+    "score": 198,
+    "date": "2026-11-07",
+    "category": "AI News"
+  },
+  {
+    "title": "Outbound SIP calling is now available to all organizations",
+    "source": "Hacker News",
+    "description": "HN Score: 29 | 21 comments",
+    "url": "https://developers.openai.com/api/docs/guides/voice-sip",
+    "score": 29,
+    "date": "2026-11-07",
     "category": "AI News"
   },
   {
     "title": "Restaurant Delivery Payment-Skimming Campaign",
     "source": "Hacker News",
-    "description": "HN Score: 30 | 13 comments",
+    "description": "HN Score: 89 | 39 comments",
     "url": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
-    "score": 30,
-    "date": "2026-11-06",
+    "score": 89,
+    "date": "2026-11-07",
+    "category": "AI News"
+  },
+  {
+    "title": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
+    "source": "Hacker News",
+    "description": "HN Score: 69 | 28 comments",
+    "url": "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
+    "score": 69,
+    "date": "2026-11-07",
     "category": "AI News"
   },
   {
     "title": "Memorilla: Latent Semantic Memory for LLMs",
     "source": "Hacker News",
-    "description": "HN Score: 50 | 3 comments",
+    "description": "HN Score: 86 | 7 comments",
     "url": "https://arxiv.org/abs/2610.21375",
-    "score": 50,
-    "date": "2026-11-06",
+    "score": 86,
+    "date": "2026-11-07",
+    "category": "AI News"
+  },
+  {
+    "title": "Anthropic IPO buyers see valuation as low as $1.1T",
+    "source": "Hacker News",
+    "description": "HN Score: 227 | 483 comments",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+    "score": 227,
+    "date": "2026-11-07",
     "category": "AI News"
   },
   {
@@ -41,52 +68,25 @@
     "description": "HN Score: 1 | 0 comments",
     "url": "https://up.codes/careers?utm_source=HN",
     "score": 1,
-    "date": "2026-11-06",
+    "date": "2026-11-07",
     "category": "AI News"
   },
   {
     "title": "40C3 halfnarp \u2013 Submit talk preferences to aid scheduling",
     "source": "Hacker News",
-    "description": "HN Score: 24 | 3 comments",
+    "description": "HN Score: 44 | 9 comments",
     "url": "https://halfnarp.events.ccc.de",
-    "score": 24,
-    "date": "2026-11-06",
+    "score": 44,
+    "date": "2026-11-07",
     "category": "AI News"
   },
   {
     "title": "Show HN: Agents infer Lego mechanisms from sources, then animate them",
     "source": "Hacker News",
-    "description": "HN Score: 13 | 0 comments",
+    "description": "HN Score: 24 | 1 comments",
     "url": "https://github.com/anteloc/ldraw-mecha/tree/v0.5.0",
-    "score": 13,
-    "date": "2026-11-06",
-    "category": "AI News"
-  },
-  {
-    "title": "Anthropic IPO buyers see valuation as low as $1.1T",
-    "source": "Hacker News",
-    "description": "HN Score: 133 | 323 comments",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
-    "score": 133,
-    "date": "2026-11-06",
-    "category": "AI News"
-  },
-  {
-    "title": "SketchAgentBench \u2013 evaluate LLMs on 3D spatial reasoning",
-    "source": "Hacker News",
-    "description": "HN Score: 5 | 0 comments",
-    "url": "https://sketchagent.dev/",
-    "score": 5,
-    "date": "2026-11-06",
-    "category": "AI News"
-  },
-  {
-    "title": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
-    "source": "Hacker News",
-    "description": "HN Score: 69 | 12 comments",
-    "url": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/",
-    "score": 69,
-    "date": "2026-11-06",
+    "score": 24,
+    "date": "2026-11-07",
     "category": "AI News"
   }
 ]
