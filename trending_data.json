@@ -1,64 +1,82 @@
 [
   {
+    "title": "The Components of Agent Memory",
+    "source": "Hacker News",
+    "description": "HN Score: 15 | 5 comments",
+    "url": "https://www.anthropic.com/research/components-of-agent-memory",
+    "score": 15,
+    "date": "2026-11-07",
+    "category": "AI News"
+  },
+  {
     "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
     "source": "Hacker News",
-    "description": "HN Score: 275 | 219 comments",
+    "description": "HN Score: 329 | 267 comments",
     "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
-    "score": 275,
+    "score": 329,
     "date": "2026-11-07",
     "category": "AI News"
   },
   {
     "title": "AI is dramatically accelerating AI research",
     "source": "Hacker News",
-    "description": "HN Score: 198 | 152 comments",
+    "description": "HN Score: 286 | 223 comments",
     "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
-    "score": 198,
-    "date": "2026-11-07",
-    "category": "AI News"
-  },
-  {
-    "title": "Outbound SIP calling is now available to all organizations",
-    "source": "Hacker News",
-    "description": "HN Score: 29 | 21 comments",
-    "url": "https://developers.openai.com/api/docs/guides/voice-sip",
-    "score": 29,
+    "score": 286,
     "date": "2026-11-07",
     "category": "AI News"
   },
   {
     "title": "Restaurant Delivery Payment-Skimming Campaign",
     "source": "Hacker News",
-    "description": "HN Score: 89 | 39 comments",
+    "description": "HN Score: 118 | 60 comments",
     "url": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
-    "score": 89,
+    "score": 118,
     "date": "2026-11-07",
     "category": "AI News"
   },
   {
-    "title": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
+    "title": "Panthera: Ampere's CPU Performance Model",
     "source": "Hacker News",
-    "description": "HN Score: 69 | 28 comments",
-    "url": "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
-    "score": 69,
+    "description": "HN Score: 30 | 9 comments",
+    "url": "https://github.com/AmpereComputing/panthera",
+    "score": 30,
     "date": "2026-11-07",
     "category": "AI News"
   },
   {
-    "title": "Memorilla: Latent Semantic Memory for LLMs",
+    "title": "Show HN: Tmux-restore saves tmux windows and agent sessions across reboots",
     "source": "Hacker News",
-    "description": "HN Score: 86 | 7 comments",
-    "url": "https://arxiv.org/abs/2610.21375",
-    "score": 86,
+    "description": "HN Score: 30 | 13 comments",
+    "url": "https://github.com/andrewboldi/tmux-restore",
+    "score": 30,
+    "date": "2026-11-07",
+    "category": "AI News"
+  },
+  {
+    "title": "Claude Code sends your email address to websites",
+    "source": "Hacker News",
+    "description": "HN Score: 1569 | 502 comments",
+    "url": "https://github.com/anthropics/claude-code/issues/107757",
+    "score": 1569,
     "date": "2026-11-07",
     "category": "AI News"
   },
   {
     "title": "Anthropic IPO buyers see valuation as low as $1.1T",
     "source": "Hacker News",
-    "description": "HN Score: 227 | 483 comments",
+    "description": "HN Score: 274 | 544 comments",
     "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
-    "score": 227,
+    "score": 274,
+    "date": "2026-11-07",
+    "category": "AI News"
+  },
+  {
+    "title": "Memorilla: Latent Semantic Memory for LLMs",
+    "source": "Hacker News",
+    "description": "HN Score: 104 | 12 comments",
+    "url": "https://arxiv.org/abs/2610.21375",
+    "score": 104,
     "date": "2026-11-07",
     "category": "AI News"
   },
@@ -68,24 +86,6 @@
     "description": "HN Score: 1 | 0 comments",
     "url": "https://up.codes/careers?utm_source=HN",
     "score": 1,
-    "date": "2026-11-07",
-    "category": "AI News"
-  },
-  {
-    "title": "40C3 halfnarp \u2013 Submit talk preferences to aid scheduling",
-    "source": "Hacker News",
-    "description": "HN Score: 44 | 9 comments",
-    "url": "https://halfnarp.events.ccc.de",
-    "score": 44,
-    "date": "2026-11-07",
-    "category": "AI News"
-  },
-  {
-    "title": "Show HN: Agents infer Lego mechanisms from sources, then animate them",
-    "source": "Hacker News",
-    "description": "HN Score: 24 | 1 comments",
-    "url": "https://github.com/anteloc/ldraw-mecha/tree/v0.5.0",
-    "score": 24,
     "date": "2026-11-07",
     "category": "AI News"
   }
