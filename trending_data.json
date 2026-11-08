@@ -1,91 +1,91 @@
 [
   {
-    "title": "Goodbye Claude, Hello Pi",
+    "title": "I Have Never Seen a Game Fail Because the Artists Were Too Slow",
     "source": "Hacker News",
-    "description": "HN Score: 240 | 140 comments",
+    "description": "HN Score: 20 | 6 comments",
+    "url": "https://www.productionalchemist.com/p/inever-seen-a-game-fail-because-artists-too-slow",
+    "score": 20,
+    "date": "2026-11-08",
+    "category": "AI News"
+  },
+  {
+    "title": "OpenAI raises $11B at a $1.25T valuation",
+    "source": "Hacker News",
+    "description": "HN Score: 75 | 62 comments",
+    "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/",
+    "score": 75,
+    "date": "2026-11-08",
+    "category": "AI News"
+  },
+  {
+    "title": "I'm not a fan of Deno's security model (2024)",
+    "source": "Hacker News",
+    "description": "HN Score: 13 | 4 comments",
+    "url": "https://goldstein.lol/posts/deno-security/",
+    "score": 13,
+    "date": "2026-11-08",
+    "category": "AI News"
+  },
+  {
+    "title": "Goodbye Claude, hello Pi",
+    "source": "Hacker News",
+    "description": "HN Score: 529 | 341 comments",
     "url": "https://caleb.software/posts/claude-to-pi.html",
-    "score": 240,
+    "score": 529,
     "date": "2026-11-08",
     "category": "AI News"
   },
   {
     "title": "Claude Code's 'Don't Ask Again' exposes passwords in 1,122 public GitHub files",
     "source": "Hacker News",
-    "description": "HN Score: 369 | 254 comments",
+    "description": "HN Score: 494 | 355 comments",
     "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-    "score": 369,
+    "score": 494,
+    "date": "2026-11-08",
+    "category": "AI News"
+  },
+  {
+    "title": "Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
+    "source": "Hacker News",
+    "description": "HN Score: 20 | 30 comments",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
+    "score": 20,
+    "date": "2026-11-08",
+    "category": "AI News"
+  },
+  {
+    "title": "Agent memory needs its OpenTelemetry moment",
+    "source": "Hacker News",
+    "description": "HN Score: 113 | 85 comments",
+    "url": "https://www.lorekit.io/blog/open-agent-memory-format",
+    "score": 113,
+    "date": "2026-11-08",
+    "category": "AI News"
+  },
+  {
+    "title": "Drones built to look like birds evaded detection at Air Force tech exercise",
+    "source": "Hacker News",
+    "description": "HN Score: 16 | 7 comments",
+    "url": "https://taskandpurpose.com/news/drone-mimicking-bird-test/",
+    "score": 16,
+    "date": "2026-11-08",
+    "category": "AI News"
+  },
+  {
+    "title": "Quadrillion-parameter transformers and how to train them",
+    "source": "Hacker News",
+    "description": "HN Score: 50 | 41 comments",
+    "url": "https://qlabs.sh/research/parameters",
+    "score": 50,
     "date": "2026-11-08",
     "category": "AI News"
   },
   {
     "title": "Uranium cubes reveal why the German nuclear project failed",
     "source": "Hacker News",
-    "description": "HN Score: 123 | 79 comments",
+    "description": "HN Score: 188 | 122 comments",
     "url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
-    "score": 123,
-    "date": "2026-11-08",
-    "category": "AI News"
-  },
-  {
-    "title": "Consumer brain wave headsets threaten privacy",
-    "source": "Hacker News",
-    "description": "HN Score: 36 | 12 comments",
-    "url": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F",
-    "score": 36,
-    "date": "2026-11-08",
-    "category": "AI News"
-  },
-  {
-    "title": "The end of Microsoft Research's AI Frontiers group",
-    "source": "Hacker News",
-    "description": "HN Score: 450 | 270 comments",
-    "url": "https://hunch.net/?p=13764006",
-    "score": 450,
-    "date": "2026-11-08",
-    "category": "AI News"
-  },
-  {
-    "title": "How Long Can Life Wait?",
-    "source": "Hacker News",
-    "description": "HN Score: 133 | 84 comments",
-    "url": "https://mceglowski.substack.com/p/how-long-can-life-wait",
-    "score": 133,
-    "date": "2026-11-08",
-    "category": "AI News"
-  },
-  {
-    "title": "The Components of Agent Memory",
-    "source": "Hacker News",
-    "description": "HN Score: 159 | 87 comments",
-    "url": "https://www.anthropic.com/research/components-of-agent-memory",
-    "score": 159,
-    "date": "2026-11-08",
-    "category": "AI News"
-  },
-  {
-    "title": "Sailing Solo Around Britain",
-    "source": "Hacker News",
-    "description": "HN Score: 7 | 3 comments",
-    "url": "https://sites.google.com/view/sailing-solo-around-britain/leisure-27-dark-star",
-    "score": 7,
-    "date": "2026-11-08",
-    "category": "AI News"
-  },
-  {
-    "title": "Show HN: An offline desktop companion to help maintain a healthy blink rhythm",
-    "source": "Hacker News",
-    "description": "HN Score: 31 | 15 comments",
-    "url": "https://eyesrhythm.com/",
-    "score": 31,
-    "date": "2026-11-08",
-    "category": "AI News"
-  },
-  {
-    "title": "Show HN: LLM weight editing tool made by a 15-year-old",
-    "source": "Hacker News",
-    "description": "HN Score: 6 | 0 comments",
-    "url": "https://github.com/Miyamoto-Renya/LaplacesScissors",
-    "score": 6,
+    "score": 188,
     "date": "2026-11-08",
     "category": "AI News"
   }
