@@ -1,6 +1,55 @@
 [
   {
-    "title": "Is Jensen Huang\u2019s job on the line? Yale\u2019s Jeffrey Sonnenfeld estimates it\u2019s \u201cabout a 50-50\u201d",
+    "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+    "source": "TechCrunch",
+    "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
+    "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+    "date": "2026-11-09"
+  },
+  {
+    "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+    "source": "TechCrunch",
+    "summary": "Anthropic says the new models 'show improvements in areas like coding, reasoning, and vision,' as well as in communicating more clearly with users.",
+    "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+    "date": "2026-11-09"
+  },
+  {
+    "title": "Jensen Huang\u2019s affair with alleged Chinese spy puts Nvidia\u2019s China ambitions under scrutiny",
+    "source": "TechCrunch",
+    "summary": "Jensen Huang\u2019s alleged affair with a suspected Chinese spy threatens to complicate Nvidia\u2019s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China\u2019s lucrative AI market.",
+    "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+    "date": "2026-11-09"
+  },
+  {
+    "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+    "source": "TechCrunch",
+    "summary": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
+    "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+    "date": "2026-11-09"
+  },
+  {
+    "title": "Anthropic joins AI\u2019s natural gas frenzy, buys $3.4B worth of turbines",
+    "source": "TechCrunch",
+    "summary": "Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse.",
+    "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+    "date": "2026-11-09"
+  },
+  {
+    "title": "Medium\u2019s new TK app brings AI assistance directly into the writing process",
+    "source": "TechCrunch",
+    "summary": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing.",
+    "url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
+    "date": "2026-11-09"
+  },
+  {
+    "title": "Automattic debuts a platform to deploy vibe-coding apps amid a changing internet",
+    "source": "TechCrunch",
+    "summary": "Automattic aims to compete with the likes of Lovable with Spacefast.",
+    "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
+    "date": "2026-11-09"
+  },
+  {
+    "title": "Is Jensen Huang\u2019s job on the line? Yale\u2019s Jeffrey Sonnenfeld estimates it\u2019s \u2018about a 50-50\u2019",
     "source": "TechCrunch",
     "summary": "Nvidia\u2019s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale\u2019s Jeffrey Sonnenfeld thinks it\u2019s roughly a coin flip whether Huang stays on as CEO.",
     "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
@@ -28,6 +77,13 @@
     "date": "2026-11-09"
   },
   {
+    "title": "From the front row to the hot seat \u2014 what the midterms mean for Big Tech",
+    "source": "TechCrunch",
+    "summary": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do.",
+    "url": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
+    "date": "2026-11-09"
+  },
+  {
     "title": "Crusoe sells troubled Wyoming data center project to Google",
     "source": "TechCrunch",
     "summary": "The deal highlights the challenges of developing massive AI data centers.",
@@ -49,59 +105,38 @@
     "date": "2026-11-09"
   },
   {
-    "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-    "source": "TechCrunch",
-    "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
-    "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+    "title": "The backlash about data centers might really just be about electricity",
+    "source": "MIT Tech Review",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what\u2019s known as Data Center Alley\u2014the world\u2019s largest data center hub....",
+    "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
     "date": "2026-11-09"
   },
   {
-    "title": "How a Blue Wave midterm might reshape the AI industry",
-    "source": "TechCrunch",
-    "summary": "Democrats\u2019 historic victories in this week\u2019s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday \u2014 in all but one, the majority voted to impose more restrictions on data center development. And even when data centers...",
-    "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+    "title": "Nancy Pelosi\u2019s replacement is ready to regulate AI",
+    "source": "MIT Tech Review",
+    "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi\u2019s open San Francisco seat, he could play a key role in setting federal AI policy. I spoke with Wie...",
+    "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
     "date": "2026-11-09"
   },
   {
-    "title": "After the midterms, is the AI industry in for a rough two years?",
-    "source": "TechCrunch",
-    "summary": "Democrats\u2019 historic victories in this week\u2019s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday \u2014 in all but one, the majority voted to impose more restrictions on data center development. And even when data centers...",
-    "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+    "title": "The Download: empty AI climate claims, and an Nvidia investigation",
+    "source": "MIT Tech Review",
+    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Opinion: The climate case for AI has not been made \u2014By Mary Nichols, distinguished counsel at the UCLA School of Law and the former chair of the California Air...",
+    "url": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/",
     "date": "2026-11-09"
   },
   {
-    "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-    "source": "TechCrunch",
-    "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
-    "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+    "title": "Innovating with AI in the special chemicals industry",
+    "source": "MIT Tech Review",
+    "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufac...",
+    "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
     "date": "2026-11-09"
   },
   {
-    "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
-    "source": "TechCrunch",
-    "summary": "Amazon said that the feature will roll out to millions of users in coming weeks.",
-    "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
-    "date": "2026-11-09"
-  },
-  {
-    "title": "Underdog shows off a 32MB speech model in new demo",
-    "source": "TechCrunch",
-    "summary": "Despite its small size, Underdog's new model can generate both speech and music.",
-    "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
-    "date": "2026-11-09"
-  },
-  {
-    "title": "Physicl raises $10M to make the digital world real enough for robots",
-    "source": "TechCrunch",
-    "summary": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
-    "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
-    "date": "2026-11-09"
-  },
-  {
-    "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-    "source": "TechCrunch",
-    "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
-    "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+    "title": "The climate case for AI has not been made",
+    "source": "MIT Tech Review",
+    "summary": "This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence. The host has already called on countries to commit to ensuring that AI is designed, powered, and deployed in ways that support clima...",
+    "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
     "date": "2026-11-09"
   },
   {
@@ -140,38 +175,17 @@
     "date": "2026-11-09"
   },
   {
-    "title": "Roundtables: Inside the Quest for Cognitive Immortality",
-    "source": "MIT Tech Review",
-    "summary": "Tuesday, November 17, 2026 In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going\u2014even beyond death. Join science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado for a conversation exploring ...",
-    "url": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
+    "title": "Jensen Huang Hired a PR Firm Known for Handling Sex Scandals Last Year",
+    "source": "Wired",
+    "summary": "The Nvidia CEO began working with consultants from Heller as early as October 2025, around the same time he was first linked to a suspected Chinese spy.",
+    "url": "https://www.wired.com/story/nvidia-ceo-jensen-huang-hired-a-pr-firm-known-for-handling-sex-scandals-last-year/",
     "date": "2026-11-09"
   },
   {
-    "title": "What\u2019s next for US energy policy after the midterm elections?",
-    "source": "MIT Tech Review",
-    "summary": "I\u2019ve been locked in to my various screens since results from midterm elections started to roll in last night. And it didn\u2019t take long to see the beginning of the blue wave: Democrats took control of both the US House of Representatives and the Senate, a dramatic swing from Donald Trump\u2019s victory ...",
-    "url": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/",
-    "date": "2026-11-09"
-  },
-  {
-    "title": "The Download: blended meat, restored sight, and the agentic web",
-    "source": "MIT Tech Review",
-    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. These startups hope \u201cblended\u201d food will cut our appetite for red meat In the fall of 2025, Jeff Dodge served hungry students steaming marinara sauce and meatba...",
-    "url": "https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/",
-    "date": "2026-11-09"
-  },
-  {
-    "title": "Securing the agentic enterprise with data lineage",
-    "source": "MIT Tech Review",
-    "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. ...",
-    "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
-    "date": "2026-11-09"
-  },
-  {
-    "title": "The Download: controlling AI agents and \u201cSuper Intelligence\u201d loyalty tests",
-    "source": "MIT Tech Review",
-    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. How \u201creverse game theory\u201d could keep AI agents in check A new approach known as \u201creverse game theory\u201d aims to control powerful AI models by designing systems t...",
-    "url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
+    "title": "Authors Can Defend Against AI Allegations With \u2018Paper Trail\u2019 Tools. Is It Enough?",
+    "source": "Wired",
+    "summary": "As the publishing industry wrestles with paranoia over the provenance of manuscripts, writers are caught in an impossible bind.",
+    "url": "https://www.wired.com/story/authors-can-defend-against-ai-allegations-with-paper-trail-tools/",
     "date": "2026-11-09"
   },
   {
@@ -231,17 +245,17 @@
     "date": "2026-11-09"
   },
   {
-    "title": "Exclusive: Aina\u2019s Smart Ring Wants to Be a Remote Control for Your AI Agent",
-    "source": "Wired",
-    "summary": "The startup Aina bets you won\u2019t need to rely on your phone to control virtual assistants. It\u2019s making a smart ring that lets you control the actions of your autonomous agents with one tap.",
-    "url": "https://www.wired.com/story/aina-smart-ring/",
+    "title": "Claude Code is accidentally exposing secrets all over GitHub",
+    "source": "Ars Technica",
+    "summary": "'Do not ask again' prompt leads to passwords, API keys, and more being shared.",
+    "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
     "date": "2026-11-09"
   },
   {
-    "title": "Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work",
-    "source": "Wired",
-    "summary": "Potential Sciences, a startup backed by the UK government, is betting that training AI models on computer-generated biochemical data can speed up the plodding process of developing new drugs.",
-    "url": "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/",
+    "title": "Nvidia CEO's affair becomes a national security problem",
+    "source": "Ars Technica",
+    "summary": "Nvidia is probing whether Chinese intelligence targeted its CEO through an affair.",
+    "url": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/",
     "date": "2026-11-09"
   },
   {
@@ -333,20 +347,6 @@
     "source": "Ars Technica",
     "summary": "People who love AI don't always love telling others they used it.",
     "url": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
-    "date": "2026-11-09"
-  },
-  {
-    "title": "Basically no one is using AI agents for their DoorDash orders",
-    "source": "Ars Technica",
-    "summary": "But it's still early days for the relatively new e-commerce use case.",
-    "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
-    "date": "2026-11-09"
-  },
-  {
-    "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-    "source": "Ars Technica",
-    "summary": "Low costs and offline security mean magnetic tape still has a job.",
-    "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
     "date": "2026-11-09"
   }
 ]
