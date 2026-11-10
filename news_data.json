@@ -1,5 +1,12 @@
 [
   {
+    "title": "Otter AI can now follow conversations across 30+ languages",
+    "source": "TechCrunch",
+    "summary": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
+    "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
+    "date": "2026-11-10"
+  },
+  {
     "title": "Anthropic reportedly plans to move forward with IPO plans",
     "source": "TechCrunch",
     "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
@@ -98,13 +105,6 @@
     "date": "2026-11-10"
   },
   {
-    "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-    "source": "TechCrunch",
-    "summary": "A memo circulated earlier this year reportedly claimed that China\u2019s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
-    "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
-    "date": "2026-11-10"
-  },
-  {
     "title": "The backlash about data centers might really just be about electricity",
     "source": "MIT Tech Review",
     "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what\u2019s known as Data Center Alley\u2014the world\u2019s largest data center hub....",
@@ -175,6 +175,34 @@
     "date": "2026-11-10"
   },
   {
+    "title": "Tear Down Those Guardrails! Meet the Renegades Freeing Chatbots From Corporate Enslavers",
+    "source": "Wired",
+    "summary": "The \u201cabliterators\u201d are flooding the internet with AI models that never say no, making it easier for people to improve their cyberdefenses\u2014or build a bomb.",
+    "url": "https://www.wired.com/story/tear-down-those-guardrails-meet-the-renegades-freeing-chatbots-from-corporate-enslavers/",
+    "date": "2026-11-10"
+  },
+  {
+    "title": "The AI Safety Debate Has Lost the Plot. We Asked 10 Experts What the Real Nightmares Are",
+    "source": "Wired",
+    "summary": "The risk of nuclear catastrophe is real, as is the fallout of the China\u2013US domination game (hi there, spies). But no need to panic about Skynet.",
+    "url": "https://www.wired.com/story/the-ai-safety-debate-has-lost-the-plot-we-asked-10-experts-what-the-real-nightmares-are/",
+    "date": "2026-11-10"
+  },
+  {
+    "title": "Security Flaws Across UK Government Sites Exposed \u2018God-Tier\u2019 Information",
+    "source": "Wired",
+    "summary": "A researcher\u2019s trawl through publicly available code found private information was at risk across multiple departments.",
+    "url": "https://www.wired.com/story/security-flaws-across-uk-government-sites-exposed-god-tier-information/",
+    "date": "2026-11-10"
+  },
+  {
+    "title": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure",
+    "source": "Wired",
+    "summary": "DeepMind researchers were able to formally verify that the widely used encryption protocol works as intended. Their stretch goal? Do the same for \u201call the software of the world.\u201d",
+    "url": "https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/",
+    "date": "2026-11-10"
+  },
+  {
     "title": "Jensen Huang\u2019s Troubles Leave the AI Industry Reeling",
     "source": "Wired",
     "summary": "With a big checkbook and sought-after chips, Nvidia\u2019s CEO had his thumb on the world of AI. An extramarital affair with a suspected Chinese spy may put all of that at risk.",
@@ -217,31 +245,10 @@
     "date": "2026-11-10"
   },
   {
-    "title": "Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough",
-    "source": "Wired",
-    "summary": "The apps and platforms that help family caregivers manage their loved ones\u2019 needs are becoming more capable, but the broader issue of caregivers\u2019 well-being remains unsolved.",
-    "url": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
-    "date": "2026-11-10"
-  },
-  {
-    "title": "Free Chinese AI Models Are Getting Scary Good at Hacking",
-    "source": "Wired",
-    "summary": "An experiment in which AI models were asked to break into simulated networks showed the hacking skills of DeepSeek and GLM to be not far behind OpenAI\u2019s most advanced cyber model, which isn\u2019t public.",
-    "url": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
-    "date": "2026-11-10"
-  },
-  {
-    "title": "AI Companies Really, Really Want to Buy Your Work Files and Emails",
-    "source": "Wired",
-    "summary": "Data brokers are collecting all sorts of internal corporate files to help train AI models. Not everyone is thrilled.",
-    "url": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/",
-    "date": "2026-11-10"
-  },
-  {
-    "title": "Ads in Chatbots Have Arrived. Here\u2019s What\u2019s Working\u2014and What\u2019s Not",
-    "source": "Wired",
-    "summary": "As Anthropic maintains its vow to keep ads out of Claude, the rest of the AI chatbot industry is racing to win over advertisers without antagonizing users.",
-    "url": "https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/",
+    "title": "Ukraine\u2019s fiber-optic drones get squeezed by AI data center demand",
+    "source": "Ars Technica",
+    "summary": "Ukraine competes with Russia and data centers for China\u2019s optical fiber supply.",
+    "url": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/",
     "date": "2026-11-10"
   },
   {
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
     "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
-    "date": "2026-11-10"
-  },
-  {
-    "title": "Dartmouth's provost warned us about AI cheating\u2014but his own AI use cost him his job",
-    "source": "Ars Technica",
-    "summary": "People who love AI don't always love telling others they used it.",
-    "url": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
     "date": "2026-11-10"
   }
 ]
