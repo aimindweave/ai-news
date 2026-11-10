@@ -1,5 +1,103 @@
 [
   {
+    "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+    "source": "TechCrunch",
+    "summary": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company.",
+    "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+    "date": "2026-11-10"
+  },
+  {
+    "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+    "source": "TechCrunch",
+    "summary": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing \u201cuncertainty in the IPO market.\u201d",
+    "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+    "date": "2026-11-10"
+  },
+  {
+    "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+    "source": "TechCrunch",
+    "summary": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
+    "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+    "date": "2026-11-10"
+  },
+  {
+    "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+    "source": "TechCrunch",
+    "summary": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
+    "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+    "date": "2026-11-10"
+  },
+  {
+    "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+    "source": "TechCrunch",
+    "summary": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
+    "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+    "date": "2026-11-10"
+  },
+  {
+    "title": "Nvidia CEO Jensen Huang\u2019s affair with alleged Chinese spy: a timeline",
+    "source": "TechCrunch",
+    "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+    "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "date": "2026-11-10"
+  },
+  {
+    "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+    "source": "TechCrunch",
+    "summary": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.",
+    "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+    "date": "2026-11-10"
+  },
+  {
+    "title": "Meta\u2019s AI agent Muse lands on Apple Watch and Android Wear OS",
+    "source": "TechCrunch",
+    "summary": "Users can now interact with Meta\u2019s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
+    "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+    "date": "2026-11-10"
+  },
+  {
+    "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+    "source": "TechCrunch",
+    "summary": "Adobe is taking on Figma with a new prototype builder tool in Firefly.",
+    "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
+    "date": "2026-11-10"
+  },
+  {
+    "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+    "source": "TechCrunch",
+    "summary": "The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis.",
+    "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+    "date": "2026-11-10"
+  },
+  {
+    "title": "After challenging Google\u2019s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+    "source": "TechCrunch",
+    "summary": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
+    "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
+    "date": "2026-11-10"
+  },
+  {
+    "title": "Spotify\u2019s AI DJ gets new voices, personalities, and an option for less chatter",
+    "source": "TechCrunch",
+    "summary": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs.",
+    "url": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
+    "date": "2026-11-10"
+  },
+  {
+    "title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
+    "source": "TechCrunch",
+    "summary": "Amazon-owned Ring is pushing into robotics with the launch of a home security drone and a rolling robot designed to patrol and protect businesses.",
+    "url": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/",
+    "date": "2026-11-10"
+  },
+  {
+    "title": "Cyberattacks threaten to make open source AI a little less open, Hugging Face exec warns",
+    "source": "TechCrunch",
+    "summary": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open source communities valuable to developers worldwide.",
+    "url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
+    "date": "2026-11-10"
+  },
+  {
     "title": "Otter AI can now follow conversations across 30+ languages",
     "source": "TechCrunch",
     "summary": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
@@ -7,101 +105,17 @@
     "date": "2026-11-10"
   },
   {
-    "title": "Anthropic reportedly plans to move forward with IPO plans",
-    "source": "TechCrunch",
-    "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
-    "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+    "title": "The Download: Pelosi\u2019s successor targets AI and data centers face power woes",
+    "source": "MIT Tech Review",
+    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Nancy Pelosi\u2019s replacement is ready to regulate AI \u2014Grace Huckins As a California state senator, Scott Wiener authored legislation aimed at curbing the risks o...",
+    "url": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
     "date": "2026-11-10"
   },
   {
-    "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
-    "source": "TechCrunch",
-    "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
-    "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
-    "date": "2026-11-10"
-  },
-  {
-    "title": "A short seller flagged Nvidia CEO\u2019s ties to a suspected Chinese spy six months before the scandal",
-    "source": "TechCrunch",
-    "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
-    "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
-    "date": "2026-11-10"
-  },
-  {
-    "title": "The race is on to sue Nvidia",
-    "source": "TechCrunch",
-    "summary": "Nvidia\u2019s stock slid more than 4% after its board opened an investigation into Jensen Huang\u2019s relationship with a suspected Chinese spy, and one securities law expert says the company\u2019s earlier insistence that it was all \u201cnormal\u201d could turn into a very expensive problem.",
-    "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
-    "date": "2026-11-10"
-  },
-  {
-    "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
-    "source": "TechCrunch",
-    "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
-    "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
-    "date": "2026-11-10"
-  },
-  {
-    "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
-    "source": "TechCrunch",
-    "summary": "Anthropic says the new models 'show improvements in areas like coding, reasoning, and vision,' as well as in communicating more clearly with users.",
-    "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
-    "date": "2026-11-10"
-  },
-  {
-    "title": "Jensen Huang\u2019s affair with alleged Chinese spy puts Nvidia\u2019s China ambitions under scrutiny",
-    "source": "TechCrunch",
-    "summary": "Jensen Huang\u2019s alleged affair with a suspected Chinese spy threatens to complicate Nvidia\u2019s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China\u2019s lucrative AI market.",
-    "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
-    "date": "2026-11-10"
-  },
-  {
-    "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
-    "source": "TechCrunch",
-    "summary": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
-    "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
-    "date": "2026-11-10"
-  },
-  {
-    "title": "Anthropic joins AI\u2019s natural gas frenzy, buys $3.4B worth of turbines",
-    "source": "TechCrunch",
-    "summary": "Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse.",
-    "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
-    "date": "2026-11-10"
-  },
-  {
-    "title": "Medium\u2019s new TK app brings AI assistance directly into the writing process",
-    "source": "TechCrunch",
-    "summary": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing.",
-    "url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
-    "date": "2026-11-10"
-  },
-  {
-    "title": "Automattic debuts a platform to deploy vibe-coding apps amid a changing internet",
-    "source": "TechCrunch",
-    "summary": "Automattic aims to compete with the likes of Lovable with Spacefast.",
-    "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
-    "date": "2026-11-10"
-  },
-  {
-    "title": "Is Jensen Huang\u2019s job on the line? Yale\u2019s Jeffrey Sonnenfeld estimates it\u2019s \u2018about a 50-50\u2019",
-    "source": "TechCrunch",
-    "summary": "Nvidia\u2019s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale\u2019s Jeffrey Sonnenfeld thinks it\u2019s roughly a coin flip whether Huang stays on as CEO.",
-    "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
-    "date": "2026-11-10"
-  },
-  {
-    "title": "Nvidia will investigate CEO Jensen Huang\u2019s relationship with possible Chinese spy",
-    "source": "TechCrunch",
-    "summary": "In a memo to the company, Huang admitted that he had an affair.",
-    "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
-    "date": "2026-11-10"
-  },
-  {
-    "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
-    "source": "TechCrunch",
-    "summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
-    "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+    "title": "Evolving metal extraction processes",
+    "source": "MIT Tech Review",
+    "summary": "The metals industry has experienced transformational moments before: the Bessemer process, flash smelting, electric arc furnaces, and modern continuous casting all changed what was possible. Yet, for more than a century, most extraction processes rely on techniques and pathways that would be fami...",
+    "url": "https://www.technologyreview.com/2026/11/10/1147726/evolving-metal-extraction-processes/",
     "date": "2026-11-10"
   },
   {
@@ -161,17 +175,10 @@
     "date": "2026-11-10"
   },
   {
-    "title": "A new bill could change how the US builds energy infrastructure",
-    "source": "MIT Tech Review",
-    "summary": "A sweeping bit of legislation designed to cut red tape could speed up the buildout of energy infrastructure in the US. With the dust barely settled on this week\u2019s momentous midterms, the Senate is set to vote on the Bipartisan American Affordability and Jobs Act (BAAJA) on November 9. It\u2019s a plan...",
-    "url": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/",
-    "date": "2026-11-10"
-  },
-  {
-    "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
-    "source": "MIT Tech Review",
-    "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor ...",
-    "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+    "title": "This New Linux-Based Desktop Operating System Is Built for AI Nerds",
+    "source": "Wired",
+    "summary": "Built by Cyanogen\u2019s cofounder, Kora is a next-gen alternative to Windows and macOS built for power users running local AI models.",
+    "url": "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/",
     "date": "2026-11-10"
   },
   {
@@ -238,10 +245,17 @@
     "date": "2026-11-10"
   },
   {
-    "title": "World Models Will Soon Be Inescapable. Here\u2019s What You Need to Know",
-    "source": "Wired",
-    "summary": "Moving AI from text to 3D space, world models simulate real-world physics to teach robots and autonomous cars how to navigate reality.",
-    "url": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
+    "title": "What happens to mathematics when AI becames an oracle?",
+    "source": "Ars Technica",
+    "summary": "Mathematician Steven Strogatz discusses his new book, Big Math: The Hidden Codes That Run Our World.",
+    "url": "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/",
+    "date": "2026-11-10"
+  },
+  {
+    "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark 'ASIMOV-jailbreak'",
+    "source": "Ars Technica",
+    "summary": "The new model is up to twice as successful at some tasks.",
+    "url": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
     "date": "2026-11-10"
   },
   {
@@ -333,20 +347,6 @@
     "source": "Ars Technica",
     "summary": "The tsunami of imitators is way bigger than any one model maker can stem.",
     "url": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
-    "date": "2026-11-10"
-  },
-  {
-    "title": "Supersonic airliner in doubt as company shifts to powering AI data centers",
-    "source": "Ars Technica",
-    "summary": "Boom\u2019s airliner may be delayed, and its data center power business lost a customer.",
-    "url": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/",
-    "date": "2026-11-10"
-  },
-  {
-    "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
-    "source": "Ars Technica",
-    "summary": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
-    "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
     "date": "2026-11-10"
   }
 ]
