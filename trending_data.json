@@ -1,91 +1,91 @@
 [
   {
-    "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
+    "title": "Apple has new Mac app coming to make running local AI models easy",
     "source": "Hacker News",
-    "description": "HN Score: 208 | 83 comments",
-    "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
-    "score": 208,
+    "description": "HN Score: 210 | 175 comments",
+    "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+    "score": 210,
     "date": "2026-11-11",
     "category": "AI News"
   },
   {
     "title": "Synaptics patent claims stop work on DisplayLink drivers",
     "source": "Hacker News",
-    "description": "HN Score: 293 | 163 comments",
+    "description": "HN Score: 389 | 220 comments",
     "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
-    "score": 293,
+    "score": 389,
+    "date": "2026-11-11",
+    "category": "AI News"
+  },
+  {
+    "title": "Tracking Anthropic-discovered vulnerabilities",
+    "source": "Hacker News",
+    "description": "HN Score: 395 | 187 comments",
+    "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+    "score": 395,
     "date": "2026-11-11",
     "category": "AI News"
   },
   {
     "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
     "source": "Hacker News",
-    "description": "HN Score: 261 | 77 comments",
+    "description": "HN Score: 361 | 105 comments",
     "url": "https://github.com/GoogleChrome/modern-web-guidance",
-    "score": 261,
-    "date": "2026-11-11",
-    "category": "AI News"
-  },
-  {
-    "title": "$30M Raised to Redo the CPU",
-    "source": "Hacker News",
-    "description": "HN Score: 27 | 13 comments",
-    "url": "https://tendrils.co/blog/2026-11-10/30m-raised",
-    "score": 27,
-    "date": "2026-11-11",
-    "category": "AI News"
-  },
-  {
-    "title": "Show HN: Aircad \u2013 Professional drafting and 3D modeling in the browser",
-    "source": "Hacker News",
-    "description": "HN Score: 14 | 6 comments",
-    "url": "https://aircad.com",
-    "score": 14,
-    "date": "2026-11-11",
-    "category": "AI News"
-  },
-  {
-    "title": "Show HN: Valencia, Spain in Sim City/Isometric View",
-    "source": "Hacker News",
-    "description": "HN Score: 191 | 49 comments",
-    "url": "https://tinyvalencia.com/",
-    "score": 191,
-    "date": "2026-11-11",
-    "category": "AI News"
-  },
-  {
-    "title": "LLMs Play Zachtronics' TIS-100",
-    "source": "Hacker News",
-    "description": "HN Score: 5 | 0 comments",
-    "url": "https://tis-100.wincon.dev/",
-    "score": 5,
-    "date": "2026-11-11",
-    "category": "AI News"
-  },
-  {
-    "title": "AI usage generates a fragile codebase",
-    "source": "Hacker News",
-    "description": "HN Score: 376 | 405 comments",
-    "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
-    "score": 376,
-    "date": "2026-11-11",
-    "category": "AI News"
-  },
-  {
-    "title": "AI is an information gateway. Audiences still don't want it making their news",
-    "source": "Hacker News",
-    "description": "HN Score: 5 | 1 comments",
-    "url": "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/",
-    "score": 5,
+    "score": 361,
     "date": "2026-11-11",
     "category": "AI News"
   },
   {
     "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
     "source": "Hacker News",
-    "description": "HN Score: 157 | 130 comments",
+    "description": "HN Score: 212 | 151 comments",
     "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
-    "score": 157,
+    "score": 212,
+    "date": "2026-11-11",
+    "category": "AI News"
+  },
+  {
+    "title": "AI usage generates a fragile codebase",
+    "source": "Hacker News",
+    "description": "HN Score: 529 | 507 comments",
+    "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+    "score": 529,
+    "date": "2026-11-11",
+    "category": "AI News"
+  },
+  {
+    "title": "$30M Raised to Redo the CPU",
+    "source": "Hacker News",
+    "description": "HN Score: 91 | 92 comments",
+    "url": "https://tendrils.co/blog/2026-11-10/30m-raised",
+    "score": 91,
+    "date": "2026-11-11",
+    "category": "AI News"
+  },
+  {
+    "title": "LLMs Play Zachtronics' TIS-100",
+    "source": "Hacker News",
+    "description": "HN Score: 61 | 11 comments",
+    "url": "https://tis-100.wincon.dev/",
+    "score": 61,
+    "date": "2026-11-11",
+    "category": "AI News"
+  },
+  {
+    "title": "Show HN: Valencia, Spain in Sim City/Isometric View",
+    "source": "Hacker News",
+    "description": "HN Score: 227 | 55 comments",
+    "url": "https://tinyvalencia.com/",
+    "score": 227,
+    "date": "2026-11-11",
+    "category": "AI News"
+  },
+  {
+    "title": "Foldable Flight: The Best Paper Airplanes",
+    "source": "Hacker News",
+    "description": "HN Score: 1218 | 167 comments",
+    "url": "https://www.foldableflight.com",
+    "score": 1218,
     "date": "2026-11-11",
     "category": "AI News"
   }
