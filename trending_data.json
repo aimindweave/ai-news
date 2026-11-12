@@ -1,82 +1,73 @@
 [
   {
-    "title": "93% of paint splatters are valid Perl programs (2019)",
+    "title": "Anthropic IPO",
     "source": "Hacker News",
-    "description": "HN Score: 413 | 54 comments",
-    "url": "https://www.mcmillen.dev/sigbovik/",
-    "score": 413,
+    "description": "HN Score: 618 | 627 comments",
+    "url": "https://ipo.anthropic.com/us/",
+    "score": 618,
     "date": "2026-11-12",
     "category": "AI News"
   },
   {
-    "title": "I gave an agent a lakehouse and control of my garden",
+    "title": "I'm making LLMs work on small and old devices",
     "source": "Hacker News",
-    "description": "HN Score: 65 | 29 comments",
-    "url": "https://jatorre.github.io/garden/",
-    "score": 65,
+    "description": "HN Score: 95 | 32 comments",
+    "url": "https://github.com/hyperionaidev/smolmaxxing/",
+    "score": 95,
+    "date": "2026-11-12",
+    "category": "AI News"
+  },
+  {
+    "title": "Libreagi \u2013 Save OSS Models",
+    "source": "Hacker News",
+    "description": "HN Score: 71 | 16 comments",
+    "url": "https://libreagi.com/",
+    "score": 71,
+    "date": "2026-11-12",
+    "category": "AI News"
+  },
+  {
+    "title": "AI Models Know What Women, Peace and Security Is. They Just Don't Bring It Up",
+    "source": "Hacker News",
+    "description": "HN Score: 7 | 2 comments",
+    "url": "https://blog.cip.org/p/ai-models-know-what-women-peace-and",
+    "score": 7,
+    "date": "2026-11-12",
+    "category": "AI News"
+  },
+  {
+    "title": "Decoding REXPaint Files in Odin",
+    "source": "Hacker News",
+    "description": "HN Score: 11 | 1 comments",
+    "url": "https://tylerelton.com/posts/decoding-rexpaint-files-in-odin/",
+    "score": 11,
+    "date": "2026-11-12",
+    "category": "AI News"
+  },
+  {
+    "title": "93% of paint splatters are valid Perl programs (2019)",
+    "source": "Hacker News",
+    "description": "HN Score: 549 | 73 comments",
+    "url": "https://www.mcmillen.dev/sigbovik/",
+    "score": 549,
+    "date": "2026-11-12",
+    "category": "AI News"
+  },
+  {
+    "title": "Show HN: AI Red Lines \u2013 write down what would make you act on AI",
+    "source": "Hacker News",
+    "description": "HN Score: 20 | 10 comments",
+    "url": "https://yourairedlines.com",
+    "score": 20,
     "date": "2026-11-12",
     "category": "AI News"
   },
   {
     "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
     "source": "Hacker News",
-    "description": "HN Score: 548 | 544 comments",
+    "description": "HN Score: 641 | 667 comments",
     "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-    "score": 548,
-    "date": "2026-11-12",
-    "category": "AI News"
-  },
-  {
-    "title": "Slavdom Unearthed: Marian Wawrzeniecki's Neopagan Paintings (1891\u20131923)",
-    "source": "Hacker News",
-    "description": "HN Score: 27 | 6 comments",
-    "url": "https://publicdomainreview.org/collection/marian-wawrzeniecki/",
-    "score": 27,
-    "date": "2026-11-12",
-    "category": "AI News"
-  },
-  {
-    "title": "My AI agents found an unmapped Maya site?",
-    "source": "Hacker News",
-    "description": "HN Score: 989 | 358 comments",
-    "url": "https://pietromiotti.com/latest/maya-site",
-    "score": 989,
-    "date": "2026-11-12",
-    "category": "AI News"
-  },
-  {
-    "title": "Atuin Threads: All your agent sessions on every machine",
-    "source": "Hacker News",
-    "description": "HN Score: 216 | 79 comments",
-    "url": "https://blog.atuin.sh/threads-agent-sessions/",
-    "score": 216,
-    "date": "2026-11-12",
-    "category": "AI News"
-  },
-  {
-    "title": "Jensen Huang said to have had relationship with executive who reports to him",
-    "source": "Hacker News",
-    "description": "HN Score: 361 | 442 comments",
-    "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
-    "score": 361,
-    "date": "2026-11-12",
-    "category": "AI News"
-  },
-  {
-    "title": "Launch HN: Pomerado (YC F26) \u2013 Turn any website into an MCP for agents",
-    "source": "Hacker News",
-    "description": "HN Score: 55 | 43 comments",
-    "url": "https://news.ycombinator.com/item?id=50455811",
-    "score": 55,
-    "date": "2026-11-12",
-    "category": "AI News"
-  },
-  {
-    "title": "Apple has new Mac app coming to make running local AI models easy",
-    "source": "Hacker News",
-    "description": "HN Score: 530 | 536 comments",
-    "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
-    "score": 530,
+    "score": 641,
     "date": "2026-11-12",
     "category": "AI News"
   },
@@ -86,6 +77,15 @@
     "description": "HN Score: 1 | 0 comments",
     "url": "https://news.ycombinator.com/item?id=50452404",
     "score": 1,
+    "date": "2026-11-12",
+    "category": "AI News"
+  },
+  {
+    "title": "Show HN: Aircad \u2013 Professional drafting and 3D modeling in the browser",
+    "source": "Hacker News",
+    "description": "HN Score: 81 | 38 comments",
+    "url": "https://aircad.com",
+    "score": 81,
     "date": "2026-11-12",
     "category": "AI News"
   }
