@@ -1,64 +1,82 @@
 [
   {
-    "title": "93% of Paint Splatters Are Valid Perl Programs (2019)",
+    "title": "93% of paint splatters are valid Perl programs (2019)",
     "source": "Hacker News",
-    "description": "HN Score: 70 | 14 comments",
+    "description": "HN Score: 413 | 54 comments",
     "url": "https://www.mcmillen.dev/sigbovik/",
-    "score": 70,
+    "score": 413,
+    "date": "2026-11-12",
+    "category": "AI News"
+  },
+  {
+    "title": "I gave an agent a lakehouse and control of my garden",
+    "source": "Hacker News",
+    "description": "HN Score: 65 | 29 comments",
+    "url": "https://jatorre.github.io/garden/",
+    "score": 65,
     "date": "2026-11-12",
     "category": "AI News"
   },
   {
     "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
     "source": "Hacker News",
-    "description": "HN Score: 297 | 273 comments",
+    "description": "HN Score: 548 | 544 comments",
     "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-    "score": 297,
+    "score": 548,
     "date": "2026-11-12",
     "category": "AI News"
   },
   {
-    "title": "My AI agents found an unmapped Maya site",
+    "title": "Slavdom Unearthed: Marian Wawrzeniecki's Neopagan Paintings (1891\u20131923)",
     "source": "Hacker News",
-    "description": "HN Score: 914 | 335 comments",
+    "description": "HN Score: 27 | 6 comments",
+    "url": "https://publicdomainreview.org/collection/marian-wawrzeniecki/",
+    "score": 27,
+    "date": "2026-11-12",
+    "category": "AI News"
+  },
+  {
+    "title": "My AI agents found an unmapped Maya site?",
+    "source": "Hacker News",
+    "description": "HN Score: 989 | 358 comments",
     "url": "https://pietromiotti.com/latest/maya-site",
-    "score": 914,
-    "date": "2026-11-12",
-    "category": "AI News"
-  },
-  {
-    "title": "Launch HN: Pomerado (YC F26) \u2013 Turn any website into an MCP for agents",
-    "source": "Hacker News",
-    "description": "HN Score: 44 | 35 comments",
-    "url": "https://news.ycombinator.com/item?id=50455811",
-    "score": 44,
-    "date": "2026-11-12",
-    "category": "AI News"
-  },
-  {
-    "title": "Modern Web Guidance 1.0: The web platform expertise your coding agent is missing",
-    "source": "Hacker News",
-    "description": "HN Score: 11 | 2 comments",
-    "url": "https://developer.chrome.com/blog/modern-web-guidance-v1",
-    "score": 11,
+    "score": 989,
     "date": "2026-11-12",
     "category": "AI News"
   },
   {
     "title": "Atuin Threads: All your agent sessions on every machine",
     "source": "Hacker News",
-    "description": "HN Score: 188 | 67 comments",
+    "description": "HN Score: 216 | 79 comments",
     "url": "https://blog.atuin.sh/threads-agent-sessions/",
-    "score": 188,
+    "score": 216,
     "date": "2026-11-12",
     "category": "AI News"
   },
   {
     "title": "Jensen Huang said to have had relationship with executive who reports to him",
     "source": "Hacker News",
-    "description": "HN Score: 137 | 116 comments",
+    "description": "HN Score: 361 | 442 comments",
     "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
-    "score": 137,
+    "score": 361,
+    "date": "2026-11-12",
+    "category": "AI News"
+  },
+  {
+    "title": "Launch HN: Pomerado (YC F26) \u2013 Turn any website into an MCP for agents",
+    "source": "Hacker News",
+    "description": "HN Score: 55 | 43 comments",
+    "url": "https://news.ycombinator.com/item?id=50455811",
+    "score": 55,
+    "date": "2026-11-12",
+    "category": "AI News"
+  },
+  {
+    "title": "Apple has new Mac app coming to make running local AI models easy",
+    "source": "Hacker News",
+    "description": "HN Score: 530 | 536 comments",
+    "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+    "score": 530,
     "date": "2026-11-12",
     "category": "AI News"
   },
@@ -68,24 +86,6 @@
     "description": "HN Score: 1 | 0 comments",
     "url": "https://news.ycombinator.com/item?id=50452404",
     "score": 1,
-    "date": "2026-11-12",
-    "category": "AI News"
-  },
-  {
-    "title": "Tools for exploring the souls of large language models",
-    "source": "Hacker News",
-    "description": "HN Score: 30 | 8 comments",
-    "url": "https://oshea00.github.io/posts/tinygpt-visualizer/",
-    "score": 30,
-    "date": "2026-11-12",
-    "category": "AI News"
-  },
-  {
-    "title": "I Accidentally Became a Millionaire",
-    "source": "Hacker News",
-    "description": "HN Score: 19 | 1 comments",
-    "url": "https://lyra.horse/blog/2026/11/disinformation-machine/",
-    "score": 19,
     "date": "2026-11-12",
     "category": "AI News"
   }
