@@ -93,6 +93,16 @@
   ],
   "episodes": [
     {
+      "id": "a]6z Pod_0",
+      "name": "Every Day Is Zero Day | Wiz CTO Ami Luttwak",
+      "show": "a]6z Podcast",
+      "description": "AI isn’t just helping defenders find vulnerabilities. It’s giving attackers the speed and expertise to exploit them faster than many companies can respond. Wiz co-founder and CTO Ami Luttwak joins ",
+      "release_date": "2026-11-13",
+      "duration_min": 46,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
       "id": "Hard For_0",
       "name": "Jensen Huang Is Out at Nvidia",
       "show": "Hard Fork",
@@ -103,7 +113,7 @@
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
-      "id": "a]6z Pod_0",
+      "id": "a]6z Pod_1",
       "name": "The Next Era of Games: Mods, Agents, and Infinite Worlds",
       "show": "a]6z Podcast",
       "description": "AI is collapsing the distance between an idea and a playable game. What happens when almost anyone can build one?In this episode, a16z General Partners Anish Acharya and Jonathan Lai discuss",
@@ -113,7 +123,7 @@
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "What the Internet Boom Teaches Us About the AI Buildout | Mike Volpi",
       "show": "a]6z Podcast",
       "description": "The internet boom built bandwidth. The AI boom is building intelligence. Mike Volpi, who helped shape Cisco’s strategy during the internet buildout, asks what that era can teach us about this one.<",
@@ -143,6 +153,16 @@
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
+      "id": "Latent S_0",
+      "name": "Designing for Agents — Zeno Rocha, Resend",
+      "show": "Latent Space",
+      "description": "swyx had already connected Cloudflare email. Then a coding agent opened a pull request that quietly chose Resend for him. Zeno Rocha, Resend’s founder and CEO, explains what answer engine optimizat",
+      "release_date": "2026-11-10",
+      "duration_min": 85,
+      "image": "",
+      "url": "https://open.spotify.com/show/4vS0Dq8G7Q2lRqAR8BMBWC"
+    },
+    {
       "id": "The TWIM_0",
       "name": "Canva Is Tackling AI Design’s Most Frustrating Problem with Stefano Corazza- #784",
       "show": "The TWIML AI Podcast",
@@ -153,14 +173,24 @@
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
     },
     {
-      "id": "a]6z Pod_2",
-      "name": "HubSpot’s Co-Founder on Finding Your Next Startup Idea",
-      "show": "a]6z Podcast",
-      "description": "As frontier AI labs expand into applications, where should startups build? a16z Partner Joe Schmidt joins HubSpot co-founder and CTO Dharmesh Shah to explore why the software opportunity is growing",
-      "release_date": "2026-11-10",
-      "duration_min": 58,
+      "id": "Latent S_1",
+      "name": "What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord & Team",
+      "show": "Latent Space",
+      "description": "Our first deep dive with an AI data company. In roughly a year, Handshake built an AI training business doing nearly $1 billion in gross annualized revenue. What are frontier labs buying? Garrett L",
+      "release_date": "2026-11-09",
+      "duration_min": 163,
       "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+      "url": "https://open.spotify.com/show/4vS0Dq8G7Q2lRqAR8BMBWC"
+    },
+    {
+      "id": "Latent S_2",
+      "name": "[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
+      "show": "Latent Space",
+      "description": "What do you assign when a coding agent can finish last year’s homework in one prompt? In the second run of Stanford’s CS146S, Mihail Eric brought open-source maintainers into the course. Students h",
+      "release_date": "2026-11-08",
+      "duration_min": 120,
+      "image": "",
+      "url": "https://open.spotify.com/show/4vS0Dq8G7Q2lRqAR8BMBWC"
     },
     {
       "id": "Hard For_2",
