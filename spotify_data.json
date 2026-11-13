@@ -93,6 +93,16 @@
   ],
   "episodes": [
     {
+      "id": "Practica_0",
+      "name": "Implementing Federated Learning to enhance Agentic AI",
+      "show": "Practical AI",
+      "description": "\n        How can AI models learn from private data without compromising privacy? Chris is joined by Lorenzo Sani, Research Scientist at Flower Labs and PhD researcher at Cambridge, to explore feder",
+      "release_date": "2026-11-13",
+      "duration_min": 43,
+      "image": "",
+      "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
+    },
+    {
       "id": "a]6z Pod_0",
       "name": "Every Day Is Zero Day | Wiz CTO Ami Luttwak",
       "show": "a]6z Podcast",
@@ -153,16 +163,6 @@
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
-      "id": "Latent S_0",
-      "name": "Designing for Agents — Zeno Rocha, Resend",
-      "show": "Latent Space",
-      "description": "swyx had already connected Cloudflare email. Then a coding agent opened a pull request that quietly chose Resend for him. Zeno Rocha, Resend’s founder and CEO, explains what answer engine optimizat",
-      "release_date": "2026-11-10",
-      "duration_min": 85,
-      "image": "",
-      "url": "https://open.spotify.com/show/4vS0Dq8G7Q2lRqAR8BMBWC"
-    },
-    {
       "id": "The TWIM_0",
       "name": "Canva Is Tackling AI Design’s Most Frustrating Problem with Stefano Corazza- #784",
       "show": "The TWIML AI Podcast",
@@ -171,26 +171,6 @@
       "duration_min": 57,
       "image": "",
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
-    },
-    {
-      "id": "Latent S_1",
-      "name": "What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord & Team",
-      "show": "Latent Space",
-      "description": "Our first deep dive with an AI data company. In roughly a year, Handshake built an AI training business doing nearly $1 billion in gross annualized revenue. What are frontier labs buying? Garrett L",
-      "release_date": "2026-11-09",
-      "duration_min": 163,
-      "image": "",
-      "url": "https://open.spotify.com/show/4vS0Dq8G7Q2lRqAR8BMBWC"
-    },
-    {
-      "id": "Latent S_2",
-      "name": "[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
-      "show": "Latent Space",
-      "description": "What do you assign when a coding agent can finish last year’s homework in one prompt? In the second run of Stanford’s CS146S, Mihail Eric brought open-source maintainers into the course. Students h",
-      "release_date": "2026-11-08",
-      "duration_min": 120,
-      "image": "",
-      "url": "https://open.spotify.com/show/4vS0Dq8G7Q2lRqAR8BMBWC"
     },
     {
       "id": "Hard For_2",
@@ -203,7 +183,7 @@
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
-      "id": "Practica_0",
+      "id": "Practica_1",
       "name": "Abundant Intelligence at the Midwest AI Summit Part 2",
       "show": "Practical AI",
       "description": "\n        How do organizations decide what AI should do, where to set boundaries, and when to keep humans in control? In this special episode, we bring you three more talks from the Midwest AI Summi",
@@ -223,7 +203,7 @@
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
     },
     {
-      "id": "Practica_1",
+      "id": "Practica_2",
       "name": "Abundant Intelligence at the Midwest AI Summit",
       "show": "Practical AI",
       "description": "\n        In this special episode, we bring you highlights from three talks at the Midwest AI Summit. Heidi Porter explores how to build reliable AI-augmented workflows using the right tools, evalua",
@@ -251,16 +231,6 @@
       "duration_min": 222,
       "image": "",
       "url": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"
-    },
-    {
-      "id": "Practica_2",
-      "name": "Exploit Development, Agentic Vulnerability Discovery, and Fake PoCs",
-      "show": "Practical AI",
-      "description": "\n        AI is changing cybersecurity, accelerating vulnerability research and exploit development while raising new questions about reliability, risk, and  guardrails. Daniel and Chris talk with S",
-      "release_date": "2026-10-22",
-      "duration_min": 45,
-      "image": "",
-      "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
       "id": "Lex Frid_2",

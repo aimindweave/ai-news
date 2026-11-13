@@ -1,5 +1,26 @@
 [
   {
+    "title": "Jensen Huang\u2019s departure blasts big hole in AI startup funding, VCs and founders say",
+    "source": "TechCrunch",
+    "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+    "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+    "date": "2026-11-13"
+  },
+  {
+    "title": "AI agent startup LangChain hits $3B valuation",
+    "source": "TechCrunch",
+    "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+    "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+    "date": "2026-11-13"
+  },
+  {
+    "title": "Export-banned Nvidia chips are behind China\u2019s most powerful AI models \u2014 uh-oh, Jensen!",
+    "source": "TechCrunch",
+    "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+    "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+    "date": "2026-11-13"
+  },
+  {
     "title": "ChatGPT\u2019s new Wallet lets AI agents shop and check out for you",
     "source": "TechCrunch",
     "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
@@ -84,27 +105,6 @@
     "date": "2026-11-13"
   },
   {
-    "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang\u2019s exit",
-    "source": "TechCrunch",
-    "summary": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.",
-    "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
-    "date": "2026-11-13"
-  },
-  {
-    "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
-    "source": "TechCrunch",
-    "summary": "The airline said it will not allow customers to use AI agents to book flights and manage reservations.",
-    "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
-    "date": "2026-11-13"
-  },
-  {
-    "title": "SoftBank\u2019s billion-dollar loss may have put a cap on AI\u2019s natural gas ambitions",
-    "source": "TechCrunch",
-    "summary": "SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.",
-    "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
-    "date": "2026-11-13"
-  },
-  {
     "title": "The Download: Silicon Valley\u2019s blind spot and Nvidia\u2019s chip-tracking plan",
     "source": "MIT Tech Review",
     "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Silicon Valley claims to know the future. So why did it get the midterms so wrong? \u2014Aaron Zamost, a tech communications consultant and a former executive at Sq...",
@@ -175,6 +175,13 @@
     "date": "2026-11-13"
   },
   {
+    "title": "Microsoft 365 Crawls Back to Life After a 24-Hour Outage",
+    "source": "Wired",
+    "summary": "The company says a bad update\u2014not a cyberattack or AI\u2014caused its servers around the world to crash.",
+    "url": "https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/",
+    "date": "2026-11-13"
+  },
+  {
     "title": "Jensen Huang and the End of the Founder Fairy Tale",
     "source": "Wired",
     "summary": "The former tech CEO is obsessed with the power of storytelling. But he hasn't spun his way out of his sex scandals.",
@@ -238,24 +245,17 @@
     "date": "2026-11-13"
   },
   {
-    "title": "Jensen Huang Resigns as Nvidia CEO",
-    "source": "Wired",
-    "summary": "Nvidia\u2019s cofounder and chief executive resigned on Thursday after the company opened an investigation into his affair with an alleged Chinese intelligence asset.",
-    "url": "https://www.wired.com/story/nvidia-ceo-jensen-huang-steps-down/",
-    "date": "2026-11-13"
-  },
-  {
-    "title": "AI is 'the most likely reason' you'll die, OpenAI board member warns",
-    "source": "Ars Technica",
-    "summary": "Researcher traces a path from AI reward hacking to potential human extinction.",
-    "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
-    "date": "2026-11-13"
-  },
-  {
     "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
     "source": "Ars Technica",
     "summary": "Airlines praised the AI tool, but the air traffic controllers\u2019 union wasn\u2019t involved.",
-    "url": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+    "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+    "date": "2026-11-13"
+  },
+  {
+    "title": "OpenAI board member worries an AI 'takeover' of society could be months away",
+    "source": "Ars Technica",
+    "summary": "Researcher traces a path from AI reward hacking to potential human extinction.",
+    "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
     "date": "2026-11-13"
   },
   {
