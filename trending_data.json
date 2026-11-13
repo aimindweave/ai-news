@@ -1,92 +1,92 @@
 [
   {
-    "title": "Anthropic IPO",
+    "title": "Foundation Models framework",
     "source": "Hacker News",
-    "description": "HN Score: 618 | 627 comments",
-    "url": "https://ipo.anthropic.com/us/",
-    "score": 618,
-    "date": "2026-11-12",
+    "description": "HN Score: 113 | 13 comments",
+    "url": "https://developer.apple.com/foundation-models-framework/",
+    "score": 113,
+    "date": "2026-11-13",
+    "category": "AI News"
+  },
+  {
+    "title": "AI is turning Apple's app review process into a nightmare for synth developers",
+    "source": "Hacker News",
+    "description": "HN Score: 73 | 69 comments",
+    "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+    "score": 73,
+    "date": "2026-11-13",
     "category": "AI News"
   },
   {
     "title": "I'm making LLMs work on small and old devices",
     "source": "Hacker News",
-    "description": "HN Score: 95 | 32 comments",
+    "description": "HN Score: 275 | 92 comments",
     "url": "https://github.com/hyperionaidev/smolmaxxing/",
-    "score": 95,
-    "date": "2026-11-12",
+    "score": 275,
+    "date": "2026-11-13",
+    "category": "AI News"
+  },
+  {
+    "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+    "source": "Hacker News",
+    "description": "HN Score: 19 | 5 comments",
+    "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+    "score": 19,
+    "date": "2026-11-13",
+    "category": "AI News"
+  },
+  {
+    "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+    "source": "Hacker News",
+    "description": "HN Score: 137 | 39 comments",
+    "url": "https://unemploymentlabs.com/checkpoint-forensics",
+    "score": 137,
+    "date": "2026-11-13",
+    "category": "AI News"
+  },
+  {
+    "title": "Anthropic IPO",
+    "source": "Hacker News",
+    "description": "HN Score: 804 | 799 comments",
+    "url": "https://ipo.anthropic.com/us/",
+    "score": 804,
+    "date": "2026-11-13",
+    "category": "AI News"
+  },
+  {
+    "title": "Show HN: AgentRun \u2013 open-source, Self-improving Managed Agents",
+    "source": "Hacker News",
+    "description": "HN Score: 74 | 16 comments",
+    "url": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
+    "score": 74,
+    "date": "2026-11-13",
     "category": "AI News"
   },
   {
     "title": "Libreagi \u2013 Save OSS Models",
     "source": "Hacker News",
-    "description": "HN Score: 71 | 16 comments",
+    "description": "HN Score: 127 | 25 comments",
     "url": "https://libreagi.com/",
-    "score": 71,
-    "date": "2026-11-12",
+    "score": 127,
+    "date": "2026-11-13",
     "category": "AI News"
   },
   {
-    "title": "AI Models Know What Women, Peace and Security Is. They Just Don't Bring It Up",
+    "title": "Jensen Huang Third Affair Allegations Revealed",
     "source": "Hacker News",
-    "description": "HN Score: 7 | 2 comments",
-    "url": "https://blog.cip.org/p/ai-models-know-what-women-peace-and",
-    "score": 7,
-    "date": "2026-11-12",
+    "description": "HN Score: 50 | 27 comments",
+    "url": "https://www.forbes.com/sites/alisondurkee/2026/11/12/jensen-huang-had-a-third-affair-with-another-nvidia-employee-report-says/",
+    "score": 50,
+    "date": "2026-11-13",
     "category": "AI News"
   },
   {
-    "title": "Decoding REXPaint Files in Odin",
+    "title": "Vibes Don't Maintain",
     "source": "Hacker News",
-    "description": "HN Score: 11 | 1 comments",
-    "url": "https://tylerelton.com/posts/decoding-rexpaint-files-in-odin/",
-    "score": 11,
-    "date": "2026-11-12",
-    "category": "AI News"
-  },
-  {
-    "title": "93% of paint splatters are valid Perl programs (2019)",
-    "source": "Hacker News",
-    "description": "HN Score: 549 | 73 comments",
-    "url": "https://www.mcmillen.dev/sigbovik/",
-    "score": 549,
-    "date": "2026-11-12",
-    "category": "AI News"
-  },
-  {
-    "title": "Show HN: AI Red Lines \u2013 write down what would make you act on AI",
-    "source": "Hacker News",
-    "description": "HN Score: 20 | 10 comments",
-    "url": "https://yourairedlines.com",
-    "score": 20,
-    "date": "2026-11-12",
-    "category": "AI News"
-  },
-  {
-    "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-    "source": "Hacker News",
-    "description": "HN Score: 641 | 667 comments",
-    "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-    "score": 641,
-    "date": "2026-11-12",
-    "category": "AI News"
-  },
-  {
-    "title": "Tinfoil (YC P25) is hiring an applied AI security engineer in San Francisco",
-    "source": "Hacker News",
-    "description": "HN Score: 1 | 0 comments",
-    "url": "https://news.ycombinator.com/item?id=50452404",
-    "score": 1,
-    "date": "2026-11-12",
-    "category": "AI News"
-  },
-  {
-    "title": "Show HN: Aircad \u2013 Professional drafting and 3D modeling in the browser",
-    "source": "Hacker News",
-    "description": "HN Score: 81 | 38 comments",
-    "url": "https://aircad.com",
-    "score": 81,
-    "date": "2026-11-12",
+    "description": "HN Score: 38 | 20 comments",
+    "url": "https://roll.bybacon.com/2026/10/14/vibes-dont-maintain.html",
+    "score": 38,
+    "date": "2026-11-13",
     "category": "AI News"
   }
 ]
