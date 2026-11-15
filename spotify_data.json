@@ -94,6 +94,16 @@
   "episodes": [
     {
       "id": "a]6z Pod_0",
+      "name": "What Breaks When You Scale 10x? | Zipline’s Keller Cliffton",
+      "show": "a]6z Podcast",
+      "description": "It was illegal to fly autonomously in U.S. airspace when Keller Cliffton started Zipline, so the company went somewhere that would let it prove the technology worked: Rwanda. A decade later, Ziplin",
+      "release_date": "2026-11-15",
+      "duration_min": 16,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
+      "id": "a]6z Pod_1",
       "name": "From the Telephone to Modern Computing | James Gleick",
       "show": "a]6z Podcast",
       "description": "James Gleick — acclaimed science writer and bestselling author of Chaos: Making a New Science as well as biographies on polymaths Isaac Newton and Richard Feynman — joins Sonal Chokshi and Robert H",
@@ -113,7 +123,7 @@
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "Every Day Is Zero Day | Wiz CTO Ami Luttwak",
       "show": "a]6z Podcast",
       "description": "AI isn’t just helping defenders find vulnerabilities. It’s giving attackers the speed and expertise to exploit them faster than many companies can respond. Wiz co-founder and CTO Ami Luttwak joins ",
@@ -131,16 +141,6 @@
       "duration_min": 39,
       "image": "",
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
-    },
-    {
-      "id": "a]6z Pod_2",
-      "name": "The Next Era of Games: Mods, Agents, and Infinite Worlds",
-      "show": "a]6z Podcast",
-      "description": "AI is collapsing the distance between an idea and a playable game. What happens when almost anyone can build one?In this episode, a16z General Partners Anish Acharya and Jonathan Lai discuss",
-      "release_date": "2026-11-12",
-      "duration_min": 45,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
       "id": "Lex Frid_0",
