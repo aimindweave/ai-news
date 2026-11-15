@@ -2,91 +2,91 @@
   {
     "title": "Lovable apps expose passport details and more than 200K private messages",
     "source": "Hacker News",
-    "description": "HN Score: 576 | 234 comments",
+    "description": "HN Score: 738 | 295 comments",
     "url": "https://www.crissyfield.de/research/lovable-en/",
-    "score": 576,
-    "date": "2026-11-14",
+    "score": 738,
+    "date": "2026-11-15",
+    "category": "AI News"
+  },
+  {
+    "title": "Show HN: Gawain \u2013 Require type hints on all Python variables",
+    "source": "Hacker News",
+    "description": "HN Score: 18 | 4 comments",
+    "url": "https://github.com/matheuzgomes/gawain",
+    "score": 18,
+    "date": "2026-11-15",
+    "category": "AI News"
+  },
+  {
+    "title": "500 Lines or Less A 3D Modeller",
+    "source": "Hacker News",
+    "description": "HN Score: 35 | 4 comments",
+    "url": "https://aosabook.org/en/500L/a-3d-modeller.html",
+    "score": 35,
+    "date": "2026-11-15",
+    "category": "AI News"
+  },
+  {
+    "title": "Astro Spiral: Greatest Car Stunt Was Also First Computer-Modeled Stunt",
+    "source": "Hacker News",
+    "description": "HN Score: 20 | 0 comments",
+    "url": "https://boldentrance.com/astro-spiral-the-greatest-car-stunt/",
+    "score": 20,
+    "date": "2026-11-15",
     "category": "AI News"
   },
   {
     "title": "Seagate's new hybrid drive raises some old questions",
     "source": "Hacker News",
-    "description": "HN Score: 60 | 33 comments",
+    "description": "HN Score: 90 | 41 comments",
     "url": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
-    "score": 60,
-    "date": "2026-11-14",
+    "score": 90,
+    "date": "2026-11-15",
     "category": "AI News"
   },
   {
     "title": "Generative AI uses more energy on non-English text",
     "source": "Hacker News",
-    "description": "HN Score: 167 | 93 comments",
+    "description": "HN Score: 195 | 103 comments",
     "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
-    "score": 167,
-    "date": "2026-11-14",
+    "score": 195,
+    "date": "2026-11-15",
     "category": "AI News"
   },
   {
-    "title": "Tech Companies Are Trying to Shift the Concept of Privacy (Again)",
+    "title": "Show HN: A custom font based on the Jamaican flag alphabet",
     "source": "Hacker News",
-    "description": "HN Score: 427 | 164 comments",
+    "description": "HN Score: 21 | 5 comments",
+    "url": "https://bobbiec.github.io/jamaican-font.html",
+    "score": 21,
+    "date": "2026-11-15",
+    "category": "AI News"
+  },
+  {
+    "title": "The Single Router in Southern Arkansas That Ground Air Travel to a Halt",
+    "source": "Hacker News",
+    "description": "HN Score: 42 | 22 comments",
+    "url": "https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c",
+    "score": 42,
+    "date": "2026-11-15",
+    "category": "AI News"
+  },
+  {
+    "title": "Tech companies are trying to shift the concept of privacy again",
+    "source": "Hacker News",
+    "description": "HN Score: 517 | 182 comments",
     "url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
-    "score": 427,
-    "date": "2026-11-14",
+    "score": 517,
+    "date": "2026-11-15",
     "category": "AI News"
   },
   {
-    "title": "Show HN: Agweb \u2013 a browser for agents that stays out of your way",
+    "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
     "source": "Hacker News",
-    "description": "HN Score: 85 | 22 comments",
-    "url": "https://github.com/paul-nameless/agweb",
-    "score": 85,
-    "date": "2026-11-14",
-    "category": "AI News"
-  },
-  {
-    "title": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-    "source": "Hacker News",
-    "description": "HN Score: 125 | 64 comments",
-    "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
-    "score": 125,
-    "date": "2026-11-14",
-    "category": "AI News"
-  },
-  {
-    "title": "Show HN: I have trained 15 blood glucose forecasting models on my own data",
-    "source": "Hacker News",
-    "description": "HN Score: 100 | 51 comments",
-    "url": "https://github.com/0xdeadf1sh/T1DMAI",
-    "score": 100,
-    "date": "2026-11-14",
-    "category": "AI News"
-  },
-  {
-    "title": "Silicon Valley claims to know the future. So why'd it get the midterms so wrong?",
-    "source": "Hacker News",
-    "description": "HN Score: 35 | 29 comments",
-    "url": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
-    "score": 35,
-    "date": "2026-11-14",
-    "category": "AI News"
-  },
-  {
-    "title": "Smuggling of 1.5M AI GPUs could be the cause of Huang's departure",
-    "source": "Hacker News",
-    "description": "HN Score: 43 | 26 comments",
-    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/mass-smuggling-of-nvidia-ai-gpus-could-be-the-underlying-cause-of-jensen-huangs-departure-analysts-claim-more-than-1-5-gigawatts-of-banned-chips-tracked-to-china-despite-export-controls",
-    "score": 43,
-    "date": "2026-11-14",
-    "category": "AI News"
-  },
-  {
-    "title": "Reverse engineering my Coway air purifier to ditch the cloud",
-    "source": "Hacker News",
-    "description": "HN Score: 783 | 221 comments",
-    "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
-    "score": 783,
-    "date": "2026-11-14",
+    "description": "HN Score: 395 | 166 comments",
+    "url": "https://unemploymentlabs.com/checkpoint-forensics",
+    "score": 395,
+    "date": "2026-11-15",
     "category": "AI News"
   }
 ]
