@@ -1,91 +1,82 @@
 [
   {
+    "title": "Soldier files whistleblower complaint over Iran strike that killed 6 U.S. troops",
+    "source": "Hacker News",
+    "description": "HN Score: 72 | 6 comments",
+    "url": "https://www.cnn.com/2026/11/15/politics/army-soldier-whistleblower-complaint",
+    "score": 72,
+    "date": "2026-11-16",
+    "category": "AI News"
+  },
+  {
+    "title": "Show HN: Coral \u2013 Open-source gateway where agents write their own tools",
+    "source": "Hacker News",
+    "description": "HN Score: 35 | 9 comments",
+    "url": "https://github.com/withcoral/coral",
+    "score": 35,
+    "date": "2026-11-16",
+    "category": "AI News"
+  },
+  {
     "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
     "source": "Hacker News",
-    "description": "HN Score: 97 | 24 comments",
+    "description": "HN Score: 202 | 55 comments",
     "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
-    "score": 97,
+    "score": 202,
     "date": "2026-11-16",
     "category": "AI News"
   },
   {
     "title": "A short explainer on how El Ni\u00f1o works [video]",
     "source": "Hacker News",
-    "description": "HN Score: 209 | 90 comments",
+    "description": "HN Score: 269 | 154 comments",
     "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
-    "score": 209,
+    "score": 269,
     "date": "2026-11-16",
     "category": "AI News"
   },
   {
-    "title": "Tell HN: HN is being scraped for emails to scam",
+    "title": "Microsoft blames monster email outage on software defect introduced in July fix",
     "source": "Hacker News",
-    "description": "HN Score: 50 | 10 comments",
-    "url": "https://news.ycombinator.com/item?id=50513451",
-    "score": 50,
-    "date": "2026-11-16",
-    "category": "AI News"
-  },
-  {
-    "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
-    "source": "Hacker News",
-    "description": "HN Score: 388 | 193 comments",
-    "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
-    "score": 388,
+    "description": "HN Score: 26 | 24 comments",
+    "url": "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026",
+    "score": 26,
     "date": "2026-11-16",
     "category": "AI News"
   },
   {
     "title": "WebGL Flight Simulator with seed generated terrain",
     "source": "Hacker News",
-    "description": "HN Score: 112 | 18 comments",
+    "description": "HN Score: 205 | 49 comments",
     "url": "https://baron.by.dai.studio/",
-    "score": 112,
+    "score": 205,
     "date": "2026-11-16",
     "category": "AI News"
   },
   {
     "title": "Parcel: A desktop mail client for Linux, built with Zig",
     "source": "Hacker News",
-    "description": "HN Score: 12 | 1 comments",
+    "description": "HN Score: 55 | 12 comments",
     "url": "https://tangled.org/rockorager.dev/parcel",
-    "score": 12,
+    "score": 55,
     "date": "2026-11-16",
     "category": "AI News"
   },
   {
-    "title": "Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost",
+    "title": "Google: AI agent turned a security patch into a exploit with no human help",
     "source": "Hacker News",
-    "description": "HN Score: 145 | 93 comments",
-    "url": "https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch",
-    "score": 145,
+    "description": "HN Score: 6 | 2 comments",
+    "url": "https://www.theregister.com/research/2026/11/16/google-ai-agent-turned-a-security-patch-into-a-working-exploit-with-no-human-help/5309926",
+    "score": 6,
     "date": "2026-11-16",
     "category": "AI News"
   },
   {
-    "title": "All AI-generated code should be Open Source",
+    "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
     "source": "Hacker News",
-    "description": "HN Score: 1125 | 606 comments",
-    "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
-    "score": 1125,
-    "date": "2026-11-16",
-    "category": "AI News"
-  },
-  {
-    "title": "What thousands of conversations look like inside a language model",
-    "source": "Hacker News",
-    "description": "HN Score: 118 | 29 comments",
-    "url": "https://operator0x.com/field-notes/qwen-conversation-state-space/",
-    "score": 118,
-    "date": "2026-11-16",
-    "category": "AI News"
-  },
-  {
-    "title": "Boeing-Lockheed rocket fails mid-flight, destroys payload of Amazon satellites",
-    "source": "Hacker News",
-    "description": "HN Score: 83 | 52 comments",
-    "url": "https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/",
-    "score": 83,
+    "description": "HN Score: 437 | 219 comments",
+    "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
+    "score": 437,
     "date": "2026-11-16",
     "category": "AI News"
   }

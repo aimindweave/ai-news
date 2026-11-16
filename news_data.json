@@ -1,5 +1,26 @@
 [
   {
+    "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
+    "source": "TechCrunch",
+    "summary": "Under the interim rule, US will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries.",
+    "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+    "date": "2026-11-16"
+  },
+  {
+    "title": "Google Maps can now build trip itineraries with real-time details about each stop",
+    "source": "TechCrunch",
+    "summary": "You could use Ask Maps to plan a holiday shopping day trip or something more complex, like a three-day road trip featuring coastal hikes and oceanfront dining.",
+    "url": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/",
+    "date": "2026-11-16"
+  },
+  {
+    "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
+    "source": "TechCrunch",
+    "summary": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs.",
+    "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
+    "date": "2026-11-16"
+  },
+  {
     "title": "Apple launches new app to study how people use AI for health",
     "source": "TechCrunch",
     "summary": "Apple's new app for a study will answer everyday medical questions",
@@ -84,24 +105,17 @@
     "date": "2026-11-16"
   },
   {
-    "title": "The unfolding Jensen Huang scandal: a timeline",
-    "source": "TechCrunch",
-    "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-    "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "title": "The Download: testing tech promises and searching for cognitive immortality",
+    "source": "MIT Tech Review",
+    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Are we there yet? Six technologies that promised to change the world How do you measure progress towards the future? In the Impossible issue of MIT Technology ...",
+    "url": "https://www.technologyreview.com/2026/11/16/1148599/the-download-testing-tech-promises-cognitive-immortality-quest/",
     "date": "2026-11-16"
   },
   {
-    "title": "ElevenLabs\u2019 new app combines meeting note-taking and dictation for teams",
-    "source": "TechCrunch",
-    "summary": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.",
-    "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
-    "date": "2026-11-16"
-  },
-  {
-    "title": "Israel\u2019s VCs see opportunity for challengers in Nvidia\u2019s turmoil",
-    "source": "TechCrunch",
-    "summary": "Given Nvidia\u2019s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
-    "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+    "title": "Building AI that can work across the enterprise",
+    "source": "MIT Tech Review",
+    "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows are confronting a...",
+    "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
     "date": "2026-11-16"
   },
   {
@@ -161,17 +175,10 @@
     "date": "2026-11-16"
   },
   {
-    "title": "Evolving metal extraction processes",
-    "source": "MIT Tech Review",
-    "summary": "The metals industry has experienced transformational moments before: the Bessemer process, flash smelting, electric arc furnaces, and modern continuous casting all changed what was possible. Yet, for more than a century, most extraction processes rely on techniques and pathways that would be fami...",
-    "url": "https://www.technologyreview.com/2026/11/10/1147726/evolving-metal-extraction-processes/",
-    "date": "2026-11-16"
-  },
-  {
-    "title": "The backlash about data centers might really just be about electricity",
-    "source": "MIT Tech Review",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what\u2019s known as Data Center Alley\u2014the world\u2019s largest data center hub....",
-    "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+    "title": "Nvidia Was Already in Trouble Before the Jensen Huang Mess",
+    "source": "Wired",
+    "summary": "AI competitors are catching up to Nvidia\u2014and poised to take advantage of the chaos.",
+    "url": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
     "date": "2026-11-16"
   },
   {
@@ -238,10 +245,10 @@
     "date": "2026-11-16"
   },
   {
-    "title": "Jensen Huang Didn\u2019t Name His Own Replacement as One of Tech\u2019s Most Powerful Women",
-    "source": "Wired",
-    "summary": "A recent WIRED investigation explored the complicated definition of \u201cpower\u201d for women in the industry. Jensen Huang\u2019s answers now appear to show his blind spots.",
-    "url": "https://www.wired.com/story/jensen-huang-colette-kress-replacement-powerful-women-in-tech/",
+    "title": "Jensen Huang allies build a 'war room' to get him back at Nvidia",
+    "source": "Ars Technica",
+    "summary": "Huang is weighing a return just days after resigning amid a deepening scandal.",
+    "url": "https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/",
     "date": "2026-11-16"
   },
   {
@@ -340,13 +347,6 @@
     "source": "Ars Technica",
     "summary": "Ukraine competes with Russia and data centers for China\u2019s optical fiber supply.",
     "url": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/",
-    "date": "2026-11-16"
-  },
-  {
-    "title": "Claude Code is accidentally exposing secrets all over GitHub",
-    "source": "Ars Technica",
-    "summary": "'Do not ask again' prompt leads to passwords, API keys, and more being shared.",
-    "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
     "date": "2026-11-16"
   }
 ]
