@@ -94,6 +94,16 @@
   "episodes": [
     {
       "id": "a]6z Pod_0",
+      "name": "Can AI Learn to Improve Itself? | Recursive Self-Improvement",
+      "show": "a]6z Podcast",
+      "description": "For decades, the idea of AI improving itself was just a thought experiment. Today, AI is already helping researchers at frontier labs run experiments, write code and test ideas faster. Mark Chen sa",
+      "release_date": "2026-11-17",
+      "duration_min": 17,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
+      "id": "a]6z Pod_1",
       "name": "Alex Imas & Tyler Cowen | AI Is Moving Fast. Why Isn’t the Economy?",
       "show": "a]6z Podcast",
       "description": "AI capabilities are improving fast. But will the economy move just as quickly? a16z General Partner Erik Torenberg sits down with Google DeepMind economist Alex Imas and economist Tyler Cowen to ex",
@@ -103,22 +113,12 @@
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "What Breaks When You Scale 10x? | Zipline’s Keller Cliffton",
       "show": "a]6z Podcast",
       "description": "It was illegal to fly autonomously in U.S. airspace when Keller Cliffton started Zipline, so the company went somewhere that would let it prove the technology worked: Rwanda. A decade later, Ziplin",
       "release_date": "2026-11-15",
       "duration_min": 16,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
-    },
-    {
-      "id": "a]6z Pod_2",
-      "name": "From the Telephone to Modern Computing | James Gleick",
-      "show": "a]6z Podcast",
-      "description": "James Gleick — acclaimed science writer and bestselling author of Chaos: Making a New Science as well as biographies on polymaths Isaac Newton and Richard Feynman — joins Sonal Chokshi and Robert H",
-      "release_date": "2026-11-14",
-      "duration_min": 62,
       "image": "",
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },

@@ -1,82 +1,91 @@
 [
   {
-    "title": "Windows 11 is collecting data on which coding agents and developer tools you use",
+    "title": "GPT\u20116.2 Astra and Sol",
     "source": "Hacker News",
-    "description": "HN Score: 612 | 459 comments",
-    "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
-    "score": 612,
+    "description": "HN Score: 746 | 457 comments",
+    "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+    "score": 746,
     "date": "2026-11-17",
     "category": "AI News"
   },
   {
-    "title": "Microsoft blames monster email outage on software defect introduced in July fix",
+    "title": "MAI Code 2 and Code 2 Flash",
     "source": "Hacker News",
-    "description": "HN Score: 327 | 239 comments",
-    "url": "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026",
-    "score": 327,
+    "description": "HN Score: 157 | 73 comments",
+    "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+    "score": 157,
     "date": "2026-11-17",
     "category": "AI News"
   },
   {
-    "title": "Spamhaus new email sender requirements in November",
+    "title": "What is the best harness for each model?",
     "source": "Hacker News",
-    "description": "HN Score: 111 | 107 comments",
-    "url": "https://www.spamhaus.org/sender-guidelines/",
-    "score": 111,
+    "description": "HN Score: 277 | 98 comments",
+    "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
+    "score": 277,
     "date": "2026-11-17",
     "category": "AI News"
   },
   {
-    "title": "Running coding agents without handing them my credentials",
+    "title": "Launch HN: StarSling (YC P25) \u2013 Self-improving CI for agent-volume repos",
     "source": "Hacker News",
-    "description": "HN Score: 115 | 81 comments",
-    "url": "https://blog.antonio.cx/running-agents-with-lend",
-    "score": 115,
-    "date": "2026-11-17",
-    "category": "AI News"
-  },
-  {
-    "title": "Show HN: Pulsar \u2013 cross-harness agent to agent communication and messaging",
-    "source": "Hacker News",
-    "description": "HN Score: 17 | 0 comments",
-    "url": "https://github.com/yocontra/pulsar",
-    "score": 17,
-    "date": "2026-11-17",
-    "category": "AI News"
-  },
-  {
-    "title": "Tokendoctor \u2013 See what your Claude Code use overpays",
-    "source": "Hacker News",
-    "description": "HN Score: 26 | 13 comments",
-    "url": "https://github.com/localixai/tokendoctor",
+    "description": "HN Score: 26 | 12 comments",
+    "url": "https://starsling.dev",
     "score": 26,
     "date": "2026-11-17",
     "category": "AI News"
   },
   {
-    "title": "Interpreting claims that a theorem is correct because it was checked in Lean",
+    "title": "Fixing a WebKit bug to see if promises are made of train tracks",
     "source": "Hacker News",
-    "description": "HN Score: 303 | 134 comments",
-    "url": "https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/",
-    "score": 303,
+    "description": "HN Score: 7 | 0 comments",
+    "url": "https://alistair.sh/thenables",
+    "score": 7,
     "date": "2026-11-17",
     "category": "AI News"
   },
   {
-    "title": "United Airlines experiencing a widespread system outage, airline says",
+    "title": "How the Claude Code team thinks about verification",
     "source": "Hacker News",
-    "description": "HN Score: 237 | 121 comments",
-    "url": "https://www.cnn.com/2026/11/16/us/united-airlines-outage",
-    "score": 237,
+    "description": "HN Score: 214 | 167 comments",
+    "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+    "score": 214,
     "date": "2026-11-17",
     "category": "AI News"
   },
   {
-    "title": "Pentagon fails ninth straight audit despite progress in organizing finances",
+    "title": "Advancing computer-use agents for healthcare teams",
     "source": "Hacker News",
-    "description": "HN Score: 114 | 38 comments",
-    "url": "https://www.reuters.com/business/aerospace-defense/pentagon-fails-ninth-straight-audit-despite-progress-organizing-finances-2026-11-16/",
-    "score": 114,
+    "description": "HN Score: 16 | 12 comments",
+    "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams/",
+    "score": 16,
+    "date": "2026-11-17",
+    "category": "AI News"
+  },
+  {
+    "title": "Elephant-Goldfish Model",
+    "source": "Hacker News",
+    "description": "HN Score: 46 | 19 comments",
+    "url": "https://egm.dev/",
+    "score": 46,
+    "date": "2026-11-17",
+    "category": "AI News"
+  },
+  {
+    "title": "Show HN: TrnRT \u2013 An open-source LLM inference engine for AWS Trainium",
+    "source": "Hacker News",
+    "description": "HN Score: 29 | 5 comments",
+    "url": "https://github.com/RunanywhereAI/trnrt",
+    "score": 29,
+    "date": "2026-11-17",
+    "category": "AI News"
+  },
+  {
+    "title": "Not Everything Needs an LLM",
+    "source": "Hacker News",
+    "description": "HN Score: 11 | 1 comments",
+    "url": "https://newsletter.posthog.com/p/decision-models",
+    "score": 11,
     "date": "2026-11-17",
     "category": "AI News"
   }
