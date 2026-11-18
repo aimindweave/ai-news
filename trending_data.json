@@ -1,92 +1,92 @@
 [
   {
+    "title": "Google's AI answers reducing search traffic by 40%",
+    "source": "Hacker News",
+    "description": "HN Score: 143 | 93 comments",
+    "url": "https://revscope.co/blog/search-seo-geo-2026/",
+    "score": 143,
+    "date": "2026-11-18",
+    "category": "AI News"
+  },
+  {
     "title": "GPT\u20116.2 Astra and Sol",
     "source": "Hacker News",
-    "description": "HN Score: 746 | 457 comments",
+    "description": "HN Score: 1133 | 713 comments",
     "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
-    "score": 746,
-    "date": "2026-11-17",
+    "score": 1133,
+    "date": "2026-11-18",
     "category": "AI News"
   },
   {
     "title": "MAI Code 2 and Code 2 Flash",
     "source": "Hacker News",
-    "description": "HN Score: 157 | 73 comments",
+    "description": "HN Score: 305 | 139 comments",
     "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
-    "score": 157,
-    "date": "2026-11-17",
+    "score": 305,
+    "date": "2026-11-18",
+    "category": "AI News"
+  },
+  {
+    "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+    "source": "Hacker News",
+    "description": "HN Score: 76 | 119 comments",
+    "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+    "score": 76,
+    "date": "2026-11-18",
+    "category": "AI News"
+  },
+  {
+    "title": "Fun with Constrained Programming",
+    "source": "Hacker News",
+    "description": "HN Score: 24 | 0 comments",
+    "url": "https://blog.cmpxchg8b.com/2012/09/fun-with-constrained-programming.html",
+    "score": 24,
+    "date": "2026-11-18",
     "category": "AI News"
   },
   {
     "title": "What is the best harness for each model?",
     "source": "Hacker News",
-    "description": "HN Score: 277 | 98 comments",
+    "description": "HN Score: 343 | 118 comments",
     "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
-    "score": 277,
-    "date": "2026-11-17",
+    "score": 343,
+    "date": "2026-11-18",
     "category": "AI News"
   },
   {
     "title": "Launch HN: StarSling (YC P25) \u2013 Self-improving CI for agent-volume repos",
     "source": "Hacker News",
-    "description": "HN Score: 26 | 12 comments",
+    "description": "HN Score: 59 | 34 comments",
     "url": "https://starsling.dev",
-    "score": 26,
-    "date": "2026-11-17",
+    "score": 59,
+    "date": "2026-11-18",
     "category": "AI News"
   },
   {
-    "title": "Fixing a WebKit bug to see if promises are made of train tracks",
+    "title": "Latent Lattice Language Models",
     "source": "Hacker News",
-    "description": "HN Score: 7 | 0 comments",
-    "url": "https://alistair.sh/thenables",
-    "score": 7,
-    "date": "2026-11-17",
-    "category": "AI News"
-  },
-  {
-    "title": "How the Claude Code team thinks about verification",
-    "source": "Hacker News",
-    "description": "HN Score: 214 | 167 comments",
-    "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
-    "score": 214,
-    "date": "2026-11-17",
-    "category": "AI News"
-  },
-  {
-    "title": "Advancing computer-use agents for healthcare teams",
-    "source": "Hacker News",
-    "description": "HN Score: 16 | 12 comments",
-    "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams/",
-    "score": 16,
-    "date": "2026-11-17",
-    "category": "AI News"
-  },
-  {
-    "title": "Elephant-Goldfish Model",
-    "source": "Hacker News",
-    "description": "HN Score: 46 | 19 comments",
-    "url": "https://egm.dev/",
-    "score": 46,
-    "date": "2026-11-17",
-    "category": "AI News"
-  },
-  {
-    "title": "Show HN: TrnRT \u2013 An open-source LLM inference engine for AWS Trainium",
-    "source": "Hacker News",
-    "description": "HN Score: 29 | 5 comments",
-    "url": "https://github.com/RunanywhereAI/trnrt",
-    "score": 29,
-    "date": "2026-11-17",
+    "description": "HN Score: 31 | 4 comments",
+    "url": "https://shivamduggal4.github.io/latent-lattice-language-models/",
+    "score": 31,
+    "date": "2026-11-18",
     "category": "AI News"
   },
   {
     "title": "Not Everything Needs an LLM",
     "source": "Hacker News",
-    "description": "HN Score: 11 | 1 comments",
+    "description": "HN Score: 110 | 45 comments",
     "url": "https://newsletter.posthog.com/p/decision-models",
-    "score": 11,
-    "date": "2026-11-17",
+    "score": 110,
+    "date": "2026-11-18",
+    "category": "AI News"
+  },
+  {
+    "title": "How the Claude Code team thinks about verification",
+    "source": "Hacker News",
+    "description": "HN Score: 274 | 215 comments",
+    "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+    "score": 274,
+    "date": "2026-11-18",
     "category": "AI News"
   }
 ]

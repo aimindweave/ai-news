@@ -93,6 +93,16 @@
   ],
   "episodes": [
     {
+      "id": "The TWIM_0",
+      "name": "Buying Tokens vs Building an AI Factory with Sadeepa Wijesekara - #785",
+      "show": "The TWIML AI Podcast",
+      "description": "An AI agent can make many model calls to finish a single job. Some need frontier reasoning. Others can run on an open-weight model, and some involve data that has to stay in-house. How do you decide w",
+      "release_date": "2026-11-17",
+      "duration_min": 58,
+      "image": "",
+      "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
+    },
+    {
       "id": "a]6z Pod_0",
       "name": "Can AI Learn to Improve Itself? | Recursive Self-Improvement",
       "show": "a]6z Podcast",
@@ -163,7 +173,7 @@
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
-      "id": "The TWIM_0",
+      "id": "The TWIM_1",
       "name": "Canva Is Tackling AI Design’s Most Frustrating Problem with Stefano Corazza- #784",
       "show": "The TWIML AI Podcast",
       "description": "In this episode, Stefano Corazza, head of AI research at Canva, joins us to explore how his team is building custom models and agents around iterative design workflows. We discuss the tradeoffs betwee",
@@ -193,7 +203,7 @@
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
-      "id": "The TWIM_1",
+      "id": "The TWIM_2",
       "name": "Can AI Invent or Just Help Scientists Work Faster? with Richard Socher - #783",
       "show": "The TWIML AI Podcast",
       "description": "AI can help scientists write code, analyze data, and draft papers. But can it generate the ideas that lead to new discoveries? Richard Socher, former chief scientist at Salesforce, founder of You.com,",
@@ -211,16 +221,6 @@
       "duration_min": 54,
       "image": "",
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
-    },
-    {
-      "id": "The TWIM_2",
-      "name": "The Brutal Reality of Building Agentic Products Today with Daniel Jeffries - #782",
-      "show": "The TWIML AI Podcast",
-      "description": "AI agents are becoming accessible to everyone, raising the bar for developers building the next generation of agent products. When capable, general-purpose agents are available out of the box, differe",
-      "release_date": "2026-10-28",
-      "duration_min": 54,
-      "image": "",
-      "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
     },
     {
       "id": "Lex Frid_1",
