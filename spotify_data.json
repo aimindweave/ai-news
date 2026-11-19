@@ -93,6 +93,26 @@
   ],
   "episodes": [
     {
+      "id": "Lex Frid_0",
+      "name": "#505 – GTA 6, Crime, Jewel Heists, Prison, Corrupt Cops, Mafia, Miami & Money",
+      "show": "Lex Fridman Podcast",
+      "description": "Larry Lawton is one of the most notorious and prolific jewelry thieves in US history, who was eventually caught by the FBI, spent more than a decade in prison, including a lot of time in the hole, ",
+      "release_date": "2026-11-19",
+      "duration_min": 206,
+      "image": "",
+      "url": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"
+    },
+    {
+      "id": "Practica_0",
+      "name": "Building Human-Centered AI",
+      "show": "Practical AI",
+      "description": "\n        How can enterprises adopt AI and agentic systems while keeping people, business value, and trust at the center?Chris is joined by Dr. Gautham Pallapa, Principal Director of AI and I",
+      "release_date": "2026-11-19",
+      "duration_min": 44,
+      "image": "",
+      "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
+    },
+    {
       "id": "The AI P_0",
       "name": "Can Open Source Make AI Agents Safer?",
       "show": "The AI Podcast (NVIDIA)",
@@ -143,7 +163,7 @@
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
-      "id": "Practica_0",
+      "id": "Practica_1",
       "name": "Implementing Federated Learning to enhance Agentic AI",
       "show": "Practical AI",
       "description": "\n        How can AI models learn from private data without compromising privacy? Chris is joined by Lorenzo Sani, Research Scientist at Flower Labs and PhD researcher at Cambridge, to explore feder",
@@ -163,7 +183,7 @@
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
-      "id": "Lex Frid_0",
+      "id": "Lex Frid_1",
       "name": "#504 – Russia-Ukraine War: Putin, Zelenskyy, Drones and the Future of Warfare",
       "show": "Lex Fridman Podcast",
       "description": "Preston Stewart is a West Point graduate and Afghanistan veteran who covers the Ukraine war extensively on his YouTube channel, his podcast called War and Conflict, and his newsletter called Defens",
@@ -203,7 +223,7 @@
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
-      "id": "Practica_1",
+      "id": "Practica_2",
       "name": "Abundant Intelligence at the Midwest AI Summit Part 2",
       "show": "Practical AI",
       "description": "\n        How do organizations decide what AI should do, where to set boundaries, and when to keep humans in control? In this special episode, we bring you three more talks from the Midwest AI Summi",
@@ -223,32 +243,12 @@
       "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
     },
     {
-      "id": "Practica_2",
-      "name": "Abundant Intelligence at the Midwest AI Summit",
-      "show": "Practical AI",
-      "description": "\n        In this special episode, we bring you highlights from three talks at the Midwest AI Summit. Heidi Porter explores how to build reliable AI-augmented workflows using the right tools, evalua",
-      "release_date": "2026-10-29",
-      "duration_min": 54,
-      "image": "",
-      "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
-    },
-    {
-      "id": "Lex Frid_1",
+      "id": "Lex Frid_2",
       "name": "#503 – AI Crisis in Math: Navier-Stokes, Riemann Hypothesis & Complexity Theory",
       "show": "Lex Fridman Podcast",
       "description": "Ankur Moitra, Steven Brunton and Alex Kontorovich are three mathematicians who can speak to this incredible moment in the history of mathematics, when AI solved some of its hardest problems: Navier",
       "release_date": "2026-10-26",
       "duration_min": 222,
-      "image": "",
-      "url": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"
-    },
-    {
-      "id": "Lex Frid_2",
-      "name": "#502 – Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud & Jung",
-      "show": "Lex Fridman Podcast",
-      "description": "Andrew Scull is a historian of psychiatry.<br />\nThank you for listening ❤ Check out our sponsors: <a href=\"https://lexfridman.com/sponsors/ep502-sc\">https://lexfridman.com/sponsors/ep502-sc</a><br",
-      "release_date": "2026-09-17",
-      "duration_min": 223,
       "image": "",
       "url": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"
     },
