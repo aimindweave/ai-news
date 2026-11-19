@@ -1,65 +1,92 @@
 [
   {
-    "title": "Seven new models at scalable price-performance",
+    "title": "Anthropic prices initial public offering",
     "source": "Hacker News",
-    "description": "HN Score: 362 | 242 comments",
-    "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
-    "score": 362,
-    "date": "2026-11-18",
+    "description": "HN Score: 103 | 50 comments",
+    "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+    "score": 103,
+    "date": "2026-11-19",
     "category": "AI News"
   },
   {
-    "title": "DaisyRose-27B: 1,200-task RL took Qwen3.8 from 5.6% to 12% on Terminal-Bench 4.1",
+    "title": "Seven new models at scalable price-performance",
     "source": "Hacker News",
-    "description": "HN Score: 64 | 10 comments",
-    "url": "https://www.radixark.com/blog/daisyrose-27b",
-    "score": 64,
-    "date": "2026-11-18",
+    "description": "HN Score: 467 | 323 comments",
+    "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
+    "score": 467,
+    "date": "2026-11-19",
     "category": "AI News"
   },
   {
     "title": "AI agents ask better questions than KPMG accountants in audit trial",
     "source": "Hacker News",
-    "description": "HN Score: 234 | 116 comments",
+    "description": "HN Score: 376 | 165 comments",
     "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
-    "score": 234,
-    "date": "2026-11-18",
+    "score": 376,
+    "date": "2026-11-19",
     "category": "AI News"
   },
   {
-    "title": "Advancing chip design with OpenAI models",
+    "title": "LLM assisted reverse engineering",
     "source": "Hacker News",
-    "description": "HN Score: 104 | 51 comments",
-    "url": "https://openai.com/index/advancing-chip-design-with-our-models/",
-    "score": 104,
-    "date": "2026-11-18",
+    "description": "HN Score: 83 | 20 comments",
+    "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
+    "score": 83,
+    "date": "2026-11-19",
+    "category": "AI News"
+  },
+  {
+    "title": "DaisyRose-27B",
+    "source": "Hacker News",
+    "description": "HN Score: 150 | 43 comments",
+    "url": "https://www.radixark.com/blog/daisyrose-27b",
+    "score": 150,
+    "date": "2026-11-19",
+    "category": "AI News"
+  },
+  {
+    "title": "Previous-Token Prediction Based LLM Inversion for Prompt Reconstruction",
+    "source": "Hacker News",
+    "description": "HN Score: 11 | 4 comments",
+    "url": "https://arxiv.org/abs/2607.29378",
+    "score": 11,
+    "date": "2026-11-19",
+    "category": "AI News"
+  },
+  {
+    "title": "FailTrace \u2013 Reproduce a failed GitHub Actions run locally from its URL",
+    "source": "Hacker News",
+    "description": "HN Score: 9 | 0 comments",
+    "url": "https://github.com/Ri4dH/failtrace",
+    "score": 9,
+    "date": "2026-11-19",
     "category": "AI News"
   },
   {
     "title": "Genie 4 is now available",
     "source": "Hacker News",
-    "description": "HN Score: 139 | 116 comments",
+    "description": "HN Score: 201 | 143 comments",
     "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
-    "score": 139,
-    "date": "2026-11-18",
+    "score": 201,
+    "date": "2026-11-19",
+    "category": "AI News"
+  },
+  {
+    "title": "Advancing chip design with OpenAI models",
+    "source": "Hacker News",
+    "description": "HN Score: 167 | 107 comments",
+    "url": "https://openai.com/index/advancing-chip-design-with-our-models/",
+    "score": 167,
+    "date": "2026-11-19",
     "category": "AI News"
   },
   {
     "title": "Launch HN: Maritime (YC F26) \u2013 A managed cloud for production AI agents",
     "source": "Hacker News",
-    "description": "HN Score: 31 | 25 comments",
+    "description": "HN Score: 45 | 39 comments",
     "url": "https://news.ycombinator.com/item?id=50549188",
-    "score": 31,
-    "date": "2026-11-18",
-    "category": "AI News"
-  },
-  {
-    "title": "Octopus, Gecko and Tortoise: the 3 scanners hunting your AI keys",
-    "source": "Hacker News",
-    "description": "HN Score: 17 | 2 comments",
-    "url": "https://tin.computer/blog/fake-ai-crawler-secrets-scanners",
-    "score": 17,
-    "date": "2026-11-18",
+    "score": 45,
+    "date": "2026-11-19",
     "category": "AI News"
   }
 ]
