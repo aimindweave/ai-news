@@ -94,6 +94,16 @@
   "episodes": [
     {
       "id": "a]6z Pod_0",
+      "name": "Replay: How the Internet Happened | Chris Dixon & Brian McCullough (2018)",
+      "show": "a]6z Podcast",
+      "description": "Why do technologies that look like bad ideas in one era become enormous companies in the next? Originally recorded in 2018, Brian McCullough and Chris Dixon trace the companies, failures, and accid",
+      "release_date": "2026-11-22",
+      "duration_min": 47,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
+      "id": "a]6z Pod_1",
       "name": "The Professional Network Built for You and Your AI Agent",
       "show": "a]6z Podcast",
       "description": "What if your AI agent could find the people you should know before you even start looking? Cosign is building a professional network around reputation and trusted recommendations, and now agents ca",
@@ -113,7 +123,7 @@
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "Why the Agent Era Needs a New Operating System | DHH",
       "show": "a]6z Podcast",
       "description": "David Heinemeier Hansson thinks the agent era is reopening a window in computing that has been closed for decades: the chance to build a new operating system people actually want to use.DHH ",
@@ -141,16 +151,6 @@
       "duration_min": 44,
       "image": "",
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
-    },
-    {
-      "id": "a]6z Pod_2",
-      "name": "How Fast Should We Build Superintelligence? | Nick Bostrom",
-      "show": "a]6z Podcast",
-      "description": "The question isn’t simply whether humanity should race toward superintelligence or stop. Nick Bostrom argues the harder challenge is preserving the ability to slow down when safety falls behind, wi",
-      "release_date": "2026-11-19",
-      "duration_min": 39,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
       "id": "The AI P_0",
