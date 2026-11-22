@@ -1,91 +1,91 @@
 [
   {
-    "title": "Show HN: I built a game where you are an LLM's subagent",
+    "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
     "source": "Hacker News",
-    "description": "HN Score: 137 | 34 comments",
-    "url": "https://github.com/gulivan/worker755",
-    "score": 137,
+    "description": "HN Score: 107 | 32 comments",
+    "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+    "score": 107,
     "date": "2026-11-22",
     "category": "AI News"
   },
   {
-    "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+    "title": "Agent swarm trying to solve P vs. NP",
     "source": "Hacker News",
-    "description": "HN Score: 1257 | 272 comments",
-    "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
-    "score": 1257,
+    "description": "HN Score: 45 | 40 comments",
+    "url": "https://pequalnp.com/",
+    "score": 45,
+    "date": "2026-11-22",
+    "category": "AI News"
+  },
+  {
+    "title": "Show HN: I built a game where you are an LLM's subagent",
+    "source": "Hacker News",
+    "description": "HN Score: 255 | 59 comments",
+    "url": "https://github.com/gulivan/worker755",
+    "score": 255,
+    "date": "2026-11-22",
+    "category": "AI News"
+  },
+  {
+    "title": "Harvard CS 2881R AI Safety",
+    "source": "Hacker News",
+    "description": "HN Score: 25 | 1 comments",
+    "url": "https://boazbk.github.io/mltheoryseminar/",
+    "score": 25,
+    "date": "2026-11-22",
+    "category": "AI News"
+  },
+  {
+    "title": "Agentics: Mushy Software",
+    "source": "Hacker News",
+    "description": "HN Score: 35 | 5 comments",
+    "url": "https://12gramsofcarbon.com/p/agentics-mushy-software",
+    "score": 35,
+    "date": "2026-11-22",
+    "category": "AI News"
+  },
+  {
+    "title": "Localcode, open source agentic coding on your Mac with one command",
+    "source": "Hacker News",
+    "description": "HN Score: 4 | 0 comments",
+    "url": "https://github.com/mjwsolo/localcode",
+    "score": 4,
+    "date": "2026-11-22",
+    "category": "AI News"
+  },
+  {
+    "title": "C++26 is done (again): November 2026 ISO C++ meeting trip report",
+    "source": "Hacker News",
+    "description": "HN Score: 56 | 30 comments",
+    "url": "https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/",
+    "score": 56,
     "date": "2026-11-22",
     "category": "AI News"
   },
   {
     "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
     "source": "Hacker News",
-    "description": "HN Score: 534 | 603 comments",
+    "description": "HN Score: 841 | 859 comments",
     "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
-    "score": 534,
+    "score": 841,
     "date": "2026-11-22",
     "category": "AI News"
   },
   {
-    "title": "Muru \u2013 AI-assisted Rust server for Python apps by mod_WSGI's creator",
+    "title": "What Happened in Fall 2026: AI and P vs. NP",
     "source": "Hacker News",
-    "description": "HN Score: 48 | 8 comments",
-    "url": "https://simonwillison.net/2026/Nov/21/muru/",
-    "score": 48,
+    "description": "HN Score: 12 | 1 comments",
+    "url": "https://cacm.acm.org/blogcacm/what-happened-in-fall-2026-ai-and-p-vs-np",
+    "score": 12,
     "date": "2026-11-22",
     "category": "AI News"
   },
   {
-    "title": "The Mythology of Conscious AI",
+    "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
     "source": "Hacker News",
-    "description": "HN Score: 132 | 353 comments",
-    "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
-    "score": 132,
-    "date": "2026-11-22",
-    "category": "AI News"
-  },
-  {
-    "title": "Pandex \u2013 Official European Law for AI Agents, over MCP",
-    "source": "Hacker News",
-    "description": "HN Score: 131 | 31 comments",
-    "url": "https://www.pandex.io",
-    "score": 131,
-    "date": "2026-11-22",
-    "category": "AI News"
-  },
-  {
-    "title": "LLMs can read and write executables byte by byte from a hex dump",
-    "source": "Hacker News",
-    "description": "HN Score: 304 | 173 comments",
-    "url": "https://sgiannopoulos.github.io/blog/machine-code-programming/",
-    "score": 304,
-    "date": "2026-11-22",
-    "category": "AI News"
-  },
-  {
-    "title": "Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers",
-    "source": "Hacker News",
-    "description": "HN Score: 1 | 0 comments",
-    "url": "https://tasklet.ai/careers",
-    "score": 1,
-    "date": "2026-11-22",
-    "category": "AI News"
-  },
-  {
-    "title": "Levent Alp\u00f6ge claims proof of the Generalized Riemann Hypothesis [pdf]",
-    "source": "Hacker News",
-    "description": "HN Score: 2895 | 2077 comments",
-    "url": "https://alpo.ge/remark.pdf",
-    "score": 2895,
-    "date": "2026-11-22",
-    "category": "AI News"
-  },
-  {
-    "title": "Celliad \u2013 a daily Excel game (French)",
-    "source": "Hacker News",
-    "description": "HN Score: 17 | 1 comments",
-    "url": "https://celliad.com/",
-    "score": 17,
+    "description": "HN Score: 1332 | 299 comments",
+    "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+    "score": 1332,
     "date": "2026-11-22",
     "category": "AI News"
   }
