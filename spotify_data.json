@@ -94,6 +94,16 @@
   "episodes": [
     {
       "id": "a]6z Pod_0",
+      "name": "The One-Person Biotech | OpenAI Life Sciences",
+      "show": "a]6z Podcast",
+      "description": "What happens when scientists are no longer limited by human attention? OpenAI’s Joy Jiao and Ashoka Rajendra join a16z’s Jay Rughani and Jorge Conde to discuss how AI and thousands of parallel agen",
+      "release_date": "2026-11-23",
+      "duration_min": 66,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
+      "id": "a]6z Pod_1",
       "name": "Replay: How the Internet Happened | Chris Dixon & Brian McCullough (2018)",
       "show": "a]6z Podcast",
       "description": "Why do technologies that look like bad ideas in one era become enormous companies in the next? Originally recorded in 2018, Brian McCullough and Chris Dixon trace the companies, failures, and accid",
@@ -103,7 +113,7 @@
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "The Professional Network Built for You and Your AI Agent",
       "show": "a]6z Podcast",
       "description": "What if your AI agent could find the people you should know before you even start looking? Cosign is building a professional network around reputation and trusted recommendations, and now agents ca",
@@ -121,16 +131,6 @@
       "duration_min": 64,
       "image": "",
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
-    },
-    {
-      "id": "a]6z Pod_2",
-      "name": "Why the Agent Era Needs a New Operating System | DHH",
-      "show": "a]6z Podcast",
-      "description": "David Heinemeier Hansson thinks the agent era is reopening a window in computing that has been closed for decades: the chance to build a new operating system people actually want to use.DHH ",
-      "release_date": "2026-11-20",
-      "duration_min": 53,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
       "id": "Lex Frid_0",

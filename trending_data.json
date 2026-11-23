@@ -1,91 +1,55 @@
 [
   {
+    "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
+    "source": "Hacker News",
+    "description": "HN Score: 905 | 308 comments",
+    "url": "https://z.ai/blog/glm-5.4",
+    "score": 905,
+    "date": "2026-11-23",
+    "category": "AI News"
+  },
+  {
+    "title": "Kagi Mail (public beta)",
+    "source": "Hacker News",
+    "description": "HN Score: 184 | 139 comments",
+    "url": "https://blog.kagi.com/kagi-mail-public-beta",
+    "score": 184,
+    "date": "2026-11-23",
+    "category": "AI News"
+  },
+  {
+    "title": "Dario is hyping the dangers so OSS models are illegal and *he* stays in control",
+    "source": "Hacker News",
+    "description": "HN Score: 247 | 128 comments",
+    "url": "https://twitter.com/ylecun/status/2124550037912920090",
+    "score": 247,
+    "date": "2026-11-23",
+    "category": "AI News"
+  },
+  {
+    "title": "How should an LLM see a computer?",
+    "source": "Hacker News",
+    "description": "HN Score: 18 | 10 comments",
+    "url": "https://www.greptile.com/blog/trex-computer-use",
+    "score": 18,
+    "date": "2026-11-23",
+    "category": "AI News"
+  },
+  {
     "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
     "source": "Hacker News",
-    "description": "HN Score: 410 | 164 comments",
+    "description": "HN Score: 710 | 286 comments",
     "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-    "score": 410,
+    "score": 710,
     "date": "2026-11-23",
     "category": "AI News"
   },
   {
-    "title": "Show HN: I built a game where you are an LLM's subagent",
+    "title": "Brake Check: Hijacking Trailer Brakes over Bluetooth",
     "source": "Hacker News",
-    "description": "HN Score: 304 | 74 comments",
-    "url": "https://github.com/gulivan/worker755",
-    "score": 304,
-    "date": "2026-11-23",
-    "category": "AI News"
-  },
-  {
-    "title": "Verifying formal models of Raft implementations",
-    "source": "Hacker News",
-    "description": "HN Score: 25 | 0 comments",
-    "url": "https://antithesis.com/blog/2026/verifying-formal-models/",
-    "score": 25,
-    "date": "2026-11-23",
-    "category": "AI News"
-  },
-  {
-    "title": "0rwx \u2013 A simple model of AI usage, inspired by Unix permissions",
-    "source": "Hacker News",
-    "description": "HN Score: 38 | 9 comments",
-    "url": "https://0rwx.com/",
-    "score": 38,
-    "date": "2026-11-23",
-    "category": "AI News"
-  },
-  {
-    "title": "Localcode, open source agentic coding on your Mac with one command",
-    "source": "Hacker News",
-    "description": "HN Score: 51 | 13 comments",
-    "url": "https://github.com/mjwsolo/localcode",
-    "score": 51,
-    "date": "2026-11-23",
-    "category": "AI News"
-  },
-  {
-    "title": "Harvard CS 2881R AI Safety",
-    "source": "Hacker News",
-    "description": "HN Score: 64 | 8 comments",
-    "url": "https://boazbk.github.io/mltheoryseminar/",
-    "score": 64,
-    "date": "2026-11-23",
-    "category": "AI News"
-  },
-  {
-    "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
-    "source": "Hacker News",
-    "description": "HN Score: 1352 | 303 comments",
-    "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
-    "score": 1352,
-    "date": "2026-11-23",
-    "category": "AI News"
-  },
-  {
-    "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
-    "source": "Hacker News",
-    "description": "HN Score: 944 | 941 comments",
-    "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
-    "score": 944,
-    "date": "2026-11-23",
-    "category": "AI News"
-  },
-  {
-    "title": "COP31 climate talks fail to reach deal amid fossil fuel and money rows",
-    "source": "Hacker News",
-    "description": "HN Score: 4 | 2 comments",
-    "url": "https://www.bbc.com/news/articles/cqwy06zrd26lo",
-    "score": 4,
-    "date": "2026-11-23",
-    "category": "AI News"
-  },
-  {
-    "title": "Agentics: Mushy Software",
-    "source": "Hacker News",
-    "description": "HN Score: 45 | 6 comments",
-    "url": "https://12gramsofcarbon.com/p/agentics-mushy-software",
-    "score": 45,
+    "description": "HN Score: 85 | 60 comments",
+    "url": "https://elementdigital.com.au/blog/brake-check-trailer-brakes-over-bluetooth/",
+    "score": 85,
     "date": "2026-11-23",
     "category": "AI News"
   }
