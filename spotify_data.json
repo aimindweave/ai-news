@@ -103,7 +103,37 @@
       "url": "https://open.spotify.com/show/44fllCS2FTFr2x2kjP9xeT"
     },
     {
+      "id": "The AI P_0",
+      "name": "Why Transparency Matters for AI Security | NVIDIA AI Podcast Ep. 304",
+      "show": "The AI Podcast (NVIDIA)",
+      "description": "&nbsp;Red Hat CTO Chris Wright joins the NVIDIA AI Podcast at GTC Berlin to explain why open source is the foundation for secure AI agents. From Linux in the 1990s to agent security today, he shares w",
+      "release_date": "2026-11-24",
+      "duration_min": 29,
+      "image": "",
+      "url": "https://open.spotify.com/show/0e1X4kJVfwQRPF8lZzqqfX"
+    },
+    {
+      "id": "The AI P_1",
+      "name": "Can Open Source Make AI Agents Safer? | NVIDIA AI Podcast Ep. 303 ",
+      "show": "The AI Podcast (NVIDIA)",
+      "description": "Hugging Face co-founder Thomas Wolf and ServiceNow’s Amanda Grady, SVP of AI Platform Security, join the NVIDIA AI Podcast to explain how to keep AI agents safe when telling a model “please don’t” is ",
+      "release_date": "2026-11-24",
+      "duration_min": 29,
+      "image": "",
+      "url": "https://open.spotify.com/show/0e1X4kJVfwQRPF8lZzqqfX"
+    },
+    {
       "id": "a]6z Pod_0",
+      "name": "REPLAY: The Story of Apple Pay | Jennifer Bailey (2024)",
+      "show": "a]6z Podcast",
+      "description": "When Apple Pay launched in the U.S., only about 3% of merchants accepted contactless payments. A decade later, Jennifer Bailey has helped expand it to 75 markets and more than 11,000 bank and netwo",
+      "release_date": "2026-11-24",
+      "duration_min": 31,
+      "image": "",
+      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
+    },
+    {
+      "id": "a]6z Pod_1",
       "name": "The One-Person Biotech | OpenAI Life Sciences",
       "show": "a]6z Podcast",
       "description": "What happens when scientists are no longer limited by human attention? OpenAI’s Joy Jiao and Ashoka Rajendra join a16z’s Jay Rughani and Jorge Conde to discuss how AI and thousands of parallel agen",
@@ -113,22 +143,12 @@
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
     {
-      "id": "a]6z Pod_1",
+      "id": "a]6z Pod_2",
       "name": "Replay: How the Internet Happened | Chris Dixon & Brian McCullough (2018)",
       "show": "a]6z Podcast",
       "description": "Why do technologies that look like bad ideas in one era become enormous companies in the next? Originally recorded in 2018, Brian McCullough and Chris Dixon trace the companies, failures, and accid",
       "release_date": "2026-11-22",
       "duration_min": 47,
-      "image": "",
-      "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
-    },
-    {
-      "id": "a]6z Pod_2",
-      "name": "The Professional Network Built for You and Your AI Agent",
-      "show": "a]6z Podcast",
-      "description": "What if your AI agent could find the people you should know before you even start looking? Cosign is building a professional network around reputation and trusted recommendations, and now agents ca",
-      "release_date": "2026-11-21",
-      "duration_min": 17,
       "image": "",
       "url": "https://open.spotify.com/show/5bC65RDvs3oxnLyqqvkUYX"
     },
@@ -161,16 +181,6 @@
       "duration_min": 44,
       "image": "",
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
-    },
-    {
-      "id": "The AI P_0",
-      "name": "Can Open Source Make AI Agents Safer? | NVIDIA AI Podcast Ep. 303 ",
-      "show": "The AI Podcast (NVIDIA)",
-      "description": "Hugging Face co-founder Thomas Wolf and ServiceNow’s Amanda Grady, SVP of AI Platform Security, join the NVIDIA AI Podcast to explain how to keep AI agents safe when telling a model “please don’t” is ",
-      "release_date": "2026-11-18",
-      "duration_min": 29,
-      "image": "",
-      "url": "https://open.spotify.com/show/0e1X4kJVfwQRPF8lZzqqfX"
     },
     {
       "id": "The TWIM_0",
@@ -253,22 +263,12 @@
       "url": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"
     },
     {
-      "id": "The AI P_1",
+      "id": "The AI P_2",
       "name": "Inside Instacart's AI-Powered Smart Shopping Cart | NVIDIA AI Podcast Ep. 302",
       "show": "The AI Podcast (NVIDIA)",
       "description": "Instacart has 1.6 billion lifetime grocery orders—and is now using that data flywheel to digitize the physical store itself. In this episode, David McIntosh, Chief Connected Stores Officer at Instacar",
       "release_date": "2026-06-24",
       "duration_min": 39,
-      "image": "",
-      "url": "https://open.spotify.com/show/0e1X4kJVfwQRPF8lZzqqfX"
-    },
-    {
-      "id": "The AI P_2",
-      "name": "How Mistral Is Building Frontier AI for the Enterprise | NVIDIA AI Podcast Ep. 301",
-      "show": "The AI Podcast (NVIDIA)",
-      "description": "Open-weight models are closing the gap with proprietary AI — and Timothée Lacroix, cofounder and CTO of Mistral, has been betting on that since day one. In this episode, he explains why open weights a",
-      "release_date": "2026-06-10",
-      "duration_min": 21,
       "image": "",
       "url": "https://open.spotify.com/show/0e1X4kJVfwQRPF8lZzqqfX"
     }

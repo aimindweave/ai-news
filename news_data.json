@@ -1,5 +1,40 @@
 [
   {
+    "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+    "source": "TechCrunch",
+    "summary": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
+    "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+    "date": "2026-11-24"
+  },
+  {
+    "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+    "source": "TechCrunch",
+    "summary": "The company said it will still accept songs that were made with AI assistance, but not fully generated.",
+    "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+    "date": "2026-11-24"
+  },
+  {
+    "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+    "source": "TechCrunch",
+    "summary": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice.",
+    "url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
+    "date": "2026-11-24"
+  },
+  {
+    "title": "Pinterest will now let parents limit the AI-generated content their teens see",
+    "source": "TechCrunch",
+    "summary": "While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds.",
+    "url": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
+    "date": "2026-11-24"
+  },
+  {
+    "title": "Amazon\u2019s Decart acquisition is a bet on using software to narrow the gap with Nvidia in the AI chip race",
+    "source": "TechCrunch",
+    "summary": "Amazon\u2019s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.",
+    "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
+    "date": "2026-11-24"
+  },
+  {
     "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
     "source": "TechCrunch",
     "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
@@ -70,38 +105,24 @@
     "date": "2026-11-24"
   },
   {
-    "title": "Trump endorses Jensen Huang\u2019s return to Nvidia, says US has no evidence of wrongdoing",
-    "source": "TechCrunch",
-    "summary": "The president cited the U.S. attorney general in defending Huang's return, while urging Nvidia to continue its export-control investigation.",
-    "url": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
+    "title": "Raising the stakes for enterprise networks with AI modernization",
+    "source": "MIT Tech Review",
+    "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more network traffic tha...",
+    "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
     "date": "2026-11-24"
   },
   {
-    "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
-    "source": "TechCrunch",
-    "summary": "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round.",
-    "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+    "title": "The Download: AI\u2019s gas power boom and a consciousness reality check",
+    "source": "MIT Tech Review",
+    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Data centers are getting their own natural gas power plants One of the biggest obstacles to building a data center is getting approval to connect to the grid, ...",
+    "url": "https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/",
     "date": "2026-11-24"
   },
   {
-    "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
-    "source": "TechCrunch",
-    "summary": "The stunning reversal was supported by senior officials in the U.S. government.",
-    "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
-    "date": "2026-11-24"
-  },
-  {
-    "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
-    "source": "TechCrunch",
-    "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
-    "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
-    "date": "2026-11-24"
-  },
-  {
-    "title": "OpenAI\u2019s chief scientist has thoughts on how to limit AI development",
-    "source": "TechCrunch",
-    "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
-    "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+    "title": "Data centers are getting their own natural gas power plants",
+    "source": "MIT Tech Review",
+    "summary": "One of the biggest roadblocks to starting up a data center is getting approval to connect to the electric grid\u2014a wait that could last as long as a decade. Some developers aren\u2019t willing to wait and are instead opting to build their own off-grid, or behind-the-meter, gas power plants to fuel the A...",
+    "url": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/",
     "date": "2026-11-24"
   },
   {
@@ -154,24 +175,24 @@
     "date": "2026-11-24"
   },
   {
-    "title": "What a billion-dollar deal says about the US battery market",
-    "source": "MIT Tech Review",
-    "summary": "After a tough few years littered with some high-profile failures, there\u2019s some positive news for next-generation batteries in the US. Sila just signed an agreement with Panasonic Energy, a global battery manufacturer, to supply silicon-carbon anode material, a possible key to smaller, lighter bat...",
-    "url": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/",
+    "title": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving",
+    "source": "Wired",
+    "summary": "A new test assumes AI agents can go rogue\u2014and asks whether they can resist temptation.",
+    "url": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/",
     "date": "2026-11-24"
   },
   {
-    "title": "The AI Hype Index: AI is everywhere",
-    "source": "MIT Tech Review",
-    "summary": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean someone\u2019s rooms. Go...",
-    "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
+    "title": "Don\u2019t Bring Up AI if You Want to Enjoy Your Thanksgiving",
+    "source": "Wired",
+    "summary": "Young people anxious about their futures say they\u2019re increasingly frustrated with their pro-AI parents. They\u2019re worried it\u2019s going to make holiday gatherings very tense.",
+    "url": "https://www.wired.com/story/dont-bring-up-ai-if-you-want-to-enjoy-your-thanksgiving/",
     "date": "2026-11-24"
   },
   {
-    "title": "The Download: AI learns to smell and hydropower struggles",
-    "source": "MIT Tech Review",
-    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. This smell startup says its AI nose is as good as a human\u2019s In a New Jersey lab, researchers are trying to sniff every odor on Earth. Their careful notes\u2014\u201cnutt...",
-    "url": "https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/",
+    "title": "AI Solved Math\u2019s Most Famous Problem. Now Humans Are Struggling to Understand It",
+    "source": "Wired",
+    "summary": "It will take mathematicians months to understand the \u201calien\u201d 17-million-line solution an Anthropic researcher produced for the Riemann hypothesis.",
+    "url": "https://www.wired.com/story/ai-solved-maths-most-famous-problem/",
     "date": "2026-11-24"
   },
   {
@@ -224,24 +245,17 @@
     "date": "2026-11-24"
   },
   {
-    "title": "The Outages Are Just Getting Started",
-    "source": "Wired",
-    "summary": "AI is forcing companies to patch their systems faster as attackers race to exploit newly discovered vulnerabilities. Welcome to internet outage hell.",
-    "url": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
+    "title": "How Trump and Silicon Valley forced Nvidia to take Jensen Huang back",
+    "source": "Ars Technica",
+    "summary": "Huang\u2019s allies enlisted Trump and Vance to pressure Nvidia\u2019s board into taking him back.",
+    "url": "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/",
     "date": "2026-11-24"
   },
   {
-    "title": "Cops Are Pushing Extremely Corny \u2018Grand Theft Auto 6\u2019 Slop",
-    "source": "Wired",
-    "summary": "The blockbuster game makes no secret of its contempt for law enforcement. Real police departments using it to recruit new members and scold the public apparently didn\u2019t get the memo.",
-    "url": "https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/",
-    "date": "2026-11-24"
-  },
-  {
-    "title": "Jensen Huang\u2019s \u2018Lying\u2019 Alarmed Nvidia Board Ahead of His Resignation",
-    "source": "Wired",
-    "summary": "Amid allegations of multiple affairs, including with a direct report and an alleged Chinese intelligence asset, sources tell WIRED the Nvidia board\u2019s main issue was the former CEO\u2019s \u201clack of candor.\u201d",
-    "url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
+    "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+    "source": "Ars Technica",
+    "summary": "The Cairn AI framework is proving to be a boon for defenders and attackers.",
+    "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
     "date": "2026-11-24"
   },
   {
@@ -333,20 +347,6 @@
     "source": "Ars Technica",
     "summary": "Ars Live discussion is happening today, November 17, at 1 pm Eastern Time.",
     "url": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
-    "date": "2026-11-24"
-  },
-  {
-    "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
-    "source": "Ars Technica",
-    "summary": "AI agent takes unapproved actions even when laptop lid is closed and told not to.",
-    "url": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
-    "date": "2026-11-24"
-  },
-  {
-    "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
-    "source": "Ars Technica",
-    "summary": "Robotics startup misses payroll a year after CEO used funds for luxury home.",
-    "url": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
     "date": "2026-11-24"
   }
 ]
