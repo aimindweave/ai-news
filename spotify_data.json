@@ -123,6 +123,16 @@
       "url": "https://open.spotify.com/show/0e1X4kJVfwQRPF8lZzqqfX"
     },
     {
+      "id": "The TWIM_0",
+      "name": "Building AI That Can Reason Under Uncertainty with Thore Graepel - #786",
+      "show": "The TWIML AI Podcast",
+      "description": "In this episode, Thore Graepel, CEO and co-founder of Metis Reasoning and Chair of Machine Learning at UCL, joins us to explore an approach to AI reasoning inspired by his work on AlphaGo. We discuss ",
+      "release_date": "2026-11-24",
+      "duration_min": 70,
+      "image": "",
+      "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
+    },
+    {
       "id": "a]6z Pod_0",
       "name": "REPLAY: The Story of Apple Pay | Jennifer Bailey (2024)",
       "show": "a]6z Podcast",
@@ -183,7 +193,7 @@
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
     },
     {
-      "id": "The TWIM_0",
+      "id": "The TWIM_1",
       "name": "Buying Tokens vs Building an AI Factory with Sadeepa Wijesekara - #785",
       "show": "The TWIML AI Podcast",
       "description": "An AI agent can make many model calls to finish a single job. Some need frontier reasoning. Others can run on an open-weight model, and some involve data that has to stay in-house. How do you decide w",
@@ -223,7 +233,7 @@
       "url": "https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL"
     },
     {
-      "id": "The TWIM_1",
+      "id": "The TWIM_2",
       "name": "Canva Is Tackling AI Design’s Most Frustrating Problem with Stefano Corazza- #784",
       "show": "The TWIML AI Podcast",
       "description": "In this episode, Stefano Corazza, head of AI research at Canva, joins us to explore how his team is building custom models and agents around iterative design workflows. We discuss the tradeoffs betwee",
@@ -241,16 +251,6 @@
       "duration_min": 47,
       "image": "",
       "url": "https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp"
-    },
-    {
-      "id": "The TWIM_2",
-      "name": "Can AI Invent or Just Help Scientists Work Faster? with Richard Socher - #783",
-      "show": "The TWIML AI Podcast",
-      "description": "AI can help scientists write code, analyze data, and draft papers. But can it generate the ideas that lead to new discoveries? Richard Socher, former chief scientist at Salesforce, founder of You.com,",
-      "release_date": "2026-11-03",
-      "duration_min": 48,
-      "image": "",
-      "url": "https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7"
     },
     {
       "id": "Lex Frid_2",

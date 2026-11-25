@@ -1,20 +1,56 @@
 [
   {
-    "title": "Cyberattack campaign compromising Check Point servers across 22 organizations",
+    "title": "Ternary Bonsai 2.5 27B",
     "source": "Hacker News",
-    "description": "HN Score: 63 | 22 comments",
+    "description": "HN Score: 345 | 116 comments",
+    "url": "https://prismml.com/news/bonsai-2-5-27b",
+    "score": 345,
+    "date": "2026-11-25",
+    "category": "AI News"
+  },
+  {
+    "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+    "source": "Hacker News",
+    "description": "HN Score: 22 | 1 comments",
+    "url": "https://greydanus.github.io/2026/11/12/pengpt/",
+    "score": 22,
+    "date": "2026-11-25",
+    "category": "AI News"
+  },
+  {
+    "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+    "source": "Hacker News",
+    "description": "HN Score: 171 | 42 comments",
+    "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+    "score": 171,
+    "date": "2026-11-25",
+    "category": "AI News"
+  },
+  {
+    "title": "Active intrusion campaign against Check Point security management servers",
+    "source": "Hacker News",
+    "description": "HN Score: 266 | 127 comments",
     "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
-    "score": 63,
-    "date": "2026-11-24",
+    "score": 266,
+    "date": "2026-11-25",
     "category": "AI News"
   },
   {
     "title": "A training engine for your local model, using your idle compute",
     "source": "Hacker News",
-    "description": "HN Score: 44 | 4 comments",
+    "description": "HN Score: 182 | 60 comments",
     "url": "https://github.com/sous-labs/songe",
-    "score": 44,
-    "date": "2026-11-24",
+    "score": 182,
+    "date": "2026-11-25",
+    "category": "AI News"
+  },
+  {
+    "title": "Hierarchical Bayesian Neural Networks: When Structure Meets Flexibility",
+    "source": "Hacker News",
+    "description": "HN Score: 13 | 0 comments",
+    "url": "https://statwonk.com/hierarchical-bayesian-neural-network.html",
+    "score": 13,
+    "date": "2026-11-25",
     "category": "AI News"
   },
   {
@@ -23,70 +59,34 @@
     "description": "HN Score: 1 | 0 comments",
     "url": "https://jobs.ashbyhq.com/weave-os",
     "score": 1,
-    "date": "2026-11-24",
+    "date": "2026-11-25",
     "category": "AI News"
   },
   {
     "title": "LLM agents work for their parent companies, not for you",
     "source": "Hacker News",
-    "description": "HN Score: 606 | 249 comments",
+    "description": "HN Score: 912 | 386 comments",
     "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
-    "score": 606,
-    "date": "2026-11-24",
+    "score": 912,
+    "date": "2026-11-25",
     "category": "AI News"
   },
   {
-    "title": "Tidal bans AI-generated music",
+    "title": "Anthropic breaks below $83 IPO price",
     "source": "Hacker News",
-    "description": "HN Score: 176 | 132 comments",
-    "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/",
-    "score": 176,
-    "date": "2026-11-24",
+    "description": "HN Score: 352 | 692 comments",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
+    "score": 352,
+    "date": "2026-11-25",
     "category": "AI News"
   },
   {
-    "title": "Declare is a UI language for you and your AI",
+    "title": "Fable 5.2 tries less on some hard tasks when a shortcut is available",
     "source": "Hacker News",
-    "description": "HN Score: 91 | 70 comments",
-    "url": "https://davidtemkin.github.io/declarelang/",
-    "score": 91,
-    "date": "2026-11-24",
-    "category": "AI News"
-  },
-  {
-    "title": "Nvidia board's Huang reversal raises doubts about independence, critics say",
-    "source": "Hacker News",
-    "description": "HN Score: 19 | 1 comments",
-    "url": "https://www.reuters.com/legal/transactional/nvidia-boards-huang-reversal-raises-doubts-about-independence-critics-say-2026-11-24/",
-    "score": 19,
-    "date": "2026-11-24",
-    "category": "AI News"
-  },
-  {
-    "title": "'Dario is hyping the dangers so OSS models are illegal and he stays in control'",
-    "source": "Hacker News",
-    "description": "HN Score: 1934 | 1125 comments",
-    "url": "https://twitter.com/ylecun/status/2124550037912920090",
-    "score": 1934,
-    "date": "2026-11-24",
-    "category": "AI News"
-  },
-  {
-    "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
-    "source": "Hacker News",
-    "description": "HN Score: 1150 | 378 comments",
-    "url": "https://z.ai/blog/glm-5.4",
-    "score": 1150,
-    "date": "2026-11-24",
-    "category": "AI News"
-  },
-  {
-    "title": "C++26 is done (again): ISO C++ meeting trip report",
-    "source": "Hacker News",
-    "description": "HN Score: 142 | 190 comments",
-    "url": "https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/",
-    "score": 142,
-    "date": "2026-11-24",
+    "description": "HN Score: 47 | 42 comments",
+    "url": "https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available",
+    "score": 47,
+    "date": "2026-11-25",
     "category": "AI News"
   }
 ]
