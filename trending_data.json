@@ -1,92 +1,92 @@
 [
   {
-    "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+    "title": "Much shorter version of GRH Lean verification from Anthropic",
     "source": "Hacker News",
-    "description": "HN Score: 312 | 134 comments",
-    "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
-    "score": 312,
-    "date": "2026-11-25",
+    "description": "HN Score: 200 | 88 comments",
+    "url": "https://github.com/lsernau/grh-lean",
+    "score": 200,
+    "date": "2026-11-26",
     "category": "AI News"
   },
   {
-    "title": "Getting old Java phones online again",
+    "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
     "source": "Hacker News",
-    "description": "HN Score: 97 | 43 comments",
-    "url": "https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html",
-    "score": 97,
-    "date": "2026-11-25",
+    "description": "HN Score: 197 | 58 comments",
+    "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+    "score": 197,
+    "date": "2026-11-26",
+    "category": "AI News"
+  },
+  {
+    "title": "Britain's ghost stations",
+    "source": "Hacker News",
+    "description": "HN Score: 87 | 18 comments",
+    "url": "https://spectator.com/article/britains-ghost-stations-are-fascinating/",
+    "score": 87,
+    "date": "2026-11-26",
+    "category": "AI News"
+  },
+  {
+    "title": "Porting Rockbox to an undocumented $9 AliExpress 'YP3' MP3 player with LLMs",
+    "source": "Hacker News",
+    "description": "HN Score: 213 | 85 comments",
+    "url": "https://jayd.ml/2026/11/14/rockbox-on-yp3.html",
+    "score": 213,
+    "date": "2026-11-26",
+    "category": "AI News"
+  },
+  {
+    "title": "Show HN: An agent skill that optimizes code with falsifiable hypotheses",
+    "source": "Hacker News",
+    "description": "HN Score: 64 | 8 comments",
+    "url": "https://chszlab.github.io/AgenticAlgorithmEngineering/",
+    "score": 64,
+    "date": "2026-11-26",
     "category": "AI News"
   },
   {
     "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
     "source": "Hacker News",
-    "description": "HN Score: 211 | 47 comments",
+    "description": "HN Score: 330 | 73 comments",
     "url": "https://gpu-demo-gallery.pages.dev/",
-    "score": 211,
-    "date": "2026-11-25",
-    "category": "AI News"
-  },
-  {
-    "title": "Ternary Bonsai 2.5 27B",
-    "source": "Hacker News",
-    "description": "HN Score: 490 | 150 comments",
-    "url": "https://prismml.com/news/bonsai-2-5-27b",
-    "score": 490,
-    "date": "2026-11-25",
+    "score": 330,
+    "date": "2026-11-26",
     "category": "AI News"
   },
   {
     "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
     "source": "Hacker News",
-    "description": "HN Score: 310 | 52 comments",
+    "description": "HN Score: 391 | 77 comments",
     "url": "https://greydanus.github.io/2026/11/12/pengpt/",
-    "score": 310,
-    "date": "2026-11-25",
+    "score": 391,
+    "date": "2026-11-26",
     "category": "AI News"
   },
   {
     "title": "Taking over US Treasury subdomains for $3 each",
     "source": "Hacker News",
-    "description": "HN Score: 142 | 28 comments",
+    "description": "HN Score: 226 | 48 comments",
     "url": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
-    "score": 142,
-    "date": "2026-11-25",
+    "score": 226,
+    "date": "2026-11-26",
     "category": "AI News"
   },
   {
-    "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
+    "title": "Getting old Java phones online again",
     "source": "Hacker News",
-    "description": "HN Score: 168 | 69 comments",
-    "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
-    "score": 168,
-    "date": "2026-11-25",
+    "description": "HN Score: 157 | 68 comments",
+    "url": "https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html",
+    "score": 157,
+    "date": "2026-11-26",
     "category": "AI News"
   },
   {
-    "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+    "title": "When the Air Force Needed a Supercomputer, They Built It Out of PS3 Consoles",
     "source": "Hacker News",
-    "description": "HN Score: 303 | 90 comments",
-    "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
-    "score": 303,
-    "date": "2026-11-25",
-    "category": "AI News"
-  },
-  {
-    "title": "When in Doubt, Flail About",
-    "source": "Hacker News",
-    "description": "HN Score: 71 | 31 comments",
-    "url": "https://www.seangoedecke.com/when-in-doubt-flail-about/",
-    "score": 71,
-    "date": "2026-11-25",
-    "category": "AI News"
-  },
-  {
-    "title": "Top open problems in mathematics ranked by LLM-assessed importance",
-    "source": "Hacker News",
-    "description": "HN Score: 73 | 39 comments",
-    "url": "https://www.proofatlas.ai/open-problems/",
-    "score": 73,
-    "date": "2026-11-25",
+    "description": "HN Score: 11 | 1 comments",
+    "url": "https://www.warhistoryonline.com/war-articles/ps3-supercomputer.html",
+    "score": 11,
+    "date": "2026-11-26",
     "category": "AI News"
   }
 ]
