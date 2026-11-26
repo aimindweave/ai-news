@@ -2,90 +2,90 @@
   {
     "title": "Much shorter version of GRH Lean verification from Anthropic",
     "source": "Hacker News",
-    "description": "HN Score: 200 | 88 comments",
+    "description": "HN Score: 460 | 244 comments",
     "url": "https://github.com/lsernau/grh-lean",
-    "score": 200,
+    "score": 460,
+    "date": "2026-11-26",
+    "category": "AI News"
+  },
+  {
+    "title": "The New York Times warns photographers not to update Photoshop over AI features",
+    "source": "Hacker News",
+    "description": "HN Score: 398 | 333 comments",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+    "score": 398,
+    "date": "2026-11-26",
+    "category": "AI News"
+  },
+  {
+    "title": "Tell HN: Lots of Ask HNs again",
+    "source": "Hacker News",
+    "description": "HN Score: 275 | 100 comments",
+    "url": "https://news.ycombinator.com/item?id=50649864",
+    "score": 275,
     "date": "2026-11-26",
     "category": "AI News"
   },
   {
     "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
     "source": "Hacker News",
-    "description": "HN Score: 197 | 58 comments",
+    "description": "HN Score: 380 | 110 comments",
     "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
-    "score": 197,
+    "score": 380,
+    "date": "2026-11-26",
+    "category": "AI News"
+  },
+  {
+    "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+    "source": "Hacker News",
+    "description": "HN Score: 260 | 137 comments",
+    "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+    "score": 260,
+    "date": "2026-11-26",
+    "category": "AI News"
+  },
+  {
+    "title": "Training on Documents About Monitoring Leads to Cot Obfuscation",
+    "source": "Hacker News",
+    "description": "HN Score: 5 | 0 comments",
+    "url": "https://arxiv.org/abs/2605.15257",
+    "score": 5,
+    "date": "2026-11-26",
+    "category": "AI News"
+  },
+  {
+    "title": "Porting Rockbox to an undocumented $9 Aliexpress 'YP3' MP3 Player with LLMs",
+    "source": "Hacker News",
+    "description": "HN Score: 257 | 97 comments",
+    "url": "https://jayd.ml/2026/11/14/rockbox-on-yp3.html",
+    "score": 257,
+    "date": "2026-11-26",
+    "category": "AI News"
+  },
+  {
+    "title": "An algebraic quantization of gravity from the null cone",
+    "source": "Hacker News",
+    "description": "HN Score: 25 | 2 comments",
+    "url": "https://arxiv.org/abs/2611.34924",
+    "score": 25,
     "date": "2026-11-26",
     "category": "AI News"
   },
   {
     "title": "Britain's ghost stations",
     "source": "Hacker News",
-    "description": "HN Score: 87 | 18 comments",
+    "description": "HN Score: 123 | 25 comments",
     "url": "https://spectator.com/article/britains-ghost-stations-are-fascinating/",
-    "score": 87,
-    "date": "2026-11-26",
-    "category": "AI News"
-  },
-  {
-    "title": "Porting Rockbox to an undocumented $9 AliExpress 'YP3' MP3 player with LLMs",
-    "source": "Hacker News",
-    "description": "HN Score: 213 | 85 comments",
-    "url": "https://jayd.ml/2026/11/14/rockbox-on-yp3.html",
-    "score": 213,
+    "score": 123,
     "date": "2026-11-26",
     "category": "AI News"
   },
   {
     "title": "Show HN: An agent skill that optimizes code with falsifiable hypotheses",
     "source": "Hacker News",
-    "description": "HN Score: 64 | 8 comments",
+    "description": "HN Score: 115 | 10 comments",
     "url": "https://chszlab.github.io/AgenticAlgorithmEngineering/",
-    "score": 64,
-    "date": "2026-11-26",
-    "category": "AI News"
-  },
-  {
-    "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
-    "source": "Hacker News",
-    "description": "HN Score: 330 | 73 comments",
-    "url": "https://gpu-demo-gallery.pages.dev/",
-    "score": 330,
-    "date": "2026-11-26",
-    "category": "AI News"
-  },
-  {
-    "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
-    "source": "Hacker News",
-    "description": "HN Score: 391 | 77 comments",
-    "url": "https://greydanus.github.io/2026/11/12/pengpt/",
-    "score": 391,
-    "date": "2026-11-26",
-    "category": "AI News"
-  },
-  {
-    "title": "Taking over US Treasury subdomains for $3 each",
-    "source": "Hacker News",
-    "description": "HN Score: 226 | 48 comments",
-    "url": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
-    "score": 226,
-    "date": "2026-11-26",
-    "category": "AI News"
-  },
-  {
-    "title": "Getting old Java phones online again",
-    "source": "Hacker News",
-    "description": "HN Score: 157 | 68 comments",
-    "url": "https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html",
-    "score": 157,
-    "date": "2026-11-26",
-    "category": "AI News"
-  },
-  {
-    "title": "When the Air Force Needed a Supercomputer, They Built It Out of PS3 Consoles",
-    "source": "Hacker News",
-    "description": "HN Score: 11 | 1 comments",
-    "url": "https://www.warhistoryonline.com/war-articles/ps3-supercomputer.html",
-    "score": 11,
+    "score": 115,
     "date": "2026-11-26",
     "category": "AI News"
   }
