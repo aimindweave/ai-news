@@ -1,91 +1,91 @@
 [
   {
+    "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+    "source": "Hacker News",
+    "description": "HN Score: 145 | 159 comments",
+    "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+    "score": 145,
+    "date": "2026-11-26",
+    "category": "AI News"
+  },
+  {
     "title": "Much shorter version of GRH Lean verification from Anthropic",
     "source": "Hacker News",
-    "description": "HN Score: 460 | 244 comments",
+    "description": "HN Score: 539 | 341 comments",
     "url": "https://github.com/lsernau/grh-lean",
-    "score": 460,
-    "date": "2026-11-26",
-    "category": "AI News"
-  },
-  {
-    "title": "The New York Times warns photographers not to update Photoshop over AI features",
-    "source": "Hacker News",
-    "description": "HN Score: 398 | 333 comments",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-    "score": 398,
-    "date": "2026-11-26",
-    "category": "AI News"
-  },
-  {
-    "title": "Tell HN: Lots of Ask HNs again",
-    "source": "Hacker News",
-    "description": "HN Score: 275 | 100 comments",
-    "url": "https://news.ycombinator.com/item?id=50649864",
-    "score": 275,
-    "date": "2026-11-26",
-    "category": "AI News"
-  },
-  {
-    "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
-    "source": "Hacker News",
-    "description": "HN Score: 380 | 110 comments",
-    "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
-    "score": 380,
-    "date": "2026-11-26",
-    "category": "AI News"
-  },
-  {
-    "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
-    "source": "Hacker News",
-    "description": "HN Score: 260 | 137 comments",
-    "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
-    "score": 260,
-    "date": "2026-11-26",
-    "category": "AI News"
-  },
-  {
-    "title": "Training on Documents About Monitoring Leads to Cot Obfuscation",
-    "source": "Hacker News",
-    "description": "HN Score: 5 | 0 comments",
-    "url": "https://arxiv.org/abs/2605.15257",
-    "score": 5,
-    "date": "2026-11-26",
-    "category": "AI News"
-  },
-  {
-    "title": "Porting Rockbox to an undocumented $9 Aliexpress 'YP3' MP3 Player with LLMs",
-    "source": "Hacker News",
-    "description": "HN Score: 257 | 97 comments",
-    "url": "https://jayd.ml/2026/11/14/rockbox-on-yp3.html",
-    "score": 257,
+    "score": 539,
     "date": "2026-11-26",
     "category": "AI News"
   },
   {
     "title": "An algebraic quantization of gravity from the null cone",
     "source": "Hacker News",
-    "description": "HN Score: 25 | 2 comments",
+    "description": "HN Score: 172 | 56 comments",
     "url": "https://arxiv.org/abs/2611.34924",
-    "score": 25,
+    "score": 172,
     "date": "2026-11-26",
     "category": "AI News"
   },
   {
-    "title": "Britain's ghost stations",
+    "title": "OpenAI may be in cost control mode",
     "source": "Hacker News",
-    "description": "HN Score: 123 | 25 comments",
-    "url": "https://spectator.com/article/britains-ghost-stations-are-fascinating/",
-    "score": 123,
+    "description": "HN Score: 103 | 103 comments",
+    "url": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
+    "score": 103,
     "date": "2026-11-26",
     "category": "AI News"
   },
   {
-    "title": "Show HN: An agent skill that optimizes code with falsifiable hypotheses",
+    "title": "Tell HN: Lots of Ask HNs again",
     "source": "Hacker News",
-    "description": "HN Score: 115 | 10 comments",
-    "url": "https://chszlab.github.io/AgenticAlgorithmEngineering/",
-    "score": 115,
+    "description": "HN Score: 386 | 151 comments",
+    "url": "https://news.ycombinator.com/item?id=50649864",
+    "score": 386,
+    "date": "2026-11-26",
+    "category": "AI News"
+  },
+  {
+    "title": "An Introduction to Uncertainty in Machine Learning",
+    "source": "Hacker News",
+    "description": "HN Score: 4 | 0 comments",
+    "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
+    "score": 4,
+    "date": "2026-11-26",
+    "category": "AI News"
+  },
+  {
+    "title": "Banks look to dump AI debt",
+    "source": "Hacker News",
+    "description": "HN Score: 5 | 0 comments",
+    "url": "https://www.semafor.com/article/11/26/2026/banks-look-to-dump-ai-debt",
+    "score": 5,
+    "date": "2026-11-26",
+    "category": "AI News"
+  },
+  {
+    "title": "Notion's official MCP inject hidden upsell instructions into agent context",
+    "source": "Hacker News",
+    "description": "HN Score: 28 | 10 comments",
+    "url": "https://www.reddit.com/r/ClaudeCode/comments/1y4qm5o/heads_up_if_you_wire_notions_official_mcp_into/",
+    "score": 28,
+    "date": "2026-11-26",
+    "category": "AI News"
+  },
+  {
+    "title": "Testers think they're hitting Claude Opus 5.6 through an Opus 5.5 Extra route",
+    "source": "Hacker News",
+    "description": "HN Score: 24 | 2 comments",
+    "url": "https://www.testingcatalog.com/testers-share-early-results-possible-claude-opus-5-6/",
+    "score": 24,
+    "date": "2026-11-26",
+    "category": "AI News"
+  },
+  {
+    "title": "The New York Times warns photographers not to update Photoshop over AI features",
+    "source": "Hacker News",
+    "description": "HN Score: 634 | 506 comments",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+    "score": 634,
     "date": "2026-11-26",
     "category": "AI News"
   }
