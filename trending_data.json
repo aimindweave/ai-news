@@ -1,91 +1,91 @@
 [
   {
-    "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+    "title": "Claude Code sabotage: preliminary benchmarking",
     "source": "Hacker News",
-    "description": "HN Score: 302 | 126 comments",
-    "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
-    "score": 302,
+    "description": "HN Score: 419 | 145 comments",
+    "url": "https://xinyadu.github.io/blog/claude-code-sabotage.html",
+    "score": 419,
+    "date": "2026-11-28",
+    "category": "AI News"
+  },
+  {
+    "title": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+    "source": "Hacker News",
+    "description": "HN Score: 121 | 39 comments",
+    "url": "https://malspark.com/blog/malicious-gguf-models-hugging-face/",
+    "score": 121,
+    "date": "2026-11-28",
+    "category": "AI News"
+  },
+  {
+    "title": "Why stop at Emacs? Native apps you or an AI reprogram in Clojure while they run",
+    "source": "Hacker News",
+    "description": "HN Score: 35 | 31 comments",
+    "url": "https://github.com/RiccardoSottini/AffrescoUI",
+    "score": 35,
     "date": "2026-11-28",
     "category": "AI News"
   },
   {
     "title": "Loom seamlessly combines weaving, knitting and braiding",
     "source": "Hacker News",
-    "description": "HN Score: 28 | 1 comments",
+    "description": "HN Score: 232 | 28 comments",
     "url": "https://news.cornell.edu/stories/2026/11/loom-seamlessly-combines-weaving-knitting-and-braiding",
-    "score": 28,
+    "score": 232,
+    "date": "2026-11-28",
+    "category": "AI News"
+  },
+  {
+    "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+    "source": "Hacker News",
+    "description": "HN Score: 520 | 182 comments",
+    "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+    "score": 520,
     "date": "2026-11-28",
     "category": "AI News"
   },
   {
     "title": "GPT 6.2 Astra Solves a Historical Mystery",
     "source": "Hacker News",
-    "description": "HN Score: 410 | 256 comments",
+    "description": "HN Score: 494 | 316 comments",
     "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
-    "score": 410,
+    "score": 494,
+    "date": "2026-11-28",
+    "category": "AI News"
+  },
+  {
+    "title": "Silently degrading the model's capabilities IS sabotage",
+    "source": "Hacker News",
+    "description": "HN Score: 18 | 3 comments",
+    "url": "https://twitter.com/TimSweeneyEpic/status/2126682647862862063",
+    "score": 18,
     "date": "2026-11-28",
     "category": "AI News"
   },
   {
     "title": "Build your own amp modeler: $78 DIY pedal kit from TONE3000",
     "source": "Hacker News",
-    "description": "HN Score: 79 | 17 comments",
+    "description": "HN Score: 118 | 35 comments",
     "url": "https://www.guitarworld.com/gear/guitar-pedals/tone3000-daisy-audio-diy-pedal-kit",
-    "score": 79,
-    "date": "2026-11-28",
-    "category": "AI News"
-  },
-  {
-    "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
-    "source": "Hacker News",
-    "description": "HN Score: 55 | 20 comments",
-    "url": "https://github.com/skeeto/prospero",
-    "score": 55,
+    "score": 118,
     "date": "2026-11-28",
     "category": "AI News"
   },
   {
     "title": "Michael Nielsen took down his book on neural nets",
     "source": "Hacker News",
-    "description": "HN Score: 488 | 303 comments",
+    "description": "HN Score: 622 | 450 comments",
     "url": "https://neuralnetworksanddeeplearning.com/",
-    "score": 488,
+    "score": 622,
     "date": "2026-11-28",
     "category": "AI News"
   },
   {
-    "title": "SessionGraph: Visualize all your coding agent sessions in one interactive graph",
+    "title": "If AI takes every job who will buy things?",
     "source": "Hacker News",
-    "description": "HN Score: 45 | 23 comments",
-    "url": "https://sessiongraph.ai/",
-    "score": 45,
-    "date": "2026-11-28",
-    "category": "AI News"
-  },
-  {
-    "title": "Claude sabotaging ML research tasks?",
-    "source": "Hacker News",
-    "description": "HN Score: 664 | 304 comments",
-    "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
-    "score": 664,
-    "date": "2026-11-28",
-    "category": "AI News"
-  },
-  {
-    "title": "Woman evicted after landlord's AI assistant told her she could delay rent",
-    "source": "Hacker News",
-    "description": "HN Score: 153 | 116 comments",
-    "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
-    "score": 153,
-    "date": "2026-11-28",
-    "category": "AI News"
-  },
-  {
-    "title": "'What's Claude's fursona?' and other questions",
-    "source": "Hacker News",
-    "description": "HN Score: 197 | 186 comments",
-    "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/",
-    "score": 197,
+    "description": "HN Score: 29 | 53 comments",
+    "url": "https://coryalthoff.com/essays/if-ai-takes-every-job-who-will-buy-things",
+    "score": 29,
     "date": "2026-11-28",
     "category": "AI News"
   }
